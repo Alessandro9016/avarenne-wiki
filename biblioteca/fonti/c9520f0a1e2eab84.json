@@ -1,0 +1,11 @@
+{
+  "revision": "POP-298",
+  "decision": "Veylen esclusi, sostituzioni Ilyr/Kethari adottate",
+  "core_data_migration_complete": true,
+  "full_delivery_complete": false,
+  "remaining": [
+    "16 ritratti da rifare e tutte le copie delle loro gallerie da riallineare.",
+    "Rigenerazione del pacchetto Narratore e delle raccolte testuali finali prima della wiki.",
+    "Espansione del bestiario soprannaturale separata."
+  ]
+}

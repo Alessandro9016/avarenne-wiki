@@ -1,0 +1,5018 @@
+{
+  "status": "PASS",
+  "checks_count": 1238,
+  "checks": [
+    {
+      "check": "Predecessore preservato 00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 103_Indice_della_storia.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 104_Chiusura_milestone_7.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 120_Indice_della_geografia.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 121_Chiusura_milestone_8.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 140_Indice_della_societa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 141_Chiusura_milestone_9.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 20_Roadmap_generale_fino_alla_wiki.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 21_Audit_materiali_e_migrazione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 22_Inventario_documentale.csv",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 23_Registro_unico_del_canone.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 24_Matrice_di_recupero_e_ricostruzione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 25_Chiusura_milestone_1.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 32_Chiusura_milestone_2.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 39_Chiusura_milestone_3.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 63_Indice_delle_Effigi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 64_Chiusura_milestone_4.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 74_Indice_dell_atlante_cosmologico.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 75_Chiusura_milestone_5.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 87_Indice_del_protagonista.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato 88_Chiusura_milestone_6.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_102_Audit_storico_e_confini_del_sapere.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_105_Avarenne_pianeta_e_continenti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_106_Climi_bacini_e_risorse.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_107_Stati_e_confini_del_mondo.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_108_Citta_porti_e_distetti_regionali.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_109_Rovenne_e_geografia_personale.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_110_Reti_e_tempi_di_viaggio.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_111_Regioni_lontane_e_limiti_dell_atlante.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_112_Matrice_del_sapere_geografico.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_119_Audit_geografico_e_uso_delle_carte.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_122_Governi_diritto_e_cittadinanza.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_123_Atlante_delle_istituzioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_124_Moneta_prezzi_e_salario.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_125_Produzione_commerci_e_credito.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_126_Religioni_dottrine_e_servizi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_127_Scuole_medicina_e_accesso_ai_poteri.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_128_Valcienne_patrimonio_e_rete_conosciuta.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_129_Vita_quotidiana_lingue_e_estetica.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_130_Confini_del_sapere_sociale.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_139_Audit_sociale_e_livelli_di_impatto.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_26_Fondamenti_cosmologici.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_27_Catalogo_macro_delle_21_Effigi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_28_Le_sette_integrazioni_cosmiche.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_29_The_Sovereign_Completezza_e_poteri_cosmici.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_30_Confini_contese_e_verifica_macro.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_33_Lessico_e_sette_soglie.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_36_Corpo_spirito_manifestazioni_e_morte.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_38_Poteri_e_vita_comune.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_40_Lettura_delle_progressioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_41_Cradle_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_42_Ruin_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_43_Scroll_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_44_Halo_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_45_Heart_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_46_Crucible_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_47_Mask_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_48_Hourglass_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_49_Astrolabe_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_50_Sepulchre_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_51_Seed_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_52_Crown_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_53_Chain_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_54_Coin_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_55_Banner_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_56_Oracle_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_57_Archive_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_58_Labyrinth_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_59_Tempest_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_60_Maw_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_61_Loom_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_62_Audit_delle_progressioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_65_Atlante_del_reale.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_66_Accessi_viaggi_e_comunicazioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_68_The_First_Testament_consultazione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_69_Roots_e_risorse_cosmiche.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_70_Identita_continuita_e_recupero.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_71_Interventi_esterni_e_diagnosi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_73_Audit_cosmologico_e_casi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_77_Identita_di_Edran_e_Alexander.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_78_Prima_vita_e_ricordi_consolidati.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_80_Legami_antichi_che_ricordi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_82_Recupero_delle_antiche_capacita.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_83_Matrice_delle_conoscenze_personali.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_86_Audit_del_protagonista.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_89_Calendario_e_date_accessibili.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_90_Societa_antiche_e_liberazione_ricordata.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_91_Storia_pubblica_conosciuta_dal_duca.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_92_Industria_scoperte_e_eredita_materiale.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato GIOCATORE_93_Conoscenza_storica_e_riconoscimenti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_100_Storia_industriale_stati_e_conflitti_aperti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_101_Repertorio_delle_prove_e_trasmissioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_113_Geometria_planetaria_e_atlante_integrale.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_114_Distretti_confini_e_logistica_locale.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_115_Siti_soprannaturali_localizzati.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_116_Territori_antichi_e_sovrapposizioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_117_Reti_interruzioni_e_accessi_alternativi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_118_Unita_geografiche_pronte_al_Narratore.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_131_Religioni_patrocini_e_verita.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_132_Diritto_operativo_e_rapporti_internazionali.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_133_Valcienne_conti_e_personale_al_risveglio.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_134_Mercati_banche_e_crisi_locali.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_135_Fazioni_civili_industriali_e_sociali.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_136_Fazioni_di_cura_credito_e_servizio.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_137_Relazioni_e_agenda_delle_istituzioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_138_Societa_in_azione_e_procedure_di_uso.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_31_Vincoli_autoriali_della_nuova_architettura.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_72_Presenze_esterne_e_pressioni_cosmiche.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_85_Apertura_personale_e_rete_immediata.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_94_Cronologia_integrale_ed_ere.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_95_Origini_societa_e_potenze_antiche.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_96_Campagne_opere_ed_eredita_del_Creator.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_97_Caduta_Nove_Sedi_e_storia_delle_attribuzioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/00_STATO_ARCHIVIO.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Architettura_cosmica.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Atlante_cosmologico.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Geografia_condivisa.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Geografia_riservata.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Manifesto_consolidamento.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Manifesto_milestone_2.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Manifesto_milestone_3.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Manifesto_milestone_4.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Manifesto_milestone_5.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Manifesto_milestone_6.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Manifesto_milestone_7.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Manifesto_milestone_8.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Manifesto_milestone_9.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Piano_spostamenti_originali.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Progressioni_effigi.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Protagonista.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Protagonista_riservato.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Registro_decisioni.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Regole_comuni.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Societa_condivisa.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Societa_riservata.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Storia_condivisa.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Storia_riservata.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Verifica_correzione_storia_01.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Verifica_decisioni_protagonista_01.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Verifica_decisioni_protagonista_02.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Verifica_locale.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Verifica_milestone_2.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Verifica_milestone_3.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Verifica_milestone_4.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Verifica_milestone_5.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Verifica_milestone_6.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Verifica_milestone_7.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Verifica_milestone_8.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Verifica_milestone_9.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CANONE_VIGENTE/Verifica_revisione_Mask_01.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CARTOGRAFIA/Avarenne_mappa_tecnica.svg",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CARTOGRAFIA/Mereth_occidentale_reti.svg",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato CARTOGRAFIA/Rovenne_accessi.svg",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RECUPERO_EDITORIALE/00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RECUPERO_EDITORIALE/Indice_estratti.csv",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/01_Direzione_e_produzione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/Basi_del_progetto_originale.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/GIOCATORE_01_Cio_che_ricordi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/GIOCATORE_02_Capacita_del_ritorno.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/GIOCATORE_03_Autorita_e_strumenti_antichi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/GIOCATORE_04_Scala_e_conoscenza_del_sistema.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_01_Fondazione_autoriale.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_02_Sistema_sovrannaturale.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_03_Storia_e_cosmologia.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_04_Forze_e_unita_di_gioco.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_05_Protagonista_e_matrice.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_06_Capacita_e_interferenze.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_07_Apertura_capacita_e_risorse.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_08_Casata_e_societa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_09_Autorita_cosmiche.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_10_Geografia_e_rete_internazionale.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_11_Deuteragonista.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_12_Corpus_e_sapere.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_13_Caduta_ritorno_e_successione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_14_Domini_personali_e_integrazione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/07_Ricerca_comparata_e_proposta_del_sistema.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/08_Mappa_delle_autorita_e_percorsi_candidati.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/09_Autonomia_bellica_e_scala_cosmica.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/10_Sovereign_Origin_confini_dei_fondamenti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/11_Genesis_Foundation_Dissolution_abilita_pratiche.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/12_Poli_opposti_e_alternative_a_Foundation.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/13_Genesis_Destruction_scelta_e_rami_aperti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/14_Ricerca_conoscenza_creazione_e_presenza.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/15_Gloria_e_Verbo_autorita_e_autonomia.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/16_Magia_di_Oracle_Archive_e_Verbo_della_volonta.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/17_Quinto_ramo_Soffio_vitale_proposta.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/18_Soffio_vitalita_iniziale_e_fusione_Calice.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/19_Nomi_ed_Effigi_identita_visiva.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/104_Chiusura_milestone_7.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/21_Audit_materiali_e_migrazione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/23_Registro_unico_del_canone.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/CANONE_VIGENTE__00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/CANONE_VIGENTE__Manifesto_milestone_7.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/CANONE_VIGENTE__Protagonista_riservato.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/CANONE_VIGENTE__Registro_decisioni.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/CANONE_VIGENTE__Storia_condivisa.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/CANONE_VIGENTE__Storia_riservata.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/GIOCATORE_89_Calendario_e_date_accessibili.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/RISERVATO_100_Storia_industriale_stati_e_conflitti_aperti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/RISERVATO_101_Repertorio_delle_prove_e_trasmissioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/RISERVATO_94_Cronologia_integrale_ed_ere.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/RISERVATO_95_Origini_societa_e_potenze_antiche.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/RISERVATO_96_Campagne_opere_ed_eredita_del_Creator.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/RISERVATO_97_Caduta_Nove_Sedi_e_storia_delle_attribuzioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/20_Roadmap_generale_fino_alla_wiki.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/23_Registro_unico_del_canone.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/CANONE_VIGENTE__00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/CANONE_VIGENTE__Registro_decisioni.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/CANONE_VIGENTE__Regole_comuni.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/GIOCATORE_62_Audit_delle_progressioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/GIOCATORE_69_Roots_e_risorse_cosmiche.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/20_Roadmap_generale_fino_alla_wiki.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/23_Registro_unico_del_canone.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/CANONE_VIGENTE__00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/CANONE_VIGENTE__Registro_decisioni.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/CANONE_VIGENTE__Regole_comuni.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_26_Fondamenti_cosmologici.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_33_Lessico_e_sette_soglie.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_62_Audit_delle_progressioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_69_Roots_e_risorse_cosmiche.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_1/00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_1/20_Roadmap_generale_fino_alla_wiki.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_1/23_Registro_unico_del_canone.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_1/CANONE_VIGENTE__Registro_decisioni.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_2/00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_2/20_Roadmap_generale_fino_alla_wiki.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_2/23_Registro_unico_del_canone.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_2/CANONE_VIGENTE__00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_2/CANONE_VIGENTE__Registro_decisioni.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_3/00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_3/20_Roadmap_generale_fino_alla_wiki.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_3/21_Audit_materiali_e_migrazione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_3/23_Registro_unico_del_canone.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_3/CANONE_VIGENTE__00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_3/CANONE_VIGENTE__Architettura_cosmica.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_3/CANONE_VIGENTE__Registro_decisioni.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_3/CANONE_VIGENTE__Regole_comuni.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_3/GIOCATORE_26_Fondamenti_cosmologici.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_3/GIOCATORE_27_Catalogo_macro_delle_21_Effigi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_3/GIOCATORE_29_The_Sovereign_Completezza_e_poteri_cosmici.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_3/GIOCATORE_30_Confini_contese_e_verifica_macro.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_3/GIOCATORE_33_Lessico_e_sette_soglie.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_3/GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_4/00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_4/20_Roadmap_generale_fino_alla_wiki.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_4/21_Audit_materiali_e_migrazione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_4/23_Registro_unico_del_canone.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_4/CANONE_VIGENTE__00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_4/CANONE_VIGENTE__Registro_decisioni.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_4/GIOCATORE_26_Fondamenti_cosmologici.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_5/00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_5/20_Roadmap_generale_fino_alla_wiki.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_5/21_Audit_materiali_e_migrazione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_5/23_Registro_unico_del_canone.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_5/CANONE_VIGENTE__00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_5/CANONE_VIGENTE__Architettura_cosmica.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_5/CANONE_VIGENTE__Atlante_cosmologico.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_5/CANONE_VIGENTE__Progressioni_effigi.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_5/CANONE_VIGENTE__Registro_decisioni.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_5/CANONE_VIGENTE__Regole_comuni.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_5/GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_6/00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_6/20_Roadmap_generale_fino_alla_wiki.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_6/21_Audit_materiali_e_migrazione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_6/23_Registro_unico_del_canone.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_6/24_Matrice_di_recupero_e_ricostruzione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_6/CANONE_VIGENTE__00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_6/CANONE_VIGENTE__Architettura_cosmica.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_6/CANONE_VIGENTE__Atlante_cosmologico.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_6/CANONE_VIGENTE__Progressioni_effigi.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_6/CANONE_VIGENTE__Protagonista.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_6/CANONE_VIGENTE__Protagonista_riservato.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_6/CANONE_VIGENTE__Registro_decisioni.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_6/GIOCATORE_80_Legami_antichi_che_ricordi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_6/RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_7/00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_7/20_Roadmap_generale_fino_alla_wiki.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_7/21_Audit_materiali_e_migrazione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_7/23_Registro_unico_del_canone.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_7/24_Matrice_di_recupero_e_ricostruzione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_7/CANONE_VIGENTE__00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_7/CANONE_VIGENTE__Registro_decisioni.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_8/00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_8/20_Roadmap_generale_fino_alla_wiki.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_8/21_Audit_materiali_e_migrazione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_8/23_Registro_unico_del_canone.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_8/24_Matrice_di_recupero_e_ricostruzione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_8/CANONE_VIGENTE__00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_8/CANONE_VIGENTE__Protagonista_riservato.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_8/CANONE_VIGENTE__Registro_decisioni.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_8/GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_milestone_8/RISERVATO_85_Apertura_personale_e_rete_immediata.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_pre_consolidamento/00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_pre_consolidamento/20_Roadmap_generale_fino_alla_wiki.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_pre_consolidamento/21_Audit_materiali_e_migrazione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_revisione_Mask_01/00_LEGGIMI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_revisione_Mask_01/23_Registro_unico_del_canone.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_revisione_Mask_01/CANONE_VIGENTE__Progressioni_effigi.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_revisione_Mask_01/CANONE_VIGENTE__Registro_decisioni.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_revisione_Mask_01/GIOCATORE_47_Mask_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Snapshot_revisione_Mask_01/GIOCATORE_62_Audit_delle_progressioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/00_MANIFESTO_ARCHIVIO.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/02_Verifica_profondita_del_manualе.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/03_Revisione_scala_divina.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/04_Allineamento_e_lavoro_residuo.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/05_Piano_milestone_deuteragonista.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/06_Revisione_architettura_delle_Effigi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_05_Manuale_del_sistema.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_06_Traghettatrice_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_07_Pellegrino_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_08_Custode_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_09_Mano_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_10_Passaggio_interazioni_e_casi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_11_Coppa_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_12_Tessitrice_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_13_Vasaio_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_14_Martello_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_15_Forma_interazioni_e_casi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_16_Mendicante_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_17_Levatrice_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_18_Giardiniere_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_19_Convito_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_20_Vita_interazioni_e_casi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_21_Gerarchia_e_condizione_divina.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_22_Pellegrino_Sovranita_revisionata.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_23_Martello_Sovranita_revisionata.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_24_Contese_divine_e_verifica.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_25_Lessico_e_ranghi_del_sistema.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_26_Passaggio_Sovranita_revisionate.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_27_Forma_Sovranita_revisionate.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_28_Vita_Sovranita_revisionate.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_29_Arconti_Pretendenti_e_ascesa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_30_Successione_e_contesa_divina.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_31_Cinque_domini_e_Nodo_antico.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_32_Lama_e_Bivio_Sovranita.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_33_Revisione_dei_domini_personali.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RECUPERO_EDITORIALE/GIOCATORE/GIOCATORE_01_Cio_che_ricordi_estratti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RECUPERO_EDITORIALE/GIOCATORE/GIOCATORE_02_Capacita_del_ritorno_estratti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RECUPERO_EDITORIALE/GIOCATORE/GIOCATORE_04_Scala_e_conoscenza_del_sistema_estratti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RECUPERO_EDITORIALE/RISERVATO/RISERVATO_01_Fondazione_autoriale_estratti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RECUPERO_EDITORIALE/RISERVATO/RISERVATO_03_Storia_e_cosmologia_estratti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RECUPERO_EDITORIALE/RISERVATO/RISERVATO_04_Forze_e_unita_di_gioco_estratti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RECUPERO_EDITORIALE/RISERVATO/RISERVATO_05_Protagonista_e_matrice_estratti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RECUPERO_EDITORIALE/RISERVATO/RISERVATO_08_Casata_e_societa_estratti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RECUPERO_EDITORIALE/RISERVATO/RISERVATO_10_Geografia_e_rete_internazionale_estratti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RECUPERO_EDITORIALE/RISERVATO/RISERVATO_11_Deuteragonista_estratti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RECUPERO_EDITORIALE/RISERVATO/RISERVATO_12_Corpus_e_sapere_estratti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Predecessore preservato RECUPERO_EDITORIALE/RISERVATO/RISERVATO_13_Caduta_ritorno_e_successione_estratti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Cradle",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Cradle",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Cradle",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Cradle I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Cradle II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Cradle III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Cradle IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Cradle V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Cradle VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Cradle VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-01-T7-04",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Ruin",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Ruin",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Ruin",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Ruin I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Ruin II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Ruin III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Ruin IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Ruin V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Ruin VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Ruin VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-02-T7-04",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Scroll",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Scroll",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Scroll",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Scroll I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Scroll II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Scroll III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T3-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Scroll IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Scroll V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Scroll VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Scroll VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-03-T7-04",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Halo",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Halo",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Halo",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Halo I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Halo II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Halo III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Halo IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Halo V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Halo VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Halo VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-04-T7-04",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Heart",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Heart",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Heart",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Heart I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Heart II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Heart III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T3-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Heart IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Heart V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Heart VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Heart VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-05-T7-04",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Crucible",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Crucible",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Crucible",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Crucible I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Crucible II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Crucible III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T3-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Crucible IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Crucible V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Crucible VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Crucible VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-06-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Mask",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Mask",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Mask I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Mask II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Mask III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T3-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Mask IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T4-05",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Mask V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T5-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Mask VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T6-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Mask VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-07-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Hourglass",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Hourglass",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Hourglass",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Hourglass I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Hourglass II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Hourglass III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Hourglass IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Hourglass V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Hourglass VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Hourglass VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-08-T7-04",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Astrolabe",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Astrolabe",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Astrolabe",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Astrolabe I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Astrolabe II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Astrolabe III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T3-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Astrolabe IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Astrolabe V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Astrolabe VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Astrolabe VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-09-T7-04",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Sepulchre",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Sepulchre",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Sepulchre",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Sepulchre I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Sepulchre II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Sepulchre III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Sepulchre IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Sepulchre V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Sepulchre VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Sepulchre VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-10-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Seed",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Seed",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Seed",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Seed I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Seed II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Seed III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T3-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Seed IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Seed V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Seed VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Seed VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-11-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Crown",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Crown",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Crown",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Crown I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Crown II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Crown III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Crown IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Crown V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Crown VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Crown VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-12-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Chain",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Chain",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Chain",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Chain I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Chain II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Chain III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T3-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Chain IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Chain V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Chain VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Chain VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-13-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Coin",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Coin",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Coin",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Coin I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Coin II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Coin III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Coin IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Coin V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Coin VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Coin VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-14-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Banner",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Banner",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Banner",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Banner I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Banner II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Banner III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T3-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Banner IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Banner V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Banner VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Banner VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-15-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Oracle",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Oracle",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Oracle",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Oracle I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Oracle II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Oracle III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T3-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Oracle IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Oracle V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Oracle VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Oracle VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-16-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Archive",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Archive",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Archive",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Archive I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Archive II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Archive III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T3-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Archive IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Archive V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Archive VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Archive VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-17-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Labyrinth",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Labyrinth",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Labyrinth",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Labyrinth I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Labyrinth II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Labyrinth III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T3-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Labyrinth IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Labyrinth V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Labyrinth VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Labyrinth VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-18-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Tempest",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Tempest",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Tempest",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Tempest I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Tempest II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Tempest III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T3-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Tempest IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Tempest V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Tempest VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Tempest VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-19-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Maw",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Maw",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Maw",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Maw I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Maw II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Maw III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T3-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Maw IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Maw V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Maw VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Maw VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-20-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Autorità immutate Loom",
+      "result": "PASS"
+    },
+    {
+      "check": "Permesso Avatar Loom",
+      "result": "PASS"
+    },
+    {
+      "check": "Vincolo esplicito Loom",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Loom I",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T1-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T1-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T1-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T1-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Loom II",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T2-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T2-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T2-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Loom III",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T3-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T3-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T3-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T3-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Loom IV",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T4-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T4-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T4-03",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T4-04",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Loom V",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T5-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T5-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T5-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Loom VI",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T6-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T6-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T6-03",
+      "result": "PASS"
+    },
+    {
+      "check": "ID preservati Loom VII",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T7-01",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T7-02",
+      "result": "PASS"
+    },
+    {
+      "check": "Testo coerente EFF-21-T7-03",
+      "result": "PASS"
+    },
+    {
+      "check": "VI non richiede distribuzione",
+      "result": "PASS"
+    },
+    {
+      "check": "Raccordo VI GIOCATORE_33_Lessico_e_sette_soglie.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Raccordo VI GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Raccordo VI GIOCATORE_82_Recupero_delle_antiche_capacita.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Raccordo VI GIOCATORE_86_Audit_del_protagonista.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Halo 5 km",
+      "result": "PASS"
+    },
+    {
+      "check": "Halo 5.000 km",
+      "result": "PASS"
+    },
+    {
+      "check": "Halo un anno luce",
+      "result": "PASS"
+    },
+    {
+      "check": "Halo Non è teleportazione",
+      "result": "PASS"
+    },
+    {
+      "check": "Halo non pensa o attacca automaticamente",
+      "result": "PASS"
+    },
+    {
+      "check": "Halo nessun Avatar, doppio o cadavere",
+      "result": "PASS"
+    },
+    {
+      "check": "Origin è proposta",
+      "result": "PASS"
+    },
+    {
+      "check": "Funzione Origin 1",
+      "result": "PASS"
+    },
+    {
+      "check": "Funzione Origin 2",
+      "result": "PASS"
+    },
+    {
+      "check": "Funzione Origin 3",
+      "result": "PASS"
+    },
+    {
+      "check": "Funzione Origin 4",
+      "result": "PASS"
+    },
+    {
+      "check": "Funzione Origin 5",
+      "result": "PASS"
+    },
+    {
+      "check": "Nessun nuovo Anchor iniziale",
+      "result": "PASS"
+    },
+    {
+      "check": "Registro e copia coerenti",
+      "result": "PASS"
+    },
+    {
+      "check": "Origin proposta aperta",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome adottato",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 103_Indice_della_storia.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 104_Chiusura_milestone_7.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 120_Indice_della_geografia.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 121_Chiusura_milestone_8.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 140_Indice_della_societa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 141_Chiusura_milestone_9.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 145_Indice_del_raccordo_prima_del_cast.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 20_Roadmap_generale_fino_alla_wiki.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 21_Audit_materiali_e_migrazione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 23_Registro_unico_del_canone.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 24_Matrice_di_recupero_e_ricostruzione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 25_Chiusura_milestone_1.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 32_Chiusura_milestone_2.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 39_Chiusura_milestone_3.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 63_Indice_delle_Effigi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 64_Chiusura_milestone_4.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 74_Indice_dell_atlante_cosmologico.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 75_Chiusura_milestone_5.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 87_Indice_del_protagonista.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente 88_Chiusura_milestone_6.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_102_Audit_storico_e_confini_del_sapere.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_105_Avarenne_pianeta_e_continenti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_106_Climi_bacini_e_risorse.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_107_Stati_e_confini_del_mondo.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_108_Citta_porti_e_distetti_regionali.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_109_Rovenne_e_geografia_personale.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_110_Reti_e_tempi_di_viaggio.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_111_Regioni_lontane_e_limiti_dell_atlante.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_112_Matrice_del_sapere_geografico.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_119_Audit_geografico_e_uso_delle_carte.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_122_Governi_diritto_e_cittadinanza.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_123_Atlante_delle_istituzioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_124_Moneta_prezzi_e_salario.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_125_Produzione_commerci_e_credito.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_126_Religioni_dottrine_e_servizi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_127_Scuole_medicina_e_accesso_ai_poteri.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_128_Valcienne_patrimonio_e_rete_conosciuta.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_129_Vita_quotidiana_lingue_e_estetica.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_130_Confini_del_sapere_sociale.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_139_Audit_sociale_e_livelli_di_impatto.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_143_Avatar_effetti_e_padronanza_VI.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_144_Halo_transito_luminoso_e_Fulfilment.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_26_Fondamenti_cosmologici.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_27_Catalogo_macro_delle_21_Effigi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_28_Le_sette_integrazioni_cosmiche.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_29_The_Sovereign_Completezza_e_poteri_cosmici.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_30_Confini_contese_e_verifica_macro.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_33_Lessico_e_sette_soglie.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_36_Corpo_spirito_manifestazioni_e_morte.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_38_Poteri_e_vita_comune.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_40_Lettura_delle_progressioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_41_Cradle_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_42_Ruin_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_43_Scroll_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_44_Halo_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_45_Heart_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_46_Crucible_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_47_Mask_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_48_Hourglass_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_49_Astrolabe_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_50_Sepulchre_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_51_Seed_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_52_Crown_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_53_Chain_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_54_Coin_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_55_Banner_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_56_Oracle_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_57_Archive_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_58_Labyrinth_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_59_Tempest_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_60_Maw_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_61_Loom_progressione_completa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_62_Audit_delle_progressioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_65_Atlante_del_reale.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_66_Accessi_viaggi_e_comunicazioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_68_The_First_Testament_consultazione.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_69_Roots_e_risorse_cosmiche.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_70_Identita_continuita_e_recupero.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_71_Interventi_esterni_e_diagnosi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_73_Audit_cosmologico_e_casi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_77_Identita_di_Edran_e_Alexander.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_78_Prima_vita_e_ricordi_consolidati.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_80_Legami_antichi_che_ricordi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_82_Recupero_delle_antiche_capacita.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_83_Matrice_delle_conoscenze_personali.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_86_Audit_del_protagonista.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_89_Calendario_e_date_accessibili.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_90_Societa_antiche_e_liberazione_ricordata.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_91_Storia_pubblica_conosciuta_dal_duca.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_92_Industria_scoperte_e_eredita_materiale.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente GIOCATORE_93_Conoscenza_storica_e_riconoscimenti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_100_Storia_industriale_stati_e_conflitti_aperti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_101_Repertorio_delle_prove_e_trasmissioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_113_Geometria_planetaria_e_atlante_integrale.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_114_Distretti_confini_e_logistica_locale.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_115_Siti_soprannaturali_localizzati.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_116_Territori_antichi_e_sovrapposizioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_117_Reti_interruzioni_e_accessi_alternativi.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_118_Unita_geografiche_pronte_al_Narratore.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_131_Religioni_patrocini_e_verita.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_132_Diritto_operativo_e_rapporti_internazionali.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_133_Valcienne_conti_e_personale_al_risveglio.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_134_Mercati_banche_e_crisi_locali.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_135_Fazioni_civili_industriali_e_sociali.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_136_Fazioni_di_cura_credito_e_servizio.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_137_Relazioni_e_agenda_delle_istituzioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_138_Societa_in_azione_e_procedure_di_uso.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_31_Vincoli_autoriali_della_nuova_architettura.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_72_Presenze_esterne_e_pressioni_cosmiche.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_85_Apertura_personale_e_rete_immediata.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_94_Cronologia_integrale_ed_ere.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_95_Origini_societa_e_potenze_antiche.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_96_Campagne_opere_ed_eredita_del_Creator.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_97_Caduta_Nove_Sedi_e_storia_delle_attribuzioni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Nome vigente RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Dotazione iniziale senza apice",
+      "result": "PASS"
+    },
+    {
+      "check": "Nessuna nuova ancora",
+      "result": "PASS"
+    },
+    {
+      "check": "Dati invariati Geografia_condivisa.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Dati invariati Geografia_riservata.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Dati invariati Societa_condivisa.json",
+      "result": "PASS"
+    },
+    {
+      "check": "Dati invariati Societa_riservata.json",
+      "result": "PASS"
+    }
+  ],
+  "failures": [],
+  "origin_status": "PROPOSAL_PENDING_PLAYER_REVIEW",
+  "avatars_status": "UPDATED_MASK_ONLY",
+  "halo_status": "UPDATED",
+  "fulfilment_status": "UPDATED",
+  "changed_files": [
+    "00_LEGGIMI.md",
+    "23_Registro_unico_del_canone.md",
+    "32_Chiusura_milestone_2.md",
+    "88_Chiusura_milestone_6.md",
+    "GIOCATORE_28_Le_sette_integrazioni_cosmiche.md",
+    "GIOCATORE_29_The_Sovereign_Completezza_e_poteri_cosmici.md",
+    "GIOCATORE_30_Confini_contese_e_verifica_macro.md",
+    "GIOCATORE_33_Lessico_e_sette_soglie.md",
+    "GIOCATORE_36_Corpo_spirito_manifestazioni_e_morte.md",
+    "GIOCATORE_40_Lettura_delle_progressioni.md",
+    "GIOCATORE_41_Cradle_progressione_completa.md",
+    "GIOCATORE_42_Ruin_progressione_completa.md",
+    "GIOCATORE_43_Scroll_progressione_completa.md",
+    "GIOCATORE_44_Halo_progressione_completa.md",
+    "GIOCATORE_45_Heart_progressione_completa.md",
+    "GIOCATORE_46_Crucible_progressione_completa.md",
+    "GIOCATORE_48_Hourglass_progressione_completa.md",
+    "GIOCATORE_49_Astrolabe_progressione_completa.md",
+    "GIOCATORE_50_Sepulchre_progressione_completa.md",
+    "GIOCATORE_51_Seed_progressione_completa.md",
+    "GIOCATORE_52_Crown_progressione_completa.md",
+    "GIOCATORE_53_Chain_progressione_completa.md",
+    "GIOCATORE_54_Coin_progressione_completa.md",
+    "GIOCATORE_55_Banner_progressione_completa.md",
+    "GIOCATORE_56_Oracle_progressione_completa.md",
+    "GIOCATORE_57_Archive_progressione_completa.md",
+    "GIOCATORE_58_Labyrinth_progressione_completa.md",
+    "GIOCATORE_59_Tempest_progressione_completa.md",
+    "GIOCATORE_60_Maw_progressione_completa.md",
+    "GIOCATORE_61_Loom_progressione_completa.md",
+    "GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md",
+    "GIOCATORE_69_Roots_e_risorse_cosmiche.md",
+    "GIOCATORE_78_Prima_vita_e_ricordi_consolidati.md",
+    "GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
+    "GIOCATORE_82_Recupero_delle_antiche_capacita.md",
+    "GIOCATORE_83_Matrice_delle_conoscenze_personali.md",
+    "GIOCATORE_86_Audit_del_protagonista.md",
+    "RISERVATO_94_Cronologia_integrale_ed_ere.md",
+    "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+    "CANONE_VIGENTE/Architettura_cosmica.json",
+    "CANONE_VIGENTE/Atlante_cosmologico.json",
+    "CANONE_VIGENTE/Progressioni_effigi.json",
+    "CANONE_VIGENTE/Regole_comuni.json",
+    "CANONE_VIGENTE/Protagonista.json",
+    "CANONE_VIGENTE/Storia_riservata.json",
+    "CANONE_VIGENTE/Registro_decisioni.json",
+    "GIOCATORE_26_Fondamenti_cosmologici.md",
+    "GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md",
+    "RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
+    "CANONE_VIGENTE/Protagonista_riservato.json"
+  ],
+  "next_milestone": 10,
+  "cast_started": false,
+  "scope": "Tre raccordi richiesti; capacità intrinseche Origin presentate, non assegnate."
+}

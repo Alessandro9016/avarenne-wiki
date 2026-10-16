@@ -1,0 +1,31 @@
+# RISERVATO — CAST-471: Leon Vernier
+
+Revisione REV-CIV-01; T0 18 maggio 812.
+
+## Identità e passato noto
+
+Erede di una casa proprietaria di terreni confinanti; rivale sociale e sportivo. Età 23. Persona ordinaria umana, nessuna Effigy assegnata.
+
+Competizione in scherma e dibattiti scolastici. Nel 810 Leon vinse una gara; Alexander contestò il giudizio troppo pubblicamente e poi si scusò in privato.
+
+## Unità di gioco
+
+**Concetto e funzione:** Erede di una casa proprietaria di terreni confinanti; rivale sociale e sportivo; interlocutore autonomo della rete civile. **Origine:** rapporti familiari o sociali documentati in 273. **Attivazione:** Attivo. **Stato attuale:** Prepara una proposta sui confini di manutenzione di una strada; non conosce i poteri di Alexander.
+
+**Obiettivo:** Vuole affermarsi senza essere liquidato come un giovane erede. **Tensione, paura e informazione non ancora condivisa:** Rispetta la competenza del rivale ma teme di apparire dipendente dal suo favore. **Forze:** la figura e gli interlocutori della rete, con decisioni separate. **Limiti:** nessun accesso automatico all'identità di Edran o a risorse ducali.
+
+**Hook 1:** Chiede una perizia congiunta, non un duello obbligatorio. **Hook 2:** Una richiesta ragionevole proviene dalla persona che Alexander sopportava meno.
+
+**Con intervento:** un consenso, rifiuto, chiarimento o risorsa modifica la trattativa; nessun affetto o esito imposto. **Senza intervento:** prosegue impegni e comunicazioni; può rinviare una decisione. **Pressione:** latente, nessuna nuova scadenza letale. **Impatto:** 🟡.
+
+**Scena possibile:** colloquio su una richiesta concreta già presente. **Complicazione:** gli obiettivi personali non coincidono con l'utilità della casa. **Twist opzionale:** una clausola o scelta lecita protegge entrambe le parti senza coincidere con le loro preferenze. Non aggiungere un traditore per rendere interessante la scena.
+
+## Vincoli
+
+Non attribuire responsabilità per il gesto finale di Alexander. La storia pre-coma è memoria disponibile; questa agenda T0 è riservata. Nessun matrimonio già celebrato, denaro nuovo disponibile, avatar, culto occulto o conoscenza della resurrezione. La figura non è subordinata personale del duca.
+
+
+## Direzione visiva adottata
+
+Man23, medium brown skin, short black curly hair, dark brown eyes, angular handsome face, clean-shaven athletic build, upright confident posture. Steel-grey fitted 1880 frock coat dark red waistcoat, composed competitive expression.
+Tre immagini prodotte; nessuna nuova capacità o scelta futura.

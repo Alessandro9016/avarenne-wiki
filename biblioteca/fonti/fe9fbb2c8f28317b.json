@@ -1,0 +1,2013 @@
+{
+  "versione": "1.24",
+  "data": "2026-10-11",
+  "fonte_unica": "23_Registro_unico_del_canone.md",
+  "sha256_fonte": "0e3a9331d4fdac09ce95954fe026d74f74d4addafab66db86dbbb5034bbebf69",
+  "decisioni": [
+    {
+      "id": "CAN-001",
+      "stato": "ADOTTATO",
+      "decisione": "Opera e mondo originali; le opere citate sono riferimenti, non canone da trasferire.",
+      "fonte_o_successore": "Richiesta iniziale del giocatore; tutti i punti.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-002",
+      "stato": "ADOTTATO",
+      "decisione": "Questa chat costruisce il mondo; una chat distinta svolgerà la narrazione.",
+      "fonte_o_successore": "Mandato del giocatore; punti 12–16.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-003",
+      "stato": "ADOTTATO",
+      "decisione": "Non decidere azioni, sentimenti attuali o esiti futuri del protagonista.",
+      "fonte_o_successore": "Protocollo PONTE e chiarimenti; tutti i punti.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-004",
+      "stato": "ADOTTATO",
+      "decisione": "Ambiente industriale apprezzato; conservare le fondamenta ambientali recuperabili.",
+      "fonte_o_successore": "Preferenza del giocatore e richiesta di non rifare il mondo; punti 7–9.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-005",
+      "stato": "ADOTTATO",
+      "decisione": "Una sola persona antica ritornata nel corpo di un individuo morto; nessuna seconda anima o personalità condivisa.",
+      "fonte_o_successore": "Analogia precisata dal giocatore; punto 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-006",
+      "stato": "ADOTTATO",
+      "decisione": "Grisha, Alexander e Cassian non sono automaticamente nomi, identità o personaggi dell'opera originale.",
+      "fonte_o_successore": "Correzioni esplicite del giocatore; punto 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-007",
+      "stato": "ADOTTATO",
+      "decisione": "Il protagonista era una potenza di lega cosmica superiore, comparabile per scala al riferimento GA/Pillar.",
+      "fonte_o_successore": "Richiesta sulla scala antica; punti 2,6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-008",
+      "stato": "ADOTTATO",
+      "decisione": "La storia pubblica non conserva una conoscenza generale della sua identità e delle sue imprese autentiche.",
+      "fonte_o_successore": "Preferenza sull'ignoranza storica; punto 7.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-009",
+      "stato": "ADOTTATO",
+      "decisione": "Conservare il motivo di comunità che mantengono nome e culto attraverso millenni, con forme originali.",
+      "fonte_o_successore": "Indicazione del giocatore; punto 7.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-010",
+      "stato": "ADOTTATO",
+      "decisione": "Fonte primordiale e sapere originario sono nati con lui, dentro la sua esistenza in senso metafisico.",
+      "fonte_o_successore": "Proposta esplicitamente accolta dal giocatore; punti 2,5,6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-011",
+      "stato": "ADOTTATO",
+      "decisione": "Non copiarne l'origine come uscita da un Chaos Sea esterno né imporre un'origine terrestre moderna.",
+      "fonte_o_successore": "Chiarimento sulla nuova origine; punto 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-012",
+      "stato": "ADOTTATO",
+      "decisione": "Il protagonista conoscerà il sistema in modo ampio ed enciclopedico pertinente alla sua condizione antica.",
+      "fonte_o_successore": "Richiesta sul manuale e sulle conoscenze; punti 3,6,13.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-013",
+      "stato": "ADOTTATO",
+      "decisione": "Sapere tecnico e disponibilità attuale dei poteri sono distinti; nessuna inesperienza artificiale.",
+      "fonte_o_successore": "Chiarimenti sul ritorno; punti 3,6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-014",
+      "stato": "ADOTTATO",
+      "decisione": "I poteri del protagonista devono essere presentati concretamente e sottoposti alla sua valutazione.",
+      "fonte_o_successore": "Richiesta di scegliere le abilità e leggere esempi pratici; punti 2,4,6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-015",
+      "stato": "ADOTTATO",
+      "decisione": "Ogni Effige unisce più autorità macro coerenti, non una tecnica ingrandita o una lista di sinonimi.",
+      "fonte_o_successore": "Critica del vecchio catalogo e approvazione della nuova linea; punti 2,4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-016",
+      "stato": "ADOTTATO",
+      "decisione": "Ogni percorso deve avere attacco e difesa autonomi, pertinenti alla sua identità, e potenza personale anche se utile ai gruppi.",
+      "fonte_o_successore": "Richieste su Faro, Banner e altri; punto 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-017",
+      "stato": "ADOTTATO",
+      "decisione": "Il vertice divino deve avere scala e pericolosità comparabili a una Sequence 0, senza rendere tutti i percorsi uguali a Tyrant.",
+      "fonte_o_successore": "Chiarimento sulla Sovranità; punti 3,4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-018",
+      "stato": "ADOTTATO",
+      "decisione": "Le sette soglie devono aggiungere nuove capacità e trasformazioni, oltre a potenziare le precedenti.",
+      "fonte_o_successore": "Direzione corrente e chiarimenti sulle progressioni; punti 3,4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-019",
+      "stato": "ADOTTATO",
+      "decisione": "Qualità e coerenza prevalgono sul numero dei percorsi; nessun obbligo di conservare le vecchie 32 Effigi.",
+      "fonte_o_successore": "Autorizzazione esplicita a ripartire dal sistema; punto 2.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-020",
+      "stato": "ADOTTATO",
+      "decisione": "Il titolo corrente è The Sovereign — The Beginning and the End. Il nome della persona resta distinto.",
+      "fonte_o_successore": "Ultima scelta sul titolo, registrata nella roadmap; punti 2,6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-021",
+      "stato": "ADOTTATO",
+      "decisione": "I cinque nuclei personali sono creazione, distruzione, verbo, luce e soffio vitale, con nomi emblematici correnti Cradle, Ruin, Scroll, Halo, Heart.",
+      "fonte_o_successore": "Scelte successive del giocatore e documento 19; punti 2,4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-022",
+      "stato": "ADOTTATO",
+      "decisione": "Cradle ha Creation come unico ramo: genera materia, energia, vita e persone secondo gli sblocchi. Immaginare, scegliere sostanza e assemblare il progetto non sono autorità o abilità ulteriori. Non dipende da Heart per creare vita.",
+      "fonte_o_successore": "Precisazioni dirette del giocatore; revisione RAMI-23-04, documenti 41–61, 168, 170 e 177.",
+      "versione": "1.19",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-023",
+      "stato": "ADOTTATO",
+      "decisione": "Ruin comprende distruzione e annullamento reale: un oggetto può cessare di esserci senza dover diventare polvere o corruzione. È il polo complementare a Cradle.",
+      "fonte_o_successore": "Esempio del bicchiere e sostituzione di Dissolution; punto 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-024",
+      "stato": "ADOTTATO",
+      "decisione": "Scroll combina informazione, linguaggio e volontà: analisi, antimagia, imperativi e assenso interiorizzato. La vittima può credere propria una decisione indotta.",
+      "fonte_o_successore": "Proposta esplicita del giocatore e documento 16; punto 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-025",
+      "stato": "ADOTTATO",
+      "decisione": "Il suono non è il nucleo centrale di Scroll. L'ispirazione biblica riguarda il Verbo operante; le condizioni di contrasto devono rispettare il rango.",
+      "fonte_o_successore": "Chiarimenti sul Verbo; punti 3,4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-026",
+      "stato": "ADOTTATO",
+      "decisione": "Halo ha luce, rivelazione, manifestazione e purificazione: ispirazione biblica, identità originale e scala pienamente divina.",
+      "fonte_o_successore": "Direzione sulla gloria divina e luce; punto 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-027",
+      "stato": "ADOTTATO",
+      "decisione": "Heart ha vita, spirito e restaurazione, forte vitalità fisica già alla prima soglia, robustezza e rigenerazione crescente.",
+      "fonte_o_successore": "Richiesta sul soffio vitale e documento 18; punto 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-028",
+      "stato": "ADOTTATO",
+      "decisione": "Oracle e Archive devono includere magia operativa, offensiva e difensiva, con metodi distinti; non soltanto consultazione di informazioni.",
+      "fonte_o_successore": "Richiesta sulla magia e documento 16; punto 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-029",
+      "stato": "ADOTTATO",
+      "decisione": "Il deuteragonista ha un ruolo autonomo; alleanze, crescita, sopravvivenza ed esiti futuri non sono garantiti.",
+      "fonte_o_successore": "Indicazioni del giocatore sul deuteragonista; punto 10.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-030",
+      "stato": "ADOTTATO",
+      "decisione": "Le Unità di Gioco devono generare azione: conflitto, stato dinamico, forze, almeno due hook, evoluzioni e collegamenti.",
+      "fonte_o_successore": "Protocollo PONTE fornito dal giocatore; punto 11.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-031",
+      "stato": "ADOTTATO",
+      "decisione": "Materiali del Narratore disponibili sul PC, con distinzione fra conoscenze del protagonista e verità ulteriori.",
+      "fonte_o_successore": "Richieste sui file e sul sapere; punto 13.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-032",
+      "stato": "ADOTTATO",
+      "decisione": "Wiki completa e interamente accessibile al proprietario; consultare un segreto non lo attribuisce automaticamente al personaggio.",
+      "fonte_o_successore": "Chiarimento esplicito sulla wiki; punto 15.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-033",
+      "stato": "ADOTTATO",
+      "decisione": "Nessun dominio da acquistare e nessuna spesa prevista; URL consultabile anche dal Narratore in normali chat GPT, da verificare realmente.",
+      "fonte_o_successore": "Requisiti di accesso e gratuità; punti 15,16.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-034",
+      "stato": "ADOTTATO",
+      "decisione": "Immagini numerose, coerenti e collegate alle pagine; nessuna serie definitiva è già prodotta.",
+      "fonte_o_successore": "Richieste grafiche e stato dei file; punto 14.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-035",
+      "stato": "ADOTTATO",
+      "decisione": "Esecuzione progressiva 1→16: ogni milestone si chiude interamente nel proprio perimetro prima della successiva.",
+      "fonte_o_successore": "Ultimo chiarimento e incarico corrente; tutti i punti.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-036",
+      "stato": "ADOTTATO",
+      "decisione": "Ventitré Effigi con autorità macro, confini e autonomia offensiva/difensiva; catalogo chiuso nel documento 27.",
+      "fonte_o_successore": "Scelta autoriale, milestone 2; preferenze del giocatore preservate.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-037",
+      "stato": "ADOTTATO",
+      "decisione": "Il reale esiste indipendentemente da osservazione e governanti; materia, spirito, persona ed eventi sono distinti.",
+      "fonte_o_successore": "Documento 26, milestone 2.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-038",
+      "stato": "ADOTTATO",
+      "decisione": "Ambiente corporeo, The Veil, The Reverie e fondamento primordiale The Depth; comunicazione tramite accessi reali.",
+      "fonte_o_successore": "Documento 26; atlante al punto 5.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-039",
+      "stato": "ADOTTATO",
+      "decisione": "Root è configurazione primordiale; Seat è esercizio pieno di una Effige. Non sono oggetti da raccogliere né autorità ottenute toccando una fonte.",
+      "fonte_o_successore": "Documenti 26 e 28.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-040",
+      "stato": "ADOTTATO",
+      "decisione": "The Origin è la fonte stessa nata dentro il protagonista; The First Testament è il sapere innato consultabile.",
+      "fonte_o_successore": "Documento 26; attuazione di CAN-010/012.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-041",
+      "stato": "ADOTTATO",
+      "decisione": "Sette integrazioni complete: The Sovereign, The Worldforge, The Continuum, The Dominion, The Witness, The Manyfold, The Last Hunger.",
+      "fonte_o_successore": "Documento 28 e Architettura_cosmica.json.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-042",
+      "stato": "ADOTTATO",
+      "decisione": "Archon è integrazione piena; due Axials, The Sovereign e The Continuum, esercitano un asse universale completo. Nessun grado successivo automatico o terzo Axial occulto.",
+      "fonte_o_successore": "Documento 28.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-043",
+      "stato": "ADOTTATO",
+      "decisione": "Fulfilment è la proprietà emergente di The Sovereign; esercizio unitario dei cinque nuclei, non una sesta Effige.",
+      "fonte_o_successore": "Documento 29.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-044",
+      "stato": "ADOTTATO",
+      "decisione": "Ruin ha Destruction come unico ramo. Frattura, annullamento e terminazione sono modi distruttivi; Absence e Finality non sono autorità separate. Finality resta uno sblocco IV.",
+      "fonte_o_successore": "Precisazioni dirette del giocatore; revisione RAMI-23-04, documenti 41–61, 168, 170 e 177.",
+      "versione": "1.19",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-045",
+      "stato": "ADOTTATO",
+      "decisione": "Creare una persona nuova non ricopia un'anima; resurrezione autentica richiede continuità personale ancora reale.",
+      "fonte_o_successore": "Documenti 26 e 29.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-046",
+      "stato": "ADOTTATO",
+      "decisione": "Possesso, sapere, manifestazione e titolarità sono distinti; una Seat contesa non ha due titolari pieni incontrastati.",
+      "fonte_o_successore": "Documenti 26, 28 e 30.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-047",
+      "stato": "ADOTTATO",
+      "decisione": "Accesso, oggetto, operazione, prevalenza e conseguenza determinano una contesa; nessuna ruota automatica di vittorie.",
+      "fonte_o_successore": "Documento 30; applicazione operativa al punto 3.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-048",
+      "stato": "ADOTTATO",
+      "decisione": "I documenti 26–30 sono sapere tecnico comune; non assegnano identità moderne, dotazione al ritorno o esiti di trama.",
+      "fonte_o_successore": "Perimetro della milestone 2; documento 31 riservato.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-049",
+      "stato": "ADOTTATO",
+      "decisione": "Sette Thresholds: Awakening, Attunement, Embodiment, Transfiguration, Ascendance, Eminence, Apotheosis; I→VII.",
+      "fonte_o_successore": "Documento 33, milestone 3.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-050",
+      "stato": "ADOTTATO",
+      "decisione": "Bearer è il praticante; IV Demigod, V Angel, VI Seraph, VII Deity. Regent è una condizione particolare di VI, non una soglia.",
+      "fonte_o_successore": "Documento 33.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-051",
+      "stato": "ADOTTATO",
+      "decisione": "Thread è collegamento operativo, Inscription configurazione incorporata, Pattern forma guida e Medium supporto; Weave è l'insieme proprio della persona.",
+      "fonte_o_successore": "Documenti 33–35.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-052",
+      "stato": "ADOTTATO",
+      "decisione": "Prima acquisizione attraverso verifica, preparazione, apertura, circolazione, prova di separazione e stabilizzazione. Nessuna pozione universale obbligatoria.",
+      "fonte_o_successore": "Documento 34.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-053",
+      "stato": "ADOTTATO",
+      "decisione": "Avanzamento richiede Pattern ampliata, tenuta, esecuzione propria e integrazione; sei transizioni qualitative definite.",
+      "fonte_o_successore": "Documento 34.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-054",
+      "stato": "ADOTTATO",
+      "decisione": "Recupero di competenze antiche può saltare apprendistato e tempi artificiali; restano tenuta, collegamenti e contese reali.",
+      "fonte_o_successore": "Documento 34; dotazione personale al punto 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-055",
+      "stato": "ADOTTATO",
+      "decisione": "Quality, Capacity, Reserve e Load sono distinti; energia esterna non aumenta automaticamente la tenuta o concede una Seat.",
+      "fonte_o_successore": "Documento 35.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-056",
+      "stato": "ADOTTATO",
+      "decisione": "Routine, Demanding e Overreach sono regimi; Ready, Strained, Overdrawn e Fractured sono condizioni, non soglie.",
+      "fonte_o_successore": "Documento 35.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-057",
+      "stato": "ADOTTATO",
+      "decisione": "Instant, Maintained, Autonomous e Independent distinguono durata e dipendenza; Deliberate, Prepared, Reflexive e Intrinsic distinguono attivazione.",
+      "fonte_o_successore": "Documento 35.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-058",
+      "stato": "ADOTTATO",
+      "decisione": "Ogni Effigy della Weave ha la propria soglia; artefatti, prestiti, deleghe e imitazioni non sono automaticamente incorporazioni.",
+      "fonte_o_successore": "Documenti 33–35.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-059",
+      "stato": "ADOTTATO, REVISIONATO",
+      "decisione": "Una sola Effige personale è la norma; aggiunte dello stesso gruppo sono rare e pericolose. Incorporazioni fra gruppi sono incompatibili a tutte le soglie.",
+      "fonte_o_successore": "Precisazione esplicita del giocatore; manuali 34–35 e 76.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-060",
+      "stato": "ADOTTATO",
+      "decisione": "Core, corpo, Anchor, manifestazione, Seat e Root sono distinti; morte biologica, perdita di manifestazione, dormienza ed estinzione personale non coincidono.",
+      "fonte_o_successore": "Documento 36.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-061",
+      "stato": "ADOTTATO",
+      "decisione": "Ogni semidivinità IV possiede difesa personale mantenuta pertinente; distrazione o solitudine non la eliminano.",
+      "fonte_o_successore": "Documenti 33 e 37.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-062",
+      "stato": "ADOTTATO",
+      "decisione": "Contese risolte con nove passi e cinque esiti; Quality, competenza, accesso, integrazione e condizioni reali precedono l'esito.",
+      "fonte_o_successore": "Documento 37.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-063",
+      "stato": "ADOTTATO",
+      "decisione": "Un morto ordinario può lasciare una continuità autentica senza essere Angel; una resurrezione non inventa la stessa persona da ricordi copiati.",
+      "fonte_o_successore": "Documento 36.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-064",
+      "stato": "ADOTTATO",
+      "decisione": "Sapere tecnico pertinente comunicato prima delle decisioni; nessuna ignoranza artificiale dovuta a documenti non ancora scritti.",
+      "fonte_o_successore": "Documenti 34–37; attuazione CAN-012/013.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-065",
+      "stato": "ADOTTATO",
+      "decisione": "Poteri possono cambiare davvero industria, risorse, salute e società; non si introducono nerf per conservare gli assetti iniziali.",
+      "fonte_o_successore": "Documento 38.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-066",
+      "stato": "ADOTTATO",
+      "decisione": "Integrazione Root aggiunge profondità, Capacity e proprietà emergente, senza diventare soglia VIII; Axial non è soglia IX né vittoria universale.",
+      "fonte_o_successore": "Documenti 33, 34 e 37.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-067",
+      "stato": "ADOTTATO",
+      "decisione": "Cradle: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_41_Cradle_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-068",
+      "stato": "ADOTTATO",
+      "decisione": "Ruin: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_42_Ruin_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-069",
+      "stato": "ADOTTATO",
+      "decisione": "Scroll: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_43_Scroll_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-070",
+      "stato": "ADOTTATO",
+      "decisione": "Halo: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_44_Halo_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-071",
+      "stato": "ADOTTATO",
+      "decisione": "Heart: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_45_Heart_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-072",
+      "stato": "ADOTTATO",
+      "decisione": "Crucible: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_46_Crucible_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-073",
+      "stato": "ADOTTATO",
+      "decisione": "Mask: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_47_Mask_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-074",
+      "stato": "ADOTTATO",
+      "decisione": "Hourglass: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_48_Hourglass_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-075",
+      "stato": "ADOTTATO",
+      "decisione": "Astrolabe: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_49_Astrolabe_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-076",
+      "stato": "ADOTTATO",
+      "decisione": "Sepulchre: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_50_Sepulchre_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-077",
+      "stato": "ADOTTATO",
+      "decisione": "Seed: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_51_Seed_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-078",
+      "stato": "ADOTTATO",
+      "decisione": "Crown: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_52_Crown_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-079",
+      "stato": "ADOTTATO",
+      "decisione": "Chain: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_53_Chain_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-080",
+      "stato": "ADOTTATO",
+      "decisione": "Coin: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_54_Coin_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-081",
+      "stato": "ADOTTATO",
+      "decisione": "Banner: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_55_Banner_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-082",
+      "stato": "ADOTTATO",
+      "decisione": "Oracle: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_56_Oracle_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-083",
+      "stato": "ADOTTATO",
+      "decisione": "Archive: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_57_Archive_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-084",
+      "stato": "ADOTTATO",
+      "decisione": "Labyrinth: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_58_Labyrinth_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-085",
+      "stato": "ADOTTATO",
+      "decisione": "Tempest: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_59_Tempest_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-086",
+      "stato": "ADOTTATO",
+      "decisione": "Maw: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_60_Maw_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-087",
+      "stato": "ADOTTATO",
+      "decisione": "Loom: sette soglie, repertorio, incorporazione, prove, continuita e specifica di emblema.",
+      "fonte_o_successore": "GIOCATORE_61_Loom_progressione_completa.md; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-088",
+      "stato": "ADOTTATO",
+      "decisione": "Convenzioni 40 e audit 62 completano le condizioni delle progressioni senza assegnare inventario iniziale.",
+      "fonte_o_successore": "Manuali 40–64; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-089",
+      "stato": "ADOTTATO",
+      "decisione": "Tutte le Effigies restano acquisibili da altri; Cradle e Ruin non sono esclusive personali.",
+      "fonte_o_successore": "Manuali 40–64; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-090",
+      "stato": "ADOTTATO",
+      "decisione": "Difesa personale IV e arsenale proprio presenti in ogni percorso, senza gruppo o supporto esterno obbligatori.",
+      "fonte_o_successore": "Manuali 40–64; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-091",
+      "stato": "ADOTTATO",
+      "decisione": "Oracle deriva formule e Archive riattiva matrici attestate: fonte propria e repertori incorporati iniziali.",
+      "fonte_o_successore": "Manuali 40–64; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-092",
+      "stato": "ADOTTATO",
+      "decisione": "Mask e Labyrinth proteggono fisicamente con configurazioni investite, non soltanto ingannando il tiratore.",
+      "fonte_o_successore": "Manuali 40–64; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-093",
+      "stato": "ADOTTATO",
+      "decisione": "Coin usa risorse trasferibili e Loom condizioni reali: nessun prezzo metaforico o impossibile gratuito.",
+      "fonte_o_successore": "Manuali 40–64; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-094",
+      "stato": "SUPERATO NEL CONTEGGIO",
+      "decisione": "Conteggio storico; corrente CAN-228, approvazione qualitativa sospesa CAN-238.",
+      "fonte_o_successore": "Manuali 40–64; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-095",
+      "stato": "ADOTTATO",
+      "decisione": "Ventitré specifiche di emblema adottate; immagini definitive al punto 14.",
+      "fonte_o_successore": "Manuali 40–64; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-096",
+      "stato": "ADOTTATO",
+      "decisione": "Punto 4 completo: schede, audit, indice, esportazione e verifiche; prossimo punto 5.",
+      "fonte_o_successore": "Manuali 40–64; milestone 4.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-097",
+      "stato": "ADOTTATO",
+      "decisione": "Atlante: tre ambienti, sette tipi di regione; The Depth resta fondamento e non quarto continente.",
+      "fonte_o_successore": "Manuali 65–75 e richieste del giocatore; milestone 5.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-098",
+      "stato": "ADOTTATO",
+      "decisione": "Topologia spirituale e interiore distinta dalla distanza materiale; collegamento informativo non trasferisce automaticamente corpi.",
+      "fonte_o_successore": "Manuali 65–75 e richieste del giocatore; milestone 5.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-099",
+      "stato": "ADOTTATO",
+      "decisione": "Sei metodi di percorso richiedono riferimenti, investimento, contenuto trasferibile e condizioni di cessazione effettive.",
+      "fonte_o_successore": "Manuali 65–75 e richieste del giocatore; milestone 5.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-100",
+      "stato": "ADOTTATO",
+      "decisione": "The Origin innata: Internal Nexus, Working Boundary e Derivative Interface sono zone funzionali, non nuove autorità.",
+      "fonte_o_successore": "Manuali 65–75 e richieste del giocatore; milestone 5.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-101",
+      "stato": "ADOTTATO",
+      "decisione": "Cinque fenomeni di The Origin applicano Cradle, Ruin, Scroll, Halo, Heart e Fulfilment senza assegnare inventario iniziale.",
+      "fonte_o_successore": "Manuali 65–75 e richieste del giocatore; milestone 5.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-102",
+      "stato": "ADOTTATO",
+      "decisione": "The First Testament distingue corpus originario, memoria personale, osservazione, deduzione e ignoto; non sorveglia il presente.",
+      "fonte_o_successore": "Manuali 65–75 e richieste del giocatore; milestone 5.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-103",
+      "stato": "ADOTTATO",
+      "decisione": "Tutte le otto Roots hanno fenomeni, accessi, rischi, contromisure e risorse; una manifestazione non contiene necessariamente tutta la fonte.",
+      "fonte_o_successore": "Manuali 65–75 e richieste del giocatore; milestone 5.",
+      "versione": "1.18",
+      "data": "2026-10-10",
+      "superseded_scope": "Conteggio e completamento aggiornati da CAN-228–231; altre disposizioni restano valide."
+    },
+    {
+      "id": "CAN-104",
+      "stato": "ADOTTATO",
+      "decisione": "Sei classi di risorsa cosmica non conferiscono automaticamente Quality, Capacity, Seats o persone.",
+      "fonte_o_successore": "Manuali 65–75 e richieste del giocatore; milestone 5.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-105",
+      "stato": "ADOTTATO",
+      "decisione": "Sei condizioni della continuità applicano le regole vigenti: nuovo corpo, distribuzione, dormienza, replica, custodia, estinzione.",
+      "fonte_o_successore": "Manuali 65–75 e richieste del giocatore; milestone 5.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-106",
+      "stato": "ADOTTATO",
+      "decisione": "Cinque modelli di intervento esterno; provenienza remota non introduce un rango superiore o una Root aggiuntiva.",
+      "fonte_o_successore": "Manuali 65–75 e richieste del giocatore; milestone 5.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-107",
+      "stato": "ADOTTATO",
+      "decisione": "Dossier riservato 72: quattro persone remote e un investimento autonomo, attivi senza PG; identità e attività non sono sapere automatico.",
+      "fonte_o_successore": "Manuali 65–75 e richieste del giocatore; milestone 5.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-108",
+      "stato": "ADOTTATO",
+      "decisione": "Punto 6 collaborativo su identità, ricordi, corpo e dotazione; le verità ignote del protagonista restano separate.",
+      "fonte_o_successore": "Manuali 65–75 e richieste del giocatore; milestone 5.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-109",
+      "stato": "ADOTTATO",
+      "decisione": "Ampiezza richiesta: decine di centrali, 100–200 figure importanti e ulteriori centinaia di secondari funzionali; luoghi e istituzioni estesi.",
+      "fonte_o_successore": "Manuali 65–75 e richieste del giocatore; milestone 5.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-110",
+      "stato": "ADOTTATO",
+      "decisione": "Punto 5 completo: atlante 65–75, audit, indice, esportazione e verifiche; prossimo punto 6.",
+      "fonte_o_successore": "Manuali 65–75 e richieste del giocatore; milestone 5.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-111",
+      "stato": "ADOTTATO, REVISIONATO",
+      "decisione": "Vietata incorporazione personale stabile di gruppi differenti anche a I; ritirata la concessione estranea I–III. Origin e Testament non aggirano il vincolo.",
+      "fonte_o_successore": "Precisazione esplicita del giocatore; documento 76.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-112",
+      "stato": "ADOTTATO",
+      "decisione": "Origine personale da bambino umano oppresso e schiavo, poi liberatore con contributi di altri; dettagli biografici da consolidare.",
+      "fonte_o_successore": "Scelte dirette del giocatore; documento 76, punto 6 in corso.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-113",
+      "stato": "ADOTTATO",
+      "decisione": "Carattere antico orgoglioso e sarcastico, benevolo o duro, capace di amore e odio: dualita coerente, nessuna patologia imposta.",
+      "fonte_o_successore": "Scelte dirette del giocatore; documento 76, punto 6 in corso.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-114",
+      "stato": "ADOTTATO",
+      "decisione": "Corpo moderno Alexander, circa ventanni, atletico, circa 189 cm, capelli neri corti e occhi dorati; parentela e cognome da consolidare.",
+      "fonte_o_successore": "Scelte dirette del giocatore; documento 76, punto 6 in corso.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-115",
+      "stato": "ADOTTATO",
+      "decisione": "Memorie autobiografiche integrali del precedente duca, senza anima o volonta aggiuntiva; superata la bozza dei soli residui procedurali.",
+      "fonte_o_successore": "Scelte dirette del giocatore; documento 76, punto 6 in corso.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-116",
+      "stato": "ADOTTATO",
+      "decisione": "Duca giovane per successione recente, avvelenamento volontario, coma, morte e risveglio ignoto agli altri come ritorno della persona antica.",
+      "fonte_o_successore": "Scelte dirette del giocatore; documento 76, punto 6 in corso.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-117",
+      "stato": "ADOTTATO",
+      "decisione": "Apertura IV in tutte le cinque Effigi Sovereign adottata; inventario pratico ancora da presentare prima del dossier definitivo.",
+      "fonte_o_successore": "Scelte dirette del giocatore; documento 76, punto 6 in corso.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-118",
+      "stato": "ADOTTATO",
+      "decisione": "Deuteragonista dal basso con viaggio proprio, idoneo a protagonista della futura novel; Alexander autonomo. Nessuna crescita o alleanza garantita.",
+      "fonte_o_successore": "Scelte dirette del giocatore; documento 76, punto 6 in corso.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-119",
+      "stato": "ADOTTATO",
+      "decisione": "Cast antico con compagni, alleati e subordinati concreti; Alexander non compi da solo emancipazione e sovversione.",
+      "fonte_o_successore": "Scelte dirette del giocatore; documento 76, punto 6 in corso.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-120",
+      "stato": "ADOTTATO",
+      "decisione": "Norma una sola Effige; seconda nello stesso gruppo rara, rischiosa e mai acquisizione ordinaria. Root operativa può sostenere integrazione eccezionale.",
+      "fonte_o_successore": "Precisazioni dirette del giocatore; punto 6 in corso.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-121",
+      "stato": "ADOTTATO",
+      "decisione": "Nascita antica ordinaria non risvegliata, stadio 0 descrittivo; poi Awakening I e crescita progressiva. Non una nuova Threshold.",
+      "fonte_o_successore": "Precisazioni dirette del giocatore; punto 6 in corso.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-122",
+      "stato": "ADOTTATO",
+      "decisione": "Presupposti esclusivi di Cradle/Ruin interni dalla nascita e superstiti nella continuità: nessun altro VII di quelle due dopo la caduta.",
+      "fonte_o_successore": "Precisazioni dirette del giocatore; punto 6 in corso.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-123",
+      "stato": "ADOTTATO",
+      "decisione": "Esclusività natale delle Seats limitata a Cradle/Ruin; non Halo, Heart o Scroll. Presupposto presente non equivale a esercizio VII.",
+      "fonte_o_successore": "Precisazioni dirette del giocatore; punto 6 in corso.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-124",
+      "stato": "ADOTTATO",
+      "decisione": "Identità: Edran Vael nel corpo di Alexander Valcienne; una sola persona.",
+      "fonte_o_successore": "Dossier 77–88; mandato del giocatore, milestone 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-125",
+      "stato": "ADOTTATO",
+      "decisione": "Alexander: venti anni e cinque mesi, duca di Rovenne in Orsanne; 189 cm, capelli neri, occhi dorati naturali.",
+      "fonte_o_successore": "Dossier 77–88; mandato del giocatore, milestone 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-126",
+      "stato": "ADOTTATO",
+      "decisione": "Prima vita ordinaria: Cradle I a quattordici anni e Ruin I a sedici; crescita successiva.",
+      "fonte_o_successore": "Dossier 77–88; mandato del giocatore, milestone 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-127",
+      "stato": "ADOTTATO",
+      "decisione": "Biografia antica di 684 anni, liberazione collettiva e opere reali, distinte dalla storia moderna.",
+      "fonte_o_successore": "Dossier 77–88; mandato del giocatore, milestone 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-128",
+      "stato": "ADOTTATO",
+      "decisione": "Dotazione: Cradle, Ruin, Scroll, Halo e Heart IV, tutte le tecniche I–IV dei manuali.",
+      "fonte_o_successore": "Dossier 77–88; mandato del giocatore, milestone 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-129",
+      "stato": "ADOTTATO",
+      "decisione": "Difese corporee stabili e recupero estremo; carico condiviso, nessun Fulfilment completo iniziale.",
+      "fonte_o_successore": "Dossier 77–88; mandato del giocatore, milestone 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-130",
+      "stato": "ADOTTATO",
+      "decisione": "Memorie integrali del duca fino alla perdita di coscienza, con fonti e limiti dei rapporti ricevuti.",
+      "fonte_o_successore": "Dossier 77–88; mandato del giocatore, milestone 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-131",
+      "stato": "ADOTTATO",
+      "decisione": "Diciotto legami antichi: ranghi e ricordi non assegnano sorte moderna.",
+      "fonte_o_successore": "Dossier 77–88; mandato del giocatore, milestone 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-132",
+      "stato": "ADOTTATO",
+      "decisione": "Ritorno autentico definito nel riservato 84; nessuna seconda persona o resurrezione infinita.",
+      "fonte_o_successore": "Dossier 77–88; mandato del giocatore, milestone 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-133",
+      "stato": "ADOTTATO",
+      "decisione": "Condizioni moderne delle tre Seats non esclusive fissate nel riservato 84, non sapere automatico.",
+      "fonte_o_successore": "Dossier 77–88; mandato del giocatore, milestone 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-134",
+      "stato": "ADOTTATO",
+      "decisione": "Recupero V–VII attraverso qualità e accessi reali, senza tempi imposti o ripetizione della prima vita.",
+      "fonte_o_successore": "Dossier 77–88; mandato del giocatore, milestone 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-135",
+      "stato": "ADOTTATO",
+      "decisione": "Matrice personale di ventiquattro voci; sapere tecnico distinto da osservazione del presente.",
+      "fonte_o_successore": "Dossier 77–88; mandato del giocatore, milestone 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-136",
+      "stato": "ADOTTATO",
+      "decisione": "Cinque unità immediate nel riservato 85, autonome con due ingressi ciascuna; nessuna scelta PG prescritta.",
+      "fonte_o_successore": "Dossier 77–88; mandato del giocatore, milestone 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-137",
+      "stato": "ADOTTATO",
+      "decisione": "Yselle Valcienne è la zia; Celine è la sorella minore. Relazioni divergenti precedenti archiviate.",
+      "fonte_o_successore": "Dossier 77–88; mandato del giocatore, milestone 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-138",
+      "stato": "ADOTTATO",
+      "decisione": "Punto 6 completo nella prima edizione, documenti 77–88, esportazioni e audit.",
+      "fonte_o_successore": "Dossier 77–88; mandato del giocatore, milestone 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-139",
+      "stato": "ADOTTATO",
+      "decisione": "Prossimo punto 7: storia estesa, rispettando biografia e condizioni personali consolidate.",
+      "fonte_o_successore": "Dossier 77–88; mandato del giocatore, milestone 6.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-140",
+      "stato": "ADOTTATO",
+      "decisione": "Mondo abitato Avarenne, continente Mereth; nessuna equivalenza fra pianeta e universo.",
+      "fonte_o_successore": "Documenti 89–104, mandato autoriale; milestone 7.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-141",
+      "stato": "ADOTTATO",
+      "decisione": "Calendario Port Concord: CP/PC equivalente, anno zero; mesi gennaio–dicembre, lunghezze gregoriane prolettiche, settimana continua di sette giorni.",
+      "fonte_o_successore": "Correzione diretta del giocatore al punto 7; corpus 89–104 revisionato.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-142",
+      "stato": "ADOTTATO",
+      "decisione": "Apertura 18 maggio 812 CP; nascita del duca 18 dicembre 791, naufragio 26 marzo 812, rapporto 4 maggio, coma 14 maggio. Intervalli 53, 14 e 4 giorni preservati.",
+      "fonte_o_successore": "Correzione diretta del giocatore al punto 7; corpus 89–104 revisionato.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-143",
+      "stato": "ADOTTATO",
+      "decisione": "Calendario Liberation Reckoning e raccordo storico autoriale fissati; conversione completa non è sapere automatico.",
+      "fonte_o_successore": "Documenti 89–104, mandato autoriale; milestone 7.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-144",
+      "stato": "ADOTTATO",
+      "decisione": "Tredici ere e ottantacinque eventi principali determinano cause e successioni fino a T0.",
+      "fonte_o_successore": "Correzione diretta del giocatore al punto 7; corpus 89–104 revisionato.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-145",
+      "stato": "ADOTTATO",
+      "decisione": "Sei ordinamenti antichi e cinque popolazioni ricordate; oppressione non coincide con una singola specie.",
+      "fonte_o_successore": "Documenti 89–104, mandato autoriale; milestone 7.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-146",
+      "stato": "ADOTTATO",
+      "decisione": "The Origin si individua innatamente con Edran; il mondo preesiste, nessuna seconda volontà nel Testament.",
+      "fonte_o_successore": "Documenti 89–104, mandato autoriale; milestone 7.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-147",
+      "stato": "ADOTTATO",
+      "decisione": "Tre campagne e sei classi di opere hanno mezzi, responsabilità, manutenzione e stato moderno riservato.",
+      "fonte_o_successore": "Documenti 89–104, mandato autoriale; milestone 7.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-148",
+      "stato": "ADOTTATO",
+      "decisione": "Vigil Star reale e indipendente; collocazione extramondiale, non un nuovo sole locale senza conseguenze.",
+      "fonte_o_successore": "Documenti 89–104, mandato autoriale; milestone 7.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-149",
+      "stato": "ADOTTATO",
+      "decisione": "Nove Sedi: funzioni civili e nove delegati distinti; responsabilità e conoscenze individuali fissate.",
+      "fonte_o_successore": "Documenti 89–104, mandato autoriale; milestone 7.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-150",
+      "stato": "ADOTTATO",
+      "decisione": "Caduta estesa secondo 84 mediante investimenti reali; responsabilità individuali restano nel dossier riservato.",
+      "fonte_o_successore": "Documenti 89–104, mandato autoriale; milestone 7.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-151",
+      "stato": "ADOTTATO",
+      "decisione": "Oblio stratificato mediante perdite, omissioni, lingue e attribuzioni; nessun divieto universale di pronunciare il nome.",
+      "fonte_o_successore": "Documenti 89–104, mandato autoriale; milestone 7.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-152",
+      "stato": "ADOTTATO",
+      "decisione": "Ventitré Seats e otto integrazioni hanno stato moderno completo nel riservato 98, senza duplicazione piena.",
+      "fonte_o_successore": "Documenti 89–104, mandato autoriale; milestone 7.",
+      "versione": "1.18",
+      "data": "2026-10-10",
+      "superseded_scope": "Conteggio e completamento aggiornati da CAN-228–231; altre disposizioni restano valide."
+    },
+    {
+      "id": "CAN-153",
+      "stato": "ADOTTATO",
+      "decisione": "Sorti degli antichi compagni determinate; morte di Ceth precedente alla caduta è ricordo personale comunicato.",
+      "fonte_o_successore": "Documenti 89–104, mandato autoriale; milestone 7.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-154",
+      "stato": "ADOTTATO",
+      "decisione": "Due comunità superstiti conservano nome e memoria con pratiche e divergenze differenti; non onniscienza.",
+      "fonte_o_successore": "Documenti 89–104, mandato autoriale; milestone 7.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-155",
+      "stato": "ADOTTATO",
+      "decisione": "Storia industriale con stati, guerre, autori, risorse e conseguenze; macchine ordinarie e investite distinte.",
+      "fonte_o_successore": "Documenti 89–104, mandato autoriale; milestone 7.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-156",
+      "stato": "ADOTTATO",
+      "decisione": "Due culti e tre conflitti industriali attivi, ingressi concreti e pressioni che non impongono esiti.",
+      "fonte_o_successore": "Documenti 89–104, mandato autoriale; milestone 7.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-157",
+      "stato": "ADOTTATO",
+      "decisione": "Diciotto famiglie di prova hanno provenienza, autenticazione, limiti, falsi e canali alternativi.",
+      "fonte_o_successore": "Documenti 89–104, mandato autoriale; milestone 7.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-158",
+      "stato": "ADOTTATO",
+      "decisione": "Trasmissione del mezzo del ritorno tracciata nel riservato; nessuna genealogia predestinata.",
+      "fonte_o_successore": "Documenti 89–104, mandato autoriale; milestone 7.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-159",
+      "stato": "ADOTTATO",
+      "decisione": "Milestone 7 completa, corpus 89–104 ed esportazioni separate; prossimo punto 8 geografia e ambiente.",
+      "fonte_o_successore": "Documenti 89–104, mandato autoriale; milestone 7.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-160",
+      "stato": "ADOTTATO",
+      "decisione": "Mesi familiari per leggibilità; convenzione editoriale senza introdurre storia terrestre nel mondo.",
+      "fonte_o_successore": "Correzione del punto 7, 10 ottobre 2026.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-161",
+      "stato": "ADOTTATO",
+      "decisione": "Assenza del liberatore estesa oltre diecimila anni; cronologia esatta e raccordi restano nei dossier riservati.",
+      "fonte_o_successore": "Correzione del punto 7, 10 ottobre 2026.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-162",
+      "stato": "ADOTTATO",
+      "decisione": "Epoche intermedie sviluppate mediante trasformazioni istituzionali, linguistiche e materiali, senza immobilità o reset universali.",
+      "fonte_o_successore": "Correzione del punto 7, 10 ottobre 2026.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-163",
+      "stato": "ADOTTATO",
+      "decisione": "Culti superstiti con traduzioni, adozioni, riforme e continuità verificabile; componenti comuni soggetti a ricambio.",
+      "fonte_o_successore": "Correzione del punto 7, 10 ottobre 2026.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-164",
+      "stato": "ADOTTATO",
+      "decisione": "Gli antichi sopravvissuti conservano memoria personale: oblio pubblico non equivale ad amnesia universale.",
+      "fonte_o_successore": "Correzione del punto 7, 10 ottobre 2026.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-165",
+      "stato": "ADOTTATO",
+      "decisione": "Correzione storica propagata a dossier, esportazioni e registro; progressioni, dotazione personale e scelte future invariate.",
+      "fonte_o_successore": "Correzione del punto 7, 10 ottobre 2026.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-166",
+      "stato": "ADOTTATO",
+      "decisione": "Pianeta Avarenne: scala materiale abitabile, cinque continenti e oceani comunicanti; stella locale distinta dalle opere antiche.",
+      "fonte_o_successore": "Milestone 8, mandato autoriale; documenti 105–121.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-167",
+      "stato": "ADOTTATO",
+      "decisione": "Geografia mondiale articolata in 27 sistemi territoriali e stime demografiche coerenti, senza duplicare città e nazioni.",
+      "fonte_o_successore": "Milestone 8, mandato autoriale; documenti 105–121.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-168",
+      "stato": "ADOTTATO",
+      "decisione": "Regione iniziale: Orsanne occidentale, Reth oltre Sarn, undici principati di Ovel e sei repubbliche neressane.",
+      "fonte_o_successore": "Milestone 8, mandato autoriale; documenti 105–121.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-169",
+      "stato": "ADOTTATO",
+      "decisione": "Rovenne a 23 km stradali da Lethorne; geometria della residenza e distribuzione patrimoniale compatibili con 79.",
+      "fonte_o_successore": "Milestone 8, mandato autoriale; documenti 105–121.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-170",
+      "stato": "ADOTTATO",
+      "decisione": "Climi, risorse e quattro bacini hanno cause fisiche e filiere; nessunminerale universale dàogni potere.",
+      "fonte_o_successore": "Milestone 8, mandato autoriale; documenti 105–121.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-171",
+      "stato": "ADOTTATO",
+      "decisione": "Trentanove tratte ordinarie e quattro tracciati oceanici fissano distanze, tempi, attese e accessi alternativi.",
+      "fonte_o_successore": "Milestone 8, mandato autoriale; documenti 105–121.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-172",
+      "stato": "ADOTTATO",
+      "decisione": "Otto siti soprannaturali localizzati distinguono accessi, ritorno, trasferibili, effetti e investimenti; schede riservate 115.",
+      "fonte_o_successore": "Milestone 8, mandato autoriale; documenti 105–121.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-173",
+      "stato": "ADOTTATO",
+      "decisione": "Territori antichi e moderni raccordati con strati e prove; dodicimila anni non implicano pianeta immobile o amnesia degli immortali.",
+      "fonte_o_successore": "Milestone 8, mandato autoriale; documenti 105–121.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-174",
+      "stato": "ADOTTATO",
+      "decisione": "Cartografia tecnica SVGderivata da geometria; mappe pubbliche non etichettano segreti, immagini definitive al punto 14.",
+      "fonte_o_successore": "Milestone 8, mandato autoriale; documenti 105–121.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-175",
+      "stato": "ADOTTATO",
+      "decisione": "Conoscenza geografica distinta fra ricordo vissuto, atlante scolastico e diagnosi; nessuna nuova amnesia editoriale.",
+      "fonte_o_successore": "Milestone 8, mandato autoriale; documenti 105–121.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-176",
+      "stato": "ADOTTATO",
+      "decisione": "Quattro unità geografiche attive con ingressi, pressioni e sviluppi aperti, senza azioni dei PGimposte.",
+      "fonte_o_successore": "Milestone 8, mandato autoriale; documenti 105–121.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-177",
+      "stato": "ADOTTATO",
+      "decisione": "Milestone 8 completa nel corpus 105–121; prossimo punto 9 società ed economia, wiki ancora da implementare.",
+      "fonte_o_successore": "Milestone 8, mandato autoriale; documenti 105–121.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "PROP-001",
+      "stato": "ADOTTATO",
+      "decisione": "Catalogo consolidato di 23 Effigi; autorità macro e confini nel documento 27. Non è una raccolta di progressioni già complete.",
+      "fonte_o_successore": "Milestone 2 conclusa; tecniche e progressioni nel punto 4.",
+      "versione": "1.18",
+      "data": "2026-10-10",
+      "superseded_scope": "Conteggio e completamento aggiornati da CAN-228–231; altre disposizioni restano valide."
+    },
+    {
+      "id": "PROP-002",
+      "stato": "ADOTTATO",
+      "decisione": "Autorità macro di tutti i percorsi fissate nel documento 27; otto integrazioni nel documento 28. Le mappe archiviate non prevalgono.",
+      "fonte_o_successore": "Milestone 2 conclusa.",
+      "versione": "1.18",
+      "data": "2026-10-10",
+      "superseded_scope": "Conteggio e completamento aggiornati da CAN-228–231; altre disposizioni restano valide."
+    },
+    {
+      "id": "PROP-003",
+      "stato": "ADOTTATO",
+      "decisione": "Specifiche dei ventitré emblemi nelle schede 41–61, 168 e 170; immagini definitive ancora da produrre.",
+      "fonte_o_successore": "Punto 4 completato; immagini al punto 14.",
+      "versione": "1.18",
+      "data": "2026-10-10",
+      "superseded_scope": "Conteggio e completamento aggiornati da CAN-228–231; altre disposizioni restano valide."
+    },
+    {
+      "id": "PROP-004",
+      "stato": "RECUPERO EDITORIALE",
+      "decisione": "Nomi personali e geografici, date indicative, biografie, dati economici e scenari già scritti. Non si cancellano, ma non sono automaticamente consolidati.",
+      "fonte_o_successore": "Punti 6–12 secondo matrice 24.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "PROP-005",
+      "stato": "PROPOSTA APERTA",
+      "decisione": "Cloudflare Pages come possibile hosting gratuito. Non è un servizio già configurato né una garanzia di lettura integrale da ChatGPT.",
+      "fonte_o_successore": "Punti 15,16.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "PROP-006",
+      "stato": "ADOTTATO",
+      "decisione": "Presupposti esclusivi di Cradle/Ruin nati dentro Alexander e rimasti nella sua continuità dopo la caduta: nessun altro VII di queste due Effigi durante lassenza. Nascita senza poteri, poi I e crescita; nessuna esclusività natale sulle altre tre.",
+      "fonte_o_successore": "Precisazione esplicita del giocatore; 26, 34, 67, 76.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-178",
+      "stato": "ADOTTATO",
+      "decisione": "Ventisette sistemi territoriali hanno profili politici e giudiziari distinti; Concord resta rete di accordi, non governo planetario.",
+      "fonte_o_successore": "122–123, 132",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-179",
+      "stato": "ADOTTATO",
+      "decisione": "Economia industriale con prezzi e salari datati; creazione e cure autentiche funzionano e possono modificarne le condizioni.",
+      "fonte_o_successore": "124–125, 134",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-180",
+      "stato": "ADOTTATO",
+      "decisione": "Una corona orsannica vale cento centesimi; cambi regionali sono quotazioni datate, non equivalenze cosmiche.",
+      "fonte_o_successore": "124",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-181",
+      "stato": "ADOTTATO",
+      "decisione": "Dodici reti religiose distinguono dottrina, servizi, patrocini reali e verità storica; fede e rito non attribuiscono automaticamente Effigi o Seats.",
+      "fonte_o_successore": "126, 131",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-182",
+      "stato": "ADOTTATO",
+      "decisione": "Istruzione, licenza professionale e incorporazione sono categorie distinte; restano i vincoli del sistema corrente.",
+      "fonte_o_successore": "127",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-183",
+      "stato": "ADOTTATO",
+      "decisione": "La casata conserva memoria del registro del 4 maggio; movimenti successivi e saldo del risveglio sono accessibili tramite fonti contemporanee.",
+      "fonte_o_successore": "128, 130, 133",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-184",
+      "stato": "ADOTTATO",
+      "decisione": "Organico ordinario: trentotto residenti, sei agenti territoriali esterni e personale medico temporaneo separato; Yselle è zia non residente.",
+      "fonte_o_successore": "128, 133",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-185",
+      "stato": "ADOTTATO",
+      "decisione": "Dodici fazioni hanno azione autonoma, conflitti, limiti, segreti, almeno due ingressi e sviluppi aperti.",
+      "fonte_o_successore": "135–138",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-186",
+      "stato": "ADOTTATO",
+      "decisione": "Le unità pregresse mantengono identità e date; udienza CULT-01/IND-03 e controllo FAC-04/IND-01 non sono eventi duplicati.",
+      "fonte_o_successore": "137",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-187",
+      "stato": "ADOTTATO",
+      "decisione": "Estetica prevalente tardo-ottocentesca, con modernità diseguale; nessuna tecnologia di comunicazione globale istantanea.",
+      "fonte_o_successore": "129",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-188",
+      "stato": "ADOTTATO",
+      "decisione": "Memorie linguistiche del duca e di Edran distinte; lingue antiche non equivalgono a comprensione universale delle lingue moderne.",
+      "fonte_o_successore": "129–130",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-189",
+      "stato": "ADOTTATO",
+      "decisione": "Milestone 9 completa; cast esteso e deuteragonista al punto 10, immagini e wiki ancora successive.",
+      "fonte_o_successore": "139–141",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-190",
+      "stato": "ADOTTATO",
+      "decisione": "Mask ha offesa fisica, spirituale e di riconoscimento progressiva; rappresentazioni e Avatar condividono capacità. Le quattro autorità restano invariate e non attribuiscono copie personali a tutte le Effigi.",
+      "fonte_o_successore": "Scheda 47 versione 1.1; audit 62; Progressioni_effigi.json.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-191",
+      "stato": "ADOTTATO",
+      "decisione": "Fulfilment è il nome ufficiale dell’operazione emergente del Sovereign; nessuna sesta Effigy o promozione iniziale.",
+      "fonte_o_successore": "29 e 144; scelta diretta del giocatore",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-192",
+      "stato": "ADOTTATO",
+      "decisione": "Mask sola attribuisce copie operative personali nel catalogo corrente. Altre Effigi hanno solo modalità, effetti o supporti pertinenti; VI non richiede Avatar o distribuzione personale.",
+      "fonte_o_successore": "33, 36, 40, 41–61, 82 e 143; vincolo del giocatore",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-193",
+      "stato": "ADOTTATO",
+      "decisione": "Halo V permette transito dell’unica persona trasformata in luce, a velocità luminosa lungo percorsi accessibili; portata cresce con il rango, nessuna velocità cognitiva universale o corpo lasciato indietro.",
+      "fonte_o_successore": "44 e 144; direzione approvata dal giocatore",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "PROP-007",
+      "stato": "ADOTTATA CON CORREZIONI",
+      "decisione": "Proprietà intrinseche Origin consolidate con interno fisico, archivio e accessi delimitati.",
+      "fonte_o_successore": "Dossier 67; richiesta del giocatore.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-194",
+      "stato": "ADOTTATO",
+      "decisione": "Tutte e sette le Roots hanno realtà fisica, sostanza e interni materialmente interagibili; accesso mentale, spirituale e corporeo distinti.",
+      "fonte_o_successore": "Catalogo 69 e sintesi 146",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-195",
+      "stato": "ADOTTATO",
+      "decisione": "Origin conserva oggetti e archivio personale tramite accessi autentici; First Testament resta sapere innato distinto e non aggiunge conoscenza moderna automaticamente.",
+      "fonte_o_successore": "Dossier 67",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-196",
+      "stato": "ADOTTATO",
+      "decisione": "Le proprietà intrinseche OP-01–05 e O-ENTRY-01 di Origin sono consolidate; esercizio attuale entro tenuta IV, nessuna nuova ancora o copia personale, ritorno al punto di ingresso registrato.",
+      "fonte_o_successore": "Dossier 67 e dotazione 81",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-197",
+      "stato": "ADOTTATO",
+      "decisione": "Origin alimenta e favorisce recupero della riserva oltre il corpo; guarigione richiede Heart o tecnica pertinente e alimentazione non promuove la Quality.",
+      "fonte_o_successore": "Dossier 67 e 146",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-198",
+      "stato": "ADOTTATO",
+      "decisione": "Direzione adulta B adottata: corpo, potere e istituzioni; body horror e temi intimi pertinenti, senza rifare mondo o progressioni.",
+      "fonte_o_successore": "148; approvazione diretta del giocatore dopo ricerca 147",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-199",
+      "stato": "ADOTTATO",
+      "decisione": "Trasformazione controllata, aggressione, sovraccarico e cedimento sono condizioni distinte; forma inquietante non equivale a follia o malvagità.",
+      "fonte_o_successore": "148, 149 e manuale 36",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-200",
+      "stato": "ADOTTATO",
+      "decisione": "Cure e creazione approvate conservano efficacia; nessun prezzo corporeo, difetto o Avatar aggiunto automaticamente per il tono adulto.",
+      "fonte_o_successore": "148, matrice 149 e progressioni 41–61",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-201",
+      "stato": "ADOTTATO",
+      "decisione": "Assenso interiorizzato non prova consenso libero; temi intimi e violazioni trattati secondo autonomia, conseguenze e agency aperta.",
+      "fonte_o_successore": "148, 150, manuali 36 e 38",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-202",
+      "stato": "ADOTTATO",
+      "decisione": "Criteri del cast pre-10 consolidati: ruoli e reti, corpo e persona distinti, deuteragonista centrale con viaggio dal basso e gruppo senza centralità iniziale obbligatoria di Alexander.",
+      "fonte_o_successore": "150; direzioni del giocatore già adottate",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-203",
+      "stato": "ADOTTATO",
+      "decisione": "Cast 10 consolidato: 463 identità, 37 centrali, 151 importanti e 275 funzionali; dossier, inventari e reti indicizzati.",
+      "fonte_o_successore": "152, 155–164; mandato del giocatore",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-204",
+      "stato": "ADOTTATO",
+      "decisione": "Deuteragonista con viaggio dal basso, dotazione personale iniziale singola e passato definitivo; futuro cosmico, alleanze e sopravvivenza aperti.",
+      "fonte_o_successore": "Dossier riservato 153; direzione del giocatore",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-205",
+      "stato": "ADOTTATO",
+      "decisione": "Gruppo di scambio consolidato con fondazione, accesso fisico, risorse limitate e autonomia dei partecipanti; nessuna centralità iniziale obbligatoria di Alexander.",
+      "fonte_o_successore": "Dossier riservato 154; direzione del giocatore",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-206",
+      "stato": "ADOTTATO",
+      "decisione": "Inventari storici separati da quelli al risveglio; nessuna nuova Effige o risorsa personale assegnata ad Alexander.",
+      "fonte_o_successore": "160, 81 e registro delle Seats 98",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-207",
+      "stato": "ADOTTATO",
+      "decisione": "Nomi e mansioni familiari ricordati separati dai segreti del cast; informazioni moderne non diventano memoria automatica.",
+      "fonte_o_successore": "159, Cast_conosciuto.json, 80 e 128",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-208",
+      "stato": "ADOTTATO",
+      "decisione": "Immagini e pagine wiki non prodotte nel punto 10; schede visive centrali fissate come specifiche autoriali, sviluppo dei volumi nel punto 12.",
+      "fonte_o_successore": "152, 163; roadmap 12, 14–15",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-228",
+      "stato": "ADOTTATO",
+      "decisione": "23 Effigi, sette stadi ciascuna; 85 autorità autonome e 595 abilità macro sovrannaturali. Una funzione nuova per ramo per stadio; varianti e crescita quantitativa non valgono come nuclei distinti.",
+      "fonte_o_successore": "Precisazioni dirette del giocatore; revisione RAMI-23-04, documenti 41–61, 168, 170 e 177.",
+      "versione": "1.19",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-229",
+      "stato": "ADOTTATO",
+      "decisione": "Oracle: Knowledge, Interpretation, Divination, Spellcraft. Archive: Memory, Trace, Attestation, Preservation, Re-enactment. Magie autonome differenziate.",
+      "fonte_o_successore": "Richiesta corrente e revisione 23-EFF-01; 173.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-230",
+      "stato": "ADOTTATO",
+      "decisione": "Eclipse e Crescent formano The Nocturne con Hidden Communion e Root fisica The Veiled Basin. Otto famiglie, otto Roots, due Axials.",
+      "fonte_o_successore": "Richiesta corrente e revisione 23-EFF-01; 173.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-231",
+      "stato": "ADOTTATO",
+      "decisione": "Cast integrato a 463 figure; nessuna nuova assegnazione personale al protagonista o deuteragonista. Raccordi dal punto 4 al punto 10 revisionati; wiki e immagini restano future.",
+      "fonte_o_successore": "Richiesta corrente e revisione 23-EFF-01; 173.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-232",
+      "stato": "ADOTTATO",
+      "decisione": "Ogni autorità sblocca almeno una funzione macro distinta per stadio; potenza, portata, bersagli o rango del bersaglio non bastano a definire una cella nuova.",
+      "fonte_o_successore": "Precisazione del giocatore; manuali delle 23 Effigi e 175.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-233",
+      "stato": "ADOTTATO",
+      "decisione": "Le abilità inferiori crescono automaticamente con il rango nella propria funzione; costituzione semidivina, Core angelico e Seat divina amplificano il repertorio e non sostituiscono gli sblocchi.",
+      "fonte_o_successore": "Precisazione del giocatore; convenzioni 40 e 175.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-234",
+      "stato": "ADOTTATO",
+      "decisione": "Confini fra autorità valutati per oggetto governato e procedimento; offesa e difesa autonome, nessun Avatar aggiunto e nessuna assegnazione personale estranea.",
+      "fonte_o_successore": "Manuali vigenti, verifica 175 e casi 176.",
+      "versione": "1.18",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "RET-001",
+      "stato": "RITIRATO",
+      "decisione": "Catalogo precedente a 32 Effigi, cinque stati, gerarchie, progressioni e integrazioni del vecchio sistema. I nuovi gradi sono stabiliti nel documento 33; i vecchi cinque stati restano ritirati.",
+      "fonte_o_successore": "",
+      "versione": "1.14",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "RET-002",
+      "stato": "RITIRATO",
+      "decisione": "Vasaio–Martello e precedenti assegnazioni personali. La loro approvazione storica non vincola la nuova progettazione.",
+      "fonte_o_successore": "",
+      "versione": "1.14",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "RET-003",
+      "stato": "RITIRATO",
+      "decisione": "Foundation, Dissolution e Presence come rami personali; non ricompaiono tramite un cambio di nome.",
+      "fonte_o_successore": "",
+      "versione": "1.14",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "RET-004",
+      "stato": "RITIRATO",
+      "decisione": "Alternative personali Consecration, Animation e Sacrifice: non adottate.",
+      "fonte_o_successore": "",
+      "versione": "1.14",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "RET-005",
+      "stato": "RITIRATO",
+      "decisione": "Conception come Effige personale separata: la sua funzione creativa è inclusa in Cradle.",
+      "fonte_o_successore": "",
+      "versione": "1.14",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "RET-006",
+      "stato": "RITIRATO",
+      "decisione": "Faro come percorso separato: escluso dal catalogo candidato.",
+      "fonte_o_successore": "",
+      "versione": "1.14",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "RET-007",
+      "stato": "RITIRATO",
+      "decisione": "Calice come percorso separato: nucleo vitale confluito in Heart. Seed resta da distinguere, non è cancellato per questo.",
+      "fonte_o_successore": "",
+      "versione": "1.14",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "RET-008",
+      "stato": "RITIRATO",
+      "decisione": "Suono/risonanza come centro del Verbo; vale CAN-024/025.",
+      "fonte_o_successore": "",
+      "versione": "1.14",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "RET-009",
+      "stato": "RITIRATO",
+      "decisione": "Origine ordinaria imposta e successiva ascensione secondo le vecchie fasi: va riconciliata con CAN-010, senza imporre qui un nuovo background dettagliato.",
+      "fonte_o_successore": "",
+      "versione": "1.14",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "RET-010",
+      "stato": "RITIRATO",
+      "decisione": "Vecchia dotazione numerica al ritorno, vecchi limiti e strumenti personali come assegnazione attuale. Nuovo inventario nel punto 6.",
+      "fonte_o_successore": "",
+      "versione": "1.14",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "RET-011",
+      "stato": "RITIRATO",
+      "decisione": "Corpus esclusivamente esterno come sostituto del sapere innato. Eventuali documenti esterni potranno esistere, senza sostituire CAN-010/012.",
+      "fonte_o_successore": "",
+      "versione": "1.14",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "RET-012",
+      "stato": "RITIRATO",
+      "decisione": "Wiki esclusivamente locale o consultabile solo in forma parziale dal proprietario come soluzione finale.",
+      "fonte_o_successore": "",
+      "versione": "1.14",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-235",
+      "stato": "ADOTTATO",
+      "decisione": "Ogni abilità macro deve essere sovrannaturale: nessuna osservazione, preparazione, immaginazione, memoria o scelta ordinaria vale da sola come potere.",
+      "fonte_o_successore": "Richieste dirette del giocatore; revisione 177.",
+      "versione": "1.19",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-236",
+      "stato": "ADOTTATO",
+      "decisione": "Ogni autorità è un ramo autonomo con effetti e accessi propri; sinergie facoltative, input ordinari ammessi, nessun altro ramo obbligatorio. L’acquisizione resta dell’Effige.",
+      "fonte_o_successore": "Richieste dirette del giocatore; revisione 177.",
+      "versione": "1.19",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-237",
+      "stato": "ADOTTATO",
+      "decisione": "Cradle e Ruin hanno sette sblocchi ciascuna; nessun obbligo di mantenere autorità complementari per riempire una griglia. Rango e ampiezza cosmica non dipendono dal numero dei rami.",
+      "fonte_o_successore": "Richieste dirette del giocatore; revisione 177.",
+      "versione": "1.19",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-238",
+      "stato": "ADOTTATO",
+      "decisione": "Le 23 Effigi sono strutturalmente presenti; approvazione qualitativa sospesa al giocatore prima della wiki.",
+      "fonte_o_successore": "178 riservato; 179 condiviso; istruzione corrente",
+      "versione": "1.20",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-239",
+      "stato": "ADOTTATO",
+      "decisione": "Raccordo MONDO-23-05 dei punti 5–10; 463 identità, 58 reti, nessuna nuova assegnazione personale.",
+      "fonte_o_successore": "178 riservato; 179 condiviso; istruzione corrente",
+      "versione": "1.20",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-240",
+      "stato": "ADOTTATO",
+      "decisione": "Audit narrativo dell’integrazione nel corpus 1–10; nessuna nuova abilità o scelta futura imposta.",
+      "fonte_o_successore": "180 riservato; 181 senza spoiler",
+      "versione": "1.21",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-241",
+      "stato": "ADOTTATO",
+      "decisione": "Catalogo di 80 voci: 25 dispositivi, 18 materiali, 20 creature e condizioni, cinque popoli, dodici fenomeni; dodici nuove unità e nove unità precedenti raccordate.",
+      "fonte_o_successore": "183–192; milestone 11",
+      "versione": "1.22",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-242",
+      "stato": "ADOTTATO",
+      "decisione": "Proprietà, custodia, comando, rifornimento, investimento e incorporazione restano distinti. Nessuna nuova dotazione personale o Root; 23 progressioni sospese al feedback del giocatore.",
+      "fonte_o_successore": "183–192; milestone 11",
+      "versione": "1.22",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-243",
+      "stato": "ADOTTATO",
+      "decisione": "Biologie e diaspore delle cinque popolazioni ricordate; nessuna Effige, fede o colpa obbligatoria per origine.",
+      "fonte_o_successore": "183–192; milestone 11",
+      "versione": "1.22",
+      "data": "2026-10-10"
+    },
+    {
+      "id": "CAN-244",
+      "stato": "ADOTTATO",
+      "decisione": "Otto volumi e almeno 1.500 capitoli: base autoriale1.600, quaranta archi. Budget editoriale distinto dalla durata della partita.",
+      "fonte_o_successore": "194–205; richiesta e ricerca193",
+      "versione": "1.23",
+      "data": "2026-10-11"
+    },
+    {
+      "id": "CAN-245",
+      "stato": "ADOTTATO",
+      "decisione": "Punto 12 completo nella prima edizione: temi, due linee, archi, misteri, agenda, biforcazioni e apertura. Esiti futuri e scelte restano aperti.",
+      "fonte_o_successore": "194–205; richiesta e ricerca193",
+      "versione": "1.23",
+      "data": "2026-10-11"
+    },
+    {
+      "id": "CAN-246",
+      "stato": "ADOTTATO",
+      "decisione": "Il Narratorepreserva fatti e causalità, non ordine delle scene; deduzioni anticipate, recuperi validi e soluzioni effettive modificano la struttura senza retcon.",
+      "fonte_o_successore": "194–205; richiesta e ricerca193",
+      "versione": "1.23",
+      "data": "2026-10-11"
+    },
+    {
+      "id": "CAN-247",
+      "stato": "ADOTTATO",
+      "decisione": "Punto 13: edizione autonoma del Narratore con biblioteca, dossier condivisi e riservati, protocollo, checkpoint e registri; archivi esclusi.",
+      "fonte_o_successore": "207–216; pacchetto 13",
+      "versione": "1.24",
+      "data": "2026-10-11"
+    },
+    {
+      "id": "CAN-248",
+      "stato": "ADOTTATO",
+      "decisione": "Il checkpoint aggiorna eventi e stato; non cambia autonomamente il canone. Conoscenze del PG e verità riservate restano distinte.",
+      "fonte_o_successore": "207–216; pacchetto 13",
+      "versione": "1.24",
+      "data": "2026-10-11"
+    },
+    {
+      "id": "CAN-249",
+      "stato": "ADOTTATO",
+      "decisione": "Caricare fonti nel progetto ChatGPT normale; nessun accesso automatico al PC. Test reale della chat e della wiki al16; progressioni ancora in attesa di approvazione.",
+      "fonte_o_successore": "207–216; pacchetto 13",
+      "versione": "1.24",
+      "data": "2026-10-11"
+    },
+    {
+      "id": "CAN-326",
+      "stato": "ADOTTATO",
+      "decisione": "Rafforzare opposizioni e cast Bearer del presente: 12 fronti, 24 nuovi personaggi e 36 assegnazioni personali esplicite; non trasformare tutto il cast civile in agenti segreti.",
+      "fonte_o_successore": "Richiesta utente: assegna anche più Bearer e fai quello che ci siamo detti. RISERVATO_326 e Fronti_operativi_326.json",
+      "versione": "326"
+    }
+  ],
+  "revision": "MILESTONE13-01"
+}

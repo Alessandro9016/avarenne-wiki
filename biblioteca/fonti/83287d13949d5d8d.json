@@ -1,0 +1,3997 @@
+{
+  "status": "PASS",
+  "milestone": 8,
+  "date": "2026-10-10",
+  "check_count": 994,
+  "checks": [
+    {
+      "name": "Antecedente preservato: 00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: 103_Indice_della_storia.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: 104_Chiusura_milestone_7.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: 20_Roadmap_generale_fino_alla_wiki.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: 21_Audit_materiali_e_migrazione.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: 22_Inventario_documentale.csv",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: 23_Registro_unico_del_canone.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: 24_Matrice_di_recupero_e_ricostruzione.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: 25_Chiusura_milestone_1.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: 32_Chiusura_milestone_2.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: 39_Chiusura_milestone_3.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: 63_Indice_delle_Effigi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: 64_Chiusura_milestone_4.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: 74_Indice_dell_atlante_cosmologico.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: 75_Chiusura_milestone_5.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: 87_Indice_del_protagonista.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: 88_Chiusura_milestone_6.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_102_Audit_storico_e_confini_del_sapere.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_26_Fondamenti_cosmologici.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_27_Catalogo_macro_delle_21_Effigi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_28_Le_sette_integrazioni_cosmiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_29_The_Sovereign_Completezza_e_poteri_cosmici.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_30_Confini_contese_e_verifica_macro.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_33_Lessico_e_sette_soglie.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_36_Corpo_spirito_manifestazioni_e_morte.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_38_Poteri_e_vita_comune.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_41_Cradle_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_42_Ruin_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_43_Scroll_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_44_Halo_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_45_Heart_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_46_Crucible_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_47_Mask_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_48_Hourglass_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_49_Astrolabe_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_50_Sepulchre_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_51_Seed_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_52_Crown_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_53_Chain_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_54_Coin_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_55_Banner_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_56_Oracle_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_57_Archive_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_58_Labyrinth_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_59_Tempest_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_60_Maw_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_61_Loom_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_62_Audit_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_65_Atlante_del_reale.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_66_Accessi_viaggi_e_comunicazioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_68_The_First_Testament_consultazione.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_69_Roots_e_risorse_cosmiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_70_Identita_continuita_e_recupero.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_71_Interventi_esterni_e_diagnosi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_73_Audit_cosmologico_e_casi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_77_Identita_di_Edran_e_Alexander.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_78_Prima_vita_e_ricordi_consolidati.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_80_Legami_antichi_che_ricordi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_82_Recupero_delle_antiche_capacita.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_83_Matrice_delle_conoscenze_personali.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_86_Audit_del_protagonista.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_89_Calendario_e_date_accessibili.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_90_Societa_antiche_e_liberazione_ricordata.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_91_Storia_pubblica_conosciuta_dal_duca.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_92_Industria_scoperte_e_eredita_materiale.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: GIOCATORE_93_Conoscenza_storica_e_riconoscimenti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RISERVATO_100_Storia_industriale_stati_e_conflitti_aperti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RISERVATO_101_Repertorio_delle_prove_e_trasmissioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RISERVATO_31_Vincoli_autoriali_della_nuova_architettura.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RISERVATO_72_Presenze_esterne_e_pressioni_cosmiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RISERVATO_85_Apertura_personale_e_rete_immediata.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RISERVATO_94_Cronologia_integrale_ed_ere.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RISERVATO_95_Origini_societa_e_potenze_antiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RISERVATO_96_Campagne_opere_ed_eredita_del_Creator.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RISERVATO_97_Caduta_Nove_Sedi_e_storia_delle_attribuzioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/00_STATO_ARCHIVIO.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Architettura_cosmica.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Atlante_cosmologico.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Manifesto_consolidamento.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Manifesto_milestone_2.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Manifesto_milestone_3.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Manifesto_milestone_4.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Manifesto_milestone_5.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Manifesto_milestone_6.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Manifesto_milestone_7.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Piano_spostamenti_originali.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Progressioni_effigi.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Protagonista.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Protagonista_riservato.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Registro_decisioni.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Regole_comuni.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Storia_condivisa.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Storia_riservata.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Verifica_correzione_storia_01.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Verifica_decisioni_protagonista_01.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Verifica_decisioni_protagonista_02.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Verifica_locale.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Verifica_milestone_2.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Verifica_milestone_3.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Verifica_milestone_4.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Verifica_milestone_5.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Verifica_milestone_6.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: CANONE_VIGENTE/Verifica_milestone_7.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/Indice_estratti.csv",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/01_Direzione_e_produzione.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/Basi_del_progetto_originale.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/GIOCATORE_01_Cio_che_ricordi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/GIOCATORE_02_Capacita_del_ritorno.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/GIOCATORE_03_Autorita_e_strumenti_antichi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/GIOCATORE_04_Scala_e_conoscenza_del_sistema.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_01_Fondazione_autoriale.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_02_Sistema_sovrannaturale.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_03_Storia_e_cosmologia.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_04_Forze_e_unita_di_gioco.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_05_Protagonista_e_matrice.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_06_Capacita_e_interferenze.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_07_Apertura_capacita_e_risorse.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_08_Casata_e_societa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_09_Autorita_cosmiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_10_Geografia_e_rete_internazionale.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_11_Deuteragonista.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_12_Corpus_e_sapere.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_13_Caduta_ritorno_e_successione.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_14_Domini_personali_e_integrazione.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/07_Ricerca_comparata_e_proposta_del_sistema.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/08_Mappa_delle_autorita_e_percorsi_candidati.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/09_Autonomia_bellica_e_scala_cosmica.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/10_Sovereign_Origin_confini_dei_fondamenti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/11_Genesis_Foundation_Dissolution_abilita_pratiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/12_Poli_opposti_e_alternative_a_Foundation.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/13_Genesis_Destruction_scelta_e_rami_aperti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/14_Ricerca_conoscenza_creazione_e_presenza.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/15_Gloria_e_Verbo_autorita_e_autonomia.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/16_Magia_di_Oracle_Archive_e_Verbo_della_volonta.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/17_Quinto_ramo_Soffio_vitale_proposta.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/18_Soffio_vitalita_iniziale_e_fusione_Calice.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/19_Nomi_ed_Effigi_identita_visiva.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/104_Chiusura_milestone_7.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/21_Audit_materiali_e_migrazione.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/23_Registro_unico_del_canone.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/CANONE_VIGENTE__00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/CANONE_VIGENTE__Manifesto_milestone_7.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/CANONE_VIGENTE__Protagonista_riservato.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/CANONE_VIGENTE__Registro_decisioni.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/CANONE_VIGENTE__Storia_condivisa.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/CANONE_VIGENTE__Storia_riservata.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/GIOCATORE_89_Calendario_e_date_accessibili.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/RISERVATO_100_Storia_industriale_stati_e_conflitti_aperti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/RISERVATO_101_Repertorio_delle_prove_e_trasmissioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/RISERVATO_94_Cronologia_integrale_ed_ere.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/RISERVATO_95_Origini_societa_e_potenze_antiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/RISERVATO_96_Campagne_opere_ed_eredita_del_Creator.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/RISERVATO_97_Caduta_Nove_Sedi_e_storia_delle_attribuzioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01/RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/20_Roadmap_generale_fino_alla_wiki.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/23_Registro_unico_del_canone.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/CANONE_VIGENTE__00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/CANONE_VIGENTE__Registro_decisioni.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/CANONE_VIGENTE__Regole_comuni.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/GIOCATORE_62_Audit_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/GIOCATORE_69_Roots_e_risorse_cosmiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/20_Roadmap_generale_fino_alla_wiki.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/23_Registro_unico_del_canone.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/CANONE_VIGENTE__00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/CANONE_VIGENTE__Registro_decisioni.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/CANONE_VIGENTE__Regole_comuni.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_26_Fondamenti_cosmologici.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_33_Lessico_e_sette_soglie.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_62_Audit_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_69_Roots_e_risorse_cosmiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_1/00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_1/20_Roadmap_generale_fino_alla_wiki.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_1/23_Registro_unico_del_canone.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_1/CANONE_VIGENTE__Registro_decisioni.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_2/00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_2/20_Roadmap_generale_fino_alla_wiki.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_2/23_Registro_unico_del_canone.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_2/CANONE_VIGENTE__00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_2/CANONE_VIGENTE__Registro_decisioni.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/20_Roadmap_generale_fino_alla_wiki.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/21_Audit_materiali_e_migrazione.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/23_Registro_unico_del_canone.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/CANONE_VIGENTE__00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/CANONE_VIGENTE__Architettura_cosmica.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/CANONE_VIGENTE__Registro_decisioni.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/CANONE_VIGENTE__Regole_comuni.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/GIOCATORE_26_Fondamenti_cosmologici.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/GIOCATORE_27_Catalogo_macro_delle_21_Effigi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/GIOCATORE_29_The_Sovereign_Completezza_e_poteri_cosmici.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/GIOCATORE_30_Confini_contese_e_verifica_macro.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/GIOCATORE_33_Lessico_e_sette_soglie.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_4/00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_4/20_Roadmap_generale_fino_alla_wiki.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_4/21_Audit_materiali_e_migrazione.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_4/23_Registro_unico_del_canone.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_4/CANONE_VIGENTE__00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_4/CANONE_VIGENTE__Registro_decisioni.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_4/GIOCATORE_26_Fondamenti_cosmologici.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/20_Roadmap_generale_fino_alla_wiki.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/21_Audit_materiali_e_migrazione.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/23_Registro_unico_del_canone.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/CANONE_VIGENTE__00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/CANONE_VIGENTE__Architettura_cosmica.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/CANONE_VIGENTE__Atlante_cosmologico.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/CANONE_VIGENTE__Progressioni_effigi.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/CANONE_VIGENTE__Registro_decisioni.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/CANONE_VIGENTE__Regole_comuni.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_6/00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_6/20_Roadmap_generale_fino_alla_wiki.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_6/21_Audit_materiali_e_migrazione.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_6/23_Registro_unico_del_canone.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_6/24_Matrice_di_recupero_e_ricostruzione.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_6/CANONE_VIGENTE__00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_6/CANONE_VIGENTE__Architettura_cosmica.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_6/CANONE_VIGENTE__Atlante_cosmologico.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_6/CANONE_VIGENTE__Progressioni_effigi.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_6/CANONE_VIGENTE__Protagonista.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_6/CANONE_VIGENTE__Protagonista_riservato.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_6/CANONE_VIGENTE__Registro_decisioni.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_6/GIOCATORE_80_Legami_antichi_che_ricordi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_6/RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_pre_consolidamento/00_LEGGIMI.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_pre_consolidamento/20_Roadmap_generale_fino_alla_wiki.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_pre_consolidamento/21_Audit_materiali_e_migrazione.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/00_MANIFESTO_ARCHIVIO.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/02_Verifica_profondita_del_manualе.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/03_Revisione_scala_divina.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/04_Allineamento_e_lavoro_residuo.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/05_Piano_milestone_deuteragonista.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/06_Revisione_architettura_delle_Effigi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_05_Manuale_del_sistema.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_06_Traghettatrice_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_07_Pellegrino_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_08_Custode_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_09_Mano_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_10_Passaggio_interazioni_e_casi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_11_Coppa_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_12_Tessitrice_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_13_Vasaio_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_14_Martello_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_15_Forma_interazioni_e_casi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_16_Mendicante_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_17_Levatrice_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_18_Giardiniere_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_19_Convito_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_20_Vita_interazioni_e_casi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_21_Gerarchia_e_condizione_divina.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_22_Pellegrino_Sovranita_revisionata.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_23_Martello_Sovranita_revisionata.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_24_Contese_divine_e_verifica.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_25_Lessico_e_ranghi_del_sistema.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_26_Passaggio_Sovranita_revisionate.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_27_Forma_Sovranita_revisionate.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_28_Vita_Sovranita_revisionate.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_29_Arconti_Pretendenti_e_ascesa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_30_Successione_e_contesa_divina.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_31_Cinque_domini_e_Nodo_antico.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_32_Lama_e_Bivio_Sovranita.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_33_Revisione_dei_domini_personali.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/GIOCATORE/GIOCATORE_01_Cio_che_ricordi_estratti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/GIOCATORE/GIOCATORE_02_Capacita_del_ritorno_estratti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/GIOCATORE/GIOCATORE_04_Scala_e_conoscenza_del_sistema_estratti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/RISERVATO/RISERVATO_01_Fondazione_autoriale_estratti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/RISERVATO/RISERVATO_03_Storia_e_cosmologia_estratti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/RISERVATO/RISERVATO_04_Forze_e_unita_di_gioco_estratti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/RISERVATO/RISERVATO_05_Protagonista_e_matrice_estratti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/RISERVATO/RISERVATO_08_Casata_e_societa_estratti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/RISERVATO/RISERVATO_10_Geografia_e_rete_internazionale_estratti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/RISERVATO/RISERVATO_11_Deuteragonista_estratti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/RISERVATO/RISERVATO_12_Corpus_e_sapere_estratti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/RISERVATO/RISERVATO_13_Caduta_ritorno_e_successione_estratti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Milestone8 completa e prossima9",
+      "status": "PASS"
+    },
+    {
+      "name": "17 documenti e3carte",
+      "status": "PASS"
+    },
+    {
+      "name": "5continenti,27sistemi,63luoghi,39tratte",
+      "status": "PASS"
+    },
+    {
+      "name": "ID unici continents",
+      "status": "PASS"
+    },
+    {
+      "name": "ID unici states",
+      "status": "PASS"
+    },
+    {
+      "name": "ID unici locations",
+      "status": "PASS"
+    },
+    {
+      "name": "ID unici routes",
+      "status": "PASS"
+    },
+    {
+      "name": "ID unici rivers",
+      "status": "PASS"
+    },
+    {
+      "name": "ID unici resources",
+      "status": "PASS"
+    },
+    {
+      "name": "ID unici supernatural_sites",
+      "status": "PASS"
+    },
+    {
+      "name": "ID unici active_geographic_units",
+      "status": "PASS"
+    },
+    {
+      "name": "ID unici ocean_routes",
+      "status": "PASS"
+    },
+    {
+      "name": "ID unici ocean_destination_connections",
+      "status": "PASS"
+    },
+    {
+      "name": "610milioni senza duplicazione",
+      "status": "PASS"
+    },
+    {
+      "name": "Somma territoriale Mereth",
+      "status": "PASS"
+    },
+    {
+      "name": "Somma territoriale Caldris",
+      "status": "PASS"
+    },
+    {
+      "name": "Somma territoriale Iskar",
+      "status": "PASS"
+    },
+    {
+      "name": "Somma territoriale Nareth",
+      "status": "PASS"
+    },
+    {
+      "name": "Somma territoriale Veyra",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-001",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-001",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-001",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-002",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-002",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-002",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-003",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-003",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-003",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-004",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-004",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-004",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-005",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-005",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-005",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-006",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-006",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-006",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-007",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-007",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-007",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-008",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-008",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-008",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-009",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-009",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-009",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-010",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-010",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-010",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-011",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-011",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-011",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-012",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-012",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-012",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-013",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-013",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-013",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-014",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-014",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-014",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-015",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-015",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-015",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-016",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-016",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-016",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-017",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-017",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-017",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-018",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-018",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-018",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-019",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-019",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-019",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-020",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-020",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-020",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-021",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-021",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-021",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-022",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-022",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-022",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-023",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-023",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-023",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-024",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-024",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-024",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-025",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-025",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-025",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-026",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-026",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-026",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-027",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-027",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-027",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-028",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-028",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-028",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-029",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-029",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-029",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-030",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-030",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-030",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-031",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-031",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-031",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-032",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-032",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-032",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-033",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-033",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-033",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-034",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-034",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-034",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-035",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-035",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-035",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-036",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-036",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-036",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-037",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-037",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-037",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-038",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-038",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-038",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-039",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-039",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-039",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-040",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-040",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-040",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-041",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-041",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-041",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-042",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-042",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-042",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-043",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-043",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-043",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-044",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-044",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-044",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-045",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-045",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-045",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-046",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-046",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-046",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-047",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-047",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-047",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-048",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-048",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-048",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-049",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-049",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-049",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-050",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-050",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-050",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-051",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-051",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-051",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-052",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-052",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-052",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-053",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-053",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-053",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-054",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-054",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-054",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-055",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-055",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-055",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-056",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-056",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-056",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-057",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-057",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-057",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-058",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-058",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-058",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-059",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-059",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-059",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-060",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-060",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-060",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-061",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-061",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-061",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-062",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-062",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-062",
+      "status": "PASS"
+    },
+    {
+      "name": "Luogo e continente LOC-063",
+      "status": "PASS"
+    },
+    {
+      "name": "Coordinate valide LOC-063",
+      "status": "PASS"
+    },
+    {
+      "name": "Funzione geografica LOC-063",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-001",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-001",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-001",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-001",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-002",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-002",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-002",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-002",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-003",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-003",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-003",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-003",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-004",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-004",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-004",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-004",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-005",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-005",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-005",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-005",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-006",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-006",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-006",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-006",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-007",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-007",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-007",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-007",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-008",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-008",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-008",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-008",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-009",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-009",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-009",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-009",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-010",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-010",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-010",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-010",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-011",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-011",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-011",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-011",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-012",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-012",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-012",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-012",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-013",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-013",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-013",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-013",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-014",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-014",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-014",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-014",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-015",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-015",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-015",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-015",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-016",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-016",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-016",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-016",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-017",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-017",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-017",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-017",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-018",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-018",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-018",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-018",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-019",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-019",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-019",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-019",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-020",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-020",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-020",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-020",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-021",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-021",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-021",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-021",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-022",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-022",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-022",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-022",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-023",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-023",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-023",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-023",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-024",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-024",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-024",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-024",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-025",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-025",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-025",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-025",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-026",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-026",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-026",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-026",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-027",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-027",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-027",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-027",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-028",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-028",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-028",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-028",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-029",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-029",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-029",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-029",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-030",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-030",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-030",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-030",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-031",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-031",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-031",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-031",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-032",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-032",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-032",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-032",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-033",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-033",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-033",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-033",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-034",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-034",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-034",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-034",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-035",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-035",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-035",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-035",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-036",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-036",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-036",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-036",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-037",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-037",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-037",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-037",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-038",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-038",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-038",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-038",
+      "status": "PASS"
+    },
+    {
+      "name": "Estremi corretti ROUTE-039",
+      "status": "PASS"
+    },
+    {
+      "name": "Percorso almeno distanza diretta ROUTE-039",
+      "status": "PASS"
+    },
+    {
+      "name": "Tempo di movimento ROUTE-039",
+      "status": "PASS"
+    },
+    {
+      "name": "Giornata operativa e ritardi ROUTE-039",
+      "status": "PASS"
+    },
+    {
+      "name": "Tutti36nodi regionali collegati",
+      "status": "PASS"
+    },
+    {
+      "name": "23kmstradali Rovenne",
+      "status": "PASS"
+    },
+    {
+      "name": "791kmrailLethorneTeren",
+      "status": "PASS"
+    },
+    {
+      "name": "Fiume in discesa RIVER-01",
+      "status": "PASS"
+    },
+    {
+      "name": "Fiume in discesa RIVER-02",
+      "status": "PASS"
+    },
+    {
+      "name": "Fiume in discesa RIVER-03",
+      "status": "PASS"
+    },
+    {
+      "name": "Fiume in discesa RIVER-04",
+      "status": "PASS"
+    },
+    {
+      "name": "Rovenne sopraLethorne",
+      "status": "PASS"
+    },
+    {
+      "name": "Altrobacino Rethar distinto daReth",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Lethorne",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Rovenne",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Veldane",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Port Auvrel",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Belanne",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Deren",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Sarn Gate",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Valenne",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Lorien",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Ossen Reach",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Thenn Pass",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Arel Cut",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Stillwater Steps",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Grey Embankment",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Low Fen",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Teren",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Karrel",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Reth Narrows",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Kessel",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Dovar",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Hollow Towers",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Copper Yard",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Elven",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Namar",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Veyford",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Namar Upper Works",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Rethar Basin",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio Nine Houses Field",
+      "status": "PASS"
+    },
+    {
+      "name": "Nodo nel territorio North Lock",
+      "status": "PASS"
+    },
+    {
+      "name": "Auvrel eBelanne costieri",
+      "status": "PASS"
+    },
+    {
+      "name": "Neressa cinque isole +enclave",
+      "status": "PASS"
+    },
+    {
+      "name": "Città sull’isola Neressa",
+      "status": "PASS"
+    },
+    {
+      "name": "Città sull’isola Avaris",
+      "status": "PASS"
+    },
+    {
+      "name": "Città sull’isola Corten",
+      "status": "PASS"
+    },
+    {
+      "name": "Città sull’isola Nelle",
+      "status": "PASS"
+    },
+    {
+      "name": "Città sull’isola Velis",
+      "status": "PASS"
+    },
+    {
+      "name": "Distanza sferica OCEAN-01",
+      "status": "PASS"
+    },
+    {
+      "name": "Durata oceanica OCEAN-01",
+      "status": "PASS"
+    },
+    {
+      "name": "Nave non attraversa continenti OCEAN-01",
+      "status": "PASS"
+    },
+    {
+      "name": "Distanza sferica OCEAN-02",
+      "status": "PASS"
+    },
+    {
+      "name": "Durata oceanica OCEAN-02",
+      "status": "PASS"
+    },
+    {
+      "name": "Nave non attraversa continenti OCEAN-02",
+      "status": "PASS"
+    },
+    {
+      "name": "Distanza sferica OCEAN-03",
+      "status": "PASS"
+    },
+    {
+      "name": "Durata oceanica OCEAN-03",
+      "status": "PASS"
+    },
+    {
+      "name": "Nave non attraversa continenti OCEAN-03",
+      "status": "PASS"
+    },
+    {
+      "name": "Distanza sferica OCEAN-04",
+      "status": "PASS"
+    },
+    {
+      "name": "Durata oceanica OCEAN-04",
+      "status": "PASS"
+    },
+    {
+      "name": "Nave non attraversa continenti OCEAN-04",
+      "status": "PASS"
+    },
+    {
+      "name": "Connessione terrestre sufficiente LANDING-01",
+      "status": "PASS"
+    },
+    {
+      "name": "Connessione terrestre sufficiente LANDING-02",
+      "status": "PASS"
+    },
+    {
+      "name": "Connessione terrestre sufficiente LANDING-03",
+      "status": "PASS"
+    },
+    {
+      "name": "Connessione terrestre sufficiente LANDING-04",
+      "status": "PASS"
+    },
+    {
+      "name": "Localizzazione sito SITE-01",
+      "status": "PASS"
+    },
+    {
+      "name": "Sito operativo SITE-01",
+      "status": "PASS"
+    },
+    {
+      "name": "Localizzazione sito SITE-02",
+      "status": "PASS"
+    },
+    {
+      "name": "Sito operativo SITE-02",
+      "status": "PASS"
+    },
+    {
+      "name": "Localizzazione sito SITE-03",
+      "status": "PASS"
+    },
+    {
+      "name": "Sito operativo SITE-03",
+      "status": "PASS"
+    },
+    {
+      "name": "Localizzazione sito SITE-04",
+      "status": "PASS"
+    },
+    {
+      "name": "Sito operativo SITE-04",
+      "status": "PASS"
+    },
+    {
+      "name": "Localizzazione sito SITE-05",
+      "status": "PASS"
+    },
+    {
+      "name": "Sito operativo SITE-05",
+      "status": "PASS"
+    },
+    {
+      "name": "Localizzazione sito SITE-06",
+      "status": "PASS"
+    },
+    {
+      "name": "Sito operativo SITE-06",
+      "status": "PASS"
+    },
+    {
+      "name": "Localizzazione sito SITE-07",
+      "status": "PASS"
+    },
+    {
+      "name": "Sito operativo SITE-07",
+      "status": "PASS"
+    },
+    {
+      "name": "Localizzazione sito SITE-08",
+      "status": "PASS"
+    },
+    {
+      "name": "Sito operativo SITE-08",
+      "status": "PASS"
+    },
+    {
+      "name": "4PONTE e8siti",
+      "status": "PASS"
+    },
+    {
+      "name": "PONTE GEO-U01",
+      "status": "PASS"
+    },
+    {
+      "name": "PONTE GEO-U02",
+      "status": "PASS"
+    },
+    {
+      "name": "PONTE GEO-U03",
+      "status": "PASS"
+    },
+    {
+      "name": "PONTE GEO-U04",
+      "status": "PASS"
+    },
+    {
+      "name": "Esportazione coerente GIOCATORE_105_Avarenne_pianeta_e_continenti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Esportazione coerente GIOCATORE_106_Climi_bacini_e_risorse.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Esportazione coerente GIOCATORE_107_Stati_e_confini_del_mondo.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Esportazione coerente GIOCATORE_108_Citta_porti_e_distetti_regionali.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Esportazione coerente GIOCATORE_109_Rovenne_e_geografia_personale.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Esportazione coerente GIOCATORE_110_Reti_e_tempi_di_viaggio.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Esportazione coerente GIOCATORE_111_Regioni_lontane_e_limiti_dell_atlante.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Esportazione coerente GIOCATORE_112_Matrice_del_sapere_geografico.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Esportazione coerente GIOCATORE_119_Audit_geografico_e_uso_delle_carte.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Esportazione coerente RISERVATO_113_Geometria_planetaria_e_atlante_integrale.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Esportazione coerente RISERVATO_114_Distretti_confini_e_logistica_locale.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Esportazione coerente RISERVATO_115_Siti_soprannaturali_localizzati.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Esportazione coerente RISERVATO_116_Territori_antichi_e_sovrapposizioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Esportazione coerente RISERVATO_117_Reti_interruzioni_e_accessi_alternativi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Esportazione coerente RISERVATO_118_Unita_geografiche_pronte_al_Narratore.md",
+      "status": "PASS"
+    },
+    {
+      "name": "9schedecondivise6riservate",
+      "status": "PASS"
+    },
+    {
+      "name": "Sapere separato",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun traditore oSeat-holder rivelato GIOCATORE_105_Avarenne_pianeta_e_continenti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun traditore oSeat-holder rivelato GIOCATORE_106_Climi_bacini_e_risorse.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun traditore oSeat-holder rivelato GIOCATORE_107_Stati_e_confini_del_mondo.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun traditore oSeat-holder rivelato GIOCATORE_108_Citta_porti_e_distetti_regionali.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun traditore oSeat-holder rivelato GIOCATORE_109_Rovenne_e_geografia_personale.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun traditore oSeat-holder rivelato GIOCATORE_110_Reti_e_tempi_di_viaggio.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun traditore oSeat-holder rivelato GIOCATORE_111_Regioni_lontane_e_limiti_dell_atlante.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun traditore oSeat-holder rivelato GIOCATORE_112_Matrice_del_sapere_geografico.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun traditore oSeat-holder rivelato GIOCATORE_119_Audit_geografico_e_uso_delle_carte.md",
+      "status": "PASS"
+    },
+    {
+      "name": "SVG valido Avarenne_mappa_tecnica.svg",
+      "status": "PASS"
+    },
+    {
+      "name": "Carta senza segreti Avarenne_mappa_tecnica.svg",
+      "status": "PASS"
+    },
+    {
+      "name": "SVG valido Mereth_occidentale_reti.svg",
+      "status": "PASS"
+    },
+    {
+      "name": "Carta senza segreti Mereth_occidentale_reti.svg",
+      "status": "PASS"
+    },
+    {
+      "name": "SVG valido Rovenne_accessi.svg",
+      "status": "PASS"
+    },
+    {
+      "name": "Carta senza segreti Rovenne_accessi.svg",
+      "status": "PASS"
+    },
+    {
+      "name": "Registro195IDunici",
+      "status": "PASS"
+    },
+    {
+      "name": "Hash fonte registro",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → 23_Registro_unico_del_canone.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → 20_Roadmap_generale_fino_alla_wiki.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → 24_Matrice_di_recupero_e_ricostruzione.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → 25_Chiusura_milestone_1.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → 22_Inventario_documentale.csv",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → 21_Audit_materiali_e_migrazione.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → GIOCATORE_26_Fondamenti_cosmologici.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → GIOCATORE_27_Catalogo_macro_delle_21_Effigi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → GIOCATORE_28_Le_sette_integrazioni_cosmiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → GIOCATORE_29_The_Sovereign_Completezza_e_poteri_cosmici.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → GIOCATORE_30_Confini_contese_e_verifica_macro.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → 32_Chiusura_milestone_2.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → GIOCATORE_33_Lessico_e_sette_soglie.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → GIOCATORE_36_Corpo_spirito_manifestazioni_e_morte.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → GIOCATORE_38_Poteri_e_vita_comune.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → 39_Chiusura_milestone_3.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → 63_Indice_delle_Effigi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → GIOCATORE_62_Audit_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → 64_Chiusura_milestone_4.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → 74_Indice_dell_atlante_cosmologico.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → 75_Chiusura_milestone_5.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → RISERVATO_72_Presenze_esterne_e_pressioni_cosmiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → 87_Indice_del_protagonista.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → RISERVATO_85_Apertura_personale_e_rete_immediata.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → 103_Indice_della_storia.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → 104_Chiusura_milestone_7.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → 120_Indice_della_geografia.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 00_LEGGIMI.md → 121_Chiusura_milestone_8.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 103_Indice_della_storia.md → GIOCATORE_89_Calendario_e_date_accessibili.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 103_Indice_della_storia.md → GIOCATORE_90_Societa_antiche_e_liberazione_ricordata.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 103_Indice_della_storia.md → GIOCATORE_91_Storia_pubblica_conosciuta_dal_duca.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 103_Indice_della_storia.md → GIOCATORE_92_Industria_scoperte_e_eredita_materiale.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 103_Indice_della_storia.md → GIOCATORE_93_Conoscenza_storica_e_riconoscimenti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 103_Indice_della_storia.md → GIOCATORE_102_Audit_storico_e_confini_del_sapere.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 120_Indice_della_geografia.md → GIOCATORE_105_Avarenne_pianeta_e_continenti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 120_Indice_della_geografia.md → GIOCATORE_106_Climi_bacini_e_risorse.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 120_Indice_della_geografia.md → GIOCATORE_107_Stati_e_confini_del_mondo.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 120_Indice_della_geografia.md → GIOCATORE_108_Citta_porti_e_distetti_regionali.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 120_Indice_della_geografia.md → GIOCATORE_109_Rovenne_e_geografia_personale.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 120_Indice_della_geografia.md → GIOCATORE_110_Reti_e_tempi_di_viaggio.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 120_Indice_della_geografia.md → GIOCATORE_111_Regioni_lontane_e_limiti_dell_atlante.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 120_Indice_della_geografia.md → GIOCATORE_112_Matrice_del_sapere_geografico.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 120_Indice_della_geografia.md → GIOCATORE_119_Audit_geografico_e_uso_delle_carte.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 120_Indice_della_geografia.md → CARTOGRAFIA/Avarenne_mappa_tecnica.svg",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 120_Indice_della_geografia.md → CARTOGRAFIA/Mereth_occidentale_reti.svg",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 120_Indice_della_geografia.md → CARTOGRAFIA/Rovenne_accessi.svg",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 120_Indice_della_geografia.md → 121_Chiusura_milestone_8.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_62_Audit_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → 64_Chiusura_milestone_4.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_41_Cradle_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_42_Ruin_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_43_Scroll_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_44_Halo_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_45_Heart_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_46_Crucible_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_51_Seed_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_59_Tempest_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_48_Hourglass_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_49_Astrolabe_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_61_Loom_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_52_Crown_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_53_Chain_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_54_Coin_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_55_Banner_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_56_Oracle_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_57_Archive_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_47_Mask_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_58_Labyrinth_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_50_Sepulchre_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 63_Indice_delle_Effigi.md → GIOCATORE_60_Maw_progressione_completa.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 74_Indice_dell_atlante_cosmologico.md → GIOCATORE_65_Atlante_del_reale.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 74_Indice_dell_atlante_cosmologico.md → GIOCATORE_66_Accessi_viaggi_e_comunicazioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 74_Indice_dell_atlante_cosmologico.md → GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 74_Indice_dell_atlante_cosmologico.md → GIOCATORE_68_The_First_Testament_consultazione.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 74_Indice_dell_atlante_cosmologico.md → GIOCATORE_69_Roots_e_risorse_cosmiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 74_Indice_dell_atlante_cosmologico.md → GIOCATORE_70_Identita_continuita_e_recupero.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 74_Indice_dell_atlante_cosmologico.md → GIOCATORE_71_Interventi_esterni_e_diagnosi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 74_Indice_dell_atlante_cosmologico.md → GIOCATORE_73_Audit_cosmologico_e_casi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 74_Indice_dell_atlante_cosmologico.md → 75_Chiusura_milestone_5.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 87_Indice_del_protagonista.md → GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 87_Indice_del_protagonista.md → GIOCATORE_77_Identita_di_Edran_e_Alexander.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 87_Indice_del_protagonista.md → GIOCATORE_78_Prima_vita_e_ricordi_consolidati.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 87_Indice_del_protagonista.md → GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 87_Indice_del_protagonista.md → GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 87_Indice_del_protagonista.md → GIOCATORE_80_Legami_antichi_che_ricordi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 87_Indice_del_protagonista.md → GIOCATORE_82_Recupero_delle_antiche_capacita.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 87_Indice_del_protagonista.md → GIOCATORE_83_Matrice_delle_conoscenze_personali.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 87_Indice_del_protagonista.md → GIOCATORE_86_Audit_del_protagonista.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento 87_Indice_del_protagonista.md → 88_Chiusura_milestone_6.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_26_Fondamenti_cosmologici.md → 63_Indice_delle_Effigi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_26_Fondamenti_cosmologici.md → 74_Indice_dell_atlante_cosmologico.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_26_Fondamenti_cosmologici.md → GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_27_Catalogo_macro_delle_21_Effigi.md → 63_Indice_delle_Effigi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_29_The_Sovereign_Completezza_e_poteri_cosmici.md → 63_Indice_delle_Effigi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_30_Confini_contese_e_verifica_macro.md → 63_Indice_delle_Effigi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_33_Lessico_e_sette_soglie.md → 63_Indice_delle_Effigi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md → 63_Indice_delle_Effigi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_41_Cradle_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_41_Cradle_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_42_Ruin_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_42_Ruin_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_43_Scroll_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_43_Scroll_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_44_Halo_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_44_Halo_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_45_Heart_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_45_Heart_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_46_Crucible_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_46_Crucible_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_47_Mask_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_47_Mask_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_48_Hourglass_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_48_Hourglass_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_49_Astrolabe_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_49_Astrolabe_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_50_Sepulchre_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_50_Sepulchre_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_51_Seed_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_51_Seed_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_52_Crown_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_52_Crown_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_53_Chain_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_53_Chain_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_54_Coin_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_54_Coin_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_55_Banner_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_55_Banner_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_56_Oracle_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_56_Oracle_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_57_Archive_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_57_Archive_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_58_Labyrinth_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_58_Labyrinth_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_59_Tempest_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_59_Tempest_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_60_Maw_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_60_Maw_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_61_Loom_progressione_completa.md → GIOCATORE_40_Lettura_delle_progressioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_61_Loom_progressione_completa.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_62_Audit_delle_progressioni.md → 63_Indice_delle_Effigi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_62_Audit_delle_progressioni.md → GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_65_Atlante_del_reale.md → GIOCATORE_26_Fondamenti_cosmologici.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_65_Atlante_del_reale.md → GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_65_Atlante_del_reale.md → 63_Indice_delle_Effigi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_65_Atlante_del_reale.md → GIOCATORE_69_Roots_e_risorse_cosmiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_65_Atlante_del_reale.md → GIOCATORE_71_Interventi_esterni_e_diagnosi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_66_Accessi_viaggi_e_comunicazioni.md → GIOCATORE_65_Atlante_del_reale.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_66_Accessi_viaggi_e_comunicazioni.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_66_Accessi_viaggi_e_comunicazioni.md → GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md → GIOCATORE_26_Fondamenti_cosmologici.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md → GIOCATORE_29_The_Sovereign_Completezza_e_poteri_cosmici.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md → GIOCATORE_70_Identita_continuita_e_recupero.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md → GIOCATORE_70_Identita_continuita_e_recupero.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_68_The_First_Testament_consultazione.md → GIOCATORE_26_Fondamenti_cosmologici.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_68_The_First_Testament_consultazione.md → 63_Indice_delle_Effigi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_68_The_First_Testament_consultazione.md → GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_69_Roots_e_risorse_cosmiche.md → GIOCATORE_28_Le_sette_integrazioni_cosmiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_69_Roots_e_risorse_cosmiche.md → GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_69_Roots_e_risorse_cosmiche.md → GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_70_Identita_continuita_e_recupero.md → GIOCATORE_36_Corpo_spirito_manifestazioni_e_morte.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_71_Interventi_esterni_e_diagnosi.md → GIOCATORE_65_Atlante_del_reale.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_71_Interventi_esterni_e_diagnosi.md → GIOCATORE_66_Accessi_viaggi_e_comunicazioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_71_Interventi_esterni_e_diagnosi.md → GIOCATORE_69_Roots_e_risorse_cosmiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md → 87_Indice_del_protagonista.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md → GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_77_Identita_di_Edran_e_Alexander.md → GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_77_Identita_di_Edran_e_Alexander.md → GIOCATORE_83_Matrice_delle_conoscenze_personali.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_77_Identita_di_Edran_e_Alexander.md → GIOCATORE_78_Prima_vita_e_ricordi_consolidati.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md → GIOCATORE_77_Identita_di_Edran_e_Alexander.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md → GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md → 63_Indice_delle_Effigi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md → GIOCATORE_82_Recupero_delle_antiche_capacita.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_82_Recupero_delle_antiche_capacita.md → GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_82_Recupero_delle_antiche_capacita.md → GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_82_Recupero_delle_antiche_capacita.md → GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_83_Matrice_delle_conoscenze_personali.md → GIOCATORE_68_The_First_Testament_consultazione.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_83_Matrice_delle_conoscenze_personali.md → GIOCATORE_78_Prima_vita_e_ricordi_consolidati.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_83_Matrice_delle_conoscenze_personali.md → GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_89_Calendario_e_date_accessibili.md → GIOCATORE_77_Identita_di_Edran_e_Alexander.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_89_Calendario_e_date_accessibili.md → GIOCATORE_83_Matrice_delle_conoscenze_personali.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Collegamento GIOCATORE_91_Storia_pubblica_conosciuta_dal_duca.md → GIOCATORE_93_Conoscenza_storica_e_riconoscimenti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Regole dotazione e storia invariati Architettura_cosmica.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Regole dotazione e storia invariati Progressioni_effigi.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Regole dotazione e storia invariati Regole_comuni.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Regole dotazione e storia invariati Protagonista.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Regole dotazione e storia invariati Protagonista_riservato.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Regole dotazione e storia invariati Storia_condivisa.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Regole dotazione e storia invariati Storia_riservata.json",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun ID con spazi 120_Indice_della_geografia.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun ID con spazi 121_Chiusura_milestone_8.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun ID con spazi GIOCATORE_105_Avarenne_pianeta_e_continenti.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun ID con spazi GIOCATORE_106_Climi_bacini_e_risorse.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun ID con spazi GIOCATORE_107_Stati_e_confini_del_mondo.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun ID con spazi GIOCATORE_108_Citta_porti_e_distetti_regionali.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun ID con spazi GIOCATORE_109_Rovenne_e_geografia_personale.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun ID con spazi GIOCATORE_110_Reti_e_tempi_di_viaggio.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun ID con spazi GIOCATORE_111_Regioni_lontane_e_limiti_dell_atlante.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun ID con spazi GIOCATORE_112_Matrice_del_sapere_geografico.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun ID con spazi GIOCATORE_119_Audit_geografico_e_uso_delle_carte.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun ID con spazi RISERVATO_113_Geometria_planetaria_e_atlante_integrale.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun ID con spazi RISERVATO_114_Distretti_confini_e_logistica_locale.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun ID con spazi RISERVATO_115_Siti_soprannaturali_localizzati.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun ID con spazi RISERVATO_116_Territori_antichi_e_sovrapposizioni.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun ID con spazi RISERVATO_117_Reti_interruzioni_e_accessi_alternativi.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Nessun ID con spazi RISERVATO_118_Unita_geografiche_pronte_al_Narratore.md",
+      "status": "PASS"
+    },
+    {
+      "name": "Calendario e assenza corretti",
+      "status": "PASS"
+    },
+    {
+      "name": "Esiti ewiki nonanticipati",
+      "status": "PASS"
+    }
+  ],
+  "preserved_antecedents": 299,
+  "modified_antecedents": [
+    "00_LEGGIMI.md",
+    "20_Roadmap_generale_fino_alla_wiki.md",
+    "21_Audit_materiali_e_migrazione.md",
+    "23_Registro_unico_del_canone.md",
+    "24_Matrice_di_recupero_e_ricostruzione.md",
+    "CANONE_VIGENTE/00_LEGGIMI.md",
+    "CANONE_VIGENTE/Registro_decisioni.json"
+  ],
+  "cartography_visual_review": "Three Pillow previews visually inspected; final SVG source corrected for adjacent labels and island topology",
+  "illustrations_final": false,
+  "wiki_operational": false
+}

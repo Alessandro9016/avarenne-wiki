@@ -1,0 +1,20 @@
+{
+  "edition": "NARRATORE-318",
+  "status": "PASS",
+  "source_count": 648,
+  "entry_count": 748,
+  "library_volumes": 5,
+  "player_volumes": 3,
+  "cast_dossiers": 473,
+  "cast_chunks": 19,
+  "source_bodies_identical": true,
+  "source_hashes_verified": true,
+  "zip_members_verified": true,
+  "player_source_allowlist_verified": true,
+  "T0_not_started": true,
+  "external_chat_test_done": false,
+  "wiki_access_test_done": false,
+  "images_included": false,
+  "knowledge_note": "Separazione verificata sulle fonti autorizzate; nessuna prova di lettura integrale da una chat esterna.",
+  "final_independent_block_check": true
+}

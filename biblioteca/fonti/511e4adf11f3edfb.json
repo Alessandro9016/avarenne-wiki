@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "milestone": 3,
+  "status": "COMPLETATA",
+  "subpoints": [
+    "3.1",
+    "3.2",
+    "3.3",
+    "3.4",
+    "3.5",
+    "3.6",
+    "3.7",
+    "3.8",
+    "3.9"
+  ],
+  "sources": [
+    "GIOCATORE_33_Lessico_e_sette_soglie.md",
+    "GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md",
+    "GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md",
+    "GIOCATORE_36_Corpo_spirito_manifestazioni_e_morte.md",
+    "GIOCATORE_37_Procedura_operativa_delle_contese.md",
+    "GIOCATORE_38_Poteri_e_vita_comune.md",
+    "39_Chiusura_milestone_3.md"
+  ],
+  "rules": "CANONE_VIGENTE/Regole_comuni.json",
+  "register": "23_Registro_unico_del_canone.md",
+  "verification": "CANONE_VIGENTE/Verifica_milestone_3.json",
+  "report": "39_Chiusura_milestone_3.md",
+  "next_milestone": 4,
+  "common_rules_complete": true,
+  "effigy_progressions_complete": false,
+  "protagonist_initial_inventory_assigned": false
+}

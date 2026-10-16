@@ -1,0 +1,21 @@
+{
+  "versione": "1.0",
+  "data": "2026-10-09",
+  "esito": "PASS",
+  "originali_verificati": 71,
+  "originali_spostati": 33,
+  "vecchio_archivio_verificato": 35,
+  "snapshot_verificati": 3,
+  "estratti_verificati": 12,
+  "paragrafi_recuperati": 128,
+  "paragrafi_misti_isolati": 17,
+  "decisioni_adottate": 35,
+  "proposte_recupero": 5,
+  "decisioni_ritirate": 12,
+  "id_univoci": true,
+  "registro_md_json_coerente": true,
+  "vecchi_dossier_fuori_dalla_radice": true,
+  "collegamenti_indice_validi": true,
+  "nuove_abilita_inventate": false,
+  "milestone_2_iniziata": false
+}

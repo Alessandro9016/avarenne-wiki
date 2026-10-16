@@ -1,0 +1,79 @@
+{
+  "status": "PASSED",
+  "checks": [
+    {
+      "check": "80 identificativi unici e conteggi 25/18/20/5/12",
+      "passed": true
+    },
+    {
+      "check": "12 unità con forze, due hook, pressioni, esiti aperti e materiale narratore",
+      "passed": true
+    },
+    {
+      "check": "Ogni voce ha unità e origine verticale",
+      "passed": true
+    },
+    {
+      "check": "Ogni unità possiede componenti; raccordi bidirezionali coerenti",
+      "passed": true
+    },
+    {
+      "check": "Luoghi e contatti esistenti, materiali validi",
+      "passed": true
+    },
+    {
+      "check": "Quality e abilità primarie corrispondono a Effige e stadio reale",
+      "passed": true
+    },
+    {
+      "check": "Nessun artefatto è nuova incorporazione o Root",
+      "passed": true
+    },
+    {
+      "check": "Evoluzioni libere di tutto il catalogo",
+      "passed": true
+    },
+    {
+      "check": "Cinque popolazioni senza Effigi ereditarie obbligatorie",
+      "passed": true
+    },
+    {
+      "check": "Rete senza riferimenti spezzati",
+      "passed": true
+    },
+    {
+      "check": "Indice inverso completo",
+      "passed": true
+    },
+    {
+      "check": "Nove unità anteriori con copie complete e hash delle fonti",
+      "passed": true
+    },
+    {
+      "check": "23 progressioni, dotazioni, cosmologia e identità precedenti invariate",
+      "passed": true
+    },
+    {
+      "check": "Registro umano e esportazione concordano per hash e 243 decisioni",
+      "passed": true
+    },
+    {
+      "check": "Originali modificati conservati",
+      "passed": true
+    },
+    {
+      "check": "Link locali dei documenti consegnati integri",
+      "passed": true
+    },
+    {
+      "check": "Surveyor Hinge conserva riserva, accessi e nessun anonimato",
+      "passed": true
+    },
+    {
+      "check": "Funzioni secondarie dei dispositivi appartengono alla medesima Effige e non eccedono Quality",
+      "passed": true
+    }
+  ],
+  "link_errors": [],
+  "limits": "Audit strutturale e controlli manuali mirati; non certificazione matematica di ogni esito narrativo."
+}

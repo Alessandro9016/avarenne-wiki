@@ -1,0 +1,88 @@
+{
+  "revision": "INTEGRAZIONE-23-06",
+  "status": "PASSED",
+  "checks": [
+    {
+      "check": "463 identities and 58 networks",
+      "passed": true
+    },
+    {
+      "check": "All actor existing powers, roles, locations and outcomes retained",
+      "passed": true
+    },
+    {
+      "check": "Every actor and root document has an audit record",
+      "passed": true
+    },
+    {
+      "check": "All 463 dossiers and relationship targets resolve",
+      "passed": true
+    },
+    {
+      "check": "New divinity births and threshold dates are ordered after fall",
+      "passed": true
+    },
+    {
+      "check": "VII succession years preserved",
+      "passed": true
+    },
+    {
+      "check": "Each new deity has distinct hooks, scene and autonomous intervention rationale",
+      "passed": true
+    },
+    {
+      "check": "Primary cosmic map has eight integrations and total 23",
+      "passed": true
+    },
+    {
+      "check": "Two Axial categories remain",
+      "passed": true
+    },
+    {
+      "check": "No duplicate or missing Effigy in cosmic partition",
+      "passed": true
+    },
+    {
+      "check": "All dates other than two personal births preserved",
+      "passed": true
+    },
+    {
+      "check": "All 23 ability manuals remain unchanged",
+      "passed": true
+    },
+    {
+      "check": "Progression JSON unchanged",
+      "passed": true
+    },
+    {
+      "check": "Protagonist memories and inventory unchanged",
+      "passed": true
+    },
+    {
+      "check": "Deuteragonist specialized and individual skill lists agree",
+      "passed": true
+    },
+    {
+      "check": "Root sites, social practices and economy data preserved",
+      "passed": true
+    },
+    {
+      "check": "Canon registry hash matches current source",
+      "passed": true
+    },
+    {
+      "check": "Changed originals are archived with verified old hashes",
+      "passed": true
+    },
+    {
+      "check": "Changed-document local links resolve",
+      "passed": true
+    }
+  ],
+  "editorial_judgment_source": "RISERVATO_180_Audit_integrazione_1_10.md",
+  "scope": "Integration of Eclipse/Crescent in milestones 1–10; qualitative judgment separate from structural checks.",
+  "documents_in_review": 621,
+  "actors_in_review": 463,
+  "abilities_approval": "PENDING_PLAYER",
+  "remaining_integration_blockers_identified": []
+}

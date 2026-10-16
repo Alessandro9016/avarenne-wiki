@@ -1,0 +1,277 @@
+{
+  "edition": 328,
+  "consultation_cases": [
+    {
+      "id": "CASE-01",
+      "question": "Chi è il protagonista editoriale e chi è il personaggio del giocatore?",
+      "expected_resolution": "Elias è il protagonista della novel; il giocatore controlla Edran nel corpo di Alexander.",
+      "source": "GIOCATORE_77_Identita_di_Edran_e_Alexander.md",
+      "encyclopedia_page": "cast-001-alexander-valcienne.html",
+      "integral_source_page": "biblioteca/f4361f9c230624de.html",
+      "required_text": [
+        "Edran",
+        "Alexander",
+        "persona"
+      ],
+      "retrieval_passed": true,
+      "scope": "Consultazione locale effettiva; non è una prova di lettura da una chat esterna."
+    },
+    {
+      "id": "CASE-02",
+      "question": "Alexander contiene una seconda anima che può riprendere il controllo?",
+      "expected_resolution": "No: Edran è l’unica persona; conserva i ricordi del defunto duca.",
+      "source": "GIOCATORE_77_Identita_di_Edran_e_Alexander.md",
+      "encyclopedia_page": "cast-001-alexander-valcienne.html",
+      "integral_source_page": "biblioteca/f4361f9c230624de.html",
+      "required_text": [
+        "seconda",
+        "memorie"
+      ],
+      "retrieval_passed": true,
+      "scope": "Consultazione locale effettiva; non è una prova di lettura da una chat esterna."
+    },
+    {
+      "id": "CASE-03",
+      "question": "Quali ranghi esercita Alexander al risveglio?",
+      "expected_resolution": "Cinque Effigi IV proprie; V–VII e Fulfilment completo non sono già esercitabili.",
+      "source": "GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
+      "encyclopedia_page": "cast-001-alexander-valcienne.html",
+      "integral_source_page": "biblioteca/e2ee3082cb32202b.html",
+      "required_text": [
+        "Cradle IV",
+        "Ruin IV",
+        "Scroll IV",
+        "Halo IV",
+        "Heart IV"
+      ],
+      "retrieval_passed": true,
+      "scope": "Consultazione locale effettiva; non è una prova di lettura da una chat esterna."
+    },
+    {
+      "id": "CASE-04",
+      "question": "Ruin III può colpire direttamente una gamba dopo il contatto con il braccio?",
+      "expected_resolution": "La propagazione richiede il percorso continuo effettivamente distrutto; non è un salto remoto.",
+      "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+      "encyclopedia_page": "ruin.html",
+      "integral_source_page": "biblioteca/5c774602b5a4e199.html",
+      "required_text": [
+        "Destructive Cascade",
+        "contatto"
+      ],
+      "retrieval_passed": true,
+      "scope": "Consultazione locale effettiva; non è una prova di lettura da una chat esterna."
+    },
+    {
+      "id": "CASE-05",
+      "question": "Toccare un effetto di Ruin IV permette di annullare ogni sorgente remota?",
+      "expected_resolution": "No: Finality termina l’operazione o il circuito realmente raggiunto.",
+      "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+      "encyclopedia_page": "ruin.html",
+      "integral_source_page": "biblioteca/5c774602b5a4e199.html",
+      "required_text": [
+        "Last Operation",
+        "centri remoti"
+      ],
+      "retrieval_passed": true,
+      "scope": "Consultazione locale effettiva; non è una prova di lettura da una chat esterna."
+    },
+    {
+      "id": "CASE-06",
+      "question": "Come si difende un Archive I senza una nuova reliquia?",
+      "expected_resolution": "Recorded Blow comprende urto e parata del repertorio iniziale; Held Moment non è una barriera.",
+      "source": "GIOCATORE_57_Archive_progressione_completa.md",
+      "encyclopedia_page": "archive.html",
+      "integral_source_page": "biblioteca/97f5f4730c063fa5.html",
+      "required_text": [
+        "Recorded Blow",
+        "parata"
+      ],
+      "retrieval_passed": true,
+      "scope": "Consultazione locale effettiva; non è una prova di lettura da una chat esterna."
+    },
+    {
+      "id": "CASE-07",
+      "question": "Una figura proiettata da Mask I può colpire fisicamente?",
+      "expected_resolution": "Represented Outline è percettiva; Invested Double II introduce contatto investito.",
+      "source": "GIOCATORE_47_Mask_progressione_completa.md",
+      "encyclopedia_page": "mask.html",
+      "integral_source_page": "biblioteca/cf609655f33486b8.html",
+      "required_text": [
+        "Represented Outline",
+        "Invested Double"
+      ],
+      "retrieval_passed": true,
+      "scope": "Consultazione locale effettiva; non è una prova di lettura da una chat esterna."
+    },
+    {
+      "id": "CASE-08",
+      "question": "Living Fortress IV trasferisce gratuitamente ridondanze organiche agli alleati?",
+      "expected_resolution": "No: è costituzione personale; la funzione è distinta dagli altri interventi di Heart.",
+      "source": "GIOCATORE_45_Heart_progressione_completa.md",
+      "encyclopedia_page": "heart.html",
+      "integral_source_page": "biblioteca/92157bafc45dc3cc.html",
+      "required_text": [
+        "Living Fortress",
+        "personale"
+      ],
+      "retrieval_passed": true,
+      "scope": "Consultazione locale effettiva; non è una prova di lettura da una chat esterna."
+    },
+    {
+      "id": "CASE-09",
+      "question": "Halo IV concede già il trasferimento corporeo Radiant Transit?",
+      "expected_resolution": "Radiant Transit appartiene al grado V e resta oltre la dotazione IV iniziale.",
+      "source": "GIOCATORE_44_Halo_progressione_completa.md",
+      "encyclopedia_page": "halo.html",
+      "integral_source_page": "biblioteca/84dcac5627a3fa38.html",
+      "required_text": [
+        "Radiant Transit",
+        "stadio"
+      ],
+      "retrieval_passed": true,
+      "scope": "Consultazione locale effettiva; non è una prova di lettura da una chat esterna."
+    },
+    {
+      "id": "CASE-10",
+      "question": "The Origin è soltanto una stanza immaginata?",
+      "expected_resolution": "È una Root materiale; osservazione mentale e ingresso corporeo hanno condizioni diverse.",
+      "source": "GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md",
+      "encyclopedia_page": "root-01-the-origin.html",
+      "integral_source_page": "biblioteca/41af70d04909ccff.html",
+      "required_text": [
+        "materia",
+        "ingresso"
+      ],
+      "retrieval_passed": true,
+      "scope": "Consultazione locale effettiva; non è una prova di lettura da una chat esterna."
+    },
+    {
+      "id": "CASE-11",
+      "question": "L’assenza millenaria rende Edran testimone dei fatti avvenuti mentre era morto?",
+      "expected_resolution": "No: memoria antica e cronaca moderna sono distinte.",
+      "source": "GIOCATORE_83_Matrice_delle_conoscenze_personali.md",
+      "encyclopedia_page": "doc-83-matrice-delle-conoscenze-personali.html",
+      "integral_source_page": "biblioteca/f0892959dede90b7.html",
+      "required_text": [
+        "assenza",
+        "Unknown"
+      ],
+      "retrieval_passed": true,
+      "scope": "Consultazione locale effettiva; non è una prova di lettura da una chat esterna."
+    },
+    {
+      "id": "CASE-12",
+      "question": "I familiari riconoscono automaticamente Edran nel convalescente?",
+      "expected_resolution": "No: conoscono Alexander; un riconoscimento richiede indizi pertinenti.",
+      "source": "GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md",
+      "encyclopedia_page": "cast-001-alexander-valcienne.html",
+      "integral_source_page": "biblioteca/7c3451f8ab2db60a.html",
+      "required_text": [
+        "Celine",
+        "Yselle"
+      ],
+      "retrieval_passed": true,
+      "scope": "Consultazione locale effettiva; non è una prova di lettura da una chat esterna."
+    },
+    {
+      "id": "CASE-13",
+      "question": "Il Narratore deve inventare dopo la scoperta il responsabile della caduta?",
+      "expected_resolution": "No: azioni e responsabilità antiche sono già fissate; le scelte presenti restano aperte.",
+      "source": "RISERVATO_97_Caduta_Nove_Sedi_e_storia_delle_attribuzioni.md",
+      "encyclopedia_page": "doc-97-caduta-nove-sedi-e-storia-delle-attribuzioni.html",
+      "integral_source_page": "biblioteca/7593bd9a604a3129.html",
+      "required_text": [
+        "Othrem",
+        "Ilyra",
+        "Sereth"
+      ],
+      "retrieval_passed": true,
+      "scope": "Consultazione locale effettiva; non è una prova di lettura da una chat esterna."
+    },
+    {
+      "id": "CASE-14",
+      "question": "I nuovi agenti possiedono la conoscenza integrale del patrocinatore?",
+      "expected_resolution": "No: capo, ufficiale e contatti locali hanno sapere distinto e ignorano il ritorno.",
+      "source": "CAST_RISERVATO/CAST-478.md",
+      "encyclopedia_page": "cast-478-sevra-dhal.html",
+      "integral_source_page": "biblioteca/fbf93f5b68aa5040.html",
+      "required_text": [
+        "Conosce",
+        "ritorno"
+      ],
+      "retrieval_passed": true,
+      "scope": "Consultazione locale effettiva; non è una prova di lettura da una chat esterna."
+    },
+    {
+      "id": "CASE-15",
+      "question": "Il vivaio può ricreare una dipendenza dopo una guarigione autonoma riuscita?",
+      "expected_resolution": "No: un risultato autentico modifica il fronte; serve una nuova operazione reale per una nuova aggressione.",
+      "source": "CANONE_VIGENTE/Fronti_operativi_326.json",
+      "encyclopedia_page": "fac-17-the-red-orchard.html",
+      "integral_source_page": "biblioteca/117c76e9df5ab6fa.html",
+      "required_text": [
+        "autonomi",
+        "dipendenza"
+      ],
+      "retrieval_passed": true,
+      "scope": "Consultazione locale effettiva; non è una prova di lettura da una chat esterna."
+    },
+    {
+      "id": "CASE-16",
+      "question": "Le altre due braccia dei Kethari sono avatar o manifestazioni?",
+      "expected_resolution": "No: sono quattro braccia fisiche della medesima persona; i ritratti non aggiungono poteri.",
+      "source": "CAST_RISERVATO/CAST-490.md",
+      "encyclopedia_page": "cast-490-kaeris-ohn.html",
+      "integral_source_page": "biblioteca/823268f0c02c2eb6.html",
+      "required_text": [
+        "Kethari",
+        "quattro"
+      ],
+      "retrieval_passed": true,
+      "scope": "Consultazione locale effettiva; non è una prova di lettura da una chat esterna."
+    },
+    {
+      "id": "CASE-17",
+      "question": "Gli archi obbligano a subire un’aggressione già impedita?",
+      "expected_resolution": "No: operazioni condizionate da mezzi, accessi e fatti; gli esiti restano aperti.",
+      "source": "CANONE_VIGENTE/Trama_riservata.json",
+      "encyclopedia_page": "arc-18-the-undeclared-branch.html",
+      "integral_source_page": "biblioteca/4613e26eddb565d5.html",
+      "required_text": [
+        "condizioni",
+        "impedita"
+      ],
+      "retrieval_passed": true,
+      "scope": "Consultazione locale effettiva; non è una prova di lettura da una chat esterna."
+    },
+    {
+      "id": "CASE-18",
+      "question": "Le divinità sono già integrazioni cosmiche complete al tempo iniziale?",
+      "expected_resolution": "No: il registro vigente distingue Seats, accessi parziali e integrazioni complete.",
+      "source": "CANONE_VIGENTE/Architettura_cosmica.json",
+      "encyclopedia_page": "cosmologia.html",
+      "integral_source_page": "biblioteca/bbae328d43d61d53.html",
+      "required_text": [
+        "integrazioni",
+        "Root"
+      ],
+      "retrieval_passed": true,
+      "scope": "Consultazione locale effettiva; non è una prova di lettura da una chat esterna."
+    }
+  ],
+  "passed": 18,
+  "failed": 0,
+  "operational_ability_references_checked": 120,
+  "new_individual_habits_verified": 24,
+  "physical_roots_verified": 8,
+  "cast": 497,
+  "current_bearers": 116,
+  "macro_abilities": 595,
+  "browser_visual_test": "Non completato: il browser restituisce ERR_CONNECTION_TIMED_OUT verso l’anteprima locale. Server di prova arrestato.",
+  "external_chat_test": "Non eseguito: nessun indirizzo pubblico ancora pubblicato.",
+  "publication_blocker": "Sites non eseguibile; nessun account di hosting disponibile. Per un indirizzo stabile occorre predisporre un account gratuito.",
+  "all_html_pages": 1867,
+  "all_local_references_checked": 96286,
+  "missing_references": 0,
+  "javascript_syntax_checks": 3
+}

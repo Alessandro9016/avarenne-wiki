@@ -1,0 +1,57 @@
+{
+  "version": "1.0",
+  "milestone": 3,
+  "result": "PASS",
+  "verification": "Controlli strutturali e revisione concettuale; non simulazione numerica",
+  "thresholds": 7,
+  "acquisition_steps": 6,
+  "advancement_requirements": 4,
+  "transitions": 6,
+  "contest_steps": 9,
+  "contest_outcomes": 5,
+  "applied_cases": 12,
+  "social_areas": 11,
+  "register_entries": 83,
+  "initial_originals_intact": 71,
+  "macro_documents_intact": 7,
+  "player_secrets_leaked": false,
+  "initial_inventory_assigned": false,
+  "progressions_complete": false,
+  "documents": [
+    {
+      "file": "GIOCATORE_33_Lessico_e_sette_soglie.md",
+      "byte": 9471,
+      "sha256": "E3A96B41396D89588C1C705AB7F9B0E5BB518EAB6A4ED6881D978536C3077C7D"
+    },
+    {
+      "file": "GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md",
+      "byte": 12577,
+      "sha256": "5C630845519C13D9C832F14D35C3595EBD5553DFE97F0E7F9929D5BD0686C061"
+    },
+    {
+      "file": "GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md",
+      "byte": 9984,
+      "sha256": "BC47FAAF0D611CF1FBEB9F9A143DD6F54CC768A4A0352E256263C356A5BD6F91"
+    },
+    {
+      "file": "GIOCATORE_36_Corpo_spirito_manifestazioni_e_morte.md",
+      "byte": 9804,
+      "sha256": "F12BDB8F4B84940A0741C403891684A7E052E034B0D8EE659F3C4EA9C8AA4C1B"
+    },
+    {
+      "file": "GIOCATORE_37_Procedura_operativa_delle_contese.md",
+      "byte": 12590,
+      "sha256": "83CCC2100305016171B938F9287DE868B40B9B276113918938300C644184639C"
+    },
+    {
+      "file": "GIOCATORE_38_Poteri_e_vita_comune.md",
+      "byte": 8109,
+      "sha256": "6080EBE016FD60CAF98C902F2B4CC33F585126C30427853A984CD83A7AF1FEE0"
+    },
+    {
+      "file": "39_Chiusura_milestone_3.md",
+      "byte": 3885,
+      "sha256": "BA490995C5E14AB3308B3A87FDFF6ACC26A0DDBD0DEB70AB09AF25DAB40BC041"
+    }
+  ]
+}

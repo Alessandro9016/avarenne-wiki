@@ -1,0 +1,25 @@
+{
+  "access": "RISERVATO",
+  "unique_locations": 63,
+  "unique_slots": 92,
+  "existing_image_hashes_verified": 92,
+  "totals": {
+    "principal_planned": 63,
+    "additional_planned": 24,
+    "territorial_planned": 5,
+    "total_planned": 92,
+    "total_produced": 92,
+    "total_remaining": 0,
+    "principal_remaining": 0,
+    "additional_remaining": 0,
+    "territorial_remaining": 0
+  },
+  "distribution": {
+    "four_images": 4,
+    "two_images": 12,
+    "one_image": 47
+  },
+  "generation_this_update": 8,
+  "approval_complete": false,
+  "publication_access_complete": false
+}

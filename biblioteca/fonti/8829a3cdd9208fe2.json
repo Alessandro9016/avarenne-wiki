@@ -1,0 +1,111 @@
+{
+  "revision": "MILESTONE12-01",
+  "date": "2026-10-11",
+  "milestone": 12,
+  "edition": "1.0",
+  "chapter_budget": 1600,
+  "volumes": 8,
+  "arcs": 40,
+  "mysteries": 20,
+  "initial_agenda": 27,
+  "opening_scenes": 18,
+  "files": [
+    {
+      "path": "RISERVATO_194_Promessa_temi_e_due_linee_portanti.md",
+      "sha256": "60b8fad67f6154f9f206d5ce950500f2ae6d71fbea042f6fef068b0106ed1d1b"
+    },
+    {
+      "path": "RISERVATO_195_Otto_volumi_e_1600_capitoli.md",
+      "sha256": "f797e345b8a4c5b61f2fc0e91110b9f2f713647ad38b0773fff08d4a83fc0f57"
+    },
+    {
+      "path": "RISERVATO_196_Archi_01_10.md",
+      "sha256": "775e4c5c80f0525e2f7430b748e2925194d1e638a467e0b8bec3e7dda21ceaf9"
+    },
+    {
+      "path": "RISERVATO_197_Archi_11_20.md",
+      "sha256": "9ccdbb9b0c8ef8e3f6a658fab8a4a2ba6f93b1e2db9d1d104e74c7801503bb4e"
+    },
+    {
+      "path": "RISERVATO_198_Archi_21_30.md",
+      "sha256": "50f439b4c5f16135bad2c22a2b08d6039473fbd1a0d9223ab5ade76485930929"
+    },
+    {
+      "path": "RISERVATO_199_Archi_31_40.md",
+      "sha256": "36a197ab5fec7fde3caf7ab75e5b97873bc5450bfbcef8aa5d370bc84f41839c"
+    },
+    {
+      "path": "CANONE_VIGENTE/Trama_riservata.json",
+      "sha256": "7ad90c6cc1021709ee7738f5755100952563e0e26916207edd727680d59dc3e9"
+    },
+    {
+      "path": "RISERVATO_200_Misteri_verita_e_canali_di_rivelazione.md",
+      "sha256": "cfd689a0aa5f288fb998f3432c6867d51ed1a625aefe90b585926692e3122e40"
+    },
+    {
+      "path": "CANONE_VIGENTE/Misteri_trama.json",
+      "sha256": "585d66eff86d06567768787fb8815aa5ef0764df801b87c38b507d97e041c9e1"
+    },
+    {
+      "path": "RISERVATO_201_Calendario_fazioni_e_iniziative_fuori_campo.md",
+      "sha256": "252c166bf9b7ad1de7c454d2c3f2013fe25e39fdb81ce78307c5f6a7296ab3cc"
+    },
+    {
+      "path": "CANONE_VIGENTE/Calendario_trama.json",
+      "sha256": "b02b0bad49e94a5d0dd08bad1d3cc10107fa8238ee8b1ceab418cb7f1e85a5a2"
+    },
+    {
+      "path": "RISERVATO_202_Biforcazioni_e_tenuta_del_canone.md",
+      "sha256": "1622feca9033242e0875c32f7d909508db0bdc943ea642a44b423ac130489979"
+    },
+    {
+      "path": "RISERVATO_203_Apertura_primi_archi_e_preparazione_sessione.md",
+      "sha256": "bc42d70cc45db4f29d556db885977efcaed51d0a1931ef654b000be39c63b49a"
+    },
+    {
+      "path": "204_Indice_milestone_12_senza_spoiler.md",
+      "sha256": "4fa420940edf7830d7c870292eaff5f36ebc7c633e3589a89009ec94ff5eb131"
+    },
+    {
+      "path": "205_Chiusura_milestone_12_senza_spoiler.md",
+      "sha256": "2bd69d4a861fcf0c9922ee4c6f8c578cb55d6b5a2f5450e06083ac2498c27dac"
+    },
+    {
+      "path": "CANONE_VIGENTE/Verifica_milestone_12.json",
+      "sha256": "780555568c035557f3eb140503c48190baafe47ab61f50c383da23296ff07d38"
+    },
+    {
+      "path": "RISERVATO_206_Audit_editoriale_della_trama.md",
+      "sha256": "0bdc4eb7794c93b57359282310ed7277233697eff7da229e9e25735e7a97c915"
+    },
+    {
+      "path": "23_Registro_unico_del_canone.md",
+      "sha256": "13939902594687e8728fdba6cbdc2baeb32a10a77d1417daefa1b34aeafd65fa"
+    },
+    {
+      "path": "20_Roadmap_generale_fino_alla_wiki.md",
+      "sha256": "91d33e391ab0553a4aeca3007bb81166f891fbd84d37d3dd34f2576388cbccbf"
+    },
+    {
+      "path": "00_LEGGIMI.md",
+      "sha256": "fc0827a19f5cbcc4174694257b7b18e6620fa2c447a289b1cc7511925fa4ef23"
+    },
+    {
+      "path": "CANONE_VIGENTE/00_LEGGIMI.md",
+      "sha256": "37f14b823cfec5ce129d6813d827c01bb9c55eecb86a4fc5ba7995b2637f9efa"
+    },
+    {
+      "path": "CANONE_VIGENTE/Registro_decisioni.json",
+      "sha256": "2c6c20edb8486473d8fbdccfe2a39fa226a9ac2f73ea85856e97c1c6b440e734"
+    }
+  ],
+  "archived_previous": [
+    "ARCHIVIO_SUPERATO/Snapshot_pre_milestone_12/00_LEGGIMI.md",
+    "ARCHIVIO_SUPERATO/Snapshot_pre_milestone_12/20_Roadmap_generale_fino_alla_wiki.md",
+    "ARCHIVIO_SUPERATO/Snapshot_pre_milestone_12/23_Registro_unico_del_canone.md",
+    "ARCHIVIO_SUPERATO/Snapshot_pre_milestone_12/CANONE_VIGENTE/00_LEGGIMI.md",
+    "ARCHIVIO_SUPERATO/Snapshot_pre_milestone_12/CANONE_VIGENTE/Registro_decisioni.json"
+  ],
+  "verification": "Verifica_milestone_12.json",
+  "future_outcomes": "Aperti"
+}

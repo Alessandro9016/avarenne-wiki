@@ -1,0 +1,325 @@
+{
+  "version": "1.0",
+  "scope": "Raccordo editoriale adulto, non milestone 10",
+  "status": "PASS",
+  "checks_count": 75,
+  "checks": [
+    {
+      "check": "21 Effigi uniche",
+      "passed": true
+    },
+    {
+      "check": "7 Roots uniche",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Cradle",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Ruin",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Scroll",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Halo",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Heart",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Crucible",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Mask",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Hourglass",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Astrolabe",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Sepulchre",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Seed",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Crown",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Chain",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Coin",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Banner",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Oracle",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Archive",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Labyrinth",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Tempest",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Maw",
+      "passed": true
+    },
+    {
+      "check": "Progressione invariata Loom",
+      "passed": true
+    },
+    {
+      "check": "Dotazione o specifica invariata GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
+      "passed": true
+    },
+    {
+      "check": "Dotazione o specifica invariata GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md",
+      "passed": true
+    },
+    {
+      "check": "Dotazione o specifica invariata CANONE_VIGENTE/Roots_consolidate.json",
+      "passed": true
+    },
+    {
+      "check": "Dotazione o specifica invariata CANONE_VIGENTE/Architettura_cosmica.json",
+      "passed": true
+    },
+    {
+      "check": "Dotazione o specifica invariata CANONE_VIGENTE/Progressioni_effigi.json",
+      "passed": true
+    },
+    {
+      "check": "Dotazione o specifica invariata CANONE_VIGENTE/Protagonista.json",
+      "passed": true
+    },
+    {
+      "check": "Dotazione o specifica invariata CANONE_VIGENTE/Protagonista_riservato.json",
+      "passed": true
+    },
+    {
+      "check": "Predecessore conservato 00_LEGGIMI.md",
+      "passed": true
+    },
+    {
+      "check": "Predecessore conservato 23_Registro_unico_del_canone.md",
+      "passed": true
+    },
+    {
+      "check": "Predecessore conservato 20_Roadmap_generale_fino_alla_wiki.md",
+      "passed": true
+    },
+    {
+      "check": "Predecessore conservato 145_Indice_del_raccordo_prima_del_cast.md",
+      "passed": true
+    },
+    {
+      "check": "Predecessore conservato GIOCATORE_36_Corpo_spirito_manifestazioni_e_morte.md",
+      "passed": true
+    },
+    {
+      "check": "Predecessore conservato GIOCATORE_38_Poteri_e_vita_comune.md",
+      "passed": true
+    },
+    {
+      "check": "Predecessore conservato GIOCATORE_69_Roots_e_risorse_cosmiche.md",
+      "passed": true
+    },
+    {
+      "check": "Predecessore conservato RISERVATO_138_Societa_in_azione_e_procedure_di_uso.md",
+      "passed": true
+    },
+    {
+      "check": "Predecessore conservato GIOCATORE_139_Audit_sociale_e_livelli_di_impatto.md",
+      "passed": true
+    },
+    {
+      "check": "Predecessore conservato 63_Indice_delle_Effigi.md",
+      "passed": true
+    },
+    {
+      "check": "Predecessore conservato CANONE_VIGENTE/Registro_decisioni.json",
+      "passed": true
+    },
+    {
+      "check": "Fonte registro allineata",
+      "passed": true
+    },
+    {
+      "check": "ID registro unici",
+      "passed": true
+    },
+    {
+      "check": "Decisione allineata CAN-198",
+      "passed": true
+    },
+    {
+      "check": "Decisione allineata CAN-199",
+      "passed": true
+    },
+    {
+      "check": "Decisione allineata CAN-200",
+      "passed": true
+    },
+    {
+      "check": "Decisione allineata CAN-201",
+      "passed": true
+    },
+    {
+      "check": "Decisione allineata CAN-202",
+      "passed": true
+    },
+    {
+      "check": "Nessun link riservato in 148_Direzione_adulta_e_integrita_personale.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_41_Cradle_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_42_Ruin_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_43_Scroll_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_44_Halo_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_45_Heart_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_46_Crucible_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_47_Mask_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_48_Hourglass_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_49_Astrolabe_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_50_Sepulchre_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_51_Seed_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_52_Crown_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_53_Chain_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_54_Coin_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_55_Banner_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_56_Oracle_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_57_Archive_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_58_Labyrinth_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_59_Tempest_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_60_Maw_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_61_Loom_progressione_completa.md",
+      "passed": true
+    },
+    {
+      "check": "Link 149_Matrice_adulta_Effigi_Roots_e_confini.md -> GIOCATORE_69_Roots_e_risorse_cosmiche.md",
+      "passed": true
+    },
+    {
+      "check": "Nessun link riservato in 149_Matrice_adulta_Effigi_Roots_e_confini.md",
+      "passed": true
+    },
+    {
+      "check": "Nessun link riservato in 150_Criteri_del_cast_corpo_agency_e_reti.md",
+      "passed": true
+    },
+    {
+      "check": "Nessun link riservato in 151_Chiusura_raccordo_adulto_pre_cast.md",
+      "passed": true
+    },
+    {
+      "check": "Documenti nuovi senza futura scelta imposta",
+      "passed": true
+    }
+  ],
+  "limitations": [
+    "Controlli documentali e di integrità, non simulazioni delle abilità",
+    "Le nuove scene dovranno citare tecniche reali e verificare i propri esiti"
+  ],
+  "changed_predecessors": [
+    "00_LEGGIMI.md",
+    "23_Registro_unico_del_canone.md",
+    "20_Roadmap_generale_fino_alla_wiki.md",
+    "145_Indice_del_raccordo_prima_del_cast.md",
+    "GIOCATORE_36_Corpo_spirito_manifestazioni_e_morte.md",
+    "GIOCATORE_38_Poteri_e_vita_comune.md",
+    "GIOCATORE_69_Roots_e_risorse_cosmiche.md",
+    "RISERVATO_138_Societa_in_azione_e_procedure_di_uso.md",
+    "GIOCATORE_139_Audit_sociale_e_livelli_di_impatto.md",
+    "63_Indice_delle_Effigi.md",
+    "CANONE_VIGENTE/Registro_decisioni.json"
+  ]
+}

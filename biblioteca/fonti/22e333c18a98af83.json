@@ -1,0 +1,150 @@
+{
+  "revision": "MONDO-23-05",
+  "status": "PASSED",
+  "scope": "Structure, inventories, references and nocturnal narrative integration; not final quality approval of 23 ability manuals or all character psychology.",
+  "checks": [
+    {
+      "check": "463 unique identities preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "58 networks preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All actor identities, locations, power inventories and future status preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All 463 dossiers exist",
+      "passed": true,
+      "detail": 463
+    },
+    {
+      "check": "All cast relationship targets exist",
+      "passed": true,
+      "detail": 856
+    },
+    {
+      "check": "All locations exist or are explicitly undisclosed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Every actor power uses a current Effigy and rank 1–7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Personal power inventories match record",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All 23 Effigies belong to one family",
+      "passed": true,
+      "detail": 23
+    },
+    {
+      "check": "All multi-Effigy actors remain within a family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Network members and leaders exist",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Nine Eclipse and nine Crescent actors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Every nocturnal Bearer has one personal Effigy",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Eight roots and 23 classified Seats",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "History dates and succession inventory preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "World geometry, population and routes preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Protagonist person, powers, source and prerequisites preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Knowledge provenance added without modern secret donation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Effigy review is pending, not claimed final",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All 23 ability manuals unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Progression JSON unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Sites have distinct effects and explicit corporeal exits",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Factions and networks have distinct conflicts and secrets",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Both religions have training, funding and dissent",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All local links in changed documents resolve",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "Updated embedded root texts match source",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Updated embedded evidence text matches source",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "actors": 463,
+  "networks": 58,
+  "biographies_deepened": 16,
+  "ordinary_counterparts_linked": 16,
+  "changed_files": 72,
+  "new_files": 2,
+  "abilities_changed": false,
+  "qualitative_effigy_approval": "PENDING_PLAYER"
+}

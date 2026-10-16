@@ -1,0 +1,414 @@
+{
+  "editorial_revision": {
+    "edition": 326,
+    "pages": 1101,
+    "macro_abilities": 595,
+    "residual_production_instructions": [],
+    "empty_headings": [],
+    "canonical_counts": {
+      "Personaggi": 497,
+      "Effigi": 23,
+      "Integrazioni cosmiche": 8,
+      "Roots": 8,
+      "Continenti": 5,
+      "Stati": 27,
+      "Luoghi": 63,
+      "Siti soprannaturali": 10,
+      "Religioni": 14,
+      "Istituzioni e fazioni": 26,
+      "Reti locali": 58,
+      "Organizzazioni": 9,
+      "Artefatti": 25,
+      "Materiali": 18,
+      "Bestiario": 52,
+      "Popoli": 6,
+      "Fenomeni": 12,
+      "Cosmologia": 9,
+      "Volumi": 8,
+      "Archi narrativi": 40,
+      "Personaggi storici": 1,
+      "Tavole dei materiali": 3,
+      "Cartografia": 3,
+      "Sistema soprannaturale": 23,
+      "Approfondimenti": 134,
+      "Indici tematici": 14,
+      "Indici": 2,
+      "Enciclopedia": 2,
+      "Informazioni editoriali": 1
+    },
+    "changes": [
+      "Biografie di Alexander ed Edran in terza persona, identità unica preservata.",
+      "Conservati presupposti Cradle/Ruin, cinque Effigi IV e memoria integrale del duca.",
+      "Rimosse istruzioni di gestione della partita e rettifiche di produzione dai testi rivolti al lettore.",
+      "Annotati esplicitamente volumi, archi e documenti di progettazione narrativa come futuri aperti.",
+      "Conservati immagini e percorsi delle pagine già disponibili."
+    ],
+    "publication": "Non eseguita: strumenti Sites non disponibili al termine della revisione."
+  },
+  "media_audit": {
+    "COLLEGATA": 650,
+    "DUPLICATO_DI_IMMAGINE_COLLEGATA": 272,
+    "BOZZA_PRECEDENTE_ALLO_STILE_APPROVATO_V2": 2,
+    "SUPERATA_DAL_RIFACIMENTO_BESTIARIO_V2": 4,
+    "MANIFESTO:ESCLUSA_DALLA_WIKI": 1,
+    "SUPERATA_DA_EDRAN_V2_APPROVATO": 2,
+    "DUPLICATO_DI_ASSET_CENSITO": 1,
+    "SUPERATA_DALLA_REVISIONE_BIOLOGICA_298": 16,
+    "MANIFESTO:ARCHIVIO_STORICO_ESCLUSO_WIKI": 12,
+    "MANIFESTO:DA_RIFARE_BIOLOGIA_POP_298": 2
+  },
+  "edition": "WIKI-328",
+  "pages": 1867,
+  "categories": {
+    "Personaggi": 497,
+    "Effigi": 23,
+    "Integrazioni cosmiche": 8,
+    "Roots": 8,
+    "Continenti": 5,
+    "Stati": 27,
+    "Luoghi": 63,
+    "Siti soprannaturali": 10,
+    "Religioni": 14,
+    "Istituzioni e fazioni": 26,
+    "Reti locali": 58,
+    "Organizzazioni": 9,
+    "Artefatti": 25,
+    "Materiali": 18,
+    "Bestiario": 52,
+    "Popoli": 6,
+    "Fenomeni": 12,
+    "Cosmologia": 9,
+    "Volumi": 8,
+    "Archi narrativi": 40,
+    "Personaggi storici": 1,
+    "Tavole dei materiali": 3,
+    "Cartografia": 3,
+    "Sistema soprannaturale": 23,
+    "Approfondimenti": 134,
+    "Indici tematici": 14,
+    "Indici": 2,
+    "Enciclopedia": 2,
+    "Informazioni editoriali": 1
+  },
+  "macro_abilities": 595,
+  "illustration_records": 681,
+  "served_image_files": 662,
+  "internal_references_checked": 91637,
+  "broken_references": 0,
+  "language": "Italiano",
+  "english_translation": "Non ancora realizzata; controllo EN disattivato",
+  "protagonist": "Elias Veyne",
+  "spoiler_filters": false,
+  "browser_checks": [
+    "Ricerca globale: Crescent e relativi portatori",
+    "Filtro del cast: Aurelie e famiglia Belcour",
+    "Galleria: apertura e chiusura Hollowjaw",
+    "Ilyr: due riferimenti visivi corretti",
+    "Elias: schermo 390 px senza overflow orizzontale",
+    "Homepage desktop 1280 px",
+    "Console senza errori nelle pagine controllate"
+  ],
+  "deployment": {
+    "state": "NOT_PUBLISHED",
+    "external_chat_access": false,
+    "reason": "Sites non eseguibile; nessun account di hosting disponibile. Per un indirizzo stabile occorre predisporre un account gratuito."
+  },
+  "editorial_reconciliation": [
+    "Applicata la decisione iniziale: zero integrazioni cosmiche complete.",
+    "Eliminate in wiki le formulazioni residue di 153/199 su Helyr come Continuum completo.",
+    "Allineato il riferimento al -1840 di Neral agli accessi parziali vigenti.",
+    "I ranghi e gli sviluppi futuri aperti restano distinti dai fatti avvenuti."
+  ],
+  "scope": "Enciclopedia illustrata e biblioteca integrale del Narratore: fonti originali con registro di precedenza esplicito.",
+  "narrator_library": {
+    "edition": 328,
+    "catalog_sources": 676,
+    "published_sources": 762,
+    "individual_cast_dossiers": 497,
+    "missing_catalog_sources": [],
+    "original_hashes_verified": 762,
+    "dossier_sources": [
+      "GIOCATORE_273_Rete_civile_di_Alexander.md",
+      "GIOCATORE_278_Affetti_antichi_e_longevita.md",
+      "GIOCATORE_279_Althene_relazione_antica_ricordata.md",
+      "GIOCATORE_77_Identita_di_Edran_e_Alexander.md",
+      "GIOCATORE_78_Prima_vita_e_ricordi_consolidati.md",
+      "GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md",
+      "GIOCATORE_80_Legami_antichi_che_ricordi.md",
+      "GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
+      "GIOCATORE_82_Recupero_delle_antiche_capacita.md",
+      "GIOCATORE_83_Matrice_delle_conoscenze_personali.md"
+    ],
+    "external_access_verified": false,
+    "note": "Fonti integrali conservate; rettifiche esplicite nel registro di precedenza. Nessuna certificazione di lettura completa da chat esterna."
+  },
+  "encyclopedia_pages": 1063,
+  "source_reconciliation": {
+    "edition": 325,
+    "method": "Confronto testuale normalizzato per campo e blocco, con integrazione dei dettagli non attestati. Non costituisce certificazione automatica di equivalenza semantica o assenza assoluta di contraddizioni.",
+    "sources_in_manifest": 732,
+    "sources_classified": 732,
+    "units_checked": 74227,
+    "counts": {
+      "METADATO": 13653,
+      "PRESENTE_TESTUALMENTE": 20185,
+      "INTEGRATO_TESTUALMENTE": 31868,
+      "SOLO_BIBLIOTECA": 8391,
+      "PRESENTE_IN_ALTRA_VOCE": 130
+    },
+    "articles_extended": 877,
+    "new_thematic_articles": 18,
+    "post_integration_text_failures": 0,
+    "limitations": [
+      "Le istruzioni, le pressioni di gioco e i metadati rimangono nella biblioteca.",
+      "Gli estratti ereditati nei dossier ripetono fonti generali: si confrontano le fonti originarie.",
+      "Le formulazioni già riscritte possono essere integrate di nuovo perché non identiche: non sono conteggiate come omissioni semantiche certe.",
+      "Le rettifiche della versione 324 prevalgono sui residui delle fonti integrali."
+    ]
+  },
+  "operational_revision": {
+    "edition": 326,
+    "cast_total": 497,
+    "new_characters": [
+      "CAST-474",
+      "CAST-475",
+      "CAST-476",
+      "CAST-477",
+      "CAST-478",
+      "CAST-479",
+      "CAST-480",
+      "CAST-481",
+      "CAST-482",
+      "CAST-483",
+      "CAST-484",
+      "CAST-485",
+      "CAST-486",
+      "CAST-487",
+      "CAST-488",
+      "CAST-489",
+      "CAST-490",
+      "CAST-491",
+      "CAST-492",
+      "CAST-493",
+      "CAST-494",
+      "CAST-495",
+      "CAST-496",
+      "CAST-497"
+    ],
+    "existing_assignments": [
+      "CAST-193",
+      "CAST-194",
+      "CAST-200",
+      "CAST-246",
+      "CAST-248",
+      "CAST-250",
+      "CAST-286",
+      "CAST-289",
+      "CAST-290",
+      "CAST-341",
+      "CAST-343",
+      "CAST-345",
+      "CAST-336",
+      "CAST-338",
+      "CAST-340",
+      "CAST-321",
+      "CAST-323",
+      "CAST-325",
+      "CAST-241",
+      "CAST-243",
+      "CAST-245",
+      "CAST-421",
+      "CAST-423",
+      "CAST-425",
+      "CAST-386",
+      "CAST-388",
+      "CAST-390",
+      "CAST-416",
+      "CAST-418",
+      "CAST-420",
+      "CAST-208",
+      "CAST-211",
+      "CAST-220",
+      "CAST-261",
+      "CAST-262",
+      "CAST-265"
+    ],
+    "current_bearers": 116,
+    "all_bearers_including_history": 142,
+    "current_max_stage_distribution": {
+      "4": 15,
+      "1": 17,
+      "7": 16,
+      "6": 15,
+      "3": 19,
+      "2": 31,
+      "5": 3
+    },
+    "fronts": 12,
+    "hostile_fronts": 10,
+    "independent_allied_fronts": 2,
+    "arcs_with_operational_fronts": 40,
+    "current_library_sources": 760,
+    "source_hashes_verified": 760,
+    "all_40_arcs_linked": true,
+    "arcs_with_hostile_figures": 38,
+    "current_bearers_below_semidivine": 67,
+    "old_names_and_powers_preserved_except_36_explicit_assignments": true,
+    "new_seats": 0,
+    "new_roots": 0,
+    "old_causal_facts_preserved": [
+      "Morte del giovane duca",
+      "Incidente del banco di Elias",
+      "Responsabilità storiche nella caduta di Edran"
+    ],
+    "links_checked": 91353,
+    "broken_links": 0,
+    "external_chat_access_verified": false,
+    "editorial_findings": []
+  },
+  "portrait_revision": {
+    "edition": 327,
+    "new_selected_portraits": 24,
+    "new_generated_variants": 25,
+    "rejected_variants": 1,
+    "individual_pages_with_portrait": 24,
+    "index_thumbnails": 24,
+    "global_gallery_additions": 24,
+    "main_image_records": 681,
+    "original_hashes_verified": 24,
+    "wiki_links_checked": 91637,
+    "broken_links": 0,
+    "textual_canon_unchanged": true,
+    "mode": "image_gen_integrato",
+    "visual_review": "Esaminate singolarmente le 24 immagini: soggetto, identità visiva, popolazione e assenza di dimostrazioni di abilità. Una variante sostituita perché troppo simile a un volto esistente.",
+    "player_art_approval": "Aperta; integrazione richiesta dall’utente.",
+    "public_deployment": "Non eseguito"
+  },
+  "final_review": {
+    "edition": 328,
+    "passed": 18,
+    "failed": 0,
+    "operational_ability_references_checked": 120,
+    "new_individual_habits_verified": 24,
+    "physical_roots_verified": 8,
+    "cast": 497,
+    "current_bearers": 116,
+    "macro_abilities": 595,
+    "browser_visual_test": "Non completato: il browser restituisce ERR_CONNECTION_TIMED_OUT verso l’anteprima locale. Server di prova arrestato.",
+    "external_chat_test": "Non eseguito: nessun indirizzo pubblico ancora pubblicato.",
+    "publication_blocker": "Sites non eseguibile; nessun account di hosting disponibile. Per un indirizzo stabile occorre predisporre un account gratuito.",
+    "all_html_pages": 1867,
+    "all_local_references_checked": 96286,
+    "missing_references": 0,
+    "javascript_syntax_checks": 3
+  },
+  "editorial_closure": {
+    "edition": 328,
+    "individual_habits_corrected": 24,
+    "operational_profiles_checked": 60,
+    "offensive_and_defensive_ability_references_checked": 120,
+    "knowledge_boundaries_rewritten": 60,
+    "translated_field_headings": 669,
+    "canonical_power_system_changed": false,
+    "future_outcomes_fixed": false,
+    "changes": [
+      {
+        "id": "CAST-474",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-475",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-476",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-477",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-478",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-479",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-480",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-481",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-482",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-483",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-484",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-485",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-486",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-487",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-488",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-489",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-490",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-491",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-492",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-493",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-494",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-495",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-496",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      },
+      {
+        "id": "CAST-497",
+        "correction": "Abitudine e conflitto individuali sostituiscono i campi ereditati dal modello."
+      }
+    ],
+    "publication": "Account gratuito ancora da predisporre; nessun URL pubblico attivo."
+  }
+}

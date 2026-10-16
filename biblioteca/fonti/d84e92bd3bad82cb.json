@@ -1,0 +1,56 @@
+{
+  "versione": "1.0",
+  "milestone": 2,
+  "esito": "PASS",
+  "tipo_verifica": "Strutturale automatizzata e revisione concettuale; non simulazione numerica",
+  "effigies": 21,
+  "integrations": 7,
+  "axials": 2,
+  "partizione_univoca": true,
+  "autorita_multiple_per_tutti": true,
+  "offesa_difesa_per_tutti": true,
+  "proprieta_emergenti_documentate": true,
+  "fonte_e_sapere_innati": true,
+  "esempi_sovereign": 8,
+  "casi_concettuali": 24,
+  "manuali_senza_identita_modernamente_riservate": true,
+  "registrazione_coerente": true,
+  "archivio_precedente_integro": 71,
+  "documenti": [
+    {
+      "file": "GIOCATORE_26_Fondamenti_cosmologici.md",
+      "byte": 11348,
+      "sha256": "CDB6027CB4827702410AC589B8AF4CEDE8DB212ED46C29BA4F2F9B73E8DB5159"
+    },
+    {
+      "file": "GIOCATORE_27_Catalogo_macro_delle_21_Effigi.md",
+      "byte": 27225,
+      "sha256": "69403860B488141BC97F9F74D9FFD39D95FC7E278236DCCD778555AE7DA2D5E7"
+    },
+    {
+      "file": "GIOCATORE_28_Le_sette_integrazioni_cosmiche.md",
+      "byte": 18523,
+      "sha256": "66430AACA39C1A3565F9723B570273548A9268A88E0D3C86EB4AB83BE1DB1C29"
+    },
+    {
+      "file": "GIOCATORE_29_The_Sovereign_Completezza_e_poteri_cosmici.md",
+      "byte": 11729,
+      "sha256": "DE391D17C181C5B0E1DCAA65B8BEEC6AAB9CA7B545788001D9E01780C6FFD9F1"
+    },
+    {
+      "file": "GIOCATORE_30_Confini_contese_e_verifica_macro.md",
+      "byte": 9995,
+      "sha256": "EB0626BDA1F41777A8AC1D36AA100A44CD1B9E3C58B500C70D8192F3F7EE0211"
+    },
+    {
+      "file": "RISERVATO_31_Vincoli_autoriali_della_nuova_architettura.md",
+      "byte": 4064,
+      "sha256": "A132DC8925B4C7033CBB885E5B9C52A63A5EA2086F97BC7CC1E0F5C39E2A733A"
+    },
+    {
+      "file": "32_Chiusura_milestone_2.md",
+      "byte": 3515,
+      "sha256": "F779259C288627FB3AE749737AC470BBCE3594AB8F43D44BB950544C909B5A02"
+    }
+  ]
+}

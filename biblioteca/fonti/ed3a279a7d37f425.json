@@ -1,0 +1,412 @@
+{
+  "version": "1.0",
+  "revision": "FRONTI-326",
+  "t0": "812-05-18",
+  "events": [
+    {
+      "id": "CLK-01",
+      "date": "812-05-21",
+      "source": "U11-12",
+      "place": "Edris",
+      "event": "Ispezione dei due circuiti e controlli già previsti ogni sei ore.",
+      "without_pc": "Tecnici isolano drenaggi e avvisano chi possiede competenza sufficiente.",
+      "intervention": "Il PG può diagnosticare e risolvere prima; non creare una fuga obbligatoria del Reliquary.",
+      "status": "Pianificato a T0; non già avvenuto"
+    },
+    {
+      "id": "CLK-02",
+      "date": "812-05-22",
+      "source": "U11-04",
+      "place": "Namar",
+      "event": "Prova clinica con anatomia da verificare.",
+      "without_pc": "Personale rinvia impiego incompatibile e organizza cura alternativa.",
+      "intervention": "Una guarigione autentica chiude il rischio; non si lascia morire il paziente per burocrazia.",
+      "status": "Pianificato a T0; non già avvenuto"
+    },
+    {
+      "id": "CLK-03",
+      "date": "812-05-23",
+      "source": "EXCHANGE",
+      "place": "Lethorne",
+      "event": "Seconda sessione seRoom Six sicura; altrimenti incontri ordinari.",
+      "without_pc": "Elias e Livia confrontano prove senza aver acquisito l’ordine di Vern.",
+      "intervention": "Alexander può non essere invitato o non aderire; nessuno lo convoca automaticamente.",
+      "status": "Pianificato a T0; non già avvenuto"
+    },
+    {
+      "id": "CLK-04",
+      "date": "812-05-23",
+      "source": "U11-09/10",
+      "place": "Noran/Tevren",
+      "event": "Prove locali dei circuiti e delle superfici.",
+      "without_pc": "Custodi verificano limiti senza aspettare ilPG.",
+      "intervention": "Distinguere queste prove dalla revisione istituzionale30 giugno.",
+      "status": "Pianificato a T0; non già avvenuto"
+    },
+    {
+      "id": "CLK-15",
+      "date": "812-05-25",
+      "source": "FAC-02",
+      "place": "istituzione pertinente",
+      "event": "Ren Istral propone chiusura selettiva di un supporto; Malrec Dorn negozia copertura del costo",
+      "without_pc": "L’istituzione svolge la revisione o cerca alternative entro risorse e mandato; leggere il dossier di fazione prima di stabilire un esito.",
+      "intervention": "Prove, riparazioni, accordi e opposizioni registrati possono modificare o rendere superflua questa iniziativa.",
+      "status": "Pianificato a T0; fonte società 9"
+    },
+    {
+      "id": "CLK-05",
+      "date": "812-05-26",
+      "source": "ESTATE",
+      "place": "Rovenne",
+      "event": "Paga del personale già prevista.",
+      "without_pc": "Albin esegue deleghe e registra denaro impegnato.",
+      "intervention": "Non far apparire una bancarotta improvvisa per costringere il duca a partire.",
+      "status": "Pianificato a T0; non già avvenuto"
+    },
+    {
+      "id": "CLK-06",
+      "date": "812-05-26",
+      "source": "U11-05",
+      "place": "Teshen",
+      "event": "Confronto editoriale della registrazione.",
+      "without_pc": "Custodi conservano copertura e limiti delle copie.",
+      "intervention": "Le azioni aTeshennon teletrasportano il repertorio giuridico di Veldane.",
+      "status": "Pianificato a T0; non già avvenuto"
+    },
+    {
+      "id": "CLK-07",
+      "date": "812-05-27",
+      "source": "U11-06",
+      "place": "Sarn",
+      "event": "Verifica del legame selettivo di soccorso.",
+      "without_pc": "Personale confronta il collare con il certificato pertinente.",
+      "intervention": "Una cura fisica riuscita non autentica un diverso contratto.",
+      "status": "Pianificato a T0; non già avvenuto"
+    },
+    {
+      "id": "CLK-08",
+      "date": "812-05-28",
+      "source": "U11-11",
+      "place": "Corten/Mersa",
+      "event": "Prestazioni e custodie distinguono consenso e sostegno.",
+      "without_pc": "Interlocutori negoziano o sospendono prestazione non verificata.",
+      "intervention": "I due moduli sono separati e non un viaggio obbligatorio in un giorno.",
+      "status": "Pianificato a T0; non già avvenuto"
+    },
+    {
+      "id": "CLK-20",
+      "date": "812-05-28",
+      "source": "FAC-07",
+      "place": "istituzione pertinente",
+      "event": "Concorda turni rurali e urbani per giugno",
+      "without_pc": "L’istituzione svolge la revisione o cerca alternative entro risorse e mandato; leggere il dossier di fazione prima di stabilire un esito.",
+      "intervention": "Prove, riparazioni, accordi e opposizioni registrati possono modificare o rendere superflua questa iniziativa.",
+      "status": "Pianificato a T0; fonte società 9"
+    },
+    {
+      "id": "CLK-09",
+      "date": "812-05-29",
+      "source": "U11-07",
+      "place": "Grey Embankment",
+      "event": "Confronto delle due pietre.",
+      "without_pc": "Periti classificano blocchi prima di estendere i lavori.",
+      "intervention": "Ilreperto Ruin non investe ogni pietra.",
+      "status": "Pianificato a T0; non già avvenuto"
+    },
+    {
+      "id": "CLK-16",
+      "date": "812-05-30",
+      "source": "FAC-03",
+      "place": "istituzione pertinente",
+      "event": "Confronta paghe del porto e prepara una domanda di rimborso",
+      "without_pc": "L’istituzione svolge la revisione o cerca alternative entro risorse e mandato; leggere il dossier di fazione prima di stabilire un esito.",
+      "intervention": "Prove, riparazioni, accordi e opposizioni registrati possono modificare o rendere superflua questa iniziativa.",
+      "status": "Pianificato a T0; fonte società 9"
+    },
+    {
+      "id": "CLK-10",
+      "date": "812-05-31",
+      "source": "ELIAS",
+      "place": "Lethorne",
+      "event": "Udienza sul collaudo 21 aprile.",
+      "without_pc": "Etienne chiede responsabilità e salario; laboratorio porta ciò che ha.",
+      "intervention": "Registrare prove realmente acquisite: senzaordine l’attribuzione ha copertura minore.",
+      "status": "Pianificato a T0; non già avvenuto"
+    },
+    {
+      "id": "CLK-25",
+      "date": "812-06-01",
+      "source": "FAC-12",
+      "place": "istituzione pertinente",
+      "event": "Confronta disposizioni di persone disperse in mare",
+      "without_pc": "L’istituzione svolge la revisione o cerca alternative entro risorse e mandato; leggere il dossier di fazione prima di stabilire un esito.",
+      "intervention": "Prove, riparazioni, accordi e opposizioni registrati possono modificare o rendere superflua questa iniziativa.",
+      "status": "Pianificato a T0; fonte società 9"
+    },
+    {
+      "id": "CLK-11",
+      "date": "812-06-03",
+      "source": "U11-07",
+      "place": "Auvrel",
+      "event": "Verifica locale del proprio modulo.",
+      "without_pc": "Tecnici esaminano supporto raggiunto.",
+      "intervention": "Non confondere collaudo locale con termineTreMoli25 maggio.",
+      "status": "Pianificato a T0; non già avvenuto"
+    },
+    {
+      "id": "CLK-24",
+      "date": "812-06-04",
+      "source": "FAC-11",
+      "place": "istituzione pertinente",
+      "event": "Organizza la raccolta di proposte dopo il test di Namar",
+      "without_pc": "L’istituzione svolge la revisione o cerca alternative entro risorse e mandato; leggere il dossier di fazione prima di stabilire un esito.",
+      "intervention": "Prove, riparazioni, accordi e opposizioni registrati possono modificare o rendere superflua questa iniziativa.",
+      "status": "Pianificato a T0; fonte società 9"
+    },
+    {
+      "id": "CLK-14",
+      "date": "812-06-05",
+      "source": "FAC-01",
+      "place": "istituzione pertinente",
+      "event": "Confronta ventisette trasferimenti contestati; pubblicazione preliminare prevista il 5 giugno",
+      "without_pc": "L’istituzione svolge la revisione o cerca alternative entro risorse e mandato; leggere il dossier di fazione prima di stabilire un esito.",
+      "intervention": "Prove, riparazioni, accordi e opposizioni registrati possono modificare o rendere superflua questa iniziativa.",
+      "status": "Pianificato a T0; fonte società 9"
+    },
+    {
+      "id": "CLK-12",
+      "date": "812-06-06",
+      "source": "U11-07",
+      "place": "South Shoals",
+      "event": "Revisione della bussolaaccordata.",
+      "without_pc": "Naviganti confrontano aghi investiti e ordinari.",
+      "intervention": "Non far sparire il nord del pianeta perché un apparato ha interferenza.",
+      "status": "Pianificato a T0; non già avvenuto"
+    },
+    {
+      "id": "CLK-17",
+      "date": "812-06-08",
+      "source": "FAC-04",
+      "place": "istituzione pertinente",
+      "event": "Elren Voss Oracle IV e Dama Rinn confrontano campioni per IND-01",
+      "without_pc": "L’istituzione svolge la revisione o cerca alternative entro risorse e mandato; leggere il dossier di fazione prima di stabilire un esito.",
+      "intervention": "Prove, riparazioni, accordi e opposizioni registrati possono modificare o rendere superflua questa iniziativa.",
+      "status": "Pianificato a T0; fonte società 9"
+    },
+    {
+      "id": "CLK-21",
+      "date": "812-06-08",
+      "source": "FAC-08",
+      "place": "istituzione pertinente",
+      "event": "Riesamina alcune garanzie dopo Bellance e valuta il progetto di Yselle",
+      "without_pc": "L’istituzione svolge la revisione o cerca alternative entro risorse e mandato; leggere il dossier di fazione prima di stabilire un esito.",
+      "intervention": "Prove, riparazioni, accordi e opposizioni registrati possono modificare o rendere superflua questa iniziativa.",
+      "status": "Pianificato a T0; fonte società 9"
+    },
+    {
+      "id": "CLK-23",
+      "date": "812-06-08",
+      "source": "FAC-10",
+      "place": "istituzione pertinente",
+      "event": "Coordina una prova di pompe e l’acquisto di ricambi",
+      "without_pc": "L’istituzione svolge la revisione o cerca alternative entro risorse e mandato; leggere il dossier di fazione prima di stabilire un esito.",
+      "intervention": "Prove, riparazioni, accordi e opposizioni registrati possono modificare o rendere superflua questa iniziativa.",
+      "status": "Pianificato a T0; fonte società 9"
+    },
+    {
+      "id": "CLK-19",
+      "date": "812-06-10",
+      "source": "FAC-06",
+      "place": "istituzione pertinente",
+      "event": "Rivede lo statuto di una scuola dopo richieste di accesso dei lavoratori mobili",
+      "without_pc": "L’istituzione svolge la revisione o cerca alternative entro risorse e mandato; leggere il dossier di fazione prima di stabilire un esito.",
+      "intervention": "Prove, riparazioni, accordi e opposizioni registrati possono modificare o rendere superflua questa iniziativa.",
+      "status": "Pianificato a T0; fonte società 9"
+    },
+    {
+      "id": "CLK-13",
+      "date": "812-06-12",
+      "source": "CULT-01/IND-03",
+      "place": "rete Sponda",
+      "event": "Udienza unica su concessione e diritto d’uso.",
+      "without_pc": "Compagnie presentano il ricorso già depositato.",
+      "intervention": "La prova può cambiare esito, sospensione o accordo. Nessuna sentenza già decisa nel progetto.",
+      "status": "Pianificato a T0; non già avvenuto"
+    },
+    {
+      "id": "CLK-18",
+      "date": "812-06-20",
+      "source": "FAC-05",
+      "place": "istituzione pertinente",
+      "event": "Tratta il rilascio di un metodo da brevetto a licenza di studio",
+      "without_pc": "L’istituzione svolge la revisione o cerca alternative entro risorse e mandato; leggere il dossier di fazione prima di stabilire un esito.",
+      "intervention": "Prove, riparazioni, accordi e opposizioni registrati possono modificare o rendere superflua questa iniziativa.",
+      "status": "Pianificato a T0; fonte società 9"
+    },
+    {
+      "id": "CLK-26",
+      "date": "812-06-30",
+      "source": "FAC-13",
+      "place": "istituzione pertinente",
+      "event": "Astrid confronta il mandato di clausura con Ophie; un tecnico prepara una prova della linea di allarme separata.",
+      "without_pc": "L’istituzione svolge la revisione o cerca alternative entro risorse e mandato; leggere il dossier di fazione prima di stabilire un esito.",
+      "intervention": "Prove, riparazioni, accordi e opposizioni registrati possono modificare o rendere superflua questa iniziativa.",
+      "status": "Pianificato a T0; fonte società 9"
+    },
+    {
+      "id": "CLK-27",
+      "date": "812-06-30",
+      "source": "FAC-14",
+      "place": "istituzione pertinente",
+      "event": "Teva richiede corroborazione della copia incompleta; Sela porta la versione usata dalla sede periferica.",
+      "without_pc": "L’istituzione svolge la revisione o cerca alternative entro risorse e mandato; leggere il dossier di fazione prima di stabilire un esito.",
+      "intervention": "Prove, riparazioni, accordi e opposizioni registrati possono modificare o rendere superflua questa iniziativa.",
+      "status": "Pianificato a T0; fonte società 9"
+    },
+    {
+      "id": "CLK-22",
+      "date": "812-07-02",
+      "source": "FAC-09",
+      "place": "istituzione pertinente",
+      "event": "Confronta costi delle rotte e clausole di rame per IND-02",
+      "without_pc": "L’istituzione svolge la revisione o cerca alternative entro risorse e mandato; leggere il dossier di fazione prima di stabilire un esito.",
+      "intervention": "Prove, riparazioni, accordi e opposizioni registrati possono modificare o rendere superflua questa iniziativa.",
+      "status": "Pianificato a T0; fonte società 9"
+    },
+    {
+      "id": "OPCLK-01",
+      "date": "812-05-19",
+      "source": "FRONT-01",
+      "place": "Lethorne",
+      "event": "Identificare il vettore, sostituire la consegna con un esemplare ordinario e sequestrare chi sa ricaricare la cerniera.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Una squadra ha affittato il piano sopra un deposito di strumenti. Conosce un intermediario di Marcel, non la posizione di Room Six.",
+      "without_pc": "Senza notizie nuove tengono sotto osservazione il deposito; non scoprono magicamente il club o Alexander.",
+      "intervention": "Avvisare o mettere al sicuro il vettore, identificare il compratore, spezzare la catena di accesso. Distruggere il falso non distrugge la cerniera vera."
+    },
+    {
+      "id": "OPCLK-02",
+      "date": "812-05-20",
+      "source": "FRONT-02",
+      "place": "Sarn Gate",
+      "event": "Trasferire i prigionieri, installare vincoli individuali e addestrare una guardia di leva finanziata dal minerale.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Un convoglio di sei adulti è nascosto in una stazione dismessa. I vecchi marchi sono studiati, non già ripristinati su tutta una popolazione.",
+      "without_pc": "Il trasferimento può iniziare solo quando arriva la scorta e il tratto ferroviario è libero; i ritardi producono razionamento e possibilità di fuga.",
+      "intervention": "Liberare i prigionieri, interrompere i vincoli con mezzi pertinenti, sottrarre entrate e custodi. La liberazione autentica resta valida."
+    },
+    {
+      "id": "OPCLK-03",
+      "date": "812-05-21",
+      "source": "FRONT-03",
+      "place": "Elven",
+      "event": "Distribuire innesti sotto una falsa dichiarazione di autonomia e rapire chi possiede una tecnica concorrente di separazione.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Un vivaio sperimentale coltiva un sostegno utile e un ramo dipendente non dichiarato. Tre campioni sono già stati separati per la spedizione.",
+      "without_pc": "La spedizione parte se il trasporto è confermato; Othrem riceve solo relazioni inviate attraverso canali realmente attivi.",
+      "intervention": "Offrire sostegni realmente autonomi, isolare la dipendenza e impedire il sequestro. Non esiste una punizione cosmica per chi guarisce davvero."
+    },
+    {
+      "id": "OPCLK-04",
+      "date": "812-05-22",
+      "source": "FRONT-04",
+      "place": "Veldane",
+      "event": "Fermare un testimone in viaggio, isolare copie della sua dichiarazione e imporre una nuova proroga del contenimento.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Due funzionari hanno preparato mandati individuali contro testimoni e un deposito protetto per trattenerli.",
+      "without_pc": "L’arresto richiede itinerario verificato e una scorta disponibile; un bersaglio trasferito non viene ritrovato senza indagine.",
+      "intervention": "Proteggere il testimone, invalidare la presa concreta, dividere funzionari e comando. La forza può liberare il detenuto anche prima della soluzione politica."
+    },
+    {
+      "id": "OPCLK-05",
+      "date": "812-05-23",
+      "source": "FRONT-05",
+      "place": "South Shoals",
+      "event": "Alterare il passaggio locale con correnti e segnali, abbordare i superstiti e incendiare il deposito dei registri di carico.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Due imbarcazioni di appoggio hanno depositato ancore e segnali falsi presso una secca. La nave bersaglio è ancora in porto.",
+      "without_pc": "L’agguato dipende dalla partenza reale e dal tempo; una partenza annullata lo rinvia, non causa comunque il naufragio.",
+      "intervention": "Scortare o deviare la nave, rimuovere i segnali, combattere gli abbordatori e mettere al sicuro i superstiti."
+    },
+    {
+      "id": "OPCLK-06",
+      "date": "812-05-24",
+      "source": "FRONT-06",
+      "place": "Corten",
+      "event": "Imporre una sessione interiore preparata, estorcere accessi e usare Mask per ingannare un solo destinatario già studiato.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Una pensione ospita quattro adulti reclutati con promesse di impiego; gli ingressi sono ordinari e controllabili.",
+      "without_pc": "La sessione richiede presenza e preparazione; chi lascia la pensione prima non resta automaticamente collegato.",
+      "intervention": "Interrompere il collegamento preparato, raggiungere fisicamente gli ospiti, confrontare ricordi con testimonianze indipendenti."
+    },
+    {
+      "id": "OPCLK-07",
+      "date": "812-05-25",
+      "source": "FRONT-07",
+      "place": "Deren",
+      "event": "Sabotare una pompa di sicurezza, attirare una squadra di soccorso e prendere ostaggi per imporre l’acquisto delle armi.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Un’officina prepara cariche di conversione e contenitori difettosi deliberatamente. La galleria di prova è stata evacuata dai tecnici informati.",
+      "without_pc": "Il sabotaggio richiede l’ingresso nella sala pompe; una guardia avvisata può negare accesso o chiedere rinforzi.",
+      "intervention": "Disinnescare o isolare le cariche, liberare gli ostaggi e sequestrare le scorte. Nessun esplosivo colpisce se l’attivazione viene davvero impedita."
+    },
+    {
+      "id": "OPCLK-08",
+      "date": "812-05-26",
+      "source": "FRONT-08",
+      "place": "Noran",
+      "event": "Rubare una custodia, ricattare il destinatario e applicare una maledizione attraverso un legame realmente ottenuto.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Tre contenitori ospitano continuità distinguibili; i custodi stanno negoziando un trasferimento notturno.",
+      "without_pc": "Il trasporto richiede un veicolo schermato e manutenzione; un ritardo impone ai rapitori di investire risorse ulteriori.",
+      "intervention": "Separare custodia e ricatto, spezzare il legame della maledizione, restituire facoltà di scelta alle presenze e proteggere i supporti."
+    },
+    {
+      "id": "OPCLK-09",
+      "date": "812-05-27",
+      "source": "FRONT-09",
+      "place": "Serevan",
+      "event": "Spostare un riferimento di un corridoio raggiunto, intercettare una spedizione e sequestrare il suo cartografo.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Kaeris mantiene un avamposto remoto con una sola via di rifornimento e una squadra sul pianeta.",
+      "without_pc": "Le spedizioni vengono intercettate soltanto se entrano nella rotta studiata; l’avamposto perde riserve durante ogni interruzione del servizio.",
+      "intervention": "Verificare i riferimenti, proteggere il cartografo, isolare il solo corridoio ostile o raggiungere l’avamposto con accessi propri."
+    },
+    {
+      "id": "OPCLK-10",
+      "date": "812-05-28",
+      "source": "FRONT-10",
+      "place": "Ashen Quay",
+      "event": "Rapire un Bearer utile, separare una funzione raggiunta e inviare il lotto a un compratore prima che arrivi l’ispezione.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Una nave-laboratorio trattiene sei adulti e trasporta tessuti investiti in supporti distinti. Non è una Root né una specie intera.",
+      "without_pc": "Il lotto parte solo con un vettore compatibile: ritardi espongono il fallimento e spaccano il gruppo, non generano nuove vittime automaticamente.",
+      "intervention": "Abbattere le difese pertinenti, liberare i detenuti e separare le funzioni senza distruggere i supporti vitali. Cure reali possono eliminare la dipendenza."
+    },
+    {
+      "id": "OPCLK-11",
+      "date": "812-05-29",
+      "source": "FRONT-11",
+      "place": "Rovenne",
+      "event": "Verificare una segnalazione di sequestro, preparare trasporto e intervenire contro la squadra identificata.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Un rifugio dispone di due stanze, tre letti e una rete di vettori ordinari. Nessun occupante conosce il ritorno di Edran.",
+      "without_pc": "Senza aiuto accoglie soltanto le persone che può sostenere e cerca altri rifugi; non trascura deliberatamente un soccorso possibile.",
+      "intervention": "La rete può essere aiutata con trasporti, protezione, guarigione o informazioni; non pretende adesione religiosa o obbedienza."
+    },
+    {
+      "id": "OPCLK-12",
+      "date": "812-05-30",
+      "source": "FRONT-12",
+      "place": "Teren",
+      "event": "Scortare un testimone e dimostrare davanti a terzi quale intervento investito ha alterato un risultato.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Due ricercatori hanno concordato un metodo di confronto e una guardia di turno; le copie sono in tre sedi separate.",
+      "without_pc": "Il gruppo pubblica solo ciò che può sostenere e mette in salvo i testimoni raggiungibili, senza inventare confessioni.",
+      "intervention": "Collaborazione possibile senza giuramento: proteggere una sede, produrre un confronto ripetibile o raggiungere il responsabile."
+    }
+  ],
+  "post_initial": "Processi condizionali; non futuro canonico",
+  "sources": "Societa_riservata;189;192;133;153;154",
+  "raccordo_revision": "RACCORDI-317"
+}

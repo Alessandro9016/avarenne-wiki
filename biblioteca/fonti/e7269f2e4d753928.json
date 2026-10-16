@@ -1,0 +1,75 @@
+{
+  "version": "1.0",
+  "milestone": 11,
+  "status": "COMPLETED_CURRENT_SCOPE",
+  "date": "2026-10-10",
+  "counts": {
+    "artifacts": 25,
+    "materials": 18,
+    "creatures": 20,
+    "peoples": 5,
+    "phenomena": 12,
+    "new_units": 12,
+    "migrated_units": 9
+  },
+  "sources": [
+    "GIOCATORE_183_Oggetti_organismi_e_fenomeni_regole.md",
+    "RISERVATO_184_Catalogo_artefatti_e_dispositivi.md",
+    "RISERVATO_185_Risorse_materiali_e_filiere.md",
+    "RISERVATO_186_Bestiario_e_condizioni_non_umane.md",
+    "RISERVATO_187_Popoli_biologie_e_diaspore.md",
+    "RISERVATO_188_Fenomeni_anomalie_e_incidenti.md",
+    "RISERVATO_189_Unita_di_gioco_e_pressioni.md",
+    "RISERVATO_192_Migrazione_unita_e_raccordi_precedenti.md"
+  ],
+  "created": [
+    "GIOCATORE_183_Oggetti_organismi_e_fenomeni_regole.md",
+    "RISERVATO_184_Catalogo_artefatti_e_dispositivi.md",
+    "RISERVATO_185_Risorse_materiali_e_filiere.md",
+    "RISERVATO_186_Bestiario_e_condizioni_non_umane.md",
+    "RISERVATO_187_Popoli_biologie_e_diaspore.md",
+    "RISERVATO_188_Fenomeni_anomalie_e_incidenti.md",
+    "RISERVATO_189_Unita_di_gioco_e_pressioni.md",
+    "RISERVATO_192_Migrazione_unita_e_raccordi_precedenti.md",
+    "CANONE_VIGENTE/Oggetti_creature_materiali.json",
+    "CANONE_VIGENTE/Unita_milestone11.json",
+    "CANONE_VIGENTE/Connessioni_milestone11.json",
+    "190_Indice_milestone_11.md",
+    "191_Chiusura_milestone_11.md",
+    "CANONE_VIGENTE/Verifica_milestone_11.json",
+    "CANONE_VIGENTE/Manifesto_milestone_11.json"
+  ],
+  "updated": [
+    "23_Registro_unico_del_canone.md",
+    "CANONE_VIGENTE/Registro_decisioni.json",
+    "00_LEGGIMI.md",
+    "CANONE_VIGENTE/00_LEGGIMI.md",
+    "20_Roadmap_generale_fino_alla_wiki.md"
+  ],
+  "scope_limits": [
+    "Catalogo operativo selezionato, non censimento universale.",
+    "Le 23 progressioni attendono feedback del giocatore.",
+    "Nessuna illustrazione, arco o wiki completati in questa milestone."
+  ],
+  "hashes": {
+    "GIOCATORE_183_Oggetti_organismi_e_fenomeni_regole.md": "6ff489a2cd0e8845785284ea5afd483ce19b299b09d211012dced7c35ba4fd27",
+    "RISERVATO_184_Catalogo_artefatti_e_dispositivi.md": "d48d5610515e564b69d34378e815d1058793374179b0fda5da097254a1299aff",
+    "RISERVATO_185_Risorse_materiali_e_filiere.md": "26879a8880aece27f98c28ae570bc6775b0f72a3a343ca3c2af5e201391e9dce",
+    "RISERVATO_186_Bestiario_e_condizioni_non_umane.md": "3ccc710e0ff72fa0120e43636262de7b33572d990f1f89f71a907e8043648404",
+    "RISERVATO_187_Popoli_biologie_e_diaspore.md": "75beb4cb75775311701f79c10a6f2da2e305ae8df1a5d62b83b0e19e15c922e6",
+    "RISERVATO_188_Fenomeni_anomalie_e_incidenti.md": "06408ae6e5801499582c286167e6887ef1531be6683015edcb6f269180523333",
+    "RISERVATO_189_Unita_di_gioco_e_pressioni.md": "36f334a67291dc59ce46ad23c1128f20d282ad0cdc8e8213ddbadec8c12fea86",
+    "RISERVATO_192_Migrazione_unita_e_raccordi_precedenti.md": "f775afd91c652b842fcaed7531a22a6a9b550b49224ed1eaf8f37874990bbcda",
+    "CANONE_VIGENTE/Oggetti_creature_materiali.json": "2a7129293865ba7e185e2fc9c66ed0b6343ad4a1d24c32de4a8f7ba47d220d67",
+    "CANONE_VIGENTE/Unita_milestone11.json": "da5a432fa4c58e8ad331962462860c0b497fd97c386008b1320aaa38ad5fafdd",
+    "CANONE_VIGENTE/Connessioni_milestone11.json": "81a3f02fd0185e990955416f3a61dcab8e8f3e9eedda97afc36736d15baad47d",
+    "190_Indice_milestone_11.md": "16e4eea55e7d0fc48c5a7d13f34aa19be56e358944ff90541824cf343bb29471",
+    "191_Chiusura_milestone_11.md": "89503daace91ee651bc9e0693d33697d374d8477e8d3425cebe9c0ee57c4bfc6",
+    "CANONE_VIGENTE/Verifica_milestone_11.json": "ce42c7b28459e6dae3c4bc1a67f91ff053ad853e79a7c585e7cc83c92e6e12da",
+    "23_Registro_unico_del_canone.md": "79debe3cdae5cc682752210057ef10bcd373c06e3237bfa165dc2b8884bfac32",
+    "CANONE_VIGENTE/Registro_decisioni.json": "002054b432b3fed077ccceda529072a33f97dd53f64261b0eefc46262f3a54c3",
+    "00_LEGGIMI.md": "14a467aadf5bf39ff06f18df7c96338f7c375c3fd0d37827b3e62b78d761e440",
+    "CANONE_VIGENTE/00_LEGGIMI.md": "dfed9e4f280e00ee90bd3647f71eb9d37868da5879f5c86addca64f2f98adbbf",
+    "20_Roadmap_generale_fino_alla_wiki.md": "c3320b78a9cca17389dceb4f9afd702dabe7ebd396f3c26720551525a7340411"
+  }
+}

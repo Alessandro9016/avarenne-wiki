@@ -1,0 +1,85 @@
+{
+  "status": "PASS",
+  "date": "2026-10-10",
+  "milestone": 5,
+  "documents": [
+    {
+      "path": "74_Indice_dell_atlante_cosmologico.md",
+      "sha256": "EB936F39E077257791880581E7B819BB0D9E815A337D74E8DB4EBD489A86DEFA",
+      "words": 275
+    },
+    {
+      "path": "75_Chiusura_milestone_5.md",
+      "sha256": "B427DE9076FDE70483A31089C894737F2DF2B2C0A41F8AB7E5B1E4817176F693",
+      "words": 393
+    },
+    {
+      "path": "GIOCATORE_65_Atlante_del_reale.md",
+      "sha256": "792E0517D2DA740DC702102C39BD6F48BAC4D80432F77813653C6221CB8851D9",
+      "words": 1598
+    },
+    {
+      "path": "GIOCATORE_66_Accessi_viaggi_e_comunicazioni.md",
+      "sha256": "8DE17200C28D4E1E3E42CB5E68DBEAB056D8893842D5F667EEBA780AF8B7BA5C",
+      "words": 1131
+    },
+    {
+      "path": "GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md",
+      "sha256": "A9C7CBE76271085765237F081E1279F8BBE24DABCEFA677546B984ECCDBE8F90",
+      "words": 1358
+    },
+    {
+      "path": "GIOCATORE_68_The_First_Testament_consultazione.md",
+      "sha256": "C51A479357DE88F47F58BE7F906B7A364588602B0404C3A5FE60C76234853659",
+      "words": 1183
+    },
+    {
+      "path": "GIOCATORE_69_Roots_e_risorse_cosmiche.md",
+      "sha256": "312EC71FB1F916C744942768B77FCCC4302D8F9CC944AB17ED2163CAE8BA0AA6",
+      "words": 2180
+    },
+    {
+      "path": "GIOCATORE_70_Identita_continuita_e_recupero.md",
+      "sha256": "74DF2C6F49FC8F8210D3074EEC2E9E9B33B0D29F869CAA4EDDCB3905F475E092",
+      "words": 1019
+    },
+    {
+      "path": "GIOCATORE_71_Interventi_esterni_e_diagnosi.md",
+      "sha256": "1634A403055826090807D018E81F7B0102C1AA105B587B67DB79337453AC2CC3",
+      "words": 729
+    },
+    {
+      "path": "GIOCATORE_73_Audit_cosmologico_e_casi.md",
+      "sha256": "A61DA4493A5852D72276393002D366AF78BEFB6AB2D6347AB1511CFBE6F7C12A",
+      "words": 1077
+    },
+    {
+      "path": "RISERVATO_72_Presenze_esterne_e_pressioni_cosmiche.md",
+      "sha256": "4FC7C3A9472EB23812E58BEE7780F40B62A32887E2C48CE56E4FD03FE1AC7080",
+      "words": 1988
+    }
+  ],
+  "coverage": {
+    "regions": 7,
+    "routes": 6,
+    "origin_phenomena": 5,
+    "roots": 7,
+    "resources": 6,
+    "continuity_cases": 6,
+    "external_methods": 5,
+    "audit_cases": 20,
+    "reserved_units": 5
+  },
+  "registry_entries": 127,
+  "antecedent_files_preserved": 169,
+  "snapshot_files": 7,
+  "shared_private_separation": true,
+  "local_links_valid": true,
+  "architecture_unchanged": true,
+  "initial_inventory_assigned": false,
+  "limits": [
+    "Verifica documentale e concettuale; non simulazione di tutti gli scontri.",
+    "Cartografia degli esemplari al punto 8.",
+    "Copia Download verificata separatamente."
+  ]
+}

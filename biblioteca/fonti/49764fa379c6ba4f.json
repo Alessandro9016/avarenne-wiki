@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "date": "2026-10-10",
+  "milestone6_status": "IN_PROGRESS",
+  "antecedents_preserved": 202,
+  "snapshot_files": 14,
+  "registry_entries": 141,
+  "normal_effigy_count": 1,
+  "cross_family_incorporation": "INCOMPATIBLE_AT_ALL_THRESHOLDS",
+  "same_family_multiple": "RARE_DANGEROUS_EXCEPTION",
+  "birth": "UNAWAKENED",
+  "exclusive_seat_prerequisites": [
+    "Cradle",
+    "Ruin"
+  ],
+  "prerequisites_retained": true,
+  "full_dossier_complete": false,
+  "source": "GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md"
+}

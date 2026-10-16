@@ -1,0 +1,32 @@
+{
+  "versione": "1.0",
+  "milestone": 2,
+  "stato": "COMPLETATA",
+  "sottopunti": [
+    "2.1",
+    "2.2",
+    "2.3",
+    "2.4",
+    "2.5",
+    "2.6",
+    "2.7",
+    "2.8"
+  ],
+  "catalogo": "CANONE_VIGENTE/Architettura_cosmica.json",
+  "registro": "23_Registro_unico_del_canone.md",
+  "verifica": "CANONE_VIGENTE/Verifica_milestone_2.json",
+  "resoconto": "32_Chiusura_milestone_2.md",
+  "documenti": [
+    "GIOCATORE_26_Fondamenti_cosmologici.md",
+    "GIOCATORE_27_Catalogo_macro_delle_21_Effigi.md",
+    "GIOCATORE_28_Le_sette_integrazioni_cosmiche.md",
+    "GIOCATORE_29_The_Sovereign_Completezza_e_poteri_cosmici.md",
+    "GIOCATORE_30_Confini_contese_e_verifica_macro.md",
+    "RISERVATO_31_Vincoli_autoriali_della_nuova_architettura.md",
+    "32_Chiusura_milestone_2.md"
+  ],
+  "successiva": 3,
+  "dotazione_iniziale_assegnata": false,
+  "progressioni_complete": false,
+  "segreti_moderni_rivelati": false
+}

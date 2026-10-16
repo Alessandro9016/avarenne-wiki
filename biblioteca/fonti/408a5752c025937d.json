@@ -1,0 +1,86 @@
+{
+  "milestone": 7,
+  "status": "COMPLETE_FIRST_EDITION",
+  "next_milestone": 8,
+  "documents": [
+    {
+      "path": "103_Indice_della_storia.md",
+      "sha256": "569EC51D32BFF4C22F7F186996005463184CE62AD76F7F59F32D0C3EE111C2E4"
+    },
+    {
+      "path": "104_Chiusura_milestone_7.md",
+      "sha256": "9250C58DFFDD2EAD30C695392F0F724AD4C6A5FC39C25146845963E81AA82F0F"
+    },
+    {
+      "path": "GIOCATORE_102_Audit_storico_e_confini_del_sapere.md",
+      "sha256": "D870D5F1930C0947F071BE226A5D2BFC1186DD18F9A0D9E77A927B92B91B1BB0"
+    },
+    {
+      "path": "GIOCATORE_89_Calendario_e_date_accessibili.md",
+      "sha256": "EFF872F889F6408A6186B00200839C264246DD19C05F06A959BC708935333BE3"
+    },
+    {
+      "path": "GIOCATORE_90_Societa_antiche_e_liberazione_ricordata.md",
+      "sha256": "979EB0C32DF6BAB3743453CCE5D453EFC066745ED4685E94571F0C9B8626C928"
+    },
+    {
+      "path": "GIOCATORE_91_Storia_pubblica_conosciuta_dal_duca.md",
+      "sha256": "9027CD423463F08D0AD8D3925B1DA71030464C2A09B0C972AB57C045E56E4180"
+    },
+    {
+      "path": "GIOCATORE_92_Industria_scoperte_e_eredita_materiale.md",
+      "sha256": "6980DCA9AFE82F08F61DE5D1E373CFB0084448BE743068D5A85D41084EB485F8"
+    },
+    {
+      "path": "GIOCATORE_93_Conoscenza_storica_e_riconoscimenti.md",
+      "sha256": "C0DA37A4B7E1DE33ADC6470BC24DCF7837A9EA28DF691A7FCDB40E4FBEC3EF7F"
+    },
+    {
+      "path": "RISERVATO_100_Storia_industriale_stati_e_conflitti_aperti.md",
+      "sha256": "FB9B1F220822F7FFB5FA6E6EDC2016113522DED9027C124B0005DFD3094B54A0"
+    },
+    {
+      "path": "RISERVATO_101_Repertorio_delle_prove_e_trasmissioni.md",
+      "sha256": "3DC758386224A6694D242983861AACAB5D444CB8C2D60D4EAEBBF3321A72F30C"
+    },
+    {
+      "path": "RISERVATO_94_Cronologia_integrale_ed_ere.md",
+      "sha256": "E209CCA2D1D416423D133BB37AA323884120574F1F993BFB035526B59B6ECBCF"
+    },
+    {
+      "path": "RISERVATO_95_Origini_societa_e_potenze_antiche.md",
+      "sha256": "36E6E9209B6524BF0B83393B3FA1500148AC4F55D5E2125FF04963834280C330"
+    },
+    {
+      "path": "RISERVATO_96_Campagne_opere_ed_eredita_del_Creator.md",
+      "sha256": "75F17334AEEF1BB8AFD8646C2996C471B9526BCFC666E5EAF15EF5FE5F0E8BFE"
+    },
+    {
+      "path": "RISERVATO_97_Caduta_Nove_Sedi_e_storia_delle_attribuzioni.md",
+      "sha256": "56F96C169D4066AFACE8696B8CFD1C2B734181953869DD855122F2E5EF11AA6E"
+    },
+    {
+      "path": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "sha256": "03AEBAB9864CFEEB528627B86A3B9375BA5E4B46EC1FD3237A6BC76DC07613C8"
+    },
+    {
+      "path": "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
+      "sha256": "80CBFC39548B884EBB8108AD44C3D0073645AACBC71E7245C846C7882FA137C3"
+    }
+  ],
+  "shared_export": "Storia_condivisa.json",
+  "reserved_export": "Storia_riservata.json",
+  "events": 85,
+  "seats": 21,
+  "integrations": 7,
+  "evidence_families": 18,
+  "active_units": 5,
+  "historical_cases": 16,
+  "future_choices": "OPEN",
+  "world_100_percent_operational": false,
+  "version": "1.1",
+  "eras": 13,
+  "current_verification": "Verifica_correzione_storia_01.json",
+  "original_verification_status": "HISTORICAL_PRE_CORRECTION",
+  "correction_snapshot": "ARCHIVIO_SUPERATO/Snapshot_correzione_storia_01"
+}

@@ -1,0 +1,41 @@
+{
+  "revision": "PRIORITA_PRESENTE_01",
+  "excluded_slots": 30,
+  "archived_images": 14,
+  "totals": {
+    "cast": 473,
+    "characters_selected": 230,
+    "without_planned_image": 243,
+    "central": 37,
+    "important": 161,
+    "functional_selected": 64,
+    "total_images_planned": 326,
+    "approved_existing": 1,
+    "to_produce": 181,
+    "total_produced": 145,
+    "central_images_complete": true
+  },
+  "next_ids": [
+    "CAST-069",
+    "CAST-070",
+    "CAST-071",
+    "CAST-072",
+    "CAST-073",
+    "CAST-074",
+    "CAST-075",
+    "CAST-076",
+    "CAST-077",
+    "CAST-078",
+    "CAST-079",
+    "CAST-080",
+    "CAST-081",
+    "CAST-082",
+    "CAST-083",
+    "CAST-084",
+    "CAST-085",
+    "CAST-086",
+    "CAST-087",
+    "CAST-088"
+  ],
+  "exception": "Maerin Sol: unica eccezione storica illustrata conservata; nessuna nuova immagine"
+}

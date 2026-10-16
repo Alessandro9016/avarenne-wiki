@@ -1,0 +1,108 @@
+{
+  "revision": "MILESTONE12-01",
+  "status": "PASSED",
+  "checks": [
+    {
+      "check": "8 volumi",
+      "passed": true
+    },
+    {
+      "check": "40 archi",
+      "passed": true
+    },
+    {
+      "check": "1600 capitoli; minimo 1500",
+      "passed": true
+    },
+    {
+      "check": "5 archi per volume",
+      "passed": true
+    },
+    {
+      "check": "budget coerente per volume",
+      "passed": true
+    },
+    {
+      "check": "ID archi univoci",
+      "passed": true
+    },
+    {
+      "check": "20 schede mistero",
+      "passed": true
+    },
+    {
+      "check": "riferimenti ai misteri validi",
+      "passed": true
+    },
+    {
+      "check": "riferimenti al cast validi",
+      "passed": true
+    },
+    {
+      "check": "minimo due ingressi per arco",
+      "passed": true
+    },
+    {
+      "check": "campi narrativi completi",
+      "passed": true
+    },
+    {
+      "check": "fatti distinti da futuro",
+      "passed": true
+    },
+    {
+      "check": "protagonista e deuteragonista entrambi presenti",
+      "passed": true
+    },
+    {
+      "check": "due divinità notturne raccordate",
+      "passed": true
+    },
+    {
+      "check": "agenda 27 voci",
+      "passed": true
+    },
+    {
+      "check": "14 fazioni incluse",
+      "passed": true
+    },
+    {
+      "check": "agenda ordinata",
+      "passed": true
+    },
+    {
+      "check": "udienza Elias 31maggio",
+      "passed": true
+    },
+    {
+      "check": "udienza Sponda unica12giugno",
+      "passed": true
+    },
+    {
+      "check": "12 dati precedenti immutati",
+      "passed": true
+    },
+    {
+      "check": "progressioni non revisionate",
+      "passed": true
+    },
+    {
+      "check": "463 identità preservate",
+      "passed": true
+    },
+    {
+      "check": "apertura 18 scene possibili",
+      "passed": true
+    },
+    {
+      "check": "nessun titolo riservato nel resoconto",
+      "passed": true
+    },
+    {
+      "check": "registro umano e JSON collegati",
+      "passed": true
+    }
+  ],
+  "scope": "Integrità strutturale e conservazione fonti; non prova esaustiva di qualità letteraria o correttezza futura del Narratore",
+  "editorial_review_source": "RISERVATO_206_Audit_editoriale_della_trama.md"
+}

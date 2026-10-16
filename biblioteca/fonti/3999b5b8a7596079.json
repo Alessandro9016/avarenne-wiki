@@ -1,0 +1,26 @@
+{
+  "revision": "23-EFF-01",
+  "version": "1.0",
+  "date": "2026-10-10",
+  "status": "HISTORICAL_EDITORIAL_EVIDENCE",
+  "supersedes_scopes": [
+    "Milestone 4 authority coverage",
+    "Milestone 5 root catalogue",
+    "Milestones 7–10 new Effigy integration"
+  ],
+  "primary_sources": [
+    "Architettura_cosmica.json",
+    "Progressioni_effigi.json",
+    "Roots_consolidate.json",
+    "Storia_riservata.json",
+    "Societa_condivisa.json",
+    "Societa_riservata.json",
+    "Geografia_riservata.json",
+    "Cast_riservato.json"
+  ],
+  "verification": "Verifica_revisione_23_Effigi.json",
+  "protected_identity": "UNCHANGED",
+  "next_milestone": 11,
+  "superseded_by": "Manifesto_consolidamento_316.json",
+  "note": "Le analisi restano documentazione storica; per manuali e nomi vigenti usare il manifesto 316."
+}

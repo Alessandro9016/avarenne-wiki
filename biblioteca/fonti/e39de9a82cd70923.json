@@ -1,0 +1,272 @@
+{
+  "milestone": 3,
+  "status": "CANONE_REGOLE_COMUNI",
+  "sources": [
+    "GIOCATORE_33_Lessico_e_sette_soglie.md",
+    "GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md",
+    "GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md",
+    "GIOCATORE_36_Corpo_spirito_manifestazioni_e_morte.md",
+    "GIOCATORE_37_Procedura_operativa_delle_contese.md",
+    "GIOCATORE_38_Poteri_e_vita_comune.md"
+  ],
+  "practitioner": "Bearer",
+  "path": "Effigy",
+  "progression": "Threshold",
+  "configuration": "Weave",
+  "thresholds": [
+    {
+      "id": "THR-01",
+      "number": 1,
+      "roman": "I",
+      "name": "Awakening",
+      "condition": "Bearer umano trasformato",
+      "change": "Inscription stabile e primo esercizio proprio"
+    },
+    {
+      "id": "THR-02",
+      "number": 2,
+      "roman": "II",
+      "name": "Attunement",
+      "condition": "Bearer umano trasformato",
+      "change": "Circolazione propria, ripetibilità e separazione"
+    },
+    {
+      "id": "THR-03",
+      "number": 3,
+      "roman": "III",
+      "name": "Embodiment",
+      "condition": "Bearer umano profondamente investito",
+      "change": "Integrazione corporea e spirituale, esercizi mantenuti"
+    },
+    {
+      "id": "THR-04",
+      "number": 4,
+      "roman": "IV",
+      "name": "Transfiguration",
+      "condition": "Demigod",
+      "change": "Manifestazione parzialmente divina con offesa e difesa autonome"
+    },
+    {
+      "id": "THR-05",
+      "number": 5,
+      "roman": "V",
+      "name": "Ascendance",
+      "condition": "Angel",
+      "change": "Continuità angelica oltre la dipendenza biologica ordinaria"
+    },
+    {
+      "id": "THR-06",
+      "number": 6,
+      "roman": "VI",
+      "name": "Eminence",
+      "condition": "Padronanza angelica eminente delle autorità; Avatar o presenze distribuite non richiesti.",
+      "change": "Padronanza angelica eminente delle autorità, contesa delle condizioni della Seat; nessuna distribuzione personale obbligatoria"
+    },
+    {
+      "id": "THR-07",
+      "number": 7,
+      "roman": "VII",
+      "name": "Apotheosis",
+      "condition": "Deity",
+      "change": "Incorporazione piena della Seat"
+    }
+  ],
+  "special_conditions": [
+    {
+      "requires": "Pretesa effettiva e parziale sulla Seat",
+      "is_extra_threshold": false,
+      "name": "Regent",
+      "threshold": 6
+    },
+    {
+      "requires": "Integrazione completa delle Seats del gruppo e della Root",
+      "is_extra_threshold": false,
+      "name": "Archon"
+    },
+    {
+      "requires": "Archon completo di INT-01 o INT-03",
+      "is_extra_threshold": false,
+      "name": "Axial"
+    }
+  ],
+  "acquisition_steps": [
+    {
+      "name": "Verifica della Pattern",
+      "id": "A-01"
+    },
+    {
+      "name": "Preparazione",
+      "id": "A-02"
+    },
+    {
+      "name": "Opening",
+      "id": "A-03"
+    },
+    {
+      "name": "Circulation",
+      "id": "A-04"
+    },
+    {
+      "name": "Separation Test",
+      "id": "A-05"
+    },
+    {
+      "name": "Stabilization",
+      "id": "A-06"
+    }
+  ],
+  "advancement_requirements": [
+    "Pattern ampliata",
+    "Tenuta",
+    "Esecuzione propria",
+    "Integrazione"
+  ],
+  "resource_dimensions": [
+    "Quality",
+    "Capacity",
+    "Reserve",
+    "Load"
+  ],
+  "exercise_regimes": [
+    "Routine",
+    "Demanding",
+    "Overreach"
+  ],
+  "configuration_states": [
+    "Ready",
+    "Strained",
+    "Overdrawn",
+    "Fractured"
+  ],
+  "effect_durations": [
+    "Instant",
+    "Maintained",
+    "Autonomous",
+    "Independent"
+  ],
+  "activation_modes": [
+    "Deliberate",
+    "Prepared",
+    "Reflexive",
+    "Intrinsic"
+  ],
+  "manifestations": [
+    "Corporeal",
+    "Spiritual",
+    "Emanation",
+    "Avatar"
+  ],
+  "damage_conditions": [
+    "Material",
+    "Spiritual",
+    "Mental",
+    "Relational",
+    "Continuity"
+  ],
+  "death_states": [
+    "Biological death",
+    "Loss of manifestation",
+    "Dormancy",
+    "Personal extinction"
+  ],
+  "contest_steps": [
+    {
+      "name": "Dichiarare il risultato cercato",
+      "id": "R-01"
+    },
+    {
+      "name": "Identificare fonte e bersaglio",
+      "id": "R-02"
+    },
+    {
+      "name": "Verificare competenza e accesso",
+      "id": "R-03"
+    },
+    {
+      "name": "Ordinare gli eventi effettivi",
+      "id": "R-04"
+    },
+    {
+      "name": "Selezionare opposizione pertinente",
+      "id": "R-05"
+    },
+    {
+      "name": "Confrontare Quality e condizioni",
+      "id": "R-06"
+    },
+    {
+      "name": "Determinare esito",
+      "id": "R-07"
+    },
+    {
+      "name": "Applicare consumi e conseguenze",
+      "id": "R-08"
+    },
+    {
+      "name": "Registrare e comunicare",
+      "id": "R-09"
+    }
+  ],
+  "contest_outcomes": [
+    "No access",
+    "Resisted",
+    "Partial",
+    "Applied",
+    "Unstable"
+  ],
+  "minimum_years_per_threshold": null,
+  "mandatory_potion": false,
+  "automatic_seat_transfer": false,
+  "artifact_grants_user_threshold": false,
+  "common_rules_complete": true,
+  "effigy_progressions_complete": true,
+  "export_scope": "Indice strutturato delle regole; i documenti sorgente contengono condizioni e spiegazioni complete",
+  "effigy_progressions_source": "CANONE_VIGENTE/Progressioni_effigi.json",
+  "family_rule_source": "GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md",
+  "version": "1.4",
+  "normal_personal_effigy_count": 1,
+  "same_family_additions": "RARE_DANGEROUS_EXCEPTION",
+  "cross_family_personal_incorporation": "INCOMPATIBLE_AT_ALL_THRESHOLDS",
+  "protagonist_birth_condition": "UNAWAKENED_NOT_A_THRESHOLD",
+  "protagonist_exclusive_seat_prerequisites": [
+    "Cradle",
+    "Ruin"
+  ],
+  "prerequisites_retained_through_absence": true,
+  "other_full_holders_during_absence_for_these_seats": false,
+  "protagonist_initial_inventory_assigned": true,
+  "protagonist_source": "GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
+  "editorial_update": "Milestone 6; structural corpus unchanged",
+  "avatar_policy": {
+    "automatic_at_any_threshold": false,
+    "personal_avatars_effigies": [
+      "EFF-07"
+    ],
+    "remote_effects_are_avatars": false,
+    "VI_requires_distribution": false
+  },
+  "revision": "RAMI-23-04",
+  "cumulative_growth": {
+    "rule": "Ogni abilità incorporata cresce quantitativamente con il rango senza cambiare funzione.",
+    "new_unlock": "Ogni autorità introduce una operazione distinta per stadio, non un rango superiore della stessa.",
+    "rank_changes": [
+      "III→IV: costituzione semidivina",
+      "IV→V: Core angelico unico",
+      "VI→VII: Seat divina unica"
+    ],
+    "rank_traits_count_as_macro": false,
+    "authority_source": "177_Revisione_dei_rami_autonomi_23_Effigi.md"
+  },
+  "autonomous_branches": {
+    "every_macro_is_supernatural": true,
+    "ordinary_preparation_counts": false,
+    "other_authority_required": false,
+    "ordinary_inputs_allowed": true,
+    "synergies_optional": true,
+    "acquisition_unit": "Effigy",
+    "minimum_new_macros_per_authority_per_stage": 1,
+    "source": "177_Revisione_dei_rami_autonomi_23_Effigi.md"
+  },
+  "integration_revision": "RACCORDI-317",
+  "effigy_progressions_approval": "APPROVED_CONSOLIDATED_316"
+}

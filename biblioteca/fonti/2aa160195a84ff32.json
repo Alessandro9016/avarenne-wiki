@@ -1,0 +1,21 @@
+{
+  "revision": "WIKI-RICERCA-319",
+  "status": "RICERCA_E_PROPOSTA_NON_IMPLEMENTATA",
+  "language_initial": "it",
+  "language_future": "en",
+  "browser_observed": [
+    "LotM homepage",
+    "Klein Moretti: struttura e schermate",
+    "ORV homepage: struttura accessibile"
+  ],
+  "limits": [
+    "Accesso Fandom intermittente",
+    "Sottopagine anche da estratti indicizzati",
+    "Non audit completo di tutte le pagine",
+    "Mobile non verificato"
+  ],
+  "report": "319_Ricerca_wiki_ORV_LotM_e_direzione_del_layout.md",
+  "sha256": "9528a391a1106977ae32233bfc0b150fd8bef3364d2bbf0e7bb9a071fe735ba5",
+  "wiki_built": false,
+  "published": false
+}

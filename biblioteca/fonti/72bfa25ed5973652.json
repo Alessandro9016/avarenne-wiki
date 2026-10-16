@@ -1,0 +1,1423 @@
+{
+  "version": "1.0",
+  "access": "NARRATOR_RESERVED",
+  "new_units": [
+    {
+      "id": "U11-01",
+      "name": "The Unmoved Certificate",
+      "location_id": "LOC-001",
+      "location": "Lethorne",
+      "activation": "Attivo",
+      "narrative_function": "Indagine tecnica, accesso a reti di laboratorio.",
+      "current": "Marcel conserva la cerniera e limita nuove aperture; il laboratorio confronta le due posizioni del banco. Le misure originali e il successivo spostamento appartengono al caso già fissato in 153.",
+      "conflict": "Riparare l’apparato e conservare prove senza esporre a nuovi rischi persone estranee.",
+      "forces": [
+        {
+          "actor": "CAST-031",
+          "wants": "Laboratorio sicuro e manutenzione III qualificata.",
+          "fears": "Una dimostrazione consumi le due aperture residue.",
+          "limits": "Astrolabe II non rifornisce III."
+        },
+        {
+          "actor": "CAST-032",
+          "wants": "Seconda prova pubblicabile.",
+          "fears": "Confisca della copia autentica.",
+          "limits": "Archive I non riscrive o certifica ordini che non possiede."
+        },
+        {
+          "actor": "CAST-002",
+          "wants": "Misure riconosciute e permesso di lavoro.",
+          "fears": "Scambiare buon funzionamento con innocenza provata.",
+          "limits": "Capacità I e informazioni effettive, scelte autonome."
+        }
+      ],
+      "secret": "Vern autorizzò lo spostamento contando sul margine del venditore: responsabilità già fissata, nessun nuovo sabotatore cosmico.",
+      "hooks": [
+        "Una richiesta di confronto dei basamenti raggiunge un’officina collegata a Yselle.",
+        "Un addetto al trasporto offre il proprio cartellino con orario e descrizione del carico."
+      ],
+      "with_intervention": "Diagnosi può ritarare, conservare marche e permettere ricerca di servizio III. Prove raggiunte possono correggere responsabilità; riparazione non implica alleanza con il gruppo.",
+      "without_intervention": "Elias prepara deposizione, Livia cerca seconda copia, Marcel sospende aperture non verificate. Cerniera e laboratorio non spariscono alla scadenza.",
+      "time_pressure": "Udienza 31 maggio 812; riserva della cerniera consumata soltanto da attivazioni effettive.",
+      "impact": "🟡",
+      "narrator_material": {
+        "scene": "Sul banco, due tavole autentiche e due fori dei bulloni: entrambe le misure risultano corrette per il proprio riferimento.",
+        "complication": "Una prova funzionante consumerebbe una delle aperture; la porta ordinaria consente ispezione senza farlo.",
+        "optional_twist": "Il testimone chiede solo rimborso della giornata, non ingresso nello scambio."
+      },
+      "future_outcome": "OPEN",
+      "components": [
+        "ART-001",
+        "ART-008",
+        "MAT-008",
+        "PHN-001"
+      ]
+    },
+    {
+      "id": "U11-02",
+      "name": "Air for the Next Shift",
+      "location_id": "LOC-006",
+      "location": "Deren",
+      "activation": "Critico",
+      "narrative_function": "Pressione industriale con soluzione tecnica reale.",
+      "current": "La squadra usa bypass, turni ridotti e misure del gas. La resina gonfia mantiene incerto il ramo secondario; non si mandano tutti i minatori nel pozzo per attendere il PG.",
+      "conflict": "Garantire aria senza nascondere perdita di reddito o fermare anche rami sicuri.",
+      "forces": [
+        {
+          "actor": "CAST-242",
+          "wants": "Salute del familiare e salario durante fermo.",
+          "fears": "Scelta fra fame e rischio.",
+          "limits": "Ordinario, non modifica la valvola investita."
+        },
+        {
+          "actor": null,
+          "role": "Squadra di manutenzione del pozzo",
+          "wants": "Guarnizione e ventilazione provate.",
+          "fears": "Blocco dell’unico bypass.",
+          "limits": "Non può creare ossigeno con Pressure Gradient."
+        }
+      ],
+      "secret": "Certificazione a secco valida; fornitore omise prova umida. Non prova di avvelenamento volontario.",
+      "hooks": [
+        "La guardia del pozzo mostra un giunto gonfio e chiede confronto con la partita.",
+        "Un familiare presenta una busta paga ridotta con l’avviso di fermo."
+      ],
+      "with_intervention": "Sostituzione, flusso alternativo, accordo salariale o soccorso cambiano condizioni. Un potere capace può creare o riparare realmente il componente senza dover cercare per forza il venditore.",
+      "without_intervention": "Direzione limita settore e chiede sostituzione; lavoratori contrattano compenso. Rischio aumenta solo se si riapre senza prova o il bypass si guasta.",
+      "time_pressure": "Prossimo turno del 20 maggio, condizionato all’esito delle misure; nessuna strage automatica.",
+      "impact": "🟠",
+      "narrator_material": {
+        "scene": "Manometro corretto sul ramo principale, aria insufficiente al ramo basso e resina aperta sul tavolo.",
+        "complication": "Eliminare la magia prima del bypass può togliere aria anche al ramo sano.",
+        "optional_twist": "Il fornitore accetta ritiro della partita ma contesta il danno salariale."
+      },
+      "future_outcome": "OPEN",
+      "components": [
+        "ART-002",
+        "MAT-001",
+        "MAT-004",
+        "CRE-002",
+        "PHN-002"
+      ]
+    },
+    {
+      "id": "U11-03",
+      "name": "A Load That Looks Pure",
+      "location_id": "LOC-011",
+      "location": "Karrel",
+      "activation": "Attivo",
+      "narrative_function": "Filiera e responsabilità materiale.",
+      "current": "Il campione superficiale del rame risulta puro, quello interno no. A Kessel, in un modulo distinto, la spedizione termica resta sospesa fino a prova dei manicotti.",
+      "conflict": "Consegnare in tempo senza fingere che una sola certificazione copra tutti i campioni e impieghi.",
+      "forces": [
+        {
+          "actor": "CAST-198",
+          "wants": "Recupero del credito di filiera senza finanziamento di frode.",
+          "fears": "Confondere autenticità dei documenti e qualità della merce.",
+          "limits": "Creditore a Lethorne, comunica per canali ordinari; non perito di rame."
+        },
+        {
+          "actor": null,
+          "role": "Tecnici locali di Karrel e Kessel, équipe separate",
+          "wants": "Campioni rappresentativi e imballaggi sicuri.",
+          "fears": "Perdita di combustibile e lavoro.",
+          "limits": "Non conoscono automaticamente le prove dell’altra città."
+        }
+      ],
+      "secret": "Scorie nascoste da rivestimento; il calore della Mantle è un secondo difetto separato. Non un colpevole unico obbligatorio.",
+      "hooks": [
+        "A Karrel un magazzino mette a disposizione lingotto tagliato e campione certificato.",
+        "A Kessel una cassa calda è respinta prima di essere caricata sul treno."
+      ],
+      "with_intervention": "Saggio, trasmutazione pertinente, separazione, sostituzione o scarica sicura rendono lotti utilizzabili; titoli civili e compensi restano questioni di prova.",
+      "without_intervention": "Lotti segregati, campioni nuovi, fornitore sostituito se rifiuta test. Le officine consumano scorte o rinviano ordini, senza catastrofe predefinita.",
+      "time_pressure": "Controllo delle partite IND-02 il 2 luglio; spedizione successiva dipende dal test, nessun viaggio immediato fra città.",
+      "impact": "🟡",
+      "narrator_material": {
+        "scene": "Il lingotto aperto rivela nucleo scuro mentre il puntale dà lo stesso responso corretto sul campione lucidato.",
+        "complication": "Conseguenza tecnica eliminabile con potere autentico, ma parte della partita è già stata rivenduta.",
+        "optional_twist": "Il venditore di resina ammette il problema prima del creditore, per salvare la propria reputazione."
+      },
+      "future_outcome": "OPEN",
+      "components": [
+        "ART-003",
+        "ART-004",
+        "ART-014",
+        "MAT-002",
+        "MAT-003",
+        "CRE-004",
+        "CRE-007",
+        "PEO-04",
+        "PHN-003"
+      ]
+    },
+    {
+      "id": "U11-04",
+      "name": "The Shape of a Patient",
+      "location_id": "LOC-016",
+      "location": "Namar",
+      "activation": "Attivo",
+      "narrative_function": "Cura, consenso e autonomia.",
+      "current": "Il paziente Serekh è stabile con sostegno provvisorio; reparto prepara un modello diverso. Il piccolo Attendant richiede consenso al trasferimento, e una prenotazione dell’apparato V limita disponibilità reale.",
+      "conflict": "Adattare il servizio al paziente invece di adattare la persona alla standardizzazione.",
+      "forces": [
+        {
+          "actor": "CAST-029",
+          "wants": "Pazienti stabili e procedure congrue.",
+          "fears": "Il reparto venga fermato in blocco per difetto circoscritto.",
+          "limits": "Heart IV non rifornisce da solo apparato V."
+        },
+        {
+          "actor": "CAST-075",
+          "wants": "Filtro tarato e contaminazione separata.",
+          "fears": "Il responso diventi esclusione di specie.",
+          "limits": "Halo III diagnostica la configurazione raggiunta."
+        },
+        {
+          "actor": null,
+          "role": "Paziente e Attendant, due persone distinte",
+          "wants": "Respirare e scegliere collocazione.",
+          "fears": "Essere registrati come pezzi di attrezzatura.",
+          "limits": "Dipendenze materiali e informazioni cliniche, nessuna obbedienza al PG."
+        }
+      ],
+      "secret": "Errore dello stampo e filtro diagnosticato per altra contaminazione; nessuna maledizione etnica. Presunto sacrificio vivente per ART-023 non necessario.",
+      "hooks": [
+        "Un tecnico offre la brace e il calco precedente per una perizia.",
+        "La domanda di trasferimento dell’Attendant contiene una protesta firmata da lui."
+      ],
+      "with_intervention": "Modello congruo, cura pertinente, supporto alternativo o rifiuto di abuso risolvono specifiche dipendenze. Guarire non obbliga paziente a gratitudine, culto o testimonianza.",
+      "without_intervention": "Équipe usa modelli provvisori, separa fornitore e valuta consenso; paziente resta curato mentre si decide. Non si muore per una scadenza burocratica.",
+      "time_pressure": "Valutazione clinica 22 maggio; urgenza segue respirazione e sostegno effettivi.",
+      "impact": "🟡",
+      "narrator_material": {
+        "scene": "Due anatomie sullo stesso stampo, un bordo lascia livido pur mentre la ferita guarisce.",
+        "complication": "La placca del filtro è corretta per il suo bersaglio ma quel bersaglio non è il paziente.",
+        "optional_twist": "L’Attendant sceglie di restare dopo aver ottenuto libertà formale, non per comando del creatore."
+      },
+      "future_outcome": "OPEN",
+      "components": [
+        "ART-005",
+        "ART-006",
+        "ART-023",
+        "MAT-005",
+        "MAT-006",
+        "MAT-007",
+        "CRE-003",
+        "CRE-006",
+        "CRE-010",
+        "PEO-03",
+        "PHN-004"
+      ]
+    },
+    {
+      "id": "U11-05",
+      "name": "The Words That Were Said",
+      "location_id": "LOC-038",
+      "location": "Teshen",
+      "activation": "Attivo",
+      "narrative_function": "Prove, informazione e successioni.",
+      "current": "La redazione prepara una testimonianza autentica priva di un contesto cartaceo. Il modulo di Veldane riguarda deposito e cablaggio, collegabile tramite documenti ma fisicamente separato.",
+      "conflict": "Pubblicare dati utili senza convertire attestazione in infallibilità o consegna in proprietà.",
+      "forces": [
+        {
+          "actor": "CAST-348",
+          "wants": "Testo verificabile e accessibile.",
+          "fears": "Essere accusata di falsificazione per ricordo altrui.",
+          "limits": "Redazione ordinaria non riscrive Witness Seal."
+        },
+        {
+          "actor": "CAST-006",
+          "wants": "Concordanze e confini di competenza.",
+          "fears": "Una matrice tecnica venga usata come titolo legale universale.",
+          "limits": "Ufficio non conosce ogni luogo remoto."
+        }
+      ],
+      "secret": "Testimone sincero ma inesatto; un deposito attesta consegna e non eredità. Collegare le due vicende è opportunità editoriale, non identità della vittima.",
+      "hooks": [
+        "Una redazione offre confronto tra registrazione e pagina mangiata.",
+        "Un depositario chiede parere su due titoli che la matrice non sa distinguere."
+      ],
+      "with_intervention": "Raggiungere altra traccia, intervistare o delimitare la pubblicazione cambia prova e fiducia; non serve dichiarare falso un oggetto autentico.",
+      "without_intervention": "Redazione pubblica con nota di lacuna se manca contesto; deposito trattiene nei limiti pattuiti e chiede giudizio civile. Nessuna memoria collettiva riscritta.",
+      "time_pressure": "Edizione del 26 maggio; deposizione o deposito possono essere aggiornati con nuove prove.",
+      "impact": "🟡",
+      "narrator_material": {
+        "scene": "Registrazione pronuncia la frase contestata, e il testimone spiega perché gli pareva vera.",
+        "complication": "Una copia più leggibile è meno antica ma può conservare fedelmente il testo.",
+        "optional_twist": "Il presunto avversario offre spontaneamente il documento che riduce l’accusa."
+      },
+      "future_outcome": "OPEN",
+      "components": [
+        "ART-007",
+        "ART-009",
+        "ART-012",
+        "MAT-009",
+        "CRE-008",
+        "PEO-01",
+        "PHN-005"
+      ]
+    },
+    {
+      "id": "U11-06",
+      "name": "The Safe Way Around",
+      "location_id": "LOC-055",
+      "location": "Keran",
+      "activation": "Attivo",
+      "narrative_function": "Vie, evacuazione e impatto ecologico.",
+      "current": "Un cuneo verificato tace mentre un masso vicino si muove. Mercanti preparano deviazione, mandria cerca altro passaggio. A Sarn il modulo di soccorso mantiene ispezione 27 maggio già fissata.",
+      "conflict": "Accesso sicuro contro costo della deviazione e necessità di preservare il passaggio animale.",
+      "forces": [
+        {
+          "actor": "CAST-442",
+          "wants": "Percorso e tempi dichiarati per merci.",
+          "fears": "Il test venga scambiato per garanzia assoluta.",
+          "limits": "Mercante ordinario non estende Loom."
+        },
+        {
+          "actor": "CAST-285",
+          "wants": "Segnali e evacuazione nei limiti dell’argano.",
+          "fears": "Cavo da merci montato sul soccorso.",
+          "limits": "A Reth Narrows, incarichi e spostamenti reali, nessuna presenza simultanea a Keran."
+        }
+      ],
+      "secret": "Allarme non guasto: bersaglio del trigger incompleto. Il collare del modulo Sarn è di altro lotto.",
+      "hooks": [
+        "A Keran un carrettiere indica la crepa oltre il cuneo.",
+        "A Sarn una squadra esibisce la giunzione di ricambio e chiede perizia del carico."
+      ],
+      "with_intervention": "Nuovo trigger, consolidamento, viaggio soprannaturale pertinente o deviazione cambiano flussi; non annullano debiti e diritti di territorio automaticamente.",
+      "without_intervention": "Mercanti deviano o attendono, manutentori limitano carico; mandria cambia pista. Frana richiede cedimento reale, non il mancato coinvolgimento del PG.",
+      "time_pressure": "Sarn 27 maggio; a Keran le misure quotidiane del masso determinano urgenza.",
+      "impact": "🟠",
+      "narrator_material": {
+        "scene": "Campana silenziosa e pietra marcata integra, crepa visibile sulla roccia contigua.",
+        "complication": "Un bypass commerciale sposta i carri proprio sulla via stagionale della mandria.",
+        "optional_twist": "Raccoglitori accettano meno corno pur di evitare abbattimenti."
+      },
+      "future_outcome": "OPEN",
+      "components": [
+        "ART-010",
+        "ART-022",
+        "MAT-010",
+        "MAT-017",
+        "CRE-011",
+        "CRE-018",
+        "PEO-02",
+        "PHN-006"
+      ]
+    },
+    {
+      "id": "U11-07",
+      "name": "Two Honest Stones",
+      "location_id": "LOC-032",
+      "location": "Grey Embankment",
+      "activation": "Attivo",
+      "narrative_function": "Rovine, navigazione e conservazione; moduli separati.",
+      "current": "Due blocchi autentici sono catalogati prima del cantiere. Al modulo South Shoals i piloti già confrontano bussole e scandagli; al porto il dragaggio minaccia colonia di filtratori.",
+      "conflict": "Salvare prove e servizio senza attribuire a tutto il paesaggio il potere di un frammento.",
+      "forces": [
+        {
+          "actor": "CAST-030",
+          "wants": "Provenienza e campioni separati.",
+          "fears": "Una vendita cancelli contesto.",
+          "limits": "Archive III non conosce tutto da un solo frammento."
+        },
+        {
+          "actor": "CAST-078",
+          "wants": "Dragaggio sicuro e approdi utilizzabili.",
+          "fears": "Un canale riaperto danneggi una riva.",
+          "limits": "Tecnico ordinario, altri moduli richiedono viaggi o corrispondenza."
+        }
+      ],
+      "secret": "Un blocco attivo e uno inerte; echo non personale. Le marche South Shoals sono un caso tecnico distinto, non una pista garantita verso il tradimento.",
+      "hooks": [
+        "Un appaltatore mostra campioni isolati e piano di consolidamento.",
+        "A Belanne un bollettino invita periti a confrontare bussole presso l’apparato."
+      ],
+      "with_intervention": "Campionare, stabilizzare, sostituire funzione o separare canale consente servizio e conservazione; soluzione competente non richiede distruzione di tutto il sito.",
+      "without_intervention": "Cantiere conserva campioni e consolida, porto devia traffico, piloti seguono bollettino. Informazioni rimaste sepolte non diventano annullate universalmente.",
+      "time_pressure": "29 maggio cantiere, 3 giugno dragaggio, 6 giugno revisione; tre calendari reali distinti.",
+      "impact": "🟠",
+      "narrator_material": {
+        "scene": "Due pietre genuine, una reagisce e l’altra no; venditore giura che vengono dallo stesso muro.",
+        "complication": "Consolidare conserva sicurezza ma rende più costosa l’indagine sullo strato non campionato.",
+        "optional_twist": "Il pezzo costoso è inerte; quello usato come fermaporta conserva traccia attiva."
+      },
+      "future_outcome": "OPEN",
+      "components": [
+        "ART-011",
+        "ART-025",
+        "MAT-011",
+        "CRE-001",
+        "CRE-009",
+        "PHN-007"
+      ]
+    },
+    {
+      "id": "U11-08",
+      "name": "A Harvest with Conditions",
+      "location_id": "LOC-042",
+      "location": "Qadra",
+      "activation": "Attivo",
+      "narrative_function": "Risorse alimentari, sviluppo e commercio.",
+      "current": "Cooperative confrontano semi prima di distribuire. Moduli Low Fen, Aldora, Serele e Mareth trattano raccolti, accessi e trasporto di fauna; non una spedizione unica su più continenti.",
+      "conflict": "Produrre senza convertire un adattamento limitato in promessa universale di resa.",
+      "forces": [
+        {
+          "actor": "CAST-367",
+          "wants": "Lotto fertile e acqua concordata.",
+          "fears": "Perdere una semina per prova tardiva.",
+          "limits": "Coltivatore ordinario non incorpora Seed tramite semi."
+        },
+        {
+          "actor": "CAST-342",
+          "wants": "Silo e strada accessibili.",
+          "fears": "La barriera Banner sia un pretesto per monopolio.",
+          "limits": "Congedato ordinario, nessun comando divino del presidio."
+        }
+      ],
+      "secret": "Partita mescolata, non castigo del dio; fauna elettrica non batteria infinita e canne luminose non Halo.",
+      "hooks": [
+        "Un sacco venduto con marchio fertile contiene due tipi di semi; campione disponibile.",
+        "Un presidio del silo chiede alternative per mantenere accesso senza bloccare raccolta."
+      ],
+      "with_intervention": "Separazione, nuove risorse congrue, distribuzione, negoziazione o infrastruttura possono risolvere; Cradle crea davvero, non deve fingere incapacità per preservare scarsità.",
+      "without_intervention": "Cooperative riducono superficie o usano varietà alternative, presidio corregge corsia, allevatori isolano vasche; prezzi cambiano per quantità reali.",
+      "time_pressure": "Finestra di semina locale verificata con clima del luogo; non medesima stagione per cinque continenti.",
+      "impact": "🟡",
+      "narrator_material": {
+        "scene": "Tre vasche di germinazione: sale tollerato, semi sterili e campione di controllo.",
+        "complication": "Una varietà fertile può reggere il sale ma richiedere più acqua di quella disponibile.",
+        "optional_twist": "Una comunità propone condivisione invece di acquistare tutta la partita."
+      },
+      "future_outcome": "OPEN",
+      "components": [
+        "ART-013",
+        "ART-015",
+        "MAT-012",
+        "CRE-005",
+        "CRE-012",
+        "CRE-017",
+        "PHN-008"
+      ]
+    },
+    {
+      "id": "U11-09",
+      "name": "Privacy with Two Doors",
+      "location_id": "LOC-051",
+      "location": "Noran",
+      "activation": "Attivo",
+      "narrative_function": "Riservatezza, culto e custodia dei morti.",
+      "current": "Sale funerarie rinnovano tende e verificano uscite. Una cassa di quiete è richiesta da famiglia e legale; le due questioni restano distinguibili.",
+      "conflict": "Proteggere colloqui senza sequestrare persone o chiamare ogni silenzio quiete dei morti.",
+      "forces": [
+        {
+          "actor": "CAST-177",
+          "wants": "Riservatezza con evacuazione possibile.",
+          "fears": "Filtro locale usato per recludere.",
+          "limits": "Eclipse IV, non Sepulchre e non controllo della Root."
+        },
+        {
+          "actor": "CAST-423",
+          "wants": "Consenso della famiglia verificato.",
+          "fears": "Una cassetta vuota venga trattata come persona.",
+          "limits": "Legale ordinario, non risveglia morti."
+        }
+      ],
+      "secret": "Muffa fisica su cornice ancora investita; la seconda cassetta è cenere inerte. Non aggiungere anima dove il residuo non c’è.",
+      "hooks": [
+        "Un test delle uscite ammette un osservatore indipendente.",
+        "Una famiglia chiede verifica delle cassette prima del trasferimento."
+      ],
+      "with_intervention": "Separare matrice e sostanza, diagnosticare residuo, mantenere porte e consenso migliora servizio. Una contesa superiore non si risolve soltanto timbrando un modulo.",
+      "without_intervention": "Sale ritirano tenda difettosa, cassa resta custodita nei limiti legittimi, legale cerca altra prova; Varessa segue propria unità già fissata, non aspetta questa scena.",
+      "time_pressure": "Test locale 23 maggio; rinnovo superiore 30 giugno distinto.",
+      "impact": "🟡",
+      "narrator_material": {
+        "scene": "In una stanza buia l’allarme ordinario funziona; in quella illuminata il filtro spirituale è spento.",
+        "complication": "La famiglia desidera silenzio ma non isolamento materiale dal medico.",
+        "optional_twist": "Un custode sospende spontaneamente una custodia che avrebbe aumentato il proprio prestigio."
+      },
+      "future_outcome": "OPEN",
+      "components": [
+        "ART-016",
+        "ART-017",
+        "MAT-014",
+        "CRE-013",
+        "PHN-009"
+      ]
+    },
+    {
+      "id": "U11-10",
+      "name": "The Lamina Already Broken",
+      "location_id": "LOC-058",
+      "location": "Tevren",
+      "activation": "Attivo",
+      "narrative_function": "Pratiche rituali, apprendimento e fiducia.",
+      "current": "Scuola di valle separa lamine consumate e integre; allievi chiedono che la Larva didattica sia diagnosticata prima di dismetterla.",
+      "conflict": "Dimostrare protezione senza colpire una persona per produrre spettacolo.",
+      "forces": [
+        {
+          "actor": "CAST-184",
+          "wants": "Prova sicura e corrispondenza rituale valida.",
+          "fears": "Scorte vecchie facciano perdere fiducia al rito.",
+          "limits": "Crescent IV non rende ogni specchio un Living Mirror."
+        },
+        {
+          "actor": "CAST-460",
+          "wants": "Lezioni e registri disponibili agli allievi.",
+          "fears": "Consumo confuso con fallimento morale.",
+          "limits": "Ordinario, non rifornisce la matrice."
+        }
+      ],
+      "secret": "Lamina consumata durante prova; automatismo non ancora dimostrato personale. Il difetto non dipende dal luogo essere valle invece di porto.",
+      "hooks": [
+        "Un verbale di inventario segnala microfratture prima del test.",
+        "Un’allieva chiede di confrontare due attivazioni identiche della Larva."
+      ],
+      "with_intervention": "Sostituire, investire e provare con bersaglio non personale; se emerge coscienza autentica riconoscerne autonomia. Non si incorpora Crescent da una lezione teorica.",
+      "without_intervention": "Scuola elimina supporti consumati, sospende dimostrazione rischiosa e conserva campione. Ilyren gestisce il proprio accordo superiore secondo dossier463, non viene neutralizzata dal magazzino.",
+      "time_pressure": "23 maggio prova locale; 30 giugno rinnovo superiore, senza equivalenza fra carenza di lamina e caduta divina.",
+      "impact": "🟡",
+      "narrator_material": {
+        "scene": "Specchio perfettamente lucido rivela microcrepa controluce mentre il registro lo chiama nuovo.",
+        "complication": "Un ricambio riflette bene ma non ha ancora investimento; trasparenza commerciale non basta.",
+        "optional_twist": "Il responsabile della svista è chi l’ha denunciata prima del test."
+      },
+      "future_outcome": "OPEN",
+      "components": [
+        "ART-018",
+        "MAT-015",
+        "CRE-014",
+        "PHN-010"
+      ]
+    },
+    {
+      "id": "U11-11",
+      "name": "A Person Is Not a Device",
+      "location_id": "LOC-022",
+      "location": "Corten",
+      "activation": "Attivo",
+      "narrative_function": "Consenso, identità e istituzioni del quotidiano.",
+      "current": "Il caso di un morto custodito richiede consenso all’interrogatorio. Modulo Mersa tratta riposo e fibra; modulo Corten include compagnia teatrale: canali concreti, non un unico complotto.",
+      "conflict": "Usare una capacità senza confondere apparenza, cura o testimonianza con proprietà sulla persona.",
+      "forces": [
+        {
+          "actor": "CAST-323",
+          "wants": "Contratto valido e rischio dichiarato.",
+          "fears": "Finanziatore si appropria di identità e immagine.",
+          "limits": "Legale ordinaria, non riconfigura Mask."
+        },
+        {
+          "actor": "CAST-410",
+          "wants": "Testimonianze raggiungano destinatario integre.",
+          "fears": "Pubblicare dialogo ottenuto senza consenso.",
+          "limits": "Corriere a Mersa, notizie tramite viaggio o messaggi."
+        }
+      ],
+      "secret": "Modello Mask consenziente, custodia del morto distinta da replay, protezione emotiva distinta da sonno sufficiente. Nessun rinnovo conferisce potere su tutto il popolo Nethri.",
+      "hooks": [
+        "La famiglia consegna un consenso con limiti espliciti all’uso della testimonianza.",
+        "Un lavoratore porta contratto dei turni e dati del telaio di riposo."
+      ],
+      "with_intervention": "Delimitare uso, garantire riposo, verificare continuità e rendere separabile sostegno cambiano rapporti. Un potere può smascherare o proteggere, non rendere vera una menzogna civile.",
+      "without_intervention": "Famiglia negozia accesso o rifiuta, clinica corregge turni se prove convincenti, compagnia mantiene uso teatrale dichiarato. Nessuna alleanza o romance fissato.",
+      "time_pressure": "Revisione dei contratti 28 maggio, vincolo civile rinviabile; urgenza fisica segue condizioni del paziente.",
+      "impact": "🟡",
+      "narrator_material": {
+        "scene": "Due supporti sembrano parlare: uno risponde a una domanda nuova, l’altro ripete il medesimo gesto.",
+        "complication": "Ripristinare una voce non ricostruisce ogni memoria mancante.",
+        "optional_twist": "Il morto rifiuta la domanda dei parenti ma accetta di discutere una scelta per la propria custodia."
+      },
+      "future_outcome": "OPEN",
+      "components": [
+        "ART-019",
+        "ART-020",
+        "MAT-013",
+        "CRE-015",
+        "CRE-019",
+        "PEO-05",
+        "PHN-011"
+      ]
+    },
+    {
+      "id": "U11-12",
+      "name": "The Two Drains",
+      "location_id": "LOC-054",
+      "location": "Edris",
+      "activation": "Critico",
+      "narrative_function": "Contenimento elevato e incidente biologico locale.",
+      "current": "La camera VI ha un corridoio evacuato e una cella in perdita; gli altri due sigilli sono integri. Il reparto isola il campione Heart III su un altro circuito. Saura offre un modulo distinto di depurazione, non la fonte cosmica del problema.",
+      "conflict": "Separare gli interventi senza scambiare due cause contemporanee per contaminazione universale.",
+      "forces": [
+        {
+          "actor": "CAST-018",
+          "wants": "Matrice Archive esaminata e persone protette.",
+          "fears": "Aprire inutilmente una cella attiva.",
+          "limits": "Intervento segue accessi e informazioni effettivi; non presenza personale automatica a Edris."
+        },
+        {
+          "actor": null,
+          "role": "Custodia regionale e laboratorio locale",
+          "wants": "Evacuazione, drenaggi separati e diagnosi qualificata.",
+          "fears": "Togliere cura a pazienti per arrestare il campione.",
+          "limits": "Ordinari non possono rinnovare sigillo VI."
+        },
+        {
+          "actor": "CAST-386",
+          "wants": "Lotti depurati secondo prova.",
+          "fears": "Il setto saturo venga riutilizzato.",
+          "limits": "A Serevan, contatto logistico del modulo Saura; non controlla una reliquia VI."
+        }
+      ],
+      "secret": "Nuovo isolamento ha stretto il condotto; Red Bloom da sostegno mal separato. Nessun dio impazzito o nuovo antagonista inventato per l’incidente.",
+      "hooks": [
+        "Custodia invia richiesta di diagnosi con disegno del condotto prima e dopo lavori.",
+        "Un infermiere presenta la pompa separata e campione sigillato ancora pulsante."
+      ],
+      "with_intervention": "Potere Archive VI realmente raggiunto può contenere o ricostruire il fronte; altri mezzi adeguati possono deviare, separare o distruggere fonte raggiunta. Separazione Heart pertinente arresta crescita mantenuta, tessuto nato va rimosso. Nessun oggetto immune perché importante alla trama.",
+      "without_intervention": "Custodi evacuano e isolano, chiedono équipe superiore, reparto mantiene cure separate. Una perdita aumenta se sigillo continua a deteriorarsi; totale rilascio richiede rottura concreta, non il calendario.",
+      "time_pressure": "Ispezione 21 maggio; misure ogni sei ore. Pericolo elevato al contatto con cella attiva, non obbligo di visita del protagonista.",
+      "impact": "🟠 attuale; 🔴 se il fronte investito supera isolamento e raggiunge il nodo di servizio",
+      "narrator_material": {
+        "scene": "Il sigillo illumina sempre lo stesso tratto di tubo; il campione pulsa solo mentre la pompa del reparto è collegata.",
+        "complication": "Distruggere il contenitore senza separare il fronte può liberare quanto conservava.",
+        "optional_twist": "Una squadra ordinaria salva il corridoio chiudendo il giusto scarico, pur senza poter riparare il sigillo."
+      },
+      "future_outcome": "OPEN",
+      "components": [
+        "ART-021",
+        "ART-024",
+        "MAT-016",
+        "MAT-018",
+        "CRE-016",
+        "CRE-020",
+        "PHN-012"
+      ]
+    },
+    {
+      "id": "FRONT-01",
+      "name": "The Glass Hunt",
+      "location": "Lethorne",
+      "activation": "Attivo",
+      "narrative_function": "Opposizione soprannaturale concreta",
+      "current": "Una squadra ha affittato il piano sopra un deposito di strumenti. Conosce un intermediario di Marcel, non la posizione di Room Six.",
+      "conflict": "Identificare il vettore, sostituire la consegna con un esemplare ordinario e sequestrare chi sa ricaricare la cerniera.",
+      "forces": [
+        {
+          "actor": "CAST-474",
+          "wants": "Impadronirsi delle cerniere portatili di Lethorne e rivenderne accessi e manutentori a compratori separati.",
+          "fears": "Che un contratto autentico dimostri che è stato lui a consegnare la sorella, non il collegio."
+        },
+        {
+          "actor": "CAST-475",
+          "wants": "Impadronirsi delle cerniere portatili di Lethorne e rivenderne accessi e manutentori a compratori separati.",
+          "fears": "Essere venduta come manutentrice insieme al mezzo."
+        },
+        {
+          "actor": "CAST-193",
+          "wants": "Ha scoperto una richiesta di perizia falsa e vuole vendere il confronto, pur rifiutando sequestri.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-194",
+          "wants": "Ha imparato conversioni di laboratorio per lavoro e può riconoscere il falso campione.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-200",
+          "wants": "Distribuisce segnali ai sorveglianti in cambio della cancellazione di un debito; sa dello spionaggio, non della vendita di Sybille.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        }
+      ],
+      "secret": "Mael conserva un secondo contratto: vendere Sybille insieme al mezzo qualora il compratore chieda un Bearer.",
+      "hooks": [
+        "Spese di osservazione e acquisto di un falso campione ordinario.",
+        "L’intermediario ha ricevuto una richiesta che confonde la cerniera III con una Root."
+      ],
+      "without_pc": "Senza notizie nuove tengono sotto osservazione il deposito; non scoprono magicamente il club o Alexander.",
+      "with_pc": "Avvisare o mettere al sicuro il vettore, identificare il compratore, spezzare la catena di accesso. Distruggere il falso non distrugge la cerniera vera.",
+      "pressure": "Preparazione già in corso; i tempi dipendono da mezzi, viaggi e informazioni reali",
+      "impact": "🟠; la scala aumenta soltanto per operazioni e conseguenze effettive",
+      "vertical": "nessun patrocinio divino; contratti comprati caso per caso",
+      "horizontal": [
+        "ARC-02",
+        "ARC-03",
+        "ARC-06",
+        "ARC-08",
+        "ARC-30",
+        "ARC-39"
+      ],
+      "scene": "Identificare il vettore, sostituire la consegna con un esemplare ordinario e sequestrare chi sa ricaricare la cerniera.",
+      "complication": "Sybille abbandona il contratto se ottiene una prova autentica della propria vendita; non basta affermarlo."
+    },
+    {
+      "id": "FRONT-02",
+      "name": "The Ashen Tithe",
+      "location": "Sarn Gate",
+      "activation": "Attivo",
+      "narrative_function": "Opposizione soprannaturale concreta",
+      "current": "Un convoglio di sei adulti è nascosto in una stazione dismessa. I vecchi marchi sono studiati, non già ripristinati su tutta una popolazione.",
+      "conflict": "Trasferire i prigionieri, installare vincoli individuali e addestrare una guardia di leva finanziata dal minerale.",
+      "forces": [
+        {
+          "actor": "CAST-476",
+          "wants": "Ricostituire un possesso ereditario della forza lavoro in tre gallerie, iniziando da prigionieri acquistati come debitori.",
+          "fears": "Che una liberazione dimostri ai propri finanziatori che i vincoli non sono un investimento sicuro."
+        },
+        {
+          "actor": "CAST-477",
+          "wants": "Ricostituire un possesso ereditario della forza lavoro in tre gallerie, iniziando da prigionieri acquistati come debitori.",
+          "fears": "Restare soltanto l’esecutrice di Voren."
+        },
+        {
+          "actor": "CAST-246",
+          "wants": "Organizza i minatori e una squadra di recupero dei prigionieri, senza conoscere tutti i compratori.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-248",
+          "wants": "Convalida il tratto locale del trasporto e ne ricava pagamenti; conosce la condizione coercitiva degli adulti.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-250",
+          "wants": "Ha imparato a verificare distanze di galleria; esige che i liberatori non facciano crollare il quartiere abitato.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        }
+      ],
+      "secret": "Voren usa un marchio recente imitativo: il fallimento locale non riattiva i marchi aboliti dal liberatore.",
+      "hooks": [
+        "Acquisti di ferri di custodia troppo numerosi per la cava dichiarata.",
+        "Una persona fuggita sa il percorso fino alla stazione, non la residenza del capo."
+      ],
+      "without_pc": "Il trasferimento può iniziare solo quando arriva la scorta e il tratto ferroviario è libero; i ritardi producono razionamento e possibilità di fuga.",
+      "with_pc": "Liberare i prigionieri, interrompere i vincoli con mezzi pertinenti, sottrarre entrate e custodi. La liberazione autentica resta valida.",
+      "pressure": "Preparazione già in corso; i tempi dipendono da mezzi, viaggi e informazioni reali",
+      "impact": "🟠; la scala aumenta soltanto per operazioni e conseguenze effettive",
+      "vertical": "eredi politici delle Signorie; nessun mandato di tutti gli Ossari o Kethari",
+      "horizontal": [
+        "ARC-05",
+        "ARC-11",
+        "ARC-15",
+        "ARC-17",
+        "ARC-25",
+        "ARC-35"
+      ],
+      "scene": "Trasferire i prigionieri, installare vincoli individuali e addestrare una guardia di leva finanziata dal minerale.",
+      "complication": "Ishra vuole il comando politico, non una famiglia di schiavi personale: accetta di perdere Voren pur di ereditare il sistema."
+    },
+    {
+      "id": "FRONT-03",
+      "name": "The Red Orchard",
+      "location": "Elven",
+      "activation": "Attivo",
+      "narrative_function": "Opposizione soprannaturale concreta",
+      "current": "Un vivaio sperimentale coltiva un sostegno utile e un ramo dipendente non dichiarato. Tre campioni sono già stati separati per la spedizione.",
+      "conflict": "Distribuire innesti sotto una falsa dichiarazione di autonomia e rapire chi possiede una tecnica concorrente di separazione.",
+      "forces": [
+        {
+          "actor": "CAST-478",
+          "wants": "Rendere indispensabili sostegni viventi controllati dalla rete, impedendo la loro sostituzione con cure indipendenti.",
+          "fears": "Un sostegno indipendente che renda inutile il suo ruolo."
+        },
+        {
+          "actor": "CAST-479",
+          "wants": "Rendere indispensabili sostegni viventi controllati dalla rete, impedendo la loro sostituzione con cure indipendenti.",
+          "fears": "Che una separazione improvvisata uccida i pazienti che continua a considerare suoi."
+        },
+        {
+          "actor": "CAST-286",
+          "wants": "Difende il diritto dell’assemblea a scegliere il sostegno e rifiuta un’imposizione sia del vivaio sia dei soccorritori.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-289",
+          "wants": "Consegna i campioni e sa dell’alimentazione nascosta, ma non sa riprodurre l’innesto IV.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-290",
+          "wants": "Ha curato una prima incompatibilità e vuole interrompere la dipendenza senza uccidere i pazienti.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        }
+      ],
+      "secret": "Sevra conosce la presenza del ramo nascosto ma ignora la derivazione del Departure Project: non può confessare fatti mai appresi.",
+      "hooks": [
+        "Un esemplare sopravvive con alimentazione dichiarata sufficiente, poi perde una funzione precisa.",
+        "Il trasportatore distingue i tre campioni e può indicare la destinazione."
+      ],
+      "without_pc": "La spedizione parte se il trasporto è confermato; Othrem riceve solo relazioni inviate attraverso canali realmente attivi.",
+      "with_pc": "Offrire sostegni realmente autonomi, isolare la dipendenza e impedire il sequestro. Non esiste una punizione cosmica per chi guarisce davvero.",
+      "pressure": "Preparazione già in corso; i tempi dipendono da mezzi, viaggi e informazioni reali",
+      "impact": "🟠; la scala aumenta soltanto per operazioni e conseguenze effettive",
+      "vertical": "Othrem conosce il programma di dipendenza; i capi locali non conoscono la caduta né il ritorno",
+      "horizontal": [
+        "ARC-07",
+        "ARC-12",
+        "ARC-13",
+        "ARC-18",
+        "ARC-23",
+        "ARC-27",
+        "ARC-35"
+      ],
+      "scene": "Distribuire innesti sotto una falsa dichiarazione di autonomia e rapire chi possiede una tecnica concorrente di separazione.",
+      "complication": "Arven mantiene un registro clinico perché non vuole perdere ogni possibilità di curare i propri pazienti: può opporsi a Sevra su prove mediche."
+    },
+    {
+      "id": "FRONT-04",
+      "name": "The Still Court",
+      "location": "Veldane",
+      "activation": "Attivo",
+      "narrative_function": "Opposizione soprannaturale concreta",
+      "current": "Due funzionari hanno preparato mandati individuali contro testimoni e un deposito protetto per trattenerli.",
+      "conflict": "Fermare un testimone in viaggio, isolare copie della sua dichiarazione e imporre una nuova proroga del contenimento.",
+      "forces": [
+        {
+          "actor": "CAST-480",
+          "wants": "Trasformare misure di emergenza circoscritte in una giurisdizione permanente sulle persone giudicate pericolose.",
+          "fears": "Una guardia che obbedisca all’originale invece che alla copia alterata."
+        },
+        {
+          "actor": "CAST-481",
+          "wants": "Trasformare misure di emergenza circoscritte in una giurisdizione permanente sulle persone giudicate pericolose.",
+          "fears": "Perdere un’intera squadra per proteggere una falsificazione."
+        },
+        {
+          "actor": "CAST-341",
+          "wants": "Conserva la copia precedente alla proroga e teme una perquisizione mirata.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-343",
+          "wants": "Prepara la squadra di arresto; conosce il bersaglio e il mandato alterato, non le responsabilità antiche.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-345",
+          "wants": "Può fornire un percorso legale di uscita, ma pretende una garanzia verificabile per chi custodisce il detenuto.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        }
+      ],
+      "secret": "Marwen ha falsificato la durata di un mandato: Ilyra conosce lo scopo generale ma non questa alterazione.",
+      "hooks": [
+        "Originale e copia esecutiva hanno la stessa autenticazione, ma termini diversi.",
+        "Una scorta ha ricevuto istruzioni orali incompatibili con il mandato."
+      ],
+      "without_pc": "L’arresto richiede itinerario verificato e una scorta disponibile; un bersaglio trasferito non viene ritrovato senza indagine.",
+      "with_pc": "Proteggere il testimone, invalidare la presa concreta, dividere funzionari e comando. La forza può liberare il detenuto anche prima della soluzione politica.",
+      "pressure": "Preparazione già in corso; i tempi dipendono da mezzi, viaggi e informazioni reali",
+      "impact": "🟠; la scala aumenta soltanto per operazioni e conseguenze effettive",
+      "vertical": "Ilyra approva il contenimento mirato; non ha ordinato ogni rapimento locale",
+      "horizontal": [
+        "ARC-08",
+        "ARC-16",
+        "ARC-17",
+        "ARC-19",
+        "ARC-20",
+        "ARC-29",
+        "ARC-36",
+        "ARC-38"
+      ],
+      "scene": "Fermare un testimone in viaggio, isolare copie della sua dichiarazione e imporre una nuova proroga del contenimento.",
+      "complication": "Elisa obbedisce a una catena di comando, ma rifiuta la distruzione di una propria unità per nascondere l’alterazione."
+    },
+    {
+      "id": "FRONT-05",
+      "name": "The Black Wake",
+      "location": "South Shoals",
+      "activation": "Attivo",
+      "narrative_function": "Opposizione soprannaturale concreta",
+      "current": "Due imbarcazioni di appoggio hanno depositato ancore e segnali falsi presso una secca. La nave bersaglio è ancora in porto.",
+      "conflict": "Alterare il passaggio locale con correnti e segnali, abbordare i superstiti e incendiare il deposito dei registri di carico.",
+      "forces": [
+        {
+          "actor": "CAST-482",
+          "wants": "Controllare una rotta di naufragi provocati e vendere separatamente carico, superstiti e informazioni sui recuperi.",
+          "fears": "Un mare controllato da una potenza superiore e nessuna via di fuga."
+        },
+        {
+          "actor": "CAST-483",
+          "wants": "Controllare una rotta di naufragi provocati e vendere separatamente carico, superstiti e informazioni sui recuperi.",
+          "fears": "Essere offerta a un compratore come parte del carico."
+        },
+        {
+          "actor": "CAST-336",
+          "wants": "Legge i cambiamenti locali della corrente e può guidare una squadra di soccorso.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-338",
+          "wants": "Consegna i segnali falsi assumendo una rappresentazione pertinente già studiata.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-340",
+          "wants": "Offre copertura a un equipaggio in fuga, ma non intende affrontare una nave semidivina da solo.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        }
+      ],
+      "secret": "Dara ha ricevuto l’ordine di eliminare l’intermediario dopo il pagamento e lo considera un prezzo accettabile.",
+      "hooks": [
+        "Ancore nuove in una zona che non richiede ormeggio.",
+        "Un pilota ha ricevuto due segnali con orari incompatibili."
+      ],
+      "without_pc": "L’agguato dipende dalla partenza reale e dal tempo; una partenza annullata lo rinvia, non causa comunque il naufragio.",
+      "with_pc": "Scortare o deviare la nave, rimuovere i segnali, combattere gli abbordatori e mettere al sicuro i superstiti.",
+      "pressure": "Preparazione già in corso; i tempi dipendono da mezzi, viaggi e informazioni reali",
+      "impact": "🟠; la scala aumenta soltanto per operazioni e conseguenze effettive",
+      "vertical": "nessuna obbedienza a Enra: predatori che ne temono la reazione",
+      "horizontal": [
+        "ARC-05",
+        "ARC-10",
+        "ARC-15",
+        "ARC-24",
+        "ARC-26",
+        "ARC-28",
+        "ARC-30"
+      ],
+      "scene": "Alterare il passaggio locale con correnti e segnali, abbordare i superstiti e incendiare il deposito dei registri di carico.",
+      "complication": "Naor salva la propria nave prima del compratore; un ostaggio liberato non è una risorsa illimitata da sostituire."
+    },
+    {
+      "id": "FRONT-06",
+      "name": "The Hollow Choir",
+      "location": "Corten",
+      "activation": "Attivo",
+      "narrative_function": "Opposizione soprannaturale concreta",
+      "current": "Una pensione ospita quattro adulti reclutati con promesse di impiego; gli ingressi sono ordinari e controllabili.",
+      "conflict": "Imporre una sessione interiore preparata, estorcere accessi e usare Mask per ingannare un solo destinatario già studiato.",
+      "forces": [
+        {
+          "actor": "CAST-484",
+          "wants": "Sostituire relazioni sociali e contratti di ospitalità con un sistema di consenso manipolato che protegga i capi della rete.",
+          "fears": "Che due ospiti confrontino testimonianze fuori dal collegamento."
+        },
+        {
+          "actor": "CAST-485",
+          "wants": "Sostituire relazioni sociali e contratti di ospitalità con un sistema di consenso manipolato che protegga i capi della rete.",
+          "fears": "Non avere più un nome cui possa tornare senza pagare."
+        },
+        {
+          "actor": "CAST-321",
+          "wants": "Ha individuato gli effetti fisici della sessione e vuole recuperare ospiti vivi.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-323",
+          "wants": "Prepara gli ospiti e mantiene il collegamento assegnato; conosce i quattro reclutati, non tutte le attività del capo.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-325",
+          "wants": "Ha una rappresentazione limitata utile a verificare una falsa visita e pretende un’uscita sicura prima di testimoniare.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        }
+      ],
+      "secret": "Gli ospiti hanno persone e volontà proprie: gli effetti non creano retroattivamente infanzie o parenti autentici.",
+      "hooks": [
+        "Due ospiti ricordano lo stesso dettaglio impossibile nello stesso ordine.",
+        "Il cuoco conosce gli orari in cui la stanza delle sessioni viene preparata."
+      ],
+      "without_pc": "La sessione richiede presenza e preparazione; chi lascia la pensione prima non resta automaticamente collegato.",
+      "with_pc": "Interrompere il collegamento preparato, raggiungere fisicamente gli ospiti, confrontare ricordi con testimonianze indipendenti.",
+      "pressure": "Preparazione già in corso; i tempi dipendono da mezzi, viaggi e informazioni reali",
+      "impact": "🟠; la scala aumenta soltanto per operazioni e conseguenze effettive",
+      "vertical": "Neral non dirige la cellula e può combatterla; il culto usa il suo titolo senza mandato",
+      "horizontal": [
+        "ARC-09",
+        "ARC-14",
+        "ARC-21",
+        "ARC-22",
+        "ARC-25",
+        "ARC-34",
+        "ARC-39"
+      ],
+      "scene": "Imporre una sessione interiore preparata, estorcere accessi e usare Mask per ingannare un solo destinatario già studiato.",
+      "complication": "Neris vuole cancellare soltanto i propri debiti e può vendere l’ubicazione del capo; non restituisce per questo la fiducia degli ospiti."
+    },
+    {
+      "id": "FRONT-07",
+      "name": "The Ninth Cinder",
+      "location": "Deren",
+      "activation": "Attivo",
+      "narrative_function": "Opposizione soprannaturale concreta",
+      "current": "Un’officina prepara cariche di conversione e contenitori difettosi deliberatamente. La galleria di prova è stata evacuata dai tecnici informati.",
+      "conflict": "Sabotare una pompa di sicurezza, attirare una squadra di soccorso e prendere ostaggi per imporre l’acquisto delle armi.",
+      "forces": [
+        {
+          "actor": "CAST-486",
+          "wants": "Vendere armi investite a due compratori rivali provocando una crisi che renda urgente la consegna.",
+          "fears": "Che i compratori confrontino i due contratti prima del pagamento."
+        },
+        {
+          "actor": "CAST-487",
+          "wants": "Vendere armi investite a due compratori rivali provocando una crisi che renda urgente la consegna.",
+          "fears": "Un contenimento che imprigioni la carica insieme a lei."
+        },
+        {
+          "actor": "CAST-241",
+          "wants": "Può isolare una condotta raggiunta e conosce il percorso verso la sala pompe.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-243",
+          "wants": "Ha preparato parte dei contenitori; conosce la frode d’uso e il rischio per i soccorritori.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-245",
+          "wants": "Può segnalare una presenza investita pertinente, ma prima vuole evacuare la persona che gli ha insegnato.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        }
+      ],
+      "secret": "Il denaro del secondo compratore paga la prima consegna: Hadrik teme più un’ispezione del magazzino che una controversia sui brevetti.",
+      "hooks": [
+        "Contenitori con la stessa conversione ma indicazioni di uso civile false.",
+        "Il turno evacuato è stato cambiato prima del guasto."
+      ],
+      "without_pc": "Il sabotaggio richiede l’ingresso nella sala pompe; una guardia avvisata può negare accesso o chiedere rinforzi.",
+      "with_pc": "Disinnescare o isolare le cariche, liberare gli ostaggi e sequestrare le scorte. Nessun esplosivo colpisce se l’attivazione viene davvero impedita.",
+      "pressure": "Preparazione già in corso; i tempi dipendono da mezzi, viaggi e informazioni reali",
+      "impact": "🟠; la scala aumenta soltanto per operazioni e conseguenze effettive",
+      "vertical": "nessun mandato di Ashren; rifornimento militare clandestino",
+      "horizontal": [
+        "ARC-06",
+        "ARC-10",
+        "ARC-11",
+        "ARC-26",
+        "ARC-28",
+        "ARC-36"
+      ],
+      "scene": "Sabotare una pompa di sicurezza, attirare una squadra di soccorso e prendere ostaggi per imporre l’acquisto delle armi.",
+      "complication": "Eline rifiuta di restare nel raggio della propria carica: la sua paura crea una finestra di intervento, non una resa automatica."
+    },
+    {
+      "id": "FRONT-08",
+      "name": "The Pale Ledger",
+      "location": "Noran",
+      "activation": "Attivo",
+      "narrative_function": "Opposizione soprannaturale concreta",
+      "current": "Tre contenitori ospitano continuità distinguibili; i custodi stanno negoziando un trasferimento notturno.",
+      "conflict": "Rubare una custodia, ricattare il destinatario e applicare una maledizione attraverso un legame realmente ottenuto.",
+      "forces": [
+        {
+          "actor": "CAST-488",
+          "wants": "Trasformare le testimonianze dei morti custoditi in una merce coercitiva e distruggere quelle che non accettano il patto.",
+          "fears": "Una presenza che testimoni come fu stipulato il primo patto coercitivo."
+        },
+        {
+          "actor": "CAST-489",
+          "wants": "Trasformare le testimonianze dei morti custoditi in una merce coercitiva e distruggere quelle che non accettano il patto.",
+          "fears": "Che il capo venda proprio la presenza che cerca."
+        },
+        {
+          "actor": "CAST-421",
+          "wants": "Ha confrontato una custodia dichiarata vuota e vuole ascoltare la presenza senza imporle un ritorno.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-423",
+          "wants": "Ha ottenuto un legame concreto per il ricatto e sa quale famiglia ne è destinataria.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-425",
+          "wants": "Conosce il tragitto del veicolo ma non ne possiede la protezione; cerca denaro per lasciare la rete.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        }
+      ],
+      "secret": "Una delle tre presenze rifiuta qualsiasi ritorno corporeo e vuole soltanto essere ascoltata: il rifiuto è autentico.",
+      "hooks": [
+        "Un contenitore registrato come vuoto consuma ancora manutenzione.",
+        "Una richiesta di riscatto cita una frase nota soltanto a un testimone custodito."
+      ],
+      "without_pc": "Il trasporto richiede un veicolo schermato e manutenzione; un ritardo impone ai rapitori di investire risorse ulteriori.",
+      "with_pc": "Separare custodia e ricatto, spezzare il legame della maledizione, restituire facoltà di scelta alle presenze e proteggere i supporti.",
+      "pressure": "Preparazione già in corso; i tempi dipendono da mezzi, viaggi e informazioni reali",
+      "impact": "🟠; la scala aumenta soltanto per operazioni e conseguenze effettive",
+      "vertical": "avversari della custodia indipendente di Althene; non suoi esecutori segreti",
+      "horizontal": [
+        "ARC-09",
+        "ARC-14",
+        "ARC-16",
+        "ARC-19",
+        "ARC-20",
+        "ARC-23",
+        "ARC-24",
+        "ARC-38"
+      ],
+      "scene": "Rubare una custodia, ricattare il destinatario e applicare una maledizione attraverso un legame realmente ottenuto.",
+      "complication": "Meraine vuole salvare una specifica presenza e può sottrarre il contenitore agli stessi clienti."
+    },
+    {
+      "id": "FRONT-09",
+      "name": "The Severed Compass",
+      "location": "Serevan",
+      "activation": "Attivo",
+      "narrative_function": "Opposizione soprannaturale concreta",
+      "current": "Kaeris mantiene un avamposto remoto con una sola via di rifornimento e una squadra sul pianeta.",
+      "conflict": "Spostare un riferimento di un corridoio raggiunto, intercettare una spedizione e sequestrare il suo cartografo.",
+      "forces": [
+        {
+          "actor": "CAST-490",
+          "wants": "Monopolizzare tre itinerari interregionali e vendere passaggi sicuri dopo aver reso pericolosi gli accessi concorrenti.",
+          "fears": "Perdere la via di servizio dell’avamposto mentre si trova lontano."
+        },
+        {
+          "actor": "CAST-491",
+          "wants": "Monopolizzare tre itinerari interregionali e vendere passaggi sicuri dopo aver reso pericolosi gli accessi concorrenti.",
+          "fears": "Una sconfitta già compiuta che nessun rinvio possa correggere."
+        },
+        {
+          "actor": "CAST-386",
+          "wants": "Controlla l’isolamento della spedizione e può riconoscere il riferimento mutato.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-388",
+          "wants": "Prepara la concatenazione del vettore sulla rotta studiata: non comanda ogni alternativa futura.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-390",
+          "wants": "Conosce il percorso di servizio e vuole un itinerario pubblico protetto, non un nuovo monopolio.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        }
+      ],
+      "secret": "L’avamposto non è autosufficiente: i sei addetti remoti dispongono di una riserva dichiarata e necessitano della rotta di servizio.",
+      "hooks": [
+        "Il percorso conserva un riferimento vecchio incompatibile con quello sostituito.",
+        "I rifornimenti contengono dotazioni per sei persone, non per una flotta."
+      ],
+      "without_pc": "Le spedizioni vengono intercettate soltanto se entrano nella rotta studiata; l’avamposto perde riserve durante ogni interruzione del servizio.",
+      "with_pc": "Verificare i riferimenti, proteggere il cartografo, isolare il solo corridoio ostile o raggiungere l’avamposto con accessi propri.",
+      "pressure": "Preparazione già in corso; i tempi dipendono da mezzi, viaggi e informazioni reali",
+      "impact": "🟠; la scala aumenta soltanto per operazioni e conseguenze effettive",
+      "vertical": "rivalità concreta con la custodia di Helyr; nessuna Root posseduta",
+      "horizontal": [
+        "ARC-15",
+        "ARC-26",
+        "ARC-27",
+        "ARC-28",
+        "ARC-29",
+        "ARC-31",
+        "ARC-33",
+        "ARC-37",
+        "ARC-40"
+      ],
+      "scene": "Spostare un riferimento di un corridoio raggiunto, intercettare una spedizione e sequestrare il suo cartografo.",
+      "complication": "Thel giudica Kaeris un custode temporaneo e vuole negoziare un accesso proprio; nessuna lealtà metafisica lo obbliga."
+    },
+    {
+      "id": "FRONT-10",
+      "name": "The Last Vessel",
+      "location": "Ashen Quay",
+      "activation": "Attivo",
+      "narrative_function": "Opposizione soprannaturale concreta",
+      "current": "Una nave-laboratorio trattiene sei adulti e trasporta tessuti investiti in supporti distinti. Non è una Root né una specie intera.",
+      "conflict": "Rapire un Bearer utile, separare una funzione raggiunta e inviare il lotto a un compratore prima che arrivi l’ispezione.",
+      "forces": [
+        {
+          "actor": "CAST-492",
+          "wants": "Produrre ricettacoli viventi vendibili, trattando continuità e corpi come parti separabili senza consenso.",
+          "fears": "Scoprire che i propri contenitori non reggono una funzione più forte."
+        },
+        {
+          "actor": "CAST-493",
+          "wants": "Produrre ricettacoli viventi vendibili, trattando continuità e corpi come parti separabili senza consenso.",
+          "fears": "Che una liberazione precipitosa uccida persone che lei stessa ha reso dipendenti."
+        },
+        {
+          "actor": "CAST-416",
+          "wants": "Prepara contenitori credendo inizialmente a un trasporto medico; una prova delle lesioni cambia i termini della cooperazione.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-418",
+          "wants": "Mantiene i tessuti e conosce i sei adulti trattenuti; considera accettabile la coercizione se il lotto sopravvive.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-420",
+          "wants": "Ha smesso di collaborare dopo una lesione e cerca un modo di stabilizzare due contenitori prima dell’assalto.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        }
+      ],
+      "secret": "Il compratore accetta solo funzioni stabili; Vareth nasconde che due dei propri contenitori stanno fallendo e non possiede un metodo universale.",
+      "hooks": [
+        "La nave dichiara un equipaggio inferiore al consumo di cibo.",
+        "Una fuga restituisce una persona viva con una funzione mancante identificabile."
+      ],
+      "without_pc": "Il lotto parte solo con un vettore compatibile: ritardi espongono il fallimento e spaccano il gruppo, non generano nuove vittime automaticamente.",
+      "with_pc": "Abbattere le difese pertinenti, liberare i detenuti e separare le funzioni senza distruggere i supporti vitali. Cure reali possono eliminare la dipendenza.",
+      "pressure": "Preparazione già in corso; i tempi dipendono da mezzi, viaggi e informazioni reali",
+      "impact": "🟠; la scala aumenta soltanto per operazioni e conseguenze effettive",
+      "vertical": "contratto limitato con Soran Il: destinatari e consegne, non accesso universale alla sua potenza",
+      "horizontal": [
+        "ARC-07",
+        "ARC-12",
+        "ARC-14",
+        "ARC-21",
+        "ARC-23",
+        "ARC-24",
+        "ARC-27",
+        "ARC-31",
+        "ARC-32",
+        "ARC-34",
+        "ARC-37",
+        "ARC-40"
+      ],
+      "scene": "Rapire un Bearer utile, separare una funzione raggiunta e inviare il lotto a un compratore prima che arrivi l’ispezione.",
+      "complication": "Ilena vuole preservare i sei detenuti e può sabotare una consegna letale, ma ha già cooperato alle lesioni e non viene assolta da un ripensamento."
+    },
+    {
+      "id": "FRONT-11",
+      "name": "The Blue Lantern",
+      "location": "Rovenne",
+      "activation": "Attivo",
+      "narrative_function": "Alleanza autonoma e soccorso soprannaturale",
+      "current": "Un rifugio dispone di due stanze, tre letti e una rete di vettori ordinari. Nessun occupante conosce il ritorno di Edran.",
+      "conflict": "Verificare una segnalazione di sequestro, preparare trasporto e intervenire contro la squadra identificata.",
+      "forces": [
+        {
+          "actor": "CAST-494",
+          "wants": "Mantenere una via di fuga e cure indipendenti per le vittime di sequestri soprannaturali.",
+          "fears": "Confondere la protezione con il possesso degli ospiti."
+        },
+        {
+          "actor": "CAST-495",
+          "wants": "Mantenere una via di fuga e cure indipendenti per le vittime di sequestri soprannaturali.",
+          "fears": "Promettere una separazione superiore alla propria capacità."
+        },
+        {
+          "actor": "CAST-208",
+          "wants": "Ripara il trasporto del rifugio; conosce soltanto una sede e non tratta il ducato come finanziatore automatico.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-211",
+          "wants": "Coltiva alimenti per gli ospiti e conserva una via di approvvigionamento ordinaria se la coltura investita fallisce.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-220",
+          "wants": "Guida messaggi e uscite locali; conosce Alexander soltanto per quanto stabilito dalla sua vita civile.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        }
+      ],
+      "secret": "Mireya ha rifiutato un finanziamento che avrebbe imposto la consegna dei nomi degli ospiti.",
+      "hooks": [
+        "Richiesta di medicinali compatibili con tre letti, non con una clinica illimitata.",
+        "Due vettori conoscono percorsi distinti e nessuno l’intera rete."
+      ],
+      "without_pc": "Senza aiuto accoglie soltanto le persone che può sostenere e cerca altri rifugi; non trascura deliberatamente un soccorso possibile.",
+      "with_pc": "La rete può essere aiutata con trasporti, protezione, guarigione o informazioni; non pretende adesione religiosa o obbedienza.",
+      "pressure": "Preparazione già in corso; i tempi dipendono da mezzi, viaggi e informazioni reali",
+      "impact": "🟠; la scala aumenta soltanto per operazioni e conseguenze effettive",
+      "vertical": "rete di soccorso indipendente; nessun sapere sul ritorno o culto automatico di Edran",
+      "horizontal": [
+        "ARC-01",
+        "ARC-04",
+        "ARC-06",
+        "ARC-07",
+        "ARC-10",
+        "ARC-17",
+        "ARC-23",
+        "ARC-25",
+        "ARC-35",
+        "ARC-36"
+      ],
+      "scene": "Verificare una segnalazione di sequestro, preparare trasporto e intervenire contro la squadra identificata.",
+      "complication": "Un finanziatore può minacciare di ritirare mezzi; nessun traditore obbligatorio viene estratto dal personale domestico di Alexander."
+    },
+    {
+      "id": "FRONT-12",
+      "name": "The Broken Seal",
+      "location": "Teren",
+      "activation": "Attivo",
+      "narrative_function": "Alleanza autonoma e soccorso soprannaturale",
+      "current": "Due ricercatori hanno concordato un metodo di confronto e una guardia di turno; le copie sono in tre sedi separate.",
+      "conflict": "Scortare un testimone e dimostrare davanti a terzi quale intervento investito ha alterato un risultato.",
+      "forces": [
+        {
+          "actor": "CAST-496",
+          "wants": "Difendere testimoni e prove contro appropriazione, intimidazione e falsificazione investita.",
+          "fears": "Essere difeso da un potente che pretende in cambio il silenzio."
+        },
+        {
+          "actor": "CAST-497",
+          "wants": "Difendere testimoni e prove contro appropriazione, intimidazione e falsificazione investita.",
+          "fears": "Che una pubblicazione renda identificabile una fonte vulnerabile."
+        },
+        {
+          "actor": "CAST-261",
+          "wants": "Custodisce una delle tre copie e protegge l’identità della fonte contro pressioni di entrambe le parti.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-262",
+          "wants": "Ha sviluppato un confronto teorico riproducibile e accetta che una prova possa smentirlo.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        },
+        {
+          "actor": "CAST-265",
+          "wants": "Coordina la scorta ordinaria di un testimone senza attribuirle poteri che non possiede.",
+          "fears": "Perdere la possibilità concreta di sottrarsi alla coercizione o di proteggere le persone coinvolte nel proprio ruolo."
+        }
+      ],
+      "secret": "Seran conserva una propria precedente conclusione sbagliata, corretta pubblicamente: il gruppo ammette revisioni sostenute da prove.",
+      "hooks": [
+        "Tre copie con una differenza controllabile.",
+        "Il destinatario conosce il percorso del documento ma non il mandante dell’alterazione."
+      ],
+      "without_pc": "Il gruppo pubblica solo ciò che può sostenere e mette in salvo i testimoni raggiungibili, senza inventare confessioni.",
+      "with_pc": "Collaborazione possibile senza giuramento: proteggere una sede, produrre un confronto ripetibile o raggiungere il responsabile.",
+      "pressure": "Preparazione già in corso; i tempi dipendono da mezzi, viaggi e informazioni reali",
+      "impact": "🟠; la scala aumenta soltanto per operazioni e conseguenze effettive",
+      "vertical": "colleghi dissidenti del Witness; non immuni da errori o fedeli al protagonista",
+      "horizontal": [
+        "ARC-02",
+        "ARC-03",
+        "ARC-08",
+        "ARC-11",
+        "ARC-16",
+        "ARC-18",
+        "ARC-19",
+        "ARC-20",
+        "ARC-29",
+        "ARC-30",
+        "ARC-38",
+        "ARC-39"
+      ],
+      "scene": "Scortare un testimone e dimostrare davanti a terzi quale intervento investito ha alterato un risultato.",
+      "complication": "Alise non consegna una fonte anonima a un alleato solo perché potente: questo dissenso non equivale a tradimento."
+    }
+  ],
+  "existing_units": [
+    {
+      "id": "CULT-01",
+      "name": "Shore Companies",
+      "source": "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
+      "deadline": "812-06-12",
+      "source_sha256": "d67ecc1a8d1e15b96bd532e9d4ab61cbe7016d770b2e8df4ba80ee22cbf01fb7",
+      "current_text": "## CULT-01 — The Shore Companies\n\n**Concetto:** confederazione di famiglie, confraternite e comunità fluviali che tramandano il nome di Edran attraverso testimonianze distribuite. **Funzione:** custodi di memoria, interlocutori politici e possibili alleati, non archivio onnisciente.\n\n**Origine verticale:** comunità disperse dopo le confische del −11481 CP; riforma confederale nel −4510. Discendono da lavoratori liberati e da persone successivamente accolte. Le Compagnie non sono una sola stirpe, né tutti i membri sono umani.\n\n**Conservazione:** ogni gruppo mantiene parti sovrapposte del **Return Canticle** e registri di transito. Le sovrapposizioni consentono confronti: almeno tre tradizioni indipendenti sono necessarie per ricostruire una strofa contestata. La pratica non è un incantesimo che rende vera una frase. Copie materiali, apprendistato, adozioni e incontri periodici sostengono la trasmissione. Sono andati perduti episodi, nomi secondari e dettagli cosmologici.\n\n**Che cosa sanno:** Edran Vael fu persona reale, liberatore e autore di opere; il Creator non va confuso con ogni portatore del titolo Wells. Credono che il diritto di uscire e tornare non debba dipendere dall'approvazione del proprietario. Non conoscono Refuge, Quiet Glass, cinque Seats moderne o responsabilità complete della caduta.\n\n**Divergenze:** i **Witnessing Oars** vogliono conservare e confrontare; i **Open Moorings** privilegiano diritti attuali e accettano pubblicazione parziale; i **Last Dawn Brethren** aspettano un ritorno personale e tendono a scambiare somiglianze per segni. Queste correnti non sono Effigi e non hanno una pienezza divina collettiva.\n\n**Stato: Attivo.** Stanno confrontando una variante del canto e negoziando approdi minacciati dalle concessioni del 806. Alcuni trasportatori spostano carichi verso la ferrovia, altri preparano ricorsi. **Conflitto centrale:** per difendere diritti di transito serve rendere leggibili testimonianze che la dispersione ha protetto.\n\n**Forze:** **Mara Ossen**, coordinatrice ordinaria, vuole un patto riconosciuto, teme la perdita di autonomia e non può vincolare tutti; **Tavel Rinn**, Archive III, vuole provenienza verificabile e teme false convergenze, non legge ogni memoria; **Sena Vey**, responsabile ordinaria degli approdi, vuole accesso ai mercati e teme isolamento; **Oren Daal**, Halo II dei Last Dawn, vuole riconoscimento religioso e teme che un compromesso svuoti il culto. Cognomi ripetuti non provano parentela con antiche potenze.\n\n**Segreto:** la variante contestata è una riformulazione del −2190, non il testo della caduta. Conserva un'intenzione autentica ma attribuisce a Edran una promessa letterale che non pronunciò. Tavel ne ha una prova parziale e teme che divulgarla venga interpretato come negazione dell'intero culto.\n\n**Hook 1:** una domanda giudiziaria cita una formula che Edran riconosce come derivazione di un patto reale. **Hook 2:** un'offerta di confronto su tre registri riguarda una strofa che non concorda. Nessuno invita automaticamente il “vero Creator”: il ritorno non è noto.\n\n**Se i PG intervengono:** prove, risorse, rifiuto o proposta cambiano il negoziato; una rivelazione di identità viene valutata, non accettata da tutti per gli occhi dorati. **Senza PG:** Mara presenta una versione minima del ricorso, Tavel prosegue il confronto, alcuni gruppi firmano contratti separati. **Pressione:** latente, udienza civile prevista il **12 giugno 812**; non termine di estinzione della comunità.\n\n**Impatto:** 🟠; 🔴 se il nome e le prove entrano in un dibattito transnazionale. **Scena possibile:** confronto fra tre registri su una barca ferma. **Complicazione:** la formula antica difende il transito, ma non prova proprietà della sponda attuale. **Twist opzionale:** un avversario politico difende l'autenticità del canto perché sostiene un diverso diritto utile a lui. **Collegamento orizzontale:** concessioni, Namar ed EVD-09. Nessun colpo di scena aggiunge un falso traditore al passato già fissato.",
+      "migration": "Testo vigente verificato; non duplicare come nuova unità",
+      "links": [
+        "U11-05",
+        "U11-11"
+      ]
+    },
+    {
+      "id": "CULT-02",
+      "name": "Keepers of Namar",
+      "source": "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
+      "deadline": "812-05-24",
+      "source_sha256": "d67ecc1a8d1e15b96bd532e9d4ab61cbe7016d770b2e8df4ba80ee22cbf01fb7",
+      "current_text": "## CULT-02 — The Keepers of Namar\n\n**Concetto:** comunità di bacini terrazzati che conserva il nome del costruttore dentro procedure idriche e spirituali ancora necessarie. **Funzione:** custodi tecnici, conflitto su manutenzione e autorità religiosa.\n\n**Origine verticale:** Namar Works e accordo del −11412 CP. La popolazione è cambiata mediante migrazioni, matrimoni e ammissioni. Non è rimasta isolata per millenni: vende prodotti, acquista componenti e ha attraversato scissioni e riforme.\n\n**Conservazione:** protocolli distinguono **Edran's First Separation** da sostituzioni posteriori. Il nome rimase un marcatore tecnico utile: ometterlo avrebbe confuso due configurazioni differenti. Ciò ha preservato un'informazione storica senza preservare una macchina intatta. EVD-10 include serie di manutenzione, non un unico tomo miracoloso.\n\n**Che cosa sanno:** il Creator costruì la separazione originaria; altri, compreso Oriel, mantennero e modificarono servizi. I credenti chiamano Edran **The First Giver**, mentre i tecnici non credenti usano lo stesso nome nei protocolli. Non conoscono la piena cosmologia del Sovereign o il suo luogo attuale.\n\n**Correnti:** i **First Separation Keepers** difendono il protocollo originario; i **Renewal Stewards** propongono una configurazione moderna; i **Free Basin Assembly** chiedono che il ruolo tecnico non sia una carica familiare obbligatoria. Nessuna corrente coincide automaticamente con il culto dominante di Oriel.\n\n**Stato: Critico**, nel senso di una decisione di manutenzione vicina, non apocalisse certa. La serie dei campioni indica aumento di Load in due derivazioni. La successione del responsabile tecnico è in corso. **Conflitto centrale:** cambiare un componente può risolvere il problema materiale e indebolire la separazione spirituale, mentre mantenere tutto senza revisione aumenta la dipendenza dai praticanti.\n\n**Forze:** **Iven Namar**, Heart IV, vuole servizio affidabile, teme collasso e non possiede una Seat; **Lera Soth**, Halo III, vuole misure della separazione, teme che vengano ignorate, nessuna parentela assunta con Talren; **Damren Aul**, tecnico ordinario, vuole componenti riparabili da più persone e teme il monopolio; **Neris Cal**, rappresentante civile ordinaria, vuole accesso non ereditario e teme che una riforma privi i bacini dei curatori.\n\n**Segreto:** il guasto non è il Creator che reclama acqua al risveglio. Un componente sostituito nel 789 altera l'accoppiamento fra due circuiti; il problema cresce con un uso industriale aumentato nel 806. Alcuni responsabili conservarono la vecchia taratura per non ammettere una certificazione insufficiente, ma nessuno ha preparato una trappola per Alexander.\n\n**Hook 1:** un campione inviato per verifica contiene una separazione che Edran riconosce. **Hook 2:** una richiesta di perizia cerca un esperto capace di confrontare vecchio e nuovo protocollo, senza conoscere il ritorno.\n\n**Intervento:** diagnosi può consentire revisione diretta, riduzione temporanea di uso o altra soluzione realmente valida; non servono tre quest se il PG può riparare. Una rivelazione d'identità può incrinare o rafforzare ruoli, senza obbedienza collettiva automatica. **Senza PG:** Iven riduce il carico del settore coinvolto, Damren sospende parte della fornitura industriale, l'assemblea continua la nomina. **Pressione:** prova dei componenti il **24 maggio 812**; sintomi reali determinano eventuali ulteriori restrizioni.\n\n**Impatto:** 🟠, 🔴 per una riconfigurazione dell'intera opera. **Scena:** due misure mostrano miglioramento materiale e peggioramento spirituale. **Complicazione:** nessuna delle misure è falsa, ma rispondono a domande diverse. **Twist opzionale:** un non credente custodisce la serie di campioni più fedele. **Collegamento orizzontale:** Oriel, Collegium ed EVD-10/12.",
+      "migration": "Testo vigente verificato; non duplicare come nuova unità",
+      "links": [
+        "U11-04",
+        "ART-006"
+      ]
+    },
+    {
+      "id": "IND-01",
+      "name": "Verifica dei metodi",
+      "source": "RISERVATO_100_Storia_industriale_stati_e_conflitti_aperti.md",
+      "deadline": "812-06-08",
+      "source_sha256": "b9e99049d10647d80f9b1bf782cd6e6511f8055a553e581e5a5dfa48e091bcf2",
+      "current_text": "## IND-01 — Una misura contestata\n\n**Concetto/funzione:** il Collegium deve certificare componenti elettrici e investiti senza confondere proprietà differenti. **Stato: Attivo**, confronto di campioni dopo una revisione di capitolato. **Conflitto:** un valore compatibile con la vecchia prova non risponde alla nuova domanda.\n\n**Forze:** **Elren Voss**, Oracle IV, cerca modello corroborato, teme certificazione falsa, non legge dati assenti; **Dama Rinn**, ingegnera ordinaria, cerca standard replicabile, teme esclusione delle officine minori; compagnie cercano consegna e credito, non potere cosmico. **Segreto:** non è falsificata ogni misura; è stato cambiato il campo coperto dalla certificazione senza aggiornare la sintesi commerciale.\n\n**Hook 1:** due attestazioni genuine sembrano contraddirsi. **Hook 2:** una richiesta di perizia chiede di distinguere il campione dal lotto. **Intervento:** verifiche possono consentire correzione, sospensione o contestazione; nessun colpevole nuovo appare perché serve una battaglia. **Senza PG:** il Collegium restringe la validità provata e pubblica la riserva. **Tempo:** campioni da discutere il **8 giugno 812**. **Impatto:** 🟠. **Scena:** prova comparativa. **Complicazione:** sospendere tutto danneggia anche forniture corrette. **Twist opzionale:** una piccola officina possiede dati migliori della grande. Origine: standard 637/798; collegamento: Namar e industrie di Lethorne.",
+      "migration": "Testo vigente verificato; non duplicare come nuova unità",
+      "links": [
+        "U11-01",
+        "ART-008"
+      ]
+    },
+    {
+      "id": "IND-02",
+      "name": "Contratti di rame",
+      "source": "RISERVATO_100_Storia_industriale_stati_e_conflitti_aperti.md",
+      "deadline": "812-07-02",
+      "source_sha256": "b9e99049d10647d80f9b1bf782cd6e6511f8055a553e581e5a5dfa48e091bcf2",
+      "current_text": "## IND-02 — Le rendite del rame\n\n**Concetto/funzione:** contratti derivati dalla guerra sostengono fornitura e monopolio parziale. **Stato: Attivo**, rinnovo di lotti e arbitrato. **Conflitto:** credito vecchio garantisce stabilità a un porto e tariffe sfavorevoli a una provincia.\n\n**Forze:** **Rava Senn**, negoziatrice ordinaria retheana, vuole autonomia, teme blocco, non controlla ogni miniera; **Deyrel Vey**, Coin III neressano, vuole contratti eseguibili, teme una rinuncia che danneggi terzi; sindacati e proprietari hanno interessi divergenti. **Segreto:** una clausola fu estesa nel 789 tramite un mandato valido ma non comunicato a tutti gli aderenti. La clausola è legalmente contestabile, non una Chain metafisica universale.\n\n**Hook 1:** un costo del progetto familiare deriva dal vecchio accordo. **Hook 2:** un archivio contiene mandato ed estensione con firmatari identificabili. **Intervento:** pagamento, rinegoziazione, prova o disinteresse cambiano accessi commerciali. **Senza PG:** gruppi cercano accordi alternativi e alcuni ordini si spostano. **Pressione:** latente; rinnovo il **2 luglio 812**. **Impatto:** 🟠. **Scena:** incontro di fornitori. **Complicazione:** annullare un mandato cancella anche una garanzia utile. **Twist opzionale:** il firmatario agì per evitare un fallimento reale. Origine: guerra 754–756; collegamento: Collegium e progetti elettrici.",
+      "migration": "Testo vigente verificato; non duplicare come nuova unità",
+      "links": [
+        "U11-03",
+        "MAT-002"
+      ]
+    },
+    {
+      "id": "IND-03",
+      "name": "Concessioni di approdo",
+      "source": "RISERVATO_100_Storia_industriale_stati_e_conflitti_aperti.md",
+      "deadline": "812-06-12",
+      "source_sha256": "b9e99049d10647d80f9b1bf782cd6e6511f8055a553e581e5a5dfa48e091bcf2",
+      "current_text": "## IND-03 — Ferrovia e sponda\n\n**Concetto/funzione:** revisione delle concessioni del 806 su passaggi, attracchi e servitù. **Stato: Attivo**, istruttoria civile; non una battaglia già in corso. **Conflitto:** rendere l'accesso fiscalmente leggibile può cancellare diritti esercitati senza un unico proprietario.\n\n**Forze:** **Selen Ardan**, funzionario ordinario, vuole titoli verificabili, teme frodi e non conosce Edran; compagnie vogliono traffico; province vogliono gettito; Shore Companies difendono mobilità. **Segreto:** una traduzione del 804 trasforma un diritto d'uso in proprietà esclusiva. L'errore ha beneficiari, ma il traduttore non faceva parte di una cospirazione cosmica.\n\n**Hook 1:** confronto fra testo antico e concessione moderna. **Hook 2:** richiesta di testimonianza su un approdo usato continuativamente. **Intervento:** prova o nuovo accordo possono cambiare concessione; la potenza divina non firma da sola un atto civile. **Senza PG:** si discute il ricorso già presentato e proseguono accordi locali. **Pressione:** udienza **12 giugno 812**, la stessa di CULT-01, non una seconda scadenza contraddittoria. **Impatto:** 🟠. **Scena:** una mappa d'uso e una mappa catastale descrivono lo stesso tratto. **Complicazione:** sono entrambe autentiche e hanno scopi diversi. **Twist opzionale:** un concessionario concede accesso per evitare una sentenza sfavorevole. Origine: ferrovia e revisione806; collegamento: Sponda e registri EVD-09.",
+      "migration": "Testo vigente verificato; non duplicare come nuova unità",
+      "links": [
+        "U11-07",
+        "CRE-001"
+      ]
+    },
+    {
+      "id": "GEO-U01",
+      "name": "Ispezione Sarn",
+      "source": "RISERVATO_118_Unita_geografiche_pronte_al_Narratore.md",
+      "deadline": "812-05-27",
+      "source_sha256": "0576cf008ea6568b4af39ea1bc0412b0497283f2198fd14da7b7a115fee485d4",
+      "current_text": "## GEO-U01 — Sarn Tunnel Drainage\n\n**Concetto: ** Una galleria di frontiera richiede drenaggio e prove prima del limite di carico. **Funzione: ** Minaccia logistica e occasione tecnica. **Attivazione: ** Critico.\n\n**Stato dinamico: ** Il 27 maggio ingegneri ispezionano un ramo; i treni passano già a carichi ridotti. **Conflitto: ** Ridurre rischio senza bloccare cibo e lavoro.\n\n**Forze, obiettivi, paure e limiti: ** Ingegneri vogliono prova, temono allagamento, non possono annullare dogana; compagnie vogliono traffico, hanno vincolo di sicurezza; lavoratori chiedono fermo circoscritto. **Segreto: ** Una derivazione secondaria omessa dal piano moderno appartiene a lavori ordinari del 511; non dispositivo divino.\n\n**Ingressi concreti, almeno due: ** Richiesta di perizia inoltrata a una società partecipata; un telegramma segnala vagoni limitati.\n\n**Con intervento: ** Un controllo o intervento valido può ripristinare il ramo; pagare o ignorare cambia flussi e disponibilità. **Senza intervento: ** La squadra applica limiti di peso e devia alcuni carichi; non aspetta il PG.\n\n**Pressione temporale: ** Ispezione 27 maggio 812; avanzamento del guasto verificabile. **Impatto: ** 🟠.\n\n**Scena possibile: ** Confronto fra mappa di drenaggio e stillicidio. **Complicazione: ** Due planimetrie genuine descrivono epoche diverse. **Twist opzionale: ** Una squadra locale aveva già capito il difetto ma mancava autorizzazione.\n\n**Luogo: ** Sarn Gate. **Collegamento verticale e orizzontale: ** ROUTE-08 / HIST-056.",
+      "migration": "Testo vigente verificato; non duplicare come nuova unità",
+      "links": [
+        "U11-06",
+        "ART-010"
+      ]
+    },
+    {
+      "id": "GEO-U02",
+      "name": "Dragaggio Auvrel",
+      "source": "RISERVATO_118_Unita_geografiche_pronte_al_Narratore.md",
+      "deadline": "812-06-03",
+      "source_sha256": "0576cf008ea6568b4af39ea1bc0412b0497283f2198fd14da7b7a115fee485d4",
+      "current_text": "## GEO-U02 — Auvrel Silt Line\n\n**Concetto: ** Porto e fiume accumulano limo che rende conteso il dragaggio. **Funzione: ** Conflitto economico e accesso alternativo. **Attivazione: ** Attivo.\n\n**Stato dinamico: ** Un lotto di dragaggio parte il 3 giugno; depositi chiedono priorità. **Conflitto: ** Canale profondo contro rive difese e costo pubblico.\n\n**Forze, obiettivi, paure e limiti: ** Autorità portuale vuole passaggi sicuri, teme incidenti, non possiede ogni approdo; comunità di riva vogliono sponda integra; vettori vogliono priorità. **Segreto: ** Un deposito dichiara pescaggio maggiore di quello necessario per ottenere un posto; sedimento reale non è congiura.\n\n**Ingressi concreti, almeno due: ** Un magazzino in concessione dei Valcienne riceve un avviso; due navi competono per una finestra.\n\n**Con intervento: ** Diagnosi, accordo, navi minori o opera reale cambiano il servizio. **Senza intervento: ** Il porto assegna rada e devia alcuni carichi verso Belanne.\n\n**Pressione temporale: ** Lavori dal 3 giugno 812; portata del Leth effettiva. **Impatto: ** 🟡.\n\n**Scena possibile: ** Sedimento estratto e due richieste concorrenti. **Complicazione: ** Un canale ripulito sposta rischio verso un’altra riva. **Twist opzionale: ** Una vettore rinuncia al la priorità per salvare un accordo.\n\n**Luogo: ** Port Auvrel. **Collegamento verticale e orizzontale: ** ROUTE-04/05 / RES-05.",
+      "migration": "Testo vigente verificato; non duplicare come nuova unità",
+      "links": [
+        "U11-07",
+        "CRE-001"
+      ]
+    },
+    {
+      "id": "GEO-U03",
+      "name": "Cantiere Grey Embankment",
+      "source": "RISERVATO_118_Unita_geografiche_pronte_al_Narratore.md",
+      "deadline": "812-05-29",
+      "source_sha256": "0576cf008ea6568b4af39ea1bc0412b0497283f2198fd14da7b7a115fee485d4",
+      "current_text": "## GEO-U03 — Grey Embankment Exposure\n\n**Concetto: ** Una frana espone materiali antichi in un argine di servizio. **Funzione: ** Prova storica e conflitto di cantiere. **Attivazione: ** Attivo.\n\n**Stato dinamico: ** Appaltatore prepara consolidamento il 29 maggio, soprintendenza raccoglie frammenti. **Conflitto: ** Sicurezza della sponda contro distruzione di una prova.\n\n**Forze, obiettivi, paure e limiti: ** Appaltatore vuole evitare piena e penali, non conosce ogni traccia; restauratori vogliono campioni; comunità vuole strada aperta. **Segreto: ** Due blocchi sono autentici; uno contiene investimento residuo, altri detriti sono inerti.\n\n**Ingressi concreti, almeno due: ** Richiesta di analisi a Lethorne; un campione appare in vendita con attribuzione troppo estesa.\n\n**Con intervento: ** Conservazione, diagnosi e consolidamento possono coesistere se tecnicamente validi. **Senza intervento: ** Campioni vengono catalogati; il cantiere consolida e altri segni possono restare sepolti.\n\n**Pressione temporale: ** Consolidamento 29 maggio 812, salvo pioggia effettiva. **Impatto: ** 🟡.\n\n**Scena possibile: ** Confronto fra strato e campione venduto. **Complicazione: ** L’unico blocco attivo è usato come pietra comune. **Twist opzionale: ** Unpezzo pubblicizzato come segreto è una copia recente.\n\n**Luogo: ** Grey Embankment. **Collegamento verticale e orizzontale: ** SITE-07 / EVD-02.",
+      "migration": "Testo vigente verificato; non duplicare come nuova unità",
+      "links": [
+        "U11-07",
+        "ART-025",
+        "MAT-011"
+      ]
+    },
+    {
+      "id": "GEO-U04",
+      "name": "Revisione South Shoals",
+      "source": "RISERVATO_118_Unita_geografiche_pronte_al_Narratore.md",
+      "deadline": "812-06-06",
+      "source_sha256": "0576cf008ea6568b4af39ea1bc0412b0497283f2198fd14da7b7a115fee485d4",
+      "current_text": "## GEO-U04 — South Shoals Bearings\n\n**Concetto: ** Bussole investite falliscono presso un vecchio mezzo di orientamento. **Funzione: ** Minaccia circoscritta e indagine tecnica. **Attivazione: ** Attivo.\n\n**Stato dinamico: ** Servizio fari raccoglie due incidenti e prepara revisione il 6 giugno. **Conflitto: ** Separare guasto investito da fondali e nebbia ordinari.\n\n**Forze, obiettivi, paure e limiti: ** Marinai vogliono ritorno sicuro, hanno limiti di carburante; tecnici vogliono ricostruzione; armatori temono sospensione totale. **Segreto: ** Solo un canale del dispositivo 785 interferisce entro 800 m; le bussole ordinarie non diventano tutte false.\n\n**Ingressi concreti, almeno due: ** Bollettino commerciale a Belanne; sopravvissuto chiede confronto dei mezzi.\n\n**Con intervento: ** Verifica o disattivazione selettiva può togliere l’effetto; percorso alternativo resta 90 km più lungo. **Senza intervento: ** I piloti usano scandaglio e correggono la rotta; gli uffici pubblicano riserva.\n\n**Pressione temporale: ** Revisione 6 giugno 812, incidenti reali orientano urgenza. **Impatto: ** 🟠.\n\n**Scena possibile: ** Due bussole e una carta autentica. **Complicazione: ** Una buona diagnosi non annulla bassi fondali. **Twist opzionale: ** L’apparato era mantenuto per una funzione utile separabile.\n\n**Luogo: ** South Shoals. **Collegamento verticale e orizzontale: ** SITE-08 / IND-02.",
+      "migration": "Testo vigente verificato; non duplicare come nuova unità",
+      "links": [
+        "U11-07",
+        "ART-011",
+        "PHN-007"
+      ]
+    }
+  ],
+  "existing_unit_count": 9,
+  "future_outcomes": "OPEN",
+  "raccordo_revision": "RACCORDI-317",
+  "revision": "FRONTI-326"
+}

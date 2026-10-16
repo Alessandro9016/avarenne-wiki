@@ -1,0 +1,95 @@
+# RISERVATO — CAST-138: Jules Baret
+
+Milestone 10, versione 1.1 — MONDO-23-05. Livello **IMPORTANT**. Stato al 18 maggio 812, salvo fase storica indicata. Nessuna scelta futura garantita.
+
+## Identità e funzione
+
+**Condizione:** 37. **Teatro operativo:** Port Auvrel; non una posizione istantanea obbligata. **Ruolo:** Responsabile: Dragaggio municipale. **Origine:** Rete civile sviluppata dal contesto geografico.
+
+**Obiettivo:** Assegnare una finestra senza danneggiare la riva. **Tensione:** Il porto vuole dragare prima della prossima marea utile; Pera segnala un tratto che Jules ha escluso dal piano.
+
+## Carattere in azione e basi psicologiche
+
+Jules, trentasette anni, lavorava sulle pompe prima di diventare Eclipse. Nel 796 una manutenzione notturna lasciò isolata una squadra; entrò in un tirocinio della Veglia, stabilizzò I nel 800 e II nel 807. Non deve i poteri al pontone municipale. Portò al servizio pubblico le pratiche di verifica dei segnali, ma conserva il vizio di considerare un allarme non misurato come un falso. Pera Orvan gli ha già dimostrato che lo scandaglio ordinario può smentire una lettura soprannaturale.
+
+**Voce:** Indica una prova concreta prima di una conclusione; parla dal proprio mestiere e può essere contraddetta.
+
+**Segreto o informazione non pubblica:** Una misura del limo fu ricopiata da un turno precedente: il falso allarme non è necessariamente un sabotaggio occulto.
+
+Le scelte, emozioni future e risposte agli interventi restano aperte. Le basi non sono una diagnosi psicologica automatica.
+
+## Inventario e competenze
+
+**Effige personale vigente:** Eclipse II. Competenze civili e Inscription sono distinte. Nessun Avatar o altra Effige; Seat piena soltanto se VII.
+
+- **Eclipse II — Duskblade (Attunement):** Dark Mantle; Grasping Shadow; Dim Signature; Night Sense; Muted Step; Black Armament; Shadow Edge; Selective Disclosure; Drowsing Touch; Silent Barrier. Repertorio cumulativo RAMI-23-04; applicazioni e costi nel manuale GIOCATORE_170_Eclipse_progressione_completa.md.
+
+**Ambito dell'inventario:** CURRENT_T0. Un rango storico non è dotazione odierna di un morto. **Mezzi ordinari:** mestiere, documenti e strumenti autentici entro il ruolo; non un nuovo artefatto cosmico. **Limiti:** Non può imporre priorità fuori concessione
+
+## Rete
+
+- [Pera Orvan](CAST-229.md): deve confrontare prova, richiesta o mandato con questo interlocutore
+- [Astrid Noll](CAST-177.md): Referente di formazione e confronto professionale; nessuna dipendenza mentale o proprietà sull’Inscription.
+
+## Unità di Gioco
+
+**Concetto:** Responsabile: Dragaggio municipale. **Funzione:** interlocutore, fonte o ostacolo secondo il conflitto. **Attivazione:** Attivo.
+
+**Stato dinamico:** Al 18 maggio 812 prepara il confronto già fissato nel proprio mandato. Il porto vuole dragare prima della prossima marea utile; Pera segnala un tratto che Jules ha escluso dal piano.
+
+**Conflitto:** Il porto vuole dragare prima della prossima marea utile; Pera segnala un tratto che Jules ha escluso dal piano.
+
+**Forze:** Jules Baret, la controparte civile e la rete di formazione conservano obiettivi e mandati distinti. **Limite:** Non può imporre priorità fuori concessione Una sola Effige: Eclipse II; Reserve e Load personali, nessuna Root posseduta o Avatar. 
+
+**Hook 1:** Pera cerca un testimone per ripetere lo scandaglio sul tratto escluso.
+
+**Hook 2:** L’ufficio offre accesso ai registri dei turni in cambio di una verifica che non blocchi tutti i moli.
+
+**Con intervento:** Prove, risorse e rifiuti modificano il mandato; nessuna scelta del PG è imposta.
+
+**Senza intervento:** Prosegue con gli interlocutori già coinvolti: registra le obiezioni, limita il servizio che non può garantire e convoca la verifica alla scadenza. Un accordo autonomo resta possibile; non è prescritto il suo esito.
+
+**Pressione:** Revisione o primo confronto fissato per il 20 maggio 812 nel luogo della rete; è una scadenza civile modificabile, non un disastro automatico.
+
+**Impatto:** 🟡; nessuna catastrofe per mera omissione. **Causa:** apprendistato e necessità civile descritti nella biografia. **Collegamenti:** rete personale e professionale.
+
+**Scena:** Jules e Pera confrontano campioni bagnati e segnali del pontone prima della partenza.
+
+**Complicazione:** Oscurare una prova di allarme per sicurezza toglie ai battelli civili un riferimento necessario.
+
+**Twist opzionale:** Una verifica ordinaria può risolvere una parte del conflitto; non sostituire il segreto già fissato.
+
+## Corpo, agency e direzione visiva
+
+Aspetto ordinario coerente con epoca, lavoro e condizione; nessuna mutazione o sessualità assegnata per riempire un campo. Quando pertinente, distinguere anatomia, trasformazione controllata, lesione e percezione sociale secondo 148. Non aggiungere poteri da un'immagine. Priorità visiva **MEDIUM**; immagini non ancora prodotte. Il punto 14 richiede scheda visiva definitiva e controllo di coerenza.
+
+## Radicamento locale e responsabilità
+
+La mansione e la geografia del dossier restano le fonti del servizio ordinario. Medium formativo, incorporazione e stabilizzazione personali secondo 34; nessun potere conferito dalla mansione.
+
+**Rete territoriale:** NET-C10-09. **Reti professionali:** NET-C10-57. Nessuna rete conferisce automaticamente poteri, proprietà della Root o obbedienza.
+
+## BIO-CAST-01 — Origine e corpo
+
+**Stato:** consolidato. **Popolazione biologica:** Umano. **Origine:** origine umana; nessuna etichetta etnica Ardai assegnata automaticamente.
+
+**Corpo nella fase della scheda:** Anatomia umana vivente; variazioni individuali non assegnano poteri.
+
+**Linea individuale:** Variazioni individuali; nessun tratto universale aggiunto oltre al modello biologico.
+
+**Cultura:** Appartenenza civica e professionale personale nel teatro Port Auvrel; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.
+
+**Età e durata:** Vita umana ordinaria; longevità eccezionale solo quando sostenuta dal rango e dalle fonti. Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.
+
+**Adattamenti:** Cure umane e necessità ambientali ordinarie.
+
+**Vincoli visivi:** Nessun tratto razziale aggiunto. Conservare età, lineamenti e aspetto individuale già adottati.
+
+**Provenienza della precisazione:** NUOVA_DECISIONE_AUTORIALE_ESPLICITA. Consolidamento autoriale della corporeità umana ordinaria; non una conclusione dedotta da silenzio o nome.
+
+Poteri, date, famiglia, competenze e obiettivi restano quelli delle sezioni precedenti. Nessun individuo rappresenta moralmente la propria popolazione.
+
+
+## Raccordo bestiario BIO-301
+
+Responsabile: Dragaggio municipale. Collegamenti: BST-006. Interlocuzione limitata alla funzione già posseduta; consultare il bestiario per i fatti T0. Nessuna diagnosi, capacità soprannaturale o conoscenza segreta attribuita automaticamente.

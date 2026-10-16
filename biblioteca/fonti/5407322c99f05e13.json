@@ -1,0 +1,121 @@
+{
+  "revision": "MILESTONE13-01",
+  "status": "PASSED",
+  "checks": [
+    {
+      "check": "14 dati narrativi precedenti invariati",
+      "passed": true
+    },
+    {
+      "check": "5 volumi biblioteca",
+      "passed": true
+    },
+    {
+      "check": "3 raccolte giocatore",
+      "passed": true
+    },
+    {
+      "check": "605 fonti distinte accorpate",
+      "passed": true
+    },
+    {
+      "check": "694 sezioni da fonti",
+      "passed": true
+    },
+    {
+      "check": "hash di ogni fonte verificato",
+      "passed": true
+    },
+    {
+      "check": "nessun archivio nei bundle",
+      "passed": true
+    },
+    {
+      "check": "separazione giocatore",
+      "passed": true
+    },
+    {
+      "check": "463 biografie individuali",
+      "passed": true
+    },
+    {
+      "check": "copertura identità cast",
+      "passed": true
+    },
+    {
+      "check": "58 reti cast presenti",
+      "passed": true
+    },
+    {
+      "check": "23 fonti Effigi",
+      "passed": true
+    },
+    {
+      "check": "23 progressioni non cambiate",
+      "passed": true
+    },
+    {
+      "check": "28 stati del sapere",
+      "passed": true
+    },
+    {
+      "check": "cinque IV iniziali",
+      "passed": true
+    },
+    {
+      "check": "una persona; nessun Core angelico iniziale",
+      "passed": true
+    },
+    {
+      "check": "assenza eventi fittizi",
+      "passed": true
+    },
+    {
+      "check": "stati T0 appaiati",
+      "passed": true
+    },
+    {
+      "check": "ora non inventata",
+      "passed": true
+    },
+    {
+      "check": "riserve hinge preservate",
+      "passed": true
+    },
+    {
+      "check": "due modelli checkpoint",
+      "passed": true
+    },
+    {
+      "check": "cinque registri csv",
+      "passed": true
+    },
+    {
+      "check": "ZIP leggibile",
+      "passed": true
+    },
+    {
+      "check": "ZIP esclude archivio",
+      "passed": true
+    },
+    {
+      "check": "sorgenti accorpate nel backup",
+      "passed": true
+    },
+    {
+      "check": "registro umano JSON coerente",
+      "passed": true
+    },
+    {
+      "check": "testo integrale di ciascuna sezione uguale alla fonte",
+      "passed": true
+    },
+    {
+      "check": "hash fonti dopo revisione editoriale",
+      "passed": true
+    }
+  ],
+  "real_chat_upload_test": false,
+  "wiki_access_test": false,
+  "scope": "Verifica locale dei file e conservazione del canone; test reale al16"
+}

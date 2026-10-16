@@ -1,0 +1,31 @@
+# RISERVATO — CAST-467: Olivier Ardel
+
+Revisione REV-CIV-01; T0 18 maggio 812.
+
+## Identità e passato noto
+
+Fratello maggiore di Eliane; zio materno e socio di un piccolo commercio di tessuti. Età 47. Persona ordinaria umana, nessuna Effigy assegnata.
+
+Alexander ricorda vacanze e pranzi meno formali; lo zio gli disse dopo il funerale che essere duca non significava saper fare tutto.
+
+## Unità di gioco
+
+**Concetto e funzione:** Fratello maggiore di Eliane; zio materno e socio di un piccolo commercio di tessuti; interlocutore autonomo della rete civile. **Origine:** rapporti familiari o sociali documentati in 273. **Attivazione:** Attivo. **Stato attuale:** Organizza una visita familiare che non vuole trasformare in udienza patrimoniale.
+
+**Obiettivo:** Vuole mantenere il rapporto con i nipoti senza assorbire i problemi ducali. **Tensione, paura e informazione non ancora condivisa:** Ha risorse limitate; la disponibilità affettiva non è disponibilità a garantire il debito ducale. **Forze:** la figura e gli interlocutori della rete, con decisioni separate. **Limiti:** nessun accesso automatico all'identità di Edran o a risorse ducali.
+
+**Hook 1:** Porta una lettera della madre di Alexander conservata legittimamente. **Hook 2:** Celine desidera una visita mentre l’ufficio chiede al duca di restare disponibile.
+
+**Con intervento:** un consenso, rifiuto, chiarimento o risorsa modifica la trattativa; nessun affetto o esito imposto. **Senza intervento:** prosegue impegni e comunicazioni; può rinviare una decisione. **Pressione:** latente, nessuna nuova scadenza letale. **Impatto:** 🟡.
+
+**Scena possibile:** colloquio su una richiesta concreta già presente. **Complicazione:** gli obiettivi personali non coincidono con l'utilità della casa. **Twist opzionale:** una clausola o scelta lecita protegge entrambe le parti senza coincidere con le loro preferenze. Non aggiungere un traditore per rendere interessante la scena.
+
+## Vincoli
+
+Non attribuire responsabilità per il gesto finale di Alexander. La storia pre-coma è memoria disponibile; questa agenda T0 è riservata. Nessun matrimonio già celebrato, denaro nuovo disponibile, avatar, culto occulto o conoscenza della resurrezione. La figura non è subordinata personale del duca.
+
+
+## Direzione visiva adottata
+
+Man47, warm approachable square face, wavy brown hair lightly greying, brown eyes, neat short beard, fair warm skin. Modest well-made brown wool 1880 coat and tan waistcoat, sturdy natural anatomy.
+Tre immagini prodotte; nessuna nuova capacità o scelta futura.

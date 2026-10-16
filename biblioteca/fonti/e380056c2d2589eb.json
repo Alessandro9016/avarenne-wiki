@@ -1,0 +1,28 @@
+{
+  "revision": "BIO-301",
+  "new_records": 32,
+  "creature_records": 52,
+  "total_repertory_records": 113,
+  "continents": [
+    "Caldris",
+    "Iskar",
+    "Mereth",
+    "Nareth",
+    "Veyra"
+  ],
+  "contacts": 29,
+  "cast_count": 473,
+  "ability_refs_resolved": 32,
+  "player_entries": 24,
+  "new_images": 0,
+  "planned_new_images": 32,
+  "global_legacy_audit": false,
+  "checks": [
+    "32 ID unici nel supplemento; 52 nel repertorio",
+    "5 continenti coperti",
+    "tutti i riferimenti a luoghi, contatti e capacità esistenti risolti",
+    "cast invariato a 473; poteri e relazioni personali non riscritti",
+    "nessuna nuova Seat o Root; cronologia base invariata",
+    "conoscenze giocatore senza siti o cariche contemporanee"
+  ]
+}

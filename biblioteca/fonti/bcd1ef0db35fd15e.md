@@ -1,0 +1,161 @@
+# RISERVATO — Cast importante
+
+Indice vigente, milestone 10. La gerarchia è editoriale, non un rango soprannaturale. Nessun esito futuro garantito.
+
+| ID | Persona | Condizione | Luogo | Funzione |
+|---|---|---|---|---|
+| CAST-036 | [Maerin Sol](CAST_RISERVATO/CAST-036.md) | ordinaria storica, estinta −12041 | Kharven Galleries | Artigiana e organizzatrice delle vie di fuga |
+| CAST-037 | [Vara Oss](CAST_RISERVATO/CAST-037.md) | storica, morta −11407 | Free Hearths | Comandante di comunità liberate |
+| CAST-038 | [Ceth Aran](CAST_RISERVATO/CAST-038.md) | storica, morta −11626 | Free Hearths | Organizzatrice degli scambi |
+| CAST-039 | [Erath Pell](CAST_RISERVATO/CAST-039.md) | persona angelica antica | Velis | Custode di una separazione locale |
+| CAST-040 | [Nereth Aul](CAST_RISERVATO/CAST-040.md) | storico, morto −11279 | Ossari Quarry Leagues | Progettista delle Unbound Works |
+| CAST-041 | [Nava Tesh](CAST_RISERVATO/CAST-041.md) | persona angelica antica | South Shoals | Custode marittima indipendente |
+| CAST-042 | [Rhael Den](CAST_RISERVATO/CAST-042.md) | persona angelica antica, dormiente dal −4930 | Reverie, custodia reale | Consigliere di concatenazioni e alternative |
+| CAST-043 | [Thalen Reth](CAST_RISERVATO/CAST-043.md) | storico, morto −11449 | Free Hearths | Diplomatico e infiltratore |
+| CAST-044 | [Sethra Il](CAST_RISERVATO/CAST-044.md) | storica, estinta −11376 | Reverie | Organizzatrice di incontri interiori |
+| CAST-045 | [Elsen Var](CAST_RISERVATO/CAST-045.md) | delegato storico, morto nei decenni dopo la caduta | Rethar Basin | Delegato Wells |
+| CAST-046 | [Rava Thenn](CAST_RISERVATO/CAST-046.md) | delegata storica, morta nei decenni dopo la caduta | Rethar Basin | Delegata Roads |
+| CAST-047 | [Aven Sere](CAST_RISERVATO/CAST-047.md) | delegato storico, morto nei decenni dopo la caduta | Rethar Basin | Delegato Granaries |
+| CAST-048 | [Meren Pell](CAST_RISERVATO/CAST-048.md) | delegata ordinaria storica | Rethar Basin | Delegata Shelter |
+| CAST-049 | [Theral En](CAST_RISERVATO/CAST-049.md) | delegato storico | Rethar Basin | Delegato Works |
+| CAST-050 | [Vesra Il](CAST_RISERVATO/CAST-050.md) | delegata storica, morta nei decenni dopo la caduta | Rethar Basin | Delegata Records |
+| CAST-051 | [Sovan Reth](CAST_RISERVATO/CAST-051.md) | delegato storico, morto nei decenni dopo la caduta | Rethar Basin | Delegato Medicine |
+| CAST-052 | [Neva Orr](CAST_RISERVATO/CAST-052.md) | delegata storica | Rethar Basin | Delegata Assemblies |
+| CAST-053 | [Dalren Vey](CAST_RISERVATO/CAST-053.md) | delegato storico | Rethar Basin | Delegato Passages |
+| CAST-054 | [Thessar Un](CAST_RISERVATO/CAST-054.md) | estinto −12066 | High Holds | Antico titolare sconfitto |
+| CAST-055 | [Aveth Raan](CAST_RISERVATO/CAST-055.md) | ridotto −12030, estinto −12004 | Serekh Basin Courts | Antico titolare sconfitto |
+| CAST-056 | [Ysil Tal](CAST_RISERVATO/CAST-056.md) | Scroll VI dopo rinuncia −11965; estinto −11140 | Serekh Basin Courts | Antico titolare rinunciante |
+| CAST-057 | [Iresh Morn](CAST_RISERVATO/CAST-057.md) | estinto −11247 | dominio Crossing | Predecessore di Hourglass |
+| CAST-058 | [Selvan Thir](CAST_RISERVATO/CAST-058.md) | estinto −5806 | Teren | Predecessore di Oracle |
+| CAST-059 | [Ashal Ven](CAST_RISERVATO/CAST-059.md) | ridotto −3160, morto −3099 | Deren | Predecessore di Crucible dopo la perdita di VII |
+| CAST-060 | [Veyreth Sar](CAST_RISERVATO/CAST-060.md) | estinto −2420 | South Shoals | Predecessore di Tempest |
+| CAST-061 | [Hareth Ul](CAST_RISERVATO/CAST-061.md) | VI dopo rinuncia, morto −5511 | Veldane | Predecessore di Chain |
+| CAST-062 | [Meran Oss](CAST_RISERVATO/CAST-062.md) | VI dopo rinuncia −1280; estinto −902 | Neressa | Predecessore di Coin |
+| CAST-063 | [Thera Iven](CAST_RISERVATO/CAST-063.md) | VI dopo sconfitta −915; estinta −711 | Aldora | Predecessore di Banner |
+| CAST-064 | [Ossen Var](CAST_RISERVATO/CAST-064.md) | pienezza cessata −1908; estinto −1889 | dominio Inner Vast | Predecessore di Mask dopo VII |
+| CAST-065 | [Elyra Sath](CAST_RISERVATO/CAST-065.md) | VI dopo rinuncia −1876; estinta −1302 | Reverie | Predecessore di Labyrinth |
+| CAST-066 | [Ash Velren](CAST_RISERVATO/CAST-066.md) | estinto −620 | dominio Black Mouth | Predecessore di Maw |
+| CAST-067 | [Lucien Valcienne](CAST_RISERVATO/CAST-067.md) | morto 26 marzo 812 | Rovenne | Padre del duca e proprietario precedente |
+| CAST-068 | [Eliane Ardel](CAST_RISERVATO/CAST-068.md) | morta 26 marzo 812 | Rovenne | Madre del duca e di Celine |
+| CAST-069 | [Albin Sere](CAST_RISERVATO/CAST-069.md) | 52 | Rovenne | Amministratore incluso nei quattro d'ufficio |
+| CAST-070 | [Teren Holt](CAST_RISERVATO/CAST-070.md) | 40 | Rovenne | Responsabile incluso nelle dodici guardie |
+| CAST-071 | [Nela Bress](CAST_RISERVATO/CAST-071.md) | 31 | Rovenne | Infermiera temporanea |
+| CAST-072 | [Mara Ossen](CAST_RISERVATO/CAST-072.md) | 56 | Ossen Reach | Coordinatrice delle Shore Companies |
+| CAST-073 | [Sena Vey](CAST_RISERVATO/CAST-073.md) | 39 | Ossen Reach | Responsabile degli approdi |
+| CAST-074 | [Oren Daal](CAST_RISERVATO/CAST-074.md) | 29 | Ossen Reach | Last Dawn Brethren |
+| CAST-075 | [Lera Soth](CAST_RISERVATO/CAST-075.md) | 36 | Namar | Tecnica della separazione |
+| CAST-076 | [Damren Aul](CAST_RISERVATO/CAST-076.md) | 42 | Namar | Tecnico dei bacini |
+| CAST-077 | [Neris Cal](CAST_RISERVATO/CAST-077.md) | 45 | Elven | Rappresentante civile |
+| CAST-078 | [Ren Istral](CAST_RISERVATO/CAST-078.md) | 41 | Port Auvrel | Tecnico Tre Moli |
+| CAST-079 | [Malrec Dorn](CAST_RISERVATO/CAST-079.md) | 53 | Port Auvrel | Negoziante Tre Moli |
+| CAST-080 | [Serevan Ilex](CAST_RISERVATO/CAST-080.md) | persona angelica remota | rete remota di testimonianze | Curatore delle discrepanze |
+| CAST-081 | [Avarra Neth](CAST_RISERVATO/CAST-081.md) | persona angelica remota | habitat interplanetario mobile | Giardiniera di mondi sterili |
+| CAST-082 | [Theral Voss](CAST_RISERVATO/CAST-082.md) | persona angelica biologicamente morta | bacino del Veil | Custode del riflusso |
+| CAST-083 | [Eshra Vale](CAST_RISERVATO/CAST-083.md) | persona angelica remota | dominio d'interfacce | Ospite di molti volti |
+| CAST-084 | [Heloise Brant](CAST_RISERVATO/CAST-084.md) | 54 | Rovenne | capocuoca |
+| CAST-085 | [Luca Daven](CAST_RISERVATO/CAST-085.md) | 26 | Rovenne | secondo cuoco |
+| CAST-086 | [Marta Sorel](CAST_RISERVATO/CAST-086.md) | 43 | Rovenne | dispensiera |
+| CAST-087 | [Nico Bell](CAST_RISERVATO/CAST-087.md) | 19 | Rovenne | aiuto di cucina |
+| CAST-088 | [Adele Bresson](CAST_RISERVATO/CAST-088.md) | 37 | Rovenne | fornaia |
+| CAST-089 | [Sabine Varel](CAST_RISERVATO/CAST-089.md) | 48 | Rovenne | governante |
+| CAST-090 | [Elise Moret](CAST_RISERVATO/CAST-090.md) | 32 | Rovenne | lavandaia |
+| CAST-091 | [Lena Osser](CAST_RISERVATO/CAST-091.md) | 24 | Rovenne | addetta alle camere |
+| CAST-092 | [Paul Rennet](CAST_RISERVATO/CAST-092.md) | 41 | Rovenne | manutentore dei tessili |
+| CAST-093 | [Nora Sall](CAST_RISERVATO/CAST-093.md) | 29 | Rovenne | addetta alle pulizie |
+| CAST-094 | [Emil Cress](CAST_RISERVATO/CAST-094.md) | 21 | Rovenne | garzone di lavanderia |
+| CAST-095 | [Victor Lann](CAST_RISERVATO/CAST-095.md) | 46 | Rovenne | capostalliere |
+| CAST-096 | [Remy Thol](CAST_RISERVATO/CAST-096.md) | 35 | Rovenne | cocchiere |
+| CAST-097 | [Henri Pellan](CAST_RISERVATO/CAST-097.md) | 23 | Rovenne | aiuto di stalla |
+| CAST-098 | [Anna Feral](CAST_RISERVATO/CAST-098.md) | 51 | Rovenne | giardiniera |
+| CAST-099 | [Louis Keret](CAST_RISERVATO/CAST-099.md) | 39 | Rovenne | muratore di residenza |
+| CAST-100 | [Isabel Mornet](CAST_RISERVATO/CAST-100.md) | 28 | Rovenne | addetta agli impianti |
+| CAST-101 | [Estelle Nerin](CAST_RISERVATO/CAST-101.md) | 33 | Rovenne | contabile |
+| CAST-102 | [Armand Leth](CAST_RISERVATO/CAST-102.md) | 57 | Rovenne | archivista patrimoniale |
+| CAST-103 | [Gina Sere](CAST_RISERVATO/CAST-103.md) | 25 | Rovenne | copista |
+| CAST-104 | [Maurice Verr](CAST_RISERVATO/CAST-104.md) | 44 | Rovenne | maggiordomo |
+| CAST-105 | [Sophie Arel](CAST_RISERVATO/CAST-105.md) | 30 | Rovenne | addetta alla sala |
+| CAST-106 | [Felix Orlen](CAST_RISERVATO/CAST-106.md) | 20 | Rovenne | fattorino |
+| CAST-107 | [Gareth Sorn](CAST_RISERVATO/CAST-107.md) | 47 | Rovenne | vice di Teren |
+| CAST-108 | [Bruno Maret](CAST_RISERVATO/CAST-108.md) | 38 | Rovenne | guardia cancello |
+| CAST-109 | [Anton Rill](CAST_RISERVATO/CAST-109.md) | 27 | Rovenne | guardia pattuglia |
+| CAST-110 | [Claudine Ves](CAST_RISERVATO/CAST-110.md) | 36 | Rovenne | guardia accompagnamento |
+| CAST-111 | [Hugo Kern](CAST_RISERVATO/CAST-111.md) | 42 | Rovenne | guardia stalle |
+| CAST-112 | [Pierre Navet](CAST_RISERVATO/CAST-112.md) | 31 | Rovenne | guardia archivio |
+| CAST-113 | [Leonie Sar](CAST_RISERVATO/CAST-113.md) | 24 | Rovenne | guardia di turno |
+| CAST-114 | [Edgar Vossin](CAST_RISERVATO/CAST-114.md) | 50 | Rovenne | guardia veterana |
+| CAST-115 | [Luc Rema](CAST_RISERVATO/CAST-115.md) | 22 | Rovenne | guardia nuova |
+| CAST-116 | [Milo Arret](CAST_RISERVATO/CAST-116.md) | 29 | Rovenne | guardia dei magazzini |
+| CAST-117 | [Sarah Cenn](CAST_RISERVATO/CAST-117.md) | 34 | Rovenne | guardia mobile |
+| CAST-118 | [Octave Bren](CAST_RISERVATO/CAST-118.md) | 45 | Lethorne | agente dei mulini |
+| CAST-119 | [Delia Vess](CAST_RISERVATO/CAST-119.md) | 40 | Lethorne | agente forestale |
+| CAST-120 | [Marco Neret](CAST_RISERVATO/CAST-120.md) | 32 | Port Auvrel | agente di magazzino Auvrel |
+| CAST-121 | [Elsa Dorne](CAST_RISERVATO/CAST-121.md) | 37 | Port Auvrel | agente di magazzino Auvrel |
+| CAST-122 | [Julien Sarn](CAST_RISERVATO/CAST-122.md) | 49 | Lethorne | agente degli affitti |
+| CAST-123 | [Vera Lenet](CAST_RISERVATO/CAST-123.md) | 28 | Lethorne | agente dei pascoli |
+| CAST-124 | [Adrien Veyne](CAST_RISERVATO/CAST-124.md) | 53 | Lethorne | riparatore ordinario, padre di Elias |
+| CAST-125 | [Mara Veyne](CAST_RISERVATO/CAST-125.md) | morta nel 807 a 46 anni | Lethorne | cucitrice, madre di Elias |
+| CAST-126 | [Lise Veyne](CAST_RISERVATO/CAST-126.md) | 18 | Lethorne | studentessa e aiuto di contabilità |
+| CAST-127 | [Edith Torrel](CAST_RISERVATO/CAST-127.md) | 26 | Lethorne | infermiera e interlocutrice del gruppo |
+| CAST-128 | [Vern Soller](CAST_RISERVATO/CAST-128.md) | 45 | Lethorne | capo del lotto di collaudo |
+| CAST-129 | [Etienne Brac](CAST_RISERVATO/CAST-129.md) | 36 | Lethorne | operaio guarito e testimone del collaudo |
+| CAST-130 | [Noemi Darel](CAST_RISERVATO/CAST-130.md) | 39 | Lethorne | Responsabile: Mutua delle protesi |
+| CAST-131 | [Gaston Mery](CAST_RISERVATO/CAST-131.md) | 46 | Lethorne | Responsabile: Officina di misura Ruy |
+| CAST-132 | [Clara Vossel](CAST_RISERVATO/CAST-132.md) | 53 | Lethorne | Responsabile: Cooperativa di stampa |
+| CAST-133 | [Aline Maret](CAST_RISERVATO/CAST-133.md) | 60 | Lethorne | Responsabile: Scuola serale dei tornitori |
+| CAST-134 | [Bastien Quell](CAST_RISERVATO/CAST-134.md) | 38 | Rovenne | Responsabile: Mulino delle tre paratie |
+| CAST-135 | [Rosa Edril](CAST_RISERVATO/CAST-135.md) | 45 | Rovenne | Responsabile: Consorzio dei pascoli |
+| CAST-136 | [Jean Orrel](CAST_RISERVATO/CAST-136.md) | 52 | Rovenne | Responsabile: Biblioteca del borgo |
+| CAST-137 | [Madeleine Ravel](CAST_RISERVATO/CAST-137.md) | 59 | Port Auvrel | Responsabile: Mutua dei Turni |
+| CAST-138 | [Jules Baret](CAST_RISERVATO/CAST-138.md) | 37 | Port Auvrel | Responsabile: Dragaggio municipale |
+| CAST-139 | [Odette Sarin](CAST_RISERVATO/CAST-139.md) | 44 | Port Auvrel | Responsabile: Archivio delle notifiche marittime |
+| CAST-140 | [Raoul Bellet](CAST_RISERVATO/CAST-140.md) | 51 | Belanne | Responsabile: Squadra dei convogli costieri |
+| CAST-141 | [Irma Kehl](CAST_RISERVATO/CAST-141.md) | 58 | Deren | Responsabile: Commissione dei pozzi |
+| CAST-142 | [Oskar Veyl](CAST_RISERVATO/CAST-142.md) | 36 | Sarn Gate | Responsabile: Squadra di drenaggio |
+| CAST-143 | [Margot Sain](CAST_RISERVATO/CAST-143.md) | 43 | Valenne | Responsabile: Cooperativa del lino |
+| CAST-144 | [Simon Evrard](CAST_RISERVATO/CAST-144.md) | 50 | Lorien | Responsabile: Rete delle case d'asilo |
+| CAST-145 | [Rina Merel](CAST_RISERVATO/CAST-145.md) | 57 | Teren | Responsabile: Witness House dei prestiti |
+| CAST-146 | [Pavel Dornik](CAST_RISERVATO/CAST-146.md) | 35 | Karrel | Responsabile: Sindacato dei saggi di rame |
+| CAST-147 | [Edda Oren](CAST_RISERVATO/CAST-147.md) | 42 | Kessel | Responsabile: Mutua dei manutentori |
+| CAST-148 | [Milan Thesk](CAST_RISERVATO/CAST-148.md) | 49 | Dovar | Responsabile: Mercato dei semi comuni |
+| CAST-149 | [Sava Rel](CAST_RISERVATO/CAST-149.md) | 56 | Reth Narrows | Responsabile: Servizio dei piloti fluviali |
+| CAST-150 | [Mireya Voss](CAST_RISERVATO/CAST-150.md) | 34 | Elven | Responsabile: Assemblea dei Bacini |
+| CAST-151 | [Talia Neth](CAST_RISERVATO/CAST-151.md) | 41 | Namar | Responsabile: Scuola dei ricambi |
+| CAST-152 | [Karel Morn](CAST_RISERVATO/CAST-152.md) | 48 | Veyford | Responsabile: Mercato dei legnami |
+| CAST-153 | [Nadia Thenn](CAST_RISERVATO/CAST-153.md) | 55 | Ossen Reach | Responsabile: Segreteria degli approdi |
+| CAST-154 | [Ilar Arven](CAST_RISERVATO/CAST-154.md) | 33 | Neressa | Responsabile: Camera dei Noli |
+| CAST-155 | [Mera Seln](CAST_RISERVATO/CAST-155.md) | 40 | Serele | Responsabile: Cantiere dei gusci corti |
+| CAST-156 | [Nerin Koss](CAST_RISERVATO/CAST-156.md) | 47 | Avaris | Responsabile: Ufficio dei passaggi civili |
+| CAST-157 | [Selma Arel](CAST_RISERVATO/CAST-157.md) | 54 | Corten | Responsabile: Compagnia delle salvagioni |
+| CAST-158 | [Daren Vel](CAST_RISERVATO/CAST-158.md) | 32 | Nelle | Responsabile: Scuola dei cartografi |
+| CAST-159 | [Vera Isen](CAST_RISERVATO/CAST-159.md) | 39 | Velis | Responsabile: Casa della Clear Dawn |
+| CAST-160 | [Orenna Keth](CAST_RISERVATO/CAST-160.md) | 46 | South Shoals | Responsabile: Servizio delle bussole |
+| CAST-161 | [Alessia Torn](CAST_RISERVATO/CAST-161.md) | 53 | Aldora | Responsabile: Archivio dei congedi |
+| CAST-162 | [Tessa Lyr](CAST_RISERVATO/CAST-162.md) | 60 | Teshen | Responsabile: Collegio delle lingue |
+| CAST-163 | [Viktor Senn](CAST_RISERVATO/CAST-163.md) | 38 | Varlen | Responsabile: Lega dei forni comunali |
+| CAST-164 | [Elisa Rath](CAST_RISERVATO/CAST-164.md) | 45 | Eshar | Responsabile: Ufficio degli atti vincolati |
+| CAST-165 | [Darian Vos](CAST_RISERVATO/CAST-165.md) | 52 | Darsa | Responsabile: Cooperativa dei ponti |
+| CAST-166 | [Samira Qel](CAST_RISERVATO/CAST-166.md) | 59 | Qadra | Responsabile: Consiglio dei pozzi |
+| CAST-167 | [Tarek Orun](CAST_RISERVATO/CAST-167.md) | 37 | Ildan | Responsabile: Camera dei trasporti interni |
+| CAST-168 | [Leona Mar](CAST_RISERVATO/CAST-168.md) | 44 | Mareth | Responsabile: Clinica dei restauri |
+| CAST-169 | [Amin Sorel](CAST_RISERVATO/CAST-169.md) | 51 | Saura | Responsabile: Assemblea dei campi mobili |
+| CAST-170 | [Nahla Doren](CAST_RISERVATO/CAST-170.md) | 58 | Serevan | Responsabile: Magazzino di ricezione oceanica |
+| CAST-171 | [Aki Noren](CAST_RISERVATO/CAST-171.md) | 36 | Anren | Responsabile: Registro degli apprendistati |
+| CAST-172 | [Hana Teral](CAST_RISERVATO/CAST-172.md) | 43 | Teru | Responsabile: Rete dei battelli medici |
+| CAST-173 | [Jin Sora](CAST_RISERVATO/CAST-173.md) | 50 | Koshen | Responsabile: Camera delle ceramiche |
+| CAST-174 | [Ren Matsu](CAST_RISERVATO/CAST-174.md) | 57 | Mersa | Responsabile: Commissione delle memorie civili |
+| CAST-175 | [Mina Aru](CAST_RISERVATO/CAST-175.md) | 35 | Arula | Responsabile: Cooperativa delle vele |
+| CAST-176 | [Sora Kan](CAST_RISERVATO/CAST-176.md) | 42 | Ashen Quay | Responsabile: Ufficio delle merci vive |
+| CAST-177 | [Astrid Noll](CAST_RISERVATO/CAST-177.md) | 49 | Noran | Responsabile: Rete delle sale funerarie |
+| CAST-178 | [Borin Askel](CAST_RISERVATO/CAST-178.md) | 56 | Asren | Responsabile: Lega dei taglialegna |
+| CAST-179 | [Yelena Varn](CAST_RISERVATO/CAST-179.md) | 34 | Varshen | Responsabile: Archivio delle adozioni |
+| CAST-180 | [Ivo Edel](CAST_RISERVATO/CAST-180.md) | 41 | Edris | Responsabile: Scuola delle leghe fredde |
+| CAST-181 | [Kira Keren](CAST_RISERVATO/CAST-181.md) | 48 | Keran | Responsabile: Consiglio delle piste |
+| CAST-182 | [Sivana Rell](CAST_RISERVATO/CAST-182.md) | 55 | Sivren | Responsabile: Ufficio delle acque agricole |
+| CAST-183 | [Dorel Aven](CAST_RISERVATO/CAST-183.md) | 33 | Dorven | Responsabile: Officina dei trattamenti organici |
+| CAST-184 | [Teva Marr](CAST_RISERVATO/CAST-184.md) | 40 | Tevren | Responsabile: Rete delle scuole di porto |
+| CAST-185 | [Irena Vor](CAST_RISERVATO/CAST-185.md) | 47 | Irela | Responsabile: Commissione dei ritorni |
+| CAST-461 | [Martin Lethorne](CAST_RISERVATO/CAST-461.md) | 37 | Lethorne | insegnante ordinario di meccanica e marito di Yselle |
+
+## Integrazione Nocturne vigente
+
+La revisione 23-EFF-01 comprende continuità antica, successioni, istituzioni, prove e portatori di Eclipse/Crescent. I dettagli vigenti sono nel [raccordo 172](RISERVATO_172_Raccordo_Nocturne_storia_e_societa.md) e nei corrispondenti dati CANONE_VIGENTE. Gli eventi e gli inventari qui non coinvolti restano invariati.

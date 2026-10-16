@@ -1,0 +1,60 @@
+{
+  "milestone": 6,
+  "status": "COMPLETE_FIRST_EDITION",
+  "next_milestone": 7,
+  "documents": [
+    {
+      "path": "87_Indice_del_protagonista.md",
+      "sha256": "74B3C4DF64B749F69FF4809DE87F159E1BC249DB87C823E4964BEFAD7FA7C576"
+    },
+    {
+      "path": "88_Chiusura_milestone_6.md",
+      "sha256": "A66B8ED3FB2F655EA979CEC024761FF92DCA0889861BA4B0A64667394CBB7AF0"
+    },
+    {
+      "path": "GIOCATORE_77_Identita_di_Edran_e_Alexander.md",
+      "sha256": "3E80A2BF8477DA05AC8B3A094BB79370E4EBD5C584D8FE6DC4C41AC16FDD6BAF"
+    },
+    {
+      "path": "GIOCATORE_78_Prima_vita_e_ricordi_consolidati.md",
+      "sha256": "2511CD05865513CB9889A4DD938F86FA0BEF6108A7D92385137C853BA4441211"
+    },
+    {
+      "path": "GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md",
+      "sha256": "3746A446B0E4DF854FD3038B997AB3B16CB45961AC755623B029E0B72AA42C36"
+    },
+    {
+      "path": "GIOCATORE_80_Legami_antichi_che_ricordi.md",
+      "sha256": "F6FB16C6EB8522CDC7932797AE6C5D35906C00345A2D7259D5A03F41138DFAE5"
+    },
+    {
+      "path": "GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
+      "sha256": "4BFB5DF1C5171349BA970F38E177AF0A749B8F46C473E76ED7DA68C58868AD22"
+    },
+    {
+      "path": "GIOCATORE_82_Recupero_delle_antiche_capacita.md",
+      "sha256": "E0883D09639130709F4E02D72526088DB59C1AB9125FBD304E7B71918125E38E"
+    },
+    {
+      "path": "GIOCATORE_83_Matrice_delle_conoscenze_personali.md",
+      "sha256": "8FEFF9AF2D3AC8F4E536BD86A7EDDD056DFA0FCAE3C649FF648E1CCC4F483EF7"
+    },
+    {
+      "path": "GIOCATORE_86_Audit_del_protagonista.md",
+      "sha256": "8529ED0946C2C439CFE3CBF02C32055E3A2BD0FE8C7A671F5B0DAD138E7F4A2C"
+    },
+    {
+      "path": "RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
+      "sha256": "5FE1BA7C59B1747B4A3441D66881BB3E00F1BB271692E0B448E14D807BAB8A6A"
+    },
+    {
+      "path": "RISERVATO_85_Apertura_personale_e_rete_immediata.md",
+      "sha256": "661CD3DFF5A27B33F3CD1E10D6E73B94E7D573CEB94EDF6307CB48AF8C3B46B2"
+    }
+  ],
+  "shared_export": "Protagonista.json",
+  "reserved_export": "Protagonista_riservato.json",
+  "user_review": "New delegated details readable and revisable; no pending authorization required",
+  "future_choices": "OPEN",
+  "world_100_percent_operational": false
+}

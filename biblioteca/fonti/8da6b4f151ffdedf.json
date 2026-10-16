@@ -1,0 +1,2270 @@
+{
+  "version": "1.0",
+  "access": "NARRATOR_RESERVED",
+  "purpose": "Censimento visuale delle strutture già documentate; non crea organizzazioni o subordinazioni",
+  "counts": {
+    "tradizioni": 14,
+    "istituzioni": 14,
+    "reti_locali": 58,
+    "comunita_superstiti": 2,
+    "correnti_nominative": 6,
+    "ordinamenti_politici": 27,
+    "immagini_pianificate": 105
+  },
+  "nodes": [
+    {
+      "id": "REL-01",
+      "name": "Concordia dei Mestieri",
+      "type": "tradizione",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE",
+      "doctrine": "I Founders liberarono il lavoro e resero possibile il patto civile; la dignità va esercitata in opere, responsabilità e reciproca assistenza"
+    },
+    {
+      "id": "REL-02",
+      "name": "Clear Dawn",
+      "type": "tradizione",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE",
+      "doctrine": "La luce rende distinguibili il danno, la menzogna e il cammino; testimoniare è più importante che apparire splendente"
+    },
+    {
+      "id": "REL-03",
+      "name": "Living Mercy",
+      "type": "tradizione",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE",
+      "doctrine": "La vita affidata va sostenuta, riparata e accompagnata; guarire non dà proprietà sul guarito"
+    },
+    {
+      "id": "REL-04",
+      "name": "Vigil of Doors",
+      "type": "tradizione",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE",
+      "doctrine": "Ogni separazione richiede memoria, cura dei vivi e rispetto dei passaggi"
+    },
+    {
+      "id": "REL-05",
+      "name": "Wayfarer Communion",
+      "type": "tradizione",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE",
+      "doctrine": "Il cammino e l’attesa non cancellano responsabilità verso chi resta"
+    },
+    {
+      "id": "REL-06",
+      "name": "Witness Houses",
+      "type": "tradizione",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE",
+      "doctrine": "Conoscere richiede esporre il metodo e distinguere osservazione, inferenza e fede"
+    },
+    {
+      "id": "REL-07",
+      "name": "Common Measure",
+      "type": "movimento_etico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE",
+      "doctrine": "Una regola deve poter essere contestata senza distruggere ogni patto"
+    },
+    {
+      "id": "REL-08",
+      "name": "Throne and Bond",
+      "type": "tradizione",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE",
+      "doctrine": "Potere legittimo significa dovere verificabile; il vincolo va delimitato"
+    },
+    {
+      "id": "REL-09",
+      "name": "Ember Fellowship",
+      "type": "tradizione",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE",
+      "doctrine": "La trasformazione utile richiede responsabilità per ciò che viene consumato e scartato"
+    },
+    {
+      "id": "REL-10",
+      "name": "Tide Covenant",
+      "type": "tradizione",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE",
+      "doctrine": "Condividere il pericolo richiede una quota di responsabilità proporzionata ai mezzi"
+    },
+    {
+      "id": "REL-11",
+      "name": "Tradizioni fluviali del Creator — ricordo antico",
+      "type": "tradizione",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE",
+      "doctrine": "Edran ricorda patti di uscita e ritorno e comunità che li custodivano; il duca conosce confraternite fluviali moderne, senza verificarne continuità o fede personale nel Creator"
+    },
+    {
+      "id": "REL-12",
+      "name": "Tradizioni di Namar — ricordo antico",
+      "type": "tradizione",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE",
+      "doctrine": "Edran ricorda la First Separation e il proprio ruolo; il duca conosce i servizi idrici di Namar"
+    },
+    {
+      "id": "REL-13",
+      "name": "Custodia della Veglia",
+      "type": "tradizione",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE",
+      "doctrine": "Proteggere riposo e soglie senza fare dell’occultamento un diritto a imprigionare."
+    },
+    {
+      "id": "REL-14",
+      "name": "Concordia dei Cicli",
+      "type": "tradizione",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE",
+      "doctrine": "Un influsso richiede responsabilità e un patto richiede consenso verificabile."
+    },
+    {
+      "id": "FAC-01",
+      "name": "Ufficio delle Concordanze",
+      "type": "istituzione",
+      "source": "Societa_riservata.json",
+      "access": "RISERVATO",
+      "place": "Veldane e sedi regionali"
+    },
+    {
+      "id": "FAC-02",
+      "name": "Consorzio Tre Moli",
+      "type": "istituzione",
+      "source": "Societa_riservata.json",
+      "access": "RISERVATO",
+      "place": "Port Auvrel"
+    },
+    {
+      "id": "FAC-03",
+      "name": "Mutua dei Turni del Porto",
+      "type": "istituzione",
+      "source": "Societa_riservata.json",
+      "access": "RISERVATO",
+      "place": "Auvrel e Belanne"
+    },
+    {
+      "id": "FAC-04",
+      "name": "Collegium dei Metodi",
+      "type": "istituzione",
+      "source": "Societa_riservata.json",
+      "access": "RISERVATO",
+      "place": "Lethorne e centri associati"
+    },
+    {
+      "id": "FAC-05",
+      "name": "Witness Houses di Mereth",
+      "type": "istituzione",
+      "source": "Societa_riservata.json",
+      "access": "RISERVATO",
+      "place": "Teren, Veldane e Lethorne"
+    },
+    {
+      "id": "FAC-06",
+      "name": "Capitoli della Concordia",
+      "type": "istituzione",
+      "source": "Societa_riservata.json",
+      "access": "RISERVATO",
+      "place": "Orsanne e collegamenti regionali"
+    },
+    {
+      "id": "FAC-07",
+      "name": "Case della Living Mercy",
+      "type": "istituzione",
+      "source": "Societa_riservata.json",
+      "access": "RISERVATO",
+      "place": "Ovel e Lethorne"
+    },
+    {
+      "id": "FAC-08",
+      "name": "Banca di Lethorne",
+      "type": "istituzione",
+      "source": "Societa_riservata.json",
+      "access": "RISERVATO",
+      "place": "Lethorne"
+    },
+    {
+      "id": "FAC-09",
+      "name": "Camera dei Noli Neressani",
+      "type": "istituzione",
+      "source": "Societa_riservata.json",
+      "access": "RISERVATO",
+      "place": "Neressa, Serele e Auvrel"
+    },
+    {
+      "id": "FAC-10",
+      "name": "Consiglio delle Officine di Lethorne",
+      "type": "istituzione",
+      "source": "Societa_riservata.json",
+      "access": "RISERVATO",
+      "place": "Lethorne"
+    },
+    {
+      "id": "FAC-11",
+      "name": "Assemblee dei Bacini Aperti",
+      "type": "istituzione",
+      "source": "Societa_riservata.json",
+      "access": "RISERVATO",
+      "place": "Ovel"
+    },
+    {
+      "id": "FAC-12",
+      "name": "Rete delle Vigil di Porta",
+      "type": "istituzione",
+      "source": "Societa_riservata.json",
+      "access": "RISERVATO",
+      "place": "Lethorne, Auvrel e città di Mereth"
+    },
+    {
+      "id": "FAC-13",
+      "name": "Ufficio della Veglia",
+      "type": "istituzione",
+      "source": "Societa_riservata.json",
+      "access": "RISERVATO",
+      "place": "Noran, sede locale; interlocutori nelle sedi autonome della Veglia."
+    },
+    {
+      "id": "FAC-14",
+      "name": "Camera dei Sigilli",
+      "type": "istituzione",
+      "source": "Societa_riservata.json",
+      "access": "RISERVATO",
+      "place": "Tevren, camera locale; scuole affiliate con responsabilità separate."
+    },
+    {
+      "id": "NET-C10-01",
+      "name": "Mutua delle protesi",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Lethorne"
+    },
+    {
+      "id": "NET-C10-02",
+      "name": "Officina di misura Ruy",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Lethorne"
+    },
+    {
+      "id": "NET-C10-03",
+      "name": "Cooperativa di stampa",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Lethorne"
+    },
+    {
+      "id": "NET-C10-04",
+      "name": "Scuola serale dei tornitori",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Lethorne"
+    },
+    {
+      "id": "NET-C10-05",
+      "name": "Mulino delle tre paratie",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Rovenne"
+    },
+    {
+      "id": "NET-C10-06",
+      "name": "Consorzio dei pascoli",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Rovenne"
+    },
+    {
+      "id": "NET-C10-07",
+      "name": "Biblioteca del borgo",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Rovenne"
+    },
+    {
+      "id": "NET-C10-08",
+      "name": "Mutua dei Turni",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Port Auvrel"
+    },
+    {
+      "id": "NET-C10-09",
+      "name": "Dragaggio municipale",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Port Auvrel"
+    },
+    {
+      "id": "NET-C10-10",
+      "name": "Archivio delle notifiche marittime",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Port Auvrel"
+    },
+    {
+      "id": "NET-C10-11",
+      "name": "Squadra dei convogli costieri",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Belanne"
+    },
+    {
+      "id": "NET-C10-12",
+      "name": "Commissione dei pozzi",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Deren"
+    },
+    {
+      "id": "NET-C10-13",
+      "name": "Squadra di drenaggio",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Sarn Gate"
+    },
+    {
+      "id": "NET-C10-14",
+      "name": "Cooperativa del lino",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Valenne"
+    },
+    {
+      "id": "NET-C10-15",
+      "name": "Rete delle case d'asilo",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Lorien"
+    },
+    {
+      "id": "NET-C10-16",
+      "name": "Witness House dei prestiti",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Teren"
+    },
+    {
+      "id": "NET-C10-17",
+      "name": "Sindacato dei saggi di rame",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Karrel"
+    },
+    {
+      "id": "NET-C10-18",
+      "name": "Mutua dei manutentori",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Kessel"
+    },
+    {
+      "id": "NET-C10-19",
+      "name": "Mercato dei semi comuni",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Dovar"
+    },
+    {
+      "id": "NET-C10-20",
+      "name": "Servizio dei piloti fluviali",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Reth Narrows"
+    },
+    {
+      "id": "NET-C10-21",
+      "name": "Assemblea dei Bacini",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Elven"
+    },
+    {
+      "id": "NET-C10-22",
+      "name": "Scuola dei ricambi",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Namar"
+    },
+    {
+      "id": "NET-C10-23",
+      "name": "Mercato dei legnami",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Veyford"
+    },
+    {
+      "id": "NET-C10-24",
+      "name": "Segreteria degli approdi",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Ossen Reach"
+    },
+    {
+      "id": "NET-C10-25",
+      "name": "Camera dei Noli",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Neressa"
+    },
+    {
+      "id": "NET-C10-26",
+      "name": "Cantiere dei gusci corti",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Serele"
+    },
+    {
+      "id": "NET-C10-27",
+      "name": "Ufficio dei passaggi civili",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Avaris"
+    },
+    {
+      "id": "NET-C10-28",
+      "name": "Compagnia delle salvagioni",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Corten"
+    },
+    {
+      "id": "NET-C10-29",
+      "name": "Scuola dei cartografi",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Nelle"
+    },
+    {
+      "id": "NET-C10-30",
+      "name": "Casa della Clear Dawn",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Velis"
+    },
+    {
+      "id": "NET-C10-31",
+      "name": "Servizio delle bussole",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "South Shoals"
+    },
+    {
+      "id": "NET-C10-32",
+      "name": "Archivio dei congedi",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Aldora"
+    },
+    {
+      "id": "NET-C10-33",
+      "name": "Collegio delle lingue",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Teshen"
+    },
+    {
+      "id": "NET-C10-34",
+      "name": "Lega dei forni comunali",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Varlen"
+    },
+    {
+      "id": "NET-C10-35",
+      "name": "Ufficio degli atti vincolati",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Eshar"
+    },
+    {
+      "id": "NET-C10-36",
+      "name": "Cooperativa dei ponti",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Darsa"
+    },
+    {
+      "id": "NET-C10-37",
+      "name": "Consiglio dei pozzi",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Qadra"
+    },
+    {
+      "id": "NET-C10-38",
+      "name": "Camera dei trasporti interni",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Ildan"
+    },
+    {
+      "id": "NET-C10-39",
+      "name": "Clinica dei restauri",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Mareth"
+    },
+    {
+      "id": "NET-C10-40",
+      "name": "Assemblea dei campi mobili",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Saura"
+    },
+    {
+      "id": "NET-C10-41",
+      "name": "Magazzino di ricezione oceanica",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Serevan"
+    },
+    {
+      "id": "NET-C10-42",
+      "name": "Registro degli apprendistati",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Anren"
+    },
+    {
+      "id": "NET-C10-43",
+      "name": "Rete dei battelli medici",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Teru"
+    },
+    {
+      "id": "NET-C10-44",
+      "name": "Camera delle ceramiche",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Koshen"
+    },
+    {
+      "id": "NET-C10-45",
+      "name": "Commissione delle memorie civili",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Mersa"
+    },
+    {
+      "id": "NET-C10-46",
+      "name": "Cooperativa delle vele",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Arula"
+    },
+    {
+      "id": "NET-C10-47",
+      "name": "Ufficio delle merci vive",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Ashen Quay"
+    },
+    {
+      "id": "NET-C10-48",
+      "name": "Rete delle sale funerarie",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Noran"
+    },
+    {
+      "id": "NET-C10-49",
+      "name": "Lega dei taglialegna",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Asren"
+    },
+    {
+      "id": "NET-C10-50",
+      "name": "Archivio delle adozioni",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Varshen"
+    },
+    {
+      "id": "NET-C10-51",
+      "name": "Scuola delle leghe fredde",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Edris"
+    },
+    {
+      "id": "NET-C10-52",
+      "name": "Consiglio delle piste",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Keran"
+    },
+    {
+      "id": "NET-C10-53",
+      "name": "Ufficio delle acque agricole",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Sivren"
+    },
+    {
+      "id": "NET-C10-54",
+      "name": "Officina dei trattamenti organici",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Dorven"
+    },
+    {
+      "id": "NET-C10-55",
+      "name": "Rete delle scuole di porto",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Tevren"
+    },
+    {
+      "id": "NET-C10-56",
+      "name": "Commissione dei ritorni",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Irela"
+    },
+    {
+      "id": "NET-C10-57",
+      "name": "Presidi della Veglia",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Rete interregionale di sedi autonome"
+    },
+    {
+      "id": "NET-C10-58",
+      "name": "Scuole dei Sigilli",
+      "type": "rete_locale",
+      "source": "Cast_riservato.json",
+      "access": "RISERVATO",
+      "place": "Rete interregionale di sedi autonome"
+    },
+    {
+      "id": "CULT-01",
+      "name": "The Shore Companies",
+      "type": "comunita",
+      "source": "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
+      "access": "RISERVATO"
+    },
+    {
+      "id": "CULT-01-BR-01",
+      "name": "Witnessing Oars",
+      "type": "corrente",
+      "source": "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
+      "access": "RISERVATO"
+    },
+    {
+      "id": "CULT-01-BR-02",
+      "name": "Open Moorings",
+      "type": "corrente",
+      "source": "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
+      "access": "RISERVATO"
+    },
+    {
+      "id": "CULT-01-BR-03",
+      "name": "Last Dawn Brethren",
+      "type": "corrente",
+      "source": "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
+      "access": "RISERVATO"
+    },
+    {
+      "id": "CULT-02",
+      "name": "The Keepers of Namar",
+      "type": "comunita",
+      "source": "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
+      "access": "RISERVATO"
+    },
+    {
+      "id": "CULT-02-BR-01",
+      "name": "First Separation Keepers",
+      "type": "corrente",
+      "source": "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
+      "access": "RISERVATO"
+    },
+    {
+      "id": "CULT-02-BR-02",
+      "name": "Renewal Stewards",
+      "type": "corrente",
+      "source": "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
+      "access": "RISERVATO"
+    },
+    {
+      "id": "CULT-02-BR-03",
+      "name": "Free Basin Assembly",
+      "type": "corrente",
+      "source": "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
+      "access": "RISERVATO"
+    },
+    {
+      "id": "POL-01",
+      "name": "Orsanne",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-02",
+      "name": "Reth",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-03",
+      "name": "Neressa",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-04",
+      "name": "Ovel",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-05",
+      "name": "Aldren",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-06",
+      "name": "Tessara",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-07",
+      "name": "Varrun",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-08",
+      "name": "Esen",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-09",
+      "name": "Darsen",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-10",
+      "name": "Qadir",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-11",
+      "name": "Ildovar",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-12",
+      "name": "Marethis",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-13",
+      "name": "Saur",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-14",
+      "name": "Ansei",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-15",
+      "name": "Teral",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-16",
+      "name": "Kosh",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-17",
+      "name": "Meren",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-18",
+      "name": "Arul",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-19",
+      "name": "Norell",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-20",
+      "name": "Askar",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-21",
+      "name": "Varsha",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-22",
+      "name": "Edel",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-23",
+      "name": "Keren",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-24",
+      "name": "Sivara",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-25",
+      "name": "Dorel",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-26",
+      "name": "Tevar",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    },
+    {
+      "id": "POL-27",
+      "name": "Iren",
+      "type": "ordinamento_politico",
+      "source": "Societa_condivisa.json",
+      "access": "GIOCATORE"
+    }
+  ],
+  "edges": [
+    {
+      "parent": "REL-10",
+      "child": "FAC-03",
+      "type": "COLLEGAMENTO_NON_SUBORDINAZIONE",
+      "source": "Societa_riservata.json"
+    },
+    {
+      "parent": "REL-06",
+      "child": "FAC-05",
+      "type": "APPARTENENZA",
+      "source": "REL-06 e reti scolastiche"
+    },
+    {
+      "parent": "REL-01",
+      "child": "FAC-06",
+      "type": "APPARTENENZA",
+      "source": "REL-01"
+    },
+    {
+      "parent": "REL-03",
+      "child": "FAC-07",
+      "type": "APPARTENENZA",
+      "source": "REL-03 e sviluppo dei servizi"
+    },
+    {
+      "parent": "REL-12",
+      "child": "FAC-11",
+      "type": "COLLEGAMENTO_NON_SUBORDINAZIONE",
+      "source": "Societa_riservata.json"
+    },
+    {
+      "parent": "REL-04",
+      "child": "FAC-12",
+      "type": "APPARTENENZA",
+      "source": "REL-04"
+    },
+    {
+      "parent": "REL-13",
+      "child": "FAC-13",
+      "type": "COLLEGAMENTO_NON_SUBORDINAZIONE",
+      "source": "Societa_riservata.json"
+    },
+    {
+      "parent": "REL-14",
+      "child": "FAC-14",
+      "type": "COLLEGAMENTO_NON_SUBORDINAZIONE",
+      "source": "Societa_riservata.json"
+    },
+    {
+      "parent": "FAC-03",
+      "child": "NET-C10-08",
+      "type": "IDENTITA_O_ARTICOLAZIONE_DA_CONFERMARE",
+      "source": "Denominazione e sede; non prova definitiva di proprietà"
+    },
+    {
+      "parent": "REL-06",
+      "child": "NET-C10-16",
+      "type": "IDENTITA_O_ARTICOLAZIONE_DA_CONFERMARE",
+      "source": "Denominazione e sede; non prova definitiva di proprietà"
+    },
+    {
+      "parent": "FAC-11",
+      "child": "NET-C10-21",
+      "type": "COLLEGAMENTO_NON_SUBORDINAZIONE",
+      "source": "Cast_riservato.json; raccordo 178"
+    },
+    {
+      "parent": "REL-12",
+      "child": "NET-C10-22",
+      "type": "COLLEGAMENTO_NON_SUBORDINAZIONE",
+      "source": "Cast_riservato.json; raccordo 178"
+    },
+    {
+      "parent": "FAC-09",
+      "child": "NET-C10-25",
+      "type": "IDENTITA_O_ARTICOLAZIONE_DA_CONFERMARE",
+      "source": "Denominazione e sede; non prova definitiva di proprietà"
+    },
+    {
+      "parent": "REL-02",
+      "child": "NET-C10-30",
+      "type": "IDENTITA_O_ARTICOLAZIONE_DA_CONFERMARE",
+      "source": "Denominazione e sede; non prova definitiva di proprietà"
+    },
+    {
+      "parent": "REL-04",
+      "child": "NET-C10-48",
+      "type": "COLLEGAMENTO_NON_SUBORDINAZIONE",
+      "source": "Cast_riservato.json; raccordo 178"
+    },
+    {
+      "parent": "REL-13",
+      "child": "NET-C10-57",
+      "type": "COLLEGAMENTO_NON_SUBORDINAZIONE",
+      "source": "Cast_riservato.json; raccordo 178"
+    },
+    {
+      "parent": "REL-14",
+      "child": "NET-C10-58",
+      "type": "COLLEGAMENTO_NON_SUBORDINAZIONE",
+      "source": "Cast_riservato.json; raccordo 178"
+    },
+    {
+      "parent": "REL-11",
+      "child": "CULT-01",
+      "type": "MANIFESTAZIONE_MODERNA_RISERVATA",
+      "source": "RISERVATO_99"
+    },
+    {
+      "parent": "CULT-01",
+      "child": "CULT-01-BR-01",
+      "type": "CORRENTE_INTERNA",
+      "source": "RISERVATO_99"
+    },
+    {
+      "parent": "CULT-01",
+      "child": "CULT-01-BR-02",
+      "type": "CORRENTE_INTERNA",
+      "source": "RISERVATO_99"
+    },
+    {
+      "parent": "CULT-01",
+      "child": "CULT-01-BR-03",
+      "type": "CORRENTE_INTERNA",
+      "source": "RISERVATO_99"
+    },
+    {
+      "parent": "REL-12",
+      "child": "CULT-02",
+      "type": "MANIFESTAZIONE_MODERNA_RISERVATA",
+      "source": "RISERVATO_99"
+    },
+    {
+      "parent": "CULT-02",
+      "child": "CULT-02-BR-01",
+      "type": "CORRENTE_INTERNA",
+      "source": "RISERVATO_99"
+    },
+    {
+      "parent": "CULT-02",
+      "child": "CULT-02-BR-02",
+      "type": "CORRENTE_INTERNA",
+      "source": "RISERVATO_99"
+    },
+    {
+      "parent": "CULT-02",
+      "child": "CULT-02-BR-03",
+      "type": "CORRENTE_INTERNA",
+      "source": "RISERVATO_99"
+    }
+  ],
+  "assets": [
+    {
+      "id": "ORGART-001",
+      "subject": "REL-01",
+      "name": "Concordia dei Mestieri",
+      "type": "simbolo",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-01_Concordia_dei_Mestieri\\01_Simbolo_principale_v1.png",
+      "sha256": "152290688230fa39f901b3719d5bf58594a82f4794d4dd2f210ab397fded0ff8"
+    },
+    {
+      "id": "ORGART-002",
+      "subject": "REL-01",
+      "name": "Concordia dei Mestieri",
+      "type": "architettura_rappresentativa",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-01_Concordia_dei_Mestieri\\02_Architettura_rappresentativa_v1.png",
+      "sha256": "1922235e82d6d6ebd6b319e2381a45c0159348351b3d1d5496ad9ab98bd6210c"
+    },
+    {
+      "id": "ORGART-003",
+      "subject": "REL-01",
+      "name": "Concordia dei Mestieri",
+      "type": "abiti_e_supporti",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-01_Concordia_dei_Mestieri\\03_Abiti_e_supporti_v1.png",
+      "sha256": "8ff8d71cb9d156600021d92c81f5af183eb6b9ab4ec816a8b72d428916451167"
+    },
+    {
+      "id": "ORGART-004",
+      "subject": "REL-02",
+      "name": "Clear Dawn",
+      "type": "simbolo",
+      "access": "GIOCATORE",
+      "status": "APPROVATA",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-02_Clear_Dawn\\01_Simbolo_principale_v1.png",
+      "sha256": "03699b54b5ebea8dafd9d823df04215bc2a19c1f3cae271150015c227e4babf7"
+    },
+    {
+      "id": "ORGART-005",
+      "subject": "REL-02",
+      "name": "Clear Dawn",
+      "type": "architettura_rappresentativa",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-02_Clear_Dawn\\02_Architettura_rappresentativa_v1.png",
+      "sha256": "601f905bb8056a96282393ab5994d7e5d5fdb0cf68b85e09d1d98c4e4d0c09d7"
+    },
+    {
+      "id": "ORGART-006",
+      "subject": "REL-02",
+      "name": "Clear Dawn",
+      "type": "abiti_e_supporti",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-02_Clear_Dawn\\03_Abiti_e_supporti_v1.png",
+      "sha256": "f85971e3ad98bef40b4ddb7069969e9873bec9d570f80f1acd1330ccf5602675"
+    },
+    {
+      "id": "ORGART-007",
+      "subject": "REL-03",
+      "name": "Living Mercy",
+      "type": "simbolo",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-03_Living_Mercy\\01_Simbolo_principale_v1.png",
+      "sha256": "2d0af440f24e5affe279061ec7590ff3c1051325ed5e29bf588c5bc27404e47b"
+    },
+    {
+      "id": "ORGART-008",
+      "subject": "REL-03",
+      "name": "Living Mercy",
+      "type": "architettura_rappresentativa",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-03_Living_Mercy\\02_Architettura_rappresentativa_v1.png",
+      "sha256": "82e339c36f15b8caac9c2d5986679c65f8cc6212c768e1602763f4065b166541"
+    },
+    {
+      "id": "ORGART-009",
+      "subject": "REL-03",
+      "name": "Living Mercy",
+      "type": "abiti_e_supporti",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-03_Living_Mercy\\03_Abiti_e_supporti_v1.png",
+      "sha256": "0e4ee3b997695f6097c219fb643c0bb7280e8c0732c8547d8736a30fa332cbb2"
+    },
+    {
+      "id": "ORGART-010",
+      "subject": "REL-04",
+      "name": "Vigil of Doors",
+      "type": "simbolo",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-04_Vigil_of_Doors\\01_Simbolo_principale_v1.png",
+      "sha256": "8678a3996388e4af6f575d1b17289365a3e86a7300926babd8bdf5120fe9c9cd"
+    },
+    {
+      "id": "ORGART-011",
+      "subject": "REL-04",
+      "name": "Vigil of Doors",
+      "type": "architettura_rappresentativa",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-04_Vigil_of_Doors\\02_Architettura_rappresentativa_v1.png",
+      "sha256": "5b09b2c74a296ba18ebbecad83753cb05cd4031a412b8d10d544cb4c90e60438"
+    },
+    {
+      "id": "ORGART-012",
+      "subject": "REL-04",
+      "name": "Vigil of Doors",
+      "type": "abiti_e_supporti",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-04_Vigil_of_Doors\\03_Abiti_e_supporti_v1.png",
+      "sha256": "ba25764c8b59d5c4f686b88991912db9250061b5c46a1feb2b4358ecca20b224"
+    },
+    {
+      "id": "ORGART-013",
+      "subject": "REL-05",
+      "name": "Wayfarer Communion",
+      "type": "simbolo",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-05_Wayfarer_Communion\\01_Simbolo_principale_v1.png",
+      "sha256": "49e8e9cc938e3cd8490ade4d6db06855c916dd951abf6b756fc513fe1683dfb5"
+    },
+    {
+      "id": "ORGART-014",
+      "subject": "REL-05",
+      "name": "Wayfarer Communion",
+      "type": "architettura_rappresentativa",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-05_Wayfarer_Communion\\02_Architettura_rappresentativa_v1.png",
+      "sha256": "f813b490949cfa40974e97f788197d869ccd683af7888f5729a59a2ce0fd7704"
+    },
+    {
+      "id": "ORGART-015",
+      "subject": "REL-05",
+      "name": "Wayfarer Communion",
+      "type": "abiti_e_supporti",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-05_Wayfarer_Communion\\03_Abiti_e_supporti_v1.png",
+      "sha256": "409ed631b5479c21577a59b5c462c2bef4f59c2bddc4510456ca26cd0bece0d0"
+    },
+    {
+      "id": "ORGART-016",
+      "subject": "REL-06",
+      "name": "Witness Houses",
+      "type": "simbolo",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-06_Witness_Houses\\01_Simbolo_principale_v1.png",
+      "sha256": "5d3faa73999c97418dd738f4b4f5f685ab6e569692b557bd0f8cca8d03f3496f"
+    },
+    {
+      "id": "ORGART-017",
+      "subject": "REL-06",
+      "name": "Witness Houses",
+      "type": "architettura_rappresentativa",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-06_Witness_Houses\\02_Architettura_rappresentativa_v1.png",
+      "sha256": "dcf9f91ebab9c2a4840f23f5f75f2e88445efd3e0f767dbd74f2f354544db609"
+    },
+    {
+      "id": "ORGART-018",
+      "subject": "REL-06",
+      "name": "Witness Houses",
+      "type": "abiti_e_supporti",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-06_Witness_Houses\\03_Abiti_e_supporti_v1.png",
+      "sha256": "c28116936f039d926280da719ec785f2be3d01371e9f85240ade0a098c7f5626"
+    },
+    {
+      "id": "ORGART-019",
+      "subject": "REL-07",
+      "name": "Common Measure",
+      "type": "simbolo",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-07_Common_Measure\\01_Simbolo_principale_v1.png",
+      "sha256": "6f1e6283b04d182680508f85db8e8467ac16146eebe696735c621bd2d7addf7a"
+    },
+    {
+      "id": "ORGART-020",
+      "subject": "REL-07",
+      "name": "Common Measure",
+      "type": "architettura_rappresentativa",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-07_Common_Measure\\02_Architettura_rappresentativa_v1.png",
+      "sha256": "376701bb46815c1a57089f65351def14a580ce389dd91a0db632bcf7bc93f0cf"
+    },
+    {
+      "id": "ORGART-021",
+      "subject": "REL-07",
+      "name": "Common Measure",
+      "type": "abiti_e_supporti",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-07_Common_Measure\\03_Abiti_e_supporti_v1.png",
+      "sha256": "c8ece860b269f04560bb80fb844b632b793c34d3ee9c489b54ef706989412fcb"
+    },
+    {
+      "id": "ORGART-022",
+      "subject": "REL-08",
+      "name": "Throne and Bond",
+      "type": "simbolo",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-08_Throne_and_Bond\\01_Simbolo_principale_v1.png",
+      "sha256": "f4df50c4fe41f216de484a3ac38a607fdbf8d42a2a1612575b9ec3e359df9007"
+    },
+    {
+      "id": "ORGART-023",
+      "subject": "REL-08",
+      "name": "Throne and Bond",
+      "type": "architettura_rappresentativa",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-08_Throne_and_Bond\\02_Architettura_rappresentativa_v1.png",
+      "sha256": "39ecaaca041493a2741ad797dfb29f7dfc8ce5692ec12008cf9407c2bf3f6ac0"
+    },
+    {
+      "id": "ORGART-024",
+      "subject": "REL-08",
+      "name": "Throne and Bond",
+      "type": "abiti_e_supporti",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-08_Throne_and_Bond\\03_Abiti_e_supporti_v1.png",
+      "sha256": "dc13be04a097a8e8d9d1a69db6cb7e0e156ad266eb7d1ec2aef771338ca4f240"
+    },
+    {
+      "id": "ORGART-025",
+      "subject": "REL-09",
+      "name": "Ember Fellowship",
+      "type": "simbolo",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-09_Ember_Fellowship\\01_Simbolo_principale_v1.png",
+      "sha256": "4dd9109204b0b34d8c53880f7849b3cd61473528dd9f772382df7e0d98d2fb0a"
+    },
+    {
+      "id": "ORGART-026",
+      "subject": "REL-09",
+      "name": "Ember Fellowship",
+      "type": "architettura_rappresentativa",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-09_Ember_Fellowship\\02_Architettura_rappresentativa_v1.png",
+      "sha256": "b65bdaf3ffea3b2c7c1c47b128db80a9aff6e6824d8f2860956bfa9ae77383a1"
+    },
+    {
+      "id": "ORGART-027",
+      "subject": "REL-09",
+      "name": "Ember Fellowship",
+      "type": "abiti_e_supporti",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-09_Ember_Fellowship\\03_Abiti_e_supporti_v1.png",
+      "sha256": "c9bed572a216c56ab95bc153115794254474f83bc7ff63dbc39e1adf160abe0c"
+    },
+    {
+      "id": "ORGART-028",
+      "subject": "REL-10",
+      "name": "Tide Covenant",
+      "type": "simbolo",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-10_Tide_Covenant\\01_Simbolo_principale_v1.png",
+      "sha256": "0f44876b236516983d78a9721fd3fd7b5cc9b9243b7779bd5542356f95a80635"
+    },
+    {
+      "id": "ORGART-029",
+      "subject": "REL-10",
+      "name": "Tide Covenant",
+      "type": "architettura_rappresentativa",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-10_Tide_Covenant\\02_Architettura_rappresentativa_v1.png",
+      "sha256": "c63661cad9c39723f599c3a3d4a9a1a8a08ff6d0f5277c35251eeb5261967085"
+    },
+    {
+      "id": "ORGART-030",
+      "subject": "REL-10",
+      "name": "Tide Covenant",
+      "type": "abiti_e_supporti",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-10_Tide_Covenant\\03_Abiti_e_supporti_v1.png",
+      "sha256": "33b55d3f393a787cfc4b3594ce31c004524fa6f258d2371439a62b5fd3a0c638"
+    },
+    {
+      "id": "ORGART-031",
+      "subject": "REL-11",
+      "name": "Tradizioni fluviali del Creator — ricordo antico",
+      "type": "simbolo",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-11_Tradizioni_fluviali_del_Creator_ricordo_antico\\01_Simbolo_principale_v1.png",
+      "sha256": "e91f7a4d77c266b401b603723b7260ebea8d862e934901e3af87fd7e6b6f47a4"
+    },
+    {
+      "id": "ORGART-032",
+      "subject": "REL-11",
+      "name": "Tradizioni fluviali del Creator — ricordo antico",
+      "type": "architettura_rappresentativa",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-11_Tradizioni_fluviali_del_Creator_ricordo_antico\\02_Architettura_rappresentativa_v1.png",
+      "sha256": "e6bfd5b0c5b25db7c75c96d97fb1249dd1dfcf4924529cf74adb3bc06fe4fd44"
+    },
+    {
+      "id": "ORGART-033",
+      "subject": "REL-11",
+      "name": "Tradizioni fluviali del Creator — ricordo antico",
+      "type": "abiti_e_supporti",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-11_Tradizioni_fluviali_del_Creator_ricordo_antico\\03_Abiti_e_supporti_v1.png",
+      "sha256": "5e8ece993c4be50fb849d189c1e0b2f531ff62e336ff44898a3dd8c047f8c0fc"
+    },
+    {
+      "id": "ORGART-034",
+      "subject": "REL-12",
+      "name": "Tradizioni di Namar — ricordo antico",
+      "type": "simbolo",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-12_Tradizioni_di_Namar_ricordo_antico\\01_Simbolo_principale_v1.png",
+      "sha256": "6a1c49db7f0a6ecfe438066ba18c960684ab4db74a9cc13ad52c34d2e70e921d"
+    },
+    {
+      "id": "ORGART-035",
+      "subject": "REL-12",
+      "name": "Tradizioni di Namar — ricordo antico",
+      "type": "architettura_rappresentativa",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-12_Tradizioni_di_Namar_ricordo_antico\\02_Architettura_rappresentativa_v1.png",
+      "sha256": "b3d6f8248aca5f207bfb38630cbab519e138d740d62446dc41caf3f906026dde"
+    },
+    {
+      "id": "ORGART-036",
+      "subject": "REL-12",
+      "name": "Tradizioni di Namar — ricordo antico",
+      "type": "abiti_e_supporti",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-12_Tradizioni_di_Namar_ricordo_antico\\03_Abiti_e_supporti_v1.png",
+      "sha256": "3e031adf039233d9a914d55b343e3a126e1902d1526c7fc1bc98c241ae2d6b60"
+    },
+    {
+      "id": "ORGART-037",
+      "subject": "REL-13",
+      "name": "Custodia della Veglia",
+      "type": "simbolo",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-13_Custodia_della_Veglia\\01_Simbolo_principale_v1.png",
+      "sha256": "122d076dfbf3200a66054a60a8df5fa82a06c5e67ce633b1f0a55ca41fd34bb2"
+    },
+    {
+      "id": "ORGART-038",
+      "subject": "REL-13",
+      "name": "Custodia della Veglia",
+      "type": "architettura_rappresentativa",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-13_Custodia_della_Veglia\\02_Architettura_rappresentativa_v1.png",
+      "sha256": "dd41881fcd45d8789077add9b9d8d538be02a6508d99a4045aecf5806d83a135"
+    },
+    {
+      "id": "ORGART-039",
+      "subject": "REL-13",
+      "name": "Custodia della Veglia",
+      "type": "abiti_e_supporti",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-13_Custodia_della_Veglia\\03_Abiti_e_supporti_v1.png",
+      "sha256": "f350c6503898ef4450550d1c33daf642f002abef9b93d71873b009369569d952"
+    },
+    {
+      "id": "ORGART-040",
+      "subject": "REL-14",
+      "name": "Concordia dei Cicli",
+      "type": "simbolo",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-14_Concordia_dei_Cicli\\01_Simbolo_principale_v1.png",
+      "sha256": "da5f00d49eb277adc436a22b7b9556ff48f01f31730e101e1c21e21019a4ad3e"
+    },
+    {
+      "id": "ORGART-041",
+      "subject": "REL-14",
+      "name": "Concordia dei Cicli",
+      "type": "architettura_rappresentativa",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-14_Concordia_dei_Cicli\\02_Architettura_rappresentativa_v1.png",
+      "sha256": "7d5315c0018e978e302d9c33cd044aa84f65856da984eef042071ce2413d1292"
+    },
+    {
+      "id": "ORGART-042",
+      "subject": "REL-14",
+      "name": "Concordia dei Cicli",
+      "type": "abiti_e_supporti",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-14_Concordia_dei_Cicli\\03_Abiti_e_supporti_v1.png",
+      "sha256": "f4ce7494902b00ff8675f2ca6f4ba11ec40aac76cdf2778b4f1f7c7bf30732b5"
+    },
+    {
+      "id": "ORGART-043",
+      "subject": "FAC-01",
+      "name": "Ufficio delle Concordanze",
+      "type": "insegna_istituzionale",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ISTITUZIONI_CIVILI_E_AUTONOME\\FAC-01_Ufficio_delle_Concordanze\\01_Insegna_istituzionale_v1.png",
+      "sha256": "29c2bac7652e24ff17ba8549fa1f49ff41fabe37933d6c2e976ccf1aaedb0234"
+    },
+    {
+      "id": "ORGART-044",
+      "subject": "FAC-02",
+      "name": "Consorzio Tre Moli",
+      "type": "insegna_istituzionale",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ISTITUZIONI_CIVILI_E_AUTONOME\\FAC-02_Consorzio_Tre_Moli\\01_Insegna_istituzionale_v1.png",
+      "sha256": "0ed4289a66f58e76b8e1ff2ff161d57ae9c5d6bfe0c9c5db72000810272b6b27"
+    },
+    {
+      "id": "ORGART-045",
+      "subject": "FAC-03",
+      "name": "Mutua dei Turni del Porto",
+      "type": "insegna_istituzionale",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ISTITUZIONI_CIVILI_E_AUTONOME\\FAC-03_Mutua_dei_Turni_del_Porto\\01_Insegna_istituzionale_v1.png",
+      "sha256": "846d494978eca4da8f1408bb6e1593e1971970cc922103327bb42d7e643adbd2"
+    },
+    {
+      "id": "ORGART-046",
+      "subject": "FAC-04",
+      "name": "Collegium dei Metodi",
+      "type": "insegna_istituzionale",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ISTITUZIONI_CIVILI_E_AUTONOME\\FAC-04_Collegium_dei_Metodi\\01_Insegna_istituzionale_v1.png",
+      "sha256": "42cb3515a04b139aafddb38649d5a0f35c099b14be43d157bd7d6dcb91283e0b"
+    },
+    {
+      "id": "ORGART-047",
+      "subject": "FAC-05",
+      "name": "Witness Houses di Mereth",
+      "type": "insegna_istituzionale",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-06_Witness_Houses\\ISTITUZIONI\\FAC-05_Witness_Houses_di_Mereth\\01_Insegna_istituzionale_v1.png",
+      "sha256": "266fc6f91c1b05aa221e0b088dd44f6c247c942938bea54fff3d2ee2569bc50e"
+    },
+    {
+      "id": "ORGART-048",
+      "subject": "FAC-06",
+      "name": "Capitoli della Concordia",
+      "type": "insegna_istituzionale",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-01_Concordia_dei_Mestieri\\ISTITUZIONI\\FAC-06_Capitoli_della_Concordia\\01_Insegna_istituzionale_v1.png",
+      "sha256": "1ad665f5a89ebe0e73cb8c90591023c0f335e3ae252d0a6874bc51f7ece22f40"
+    },
+    {
+      "id": "ORGART-049",
+      "subject": "FAC-07",
+      "name": "Case della Living Mercy",
+      "type": "insegna_istituzionale",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-03_Living_Mercy\\ISTITUZIONI\\FAC-07_Case_della_Living_Mercy\\01_Insegna_istituzionale_v1.png",
+      "sha256": "c3c54c5bc858d4ab13b3f0be7f055fdecf579e24b36fc85a5b7bfc7ebaaed6ba"
+    },
+    {
+      "id": "ORGART-050",
+      "subject": "FAC-08",
+      "name": "Banca di Lethorne",
+      "type": "insegna_istituzionale",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ISTITUZIONI_CIVILI_E_AUTONOME\\FAC-08_Banca_di_Lethorne\\01_Insegna_istituzionale_v1.png",
+      "sha256": "db82218cb65bcb9aa9cf173ceb93684e68088c177cbb64866a2249fc727f5341"
+    },
+    {
+      "id": "ORGART-051",
+      "subject": "FAC-09",
+      "name": "Camera dei Noli Neressani",
+      "type": "insegna_istituzionale",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ISTITUZIONI_CIVILI_E_AUTONOME\\FAC-09_Camera_dei_Noli_Neressani\\01_Insegna_istituzionale_v1.png",
+      "sha256": "56c875ed9f8c321c33add5a0bfb8ce7ccd6bacf893e8905d2e7e31ec81953f59"
+    },
+    {
+      "id": "ORGART-052",
+      "subject": "FAC-10",
+      "name": "Consiglio delle Officine di Lethorne",
+      "type": "insegna_istituzionale",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ISTITUZIONI_CIVILI_E_AUTONOME\\FAC-10_Consiglio_delle_Officine_di_Lethorne\\01_Insegna_istituzionale_v1.png",
+      "sha256": "78e2d5adc62448a2ce8285b74b13b81ce5180ff31c5d6c1c4246e937a198f033"
+    },
+    {
+      "id": "ORGART-053",
+      "subject": "FAC-11",
+      "name": "Assemblee dei Bacini Aperti",
+      "type": "insegna_istituzionale",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ISTITUZIONI_CIVILI_E_AUTONOME\\FAC-11_Assemblee_dei_Bacini_Aperti\\01_Insegna_istituzionale_v1.png",
+      "sha256": "4d155a46fef91c5b1a30d7db398acd851dfb57871f095f999b1fb0fb10be733b"
+    },
+    {
+      "id": "ORGART-054",
+      "subject": "FAC-12",
+      "name": "Rete delle Vigil di Porta",
+      "type": "insegna_istituzionale",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-04_Vigil_of_Doors\\ISTITUZIONI\\FAC-12_Rete_delle_Vigil_di_Porta\\01_Insegna_istituzionale_v1.png",
+      "sha256": "f8f6d62a4a671d86b4a0745caff5af18d40e47b389da41048b82856ee7e7a002"
+    },
+    {
+      "id": "ORGART-055",
+      "subject": "FAC-13",
+      "name": "Ufficio della Veglia",
+      "type": "insegna_istituzionale",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ISTITUZIONI_CIVILI_E_AUTONOME\\FAC-13_Ufficio_della_Veglia\\01_Insegna_istituzionale_v1.png",
+      "sha256": "08459ba082af04aacfd48c557aef5b1c5f4d77a579611b34e33bfdc554292b53"
+    },
+    {
+      "id": "ORGART-056",
+      "subject": "FAC-14",
+      "name": "Camera dei Sigilli",
+      "type": "insegna_istituzionale",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ISTITUZIONI_CIVILI_E_AUTONOME\\FAC-14_Camera_dei_Sigilli\\01_Insegna_istituzionale_v1.png",
+      "sha256": "dae37195f273f636006c0f4182f7d23cb76c109593bcab6e9481b353f16cf54a"
+    },
+    {
+      "id": "ORGART-057",
+      "subject": "NET-C10-01",
+      "name": "Mutua delle protesi",
+      "type": "insegna_locale_candidata",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\RETI_LOCALI\\Lethorne\\NET-C10-01_Mutua_delle_protesi\\01_Insegna_locale_v1.png",
+      "selected": true,
+      "selection_reason": "Marchio utile su assistenza e ricambi della mutua; distingue servizio e produttore senza certificare efficacia magica.",
+      "sha256": "3fda3c43ac8f7e513295331b49ca5234ea1ac6e9688295d1cf3f6314ed934048"
+    },
+    {
+      "id": "ORGART-058",
+      "subject": "NET-C10-02",
+      "name": "Officina di misura Ruy",
+      "type": "insegna_locale_candidata",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\RETI_LOCALI\\Lethorne\\NET-C10-02_Officina_di_misura_Ruy\\01_Insegna_locale_v1.png",
+      "selected": true,
+      "selection_reason": "Officina nominata: marchio di provenienza su strumenti e procedure, distinto dal Collegium.",
+      "sha256": "a64842ba371aea1dcc19c8c74e4a7d6be3b9bc3767960b04080baf96ac5e111a"
+    },
+    {
+      "id": "ORGART-059",
+      "subject": "NET-C10-03",
+      "name": "Cooperativa di stampa",
+      "type": "insegna_locale_candidata",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\RETI_LOCALI\\Lethorne\\NET-C10-03_Cooperativa_di_stampa\\01_Insegna_locale_v1.png",
+      "selected": true,
+      "selection_reason": "Provenienza delle tirature: identifica la cooperativa, non garantisce la verità del testo stampato.",
+      "sha256": "fcad77ef6331522f1abfbaceff53e65003a741133d9bb312a6a803d2738853c3"
+    },
+    {
+      "id": "ORGART-060",
+      "subject": "NET-C10-04",
+      "name": "Scuola serale dei tornitori",
+      "type": "insegna_locale_candidata",
+      "access": "RISERVATO",
+      "status": "NON_SELEZIONATA",
+      "file": null,
+      "selected": false,
+      "selection_reason": "Scuola e fondo di formazione: bastano nome e tavola didattica. Il fondo Concordia non prova subordinazione; nessun logo assegnato per analogia.",
+      "reuse_asset": null
+    },
+    {
+      "id": "ORGART-061",
+      "subject": "NET-C10-05",
+      "name": "Mulino delle tre paratie",
+      "type": "insegna_locale_candidata",
+      "access": "RISERVATO",
+      "status": "NON_SELEZIONATA",
+      "file": null,
+      "selected": false,
+      "selection_reason": "Rete di personale del mulino dipendente dalla gestione della casa: non creare un marchio di organizzazione autonoma per la squadra di manutenzione.",
+      "reuse_asset": null
+    },
+    {
+      "id": "ORGART-062",
+      "subject": "NET-C10-07",
+      "name": "Biblioteca del borgo",
+      "type": "insegna_locale_candidata",
+      "access": "RISERVATO",
+      "status": "NON_SELEZIONATA",
+      "file": null,
+      "selected": false,
+      "selection_reason": "Biblioteca locale: fotografia/veduta della sede e nome identificano il servizio; nessuna distinta insegna necessaria.",
+      "reuse_asset": null
+    },
+    {
+      "id": "ORGART-063",
+      "subject": "NET-C10-09",
+      "name": "Dragaggio municipale",
+      "type": "insegna_locale_candidata",
+      "access": "RISERVATO",
+      "status": "NON_SELEZIONATA",
+      "file": null,
+      "selected": false,
+      "selection_reason": "Servizio municipale: niente emblema autonomo inventato. Eventuale marchio del municipio solo dopo verifica dell’autorità competente nel gruppo politico.",
+      "reuse_asset": null
+    },
+    {
+      "id": "ORGART-064",
+      "subject": "NET-C10-10",
+      "name": "Archivio delle notifiche marittime",
+      "type": "insegna_locale_candidata",
+      "access": "RISERVATO",
+      "status": "NON_SELEZIONATA",
+      "file": null,
+      "selected": false,
+      "selection_reason": "Ufficio di notifiche: basta identificarlo tramite sede e documenti; il marchio dell’ente competente richiede una relazione confermata, non il logo delle Concordanze per somiglianza.",
+      "reuse_asset": null
+    },
+    {
+      "id": "ORGART-065",
+      "subject": "NET-C10-15",
+      "name": "Rete delle case d'asilo",
+      "type": "insegna_locale_candidata",
+      "access": "RISERVATO",
+      "status": "NON_SELEZIONATA",
+      "file": null,
+      "selected": false,
+      "selection_reason": "Rete di accoglienza: illustrazione di categoria e nome sufficienti. Non attribuire il simbolo religioso di cura senza affiliazione documentata.",
+      "reuse_asset": null
+    },
+    {
+      "id": "ORGART-066",
+      "subject": "NET-C10-17",
+      "name": "Sindacato dei saggi di rame",
+      "type": "insegna_locale_candidata",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\RETI_LOCALI\\Karrel\\NET-C10-17_Sindacato_dei_saggi_di_rame\\01_Insegna_locale_v1.png",
+      "selected": true,
+      "selection_reason": "Identificazione dell’organizzazione dei saggi su campioni e attestazioni; qualità e peso restano verifiche distinte.",
+      "sha256": "f0db7122ec106d8cb4f3ad00ce23cf7a3cd952e28300339b2e320a5805cbb8f6"
+    },
+    {
+      "id": "ORGART-067",
+      "subject": "NET-C10-19",
+      "name": "Mercato dei semi comuni",
+      "type": "insegna_locale_candidata",
+      "access": "RISERVATO",
+      "status": "NON_SELEZIONATA",
+      "file": null,
+      "selected": false,
+      "selection_reason": "Mercato e distribuzione: il segno di una sede non rappresenterebbe necessariamente tutti i partecipanti o i lotti. Nessun nuovo logo comune necessario.",
+      "reuse_asset": null
+    },
+    {
+      "id": "ORGART-068",
+      "subject": "NET-C10-20",
+      "name": "Servizio dei piloti fluviali",
+      "type": "insegna_locale_candidata",
+      "access": "RISERVATO",
+      "status": "NON_SELEZIONATA",
+      "file": null,
+      "selected": false,
+      "selection_reason": "Servizio di pilotaggio: ruolo, sede e attrezzatura già identificano la funzione. Non assimilare pilotaggio a culto dei viaggiatori o soccorso marittimo.",
+      "reuse_asset": null
+    },
+    {
+      "id": "ORGART-069",
+      "subject": "NET-C10-29",
+      "name": "Scuola dei cartografi",
+      "type": "insegna_locale_candidata",
+      "access": "RISERVATO",
+      "status": "NON_SELEZIONATA",
+      "file": null,
+      "selected": false,
+      "selection_reason": "Scuola: pagina e riferimento didattico bastano; non ogni specializzazione necessita di un emblema autonomo.",
+      "reuse_asset": null
+    },
+    {
+      "id": "ORGART-070",
+      "subject": "NET-C10-33",
+      "name": "Collegio delle lingue",
+      "type": "insegna_locale_candidata",
+      "access": "RISERVATO",
+      "status": "NON_SELEZIONATA",
+      "file": null,
+      "selected": false,
+      "selection_reason": "Collegio: documenti e descrizione ne identificano il servizio; un emblema di lingua non aggiunge una distinzione necessaria e non va confuso con Scroll.",
+      "reuse_asset": null
+    },
+    {
+      "id": "ORGART-071",
+      "subject": "NET-C10-39",
+      "name": "Clinica dei restauri",
+      "type": "insegna_locale_candidata",
+      "access": "RISERVATO",
+      "status": "NON_SELEZIONATA",
+      "file": null,
+      "selected": false,
+      "selection_reason": "Clinica: tavole di cura e nome della sede bastano. Non assegnare il logo di Living Mercy per la sola presenza di curatori.",
+      "reuse_asset": null
+    },
+    {
+      "id": "ORGART-072",
+      "subject": "NET-C10-43",
+      "name": "Rete dei battelli medici",
+      "type": "insegna_locale_candidata",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\RETI_LOCALI\\Teru\\NET-C10-43_Rete_dei_battelli_medici\\01_Insegna_locale_v1.png",
+      "selected": true,
+      "selection_reason": "Riconoscibilità del servizio mobile di cura su battelli e comunicazioni; non una promessa di disponibilità universale.",
+      "sha256": "f04d5fda25b3d90ebec171539a0a4b145a794b47b97b362dcec43fd6cec68ed4"
+    },
+    {
+      "id": "ORGART-073",
+      "subject": "CULT-01-BR-01",
+      "name": "Witnessing Oars",
+      "type": "segno_di_corrente_candidato",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-11_Tradizioni_fluviali_del_Creator_ricordo_antico\\COMUNITA\\CULT-01_The_Shore_Companies\\CORRENTI\\CULT-01-BR-01_Witnessing_Oars\\01_Segno_distintivo_v1.png",
+      "selected": true,
+      "selection_reason": "Tre linguette aggiungono il confronto documentale al motivo condiviso dei remi.",
+      "sha256": "bcff2c2891be2e8ec21a9f481c11e9f9e3a747bfcc92c0721aff85fb95605d1f"
+    },
+    {
+      "id": "ORGART-074",
+      "subject": "CULT-01-BR-02",
+      "name": "Open Moorings",
+      "type": "segno_di_corrente_candidato",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-11_Tradizioni_fluviali_del_Creator_ricordo_antico\\COMUNITA\\CULT-01_The_Shore_Companies\\CORRENTI\\CULT-01-BR-02_Open_Moorings\\01_Segno_distintivo_v1.png",
+      "selected": true,
+      "selection_reason": "Apertura dell’anello e cima libera distinguono il diritto di transito dal confronto dei registri.",
+      "sha256": "339110a7590c0e6bfdcdb5cbc8a3ef34932e9858da2c22a48e3f1123f3ce06a9"
+    },
+    {
+      "id": "ORGART-075",
+      "subject": "CULT-01-BR-03",
+      "name": "Last Dawn Brethren",
+      "type": "segno_di_corrente_candidato",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-11_Tradizioni_fluviali_del_Creator_ricordo_antico\\COMUNITA\\CULT-01_The_Shore_Companies\\CORRENTI\\CULT-01-BR-03_Last_Dawn_Brethren\\01_Segno_distintivo_v1.png",
+      "selected": true,
+      "selection_reason": "Soglia e lanterna spenta distinguono l’attesa da accesso civico e critica delle fonti.",
+      "sha256": "4a76e49977d62b337fe272add526795011b375d4cbf9e9541fe793f925bba96f"
+    },
+    {
+      "id": "ORGART-076",
+      "subject": "CULT-02-BR-01",
+      "name": "First Separation Keepers",
+      "type": "segno_di_corrente_candidato",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-12_Tradizioni_di_Namar_ricordo_antico\\COMUNITA\\CULT-02_The_Keepers_of_Namar\\CORRENTI\\CULT-02-BR-01_First_Separation_Keepers\\01_Segno_distintivo_v1.png",
+      "selected": true,
+      "selection_reason": "La linea di riferimento continua distingue la conservazione della configurazione storica.",
+      "sha256": "c01f85708d461584f0f053a2975c7a864c4953cc4bde9bc03770a3fbaf2c933f"
+    },
+    {
+      "id": "ORGART-077",
+      "subject": "CULT-02-BR-02",
+      "name": "Renewal Stewards",
+      "type": "segno_di_corrente_candidato",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-12_Tradizioni_di_Namar_ricordo_antico\\COMUNITA\\CULT-02_The_Keepers_of_Namar\\CORRENTI\\CULT-02-BR-02_Renewal_Stewards\\01_Segno_distintivo_v1.png",
+      "selected": true,
+      "selection_reason": "Giunto sostituibile distingue manutenzione e revisione dalla conservazione del riferimento.",
+      "sha256": "0fffeb78406cc74831ba331483cc53f91dcf17207fa2ba2c1f59e177c937f748"
+    },
+    {
+      "id": "ORGART-078",
+      "subject": "CULT-02-BR-03",
+      "name": "Free Basin Assembly",
+      "type": "segno_di_corrente_candidato",
+      "access": "RISERVATO",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\TRADIZIONI\\REL-12_Tradizioni_di_Namar_ricordo_antico\\COMUNITA\\CULT-02_The_Keepers_of_Namar\\CORRENTI\\CULT-02-BR-03_Free_Basin_Assembly\\01_Segno_distintivo_v1.png",
+      "selected": true,
+      "selection_reason": "Tre prese indipendenti rendono leggibile partecipazione e accesso, senza una corona familiare.",
+      "sha256": "9a3cd709eb76c19780f4b2e2d8a1ed5281081d4da0dc648b6b2095cd4b23fdd3"
+    },
+    {
+      "id": "ORGART-079",
+      "subject": "POL-01",
+      "name": "Orsanne",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-01_Orsanne\\01_Emblema_politico_v1.png",
+      "sha256": "e45370cc053a1d369e04e9d91dc86b587d038f186a1f454c9e140fc915c942e7",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-080",
+      "subject": "POL-02",
+      "name": "Reth",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-02_Reth\\01_Emblema_politico_v1.png",
+      "sha256": "7393e4e5dfbf844740e40fb650206e340c6bb9bf47bbd699e7f3d4f94b4e859c",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-081",
+      "subject": "POL-03",
+      "name": "Neressa",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-03_Neressa\\01_Emblema_politico_v1.png",
+      "sha256": "dbd6708f19d3c01bbda1b2b68e7b670c93365e364e3820aa38e382c7b9a20d3e",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-082",
+      "subject": "POL-04",
+      "name": "Ovel",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-04_Ovel\\01_Emblema_politico_v1.png",
+      "sha256": "290f0dba6e7fbb20dffb857776e7a3fc37630c6b0beee6cd20f78fa566878cb5",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-083",
+      "subject": "POL-05",
+      "name": "Aldren",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-05_Aldren\\01_Emblema_politico_v1.png",
+      "sha256": "00fe5cc76d7ac99ff5f16ec0039023dee342176f9f3b076aef70e456f59e64be",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-084",
+      "subject": "POL-06",
+      "name": "Tessara",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-06_Tessara\\01_Emblema_politico_v1.png",
+      "sha256": "11f69ba01266797593e3863574ea32b217b3d4a8f9d1526a512625a77f0a5044",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-085",
+      "subject": "POL-07",
+      "name": "Varrun",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-07_Varrun\\01_Emblema_politico_v1.png",
+      "sha256": "d09dc1b108cceba0b199a4b42cd686fb3a53319c49d6015165d15183fe083742",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-086",
+      "subject": "POL-08",
+      "name": "Esen",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-08_Esen\\01_Emblema_politico_v1.png",
+      "sha256": "6791f6380ccdbd87863389cc7169075120ad20553c34ac053da22cf1736da23b",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-087",
+      "subject": "POL-09",
+      "name": "Darsen",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-09_Darsen\\01_Emblema_politico_v1.png",
+      "sha256": "e10b04e727ea84cb6140b528529db48bb8a3e0802f13ccf2b00cc92ba332c961",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-088",
+      "subject": "POL-10",
+      "name": "Qadir",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-10_Qadir\\01_Emblema_politico_v1.png",
+      "sha256": "c3b0dfe0d3247af4cf3f95f9fd9ec64112de8269fe575643d08ec78bf518ef65",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-089",
+      "subject": "POL-11",
+      "name": "Ildovar",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-11_Ildovar\\01_Emblema_politico_v1.png",
+      "sha256": "c76a543a647b0b4bed6839e2c971415a37736ae7d4e20f38a57a05abd0853331",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-090",
+      "subject": "POL-12",
+      "name": "Marethis",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-12_Marethis\\01_Emblema_politico_v1.png",
+      "sha256": "b29ad99f2e5f2d401440add631d66229a5f7125b9e1231fe4f76930db54f98be",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-091",
+      "subject": "POL-13",
+      "name": "Saur",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-13_Saur\\01_Emblema_politico_v1.png",
+      "sha256": "ab347a0dd5f15bb37c8b7e0fd44d5ce2694388e75ee74c1c7d3382a833f9136e",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-092",
+      "subject": "POL-14",
+      "name": "Ansei",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-14_Ansei\\01_Emblema_politico_v1.png",
+      "sha256": "ca669f2af364768fd2bae8edd582ea31dd1bd5ee42163383f3fc0cc32c7f2dcd",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-093",
+      "subject": "POL-15",
+      "name": "Teral",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-15_Teral\\01_Emblema_politico_v1.png",
+      "sha256": "428b5603941917b80385e77b3ee863bb8ab090d51a854fe210defa5749fb681e",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-094",
+      "subject": "POL-16",
+      "name": "Kosh",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-16_Kosh\\01_Emblema_politico_v1.png",
+      "sha256": "e2d46a477515b009e0ed09843418c5b6ac6c631cb5e1e41e055e476ea5271191",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-095",
+      "subject": "POL-17",
+      "name": "Meren",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-17_Meren\\01_Emblema_politico_v1.png",
+      "sha256": "0387d762cecb94ff6ebfabf02ba6004899b3a68d4481f85d8e5eb702e67e8737",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-096",
+      "subject": "POL-18",
+      "name": "Arul",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-18_Arul\\01_Emblema_politico_v1.png",
+      "sha256": "c942f5249c207b258586a55e633bc25e15b25b978e1537c74cdf69576fcf36cf",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-097",
+      "subject": "POL-19",
+      "name": "Norell",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-19_Norell\\01_Emblema_politico_v1.png",
+      "sha256": "003c0bd6273e5072b23c21cc20c420da48d246373c920fa3e2312f0475fd58d6",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-098",
+      "subject": "POL-20",
+      "name": "Askar",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-20_Askar\\01_Emblema_politico_v1.png",
+      "sha256": "57241a535d10509b5abc352ea92187e3f8002fce54e74faf18cb1d01d3150e76",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-099",
+      "subject": "POL-21",
+      "name": "Varsha",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-21_Varsha\\01_Emblema_politico_v1.png",
+      "sha256": "d4c392cf81155af4eefc5b6965870d548c333845044f0cc7e67ed27fcd2088ab",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-100",
+      "subject": "POL-22",
+      "name": "Edel",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-22_Edel\\01_Emblema_politico_v1.png",
+      "sha256": "a9a416bd2a83dd6e00949e1ff9bc859e7dc73750f0a6481eba78b4d8d7e8d7c3",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-101",
+      "subject": "POL-23",
+      "name": "Keren",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-23_Keren\\01_Emblema_politico_v1.png",
+      "sha256": "fa32a3c4d0ace16e71c6c2029de2f60847a5848cc6b26ddb4450e9642b89ec30",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-102",
+      "subject": "POL-24",
+      "name": "Sivara",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-24_Sivara\\01_Emblema_politico_v1.png",
+      "sha256": "a10d978ac1389d547ef28253894bcfe526970a7ba9d05da1005b860b1a20df8a",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-103",
+      "subject": "POL-25",
+      "name": "Dorel",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-25_Dorel\\01_Emblema_politico_v1.png",
+      "sha256": "23c7810858ab94e4d7d536b73c2f0f8a86c557ee3a182394259e637feb915ed2",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-104",
+      "subject": "POL-26",
+      "name": "Tevar",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-26_Tevar\\01_Emblema_politico_v1.png",
+      "sha256": "80ff8ae46f9f6af98b73051fdcd1e78443b0fa1b63b4695107d30ccd3c836627",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    },
+    {
+      "id": "ORGART-105",
+      "subject": "POL-27",
+      "name": "Iren",
+      "type": "simbolo_politico_candidato",
+      "access": "GIOCATORE",
+      "status": "DA_VALUTARE",
+      "file": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\RELIGIONI_ISTITUZIONI_FAZIONI\\ORDINAMENTI_POLITICI\\POL-27_Iren\\01_Emblema_politico_v1.png",
+      "sha256": "bbf9652a178dbc2ca0e367a11e1a488981ebe7f01e9fb693ae2890e48aa95d88",
+      "selected": true,
+      "selection_reason": "Identità politica distinta nell’atlante pubblico: un unico emblema principale, senza duplicati provinciali o bandiere."
+    }
+  ],
+  "limits": [
+    "Non tutte le reti locali sono fazioni ideologiche",
+    "Legami incerti esplicitamente distinti da appartenenze",
+    "Istituzioni generiche descritte nelle tradizioni ereditano il simbolo finché non ricevono una identità distinta",
+    "Nessun disegno già prodotto per questo gruppo",
+    "Nessuna integrazione cosmica completa al T0: CAN-250; fonti testuali esplicite raccordate, audit generale di bilanciamento distinto"
+  ],
+  "production_summary": {
+    "tradition_assets_produced": 42,
+    "institution_assets_produced": 14,
+    "current_assets_produced": 6,
+    "local_assets_produced": 5,
+    "political_assets_produced": 27,
+    "total_produced": 94,
+    "local_candidates_excluded": 11,
+    "candidates_remaining": 0,
+    "production_closed": true,
+    "approval_and_reserved_visual_review": "APERTE"
+  }
+}

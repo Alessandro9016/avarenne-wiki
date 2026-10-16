@@ -1,0 +1,3218 @@
+{
+  "version": "1.0",
+  "access": "NARRATOR_RESERVED",
+  "edges": [
+    {
+      "from_id": "ART-001",
+      "to_id": "U11-01",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-001",
+      "to_id": "LOC-001",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-001",
+      "to_id": "MAT-002",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-001",
+      "to_id": "CAST-031",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-002",
+      "to_id": "U11-02",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-002",
+      "to_id": "LOC-006",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-002",
+      "to_id": "MAT-004",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-002",
+      "to_id": "CAST-242",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-003",
+      "to_id": "U11-03",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-003",
+      "to_id": "LOC-011",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-003",
+      "to_id": "MAT-002",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-003",
+      "to_id": "CAST-198",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-004",
+      "to_id": "U11-03",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-004",
+      "to_id": "LOC-013",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-004",
+      "to_id": "MAT-003",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-004",
+      "to_id": "CAST-198",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-005",
+      "to_id": "U11-04",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-005",
+      "to_id": "LOC-016",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-005",
+      "to_id": "MAT-006",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-005",
+      "to_id": "CAST-029",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-006",
+      "to_id": "U11-04",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-006",
+      "to_id": "LOC-016",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-006",
+      "to_id": "MAT-007",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-006",
+      "to_id": "CAST-075",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-007",
+      "to_id": "U11-05",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-007",
+      "to_id": "LOC-038",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-007",
+      "to_id": "MAT-009",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-007",
+      "to_id": "CAST-348",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-008",
+      "to_id": "U11-01",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-008",
+      "to_id": "LOC-001",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-008",
+      "to_id": "MAT-008",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-008",
+      "to_id": "CAST-028",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-009",
+      "to_id": "U11-05",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-009",
+      "to_id": "LOC-003",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-009",
+      "to_id": "MAT-002",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-009",
+      "to_id": "CAST-006",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-010",
+      "to_id": "U11-06",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-010",
+      "to_id": "LOC-007",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-010",
+      "to_id": "MAT-010",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-010",
+      "to_id": "CAST-285",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-011",
+      "to_id": "U11-07",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-011",
+      "to_id": "LOC-036",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-011",
+      "to_id": "MAT-008",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-011",
+      "to_id": "CAST-041",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-012",
+      "to_id": "U11-05",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-012",
+      "to_id": "LOC-003",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-012",
+      "to_id": "MAT-009",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-012",
+      "to_id": "CAST-198",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-013",
+      "to_id": "U11-08",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-013",
+      "to_id": "LOC-037",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-013",
+      "to_id": "MAT-010",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-013",
+      "to_id": "CAST-342",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-014",
+      "to_id": "U11-03",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-014",
+      "to_id": "LOC-039",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-014",
+      "to_id": "MAT-004",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-014",
+      "to_id": "CAST-198",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-015",
+      "to_id": "U11-08",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-015",
+      "to_id": "LOC-042",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-015",
+      "to_id": "MAT-012",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-015",
+      "to_id": "CAST-367",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-016",
+      "to_id": "U11-09",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-016",
+      "to_id": "LOC-051",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-016",
+      "to_id": "MAT-011",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-016",
+      "to_id": "CAST-423",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-017",
+      "to_id": "U11-09",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-017",
+      "to_id": "LOC-051",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-017",
+      "to_id": "MAT-014",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-017",
+      "to_id": "CAST-177",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-018",
+      "to_id": "U11-10",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-018",
+      "to_id": "LOC-058",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-018",
+      "to_id": "MAT-015",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-018",
+      "to_id": "CAST-184",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-019",
+      "to_id": "U11-11",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-019",
+      "to_id": "LOC-022",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-019",
+      "to_id": "MAT-006",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-019",
+      "to_id": "CAST-323",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-020",
+      "to_id": "U11-11",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-020",
+      "to_id": "LOC-049",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-020",
+      "to_id": "MAT-013",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-020",
+      "to_id": "CAST-410",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-021",
+      "to_id": "U11-12",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-021",
+      "to_id": "LOC-045",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-021",
+      "to_id": "MAT-016",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-021",
+      "to_id": "CAST-386",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-022",
+      "to_id": "U11-06",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-022",
+      "to_id": "LOC-055",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-022",
+      "to_id": "MAT-017",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-022",
+      "to_id": "CAST-442",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-023",
+      "to_id": "U11-04",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-023",
+      "to_id": "LOC-016",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-023",
+      "to_id": "MAT-018",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-023",
+      "to_id": "CAST-023",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-024",
+      "to_id": "U11-12",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-024",
+      "to_id": "LOC-054",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-024",
+      "to_id": "MAT-018",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-024",
+      "to_id": "CAST-018",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "ART-025",
+      "to_id": "U11-07",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "ART-025",
+      "to_id": "LOC-032",
+      "kind": "location"
+    },
+    {
+      "from_id": "ART-025",
+      "to_id": "MAT-011",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "ART-025",
+      "to_id": "CAST-030",
+      "kind": "contact_not_owner"
+    },
+    {
+      "from_id": "MAT-001",
+      "to_id": "U11-02",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "MAT-001",
+      "to_id": "LOC-006",
+      "kind": "location"
+    },
+    {
+      "from_id": "MAT-002",
+      "to_id": "U11-03",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "MAT-002",
+      "to_id": "LOC-011",
+      "kind": "location"
+    },
+    {
+      "from_id": "MAT-003",
+      "to_id": "U11-03",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "MAT-003",
+      "to_id": "LOC-013",
+      "kind": "location"
+    },
+    {
+      "from_id": "MAT-004",
+      "to_id": "U11-02",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "MAT-004",
+      "to_id": "LOC-015",
+      "kind": "location"
+    },
+    {
+      "from_id": "MAT-005",
+      "to_id": "U11-04",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "MAT-005",
+      "to_id": "LOC-008",
+      "kind": "location"
+    },
+    {
+      "from_id": "MAT-006",
+      "to_id": "U11-04",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "MAT-006",
+      "to_id": "LOC-016",
+      "kind": "location"
+    },
+    {
+      "from_id": "MAT-007",
+      "to_id": "U11-04",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "MAT-007",
+      "to_id": "LOC-024",
+      "kind": "location"
+    },
+    {
+      "from_id": "MAT-008",
+      "to_id": "U11-01",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "MAT-008",
+      "to_id": "LOC-007",
+      "kind": "location"
+    },
+    {
+      "from_id": "MAT-009",
+      "to_id": "U11-05",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "MAT-009",
+      "to_id": "LOC-038",
+      "kind": "location"
+    },
+    {
+      "from_id": "MAT-010",
+      "to_id": "U11-06",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "MAT-010",
+      "to_id": "LOC-013",
+      "kind": "location"
+    },
+    {
+      "from_id": "MAT-011",
+      "to_id": "U11-07",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "MAT-011",
+      "to_id": "LOC-032",
+      "kind": "location"
+    },
+    {
+      "from_id": "MAT-012",
+      "to_id": "U11-08",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "MAT-012",
+      "to_id": "LOC-042",
+      "kind": "location"
+    },
+    {
+      "from_id": "MAT-013",
+      "to_id": "U11-11",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "MAT-013",
+      "to_id": "LOC-049",
+      "kind": "location"
+    },
+    {
+      "from_id": "MAT-014",
+      "to_id": "U11-09",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "MAT-014",
+      "to_id": "LOC-051",
+      "kind": "location"
+    },
+    {
+      "from_id": "MAT-015",
+      "to_id": "U11-10",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "MAT-015",
+      "to_id": "LOC-058",
+      "kind": "location"
+    },
+    {
+      "from_id": "MAT-016",
+      "to_id": "U11-12",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "MAT-016",
+      "to_id": "LOC-045",
+      "kind": "location"
+    },
+    {
+      "from_id": "MAT-017",
+      "to_id": "U11-06",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "MAT-017",
+      "to_id": "LOC-055",
+      "kind": "location"
+    },
+    {
+      "from_id": "MAT-018",
+      "to_id": "U11-12",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "MAT-018",
+      "to_id": "LOC-054",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-001",
+      "to_id": "U11-07",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-001",
+      "to_id": "LOC-004",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-002",
+      "to_id": "U11-02",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-002",
+      "to_id": "LOC-006",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-002",
+      "to_id": "MAT-004",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "CRE-003",
+      "to_id": "U11-04",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-003",
+      "to_id": "LOC-016",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-004",
+      "to_id": "U11-03",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-004",
+      "to_id": "LOC-011",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-005",
+      "to_id": "U11-08",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-005",
+      "to_id": "LOC-035",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-006",
+      "to_id": "U11-04",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-006",
+      "to_id": "LOC-016",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-007",
+      "to_id": "U11-03",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-007",
+      "to_id": "LOC-013",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-008",
+      "to_id": "U11-05",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-008",
+      "to_id": "LOC-038",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-009",
+      "to_id": "U11-07",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-009",
+      "to_id": "LOC-026",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-009",
+      "to_id": "MAT-011",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "CRE-010",
+      "to_id": "U11-04",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-010",
+      "to_id": "LOC-016",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-011",
+      "to_id": "U11-06",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-011",
+      "to_id": "LOC-013",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-012",
+      "to_id": "U11-08",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-012",
+      "to_id": "LOC-020",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-013",
+      "to_id": "U11-09",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-013",
+      "to_id": "LOC-051",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-013",
+      "to_id": "MAT-014",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "CRE-014",
+      "to_id": "U11-10",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-014",
+      "to_id": "LOC-058",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-014",
+      "to_id": "MAT-015",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "CRE-015",
+      "to_id": "U11-11",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-015",
+      "to_id": "LOC-049",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-015",
+      "to_id": "MAT-013",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "CRE-016",
+      "to_id": "U11-12",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-016",
+      "to_id": "LOC-045",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-016",
+      "to_id": "MAT-016",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "CRE-017",
+      "to_id": "U11-08",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-017",
+      "to_id": "LOC-044",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-018",
+      "to_id": "U11-06",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-018",
+      "to_id": "LOC-055",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-018",
+      "to_id": "MAT-017",
+      "kind": "support_or_supply"
+    },
+    {
+      "from_id": "CRE-019",
+      "to_id": "U11-11",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-019",
+      "to_id": "LOC-022",
+      "kind": "location"
+    },
+    {
+      "from_id": "CRE-020",
+      "to_id": "U11-12",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "CRE-020",
+      "to_id": "LOC-054",
+      "kind": "location"
+    },
+    {
+      "from_id": "PEO-01",
+      "to_id": "U11-05",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "PEO-02",
+      "to_id": "U11-06",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "PEO-03",
+      "to_id": "U11-04",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "PEO-04",
+      "to_id": "U11-03",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "PEO-05",
+      "to_id": "U11-11",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "PHN-001",
+      "to_id": "U11-01",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "PHN-001",
+      "to_id": "LOC-001",
+      "kind": "location"
+    },
+    {
+      "from_id": "PHN-002",
+      "to_id": "U11-02",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "PHN-002",
+      "to_id": "LOC-006",
+      "kind": "location"
+    },
+    {
+      "from_id": "PHN-003",
+      "to_id": "U11-03",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "PHN-003",
+      "to_id": "LOC-013",
+      "kind": "location"
+    },
+    {
+      "from_id": "PHN-004",
+      "to_id": "U11-04",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "PHN-004",
+      "to_id": "LOC-016",
+      "kind": "location"
+    },
+    {
+      "from_id": "PHN-005",
+      "to_id": "U11-05",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "PHN-005",
+      "to_id": "LOC-038",
+      "kind": "location"
+    },
+    {
+      "from_id": "PHN-006",
+      "to_id": "U11-06",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "PHN-006",
+      "to_id": "LOC-055",
+      "kind": "location"
+    },
+    {
+      "from_id": "PHN-007",
+      "to_id": "U11-07",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "PHN-007",
+      "to_id": "LOC-036",
+      "kind": "location"
+    },
+    {
+      "from_id": "PHN-008",
+      "to_id": "U11-08",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "PHN-008",
+      "to_id": "LOC-042",
+      "kind": "location"
+    },
+    {
+      "from_id": "PHN-009",
+      "to_id": "U11-09",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "PHN-009",
+      "to_id": "LOC-051",
+      "kind": "location"
+    },
+    {
+      "from_id": "PHN-010",
+      "to_id": "U11-10",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "PHN-010",
+      "to_id": "LOC-058",
+      "kind": "location"
+    },
+    {
+      "from_id": "PHN-011",
+      "to_id": "U11-11",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "PHN-011",
+      "to_id": "LOC-049",
+      "kind": "location"
+    },
+    {
+      "from_id": "PHN-012",
+      "to_id": "U11-12",
+      "kind": "game_unit"
+    },
+    {
+      "from_id": "PHN-012",
+      "to_id": "LOC-054",
+      "kind": "location"
+    },
+    {
+      "from_id": "U11-01",
+      "to_id": "CAST-031",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-01",
+      "to_id": "CAST-032",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-01",
+      "to_id": "CAST-002",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-02",
+      "to_id": "CAST-242",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-03",
+      "to_id": "CAST-198",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-04",
+      "to_id": "CAST-029",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-04",
+      "to_id": "CAST-075",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-05",
+      "to_id": "CAST-348",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-05",
+      "to_id": "CAST-006",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-06",
+      "to_id": "CAST-442",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-06",
+      "to_id": "CAST-285",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-07",
+      "to_id": "CAST-030",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-07",
+      "to_id": "CAST-078",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-08",
+      "to_id": "CAST-367",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-08",
+      "to_id": "CAST-342",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-09",
+      "to_id": "CAST-177",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-09",
+      "to_id": "CAST-423",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-10",
+      "to_id": "CAST-184",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-10",
+      "to_id": "CAST-460",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-11",
+      "to_id": "CAST-323",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-11",
+      "to_id": "CAST-410",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-12",
+      "to_id": "CAST-018",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "U11-12",
+      "to_id": "CAST-386",
+      "kind": "actor_with_current_limits"
+    },
+    {
+      "from_id": "CULT-01",
+      "to_id": "U11-05",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "CULT-01",
+      "to_id": "U11-11",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "CULT-02",
+      "to_id": "U11-04",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "CULT-02",
+      "to_id": "ART-006",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "IND-01",
+      "to_id": "U11-01",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "IND-01",
+      "to_id": "ART-008",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "IND-02",
+      "to_id": "U11-03",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "IND-02",
+      "to_id": "MAT-002",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "IND-03",
+      "to_id": "U11-07",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "IND-03",
+      "to_id": "CRE-001",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "GEO-U01",
+      "to_id": "U11-06",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "GEO-U01",
+      "to_id": "ART-010",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "GEO-U02",
+      "to_id": "U11-07",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "GEO-U02",
+      "to_id": "CRE-001",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "GEO-U03",
+      "to_id": "U11-07",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "GEO-U03",
+      "to_id": "ART-025",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "GEO-U03",
+      "to_id": "MAT-011",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "GEO-U04",
+      "to_id": "U11-07",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "GEO-U04",
+      "to_id": "ART-011",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "GEO-U04",
+      "to_id": "PHN-007",
+      "kind": "existing_unit_component"
+    },
+    {
+      "from_id": "BST-001",
+      "to_id": "LOC-026",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-001",
+      "to_id": "CAST-119",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-001",
+      "to_id": "EFF-20-II-M03",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-002",
+      "to_id": "LOC-056",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-002",
+      "to_id": "CAST-182",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-002",
+      "to_id": "EFF-22-III-M01",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-003",
+      "to_id": "LOC-042",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-003",
+      "to_id": "CAST-166",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-003",
+      "to_id": "EFF-06-II-M03",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-004",
+      "to_id": "LOC-046",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-004",
+      "to_id": "CAST-391",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-004",
+      "to_id": "EFF-13-II-M04",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-005",
+      "to_id": "LOC-061",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-005",
+      "to_id": "CAST-176",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-005",
+      "to_id": "EFF-19-III-M02",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-006",
+      "to_id": "LOC-004",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-006",
+      "to_id": "CAST-138",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-006",
+      "to_id": "EFF-04-II-M01",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-007",
+      "to_id": "LOC-051",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-007",
+      "to_id": "CAST-177",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-007",
+      "to_id": "EFF-10-II-M04",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-008",
+      "to_id": "LOC-044",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-008",
+      "to_id": "CAST-168",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-008",
+      "to_id": "EFF-23-II-M02",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-009",
+      "to_id": "LOC-055",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-009",
+      "to_id": "CAST-181",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-009",
+      "to_id": "EFF-19-I-M02",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-010",
+      "to_id": "LOC-054",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-010",
+      "to_id": "CAST-180",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-010",
+      "to_id": "EFF-06-II-M02",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-011",
+      "to_id": "LOC-013",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-011",
+      "to_id": "CAST-147",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-011",
+      "to_id": "EFF-09-I-M02",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-012",
+      "to_id": "LOC-045",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-012",
+      "to_id": "CAST-169",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-012",
+      "to_id": "EFF-06-II-M02",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-013",
+      "to_id": "LOC-007",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-013",
+      "to_id": "CAST-142",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-013",
+      "to_id": "EFF-13-III-M03",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-014",
+      "to_id": "LOC-001",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-014",
+      "to_id": "CAST-027",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-014",
+      "to_id": "EFF-20-II-M03",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-015",
+      "to_id": "LOC-051",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-015",
+      "to_id": "CAST-421",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-015",
+      "to_id": "EFF-10-I-M04",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-016",
+      "to_id": "LOC-030",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-016",
+      "to_id": "CAST-053",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-016",
+      "to_id": "EFF-09-II-M04",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-017",
+      "to_id": "LOC-001",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-017",
+      "to_id": "CAST-027",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-017",
+      "to_id": "EFF-18-III-M04",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-018",
+      "to_id": "LOC-009",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-018",
+      "to_id": "CAST-144",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-018",
+      "to_id": "EFF-18-I-M03",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-019",
+      "to_id": "LOC-058",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-019",
+      "to_id": "CAST-184",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-019",
+      "to_id": "EFF-18-III-M02",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-020",
+      "to_id": "LOC-004",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-020",
+      "to_id": "CAST-035",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-020",
+      "to_id": "EFF-07-II-M03",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-021",
+      "to_id": "LOC-041",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-021",
+      "to_id": "CAST-165",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-021",
+      "to_id": "EFF-11-III-M03",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-022",
+      "to_id": "LOC-016",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-022",
+      "to_id": "CAST-029",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-022",
+      "to_id": "EFF-05-III-M03",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-023",
+      "to_id": "LOC-048",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-023",
+      "to_id": "CAST-173",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-023",
+      "to_id": "EFF-06-II-M02",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-024",
+      "to_id": "LOC-058",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-024",
+      "to_id": "CAST-184",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-024",
+      "to_id": "EFF-23-III-M04",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-025",
+      "to_id": "LOC-037",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-025",
+      "to_id": "CAST-161",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-025",
+      "to_id": "EFF-11-III-M01",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-026",
+      "to_id": "LOC-006",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-026",
+      "to_id": "CAST-241",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-026",
+      "to_id": "EFF-06-II-M02",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-027",
+      "to_id": "LOC-010",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-027",
+      "to_id": "CAST-145",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-027",
+      "to_id": "EFF-17-II-M05",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-028",
+      "to_id": "LOC-029",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-028",
+      "to_id": "CAST-030",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-028",
+      "to_id": "EFF-01-IV-M01",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-029",
+      "to_id": "LOC-056",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-029",
+      "to_id": "CAST-182",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-029",
+      "to_id": "EFF-09-II-M02",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-030",
+      "to_id": "LOC-057",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-030",
+      "to_id": "CAST-183",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-030",
+      "to_id": "EFF-22-IV-M04",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-031",
+      "to_id": "LOC-047",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-031",
+      "to_id": "CAST-172",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-031",
+      "to_id": "EFF-11-IV-M02",
+      "kind": "functional_reference_not_full_inscription"
+    },
+    {
+      "from_id": "BST-032",
+      "to_id": "LOC-059",
+      "kind": "district_habitat_not_city_centre"
+    },
+    {
+      "from_id": "BST-032",
+      "to_id": "CAST-185",
+      "kind": "civil_contact_not_owner"
+    },
+    {
+      "from_id": "BST-032",
+      "to_id": "EFF-08-II-M03",
+      "kind": "functional_reference_not_full_inscription"
+    }
+  ],
+  "reverse_index": {
+    "U11-01": [
+      {
+        "from_id": "ART-001",
+        "to_id": "U11-01",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "ART-008",
+        "to_id": "U11-01",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "MAT-008",
+        "to_id": "U11-01",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "PHN-001",
+        "to_id": "U11-01",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "IND-01",
+        "to_id": "U11-01",
+        "kind": "existing_unit_component"
+      }
+    ],
+    "LOC-001": [
+      {
+        "from_id": "ART-001",
+        "to_id": "LOC-001",
+        "kind": "location"
+      },
+      {
+        "from_id": "ART-008",
+        "to_id": "LOC-001",
+        "kind": "location"
+      },
+      {
+        "from_id": "PHN-001",
+        "to_id": "LOC-001",
+        "kind": "location"
+      }
+    ],
+    "MAT-002": [
+      {
+        "from_id": "ART-001",
+        "to_id": "MAT-002",
+        "kind": "support_or_supply"
+      },
+      {
+        "from_id": "ART-003",
+        "to_id": "MAT-002",
+        "kind": "support_or_supply"
+      },
+      {
+        "from_id": "ART-009",
+        "to_id": "MAT-002",
+        "kind": "support_or_supply"
+      },
+      {
+        "from_id": "IND-02",
+        "to_id": "MAT-002",
+        "kind": "existing_unit_component"
+      }
+    ],
+    "CAST-031": [
+      {
+        "from_id": "ART-001",
+        "to_id": "CAST-031",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "U11-01",
+        "to_id": "CAST-031",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "U11-02": [
+      {
+        "from_id": "ART-002",
+        "to_id": "U11-02",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "MAT-001",
+        "to_id": "U11-02",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "MAT-004",
+        "to_id": "U11-02",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-002",
+        "to_id": "U11-02",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "PHN-002",
+        "to_id": "U11-02",
+        "kind": "game_unit"
+      }
+    ],
+    "LOC-006": [
+      {
+        "from_id": "ART-002",
+        "to_id": "LOC-006",
+        "kind": "location"
+      },
+      {
+        "from_id": "MAT-001",
+        "to_id": "LOC-006",
+        "kind": "location"
+      },
+      {
+        "from_id": "CRE-002",
+        "to_id": "LOC-006",
+        "kind": "location"
+      },
+      {
+        "from_id": "PHN-002",
+        "to_id": "LOC-006",
+        "kind": "location"
+      }
+    ],
+    "MAT-004": [
+      {
+        "from_id": "ART-002",
+        "to_id": "MAT-004",
+        "kind": "support_or_supply"
+      },
+      {
+        "from_id": "ART-014",
+        "to_id": "MAT-004",
+        "kind": "support_or_supply"
+      },
+      {
+        "from_id": "CRE-002",
+        "to_id": "MAT-004",
+        "kind": "support_or_supply"
+      }
+    ],
+    "CAST-242": [
+      {
+        "from_id": "ART-002",
+        "to_id": "CAST-242",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "U11-02",
+        "to_id": "CAST-242",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "U11-03": [
+      {
+        "from_id": "ART-003",
+        "to_id": "U11-03",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "ART-004",
+        "to_id": "U11-03",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "ART-014",
+        "to_id": "U11-03",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "MAT-002",
+        "to_id": "U11-03",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "MAT-003",
+        "to_id": "U11-03",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-004",
+        "to_id": "U11-03",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-007",
+        "to_id": "U11-03",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "PEO-04",
+        "to_id": "U11-03",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "PHN-003",
+        "to_id": "U11-03",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "IND-02",
+        "to_id": "U11-03",
+        "kind": "existing_unit_component"
+      }
+    ],
+    "LOC-011": [
+      {
+        "from_id": "ART-003",
+        "to_id": "LOC-011",
+        "kind": "location"
+      },
+      {
+        "from_id": "MAT-002",
+        "to_id": "LOC-011",
+        "kind": "location"
+      },
+      {
+        "from_id": "CRE-004",
+        "to_id": "LOC-011",
+        "kind": "location"
+      }
+    ],
+    "CAST-198": [
+      {
+        "from_id": "ART-003",
+        "to_id": "CAST-198",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "ART-004",
+        "to_id": "CAST-198",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "ART-012",
+        "to_id": "CAST-198",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "ART-014",
+        "to_id": "CAST-198",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "U11-03",
+        "to_id": "CAST-198",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "LOC-013": [
+      {
+        "from_id": "ART-004",
+        "to_id": "LOC-013",
+        "kind": "location"
+      },
+      {
+        "from_id": "MAT-003",
+        "to_id": "LOC-013",
+        "kind": "location"
+      },
+      {
+        "from_id": "MAT-010",
+        "to_id": "LOC-013",
+        "kind": "location"
+      },
+      {
+        "from_id": "CRE-007",
+        "to_id": "LOC-013",
+        "kind": "location"
+      },
+      {
+        "from_id": "CRE-011",
+        "to_id": "LOC-013",
+        "kind": "location"
+      },
+      {
+        "from_id": "PHN-003",
+        "to_id": "LOC-013",
+        "kind": "location"
+      }
+    ],
+    "MAT-003": [
+      {
+        "from_id": "ART-004",
+        "to_id": "MAT-003",
+        "kind": "support_or_supply"
+      }
+    ],
+    "U11-04": [
+      {
+        "from_id": "ART-005",
+        "to_id": "U11-04",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "ART-006",
+        "to_id": "U11-04",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "ART-023",
+        "to_id": "U11-04",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "MAT-005",
+        "to_id": "U11-04",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "MAT-006",
+        "to_id": "U11-04",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "MAT-007",
+        "to_id": "U11-04",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-003",
+        "to_id": "U11-04",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-006",
+        "to_id": "U11-04",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-010",
+        "to_id": "U11-04",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "PEO-03",
+        "to_id": "U11-04",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "PHN-004",
+        "to_id": "U11-04",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CULT-02",
+        "to_id": "U11-04",
+        "kind": "existing_unit_component"
+      }
+    ],
+    "LOC-016": [
+      {
+        "from_id": "ART-005",
+        "to_id": "LOC-016",
+        "kind": "location"
+      },
+      {
+        "from_id": "ART-006",
+        "to_id": "LOC-016",
+        "kind": "location"
+      },
+      {
+        "from_id": "ART-023",
+        "to_id": "LOC-016",
+        "kind": "location"
+      },
+      {
+        "from_id": "MAT-006",
+        "to_id": "LOC-016",
+        "kind": "location"
+      },
+      {
+        "from_id": "CRE-003",
+        "to_id": "LOC-016",
+        "kind": "location"
+      },
+      {
+        "from_id": "CRE-006",
+        "to_id": "LOC-016",
+        "kind": "location"
+      },
+      {
+        "from_id": "CRE-010",
+        "to_id": "LOC-016",
+        "kind": "location"
+      },
+      {
+        "from_id": "PHN-004",
+        "to_id": "LOC-016",
+        "kind": "location"
+      }
+    ],
+    "MAT-006": [
+      {
+        "from_id": "ART-005",
+        "to_id": "MAT-006",
+        "kind": "support_or_supply"
+      },
+      {
+        "from_id": "ART-019",
+        "to_id": "MAT-006",
+        "kind": "support_or_supply"
+      }
+    ],
+    "CAST-029": [
+      {
+        "from_id": "ART-005",
+        "to_id": "CAST-029",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "U11-04",
+        "to_id": "CAST-029",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "MAT-007": [
+      {
+        "from_id": "ART-006",
+        "to_id": "MAT-007",
+        "kind": "support_or_supply"
+      }
+    ],
+    "CAST-075": [
+      {
+        "from_id": "ART-006",
+        "to_id": "CAST-075",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "U11-04",
+        "to_id": "CAST-075",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "U11-05": [
+      {
+        "from_id": "ART-007",
+        "to_id": "U11-05",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "ART-009",
+        "to_id": "U11-05",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "ART-012",
+        "to_id": "U11-05",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "MAT-009",
+        "to_id": "U11-05",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-008",
+        "to_id": "U11-05",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "PEO-01",
+        "to_id": "U11-05",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "PHN-005",
+        "to_id": "U11-05",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CULT-01",
+        "to_id": "U11-05",
+        "kind": "existing_unit_component"
+      }
+    ],
+    "LOC-038": [
+      {
+        "from_id": "ART-007",
+        "to_id": "LOC-038",
+        "kind": "location"
+      },
+      {
+        "from_id": "MAT-009",
+        "to_id": "LOC-038",
+        "kind": "location"
+      },
+      {
+        "from_id": "CRE-008",
+        "to_id": "LOC-038",
+        "kind": "location"
+      },
+      {
+        "from_id": "PHN-005",
+        "to_id": "LOC-038",
+        "kind": "location"
+      }
+    ],
+    "MAT-009": [
+      {
+        "from_id": "ART-007",
+        "to_id": "MAT-009",
+        "kind": "support_or_supply"
+      },
+      {
+        "from_id": "ART-012",
+        "to_id": "MAT-009",
+        "kind": "support_or_supply"
+      }
+    ],
+    "CAST-348": [
+      {
+        "from_id": "ART-007",
+        "to_id": "CAST-348",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "U11-05",
+        "to_id": "CAST-348",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "MAT-008": [
+      {
+        "from_id": "ART-008",
+        "to_id": "MAT-008",
+        "kind": "support_or_supply"
+      },
+      {
+        "from_id": "ART-011",
+        "to_id": "MAT-008",
+        "kind": "support_or_supply"
+      }
+    ],
+    "CAST-028": [
+      {
+        "from_id": "ART-008",
+        "to_id": "CAST-028",
+        "kind": "contact_not_owner"
+      }
+    ],
+    "LOC-003": [
+      {
+        "from_id": "ART-009",
+        "to_id": "LOC-003",
+        "kind": "location"
+      },
+      {
+        "from_id": "ART-012",
+        "to_id": "LOC-003",
+        "kind": "location"
+      }
+    ],
+    "CAST-006": [
+      {
+        "from_id": "ART-009",
+        "to_id": "CAST-006",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "U11-05",
+        "to_id": "CAST-006",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "U11-06": [
+      {
+        "from_id": "ART-010",
+        "to_id": "U11-06",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "ART-022",
+        "to_id": "U11-06",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "MAT-010",
+        "to_id": "U11-06",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "MAT-017",
+        "to_id": "U11-06",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-011",
+        "to_id": "U11-06",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-018",
+        "to_id": "U11-06",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "PEO-02",
+        "to_id": "U11-06",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "PHN-006",
+        "to_id": "U11-06",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "GEO-U01",
+        "to_id": "U11-06",
+        "kind": "existing_unit_component"
+      }
+    ],
+    "LOC-007": [
+      {
+        "from_id": "ART-010",
+        "to_id": "LOC-007",
+        "kind": "location"
+      },
+      {
+        "from_id": "MAT-008",
+        "to_id": "LOC-007",
+        "kind": "location"
+      }
+    ],
+    "MAT-010": [
+      {
+        "from_id": "ART-010",
+        "to_id": "MAT-010",
+        "kind": "support_or_supply"
+      },
+      {
+        "from_id": "ART-013",
+        "to_id": "MAT-010",
+        "kind": "support_or_supply"
+      }
+    ],
+    "CAST-285": [
+      {
+        "from_id": "ART-010",
+        "to_id": "CAST-285",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "U11-06",
+        "to_id": "CAST-285",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "U11-07": [
+      {
+        "from_id": "ART-011",
+        "to_id": "U11-07",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "ART-025",
+        "to_id": "U11-07",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "MAT-011",
+        "to_id": "U11-07",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-001",
+        "to_id": "U11-07",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-009",
+        "to_id": "U11-07",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "PHN-007",
+        "to_id": "U11-07",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "IND-03",
+        "to_id": "U11-07",
+        "kind": "existing_unit_component"
+      },
+      {
+        "from_id": "GEO-U02",
+        "to_id": "U11-07",
+        "kind": "existing_unit_component"
+      },
+      {
+        "from_id": "GEO-U03",
+        "to_id": "U11-07",
+        "kind": "existing_unit_component"
+      },
+      {
+        "from_id": "GEO-U04",
+        "to_id": "U11-07",
+        "kind": "existing_unit_component"
+      }
+    ],
+    "LOC-036": [
+      {
+        "from_id": "ART-011",
+        "to_id": "LOC-036",
+        "kind": "location"
+      },
+      {
+        "from_id": "PHN-007",
+        "to_id": "LOC-036",
+        "kind": "location"
+      }
+    ],
+    "CAST-041": [
+      {
+        "from_id": "ART-011",
+        "to_id": "CAST-041",
+        "kind": "contact_not_owner"
+      }
+    ],
+    "U11-08": [
+      {
+        "from_id": "ART-013",
+        "to_id": "U11-08",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "ART-015",
+        "to_id": "U11-08",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "MAT-012",
+        "to_id": "U11-08",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-005",
+        "to_id": "U11-08",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-012",
+        "to_id": "U11-08",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-017",
+        "to_id": "U11-08",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "PHN-008",
+        "to_id": "U11-08",
+        "kind": "game_unit"
+      }
+    ],
+    "LOC-037": [
+      {
+        "from_id": "ART-013",
+        "to_id": "LOC-037",
+        "kind": "location"
+      }
+    ],
+    "CAST-342": [
+      {
+        "from_id": "ART-013",
+        "to_id": "CAST-342",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "U11-08",
+        "to_id": "CAST-342",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "LOC-039": [
+      {
+        "from_id": "ART-014",
+        "to_id": "LOC-039",
+        "kind": "location"
+      }
+    ],
+    "LOC-042": [
+      {
+        "from_id": "ART-015",
+        "to_id": "LOC-042",
+        "kind": "location"
+      },
+      {
+        "from_id": "MAT-012",
+        "to_id": "LOC-042",
+        "kind": "location"
+      },
+      {
+        "from_id": "PHN-008",
+        "to_id": "LOC-042",
+        "kind": "location"
+      }
+    ],
+    "MAT-012": [
+      {
+        "from_id": "ART-015",
+        "to_id": "MAT-012",
+        "kind": "support_or_supply"
+      }
+    ],
+    "CAST-367": [
+      {
+        "from_id": "ART-015",
+        "to_id": "CAST-367",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "U11-08",
+        "to_id": "CAST-367",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "U11-09": [
+      {
+        "from_id": "ART-016",
+        "to_id": "U11-09",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "ART-017",
+        "to_id": "U11-09",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "MAT-014",
+        "to_id": "U11-09",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-013",
+        "to_id": "U11-09",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "PHN-009",
+        "to_id": "U11-09",
+        "kind": "game_unit"
+      }
+    ],
+    "LOC-051": [
+      {
+        "from_id": "ART-016",
+        "to_id": "LOC-051",
+        "kind": "location"
+      },
+      {
+        "from_id": "ART-017",
+        "to_id": "LOC-051",
+        "kind": "location"
+      },
+      {
+        "from_id": "MAT-014",
+        "to_id": "LOC-051",
+        "kind": "location"
+      },
+      {
+        "from_id": "CRE-013",
+        "to_id": "LOC-051",
+        "kind": "location"
+      },
+      {
+        "from_id": "PHN-009",
+        "to_id": "LOC-051",
+        "kind": "location"
+      }
+    ],
+    "MAT-011": [
+      {
+        "from_id": "ART-016",
+        "to_id": "MAT-011",
+        "kind": "support_or_supply"
+      },
+      {
+        "from_id": "ART-025",
+        "to_id": "MAT-011",
+        "kind": "support_or_supply"
+      },
+      {
+        "from_id": "CRE-009",
+        "to_id": "MAT-011",
+        "kind": "support_or_supply"
+      },
+      {
+        "from_id": "GEO-U03",
+        "to_id": "MAT-011",
+        "kind": "existing_unit_component"
+      }
+    ],
+    "CAST-423": [
+      {
+        "from_id": "ART-016",
+        "to_id": "CAST-423",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "U11-09",
+        "to_id": "CAST-423",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "MAT-014": [
+      {
+        "from_id": "ART-017",
+        "to_id": "MAT-014",
+        "kind": "support_or_supply"
+      },
+      {
+        "from_id": "CRE-013",
+        "to_id": "MAT-014",
+        "kind": "support_or_supply"
+      }
+    ],
+    "CAST-177": [
+      {
+        "from_id": "ART-017",
+        "to_id": "CAST-177",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "U11-09",
+        "to_id": "CAST-177",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "U11-10": [
+      {
+        "from_id": "ART-018",
+        "to_id": "U11-10",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "MAT-015",
+        "to_id": "U11-10",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-014",
+        "to_id": "U11-10",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "PHN-010",
+        "to_id": "U11-10",
+        "kind": "game_unit"
+      }
+    ],
+    "LOC-058": [
+      {
+        "from_id": "ART-018",
+        "to_id": "LOC-058",
+        "kind": "location"
+      },
+      {
+        "from_id": "MAT-015",
+        "to_id": "LOC-058",
+        "kind": "location"
+      },
+      {
+        "from_id": "CRE-014",
+        "to_id": "LOC-058",
+        "kind": "location"
+      },
+      {
+        "from_id": "PHN-010",
+        "to_id": "LOC-058",
+        "kind": "location"
+      }
+    ],
+    "MAT-015": [
+      {
+        "from_id": "ART-018",
+        "to_id": "MAT-015",
+        "kind": "support_or_supply"
+      },
+      {
+        "from_id": "CRE-014",
+        "to_id": "MAT-015",
+        "kind": "support_or_supply"
+      }
+    ],
+    "CAST-184": [
+      {
+        "from_id": "ART-018",
+        "to_id": "CAST-184",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "U11-10",
+        "to_id": "CAST-184",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "U11-11": [
+      {
+        "from_id": "ART-019",
+        "to_id": "U11-11",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "ART-020",
+        "to_id": "U11-11",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "MAT-013",
+        "to_id": "U11-11",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-015",
+        "to_id": "U11-11",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-019",
+        "to_id": "U11-11",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "PEO-05",
+        "to_id": "U11-11",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "PHN-011",
+        "to_id": "U11-11",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CULT-01",
+        "to_id": "U11-11",
+        "kind": "existing_unit_component"
+      }
+    ],
+    "LOC-022": [
+      {
+        "from_id": "ART-019",
+        "to_id": "LOC-022",
+        "kind": "location"
+      },
+      {
+        "from_id": "CRE-019",
+        "to_id": "LOC-022",
+        "kind": "location"
+      }
+    ],
+    "CAST-323": [
+      {
+        "from_id": "ART-019",
+        "to_id": "CAST-323",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "U11-11",
+        "to_id": "CAST-323",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "LOC-049": [
+      {
+        "from_id": "ART-020",
+        "to_id": "LOC-049",
+        "kind": "location"
+      },
+      {
+        "from_id": "MAT-013",
+        "to_id": "LOC-049",
+        "kind": "location"
+      },
+      {
+        "from_id": "CRE-015",
+        "to_id": "LOC-049",
+        "kind": "location"
+      },
+      {
+        "from_id": "PHN-011",
+        "to_id": "LOC-049",
+        "kind": "location"
+      }
+    ],
+    "MAT-013": [
+      {
+        "from_id": "ART-020",
+        "to_id": "MAT-013",
+        "kind": "support_or_supply"
+      },
+      {
+        "from_id": "CRE-015",
+        "to_id": "MAT-013",
+        "kind": "support_or_supply"
+      }
+    ],
+    "CAST-410": [
+      {
+        "from_id": "ART-020",
+        "to_id": "CAST-410",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "U11-11",
+        "to_id": "CAST-410",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "U11-12": [
+      {
+        "from_id": "ART-021",
+        "to_id": "U11-12",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "ART-024",
+        "to_id": "U11-12",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "MAT-016",
+        "to_id": "U11-12",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "MAT-018",
+        "to_id": "U11-12",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-016",
+        "to_id": "U11-12",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "CRE-020",
+        "to_id": "U11-12",
+        "kind": "game_unit"
+      },
+      {
+        "from_id": "PHN-012",
+        "to_id": "U11-12",
+        "kind": "game_unit"
+      }
+    ],
+    "LOC-045": [
+      {
+        "from_id": "ART-021",
+        "to_id": "LOC-045",
+        "kind": "location"
+      },
+      {
+        "from_id": "MAT-016",
+        "to_id": "LOC-045",
+        "kind": "location"
+      },
+      {
+        "from_id": "CRE-016",
+        "to_id": "LOC-045",
+        "kind": "location"
+      }
+    ],
+    "MAT-016": [
+      {
+        "from_id": "ART-021",
+        "to_id": "MAT-016",
+        "kind": "support_or_supply"
+      },
+      {
+        "from_id": "CRE-016",
+        "to_id": "MAT-016",
+        "kind": "support_or_supply"
+      }
+    ],
+    "CAST-386": [
+      {
+        "from_id": "ART-021",
+        "to_id": "CAST-386",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "U11-12",
+        "to_id": "CAST-386",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "LOC-055": [
+      {
+        "from_id": "ART-022",
+        "to_id": "LOC-055",
+        "kind": "location"
+      },
+      {
+        "from_id": "MAT-017",
+        "to_id": "LOC-055",
+        "kind": "location"
+      },
+      {
+        "from_id": "CRE-018",
+        "to_id": "LOC-055",
+        "kind": "location"
+      },
+      {
+        "from_id": "PHN-006",
+        "to_id": "LOC-055",
+        "kind": "location"
+      }
+    ],
+    "MAT-017": [
+      {
+        "from_id": "ART-022",
+        "to_id": "MAT-017",
+        "kind": "support_or_supply"
+      },
+      {
+        "from_id": "CRE-018",
+        "to_id": "MAT-017",
+        "kind": "support_or_supply"
+      }
+    ],
+    "CAST-442": [
+      {
+        "from_id": "ART-022",
+        "to_id": "CAST-442",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "U11-06",
+        "to_id": "CAST-442",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "MAT-018": [
+      {
+        "from_id": "ART-023",
+        "to_id": "MAT-018",
+        "kind": "support_or_supply"
+      },
+      {
+        "from_id": "ART-024",
+        "to_id": "MAT-018",
+        "kind": "support_or_supply"
+      }
+    ],
+    "CAST-023": [
+      {
+        "from_id": "ART-023",
+        "to_id": "CAST-023",
+        "kind": "contact_not_owner"
+      }
+    ],
+    "LOC-054": [
+      {
+        "from_id": "ART-024",
+        "to_id": "LOC-054",
+        "kind": "location"
+      },
+      {
+        "from_id": "MAT-018",
+        "to_id": "LOC-054",
+        "kind": "location"
+      },
+      {
+        "from_id": "CRE-020",
+        "to_id": "LOC-054",
+        "kind": "location"
+      },
+      {
+        "from_id": "PHN-012",
+        "to_id": "LOC-054",
+        "kind": "location"
+      }
+    ],
+    "CAST-018": [
+      {
+        "from_id": "ART-024",
+        "to_id": "CAST-018",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "U11-12",
+        "to_id": "CAST-018",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "LOC-032": [
+      {
+        "from_id": "ART-025",
+        "to_id": "LOC-032",
+        "kind": "location"
+      },
+      {
+        "from_id": "MAT-011",
+        "to_id": "LOC-032",
+        "kind": "location"
+      }
+    ],
+    "CAST-030": [
+      {
+        "from_id": "ART-025",
+        "to_id": "CAST-030",
+        "kind": "contact_not_owner"
+      },
+      {
+        "from_id": "U11-07",
+        "to_id": "CAST-030",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "LOC-015": [
+      {
+        "from_id": "MAT-004",
+        "to_id": "LOC-015",
+        "kind": "location"
+      }
+    ],
+    "LOC-008": [
+      {
+        "from_id": "MAT-005",
+        "to_id": "LOC-008",
+        "kind": "location"
+      }
+    ],
+    "LOC-024": [
+      {
+        "from_id": "MAT-007",
+        "to_id": "LOC-024",
+        "kind": "location"
+      }
+    ],
+    "LOC-004": [
+      {
+        "from_id": "CRE-001",
+        "to_id": "LOC-004",
+        "kind": "location"
+      }
+    ],
+    "LOC-035": [
+      {
+        "from_id": "CRE-005",
+        "to_id": "LOC-035",
+        "kind": "location"
+      }
+    ],
+    "LOC-026": [
+      {
+        "from_id": "CRE-009",
+        "to_id": "LOC-026",
+        "kind": "location"
+      }
+    ],
+    "LOC-020": [
+      {
+        "from_id": "CRE-012",
+        "to_id": "LOC-020",
+        "kind": "location"
+      }
+    ],
+    "LOC-044": [
+      {
+        "from_id": "CRE-017",
+        "to_id": "LOC-044",
+        "kind": "location"
+      }
+    ],
+    "CAST-032": [
+      {
+        "from_id": "U11-01",
+        "to_id": "CAST-032",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "CAST-002": [
+      {
+        "from_id": "U11-01",
+        "to_id": "CAST-002",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "CAST-078": [
+      {
+        "from_id": "U11-07",
+        "to_id": "CAST-078",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "CAST-460": [
+      {
+        "from_id": "U11-10",
+        "to_id": "CAST-460",
+        "kind": "actor_with_current_limits"
+      }
+    ],
+    "ART-006": [
+      {
+        "from_id": "CULT-02",
+        "to_id": "ART-006",
+        "kind": "existing_unit_component"
+      }
+    ],
+    "ART-008": [
+      {
+        "from_id": "IND-01",
+        "to_id": "ART-008",
+        "kind": "existing_unit_component"
+      }
+    ],
+    "CRE-001": [
+      {
+        "from_id": "IND-03",
+        "to_id": "CRE-001",
+        "kind": "existing_unit_component"
+      },
+      {
+        "from_id": "GEO-U02",
+        "to_id": "CRE-001",
+        "kind": "existing_unit_component"
+      }
+    ],
+    "ART-010": [
+      {
+        "from_id": "GEO-U01",
+        "to_id": "ART-010",
+        "kind": "existing_unit_component"
+      }
+    ],
+    "ART-025": [
+      {
+        "from_id": "GEO-U03",
+        "to_id": "ART-025",
+        "kind": "existing_unit_component"
+      }
+    ],
+    "ART-011": [
+      {
+        "from_id": "GEO-U04",
+        "to_id": "ART-011",
+        "kind": "existing_unit_component"
+      }
+    ],
+    "PHN-007": [
+      {
+        "from_id": "GEO-U04",
+        "to_id": "PHN-007",
+        "kind": "existing_unit_component"
+      }
+    ]
+  },
+  "bestiary_revision": "BIO-301",
+  "raccordo_revision": "RACCORDI-317"
+}

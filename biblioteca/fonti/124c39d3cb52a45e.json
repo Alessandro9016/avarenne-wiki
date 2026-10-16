@@ -1,0 +1,189 @@
+{
+  "revision": "CONSOLIDAMENTO-316",
+  "date": "2026-10-15",
+  "status": "PUNTO_1_COMPLETO",
+  "scope": "23 manuali, convenzioni, indice delle 161 denominazioni, registro approvazioni e copie organizzate. Non certifica ancora i raccordi globali dei punti 2 e 3.",
+  "authoritative_progressions": "Progressioni_effigi.json",
+  "names": "Nomi_stadi_approvati.json",
+  "player_index": "GIOCATORE_316_Indice_definitivo_Effigi_e_stadi.md",
+  "manuals": [
+    {
+      "effigy": "Cradle",
+      "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+      "sha256": "4701eb37a6fbdba56e57d52fe935e7899980c95746f34a62c1d78d143c8e4c88",
+      "stages": 7,
+      "macro_abilities": 7
+    },
+    {
+      "effigy": "Ruin",
+      "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+      "sha256": "acf6ed4872eea2dc87e06cb7b127d43c3cfc528b02fc63e43258a0c0fe60da34",
+      "stages": 7,
+      "macro_abilities": 7
+    },
+    {
+      "effigy": "Scroll",
+      "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+      "sha256": "5fa420e3fe598a55f239cb3f6127a57c0cd21dcf40a5996a617f2b2b17e8f724",
+      "stages": 7,
+      "macro_abilities": 21
+    },
+    {
+      "effigy": "Halo",
+      "source": "GIOCATORE_44_Halo_progressione_completa.md",
+      "sha256": "0b7348874791bbfeab08e77395375a928614b263b52fe40714ce68264ceba519",
+      "stages": 7,
+      "macro_abilities": 28
+    },
+    {
+      "effigy": "Heart",
+      "source": "GIOCATORE_45_Heart_progressione_completa.md",
+      "sha256": "471626175c8b05b7740a371db394d48110ac6e1f0e2a3277d679e120a7853a35",
+      "stages": 7,
+      "macro_abilities": 21
+    },
+    {
+      "effigy": "Crucible",
+      "source": "GIOCATORE_46_Crucible_progressione_completa.md",
+      "sha256": "17ba5debd019f8f91df47cf1bdbf3822ce3009255f1ac28d9565297ed0a380ef",
+      "stages": 7,
+      "macro_abilities": 21
+    },
+    {
+      "effigy": "Mask",
+      "source": "GIOCATORE_47_Mask_progressione_completa.md",
+      "sha256": "aec063d65601da8bba01b526583d302d8aaea2f286855b9e93568f5d945a8f76",
+      "stages": 7,
+      "macro_abilities": 28
+    },
+    {
+      "effigy": "Hourglass",
+      "source": "GIOCATORE_48_Hourglass_progressione_completa.md",
+      "sha256": "f26bcfd7074649f9243ca3e9801528fbabb7a78859e5c82162e30d06cdb46924",
+      "stages": 7,
+      "macro_abilities": 28
+    },
+    {
+      "effigy": "Astrolabe",
+      "source": "GIOCATORE_49_Astrolabe_progressione_completa.md",
+      "sha256": "857aeb25d7768feaa338c956c9d38d827caab75c9a530e4fb7dfec6c6f688565",
+      "stages": 7,
+      "macro_abilities": 28
+    },
+    {
+      "effigy": "Sepulchre",
+      "source": "GIOCATORE_50_Sepulchre_progressione_completa.md",
+      "sha256": "29a59f5f8884885bac9257ce2f8537c6702087589337bb72ff583cb1639be425",
+      "stages": 7,
+      "macro_abilities": 28
+    },
+    {
+      "effigy": "Seed",
+      "source": "GIOCATORE_51_Seed_progressione_completa.md",
+      "sha256": "19a84f0308c03718ff74b83c2fbb8d55e8fd2779d2bd4c8c059ca157470918bd",
+      "stages": 7,
+      "macro_abilities": 28
+    },
+    {
+      "effigy": "Crown",
+      "source": "GIOCATORE_52_Crown_progressione_completa.md",
+      "sha256": "8b84a17cc89fe8b1ceebe68c000d4831c9764d51385294ca0be8f74e74b8a420",
+      "stages": 7,
+      "macro_abilities": 28
+    },
+    {
+      "effigy": "Chain",
+      "source": "GIOCATORE_53_Chain_progressione_completa.md",
+      "sha256": "207711a604ac3638015462220f8ac88f7fc4153048cf459867063341b2f64ed2",
+      "stages": 7,
+      "macro_abilities": 28
+    },
+    {
+      "effigy": "Coin",
+      "source": "GIOCATORE_54_Coin_progressione_completa.md",
+      "sha256": "6a1ef56338e1877f88b317d419e76b527f8f0c8c1a851e5f7558880ee7539042",
+      "stages": 7,
+      "macro_abilities": 28
+    },
+    {
+      "effigy": "Banner",
+      "source": "GIOCATORE_55_Banner_progressione_completa.md",
+      "sha256": "39350a60da492bd31fd0e8099bfff52dba2186bab51326aec9bec95e0bdc66bf",
+      "stages": 7,
+      "macro_abilities": 28
+    },
+    {
+      "effigy": "Oracle",
+      "source": "GIOCATORE_56_Oracle_progressione_completa.md",
+      "sha256": "fdb7646cc1d1e6645068fb5a8c1a123647fdf988edc61b20545c52f9eae090a7",
+      "stages": 7,
+      "macro_abilities": 28
+    },
+    {
+      "effigy": "Archive",
+      "source": "GIOCATORE_57_Archive_progressione_completa.md",
+      "sha256": "4c61bc9c15bc9c9f1b04a7099490f114f7d1e86dc37aaac18eba4c92a70536ea",
+      "stages": 7,
+      "macro_abilities": 35
+    },
+    {
+      "effigy": "Labyrinth",
+      "source": "GIOCATORE_58_Labyrinth_progressione_completa.md",
+      "sha256": "ac3adc72e3aded50fafe1253fed8a61035d0ad8022e9216cc2a07053a714ce96",
+      "stages": 7,
+      "macro_abilities": 28
+    },
+    {
+      "effigy": "Tempest",
+      "source": "GIOCATORE_59_Tempest_progressione_completa.md",
+      "sha256": "06b3a31d0608dfcc4d1fa4b8a1f2ef96680b914afd09086c4b8361a3ca2264fd",
+      "stages": 7,
+      "macro_abilities": 28
+    },
+    {
+      "effigy": "Maw",
+      "source": "GIOCATORE_60_Maw_progressione_completa.md",
+      "sha256": "683a260b5a9c72b93af0fad5e6b9c22527158f53d80fdf9cddb6c002ceb88161",
+      "stages": 7,
+      "macro_abilities": 28
+    },
+    {
+      "effigy": "Loom",
+      "source": "GIOCATORE_61_Loom_progressione_completa.md",
+      "sha256": "9436360fa7db56dabf14ba6ba51a9b21acec10cab4c71d5e0d4aba6f0fbe9abe",
+      "stages": 7,
+      "macro_abilities": 21
+    },
+    {
+      "effigy": "Eclipse",
+      "source": "GIOCATORE_170_Eclipse_progressione_completa.md",
+      "sha256": "8f14b69f3f6667bf374f3c39da8c7c6b1e96056fe523213d3af971e092875528",
+      "stages": 7,
+      "macro_abilities": 35
+    },
+    {
+      "effigy": "Crescent",
+      "source": "GIOCATORE_168_Crescent_progressione_completa.md",
+      "sha256": "e24de70047734ce25e5678ba5a1b76ac292598102dadac00d6b10119e40c5111",
+      "stages": 7,
+      "macro_abilities": 35
+    }
+  ],
+  "archive": "ARCHIVIO_SUPERATO/316_Prima_del_consolidamento",
+  "historical_proposal_pointers": [
+    "GIOCATORE_308_Proposta_nomi_stadi_Sovereign.md",
+    "GIOCATORE_309_Proposta_nomi_stadi_Worldforge.md",
+    "GIOCATORE_310_Proposta_nomi_stadi_Continuum.md",
+    "GIOCATORE_311_Proposta_nomi_stadi_Dominion.md",
+    "GIOCATORE_312_Proposta_nomi_stadi_Witness.md",
+    "GIOCATORE_313_Proposta_nomi_stadi_Manyfold.md",
+    "GIOCATORE_314_Proposta_nomi_stadi_Last_Hunger.md",
+    "GIOCATORE_315_Proposta_nomi_stadi_Nocturne.md"
+  ],
+  "next": [
+    "Controllo raccordi con mondo e personaggi",
+    "Rigenerazione pacchetto Narratore"
+  ],
+  "current_progression_hash": "efae025b10ce6ee809953fad8dba6ada9b9f6d2d0d8ba10eba6cdcadd9ed7c5a",
+  "raccordo_revision": "RACCORDI-317"
+}

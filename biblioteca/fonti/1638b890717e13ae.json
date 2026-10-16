@@ -1,0 +1,173 @@
+{
+  "version": "1.0",
+  "date": "2026-10-10",
+  "milestone": 4,
+  "result": "PASS",
+  "verification": "Controlli strutturali e revisione concettuale esplicita; non simulazione numerica",
+  "effigies": 21,
+  "threshold_chapters": 147,
+  "named_entries": 503,
+  "indexed_pairs": 210,
+  "worked_cases": 28,
+  "integrations": 7,
+  "axials": 2,
+  "register_entries": 113,
+  "initial_originals_intact": 71,
+  "previous_files_preserved": 127,
+  "snapshots": 14,
+  "modern_secrets_leaked": false,
+  "initial_inventory_assigned": false,
+  "effigy_progressions_complete": true,
+  "documents": [
+    {
+      "file": "GIOCATORE_40_Lettura_delle_progressioni.md",
+      "bytes": 8668,
+      "words": 1131,
+      "sha256": "D0963A3167000FB15A8C0231C13254E714E8956B1F0A98316D9DC8933BE0F20C"
+    },
+    {
+      "file": "GIOCATORE_62_Audit_delle_progressioni.md",
+      "bytes": 16375,
+      "words": 2361,
+      "sha256": "199C880EC889F64CF6E9729B6C0EDC6CDE5C7921F00222BA6ED54D542B5513D4"
+    },
+    {
+      "file": "63_Indice_delle_Effigi.md",
+      "bytes": 3809,
+      "words": 390,
+      "sha256": "CA4D5561467507E21B3D898D217BA533C97B7304E922C50F2CB0E329846015AC"
+    },
+    {
+      "file": "64_Chiusura_milestone_4.md",
+      "bytes": 2801,
+      "words": 384,
+      "sha256": "CE11A62C9F3E032CD0D1E6DBA59F38D484962C12AD5D6DE72E1FC5252D75EBD9"
+    },
+    {
+      "file": "GIOCATORE_41_Cradle_progressione_completa.md",
+      "bytes": 11955,
+      "words": 1589,
+      "sha256": "8CE7B8BC42CD212139C4871A9144351DE96D76BB303ED2463FB9769B274B3A0D"
+    },
+    {
+      "file": "GIOCATORE_42_Ruin_progressione_completa.md",
+      "bytes": 10358,
+      "words": 1403,
+      "sha256": "1B5A457010E8F467011FF3B6A9624E8F706212D4B01CCBD627B1FF0C19234C6D"
+    },
+    {
+      "file": "GIOCATORE_43_Scroll_progressione_completa.md",
+      "bytes": 11052,
+      "words": 1435,
+      "sha256": "5D062E5CA48F4A42830559E54F72AA74D63AD0AE916C32A094D7E8277078B1EA"
+    },
+    {
+      "file": "GIOCATORE_44_Halo_progressione_completa.md",
+      "bytes": 10080,
+      "words": 1321,
+      "sha256": "1227C37B1491C70F4BD690CC666BD1A72F6C867769BC6274846A49B4CF98FA8F"
+    },
+    {
+      "file": "GIOCATORE_45_Heart_progressione_completa.md",
+      "bytes": 10698,
+      "words": 1429,
+      "sha256": "6D00CB9E5EDE8119EA755319254D4DED9AEDC49B7C5E528DD1643D4F2673AD1B"
+    },
+    {
+      "file": "GIOCATORE_46_Crucible_progressione_completa.md",
+      "bytes": 9296,
+      "words": 1225,
+      "sha256": "48324E41147E3997A327268BD559D9200E1F617F9C50150D3E0E09AF530F2872"
+    },
+    {
+      "file": "GIOCATORE_47_Mask_progressione_completa.md",
+      "bytes": 9261,
+      "words": 1178,
+      "sha256": "6FBA7F05836B1AC528B247264F56F25CC06EE815FBC7C3515674BCE15CF86D1E"
+    },
+    {
+      "file": "GIOCATORE_48_Hourglass_progressione_completa.md",
+      "bytes": 8936,
+      "words": 1183,
+      "sha256": "9B7B1CE236186D6978EC7399865A7D274DA031010F83B1351EB745D1B7187DAA"
+    },
+    {
+      "file": "GIOCATORE_49_Astrolabe_progressione_completa.md",
+      "bytes": 8933,
+      "words": 1183,
+      "sha256": "FC758FC7AB5AFB1AABDF8BAF86A792218D34DBB0A68797980CAFD1D371C590EA"
+    },
+    {
+      "file": "GIOCATORE_50_Sepulchre_progressione_completa.md",
+      "bytes": 8466,
+      "words": 1125,
+      "sha256": "A50E99D6CBB8B9173546C409DC31AF57D69FB693A54F8DD91F4DFEB5D1AFFACD"
+    },
+    {
+      "file": "GIOCATORE_51_Seed_progressione_completa.md",
+      "bytes": 8860,
+      "words": 1137,
+      "sha256": "4A211067DEF694A37E9C20F013A138D5D0C4F36F95052F8E7318ECF0B68FE465"
+    },
+    {
+      "file": "GIOCATORE_52_Crown_progressione_completa.md",
+      "bytes": 8503,
+      "words": 1116,
+      "sha256": "DF75AFCEDDEFCBBD1F27A6EE714ECCA73653185BAC5E6345A8FE3C2CF3579796"
+    },
+    {
+      "file": "GIOCATORE_53_Chain_progressione_completa.md",
+      "bytes": 8188,
+      "words": 1097,
+      "sha256": "82B786F671C8915307228447E61645C25A5A68D8371ADCF8850A5F6A80762116"
+    },
+    {
+      "file": "GIOCATORE_54_Coin_progressione_completa.md",
+      "bytes": 8462,
+      "words": 1107,
+      "sha256": "7E3BF2B7DC820A491EA4FCA030D20FF7F17B5D145D1950EDA2BB994B9317810A"
+    },
+    {
+      "file": "GIOCATORE_55_Banner_progressione_completa.md",
+      "bytes": 8421,
+      "words": 1133,
+      "sha256": "51AA1E7B7AE3B30905F36BBE8EF5EE937C9C18936494BD0D1041D24BE8E5D787"
+    },
+    {
+      "file": "GIOCATORE_56_Oracle_progressione_completa.md",
+      "bytes": 8923,
+      "words": 1182,
+      "sha256": "D3B44FEF9CE54ACF08E6A7F4F399A3B2D01498F87039703F6B207B71F75E15F1"
+    },
+    {
+      "file": "GIOCATORE_57_Archive_progressione_completa.md",
+      "bytes": 9037,
+      "words": 1155,
+      "sha256": "4FD291B5E1A03A86D71A5F92F96EF67542024B10E247D0DEC1B4CC343539EEEB"
+    },
+    {
+      "file": "GIOCATORE_58_Labyrinth_progressione_completa.md",
+      "bytes": 8607,
+      "words": 1122,
+      "sha256": "102D261DC2794B5A53868B67603CA8DA2F2EF7683801DC0F5169E4A23A081F1C"
+    },
+    {
+      "file": "GIOCATORE_59_Tempest_progressione_completa.md",
+      "bytes": 8102,
+      "words": 1053,
+      "sha256": "418D92329958D6E45999A279570348934F3D7768237EF3E4E14D9741DFE80B00"
+    },
+    {
+      "file": "GIOCATORE_60_Maw_progressione_completa.md",
+      "bytes": 8644,
+      "words": 1122,
+      "sha256": "D8B32A29FDF53F6A3A69731CAE96FC38B7D5233AA74A3F2A417F4A2D6B74161C"
+    },
+    {
+      "file": "GIOCATORE_61_Loom_progressione_completa.md",
+      "bytes": 8809,
+      "words": 1158,
+      "sha256": "EACE980EF2404D20C840439F58DC06B4F1DECA219EB7FBDCC361BA090EE33A56"
+    }
+  ]
+}

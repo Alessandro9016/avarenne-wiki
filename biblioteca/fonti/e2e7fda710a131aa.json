@@ -1,0 +1,295 @@
+{
+  "access": "NARRATOR_RESERVED",
+  "revision": "RACCORDI-317",
+  "records": [
+    {
+      "id": "BST-001",
+      "ability_refs": [
+        "EFF-20-II-M03"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "3 prese investite di pochi secondi prima di almeno 6 ore di riposo e un pasto; non perfora un confine III per semplice contatto.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-002",
+      "ability_refs": [
+        "EFF-22-III-M01"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "2 veli di 2 minuti per carica; almeno una notte in un rifugio autentico per recuperare una scarica. Il velo è opacità, non occultamento di identità.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-003",
+      "ability_refs": [
+        "EFF-06-II-M03"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Ammorbidisce pochi centimetri davanti ai denti, non metri di roccia in un gesto; 20 minuti di lavoro poi ore di raffreddamento.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-004",
+      "ability_refs": [
+        "EFF-13-II-M04"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Trasferisce una contrazione per tratti contigui non oltre 4 m per gruppo; nessun impulso si trasmette oltre un taglio completo.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-005",
+      "ability_refs": [
+        "EFF-19-III-M02"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Massimo 3 richiami di 5 secondi prima di 20 minuti di recupero; gradiente entro 30 m davanti al corpo, non implosione di una corazzata.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-006",
+      "ability_refs": [
+        "EFF-04-II-M01"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Un lampo forte o cinque deboli; ricarica richiede 6 ore di luce utile e nutrimento. La difesa piega solo luce propria lungo il mantello, non copia la scena come Mask.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-007",
+      "ability_refs": [
+        "EFF-10-II-M04"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Quiete per 10 secondi al contatto spirituale, 3 tentativi prima di alimentarsi; niente Mortal Seal o immobilità corporea automatica.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-008",
+      "ability_refs": [
+        "EFF-23-II-M02"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Ogni placca regge un rinvio limitato a un fascio intercettato di qualità al massimo II. Un Halo pari può saturarla; emissioni superiori la attraversano o la spezzano.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-009",
+      "ability_refs": [
+        "EFF-19-I-M02"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Un impulso ogni 40 secondi, massimo 4 prima del riposo; il riferimento I è la funzione, la massa e la riserva adulta ne ampliano l’effetto senza tenuta semidivina.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-010",
+      "ability_refs": [
+        "EFF-06-II-M02"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Ogni adulto deve scaricare il serbatoio dopo aver congelato circa 2 kg di acqua equivalente; il riferimento II riguarda lo stoccaggio, Heat Exchange I resta funzione associata.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-011",
+      "ability_refs": [
+        "EFF-09-I-M02"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "6 alleggerimenti di non oltre 8 secondi al giorno; non supera la tenuta di un Bearer IV solo cadendogli addosso.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-012",
+      "ability_refs": [
+        "EFF-06-II-M02"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "3 getti da 3 secondi prima di almeno 12 ore di pasto e recupero. Reagenti e riserva investita entrambi necessari; massimo locale di funzione III, nessuna difesa IV.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-013",
+      "ability_refs": [
+        "EFF-13-III-M03"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Per interrompere un giunto III servono giorni; il morso è contesa della dipendenza, non Consumo Maw né annullamento di sigilli superiori.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-014",
+      "ability_refs": [
+        "EFF-20-II-M03"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Una presa fino a 15 secondi, poi deve staccarsi; può consumare una piccola riserva II ma una difesa spirituale IV la respinge normalmente.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-015",
+      "ability_refs": [
+        "EFF-10-I-M04"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Scarica difensiva di quiete entro 1 m, una volta per 10 minuti; non esercita morte diretta o possesso.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-016",
+      "ability_refs": [
+        "EFF-09-II-M04"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Non apre una soglia: si aggancia a una esistente. La lesione è una puntura spirituale locale quando l’ago trova contatto durante il passaggio, non teleframmentazione del corpo.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-017",
+      "ability_refs": [
+        "EFF-18-III-M04"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Ripiega percorsi interni e consuma riserva onirica. Non trasmette ferite corporee: il testo 300 va letto senza Oneiric Wound IV; danno diretto a funzioni mentali richiederebbe quel salto ulteriore.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-018",
+      "ability_refs": [
+        "EFF-18-I-M03"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Pressione affettiva breve su una presenza raggiunta; 3 richiami per ciclo e riposo dopo una presa. Non costruisce fedeltà eterna né ferisce la carne attraverso un sogno.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-019",
+      "ability_refs": [
+        "EFF-18-III-M02"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Altera soltanto percorsi già raggiunti del rifugio; consuma il sostegno residuo e si estingue senza nuovi apporti.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-020",
+      "ability_refs": [
+        "EFF-07-II-M03"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Può contendere attribuzioni su figure percepite entro la scena. Non incorpora davvero un ruolo nella persona, non invade ogni mente e non copia un soggetto mai registrato.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-021",
+      "ability_refs": [
+        "EFF-11-III-M03"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Inoculo attraverso ferita, almeno 10 giorni prima dei sintomi severi; crescita dipende dall’ospite e può essere contrastata da una difesa biologica/spirituale pertinente.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-022",
+      "ability_refs": [
+        "EFF-05-III-M03"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "La colonia ricongiunge bordi lesionati e i propri tessuti; non cresce un intero organo nuovo. Saldare dita richiede ferite accostate per ore, non contatto con pelle integra.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-023",
+      "ability_refs": [
+        "EFF-06-II-M02"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "La colonia accumula calore entro una capacità finita: un deposito di 10 kg produce una sola espulsione forte prima di ore di assorbimento. Niente scarto termico infinito.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-024",
+      "ability_refs": [
+        "EFF-23-III-M04"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Un supporto collegato permette un anatema cutaneo limitato; una lesione al giorno per organismo. Non si appropria del Mirror Substitution difensivo di ogni portatore.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-025",
+      "ability_refs": [
+        "EFF-11-III-M01"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Offesa e ricrescita qui sono organiche dopo la stabilizzazione; nessun aumento istantaneo della biomassa e nessun comando universale sugli alberi.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-026",
+      "ability_refs": [
+        "EFF-06-II-M02"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Tre getti di 2 secondi e massimo 40 minuti di marcia per carica; riserva sotto sigillo non rigenerabile dal carbone da solo.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-027",
+      "ability_refs": [
+        "EFF-17-II-M05"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Due spinte investite II per carica, rievocazione di un unico evento; nessuna registrazione di pensieri o poteri attraverso una semplice fotografia.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-028",
+      "ability_refs": [
+        "EFF-01-IV-M01"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Corpo biologico indipendente, non una capacità Cradle mantenuta. Due ore di sforzo pesante poi riposo e nutrimento; nessuna rigenerazione Heart implicita.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-029",
+      "ability_refs": [
+        "EFF-09-II-M02"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Tre impulsi di carico di 10 secondi in un giorno; massa enorme e funzione focalizzata III, senza capacità IV di contesa spirituale. Un Bearer IV non muore automaticamente per la taglia.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-030",
+      "ability_refs": [
+        "EFF-22-IV-M04"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Funzione focalizzata IV, 2 isolamenti percettivi di 30 secondi prima di ritirarsi per un giorno. Il mantello oscuro è una funzione inferiore Eclipse, non un avatar né una Seat.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-031",
+      "ability_refs": [
+        "EFF-11-IV-M02"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Una fioritura maggiore ogni 12–20 anni con molta biomassa. Inoculi devono raggiungere ferite; membrana cutanea integra, assenza di contatto e taglio idrico contrastano la propagazione.",
+      "current_state": "Attivo"
+    },
+    {
+      "id": "BST-032",
+      "ability_refs": [
+        "EFF-08-II-M03"
+      ],
+      "reference_scope": "Compatibilità funzionale; non assegna l’intera Inscription o il rango personale del Bearer.",
+      "budget": "Sono rimaste circa 6 scariche di usura, 3 metri di portata e 5 secondi ciascuna; nessuna ricarica naturale nota. Lo stato conservato cede se il nucleo viene distrutto.",
+      "current_state": "Dormiente"
+    }
+  ],
+  "rule": "Somiglianza operativa non conferisce Inscription personale, intera Effige o Seat. Nessuna specie prende un nuovo potere da questa verifica."
+}

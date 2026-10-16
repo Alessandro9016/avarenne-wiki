@@ -1,0 +1,288 @@
+{
+  "version": "1.0",
+  "revision": "MILESTONE 12-01",
+  "access": "Riservato",
+  "mysteries": [
+    {
+      "id": "M01",
+      "title": "Il ritorno",
+      "truth": "Edran è l’unica persona nel corpo morto di Alexander; il Quiet Glass raccordò il Refuge alla compatibilità del corpo. La derivazione è consumata.",
+      "initial_knowledge": "Edran conosce la propria identità; Mirel conosce manutenzione e ripresa; Nela conosce l’intervallo annotato. Nessuno dei due conosce il Refuge.",
+      "sources": "EVD-14; 84/85/101",
+      "channels": [
+        "Frammenti spenti e diagnosi del rapporto",
+        "cartella e note di Nela",
+        "confronto della propria transizione con il progetto antico."
+      ],
+      "wrong_inference": "Non c’è Alexander nascosto che ricomparirà né resurrezione ciclica.",
+      "release_rule": "Una diagnosi propria sufficiente può chiudere il mistero nel primo arco; la provenienza resta un’indagine separata."
+    },
+    {
+      "id": "M02",
+      "title": "Il banco spostato",
+      "truth": "Vern autorizzò spostamento senza nuova calibrazione; non voleva ferire Etienne. Elias misurò correttamente il vecchio assetto.",
+      "initial_knowledge": "Vern sa del proprio ordine; Livia conosce la copia originale; Etienne conosce evento e conseguenze lavorative.",
+      "sources": "153; U11-01",
+      "channels": [
+        "Copia originale",
+        "tracce e misure delle posizioni",
+        "ordine o testimonianza di Vern corroborata dai tempi."
+      ],
+      "wrong_inference": "La guarigione non cancella il danno economico; non fu un sabotaggio cosmico.",
+      "release_rule": "Una prova sufficiente modifica l’udienza31 maggio; se l’ordine manca distinguere ipotesi tecnica e attribuzione personale."
+    },
+    {
+      "id": "M03",
+      "title": "La stanza e lo scambio",
+      "truth": "Room Six è fisica; la cerniera ha una riserva finita e due aperture residue a T0. Elias e Livia fondarono la rete10 maggio.",
+      "initial_knowledge": "I fondatori conoscono patto e ultima prova; Marcel conosce il mezzo; invitati conoscono solo condizioni comunicate.",
+      "sources": "153/154; ART-001",
+      "channels": [
+        "Ispezione del mezzo",
+        "inventario di Marcel",
+        "registro della prova15 maggio e porte ordinarie."
+      ],
+      "wrong_inference": "La stanza non è una Root e Alexander non ne è proprietario occulto.",
+      "release_rule": "La diagnosi non obbliga adesione; un incontro ordinario resta possibile se il Gate finisce la riserva."
+    },
+    {
+      "id": "M04",
+      "title": "Il prezzo della soluzione",
+      "truth": "Garanzie, rendite e certificati hanno cause specifiche e attori distinti. Nessun unico dio ha organizzato l’economia moderna.",
+      "initial_knowledge": "Albin conosce conti; Yselle le proprie quote; ciascun perito il proprio mandato, non tutti i lotti.",
+      "sources": "133; IND-01/02; EVD-16",
+      "channels": [
+        "Conti e atti",
+        "campioni e prove operative",
+        "registri del lavoro o del trasporto pertinenti."
+      ],
+      "wrong_inference": "Un bene creato può davvero eliminare la scarsità specifica. Non inventare una tassa cosmica per negare il risultato.",
+      "release_rule": "Chiudere una misura o un costo non chiude necessariamente un contratto diverso; indicare la causalità residua."
+    },
+    {
+      "id": "M05",
+      "title": "Il nome perduto",
+      "truth": "Oblio stratificato attraverso requisizioni, lingue, crisi, attribuzioni e stampa. Alcune comunità conservarono nome e culto.",
+      "initial_knowledge": "Le compagnie hanno tradizioni parziali; Edran ricorda opere proprie; immortalità documentata non implica amnesia.",
+      "sources": "97/99; EVD-09/10",
+      "channels": [
+        "Varianti del canto",
+        "strati datati delle attribuzioni",
+        "manutenzioni con fonte riconoscibile."
+      ],
+      "wrong_inference": "Nessun incantesimo mondiale cancellò12.312 anni di storia. Il culto non conosce tutto.",
+      "release_rule": "Corroborare un’opera non obbliga a dimostrare tutta l’identità divina del visitatore."
+    },
+    {
+      "id": "M06",
+      "title": "I nuovi titolari",
+      "truth": "Sairen è Halo VII; Oriel è Heart VII. Sono persone differenti dai responsabili della caduta.",
+      "initial_knowledge": "I titolari conoscono il proprio esercizio; presidi hanno derivazioni e registri limitati; Edran non sa automaticamente chi occupi ogni Seat moderna.",
+      "sources": "98; EVD-11/12",
+      "channels": [
+        "Derivazione autentica attuale",
+        "serie di successione",
+        "contatto personale verificabile."
+      ],
+      "wrong_inference": "Non sono nomi nuovi di Ilyra e Othrem; un Medium VII non è il Seat di chi lo usa.",
+      "release_rule": "Se una diagnosi sufficiente identifica la fonte, concedere il risultato; trasferimento e colpa sono domande separate."
+    },
+    {
+      "id": "M07",
+      "title": "Una copia vera può ingannare",
+      "truth": "Registrazioni e attestazioni possono essere autentiche e avere copertura insufficiente. Non ogni sintesi è falsificazione intenzionale.",
+      "initial_knowledge": "Livia sa cosa copiò; uffici conoscono mandato; Talren non ha osservazione retroattiva universale.",
+      "sources": "101; FAC-01/05; EVD-16",
+      "channels": [
+        "Matrice integra",
+        "confronto di scopo/versione",
+        "fonte materiale o testimonianza indipendente."
+      ],
+      "wrong_inference": "Non chiamare falsa una misura solo perché non risolve la domanda attuale.",
+      "release_rule": "Una spiegazione corretta può chiudere il dubbio senza furto, combattimento o viaggio imposto."
+    },
+    {
+      "id": "M08",
+      "title": "I due accessi della notte",
+      "truth": "Eclipse/Crescent hanno divinità distinte e accessi parziali alla Root fisica. I circuiti locali possono condividere raccordi senza essere identici.",
+      "initial_knowledge": "Uffici conoscono i propri filtri; scuole conoscono copie e carichi; titolari non hanno notizia automatica di Alexander.",
+      "sources": "172; FAC-13/14; U11-09/10",
+      "channels": [
+        "Prova dell’allarme separato",
+        "versioni delle clausole",
+        "diagnosi della derivazione realmente raggiunta."
+      ],
+      "wrong_inference": "Né tutti i servizi notturni sono trappole né la luna è tutta posseduta da Crescent.",
+      "release_rule": "Rimuovere un rapporto ostile termina quel rapporto; non farlo rinascere senza nuova causa."
+    },
+    {
+      "id": "M09",
+      "title": "I marchi di coercizione",
+      "truth": "Investimenti e amministrazione collaboravano nella Fixed Descent; la campagna dei Grey Brands comprende vittoria ed errore di evacuazione.",
+      "initial_knowledge": "Edran conosce le campagne vissute; custodi hanno reperti e copie, non la totalità delle operazioni.",
+      "sources": "EVD-01/02; ART-025",
+      "channels": [
+        "Reperto investito",
+        "registro operativo",
+        "copia civile dei filtri e dell’evacuazione."
+      ],
+      "wrong_inference": "Una targhetta antica aggiunta non autentica una genealogia. L’opera liberatrice non cancellò ogni responsabilità di Edran.",
+      "release_rule": "Memorie vissute non richiedono un necrologio nuovo per tornare disponibili."
+    },
+    {
+      "id": "M10",
+      "title": "La caduta",
+      "truth": "Othrem introdusse la derivazione; Ilyra mantenne tre cicli; Sereth chiuse il corridoio senza tentare deviazione; Talren validò copertura insufficiente e non separò in tempo.",
+      "initial_knowledge": "Ogni responsabile sa la propria parte, non l’intero Refuge; delegati Nine Houses avevano conoscenze differenti e sono morti.",
+      "sources": "84/97; EVD-04–08",
+      "channels": [
+        "Piano e allegati",
+        "lotti/comandi/corridoio reali",
+        "testimonianze personali o proteste indipendenti."
+      ],
+      "wrong_inference": "Non introdurre un regista nascosto che assolva tutti. La deviazione non tentata non garantiva salvezza universale.",
+      "release_rule": "Un atto può essere provato da un solo canale completo. Registrare separatamente autore, intenzione, risultato e conoscenza."
+    },
+    {
+      "id": "M11",
+      "title": "Gli antichi compagni",
+      "truth": "I casi di continuità sono distinti: vivi, morti, estinti, rinunciatari, presenza custodita. Rhael non è una fotografia, Helyr non è un titolo vuoto.",
+      "initial_knowledge": "Edran ha ricordi antichi; Althene conserva casi specifici; testimoni moderni sanno soltanto i propri accessi.",
+      "sources": "98; EVD-17",
+      "channels": [
+        "Fonte individuale della tabella EVD-17",
+        "diagnosi della continuità raggiunta",
+        "incontro o traccia specifica corroborata."
+      ],
+      "wrong_inference": "Una registrazione di Maerin non è Maerin; un cognome non prova parentela o immortalità.",
+      "release_rule": "Contatto autentico non obbliga amicizia attuale né fedeltà."
+    },
+    {
+      "id": "M12",
+      "title": "Chi è una persona",
+      "truth": "Creatura indipendente, registro, avatar e presenza custodita hanno condizioni differenti. CRE-010 è una persona indipendente; una forma Mask dipende dal centro.",
+      "initial_knowledge": "Ciascun individuo conosce esperienza propria; clinici hanno diagnosi circoscritte; nessun atto amministrativo decide da solo un centro personale.",
+      "sources": "70;187; CRE-010/019; OUT-03/04",
+      "channels": [
+        "Risposta nuova e rapporto reale",
+        "diagnosi di dipendenza/separazione",
+        "provenienza e disposizioni registrate."
+      ],
+      "wrong_inference": "Autonomia di comportamento non basta sempre a provare persona; aspetto innaturale non prova assenza di persona.",
+      "release_rule": "Concedere diagnosi quando mezzi sono sufficienti; non obbligare una prova crudele come unico canale."
+    },
+    {
+      "id": "M13",
+      "title": "Il corridoio chiuso",
+      "truth": "Sereth controllava un corridoio con un mezzo superiore precedente; chiuse per proteggere Rethar Basin e non tentò la deviazione di Helyr.",
+      "initial_knowledge": "Sereth sa la scelta; Helyr sa il proprio mezzo; copie Passages House hanno un tracciato limitato.",
+      "sources": "EVD-07;97/98",
+      "channels": [
+        "Mezzo e traccia di cessazione",
+        "registri di Dalren",
+        "repertorio di Helyr."
+      ],
+      "wrong_inference": "Sereth VI non incorporò Astrolabe VII personale per aver utilizzato quel mezzo.",
+      "release_rule": "Una strada nuova non cambia la colpa storica; una colpa storica non rende finto il rischio regionale."
+    },
+    {
+      "id": "M14",
+      "title": "Il mediatore dai due volti",
+      "truth": "Due interfacce di Eshra appartengono al medesimo centro, con Capacity condivisa e accessi reali.",
+      "initial_knowledge": "Eshra conosce rete; ospiti vedono compartimenti; nessun membro del club è stabilito come suoavatar.",
+      "sources": "OUT-04;72",
+      "channels": [
+        "Dettaglio investito comune",
+        "diagnosi di collegamento",
+        "reazione comparata a una separazione autentica."
+      ],
+      "wrong_inference": "Una prova di identità vera può non rivelare il secondo volto; un sogno non è ingresso universale.",
+      "release_rule": "La scoperta apre negoziato o contesa, non obbliga a distruggere la Reverie."
+    },
+    {
+      "id": "M15",
+      "title": "Le voci del bacino",
+      "truth": "Theral trattiene una presenza autentica e una registrazione usata come esca; non raccoglie ogni morto del pianeta.",
+      "initial_knowledge": "Theral conosce custodia; una voce può sapere solo la propria condizione; visitatori devono raggiungere rapporto.",
+      "sources": "OUT-03;72",
+      "channels": [
+        "Diagnosi del Medium",
+        "richiesta verificabile del prigioniero",
+        "risposta nuova distinta dalla sequenza registrata."
+      ],
+      "wrong_inference": "Scoprire una voce falsa non prova che tutte siano false. Distruggere sostegno può danneggiare una persona.",
+      "release_rule": "Una separazione tecnicamente valida libera; la persona può rifiutare il corpo o il patto offerto."
+    },
+    {
+      "id": "M16",
+      "title": "Il messaggio remoto",
+      "truth": "OUT-05 conserva un tentativo di attraversamento e una corrispondenza incompleta. Non prova autore vivo o Origin esterna.",
+      "initial_knowledge": "Serevan ha una testimonianza; il Medium non è una persona capace di confessare; chi recupera una copia ha meno dell’originale.",
+      "sources": "OUT-01/05;72; Atlante_cosmologico",
+      "channels": [
+        "Supporto materiale",
+        "sequenza ripetibile",
+        "seconda misura con copertura confrontabile."
+      ],
+      "wrong_inference": "Il nome del mittente non è deciso come Edran per creare un colpo di scena. Non assegnarlo senza successiva costruzione autoriale esplicita.",
+      "release_rule": "Indagine può concludere ciò che è noto e lasciare autore non determinato. Questa lacuna circoscritta non blocca il recupero o l’isolamento del Medium."
+    },
+    {
+      "id": "M17",
+      "title": "Il campione benefico",
+      "truth": "Il lotto di Avarra ripara substrato ma aumenta Load; risorse e circuito sono finiti.",
+      "initial_knowledge": "Avarra conosce bilancio; fornitori conoscono campione testato; nessuno è obbligato a distribuirlo perché sembra miracolo.",
+      "sources": "OUT-02;72",
+      "channels": [
+        "Confronto separato",
+        "misure di ricambio",
+        "colloquio autenticato con Avarra."
+      ],
+      "wrong_inference": "Non è peste deliberata né proprietà sul corpo di chi accetta.",
+      "release_rule": "Soluzione materiale compatibile risolve la mancanza; non fabbricare nuova scarsità per trattenere la nave."
+    },
+    {
+      "id": "M18",
+      "title": "La luce Vigil",
+      "truth": "Vigil è opera di Edran con interventi spaziali di Helyr in un altro contesto stellare. Aster resta la stella principale di Avarenne.",
+      "initial_knowledge": "Edran ricorda opera; Helyr ha matrici; osservatori remoti misurano emissioni senza dedurre ogni intenzione.",
+      "sources": "EVD-03;96",
+      "channels": [
+        "Matrice iniziale",
+        "emissioni e gravità",
+        "repertorio di itinerario indipendente."
+      ],
+      "wrong_inference": "Un nome aggiunto a una carta corretta non è attribuzione provata. Halo Transit non fornisce coordinate sconosciute.",
+      "release_rule": "Attribuzione può essere provata a distanza con mezzi sufficienti; non richiedere viaggio per copione."
+    },
+    {
+      "id": "M19",
+      "title": "Seats e Roots",
+      "truth": "Singola pienezza per Effige; Roots fisiche con accessi e costi; Helyr è Continuum pieno, Nocturne non pieno a T0.",
+      "initial_knowledge": "PG conosce teoria; titolari conoscono propri esercizi; stato moderno richiede fonte raggiunta.",
+      "sources": "98;EVD-18;Roots_consolidate;Regole_comuni",
+      "channels": [
+        "Esercizio attuale",
+        "successione/contesa documentata",
+        "diagnosi della fonte e dell’accesso."
+      ],
+      "wrong_inference": "Possedere un oggetto o un diritto civile non incorpora Effige; non esiste terzo Axial automatico.",
+      "release_rule": "Una transizione valida cambia registro; il budget narrativo non può negarla."
+    },
+    {
+      "id": "M20",
+      "title": "Il potere riservato di Edran",
+      "truth": "Origin e First Testament sono innati; i presupposti Cradle/Ruin rimasero nella continuità. Recupero non equivale a onniscienza moderna.",
+      "initial_knowledge": "PG conosce proprio passato e sistema; nessun NPC conosce il ritorno per notifica cosmica automatica.",
+      "sources": "83/84;Protagonista_riservato;Roots_consolidate",
+      "channels": [
+        "Diagnosi propria",
+        "stato degli esercizi",
+        "prova di separazione e tenuta secondo condizioni comuni."
+      ],
+      "wrong_inference": "Niente altro VII esterno Cradle/Ruin; niente altra Effige fuori Sovereign incorporata stabilmente.",
+      "release_rule": "Recupero rapido è ammesso. Il sapere tecnico antico non genera memorie dei millenni dormienti."
+    }
+  ],
+  "raccordo_revision": "RACCORDI-317"
+}

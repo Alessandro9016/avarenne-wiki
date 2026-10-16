@@ -1,0 +1,2390 @@
+{
+  "milestone": 7,
+  "status": "PASS",
+  "date": "2026-10-10",
+  "previous_files_preserved": 244,
+  "modified_snapshots": 14,
+  "new_documents": 16,
+  "registry_entries": 177,
+  "checks": [
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: 00_LEGGIMI.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: 20_Roadmap_generale_fino_alla_wiki.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: 21_Audit_materiali_e_migrazione.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: 22_Inventario_documentale.csv"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: 23_Registro_unico_del_canone.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: 24_Matrice_di_recupero_e_ricostruzione.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: 25_Chiusura_milestone_1.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: 32_Chiusura_milestone_2.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: 39_Chiusura_milestone_3.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: 63_Indice_delle_Effigi.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: 64_Chiusura_milestone_4.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: 74_Indice_dell_atlante_cosmologico.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: 75_Chiusura_milestone_5.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: 87_Indice_del_protagonista.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: 88_Chiusura_milestone_6.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_26_Fondamenti_cosmologici.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_27_Catalogo_macro_delle_21_Effigi.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_28_Le_sette_integrazioni_cosmiche.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_29_The_Sovereign_Completezza_e_poteri_cosmici.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_30_Confini_contese_e_verifica_macro.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_33_Lessico_e_sette_soglie.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_36_Corpo_spirito_manifestazioni_e_morte.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_37_Procedura_operativa_delle_contese.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_38_Poteri_e_vita_comune.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_40_Lettura_delle_progressioni.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_41_Cradle_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_42_Ruin_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_43_Scroll_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_44_Halo_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_45_Heart_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_46_Crucible_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_47_Mask_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_48_Hourglass_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_49_Astrolabe_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_50_Sepulchre_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_51_Seed_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_52_Crown_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_53_Chain_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_54_Coin_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_55_Banner_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_56_Oracle_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_57_Archive_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_58_Labyrinth_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_59_Tempest_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_60_Maw_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_61_Loom_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_62_Audit_delle_progressioni.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_65_Atlante_del_reale.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_66_Accessi_viaggi_e_comunicazioni.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_68_The_First_Testament_consultazione.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_69_Roots_e_risorse_cosmiche.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_70_Identita_continuita_e_recupero.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_71_Interventi_esterni_e_diagnosi.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_73_Audit_cosmologico_e_casi.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_77_Identita_di_Edran_e_Alexander.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_78_Prima_vita_e_ricordi_consolidati.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_80_Legami_antichi_che_ricordi.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_82_Recupero_delle_antiche_capacita.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_83_Matrice_delle_conoscenze_personali.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: GIOCATORE_86_Audit_del_protagonista.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: RISERVATO_31_Vincoli_autoriali_della_nuova_architettura.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: RISERVATO_72_Presenze_esterne_e_pressioni_cosmiche.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: RISERVATO_85_Apertura_personale_e_rete_immediata.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/00_STATO_ARCHIVIO.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/01_Direzione_e_produzione.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/Basi_del_progetto_originale.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/GIOCATORE_01_Cio_che_ricordi.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/GIOCATORE_02_Capacita_del_ritorno.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/GIOCATORE_03_Autorita_e_strumenti_antichi.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/GIOCATORE_04_Scala_e_conoscenza_del_sistema.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_01_Fondazione_autoriale.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_02_Sistema_sovrannaturale.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_03_Storia_e_cosmologia.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_04_Forze_e_unita_di_gioco.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_05_Protagonista_e_matrice.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_06_Capacita_e_interferenze.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_07_Apertura_capacita_e_risorse.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_08_Casata_e_societa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_09_Autorita_cosmiche.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_10_Geografia_e_rete_internazionale.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_11_Deuteragonista.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_12_Corpus_e_sapere.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_13_Caduta_ritorno_e_successione.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Dossier_pre_migrazione/RISERVATO_14_Domini_personali_e_integrazione.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/07_Ricerca_comparata_e_proposta_del_sistema.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/08_Mappa_delle_autorita_e_percorsi_candidati.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/09_Autonomia_bellica_e_scala_cosmica.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/10_Sovereign_Origin_confini_dei_fondamenti.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/11_Genesis_Foundation_Dissolution_abilita_pratiche.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/12_Poli_opposti_e_alternative_a_Foundation.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/13_Genesis_Destruction_scelta_e_rami_aperti.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/14_Ricerca_conoscenza_creazione_e_presenza.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/15_Gloria_e_Verbo_autorita_e_autonomia.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/16_Magia_di_Oracle_Archive_e_Verbo_della_volonta.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/17_Quinto_ramo_Soffio_vitale_proposta.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/18_Soffio_vitalita_iniziale_e_fusione_Calice.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Ricerca_e_proposte_intermedie/19_Nomi_ed_Effigi_identita_visiva.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/00_LEGGIMI.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/20_Roadmap_generale_fino_alla_wiki.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/23_Registro_unico_del_canone.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/CANONE_VIGENTE__00_LEGGIMI.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/CANONE_VIGENTE__Registro_decisioni.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/CANONE_VIGENTE__Regole_comuni.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/GIOCATORE_62_Audit_delle_progressioni.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_01/GIOCATORE_69_Roots_e_risorse_cosmiche.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/00_LEGGIMI.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/20_Roadmap_generale_fino_alla_wiki.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/23_Registro_unico_del_canone.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/CANONE_VIGENTE__00_LEGGIMI.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/CANONE_VIGENTE__Registro_decisioni.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/CANONE_VIGENTE__Regole_comuni.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_26_Fondamenti_cosmologici.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_33_Lessico_e_sette_soglie.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_62_Audit_delle_progressioni.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_69_Roots_e_risorse_cosmiche.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_decisioni_protagonista_02/GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_1/00_LEGGIMI.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_1/20_Roadmap_generale_fino_alla_wiki.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_1/23_Registro_unico_del_canone.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_1/CANONE_VIGENTE__Registro_decisioni.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_2/00_LEGGIMI.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_2/20_Roadmap_generale_fino_alla_wiki.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_2/23_Registro_unico_del_canone.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_2/CANONE_VIGENTE__00_LEGGIMI.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_2/CANONE_VIGENTE__Registro_decisioni.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/00_LEGGIMI.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/20_Roadmap_generale_fino_alla_wiki.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/21_Audit_materiali_e_migrazione.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/23_Registro_unico_del_canone.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/CANONE_VIGENTE__00_LEGGIMI.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/CANONE_VIGENTE__Architettura_cosmica.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/CANONE_VIGENTE__Registro_decisioni.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/CANONE_VIGENTE__Regole_comuni.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/GIOCATORE_26_Fondamenti_cosmologici.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/GIOCATORE_27_Catalogo_macro_delle_21_Effigi.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/GIOCATORE_29_The_Sovereign_Completezza_e_poteri_cosmici.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/GIOCATORE_30_Confini_contese_e_verifica_macro.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/GIOCATORE_33_Lessico_e_sette_soglie.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_3/GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_4/00_LEGGIMI.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_4/20_Roadmap_generale_fino_alla_wiki.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_4/21_Audit_materiali_e_migrazione.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_4/23_Registro_unico_del_canone.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_4/CANONE_VIGENTE__00_LEGGIMI.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_4/CANONE_VIGENTE__Registro_decisioni.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_4/GIOCATORE_26_Fondamenti_cosmologici.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/00_LEGGIMI.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/20_Roadmap_generale_fino_alla_wiki.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/21_Audit_materiali_e_migrazione.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/23_Registro_unico_del_canone.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/CANONE_VIGENTE__00_LEGGIMI.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/CANONE_VIGENTE__Architettura_cosmica.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/CANONE_VIGENTE__Atlante_cosmologico.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/CANONE_VIGENTE__Progressioni_effigi.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/CANONE_VIGENTE__Registro_decisioni.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/CANONE_VIGENTE__Regole_comuni.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_milestone_5/GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_pre_consolidamento/00_LEGGIMI.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_pre_consolidamento/20_Roadmap_generale_fino_alla_wiki.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Snapshot_pre_consolidamento/21_Audit_materiali_e_migrazione.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/00_MANIFESTO_ARCHIVIO.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/02_Verifica_profondita_del_manualе.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/03_Revisione_scala_divina.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/04_Allineamento_e_lavoro_residuo.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/05_Piano_milestone_deuteragonista.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/06_Revisione_architettura_delle_Effigi.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_05_Manuale_del_sistema.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_06_Traghettatrice_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_07_Pellegrino_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_08_Custode_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_09_Mano_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_10_Passaggio_interazioni_e_casi.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_11_Coppa_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_12_Tessitrice_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_13_Vasaio_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_14_Martello_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_15_Forma_interazioni_e_casi.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_16_Mendicante_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_17_Levatrice_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_18_Giardiniere_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_19_Convito_progressione_completa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_20_Vita_interazioni_e_casi.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_21_Gerarchia_e_condizione_divina.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_22_Pellegrino_Sovranita_revisionata.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_23_Martello_Sovranita_revisionata.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_24_Contese_divine_e_verifica.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_25_Lessico_e_ranghi_del_sistema.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_26_Passaggio_Sovranita_revisionate.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_27_Forma_Sovranita_revisionate.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_28_Vita_Sovranita_revisionate.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_29_Arconti_Pretendenti_e_ascesa.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_30_Successione_e_contesa_divina.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_31_Cinque_domini_e_Nodo_antico.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_32_Lama_e_Bivio_Sovranita.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: ARCHIVIO_SUPERATO/Vecchio_sistema_32_Effigi/GIOCATORE_33_Revisione_dei_domini_personali.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/00_LEGGIMI.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Architettura_cosmica.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Atlante_cosmologico.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Manifesto_consolidamento.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Manifesto_milestone_2.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Manifesto_milestone_3.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Manifesto_milestone_4.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Manifesto_milestone_5.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Manifesto_milestone_6.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Piano_spostamenti_originali.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Progressioni_effigi.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Protagonista_riservato.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Protagonista.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Registro_decisioni.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Regole_comuni.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Verifica_decisioni_protagonista_01.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Verifica_decisioni_protagonista_02.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Verifica_locale.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Verifica_milestone_2.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Verifica_milestone_3.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Verifica_milestone_4.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Verifica_milestone_5.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: CANONE_VIGENTE/Verifica_milestone_6.json"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/00_LEGGIMI.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/Indice_estratti.csv"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/GIOCATORE/GIOCATORE_01_Cio_che_ricordi_estratti.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/GIOCATORE/GIOCATORE_02_Capacita_del_ritorno_estratti.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/GIOCATORE/GIOCATORE_04_Scala_e_conoscenza_del_sistema_estratti.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/RISERVATO/RISERVATO_01_Fondazione_autoriale_estratti.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/RISERVATO/RISERVATO_03_Storia_e_cosmologia_estratti.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/RISERVATO/RISERVATO_04_Forze_e_unita_di_gioco_estratti.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/RISERVATO/RISERVATO_05_Protagonista_e_matrice_estratti.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/RISERVATO/RISERVATO_08_Casata_e_societa_estratti.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/RISERVATO/RISERVATO_10_Geografia_e_rete_internazionale_estratti.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/RISERVATO/RISERVATO_11_Deuteragonista_estratti.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/RISERVATO/RISERVATO_12_Corpus_e_sapere_estratti.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Antecedente preservato: RECUPERO_EDITORIALE/RISERVATO/RISERVATO_13_Caduta_ritorno_e_successione_estratti.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Sedici nuovi documenti"
+    },
+    {
+      "status": "PASS",
+      "name": "Catalogo e integrazioni invariati"
+    },
+    {
+      "status": "PASS",
+      "name": "Progressioni complete invariate"
+    },
+    {
+      "status": "PASS",
+      "name": "21 Seats, 7 integrazioni, 18 famiglie di prova"
+    },
+    {
+      "status": "PASS",
+      "name": "67 eventi e 12 voci di conoscenza storica"
+    },
+    {
+      "status": "PASS",
+      "name": "IDs unici"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Cradle"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Ruin"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Scroll"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Halo"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Heart"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Crucible"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Mask"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Hourglass"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Astrolabe"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Sepulchre"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Seed"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Crown"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Chain"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Coin"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Banner"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Oracle"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Archive"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Labyrinth"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Tempest"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Maw"
+    },
+    {
+      "status": "PASS",
+      "name": "Effigy valida: Loom"
+    },
+    {
+      "status": "PASS",
+      "name": "18 Seats piene e 14 persone distinte"
+    },
+    {
+      "status": "PASS",
+      "name": "Incorporazione nello stesso gruppo: Althene Rhos"
+    },
+    {
+      "status": "PASS",
+      "name": "Incorporazione nello stesso gruppo: Ashren Tor"
+    },
+    {
+      "status": "PASS",
+      "name": "Incorporazione nello stesso gruppo: Cerel Voss"
+    },
+    {
+      "status": "PASS",
+      "name": "Incorporazione nello stesso gruppo: Deyran Ur"
+    },
+    {
+      "status": "PASS",
+      "name": "Incorporazione nello stesso gruppo: Enra Keth"
+    },
+    {
+      "status": "PASS",
+      "name": "Incorporazione nello stesso gruppo: Helyr Ossen"
+    },
+    {
+      "status": "PASS",
+      "name": "Incorporazione nello stesso gruppo: Ilyra Sen"
+    },
+    {
+      "status": "PASS",
+      "name": "Incorporazione nello stesso gruppo: Neral Venn"
+    },
+    {
+      "status": "PASS",
+      "name": "Incorporazione nello stesso gruppo: Neren Aul"
+    },
+    {
+      "status": "PASS",
+      "name": "Incorporazione nello stesso gruppo: Oriel Namar"
+    },
+    {
+      "status": "PASS",
+      "name": "Incorporazione nello stesso gruppo: Othrem Cal"
+    },
+    {
+      "status": "PASS",
+      "name": "Incorporazione nello stesso gruppo: Sairen Velis"
+    },
+    {
+      "status": "PASS",
+      "name": "Incorporazione nello stesso gruppo: Soran Il"
+    },
+    {
+      "status": "PASS",
+      "name": "Incorporazione nello stesso gruppo: Talren Soth"
+    },
+    {
+      "status": "PASS",
+      "name": "Nessun VII esterno di Cradle"
+    },
+    {
+      "status": "PASS",
+      "name": "Nessun VII esterno di Ruin"
+    },
+    {
+      "status": "PASS",
+      "name": "Dotazione personale invariata"
+    },
+    {
+      "status": "PASS",
+      "name": "Una persona, cinque IV, due presupposti"
+    },
+    {
+      "status": "PASS",
+      "name": "Raccordo della vita"
+    },
+    {
+      "status": "PASS",
+      "name": "Intervallo della dormienza"
+    },
+    {
+      "status": "PASS",
+      "name": "Raccordo LR–CP"
+    },
+    {
+      "status": "PASS",
+      "name": "Naufragio T-53"
+    },
+    {
+      "status": "PASS",
+      "name": "Rapporto T-14"
+    },
+    {
+      "status": "PASS",
+      "name": "Coma T-4"
+    },
+    {
+      "status": "PASS",
+      "name": "Età moderna 20 anni 5 mesi"
+    },
+    {
+      "status": "PASS",
+      "name": "3912 anni di durata standard"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-002"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-003"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-004"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-005"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-006"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-007"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-008"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-009"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-010"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-011"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-012"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-013"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-014"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-015"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-016"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-017"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-018"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-019"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-020"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-021"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-022"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-023"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-024"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-025"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-026"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-027"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-028"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-029"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-030"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-031"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-032"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-033"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-034"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-035"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-036"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-037"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-038"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-039"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-040"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-041"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-042"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-043"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-044"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-045"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-046"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-047"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-048"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-049"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-050"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-051"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-052"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-053"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-054"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-055"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-056"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-057"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-058"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-059"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-060"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-061"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-062"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-063"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-064"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-065"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-066"
+    },
+    {
+      "status": "PASS",
+      "name": "Ordine cronologico: HIST-067"
+    },
+    {
+      "status": "PASS",
+      "name": "Età personale: HIST-022"
+    },
+    {
+      "status": "PASS",
+      "name": "Età personale: HIST-020"
+    },
+    {
+      "status": "PASS",
+      "name": "Età personale: HIST-017"
+    },
+    {
+      "status": "PASS",
+      "name": "Età personale: HIST-031"
+    },
+    {
+      "status": "PASS",
+      "name": "Età personale: HIST-015"
+    },
+    {
+      "status": "PASS",
+      "name": "Età personale: HIST-014"
+    },
+    {
+      "status": "PASS",
+      "name": "Età personale: HIST-012"
+    },
+    {
+      "status": "PASS",
+      "name": "Età personale: HIST-011"
+    },
+    {
+      "status": "PASS",
+      "name": "Età personale: HIST-010"
+    },
+    {
+      "status": "PASS",
+      "name": "Età personale: HIST-009"
+    },
+    {
+      "status": "PASS",
+      "name": "Età personale: HIST-008"
+    },
+    {
+      "status": "PASS",
+      "name": "Età personale: HIST-007"
+    },
+    {
+      "status": "PASS",
+      "name": "Età personale: HIST-006"
+    },
+    {
+      "status": "PASS",
+      "name": "Età personale: HIST-025"
+    },
+    {
+      "status": "PASS",
+      "name": "Età personale: HIST-023"
+    },
+    {
+      "status": "PASS",
+      "name": "Culto e concessione condividono una scadenza"
+    },
+    {
+      "status": "PASS",
+      "name": "Cinque unità presenti attive"
+    },
+    {
+      "status": "PASS",
+      "name": "Unità con due ingressi, evoluzione e materiale"
+    },
+    {
+      "status": "PASS",
+      "name": "Unità con due ingressi, evoluzione e materiale"
+    },
+    {
+      "status": "PASS",
+      "name": "Unità con due ingressi, evoluzione e materiale"
+    },
+    {
+      "status": "PASS",
+      "name": "Unità con due ingressi, evoluzione e materiale"
+    },
+    {
+      "status": "PASS",
+      "name": "Unità con due ingressi, evoluzione e materiale"
+    },
+    {
+      "status": "PASS",
+      "name": "16 casi ragionati"
+    },
+    {
+      "status": "PASS",
+      "name": "Segreto escluso dal corpus leggibile: Sairen Velis"
+    },
+    {
+      "status": "PASS",
+      "name": "Segreto escluso dal corpus leggibile: Oriel Namar"
+    },
+    {
+      "status": "PASS",
+      "name": "Segreto escluso dal corpus leggibile: Veyra Pell"
+    },
+    {
+      "status": "PASS",
+      "name": "Segreto escluso dal corpus leggibile: Loran Esch"
+    },
+    {
+      "status": "PASS",
+      "name": "Segreto escluso dal corpus leggibile: Quiet Glass"
+    },
+    {
+      "status": "PASS",
+      "name": "Segreto escluso dal corpus leggibile: Inner Refuge"
+    },
+    {
+      "status": "PASS",
+      "name": "Segreto escluso dal corpus leggibile: 3912"
+    },
+    {
+      "status": "PASS",
+      "name": "Segreto escluso dal corpus leggibile: −3100"
+    },
+    {
+      "status": "PASS",
+      "name": "Segreto escluso dal corpus leggibile: −3784"
+    },
+    {
+      "status": "PASS",
+      "name": "Registro 1.8, 177 voci"
+    },
+    {
+      "status": "PASS",
+      "name": "Hash del registro"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-001"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-002"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-003"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-004"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-005"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-006"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-007"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-008"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-009"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-010"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-011"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-012"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-013"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-014"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-015"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-016"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-017"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-018"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-019"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-020"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-021"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-022"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-023"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-024"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-025"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-026"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-027"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-028"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-029"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-030"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-031"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-032"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-033"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-034"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-035"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-036"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-037"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-038"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-039"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-040"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-041"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-042"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-043"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-044"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-045"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-046"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-047"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-048"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-049"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-050"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-051"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-052"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-053"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-054"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-055"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-056"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-057"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-058"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-059"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-060"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-061"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-062"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-063"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-064"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-065"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-066"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-067"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-068"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-069"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-070"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-071"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-072"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-073"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-074"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-075"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-076"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-077"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-078"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-079"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-080"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-081"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-082"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-083"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-084"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-085"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-086"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-087"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-088"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-089"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-090"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-091"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-092"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-093"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-094"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-095"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-096"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-097"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-098"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-099"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-100"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-101"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-102"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-103"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-104"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-105"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-106"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-107"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-108"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-109"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-110"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-111"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-112"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-113"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-114"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-115"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-116"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-117"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-118"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-119"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-120"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-121"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-122"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-123"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-124"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-125"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-126"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-127"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-128"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-129"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-130"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-131"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-132"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-133"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-134"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-135"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-136"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-137"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-138"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: CAN-139"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: PROP-001"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: PROP-002"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: PROP-003"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: PROP-004"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: PROP-005"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: PROP-006"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: RET-001"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: RET-002"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: RET-003"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: RET-004"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: RET-005"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: RET-006"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: RET-007"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: RET-008"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: RET-009"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: RET-010"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: RET-011"
+    },
+    {
+      "status": "PASS",
+      "name": "Decisione antecedente presente: RET-012"
+    },
+    {
+      "status": "PASS",
+      "name": "Export e testo concordi: GIOCATORE_89_Calendario_e_date_accessibili.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Export e testo concordi: GIOCATORE_90_Societa_antiche_e_liberazione_ricordata.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Export e testo concordi: GIOCATORE_91_Storia_pubblica_conosciuta_dal_duca.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Export e testo concordi: GIOCATORE_92_Industria_scoperte_e_eredita_materiale.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Export e testo concordi: GIOCATORE_93_Conoscenza_storica_e_riconoscimenti.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Export e testo concordi: GIOCATORE_102_Audit_storico_e_confini_del_sapere.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Export e testo concordi: RISERVATO_94_Cronologia_integrale_ed_ere.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Export e testo concordi: RISERVATO_95_Origini_societa_e_potenze_antiche.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Export e testo concordi: RISERVATO_96_Campagne_opere_ed_eredita_del_Creator.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Export e testo concordi: RISERVATO_97_Caduta_Nove_Sedi_e_storia_delle_attribuzioni.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Export e testo concordi: RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Export e testo concordi: RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Export e testo concordi: RISERVATO_100_Storia_industriale_stati_e_conflitti_aperti.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Export e testo concordi: RISERVATO_101_Repertorio_delle_prove_e_trasmissioni.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Link: 103_Indice_della_storia.md -> GIOCATORE_89_Calendario_e_date_accessibili.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Link: 103_Indice_della_storia.md -> GIOCATORE_90_Societa_antiche_e_liberazione_ricordata.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Link: 103_Indice_della_storia.md -> GIOCATORE_91_Storia_pubblica_conosciuta_dal_duca.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Link: 103_Indice_della_storia.md -> GIOCATORE_92_Industria_scoperte_e_eredita_materiale.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Link: 103_Indice_della_storia.md -> GIOCATORE_93_Conoscenza_storica_e_riconoscimenti.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Link: 103_Indice_della_storia.md -> GIOCATORE_102_Audit_storico_e_confini_del_sapere.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Link: GIOCATORE_89_Calendario_e_date_accessibili.md -> GIOCATORE_77_Identita_di_Edran_e_Alexander.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Link: GIOCATORE_89_Calendario_e_date_accessibili.md -> GIOCATORE_83_Matrice_delle_conoscenze_personali.md"
+    },
+    {
+      "status": "PASS",
+      "name": "Link: GIOCATORE_91_Storia_pubblica_conosciuta_dal_duca.md -> GIOCATORE_93_Conoscenza_storica_e_riconoscimenti.md"
+    }
+  ],
+  "source_hashes": [
+    {
+      "path": "103_Indice_della_storia.md",
+      "sha256": "569EC51D32BFF4C22F7F186996005463184CE62AD76F7F59F32D0C3EE111C2E4"
+    },
+    {
+      "path": "104_Chiusura_milestone_7.md",
+      "sha256": "9250C58DFFDD2EAD30C695392F0F724AD4C6A5FC39C25146845963E81AA82F0F"
+    },
+    {
+      "path": "GIOCATORE_102_Audit_storico_e_confini_del_sapere.md",
+      "sha256": "D870D5F1930C0947F071BE226A5D2BFC1186DD18F9A0D9E77A927B92B91B1BB0"
+    },
+    {
+      "path": "GIOCATORE_89_Calendario_e_date_accessibili.md",
+      "sha256": "EFF872F889F6408A6186B00200839C264246DD19C05F06A959BC708935333BE3"
+    },
+    {
+      "path": "GIOCATORE_90_Societa_antiche_e_liberazione_ricordata.md",
+      "sha256": "979EB0C32DF6BAB3743453CCE5D453EFC066745ED4685E94571F0C9B8626C928"
+    },
+    {
+      "path": "GIOCATORE_91_Storia_pubblica_conosciuta_dal_duca.md",
+      "sha256": "9027CD423463F08D0AD8D3925B1DA71030464C2A09B0C972AB57C045E56E4180"
+    },
+    {
+      "path": "GIOCATORE_92_Industria_scoperte_e_eredita_materiale.md",
+      "sha256": "6980DCA9AFE82F08F61DE5D1E373CFB0084448BE743068D5A85D41084EB485F8"
+    },
+    {
+      "path": "GIOCATORE_93_Conoscenza_storica_e_riconoscimenti.md",
+      "sha256": "C0DA37A4B7E1DE33ADC6470BC24DCF7837A9EA28DF691A7FCDB40E4FBEC3EF7F"
+    },
+    {
+      "path": "RISERVATO_100_Storia_industriale_stati_e_conflitti_aperti.md",
+      "sha256": "FB9B1F220822F7FFB5FA6E6EDC2016113522DED9027C124B0005DFD3094B54A0"
+    },
+    {
+      "path": "RISERVATO_101_Repertorio_delle_prove_e_trasmissioni.md",
+      "sha256": "3DC758386224A6694D242983861AACAB5D444CB8C2D60D4EAEBBF3321A72F30C"
+    },
+    {
+      "path": "RISERVATO_94_Cronologia_integrale_ed_ere.md",
+      "sha256": "E209CCA2D1D416423D133BB37AA323884120574F1F993BFB035526B59B6ECBCF"
+    },
+    {
+      "path": "RISERVATO_95_Origini_societa_e_potenze_antiche.md",
+      "sha256": "36E6E9209B6524BF0B83393B3FA1500148AC4F55D5E2125FF04963834280C330"
+    },
+    {
+      "path": "RISERVATO_96_Campagne_opere_ed_eredita_del_Creator.md",
+      "sha256": "75F17334AEEF1BB8AFD8646C2996C471B9526BCFC666E5EAF15EF5FE5F0E8BFE"
+    },
+    {
+      "path": "RISERVATO_97_Caduta_Nove_Sedi_e_storia_delle_attribuzioni.md",
+      "sha256": "56F96C169D4066AFACE8696B8CFD1C2B734181953869DD855122F2E5EF11AA6E"
+    },
+    {
+      "path": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "sha256": "03AEBAB9864CFEEB528627B86A3B9375BA5E4B46EC1FD3237A6BC76DC07613C8"
+    },
+    {
+      "path": "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
+      "sha256": "80CBFC39548B884EBB8108AD44C3D0073645AACBC71E7245C846C7882FA137C3"
+    }
+  ],
+  "limits": "Documentary validation and reasoned coherence cases; cartography, economy and full cast are subsequent milestones"
+}

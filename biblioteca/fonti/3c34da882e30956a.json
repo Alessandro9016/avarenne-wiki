@@ -1,0 +1,857 @@
+{
+  "scope": "Denominazioni personali distinte dai ranghi generali",
+  "effigies": {
+    "Cradle": [
+      {
+        "stage": 1,
+        "title": "Maker",
+        "rationale": "Creazione materiale ed energia."
+      },
+      {
+        "stage": 2,
+        "title": "Animator",
+        "rationale": "Generazione di vita semplice: non rianimazione dei morti."
+      },
+      {
+        "stage": 3,
+        "title": "Wonderwright",
+        "rationale": "Creazioni con proprietà soprannaturali incorporate."
+      },
+      {
+        "stage": 4,
+        "title": "Life Author",
+        "rationale": "Nascita di persone indipendenti."
+      },
+      {
+        "stage": 5,
+        "title": "Worldwright",
+        "rationale": "Creazione attraverso accessi generativi esterni."
+      },
+      {
+        "stage": 6,
+        "title": "Demiurge",
+        "rationale": "Creazioni capaci di esercizi generativi delegati."
+      },
+      {
+        "stage": 7,
+        "title": "The Creator",
+        "rationale": "Autorità divina della creazione e genesi emergente."
+      }
+    ],
+    "Ruin": [
+      {
+        "stage": 1,
+        "title": "Breaker",
+        "rationale": "Distruzione diretta al contatto."
+      },
+      {
+        "stage": 2,
+        "title": "Brandbearer",
+        "rationale": "Deposito dei marchi distruttivi."
+      },
+      {
+        "stage": 3,
+        "title": "Ravager",
+        "rationale": "Propagazione distruttiva nella continuità presa."
+      },
+      {
+        "stage": 4,
+        "title": "Endbringer",
+        "rationale": "Conclusione dei processi e rinnovi raggiunti."
+      },
+      {
+        "stage": 5,
+        "title": "Sunderer",
+        "rationale": "Distruzione di raccordi costitutivi."
+      },
+      {
+        "stage": 6,
+        "title": "Scourge",
+        "rationale": "Trasmissione distruttiva tramite contatti reali."
+      },
+      {
+        "stage": 7,
+        "title": "The Annihilator",
+        "rationale": "Annullamento della continuità personale raggiunta."
+      }
+    ],
+    "Scroll": [
+      {
+        "stage": 1,
+        "title": "Speaker",
+        "rationale": "Prima parola efficace, lettura dei segnali e influenza."
+      },
+      {
+        "stage": 2,
+        "title": "Scribe",
+        "rationale": "Esercizi codificati e istruzioni scritte."
+      },
+      {
+        "stage": 3,
+        "title": "Exegete",
+        "rationale": "Comprensione delle strutture operative e assenso interiorizzato."
+      },
+      {
+        "stage": 4,
+        "title": "Countermander",
+        "rationale": "Controstrutture, controformulazioni e dissociazione delle intenzioni."
+      },
+      {
+        "stage": 5,
+        "title": "Keeper of the Word",
+        "rationale": "Custodia dell’informazione operativa e selettività delle formulazioni."
+      },
+      {
+        "stage": 6,
+        "title": "Redactor",
+        "rationale": "Sostituzione e trasmissione di istruzioni e intenzioni."
+      },
+      {
+        "stage": 7,
+        "title": "The Word",
+        "rationale": "Autorità divina su informazione, linguaggio e volontà."
+      }
+    ],
+    "Halo": [
+      {
+        "stage": 1,
+        "title": "Lamplighter",
+        "rationale": "Prima luce, esposizione, interazione e separazione tenue."
+      },
+      {
+        "stage": 2,
+        "title": "Illuminator",
+        "rationale": "Direzione della luce e rivelazione selettiva."
+      },
+      {
+        "stage": 3,
+        "title": "Revealer",
+        "rationale": "Esposizione dei veli e confini luminosi o purificanti."
+      },
+      {
+        "stage": 4,
+        "title": "Lightbearer",
+        "rationale": "Presidi luminosi, rivelazioni ancorate e instradamento delle espulsioni."
+      },
+      {
+        "stage": 5,
+        "title": "Radiant Pilgrim",
+        "rationale": "Transito luminoso e duplice interfaccia."
+      },
+      {
+        "stage": 6,
+        "title": "Incarnator",
+        "rationale": "Incarnazione selettiva della medesima presenza, non copie o Avatar."
+      },
+      {
+        "stage": 7,
+        "title": "The Radiance",
+        "rationale": "Autorità divina luminosa, rivelatrice, manifestativa e purificante."
+      }
+    ],
+    "Heart": [
+      {
+        "stage": 1,
+        "title": "Vitalist",
+        "rationale": "Vigore personale, percezione vitale e prima restaurazione."
+      },
+      {
+        "stage": 2,
+        "title": "Chirurgeon",
+        "rationale": "Intervento sulle funzioni vitali e sullo spirito."
+      },
+      {
+        "stage": 3,
+        "title": "Restorer",
+        "rationale": "Sostegno vitale, sutura spirituale e riparazione autonoma."
+      },
+      {
+        "stage": 4,
+        "title": "Deathless",
+        "rationale": "Ridondanza personale e rigenerazione estrema."
+      },
+      {
+        "stage": 5,
+        "title": "Soulwarden",
+        "rationale": "Ancoraggio spirituale e recupero della medesima continuità."
+      },
+      {
+        "stage": 6,
+        "title": "Lifebinder",
+        "rationale": "Sostituzione funzionale esterna, isolamento e sostegni raccordati."
+      },
+      {
+        "stage": 7,
+        "title": "The Living One",
+        "rationale": "Autorità divina su vita, spirito e restaurazione."
+      }
+    ],
+    "Crucible": [
+      {
+        "stage": 1,
+        "title": "Assayer",
+        "rationale": "Legge componenti e proprietà; primi scambi termici e alterazioni."
+      },
+      {
+        "stage": 2,
+        "title": "Distiller",
+        "rationale": "Separa componenti, accumula conversioni e cambia gli stati fisici."
+      },
+      {
+        "stage": 3,
+        "title": "Alchemist",
+        "rationale": "Organizza materiali composti e conversioni concatenate."
+      },
+      {
+        "stage": 4,
+        "title": "Living Crucible",
+        "rationale": "La trasformazione e la protezione investita raggiungono il corpo stesso."
+      },
+      {
+        "stage": 5,
+        "title": "Master of Change",
+        "rationale": "Ripartisce composizioni e sostiene circuiti di conversione."
+      },
+      {
+        "stage": 6,
+        "title": "Philosopher",
+        "rationale": "Instrada reazioni e sequenze di trasformazione; richiamo alla tradizione alchemica."
+      },
+      {
+        "stage": 7,
+        "title": "The Transmuter",
+        "rationale": "Divinità della composizione, conversione e trasmutazione."
+      }
+    ],
+    "Tempest": [
+      {
+        "stage": 1,
+        "title": "Sparkbearer",
+        "rationale": "Primi impulsi, correnti, vortici e scariche."
+      },
+      {
+        "stage": 2,
+        "title": "Windcaller",
+        "rationale": "Dirige correnti e prepara compressioni e cariche."
+      },
+      {
+        "stage": 3,
+        "title": "Stormbinder",
+        "rationale": "Organizza circuiti e fronti investiti."
+      },
+      {
+        "stage": 4,
+        "title": "Stormwarden",
+        "rationale": "Contiene flussi e protegge da pressioni e scariche."
+      },
+      {
+        "stage": 5,
+        "title": "Skybreaker",
+        "rationale": "Separa e accoppia correnti, gradienti e vortici a scala angelica."
+      },
+      {
+        "stage": 6,
+        "title": "Maelstrom",
+        "rationale": "Coordina grandi sistemi di flussi e scariche convergenti."
+      },
+      {
+        "stage": 7,
+        "title": "The Tempest",
+        "rationale": "Divinità di flussi, pressione, turbolenza ed elettricità."
+      }
+    ],
+    "Seed": [
+      {
+        "stage": 1,
+        "title": "Seedkeeper",
+        "rationale": "Germinazione, sviluppo semplice e lettura di dipendenze viventi."
+      },
+      {
+        "stage": 2,
+        "title": "Grafter",
+        "rationale": "Selezione di tratti, riproduzione guidata e protezioni adattive."
+      },
+      {
+        "stage": 3,
+        "title": "Broodmaster",
+        "rationale": "Discendenze indipendenti, sviluppo predatorio e scambi ecologici."
+      },
+      {
+        "stage": 4,
+        "title": "Fleshweaver",
+        "rationale": "Organismi complessi investiti e ridifferenziazione dei tessuti."
+      },
+      {
+        "stage": 5,
+        "title": "Evergreen",
+        "rationale": "Quiescenza germinale e ricostituzione dalla continuità superstite."
+      },
+      {
+        "stage": 6,
+        "title": "World Gardener",
+        "rationale": "Simbiosi, maturazioni accordate e successioni di comunità viventi."
+      },
+      {
+        "stage": 7,
+        "title": "The Progenitor",
+        "rationale": "Divinità di riproduzione, eredità, sviluppo ed ecologia."
+      }
+    ],
+    "Astrolabe": [
+      {
+        "stage": 1,
+        "title": "Surveyor",
+        "rationale": "Percepisce geometrie, distanze e riferimenti; primi trasferimenti."
+      },
+      {
+        "stage": 2,
+        "title": "Wayfarer",
+        "rationale": "Piega percorsi e apre soglie predisposte."
+      },
+      {
+        "stage": 3,
+        "title": "Chamberlain",
+        "rationale": "Custodisce volumi e accessi, configura centri gravitazionali."
+      },
+      {
+        "stage": 4,
+        "title": "Threshold Warden",
+        "rationale": "Riconfigura spazi e difende soglie semidivine."
+      },
+      {
+        "stage": 5,
+        "title": "Veilfarer",
+        "rationale": "Attraversa il Veil e governa interni annidati."
+      },
+      {
+        "stage": 6,
+        "title": "Horizon Architect",
+        "rationale": "Scambia adiacenze e ricostruisce riferimenti e transiti."
+      },
+      {
+        "stage": 7,
+        "title": "The Boundless",
+        "rationale": "Divinità di spazio, gravità, orientamento e passaggio."
+      }
+    ],
+    "Hourglass": [
+      {
+        "stage": 1,
+        "title": "Timekeeper",
+        "rationale": "Percepisce successioni, sostiene stati brevi e ripete gesti."
+      },
+      {
+        "stage": 2,
+        "title": "Horologist",
+        "rationale": "Modifica ritmi locali e fissa durate e ripetizioni condizionali."
+      },
+      {
+        "stage": 3,
+        "title": "Pendulum",
+        "rationale": "Differisce compimenti e incorpora configurazioni ricorrenti."
+      },
+      {
+        "stage": 4,
+        "title": "Chronarch",
+        "rationale": "Costituisce confini temporali e finestre di rinnovo."
+      },
+      {
+        "stage": 5,
+        "title": "Agekeeper",
+        "rationale": "Custodisce successioni, durate e decadimenti a scala angelica."
+      },
+      {
+        "stage": 6,
+        "title": "Aeon",
+        "rationale": "Accoppia processi e redistribuisce durate ed erosione."
+      },
+      {
+        "stage": 7,
+        "title": "The Unending",
+        "rationale": "Divinità di tempo, durata, decadimento e ricorrenza."
+      }
+    ],
+    "Loom": [
+      {
+        "stage": 1,
+        "title": "Threadseer",
+        "rationale": "Legge traiettorie e altera conseguenze e possibilità vicine."
+      },
+      {
+        "stage": 2,
+        "title": "Chancemaker",
+        "rationale": "Investe condizioni e orienta corsi compatibili."
+      },
+      {
+        "stage": 3,
+        "title": "Patternbinder",
+        "rationale": "Interrompe condizioni necessarie e sigilla traiettorie."
+      },
+      {
+        "stage": 4,
+        "title": "Fateweaver",
+        "rationale": "Devia effetti, stabilizza probabilità e interdice itinerari."
+      },
+      {
+        "stage": 5,
+        "title": "Crossroads Keeper",
+        "rationale": "Dirama cause e sostituisce traiettorie a scala angelica."
+      },
+      {
+        "stage": 6,
+        "title": "Destiny Broker",
+        "rationale": "Sostituisce nessi e raccorda traiettorie, conserva margini probabilistici."
+      },
+      {
+        "stage": 7,
+        "title": "The Inevitable",
+        "rationale": "Divinità di causalità, probabilità e destino."
+      }
+    ],
+    "Crown": [
+      {
+        "stage": 1,
+        "title": "Bailiff",
+        "rationale": "Prime ordinanze, distinzioni di rango e mandati."
+      },
+      {
+        "stage": 2,
+        "title": "Magistrate",
+        "rationale": "Regole condizionali e sanzioni misurate."
+      },
+      {
+        "stage": 3,
+        "title": "Legate",
+        "rationale": "Dominio ordinato e uffici investiti revocabili."
+      },
+      {
+        "stage": 4,
+        "title": "Regent",
+        "rationale": "Giurisdizioni concorrenti, eredità di rango e inversione del giudizio."
+      },
+      {
+        "stage": 5,
+        "title": "Lawgiver",
+        "rationale": "Priorità normative e separazione degli uffici a scala angelica."
+      },
+      {
+        "stage": 6,
+        "title": "Imperator",
+        "rationale": "Ricorso, scambio di precedenze e ripartizione dei mandati."
+      },
+      {
+        "stage": 7,
+        "title": "The Paramount",
+        "rationale": "Divinità di legge, gerarchia, giudizio e delega."
+      }
+    ],
+    "Chain": [
+      {
+        "stage": 1,
+        "title": "Binder",
+        "rationale": "Primi vincoli, contenimento e trasmissione."
+      },
+      {
+        "stage": 2,
+        "title": "Captor",
+        "rationale": "Prese dirette e confinamento selettivo."
+      },
+      {
+        "stage": 3,
+        "title": "Gaoler",
+        "rationale": "Vincoli su funzioni, camere e canali distinti."
+      },
+      {
+        "stage": 4,
+        "title": "Bondwarden",
+        "rationale": "Custodie trasferibili e raccordi condizionali semidivini."
+      },
+      {
+        "stage": 5,
+        "title": "Castellan",
+        "rationale": "Prigionie compartimentate e articolazione dei sostegni."
+      },
+      {
+        "stage": 6,
+        "title": "Overseer",
+        "rationale": "Trasferisce dipendenze, inverte custodie e codifica trasmissioni."
+      },
+      {
+        "stage": 7,
+        "title": "The Inextricable",
+        "rationale": "Divinità di vincolo, prigionia, dipendenza e trasmissione."
+      }
+    ],
+    "Coin": [
+      {
+        "stage": 1,
+        "title": "Pledger",
+        "rationale": "Impegno di valore e primi scambi e rivendicazioni."
+      },
+      {
+        "stage": 2,
+        "title": "Trader",
+        "rationale": "Investimenti ponderati, scambi condizionali e marchi di possesso."
+      },
+      {
+        "stage": 3,
+        "title": "Broker",
+        "rationale": "Garanzie e canali di scambio; custodia e prese selettive."
+      },
+      {
+        "stage": 4,
+        "title": "Claimant",
+        "rationale": "Scambi semidivini e contesa di pretese e possesso."
+      },
+      {
+        "stage": 5,
+        "title": "Treasurer",
+        "rationale": "Riserve in deposito e separazione fra possesso e uso."
+      },
+      {
+        "stage": 6,
+        "title": "Chancellor",
+        "rationale": "Ripartizione di perdite, scambi e pretese."
+      },
+      {
+        "stage": 7,
+        "title": "The Possessor",
+        "rationale": "Divinità di valore, scambio, possesso e rivendicazione."
+      }
+    ],
+    "Banner": [
+      {
+        "stage": 1,
+        "title": "Challenger",
+        "rationale": "Contesa personale, prontezza e terreno mantenuto."
+      },
+      {
+        "stage": 2,
+        "title": "Vanguard",
+        "rationale": "Linee contese, mobilitazione e risposte preparate."
+      },
+      {
+        "stage": 3,
+        "title": "Captain",
+        "rationale": "Configurazioni di ingaggio e alternative tattiche."
+      },
+      {
+        "stage": 4,
+        "title": "Warmaster",
+        "rationale": "Armamento incorporato, intercettazione e ridotto personale."
+      },
+      {
+        "stage": 5,
+        "title": "Conqueror",
+        "rationale": "Scambio dei fronti e integrazione della conquista a scala angelica."
+      },
+      {
+        "stage": 6,
+        "title": "Grand Marshal",
+        "rationale": "Isolamento dei conflitti e riassegnazione di risorse e conquiste."
+      },
+      {
+        "stage": 7,
+        "title": "The Victor",
+        "rationale": "Divinità di conflitto, mobilitazione, strategia e conquista."
+      }
+    ],
+    "Oracle": [
+      {
+        "stage": 1,
+        "title": "Scholar",
+        "rationale": "Comprensione soprannaturale, lettura degli esercizi e prime magie."
+      },
+      {
+        "stage": 2,
+        "title": "Adept",
+        "rationale": "Simulazione operativa, corrispondenze e incantesimi articolati."
+      },
+      {
+        "stage": 3,
+        "title": "Thaumaturge",
+        "rationale": "Modelli divenuti strumenti e repertorio magico autonomo."
+      },
+      {
+        "stage": 4,
+        "title": "Living Theorem",
+        "rationale": "Diagrammi viventi, modelli ancorati e ricomposizione arcana."
+      },
+      {
+        "stage": 5,
+        "title": "Archmage",
+        "rationale": "Confronta e verifica modelli, accorda incantesimi a scala angelica."
+      },
+      {
+        "stage": 6,
+        "title": "Grand Savant",
+        "rationale": "Sintesi di principi e intervento arcano attraverso metodi adattivi."
+      },
+      {
+        "stage": 7,
+        "title": "The Gnosis",
+        "rationale": "Divinità di conoscenza, interpretazione, divinazione e magia."
+      }
+    ],
+    "Archive": [
+      {
+        "stage": 1,
+        "title": "Recorder",
+        "rationale": "Registra esperienze, percepisce residui e riproduce colpi."
+      },
+      {
+        "stage": 2,
+        "title": "Chronicler",
+        "rationale": "Inscrive memorie e investe reliquie e testimonianze."
+      },
+      {
+        "stage": 3,
+        "title": "Curator",
+        "rationale": "Custodisce repertori, confronta precedenti e intreccia rievocazioni."
+      },
+      {
+        "stage": 4,
+        "title": "Palimpsest",
+        "rationale": "Le registrazioni diventano risposte incorporate e componenti separabili."
+      },
+      {
+        "stage": 5,
+        "title": "Remembrancer",
+        "rationale": "Sovrappone eventi attestati e compartimenta memorie a scala angelica."
+      },
+      {
+        "stage": 6,
+        "title": "Reliquary",
+        "rationale": "Trasmette attestazioni e custodisce eventi di enorme portata."
+      },
+      {
+        "stage": 7,
+        "title": "The Remembrance",
+        "rationale": "Divinità di memoria, traccia, attestazione, conservazione e rievocazione."
+      }
+    ],
+    "Mask": [
+      {
+        "stage": 1,
+        "title": "Mimic",
+        "rationale": "Prende apparenze e proietta una figura percettiva."
+      },
+      {
+        "stage": 2,
+        "title": "Understudy",
+        "rationale": "La rappresentazione diventa un doppio capace di agire fisicamente."
+      },
+      {
+        "stage": 3,
+        "title": "Masquerader",
+        "rationale": "Colpisce materialmente e spiritualmente, controlla rilevanza e canali percettivi."
+      },
+      {
+        "stage": 4,
+        "title": "Ensemble",
+        "rationale": "Una persona combatte mediante più presenze investite."
+      },
+      {
+        "stage": 5,
+        "title": "Persona",
+        "rationale": "Traspone identità operative e sostituisce rappresentazioni."
+      },
+      {
+        "stage": 6,
+        "title": "Chorus",
+        "rationale": "Partiziona esercizi identitari e sostiene Avatar investiti."
+      },
+      {
+        "stage": 7,
+        "title": "The Unnamed",
+        "rationale": "Divinità di identità, rappresentazione, riconoscimento e percezione."
+      }
+    ],
+    "Labyrinth": [
+      {
+        "stage": 1,
+        "title": "Listener",
+        "rationale": "Legge pensieri affioranti, entra nei sogni e modula emozioni."
+      },
+      {
+        "stage": 2,
+        "title": "Mesmerist",
+        "rationale": "Interviene su attenzione, scene oniriche e accessi interiori."
+      },
+      {
+        "stage": 3,
+        "title": "Mindwright",
+        "rationale": "Costruisce compartimenti, percorsi e trigger affettivi."
+      },
+      {
+        "stage": 4,
+        "title": "Oneirarch",
+        "rationale": "Contende comandi somatici e infligge lesioni oniriche pertinenti."
+      },
+      {
+        "stage": 5,
+        "title": "Reverie Keeper",
+        "rationale": "Custodisce presenze interiori e sostiene esperienze di sogno nella veglia."
+      },
+      {
+        "stage": 6,
+        "title": "Inner Architect",
+        "rationale": "Raccorda menti, sogni e strutture interiori."
+      },
+      {
+        "stage": 7,
+        "title": "The Unfathomed",
+        "rationale": "Divinità di mente, sogno, emozione e architettura interiore."
+      }
+    ],
+    "Sepulchre": [
+      {
+        "stage": 1,
+        "title": "Gravetender",
+        "rationale": "Primo contatto con morte, presenze morte e resti."
+      },
+      {
+        "stage": 2,
+        "title": "Mortician",
+        "rationale": "Sigilli mortali, comunicazione con i morti e quiete ancorata."
+      },
+      {
+        "stage": 3,
+        "title": "Necromancer",
+        "rationale": "Custodia delle continuità morte e organizzazione dei resti."
+      },
+      {
+        "stage": 4,
+        "title": "Gravewarden",
+        "rationale": "Custodie protette e interventi dei morti realmente sostenuti."
+      },
+      {
+        "stage": 5,
+        "title": "Pale Shepherd",
+        "rationale": "Regola permessi di custodia e scambi della quiete a scala angelica."
+      },
+      {
+        "stage": 6,
+        "title": "Psychopomp",
+        "rationale": "Instrada passaggi mortali e trasferisce custodie e resti."
+      },
+      {
+        "stage": 7,
+        "title": "The Stillness",
+        "rationale": "Divinità di morte, spiriti dei morti, resti e quiete."
+      }
+    ],
+    "Maw": [
+      {
+        "stage": 1,
+        "title": "Forager",
+        "rationale": "Percepisce bisogni e appetiti; primi consumi e assimilazioni."
+      },
+      {
+        "stage": 2,
+        "title": "Predator",
+        "rationale": "Orienta fame e desiderio, consuma mediante presa predatoria."
+      },
+      {
+        "stage": 3,
+        "title": "Devourer",
+        "rationale": "Seleziona ciò che consuma e incorpora funzioni compatibili."
+      },
+      {
+        "stage": 4,
+        "title": "Hollow Saint",
+        "rationale": "Contende sazietà e rifornimento; il consumo diventa mantello semidivino."
+      },
+      {
+        "stage": 5,
+        "title": "Feastkeeper",
+        "rationale": "Custodisce apporti e desideri e compartimenta assimilazioni."
+      },
+      {
+        "stage": 6,
+        "title": "Great Maw",
+        "rationale": "Raccorda alimentazioni remote e ricompone funzioni assimilate."
+      },
+      {
+        "stage": 7,
+        "title": "The Insatiable",
+        "rationale": "Divinità di desiderio, fame, consumo e assimilazione."
+      }
+    ],
+    "Eclipse": [
+      {
+        "stage": 1,
+        "title": "Nightwalker",
+        "rationale": "Percezione notturna, oscurità investita, ombra e passi silenziosi."
+      },
+      {
+        "stage": 2,
+        "title": "Duskblade",
+        "rationale": "Armi oscure, tagli d’ombra e difese silenziose."
+      },
+      {
+        "stage": 3,
+        "title": "Veilkeeper",
+        "rationale": "Occultamenti ancorati, passaggio nelle ombre e interruzione dei segnali."
+      },
+      {
+        "stage": 4,
+        "title": "Umbral Warden",
+        "rationale": "Prese corporee e spirituali attraverso l’ombra; custodia semidivina del nascosto."
+      },
+      {
+        "stage": 5,
+        "title": "Silent Watcher",
+        "rationale": "Vigilanza angelica, occultamento dei rapporti e silenzio selettivo."
+      },
+      {
+        "stage": 6,
+        "title": "Night Exarch",
+        "rationale": "Eminenza angelica su oscurità, ombre, riposo e risonanze."
+      },
+      {
+        "stage": 7,
+        "title": "The Unseen",
+        "rationale": "Divinità di oscurità, ombra, occultamento, notte e silenzio."
+      }
+    ],
+    "Crescent": [
+      {
+        "stage": 1,
+        "title": "Charmweaver",
+        "rationale": "Sigilli, fascinazione, primi anatemi e impulsi lunari."
+      },
+      {
+        "stage": 2,
+        "title": "Hexer",
+        "rationale": "Maledizioni condizionate, armamenti stregati e deviazioni speculari."
+      },
+      {
+        "stage": 3,
+        "title": "Witch",
+        "rationale": "Circuiti rituali, effigi maledette e sostituzione difensiva nel riflesso."
+      },
+      {
+        "stage": 4,
+        "title": "Pactbearer",
+        "rationale": "Contratto maggiore con un famiglio indipendente e anatemi incorporati."
+      },
+      {
+        "stage": 5,
+        "title": "Silver Enchanter",
+        "rationale": "Fascinazione persistente, indagine speculare e contesa delle invocazioni."
+      },
+      {
+        "stage": 6,
+        "title": "Moon Hierophant",
+        "rationale": "Composizione di riti e contratti, concordanza delle fasi e anatemi intrecciati."
+      },
+      {
+        "stage": 7,
+        "title": "The Bewitching",
+        "rationale": "Divinità di magia nera, riflessi, fascinazione, maledizioni e cicli lunari."
+      }
+    ]
+  },
+  "status": "TUTTE_LE_23_EFFIGI_APPROVATE_DAL_GIOCATORE"
+}

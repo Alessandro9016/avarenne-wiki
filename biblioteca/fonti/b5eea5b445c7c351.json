@@ -1,0 +1,264 @@
+{
+  "revision": "BIO-301",
+  "access": "NARRATOR_RESERVED",
+  "not_omniscience": true,
+  "entries": [
+    {
+      "id": "BST-001",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-002",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-003",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-004",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-005",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-006",
+      "class": "DUCAL",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-007",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-008",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-009",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-010",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-011",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-012",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-013",
+      "class": "TECH",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-014",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-015",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-016",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-017",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-018",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-019",
+      "class": "TECH",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-020",
+      "class": "NONE",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-021",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-022",
+      "class": "TECH",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-023",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-024",
+      "class": "TECH",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-025",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-026",
+      "class": "DUCAL",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-027",
+      "class": "DUCAL",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-028",
+      "class": "TECH",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-029",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-030",
+      "class": "OLD",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-031",
+      "class": "TECH",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    },
+    {
+      "id": "BST-032",
+      "class": "TECH",
+      "current_location_known": false,
+      "current_budget_known": false,
+      "personal_encounter_assigned": false,
+      "modern_name_editorial": true
+    }
+  ],
+  "raccordo_revision": "RACCORDI-317"
+}

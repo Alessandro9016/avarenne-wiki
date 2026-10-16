@@ -1,0 +1,26 @@
+# RISERVATO — Reti, interruzioni e accessi alternativi — versione 1.0
+
+Milestone 8. Verità autoriale contemporanea; non conoscenza automatica di Alexander.
+
+## Stato T0 verificabile
+Le 39 tratte ordinarie del registro sono normalmente aperte a T0; non sono 35 cronache di disastri. Non è inatto una sospensione ferroviaria segreta di Rovenne. Le pressioni qui descritte hanno cause e soglie osservabili. Meteo, carico e decisioni possono produrre interruzioni; il Narratore registra causa, momento, servizio colpito e alternativa effettiva, non una chiusura retroattiva per costringere il PG.
+
+| Settore | Pressione reale iniziale | Effetto se aggravata | Alternativa esistente |
+|---|---|---|---|
+| Sarn Gate–Reth Narrows | Drenaggio di galleria da ispezionare il 27 maggio | Limite di peso e fermate temporanee | Strada Thenn Pass, trasbordo e quattro–cinque giorni aggiuntivi nel tratto |
+| Ossen Reach–Veyford | Concessione contestata, udienza 12 giugno | Tariffe e accessi civili cambiati, non barriera magica | Argine ordinario e nuovi accordi di approdo |
+| Namar Upper Works | Componente 789 sotto carico 806 | Riduzione dell’acqua e sostegno limitato | Serbatoi e carico ridotto; diagnosi o riparazione diretta valida |
+| Auvrel estuario | Insabbiamento annuale e dragaggio | Grandi pescaggi attesi alla rada | Nave minore, ferrovia verso Belanne, deposito temporaneo |
+| Karrel–Copper Yard | Deposito pieno e lotti contestati | Rinvio di alcuni vagoni | Magazzino Karrel e confronto sul lotto, non rame planetario esaurito |
+| South Shoals | Apparato 785 separato incompletamente | Guasto di bussola investita entro 800 m | Scandaglio e rotta d’altura più lunga 90 km |
+
+## Applicare i tempi
+Il tempo minimo di movimento è distanza/velocità. Per strade e fiumi dividere per 12 ore giornaliere e aggiungere notti e soste. Per treni e navi usare servizio e coincidenze reali. Iritardi base sono informativi e non un pedaggio inviolabile: un genuino intervento può ridurli. Una modalità speciale richiede proprie condizioni, non la somma gratuita dei migliori parametri di tre mezzi.
+
+Pesi, pescaggio, carburante e documenti possono impedire un certo carico, non necessariamente il passaggio di una persona. Un titolo ducale dà accessi civili limitati; i poteri possono superare un ostacolo fisico senza cancellare la responsabilità pubblica. L’uso di Cradle per un ponte o Heart per un ferito resta valido quando sostegno, pattern e grado bastano. Infrastrutture ordinarie non sono protette da contromagia cosmica inventata.
+
+## Telegrafo e comunicazioni sostitutive
+I fili seguono linee ferroviarie e reti di posta. Un taglio vicino a Deren interrompe quel ramo, non ogni telegramma del mondo. Posta a cavallo e invio via altro nodo restano; relazioni spirituali richiedono un mezzo effettivo. Un guasto tecnico può essere verificato da tecnici ordinari; un messaggio autentico può trasmettere un informatore errato. Non attestare verità cosmica per ogni telegramma certificato.
+
+## Collegamenti superiori
+Uncorridorio di un Seat-holder è un rapporto con un investimento dichiarato. Nonè una strada comunale nella quale Alexander entra automaticamente. Se viene procurato un passaggio, stabilire andata, ritorno, cosa trasferisce, testimoni e contesa prima del transito. Le Confluence Belts di Rethar non ricostituiscono il Refuge di Edran o la sua piena Cardinalità.

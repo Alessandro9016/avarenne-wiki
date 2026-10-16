@@ -1,0 +1,922 @@
+[
+  {
+    "id": "CAST-069",
+    "name": "Albin Sere",
+    "aliases": [
+      "Albin Sere"
+    ],
+    "tier": "IMPORTANT",
+    "continent": "Mereth",
+    "state": "Orsanne",
+    "place": "Rovenne",
+    "network": null,
+    "access": "GIOCATORE",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\CAST-069_Albin_Sere",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Umano",
+      "origin": "origine umana; nessuna etichetta etnica Ardai assegnata automaticamente",
+      "present_body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+      "lineage": null,
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro Rovenne; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": 18,
+        "longevity": "Vita umana ordinaria; longevità eccezionale solo quando sostenuta dal rango e dalle fonti.",
+        "body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+        "visual": "Nessun tratto razziale aggiunto. Conservare età, lineamenti e aspetto individuale già adottati.",
+        "care": "Cure umane e necessità ambientali ordinarie."
+      },
+      "supernatural_condition": "52",
+      "longevity_exception": "Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Consolidamento autoriale della corporeità umana ordinaria; non una conclusione dedotta da silenzio o nome.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  },
+  {
+    "id": "CAST-070",
+    "name": "Teren Holt",
+    "aliases": [
+      "Teren Holt"
+    ],
+    "tier": "IMPORTANT",
+    "continent": "Mereth",
+    "state": "Orsanne",
+    "place": "Rovenne",
+    "network": null,
+    "access": "GIOCATORE",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\CAST-070_Teren_Holt",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Umano",
+      "origin": "origine umana; nessuna etichetta etnica Ardai assegnata automaticamente",
+      "present_body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+      "lineage": null,
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro Rovenne; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": 18,
+        "longevity": "Vita umana ordinaria; longevità eccezionale solo quando sostenuta dal rango e dalle fonti.",
+        "body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+        "visual": "Nessun tratto razziale aggiunto. Conservare età, lineamenti e aspetto individuale già adottati.",
+        "care": "Cure umane e necessità ambientali ordinarie."
+      },
+      "supernatural_condition": "40",
+      "longevity_exception": "Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Consolidamento autoriale della corporeità umana ordinaria; non una conclusione dedotta da silenzio o nome.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  },
+  {
+    "id": "CAST-071",
+    "name": "Nela Bress",
+    "aliases": [
+      "Nela Bress"
+    ],
+    "tier": "IMPORTANT",
+    "continent": "Mereth",
+    "state": "Orsanne",
+    "place": "Rovenne",
+    "network": null,
+    "access": "GIOCATORE",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\CAST-071_Nela_Bress",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Umano",
+      "origin": "origine umana; nessuna etichetta etnica Ardai assegnata automaticamente",
+      "present_body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+      "lineage": null,
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro Rovenne; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": 18,
+        "longevity": "Vita umana ordinaria; longevità eccezionale solo quando sostenuta dal rango e dalle fonti.",
+        "body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+        "visual": "Nessun tratto razziale aggiunto. Conservare età, lineamenti e aspetto individuale già adottati.",
+        "care": "Cure umane e necessità ambientali ordinarie."
+      },
+      "supernatural_condition": "31",
+      "longevity_exception": "Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Consolidamento autoriale della corporeità umana ordinaria; non una conclusione dedotta da silenzio o nome.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  },
+  {
+    "id": "CAST-072",
+    "name": "Mara Ossen",
+    "aliases": [
+      "Mara Ossen"
+    ],
+    "tier": "IMPORTANT",
+    "continent": "Mereth",
+    "state": "Orsanne",
+    "place": "Ossen Reach",
+    "network": null,
+    "access": "RISERVATO",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\Mereth\\Orsanne\\Ossen_Reach\\Indipendenti_o_appartenenza_non_specificata\\CAST-072_Mara_Ossen",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Serekh",
+      "origin": "origine Serekh",
+      "present_body": "Popolazione anfibia: polmoni e membrane acquatiche, pelle con maggiore necessità di umidità; mani antropomorfe con sottile membrana interdigitale variabile.",
+      "lineage": "Linea di bacino d’acqua dolce; permanenza in porto e navigazione richiedono acqua di manutenzione separata dal mare.",
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro Ossen Reach; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": 18,
+        "longevity": "Intervallo ordinario 80–110 anni; sostegni personali separati.",
+        "body": "Popolazione anfibia: polmoni e membrane acquatiche, pelle con maggiore necessità di umidità; mani antropomorfe con sottile membrana interdigitale variabile.",
+        "visual": "Aspetto antropomorfo individuale, pieghe membranose laterocervicali e pelle più liscia se visibili; non imporre squame, code, occhi da pesce o assenza di capelli. La disposizione delle membrane va mantenuta fra varianti.",
+        "care": "Acqua e salinità pertinenti alla linea individuale; nei viaggi contenitori e tessuti umidi ordinari, non una dipendenza da una divinità."
+      },
+      "supernatural_condition": "56",
+      "longevity_exception": "Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Assegnazione individuale adottata dopo confronto del dossier, dell’età e delle relazioni; non dedotta automaticamente dal territorio o dal potere.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  },
+  {
+    "id": "CAST-073",
+    "name": "Sena Vey",
+    "aliases": [
+      "Sena Vey"
+    ],
+    "tier": "IMPORTANT",
+    "continent": "Mereth",
+    "state": "Orsanne",
+    "place": "Ossen Reach",
+    "network": null,
+    "access": "RISERVATO",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\Mereth\\Orsanne\\Ossen_Reach\\Indipendenti_o_appartenenza_non_specificata\\CAST-073_Sena_Vey",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Umano",
+      "origin": "origine umana; nessuna etichetta etnica Ardai assegnata automaticamente",
+      "present_body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+      "lineage": null,
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro Ossen Reach; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": 18,
+        "longevity": "Vita umana ordinaria; longevità eccezionale solo quando sostenuta dal rango e dalle fonti.",
+        "body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+        "visual": "Nessun tratto razziale aggiunto. Conservare età, lineamenti e aspetto individuale già adottati.",
+        "care": "Cure umane e necessità ambientali ordinarie."
+      },
+      "supernatural_condition": "39",
+      "longevity_exception": "Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Consolidamento autoriale della corporeità umana ordinaria; non una conclusione dedotta da silenzio o nome.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  },
+  {
+    "id": "CAST-074",
+    "name": "Oren Daal",
+    "aliases": [
+      "Oren Daal"
+    ],
+    "tier": "IMPORTANT",
+    "continent": "Mereth",
+    "state": "Orsanne",
+    "place": "Ossen Reach",
+    "network": null,
+    "access": "RISERVATO",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\Mereth\\Orsanne\\Ossen_Reach\\Indipendenti_o_appartenenza_non_specificata\\CAST-074_Oren_Daal",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Umano",
+      "origin": "origine umana; nessuna etichetta etnica Ardai assegnata automaticamente",
+      "present_body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+      "lineage": null,
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro Ossen Reach; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": 18,
+        "longevity": "Vita umana ordinaria; longevità eccezionale solo quando sostenuta dal rango e dalle fonti.",
+        "body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+        "visual": "Nessun tratto razziale aggiunto. Conservare età, lineamenti e aspetto individuale già adottati.",
+        "care": "Cure umane e necessità ambientali ordinarie."
+      },
+      "supernatural_condition": "29",
+      "longevity_exception": "Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Consolidamento autoriale della corporeità umana ordinaria; non una conclusione dedotta da silenzio o nome.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  },
+  {
+    "id": "CAST-075",
+    "name": "Lera Soth",
+    "aliases": [
+      "Lera Soth"
+    ],
+    "tier": "IMPORTANT",
+    "continent": "Mereth",
+    "state": "Ovel",
+    "place": "Namar",
+    "network": null,
+    "access": "RISERVATO",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\Mereth\\Ovel\\Namar\\Indipendenti_o_appartenenza_non_specificata\\CAST-075_Lera_Soth",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Nethri",
+      "origin": "PEO-05, origine interiore Nethri; non una specie biologica unica",
+      "present_body": "Origine interiore stabilizzata in corpo vivente indipendente, antropomorfo, con metabolismo ordinario congruo alla persona. Non Avatar e non proprietà di un artefice.",
+      "lineage": "Corpo Independent con costituzione infantile e crescita reale; l’età civile esistente resta tempo vissuto, non mera età apparente.",
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro Namar; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": null,
+        "longevity": "Dipende dalla corporeità individuale, non dall’origine; nessuna immortalità automatica.",
+        "body": "Origine interiore stabilizzata in corpo vivente indipendente, antropomorfo, con metabolismo ordinario congruo alla persona. Non Avatar e non proprietà di un artefice.",
+        "visual": "Anatomia individuale umanoide adottata; non aggiungere marchio visibile universale, occhi vuoti, copie o corpi di nebbia. Anatomia e storia dell’origine sono informazioni distinte.",
+        "care": "Corpo Independent: nessun collegamento a un creatore da mantenere o interrompere. Nutrimento, sonno e cure del corpo effettivo."
+      },
+      "supernatural_condition": "36",
+      "longevity_exception": "Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Assegnazione individuale adottata dopo confronto del dossier, dell’età e delle relazioni; non dedotta automaticamente dal territorio o dal potere.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  },
+  {
+    "id": "CAST-076",
+    "name": "Damren Aul",
+    "aliases": [
+      "Damren Aul"
+    ],
+    "tier": "IMPORTANT",
+    "continent": "Mereth",
+    "state": "Ovel",
+    "place": "Namar",
+    "network": null,
+    "access": "RISERVATO",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\Mereth\\Ovel\\Namar\\Indipendenti_o_appartenenza_non_specificata\\CAST-076_Damren_Aul",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Umano",
+      "origin": "origine umana; nessuna etichetta etnica Ardai assegnata automaticamente",
+      "present_body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+      "lineage": null,
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro Namar; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": 18,
+        "longevity": "Vita umana ordinaria; longevità eccezionale solo quando sostenuta dal rango e dalle fonti.",
+        "body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+        "visual": "Nessun tratto razziale aggiunto. Conservare età, lineamenti e aspetto individuale già adottati.",
+        "care": "Cure umane e necessità ambientali ordinarie."
+      },
+      "supernatural_condition": "42",
+      "longevity_exception": "Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Consolidamento autoriale della corporeità umana ordinaria; non una conclusione dedotta da silenzio o nome.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  },
+  {
+    "id": "CAST-077",
+    "name": "Neris Cal",
+    "aliases": [
+      "Neris Cal"
+    ],
+    "tier": "IMPORTANT",
+    "continent": "Mereth",
+    "state": "Ovel",
+    "place": "Elven",
+    "network": null,
+    "access": "RISERVATO",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\Mereth\\Ovel\\Elven\\Indipendenti_o_appartenenza_non_specificata\\CAST-077_Neris_Cal",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Umano",
+      "origin": "origine umana; nessuna etichetta etnica Ardai assegnata automaticamente",
+      "present_body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+      "lineage": null,
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro Elven; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": 18,
+        "longevity": "Vita umana ordinaria; longevità eccezionale solo quando sostenuta dal rango e dalle fonti.",
+        "body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+        "visual": "Nessun tratto razziale aggiunto. Conservare età, lineamenti e aspetto individuale già adottati.",
+        "care": "Cure umane e necessità ambientali ordinarie."
+      },
+      "supernatural_condition": "45",
+      "longevity_exception": "Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Consolidamento autoriale della corporeità umana ordinaria; non una conclusione dedotta da silenzio o nome.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  },
+  {
+    "id": "CAST-078",
+    "name": "Ren Istral",
+    "aliases": [
+      "Ren Istral"
+    ],
+    "tier": "IMPORTANT",
+    "continent": "Mereth",
+    "state": "Orsanne",
+    "place": "Port Auvrel",
+    "network": null,
+    "access": "RISERVATO",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\Mereth\\Orsanne\\Port_Auvrel\\Indipendenti_o_appartenenza_non_specificata\\CAST-078_Ren_Istral",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Serekh",
+      "origin": "origine Serekh",
+      "present_body": "Popolazione anfibia: polmoni e membrane acquatiche, pelle con maggiore necessità di umidità; mani antropomorfe con sottile membrana interdigitale variabile.",
+      "lineage": "Linea di estuario, acqua salmastra tollerata entro limiti ordinari; niente immunità a qualsiasi salinità.",
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro Port Auvrel; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": 18,
+        "longevity": "Intervallo ordinario 80–110 anni; sostegni personali separati.",
+        "body": "Popolazione anfibia: polmoni e membrane acquatiche, pelle con maggiore necessità di umidità; mani antropomorfe con sottile membrana interdigitale variabile.",
+        "visual": "Aspetto antropomorfo individuale, pieghe membranose laterocervicali e pelle più liscia se visibili; non imporre squame, code, occhi da pesce o assenza di capelli. La disposizione delle membrane va mantenuta fra varianti.",
+        "care": "Acqua e salinità pertinenti alla linea individuale; nei viaggi contenitori e tessuti umidi ordinari, non una dipendenza da una divinità."
+      },
+      "supernatural_condition": "41",
+      "longevity_exception": "Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Assegnazione individuale adottata dopo confronto del dossier, dell’età e delle relazioni; non dedotta automaticamente dal territorio o dal potere.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  },
+  {
+    "id": "CAST-079",
+    "name": "Malrec Dorn",
+    "aliases": [
+      "Malrec Dorn"
+    ],
+    "tier": "IMPORTANT",
+    "continent": "Mereth",
+    "state": "Orsanne",
+    "place": "Port Auvrel",
+    "network": null,
+    "access": "RISERVATO",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\Mereth\\Orsanne\\Port_Auvrel\\Indipendenti_o_appartenenza_non_specificata\\CAST-079_Malrec_Dorn",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Umano",
+      "origin": "origine umana; nessuna etichetta etnica Ardai assegnata automaticamente",
+      "present_body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+      "lineage": null,
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro Port Auvrel; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": 18,
+        "longevity": "Vita umana ordinaria; longevità eccezionale solo quando sostenuta dal rango e dalle fonti.",
+        "body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+        "visual": "Nessun tratto razziale aggiunto. Conservare età, lineamenti e aspetto individuale già adottati.",
+        "care": "Cure umane e necessità ambientali ordinarie."
+      },
+      "supernatural_condition": "53",
+      "longevity_exception": "Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Consolidamento autoriale della corporeità umana ordinaria; non una conclusione dedotta da silenzio o nome.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  },
+  {
+    "id": "CAST-080",
+    "name": "Serevan Ilex",
+    "aliases": [
+      "Serevan Ilex"
+    ],
+    "tier": "IMPORTANT",
+    "continent": null,
+    "state": null,
+    "place": "rete remota di testimonianze",
+    "network": null,
+    "access": "RISERVATO",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\Non_specificato\\Non_specificato\\rete_remota_di_testimonianze\\Indipendenti_o_appartenenza_non_specificata\\CAST-080_Serevan_Ilex",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Veylen",
+      "origin": "origine Veylen",
+      "present_body": "Torace relativamente ampio e anatomia dei seni con membrane protettive interne; respirazione corporea, nessuna natura aeriforme.",
+      "lineage": null,
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro rete remota di testimonianze; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": 20,
+        "longevity": "Intervallo ordinario 100–140 anni; non è una garanzia individuale.",
+        "body": "Torace relativamente ampio e anatomia dei seni con membrane protettive interne; respirazione corporea, nessuna natura aeriforme.",
+        "visual": "Proporzioni toraciche lievemente ampie; membrane nasali interne non visibili. Non aggiungere ali, orecchie elfiche, occhi luminosi o uniformi etniche.",
+        "care": "Adattamento graduale a variazioni di pressione; nessuna immunità al vuoto o al veleno."
+      },
+      "supernatural_condition": "persona angelica remota",
+      "longevity_exception": "Le durate ordinarie non limitano la continuità antica sostenuta dalle configurazioni documentate.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Assegnazione individuale adottata dopo confronto del dossier, dell’età e delle relazioni; non dedotta automaticamente dal territorio o dal potere.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  },
+  {
+    "id": "CAST-081",
+    "name": "Avarra Neth",
+    "aliases": [
+      "Avarra Neth"
+    ],
+    "tier": "IMPORTANT",
+    "continent": null,
+    "state": null,
+    "place": "habitat interplanetario mobile",
+    "network": null,
+    "access": "RISERVATO",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\Non_specificato\\Non_specificato\\habitat_interplanetario_mobile\\Indipendenti_o_appartenenza_non_specificata\\CAST-081_Avarra_Neth",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Nethri",
+      "origin": "PEO-05, origine interiore Nethri; non una specie biologica unica",
+      "present_body": "Origine interiore stabilizzata in corpo vivente indipendente, antropomorfo, con metabolismo ordinario congruo alla persona. Non Avatar e non proprietà di un artefice.",
+      "lineage": null,
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro habitat interplanetario mobile; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": null,
+        "longevity": "Dipende dalla corporeità individuale, non dall’origine; nessuna immortalità automatica.",
+        "body": "Origine interiore stabilizzata in corpo vivente indipendente, antropomorfo, con metabolismo ordinario congruo alla persona. Non Avatar e non proprietà di un artefice.",
+        "visual": "Anatomia individuale umanoide adottata; non aggiungere marchio visibile universale, occhi vuoti, copie o corpi di nebbia. Anatomia e storia dell’origine sono informazioni distinte.",
+        "care": "Corpo Independent: nessun collegamento a un creatore da mantenere o interrompere. Nutrimento, sonno e cure del corpo effettivo."
+      },
+      "supernatural_condition": "persona angelica remota",
+      "longevity_exception": "Le durate ordinarie non limitano la continuità antica sostenuta dalle configurazioni documentate.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Origine Nethri con corpo autonomo; l’habitat mobile e il rango non equivalgono a origine extraterrestre o Avatar.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  },
+  {
+    "id": "CAST-082",
+    "name": "Theral Voss",
+    "aliases": [
+      "Theral Voss"
+    ],
+    "tier": "IMPORTANT",
+    "continent": null,
+    "state": null,
+    "place": "bacino del Veil",
+    "network": null,
+    "access": "RISERVATO",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\Non_specificato\\Non_specificato\\bacino_del_Veil\\Indipendenti_o_appartenenza_non_specificata\\CAST-082_Theral_Voss",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Serekh",
+      "origin": "origine Serekh",
+      "present_body": "Corporeità biologicamente morta della linea Serekh; continuità e sostegno soprannaturale già documentati, nessun metabolismo vivente automatico.",
+      "lineage": "Linea di bacino d’acqua dolce; permanenza in porto e navigazione richiedono acqua di manutenzione separata dal mare.",
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro bacino del Veil; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": 18,
+        "longevity": "Intervallo ordinario 80–110 anni; sostegni personali separati.",
+        "body": "Popolazione anfibia: polmoni e membrane acquatiche, pelle con maggiore necessità di umidità; mani antropomorfe con sottile membrana interdigitale variabile.",
+        "visual": "Aspetto antropomorfo individuale, pieghe membranose laterocervicali e pelle più liscia se visibili; non imporre squame, code, occhi da pesce o assenza di capelli. La disposizione delle membrane va mantenuta fra varianti.",
+        "care": "Acqua e salinità pertinenti alla linea individuale; nei viaggi contenitori e tessuti umidi ordinari, non una dipendenza da una divinità."
+      },
+      "supernatural_condition": "persona angelica biologicamente morta",
+      "longevity_exception": "Le durate ordinarie non limitano la continuità antica sostenuta dalle configurazioni documentate.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Assegnazione individuale adottata dopo confronto del dossier, dell’età e delle relazioni; non dedotta automaticamente dal territorio o dal potere.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  },
+  {
+    "id": "CAST-083",
+    "name": "Eshra Vale",
+    "aliases": [
+      "Eshra Vale"
+    ],
+    "tier": "IMPORTANT",
+    "continent": null,
+    "state": null,
+    "place": "dominio d'interfacce",
+    "network": null,
+    "access": "RISERVATO",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\Non_specificato\\Non_specificato\\dominio_dinterfacce\\Indipendenti_o_appartenenza_non_specificata\\CAST-083_Eshra_Vale",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Umano",
+      "origin": "origine umana; nessuna etichetta etnica Ardai assegnata automaticamente",
+      "present_body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+      "lineage": null,
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro dominio d'interfacce; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": 18,
+        "longevity": "Vita umana ordinaria; longevità eccezionale solo quando sostenuta dal rango e dalle fonti.",
+        "body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+        "visual": "Nessun tratto razziale aggiunto. Conservare età, lineamenti e aspetto individuale già adottati.",
+        "care": "Cure umane e necessità ambientali ordinarie."
+      },
+      "supernatural_condition": "persona angelica remota",
+      "longevity_exception": "Le durate ordinarie non limitano la continuità antica sostenuta dalle configurazioni documentate.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Consolidamento autoriale della corporeità umana ordinaria; non una conclusione dedotta da silenzio o nome.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  },
+  {
+    "id": "CAST-084",
+    "name": "Heloise Brant",
+    "aliases": [
+      "Heloise Brant"
+    ],
+    "tier": "IMPORTANT",
+    "continent": "Mereth",
+    "state": "Orsanne",
+    "place": "Rovenne",
+    "network": "cucina e dispensa",
+    "access": "GIOCATORE",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\CAST-084_Heloise_Brant",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Veylen",
+      "origin": "origine Veylen",
+      "present_body": "Torace relativamente ampio e anatomia dei seni con membrane protettive interne; respirazione corporea, nessuna natura aeriforme.",
+      "lineage": null,
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro Rovenne; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": 20,
+        "longevity": "Intervallo ordinario 100–140 anni; non è una garanzia individuale.",
+        "body": "Torace relativamente ampio e anatomia dei seni con membrane protettive interne; respirazione corporea, nessuna natura aeriforme.",
+        "visual": "Proporzioni toraciche lievemente ampie; membrane nasali interne non visibili. Non aggiungere ali, orecchie elfiche, occhi luminosi o uniformi etniche.",
+        "care": "Adattamento graduale a variazioni di pressione; nessuna immunità al vuoto o al veleno."
+      },
+      "supernatural_condition": "54",
+      "longevity_exception": "Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Assegnazione individuale adottata dopo confronto del dossier, dell’età e delle relazioni; non dedotta automaticamente dal territorio o dal potere.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  },
+  {
+    "id": "CAST-085",
+    "name": "Luca Daven",
+    "aliases": [
+      "Luca Daven"
+    ],
+    "tier": "IMPORTANT",
+    "continent": "Mereth",
+    "state": "Orsanne",
+    "place": "Rovenne",
+    "network": "cucina e dispensa",
+    "access": "GIOCATORE",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\CAST-085_Luca_Daven",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Umano",
+      "origin": "origine umana; nessuna etichetta etnica Ardai assegnata automaticamente",
+      "present_body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+      "lineage": null,
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro Rovenne; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": 18,
+        "longevity": "Vita umana ordinaria; longevità eccezionale solo quando sostenuta dal rango e dalle fonti.",
+        "body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+        "visual": "Nessun tratto razziale aggiunto. Conservare età, lineamenti e aspetto individuale già adottati.",
+        "care": "Cure umane e necessità ambientali ordinarie."
+      },
+      "supernatural_condition": "26",
+      "longevity_exception": "Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Consolidamento autoriale della corporeità umana ordinaria; non una conclusione dedotta da silenzio o nome.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  },
+  {
+    "id": "CAST-086",
+    "name": "Marta Sorel",
+    "aliases": [
+      "Marta Sorel"
+    ],
+    "tier": "IMPORTANT",
+    "continent": "Mereth",
+    "state": "Orsanne",
+    "place": "Rovenne",
+    "network": "cucina e dispensa",
+    "access": "GIOCATORE",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\CAST-086_Marta_Sorel",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Umano",
+      "origin": "origine umana; nessuna etichetta etnica Ardai assegnata automaticamente",
+      "present_body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+      "lineage": null,
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro Rovenne; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": 18,
+        "longevity": "Vita umana ordinaria; longevità eccezionale solo quando sostenuta dal rango e dalle fonti.",
+        "body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+        "visual": "Nessun tratto razziale aggiunto. Conservare età, lineamenti e aspetto individuale già adottati.",
+        "care": "Cure umane e necessità ambientali ordinarie."
+      },
+      "supernatural_condition": "43",
+      "longevity_exception": "Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Consolidamento autoriale della corporeità umana ordinaria; non una conclusione dedotta da silenzio o nome.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  },
+  {
+    "id": "CAST-087",
+    "name": "Nico Bell",
+    "aliases": [
+      "Nico Bell"
+    ],
+    "tier": "IMPORTANT",
+    "continent": "Mereth",
+    "state": "Orsanne",
+    "place": "Rovenne",
+    "network": "cucina e dispensa",
+    "access": "GIOCATORE",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\CAST-087_Nico_Bell",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Umano",
+      "origin": "origine umana; nessuna etichetta etnica Ardai assegnata automaticamente",
+      "present_body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+      "lineage": null,
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro Rovenne; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": 18,
+        "longevity": "Vita umana ordinaria; longevità eccezionale solo quando sostenuta dal rango e dalle fonti.",
+        "body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+        "visual": "Nessun tratto razziale aggiunto. Conservare età, lineamenti e aspetto individuale già adottati.",
+        "care": "Cure umane e necessità ambientali ordinarie."
+      },
+      "supernatural_condition": "19",
+      "longevity_exception": "Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Consolidamento autoriale della corporeità umana ordinaria; non una conclusione dedotta da silenzio o nome.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  },
+  {
+    "id": "CAST-088",
+    "name": "Adele Bresson",
+    "aliases": [
+      "Adele Bresson"
+    ],
+    "tier": "IMPORTANT",
+    "continent": "Mereth",
+    "state": "Orsanne",
+    "place": "Rovenne",
+    "network": "cucina e dispensa",
+    "access": "GIOCATORE",
+    "folder": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\CAST-088_Adele_Bresson",
+    "planned_images": 1,
+    "visual_reference": null,
+    "selection_reason": "Cast importante",
+    "biology": {
+      "revision": "BIO-CAST-01",
+      "status": "CONSOLIDATA",
+      "biological_population": "Umano",
+      "origin": "origine umana; nessuna etichetta etnica Ardai assegnata automaticamente",
+      "present_body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+      "lineage": null,
+      "cultural_affiliation": "Appartenenza civica e professionale personale nel teatro Rovenne; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.",
+      "physiology": {
+        "maturity": 18,
+        "longevity": "Vita umana ordinaria; longevità eccezionale solo quando sostenuta dal rango e dalle fonti.",
+        "body": "Anatomia umana vivente; variazioni individuali non assegnano poteri.",
+        "visual": "Nessun tratto razziale aggiunto. Conservare età, lineamenti e aspetto individuale già adottati.",
+        "care": "Cure umane e necessità ambientali ordinarie."
+      },
+      "supernatural_condition": "37",
+      "longevity_exception": "Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.",
+      "basis": "NUOVA_DECISIONE_AUTORIALE_ESPLICITA",
+      "reason": "Consolidamento autoriale della corporeità umana ordinaria; non una conclusione dedotta da silenzio o nome.",
+      "source": [
+        "RISERVATO_187",
+        "Cast_riservato.json: dossier individuale",
+        "264_Consolidamento_biologie_cast_riservato.md"
+      ],
+      "individual_abilities_unchanged": true,
+      "knowledge_access": "RISERVATO; divulgare soltanto ciò che il personaggio conosce",
+      "past_body": null
+    },
+    "biology_status": "CONSOLIDATA"
+  }
+]

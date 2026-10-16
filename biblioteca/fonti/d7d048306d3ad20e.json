@@ -1,0 +1,554 @@
+{
+  "revision": "RAMI-23-04",
+  "status": "HISTORICAL_EDITORIAL_EVIDENCE",
+  "source": "177_Revisione_dei_rami_autonomi_23_Effigi.md",
+  "verification": "CANONE_VIGENTE/Verifica_rami_autonomi_23.json",
+  "files": [
+    {
+      "file": "00_LEGGIMI.md",
+      "sha256": "9d7823dcc543690e2946119447a30d49425fe72dfba6815713012036469acb57"
+    },
+    {
+      "file": "149_Matrice_adulta_Effigi_Roots_e_confini.md",
+      "sha256": "9eee900fd54269f6a2526c51057a589924ed54c39274c9f34ef2fbd951ed3b3c"
+    },
+    {
+      "file": "163_Indice_del_cast.md",
+      "sha256": "382b89f634159f22d4f2210d62d38e294bf4d6a1b7dd7cb4d6f08bd571c0e99a"
+    },
+    {
+      "file": "173_Revisione_completa_23_Effigi.md",
+      "sha256": "0f3423d9b6eae0603ebd0cbeaa7771961ffbd02793964e3b35191f8bb169d18e"
+    },
+    {
+      "file": "175_Controllo_editoriale_e_qualitativo_23_Effigi.md",
+      "sha256": "3a49c9f4deb2cb43880a11197fa10c3fb922eb26a4563a11a505064ee5f2921d"
+    },
+    {
+      "file": "176_Confini_delle_autorita_e_casi_operativi.md",
+      "sha256": "c02190f9515733340216b39cc57ba3681f1db38b946da94a932183d32cd82c0f"
+    },
+    {
+      "file": "177_Revisione_dei_rami_autonomi_23_Effigi.md",
+      "sha256": "e56272d3ae219493151f43f498aef3eb4020049924ef989e1c7f4245b82986d2"
+    },
+    {
+      "file": "20_Roadmap_generale_fino_alla_wiki.md",
+      "sha256": "08524091312d8627b4d704c2d4596f379d8fc893699788051bbaaa27f22e8e44"
+    },
+    {
+      "file": "23_Registro_unico_del_canone.md",
+      "sha256": "f08e600b8391e2d584c6bee75d42d8bd667fcc3f150fd5daaf8a10d11a0fce87"
+    },
+    {
+      "file": "32_Chiusura_milestone_2.md",
+      "sha256": "a02457ef4699ec797d25d3024308db75aa0b6d0433ccf2f8e3a5e5252180af3b"
+    },
+    {
+      "file": "63_Indice_delle_Effigi.md",
+      "sha256": "d2748776dc2ac16d279c8ff751ea59b545ccaeea84272f72b8544581c75cb904"
+    },
+    {
+      "file": "GIOCATORE_168_Crescent_progressione_completa.md",
+      "sha256": "324d1ba6e750933ed40a6793ea28a91b41a759561dc0e515da8a13606700c951"
+    },
+    {
+      "file": "GIOCATORE_170_Eclipse_progressione_completa.md",
+      "sha256": "bd82584b2cd179067f4994a3192f8564a35262804a2753759cc665784aa0dd82"
+    },
+    {
+      "file": "GIOCATORE_27_Catalogo_macro_delle_21_Effigi.md",
+      "sha256": "da091e4e868f594561a4e610d79f198998e48d71184b96740431d358eac29a2f"
+    },
+    {
+      "file": "GIOCATORE_28_Le_sette_integrazioni_cosmiche.md",
+      "sha256": "68c2f45d02e6a5a9d5d7cc7ada21d425bb3f69adfb26e280e4a4749e78a5b3d5"
+    },
+    {
+      "file": "GIOCATORE_29_The_Sovereign_Completezza_e_poteri_cosmici.md",
+      "sha256": "ca2f45004dee833b48a099db874de900bdd466cfb0b93237d7c4a1eadb33b771"
+    },
+    {
+      "file": "GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md",
+      "sha256": "53e444a87de64680ffdeddd7e0f49d3f0ed9f97b88a6a7583f2cd1825c43361e"
+    },
+    {
+      "file": "GIOCATORE_40_Lettura_delle_progressioni.md",
+      "sha256": "26c320dc505064ea6fb7f6847f8fb57a5d01ad2946e6c456d494c5e9975d2c56"
+    },
+    {
+      "file": "GIOCATORE_41_Cradle_progressione_completa.md",
+      "sha256": "f1a5fbee733bced657815f8a8d1d4b3ea48ac5f278b5af83246c994aed6c6e25"
+    },
+    {
+      "file": "GIOCATORE_42_Ruin_progressione_completa.md",
+      "sha256": "95d8e489a9a4ee88cf74236f9bf925075db12db4b0c2bb8a37747d0feeb978bb"
+    },
+    {
+      "file": "GIOCATORE_43_Scroll_progressione_completa.md",
+      "sha256": "08cc3b4b71a1bab3b2a3e3861f0443f8a2d5e34ab71e8a096c0da9e9ac17602f"
+    },
+    {
+      "file": "GIOCATORE_44_Halo_progressione_completa.md",
+      "sha256": "b3321b0da5002e7ff4fcd718e83209507c2d1fb1c567789b489a71b22ca1c506"
+    },
+    {
+      "file": "GIOCATORE_45_Heart_progressione_completa.md",
+      "sha256": "4593c52a19661642c53fddeed4b059d8dd56fce8753c16aed3fc4516d49adc94"
+    },
+    {
+      "file": "GIOCATORE_46_Crucible_progressione_completa.md",
+      "sha256": "fcb41f0326470b5dc1858958093fb7bc24c6729b74a86d2591750b29622c428f"
+    },
+    {
+      "file": "GIOCATORE_47_Mask_progressione_completa.md",
+      "sha256": "b1197eaf1df0507a48ef8055254b7d07624a9157f96e317b293ce1caea804bc8"
+    },
+    {
+      "file": "GIOCATORE_48_Hourglass_progressione_completa.md",
+      "sha256": "ca4fb7d9deeac490d4da76bc22fdaf6f78866c45c64c8c82a6effd440f6a4e97"
+    },
+    {
+      "file": "GIOCATORE_49_Astrolabe_progressione_completa.md",
+      "sha256": "63469899354c1427ac600bb9a6d6cb6a219074a34f2f37e5700e273b885a6b5d"
+    },
+    {
+      "file": "GIOCATORE_50_Sepulchre_progressione_completa.md",
+      "sha256": "667be2317379587c79273ce7a32f04aa14cf48a1d1c8ca37425f9b17f97a126e"
+    },
+    {
+      "file": "GIOCATORE_51_Seed_progressione_completa.md",
+      "sha256": "e86f05eee6f15bf5039d8156c0f8ef7230ee7b491f928e7532fcef471e6bf974"
+    },
+    {
+      "file": "GIOCATORE_52_Crown_progressione_completa.md",
+      "sha256": "011db78365a4e03acd8b94162b28ffaacdc91947d46ff66a2e4fa49fa5181d8f"
+    },
+    {
+      "file": "GIOCATORE_53_Chain_progressione_completa.md",
+      "sha256": "899c7c1cc0ba2a0f4034324482251601f0e24d74028ca4178136a4e89ee7d63c"
+    },
+    {
+      "file": "GIOCATORE_54_Coin_progressione_completa.md",
+      "sha256": "c2418f26d6fd8a606edf692b11eb668b4bfc97a8a31e6990f0cd48eb9c4baef4"
+    },
+    {
+      "file": "GIOCATORE_55_Banner_progressione_completa.md",
+      "sha256": "e4a74ecd41b92ccdd16ab514ea2001b06651a043839515848a07ace9e510c736"
+    },
+    {
+      "file": "GIOCATORE_56_Oracle_progressione_completa.md",
+      "sha256": "23e2814fa1de9d397451692c5e17a354d43eb6c604652b5c7aa47fce7bfa5891"
+    },
+    {
+      "file": "GIOCATORE_57_Archive_progressione_completa.md",
+      "sha256": "9bf08be71bdeefb52899d48b9880c63898a00f1de141bf8c45208ac1d9d19e0b"
+    },
+    {
+      "file": "GIOCATORE_58_Labyrinth_progressione_completa.md",
+      "sha256": "7585c29c0166ae47b9800e6f249aac1bc15150efb4ddc37d380de899b5ece66c"
+    },
+    {
+      "file": "GIOCATORE_59_Tempest_progressione_completa.md",
+      "sha256": "fcb6a92c5dce33c045493f6dd1017a616ba3652faebb44c4ba63654859420d13"
+    },
+    {
+      "file": "GIOCATORE_60_Maw_progressione_completa.md",
+      "sha256": "63e4b32607197dcbeb14d7c19d80e19a6a1801aa4ca48a40168445cdf609f91b"
+    },
+    {
+      "file": "GIOCATORE_61_Loom_progressione_completa.md",
+      "sha256": "3641a5a06aa61c6cc69e1d03f49752c3d75c751a4afcdc4576974488b1f0c88f"
+    },
+    {
+      "file": "GIOCATORE_62_Audit_delle_progressioni.md",
+      "sha256": "bf85f1a2bf83d6cc4b26d60014e02b6a29075c69b10df1adfb71d84a7231be5c"
+    },
+    {
+      "file": "GIOCATORE_65_Atlante_del_reale.md",
+      "sha256": "bda71d0f03160456e04580d83952073d4d8ca6a697d9605c451d940919ec8c7d"
+    },
+    {
+      "file": "GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
+      "sha256": "ff0cbc104c87bd8f7d14432b69fc152de18301973ab126c4415b928a0d4e8777"
+    },
+    {
+      "file": "CANONE_VIGENTE/00_LEGGIMI.md",
+      "sha256": "978101609dd1b10a5b6c8b58e748a2b3f13c94136a4c68bce1a27d35d718e145"
+    },
+    {
+      "file": "CANONE_VIGENTE/Architettura_cosmica.json",
+      "sha256": "2fd7ef67615037b5e01301367b565fb51336c85b75af20c27d3e1df48ffc6873"
+    },
+    {
+      "file": "CANONE_VIGENTE/Atlante_cosmologico.json",
+      "sha256": "5978c7dd2be9c1a3283cb20a326118b6d5225ea4ab99483dea12340ca84a52ea"
+    },
+    {
+      "file": "CANONE_VIGENTE/Controllo_funzioni_distinte.json",
+      "sha256": "15036caf5617fc0b23cabbf6a6ab0c267a39176d81aa937761568c488200a5b1"
+    },
+    {
+      "file": "CANONE_VIGENTE/Progressioni_effigi.json",
+      "sha256": "abf4ac2c15f4fc6c7e453301f8f2448d4c9dbad854e936c15b53e428c106b135"
+    },
+    {
+      "file": "CANONE_VIGENTE/Protagonista.json",
+      "sha256": "c491b3bc7e6e18daa1ac42414069f43b4cf1f06fca390aa5c6f2d1504b54655b"
+    },
+    {
+      "file": "CANONE_VIGENTE/Raccordo_adulto.json",
+      "sha256": "3067fbbde8a80fae3745667dcf3baae5beac4530fe5df4638747032a51d4177d"
+    },
+    {
+      "file": "CANONE_VIGENTE/Registro_decisioni.json",
+      "sha256": "137faee9be97282b231e12457ba14e2d601920d2ed48f3131d1958bf2c7c34eb"
+    },
+    {
+      "file": "CANONE_VIGENTE/Regole_comuni.json",
+      "sha256": "da7ed982269e8ff38c6374e37d32915b8175f93c74205594faa6d1e64a32acea"
+    },
+    {
+      "file": "CANONE_VIGENTE/Revisione_rami_autonomi.json",
+      "sha256": "91dd2ba8e45e6a4d3ec46b54ba64ef7a1d46020c67ca39966a54048293a3587f"
+    },
+    {
+      "file": "CANONE_VIGENTE/Verifica_editoriale_23_Effigi.json",
+      "sha256": "639f86dd6bc090734b0713d45e2b57e44aafc676869ca09fe78909ab4f62c4dc"
+    },
+    {
+      "file": "CANONE_VIGENTE/Verifica_revisione_23_Effigi.json",
+      "sha256": "fc326ec0e27f86e47b850cd8bf5a9d8210061e077f8303da2c62131169fdf3a6"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-001.md",
+      "sha256": "65af66791f1e335350bbca6193b7e3a72907d5a7d8bd9fd988eccdfffb0c3a69"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-002.md",
+      "sha256": "9d98c41477b9b4114b9f2c28a596e590987aaaa095d4df37d175189824d1553f"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-007.md",
+      "sha256": "c6dc8d0ccb917b75d6e97853fe70cef4be9cba320075309930e040114adfacd7"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-008.md",
+      "sha256": "7cca3c0b85f8bc6cecd429d64027f24ccb42893194a932ea09a74e5a1a898fc0"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-009.md",
+      "sha256": "c733bf152942fd3774cab09e21dd0fa332f739a347b1c20fe8b04755833b6bd4"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-010.md",
+      "sha256": "694d337bfa73f17a6b6b1e7c1ef67d87c0d0a761a64436bb2245d9841e414c36"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-011.md",
+      "sha256": "c94d6d0915d87392ae03b55449112e744e8f9d26f74fa06d826dbc3b1dcd165a"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-012.md",
+      "sha256": "7357659d5ffd41ae80204d61feae39d4001808a362b689ed1b46eb83c5a509b9"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-013.md",
+      "sha256": "0e2cea0c97cd612dfc3bc723abb2712fa38719db0c6a9a7d9c40de72d1beaf01"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-014.md",
+      "sha256": "4d4a5013c785000294e8053582e5267545be97f7ebf8e751991538edcbbd6306"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-015.md",
+      "sha256": "a03b1bacfd593c4d2d4b4d484d79bb99ce02d2023c8d291e4ef1af6d15847276"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-016.md",
+      "sha256": "66541f520fa31df10fe4be5324ebdd4a7267c5734f6fc7c6853b1c627f5162af"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-017.md",
+      "sha256": "7636316719fd1f873f066888ef7108f6a94b728f69b3e57db9ce6719adb87d87"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-018.md",
+      "sha256": "1feac66ed4a5ef8a7d6799e2d300ba8ff33f55c10bffb430f65df29b1ff50b5a"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-019.md",
+      "sha256": "2724234c7b8af62766f7c680ddcd7497a95ef75b6282bd5b8da406e13dbd360c"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-020.md",
+      "sha256": "605abbad3a78dc22add8de320f6ae6204c912b7c51a7de8b9a3a7f99348be515"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-021.md",
+      "sha256": "e6c7d9d8f1b5653e6c2547142707b5695e20040ed37c0d724fa06dbbdc6b77db"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-022.md",
+      "sha256": "dbb404aaee4256f6a94b3be7105fc7bfafe65b5d46ff65f2c6ec1c29ab1ef602"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-023.md",
+      "sha256": "40933695d856aae3574b30600b656b07ca81ba88099b3ce1f0de238e7a84d1ea"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-024.md",
+      "sha256": "9ffb4cc167cb9a8f205b58e8c520f05abef8048363a7309fa0360edf894902b9"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-025.md",
+      "sha256": "73f599aa221ad3dd706d5176aee9dfb66141f159b55c1e0012a35cdefa8c3d0e"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-026.md",
+      "sha256": "49c754a653f82425ce56d4f77ea2df3aa5c6a605f2d54fc12192c1c860ca1e3b"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-027.md",
+      "sha256": "d8742e24d2e56757dda1496217d90e0a3a9e8d7c16e0b605c794cb4269483b14"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-029.md",
+      "sha256": "4e9ab02c0259a571f135c39c340a1e7f6862ce00e544566625ffdbd2de36c061"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-030.md",
+      "sha256": "0548677de80146266a37d1a94d973b50294a160d346836db145f1cdd97550241"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-031.md",
+      "sha256": "05d820c802146a5e3be84c07a64e756761fee2330ea4275d5626edcdc64cdf17"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-032.md",
+      "sha256": "79b8a3cfa3484f852c6d3204e1fb47b6b0bcc7ad70924f85889bfe030403744e"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-033.md",
+      "sha256": "845c7ac7350eef136ec6199ae1a95e941ec0cc11b5e4f144e80660bc3220a94a"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-035.md",
+      "sha256": "5ad1c6df1a80ab47b89511774c9f0dba171cf2ac32ff3d711608fdf0285a815b"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-037.md",
+      "sha256": "3471c4d5381a4647e89e819b831d213b8f63da10e2bb9ac26b8dc3e8914aa3e7"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-038.md",
+      "sha256": "6e5c5a3149299e32824463fd861c8d8a419462d4659d0b4cb364fa5284f03949"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-039.md",
+      "sha256": "84ff39e2bb764e9890ce17dbc34526df425265cd465cb26fbe403a488c6ea5d6"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-040.md",
+      "sha256": "434a801d30e63de362517285b53804d5a061c373e987fea263b314beeb627ae2"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-041.md",
+      "sha256": "cabb8c3d78126e1c12674c0828b9450acc8b78a58bf178cc7be3039019954eb3"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-042.md",
+      "sha256": "0d451ba41a15def281b4fc352c00def5145b4edb4c1f9dc39162f57c8e8f25a7"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-043.md",
+      "sha256": "91ee64e293644e724929de58d26bea316a65ead845baedc5a51c93a7871fcb30"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-044.md",
+      "sha256": "fb9ed6ea9b7f6df15de3edd6b533e5112dc187717353acb6e4fb7697947c47d0"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-045.md",
+      "sha256": "b3b87e3a87f07118fdccd62ee5628ca6d6254ac6582504df5ed58566d44d1494"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-046.md",
+      "sha256": "d1f2f31145dca58833b6e6f25b325079928619cc94c7dfbfc7a20eba9d1542da"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-047.md",
+      "sha256": "02568d24325093ead2656be07372fae8bbe12d55598a23f3400d797caa90f1d3"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-049.md",
+      "sha256": "bbfd19950e68598ffc5f0e66289ac72bbd7ff575e83f96ab0c4b93423de54fe8"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-050.md",
+      "sha256": "8a5adeac7e7f021d6f84ea5a6b60ef3ece9ec1332fcd1cec428947a09810cee1"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-051.md",
+      "sha256": "0a133e5bc08d9a2c8737c24b898659056052a3e39753853cc075519dbc8aca99"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-052.md",
+      "sha256": "c5858e35a8657129ca2f2287c6746c3cf469e88a8c69e66f333169e4b1681fff"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-053.md",
+      "sha256": "4b32c120776d3408c5a695a451be35e3e6f7bf9f43eaff6d4702784aeead7118"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-054.md",
+      "sha256": "10e1d0f8128b9565ad6015a2178b153e314160bc3c2b2ce3b08afe5c670da895"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-055.md",
+      "sha256": "b1cc26e7676e6ae52e4e0badaf4a08821413e4a4f7dedf08d66766b242d10765"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-056.md",
+      "sha256": "c6c32bce3ec48ac89f9284e9b5f01a9ece8f05392a60931b7ac7a83db98780f1"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-057.md",
+      "sha256": "13fe55008929b7f463f35b7f21da396c0fd55ced66f84663001c7957de5058a8"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-058.md",
+      "sha256": "31d7f3e41bfdd927cde02bd3c97e58b5ec97f82fe3855cbcfb3274a15e3c47bb"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-059.md",
+      "sha256": "006c4a902d7396463435ab1f0e284e6de5a1c36f3931335a5cd957e5ba7a4ef3"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-060.md",
+      "sha256": "49192febd493e7e030a59c191d6c2871bf1e10fe3f314adbfbc7674a8ba5e6f8"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-061.md",
+      "sha256": "2a698d5a68af20fb23089cb3f252434db5f2743e62ae215b81a8b507eacf5957"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-062.md",
+      "sha256": "e776d5c8c11e7cbf01be4e39b1c88cae9de26735a3b7800c5ef15c70cce6e6f3"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-063.md",
+      "sha256": "dc68a0b266e8798f4d6156df531397663b26649eb77777356c8fcb553483feb5"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-064.md",
+      "sha256": "4d552f9cd013cd9dd62d31e985ca86baa86d723ad3ed622b5a9eeae1024fb026"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-065.md",
+      "sha256": "174ca82a24a03441bfff6bbdd74cf96ec453b5c87f8e3e8df57bfc9a3d342684"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-066.md",
+      "sha256": "2a89f7c5e8855bcabd5c7ceda31519843608472d82445f6f021df9be0cd7dd8c"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-074.md",
+      "sha256": "17a97ade3958cd2070996227b0eea1a0c481c5d140c117b22d8c599a673af620"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-075.md",
+      "sha256": "46d4574159a1627298a8798fa3f0ab3d5260778ec6bf96438f7172ca3be772f8"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-080.md",
+      "sha256": "01c5ca5bcc8267b9b7c4eabe4f0ced68777ac24490c49e50a08d039e34eeeed0"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-081.md",
+      "sha256": "ddaab9d9db10c0adef4a4c0a23152a62345c80afcca711fce050c6b244fba54b"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-082.md",
+      "sha256": "c751b80e54d2246c18aa706715f482e94f6d36f105b5d66ffea862341ab2d144"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-083.md",
+      "sha256": "a38542d4cc5bd97e4add9c700ea558a62a536920e50eb2dde768e9c08313c7a2"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-132.md",
+      "sha256": "fc034a552ee02844f11ffe5990879e0ca0719f22b2a00c0374885a37dbc035da"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-137.md",
+      "sha256": "6b94d1a6ced44ed234064f15a28241f9c78d08e24c0d1cdf12f78a18b7027184"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-138.md",
+      "sha256": "f80565f601849a0cf1f69389a6b3744da4ad42540aa0dfa26e26847605b66ed7"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-141.md",
+      "sha256": "d0a42359c6407c1e9e1385899e383e4b3f99beb32cc5e9593edb4ec38ca41e9c"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-149.md",
+      "sha256": "5a2c9c7e59f9d01523a3d75fec9a0052d0c53c4bc9bbb18798bbcd42c13a4449"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-153.md",
+      "sha256": "3fc350d861296d2ab7cd0003361fcae4677b4894efefe066c986cc001fe9569d"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-156.md",
+      "sha256": "81fb247599df5652a6bd97dd30a2e26b7744c98c47fc1cb666b2b7c0b6f529dd"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-157.md",
+      "sha256": "9bd1602d23c92a128d770cad2d340e878ac96a8aa0d8257f9dd51e071a4620d3"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-161.md",
+      "sha256": "e6fcb4253458c3fc17128845234424b866a788520ba87b6bfffa46c61fcbe09a"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-162.md",
+      "sha256": "2d55fd16cdb0bd19d868373068a8aebf4283a426eb6a2a866fcfa373de2db37d"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-166.md",
+      "sha256": "d932cdc6b77f0a60bd4da06e14bdde1a6a02543c6ca16c7a993f2e4714450b89"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-170.md",
+      "sha256": "e94fd95caa191c30c3674eba2a9849c00363dcc9ca09645320210389200e351b"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-174.md",
+      "sha256": "136f970bfdd4f1380a71483936571ef5eaab58ac8fe82bbe6213d75b0af6d1c6"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-177.md",
+      "sha256": "4deaef664f5eb648d030224380defb698b98ce7a8028725442251afce53662bf"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-181.md",
+      "sha256": "7f5a92706905328d546d1a4575fde61b87dab84f7d4bca27106d51e8e48ad629"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-184.md",
+      "sha256": "71d2e54ad300d37edce9381befd8ca5d73f7df93ca7869d4e3388cbf536f4317"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-462.md",
+      "sha256": "389359308375c894021e9086cfbdc4f8835e2f8ea17a329b3af09c1f458362d8"
+    },
+    {
+      "file": "CAST_RISERVATO/CAST-463.md",
+      "sha256": "6940a2ee6a22445f25a73878e362252dcf5dee51b7736f379195215b3e17c649"
+    }
+  ],
+  "superseded_by": "Manifesto_consolidamento_316.json",
+  "note": "Le analisi restano documentazione storica; per manuali e nomi vigenti usare il manifesto 316."
+}

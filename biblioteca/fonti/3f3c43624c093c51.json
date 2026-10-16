@@ -1,0 +1,307 @@
+{
+  "revision": "MONDO-23-05",
+  "files": [
+    {
+      "path": "00_LEGGIMI.md",
+      "sha256": "87d2c33a2bc29ce8a38fa22185139452226e463dd42f6f7746c655a9b1766a8f"
+    },
+    {
+      "path": "103_Indice_della_storia.md",
+      "sha256": "d948c9f6fc99181ae3d223f4f535a5407492c05068924a1711972e0e9c6449c4"
+    },
+    {
+      "path": "120_Indice_della_geografia.md",
+      "sha256": "9163d8ffc7580707a6b3813a186af448670b111234e9cb9d3a23e6ace5985dca"
+    },
+    {
+      "path": "140_Indice_della_societa.md",
+      "sha256": "d4a9a6a640db6266ddbcb8db65b1b60e9be52387c3f41e09379a84ac486430a5"
+    },
+    {
+      "path": "163_Indice_del_cast.md",
+      "sha256": "238aa2dfe52bf2e487332635c444787ece75ad8e50a7ac5ab8f37e28e6446dee"
+    },
+    {
+      "path": "179_Controllo_mondo_5_10_senza_spoiler.md",
+      "sha256": "5bb90ad2a974ea56de1d7bd1d3169adc2c9b48cd52cc9133a6edd44a98269fba"
+    },
+    {
+      "path": "20_Roadmap_generale_fino_alla_wiki.md",
+      "sha256": "2ff86512f509cebdee7fb9c75b660d9ed558840a97d3e27424c898f2a90e32d5"
+    },
+    {
+      "path": "22_Inventario_documentale.csv",
+      "sha256": "58691ff67bff4c1b34589c2461df5c423defbfa583224691b9987d14e84fe348"
+    },
+    {
+      "path": "23_Registro_unico_del_canone.md",
+      "sha256": "46cd2a5c0734c4ae5cf563177c80d40057e3be9e5c9900a4eac9f9236ffda3fb"
+    },
+    {
+      "path": "74_Indice_dell_atlante_cosmologico.md",
+      "sha256": "d8c0877692dd15ac4357a2b81dff0dd93c87a058a6d0ebd6ba2031ad0047d3cc"
+    },
+    {
+      "path": "87_Indice_del_protagonista.md",
+      "sha256": "8eaa8c77ae8d9de137def923708190530f290b484806a74ba632100c7381e470"
+    },
+    {
+      "path": "CANONE_VIGENTE/Verifica_mondo_5_10.json",
+      "sha256": "e17542edc4e8e170d98dbc17a8c0ffd448836d4a952c00d9f51b1820d7d5ed60"
+    },
+    {
+      "path": "CANONE_VIGENTE\\Architettura_cosmica.json",
+      "sha256": "2e25909f21904f7aebfdb3330caa56caadead95b40597a0a94e62c9e7effc1e8"
+    },
+    {
+      "path": "CANONE_VIGENTE\\Atlante_cosmologico.json",
+      "sha256": "c8984555d0a7b6342dffbdbadc952c8dca26a741673c84c81abeb9b313c9527b"
+    },
+    {
+      "path": "CANONE_VIGENTE\\Cast_riservato.json",
+      "sha256": "18ef1f62f810c7c7beda70e33b8591a4428d7c8ba025e888db96ebf088627a73"
+    },
+    {
+      "path": "CANONE_VIGENTE\\Geografia_riservata.json",
+      "sha256": "13f7eda0b9ef2fef3578fb19f9729037ee8cf114b0cd8adf47562c3abc363581"
+    },
+    {
+      "path": "CANONE_VIGENTE\\Protagonista.json",
+      "sha256": "c50247c0a6a0c3e31e67f8955a3cf8d06b60aa59bae0b53bbb1c80b213d419fc"
+    },
+    {
+      "path": "CANONE_VIGENTE\\Registro_decisioni.json",
+      "sha256": "ed93a1a8ea680eabe08b1c7d86f2445d2abc69b765f01e45b91616f385317729"
+    },
+    {
+      "path": "CANONE_VIGENTE\\Roots_consolidate.json",
+      "sha256": "acf35675212c53e5aefa4a8e95785eb977f0bf0db549ab0998c6c9264929a2cf"
+    },
+    {
+      "path": "CANONE_VIGENTE\\Societa_condivisa.json",
+      "sha256": "d8e3a8a9ff3f4b447385af30ec9e3710b36852e1bbe588ea1ee8c69e1bd4456f"
+    },
+    {
+      "path": "CANONE_VIGENTE\\Societa_riservata.json",
+      "sha256": "ece2809fe640c7ec1893db836cd9b1a57631224157bc46fca11b0e00e6c01b06"
+    },
+    {
+      "path": "CANONE_VIGENTE\\Storia_riservata.json",
+      "sha256": "fcb8c1060a087416f45531027e65a5202bacff305e6564a599082502e7af0aec"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-132.md",
+      "sha256": "ba29ec0fc661b9e0596d302bd1a6d41842b26360fd977a4f0642382bb535cd4d"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-137.md",
+      "sha256": "57755d541d928330bf335d9a962743b7a2aecb376b06b1b81ae1d8a9067c827a"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-138.md",
+      "sha256": "f73fb8d5efb998b31471bf0dc60437442561ee27246e6f3c0932caef3aca93a1"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-141.md",
+      "sha256": "e150f21465cfa61984c86f67ef29e8df9e51ff6daafd4dfd7a7f8ecfa080fb0b"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-149.md",
+      "sha256": "168592f8488d4548a69372478b95a20d3e46101e4c4bfc800a4727704e20cb32"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-153.md",
+      "sha256": "6de20bca26bc3e9ddb5803d93c3ae76d61f7ece753e9c2c800669c8d63a903c0"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-156.md",
+      "sha256": "9392384470aadbe7adb9341bb98916f9473d744338269db9504be3cb138e6d84"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-157.md",
+      "sha256": "fd9449a5513dd0a0679858713bfa8243ce304552732ec9346200af5ecd2970e2"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-161.md",
+      "sha256": "8c6ab2addf58e563e9a9063482d72004af1834ebf5ec7b065ddfbb3851c9665f"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-162.md",
+      "sha256": "3f290fc948e0f928640f2864376bc6a9b283f94f8e3586eff046b0bb428984a2"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-166.md",
+      "sha256": "95a09297b7c01a2de4df6a05639266ef30acb489651dbff4f0e37f8ddeb1220b"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-170.md",
+      "sha256": "ad954436d25a54b91569544952cfe02e78ab6f289593f38e9cea29e3eb94f772"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-174.md",
+      "sha256": "a9ffd4a118a060e42aa7b6eb9a7a677e162324dfe457a82c1ad65b31043f3616"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-177.md",
+      "sha256": "2e0d3c3f1ae4778e7b781e41138b99284767849b0686bd6e0893ee527d7ecf2c"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-181.md",
+      "sha256": "d5fb5f459a6fc23747e85e765f70ccf8d164433db271e20fe16b7da8b765c7a2"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-184.md",
+      "sha256": "a71285764a378bb10dcedc365b2fc4c0c7f65e1c2f52d20332c8480a941d7a4c"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-198.md",
+      "sha256": "9a93b06c2b78d2b6c9e3feaabcf8b26cdc87b7466a14a8c774ae301fc05bcb0e"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-223.md",
+      "sha256": "19001f67a6f78c4769a124772798232bd3a075989d44d10b2e4d29496d778516"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-229.md",
+      "sha256": "41df6743ac742249298f37f53e51ede7dbdb0ba268b01ce3c5ac410d0f51940b"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-242.md",
+      "sha256": "d68b0a317a8ed69c6d1a45f3df23129ff4996408ca82a1d2f89d206fe5f0102c"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-285.md",
+      "sha256": "5d1d804240f1d492c2e5bb6dd9ef6fb14c74eb08bfa053b872cd83c5d55c6fba"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-304.md",
+      "sha256": "9132749cb872b68726cf8d796908212a0ac948e9f95f1c866782c93fe2ba0e2e"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-317.md",
+      "sha256": "3cdfb6957189a932271c2b35a573249e71736c0e6102d97313c5ebaccdbc8318"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-323.md",
+      "sha256": "3d881ac88f4cb62ab5d700d6007dfc29b8521a4c59baf6ce9e14f1a3a7a334a7"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-342.md",
+      "sha256": "a67f3bdd5ceb1785d281dfccf2eaee64c0e7660c8a0ee27e34993859a16d7860"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-348.md",
+      "sha256": "f8497318063442b2f720d00dbcd09d5447de5dace7ffd471a5beb5ccd2d9479c"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-367.md",
+      "sha256": "60f96d389193875df9c068c9ed64f1fab113d5c571cd8cfb82c039fc305081ab"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-386.md",
+      "sha256": "25de9285ce6c7cdab3e39c462a937a79fba13cfa5a8a1b345067fe34437c7ca3"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-410.md",
+      "sha256": "3fbb7d5048abb67bf4a976634de184471b73ddb7ea6e906081036b71e64fea7b"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-423.md",
+      "sha256": "874671d9caf947a7c3ca5766118db9bb2dfc778c926567af539d5e3240349b54"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-442.md",
+      "sha256": "233866c4129ed9e42a272a0a3f36f1c075c64bcb7ad953ec7b0007d67e02bd6c"
+    },
+    {
+      "path": "CAST_RISERVATO\\CAST-460.md",
+      "sha256": "3ca5a883fcd29c0225d9681188d4672e1b0e895dfb2f4215713c03d7ba5699c4"
+    },
+    {
+      "path": "GIOCATORE_126_Religioni_dottrine_e_servizi.md",
+      "sha256": "fe441ee9bb13499bc2ac1a5f0801d8d6da7469a7eec61ada0072ed930b1917bd"
+    },
+    {
+      "path": "GIOCATORE_127_Scuole_medicina_e_accesso_ai_poteri.md",
+      "sha256": "d11225313f50fcfe7c8683267262a11c288ba5c362d1609a7b10329d12b1680d"
+    },
+    {
+      "path": "GIOCATORE_129_Vita_quotidiana_lingue_e_estetica.md",
+      "sha256": "d1fc3518c66cd8f7004a7fbddd6b2a572c89f8c8721c94784179b9d8a284054d"
+    },
+    {
+      "path": "GIOCATORE_146_Sette_Roots_fisiche_e_accessi.md",
+      "sha256": "58d3973cd63dc03acce38ab323b27337d77791378f2c298bcc99b9f53925bd62"
+    },
+    {
+      "path": "GIOCATORE_171_The_Nocturne_e_The_Veiled_Basin.md",
+      "sha256": "44d763744f10477b45e2c7dd5b624f4835223ac243faa9cfcd9b476fccda5768"
+    },
+    {
+      "path": "GIOCATORE_174_Culti_notturni_e_pratiche_pubbliche.md",
+      "sha256": "086298e482fb40a16598045b3c55e868447c5c71eb71c0114a5c2203c88af6d5"
+    },
+    {
+      "path": "GIOCATORE_68_The_First_Testament_consultazione.md",
+      "sha256": "9db3bc2cf6c487cfc0be06c470a2c46585317ca6f52818fe68437509b02cccef"
+    },
+    {
+      "path": "GIOCATORE_69_Roots_e_risorse_cosmiche.md",
+      "sha256": "55146313b1a99cf6a9c988a957d9429d0830756e82c5aaef2cf97172ff6150f9"
+    },
+    {
+      "path": "GIOCATORE_83_Matrice_delle_conoscenze_personali.md",
+      "sha256": "3639a99751f572f3e030bd5bf1752fac33f8b41f4feb7adcd3cc9ab78cb0e642"
+    },
+    {
+      "path": "GIOCATORE_90_Societa_antiche_e_liberazione_ricordata.md",
+      "sha256": "a460ba2ec8c75dfc4b4ec73f2ecc805432f8f64871997fe11bee7c5b87ffa5e8"
+    },
+    {
+      "path": "RISERVATO_101_Repertorio_delle_prove_e_trasmissioni.md",
+      "sha256": "81a446edd2075ee75ced8419da91e7feae512ea81a7f2eac2932ba7cb59199e1"
+    },
+    {
+      "path": "RISERVATO_114_Distretti_confini_e_logistica_locale.md",
+      "sha256": "2faad09f96507e12796e09d99f5e6ba5552c63d188c903a73b20e9d9142c4fe0"
+    },
+    {
+      "path": "RISERVATO_115_Siti_soprannaturali_localizzati.md",
+      "sha256": "e7ca823b8de36f4f6ef3c42961dae160a6536c6c89c5a880dc636c35e53579ab"
+    },
+    {
+      "path": "RISERVATO_131_Religioni_patrocini_e_verita.md",
+      "sha256": "7706f1d7e4129c194a6868c76a80688797cc400624b6db3efb033c91f1c834d4"
+    },
+    {
+      "path": "RISERVATO_135_Fazioni_civili_industriali_e_sociali.md",
+      "sha256": "ed8c2d634542c3771e215c0fc9b68ffe0dac706b1522eafe85b3a1652ffd77d9"
+    },
+    {
+      "path": "RISERVATO_137_Relazioni_e_agenda_delle_istituzioni.md",
+      "sha256": "3083adc614766506095efb7f5b08f7bd01c9cae751ab90e3822f67c30b4cf2b7"
+    },
+    {
+      "path": "RISERVATO_160_Inventari_del_cast_e_eccezioni.md",
+      "sha256": "0d864b116967801721e6bff852f227f2cddbba4352b530cc34482dcf050cfabf"
+    },
+    {
+      "path": "RISERVATO_161_Reti_del_cast_e_copertura_territoriale.md",
+      "sha256": "bd8cd238c15da67a4499139f0aa62149b5cb954be266fbe23155ab8c2a0e60cb"
+    },
+    {
+      "path": "RISERVATO_172_Raccordo_Nocturne_storia_e_societa.md",
+      "sha256": "1abc42a67291b1e6b2896e62604825a1a946b3b25837a65e06e6db2048907451"
+    },
+    {
+      "path": "RISERVATO_178_Integrazione_notturna_milestone_5_10.md",
+      "sha256": "71abf99f5beb743fe12402a66667e5ed013d127880ef95118cfc6f860e8b9b26"
+    },
+    {
+      "path": "RISERVATO_95_Origini_societa_e_potenze_antiche.md",
+      "sha256": "f3abcc97a1418496bd8760a55d50fa112213b7fb3a58e92ba2593e14abf33248"
+    }
+  ],
+  "archive": "ARCHIVIO_SUPERATO/Snapshot_pre_raccordo_mondo_23",
+  "scope": "Structure, inventories, references and nocturnal narrative integration; not final quality approval of 23 ability manuals or all character psychology."
+}

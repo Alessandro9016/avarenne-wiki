@@ -1,0 +1,1458 @@
+{
+  "version": "1.2",
+  "access": "PLAYER_KNOWLEDGE",
+  "character": "PRO-01",
+  "ancient_name": "Edran Vael",
+  "current_name": "Alexander Valcienne",
+  "age_years": 20,
+  "additional_months": 5,
+  "height_cm": 189,
+  "single_person": true,
+  "duke_memories": "integral until loss of consciousness",
+  "birth": "ordinary unawakened; informal 0 is not a Threshold",
+  "effigies": [
+    {
+      "id": "EFF-01",
+      "name": "Cradle",
+      "threshold": 4,
+      "roman": "IV",
+      "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+      "available_thresholds": [
+        {
+          "number": 1,
+          "roman": "I",
+          "name": "Awakening",
+          "condition": "La persona è ancora dipendente dal corpo. Repertorio diretto e circoscritto; esercizi forti Demanding, sostegno tenue Routine. Una difesa iniziale non è immunità alle armi.",
+          "abilities": [
+            {
+              "id": "EFF-01-I-M01",
+              "name": "Genesis",
+              "authority": "Creation",
+              "description": "Fa esistere materia non vivente o energia fisica dalla propria fonte, già nella configurazione richiesta: bicchiere pieno, chiave, armatura, meccanismo assemblato, lama, impulso termico o getto propulsivo. Il prodotto materiale stabile resta reale dopo la creazione. Immaginare, scegliere la sostanza e organizzare le parti sono decisioni interne a questa sola operazione, non tre poteri ulteriori.",
+              "boundary": "A I, riferimento di esercizio: pochi secondi, oggetti fino a circa 2 kg o emissioni brevi entro pochi metri; piccoli prodotti Routine, pieno riferimento Demanding. Massa, distanza, energia e precisione crescono col rango. Non inventa dati ignoti: una chiave non osservata non apre una serratura sconosciuta. Non trasforma la materia altrui, non crea vita attiva o proprietà sovrannaturali a I.",
+              "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+              "threshold": 1,
+              "quality": "Awakening",
+              "source_kind": "PRIMARY_MACRO",
+              "example": "Fa comparire una punta d’acciaio e la proietta con un impulso prodotto nello stesso esercizio, oppure genera una fiammata direzionale. L’emissione deve percorrere il tragitto e contendere ciò che incontra.",
+              "counterplay": "A I, riferimento di esercizio: pochi secondi, oggetti fino a circa 2 kg o emissioni brevi entro pochi metri; piccoli prodotti Routine, pieno riferimento Demanding. Massa, distanza, energia e precisione crescono col rango. Non inventa dati ignoti: una chiave non osservata non apre una serratura sconosciuta. Non trasforma la materia altrui, non crea vita attiva o proprietà sovrannaturali a I.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulativa: potenza e scala crescono senza nuovi sblocchi.",
+              "qualitative_difference": "Primo atto generativo reale. Una macchina nuova completa è già permessa: assemblarla non diventerà uno sblocco successivo.",
+              "independence": "Fonte propria e presa reale; nessuna altra autorità richiesta.",
+              "offensive_example": "Fa comparire una punta d’acciaio e la proietta con un impulso prodotto nello stesso esercizio, oppure genera una fiammata direzionale. L’emissione deve percorrere il tragitto e contendere ciò che incontra.",
+              "defensive_example": "Crea una lastra fra sé e una minaccia individuata. Materiale, spessore e massa determinano la tenuta; a I non è ancora una difesa automatica contro uno sparo inatteso.",
+              "civil_example": "Crea insieme bicchiere, whisky e ghiaccio; può creare un orologio già assemblato se conosce una configurazione funzionante, senza un rituale per ogni ingranaggio."
+            }
+          ],
+          "stage_title": "Maker",
+          "general_rank": "Awakening"
+        },
+        {
+          "number": 2,
+          "roman": "II",
+          "name": "Attunement",
+          "condition": "Le funzioni incorporate si combinano e possono usare supporti predisposti. Preparazione, attivazione e mantenimento sono distinti; supporto e riserva non sostituiscono una Inscription personale.",
+          "abilities": [
+            {
+              "id": "EFF-01-II-M01",
+              "name": "Living Genesis",
+              "authority": "Creation",
+              "description": "Genera vita biologica autentica: cellule, tessuti vitali e organismi semplici con metabolismo proprio e continuità vivente. Non fabbrica soltanto un oggetto dalla forma di una pianta. La vita continua autonomamente quando nutrimento e ambiente sono compatibili.",
+              "boundary": "Un corpo complesso vuoto prodotto a I non si anima da solo. A II non viene creato un nuovo centro personale senziente; animali complessi e persone hanno il riferimento operativo pieno a IV. Nutrimento, compatibilità e sviluppo restano reali. Il creatore non comanda automaticamente il vivente.",
+              "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+              "threshold": 2,
+              "quality": "Attunement",
+              "source_kind": "PRIMARY_MACRO",
+              "example": "Produce un inoculo vegetale vitale che germina dove è stato realmente collocato; può soffocare un meccanismo crescendo nel suo alloggiamento. Crescita e alimentazione richiedono tempo e risorse.",
+              "counterplay": "Un corpo complesso vuoto prodotto a I non si anima da solo. A II non viene creato un nuovo centro personale senziente; animali complessi e persone hanno il riferimento operativo pieno a IV. Nutrimento, compatibilità e sviluppo restano reali. Il creatore non comanda automaticamente il vivente.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulativa: potenza e scala crescono senza nuovi sblocchi.",
+              "qualitative_difference": "Introduce metabolismo e continuità biologica, assenti nella materia inerte di Genesis. La complessità del vivente cresce prima di IV; la personalità indipendente resta un passaggio distinto.",
+              "independence": "Fonte propria e presa reale; nessuna altra autorità richiesta.",
+              "offensive_example": "Produce un inoculo vegetale vitale che germina dove è stato realmente collocato; può soffocare un meccanismo crescendo nel suo alloggiamento. Crescita e alimentazione richiedono tempo e risorse.",
+              "defensive_example": "Produce una membrana vivente sacrifi­cabile che assorbe un urto o un filtro biologico progettato per una sostanza conosciuta; non acquisisce l’intera autorità di Seed.",
+              "civil_example": "Genera lieviti, una pianta alimentare o un lembo di tessuto vitale da affidare a cure appropriate. Il semplice innesto non garantisce che un organismo ferito lo integri."
+            }
+          ],
+          "stage_title": "Animator",
+          "general_rank": "Attunement"
+        },
+        {
+          "number": 3,
+          "roman": "III",
+          "name": "Embodiment",
+          "condition": "Funzioni autonome circoscritte e risposte incorporate; gli effetti forti dividono Reserve, attenzione e Load. Un mezzo non diventa un secondo centro personale.",
+          "abilities": [
+            {
+              "id": "EFF-01-III-M01",
+              "name": "Invested Genesis",
+              "authority": "Creation",
+              "description": "Crea enti dotati di una funzione sovrannaturale generativa incorporata e di una quota assegnata della propria fonte: una lastra può opporre forza a un contatto spirituale, una lama può esercitare una presa spirituale, un supporto può levitare mediante spinta propria. Queste proprietà non dipendono dall’acquisizione di Halo, Heart o un’altra Effige.",
+              "boundary": "Conferisce funzioni pertinenti alla generazione e alla costituzione del nuovo ente, non l’Inscription di un altro percorso, un’onnipotenza scritta sul progetto o una Seat. A III un oggetto non produce a sua volta nuovi enti dalla fonte di Cradle: quella delegazione generativa appartiene a VI.",
+              "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+              "threshold": 3,
+              "quality": "Embodiment",
+              "source_kind": "PRIMARY_MACRO",
+              "example": "Crea una lama investita che ferisce la componente spirituale effettivamente raggiunta, oppure un proiettile che libera un impulso proprio all’urto invece di affidarsi soltanto a esplosivo ordinario.",
+              "counterplay": "Conferisce funzioni pertinenti alla generazione e alla costituzione del nuovo ente, non l’Inscription di un altro percorso, un’onnipotenza scritta sul progetto o una Seat. A III un oggetto non produce a sua volta nuovi enti dalla fonte di Cradle: quella delegazione generativa appartiene a VI.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulativa: potenza e scala crescono senza nuovi sblocchi.",
+              "qualitative_difference": "Il prodotto esercita una proprietà sovrannaturale reale. Un motore fisico o un oggetto più grande non avrebbero costituito questo salto.",
+              "independence": "Fonte propria e presa reale; nessuna altra autorità richiesta.",
+              "offensive_example": "Crea una lama investita che ferisce la componente spirituale effettivamente raggiunta, oppure un proiettile che libera un impulso proprio all’urto invece di affidarsi soltanto a esplosivo ordinario.",
+              "defensive_example": "Crea uno scudo che oppone tenuta materiale e spirituale e una piattaforma alimentata che sostiene il suo corpo. La protezione usa la sua fonte, non la credulità dell’aggressore.",
+              "civil_example": "Realizza una lampada investita o un utensile con riserva propria e funzione delimitata; finita la riserva, la materia stabile rimane ma la proprietà mantenuta si arresta."
+            }
+          ],
+          "stage_title": "Wonderwright",
+          "general_rank": "Embodiment"
+        },
+        {
+          "number": 4,
+          "roman": "IV",
+          "name": "Transfiguration",
+          "condition": "Transfiguration: corpo e centro sostengono difesa materiale e spirituale semidivina anche nell’aspetto ordinario. La protezione personale incorporata è Routine/Intrinsic; un assalto pari può saturarla o lesionarla. Ready non richiede di prevedere ogni sparo.",
+          "abilities": [
+            {
+              "id": "EFF-01-IV-M01",
+              "name": "Personal Genesis",
+              "authority": "Creation",
+              "description": "Dà origine a una nuova persona con un centro spirituale proprio e una corporeità complessa sostenibile. Può creare animali complessi e creature di anatomia non umana; l’investimento generativo può rendere reali funzioni mitologiche progettate entro capacità e compatibilità. La persona nata è indipendente, non una presenza distribuita del Bearer.",
+              "boundary": "Da minuti a giorni per una costituzione complessa stabile; Demanding. Scala concentrata IV: opere edilizie, arsenali nell’area raggiunta fino a circa 300 m, organismi complessi. La difesa materiale e spirituale incorporata IV resta Intrinsic/Routine contro violenza ordinaria; un pari può saturarla. Nessun nuovo essere nasce con una Seat o un’Effige completa semplicemente perché è stato progettato così.",
+              "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+              "threshold": 4,
+              "quality": "Transfiguration",
+              "source_kind": "PRIMARY_MACRO",
+              "example": "Genera una creatura alata con corpo resistente e un organo capace di emettere fuoco alimentato dalla sua costituzione. Può proporle un’alleanza; non ne fabbrica la lealtà come proprietà obbligatoria.",
+              "counterplay": "Da minuti a giorni per una costituzione complessa stabile; Demanding. Scala concentrata IV: opere edilizie, arsenali nell’area raggiunta fino a circa 300 m, organismi complessi. La difesa materiale e spirituale incorporata IV resta Intrinsic/Routine contro violenza ordinaria; un pari può saturarla. Nessun nuovo essere nasce con una Seat o un’Effige completa semplicemente perché è stato progettato così.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulativa: potenza e scala crescono senza nuovi sblocchi.",
+              "qualitative_difference": "Introduce un centro personale indipendente. Più massa o una bestia più grande non equivalgono a creare una persona.",
+              "independence": "Fonte propria e presa reale; nessuna altra autorità richiesta.",
+              "offensive_example": "Genera una creatura alata con corpo resistente e un organo capace di emettere fuoco alimentato dalla sua costituzione. Può proporle un’alleanza; non ne fabbrica la lealtà come proprietà obbligatoria.",
+              "defensive_example": "Crea un organismo custode e gli offre un compito, oppure una nuova corporeità utilizzabile da una continuità già raggiunta mediante un mezzo di trasferimento realmente posseduto. Creare il corpo non trasferisce da solo la persona.",
+              "civil_example": "Crea una nuova persona o specie di individui; non recupera un morto copiandone le fattezze. Una persona appena nata non possiede una biografia mai vissuta o segreti che il creatore ignora."
+            }
+          ],
+          "stage_title": "Life Author",
+          "general_rank": "Transfiguration"
+        }
+      ]
+    },
+    {
+      "id": "EFF-02",
+      "name": "Ruin",
+      "threshold": 4,
+      "roman": "IV",
+      "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+      "available_thresholds": [
+        {
+          "number": 1,
+          "roman": "I",
+          "name": "Awakening",
+          "condition": "La persona è ancora dipendente dal corpo. Repertorio diretto e circoscritto; esercizi forti Demanding, sostegno tenue Routine. Una difesa iniziale non è immunità alle armi.",
+          "abilities": [
+            {
+              "id": "EFF-02-I-M01",
+              "name": "Unmaking",
+              "authority": "Destruction",
+              "description": "Distrugge direttamente materia o energia fisica realmente raggiunta. Può disgregare lasciando frammenti oppure annullare la porzione presa senza quei residui: sono modalità dello stesso atto distruttivo, non autorità da apprendere separatamente. Arresta l’esercizio quando sceglie di interromperlo; la distruzione già compiuta resta reale.",
+              "boundary": "Riferimento I: porzioni piccole esclusivamente a contatto corporeo, con massa, energia e resistenza sostenibili; piccoli esercizi Routine, pieno carico Demanding. Cresce fino a masse celesti al rango divino. Non colpisce un centro personale remoto perché ne ha danneggiato un’interfaccia, non assorbe l’energia annullata e non cancella il fatto storico che l’oggetto sia esistito. Accesso Ruin: contatto corporeo effettivo obbligatorio a tutti i sette stadi. La crescita aumenta massa, energia, profondità e natura del bersaglio, non concede raggi o campi remoti. Ruin Mark richiede contatto di impianto e agisce poi soltanto sulla presa depositata. Destructive Cascade deve percorrere una continuità distruggendo il tragitto: non salta intatto dal braccio alla gamba. Finality e gli atti successivi richiedono contatto con il corpo, supporto o interfaccia realmente pertinente; nessuna presa automatica su centri remoti. Il mantello difensivo coincide con la superficie corporea investita. Ruin Seed prende altri bersagli soltanto attraverso i contatti realmente avvenuti previsti a VI.",
+              "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+              "threshold": 1,
+              "quality": "Awakening",
+              "source_kind": "PRIMARY_MACRO",
+              "example": "Sottrae una porzione di una lama, lacera un tessuto o annulla un impulso fisico che riesce a intercettare. Su un corpo vivo deve vincere difesa e tenuta della componente presa.",
+              "counterplay": "Riferimento I: porzioni piccole a contatto o entro pochi metri, con massa, energia e resistenza sostenibili; piccoli esercizi Routine, pieno carico Demanding. Cresce fino a masse celesti al rango divino. Non colpisce un centro personale remoto perché ne ha danneggiato un’interfaccia, non assorbe l’energia annullata e non cancella il fatto storico che l’oggetto sia esistito.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulativa: potenza e scala crescono senza nuovi sblocchi.",
+              "qualitative_difference": "Primo annullamento sovrannaturale. Frattura, sottrazione e scelta del materiale bersaglio non vengono contate come tre alberi.",
+              "independence": "Fonte propria e presa reale; nessuna altra autorità richiesta.",
+              "offensive_example": "Sottrae una porzione di una lama, lacera un tessuto o annulla un impulso fisico che riesce a intercettare. Su un corpo vivo deve vincere difesa e tenuta della componente presa.",
+              "defensive_example": "Erode una parte di un dardo entrato nel confine raggiunto oppure apre una fuga eliminando la sezione di una sbarra. A I non reagisce automaticamente a un colpo già arrivato.",
+              "civil_example": "Il bicchiere di whisky creato non serve più: lo annulla insieme al contenuto, senza doverlo prima rompere e senza consumarlo come nutrimento.",
+              "contact_revision": "SOVEREIGN-305"
+            }
+          ],
+          "stage_title": "Breaker",
+          "general_rank": "Awakening"
+        },
+        {
+          "number": 2,
+          "roman": "II",
+          "name": "Attunement",
+          "condition": "Le funzioni incorporate si combinano e possono usare supporti predisposti. Preparazione, attivazione e mantenimento sono distinti; supporto e riserva non sostituiscono una Inscription personale.",
+          "abilities": [
+            {
+              "id": "EFF-02-II-M01",
+              "name": "Ruin Mark",
+              "authority": "Destruction",
+              "description": "Imprime su un bersaglio raggiunto un atto distruttivo sospeso, alimentato da una quota assegnata. Il danno si esercita quando si verifica il trigger predisposto, senza un nuovo colpo deliberato. Non è una semplice crepa materiale che aspetta di cedere naturalmente.",
+              "boundary": "Il trigger deve essere rilevabile dal segno e non conosce intenzioni segrete. Carica e accesso sono realmente depositati; rimozione, schermatura o esaurimento possono disarmarlo. Non richiede Language, Curses, Causality o una seconda Effige. Accesso Ruin: contatto corporeo effettivo obbligatorio a tutti i sette stadi. La crescita aumenta massa, energia, profondità e natura del bersaglio, non concede raggi o campi remoti. Ruin Mark richiede contatto di impianto e agisce poi soltanto sulla presa depositata. Destructive Cascade deve percorrere una continuità distruggendo il tragitto: non salta intatto dal braccio alla gamba. Finality e gli atti successivi richiedono contatto con il corpo, supporto o interfaccia realmente pertinente; nessuna presa automatica su centri remoti. Il mantello difensivo coincide con la superficie corporea investita. Ruin Seed prende altri bersagli soltanto attraverso i contatti realmente avvenuti previsti a VI.",
+              "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+              "threshold": 2,
+              "quality": "Attunement",
+              "source_kind": "PRIMARY_MACRO",
+              "example": "Marca un lucchetto: quando viene aperto, il marchio annulla una sezione realmente investita. Una difesa può contendere il marchio prima o al momento dell’attivazione.",
+              "counterplay": "Il trigger deve essere rilevabile dal segno e non conosce intenzioni segrete. Carica e accesso sono realmente depositati; rimozione, schermatura o esaurimento possono disarmarlo. Non richiede Language, Curses, Causality o una seconda Effige.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulativa: potenza e scala crescono senza nuovi sblocchi.",
+              "qualitative_difference": "Separa contatto d’impianto e momento dell’annullamento mediante un investimento autonomo, non tramite una bomba ordinaria.",
+              "independence": "Fonte propria e presa reale; nessuna altra autorità richiesta.",
+              "offensive_example": "Marca un lucchetto: quando viene aperto, il marchio annulla una sezione realmente investita. Una difesa può contendere il marchio prima o al momento dell’attivazione.",
+              "defensive_example": "Predispone un segno sulla superficie dello scudo che annulla una quota dell’urto che lo attraversa secondo il trigger riconoscibile; la riserva del marchio è finita.",
+              "civil_example": "Prepara la demolizione di un appoggio già evacuato e la fa scattare mediante un segnale controllabile.",
+              "contact_revision": "SOVEREIGN-305"
+            }
+          ],
+          "stage_title": "Brandbearer",
+          "general_rank": "Attunement"
+        },
+        {
+          "number": 3,
+          "roman": "III",
+          "name": "Embodiment",
+          "condition": "Funzioni autonome circoscritte e risposte incorporate; gli effetti forti dividono Reserve, attenzione e Load. Un mezzo non diventa un secondo centro personale.",
+          "abilities": [
+            {
+              "id": "EFF-02-III-M01",
+              "name": "Destructive Cascade",
+              "authority": "Destruction",
+              "description": "Una distruzione si propaga lungo una continuità materiale o energetica realmente presa, investendo le parti collegate senza doverle colpire una per volta. Può arrestare la propagazione al limite scelto, mentre restano vere le porzioni già distrutte. La propagazione distrugge il percorso effettivo: toccare un braccio non permette di conservare intatto il tragitto e cancellare direttamente la gamba.",
+              "boundary": "Richiede continuità effettiva, capacità sufficiente e discriminazione delle parti da conservare. Il vuoto fra bersagli indipendenti interrompe la cascata; non si propaga per somiglianza, memoria o fotografia. Accesso Ruin: contatto corporeo effettivo obbligatorio a tutti i sette stadi. La crescita aumenta massa, energia, profondità e natura del bersaglio, non concede raggi o campi remoti. Ruin Mark richiede contatto di impianto e agisce poi soltanto sulla presa depositata. Destructive Cascade deve percorrere una continuità distruggendo il tragitto: non salta intatto dal braccio alla gamba. Finality e gli atti successivi richiedono contatto con il corpo, supporto o interfaccia realmente pertinente; nessuna presa automatica su centri remoti. Il mantello difensivo coincide con la superficie corporea investita. Ruin Seed prende altri bersagli soltanto attraverso i contatti realmente avvenuti previsti a VI.",
+              "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+              "threshold": 3,
+              "quality": "Embodiment",
+              "source_kind": "PRIMARY_MACRO",
+              "example": "Una presa sul pilastro erode le connessioni della struttura portante oppure una presa su un’emissione ne disgrega il fronte connesso. Rinforzi e compartimenti possono arrestare il percorso.",
+              "counterplay": "Richiede continuità effettiva, capacità sufficiente e discriminazione delle parti da conservare. Il vuoto fra bersagli indipendenti interrompe la cascata; non si propaga per somiglianza, memoria o fotografia.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulativa: potenza e scala crescono senza nuovi sblocchi.",
+              "qualitative_difference": "Il procedimento percorre una struttura invece di ripetere Unmaking su molti punti. Non passa ancora fra enti separati a ogni nuovo contatto.",
+              "independence": "Fonte propria e presa reale; nessuna altra autorità richiesta.",
+              "offensive_example": "Una presa sul pilastro erode le connessioni della struttura portante oppure una presa su un’emissione ne disgrega il fronte connesso. Rinforzi e compartimenti possono arrestare il percorso.",
+              "defensive_example": "Dissolve il tratto continuo di una rete che lo sta avvolgendo, conservando la superficie del corpo. Non annulla ogni nodo lontano che porta lo stesso nome.",
+              "civil_example": "Smantella una condotta contaminata lungo il tratto realmente continuo e isolato; un crollo fisico conseguente resta una conseguenza ordinaria da prevedere.",
+              "contact_revision": "SOVEREIGN-305"
+            }
+          ],
+          "stage_title": "Ravager",
+          "general_rank": "Embodiment"
+        },
+        {
+          "number": 4,
+          "roman": "IV",
+          "name": "Transfiguration",
+          "condition": "Transfiguration: corpo e centro sostengono difesa materiale e spirituale semidivina anche nell’aspetto ordinario. La protezione personale incorporata è Routine/Intrinsic; un assalto pari può saturarla o lesionarla. Ready non richiede di prevedere ogni sparo.",
+          "abilities": [
+            {
+              "id": "EFF-02-IV-M01",
+              "name": "Finality",
+              "authority": "Destruction",
+              "description": "Distrugge il rapporto operativo che mantiene o ricostituisce un processo realmente raggiunto. Una rigenerazione perde quel canale di rinnovo; una barriera non può più alimentarsi attraverso il raccordo terminato. La presa semidivina può investire organizzazione materiale e spirituale, senza dover annullare indiscriminatamente tutto il bersaglio.",
+              "boundary": "L’operazione chiusa non continua attraverso lo stesso raccordo; un nuovo processo con sostegno indipendente resta possibile. Non rende impossibile ogni futura guarigione e non prende automaticamente una Root. A IV Vacant Mantle protegge sulla superficie corporea investita; Last Operation richiede una presa a contatto. La scala edilizia riguarda una continuità distruttiva presa dal contatto, non un raggio libero di 300 m o un campo distante. Accesso Ruin: contatto corporeo effettivo obbligatorio a tutti i sette stadi. La crescita aumenta massa, energia, profondità e natura del bersaglio, non concede raggi o campi remoti. Ruin Mark richiede contatto di impianto e agisce poi soltanto sulla presa depositata. Destructive Cascade deve percorrere una continuità distruggendo il tragitto: non salta intatto dal braccio alla gamba. Finality e gli atti successivi richiedono contatto con il corpo, supporto o interfaccia realmente pertinente; nessuna presa automatica su centri remoti. Il mantello difensivo coincide con la superficie corporea investita. Ruin Seed prende altri bersagli soltanto attraverso i contatti realmente avvenuti previsti a VI.",
+              "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+              "threshold": 4,
+              "quality": "Transfiguration",
+              "source_kind": "PRIMARY_MACRO",
+              "example": "Recide il rinnovo preso di un avversario e poi distrugge il corpo esposto. Colpire un arto non prova di aver raggiunto ogni sua fonte di rigenerazione.",
+              "counterplay": "L’operazione chiusa non continua attraverso lo stesso raccordo; un nuovo processo con sostegno indipendente resta possibile. Non rende impossibile ogni futura guarigione e non prende automaticamente una Root. A IV Vacant Mantle difende il confine personale materiale e spirituale. Last Operation applica Finality al processo preso per contatto fisico pertinente. La distruzione si estende solo lungo una continuità raggiunta e distrutta; nessun attacco libero entro 300 m.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulativa: potenza e scala crescono senza nuovi sblocchi.",
+              "qualitative_difference": "Distrugge una relazione di mantenimento o rinnovo, non soltanto un prodotto presente. Il salto semidivino modifica la presa e la costituzione, non riconta una frattura più forte.",
+              "independence": "Fonte propria e presa reale; nessuna altra autorità richiesta.",
+              "offensive_example": "Recide il rinnovo preso di un avversario e poi distrugge il corpo esposto. Colpire un arto non prova di aver raggiunto ogni sua fonte di rigenerazione.",
+              "defensive_example": "Termina il circuito che rilancia una scarica ricorrente realmente intercettata. I proiettili già diventati indipendenti devono ancora essere contrastati.",
+              "civil_example": "Chiude una combustione mantenuta da un investimento ostile o disattiva un richiamo attraverso il suo nodo operativo preso.",
+              "contact_revision": "SOVEREIGN-305"
+            }
+          ],
+          "stage_title": "Endbringer",
+          "general_rank": "Transfiguration"
+        }
+      ]
+    },
+    {
+      "id": "EFF-03",
+      "name": "Scroll",
+      "threshold": 4,
+      "roman": "IV",
+      "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+      "available_thresholds": [
+        {
+          "number": 1,
+          "roman": "I",
+          "name": "Awakening",
+          "condition": "La persona è ancora dipendente dal corpo. Repertorio diretto e circoscritto; esercizi forti Demanding, sostegno tenue Routine. Una difesa iniziale non è immunità alle armi.",
+          "abilities": [
+            {
+              "id": "EFF-03-I-M01",
+              "name": "Signal Reading",
+              "authority": "Information",
+              "description": "Percepisce la codifica operativa di un segnale raggiunto oltre la sua apparenza: distingue istruzione, supporto e destinazione anche senza conoscere il codice ordinario usato. Il semplice disegno di un circuito non concede la funzione.",
+              "boundary": "Lavora su dati e strutture operative accessibili; non aggiunge fatti ignoti o proprietà di altre Effigi.",
+              "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+              "threshold": 1,
+              "quality": "Awakening",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "example": "Da un sigillo accessibile ricava quale parte porta un comando di apertura, senza azionarlo o smontarlo.",
+              "qualitative_difference": "Prima lettura sovrannaturale della codifica; non è analisi umana del disegno.",
+              "independence": "Segnale reale; non deve formulare un comando di Language.",
+              "standalone_domain": "Codifica operativa e struttura di segnali presi",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-03-I-M02",
+              "name": "Effective Word",
+              "authority": "Language",
+              "description": "Una formulazione produce un impulso proprio: Cedi frattura un oggetto debole raggiunto.",
+              "boundary": "Il significato investito è l'operazione; non occorre suono e non basta nominare un dio per raggiungerlo.",
+              "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+              "threshold": 1,
+              "quality": "Awakening",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Formulazione propria; Information non deve prima decodificare il nemico.",
+              "standalone_domain": "Significato formulato reso forza o istruzione effettiva",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-03-I-M03",
+              "name": "Directed Attention",
+              "authority": "Will",
+              "description": "Investe un significato ricevuto per orientare sovrannaturalmente l’attenzione del destinatario: la proposta prende rilievo contro il suo precedente impulso a ignorarla. Non occorre che il Bearer sia già convincente e non serve Language.",
+              "boundary": "Influenza assenso e intenzione; non sostituisce memorie, sogni e architettura mentale Labyrinth.",
+              "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+              "threshold": 1,
+              "quality": "Awakening",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "example": "Un interlocutore che stava guardando altrove è indotto a considerare la richiesta; una difesa della deliberazione può opporsi.",
+              "qualitative_difference": "Salienza mentale imposta, non normale eloquenza.",
+              "independence": "Significato ricevuto anche con parole ordinarie; non richiede un comando magico di Language.",
+              "standalone_domain": "Attenzione, intenzione e assenso deliberativo",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            }
+          ],
+          "application_text": "### Applicazioni cumulative e scala\n\nIl corpo è umano investito. Un urto proprio o una difesa tenue richiede presa e fonte; nessun sensore permette al corpo di evitare automaticamente una pallottola. Fonte, bersaglio e ostacolo realmente raggiunti decidono l’esercizio: un campione collegato non dà tutte le informazioni sul proprietario.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Signal Reading — Information:** Da un sigillo accessibile ricava quale parte porta un comando di apertura, senza azionarlo o smontarlo.\n- **Effective Word — Language:** Una formulazione produce un impulso proprio: Cedi frattura un oggetto debole raggiunto.\n- **Directed Attention — Will:** Un interlocutore che stava guardando altrove è indotto a considerare la richiesta; una difesa della deliberazione può opporsi.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
+          "stage_title": "Speaker",
+          "general_rank": "Awakening"
+        },
+        {
+          "number": 2,
+          "roman": "II",
+          "name": "Attunement",
+          "condition": "Le funzioni incorporate si combinano e possono usare supporti predisposti. Preparazione, attivazione e mantenimento sono distinti; supporto e riserva non sostituiscono una Inscription personale.",
+          "abilities": [
+            {
+              "id": "EFF-03-II-M01",
+              "name": "Encoded Exercise",
+              "authority": "Information",
+              "description": "Codifica un esercizio proprio in un messaggio investito: un supporto trasmette una funzione delimitata.",
+              "boundary": "Lavora su dati e strutture operative accessibili; non aggiunge fatti ignoti o proprietà di altre Effigi.",
+              "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+              "threshold": 2,
+              "quality": "Attunement",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Segnale reale; non deve formulare un comando di Language.",
+              "standalone_domain": "Codifica operativa e struttura di segnali presi",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-03-II-M02",
+              "name": "Written Instruction",
+              "authority": "Language",
+              "description": "Una formulazione investita rimane su un supporto con trigger definito: una parola prepara un'interdizione.",
+              "boundary": "Il significato investito è l'operazione; non occorre suono e non basta nominare un dio per raggiungerlo.",
+              "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+              "threshold": 2,
+              "quality": "Attunement",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Formulazione propria; Information non deve prima decodificare il nemico.",
+              "standalone_domain": "Significato formulato reso forza o istruzione effettiva",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-03-II-M03",
+              "name": "Chosen Impulse",
+              "authority": "Will",
+              "description": "Introduce un'intenzione semplice: avvicinarsi o interrompere un gesto, contendendo deliberazione.",
+              "boundary": "Influenza assenso e intenzione; non sostituisce memorie, sogni e architettura mentale Labyrinth.",
+              "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+              "threshold": 2,
+              "quality": "Attunement",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Significato ricevuto anche con parole ordinarie; non richiede un comando magico di Language.",
+              "standalone_domain": "Attenzione, intenzione e assenso deliberativo",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            }
+          ],
+          "application_text": "### Applicazioni cumulative e scala\n\nDepositi, interfacce o trigger esistono soltanto dove una cella già incorporata li concede. Un supporto preparato non rende disponibili tutte le tecniche future e non replica Reserve. Sono possibili usi coordinati dei primi due stadi senza acquisire altri rami.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Encoded Exercise — Information:** Codifica un esercizio proprio in un messaggio investito: un supporto trasmette una funzione delimitata.\n- **Written Instruction — Language:** Una formulazione investita rimane su un supporto con trigger definito: una parola prepara un'interdizione.\n- **Chosen Impulse — Will:** Introduce un'intenzione semplice: avvicinarsi o interrompere un gesto, contendendo deliberazione.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
+          "stage_title": "Scribe",
+          "general_rank": "Attunement"
+        },
+        {
+          "number": 3,
+          "roman": "III",
+          "name": "Embodiment",
+          "condition": "Funzioni autonome circoscritte e risposte incorporate; gli effetti forti dividono Reserve, attenzione e Load. Un mezzo non diventa un secondo centro personale.",
+          "abilities": [
+            {
+              "id": "EFF-03-III-M01",
+              "name": "Operational Diagnosis",
+              "authority": "Information",
+              "description": "Separa componenti operative di un potere esposto: distingue sorgente, istruzione e canale, senza vittoria automatica.",
+              "boundary": "Lavora su dati e strutture operative accessibili; non aggiunge fatti ignoti o proprietà di altre Effigi.",
+              "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+              "threshold": 3,
+              "quality": "Embodiment",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Segnale reale; non deve formulare un comando di Language.",
+              "standalone_domain": "Codifica operativa e struttura di segnali presi",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-03-III-M02",
+              "name": "Compound Expression",
+              "authority": "Language",
+              "description": "Combina istruzioni senza contraddizione: protegge un accesso e respinge ciò che lo attraversa, dividendo investimento.",
+              "boundary": "Il significato investito è l'operazione; non occorre suono e non basta nominare un dio per raggiungerlo.",
+              "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+              "threshold": 3,
+              "quality": "Embodiment",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Formulazione propria; Information non deve prima decodificare il nemico.",
+              "standalone_domain": "Significato formulato reso forza o istruzione effettiva",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-03-III-M03",
+              "name": "Internalized Assent",
+              "authority": "Will",
+              "description": "L'intenzione viene assimilata come propria nella misura prevalente: indossare qualcosa sembra una buona idea, senza intera biografia riscritta.",
+              "boundary": "Influenza assenso e intenzione; non sostituisce memorie, sogni e architettura mentale Labyrinth.",
+              "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+              "threshold": 3,
+              "quality": "Embodiment",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Significato ricevuto anche con parole ordinarie; non richiede un comando magico di Language.",
+              "standalone_domain": "Attenzione, intenzione e assenso deliberativo",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            }
+          ],
+          "application_text": "### Applicazioni cumulative e scala\n\nIl repertorio I–III cresce insieme. Funzioni autonome o compartimenti sono quelli nominati nelle celle, non presenze personali aggiunte. Fonte, sensore e quota assegnata devono sostenere ogni esecuzione; interrompere una relazione può far cessare una parte lasciando reali i risultati indipendenti.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Operational Diagnosis — Information:** Separa componenti operative di un potere esposto: distingue sorgente, istruzione e canale, senza vittoria automatica.\n- **Compound Expression — Language:** Combina istruzioni senza contraddizione: protegge un accesso e respinge ciò che lo attraversa, dividendo investimento.\n- **Internalized Assent — Will:** L'intenzione viene assimilata come propria nella misura prevalente: indossare qualcosa sembra una buona idea, senza intera biografia riscritta.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
+          "stage_title": "Exegete",
+          "general_rank": "Embodiment"
+        },
+        {
+          "number": 4,
+          "roman": "IV",
+          "name": "Transfiguration",
+          "condition": "Transfiguration: corpo e centro sostengono difesa materiale e spirituale semidivina anche nell’aspetto ordinario. La protezione personale incorporata è Routine/Intrinsic; un assalto pari può saturarla o lesionarla. Ready non richiede di prevedere ogni sparo.",
+          "abilities": [
+            {
+              "id": "EFF-03-IV-M01",
+              "name": "Counterstructure",
+              "authority": "Information",
+              "description": "Interviene sulla struttura operativa diagnosticata: disturba una fase d'esecuzione raggiunta del potere pari.",
+              "boundary": "Lavora su dati e strutture operative accessibili; non aggiunge fatti ignoti o proprietà di altre Effigi.",
+              "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+              "threshold": 4,
+              "quality": "Transfiguration",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Segnale reale; non deve formulare un comando di Language.",
+              "standalone_domain": "Codifica operativa e struttura di segnali presi",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-03-IV-M02",
+              "name": "Counterformulation",
+              "authority": "Language",
+              "description": "Una espressione oppone una istruzione effettivamente raggiunta: Taci disturba un'esecuzione, non ogni magia.",
+              "boundary": "Il significato investito è l'operazione; non occorre suono e non basta nominare un dio per raggiungerlo.",
+              "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+              "threshold": 4,
+              "quality": "Transfiguration",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Formulazione propria; Information non deve prima decodificare il nemico.",
+              "standalone_domain": "Significato formulato reso forza o istruzione effettiva",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-03-IV-M03",
+              "name": "Intent Dissociation",
+              "authority": "Will",
+              "description": "Separa una deliberazione da un motivo che la sosteneva oppure interdice il richiamo volontario di un ricordo specifico realmente raggiunto: il destinatario non riesce a recuperarlo deliberatamente finché prevale l’investimento. Non è una scelta cosciente di mentire. La traccia non è cancellata: spezzare l’interdizione può renderla nuovamente accessibile. Non riscrive biografie, ricordi di terzi o documenti; resistenza e mantenimento restano contendibili.",
+              "boundary": "Influenza assenso e intenzione; non sostituisce memorie, sogni e architettura mentale Labyrinth.",
+              "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+              "threshold": 4,
+              "quality": "Transfiguration",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "example": "Il nemico perde il raccordo compulsivo alla decisione di proseguire l’assalto senza ricevere una biografia nuova.",
+              "counterplay": "Non cancella memorie, tutte le emozioni o ogni volontà; il rapporto specifico va preso e conteso.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Significato ricevuto anche con parole ordinarie; non richiede un comando magico di Language.",
+              "standalone_domain": "Attenzione, intenzione e assenso deliberativo",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata.",
+              "review_revision": "SOVEREIGN-306"
+            }
+          ],
+          "application_text": "### Applicazioni cumulative e scala\n\nLa protezione corporea e spirituale incorporata IV è Routine/Intrinsic anche in aspetto umano: una pistola ordinaria non uccide il Bearer Ready soltanto perché sta parlando o usa un altro ramo. Un pari può saturare o aggirare la protezione pertinente. Campi e azioni di scala edilizia o urbana richiedono accessi effettivi, investimento e capacità condivisa; la tenuta personale non rende l’intero ambiente invulnerabile.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Counterstructure — Information:** Interviene sulla struttura operativa diagnosticata: disturba una fase d'esecuzione raggiunta del potere pari.\n- **Counterformulation — Language:** Una espressione oppone una istruzione effettivamente raggiunta: Taci disturba un'esecuzione, non ogni magia.\n- **Intent Dissociation — Will:** Il nemico perde il raccordo compulsivo alla decisione di proseguire l’assalto senza ricevere una biografia nuova.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
+          "stage_title": "Countermander",
+          "general_rank": "Transfiguration"
+        }
+      ]
+    },
+    {
+      "id": "EFF-04",
+      "name": "Halo",
+      "threshold": 4,
+      "roman": "IV",
+      "source": "GIOCATORE_44_Halo_progressione_completa.md",
+      "available_thresholds": [
+        {
+          "number": 1,
+          "roman": "I",
+          "name": "Awakening",
+          "condition": "La persona è ancora dipendente dal corpo. Repertorio diretto e circoscritto; esercizi forti Demanding, sostegno tenue Routine. Una difesa iniziale non è immunità alle armi.",
+          "abilities": [
+            {
+              "id": "EFF-04-I-M01",
+              "name": "Luminous Emission",
+              "authority": "Light",
+              "description": "Produce luce e concentrazione termica tenue: illumina o ustiona un bersaglio raggiunto.",
+              "boundary": "Governa radiazione luminosa; osservazione, comprensione e comando non sono conseguenze automatiche della luce.",
+              "source": "GIOCATORE_44_Halo_progressione_completa.md",
+              "threshold": 1,
+              "quality": "Awakening",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Fonte propria; Revelation e Purification non sono necessarie.",
+              "standalone_domain": "Emissione e propagazione della radiazione luminosa",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-04-I-M02",
+              "name": "First Exposure",
+              "authority": "Revelation",
+              "description": "Fa risaltare una presenza tenue prossima: contorno o intrusione realmente raggiunti.",
+              "boundary": "Rende osservabile il raggiunto; non garantisce nome, interpretazione o storia vera.",
+              "source": "GIOCATORE_44_Halo_progressione_completa.md",
+              "threshold": 1,
+              "quality": "Awakening",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Una presenza o relazione realmente raggiunta; non deve illuminarla con Light.",
+              "standalone_domain": "Accessibilità di presenze e rapporti occultati",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-04-I-M03",
+              "name": "Outlined Presence",
+              "authority": "Manifestation",
+              "description": "Dà una superficie tenue a una presenza spirituale prossima, permettendo un contatto pertinente.",
+              "boundary": "Rende interagibile un'esistenza già reale; non crea nuove persone, Avatar o corpi privi di fonte.",
+              "source": "GIOCATORE_44_Halo_progressione_completa.md",
+              "threshold": 1,
+              "quality": "Awakening",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Presenza reale; non crea l’entità e non richiede un raggio o esorcismo.",
+              "standalone_domain": "Interfaccia materiale/spirituale di una presenza già esistente",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-04-I-M04",
+              "name": "Small Separation",
+              "authority": "Purification",
+              "description": "Rimuove una contaminazione semplice raggiunta: pulisce un investimento tenue senza distruggere il supporto.",
+              "boundary": "Separa contaminazioni autentiche e incompatibili; impuro non significa nemico o moralmente cattivo.",
+              "source": "GIOCATORE_44_Halo_progressione_completa.md",
+              "threshold": 1,
+              "quality": "Awakening",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Contaminazione distinguibile nel rapporto preso; non richiede Revelation come potere diagnostico obbligatorio.",
+              "standalone_domain": "Separazione fra ospite e contaminante reale",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            }
+          ],
+          "application_text": "### Applicazioni cumulative e scala\n\nIl corpo è umano investito. Un urto proprio o una difesa tenue richiede presa e fonte; nessun sensore permette al corpo di evitare automaticamente una pallottola. Fonte, bersaglio e ostacolo realmente raggiunti decidono l’esercizio: un campione collegato non dà tutte le informazioni sul proprietario.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Luminous Emission — Light:** Produce luce e concentrazione termica tenue: illumina o ustiona un bersaglio raggiunto.\n- **First Exposure — Revelation:** Fa risaltare una presenza tenue prossima: contorno o intrusione realmente raggiunti.\n- **Outlined Presence — Manifestation:** Dà una superficie tenue a una presenza spirituale prossima, permettendo un contatto pertinente.\n- **Small Separation — Purification:** Rimuove una contaminazione semplice raggiunta: pulisce un investimento tenue senza distruggere il supporto.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
+          "stage_title": "Lamplighter",
+          "general_rank": "Awakening"
+        },
+        {
+          "number": 2,
+          "roman": "II",
+          "name": "Attunement",
+          "condition": "Le funzioni incorporate si combinano e possono usare supporti predisposti. Preparazione, attivazione e mantenimento sono distinti; supporto e riserva non sostituiscono una Inscription personale.",
+          "abilities": [
+            {
+              "id": "EFF-04-II-M01",
+              "name": "Radiant Direction",
+              "authority": "Light",
+              "description": "Piega e raccorda il percorso della propria radiazione lungo interfacce investite, anche dove un fascio ordinario proseguirebbe rettilineo. Può far convergere fasci da direzioni diverse senza muovere la sorgente.",
+              "boundary": "Governa radiazione luminosa; osservazione, comprensione e comando non sono conseguenze automatiche della luce.",
+              "source": "GIOCATORE_44_Halo_progressione_completa.md",
+              "threshold": 2,
+              "quality": "Attunement",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "example": "Una luce emessa alla mano curva attorno a un ostacolo raggiunto e colpisce di lato; non passa dentro una parete opaca senza una via disponibile.",
+              "qualitative_difference": "Percorso luminoso piegato, non una semplice scelta della mira dell’emissione I.",
+              "independence": "Fonte propria; Revelation e Purification non sono necessarie.",
+              "standalone_domain": "Emissione e propagazione della radiazione luminosa",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-04-II-M02",
+              "name": "Selective Revelation",
+              "authority": "Revelation",
+              "description": "Seleziona una componente nascosta tra quelle raggiunte: contaminazione diversa dall'ospite.",
+              "boundary": "Rende osservabile il raggiunto; non garantisce nome, interpretazione o storia vera.",
+              "source": "GIOCATORE_44_Halo_progressione_completa.md",
+              "threshold": 2,
+              "quality": "Attunement",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Una presenza o relazione realmente raggiunta; non deve illuminarla con Light.",
+              "standalone_domain": "Accessibilità di presenze e rapporti occultati",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-04-II-M03",
+              "name": "Immaterial Release",
+              "authority": "Manifestation",
+              "description": "Scioglie un’interfaccia materiale propria restituendo al piano spirituale la presenza che vi era agganciata.",
+              "boundary": "Rende interagibile un'esistenza già reale; non crea nuove persone, Avatar o corpi privi di fonte.",
+              "source": "GIOCATORE_44_Halo_progressione_completa.md",
+              "threshold": 2,
+              "quality": "Attunement",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "example": "Libera una presenza dal proprio sigillo senza distruggerla né crearne una copia.",
+              "counterplay": "Opera sul raccordo raggiunto, non esorcizza ogni intruso o salva una persona estinta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Presenza reale; non crea l’entità e non richiede un raggio o esorcismo.",
+              "standalone_domain": "Interfaccia materiale/spirituale di una presenza già esistente",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-04-II-M04",
+              "name": "Purifying Inscription",
+              "authority": "Purification",
+              "description": "Deposita in un supporto un esercizio purificante con quota propria e trigger: il supporto separa il contaminante compatibile preso quando la condizione si verifica, senza un nuovo tocco deliberato.",
+              "boundary": "Separa contaminazioni autentiche e incompatibili; impuro non significa nemico o moralmente cattivo.",
+              "source": "GIOCATORE_44_Halo_progressione_completa.md",
+              "threshold": 2,
+              "quality": "Attunement",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "example": "Una benda investita espelle un’infestazione tenue dalla ferita al contatto; una tossina materiale incompatibile non scompare per il nome della tecnica.",
+              "qualitative_difference": "Purge depositata e attivabile, non una seconda selezione dell’ospite già necessaria a I.",
+              "independence": "Contaminazione distinguibile nel rapporto preso; non richiede Revelation come potere diagnostico obbligatorio.",
+              "standalone_domain": "Separazione fra ospite e contaminante reale",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            }
+          ],
+          "application_text": "### Applicazioni cumulative e scala\n\nDepositi, interfacce o trigger esistono soltanto dove una cella già incorporata li concede. Un supporto preparato non rende disponibili tutte le tecniche future e non replica Reserve. Sono possibili usi coordinati dei primi due stadi senza acquisire altri rami.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Radiant Direction — Light:** Una luce emessa alla mano curva attorno a un ostacolo raggiunto e colpisce di lato; non passa dentro una parete opaca senza una via disponibile.\n- **Selective Revelation — Revelation:** Seleziona una componente nascosta tra quelle raggiunte: contaminazione diversa dall'ospite.\n- **Immaterial Release — Manifestation:** Libera una presenza dal proprio sigillo senza distruggerla né crearne una copia.\n- **Purifying Inscription — Purification:** Una benda investita espelle un’infestazione tenue dalla ferita al contatto; una tossina materiale incompatibile non scompare per il nome della tecnica.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
+          "stage_title": "Illuminator",
+          "general_rank": "Attunement"
+        },
+        {
+          "number": 3,
+          "roman": "III",
+          "name": "Embodiment",
+          "condition": "Funzioni autonome circoscritte e risposte incorporate; gli effetti forti dividono Reserve, attenzione e Load. Un mezzo non diventa un secondo centro personale.",
+          "abilities": [
+            {
+              "id": "EFF-04-III-M01",
+              "name": "Luminous Envelope",
+              "authority": "Light",
+              "description": "Distribuisce radiazione in un mantello protettivo e offensivo, senza una persona aggiuntiva.",
+              "boundary": "Governa radiazione luminosa; osservazione, comprensione e comando non sono conseguenze automatiche della luce.",
+              "source": "GIOCATORE_44_Halo_progressione_completa.md",
+              "threshold": 3,
+              "quality": "Embodiment",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Fonte propria; Revelation e Purification non sono necessarie.",
+              "standalone_domain": "Emissione e propagazione della radiazione luminosa",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-04-III-M02",
+              "name": "Veil Exposure",
+              "authority": "Revelation",
+              "description": "Espone il dispositivo o confine che produce un occultamento raggiunto senza dover prima esporre ciò che esso protegge.",
+              "boundary": "Rende osservabile il raggiunto; non garantisce nome, interpretazione o storia vera.",
+              "source": "GIOCATORE_44_Halo_progressione_completa.md",
+              "threshold": 3,
+              "quality": "Embodiment",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "example": "Il sigillo schermante diventa osservabile mentre il soggetto dietro di esso può restare nascosto: il Bearer ha una leva concreta da contendere.",
+              "counterplay": "Non legge automaticamente il contenuto schermato o ogni rapporto segreto; il velo stesso deve essere raggiunto e prevalere sulla presa può impedirne l’esposizione.",
+              "independence": "Una presenza o relazione realmente raggiunta; non deve illuminarla con Light.",
+              "standalone_domain": "Accessibilità di presenze e rapporti occultati",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-04-III-M03",
+              "name": "Selected Embodiment",
+              "authority": "Manifestation",
+              "description": "Rende interagibile solo una parte di una manifestazione: non trascina necessariamente tutta la persona nel corpo.",
+              "boundary": "Rende interagibile un'esistenza già reale; non crea nuove persone, Avatar o corpi privi di fonte.",
+              "source": "GIOCATORE_44_Halo_progressione_completa.md",
+              "threshold": 3,
+              "quality": "Embodiment",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Presenza reale; non crea l’entità e non richiede un raggio o esorcismo.",
+              "standalone_domain": "Interfaccia materiale/spirituale di una presenza già esistente",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-04-III-M04",
+              "name": "Purifying Boundary",
+              "authority": "Purification",
+              "description": "Un confine protegge da reintroduzione del contaminante diagnosticato, non da qualsiasi veleno ignoto.",
+              "boundary": "Separa contaminazioni autentiche e incompatibili; impuro non significa nemico o moralmente cattivo.",
+              "source": "GIOCATORE_44_Halo_progressione_completa.md",
+              "threshold": 3,
+              "quality": "Embodiment",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Contaminazione distinguibile nel rapporto preso; non richiede Revelation come potere diagnostico obbligatorio.",
+              "standalone_domain": "Separazione fra ospite e contaminante reale",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            }
+          ],
+          "application_text": "### Applicazioni cumulative e scala\n\nIl repertorio I–III cresce insieme. Funzioni autonome o compartimenti sono quelli nominati nelle celle, non presenze personali aggiunte. Fonte, sensore e quota assegnata devono sostenere ogni esecuzione; interrompere una relazione può far cessare una parte lasciando reali i risultati indipendenti.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Luminous Envelope — Light:** Distribuisce radiazione in un mantello protettivo e offensivo, senza una persona aggiuntiva.\n- **Veil Exposure — Revelation:** Il sigillo schermante diventa osservabile mentre il soggetto dietro di esso può restare nascosto: il Bearer ha una leva concreta da contendere.\n- **Selected Embodiment — Manifestation:** Rende interagibile solo una parte di una manifestazione: non trascina necessariamente tutta la persona nel corpo.\n- **Purifying Boundary — Purification:** Un confine protegge da reintroduzione del contaminante diagnosticato, non da qualsiasi veleno ignoto.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
+          "stage_title": "Revealer",
+          "general_rank": "Embodiment"
+        },
+        {
+          "number": 4,
+          "roman": "IV",
+          "name": "Transfiguration",
+          "condition": "Transfiguration: corpo e centro sostengono difesa materiale e spirituale semidivina anche nell’aspetto ordinario. La protezione personale incorporata è Routine/Intrinsic; un assalto pari può saturarla o lesionarla. Ready non richiede di prevedere ogni sparo.",
+          "abilities": [
+            {
+              "id": "EFF-04-IV-M01",
+              "name": "Light Imprint",
+              "authority": "Light",
+              "description": "Investe un supporto con una emissione luminosa che si esercita su un trigger senza nuova direzione deliberata.",
+              "boundary": "Governa radiazione luminosa; osservazione, comprensione e comando non sono conseguenze automatiche della luce.",
+              "source": "GIOCATORE_44_Halo_progressione_completa.md",
+              "threshold": 4,
+              "quality": "Transfiguration",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "example": "Un sigillo materiale rilascia un lampo offensivo quando viene attraversato.",
+              "counterplay": "Riserva finita e trigger realmente rilevabile; nessuna sorgente eterna o copia del Bearer.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Fonte propria; Revelation e Purification non sono necessarie.",
+              "standalone_domain": "Emissione e propagazione della radiazione luminosa",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-04-IV-M02",
+              "name": "Revelation Seal",
+              "authority": "Revelation",
+              "description": "Mantiene esposta una relazione già svelata anche dopo che il soggetto esce dall’osservazione diretta, finché sopravvive il sigillo di presa.",
+              "boundary": "Rende osservabile il raggiunto; non garantisce nome, interpretazione o storia vera.",
+              "source": "GIOCATORE_44_Halo_progressione_completa.md",
+              "threshold": 4,
+              "quality": "Transfiguration",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "example": "Un occultamento successivo non rende subito irrintracciabile il punto già marcato.",
+              "counterplay": "Non trova luoghi mai raggiunti, non identifica automaticamente la persona e non legge pensieri.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Una presenza o relazione realmente raggiunta; non deve illuminarla con Light.",
+              "standalone_domain": "Accessibilità di presenze e rapporti occultati",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-04-IV-M03",
+              "name": "Manifestative Tether",
+              "authority": "Manifestation",
+              "description": "Aggancia l’interagibilità di una presenza a un’interfaccia propria superstite anche quando cambia la sua forma esposta.",
+              "boundary": "Rende interagibile un'esistenza già reale; non crea nuove persone, Avatar o corpi privi di fonte.",
+              "source": "GIOCATORE_44_Halo_progressione_completa.md",
+              "threshold": 4,
+              "quality": "Transfiguration",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "example": "La presa resta pertinente mentre la manifestazione cambia aspetto, finché il raccordo regge.",
+              "counterplay": "Non prende ogni incarnazione o Core ignoto; rompere l’interfaccia può chiudere il contatto.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Presenza reale; non crea l’entità e non richiede un raggio o esorcismo.",
+              "standalone_domain": "Interfaccia materiale/spirituale di una presenza già esistente",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-04-IV-M04",
+              "name": "Exorcism Routing",
+              "authority": "Purification",
+              "description": "Espelle un’intrusione presa dirigendo l’investimento estratto verso un supporto compatibile predisposto invece di disperderlo vicino all’ospite.",
+              "boundary": "Separa contaminazioni autentiche e incompatibili; impuro non significa nemico o moralmente cattivo.",
+              "source": "GIOCATORE_44_Halo_progressione_completa.md",
+              "threshold": 4,
+              "quality": "Transfiguration",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "example": "L’afflizione spirituale lascia il ferito e viene catturata nel sigillo di scarico.",
+              "counterplay": "Presa, supporto e contenimento si contendono; non è proprietà dell’entità né trasferimento di qualsiasi ferita.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Contaminazione distinguibile nel rapporto preso; non richiede Revelation come potere diagnostico obbligatorio.",
+              "standalone_domain": "Separazione fra ospite e contaminante reale",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            }
+          ],
+          "application_text": "### Applicazioni cumulative e scala\n\nLa protezione corporea e spirituale incorporata IV è Routine/Intrinsic anche in aspetto umano: una pistola ordinaria non uccide il Bearer Ready soltanto perché sta parlando o usa un altro ramo. Un pari può saturare o aggirare la protezione pertinente. Campi e azioni di scala edilizia o urbana richiedono accessi effettivi, investimento e capacità condivisa; la tenuta personale non rende l’intero ambiente invulnerabile.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Light Imprint — Light:** Un sigillo materiale rilascia un lampo offensivo quando viene attraversato.\n- **Revelation Seal — Revelation:** Un occultamento successivo non rende subito irrintracciabile il punto già marcato.\n- **Manifestative Tether — Manifestation:** La presa resta pertinente mentre la manifestazione cambia aspetto, finché il raccordo regge.\n- **Exorcism Routing — Purification:** L’afflizione spirituale lascia il ferito e viene catturata nel sigillo di scarico.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
+          "stage_title": "Lightbearer",
+          "general_rank": "Transfiguration"
+        }
+      ]
+    },
+    {
+      "id": "EFF-05",
+      "name": "Heart",
+      "threshold": 4,
+      "roman": "IV",
+      "source": "GIOCATORE_45_Heart_progressione_completa.md",
+      "available_thresholds": [
+        {
+          "number": 1,
+          "roman": "I",
+          "name": "Awakening",
+          "condition": "La persona è ancora dipendente dal corpo. Repertorio diretto e circoscritto; esercizi forti Demanding, sostegno tenue Routine. Una difesa iniziale non è immunità alle armi.",
+          "abilities": [
+            {
+              "id": "EFF-05-I-M01",
+              "name": "Deep Vitality",
+              "authority": "Life",
+              "description": "Potenzia vigore, resistenza e funzione propria: porta carichi superiori e sostiene urti, senza immunità integrale.",
+              "boundary": "Sostiene o aggredisce funzioni viventi; non governa tutta l'ereditarietà o crea individui dal nulla.",
+              "source": "GIOCATORE_45_Heart_progressione_completa.md",
+              "threshold": 1,
+              "quality": "Awakening",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Organismo reale; non deve prima ripararlo con Restoration.",
+              "standalone_domain": "Funzioni e sostegno della vitalità presente",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-05-I-M02",
+              "name": "Vital Perception",
+              "authority": "Spirit",
+              "description": "Percepisce direttamente contorno e discontinuità della componente spirituale raggiunta, anche quando il corpo non mostra una ferita. Non si limita a dedurre una lesione dall’espressione del viso.",
+              "boundary": "Governa componente spirituale pertinente della vita; sapere il nome non concede accesso universale alle anime.",
+              "source": "GIOCATORE_45_Heart_progressione_completa.md",
+              "threshold": 1,
+              "quality": "Awakening",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "example": "Individua una lacerazione spirituale in una persona apparentemente sana, senza leggerne ricordi o pensieri.",
+              "qualitative_difference": "Percezione di una struttura spirituale normalmente inaccessibile.",
+              "independence": "Componente spirituale presa; non richiede un danno corporeo o una guarigione.",
+              "standalone_domain": "Coesione e accessi della continuità spirituale vivente",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-05-I-M03",
+              "name": "Restoring Touch",
+              "authority": "Restoration",
+              "description": "Chiude piccole lesioni e arresta sanguinamento attraverso contatto pertinente.",
+              "boundary": "Restituisce integrità alla medesima esistenza recuperabile; non elimina automaticamente la causa né copia la persona estinta.",
+              "source": "GIOCATORE_45_Heart_progressione_completa.md",
+              "threshold": 1,
+              "quality": "Awakening",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Pattern recuperabile e fonte propria; diagnosi pertinente propria, non potere di Spirit obbligatorio.",
+              "standalone_domain": "Recupero della stessa integrità realmente persistente",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            }
+          ],
+          "application_text": "### Applicazioni cumulative e scala\n\nIl corpo è umano investito. Un urto proprio o una difesa tenue richiede presa e fonte; nessun sensore permette al corpo di evitare automaticamente una pallottola. Fonte, bersaglio e ostacolo realmente raggiunti decidono l’esercizio: un campione collegato non dà tutte le informazioni sul proprietario.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Deep Vitality — Life:** Potenzia vigore, resistenza e funzione propria: porta carichi superiori e sostiene urti, senza immunità integrale.\n- **Vital Perception — Spirit:** Individua una lacerazione spirituale in una persona apparentemente sana, senza leggerne ricordi o pensieri.\n- **Restoring Touch — Restoration:** Chiude piccole lesioni e arresta sanguinamento attraverso contatto pertinente.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
+          "stage_title": "Vitalist",
+          "general_rank": "Awakening"
+        },
+        {
+          "number": 2,
+          "roman": "II",
+          "name": "Attunement",
+          "condition": "Le funzioni incorporate si combinano e possono usare supporti predisposti. Preparazione, attivazione e mantenimento sono distinti; supporto e riserva non sostituiscono una Inscription personale.",
+          "abilities": [
+            {
+              "id": "EFF-05-II-M01",
+              "name": "Functional Interference",
+              "authority": "Life",
+              "description": "Altera una funzione vitale percepita: spasmo o cedimento del respiro su corpo raggiunto.",
+              "boundary": "Sostiene o aggredisce funzioni viventi; non governa tutta l'ereditarietà o crea individui dal nulla.",
+              "source": "GIOCATORE_45_Heart_progressione_completa.md",
+              "threshold": 2,
+              "quality": "Attunement",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Organismo reale; non deve prima ripararlo con Restoration.",
+              "standalone_domain": "Funzioni e sostegno della vitalità presente",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-05-II-M02",
+              "name": "Spirit Pulse",
+              "authority": "Spirit",
+              "description": "Un impulso sostiene o lede lo spirito realmente percepito; il dosaggio offensivo non cura automaticamente il nemico.",
+              "boundary": "Governa componente spirituale pertinente della vita; sapere il nome non concede accesso universale alle anime.",
+              "source": "GIOCATORE_45_Heart_progressione_completa.md",
+              "threshold": 2,
+              "quality": "Attunement",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Componente spirituale presa; non richiede un danno corporeo o una guarigione.",
+              "standalone_domain": "Coesione e accessi della continuità spirituale vivente",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-05-II-M03",
+              "name": "Restorative Template",
+              "authority": "Restoration",
+              "description": "Investe una configurazione integra come riferimento operativo per la riparazione successiva.",
+              "boundary": "Restituisce integrità alla medesima esistenza recuperabile; non elimina automaticamente la causa né copia la persona estinta.",
+              "source": "GIOCATORE_45_Heart_progressione_completa.md",
+              "threshold": 2,
+              "quality": "Attunement",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "example": "Prima di una battaglia prepara il riferimento del braccio: potrà ricomporre un danno compatibile senza diagnosticarne ogni dettaglio da zero.",
+              "counterplay": "Non è un backup della persona; non riporta alla vita un centro estinto e non sana gratis.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Pattern recuperabile e fonte propria; diagnosi pertinente propria, non potere di Spirit obbligatorio.",
+              "standalone_domain": "Recupero della stessa integrità realmente persistente",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            }
+          ],
+          "application_text": "### Applicazioni cumulative e scala\n\nDepositi, interfacce o trigger esistono soltanto dove una cella già incorporata li concede. Un supporto preparato non rende disponibili tutte le tecniche future e non replica Reserve. Sono possibili usi coordinati dei primi due stadi senza acquisire altri rami.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Functional Interference — Life:** Altera una funzione vitale percepita: spasmo o cedimento del respiro su corpo raggiunto.\n- **Spirit Pulse — Spirit:** Un impulso sostiene o lede lo spirito realmente percepito; il dosaggio offensivo non cura automaticamente il nemico.\n- **Restorative Template — Restoration:** Prima di una battaglia prepara il riferimento del braccio: potrà ricomporre un danno compatibile senza diagnosticarne ogni dettaglio da zero.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
+          "stage_title": "Chirurgeon",
+          "general_rank": "Attunement"
+        },
+        {
+          "number": 3,
+          "roman": "III",
+          "name": "Embodiment",
+          "condition": "Funzioni autonome circoscritte e risposte incorporate; gli effetti forti dividono Reserve, attenzione e Load. Un mezzo non diventa un secondo centro personale.",
+          "abilities": [
+            {
+              "id": "EFF-05-III-M01",
+              "name": "Life Transfer",
+              "authority": "Life",
+              "description": "Sostiene a distanza una funzione diagnosticata con energia propria: mantiene cosciente un ferito, senza ostaggio obbligatorio.",
+              "boundary": "Sostiene o aggredisce funzioni viventi; non governa tutta l'ereditarietà o crea individui dal nulla.",
+              "source": "GIOCATORE_45_Heart_progressione_completa.md",
+              "threshold": 3,
+              "quality": "Embodiment",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Organismo reale; non deve prima ripararlo con Restoration.",
+              "standalone_domain": "Funzioni e sostegno della vitalità presente",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-05-III-M02",
+              "name": "Spiritual Suture",
+              "authority": "Spirit",
+              "description": "Ricongiunge una frattura spirituale circoscritta dopo diagnosi, mentre invasione persistente richiede opposizione separata.",
+              "boundary": "Governa componente spirituale pertinente della vita; sapere il nome non concede accesso universale alle anime.",
+              "source": "GIOCATORE_45_Heart_progressione_completa.md",
+              "threshold": 3,
+              "quality": "Embodiment",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Componente spirituale presa; non richiede un danno corporeo o una guarigione.",
+              "standalone_domain": "Coesione e accessi della continuità spirituale vivente",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-05-III-M03",
+              "name": "Autonomic Restoration",
+              "authority": "Restoration",
+              "description": "Incorpora una risposta riparativa che si attiva sul danno rilevato senza dirigere coscientemente ogni sutura.",
+              "boundary": "Restituisce integrità alla medesima esistenza recuperabile; non elimina automaticamente la causa né copia la persona estinta.",
+              "source": "GIOCATORE_45_Heart_progressione_completa.md",
+              "threshold": 3,
+              "quality": "Embodiment",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "example": "Una ferita comincia a richiudersi mentre il Bearer para un altro colpo.",
+              "counterplay": "Usa energia e può essere saturata; la riparazione iniziale continua a crescere ma non acquisisce questo trigger da sola.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Pattern recuperabile e fonte propria; diagnosi pertinente propria, non potere di Spirit obbligatorio.",
+              "standalone_domain": "Recupero della stessa integrità realmente persistente",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            }
+          ],
+          "application_text": "### Applicazioni cumulative e scala\n\nIl repertorio I–III cresce insieme. Funzioni autonome o compartimenti sono quelli nominati nelle celle, non presenze personali aggiunte. Fonte, sensore e quota assegnata devono sostenere ogni esecuzione; interrompere una relazione può far cessare una parte lasciando reali i risultati indipendenti.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Life Transfer — Life:** Sostiene a distanza una funzione diagnosticata con energia propria: mantiene cosciente un ferito, senza ostaggio obbligatorio.\n- **Spiritual Suture — Spirit:** Ricongiunge una frattura spirituale circoscritta dopo diagnosi, mentre invasione persistente richiede opposizione separata.\n- **Autonomic Restoration — Restoration:** Una ferita comincia a richiudersi mentre il Bearer para un altro colpo.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
+          "stage_title": "Restorer",
+          "general_rank": "Embodiment"
+        },
+        {
+          "number": 4,
+          "roman": "IV",
+          "name": "Transfiguration",
+          "condition": "Transfiguration: corpo e centro sostengono difesa materiale e spirituale semidivina anche nell’aspetto ordinario. La protezione personale incorporata è Routine/Intrinsic; un assalto pari può saturarla o lesionarla. Ready non richiede di prevedere ogni sparo.",
+          "abilities": [
+            {
+              "id": "EFF-05-IV-M01",
+              "name": "Living Fortress",
+              "authority": "Life",
+              "description": "Costituisce nel proprio corpo ridondanze funzionali investite: tessuti propri integri sostengono temporaneamente il compito di un organo leso, senza che questo sia già ricresciuto. Il cuore danneggiato può essere aggirato da una circolazione investita interna. È una costituzione personale, non un potenziamento automaticamente trasferibile agli alleati; la tenuta IV cresce anche contro lesioni materiali e spirituali pertinenti.",
+              "boundary": "Sostiene o aggredisce funzioni viventi; non governa tutta l'ereditarietà o crea individui dal nulla.",
+              "source": "GIOCATORE_45_Heart_progressione_completa.md",
+              "threshold": 4,
+              "quality": "Transfiguration",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "example": "Dopo la lesione del cuore, una rete corporea investita mantiene circolazione abbastanza a lungo da combattere o curarsi. Saturazione e lesioni dei sostegni alternativi possono ucciderlo.",
+              "qualitative_difference": "Ridondanza biologica funzionante, distinta da vigore I, sostegno esterno III e riparazione Restoration.",
+              "independence": "Organismo reale; non deve prima ripararlo con Restoration.",
+              "standalone_domain": "Funzioni e sostegno della vitalità presente",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata.",
+              "review_revision": "SOVEREIGN-306"
+            },
+            {
+              "id": "EFF-05-IV-M02",
+              "name": "Spirit Gating",
+              "authority": "Spirit",
+              "description": "Regola quali rapporti spirituali possono entrare o uscire dal centro raggiunto senza spegnere l’intero scambio.",
+              "boundary": "Governa componente spirituale pertinente della vita; sapere il nome non concede accesso universale alle anime.",
+              "source": "GIOCATORE_45_Heart_progressione_completa.md",
+              "threshold": 4,
+              "quality": "Transfiguration",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "example": "Il Bearer mantiene un legame alleato mentre chiude la via di una presa ostile.",
+              "counterplay": "Non giudica automaticamente le intenzioni: riconoscere e contendere i rapporti richiede accesso.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Componente spirituale presa; non richiede un danno corporeo o una guarigione.",
+              "standalone_domain": "Coesione e accessi della continuità spirituale vivente",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            },
+            {
+              "id": "EFF-05-IV-M03",
+              "name": "Extreme Regeneration",
+              "authority": "Restoration",
+              "description": "Ricresce parti perdute e riattiva morte biologica se la stessa continuità resta raggiunta e recuperabile.",
+              "boundary": "Restituisce integrità alla medesima esistenza recuperabile; non elimina automaticamente la causa né copia la persona estinta.",
+              "source": "GIOCATORE_45_Heart_progressione_completa.md",
+              "threshold": 4,
+              "quality": "Transfiguration",
+              "source_kind": "PRIMARY_MACRO",
+              "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
+              "qualitative_revision": "RAMI-23-04",
+              "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
+              "independence": "Pattern recuperabile e fonte propria; diagnosi pertinente propria, non potere di Spirit obbligatorio.",
+              "standalone_domain": "Recupero della stessa integrità realmente persistente",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+            }
+          ],
+          "application_text": "### Applicazioni cumulative e scala\n\nLa protezione corporea e spirituale incorporata IV è Routine/Intrinsic anche in aspetto umano: una pistola ordinaria non uccide il Bearer Ready soltanto perché sta parlando o usa un altro ramo. Un pari può saturare o aggirare la protezione pertinente. Campi e azioni di scala edilizia o urbana richiedono accessi effettivi, investimento e capacità condivisa; la tenuta personale non rende l’intero ambiente invulnerabile.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Living Fortress — Life:** Dopo la lesione del cuore, una rete corporea investita mantiene circolazione abbastanza a lungo da combattere o curarsi. Saturazione e lesioni dei sostegni alternativi possono ucciderlo.\n- **Spirit Gating — Spirit:** Il Bearer mantiene un legame alleato mentre chiude la via di una presa ostile.\n- **Extreme Regeneration — Restoration:** Ricresce parti perdute e riattiva morte biologica se la stessa continuità resta raggiunta e recuperabile.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
+          "stage_title": "Deathless",
+          "general_rank": "Transfiguration"
+        }
+      ]
+    }
+  ],
+  "all_I_IV_abilities_available": true,
+  "exclusive_presuppositions": [
+    "Cradle",
+    "Ruin"
+  ],
+  "foreign_incorporation": "incompatible at every Threshold",
+  "initial_advanced_qualities_assigned": false,
+  "initial_full_fulfilment": false,
+  "source": "The Origin",
+  "knowledge_source": "The First Testament",
+  "shared_load": true,
+  "historical_relations": [
+    {
+      "id": "ANC-01",
+      "name": "Maerin Sol",
+      "past_memory": "Artigiana, organizzatrice delle vie di fuga e compagna affettiva. Non era un Bearer e non era una persona creata per amarti. Amava discutere i costi pratici delle tue promesse. Il suo contributo fu una rete di laboratori e rifornimenti che continuò a funzionare quando non eri presente. Fu uccisa durante un assalto che raggiunse e rese irrecuperabile la sua continuità; verificasti l'impossibilità di un'autentica restaurazione. Ricordi affetto, conflitti e lutto, senza obbligo di riprodurre oggi quei sentimenti.",
+      "modern_state_known": false
+    },
+    {
+      "id": "ANC-02",
+      "name": "Vara Oss",
+      "past_memory": "Banner V. Comandante proveniente da comunità umane di frontiera, unì reparti che non volevano servire la tua persona. Ti seguiva quando il piano proteggeva la possibilità di una vita libera; contestò ordini che sacrificavano alleati per accelerare una vittoria. Non era impotente lontano dall'esercito. Ricordi la sua richiesta che i reparti potessero sciogliersi dopo la guerra.",
+      "modern_state_known": false
+    },
+    {
+      "id": "ANC-03",
+      "name": "Deyran Ur",
+      "past_memory": "Chain VI. Liberato da un ordinamento di dipendenze, capace di costruire e spezzare vincoli pertinenti. Non incorporasti Chain per imparare da lui: cooperavate attraverso competenze distinte. Esaminò i rapporti che dovevano restare per contenere minacce reali e quelli che avevano soltanto funzione coercitiva. Il suo dissenso sui vincoli conservati era sostanziale, non tradimento implicito.",
+      "modern_state_known": false
+    },
+    {
+      "id": "ANC-04",
+      "name": "Ceth Aran",
+      "past_memory": "Coin IV. Organizzatrice di scambi e rifornimenti tra comunità liberate. Difendeva diritti di proprietà contro requisizioni che riteneva arbitrarie, anche quando le ordinavi tu. Non comprava qualunque autorità con monete. Ricordi un accordo che salvò una distribuzione di viveri senza assegnare il raccolto alla tua amministrazione. Ceth morì nel 318 LR, prima della tua caduta; ricordi la sua morte e il lutto. Verificasti allora che la continuità non fosse più restaurabile. La sua lunga presenza fu sostenuta dal corpo semidivino e da restaurazioni mediche ripetute, non da un rango angelico assegnato retroattivamente.",
+      "modern_state_known": true
+    },
+    {
+      "id": "ANC-05",
+      "name": "Ysra Venn",
+      "past_memory": "Heart VI. Guaritrice e responsabile di luoghi di restaurazione. Incorporò Heart come esercizio proprio, non ricevette tutte le tue cinque Effigi. Ti ricordò più volte che curare una persona non la rendeva debitrice della sua vita al guaritore. Partecipò alla verifica dei collegamenti personali nel Departure Project.",
+      "modern_state_known": false
+    },
+    {
+      "id": "ANC-06",
+      "name": "Erath Pell",
+      "past_memory": "Halo VI. Custode di manifestazioni e separazioni, incaricato di distinguere componenti invasive dalle persone che le ospitavano. Il suo culto non coincideva sempre con quello rivolto a te. Ricordi una disputa in cui rifiutò di chiamare impuro un gruppo nemico per la sola appartenenza politica.",
+      "modern_state_known": false
+    },
+    {
+      "id": "ANC-07",
+      "name": "Helyr Ossen",
+      "past_memory": "Astrolabe VII. Potenza indipendente, alleata su passaggi e collocazioni cosmiche. Collaborò alla geometria della Vigil Star; non fu un tuo subordinato e non ti donò Astrolabe. Proteggeva itinerari di cui non concedeva pieno controllo a nessun governo. Una sua collaborazione richiedeva obiettivi convergenti, non un ordine del Sovereign.",
+      "modern_state_known": false
+    },
+    {
+      "id": "ANC-08",
+      "name": "Nereth Aul",
+      "past_memory": "Crucible V. Progettista di conversioni e materiali, artefice di componenti delle Unbound Works. Distinse sempre la materia che potevi creare dalla trasformazione necessaria a renderla utile e ripetibile. Ricordi prove fallite e soluzioni condivise; il suo lavoro non era una versione inferiore della tua creazione.",
+      "modern_state_known": false
+    },
+    {
+      "id": "ANC-09",
+      "name": "Nava Tesh",
+      "past_memory": "Tempest VI. Custode di flussi, circolazioni e dispersione di potenza. Mise in sicurezza impianti che una semplice barriera non avrebbe salvato dalla pressione accumulata. Non controllava ogni mare per il solo titolo. Ricordi che chiese alle comunità di imparare la manutenzione invece di dipendere eternamente dalla sua presenza.",
+      "modern_state_known": false
+    },
+    {
+      "id": "ANC-10",
+      "name": "Rhael Den",
+      "past_memory": "Loom VI. Preparava concatenazioni e alternative, non futuri obbligatori. Ti aiutò a distinguere un piano possibile da una previsione comoda. Rifiutava garanzie di vittoria che nessuno poteva realmente sostenere. I suoi consigli non permettono oggi di conoscere quale scelta abbia fatto dopo la tua caduta.",
+      "modern_state_known": false
+    },
+    {
+      "id": "ANC-11",
+      "name": "Althene Rhos",
+      "past_memory": "Sepulchre VII. Potenza indipendente della morte e della custodia, alleata in alcune campagne e interlocutrice difficile sulle restituzioni. Difendeva la distinzione fra una persona morta e una risorsa da usare. Non era moralmente impura né una versione oscura di Heart. Ti aiutò ad accertare che alcune continuità perdute non erano più recuperabili.",
+      "modern_state_known": false
+    },
+    {
+      "id": "ANC-12",
+      "name": "Thalen Reth",
+      "past_memory": "Mask IV. Diplomatico e infiltratore, capace di rappresentazioni corporeamente efficaci. Controllava il riconoscimento senza essere padrone di tutte le menti. Ricordi un'identità pubblica che abbandonò per impedire che una vittoria politica vincolasse un'altra comunità al suo volto.",
+      "modern_state_known": false
+    },
+    {
+      "id": "ANC-13",
+      "name": "Sethra Il",
+      "past_memory": "Labyrinth IV. Organizzatrice di incontri interiori protetti e diagnosi esperienziali. Non leggeva automaticamente ogni tuo pensiero. Collaborò con persone traumatizzate dalle Signorie senza trasformarle in obbedienti. Le interfacce comuni dovevano consentire uscita e conservare individui distinti.",
+      "modern_state_known": false
+    },
+    {
+      "id": "ANC-14",
+      "name": "Sael Mereth",
+      "past_memory": "Oracle VI. Studioso che formulava modelli propri, anche quando il Testament ti permetteva di comprenderne i fondamenti. Ti contraddisse su una struttura teoricamente corretta ma priva di dati sufficienti. Ricordi la sua capacità di cambiare conclusione davanti a una prova, non una fede cieca nel tuo sapere.",
+      "modern_state_known": false
+    },
+    {
+      "id": "ANC-15",
+      "name": "Talren Soth",
+      "past_memory": "Archive VII. Custode di attestazioni e matrici, potenza indipendente. Le sue strutture furono usate nella documentazione operativa di grandi progetti. Sapevi che una sua registrazione autentica poteva comunque lasciare fuori dati non raggiunti. Il suo ruolo nella rete dell'ultima procedura era verificare e conservare le matrici concordate; non sai tutto ciò che avvenne nei nodi remoti.",
+      "modern_state_known": false
+    },
+    {
+      "id": "ANC-16",
+      "name": "Ilyra Sen",
+      "past_memory": "Crown VII. Alleata nella riorganizzazione di territori liberati, poi interlocutrice in conflitti sulle competenze. Non era proprietaria dell'universo: le sue giurisdizioni erano esercizi reali e contendibili. Partecipò agli accordi del Departure Project e difese l'esigenza di non perdere contenimenti utili. Ricordi divergenze e intese, non conosci automaticamente motivi segreti o atti successivi.",
+      "modern_state_known": false
+    },
+    {
+      "id": "ANC-17",
+      "name": "Othrem Cal",
+      "past_memory": "Seed VII. Amministrava sistemi di discendenza e sviluppo; il ruolo politico non gli conferiva Crown. Cooperò alla rimozione di alcune configurazioni ereditarie e alla transizione verso organismi indipendenti dai vecchi marchi. Partecipò alla procedura finale. Ricordi quali interventi erano pattuiti, non ogni configurazione realmente attiva nei suoi nodi.",
+      "modern_state_known": false
+    },
+    {
+      "id": "ANC-18",
+      "name": "Sereth Daal",
+      "past_memory": "Astrolabe VI. Custode di una parte dei percorsi di uscita, collaboratore di Helyr con esercizio proprio. Non era secondo titolare VII di Astrolabe. Nell'ultima procedura aveva incarico di mantenere il corridoio di ricongiungimento e collegamenti operativi. Ricordi che l'uscita attesa non rispose; questa osservazione non prova da sola tutto ciò che seppe o volle.",
+      "modern_state_known": false
+    }
+  ],
+  "knowledge": [
+    {
+      "id": "KNOW-01",
+      "subject": "Identità antica, fonte, sapere e prima vita",
+      "state": "Known",
+      "source": "77–78, esperienza personale."
+    },
+    {
+      "id": "KNOW-02",
+      "subject": "Ventuno Effigi, sette soglie, sette integrazioni",
+      "state": "Known",
+      "source": "Corpus 26–73 e Testament; non dotazione di tutti i percorsi."
+    },
+    {
+      "id": "KNOW-03",
+      "subject": "Presupposti esclusivi di Cradle/Ruin",
+      "state": "Known",
+      "source": "Propria struttura, esperienza e diagnosi interna."
+    },
+    {
+      "id": "KNOW-04",
+      "subject": "Cinque esercizi IV al risveglio",
+      "state": "Known/Diagnosable",
+      "source": "Stato proprio percepibile; prove sicure confermano parametri."
+    },
+    {
+      "id": "KNOW-05",
+      "subject": "Antiche Seats esercitate e Fulfilment",
+      "state": "Known",
+      "source": "Esperienza prima della caduta; non potenza già disponibile."
+    },
+    {
+      "id": "KNOW-06",
+      "subject": "Compagni antichi e loro ranghi verificati allora",
+      "state": "Known",
+      "source": "80; niente rango o sorte moderni automatici."
+    },
+    {
+      "id": "KNOW-07",
+      "subject": "Progetto finale e manipolazione osservata",
+      "state": "Known",
+      "source": "78; motivi e nodi remoti non tutti osservati."
+    },
+    {
+      "id": "KNOW-08",
+      "subject": "Esatta responsabilità di ogni attore nella caduta",
+      "state": "Unknown",
+      "source": "Dossier riservato, da prove."
+    },
+    {
+      "id": "KNOW-09",
+      "subject": "Eventi e storia durante l'assenza",
+      "state": "Unknown",
+      "source": "Confronto con fonti moderne; niente cronaca osservata dalla dormienza."
+    },
+    {
+      "id": "KNOW-10",
+      "subject": "Durata civile esatta dell'assenza",
+      "state": "Diagnosable",
+      "source": "Confronto di calendari, date e testimonianze; non annunciata come memoria."
+    },
+    {
+      "id": "KNOW-11",
+      "subject": "Stato moderno della Vigil Star e altre opere",
+      "state": "Unknown/Diagnosable",
+      "source": "Tracce e accessi; ricordarne l'origine non è sorvegliarle."
+    },
+    {
+      "id": "KNOW-12",
+      "subject": "Culti superstiti oggi e loro dottrine",
+      "state": "Unknown",
+      "source": "Non diventano sensori personali dal nome tramandato."
+    },
+    {
+      "id": "KNOW-13",
+      "subject": "Attuali rapporti di Scroll/Halo/Heart VII",
+      "state": "Unknown/Diagnosable",
+      "source": "Diagnosi e informazioni; nessuna certezza per sola antica proprietà."
+    },
+    {
+      "id": "KNOW-14",
+      "subject": "Memorie autobiografiche del duca",
+      "state": "Known",
+      "source": "Integrali fino alla perdita di coscienza; errori e credenze restano tali."
+    },
+    {
+      "id": "KNOW-15",
+      "subject": "Morte dei genitori del duca",
+      "state": "Remembered Report",
+      "source": "Naufragio della Bellance, atti ricevuti; non presenza al naufragio."
+    },
+    {
+      "id": "KNOW-16",
+      "subject": "Famiglia, personale, casa, titolo e firme",
+      "state": "Known",
+      "source": "Memorie del duca e dossier 79."
+    },
+    {
+      "id": "KNOW-17",
+      "subject": "Ultimo rapporto patrimoniale",
+      "state": "Remembered Report",
+      "source": "Dati di quattordici giorni prima; saldo attuale da aggiornare."
+    },
+    {
+      "id": "KNOW-18",
+      "subject": "Decisione di avvelenarsi del duca",
+      "state": "Known",
+      "source": "Ricordi acquisiti della decisione e fatti fino all'incoscienza."
+    },
+    {
+      "id": "KNOW-19",
+      "subject": "Conversazioni durante il coma",
+      "state": "Unknown",
+      "source": "Quattro giorni senza ricordi coscienti; fonti esterne."
+    },
+    {
+      "id": "KNOW-20",
+      "subject": "Ripresa osservata dal personale",
+      "state": "Diagnosable",
+      "source": "Comunicazioni e osservazioni iniziali, non memorie retroattive."
+    },
+    {
+      "id": "KNOW-21",
+      "subject": "Causa completa del ricongiungimento",
+      "state": "Unknown/Diagnosable",
+      "source": "Accessi e tracce effettive; non veto autoriale alla diagnosi."
+    },
+    {
+      "id": "KNOW-22",
+      "subject": "Sorgenti e persone esterne attualmente attive",
+      "state": "Unknown",
+      "source": "Principi nel 71, identità riservate nel 72."
+    },
+    {
+      "id": "KNOW-23",
+      "subject": "Intenzioni segrete di personale e familiari",
+      "state": "Unknown",
+      "source": "Ricordi descrivono solo ciò che il duca conosceva."
+    },
+    {
+      "id": "KNOW-24",
+      "subject": "Obiettivi e scelte future proprie",
+      "state": "Open",
+      "source": "Giocatore; non predizioni del Testament."
+    },
+    {
+      "id": "KNOW-25",
+      "subject": "Eclipse, Crescent, The Nocturne e struttura di The Veiled Basin",
+      "state": "Known",
+      "source": "First Testament: principi tecnici; non identità, sedi o rapporti moderni."
+    },
+    {
+      "id": "KNOW-26",
+      "subject": "Presidi d’ombra e scuole delle Vasche incontrati prima della caduta",
+      "state": "Known/Remembered Report",
+      "source": "Esperienze della liberazione e resoconti ricevuti allora; non protocolli compilati dopo −11500."
+    },
+    {
+      "id": "KNOW-27",
+      "subject": "Nomi e servizi pubblici della Veglia e dei Cicli",
+      "state": "Remembered Report",
+      "source": "Formazione civile del duca fino al 14 maggio 812; descrizioni pubbliche, non dossier dei dirigenti o presenza in tutte le sedi."
+    },
+    {
+      "id": "KNOW-28",
+      "subject": "Occupanti moderni delle Seats Eclipse/Crescent e circuiti di Noran/Tevren",
+      "state": "Unknown/Diagnosable",
+      "source": "Nessuna informazione moderna dal Testament; contatti, prove e accessi pertinenti nel presente."
+    }
+  ],
+  "authoritative_sources": [
+    "GIOCATORE_77_Identita_di_Edran_e_Alexander.md",
+    "GIOCATORE_78_Prima_vita_e_ricordi_consolidati.md",
+    "GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md",
+    "GIOCATORE_80_Legami_antichi_che_ricordi.md",
+    "GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
+    "GIOCATORE_82_Recupero_delle_antiche_capacita.md",
+    "GIOCATORE_83_Matrice_delle_conoscenze_personali.md"
+  ],
+  "inventory_source": "GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
+  "future_player_choices": "OPEN",
+  "history_shared_source": "103_Indice_della_storia.md",
+  "origin_functions_source": "GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md",
+  "origin_entry": "O-ENTRY-01",
+  "revision": "RAMI-23-04",
+  "integration_revision": "RACCORDI-317",
+  "sovereign_review_revision": "SOVEREIGN-306"
+}
