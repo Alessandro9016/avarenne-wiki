@@ -6933,8 +6933,17 @@
       "raw": "fonti/d7811e7f5cf8e823.json",
       "sha256": "195aa7d07b4ed917a1c3ab32ffcfa3108b32f4c42049e32cbe56a26b14a15815",
       "bytes": 5929
+    },
+    {
+      "source": "337_The_First_Testament_illustrazione.md",
+      "title": "The First Testament — illustrazione VIS-337",
+      "group": "Documenti riservati e conduzione",
+      "url": "41929931b0b2b854.html",
+      "raw": "fonti/41929931b0b2b854.md",
+      "sha256": "53df61bbaa7ccf8d71f0f6a005a1cd8e5a4ec641f7c8eb7e15d768ec5dbcb97e",
+      "bytes": 932
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",
-  "handoff_revision": 336
+  "handoff_revision": 337
 }

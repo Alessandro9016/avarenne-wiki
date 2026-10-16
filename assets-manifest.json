@@ -4937,5 +4937,13 @@
     "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/The_First_Testament/The_First_Testament_schema_336.png",
     "source_sha256": "a5c4f1948e041e2fc47913166e28899ceadff6ba5916b6213514311cd705141b",
     "status": "SCHEMA_EDITORIALE"
+  },
+  {
+    "id": "TESTAMENT-ART-337",
+    "src": "assets/first-testament-illustrazione-337.webp",
+    "caption": "The First Testament — possibile rappresentazione interiore del sapere; non un libro fisico o una fonte autonoma",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/The_First_Testament/01_The_First_Testament_rappresentazione_interiore_v1.png",
+    "source_sha256": "283fa7941fd10aedb63efe08f083440da320190a32b5e9ef9010a06f64e42bb4",
+    "status": "RAPPRESENTAZIONE_COGNITIVA_ILLUSTRATIVA"
   }
 ]
