@@ -6915,8 +6915,26 @@
       "raw": "fonti/1bdc92d416b3c0d3.md",
       "sha256": "5b0d2ad405127a25b01cd25bf718b8a32a360192a1e631890d3e02029b06da02",
       "bytes": 1275
+    },
+    {
+      "source": "336_Completamento_illustrativo_fazioni_e_Testament.md",
+      "title": "Completamento illustrativo VIS-336",
+      "group": "Documenti riservati e conduzione",
+      "url": "34d130846d12127d.html",
+      "raw": "fonti/34d130846d12127d.md",
+      "sha256": "9de91c717bfe7e6983082c86deda659d4a5d26c5a1b204aede0815da43a05d67",
+      "bytes": 1574
+    },
+    {
+      "source": "CANONE_VIGENTE/Completamento_visuale_336.json",
+      "title": "Registro delle immagini VIS-336",
+      "group": "Documenti riservati e conduzione",
+      "url": "d7811e7f5cf8e823.html",
+      "raw": "fonti/d7811e7f5cf8e823.json",
+      "sha256": "195aa7d07b4ed917a1c3ab32ffcfa3108b32f4c42049e32cbe56a26b14a15815",
+      "bytes": 5929
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",
-  "handoff_revision": 334
+  "handoff_revision": 336
 }
