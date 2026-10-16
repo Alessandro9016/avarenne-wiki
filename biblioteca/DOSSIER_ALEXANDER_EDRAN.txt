@@ -1,20 +1,24 @@
-DOSSIER PERSONAGGIO — ALEXANDER VALCIENNE / EDRAN VAEL — EDIZIONE 328
+DOSSIER PERSONAGGIO — ALEXANDER VALCIENNE / EDRAN VAEL
+CONSEGNA 329 — CANONE 328 — CONOSCENZE PERSONALI E DOTAZIONE INIZIALE
+Wiki pubblica: https://alessandro9016.github.io/avarenne-wiki/
 
-Stato iniziale: non sostituisce i checkpoint successivi. I testi marcati GIOCATORE sono conoscenze personali disponibili; informazioni riservate aggiuntive vanno recuperate dal Narratore nella biblioteca e non comunicate automaticamente al protagonista.
+Una sola persona: Edran, nel corpo del defunto Alexander. Memorie autobiografiche del duca integrali fino alla perdita di coscienza; nessuna seconda anima o voce interna. Cinque Effigi proprie IV: Cradle, Ruin, Scroll, Halo, Heart. Solo i presupposti di Cradle/Ruin sono esclusivi; non conferiscono esercizio VII. Ruin richiede contatto fisico pertinente a ogni stadio, senza salti remoti del percorso di distruzione.
+Questo dossier descrive il punto iniziale; i checkpoint successivi aggiornano la continuità. Conservare la distinzione fra esperienza personale, resoconto ricordato, diagnosi possibile e fatto ignoto. Un ricordo fedele può contenere una menzogna ascoltata. La precisione delle memorie non rivela i segreti contemporanei dei PNG.
+Il Narratore recupera separatamente dalla biblioteca la verità della caduta, le sorti moderne degli antichi compagni e le agende attuali. Il registro generale completo resta nella biblioteca, non viene qui trasferito nelle conoscenze del personaggio.
+Le sezioni seguenti riproducono le fonti personali vigenti. Indicazioni di produzione presenti negli originali non sono eventi giocati. Il repertorio tecnico può essere conosciuto attraverso il Testament senza essere tutto esercitabile. Nessuna abilità V–VII è disponibile all'apertura.
 
-REGISTRO DI PRECEDENZA — BIBLIOTECA 328
-I testi integrali sottostanti conservano le fonti di lavoro. Non ogni frase di progettazione è un fatto avvenuto.
-1. Le correzioni esplicite dell’utente e i checkpoint successivi stabiliscono la continuità giocata. Un checkpoint non cambia da solo le regole generali del sistema.
-2. Al tempo iniziale non esiste alcuna integrazione cosmica completa. Helyr ha tre Sovranità e accesso parziale alla Root; non è Continuum completo. Talren e Neral non sono integrazioni complete. I residui contrari nei documenti 98, 153 e 199 sono superati.
-3. Ruin richiede contatto fisico pertinente a ogni stadio. Eventuali vecchi riferimenti a Erasure Field a distanza nel documento 81 non concedono gittata libera. La propagazione richiede continuità effettivamente distrutta.
-4. I manuali consolidati delle 23 Effigi e Progressioni_effigi.json prevalgono sulle bozze precedenti. Le abilità sono cumulative; conoscere uno stadio non significa possederlo.
-5. Edran è l’unica persona nel corpo del defunto Alexander. Nessuna seconda anima, fusione o voce interna. Alexander è il personaggio del giocatore; Elias è il protagonista editoriale della possibile novel.
-6. Gli archi futuri sono possibilità di progetto, non eventi compiuti o risultati obbligatori. Nessuna scelta del giocatore è già decisa.
-7. Questa biblioteca riproduce il catalogo consolidato 318 aggiornato con i dati correnti; l’archivio delle bozze superate non entra nel canone attivo. I documenti operativi possono contenere segreti che il personaggio non conosce.
-8. Le illustrazioni non attribuiscono poteri aggiuntivi. I collegamenti locali non sono consultabili da chat esterne. La pubblicazione e la prova di lettura esterna restano da completare.
-
-
-
+INDICE DELLE FONTI PERSONALI INCLUSE
+- GIOCATORE_273_Rete_civile_di_Alexander.md — https://alessandro9016.github.io/avarenne-wiki/biblioteca/5f168e937d0dde45.html
+- GIOCATORE_278_Affetti_antichi_e_longevita.md — https://alessandro9016.github.io/avarenne-wiki/biblioteca/8c178cb569b24950.html
+- GIOCATORE_279_Althene_relazione_antica_ricordata.md — https://alessandro9016.github.io/avarenne-wiki/biblioteca/9a5ae473841562c8.html
+- GIOCATORE_77_Identita_di_Edran_e_Alexander.md — https://alessandro9016.github.io/avarenne-wiki/biblioteca/f4361f9c230624de.html
+- GIOCATORE_78_Prima_vita_e_ricordi_consolidati.md — https://alessandro9016.github.io/avarenne-wiki/biblioteca/1c92e0e2891f2972.html
+- GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md — https://alessandro9016.github.io/avarenne-wiki/biblioteca/7c3451f8ab2db60a.html
+- GIOCATORE_80_Legami_antichi_che_ricordi.md — https://alessandro9016.github.io/avarenne-wiki/biblioteca/504ddcfb8b237b69.html
+- GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md — https://alessandro9016.github.io/avarenne-wiki/biblioteca/e2ee3082cb32202b.html
+- GIOCATORE_82_Recupero_delle_antiche_capacita.md — https://alessandro9016.github.io/avarenne-wiki/biblioteca/961d1d312fc9da50.html
+- GIOCATORE_83_Matrice_delle_conoscenze_personali.md — https://alessandro9016.github.io/avarenne-wiki/biblioteca/f0892959dede90b7.html
+- GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md — https://alessandro9016.github.io/avarenne-wiki/biblioteca/41af70d04909ccff.html
 
 ===== GIOCATORE_273_Rete_civile_di_Alexander.md =====
 # La rete civile di Alexander — versione vigente 1.0
@@ -152,7 +156,7 @@ Non sai dal solo ricordo se Althene abbia cercato una spiegazione, quanto abbia 
 ===== GIOCATORE_77_Identita_di_Edran_e_Alexander.md =====
 # Identità di Edran e Alexander — versione 1.0
 
-Milestone 6. Conoscenze personali del giocatore; nessun segreto sulla sorte degli antichi compagni. Le scelte del giocatore prevalgono. [Scheda operativa](GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md), [matrice del sapere](GIOCATORE_83_Matrice_delle_conoscenze_personali.md).
+Milestone 6. Conoscenze personali del giocatore; nessun segreto sulla sorte degli antichi compagni. Le scelte del giocatore prevalgono. [Scheda operativa](https://alessandro9016.github.io/avarenne-wiki/biblioteca/e2ee3082cb32202b.html), [matrice del sapere](https://alessandro9016.github.io/avarenne-wiki/biblioteca/f0892959dede90b7.html).
 
 ## PRO-01 — Una sola persona
 
@@ -182,7 +186,7 @@ Conoscere una competenza non significa inventarne la padronanza. Alexander sapev
 
 Edran era orgoglioso, sarcastico, capace di generosità e durezza. Amava il suo popolo e ricordava la violenza patita; non considerava ogni nemico un malinteso da risolvere con gentilezza. Poteva creare riparo e futuro, oppure porre termine a ciò che giudicava intollerabile.
 
-Questa dualità appartiene a una persona coerente. La misericordia non spegneva la capacità distruttiva; la vendetta non cancellava ogni affetto. Le sue scelte passate hanno responsabilità reali, descritte nella [biografia 78](GIOCATORE_78_Prima_vita_e_ricordi_consolidati.md). Le reazioni presenti, l'interpretazione del passato e ogni obiettivo futuro restano al giocatore.
+Questa dualità appartiene a una persona coerente. La misericordia non spegneva la capacità distruttiva; la vendetta non cancellava ogni affetto. Le sue scelte passate hanno responsabilità reali, descritte nella [biografia 78](https://alessandro9016.github.io/avarenne-wiki/biblioteca/1c92e0e2891f2972.html). Le reazioni presenti, l'interpretazione del passato e ogni obiettivo futuro restano al giocatore.
 
 ## Titoli e riconoscimento
 
@@ -275,7 +279,7 @@ Riconoscesti una manipolazione. Non vedesti ogni luogo della rete e non assistes
 ===== GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md =====
 # Alexander Valcienne — memorie e vita civile — versione 1.1
 
-Milestone 6. Tutto ciò che segue era noto al duca o è direttamente verificabile al risveglio nelle condizioni indicate. Non rivela fatti che Alexander ignorava. [Identità unica](GIOCATORE_77_Identita_di_Edran_e_Alexander.md).
+Milestone 6. Tutto ciò che segue era noto al duca o è direttamente verificabile al risveglio nelle condizioni indicate. Non rivela fatti che Alexander ignorava. [Identità unica](https://alessandro9016.github.io/avarenne-wiki/biblioteca/f4361f9c230624de.html).
 
 ## La famiglia
 
@@ -324,7 +328,7 @@ Nessuna reliquia del vecchio Sovereign è assegnata come inventario noto per il 
 
 ## Raccordo vigente REV-CIV-01
 
-La rete familiare, amicale e matrimoniale è integrata in [Rete civile di Alexander](GIOCATORE_273_Rete_civile_di_Alexander.md). Il fidanzamento Belcour non è un matrimonio celebrato e non modifica cassa, debito, organico o tutela. Le memorie pre-coma restano integrali.
+La rete familiare, amicale e matrimoniale è integrata in [Rete civile di Alexander](https://alessandro9016.github.io/avarenne-wiki/biblioteca/5f168e937d0dde45.html). Il fidanzamento Belcour non è un matrimonio celebrato e non modifica cassa, debito, organico o tutela. Le memorie pre-coma restano integrali.
 
 
 ===== GIOCATORE_80_Legami_antichi_che_ricordi.md =====
@@ -434,9 +438,9 @@ Althene fu anche tua amante; il rapporto era ancora in corso alla tua morte. Con
 ===== GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md =====
 # Alexander — dotazione iniziale e capacità pratiche — versione consolidata 2.0
 
-Milestone 6. Scheda dell’apertura allineata alle Effigi e alle correzioni approvate dal giocatore. [Regole comuni](GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md), [progressioni dei cinque nuclei](63_Indice_delle_Effigi.md). Tutte le tecniche I–IV delle schede 41–45 sono esercitabili: gli esempi seguenti non sono una selezione che cancella il resto del repertorio.
+Milestone 6. Scheda dell’apertura allineata alle Effigi e alle correzioni approvate dal giocatore. [Regole comuni](https://alessandro9016.github.io/avarenne-wiki/biblioteca/818b3fde8e2c3ce9.html), progressioni dei cinque nuclei (fonte da cercare nel manifesto: 63_Indice_delle_Effigi.md). Tutte le tecniche I–IV delle schede 41–45 sono esercitabili: gli esempi seguenti non sono una selezione che cancella il resto del repertorio.
 
-I nomi applicativi presenti qui descrivono usi del repertorio cumulativo, non nuovi sblocchi. Per nomi specifici e competenze vigenti: [indice 316](GIOCATORE_316_Indice_definitivo_Effigi_e_stadi.md).
+I nomi applicativi presenti qui descrivono usi del repertorio cumulativo, non nuovi sblocchi. Per nomi specifici e competenze vigenti: [indice 316](https://alessandro9016.github.io/avarenne-wiki/biblioteca/d6ad4661cc440ada.html).
 
 ## Stato iniziale
 
@@ -546,7 +550,7 @@ Non sono assegnati uno spazio personale illimitato, una città nascosta controll
 
 Attacchi di pari o superiore Quality, appropriazione di accessi, danno spirituale e contesa della continuità possono ferirti. Distruzione di un corpo non equivale sempre a estinzione, ma al grado IV non hai ancora piena autonomia angelica garantita oltre qualunque perdita. Heart può riattivare una continuità ancora raggiunta; Ruin che la annulla davvero non lascia un bersaglio da restaurare.
 
-La vecchia catastrofe non si ripete automaticamente appena usi potere. Le cause riservate del ritorno non sono una maledizione inventata per spegnere le difese o obbligarti a un arco. Il [recupero 82](GIOCATORE_82_Recupero_delle_antiche_capacita.md) distingue ciò che puoi diagnosticare dalle verità ancora ignote.
+La vecchia catastrofe non si ripete automaticamente appena usi potere. Le cause riservate del ritorno non sono una maledizione inventata per spegnere le difese o obbligarti a un arco. Il [recupero 82](https://alessandro9016.github.io/avarenne-wiki/biblioteca/961d1d312fc9da50.html) distingue ciò che puoi diagnosticare dalle verità ancora ignote.
 
 ## Accesso intrinseco attuale a The Origin
 
@@ -601,7 +605,7 @@ Rango IV in cinque Effigi, stessa persona, The Origin, First Testament, Reserve 
 ===== GIOCATORE_82_Recupero_delle_antiche_capacita.md =====
 # Recupero delle antiche capacità — versione 1.0
 
-Milestone 6. Metodi conosciuti dal protagonista, senza occupanti moderni o ubicazioni segrete. [Regole di avanzamento](GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md), [fonte](GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md), [dotazione](GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md).
+Milestone 6. Metodi conosciuti dal protagonista, senza occupanti moderni o ubicazioni segrete. [Regole di avanzamento](https://alessandro9016.github.io/avarenne-wiki/biblioteca/d86901e95ffd9a70.html), [fonte](https://alessandro9016.github.io/avarenne-wiki/biblioteca/41af70d04909ccff.html), [dotazione](https://alessandro9016.github.io/avarenne-wiki/biblioteca/e2ee3082cb32202b.html).
 
 ## Che cosa stai recuperando
 
@@ -669,7 +673,7 @@ Nessuna spiegazione riservata costituisce una seconda volontà che decide se puo
 ===== GIOCATORE_83_Matrice_delle_conoscenze_personali.md =====
 # Matrice delle conoscenze personali — versione 1.0
 
-Milestone 6. Fonte per distinguere sapere del personaggio, verità autoriale e credenza. [Testament](GIOCATORE_68_The_First_Testament_consultazione.md), [passato](GIOCATORE_78_Prima_vita_e_ricordi_consolidati.md), [vita civile](GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md).
+Milestone 6. Fonte per distinguere sapere del personaggio, verità autoriale e credenza. [Testament](https://alessandro9016.github.io/avarenne-wiki/biblioteca/1e2614e03cb15fc3.html), [passato](https://alessandro9016.github.io/avarenne-wiki/biblioteca/1c92e0e2891f2972.html), [vita civile](https://alessandro9016.github.io/avarenne-wiki/biblioteca/7c3451f8ab2db60a.html).
 
 ## Categorie
 
@@ -725,3 +729,197 @@ Per nuove conoscenze: ID del fatto, persona che lo apprende, fonte, momento, con
 ## Stati dei PNG
 
 Famiglia e personale conoscono Alexander e la sua crisi, non Edran. Le persone antiche non apprendono il ritorno solo perché il giocatore ha aperto gli occhi. Le comunità che custodiscono un nome non ricevono automaticamente il segnale di resurrezione. Ogni riconoscimento futuro richiede contatto, prova o esercizio pertinente.
+
+===== GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md =====
+# The Origin — manifestazioni e fenomeni — versione 1.1
+
+Milestone 5. Dossier tecnico, non scheda della dotazione iniziale. [Fondamento vigente](https://alessandro9016.github.io/avarenne-wiki/biblioteca/c59032660a875bac.html), [integrazione](https://alessandro9016.github.io/avarenne-wiki/biblioteca/180c93d2755c934e.html), [continuità](https://alessandro9016.github.io/avarenne-wiki/biblioteca/8750aa0e6adb546c.html).
+
+## ROOT-01 — Natura e origine
+
+The Origin è la Root di The Sovereign. La configurazione della fonte stessa è nata con il protagonista nella sua esistenza metafisica. The Depth ne rende possibile il principio: non era una fonte esterna che lui ha trovato, ingerito o dalla quale è emerso. Non è un organo aggiuntivo, un secondo abitante del corpo o una divinità che gli parla.
+
+L'origine innata non rende ogni corpo successivo capace di sostenere immediatamente l'intera integrazione. Restano distinti esistenza della Root, relazione personale, accessi operativi e capacità esercitabile. Il punto 6 e il dossier 81 definiscono questi stati per il ritorno. Questo dossier non assegna una soglia iniziale né indebolisce retroattivamente la sua antica condizione Axial.
+
+La Root non appartiene a una coordinata materiale fissa. Una manifestazione può essere presente in un luogo, ma quella posizione non contiene per forza l'intera fonte. Una sua emanazione può sopravvivere come rapporto investito senza diventare un'altra Origin indipendente.
+
+## Topologia operativa
+
+The Origin permette che concezione, produzione, espressione, manifestazione, continuità e termine siano rapporti di uno stesso esercizio. Le cinque Effigi sostengono questa integrazione; non diventano cinque stanze obbligatorie da attraversare in ordine.
+
+Si distinguono tre zone **funzionali**, non tre nuove autorità:
+
+- **Internal Nexus:** rapporto della Root con l'esistenza personale originaria. Non è un piccolo cuore estraibile. Un'aggressione deve raggiungere e contendere questa relazione, non individuare una cavità anatomica.
+- **Working Boundary:** confine attraverso cui un esercizio investe una manifestazione, un corpo o un dominio. Può essere circoscritto a una mano o esteso a un'opera cosmica secondo capacità e investimento.
+- **Derivative Interface:** accesso esterno sostenuto o residuo che conserva un rapporto autentico con la fonte. Può trasmettere una Pattern o un'alimentazione delimitata; non attribuisce la pienezza dell'Axial al visitatore.
+
+Queste etichette permettono di registrare danni differenti. Isolare un'interfaccia può interrompere un canale lasciando intatto il rapporto interno. Danneggiare il Working Boundary può limitare l'esercizio senza dimostrare l'estinzione della persona.
+
+## Manifestazioni percettive
+
+La firma figurativa coerente è un **orizzonte luminoso aperto su una superficie senza forma**, con figure che acquistano contorni e lacune nelle quali i contorni cessano. Non è un mare nero, una tavoletta di pietra o una sala del trono obbligatoria. Può essere resa da Halo come immagine visibile, avvertita attraverso un accesso spirituale o organizzata come interfaccia personale.
+
+L'immagine non è la fonte stessa. Un simulacro può copiarla. La diagnosi autentica cerca l'operazione congiunta: produzione reale, termini selettivi, manifestazione interagibile e continuità sostenuta. Una luce intensa sola prova un fenomeno luminoso, non The Origin.
+
+Il protagonista non deve manifestare l'orizzonte ogni volta che crea un oggetto. Può operare attraverso un corpo normale e una presenza contenuta. La spettacolarità è una scelta di esercizio, non un consumo obbligatorio né una vulnerabilità universale.
+
+## OR-01 — Forming Front
+
+**Fenomeno:** una superficie investita produce forme e potenza secondo configurazioni concepite, attraverso un rapporto effettivo alla Root. Il risultato può essere materia indipendente oppure un costrutto mantenuto: va dichiarato quale.
+
+**Applicazione concreta:** una camera di lavoro può far emergere recipienti, strumenti e strutture reali; una manifestazione cosmica può produrre massa e sorgenti energetiche secondo Cradle e Fulfilment. L'accesso non obbliga ogni prodotto a dissolversi quando la camera chiude.
+
+**Diagnosi:** inventario della massa prodotta, stabilità fuori dalla camera, tracce di investimento e continuità della sorgente. **Contesa:** avversario capace di contendere produzione o accesso può interrompere il fronte; deve raggiungere ciò che attacca. **Residuo:** prodotti indipendenti restano, costrutti mantenuti seguono la perdita del sostegno. Causa: esercizio generativo investito. Conseguenza: nuova sostanza. Collegamento: Cradle e Working Boundary.
+
+## OR-02 — Ending Front
+
+**Fenomeno:** cessazione selettiva di sostanza, manifestazioni o continuità raggiunte secondo Ruin e integrazione. Non è combustione obbligatoria, disintegrazione in polvere o trasporto dei rifiuti altrove.
+
+**Applicazione:** il bicchiere creato viene realmente annullato quando non serve; un'invasione raggiunta può essere terminata invece di essere soltanto respinta. Gli eventi e i prodotti già indipendenti dell'invasione non spariscono automaticamente.
+
+**Diagnosi:** scomparsa senza destinazione materiale identificabile e interruzione pertinente della configurazione. Mancanza di tracce non basta a distinguere annullamento, occultamento o Gate. **Contesa:** difesa del bersaglio, accesso e profondità. **Residuo:** la lacuna e gli effetti su ciò che resta possono essere osservabili; non rimane obbligatoriamente nutrimento per Maw. Causa: esercizio di termine. Conseguenza: reale assenza del bersaglio raggiunto. Collegamento: Ruin e OR-01.
+
+## OR-03 — Manifestation Aperture
+
+**Fenomeno:** un esercizio comune rende un'operazione interagibile in più modalità, secondo Halo e le competenze effettive. Non rende qualsiasi fantasia una divinità.
+
+**Applicazione:** una difesa può incontrare la componente corporea e spirituale di un assalto invece di bloccarne soltanto il metallo. Una presenza può parlare e agire attraverso un corpo contenuto mentre manifesta altrove un'opera investita.
+
+**Rischio:** chi apre un canale profondo espone una relazione realmente contendibile. Il rischio dipende dalla configurazione; non significa che ogni interlocutore possa risalire al Core. **Diagnosi:** corrispondenze fra effetti simultanei e tracce di un esercizio comune. Collegamenti: Halo, ROUTE-05 e le contese della continuità.
+
+## OR-04 — Continuance Basin
+
+**Fenomeno:** una configurazione mantiene e ripara esercizi vitali e spirituali realmente collegati. La forma di “bacino” è una rappresentazione, non una vasca obbligatoria.
+
+**Applicazione:** un corpo leso può essere restaurato attraverso il rapporto mantenuto; il rapporto fra corporeità e centro spirituale della stessa persona può essere restaurato senza creare altri sé. Un individuo nuovo creato da Cradle resta un'altra persona, anche se riceve assistenza da questa configurazione.
+
+**Limite:** Heart deve raggiungere una continuità autentica per resuscitarla. Una Root non conserva automaticamente ogni morto che abbia conosciuto il suo portatore. **Diagnosi:** continuità dei collegamenti, riparazione effettiva e persistenza dopo la cessazione del prestito. Collegamento: Heart e [dossier 70](https://alessandro9016.github.io/avarenne-wiki/biblioteca/8750aa0e6adb546c.html).
+
+## OR-05 — Fulfilment Convergence
+
+**Fenomeno:** il rapporto completo manifesta l'operazione emergente Fulfilment. Non basta una luce più una guarigione prodotte da strumenti separati.
+
+**Applicazione:** un attacco avversario raggiunto viene analizzato e interdetto mentre una nuova struttura reale difende il bersaglio, la manifestazione spirituale viene trattata e la continuità ferita restaurata nello stesso esercizio. Queste sono funzioni possibili dell'integrazione, non un risultato garantito contro un pari.
+
+**Condizioni:** tutte le Seats del gruppo, relazione operativa alla Root, persona integrata, Capacity e accesso adeguati. Un accesso incompleto conserva solo gli esercizi realmente disponibili. **Rischio:** tentare simultaneità superiore alla tenuta può produrre Backflow o Fracture; non promuove automaticamente il portatore.
+
+## Consultazione, controllo e trasmissione
+
+The First Testament può descrivere e aiutare a diagnosticare gli esercizi; non prende il comando della Root. La relazione del protagonista con The Origin non dipende da recitare un nome segreto ogni mattina. Comandi, sigilli e interfacce possono organizzare un accesso, ma il funzionamento deriva dalla configurazione reale.
+
+Un prestito da una Derivative Interface registra Quality, Capacity, Reserve, Load, durata e cessazione. Può essere potente senza attribuire una Seat al beneficiario. Un Medium compatibile può guidare un'incorporazione secondo A-01–06; la prova di separazione resta necessaria. Nessun amico riceve gratuitamente le cinque Effigi complete.
+
+## Isolamento, appropriazione e successione
+
+Chi conquista un'interfaccia può controllarne flusso e uso se la contesa riesce. Non riscrive l'origine della Root, non diventa il protagonista e non eredita il Testament per osmosi. Il rapporto innato può essere raggiunto o isolato con un'aggressione pertinente: “interno” non significa impossibile da colpire.
+
+Se la continuità originaria viene davvero estinta, eventuali accessi possono restare contendibili. Una successione non resuscita il primo portatore e non fa nascere un secondo originale. L'assetto di un eventuale successore richiederebbe effettiva integrazione delle Seats e accesso alla stessa Root, non una seconda Root aggiunta al catalogo.
+
+Le condizioni reali della caduta e del ritorno non sono stabilite qui. Il punto 6 le applicherà a questa struttura e le discuterà con il giocatore negli aspetti del suo personaggio, mantenendo riservate le verità ignote.
+
+## Tracce e impatto
+
+Un'opera può conservare una firma compatibile senza essere un Anchor personale o un accesso attivo. Il Narratore deve separare prodotto, investimento, connessione e continuità. Un pianeta modellato anticamente può continuare a esistere senza essere il corpo del suo autore.
+
+🟢–🟡 per piccole manifestazioni controllate; 🟠 per una rete d'accessi; 🔴 per esercizio cosmico o integrazione completa; ⚫ quando una cessazione è effettivamente irreversibile. L'origine innata non obbliga il protagonista a ricreare il mondo ogni volta che recupera potere.
+
+Precisazione personale adottata nel punto 6: Edran nella prima vita nacque non risvegliato, senza poteri esercitabili. Portava già fonte, sapere e presupposti esclusivi di Cradle/Ruin, poi passò a I e crebbe. I due presupposti sono rimasti nella sua continuità attraverso la caduta; per questo nessun altro è diventato VII di Cradle/Ruin durante lassenza. Sono distinti da pieno esercizio divino e dai rapporti di Halo/Heart/Scroll. The Origin sostiene il proprio gruppo senza rendere compatibili incorporazioni di altre famiglie.
+
+
+## Che cosa rende speciale The Origin
+
+The Origin è una **sorgente di potenzialità soprannaturale non ancora determinata**, dotata di un proprio interno e di un confine operativo. Le Effigi danno forma all’esercizio; The Origin fornisce il luogo sorgente, alimentazione convertibile, separazione fra interno ed esterno e derivazioni autentiche. La sorgente non è una persona né un archivio che sa ogni cosa.
+
+Un bicchiere viene creato da Cradle. Una guarigione viene effettuata da Heart. Entrare nell’interno della fonte, attingerne riserva o chiudere una derivazione sono funzioni della Root: non si ottengono dal solo possesso delle cinque Effigi. Fulfilment è l’esercizio emergente completo di quel gruppo attraverso Origin; non è sinonimo dell’intera Root.
+
+## OP-01 — Inner Expanse: l’interno della sorgente
+
+**Capacità:** organizzare un ambiente interno alla Root, separato dallo spazio ordinario. L’orizzonte di forme e lacune già descritto diventa la resa percettiva di una topologia reale della fonte. Non è una stanza anatomica né un’immagine mentale: ha realtà fisica e topologia propria, senza occupare il volume ordinario del torace.
+
+**Accesso attuale:** Alexander concentra l’attenzione sul rapporto innato e apre una interfaccia mentale locale, deliberatamente, nell’ordine di alcuni secondi. Mantiene il corpo fuori, con difese stabili; l’interfaccia gli consente osservazione e lavoro interno, non un secondo Alexander esterno che cammina mentre lui dorme. Riferimento operativo: una camera di lavoro figurativamente pari a 30 m di diametro, espandibile con la tenuta; misura di organizzazione, non di universi posseduti.
+
+**Esempio concreto:** può osservare cinque esercizi in compartimenti distinti, provare una configurazione controllata e chiuderla senza riversarla nella camera di Rovenne. Una prova interna può comunque sovraccaricare il centro: non è simulazione senza costo o indistruttibile ambiente di allenamento.
+
+**Antica pienezza:** interni vasti e compartimenti capaci di sostenere opere o ospiti tramite accessi pertinenti. Questo non concede automaticamente teleportazione, importazione di corpi o transito fra qualunque luogo del mondo. Per gli oggetti materiali si usa la soglia corporea delimitata di seguito: il trasferimento è reale e si registra, non è duplicazione di inventario.
+
+**Difesa e limite:** isolare l’interno scherma ciò che è davvero dentro; non impedisce di sparare al corpo rimasto fuori. Un ospite non può essere convocato solo conoscendone il nome. Nessun club nasce qui per decisione automatica: eventuale apertura a ospiti sarebbe scelta del giocatore e funzione da delimitare ulteriormente.
+
+## OP-02 — Wellspring: alimentazione dalla fonte
+
+**Capacità:** convertire potenzialità della Root in riserva utilizzabile dai cinque esercizi compatibili. È alimentazione, non materia già prodotta, non una Seat e non apprendimento di tecniche.
+
+**Accesso attuale:** il collegamento innato può alimentare il funzionamento Routine e recuperare gradualmente la Reserve consumata quando il centro non è sovraccarico. Una presa maggiore sostiene un esercizio Demanding più a lungo, impegnando capacità nel mantenimento. Non riduce a zero il Load e non alza la Quality da IV a VII. Alimentazione presente non significa che la stessa persona possa gestire cento grandi operazioni contemporanee.
+
+**Esempio concreto:** Alexander mantiene un riparo investito mentre ristabilisce la riserva; non deve procurarsi ogni volta combustibile mistico esterno. Se usa tutte le componenti al massimo, può saturare il centro pur avendo fonte disponibile. La limitazione è portata di esercizio e conversione, non un numero arbitrario di bicchieri al giorno.
+
+**Antica pienezza:** alimentazione cosmica compatibile con opere stellari e Fulfilment, attraverso una tenuta Axial. La sorgente è enorme, l’accesso personale resta finito. Riserva immagazzinata in un supporto esiste soltanto nella quantità investita; non è una batteria infinita.
+
+## OP-03 — Source Boundary: separazione e protezione della sorgente
+
+**Capacità:** aprire, filtrare e chiudere il confine fra Root e manifestazione. Un rapporto entrante deve attraversare una interfaccia realmente aperta; il portatore può interrompere una derivazione propria o confinare un campione investito in un compartimento.
+
+**Accesso attuale:** su un accesso interno proprio, mantenere un confine selettivo o chiudere un canale contaminato. Funziona in difesa contro una intrusione che cerca di risalire proprio quel rapporto, non come immunità a tutti gli attacchi. Un controllo sufficiente può impedire che il danno a un supporto esterno risalga alla sorgente; se l’avversario ha già preso il rapporto interno, chiudere la porta esterna non cancella la presa.
+
+**Esempio concreto:** un campione da studiare contiene una influenza esterna; viene isolato dal resto dell’interno. Se il collegamento della custodia viene distrutto, il campione non si disperde automaticamente nel centro personale. Diagnosi e distinzione dei componenti utilizzano le competenze già possedute, non onniscienza gratuita.
+
+**Antica pienezza:** confini profondi capaci di opporre isolamento a intrusioni cosmiche e di delimitare domini. Una Root pari può contendere accesso e chiusura. Non è legge universale di Crown e non può sigillare un dio mai raggiunto.
+
+## OP-04 — Root Pressure: pressione della sorgente
+
+**Capacità:** esporre un accesso raggiunto alla potenzialità non organizzata della Root. Una configurazione che vi entra deve reggere quella pressione o viene disgregata, destabilizzata o trascinata nel flusso. La causa è contatto con la sorgente, distinta da un raggio Halo o dall’annullamento selettivo Ruin.
+
+**Accesso attuale:** aprire deliberatamente una piccola superficie di pressione presso il proprio Working Boundary, riferimento contatto o pochi metri, Demanding. Può respingere o lesionare una manifestazione spirituale che investe quel confine e deteriorare un oggetto investito catturato nell’interfaccia. Non è un colpo globale contro chiunque possieda una Effigy e non garantisce vittoria contro un pari.
+
+**Rischio concreto:** l’erogazione deve restare entro tenuta e filtro IV. Esporre troppa profondità danneggia il confine e può produrre Backflow sul portatore o sull’ambiente. La fonte non è meno vasta perché lui è IV: è l’accesso sicuro a essere limitato. Un’apertura incontrollata non gli assegna comando sulla potenza sfuggita e non è una tecnica VII gratuita.
+
+**Esempio concreto:** una sonda spirituale tenta di penetrare l’interfaccia; Alexander può chiuderla o investire l’ingresso di pressione. Una pistola a venti metri non viene fermata da questo soltanto: per quella rimangono i mantelli personali.
+
+**Antica pienezza:** esposizione della pressione tramite grandi confini investiti, offensiva e difensiva di scala cosmica su teatri effettivamente raggiunti. La profondità non rende la sorgente incontendibile da un’altra potenza Axial.
+
+## OP-05 — Source Seal: autenticità delle derivazioni
+
+**Capacità:** stabilire una derivazione autentica della Root con funzione e accesso delimitati; la relazione conserva una firma verificabile e può essere revocata dal concedente che ne mantiene controllo. Non è proprietà morale o riconoscimento automatico del “vero Creatore”.
+
+**Accesso attuale:** alimentare un supporto compatibile oppure concedere un canale circoscritto di studio. Un beneficiario può usare quanto configurato, non tutte le cinque Effigi, non Origin intera e non le Seats. Attivazione deliberata; mantenimento e capacità impegnati registrati. Nessun prestito incorpora automaticamente una nuova Effigy.
+
+**Esempio concreto:** una lampada investita riceve alimentazione delimitata da Origin; se il collegamento viene chiuso rimane una lampada e conserva soltanto l’eventuale riserva già depositata. Una copia visivamente identica non possiede il rapporto autentico. La firma dimostra derivazione pertinente, non l’intera identità del proprietario attuale.
+
+**Antica pienezza:** interfacce e reti di derivazioni assai più vaste, senza creare altre Origin indipendenti o altri sé del Sovereign. Appropriarsi di un supporto non conquista necessariamente la Root; una presa effettiva su un canale può però essere pericolosa.
+
+## Compatibilità e stabilità: beneficio aggiuntivo, non unica funzione
+
+Il rapporto innato organizza le cinque componenti personali e favorisce una combinazione stabile. Non rende universalmente sicuro aggiungerne cinque a chiunque; appartenenza di gruppo, incorporazione, preparazione e profondità rimangono necessarie. Per Edran le condizioni eccezionali sono parte della nascita e della continuità già adottate. Crown rimane incompatibile con la sua incorporazione personale.
+
+Le altre sei Roots hanno funzioni e rapporti propri. Nessuna persona deve possedere Origin per diventare un diverso Archon, né tutte le Roots sono nate dentro qualcuno. Queste funzioni non vengono assegnate automaticamente alle altre fonti.
+
+## Memoria, conservazione e morte
+
+L’interno può conservare investimenti e supporti realmente predisposti. **Non è automaticamente un deposito dell’anima che sopravvive a qualsiasi distruzione.** Un ripiegamento personale richiede struttura e continuità genuine. Alexander non riceve una nuova ancora attiva al risveglio o una seconda vita da consumare: rimane la dotazione 81 e il ritorno già fissato.
+
+Un First Testament descrive; Origin alimenta e apre rapporti; Cradle genera; Heart restaura continuità raggiungibili. Un ricordo nell’interno non permette di ricreare la stessa persona definitivamente estinta. Un prodotto indipendente può sopravvivere alla chiusura dell’accesso, un effetto mantenuto segue la sua dipendenza.
+
+## Accesso corporeo attuale — O-ENTRY-01
+
+Alexander Ready può aprire deliberatamente una soglia fra il luogo materiale che occupa e una camera interna filtrata. Preparazione di riferimento: circa dieci secondi senza contesa; imbocco entro tre metri dal corpo, larghezza fino a due metri, capacità di riferimento una persona con carico complessivo fino a 300 kg per transito. Parametri di lavoro della configurazione IV, non misura dell’intera Root. Trasferire o mantenere la soglia è Demanding; consultazione ordinaria e oggetti già depositati non consumano la stessa quota di carico del trasferimento.
+
+L’ingresso trasporta l’unico corpo: non lascia una copia fuori. La soglia registra il punto esterno di ritorno e può essere chiusa dall’interno e riaperta verso quel punto se il rapporto rimane disponibile. Nessun arrivo remoto nuovo viene inventato perché Alexander desidera uscire nella capitale. Spostare un oggetto simile al segno d’ingresso non sposta la destinazione registrata.
+
+La camera di lavoro è materialmente configurata e protetta, con superfici, luce, atmosfera e temperatura adatte al corpo. Riferimento iniziale: fino a trenta metri di diametro di area organizzata, non la totalità della sorgente. Depositare un quaderno o un attrezzo trasferisce quel bene, non la sua immagine. L’oggetto torna all’esterno soltanto tramite un trasferimento materiale. Il tempo non è sospeso: una ferita resta ferita, cibo deperisce secondo condizioni reali e un orologio ordinario continua a misurare la successione locale.
+
+La consultazione mentale è un accesso distinto e non consente di afferrare dall’esterno un oggetto conservato dentro. First Testament e ricordi possono essere organizzati tramite interfacce leggibili; registrare un ricordo crea una rappresentazione consultabile, non rende infallibile il contenuto o acquisisce memorie non possedute.
+
+Una persona esterna può essere accompagnata attraverso una soglia effettivamente aperta entro capacità e protezioni, senza ricevere la Weave o diventare parte di Alexander. Il portatore può filtrare gli ingressi, ma una forza capace di contendere soglia e rapporto può tentare intrusione. Non è una tana inviolabile; se l’uscita è isolata occorre restaurare il rapporto o ottenere un’altra via reale. È accesso alla propria fonte, non incorporazione di Astrolabe.
+
+## Archivio personale e First Testament
+
+I quaderni, oggetti e annotazioni materialmente conservati formano un archivio personale. Il Testament resta il sapere originario innato, non un nuovo libro reperito nella camera. Una interfaccia può renderne consultabili sezioni senza estrarre o trasferire il fondamento del sapere. L’archivio integra esperienza, copie e studi; non contiene automaticamente eventi moderni mai osservati. Danni a un quaderno possono perdere quella copia senza cancellare i ricordi o il Testament, salvo una aggressione specifica che raggiunga le rispettive relazioni.
+
+## Alimentazione e guarigione
+
+Wellspring alimenta e recupera riserva soprannaturale oltre la disponibilità biologica del corpo; la fonte è innata nella sua esistenza ma non è una batteria anatomica. Il recupero di energia fisicamente o spiritualmente investita sostiene i processi compatibili. Riparare lesioni richiede Heart o la tecnica pertinente: rifornire non equivale a guarire automaticamente. Una sorgente vasta non concede Quality VII al centro IV, né elimina saturazione o Load.
+
+## Dotazione e antica pienezza
+
+OP-01–05 e O-ENTRY-01 descrivono l’accesso IV corrente, con capacità e risorse condivise; non nuove Effigi, Seats o qualità superiori. Origin rimane singolare, nata con Edran. Le funzioni cosmiche complete richiedono le pienezze già previste. Fulfilment resta distinto dalle proprietà della fonte. Nessuna nuova ancora personale attiva o resurrezione di riserva è assegnata: la perdita autentica di continuità resta quella dei manuali e del ritorno già fissato.
+
+L’uso come luogo di incontri è possibile solo mediante gli accessi descritti e non è imposto al futuro gruppo. Alexander non diventa fondatore o figura centrale per possedere questo interno. La camera non sa né ospita già i futuri membri del cast.

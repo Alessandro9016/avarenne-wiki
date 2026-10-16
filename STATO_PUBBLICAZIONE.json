@@ -1,10 +1,10 @@
 {
-  "edition": 328,
-  "public_url": null,
-  "account_available": false,
-  "deployment_complete": false,
-  "external_retrieval_verified": false,
-  "suggested_service": "Netlify Free",
-  "entry_file": "index.html",
-  "narrator_entry": "biblioteca/avvio.html"
+  "content_edition": 328,
+  "handoff_revision": 329,
+  "public_url": "https://alessandro9016.github.io/avarenne-wiki/",
+  "service": "GitHub Pages",
+  "deployment_complete": true,
+  "external_retrieval_verified_by": "user report: normal ChatGPT chat succeeded",
+  "independent_agent_online_verification": false,
+  "note": "Online copy still needs the handoff 329 update to be pushed from GitHub Desktop."
 }
