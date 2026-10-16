@@ -6906,8 +6906,17 @@
       "raw": "fonti/5004156b5b884357.json",
       "sha256": "43a37190080349606104efc8d950ddd1e098db6c63b5b2c105da10653fca0041",
       "bytes": 12185
+    },
+    {
+      "source": "334_The_Unbound_Exchange_emblema.md",
+      "title": "The Unbound Exchange — emblema VIS-334",
+      "group": "Documenti riservati e conduzione",
+      "url": "1bdc92d416b3c0d3.html",
+      "raw": "fonti/1bdc92d416b3c0d3.md",
+      "sha256": "5b0d2ad405127a25b01cd25bf718b8a32a360192a1e631890d3e02029b06da02",
+      "bytes": 1275
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",
-  "handoff_revision": 333
+  "handoff_revision": 334
 }
