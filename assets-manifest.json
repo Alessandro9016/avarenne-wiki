@@ -4765,5 +4765,66 @@
     "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/02_Cast_importante/Mereth/Reth/Teren/The_Broken_Seal/CAST-497_Alise_Reth/01_Ritratto_v1.png",
     "id": "PORTRAIT-CAST-497",
     "source_sha256": "3cd31982aae013a8d78628e5823fe393e562488cc10e027dba5d59d84ee5b905"
+  },
+  {
+    "src": "assets/room-six-veduta-330.webp",
+    "caption": "Studio precedente superato — Room Six — veduta della sede iniziale",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/RELIGIONI_ISTITUZIONI_FAZIONI/ORGANIZZAZIONI/The_Unbound_Exchange/Room_Six/01_Room_Six_veduta_v1.png",
+    "id": "ROOM-SIX-330",
+    "source_sha256": "3bf9300fe6fc84c836b3a2bb7d3360eed4e26f990f747f27ac0716c3ec197692",
+    "status": "SUPERATA_DA_ROOM_331"
+  },
+  {
+    "src": "assets/alexander-incontri-riservati-330.webp",
+    "caption": "Studio precedente superato — Alexander — proposta di abbigliamento per incontri riservati; maschera facoltativa, appartenenza non stabilita",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/01_Cast_principale/CAST-001_Alexander_Valcienne/08_Abiti_incontri_riservati_proposta_v1.png",
+    "id": "ALEX-MEETING-330",
+    "source_sha256": "c3b570d84bf6bb2ff24f7169a9d618ce1881bf8c9faf5bb6b714a104a4adab20",
+    "status": "SUPERATA_DA_ROOM_331"
+  },
+  {
+    "src": "assets/room-six-veduta-331.webp",
+    "caption": "Studio superato — Studio di disposizione superato — Room Six — dodici postazioni; configurazione aperta di allestimento, con chiusure frontali mobili durante gli incontri",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/RELIGIONI_ISTITUZIONI_FAZIONI/ORGANIZZAZIONI/The_Unbound_Exchange/Room_Six/02_Room_Six_allestimento_revisionato_v2.png",
+    "id": "ROOM-SIX-331",
+    "source_sha256": "0b40d09f23a78d923fd39ea2ab31e02250714a9e7d626ea42f7ebdf14f5f5aeb",
+    "status": "STUDIO_SUPERATO_DA_ROOM_333"
+  },
+  {
+    "src": "assets/alexander-riservatezza-331.webp",
+    "caption": "Alexander — studio della copertura integrale; cabina superata, riunioni al tavolo secondo ROOM-333; nessuna adesione avvenuta",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/01_Cast_principale/CAST-001_Alexander_Valcienne/09_Incontri_riservati_copertura_integrale_v2.png",
+    "id": "ALEX-MEETING-331",
+    "source_sha256": "607b9a93bc732018a97cd9278b8718e37a970360b17345dac5fb8a2bd7264ed2"
+  },
+  {
+    "src": "assets/room-six-alcove-332.webp",
+    "caption": "Studio superato — Room Six — alcove perimetrali chiuse e tavolo centrale separato",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/RELIGIONI_ISTITUZIONI_FAZIONI/ORGANIZZAZIONI/The_Unbound_Exchange/Room_Six/03_Room_Six_alcove_perimetrali_v3.png",
+    "id": "ROOM-SIX-332",
+    "source_sha256": "aee41aab2bb7fc5bcc09d060db42858189f0989d1f5d981c9291de381aa73995",
+    "status": "STUDIO_SUPERATO_DA_ROOM_333"
+  },
+  {
+    "src": "assets/room-six-pianta-332.webp",
+    "caption": "Studio superato — Room Six — pianta funzionale quotata, riferimento per disposizione e passaggi",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/RELIGIONI_ISTITUZIONI_FAZIONI/ORGANIZZAZIONI/The_Unbound_Exchange/Room_Six/Room_Six_pianta_332.png",
+    "id": "ROOM-SIX-PLAN-332",
+    "source_sha256": "36cf2891a20d99aa6fcd1d14f6b57c65bedba745018b00561b9448a3cb87c2cb",
+    "status": "STUDIO_SUPERATO_DA_ROOM_333"
+  },
+  {
+    "src": "assets/room-six-sala-comune-333.webp",
+    "caption": "Room Six — sala comune con tavolo condiviso, senza cabine di partecipazione",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/RELIGIONI_ISTITUZIONI_FAZIONI/ORGANIZZAZIONI/The_Unbound_Exchange/Room_Six/04_Room_Six_tavolo_condiviso_v4.png",
+    "id": "ROOM-SIX-333",
+    "source_sha256": "605552436aaece32ccb1e1f307f0137d2d0e4248998b50974f75a4c91beb4374"
+  },
+  {
+    "src": "assets/room-six-pianta-333.webp",
+    "caption": "Room Six — pianta vigente con dodici posti al tavolo e due camerini di preparazione",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/RELIGIONI_ISTITUZIONI_FAZIONI/ORGANIZZAZIONI/The_Unbound_Exchange/Room_Six/Room_Six_pianta_condivisa_333.png",
+    "id": "ROOM-SIX-PLAN-333",
+    "source_sha256": "e6bc39c5ba596a882dd4273f19c399a0cabdbbbf91a260e55c008d3acbf3bf5b"
   }
 ]

@@ -6496,8 +6496,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "0161848595a41654.html",
       "raw": "fonti/0161848595a41654.md",
-      "sha256": "66a00ade227c3b8ee2506b85a3c6092cec378f7c75cfbfd3833f7dac0a029736",
-      "bytes": 6306
+      "sha256": "682a1252bd155bdcdebb32ac5cad41623866b71180e5c91615a93a602e1e529f",
+      "bytes": 6553
     },
     {
       "source": "RISERVATO_155_Indice_del_cast_centrale.md",
@@ -6858,7 +6858,56 @@
       "raw": "fonti/9aa7759436b494e1.md",
       "sha256": "b69da9381884057fe3ff2c6ad1884fb1a81944e0251a3986a9404d131b55b3dc",
       "bytes": 10149
+    },
+    {
+      "source": "RISERVATO_331_Room_Six_allestimento_e_riservatezza.md",
+      "title": "Room Six — allestimento e riservatezza, ROOM-331",
+      "group": "Documenti riservati e conduzione",
+      "url": "07a63b4380eee6cb.html",
+      "raw": "fonti/07a63b4380eee6cb.md",
+      "sha256": "06645c16cf7fba7055172d4d87777b270e2734abdceeacc7c6f21bfb897bfa5a",
+      "bytes": 5334,
+      "layout_status": "SUPERSEDED_BY_ROOM_333"
+    },
+    {
+      "source": "RISERVATO_332_Room_Six_pianta_e_funzionamento.md",
+      "title": "Room Six — pianta e funzionamento, ROOM-332",
+      "group": "Documenti riservati e conduzione",
+      "url": "a03ae04671ce2123.html",
+      "raw": "fonti/a03ae04671ce2123.md",
+      "sha256": "bc6cc466c35add653c138868180dae167890f7fb2d364ac9aa8978e140a15da9",
+      "bytes": 5968,
+      "layout_status": "SUPERSEDED_BY_ROOM_333"
+    },
+    {
+      "source": "CANONE_VIGENTE/Room_Six_geometria_332.json",
+      "title": "Room Six — verifica geometrica schematica",
+      "group": "Documenti riservati e conduzione",
+      "url": "f8efdc7d4434b630.html",
+      "raw": "fonti/f8efdc7d4434b630.json",
+      "sha256": "0fd6feeff25e54c1ef2b5896cfe8568d240df9c7498192b7e42d1cc45ef9138f",
+      "bytes": 21544,
+      "layout_status": "SUPERSEDED_BY_ROOM_333"
+    },
+    {
+      "source": "RISERVATO_333_Room_Six_sala_comune_e_copertura.md",
+      "title": "Room Six — sala comune e copertura personale, ROOM-333",
+      "group": "Documenti riservati e conduzione",
+      "url": "056201f655c71cad.html",
+      "raw": "fonti/056201f655c71cad.md",
+      "sha256": "124792e7a110c028d4fc7cd64e9d19f5362702f539336e989e9217d2801e4a1b",
+      "bytes": 7232
+    },
+    {
+      "source": "CANONE_VIGENTE/Room_Six_vigente_333.json",
+      "title": "Room Six — disposizione vigente ROOM-333",
+      "group": "Documenti riservati e conduzione",
+      "url": "5004156b5b884357.html",
+      "raw": "fonti/5004156b5b884357.json",
+      "sha256": "43a37190080349606104efc8d950ddd1e098db6c63b5b2c105da10653fca0041",
+      "bytes": 12185
     }
   ],
-  "precedence": "REGISTRO_PRECEDENZA_328.txt"
+  "precedence": "REGISTRO_PRECEDENZA_328.txt",
+  "handoff_revision": 333
 }
