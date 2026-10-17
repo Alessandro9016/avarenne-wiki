@@ -324,25 +324,27 @@
             },
             {
               "id": "EFF-03-I-M03",
-              "name": "Directed Attention",
+              "name": "Imperative Assent",
               "authority": "Will",
-              "description": "Investe un significato ricevuto per orientare sovrannaturalmente l’attenzione del destinatario: la proposta prende rilievo contro il suo precedente impulso a ignorarla. Non occorre che il Bearer sia già convincente e non serve Language.",
-              "boundary": "Influenza assenso e intenzione; non sostituisce memorie, sogni e architettura mentale Labyrinth.",
+              "description": "Impone una singola intenzione immediata e comprensibile al destinatario raggiunto. Se prevale, «posa la chiave» diventa la sua decisione di posarla, non un consiglio che può semplicemente ignorare né un movimento comandato dall’esterno. Può imporre anche una scelta attentiva come «guardami», ma la salienza non è il limite del ramo. La decisione è vissuta senza un marcatore soggettivo necessario di estraneità; la vittima può ritenerla propria.",
+              "boundary": "Occorrono una coscienza capace di deliberare, un significato effettivamente ricevuto e un accesso valido. Attivazione deliberata: le conversazioni ordinarie del Bearer non comandano per accidente. Rango, fonte, difese della volontà, profondità, durata, conflitto dell’ordine e numero di destinatari determinano la contesa; se l’imposizione prevale, la vittima non conserva un veto automatico solo perché prima non voleva eseguire. Ordini pericolosi o contrari ai valori non hanno un’immunità morale universale: la loro difficoltà appartiene alla contesa. L’azione deve restare materialmente eseguibile e non acquisisce abilità ignote; un corpo immobilizzato può voler camminare senza riuscirci. Non legge pensieri o ricordi, non ricrea il passato, non impone emozioni di attrazione e non pilota direttamente i muscoli. Resistenza e scoperta sono distinte: si può resistere o fallire la resistenza senza capire chi abbia agito. Il comando non rivela al Bearer informazioni private non altrimenti raggiunte. Il venir meno dell’investimento termina il vincolo sostenuto; ricordi degli atti compiuti, conseguenze e prove esterne restano. A I la nuova operazione è un’intenzione immediata circoscritta, non un incarico aperto che seleziona autonomamente una politica futura. Fonte, accesso e parametri iniziali restano quelli della scheda di Scroll. Un ordine contrastato non è automaticamente percepito come un attacco.",
               "source": "GIOCATORE_43_Scroll_progressione_completa.md",
               "threshold": 1,
               "quality": "Awakening",
               "source_kind": "PRIMARY_MACRO",
               "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
-              "qualitative_revision": "RAMI-23-04",
+              "qualitative_revision": "WILL-345",
               "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
-              "example": "Un interlocutore che stava guardando altrove è indotto a considerare la richiesta; una difesa della deliberazione può opporsi.",
-              "qualitative_difference": "Salienza mentale imposta, non normale eloquenza.",
-              "independence": "Significato ricevuto anche con parole ordinarie; non richiede un comando magico di Language.",
-              "standalone_domain": "Attenzione, intenzione e assenso deliberativo",
-              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+              "example": "Una guardia ha la chiave in mano. Il Bearer le dice «posala sul tavolo» investendo la frase: se vince la resistenza, la guardia decide di posarla e compie il gesto con i propri muscoli, anche se prima voleva conservarla.",
+              "qualitative_difference": "Prima imposizione deliberativa reale. L’assimilazione soggettiva appartiene già al nucleo iniziale; non viene rinviata a III.",
+              "independence": "Significato investito ricevuto tramite un accesso valido, anche mediante parole o scritte ordinarie come mezzo. Non richiede Language, fascinazione, paura o controllo motorio.",
+              "standalone_domain": "Imposizione e governo dell’assenso, dell’intenzione e della deliberazione",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata.",
+              "counterplay": "Occorrono una coscienza capace di deliberare, un significato effettivamente ricevuto e un accesso valido. Attivazione deliberata: le conversazioni ordinarie del Bearer non comandano per accidente. Rango, fonte, difese della volontà, profondità, durata, conflitto dell’ordine e numero di destinatari determinano la contesa; se l’imposizione prevale, la vittima non conserva un veto automatico solo perché prima non voleva eseguire. Ordini pericolosi o contrari ai valori non hanno un’immunità morale universale: la loro difficoltà appartiene alla contesa. L’azione deve restare materialmente eseguibile e non acquisisce abilità ignote; un corpo immobilizzato può voler camminare senza riuscirci. Non legge pensieri o ricordi, non ricrea il passato, non impone emozioni di attrazione e non pilota direttamente i muscoli. Resistenza e scoperta sono distinte: si può resistere o fallire la resistenza senza capire chi abbia agito. Il comando non rivela al Bearer informazioni private non altrimenti raggiunte. Il venir meno dell’investimento termina il vincolo sostenuto; ricordi degli atti compiuti, conseguenze e prove esterne restano. A I la nuova operazione è un’intenzione immediata circoscritta, non un incarico aperto che seleziona autonomamente una politica futura. Fonte, accesso e parametri iniziali restano quelli della scheda di Scroll. Un ordine contrastato non è automaticamente percepito come un attacco.",
+              "canonical_revision": 345
             }
           ],
-          "application_text": "### Applicazioni cumulative e scala\n\nIl corpo è umano investito. Un urto proprio o una difesa tenue richiede presa e fonte; nessun sensore permette al corpo di evitare automaticamente una pallottola. Fonte, bersaglio e ostacolo realmente raggiunti decidono l’esercizio: un campione collegato non dà tutte le informazioni sul proprietario.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Signal Reading — Information:** Da un sigillo accessibile ricava quale parte porta un comando di apertura, senza azionarlo o smontarlo.\n- **Effective Word — Language:** Una formulazione produce un impulso proprio: Cedi frattura un oggetto debole raggiunto.\n- **Directed Attention — Will:** Un interlocutore che stava guardando altrove è indotto a considerare la richiesta; una difesa della deliberazione può opporsi.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
+          "application_text": "### Applicazioni cumulative e scala\n\nIl corpo è umano investito. Un urto proprio o una difesa tenue richiede presa e fonte; nessun sensore permette al corpo di evitare automaticamente una pallottola. Fonte, bersaglio e ostacolo realmente raggiunti decidono l’esercizio: un campione collegato non dà tutte le informazioni sul proprietario.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Signal Reading — Information:** Da un sigillo accessibile ricava quale parte porta un comando di apertura, senza azionarlo o smontarlo.\n- **Effective Word — Language:** Una formulazione produce un impulso proprio: Cedi frattura un oggetto debole raggiunto.\n- **Imperative Assent — Will:** Impone una singola intenzione immediata e comprensibile al destinatario raggiunto. Se prevale, «posa la chiave» diventa la sua decisione di posarla, non un consiglio che può semplicemente ignorare né un movimento comandato dall’esterno. Può imporre anche una scelta attentiva come «guardami», ma la salienza non è il limite del ramo. La decisione è vissuta senza un marcatore soggettivo necessario di estraneità; la vittima può ritenerla propria.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
           "stage_title": "Speaker",
           "general_rank": "Awakening"
         },
@@ -388,23 +390,27 @@
             },
             {
               "id": "EFF-03-II-M03",
-              "name": "Chosen Impulse",
+              "name": "Inscribed Imperative",
               "authority": "Will",
-              "description": "Introduce un'intenzione semplice: avvicinarsi o interrompere un gesto, contendendo deliberazione.",
-              "boundary": "Influenza assenso e intenzione; non sostituisce memorie, sogni e architettura mentale Labyrinth.",
+              "description": "Deposita un imperativo di Will in un messaggio scritto o altro supporto semantico autenticamente investito, con quota e condizione di ricezione definite. Il comando viene esercitato quando il significato predisposto raggiunge una coscienza valida, anche senza una nuova direzione cosciente del Bearer. È la ricezione della volontà imposta, non la lettura ordinaria di una frase, a produrre l’obbedienza.",
+              "boundary": "Occorrono una coscienza capace di deliberare, un significato effettivamente ricevuto e un accesso valido. Attivazione deliberata: le conversazioni ordinarie del Bearer non comandano per accidente. Rango, fonte, difese della volontà, profondità, durata, conflitto dell’ordine e numero di destinatari determinano la contesa; se l’imposizione prevale, la vittima non conserva un veto automatico solo perché prima non voleva eseguire. Ordini pericolosi o contrari ai valori non hanno un’immunità morale universale: la loro difficoltà appartiene alla contesa. L’azione deve restare materialmente eseguibile e non acquisisce abilità ignote; un corpo immobilizzato può voler camminare senza riuscirci. Non legge pensieri o ricordi, non ricrea il passato, non impone emozioni di attrazione e non pilota direttamente i muscoli. Resistenza e scoperta sono distinte: si può resistere o fallire la resistenza senza capire chi abbia agito. Il comando non rivela al Bearer informazioni private non altrimenti raggiunte. Il venir meno dell’investimento termina il vincolo sostenuto; ricordi degli atti compiuti, conseguenze e prove esterne restano. La carica è realmente depositata e consumabile. Nessuna presa su chi non riceve il significato pertinente. Una copia, una citazione o una fotografia ordinaria non moltiplica automaticamente l’investimento; un nuovo vettore deve avere un rapporto magico valido. Non richiede Written Instruction di Language e non fa agire direttamente un oggetto inerte.",
               "source": "GIOCATORE_43_Scroll_progressione_completa.md",
               "threshold": 2,
               "quality": "Attunement",
               "source_kind": "PRIMARY_MACRO",
               "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
-              "qualitative_revision": "RAMI-23-04",
+              "qualitative_revision": "WILL-345",
               "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
-              "independence": "Significato ricevuto anche con parole ordinarie; non richiede un comando magico di Language.",
-              "standalone_domain": "Attenzione, intenzione e assenso deliberativo",
-              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+              "independence": "Significato investito ricevuto tramite un accesso valido, anche mediante parole o scritte ordinarie come mezzo. Non richiede Language, fascinazione, paura o controllo motorio.",
+              "standalone_domain": "Imposizione e governo dell’assenso, dell’intenzione e della deliberazione",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata.",
+              "example": "Prepara un biglietto investito con «lascia la busta sul ripiano». Quando il destinatario previsto riceve davvero quel significato, il comando prende la sua deliberazione: può decidere di lasciare la busta anche se il Bearer non gli parla in quell’istante.",
+              "counterplay": "Occorrono una coscienza capace di deliberare, un significato effettivamente ricevuto e un accesso valido. Attivazione deliberata: le conversazioni ordinarie del Bearer non comandano per accidente. Rango, fonte, difese della volontà, profondità, durata, conflitto dell’ordine e numero di destinatari determinano la contesa; se l’imposizione prevale, la vittima non conserva un veto automatico solo perché prima non voleva eseguire. Ordini pericolosi o contrari ai valori non hanno un’immunità morale universale: la loro difficoltà appartiene alla contesa. L’azione deve restare materialmente eseguibile e non acquisisce abilità ignote; un corpo immobilizzato può voler camminare senza riuscirci. Non legge pensieri o ricordi, non ricrea il passato, non impone emozioni di attrazione e non pilota direttamente i muscoli. Resistenza e scoperta sono distinte: si può resistere o fallire la resistenza senza capire chi abbia agito. Il comando non rivela al Bearer informazioni private non altrimenti raggiunte. Il venir meno dell’investimento termina il vincolo sostenuto; ricordi degli atti compiuti, conseguenze e prove esterne restano. La carica è realmente depositata e consumabile. Nessuna presa su chi non riceve il significato pertinente. Una copia, una citazione o una fotografia ordinaria non moltiplica automaticamente l’investimento; un nuovo vettore deve avere un rapporto magico valido. Non richiede Written Instruction di Language e non fa agire direttamente un oggetto inerte.",
+              "qualitative_difference": "Il comando resta pronto in un supporto e si esercita alla ricezione prevista: nuova modalità di deposito e attivazione, non una pressione I semplicemente più forte.",
+              "canonical_revision": 345
             }
           ],
-          "application_text": "### Applicazioni cumulative e scala\n\nDepositi, interfacce o trigger esistono soltanto dove una cella già incorporata li concede. Un supporto preparato non rende disponibili tutte le tecniche future e non replica Reserve. Sono possibili usi coordinati dei primi due stadi senza acquisire altri rami.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Encoded Exercise — Information:** Codifica un esercizio proprio in un messaggio investito: un supporto trasmette una funzione delimitata.\n- **Written Instruction — Language:** Una formulazione investita rimane su un supporto con trigger definito: una parola prepara un'interdizione.\n- **Chosen Impulse — Will:** Introduce un'intenzione semplice: avvicinarsi o interrompere un gesto, contendendo deliberazione.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
+          "application_text": "### Applicazioni cumulative e scala\n\nDepositi, interfacce o trigger esistono soltanto dove una cella già incorporata li concede. Un supporto preparato non rende disponibili tutte le tecniche future e non replica Reserve. Sono possibili usi coordinati dei primi due stadi senza acquisire altri rami.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Encoded Exercise — Information:** Codifica un esercizio proprio in un messaggio investito: un supporto trasmette una funzione delimitata.\n- **Written Instruction — Language:** Una formulazione investita rimane su un supporto con trigger definito: una parola prepara un'interdizione.\n- **Inscribed Imperative — Will:** Deposita un imperativo di Will in un messaggio scritto o altro supporto semantico autenticamente investito, con quota e condizione di ricezione definite. Il comando viene esercitato quando il significato predisposto raggiunge una coscienza valida, anche senza una nuova direzione cosciente del Bearer. È la ricezione della volontà imposta, non la lettura ordinaria di una frase, a produrre l’obbedienza.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
           "stage_title": "Scribe",
           "general_rank": "Attunement"
         },
@@ -450,23 +456,27 @@
             },
             {
               "id": "EFF-03-III-M03",
-              "name": "Internalized Assent",
+              "name": "Deliberative Mandate",
               "authority": "Will",
-              "description": "L'intenzione viene assimilata come propria nella misura prevalente: indossare qualcosa sembra una buona idea, senza intera biografia riscritta.",
-              "boundary": "Influenza assenso e intenzione; non sostituisce memorie, sogni e architettura mentale Labyrinth.",
+              "description": "Impone un obiettivo o un criterio di deliberazione continuato, invece di una sola scelta immediata. Il destinatario usa le proprie conoscenze e facoltà per scegliere i mezzi coerenti con la volontà ricevuta, vivendola come proprio proposito finché il mandato prevale. Può rispondere a situazioni comprese nell’incarico senza un nuovo ordine per ogni gesto. Non riceve una seconda coscienza o un’intelligenza presa in prestito.",
+              "boundary": "Occorrono una coscienza capace di deliberare, un significato effettivamente ricevuto e un accesso valido. Attivazione deliberata: le conversazioni ordinarie del Bearer non comandano per accidente. Rango, fonte, difese della volontà, profondità, durata, conflitto dell’ordine e numero di destinatari determinano la contesa; se l’imposizione prevale, la vittima non conserva un veto automatico solo perché prima non voleva eseguire. Ordini pericolosi o contrari ai valori non hanno un’immunità morale universale: la loro difficoltà appartiene alla contesa. L’azione deve restare materialmente eseguibile e non acquisisce abilità ignote; un corpo immobilizzato può voler camminare senza riuscirci. Non legge pensieri o ricordi, non ricrea il passato, non impone emozioni di attrazione e non pilota direttamente i muscoli. Resistenza e scoperta sono distinte: si può resistere o fallire la resistenza senza capire chi abbia agito. Il comando non rivela al Bearer informazioni private non altrimenti raggiunte. Il venir meno dell’investimento termina il vincolo sostenuto; ricordi degli atti compiuti, conseguenze e prove esterne restano. Mandato, durata e tenuta sono delimitati e contendibili. Il destinatario non conosce segreti, strade o tecniche che non possedeva; il Bearer non vede automaticamente attraverso i suoi occhi. La crescita dei primi tre stadi aumenta la scala sostenibile, senza aspettare VII per ogni uso su più destinatari realmente raggiunti.",
               "source": "GIOCATORE_43_Scroll_progressione_completa.md",
               "threshold": 3,
               "quality": "Embodiment",
               "source_kind": "PRIMARY_MACRO",
               "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
-              "qualitative_revision": "RAMI-23-04",
+              "qualitative_revision": "WILL-345",
               "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
-              "independence": "Significato ricevuto anche con parole ordinarie; non richiede un comando magico di Language.",
-              "standalone_domain": "Attenzione, intenzione e assenso deliberativo",
-              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata."
+              "independence": "Significato investito ricevuto tramite un accesso valido, anche mediante parole o scritte ordinarie come mezzo. Non richiede Language, fascinazione, paura o controllo motorio.",
+              "standalone_domain": "Imposizione e governo dell’assenso, dell’intenzione e della deliberazione",
+              "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata.",
+              "example": "Impone «custodisci questa busta e non consegnarla ad altri». Il destinatario può scegliere dove tenerla e come rifiutare una richiesta perché vive quello scopo come proprio: non serve ripetere «no» per ogni persona che si avvicina.",
+              "counterplay": "Occorrono una coscienza capace di deliberare, un significato effettivamente ricevuto e un accesso valido. Attivazione deliberata: le conversazioni ordinarie del Bearer non comandano per accidente. Rango, fonte, difese della volontà, profondità, durata, conflitto dell’ordine e numero di destinatari determinano la contesa; se l’imposizione prevale, la vittima non conserva un veto automatico solo perché prima non voleva eseguire. Ordini pericolosi o contrari ai valori non hanno un’immunità morale universale: la loro difficoltà appartiene alla contesa. L’azione deve restare materialmente eseguibile e non acquisisce abilità ignote; un corpo immobilizzato può voler camminare senza riuscirci. Non legge pensieri o ricordi, non ricrea il passato, non impone emozioni di attrazione e non pilota direttamente i muscoli. Resistenza e scoperta sono distinte: si può resistere o fallire la resistenza senza capire chi abbia agito. Il comando non rivela al Bearer informazioni private non altrimenti raggiunte. Il venir meno dell’investimento termina il vincolo sostenuto; ricordi degli atti compiuti, conseguenze e prove esterne restano. Mandato, durata e tenuta sono delimitati e contendibili. Il destinatario non conosce segreti, strade o tecniche che non possedeva; il Bearer non vede automaticamente attraverso i suoi occhi. La crescita dei primi tre stadi aumenta la scala sostenibile, senza aspettare VII per ogni uso su più destinatari realmente raggiunti.",
+              "qualitative_difference": "Introduce una politica deliberativa sostenuta che seleziona mezzi locali verso uno scopo; II conserva un comando pronto, III governa una sequenza di decisioni.",
+              "canonical_revision": 345
             }
           ],
-          "application_text": "### Applicazioni cumulative e scala\n\nIl repertorio I–III cresce insieme. Funzioni autonome o compartimenti sono quelli nominati nelle celle, non presenze personali aggiunte. Fonte, sensore e quota assegnata devono sostenere ogni esecuzione; interrompere una relazione può far cessare una parte lasciando reali i risultati indipendenti.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Operational Diagnosis — Information:** Separa componenti operative di un potere esposto: distingue sorgente, istruzione e canale, senza vittoria automatica.\n- **Compound Expression — Language:** Combina istruzioni senza contraddizione: protegge un accesso e respinge ciò che lo attraversa, dividendo investimento.\n- **Internalized Assent — Will:** L'intenzione viene assimilata come propria nella misura prevalente: indossare qualcosa sembra una buona idea, senza intera biografia riscritta.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
+          "application_text": "### Applicazioni cumulative e scala\n\nIl repertorio I–III cresce insieme. Funzioni autonome o compartimenti sono quelli nominati nelle celle, non presenze personali aggiunte. Fonte, sensore e quota assegnata devono sostenere ogni esecuzione; interrompere una relazione può far cessare una parte lasciando reali i risultati indipendenti.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Operational Diagnosis — Information:** Separa componenti operative di un potere esposto: distingue sorgente, istruzione e canale, senza vittoria automatica.\n- **Compound Expression — Language:** Combina istruzioni senza contraddizione: protegge un accesso e respinge ciò che lo attraversa, dividendo investimento.\n- **Deliberative Mandate — Will:** Impone un obiettivo o un criterio di deliberazione continuato, invece di una sola scelta immediata. Il destinatario usa le proprie conoscenze e facoltà per scegliere i mezzi coerenti con la volontà ricevuta, vivendola come proprio proposito finché il mandato prevale. Può rispondere a situazioni comprese nell’incarico senza un nuovo ordine per ogni gesto. Non riceve una seconda coscienza o un’intelligenza presa in prestito.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
           "stage_title": "Exegete",
           "general_rank": "Embodiment"
         },
@@ -512,26 +522,28 @@
             },
             {
               "id": "EFF-03-IV-M03",
-              "name": "Intent Dissociation",
+              "name": "Volitional Interdict",
               "authority": "Will",
-              "description": "Separa una deliberazione da un motivo che la sosteneva oppure interdice il richiamo volontario di un ricordo specifico realmente raggiunto: il destinatario non riesce a recuperarlo deliberatamente finché prevale l’investimento. Non è una scelta cosciente di mentire. La traccia non è cancellata: spezzare l’interdizione può renderla nuovamente accessibile. Non riscrive biografie, ricordi di terzi o documenti; resistenza e mantenimento restano contendibili.",
-              "boundary": "Influenza assenso e intenzione; non sostituisce memorie, sogni e architettura mentale Labyrinth.",
+              "description": "Impone un divieto deliberativo selettivo: una volontà raggiunta non può usare un motivo preso per decidere oppure non può richiamare volontariamente un ricordo specifico effettivamente raggiunto. Può disgiungere un’intenzione imposta o intrusiva dal suo impiego nella deliberazione, senza cancellare la persona. Il destinatario non sceglie semplicemente di mentire e non deve riconoscere l’origine magica del blocco.",
+              "boundary": "Occorrono una coscienza capace di deliberare, un significato effettivamente ricevuto e un accesso valido. Attivazione deliberata: le conversazioni ordinarie del Bearer non comandano per accidente. Rango, fonte, difese della volontà, profondità, durata, conflitto dell’ordine e numero di destinatari determinano la contesa; se l’imposizione prevale, la vittima non conserva un veto automatico solo perché prima non voleva eseguire. Ordini pericolosi o contrari ai valori non hanno un’immunità morale universale: la loro difficoltà appartiene alla contesa. L’azione deve restare materialmente eseguibile e non acquisisce abilità ignote; un corpo immobilizzato può voler camminare senza riuscirci. Non legge pensieri o ricordi, non ricrea il passato, non impone emozioni di attrazione e non pilota direttamente i muscoli. Resistenza e scoperta sono distinte: si può resistere o fallire la resistenza senza capire chi abbia agito. Il comando non rivela al Bearer informazioni private non altrimenti raggiunte. Il venir meno dell’investimento termina il vincolo sostenuto; ricordi degli atti compiuti, conseguenze e prove esterne restano. Il ricordo specifico deve essere preso davvero, non indovinato pronunciando un nome. La traccia mnemonica non è riscritta o cancellata: spezzare l’interdetto può ripristinare il richiamo. Prove, registrazioni e memorie di terzi restano. Motivi indipendenti non trattati possono ancora sostenere altre decisioni.",
               "source": "GIOCATORE_43_Scroll_progressione_completa.md",
               "threshold": 4,
               "quality": "Transfiguration",
               "source_kind": "PRIMARY_MACRO",
               "technical_parameters": "Condizione dello stadio e parametri specifici delle applicazioni. Nessuna portata generica attribuisce una presa su una componente non raggiunta.",
-              "example": "Il nemico perde il raccordo compulsivo alla decisione di proseguire l’assalto senza ricevere una biografia nuova.",
-              "counterplay": "Non cancella memorie, tutte le emozioni o ogni volontà; il rapporto specifico va preso e conteso.",
-              "qualitative_revision": "RAMI-23-04",
+              "example": "Ha un accesso valido al ricordo dell’incontro e impone «non richiamare quel volto». Il destinatario prova a ricordarlo ma non riesce a recuperarlo volontariamente finché il blocco regge: non è una scelta cosciente di fingere ignoranza.",
+              "counterplay": "Occorrono una coscienza capace di deliberare, un significato effettivamente ricevuto e un accesso valido. Attivazione deliberata: le conversazioni ordinarie del Bearer non comandano per accidente. Rango, fonte, difese della volontà, profondità, durata, conflitto dell’ordine e numero di destinatari determinano la contesa; se l’imposizione prevale, la vittima non conserva un veto automatico solo perché prima non voleva eseguire. Ordini pericolosi o contrari ai valori non hanno un’immunità morale universale: la loro difficoltà appartiene alla contesa. L’azione deve restare materialmente eseguibile e non acquisisce abilità ignote; un corpo immobilizzato può voler camminare senza riuscirci. Non legge pensieri o ricordi, non ricrea il passato, non impone emozioni di attrazione e non pilota direttamente i muscoli. Resistenza e scoperta sono distinte: si può resistere o fallire la resistenza senza capire chi abbia agito. Il comando non rivela al Bearer informazioni private non altrimenti raggiunte. Il venir meno dell’investimento termina il vincolo sostenuto; ricordi degli atti compiuti, conseguenze e prove esterne restano. Il ricordo specifico deve essere preso davvero, non indovinato pronunciando un nome. La traccia mnemonica non è riscritta o cancellata: spezzare l’interdetto può ripristinare il richiamo. Prove, registrazioni e memorie di terzi restano. Motivi indipendenti non trattati possono ancora sostenere altre decisioni.",
+              "qualitative_revision": "WILL-345",
               "growth_rule": "Cumulative: la funzione cresce quantitativamente con il rango; il nuovo modo operativo richiede la propria soglia.",
-              "independence": "Significato ricevuto anche con parole ordinarie; non richiede un comando magico di Language.",
-              "standalone_domain": "Attenzione, intenzione e assenso deliberativo",
+              "independence": "Significato investito ricevuto tramite un accesso valido, anche mediante parole o scritte ordinarie come mezzo. Non richiede Language, fascinazione, paura o controllo motorio.",
+              "standalone_domain": "Imposizione e governo dell’assenso, dell’intenzione e della deliberazione",
               "supernatural_review": "Effetto investito reale: lettura non ordinaria oppure intervento su stato, rapporto, funzione o supporto. Nessuna attività mentale/manuale ordinaria contata.",
-              "review_revision": "SOVEREIGN-306"
+              "review_revision": "SOVEREIGN-306",
+              "qualitative_difference": "Introduce l’esclusione di una componente della deliberazione o del suo accesso volontario, non soltanto un nuovo ordine positivo. Conserva la funzione di interdizione del richiamo già prevista a IV.",
+              "canonical_revision": 345
             }
           ],
-          "application_text": "### Applicazioni cumulative e scala\n\nLa protezione corporea e spirituale incorporata IV è Routine/Intrinsic anche in aspetto umano: una pistola ordinaria non uccide il Bearer Ready soltanto perché sta parlando o usa un altro ramo. Un pari può saturare o aggirare la protezione pertinente. Campi e azioni di scala edilizia o urbana richiedono accessi effettivi, investimento e capacità condivisa; la tenuta personale non rende l’intero ambiente invulnerabile.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Counterstructure — Information:** Interviene sulla struttura operativa diagnosticata: disturba una fase d'esecuzione raggiunta del potere pari.\n- **Counterformulation — Language:** Una espressione oppone una istruzione effettivamente raggiunta: Taci disturba un'esecuzione, non ogni magia.\n- **Intent Dissociation — Will:** Il nemico perde il raccordo compulsivo alla decisione di proseguire l’assalto senza ricevere una biografia nuova.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
+          "application_text": "### Applicazioni cumulative e scala\n\nLa protezione corporea e spirituale incorporata IV è Routine/Intrinsic anche in aspetto umano: una pistola ordinaria non uccide il Bearer Ready soltanto perché sta parlando o usa un altro ramo. Un pari può saturare o aggirare la protezione pertinente. Campi e azioni di scala edilizia o urbana richiedono accessi effettivi, investimento e capacità condivisa; la tenuta personale non rende l’intero ambiente invulnerabile.\n\n**Applicazioni dei nuclei appena incorporati:**\n\n- **Counterstructure — Information:** Interviene sulla struttura operativa diagnosticata: disturba una fase d'esecuzione raggiunta del potere pari.\n- **Counterformulation — Language:** Una espressione oppone una istruzione effettivamente raggiunta: Taci disturba un'esecuzione, non ogni magia.\n- **Volitional Interdict — Will:** Impone un divieto deliberativo selettivo: una volontà raggiunta non può usare un motivo preso per decidere oppure non può richiamare volontariamente un ricordo specifico effettivamente raggiunto. Può disgiungere un’intenzione imposta o intrusiva dal suo impiego nella deliberazione, senza cancellare la persona. Il destinatario non sceglie semplicemente di mentire e non deve riconoscere l’origine magica del blocco.\n\nLe celle degli stadi precedenti restano esercitabili e quantitativamente più forti. Il significato corrente di ogni nome è quello del suo capitolo: nessun vecchio esempio conferisce una cella anticipata. Le combinazioni possono usare più autorità, ma nessuna di queste operazioni ne richiede un’altra come fonte obbligatoria.",
           "stage_title": "Countermander",
           "general_rank": "Transfiguration"
         }
@@ -1223,7 +1235,9 @@
       "id": "ANC-11",
       "name": "Althene Rhos",
       "past_memory": "Sepulchre VII. Potenza indipendente della morte e della custodia, alleata in alcune campagne e interlocutrice difficile sulle restituzioni. Difendeva la distinzione fra una persona morta e una risorsa da usare. Non era moralmente impura né una versione oscura di Heart. Ti aiutò ad accertare che alcune continuità perdute non erano più recuperabili.",
-      "modern_state_known": false
+      "modern_state_known": false,
+      "intimacy_memory_source": "GIOCATORE_279_Althene_relazione_antica_ricordata.md",
+      "relationship_at_fall": "relazione intima ancora in corso; sorte e sentimento moderni ignoti"
     },
     {
       "id": "ANC-12",
@@ -1266,6 +1280,24 @@
       "name": "Sereth Daal",
       "past_memory": "Astrolabe VI. Custode di una parte dei percorsi di uscita, collaboratore di Helyr con esercizio proprio. Non era secondo titolare VII di Astrolabe. Nell'ultima procedura aveva incarico di mantenere il corridoio di ricongiungimento e collegamenti operativi. Ricordi che l'uscita attesa non rispose; questa osservazione non prova da sola tutto ciò che seppe o volle.",
       "modern_state_known": false
+    },
+    {
+      "id": "ANC-19",
+      "name": "Naelle Varen",
+      "past_memory": "Donna umana ordinaria, adulta di trentadue anni quando iniziò la relazione. Restauratrice di tessuti e organizzatrice di una bottega nelle comunità liberate. Entrò nella tua vita dopo la perdita di Maerin, quando la ricostruzione civile aveva già assunto un peso proprio.\n\nFoste amanti per alcuni anni. Il rapporto era consensuale, noto a pochi amici, senza titolo di consorte o richiesta di esclusività politica. Naelle non era una prigioniera, un’allieva dipendente o una persona creata per compiacerti. Con te scherzava sul fatto che sapevi ricostruire un edificio ma non organizzare una settimana senza cancellare un incontro.\n\nL’affetto e il desiderio non cancellavano la disparità di potere: lei conservava casa, reddito e possibilità di rifiutare. Quando le tue assenze diventarono la regola, chiuse il rapporto. Ricordi una separazione dolorosa ma non una vendetta; negli anni successivi continuaste a salutarvi e a discutere questioni della bottega. Morì molto prima della tua caduta, dopo una vita ordinaria; il lutto era già parte della tua memoria. Non viene introdotta come una sopravvissuta moderna nascosta.",
+      "modern_state_known": true,
+      "past_death_known": true,
+      "source": "GIOCATORE_278_Affetti_antichi_e_longevita.md",
+      "current_emotions_imposed": false
+    },
+    {
+      "id": "ANC-20",
+      "name": "Isera Thenn",
+      "past_memory": "Donna umana ordinaria, adulta di quarantuno anni all’inizio del rapporto. Mediatrice fra consigli civili delle comunità liberate, con un mandato proprio e una formazione giuridica pratica. La relazione appartiene a un periodo successivo a Naelle, quando la liberazione aveva lasciato spazio ai problemi di governo.\n\nFoste amanti per una stagione della tua vita. L’intimità era consensuale e il confronto spesso acceso: Isera poteva desiderarti e nello stesso tempo votare contro una proposta che sostenevi. Non otteneva incarichi in cambio di vicinanza e non rinunciava al mandato quando entrava nelle tue stanze. Ricordi che ti chiedeva di ascoltare fino alla fine anche quando intuivi già un’obiezione.\n\nChiudeste la relazione quando il tempo privato iniziò a confondersi con il negoziato pubblico. Non ricordi un tradimento: restarono rispetto e divergenze reali. Isera continuò il proprio lavoro, morì prima della tua caduta e tu ne ricevesti notizia e testimonianze funebri. Non è una fonte automatica delle cause della caduta.",
+      "modern_state_known": true,
+      "past_death_known": true,
+      "source": "GIOCATORE_278_Affetti_antichi_e_longevita.md",
+      "current_emotions_imposed": false
     }
   ],
   "knowledge": [
@@ -1277,7 +1309,7 @@
     },
     {
       "id": "KNOW-02",
-      "subject": "Ventuno Effigi, sette soglie, sette integrazioni",
+      "subject": "Ventuno Effigi, sette soglie, otto integrazioni",
       "state": "Known",
       "source": "Corpus 26–73 e Testament; non dotazione di tutti i percorsi."
     },
@@ -1445,7 +1477,12 @@
     "GIOCATORE_80_Legami_antichi_che_ricordi.md",
     "GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
     "GIOCATORE_82_Recupero_delle_antiche_capacita.md",
-    "GIOCATORE_83_Matrice_delle_conoscenze_personali.md"
+    "GIOCATORE_83_Matrice_delle_conoscenze_personali.md",
+    "GIOCATORE_67_The_Origin_manifestazioni_e_fenomeni.md",
+    "GIOCATORE_273_Rete_civile_di_Alexander.md",
+    "GIOCATORE_278_Affetti_antichi_e_longevita.md",
+    "GIOCATORE_279_Althene_relazione_antica_ricordata.md",
+    "GIOCATORE_159_Persone_conosciute_da_Alexander.md"
   ],
   "inventory_source": "GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
   "future_player_choices": "OPEN",
@@ -1454,5 +1491,10 @@
   "origin_entry": "O-ENTRY-01",
   "revision": "RAMI-23-04",
   "integration_revision": "RACCORDI-317",
-  "sovereign_review_revision": "SOVEREIGN-306"
+  "sovereign_review_revision": "SOVEREIGN-306",
+  "civil_relationship_source": "GIOCATORE_273_Rete_civile_di_Alexander.md",
+  "advancement_procedures_source": "339_Prima_acquisizione_e_avanzamento.md",
+  "character_review_revision": 340,
+  "will_revision": 345,
+  "territorial_source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md"
 }

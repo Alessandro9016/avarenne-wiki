@@ -1,0 +1,162 @@
+{
+  "revision": "346",
+  "scope": "Espansione storica e sociale, nessuna modifica ai poteri",
+  "sources": [
+    "GIOCATORE_90_Societa_antiche_e_liberazione_ricordata.md",
+    "RISERVATO_346_Signorie_Immobili_concordanza_e_limiti.md",
+    "RISERVATO_95_Origini_societa_e_potenze_antiche.md"
+  ],
+  "societies": [
+    {
+      "id": "SOC-A01",
+      "name": "Kharven Galleries",
+      "role": "ordinamento oppressivo"
+    },
+    {
+      "id": "SOC-A02",
+      "name": "High Holds",
+      "role": "ordinamento oppressivo"
+    },
+    {
+      "id": "SOC-A03",
+      "name": "Serekh Basin Courts",
+      "role": "ordinamento oppressivo"
+    },
+    {
+      "id": "SOC-A04",
+      "name": "Ossari Quarry Leagues",
+      "role": "ordinamento oppressivo"
+    },
+    {
+      "id": "SOC-A05",
+      "name": "Nethri Continuity Houses",
+      "role": "ordinamento oppressivo"
+    },
+    {
+      "id": "SOC-A06",
+      "name": "Free Hearths",
+      "role": "contro-ordinamento"
+    }
+  ],
+  "chronology": [
+    {
+      "event": "Accordi Fixed Descent",
+      "CP": -14400,
+      "LR": -2456
+    },
+    {
+      "event": "Centralizzazione Kharven",
+      "CP": -12520,
+      "LR": -576
+    },
+    {
+      "event": "Nascita Edran",
+      "CP": -12184,
+      "LR": -240
+    },
+    {
+      "event": "Cradle I",
+      "CP": -12170,
+      "LR": -226
+    },
+    {
+      "event": "Fuga e Ruin I",
+      "CP": -12168,
+      "LR": -224
+    },
+    {
+      "event": "Water Truce",
+      "CP": -12136,
+      "LR": -192
+    },
+    {
+      "event": "Cradle VII",
+      "CP": -12113,
+      "LR": -169
+    },
+    {
+      "event": "Ruin VII",
+      "CP": -12109,
+      "LR": -165
+    },
+    {
+      "event": "Grey Brands",
+      "CP": -12098,
+      "LR": -154
+    },
+    {
+      "event": "Thessar / Halo VII",
+      "CP": -12066,
+      "LR": -122
+    },
+    {
+      "event": "Hollow Towers",
+      "CP": -12052,
+      "LR": -108
+    },
+    {
+      "event": "Morte Maerin",
+      "CP": -12041,
+      "LR": -97
+    },
+    {
+      "event": "Aveth / Heart VII",
+      "CP": -12030,
+      "LR": -86
+    },
+    {
+      "event": "Open Wells",
+      "CP": -12008,
+      "LR": -64
+    },
+    {
+      "event": "Morte definitiva Aveth",
+      "CP": -12004,
+      "LR": -60
+    },
+    {
+      "event": "Rinuncia Ysil / Scroll VII",
+      "CP": -11965,
+      "LR": -21
+    },
+    {
+      "event": "Sovereign",
+      "CP": -11949,
+      "LR": -5
+    },
+    {
+      "event": "Vigil Star",
+      "CP": -11948,
+      "LR": -4
+    },
+    {
+      "event": "Fine campagne",
+      "CP": -11944,
+      "LR": 0
+    },
+    {
+      "event": "Carta Nove Sedi",
+      "CP": -11901,
+      "LR": 43
+    },
+    {
+      "event": "Caduta",
+      "CP": -11500,
+      "LR": 444
+    }
+  ],
+  "formal_accord_duration_years": 2456,
+  "formal_accord_age_at_edran_birth": 2216,
+  "escape_to_liberation_years": 224,
+  "population_ids": [
+    "PEO-01",
+    "PEO-02",
+    "PEO-03",
+    "PEO-04",
+    "PEO-05",
+    "PEO-06"
+  ],
+  "progressions_sha256": "4aa7a711b43f5b166fdd784736a09cf9ce2b240b99a03009262d5da601365b15",
+  "published": false,
+  "zip_created": false
+}

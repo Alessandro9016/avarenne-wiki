@@ -1,0 +1,1911 @@
+{
+  "revision": 338,
+  "scope": "Verifica strutturale delle 23 progressioni e chiarimento delle regole comuni. Non certifica 161 procedure individuali.",
+  "effigies": [
+    {
+      "id": "EFF-01",
+      "name": "Cradle",
+      "authorities": [
+        "Creation"
+      ],
+      "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-01-I-M01"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-01-II-M01"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-01-III-M01"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-01-IV-M01"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-01-V-M01"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-01-VI-M01"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-01-VII-M01"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-02",
+      "name": "Ruin",
+      "authorities": [
+        "Destruction"
+      ],
+      "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-02-I-M01"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-02-II-M01"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-02-III-M01"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-02-IV-M01"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-02-V-M01"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-02-VI-M01"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-02-VII-M01"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-03",
+      "name": "Scroll",
+      "authorities": [
+        "Information",
+        "Language",
+        "Will"
+      ],
+      "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-03-I-M01",
+            "EFF-03-I-M02",
+            "EFF-03-I-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-03-II-M01",
+            "EFF-03-II-M02",
+            "EFF-03-II-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-03-III-M01",
+            "EFF-03-III-M02",
+            "EFF-03-III-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-03-IV-M01",
+            "EFF-03-IV-M02",
+            "EFF-03-IV-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-03-V-M01",
+            "EFF-03-V-M02",
+            "EFF-03-V-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-03-VI-M01",
+            "EFF-03-VI-M02",
+            "EFF-03-VI-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-03-VII-M01",
+            "EFF-03-VII-M02",
+            "EFF-03-VII-M03"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-04",
+      "name": "Halo",
+      "authorities": [
+        "Light",
+        "Revelation",
+        "Manifestation",
+        "Purification"
+      ],
+      "source": "GIOCATORE_44_Halo_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-04-I-M01",
+            "EFF-04-I-M02",
+            "EFF-04-I-M03",
+            "EFF-04-I-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-04-II-M01",
+            "EFF-04-II-M02",
+            "EFF-04-II-M03",
+            "EFF-04-II-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-04-III-M01",
+            "EFF-04-III-M02",
+            "EFF-04-III-M03",
+            "EFF-04-III-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-04-IV-M01",
+            "EFF-04-IV-M02",
+            "EFF-04-IV-M03",
+            "EFF-04-IV-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-04-V-M01",
+            "EFF-04-V-M02",
+            "EFF-04-V-M03",
+            "EFF-04-V-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-04-VI-M01",
+            "EFF-04-VI-M02",
+            "EFF-04-VI-M03",
+            "EFF-04-VI-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-04-VII-M01",
+            "EFF-04-VII-M02",
+            "EFF-04-VII-M03",
+            "EFF-04-VII-M04"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-05",
+      "name": "Heart",
+      "authorities": [
+        "Life",
+        "Spirit",
+        "Restoration"
+      ],
+      "source": "GIOCATORE_45_Heart_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-05-I-M01",
+            "EFF-05-I-M02",
+            "EFF-05-I-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-05-II-M01",
+            "EFF-05-II-M02",
+            "EFF-05-II-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-05-III-M01",
+            "EFF-05-III-M02",
+            "EFF-05-III-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-05-IV-M01",
+            "EFF-05-IV-M02",
+            "EFF-05-IV-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-05-V-M01",
+            "EFF-05-V-M02",
+            "EFF-05-V-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-05-VI-M01",
+            "EFF-05-VI-M02",
+            "EFF-05-VI-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-05-VII-M01",
+            "EFF-05-VII-M02",
+            "EFF-05-VII-M03"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-06",
+      "name": "Crucible",
+      "authorities": [
+        "Composition",
+        "Energy Conversion",
+        "Transmutation"
+      ],
+      "source": "GIOCATORE_46_Crucible_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-06-I-M01",
+            "EFF-06-I-M02",
+            "EFF-06-I-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-06-II-M01",
+            "EFF-06-II-M02",
+            "EFF-06-II-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-06-III-M01",
+            "EFF-06-III-M02",
+            "EFF-06-III-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-06-IV-M01",
+            "EFF-06-IV-M02",
+            "EFF-06-IV-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-06-V-M01",
+            "EFF-06-V-M02",
+            "EFF-06-V-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-06-VI-M01",
+            "EFF-06-VI-M02",
+            "EFF-06-VI-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-06-VII-M01",
+            "EFF-06-VII-M02",
+            "EFF-06-VII-M03"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-07",
+      "name": "Mask",
+      "authorities": [
+        "Identity",
+        "Representation",
+        "Recognition",
+        "Perception"
+      ],
+      "source": "GIOCATORE_47_Mask_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-07-I-M01",
+            "EFF-07-I-M02",
+            "EFF-07-I-M03",
+            "EFF-07-I-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-07-II-M01",
+            "EFF-07-II-M02",
+            "EFF-07-II-M03",
+            "EFF-07-II-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-07-III-M01",
+            "EFF-07-III-M02",
+            "EFF-07-III-M03",
+            "EFF-07-III-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-07-IV-M01",
+            "EFF-07-IV-M02",
+            "EFF-07-IV-M03",
+            "EFF-07-IV-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-07-V-M01",
+            "EFF-07-V-M02",
+            "EFF-07-V-M03",
+            "EFF-07-V-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-07-VI-M01",
+            "EFF-07-VI-M02",
+            "EFF-07-VI-M03",
+            "EFF-07-VI-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-07-VII-M01",
+            "EFF-07-VII-M02",
+            "EFF-07-VII-M03",
+            "EFF-07-VII-M04"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-08",
+      "name": "Hourglass",
+      "authorities": [
+        "Time",
+        "Duration",
+        "Decay",
+        "Recurrence"
+      ],
+      "source": "GIOCATORE_48_Hourglass_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-08-I-M01",
+            "EFF-08-I-M02",
+            "EFF-08-I-M03",
+            "EFF-08-I-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-08-II-M01",
+            "EFF-08-II-M02",
+            "EFF-08-II-M03",
+            "EFF-08-II-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-08-III-M01",
+            "EFF-08-III-M02",
+            "EFF-08-III-M03",
+            "EFF-08-III-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-08-IV-M01",
+            "EFF-08-IV-M02",
+            "EFF-08-IV-M03",
+            "EFF-08-IV-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-08-V-M01",
+            "EFF-08-V-M02",
+            "EFF-08-V-M03",
+            "EFF-08-V-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-08-VI-M01",
+            "EFF-08-VI-M02",
+            "EFF-08-VI-M03",
+            "EFF-08-VI-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-08-VII-M01",
+            "EFF-08-VII-M02",
+            "EFF-08-VII-M03",
+            "EFF-08-VII-M04"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-09",
+      "name": "Astrolabe",
+      "authorities": [
+        "Space",
+        "Gravity",
+        "Orientation",
+        "Passage"
+      ],
+      "source": "GIOCATORE_49_Astrolabe_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-09-I-M01",
+            "EFF-09-I-M02",
+            "EFF-09-I-M03",
+            "EFF-09-I-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-09-II-M01",
+            "EFF-09-II-M02",
+            "EFF-09-II-M03",
+            "EFF-09-II-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-09-III-M01",
+            "EFF-09-III-M02",
+            "EFF-09-III-M03",
+            "EFF-09-III-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-09-IV-M01",
+            "EFF-09-IV-M02",
+            "EFF-09-IV-M03",
+            "EFF-09-IV-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-09-V-M01",
+            "EFF-09-V-M02",
+            "EFF-09-V-M03",
+            "EFF-09-V-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-09-VI-M01",
+            "EFF-09-VI-M02",
+            "EFF-09-VI-M03",
+            "EFF-09-VI-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-09-VII-M01",
+            "EFF-09-VII-M02",
+            "EFF-09-VII-M03",
+            "EFF-09-VII-M04"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-10",
+      "name": "Sepulchre",
+      "authorities": [
+        "Death",
+        "Dead Spirits",
+        "Remains",
+        "Repose"
+      ],
+      "source": "GIOCATORE_50_Sepulchre_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-10-I-M01",
+            "EFF-10-I-M02",
+            "EFF-10-I-M03",
+            "EFF-10-I-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-10-II-M01",
+            "EFF-10-II-M02",
+            "EFF-10-II-M03",
+            "EFF-10-II-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-10-III-M01",
+            "EFF-10-III-M02",
+            "EFF-10-III-M03",
+            "EFF-10-III-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-10-IV-M01",
+            "EFF-10-IV-M02",
+            "EFF-10-IV-M03",
+            "EFF-10-IV-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-10-V-M01",
+            "EFF-10-V-M02",
+            "EFF-10-V-M03",
+            "EFF-10-V-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-10-VI-M01",
+            "EFF-10-VI-M02",
+            "EFF-10-VI-M03",
+            "EFF-10-VI-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-10-VII-M01",
+            "EFF-10-VII-M02",
+            "EFF-10-VII-M03",
+            "EFF-10-VII-M04"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-11",
+      "name": "Seed",
+      "authorities": [
+        "Reproduction",
+        "Heredity",
+        "Development",
+        "Ecology"
+      ],
+      "source": "GIOCATORE_51_Seed_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-11-I-M01",
+            "EFF-11-I-M02",
+            "EFF-11-I-M03",
+            "EFF-11-I-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-11-II-M01",
+            "EFF-11-II-M02",
+            "EFF-11-II-M03",
+            "EFF-11-II-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-11-III-M01",
+            "EFF-11-III-M02",
+            "EFF-11-III-M03",
+            "EFF-11-III-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-11-IV-M01",
+            "EFF-11-IV-M02",
+            "EFF-11-IV-M03",
+            "EFF-11-IV-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-11-V-M01",
+            "EFF-11-V-M02",
+            "EFF-11-V-M03",
+            "EFF-11-V-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-11-VI-M01",
+            "EFF-11-VI-M02",
+            "EFF-11-VI-M03",
+            "EFF-11-VI-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-11-VII-M01",
+            "EFF-11-VII-M02",
+            "EFF-11-VII-M03",
+            "EFF-11-VII-M04"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-12",
+      "name": "Crown",
+      "authorities": [
+        "Law",
+        "Hierarchy",
+        "Judgment",
+        "Delegation"
+      ],
+      "source": "GIOCATORE_52_Crown_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-12-I-M01",
+            "EFF-12-I-M02",
+            "EFF-12-I-M03",
+            "EFF-12-I-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-12-II-M01",
+            "EFF-12-II-M02",
+            "EFF-12-II-M03",
+            "EFF-12-II-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-12-III-M01",
+            "EFF-12-III-M02",
+            "EFF-12-III-M03",
+            "EFF-12-III-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-12-IV-M01",
+            "EFF-12-IV-M02",
+            "EFF-12-IV-M03",
+            "EFF-12-IV-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-12-V-M01",
+            "EFF-12-V-M02",
+            "EFF-12-V-M03",
+            "EFF-12-V-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-12-VI-M01",
+            "EFF-12-VI-M02",
+            "EFF-12-VI-M03",
+            "EFF-12-VI-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-12-VII-M01",
+            "EFF-12-VII-M02",
+            "EFF-12-VII-M03",
+            "EFF-12-VII-M04"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-13",
+      "name": "Chain",
+      "authorities": [
+        "Binding",
+        "Captivity",
+        "Dependency",
+        "Transmission"
+      ],
+      "source": "GIOCATORE_53_Chain_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-13-I-M01",
+            "EFF-13-I-M02",
+            "EFF-13-I-M03",
+            "EFF-13-I-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-13-II-M01",
+            "EFF-13-II-M02",
+            "EFF-13-II-M03",
+            "EFF-13-II-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-13-III-M01",
+            "EFF-13-III-M02",
+            "EFF-13-III-M03",
+            "EFF-13-III-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-13-IV-M01",
+            "EFF-13-IV-M02",
+            "EFF-13-IV-M03",
+            "EFF-13-IV-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-13-V-M01",
+            "EFF-13-V-M02",
+            "EFF-13-V-M03",
+            "EFF-13-V-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-13-VI-M01",
+            "EFF-13-VI-M02",
+            "EFF-13-VI-M03",
+            "EFF-13-VI-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-13-VII-M01",
+            "EFF-13-VII-M02",
+            "EFF-13-VII-M03",
+            "EFF-13-VII-M04"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-14",
+      "name": "Coin",
+      "authorities": [
+        "Value",
+        "Exchange",
+        "Possession",
+        "Claim"
+      ],
+      "source": "GIOCATORE_54_Coin_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-14-I-M01",
+            "EFF-14-I-M02",
+            "EFF-14-I-M03",
+            "EFF-14-I-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-14-II-M01",
+            "EFF-14-II-M02",
+            "EFF-14-II-M03",
+            "EFF-14-II-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-14-III-M01",
+            "EFF-14-III-M02",
+            "EFF-14-III-M03",
+            "EFF-14-III-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-14-IV-M01",
+            "EFF-14-IV-M02",
+            "EFF-14-IV-M03",
+            "EFF-14-IV-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-14-V-M01",
+            "EFF-14-V-M02",
+            "EFF-14-V-M03",
+            "EFF-14-V-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-14-VI-M01",
+            "EFF-14-VI-M02",
+            "EFF-14-VI-M03",
+            "EFF-14-VI-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-14-VII-M01",
+            "EFF-14-VII-M02",
+            "EFF-14-VII-M03",
+            "EFF-14-VII-M04"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-15",
+      "name": "Banner",
+      "authorities": [
+        "Conflict",
+        "Mobilization",
+        "Strategy",
+        "Conquest"
+      ],
+      "source": "GIOCATORE_55_Banner_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-15-I-M01",
+            "EFF-15-I-M02",
+            "EFF-15-I-M03",
+            "EFF-15-I-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-15-II-M01",
+            "EFF-15-II-M02",
+            "EFF-15-II-M03",
+            "EFF-15-II-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-15-III-M01",
+            "EFF-15-III-M02",
+            "EFF-15-III-M03",
+            "EFF-15-III-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-15-IV-M01",
+            "EFF-15-IV-M02",
+            "EFF-15-IV-M03",
+            "EFF-15-IV-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-15-V-M01",
+            "EFF-15-V-M02",
+            "EFF-15-V-M03",
+            "EFF-15-V-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-15-VI-M01",
+            "EFF-15-VI-M02",
+            "EFF-15-VI-M03",
+            "EFF-15-VI-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-15-VII-M01",
+            "EFF-15-VII-M02",
+            "EFF-15-VII-M03",
+            "EFF-15-VII-M04"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-16",
+      "name": "Oracle",
+      "authorities": [
+        "Knowledge",
+        "Interpretation",
+        "Divination",
+        "Spellcraft"
+      ],
+      "source": "GIOCATORE_56_Oracle_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-16-I-M01",
+            "EFF-16-I-M02",
+            "EFF-16-I-M03",
+            "EFF-16-I-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-16-II-M01",
+            "EFF-16-II-M02",
+            "EFF-16-II-M03",
+            "EFF-16-II-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-16-III-M01",
+            "EFF-16-III-M02",
+            "EFF-16-III-M03",
+            "EFF-16-III-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-16-IV-M01",
+            "EFF-16-IV-M02",
+            "EFF-16-IV-M03",
+            "EFF-16-IV-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-16-V-M01",
+            "EFF-16-V-M02",
+            "EFF-16-V-M03",
+            "EFF-16-V-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-16-VI-M01",
+            "EFF-16-VI-M02",
+            "EFF-16-VI-M03",
+            "EFF-16-VI-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-16-VII-M01",
+            "EFF-16-VII-M02",
+            "EFF-16-VII-M03",
+            "EFF-16-VII-M04"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-17",
+      "name": "Archive",
+      "authorities": [
+        "Memory",
+        "Trace",
+        "Attestation",
+        "Preservation",
+        "Re-enactment"
+      ],
+      "source": "GIOCATORE_57_Archive_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-17-I-M01",
+            "EFF-17-I-M02",
+            "EFF-17-I-M03",
+            "EFF-17-I-M04",
+            "EFF-17-I-M05"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-17-II-M01",
+            "EFF-17-II-M02",
+            "EFF-17-II-M03",
+            "EFF-17-II-M04",
+            "EFF-17-II-M05"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-17-III-M01",
+            "EFF-17-III-M02",
+            "EFF-17-III-M03",
+            "EFF-17-III-M04",
+            "EFF-17-III-M05"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-17-IV-M01",
+            "EFF-17-IV-M02",
+            "EFF-17-IV-M03",
+            "EFF-17-IV-M04",
+            "EFF-17-IV-M05"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-17-V-M01",
+            "EFF-17-V-M02",
+            "EFF-17-V-M03",
+            "EFF-17-V-M04",
+            "EFF-17-V-M05"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-17-VI-M01",
+            "EFF-17-VI-M02",
+            "EFF-17-VI-M03",
+            "EFF-17-VI-M04",
+            "EFF-17-VI-M05"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-17-VII-M01",
+            "EFF-17-VII-M02",
+            "EFF-17-VII-M03",
+            "EFF-17-VII-M04",
+            "EFF-17-VII-M05"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-18",
+      "name": "Labyrinth",
+      "authorities": [
+        "Mind",
+        "Dream",
+        "Emotion",
+        "Interior Architecture"
+      ],
+      "source": "GIOCATORE_58_Labyrinth_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-18-I-M01",
+            "EFF-18-I-M02",
+            "EFF-18-I-M03",
+            "EFF-18-I-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-18-II-M01",
+            "EFF-18-II-M02",
+            "EFF-18-II-M03",
+            "EFF-18-II-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-18-III-M01",
+            "EFF-18-III-M02",
+            "EFF-18-III-M03",
+            "EFF-18-III-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-18-IV-M01",
+            "EFF-18-IV-M02",
+            "EFF-18-IV-M03",
+            "EFF-18-IV-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-18-V-M01",
+            "EFF-18-V-M02",
+            "EFF-18-V-M03",
+            "EFF-18-V-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-18-VI-M01",
+            "EFF-18-VI-M02",
+            "EFF-18-VI-M03",
+            "EFF-18-VI-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-18-VII-M01",
+            "EFF-18-VII-M02",
+            "EFF-18-VII-M03",
+            "EFF-18-VII-M04"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-19",
+      "name": "Tempest",
+      "authorities": [
+        "Flow",
+        "Pressure",
+        "Turbulence",
+        "Discharge"
+      ],
+      "source": "GIOCATORE_59_Tempest_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-19-I-M01",
+            "EFF-19-I-M02",
+            "EFF-19-I-M03",
+            "EFF-19-I-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-19-II-M01",
+            "EFF-19-II-M02",
+            "EFF-19-II-M03",
+            "EFF-19-II-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-19-III-M01",
+            "EFF-19-III-M02",
+            "EFF-19-III-M03",
+            "EFF-19-III-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-19-IV-M01",
+            "EFF-19-IV-M02",
+            "EFF-19-IV-M03",
+            "EFF-19-IV-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-19-V-M01",
+            "EFF-19-V-M02",
+            "EFF-19-V-M03",
+            "EFF-19-V-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-19-VI-M01",
+            "EFF-19-VI-M02",
+            "EFF-19-VI-M03",
+            "EFF-19-VI-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-19-VII-M01",
+            "EFF-19-VII-M02",
+            "EFF-19-VII-M03",
+            "EFF-19-VII-M04"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-20",
+      "name": "Maw",
+      "authorities": [
+        "Desire",
+        "Hunger",
+        "Consumption",
+        "Assimilation"
+      ],
+      "source": "GIOCATORE_60_Maw_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-20-I-M01",
+            "EFF-20-I-M02",
+            "EFF-20-I-M03",
+            "EFF-20-I-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-20-II-M01",
+            "EFF-20-II-M02",
+            "EFF-20-II-M03",
+            "EFF-20-II-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-20-III-M01",
+            "EFF-20-III-M02",
+            "EFF-20-III-M03",
+            "EFF-20-III-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-20-IV-M01",
+            "EFF-20-IV-M02",
+            "EFF-20-IV-M03",
+            "EFF-20-IV-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-20-V-M01",
+            "EFF-20-V-M02",
+            "EFF-20-V-M03",
+            "EFF-20-V-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-20-VI-M01",
+            "EFF-20-VI-M02",
+            "EFF-20-VI-M03",
+            "EFF-20-VI-M04"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-20-VII-M01",
+            "EFF-20-VII-M02",
+            "EFF-20-VII-M03",
+            "EFF-20-VII-M04"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-21",
+      "name": "Loom",
+      "authorities": [
+        "Causality",
+        "Probability",
+        "Destiny"
+      ],
+      "source": "GIOCATORE_61_Loom_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-21-I-M01",
+            "EFF-21-I-M02",
+            "EFF-21-I-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-21-II-M01",
+            "EFF-21-II-M02",
+            "EFF-21-II-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-21-III-M01",
+            "EFF-21-III-M02",
+            "EFF-21-III-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-21-IV-M01",
+            "EFF-21-IV-M02",
+            "EFF-21-IV-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-21-V-M01",
+            "EFF-21-V-M02",
+            "EFF-21-V-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-21-VI-M01",
+            "EFF-21-VI-M02",
+            "EFF-21-VI-M03"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-21-VII-M01",
+            "EFF-21-VII-M02",
+            "EFF-21-VII-M03"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-22",
+      "name": "Eclipse",
+      "authorities": [
+        "Darkness",
+        "Shadow",
+        "Concealment",
+        "Night",
+        "Silence"
+      ],
+      "source": "GIOCATORE_170_Eclipse_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-22-I-M01",
+            "EFF-22-I-M02",
+            "EFF-22-I-M03",
+            "EFF-22-I-M04",
+            "EFF-22-I-M05"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-22-II-M01",
+            "EFF-22-II-M02",
+            "EFF-22-II-M03",
+            "EFF-22-II-M04",
+            "EFF-22-II-M05"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-22-III-M01",
+            "EFF-22-III-M02",
+            "EFF-22-III-M03",
+            "EFF-22-III-M04",
+            "EFF-22-III-M05"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-22-IV-M01",
+            "EFF-22-IV-M02",
+            "EFF-22-IV-M03",
+            "EFF-22-IV-M04",
+            "EFF-22-IV-M05"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-22-V-M01",
+            "EFF-22-V-M02",
+            "EFF-22-V-M03",
+            "EFF-22-V-M04",
+            "EFF-22-V-M05"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-22-VI-M01",
+            "EFF-22-VI-M02",
+            "EFF-22-VI-M03",
+            "EFF-22-VI-M04",
+            "EFF-22-VI-M05"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-22-VII-M01",
+            "EFF-22-VII-M02",
+            "EFF-22-VII-M03",
+            "EFF-22-VII-M04",
+            "EFF-22-VII-M05"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    },
+    {
+      "id": "EFF-23",
+      "name": "Crescent",
+      "authorities": [
+        "Black Magic",
+        "Reflection",
+        "Enchantment",
+        "Curses",
+        "Lunar Cycles"
+      ],
+      "source": "GIOCATORE_168_Crescent_progressione_completa.md",
+      "stages": [
+        {
+          "stage": 1,
+          "abilities": [
+            "EFF-23-I-M01",
+            "EFF-23-I-M02",
+            "EFF-23-I-M03",
+            "EFF-23-I-M04",
+            "EFF-23-I-M05"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 2,
+          "abilities": [
+            "EFF-23-II-M01",
+            "EFF-23-II-M02",
+            "EFF-23-II-M03",
+            "EFF-23-II-M04",
+            "EFF-23-II-M05"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 3,
+          "abilities": [
+            "EFF-23-III-M01",
+            "EFF-23-III-M02",
+            "EFF-23-III-M03",
+            "EFF-23-III-M04",
+            "EFF-23-III-M05"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 4,
+          "abilities": [
+            "EFF-23-IV-M01",
+            "EFF-23-IV-M02",
+            "EFF-23-IV-M03",
+            "EFF-23-IV-M04",
+            "EFF-23-IV-M05"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 5,
+          "abilities": [
+            "EFF-23-V-M01",
+            "EFF-23-V-M02",
+            "EFF-23-V-M03",
+            "EFF-23-V-M04",
+            "EFF-23-V-M05"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 6,
+          "abilities": [
+            "EFF-23-VI-M01",
+            "EFF-23-VI-M02",
+            "EFF-23-VI-M03",
+            "EFF-23-VI-M04",
+            "EFF-23-VI-M05"
+          ],
+          "authority_coverage": true
+        },
+        {
+          "stage": 7,
+          "abilities": [
+            "EFF-23-VII-M01",
+            "EFF-23-VII-M02",
+            "EFF-23-VII-M03",
+            "EFF-23-VII-M04",
+            "EFF-23-VII-M05"
+          ],
+          "authority_coverage": true
+        }
+      ],
+      "specific_advancement_protocol_status": "NON_VERIFICATO_QUALITATIVAMENTE",
+      "note": "La copertura delle abilità non prova la presenza di una procedura concreta di avanzamento."
+    }
+  ],
+  "ability_count": 595,
+  "awakenings": 23,
+  "interstage_transitions": 138,
+  "total_procedural_cases": 161,
+  "canonical_ability_changes": 0,
+  "zip_created": false
+}

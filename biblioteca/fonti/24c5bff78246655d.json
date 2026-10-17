@@ -272,10 +272,11 @@
       "effigy": "Scroll",
       "authority": "Will",
       "stage": "I",
-      "ability": "Directed Attention",
-      "operation": "Investe un significato ricevuto per orientare sovrannaturalmente l’attenzione del destinatario: la proposta prende rilievo contro il suo precedente impulso a ignorarla. Non occorre che il Bearer sia già convincente e non serve Language.",
-      "standalone_input": "Significato ricevuto anche con parole ordinarie; non richiede un comando magico di Language.",
-      "rewritten": true
+      "ability": "Imperative Assent",
+      "operation": "Impone una singola intenzione immediata e comprensibile al destinatario raggiunto. Se prevale, «posa la chiave» diventa la sua decisione di posarla, non un consiglio che può semplicemente ignorare né un movimento comandato dall’esterno. Può imporre anche una scelta attentiva come «guardami», ma la salienza non è il limite del ramo. La decisione è vissuta senza un marcatore soggettivo necessario di estraneità; la vittima può ritenerla propria.",
+      "standalone_input": "Significato investito ricevuto tramite un accesso valido, anche mediante parole o scritte ordinarie come mezzo. Non richiede Language, fascinazione, paura o controllo motorio.",
+      "rewritten": true,
+      "will_revision": 345
     },
     {
       "effigy": "Scroll",
@@ -299,10 +300,11 @@
       "effigy": "Scroll",
       "authority": "Will",
       "stage": "II",
-      "ability": "Chosen Impulse",
-      "operation": "Introduce un'intenzione semplice: avvicinarsi o interrompere un gesto, contendendo deliberazione.",
-      "standalone_input": "Significato ricevuto anche con parole ordinarie; non richiede un comando magico di Language.",
-      "rewritten": false
+      "ability": "Inscribed Imperative",
+      "operation": "Deposita un imperativo di Will in un messaggio scritto o altro supporto semantico autenticamente investito, con quota e condizione di ricezione definite. Il comando viene esercitato quando il significato predisposto raggiunge una coscienza valida, anche senza una nuova direzione cosciente del Bearer. È la ricezione della volontà imposta, non la lettura ordinaria di una frase, a produrre l’obbedienza.",
+      "standalone_input": "Significato investito ricevuto tramite un accesso valido, anche mediante parole o scritte ordinarie come mezzo. Non richiede Language, fascinazione, paura o controllo motorio.",
+      "rewritten": false,
+      "will_revision": 345
     },
     {
       "effigy": "Scroll",
@@ -326,10 +328,11 @@
       "effigy": "Scroll",
       "authority": "Will",
       "stage": "III",
-      "ability": "Internalized Assent",
-      "operation": "L'intenzione viene assimilata come propria nella misura prevalente: indossare qualcosa sembra una buona idea, senza intera biografia riscritta.",
-      "standalone_input": "Significato ricevuto anche con parole ordinarie; non richiede un comando magico di Language.",
-      "rewritten": false
+      "ability": "Deliberative Mandate",
+      "operation": "Impone un obiettivo o un criterio di deliberazione continuato, invece di una sola scelta immediata. Il destinatario usa le proprie conoscenze e facoltà per scegliere i mezzi coerenti con la volontà ricevuta, vivendola come proprio proposito finché il mandato prevale. Può rispondere a situazioni comprese nell’incarico senza un nuovo ordine per ogni gesto. Non riceve una seconda coscienza o un’intelligenza presa in prestito.",
+      "standalone_input": "Significato investito ricevuto tramite un accesso valido, anche mediante parole o scritte ordinarie come mezzo. Non richiede Language, fascinazione, paura o controllo motorio.",
+      "rewritten": false,
+      "will_revision": 345
     },
     {
       "effigy": "Scroll",
@@ -353,10 +356,11 @@
       "effigy": "Scroll",
       "authority": "Will",
       "stage": "IV",
-      "ability": "Intent Dissociation",
-      "operation": "Separa l’esecuzione di una deliberazione raggiunta dal motivo che la sosteneva, mantenendo contendibile la scelta successiva.",
-      "standalone_input": "Significato ricevuto anche con parole ordinarie; non richiede un comando magico di Language.",
-      "rewritten": false
+      "ability": "Volitional Interdict",
+      "operation": "Impone un divieto deliberativo selettivo: una volontà raggiunta non può usare un motivo preso per decidere oppure non può richiamare volontariamente un ricordo specifico effettivamente raggiunto. Può disgiungere un’intenzione imposta o intrusiva dal suo impiego nella deliberazione, senza cancellare la persona. Il destinatario non sceglie semplicemente di mentire e non deve riconoscere l’origine magica del blocco.",
+      "standalone_input": "Significato investito ricevuto tramite un accesso valido, anche mediante parole o scritte ordinarie come mezzo. Non richiede Language, fascinazione, paura o controllo motorio.",
+      "rewritten": false,
+      "will_revision": 345
     },
     {
       "effigy": "Scroll",
@@ -381,9 +385,10 @@
       "authority": "Will",
       "stage": "V",
       "ability": "Assent Partition",
-      "operation": "Separa l’assenso a parti di un’intenzione composta senza cancellare l’intera deliberazione.",
-      "standalone_input": "Significato ricevuto anche con parole ordinarie; non richiede un comando magico di Language.",
-      "rewritten": false
+      "operation": "Scompone una deliberazione composta in assensi e propositi distinguibili e impone quali restano operativi, quali vengono esclusi e quale priorità devono rispettare, conservando la stessa persona. Può prendere selettivamente un segmento del volere senza assoggettare ogni altra scelta. Non compartimenta ricordi in stanze mentali né pilota organi.",
+      "standalone_input": "Significato investito ricevuto tramite un accesso valido, anche mediante parole o scritte ordinarie come mezzo. Non richiede Language, fascinazione, paura o controllo motorio.",
+      "rewritten": false,
+      "will_revision": 345
     },
     {
       "effigy": "Scroll",
@@ -408,9 +413,10 @@
       "authority": "Will",
       "stage": "VI",
       "ability": "Intent Transmission",
-      "operation": "Un’intenzione investita ricevuta può essere veicolata attraverso un secondo interlocutore senza trasferire la sua coscienza.",
-      "standalone_input": "Significato ricevuto anche con parole ordinarie; non richiede un comando magico di Language.",
-      "rewritten": false
+      "operation": "Conferisce a un significato investito ricevuto la capacità di veicolare l’imposizione attraverso un secondo interlocutore o messaggio autenticamente raccordato. La catena trasmette una volontà delimitata, non la coscienza del Bearer: ogni nuovo destinatario riceve il comando, lo vive senza un avviso soggettivo necessario e oppone la propria resistenza. Il portatore può servirsi della comunicazione dei vettori senza presenziare a ogni passaggio.",
+      "standalone_input": "Significato investito ricevuto tramite un accesso valido, anche mediante parole o scritte ordinarie come mezzo. Non richiede Language, fascinazione, paura o controllo motorio.",
+      "rewritten": false,
+      "will_revision": 345
     },
     {
       "effigy": "Scroll",
@@ -434,10 +440,11 @@
       "effigy": "Scroll",
       "authority": "Will",
       "stage": "VII",
-      "ability": "Deliberative Severance",
-      "operation": "Separa un impulso intrusivo dalla deliberazione che lo aveva assimilato, oppure contende il rapporto che consente di riconoscerlo come estraneo.",
-      "standalone_input": "Significato ricevuto anche con parole ordinarie; non richiede un comando magico di Language.",
-      "rewritten": false
+      "ability": "Collective Volition",
+      "operation": "Costituisce e governa una struttura di volontà imposta condivisa fra coscienze effettivamente raggiunte: un principio deliberativo comune viene assunto come proprio dai partecipanti e regola le loro decisioni anche nel rapporto reciproco. Non deve impartire separatamente ogni microordine: i soggetti scelgono mezzi differenti secondo le proprie facoltà ma subordinano l’assenso alla volontà collettiva esercitata. Può sostituire o recidere l’imperativo dominante della struttura presa e liberarne le componenti separabili. È dominio della deliberazione collettiva, anche non coscientemente riconosciuto, non creazione di uno spazio mentale condiviso o lettura di tutti i pensieri.",
+      "standalone_input": "Significato investito ricevuto tramite un accesso valido, anche mediante parole o scritte ordinarie come mezzo. Non richiede Language, fascinazione, paura o controllo motorio.",
+      "rewritten": false,
+      "will_revision": 345
     },
     {
       "effigy": "Halo",
@@ -5481,5 +5488,6 @@
     }
   ],
   "method": "Lettura editoriale delle operazioni e prova di ramo isolato; controlli automatici per corrispondenza e conteggi, non prova automatica di qualità.",
-  "legacy_application_chapters_replaced": 133
+  "legacy_application_chapters_replaced": 133,
+  "will_revision": 345
 }

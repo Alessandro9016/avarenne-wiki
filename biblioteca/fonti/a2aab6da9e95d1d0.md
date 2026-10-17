@@ -1,5 +1,24 @@
 # Crescent — Effige della stregoneria lunare
 
+<!-- EXAMPLES344 INTRO -->
+Revisione editoriale degli esempi 344 — 17 ottobre 2026.
+
+I tre esempi descrivono applicazioni ipotetiche della singola abilità, non eventi già avvenuti nella storia. Ciascuno presuppone il rango, l’energia, il mezzo e l’accesso richiesti dalla scheda; un avversario può opporre le proprie difese. Le note sui limiti sono separate dai tre casi. Oggetti e situazioni piccoli aiutano a capire il procedimento: non fissano il limite di potenza dei ranghi superiori. Il manuale conserva le definizioni approvate, che prevalgono su qualsiasi lettura estensiva di un esempio. Conoscere un nome o guardare una fotografia non fornisce da solo un accesso al bersaglio.
+
+**Parole usate negli esempi:**
+
+- **Supporto:** L’oggetto o la struttura che ospita o mantiene l’effetto: per esempio una placca preparata.
+- **Investire:** Assegnare realmente magia ed energia a un’azione, un oggetto o un collegamento; non soltanto dichiarare un’intenzione.
+- **Accesso o presa:** Il modo effettivo in cui il potere può interagire con quel bersaglio. Per Ruin serve sempre il contatto previsto dalla sua scheda.
+- **Rapporto o raccordo:** Un collegamento reale tra due componenti: per esempio quello con cui un nodo alimenta una barriera. Non basta che le due cose si somiglino.
+- **Interfaccia:** Il punto o la superficie attraverso cui avviene l’interazione; raggiungere quella superficie non equivale sempre a raggiungere l’intera persona.
+- **Tenuta:** La resistenza che l’effetto riesce a opporre. Un attacco più forte può superarla.
+- **Quota e carico:** La parte di energia assegnata e il lavoro che viene sostenuto. Più impieghi non significano automaticamente più energia disponibile.
+- **Continuità personale:** L’esistenza della stessa persona, distinta dall’avere soltanto un corpo o un’immagine che le somiglia. Ogni recupero segue i requisiti della capacità che lo permette.
+<!-- END EXAMPLES344 INTRO -->
+
+
+
 Versione consolidata 2.0 — 15 ottobre 2026. Contenuti e denominazioni approvati dal giocatore; manuale condiviso senza segreti narrativi.
 
 **Stato editoriale:** canone integrato EFF-23, famiglia The Nocturne, Root fisica The Veiled Basin. La progressione è revisionata per operazioni distinte; i parametri di esercizio restano riferimenti al rango; possessori e storia moderna sono riservati.
@@ -88,6 +107,25 @@ Il Bearer percepisce l'investimento dei propri supporti e possiede un repertorio
 - **Esempio:** il Bearer sfonda una serratura fragile con un impulso, oppure ferisce uno spettro realmente percepito. Non riceve informazioni su tutto lo spirito colpito.
 - **Contromisure:** interposizione, distanza, schermatura della componente pertinente. Un sigillo diretto non compare dentro organi irraggiunti. Una barriera può essere sovraccaricata.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-I-M01 -->
+**Tre esempi pratici — Sigilcraft**
+
+1. Dal sigillo nella mano emette un dardo che rompe una serratura fragile entro l'accesso e la potenza iniziali.
+
+2. Sostiene una superficie magica che attutisce un urto o intercetta schegge leggere.
+
+3. Esercita un impulso spirituale contro uno spettro effettivamente percepito: la fiamma materiale ordinaria non è automaticamente un'arma universale per anime.
+<!-- END EXAMPLES344 -->
+
 ### I.RF — Silver Witness
 
 **Autorità:** Riflessione. **Novità:** investe un riflesso presente per osservarne la relazione con ciò che lo produce.
@@ -98,6 +136,25 @@ Il Bearer percepisce l'investimento dei propri supporti e possiede un repertorio
 - **Limiti:** non identifica automaticamente chi si nasconde, non rivela menzogne e non controlla percezione o attribuzione come Mask. Un occultamento pertinente può prevalere. Nessuna ferita può ancora essere trasferita.
 - **Crescita:** maggiore qualità di lettura non elimina il requisito del riflesso o accesso realmente investito.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-I-M02 -->
+**Tre esempi pratici — Silver Witness**
+
+1. Investe uno specchio che riflette davvero un corridoio e vi osserva il movimento dietro l'angolo.
+
+2. Rileva che il rapporto di un riflesso raggiunto è perturbato soprannaturalmente.
+
+3. Investe una superficie per osservare il riflesso spirituale di una presenza già raggiunta: non vede una stanza che nessuna immagine pertinente mostra.
+<!-- END EXAMPLES344 -->
+
 ### I.EN — First Fascination
 
 **Autorità:** Incantamento. **Novità:** la propria presenza acquista una fascinazione soprannaturale senza cambiare volto o corpo.
@@ -107,6 +164,27 @@ Il Bearer percepisce l'investimento dei propri supporti e possiede un repertorio
 - **Esempio offensivo:** un avversario esita a distogliere gli occhi mentre un dardo parte. Non è garantito che smetta di difendersi. **Uso sociale:** un ascoltatore vuole rimanere, ma può comunque dissentire.
 - **Limiti:** niente lettura mentale, comando o memorie nuove. Chi non riceve la presenza non è raggiunto. Disciplina e protezione dell'attenzione contendono. Fascinazione e convinzione nella verità di una frase restano distinte.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-I-M03 -->
+**Tre esempi pratici — First Fascination**
+
+1. Durante un incontro rende la propria presenza più affascinante e l'interlocutore desidera continuare ad ascoltare: può comunque rifiutare la proposta e ricordare normalmente la conversazione.
+
+2. Un avversario sensibile esita a distogliere lo sguardo dalla sua presenza investita: il fascino può aprire un momento utile ma non gli impone di smettere di difendersi.
+
+3. Fra più presenze osservate la sua suscita una curiosità soprannaturale più difficile da ignorare: non serve attrazione erotica né cambiare volto, e chi non riceve la presenza non è raggiunto.
+
+**Nota operativa (fuori dai tre esempi):** La fascinazione suscita curiosità o attrazione senza dover essere erotica e senza cambiare il volto.
+<!-- END EXAMPLES344 -->
+
 ### I.CU — Witchmark
 
 **Autorità:** Maledizioni. **Novità:** imprime un'afflizione tenue che continua oltre il singolo impatto.
@@ -115,6 +193,25 @@ Il Bearer percepisce l'investimento dei propri supporti e possiede un repertorio
 - **Effetto:** dolore localizzato, intorpidimento lieve o tremore intermittente in una zona effettivamente raggiunta. Un marchio su un oggetto può disturbare la presa di chi lo usa se il sortilegio riesce anche a raggiungerlo.
 - **Esempio:** una mano colpita trema abbastanza da rendere difficile mirare. Non cambia anatomia, non paralizza automaticamente tutto il corpo e non trasferisce l'effetto a ogni futuro proprietario.
 - **Contromisure:** rimozione del marchio, schermatura, interruzione dell'accesso, potere pertinente. Lavare il supporto ordinario non sempre elimina l'investimento; danneggiare il segno realmente portante può farlo.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-I-M04 -->
+**Tre esempi pratici — Witchmark**
+
+1. Un marchio raggiunge la mano avversa e vi mantiene un tremore che rende più difficile mirare.
+
+2. Un'afflizione produce dolore localizzato che continua oltre il primo impatto finché la presa regge.
+
+3. Un oggetto marchiato può disturbare una presa se il sortilegio raggiunge anche chi lo usa: non contagia automaticamente ogni futuro proprietario.
+<!-- END EXAMPLES344 -->
 
 ### I.LC — Waxing Spark
 
@@ -126,6 +223,27 @@ Il Bearer percepisce l'investimento dei propri supporti e possiede un repertorio
 **Novità qualitativa:** Primo impulso ciclico sovrannaturale autonomo, non una batteria priva di potere proprio.
 
 **Esercizio e contesa:** Fonte propria e quota assegnata; un ingresso realmente raggiunto. Routine per un ciclo tenue, Demanding per piena intensità o simultaneità. Impulso e confine hanno tenuta materiale/spirituale pertinente al rango; non fermano ogni attacco per definizione. Interrompere supporto, alimentazione o interfaccia può far fallire il ciclo.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-I-M05 -->
+**Tre esempi pratici — Waxing Spark**
+
+1. Carica un impulso lunare nel palmo e lo libera per respingere un oggetto raggiunto.
+
+2. Conserva la carica fino al breve culmine adatto a sostenere una parata.
+
+3. Fa crescere una carica ciclica propria e ne libera il culmine come breve forza protettiva: il potere agisce da solo con la propria quota, senza richiedere un'altra autorità che fornisca l'effetto.
+
+**Nota operativa (fuori dai tre esempi):** Il ciclo esercita già una forza propria: non deve prima alimentare Sigilcraft, ma paga comunque la quota consumata.
+<!-- END EXAMPLES344 -->
 
 ## II — Hexer (Attunement)
 
@@ -141,6 +259,25 @@ Il Bearer incorpora tecniche adatte al duello. Repertorio precedente: riferiment
 - **Esempio:** il bastone ferma un artiglio investito e può poi ferire la creatura incorporea; un proiettile curva attorno a un ostacolo visibile, non attraversa gratuitamente un muro.
 - **Contromisure:** distruzione della proiezione, protezione pertinente, perdita dell'acquisizione. Nessuna anatomia o forza biologica aggiuntiva.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-II-M01 -->
+**Tre esempi pratici — Witch Armament**
+
+1. Investe un bastone che può opporre un artiglio magico e colpire una presenza incorporea raggiunta.
+
+2. Riveste il mezzo con fiamma stregata sostenuta, distinguendo la componente materiale da quella spirituale.
+
+3. Un proiettile-sigillo corregge la traiettoria sul percorso accessibile verso la presenza acquisita: non attraversa gratuitamente una parete.
+<!-- END EXAMPLES344 -->
+
 ### II.RF — Reflective Turn
 
 **Autorità:** Riflessione. **Novità:** devia un'emissione intercettata da una superficie speculare investita.
@@ -149,6 +286,27 @@ Il Bearer incorpora tecniche adatte al duello. Repertorio precedente: riferiment
 - **Effetto:** cambia la direzione di una porzione di luce, dardo energetico o scarica che interagisca realmente con il supporto. Il supporto deve avere tenuta per la componente trattata.
 - **Esempio:** un fascio viene deviato verso il terreno mentre l'investimento dello specchio si consuma. Se una scarica porta anche una componente spirituale non coperta, quella non è automaticamente deviata.
 - **Limiti:** un proiettile massiccio non diventa un raggio perché lucido; può urtare la barriera magica, ma manca la deviazione speculare se la tecnica non lo prende. Non rimanda indietro attacchi già conclusi, non moltiplica energia e non concede reazione più rapida della luce. Il supporto deve essere già predisposto contro un'emissione troppo veloce da osservare e contrastare coscientemente.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-II-M02 -->
+**Tre esempi pratici — Reflective Turn**
+
+1. Uno specchio predisposto intercetta un fascio compatibile e ne devia una quota verso il terreno.
+
+2. Un dardo energetico cambia direzione quando interagisce con la superficie investita capace di sostenerlo.
+
+3. Una superficie speculare adatta già preparata intercetta l'emissione compatibile e ne cambia il tragitto: la parte effettivamente deviata non segue più la traiettoria iniziale verso il Bearer.
+
+**Nota operativa (fuori dai tre esempi):** Una componente spirituale non coperta può oltrepassare la difesa: deviare la luce non garantisce di deviare tutto l'attacco.
+<!-- END EXAMPLES344 -->
 
 ### II.EN — Enchanted Lure
 
@@ -159,6 +317,25 @@ Il Bearer incorpora tecniche adatte al duello. Repertorio precedente: riferiment
 - **Esempio:** una gemma distrae un inseguitore; un amuleto attira uno spirito curioso che può essere poi invitato in un cerchio. Una persona può riconoscere l'esca e contrastarla.
 - **Limiti:** non crea informazioni false, non decide le scelte del bersaglio, non impartisce ordini come Scroll e non produce fame come Maw. Proteggere il canale percettivo o spirituale, rimuovere il supporto o opporre volontà è pertinente. Il supporto non acquisisce una mente.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-II-M03 -->
+**Tre esempi pratici — Enchanted Lure**
+
+1. Una gemma investita attira l'attenzione dell'inseguitore anche quando il Bearer non è accanto alla gemma.
+
+2. Un amuleto suscita curiosità in uno spirito sensibile, che può avvicinarsi e può anche resistere.
+
+3. Un oggetto rende desiderabile trattenerlo senza imporre una lunga sequenza di ordini o inventare informazioni false.
+<!-- END EXAMPLES344 -->
+
 ### II.CU — Conditional Hex
 
 **Autorità:** Maledizioni. **Novità:** collega un anatema a una condizione riconoscibile invece di mantenerne l'afflizione uniforme.
@@ -167,6 +344,25 @@ Il Bearer incorpora tecniche adatte al duello. Repertorio precedente: riferiment
 - **Effetto:** dolore quando la mano stringe; vertigine quando il bersaglio tenta di correre; screpolatura di un piccolo oggetto quando viene usato. Un solo trigger semplice per anatema a II.
 - **Esempio:** un avversario continua a camminare ma viene colpito da fitte quando accelera. Una leva marchiata oppone una tensione stregata ogni volta che viene tirata.
 - **Limiti:** il sigillo deve poter rilevare la condizione. Non conosce intenzioni segrete e non valuta genericamente «quando tradisce». Un trigger non trasforma la magia in legge universale Crown o in causalità Loom. La condizione può verificarsi mentre il danno viene resistito.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-II-M04 -->
+**Tre esempi pratici — Conditional Hex**
+
+1. Il marchio causa fitte quando la mano stringe, lasciandola meno disturbata quando rimane rilassata.
+
+2. Un bersaglio cammina ma prova vertigine quando tenta di correre, se l'anatema prevale.
+
+3. Una leva marchiata oppone la tensione predisposta quando viene tirata: il trigger deve poter riconoscere quel movimento.
+<!-- END EXAMPLES344 -->
 
 ### II.LC — Divided Phase
 
@@ -178,6 +374,27 @@ Il Bearer incorpora tecniche adatte al duello. Repertorio precedente: riferiment
 **Novità qualitativa:** Fasi separatamente esercitabili dello stesso ciclo, non semplice crescita della carica I.
 
 **Esercizio e contesa:** Fonte propria e quota assegnata; un ingresso realmente raggiunto. Routine per un ciclo tenue, Demanding per piena intensità o simultaneità. Impulso e confine hanno tenuta materiale/spirituale pertinente al rango; non fermano ogni attacco per definizione. Interrompere supporto, alimentazione o interfaccia può far fallire il ciclo.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-II-M05 -->
+**Tre esempi pratici — Divided Phase**
+
+1. Divide il ciclo e libera una quota come urto mentre mantiene la fase protettiva.
+
+2. Usa subito una fase per una parata urgente senza spendere automaticamente l'intera carica del ciclo.
+
+3. Mantiene pronta la fase protettiva mentre spende soltanto la fase offensiva già distinta: il colpo consuma la propria quota e non esaurisce automaticamente tutto il ciclo rimasto disponibile.
+
+**Nota operativa (fuori dai tre esempi):** Conserva una fase successiva pronta entro la stessa riserva: non ha ricevuto una seconda fonte indipendente.
+<!-- END EXAMPLES344 -->
 
 ## III — Witch (Embodiment)
 
@@ -193,6 +410,25 @@ Sigilli e supporti possono lavorare insieme. Riferimento diretto 60 m; un circui
 - **Esempio:** sigilli sul pavimento aggrediscono un mostro mentre una barriera protegge la porta. Rompere nodi apre varchi reali; il volo può continuare solo se resta alimentato.
 - **Limiti:** contenimento non equivale a contratto o dominio dell'anima. Un'entità può spezzare il cerchio; il circuito non acquisisce volontà.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-III-M01 -->
+**Tre esempi pratici — Ritual Circuit**
+
+1. Collega sigilli sul pavimento che aggrediscono da più lati mentre un nodo protegge la porta.
+
+2. Un cerchio trattiene una presenza spirituale realmente raggiunta finché la sua tenuta supera l'opposizione.
+
+3. Un circuito di sostegno e propulsione investe un mezzo preparato per trasportare il Bearer: resta alimentato e non diventa un portale.
+<!-- END EXAMPLES344 -->
+
 ### III.RF — Mirror Substitution
 
 **Autorità:** Riflessione. **Novità:** un proprio riflesso investito sostiene una sostituzione difensiva della lesione corporea al momento dell'aggressione.
@@ -202,6 +438,27 @@ Sigilli e supporti possono lavorare insieme. Riferimento diretto 60 m; un circui
 - **Esempio:** una pallottola rompe lo specchio investito senza perforare il torace. Un fascio continuo può consumare il supporto e poi colpire: sostituzione iniziale non significa immunità al resto dell'emissione.
 - **Limiti:** non trasferisce ferite già avvenute; non copre ancora automaticamente l'anatema sull'anima. Un attacco che sequestri o aggredisca il collegamento richiede una contesa specifica. Una persona comune riflessa casualmente non diventa vittima sostitutiva. Nessuna copia personale viene creata.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-III-M02 -->
+**Tre esempi pratici — Mirror Substitution**
+
+1. Una lesione che raggiungerebbe il torace viene sostenuta dallo specchio predisposto, che si perfora o si rompe.
+
+2. Un trauma compatibile viene trasferito in parte al supporto collegato senza spostare il corpo del Bearer.
+
+3. Un colpo materiale sta per ferirlo e il riflesso investito è già collegato: il supporto può ricevere la lesione al suo posto, incrinandosi o rompendosi mentre il Bearer resta nella stessa posizione.
+
+**Nota operativa (fuori dai tre esempi):** Un fascio continuo può consumare lo specchio e poi colpire: la sostituzione non è una cura retroattiva di ferite già avvenute.
+<!-- END EXAMPLES344 -->
+
 ### III.EN — Repellent Seal
 
 **Autorità:** Incantamento. **Novità:** un supporto o presenza esercita avversione soprannaturale invece di attrazione.
@@ -210,6 +467,27 @@ Sigilli e supporti possono lavorare insieme. Riferimento diretto 60 m; un circui
 - **Effetto:** rende dolorosamente sgradevole avvicinarsi, soffermarsi o toccare il punto investito. Può concentrare l'avversione in una propria presenza per allontanare un aggressore sensibile.
 - **Esempio:** un inseguitore prova un impulso a evitare una scala, ma può superarlo; un mostro senziente esita prima di afferrare il Bearer. La difesa materiale continua a essere necessaria.
 - **Limiti:** non è una parete fisica: un proiettile e un automa privo della sensibilità pertinente non vengono fermati dall'avversione. Non costruisce un incubo, non riscrive pensieri e non dichiara che il luogo sia realmente pericoloso. L'impressione può essere riconosciuta come estranea.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-III-M03 -->
+**Tre esempi pratici — Repellent Seal**
+
+1. Investe una scala perché avvicinarsi risulti soprannaturalmente sgradevole a chi ne riceve l'effetto.
+
+2. Concentra avversione nella propria presenza per far esitare un aggressore sensibile.
+
+3. Investe un oggetto affinché toccarlo risulti soprannaturalmente sgradevole al destinatario sensibile: la persona può esitare o opporsi, mentre un proiettile non viene fermato dall'avversione.
+
+**Nota operativa (fuori dai tre esempi):** Un proiettile attraversa comunque la zona: l'avversione non è una parete materiale e richiede sensibilità pertinente.
+<!-- END EXAMPLES344 -->
 
 ### III.CU — Sympathetic Effigy
 
@@ -221,6 +499,27 @@ Sigilli e supporti possono lavorare insieme. Riferimento diretto 60 m; un circui
 - **Esempio:** comprimere il torace dell'effigie trasmette una pressione al torace raggiunto; la corazza esterna può non essere la difesa pertinente. Schiacciare una bambola non uccide automaticamente chi rappresenta.
 - **Contromisure:** contendere la presa, interrompere la corrispondenza, sostituire il bersaglio dell'accesso o rimuovere il supporto. Nessun contagio a una discendenza.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-III-M04 -->
+**Tre esempi pratici — Sympathetic Effigy**
+
+1. Un campione autentico sostiene l'effigie collegata: comprimerne il torace esercita pressione sul rapporto raggiunto del bersaglio.
+
+2. Mantiene un anatema tramite un oggetto autenticamente impregnato senza toccare continuamente il destinatario.
+
+3. Un oggetto autenticamente impregnato sostiene la corrispondenza con il destinatario: l'intervento rituale sul supporto alimenta l'afflizione pertinente attraverso quel legame, senza contatto corporeo continuato.
+
+**Nota operativa (fuori dai tre esempi):** Il collegamento viene schermato o spezzato: schiacciare la bambola non uccide comunque una persona per somiglianza.
+<!-- END EXAMPLES344 -->
+
 ### III.LC — Sealed Moon
 
 
@@ -231,6 +530,27 @@ Sigilli e supporti possono lavorare insieme. Riferimento diretto 60 m; un circui
 **Novità qualitativa:** Ciclo custodito autonomamente fuori dalla preparazione immediata.
 
 **Esercizio e contesa:** Fonte propria e quota assegnata; un ingresso realmente raggiunto. Routine per un ciclo tenue, Demanding per piena intensità o simultaneità. Impulso e confine hanno tenuta materiale/spirituale pertinente al rango; non fermano ogni attacco per definizione. Interrompere supporto, alimentazione o interfaccia può far fallire il ciclo.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-III-M05 -->
+**Tre esempi pratici — Sealed Moon**
+
+1. Deposita un ciclo lunare su un supporto perché liberi un impulso al trigger predisposto.
+
+2. Il supporto mantiene in quiescenza una fase protettiva senza che la carica resti presso il corpo.
+
+3. Prepara una tenuta lunare in quiescenza sul supporto adatto: al trigger rilevabile la configurazione entra in esercizio con la quota assegnata, anche se la carica non è più presso il suo corpo.
+
+**Nota operativa (fuori dai tre esempi):** Un alleato usa il supporto predisposto entro la funzione conferita: non riceve tutte le autorità di Crescent.
+<!-- END EXAMPLES344 -->
 
 ## IV — Pactbearer (Transfiguration)
 
@@ -250,6 +570,27 @@ Riferimento diretto 300 m, circuito intenso 100 m, collegamenti preparati circa 
 - **Esempio:** un famiglio predatore morde lo spirito esposto di un aggressore mentre il Bearer lo colpisce materialmente. Se il nemico spezza il richiamo, la bocca perde presa.
 - **Limiti:** non crea vita, non copia una Seat e non permette metamorfosi libera. Il contratto specifica prezzo, servizio, durata e scioglimento. Il richiamo non trasporta qualunque persona come Astrolabe.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-IV-M01 -->
+**Tre esempi pratici — Major Familiar Pact**
+
+1. Stabilisce un contratto con un'entità indipendente e ne richiama la presenza o una parte secondo le condizioni pattuite.
+
+2. Il famiglio interviene con capacità proprie effettive, non con qualsiasi potere il Bearer desideri al momento.
+
+3. Il contratto maggiore consente un richiamo parziale dell'entità indipendente: ne rende disponibile l'intervento stabilito senza pretendere che l'entità abbia qualunque capacità venga utile al momento.
+
+**Nota operativa (fuori dai tre esempi):** Il richiamo deve rispettare contratto, accesso e prezzo: l'entità non è una copia mentale del contraente.
+<!-- END EXAMPLES344 -->
+
 ### IV.RF — Living Mirror
 
 **Autorità:** Riflessione. **Novità:** incorpora nel proprio esercizio superfici speculari autonome dal vetro esterno, adatte anche a prese spirituali.
@@ -258,6 +599,27 @@ Riferimento diretto 300 m, circuito intenso 100 m, collegamenti preparati circa 
 - **Effetto:** barriere speculari intorno al corpo intercettano urti; i supporti propri possono essere predisposti per sostituire lesioni materiali o spirituali nella componente definita. Superfici raggiunte che riflettono il nemico possono trasmettere un'aggressione attraverso quel riflesso.
 - **Esempio offensivo:** il Bearer investe il nemico visibile in una lastra e incide l'immagine; la presa trasmette una lesione nella profondità prevalente. Il bersaglio può schermare, sottrarre o distruggere la relazione speculare.
 - **Limiti:** osservare non basta ad aggredire una divinità; occorre investire e vincere l'accesso. La sostituzione può fratturare la superficie, che richiede energia per essere ripristinata. Nessun riflesso possiede coscienza, intera Weave o corpo autonomo. Un attacco già applicato non viene spostato dopo.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-IV-M02 -->
+**Tre esempi pratici — Living Mirror**
+
+1. Sostiene una superficie speculare investita senza dover portare un normale pannello di vetro.
+
+2. Usa la superficie incorporata per interazioni speculari compatibili, anche con prese spirituali pertinenti.
+
+3. Sostiene una superficie speculare propria adatta alla componente spirituale presa: può usarla per l'interazione riflessiva compatibile senza dover trovare prima uno specchio ordinario nel teatro.
+
+**Nota operativa (fuori dai tre esempi):** La superficie resta un esercizio mantenuto: non crea un nuovo individuo riflesso con una Seat autonoma.
+<!-- END EXAMPLES344 -->
 
 ### IV.EN — Allure Severance
 
@@ -274,6 +636,27 @@ Riferimento diretto 300 m, circuito intenso 100 m, collegamenti preparati circa 
 
 **Riferimento operativo dello stadio:** Deliberate/Maintained; riferimento pubblico di decine di persone entro 100 m con ricezione pertinente. Routine per lieve influenza, Demanding per immobilizzare l'attenzione di un pari. La portata non sostituisce la presa specifica descritta sopra.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-IV-M03 -->
+**Tre esempi pratici — Allure Severance**
+
+1. Un bersaglio è legato a un fulcro di fascinazione: contende quel rapporto già esercitato.
+
+2. Riduce la presa attrattiva raggiunta senza sostituirla con un ordine a servire il Bearer.
+
+3. Un oggetto mantiene un'attrazione soprannaturale sul destinatario raggiunto: ne contende il rapporto di fascino, lasciando intatti i ricordi dell'oggetto e senza imporre un ordine alternativo.
+
+**Nota operativa (fuori dai tre esempi):** I ricordi dell'incontro rimangono: separare il fascino non riscrive la biografia del destinatario.
+<!-- END EXAMPLES344 -->
+
 ### IV.CU — Embodied Anathema
 
 
@@ -289,6 +672,27 @@ Riferimento diretto 300 m, circuito intenso 100 m, collegamenti preparati circa 
 
 **Riferimento operativo dello stadio:** Deliberate attraverso colpo, marchio o corrispondenza; Maintained/Autonomous, Demanding. Riferimento diretto 300 m; mediato circa 10 km se la corrispondenza tiene. La portata non sostituisce la presa specifica descritta sopra.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-IV-M04 -->
+**Tre esempi pratici — Embodied Anathema**
+
+1. Un anatema preso viene incorporato come difetto operativo, così cancellare soltanto il disegno esterno non basta.
+
+2. La funzione raggiunta continua a soffrire il difetto finché il rapporto interno non viene trattato adeguatamente.
+
+3. Un anatema è incorporato nella funzione presa invece di restare soltanto sul segno esterno: l'afflizione operativa continua anche se viene cancellato il disegno superficiale, finché quel rapporto interno non è trattato.
+
+**Nota operativa (fuori dai tre esempi):** La difesa può ancora contendere o rimuovere il rapporto pertinente: incorporato non significa inevitabile per sempre.
+<!-- END EXAMPLES344 -->
+
 ### IV.LC — Maturing Working
 
 
@@ -299,6 +703,27 @@ Riferimento diretto 300 m, circuito intenso 100 m, collegamenti preparati circa 
 **Novità qualitativa:** Mutazione funzionale del ciclo, distinta da suddivisione della quota II.
 
 **Esercizio e contesa:** Fonte propria e quota assegnata; un ingresso realmente raggiunto. Routine per un ciclo tenue, Demanding per piena intensità o simultaneità. Impulso e confine hanno tenuta materiale/spirituale pertinente al rango; non fermano ogni attacco per definizione. Interrompere supporto, alimentazione o interfaccia può far fallire il ciclo.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-IV-M05 -->
+**Tre esempi pratici — Maturing Working**
+
+1. Il culmine del ciclo sostiene un confine e il declino libera un impulso che sgombra il fronte.
+
+2. Prepara fasi con compiti differenti, non soltanto la stessa fiammata più o meno intensa.
+
+3. Nel ciclo preparato una fase sostiene la protezione e la fase successiva libera un impulso sul fronte: il cambiamento di funzione fa parte del programma sostenuto, non è soltanto lo stesso colpo più potente.
+
+**Nota operativa (fuori dai tre esempi):** Un cambiamento fuori dalle funzioni conferite non viene inventato dal ciclo a richiesta.
+<!-- END EXAMPLES344 -->
 
 ## V — Silver Enchanter (Ascendance)
 
@@ -321,6 +746,27 @@ Riferimento di dominio urbano, fino a circa 5 km attraverso circuiti realmente s
 
 **Riferimento operativo dello stadio:** Intrinsic per il centro, Deliberate/Maintained per le configurazioni. Routine per difese incorporate, Demanding per circuiti e ricostituzione. La portata non sostituisce la presa specifica descritta sopra.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-V-M01 -->
+**Tre esempi pratici — Counter-Invocation**
+
+1. Prende il canale di un richiamo e separa l'entità indipendente dalle funzioni conferite al rito.
+
+2. Contrasta ciò che l'invocazione consente attraverso il proprio accesso invece di pretendere di cancellare l'entità.
+
+3. Il richiamo avverso concede funzioni attraverso un canale preso: lo contende e separa la presenza indipendente dalle funzioni che quel rito le permetteva di esercitare, senza annullare automaticamente l'entità.
+
+**Nota operativa (fuori dai tre esempi):** Spezzare il richiamo non implica aver distrutto la persona o tutto il luogo da cui proviene.
+<!-- END EXAMPLES344 -->
+
 ### V.RF — Specular Inquest
 
 
@@ -335,6 +781,27 @@ Riferimento di dominio urbano, fino a circa 5 km attraverso circuiti realmente s
 **Confine dell’autorità:** La competenza Reflection usa il procedimento proprio di Crescent; non concede tutte le Effigi che possono produrre un risultato visivamente simile. Accessi, fonte, opposizione e compatibilità restano reali.
 
 **Riferimento operativo dello stadio:** Deliberate/Maintained, Demanding contro occultamento; supporti nel dominio urbano realmente collegati. La portata non sostituisce la presa specifica descritta sopra.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-V-M02 -->
+**Tre esempi pratici — Specular Inquest**
+
+1. Interroga un riflesso autentico per ottenere informazioni sul suo rapporto con la presenza, oltre la semplice immagine visibile.
+
+2. Verifica una perturbazione speculare prendendo la relazione effettiva fra superficie e referente.
+
+3. Un riflesso appare normale ma il rapporto con la presenza è stato alterato: interroga quella corrispondenza autentica per ottenere indicazioni sul collegamento, non una biografia completa della persona riflessa.
+
+**Nota operativa (fuori dai tre esempi):** Non legge automaticamente ogni segreto biografico della persona riflessa.
+<!-- END EXAMPLES344 -->
 
 ### V.EN — Lingering Allure
 
@@ -351,6 +818,27 @@ Riferimento di dominio urbano, fino a circa 5 km attraverso circuiti realmente s
 
 **Riferimento operativo dello stadio:** Deliberate/Maintained, Routine per richiamo lieve, Demanding in contesa. Dominio urbano tramite presenza o supporti investiti e percepibili dall'entità. La portata non sostituisce la presa specifica descritta sopra.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-V-M03 -->
+**Tre esempi pratici — Lingering Allure**
+
+1. Il destinatario lascia la vista della gemma ma la fascinazione conserva il rapporto investito raggiunto.
+
+2. Il richiamo sensoriale non deve essere continuamente visibile perché la presa già stabilita continui entro tenuta.
+
+3. La persona ha già ricevuto la fascinazione investita da una gemma e si allontana dalla vista diretta: il rapporto può restare attivo entro resistenza e sostegno, senza comandarle ogni scelta futura.
+
+**Nota operativa (fuori dai tre esempi):** Non rende ogni ricordo dell'oggetto un nuovo fulcro incontrollato e non obbliga a un gesto preciso.
+<!-- END EXAMPLES344 -->
+
 ### V.CU — Contagious Hex
 
 
@@ -366,6 +854,27 @@ Riferimento di dominio urbano, fino a circa 5 km attraverso circuiti realmente s
 
 **Riferimento operativo dello stadio:** Prepared/Deliberate, Maintained o Autonomous con riserva, Demanding. Riferimento dominio urbano, catena di trasmissione da registrare. La portata non sostituisce la presa specifica descritta sopra.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-V-M04 -->
+**Tre esempi pratici — Contagious Hex**
+
+1. Un anatema passa a un altro supporto tramite la modalità investita predisposta e una nuova presa contendibile.
+
+2. La trasmissione usa un contatto o canale realmente previsto, consumando sostegno disponibile.
+
+3. Due supporti interagiscono attraverso la modalità di contagio realmente predisposta: l'anatema tenta la nuova presa, consumando capacità e affrontando la difesa del secondo supporto invece di diffondersi per semplice parentela.
+
+**Nota operativa (fuori dai tre esempi):** Una persona soltanto imparentata col bersaglio non è automaticamente maledetta senza un rapporto di trasmissione valido.
+<!-- END EXAMPLES344 -->
+
 ### V.LC — Waning Harvest
 
 
@@ -380,6 +889,27 @@ Riferimento di dominio urbano, fino a circa 5 km attraverso circuiti realmente s
 **Confine dell’autorità:** La competenza Lunar Cycles usa il procedimento proprio di Crescent; non concede tutte le Effigi che possono produrre un risultato visivamente simile. Accessi, fonte, opposizione e compatibilità restano reali.
 
 **Riferimento operativo dello stadio:** Deliberate/Maintained, Routine nel dominio personale, Demanding per grandi reti. La portata non sostituisce la presa specifica descritta sopra.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-V-M05 -->
+**Tre esempi pratici — Waning Harvest**
+
+1. Una fase propria non serve più ed è ancora in parte alimentata: la ritira recuperando la quota superstite invece di spendere l'intero ciclo.
+
+2. Chiude l'impiego divenuto inutile e riassegna l'investimento disponibile a una fase adatta, lasciando consumata la parte che i colpi precedenti hanno già speso.
+
+3. Una fase protettiva non serve più ed è ancora in parte alimentata: la ritira e recupera soltanto la quota superstite, distinta dall'energia che è già stata consumata nei colpi precedenti.
+
+**Nota operativa (fuori dai tre esempi):** La quota già spesa nel colpo non torna intatta per il solo fatto che il ciclo declina.
+<!-- END EXAMPLES344 -->
 
 ## VI — Moon Hierophant (Eminence)
 
@@ -400,6 +930,27 @@ Padronanza angelica eminente. Riferimento regionale, circa 500 km attraverso nod
 
 **Riferimento operativo dello stadio:** Prepared/Deliberate, Maintained e Demanding. Riferimento un famiglio maggiore e fino a tre contratti minori distinti, se realmente ottenuti; nessuna entità viene concessa automaticamente avanzando. La portata non sostituisce la presa specifica descritta sopra.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-VI-M01 -->
+**Tre esempi pratici — Convergent Invocation**
+
+1. Un rito accorda capacità contrattuali di entità distinte in una funzione congiunta compatibile.
+
+2. Ogni partecipante conferisce quanto il contratto permette mantenendo fonte e prezzo distinti.
+
+3. Due entità contrattuali possiedono capacità compatibili con un compito composto: il rito ne accorda gli interventi mantenendo diversi apporti e prezzi, senza fonderle o cancellare i contratti.
+
+**Nota operativa (fuori dai tre esempi):** La convergenza non fonde i famigli in un nuovo dio né cancella i costi dei contratti.
+<!-- END EXAMPLES344 -->
+
 ### VI.RF — Hall of Reflections
 
 
@@ -414,6 +965,27 @@ Padronanza angelica eminente. Riferimento regionale, circa 500 km attraverso nod
 **Confine dell’autorità:** La competenza Reflection usa il procedimento proprio di Crescent; non concede tutte le Effigi che possono produrre un risultato visivamente simile. Accessi, fonte, opposizione e compatibilità restano reali.
 
 **Riferimento operativo dello stadio:** Prepared/Maintained, Demanding. Rete regionale realmente predisposta; ogni tratto ha accesso, tenuta e propagazione propri. La portata non sostituisce la presa specifica descritta sopra.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-VI-M02 -->
+**Tre esempi pratici — Hall of Reflections**
+
+1. Divide componenti compatibili di un esercizio lungo specchi realmente collegati e le ricompone nel circuito sostenuto.
+
+2. Un impiego speculare usa più interfacce senza attribuire a ciascuna l'intera potenza iniziale.
+
+3. Un esercizio compatibile attraversa più superfici speculari collegate: ne divide e ricompone le componenti lungo quelle interfacce, usando l'energia effettiva anziché assegnare a ogni specchio la potenza intera.
+
+**Nota operativa (fuori dai tre esempi):** Specchi estranei senza raccordo non diventano automaticamente uscite del circuito in tutto il mondo.
+<!-- END EXAMPLES344 -->
 
 ### VI.EN — Reciprocal Fascination
 
@@ -430,6 +1002,27 @@ Padronanza angelica eminente. Riferimento regionale, circa 500 km attraverso nod
 
 **Riferimento operativo dello stadio:** Deliberate/Prepared, Maintained/Autonomous, Demanding. Riferimento gruppi circoscritti entro una rete regionale; investimento individuale e ricezione necessari. La portata non sostituisce la presa specifica descritta sopra.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-VI-M03 -->
+**Tre esempi pratici — Reciprocal Fascination**
+
+1. Due destinatari raggiunti ricevono una fascinazione reciproca invece di essere entrambi attratti soltanto dal Bearer.
+
+2. Un rapporto investito sostiene avversione reciproca entro le sensibilità effettivamente prese.
+
+3. Due destinatari raggiunti vengono investiti con avversione reciproca invece di essere entrambi orientati soltanto verso il Bearer: la relazione rimane emotiva e contendibile, non una riscrittura dei loro ricordi.
+
+**Nota operativa (fuori dai tre esempi):** Non decide per questo le loro opinioni, i ricordi o una relazione sentimentale obbligatoria.
+<!-- END EXAMPLES344 -->
+
 ### VI.CU — Covenant of Blight
 
 
@@ -445,6 +1038,27 @@ Padronanza angelica eminente. Riferimento regionale, circa 500 km attraverso nod
 
 **Riferimento operativo dello stadio:** Prepared/Maintained, Demanding; riferimento tre condizioni principali, rete regionale realmente raggiunta. La portata non sostituisce la presa specifica descritta sopra.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-VI-M04 -->
+**Tre esempi pratici — Covenant of Blight**
+
+1. Due anatemi usano supporti e condizioni interdipendenti: il primo può continuare la parte prevista grazie al secondo rapporto ancora valido anche se viene rimosso un segno periferico.
+
+2. Prepara una struttura in cui i due anatemi si sostengono secondo criteri rilevabili: l'avversario deve trattare i rapporti davvero portanti invece di presumere che una sola cancellatura sciolga tutto.
+
+3. Due anatemi hanno supporti e condizioni interdipendenti predisposti: l'uno sostiene la parte prevista dell'altro, così che togliere un singolo marchio non spenga automaticamente l'intera struttura ancora alimentata.
+
+**Nota operativa (fuori dai tre esempi):** La rete non acquisisce energia dal nulla e ogni nuova presa resta contendibile.
+<!-- END EXAMPLES344 -->
+
 ### VI.LC — Phase Concordance
 
 
@@ -459,6 +1073,27 @@ Padronanza angelica eminente. Riferimento regionale, circa 500 km attraverso nod
 **Confine dell’autorità:** La competenza Lunar Cycles usa il procedimento proprio di Crescent; non concede tutte le Effigi che possono produrre un risultato visivamente simile. Accessi, fonte, opposizione e compatibilità restano reali.
 
 **Riferimento operativo dello stadio:** Deliberate/Maintained, Routine su pochi esercizi, Demanding sulla rete regionale. La portata non sostituisce la presa specifica descritta sopra.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-VI-M05 -->
+**Tre esempi pratici — Phase Concordance**
+
+1. Accorda fasi di due esercizi perché si scambino investimento attraverso nodi collegati.
+
+2. Una fase ancora disponibile sostiene un'altra funzione ciclica compatibile nel circuito.
+
+3. Due configurazioni cicliche collegate si accordano perché una quota ancora disponibile passi alla fase compatibile che deve esercitarsi: nessun nodo conta come nuova energia quella già spesa dagli altri.
+
+**Nota operativa (fuori dai tre esempi):** Una quota già esaurita non viene contata di nuovo in ogni nodo per moltiplicare la riserva.
+<!-- END EXAMPLES344 -->
 
 ## VII — The Bewitching (Apotheosis)
 
@@ -481,6 +1116,27 @@ Le tecniche raggiungono scala planetaria o celeste mediante dominio, emissioni e
 
 **Riferimento operativo dello stadio:** Intrinsic/Maintained per il nucleo difensivo; Deliberate o Prepared per assedio, Demanding alla grande scala. La portata non sostituisce la presa specifica descritta sopra.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-VII-M01 -->
+**Tre esempi pratici — Ritual Succession**
+
+1. La funzione rituale passa dal supporto materiale a quello spirituale predisposto senza sciogliere l'intero circuito.
+
+2. Un supporto periferico viene sostituito mantenendo il rapporto operativo superstite del rito.
+
+3. Un rito deve continuare mentre cambia il proprio sostegno dal supporto materiale a quello spirituale predisposto: la funzione passa attraverso quel rapporto senza obbligare a sciogliere tutto il circuito.
+
+**Nota operativa (fuori dai tre esempi):** Senza supporto compatibile e successione autentica non continua automaticamente attraverso qualunque oggetto simile.
+<!-- END EXAMPLES344 -->
+
 ### VII.RF — Specular Partition
 
 
@@ -495,6 +1151,27 @@ Le tecniche raggiungono scala planetaria o celeste mediante dominio, emissioni e
 **Confine dell’autorità:** La competenza Reflection usa il procedimento proprio di Crescent; non concede tutte le Effigi che possono produrre un risultato visivamente simile. Accessi, fonte, opposizione e compatibilità restano reali.
 
 **Riferimento operativo dello stadio:** Intrinsic/Maintained per difesa predisposta, Deliberate per aggressione; Demanding alla scala celeste. La portata non sostituisce la presa specifica descritta sopra.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-VII-M02 -->
+**Tre esempi pratici — Specular Partition**
+
+1. Una superficie speculare mostra l'immagine visiva e porta anche un rapporto operativo preso: li separa per contendere il secondo senza rinunciare necessariamente alla prima osservazione.
+
+2. Un'immagine resta sullo specchio mentre il collegamento alla funzione investita viene trattato distintamente: non deve sciogliere sempre insieme tutto ciò che il riflesso rende disponibile.
+
+3. Un riflesso porta sia l'immagine della superficie sia un rapporto operativo preso: li separa per contendere il secondo mantenendo, se compatibile, la prima osservazione ancora disponibile.
+
+**Nota operativa (fuori dai tre esempi):** Non crea così una persona autonoma nello specchio né un accesso universale al referente.
+<!-- END EXAMPLES344 -->
 
 ### VII.EN — Allure Inheritance
 
@@ -511,6 +1188,27 @@ Le tecniche raggiungono scala planetaria o celeste mediante dominio, emissioni e
 
 **Riferimento operativo dello stadio:** Deliberate/Maintained, Routine per influenza inferiore, Demanding contro pari e alla grande diffusione. La portata non sostituisce la presa specifica descritta sopra.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-VII-M03 -->
+**Tre esempi pratici — Allure Inheritance**
+
+1. Un destinatario già investito diventa fulcro delimitato di una fascinazione trasmessa attraverso il canale reale.
+
+2. Il richiamo continua attraverso il nuovo fulcro entro quota e condizioni conferite.
+
+3. Un destinatario già investito diventa un fulcro delimitato che può veicolare fascinazione attraverso il canale reale: il nuovo effetto resta soggetto a ricezione, fonte e resistenza dei destinatari.
+
+**Nota operativa (fuori dai tre esempi):** Non ogni persona che ne sente parlare eredita automaticamente l'effetto: servono ricezione e presa valide.
+<!-- END EXAMPLES344 -->
+
 ### VII.CU — Anathema Succession
 
 
@@ -526,6 +1224,27 @@ Le tecniche raggiungono scala planetaria o celeste mediante dominio, emissioni e
 
 **Riferimento operativo dello stadio:** Deliberate o Prepared, Maintained/Autonomous se alimentato; Demanding. Accesso divino sul bersaglio o corrispondenza di profondità adeguata. La portata non sostituisce la presa specifica descritta sopra.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-VII-M04 -->
+**Tre esempi pratici — Anathema Succession**
+
+1. Il bersaglio ricostituisce la stessa incarnazione attraverso un rapporto autentico preso: l'anatema ne segue la successione.
+
+2. Sostituire il vecchio supporto superficiale non basta se resta operativo quel medesimo raccordo di ritorno.
+
+3. La stessa incarnazione si ricostituisce lungo un rapporto autentico preso: l'anatema segue quel passaggio e non si perde soltanto perché il vecchio marchio superficiale è rimasto sul corpo precedente.
+
+**Nota operativa (fuori dai tre esempi):** Una nuova persona distinta non viene maledetta solo perché assomiglia alla precedente incarnazione.
+<!-- END EXAMPLES344 -->
+
 ### VII.LC — Eternal Recurrence
 
 
@@ -540,6 +1259,27 @@ Le tecniche raggiungono scala planetaria o celeste mediante dominio, emissioni e
 **Confine dell’autorità:** La competenza Lunar Cycles usa il procedimento proprio di Crescent; non concede tutte le Effigi che possono produrre un risultato visivamente simile. Accessi, fonte, opposizione e compatibilità restano reali.
 
 **Riferimento operativo dello stadio:** Prepared/Maintained, Routine per il nucleo personale, Demanding per domini e rigenerazione intensa delle configurazioni. Energia nuova viene investita a ogni rinnovo. La portata non sostituisce la presa specifica descritta sopra.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-23-VII-M05 -->
+**Tre esempi pratici — Eternal Recurrence**
+
+1. Il nucleo superstite del rito ricostruisce ciclicamente una parte operativa perduta usando fonte e configurazione reali.
+
+2. Un nodo torna a funzionare attraverso il rinnovo sostenuto senza rifare integralmente il circuito.
+
+3. Un nodo operativo del rito viene perduto ma sopravvivono nucleo, configurazione e fonte adatti: il ciclo ne ricostruisce la parte prevista, consumando capacità invece di promettere un ritorno infinito anche dopo l'annullamento del nucleo.
+
+**Nota operativa (fuori dai tre esempi):** Distrutto il nucleo necessario o finita la fonte, il nome «Eternal» non rende il ritorno infinito e inevitabile.
+<!-- END EXAMPLES344 -->
 
 ## Famiglio: specifica obbligatoria del contratto
 

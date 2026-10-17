@@ -462,7 +462,7 @@
       "current": "Una nave-laboratorio trattiene sei adulti e trasporta tessuti investiti in supporti distinti. Non è una Root né una specie intera.",
       "conflict": "Rapire un Bearer utile, separare una funzione raggiunta e inviare il lotto a un compratore prima che arrivi l’ispezione.",
       "secret": "Il compratore accetta solo funzioni stabili; Vareth nasconde che due dei propri contenitori stanno fallendo e non possiede un metodo universale.",
-      "limits": "Maw VI non concede tutte le Effigi delle vittime come incorporazioni personali; nessuna nuova Seat o famiglia compatibile viene creata.",
+      "limits": "Maw VI non concede tutte le Effigi delle vittime come incorporazioni personali; nessuna nuova Seat o famiglia compatibile viene creata. Il lotto commerciato consiste in tessuti e supporti realmente separati e conservati, con le funzioni che possiedono effettivamente; non è una Inscription venduta intera. Non si anticipa Assimilation Release VII per esternalizzare liberamente un tratto assimilato a VI. Le promesse del compratore vanno distinte dalla capacità reale del campione.",
       "leader": "CAST-492",
       "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
       "front_id": "FRONT-10",
@@ -507,7 +507,7 @@
       "counter": "Abbattere le difese pertinenti, liberare i detenuti e separare le funzioni senza distruggere i supporti vitali. Cure reali possono eliminare la dipendenza.",
       "after": "Il lotto parte solo con un vettore compatibile: ritardi espongono il fallimento e spaccano il gruppo, non generano nuove vittime automaticamente.",
       "betrayal": "Ilena vuole preservare i sei detenuti e può sabotare una consegna letale, ma ha già cooperato alle lesioni e non viene assolta da un ripensamento.",
-      "limit": "Maw VI non concede tutte le Effigi delle vittime come incorporazioni personali; nessuna nuova Seat o famiglia compatibile viene creata."
+      "limit": "Maw VI non concede tutte le Effigi delle vittime come incorporazioni personali; nessuna nuova Seat o famiglia compatibile viene creata. Il lotto commerciato consiste in tessuti e supporti realmente separati e conservati, con le funzioni che possiedono effettivamente; non è una Inscription venduta intera. Non si anticipa Assimilation Release VII per esternalizzare liberamente un tratto assimilato a VI. Le promesse del compratore vanno distinte dalla capacità reale del campione."
     },
     {
       "id": "FAC-25",
@@ -517,7 +517,7 @@
       "current": "Un rifugio dispone di due stanze, tre letti e una rete di vettori ordinari. Nessun occupante conosce il ritorno di Edran.",
       "conflict": "Verificare una segnalazione di sequestro, preparare trasporto e intervenire contro la squadra identificata.",
       "secret": "Mireya ha rifiutato un finanziamento che avrebbe imposto la consegna dei nomi degli ospiti.",
-      "limits": "Halo IV non garantisce immunità agli ospiti; Chain II separa soltanto rapporti raggiunti con le capacità disponibili.",
+      "limits": "Halo IV non garantisce immunità agli ospiti; Chain II gestisce i propri vincoli, prese e tensioni con le capacità I–II: non possiede Bond Articulation V né scioglimento universale dei vincoli estranei. Una liberazione richiede contesa pertinente, rimozione del supporto o altro mezzo davvero disponibile.",
       "leader": "CAST-494",
       "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
       "front_id": "FRONT-11",
@@ -560,7 +560,7 @@
       "counter": "La rete può essere aiutata con trasporti, protezione, guarigione o informazioni; non pretende adesione religiosa o obbedienza.",
       "after": "Senza aiuto accoglie soltanto le persone che può sostenere e cerca altri rifugi; non trascura deliberatamente un soccorso possibile.",
       "betrayal": "Un finanziatore può minacciare di ritirare mezzi; nessun traditore obbligatorio viene estratto dal personale domestico di Alexander.",
-      "limit": "Halo IV non garantisce immunità agli ospiti; Chain II separa soltanto rapporti raggiunti con le capacità disponibili."
+      "limit": "Halo IV non garantisce immunità agli ospiti; Chain II gestisce i propri vincoli, prese e tensioni con le capacità I–II: non possiede Bond Articulation V né scioglimento universale dei vincoli estranei. Una liberazione richiede contesa pertinente, rimozione del supporto o altro mezzo davvero disponibile."
     },
     {
       "id": "FAC-26",

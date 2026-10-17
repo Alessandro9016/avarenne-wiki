@@ -1,0 +1,331 @@
+# Astrolabe — acquisizione e avanzamento
+
+Edizione operativa 339. Metodo applicativo delle regole comuni; abilità e autorità restano quelle della progressione approvata. Le prove sono esempi sostituibili, non ingredienti esclusivi né successi già avvenuti.
+
+## Allestimento e continuità personale
+
+Possibile allestimento formativo: due riferimenti spaziali verificati, piccoli carichi e un supporto investito accessibile. Non è una lista di oggetti rari obbligatori. Un metodo diverso è valido se offre davvero la stessa configurazione e consente il controllo necessario.
+
+Il lavoro deve riorganizzare il centro personale come riferimento spaziale e soggetto unico dei transiti. Dal II in poi un Medium esterno può aiutare, ma il proprio accesso autentico può essere sufficiente quando il modello è noto e la tenuta reale. Un oggetto usato come bersaglio diagnostico non diventa per questo la fonte dell’Effigy.
+
+**Rischio specifico di falsa verifica.** Coordinate conosciute non equivalgono ad accesso. Ogni transito richiede estremità effettive e un solo carico o viaggiatore continuo; la scheda non concede destinazioni ignote o ingressi in corpi schermati.
+
+Il banco di prova non attribuisce al candidato i materiali, le presenze o gli accessi citati: vanno predisposti o sostituiti con un caso pertinente realmente disponibile. Nei casi che coinvolgono persone, la collaborazione è un possibile allestimento didattico, non un requisito cosmico di consenso per l’impiego bellico dei poteri.
+
+Le prove per autorità sono separate: ciascun ramo usa il proprio accesso e investimento. Le eventuali combinazioni richiedono entrambe le funzioni e il carico pertinente, ma non sono necessarie per dimostrare l’autonomia di un ramo.
+
+## 0 → I — Prima incorporazione — Surveyor
+
+**Prima dell’operazione.** Non serve una Inscription precedente. Servono una configurazione iniziale autentica, contatto regolabile e condizioni corporee e spirituali sostenibili.
+
+**Operazione.** Il Medium espone la configurazione; il candidato entra nel contatto predisposto e ne riprende gradualmente l’esercizio in corpo e spirito. La guida limita il flusso finché la nuova Inscription può essere attivata dalla persona. Dopo il distacco si verificano esercizio proprio, ripetibilità e recupero della riserva.
+
+**Applicazione a Astrolabe.** Si incorpora la configurazione che rende proprie le operazioni seguenti, mantenendo il centro personale come riferimento spaziale e soggetto unico dei transiti. Le descrizioni della progressione definiscono cosa cambiare e quali interfacce raggiungere; le prove ne controllano il risultato, non forniscono da sole la trasformazione.
+
+### Space — Near Coordinates
+
+**Prova concreta.** Leggere adiacenze e distanze di un volume raggiunto non completamente visibile, senza identificarne gli abitanti.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Contende posizioni e distanze tramite coordinate e accessi reali; non apre destinazioni mai individuate per desiderio.
+
+### Gravity — Weight Shift
+
+**Prova concreta.** Modificare il peso apparente di un piccolo campione su una bilancia.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Governa carichi gravitazionali raggiunti; non controlla ogni energia o trasforma materia senza fonte.
+
+### Orientation — Spatial Bearing
+
+**Prova concreta.** Mantenere un riferimento spaziale investito mentre vista ed equilibrio ordinari vengono schermati in modo controllato.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Riferimenti e destinazioni, non divinazione enciclopedica o conoscenza automatica di persone moderne.
+
+### Passage — Small Transfer
+
+**Prova concreta.** Trasferire un piccolo oggetto fra due punti prossimi realmente connessi.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Trasferimento effettivo con ingresso e arrivo; non esiste un corpo duplicato dietro ciascuna apertura.
+
+**Esito e fallimenti.** Se il flusso resta prodotto dal maestro o la configurazione si dissolve al distacco, registrare prestito o incorporazione incompleta. Se la quota supera la capacità di instradamento, interrompere dove possibile e trattare il Backflow concreto; non assegnare comunque lo stadio.
+
+**Registrazione.** Separare trasformazione diagnosticata, funzioni collaudate, funzioni non ancora sperimentate, fonte usata, riserva impegnata, sostegni essenziali e danni effettivi. I risultati indipendenti già prodotti non vengono cancellati retroattivamente dal semplice spegnimento dell’esercizio.
+
+## I → II — Circolazione regolabile — Wayfarer
+
+**Prima dell’operazione.** Inscription I personale e modello operativo II autentico; avere studiato la descrizione non significa aver già sbloccato le nuove capacità.
+
+**Operazione.** Attraverso il Thread proprio o un contatto didattico compatibile, il candidato riapre la configurazione iniziale e vi incorpora le nuove operazioni II. Il flusso deve poter essere distribuito e richiamato senza che il maestro continui a dirigere ogni atto. Le prove II si compiono durante o dopo questa modifica.
+
+**Applicazione a Astrolabe.** Si incorpora la configurazione che rende proprie le operazioni seguenti, mantenendo il centro personale come riferimento spaziale e soggetto unico dei transiti. Le descrizioni della progressione definiscono cosa cambiare e quali interfacce raggiungere; le prove ne controllano il risultato, non forniscono da sole la trasformazione.
+
+### Space — Local Fold
+
+**Prova concreta.** Alterare una distanza circoscritta e verificarne il percorso con un campione di prova.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Contende posizioni e distanze tramite coordinate e accessi reali; non apre destinazioni mai individuate per desiderio.
+
+### Gravity — Directed Fall
+
+**Prova concreta.** Orientare la caduta di un oggetto preso verso un riferimento scelto.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Governa carichi gravitazionali raggiunti; non controlla ogni energia o trasforma materia senza fonte.
+
+### Orientation — Marked Destination
+
+**Prova concreta.** Marcare una destinazione raggiunta e ritrovarne il riferimento senza pretendere che il marchio apra già un varco.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Riferimenti e destinazioni, non divinazione enciclopedica o conoscenza automatica di persone moderne.
+
+### Passage — Opened Threshold
+
+**Prova concreta.** Aprire una soglia fra due estremità investite e trasferirvi un piccolo carico.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Trasferimento effettivo con ingresso e arrivo; non esiste un corpo duplicato dietro ciascuna apertura.
+
+**Esito e fallimenti.** Se le nuove operazioni restano dipendenti da una guida esterna o la trasformazione non sostiene il centro, non registrare il passaggio completo. Un ritorno sicuro alla soglia precedente è possibile soltanto se la continuità non è già stata danneggiata: non è una garanzia universale di ripristino.
+
+**Registrazione.** Separare trasformazione diagnosticata, funzioni collaudate, funzioni non ancora sperimentate, fonte usata, riserva impegnata, sostegni essenziali e danni effettivi. I risultati indipendenti già prodotti non vengono cancellati retroattivamente dal semplice spegnimento dell’esercizio.
+
+## II → III — Incorporazione operativa — Chamberlain
+
+**Prima dell’operazione.** Circolazione II controllata, configurazione III disponibile e carico sostenibile per corpo e spirito.
+
+**Operazione.** Il candidato integra le nuove operazioni nella propria costituzione anziché mantenerle come esercizi isolati della fonte esterna. Le attiva, compie un’altra azione compatibile e verifica che i rapporti incorporati e gli effetti mantenuti non si disgreghino. Depositi e trigger si provano soltanto dove il ramo li possiede davvero.
+
+**Applicazione a Astrolabe.** Si incorpora la configurazione che rende proprie le operazioni seguenti, mantenendo il centro personale come riferimento spaziale e soggetto unico dei transiti. Le descrizioni della progressione definiscono cosa cambiare e quali interfacce raggiungere; le prove ne controllano il risultato, non forniscono da sole la trasformazione.
+
+### Space — Held Chamber
+
+**Prova concreta.** Costituire un volume delimitato e recuperarne un oggetto realmente trasferito.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Contende posizioni e distanze tramite coordinate e accessi reali; non apre destinazioni mai individuate per desiderio.
+
+### Gravity — Gravity Well
+
+**Prova concreta.** Mantenere un centro attrattivo locale con massa e carico controllati.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Governa carichi gravitazionali raggiunti; non controlla ogni energia o trasforma materia senza fonte.
+
+### Orientation — Route Reading
+
+**Prova concreta.** Distinguere una via interrotta da una transitabile attraverso rapporti spaziali raggiunti.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Riferimenti e destinazioni, non divinazione enciclopedica o conoscenza automatica di persone moderne.
+
+### Passage — Return Mark
+
+**Prova concreta.** Conservare un ritorno distinto dopo la chiusura dell’accesso iniziale.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Trasferimento effettivo con ingresso e arrivo; non esiste un corpo duplicato dietro ciascuna apertura.
+
+**Esito e fallimenti.** Se le nuove operazioni restano dipendenti da una guida esterna o la trasformazione non sostiene il centro, non registrare il passaggio completo. Un ritorno sicuro alla soglia precedente è possibile soltanto se la continuità non è già stata danneggiata: non è una garanzia universale di ripristino.
+
+**Registrazione.** Separare trasformazione diagnosticata, funzioni collaudate, funzioni non ancora sperimentate, fonte usata, riserva impegnata, sostegni essenziali e danni effettivi. I risultati indipendenti già prodotti non vengono cancellati retroattivamente dal semplice spegnimento dell’esercizio.
+
+## III → IV — Costituzione semidivina — Threshold Warden
+
+**Prima dell’operazione.** Inscription III stabile, configurazione IV autentica e possibilità reale di sostenere la trasformazione materiale e spirituale.
+
+**Operazione.** Il flusso viene incorporato nel centro personale e nella sua costituzione corporea/spirituale. La persona diventa sorgente semidivina del proprio esercizio; non è sufficiente rivestirla di un campo mantenuto dal maestro. Alle nuove operazioni si affiancano la diagnosi della continuità e un’opposizione materiale e spirituale controllata entro le difese già previste. Nessuna prova a colpi d’arma a sorpresa.
+
+**Applicazione a Astrolabe.** Si incorpora la configurazione che rende proprie le operazioni seguenti, mantenendo il centro personale come riferimento spaziale e soggetto unico dei transiti. Le descrizioni della progressione definiscono cosa cambiare e quali interfacce raggiungere; le prove ne controllano il risultato, non forniscono da sole la trasformazione.
+
+### Space — Spatial Refolding
+
+**Prova concreta.** Riconfigurare un accesso di un volume proprio senza svuotarne i contenuti.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Contende posizioni e distanze tramite coordinate e accessi reali; non apre destinazioni mai individuate per desiderio.
+
+### Gravity — Gravitational Articulation
+
+**Prova concreta.** Assegnare direzioni gravitazionali diverse a due parti collegate senza perderne tutta la coesione.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Governa carichi gravitazionali raggiunti; non controlla ogni energia o trasforma materia senza fonte.
+
+### Orientation — Reference Isolation
+
+**Prova concreta.** Isolare due riferimenti affinché un’alterazione di uno non falsifichi automaticamente l’altro.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Riferimenti e destinazioni, non divinazione enciclopedica o conoscenza automatica di persone moderne.
+
+### Passage — Guarded Gate
+
+**Prova concreta.** Discriminare un trasferimento ammesso e uno escluso attraverso una soglia mantenuta.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Trasferimento effettivo con ingresso e arrivo; non esiste un corpo duplicato dietro ciascuna apertura.
+
+**Esito e fallimenti.** Se le nuove operazioni restano dipendenti da una guida esterna o la trasformazione non sostiene il centro, non registrare il passaggio completo. Un ritorno sicuro alla soglia precedente è possibile soltanto se la continuità non è già stata danneggiata: non è una garanzia universale di ripristino.
+
+**Registrazione.** Separare trasformazione diagnosticata, funzioni collaudate, funzioni non ancora sperimentate, fonte usata, riserva impegnata, sostegni essenziali e danni effettivi. I risultati indipendenti già prodotti non vengono cancellati retroattivamente dal semplice spegnimento dell’esercizio.
+
+## IV → V — Centro angelico — Veilfarer
+
+**Prima dell’operazione.** Costituzione IV integrata, modello V e un Anchor valido e realmente operativo. Un oggetto ordinario dichiarato tale non è automaticamente un Anchor.
+
+**Operazione.** Il candidato riorganizza il centro personale affinché l’esercizio dell’Effigy non dipenda soltanto dalla normale attività organica. Mantiene deliberazione e funzioni proprie durante una verifica controllata del rapporto fra centro spirituale, corporeità e Anchor. Si riduce soltanto una dipendenza che il metodo permette di mettere alla prova in sicurezza: non si impongono morte, mutilazione o uscita extracorporea. Un mutamento biologico ordinario non basta a dimostrare questa autonomia.
+
+**Applicazione a Astrolabe.** Si incorpora la configurazione che rende proprie le operazioni seguenti, mantenendo il centro personale come riferimento spaziale e soggetto unico dei transiti. Le descrizioni della progressione definiscono cosa cambiare e quali interfacce raggiungere; le prove ne controllano il risultato, non forniscono da sole la trasformazione.
+
+### Space — Nested Interior
+
+**Prova concreta.** Mantenere due sottovolumi con accessi distinti in un interno proprio.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Contende posizioni e distanze tramite coordinate e accessi reali; non apre destinazioni mai individuate per desiderio.
+
+### Gravity — Orbital Hold
+
+**Prova concreta.** Sostenere un’orbita circoscritta anziché una semplice caduta verso il centro.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Governa carichi gravitazionali raggiunti; non controlla ogni energia o trasforma materia senza fonte.
+
+### Orientation — Address Verification
+
+**Prova concreta.** Verificare un indirizzo operativo contro una falsa corrispondenza predisposta.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Riferimenti e destinazioni, non divinazione enciclopedica o conoscenza automatica di persone moderne.
+
+### Passage — Veil Crossing
+
+**Prova concreta.** Aprire un accesso verso un ambiente spirituale compatibile e verificarne entrambe le estremità prima di un transito corporeo.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Trasferimento effettivo con ingresso e arrivo; non esiste un corpo duplicato dietro ciascuna apertura.
+
+**Esito e fallimenti.** Se le nuove operazioni restano dipendenti da una guida esterna o la trasformazione non sostiene il centro, non registrare il passaggio completo. Un ritorno sicuro alla soglia precedente è possibile soltanto se la continuità non è già stata danneggiata: non è una garanzia universale di ripristino.
+
+**Registrazione.** Separare trasformazione diagnosticata, funzioni collaudate, funzioni non ancora sperimentate, fonte usata, riserva impegnata, sostegni essenziali e danni effettivi. I risultati indipendenti già prodotti non vengono cancellati retroattivamente dal semplice spegnimento dell’esercizio.
+
+## V → VI — Padronanza eminente — Horizon Architect
+
+**Prima dell’operazione.** Centro angelico V coerente, configurazione VI e risorse per sostenere i nuovi rapporti senza disgregare quelli propri.
+
+**Operazione.** Il candidato incorpora le operazioni VI nel medesimo centro, poi distingue i rapporti che esse riconfigurano da un semplice aumento della potenza V. Si verifica un uso pertinente per ciascuna autorità, la conservazione delle componenti escluse e il ritorno a un regime stabile. Nessun Avatar o rete personale viene richiesto dove l’Effigy non li possiede.
+
+**Applicazione a Astrolabe.** Si incorpora la configurazione che rende proprie le operazioni seguenti, mantenendo il centro personale come riferimento spaziale e soggetto unico dei transiti. Le descrizioni della progressione definiscono cosa cambiare e quali interfacce raggiungere; le prove ne controllano il risultato, non forniscono da sole la trasformazione.
+
+### Space — Adjacency Exchange
+
+**Prova concreta.** Scambiare l’adiacenza di superfici prese conservando i volumi coinvolti.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Contende posizioni e distanze tramite coordinate e accessi reali; non apre destinazioni mai individuate per desiderio.
+
+### Gravity — Gravitational Lens
+
+**Prova concreta.** Deviare mediante una lente gravitazionale un’emissione disponibile, senza produrla con Gravity.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Governa carichi gravitazionali raggiunti; non controlla ogni energia o trasforma materia senza fonte.
+
+### Orientation — Reference Reconstruction
+
+**Prova concreta.** Ricostituire un riferimento tramite relazioni spaziali superstiti.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Riferimenti e destinazioni, non divinazione enciclopedica o conoscenza automatica di persone moderne.
+
+### Passage — Transit Sorting
+
+**Prova concreta.** Separare componenti trasferibili di un carico verso estremità predisposte differenti.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Trasferimento effettivo con ingresso e arrivo; non esiste un corpo duplicato dietro ciascuna apertura.
+
+**Esito e fallimenti.** Se le nuove operazioni restano dipendenti da una guida esterna o la trasformazione non sostiene il centro, non registrare il passaggio completo. Un ritorno sicuro alla soglia precedente è possibile soltanto se la continuità non è già stata danneggiata: non è una garanzia universale di ripristino.
+
+**Registrazione.** Separare trasformazione diagnosticata, funzioni collaudate, funzioni non ancora sperimentate, fonte usata, riserva impegnata, sostegni essenziali e danni effettivi. I risultati indipendenti già prodotti non vengono cancellati retroattivamente dal semplice spegnimento dell’esercizio.
+
+## VI → VII — Apotheosis — The Boundless
+
+**Prima dell’operazione.** Centro VI capace di trasformazione divina, configurazione VII conosciuta o autenticamente sviluppata e accesso reale al presupposto costitutivo della Seat. Stato della titolarità e accesso non vanno confusi.
+
+**Operazione.** Il candidato raggiunge il presupposto pertinente e incorpora nel proprio centro la configurazione divina di tutte le autorità. Se esiste un titolare incompatibile, occorre un trasferimento effettivo o una contesa riuscita; una delega non basta. Dopo la trasformazione si distinguono diagnosi del centro, prove delle nuove funzioni e accertamento della titolarità. Il risultato deve restare personale dopo la cessazione della guida non costitutiva. Non occorre una Root per ogni singola Apotheosis.
+
+**Applicazione a Astrolabe.** Si incorpora la configurazione che rende proprie le operazioni seguenti, mantenendo il centro personale come riferimento spaziale e soggetto unico dei transiti. Le descrizioni della progressione definiscono cosa cambiare e quali interfacce raggiungere; le prove ne controllano il risultato, non forniscono da sole la trasformazione.
+
+### Space — Spatial Segregation
+
+**Prova concreta.** Separare interfacce materiali e spirituali di un volume preso lasciando presenti gli enti custoditi.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Contende posizioni e distanze tramite coordinate e accessi reali; non apre destinazioni mai individuate per desiderio.
+
+### Gravity — Field Exclusion
+
+**Prova concreta.** Isolare un volume dalla trasmissione di un campo gravitazionale raggiunto mantenendovi un campo interno distinto.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Governa carichi gravitazionali raggiunti; non controlla ogni energia o trasforma materia senza fonte.
+
+### Orientation — Frame Translation
+
+**Prova concreta.** Tradurre un indirizzo fra due geometrie o sistemi di moto raggiunti.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Riferimenti e destinazioni, non divinazione enciclopedica o conoscenza automatica di persone moderne.
+
+### Passage — Passage Continuity
+
+**Prova concreta.** Trasferire un transito in corso a una seconda via compatibile senza duplicare il carico o il viaggiatore.
+
+**Cosa deve risultare.** L’effetto nuovo deve essere causato dall’operazione personale indicata, con accesso pertinente e consumo reale. Un effetto del solo Medium, un prestito ancora diretto da un’altra persona o un risultato ottenibile soltanto con mezzi ordinari non certificano questa funzione. Se l’esercizio è soltanto diagnosticato, registrarlo distinto da una funzione collaudata.
+
+**Limiti vigenti.** Trasferimento effettivo con ingresso e arrivo; non esiste un corpo duplicato dietro ciascuna apertura.
+
+**Accertamento della Seat.** Occupante, disponibilità e custodie moderne devono essere accertati dalle fonti narrative e da accessi reali. La presente scheda non dichiara la Seat libera e non ne rivela lo stato al giocatore.
+
+**Esito e fallimenti.** Se le nuove operazioni restano dipendenti da una guida esterna o la trasformazione non sostiene il centro, non registrare il passaggio completo. Un ritorno sicuro alla soglia precedente è possibile soltanto se la continuità non è già stata danneggiata: non è una garanzia universale di ripristino. Una Seat non disponibile o una titolarità non risolta impediscono la piena Apotheosis anche se un effetto divino è stato prestato o dimostrato. La Seat non si conquista semplicemente superando le prove del banco.
+
+**Registrazione.** Separare trasformazione diagnosticata, funzioni collaudate, funzioni non ancora sperimentate, fonte usata, riserva impegnata, sostegni essenziali e danni effettivi. I risultati indipendenti già prodotti non vengono cancellati retroattivamente dal semplice spegnimento dell’esercizio.
+
+## Fonti
+
+[Progressione approvata di Astrolabe](GIOCATORE_49_Astrolabe_progressione_completa.md). [Regole comuni](GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md). [Prima acquisizione e lettura delle procedure](339_Prima_acquisizione_e_avanzamento.md).
+
+Questa procedura non sostituisce le capacità approvate né aggiunge riti obbligatori alla storia. Non fissa le scelte future o l’esito del tentativo.

@@ -363,7 +363,8 @@
       "remembered_relationship": "Conosce Alexander da bambina; amicizia prudente, ironia condivisa e fidanzamento confermato personalmente nel 811. Non ricorda una dichiarazione di amore reciproco.",
       "source": "GIOCATORE_273; REV-CIV-01",
       "remembered_biological_population": "Umano",
-      "biology_knowledge_scope": "Conoscenza pre-coma; nessuna agenda T0"
+      "biology_knowledge_scope": "Conoscenza pre-coma; nessuna agenda T0",
+      "territorial_context_347": "Figlia di Armand, conte di Belcour dentro Rovenne. Alexander è superiore territoriale al padre: la trattativa non è paritaria di rango; il consenso personale resta necessario."
     },
     {
       "name": "Armand Belcour",
@@ -372,7 +373,8 @@
       "remembered_relationship": "Interlocutore di Lucien; Alexander ne ricorda ospitalità e pazienza, insieme alla tendenza a parlare delle persone come di accordi futuri.",
       "source": "GIOCATORE_273; REV-CIV-01",
       "remembered_biological_population": "Umano",
-      "biology_knowledge_scope": "Conoscenza pre-coma; nessuna agenda T0"
+      "biology_knowledge_scope": "Conoscenza pre-coma; nessuna agenda T0",
+      "territorial_context_347": "Titolare della contea di Belcour: 2.600 km² e 148.000 abitanti censiti, distinti dai beni privati. Subordinato territoriale ad Alexander, conserva residenza e attività a Lethorne."
     },
     {
       "name": "Beatrice Belcour",
@@ -417,7 +419,8 @@
       "remembered_relationship": "Amico dal 804: scherma, concerti e ironia sui discorsi cerimoniali. Alexander gli confidava insofferenza per gli obblighi; non la propria decisione finale.",
       "source": "GIOCATORE_273; REV-CIV-01",
       "remembered_biological_population": "Umano",
-      "biology_knowledge_scope": "Conoscenza pre-coma; nessuna agenda T0"
+      "biology_knowledge_scope": "Conoscenza pre-coma; nessuna agenda T0",
+      "territorial_context_347": "Secondogenito di Marcel Ravelle, barone di La Varenne nel distretto diretto di Rovenne. Nessuna carica territoriale propria."
     },
     {
       "name": "Leon Vernier",
@@ -426,7 +429,183 @@
       "remembered_relationship": "Competizione in scherma e dibattiti scolastici. Nel 810 Leon vinse una gara; Alexander contestò il giudizio troppo pubblicamente e poi si scusò in privato.",
       "source": "GIOCATORE_273; REV-CIV-01",
       "remembered_biological_population": "Umano",
-      "biology_knowledge_scope": "Conoscenza pre-coma; nessuna agenda T0"
+      "biology_knowledge_scope": "Conoscenza pre-coma; nessuna agenda T0",
+      "territorial_context_347": "Erede di Vincent Vernier, conte di Vernay, subordinato territoriale al duca. La rivalità personale non equivale a parità di rango."
+    },
+    {
+      "name": "Jean Orrel",
+      "remembered_role": "Responsabile della biblioteca del borgo; Alexander era giovane visitatore e poi patrono.",
+      "remembered_relationship": "Conoscenza di libri e visite, non soltanto concessioni patrimoniali.",
+      "source": "GIOCATORE_273_Rete_civile_di_Alexander.md",
+      "knowledge_scope": "Memorie pre-coma; nessuna Effigy, agenda riservata o conversazione durante il coma attribuita."
+    },
+    {
+      "name": "Bastien Quell",
+      "remembered_role": "Responsabile del Mulino delle tre paratie; accompagnò Alexander nelle visite tecniche.",
+      "remembered_relationship": "Frequentazione professionale nelle visite agli impianti.",
+      "source": "GIOCATORE_273_Rete_civile_di_Alexander.md",
+      "knowledge_scope": "Memorie pre-coma; nessuna Effigy, agenda riservata o conversazione durante il coma attribuita."
+    },
+    {
+      "name": "Rosa Edril",
+      "remembered_role": "Responsabile del Consorzio dei pascoli.",
+      "remembered_relationship": "Contestò educatamente una priorità di spesa durante i rapporti con il giovane duca.",
+      "source": "GIOCATORE_273_Rete_civile_di_Alexander.md",
+      "knowledge_scope": "Memorie pre-coma; nessuna Effigy, agenda riservata o conversazione durante il coma attribuita."
+    },
+    {
+      "name": "Odette Sarin",
+      "remembered_role": "Archivio delle notifiche marittime; conoscenza professionale nata dai rapporti ricevuti dopo il naufragio.",
+      "remembered_relationship": "Interlocutrice professionale, non confidente personale; nessuna conoscenza dei suoi segreti.",
+      "source": "GIOCATORE_273_Rete_civile_di_Alexander.md",
+      "knowledge_scope": "Memorie pre-coma; nessuna Effigy, agenda riservata o conversazione durante il coma attribuita."
+    },
+    {
+      "name": "Vincent Vernier",
+      "remembered_role": "Conte di Vernay; Campagne meridionali, allevamento e mulini secondari; manutenzioni e terreni confinanti con lotti Valcienne. Leon è l’erede del conte, non un duca rivale.",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Madeleine Rochebrune",
+      "remembered_role": "Contessa di Rochebrune; Colline sud-orientali, cave di pietra, boschi e fornaci. Non comprende il centro carbonifero di Deren né il passo di Sarn.",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Clara Aubrecourt",
+      "remembered_role": "Contessa di Aubrecourt; Terrazze nord-orientali, frutteti, pascoli e lavorazione del legname. Le strade raccordano i mercati interni senza inglobare Ossen Reach.",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Adrien Pontel",
+      "remembered_role": "Barone di Pontel; Ponte e mercato di transito",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Elise Desormes",
+      "remembered_role": "Baronessa di Les Ormes; Orticoltura della cintura urbana",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Soren Vask",
+      "remembered_role": "Barone di Riveclaire; Approdi e manutenzione delle rive",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Serekh",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Henri Montfaucon",
+      "remembered_role": "Barone di Montfaucon; Boschi e strada delle alture",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Louise Briselles",
+      "remembered_role": "Baronessa di Briselles; Pascoli e manutenzione delle derivazioni",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Marcel Ravelle",
+      "remembered_role": "Barone di La Varenne; Tenute della casa Ravelle",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Gaspard Bellive",
+      "remembered_role": "Barone di Bellive; Lino e lavatoi",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Margot Fontenac",
+      "remembered_role": "Baronessa di Fontenac; Sorgenti, condotte e diritti d’accesso",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Olivier Saulnes",
+      "remembered_role": "Barone di Saulnes; Cereali e mercati rurali",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Paul Vernelles",
+      "remembered_role": "Barone di Vernelles; Allevamento e fiere",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Diane Cressan",
+      "remembered_role": "Baronessa di Cressan; Mulini secondari e canali",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Jules Montreval",
+      "remembered_role": "Barone di Montreval; Vigneti collinari e carri",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Arvek Thol",
+      "remembered_role": "Barone di Pierrefend; Cave di pietra e maestranze Ossari",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Ossari",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Cecile Orbrune",
+      "remembered_role": "Baronessa di Orbrune; Fornaci e combustibile",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Remy Valgrise",
+      "remembered_role": "Barone di Valgrise; Strada di collina e piazzole di cava",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Noemie Aubremont",
+      "remembered_role": "Baronessa di Aubremont; Frutteti e trasporti stagionali",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Pascal Clairbois",
+      "remembered_role": "Barone di Clairbois; Boschi e segherie",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Ines Roseraie",
+      "remembered_role": "Baronessa di Roseraie; Vivai, colture e mercato locale",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
     }
   ],
   "ancient_relationship_source": "GIOCATORE_80_Legami_antichi_che_ricordi.md",
@@ -437,5 +616,7 @@
     "identità del deuteragonista e del gruppo"
   ],
   "biology_revision": "POP-298",
-  "integration_revision": "RACCORDI-317"
+  "integration_revision": "RACCORDI-317",
+  "character_review_revision": 340,
+  "territorial_revision": "347"
 }

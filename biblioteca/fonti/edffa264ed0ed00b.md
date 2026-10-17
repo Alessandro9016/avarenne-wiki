@@ -1,5 +1,24 @@
 # EFF-11 — Seed
 
+<!-- EXAMPLES344 INTRO -->
+Revisione editoriale degli esempi 344 — 17 ottobre 2026.
+
+I tre esempi descrivono applicazioni ipotetiche della singola abilità, non eventi già avvenuti nella storia. Ciascuno presuppone il rango, l’energia, il mezzo e l’accesso richiesti dalla scheda; un avversario può opporre le proprie difese. Le note sui limiti sono separate dai tre casi. Oggetti e situazioni piccoli aiutano a capire il procedimento: non fissano il limite di potenza dei ranghi superiori. Il manuale conserva le definizioni approvate, che prevalgono su qualsiasi lettura estensiva di un esempio. Conoscere un nome o guardare una fotografia non fornisce da solo un accesso al bersaglio.
+
+**Parole usate negli esempi:**
+
+- **Supporto:** L’oggetto o la struttura che ospita o mantiene l’effetto: per esempio una placca preparata.
+- **Investire:** Assegnare realmente magia ed energia a un’azione, un oggetto o un collegamento; non soltanto dichiarare un’intenzione.
+- **Accesso o presa:** Il modo effettivo in cui il potere può interagire con quel bersaglio. Per Ruin serve sempre il contatto previsto dalla sua scheda.
+- **Rapporto o raccordo:** Un collegamento reale tra due componenti: per esempio quello con cui un nodo alimenta una barriera. Non basta che le due cose si somiglino.
+- **Interfaccia:** Il punto o la superficie attraverso cui avviene l’interazione; raggiungere quella superficie non equivale sempre a raggiungere l’intera persona.
+- **Tenuta:** La resistenza che l’effetto riesce a opporre. Un attacco più forte può superarla.
+- **Quota e carico:** La parte di energia assegnata e il lavoro che viene sostenuto. Più impieghi non significano automaticamente più energia disponibile.
+- **Continuità personale:** L’esistenza della stessa persona, distinta dall’avere soltanto un corpo o un’immagine che le somiglia. Ogni recupero segue i requisiti della capacità che lo permette.
+<!-- END EXAMPLES344 INTRO -->
+
+
+
 Versione consolidata 2.0 — 15 ottobre 2026. Contenuti e denominazioni approvati dal giocatore; manuale condiviso senza segreti narrativi.
 
 ## Principio e incorporazione
@@ -56,6 +75,27 @@ Una funzione nuova per ciascuna autorità a ciascuna soglia. Le applicazioni ill
 
 **Confine:** Serve un processo vivente o materiale germinale raggiunto; nessuna persona nuova dal nulla come Cradle.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-I-M01 -->
+**Tre esempi pratici — Propagation Check**
+
+1. Favorisce la germinazione di semi già presenti, con condizioni e risorse adatte.
+
+2. Attenua una proliferazione semplice raggiunta prima che si diffonda ulteriormente.
+
+3. Su semi realmente presenti attenua la germinazione di una proliferazione semplice raggiunta, mentre favorisce la propagazione compatibile che vuole sostenere: non genera nuovi semi dal nulla.
+
+**Nota operativa (fuori dai tre esempi):** Un terreno privo di semi non produce dal nulla la specie desiderata.
+<!-- END EXAMPLES344 -->
+
 ### I.M02 — Lineage Sense
 
 
@@ -67,12 +107,54 @@ Una funzione nuova per ciascuna autorità a ciascuna soglia. Le applicazioni ill
 
 **Confine:** Trasmette caratteri tramite discendenza vera; non conferisce una Effigy completa attraverso il solo DNA.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-I-M02 -->
+**Tre esempi pratici — Lineage Sense**
+
+1. Esamina materiale germinale e percepisce un tratto ereditario latente non visibile nell'adulto.
+
+2. Distingue come un carattere raggiunto può essere trasmesso senza attendere una generazione di prova.
+
+3. Esamina materiale germinale e distingue la possibile trasmissione di un tratto latente anche se l'adulto non lo mostra: ottiene una lettura ereditaria senza aspettare la nascita dei discendenti.
+
+**Nota operativa (fuori dai tre esempi):** Leggere la linea non significa averla già modificata o conoscere ogni individuo della specie.
+<!-- END EXAMPLES344 -->
+
 ### I.M03 — Quick Growth
 
 **Autorità:** Development. **Funzione macro:** Accelera sviluppo di tessuto o pianta semplice usando nutrimento presente o sostegno proprio.
 
 
 **Confine:** Cambia sviluppo reale del vivente; non è restaurazione obbligata dello stato precedente Heart.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-I-M03 -->
+**Tre esempi pratici — Quick Growth**
+
+1. Accelera la crescita di una pianta usando nutrimento presente o sostegno proprio.
+
+2. Sviluppa rapidamente un tessuto semplice raggiunto invece di attendere il normale ritmo.
+
+3. Fa sviluppare più rapidamente un tessuto vegetale raggiunto usando nutrimento disponibile o sostegno proprio: il tessuto cresce realmente, non viene semplicemente reso più grande agli occhi di chi guarda.
+
+**Nota operativa (fuori dai tre esempi):** Mancano energia e nutrimento: la crescita non procede all'infinito senza costo.
+<!-- END EXAMPLES344 -->
 
 ### I.M04 — Ecological Sense
 
@@ -84,6 +166,27 @@ Una funzione nuova per ciascuna autorità a ciascuna soglia. Le applicazioni ill
 **Novità qualitativa:** Accesso sovrannaturale alle relazioni ecologiche.
 
 **Confine:** Governa relazioni viventi raggiunte; non controlla direttamente ogni clima, mente animale o scarica.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-I-M04 -->
+**Tre esempi pratici — Ecological Sense**
+
+1. Percepisce quali radici e microrganismi raggiunti si sostengono attraverso scambi reali.
+
+2. Individua da quale relazione alimentare dipende una colonia nascosta nel terreno.
+
+3. In un piccolo habitat preso percepisce che una colonia dipende dal nutrimento scambiato con le radici vicine: legge quella relazione anche quando i componenti non sono visibili in superficie.
+
+**Nota operativa (fuori dai tre esempi):** Non comanda automaticamente tutti gli animali dopo averne percepito la dipendenza ecologica.
+<!-- END EXAMPLES344 -->
 
 ### Applicazioni cumulative e scala
 
@@ -109,12 +212,54 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 
 **Confine:** Serve un processo vivente o materiale germinale raggiunto; nessuna persona nuova dal nulla come Cradle.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-II-M01 -->
+**Tre esempi pratici — Controlled Brood**
+
+1. Organizza la riproduzione di organismi compatibili raggiunti, sostenendone le condizioni reali.
+
+2. Dirige una piccola colonia riproduttiva senza creare individui dal nulla.
+
+3. Una colonia dispone di organismi e risorse adatte: ne organizza la riproduzione affinché la discendenza prevista trovi le condizioni sostenute, senza fabbricare individui dal nulla.
+
+**Nota operativa (fuori dai tre esempi):** Il potere non impone universalmente un atto riproduttivo a ogni persona presente.
+<!-- END EXAMPLES344 -->
+
 ### II.M02 — Selected Trait
 
 **Autorità:** Heredity. **Funzione macro:** Modifica un tratto di materiale germinale raggiunto: pigmento o fibra, entro compatibilità.
 
 
 **Confine:** Trasmette caratteri tramite discendenza vera; non conferisce una Effigy completa attraverso il solo DNA.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-II-M02 -->
+**Tre esempi pratici — Selected Trait**
+
+1. Nel materiale germinale preso modifica un carattere di pigmento compatibile, così che il nuovo sviluppo possa esprimerlo senza cambiare retroattivamente l'adulto già nato.
+
+2. Prende nella linea un carattere di fibra biologica adatto e ne modifica la trasmissione germinale, senza assegnare ai discendenti un potere cosmico estraneo.
+
+3. Nel materiale germinale preso modifica un carattere di pigmentazione compatibile: i nuovi sviluppi esprimono il tratto predisposto senza riscrivere retroattivamente l'aspetto degli adulti già nati.
+
+**Nota operativa (fuori dai tre esempi):** L'adulto già nato non viene riscritto retroattivamente perché è cambiato un seme.
+<!-- END EXAMPLES344 -->
 
 ### II.M03 — Adaptive Cover
 
@@ -123,12 +268,54 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 
 **Confine:** Cambia sviluppo reale del vivente; non è restaurazione obbligata dello stato precedente Heart.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-II-M03 -->
+**Tre esempi pratici — Adaptive Cover**
+
+1. Sviluppa sul proprio corpo una membrana protettiva di cui possiede una configurazione assimilata.
+
+2. Fa crescere una copertura biologica adatta a una minaccia conosciuta compatibile.
+
+3. Ha assimilato la configurazione di una copertura biologica adatta a una minaccia conosciuta: la sviluppa sul proprio corpo impiegando il sostegno disponibile, invece di adattarsi gratuitamente a qualsiasi attacco ignoto.
+
+**Nota operativa (fuori dai tre esempi):** Un attacco completamente ignoto non fornisce automaticamente l'adattamento perfetto.
+<!-- END EXAMPLES344 -->
+
 ### II.M04 — Living Channel
 
 **Autorità:** Ecology. **Funzione macro:** Guidare segnali e risorse coordina una piccola colonia raggiunta, senza obbedienza personale universale.
 
 
 **Confine:** Governa relazioni viventi raggiunte; non controlla direttamente ogni clima, mente animale o scarica.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-II-M04 -->
+**Tre esempi pratici — Living Channel**
+
+1. Raccorda segnali fra organismi di una piccola colonia raggiunta per coordinarne un'attività.
+
+2. Guida risorse disponibili verso le componenti della colonia che devono svilupparsi.
+
+3. Guida lo scambio di risorse in una piccola colonia raggiunta verso i tessuti che devono crescere: la coordinazione usa segnali e relazioni viventi reali, non obbedienza personale universale.
+
+**Nota operativa (fuori dai tre esempi):** Coordinare la colonia non rende obbediente ogni persona che la tocchi.
+<!-- END EXAMPLES344 -->
 
 ### Applicazioni cumulative e scala
 
@@ -154,6 +341,27 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 
 **Confine:** Serve un processo vivente o materiale germinale raggiunto; nessuna persona nuova dal nulla come Cradle.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-III-M01 -->
+**Tre esempi pratici — Independent Line**
+
+1. Stabilizza una discendenza che continua a riprodursi nell'habitat compatibile anche quando se ne va.
+
+2. Una linea alimentare mantiene la propria propagazione senza un ordine per ogni generazione.
+
+3. Una linea vegetale viene stabilizzata in un habitat adatto: può produrre discendenti e continuare a propagarsi dopo che il Bearer smette di guidare singolarmente ogni generazione.
+
+**Nota operativa (fuori dai tre esempi):** Distrutto l'habitat necessario, la discendenza non diventa immune alla fame e alla mancanza di spazio.
+<!-- END EXAMPLES344 -->
+
 ### III.M02 — Lineage Craft
 
 
@@ -165,6 +373,27 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 
 **Confine:** Trasmette caratteri tramite discendenza vera; non conferisce una Effigy completa attraverso il solo DNA.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-III-M02 -->
+**Tre esempi pratici — Lineage Craft**
+
+1. Ricompone caratteri germinali compatibili perché siano trasmessi insieme senza generazioni di tentativi casuali.
+
+2. Stabilizza nella stessa linea due caratteri ereditari già disponibili e compatibili.
+
+3. Ricompone due caratteri germinali compatibili perché passino insieme nella stessa linea, stabilizzando magicamente la trasmissione senza attendere molte generazioni di tentativi ordinari.
+
+**Nota operativa (fuori dai tre esempi):** Non abbina arbitrariamente qualunque potere cosmico a un seme chiamandolo carattere ereditario.
+<!-- END EXAMPLES344 -->
+
 ### III.M03 — Predatory Development
 
 **Autorità:** Development. **Funzione macro:** Un inoculo raggiunto sviluppa radici o organi offensivi, attraversando realmente difese.
@@ -172,12 +401,54 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 
 **Confine:** Cambia sviluppo reale del vivente; non è restaurazione obbligata dello stato precedente Heart.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-III-M03 -->
+**Tre esempi pratici — Predatory Development**
+
+1. Un inoculo vegetale raggiunto sviluppa radici che fanno presa su una superficie avversaria.
+
+2. Fa crescere organi offensivi compatibili da un inoculo reale: devono attraversare davvero le difese.
+
+3. Un inoculo già collocato su un supporto sviluppa radici offensive che fanno presa e aggrediscono quel punto: la crescita deve ancora vincere materialmente la protezione incontrata.
+
+**Nota operativa (fuori dai tre esempi):** Le radici non compaiono nel cuore di un bersaglio schermato senza un accesso valido.
+<!-- END EXAMPLES344 -->
+
 ### III.M04 — Ecological Exchange
 
 **Autorità:** Ecology. **Funzione macro:** Più organismi scambiano nutrimento e sostegno attraverso relazioni investite e alimentazione reale.
 
 
 **Confine:** Governa relazioni viventi raggiunte; non controlla direttamente ogni clima, mente animale o scarica.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-III-M04 -->
+**Tre esempi pratici — Ecological Exchange**
+
+1. Due organismi compatibili raggiunti si sostengono attraverso un rapporto vivente investito: una parte del nutrimento disponibile può essere condivisa in quel collegamento.
+
+2. Una componente della colonia ha bisogno del sostegno che un'altra può fornire realmente: raccorda lo scambio biologico, senza creare risorse infinite o obbedienza personale.
+
+3. Due organismi raggiunti hanno rapporti biologici compatibili: investe lo scambio affinché il nutrimento disponibile sostenga la componente che ne ha bisogno, senza creare calorie infinite.
+
+**Nota operativa (fuori dai tre esempi):** Se la filiera alimentare viene interrotta, lo scambio non crea risorse infinite.
+<!-- END EXAMPLES344 -->
 
 ### Applicazioni cumulative e scala
 
@@ -203,12 +474,54 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 
 **Confine:** Serve un processo vivente o materiale germinale raggiunto; nessuna persona nuova dal nulla come Cradle.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-IV-M01 -->
+**Tre esempi pratici — Designed Brood**
+
+1. Da materiale germinale sviluppa un organismo complesso investito, sostenendone la costituzione.
+
+2. La creatura cresce con funzioni compatibili preparate: non nasce per pura decisione senza materiale germinale.
+
+3. Parte da materiale germinale autentico e sostiene lo sviluppo di una creatura complessa preparata: la nuova vita cresce attraverso quel materiale e non nasce soltanto perché la immagina.
+
+**Nota operativa (fuori dai tre esempi):** Se è senziente, resta un individuo distinto e non una copia comandata del Bearer.
+<!-- END EXAMPLES344 -->
+
 ### IV.M02 — Germinal Investment
 
 **Autorità:** Heredity. **Funzione macro:** Una funzione investita viene predisposta nella linea con sorgente e alimentazione, senza poteri gratuiti alla progenie.
 
 
 **Confine:** Trasmette caratteri tramite discendenza vera; non conferisce una Effigy completa attraverso il solo DNA.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-IV-M02 -->
+**Tre esempi pratici — Germinal Investment**
+
+1. Predispone nella linea una funzione investita che la progenie può sostenere con fonte e alimentazione adeguate.
+
+2. Un tratto soprannaturale passa attraverso una trasmissione germinale realmente organizzata.
+
+3. Predispone nella linea una funzione investita di protezione biologica compatibile, insieme alla fonte e all'alimentazione necessarie: la progenie può sostenerla entro quelle condizioni, non riceve una Seat gratuita.
+
+**Nota operativa (fuori dai tre esempi):** Non assegna gratuitamente Seat e riserva illimitata a ogni nuovo nato.
+<!-- END EXAMPLES344 -->
 
 ### IV.M03 — Redifferentiation
 
@@ -223,6 +536,27 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 
 **Confine dell’autorità:** Cambia sviluppo reale del vivente; non è restaurazione obbligata dello stato precedente Heart.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-IV-M03 -->
+**Tre esempi pratici — Redifferentiation**
+
+1. Riporta un tessuto raggiunto a uno sviluppo ridistribuibile e lo specializza in una funzione biologica compatibile diversa.
+
+2. Riorganizza tessuto disponibile per un nuovo compito invece di generare materia viva dal nulla.
+
+3. Un tessuto raggiunto viene riportato a uno stato ridistribuibile e specializzato in un nuovo compito biologico compatibile: la materia viva esistente viene riorganizzata invece di cambiare soltanto apparenza.
+
+**Nota operativa (fuori dai tre esempi):** Non prende per questo i travestimenti d'identità di Mask: cambia sviluppo biologico, non riconoscimento personale.
+<!-- END EXAMPLES344 -->
+
 ### IV.M04 — Habitat Membrane
 
 
@@ -235,6 +569,27 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 **Contromisure e limite specifico:** Il filtro deve essere configurato; può essere saturato e non equivale alla purificazione spirituale.
 
 **Confine dell’autorità:** Governa relazioni viventi raggiunte; non controlla direttamente ogni clima, mente animale o scarica.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-IV-M04 -->
+**Tre esempi pratici — Habitat Membrane**
+
+1. Sostiene una membrana vivente che seleziona gli scambi fra organismo e habitat.
+
+2. Mantiene distinte condizioni interne ed esterne attraverso un'interfaccia biologica reale.
+
+3. Una membrana vivente mantiene separati gli scambi ammessi e quelli esclusi tra l'organismo e l'ambiente: l'interno non deve diventare identico all'esterno per consentire il nutrimento compatibile.
+
+**Nota operativa (fuori dai tre esempi):** La membrana può essere saturata o danneggiata: non rende abitabile ogni ambiente senza risorse.
+<!-- END EXAMPLES344 -->
 
 ### Applicazioni cumulative e scala
 
@@ -266,6 +621,27 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 
 **Confine dell’autorità:** Serve un processo vivente o materiale germinale raggiunto; nessuna persona nuova dal nulla come Cradle.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-V-M01 -->
+**Tre esempi pratici — Reproductive Dormancy**
+
+1. Mantiene materiale germinale in quiescenza finché un'umidità compatibile ne consente la propagazione.
+
+2. Predispone una linea perché rimanga dormiente fino alla condizione fisica rilevabile stabilita.
+
+3. Prepara materiale germinale perché resti dormiente fino alla condizione d'umidità realmente rilevabile: quando la condizione si presenta, la propagazione può riprendere con risorse adatte.
+
+**Nota operativa (fuori dai tre esempi):** La condizione non si verifica: il materiale non decide da solo che sia arrivato il momento ideale.
+<!-- END EXAMPLES344 -->
+
 ### V.M02 — Hereditary Partition
 
 
@@ -278,6 +654,27 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 **Contromisure e limite specifico:** Non conferisce Seats né riconverte figli nel genitore.
 
 **Confine dell’autorità:** Trasmette caratteri tramite discendenza vera; non conferisce una Effigy completa attraverso il solo DNA.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-V-M02 -->
+**Tre esempi pratici — Hereditary Partition**
+
+1. Separa la trasmissione di un tratto utile da una dipendenza investita collegata nella linea raggiunta.
+
+2. Conserva un carattere germinale compatibile senza dover trasmettere insieme il raccordo ostile separabile.
+
+3. Un carattere utile passa insieme a una dipendenza investita separabile: distingue le due trasmissioni e conserva quella utile senza imporre automaticamente anche la dipendenza ai nuovi sviluppi.
+
+**Nota operativa (fuori dai tre esempi):** Non modifica retroattivamente le persone già nate come se avessero un'altra storia biologica.
+<!-- END EXAMPLES344 -->
 
 ### V.M03 — Germinal Reconstitution
 
@@ -292,6 +689,27 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 
 **Confine dell’autorità:** Cambia sviluppo reale del vivente; non è restaurazione obbligata dello stato precedente Heart.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-V-M03 -->
+**Tre esempi pratici — Germinal Reconstitution**
+
+1. La propria corporeità viene perduta ma resta il supporto germinale investito autentico: ricostituisce lo stesso corpo personale attraverso quel rapporto.
+
+2. La ricostituzione usa la continuità superstite, non una copia mentale inventata dal seme.
+
+3. La corporeità del Bearer viene perduta ma il supporto germinale autentico investito e la stessa continuità sopravvivono: ricostituisce la propria incarnazione attraverso quel rapporto invece di fabbricare una copia ignara.
+
+**Nota operativa (fuori dai tre esempi):** Annientati continuità e supporto valido, un seme qualunque non riporta il Bearer in vita.
+<!-- END EXAMPLES344 -->
+
 ### V.M04 — Ecological Buffer
 
 
@@ -304,6 +722,27 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 **Contromisure e limite specifico:** Non inventa clima o risorse mancanti.
 
 **Confine dell’autorità:** Governa relazioni viventi raggiunte; non controlla direttamente ogni clima, mente animale o scarica.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-V-M04 -->
+**Tre esempi pratici — Ecological Buffer**
+
+1. Predispone riserve e organismi sostitutivi per una filiera alimentare raggiunta.
+
+2. Una componente della comunità cede: il sistema usa il sostituto compatibile mantenuto a riserva.
+
+3. Un habitat perde un anello della filiera: organismi sostitutivi e riserve realmente predisposti mantengono temporaneamente lo scambio necessario mentre il sistema affronta la perdita.
+
+**Nota operativa (fuori dai tre esempi):** Finiscono riserve e sostituti: il tampone non produce un ecosistema inesauribile.
+<!-- END EXAMPLES344 -->
 
 ### Applicazioni cumulative e scala
 
@@ -335,6 +774,27 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 
 **Confine dell’autorità:** Serve un processo vivente o materiale germinale raggiunto; nessuna persona nuova dal nulla come Cradle.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-VI-M01 -->
+**Tre esempi pratici — Reproductive Symbiosis**
+
+1. Due linee biologiche compatibili sostengono insieme un processo riproduttivo organizzato.
+
+2. Una relazione vivente reale consente alla prima linea di sostenere una fase necessaria all'altra.
+
+3. Due linee compatibili sostengono fasi diverse di un processo riproduttivo composto: il raccordo vivente permette alla fase dell'una di supportare quella dell'altra senza dichiararle un'unica specie arbitraria.
+
+**Nota operativa (fuori dai tre esempi):** Specie incompatibili non diventano riproduttivamente compatibili solo perché sono nello stesso recinto.
+<!-- END EXAMPLES344 -->
+
 ### VI.M02 — Latent Heredity
 
 
@@ -347,6 +807,27 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 **Contromisure e limite specifico:** Il trigger è biologicamente sostenibile, non conoscenza del futuro.
 
 **Confine dell’autorità:** Trasmette caratteri tramite discendenza vera; non conferisce una Effigy completa attraverso il solo DNA.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-VI-M02 -->
+**Tre esempi pratici — Latent Heredity**
+
+1. Predispone un carattere ereditario che resta latente finché lo sviluppo incontra la condizione compatibile prevista.
+
+2. Una discendenza manifesta un tratto solo nel contesto biologico organizzato, non a ogni nascita.
+
+3. Predispone un tratto ereditabile che resta latente finché lo sviluppo incontra la condizione compatibile preparata: il tratto può comparire in quel contesto anziché in ogni individuo indistintamente.
+
+**Nota operativa (fuori dai tre esempi):** Non è una previsione universale: il tratto non legge desideri segreti o eventi impossibili da rilevare.
+<!-- END EXAMPLES344 -->
 
 ### VI.M03 — Developmental Coupling
 
@@ -361,6 +842,27 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 
 **Confine dell’autorità:** Cambia sviluppo reale del vivente; non è restaurazione obbligata dello stato precedente Heart.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-VI-M03 -->
+**Tre esempi pratici — Developmental Coupling**
+
+1. Coordina lo sviluppo di due tessuti collegati affinché uno non maturi lasciando l'altro incapace di sostenerlo.
+
+2. Una specializzazione biologica cresce mantenendo il raccordo con nutrimento e strutture connesse.
+
+3. Coordina lo sviluppo di tessuto specializzato e tessuto di sostegno collegati, affinché la prima parte non maturi più rapidamente di quanto la seconda possa alimentarla o sostenerla.
+
+**Nota operativa (fuori dai tre esempi):** Accelerare un tessuto senza capacità di sostegno non diventa sicuro solo per dichiarazione.
+<!-- END EXAMPLES344 -->
+
 ### VI.M04 — Ecological Succession
 
 
@@ -373,6 +875,27 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 **Contromisure e limite specifico:** Nutrimento e condizioni ambientali possono impedire la transizione.
 
 **Confine dell’autorità:** Governa relazioni viventi raggiunte; non controlla direttamente ogni clima, mente animale o scarica.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-VI-M04 -->
+**Tre esempi pratici — Ecological Succession**
+
+1. Dirige il passaggio da una comunità vivente a un'altra mantenendo filiere alimentari durante la transizione.
+
+2. Prepara organismi che sostengano la fase intermedia prima che la comunità iniziale venga meno.
+
+3. Fa subentrare una comunità vivente a un'altra per passaggi sostenuti: conserva gli scambi alimentari necessari durante la transizione invece di togliere tutti gli organismi iniziali prima che esistano sostituti.
+
+**Nota operativa (fuori dai tre esempi):** Non sostituisce tutto istantaneamente: interrompere i rapporti necessari può ancora far collassare l'habitat.
+<!-- END EXAMPLES344 -->
 
 ### Applicazioni cumulative e scala
 
@@ -404,6 +927,27 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 
 **Confine dell’autorità:** Serve un processo vivente o materiale germinale raggiunto; nessuna persona nuova dal nulla come Cradle.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-VII-M01 -->
+**Tre esempi pratici — Reproductive Exclusion**
+
+1. In un sistema germinale raggiunto separa una proliferazione ostile da quella compatibile che deve continuare.
+
+2. Contende la diffusione indesiderata senza sterilizzare indiscriminatamente ogni organismo dell'habitat.
+
+3. In un sistema germinale preso contrasta una proliferazione ostile distinguendola da quella compatibile che deve continuare: non è costretto a sterilizzare tutto per fermare la parte dannosa separabile.
+
+**Nota operativa (fuori dai tre esempi):** La separazione richiede poter distinguere e prendere le proliferazioni: non basta chiamarne una «cattiva».
+<!-- END EXAMPLES344 -->
+
 ### VII.M02 — Hereditary Recombination
 
 
@@ -416,6 +960,27 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 **Contromisure e limite specifico:** Fonte e nutrimento necessari; niente altra Effige regalata dalla genetica.
 
 **Confine dell’autorità:** Trasmette caratteri tramite discendenza vera; non conferisce una Effigy completa attraverso il solo DNA.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-VII-M02 -->
+**Tre esempi pratici — Hereditary Recombination**
+
+1. Ricombina trasmissioni investite della stessa linea in una combinazione compatibile nuova.
+
+2. Una discendenza futura può ricevere un diverso insieme di caratteri raggiunti senza cambiare chi sono gli adulti già nati.
+
+3. Ricombina caratteri e trasmissioni investite autentiche della stessa linea per una discendenza nuova compatibile: il cambiamento riguarda quella trasmissione, non l'identità delle persone già nate.
+
+**Nota operativa (fuori dai tre esempi):** Non fonde persone diverse né riscrive la continuità personale attraverso una genealogia modificata.
+<!-- END EXAMPLES344 -->
 
 ### VII.M03 — Developmental Branching
 
@@ -430,6 +995,27 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 
 **Confine dell’autorità:** Cambia sviluppo reale del vivente; non è restaurazione obbligata dello stato precedente Heart.
 
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-VII-M03 -->
+**Tre esempi pratici — Developmental Branching**
+
+1. Una linea di sviluppo raggiunta produce forme differenziate destinate a compiti biologici diversi.
+
+2. Nello stesso sviluppo organizzato specializza componenti invece di imporre a tutte una forma uniforme.
+
+3. La stessa linea di sviluppo sostiene forme differenziate destinate a compiti biologici distinti: non tutte le componenti devono assumere la medesima forma per partecipare al processo sostenuto.
+
+**Nota operativa (fuori dai tre esempi):** La diversificazione usa risorse reali: non crea gratuitamente un esercito completo dal pensiero ordinario.
+<!-- END EXAMPLES344 -->
+
 ### VII.M04 — Ecological Insulation
 
 
@@ -442,6 +1028,27 @@ Le celle degli stadi precedenti restano esercitabili e quantitativamente più fo
 **Contromisure e limite specifico:** Non crea biosfera infinita o controlla menti animali per titolo.
 
 **Confine dell’autorità:** Governa relazioni viventi raggiunte; non controlla direttamente ogni clima, mente animale o scarica.
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN EXAMPLES344 EFF-11-VII-M04 -->
+**Tre esempi pratici — Ecological Insulation**
+
+1. Separa una relazione ecologica ostile dalle filiere che mantengono vivo l'habitat.
+
+2. Ricostituisce scambi compatibili mentre isola la dipendenza dannosa realmente presa.
+
+3. Una relazione ecologica nociva è presa insieme alle filiere utili: isola il rapporto dannoso e sostiene scambi compatibili superstiti, evitando di interrompere indiscriminatamente l'alimentazione dell'intero habitat.
+
+**Nota operativa (fuori dai tre esempi):** Se una funzione utile dipendeva interamente dal rapporto rimosso, occorre sostenerla: non resta automaticamente disponibile.
+<!-- END EXAMPLES344 -->
 
 ### Applicazioni cumulative e scala
 

@@ -29,3 +29,8 @@ Non attribuire responsabilità per il gesto finale di Alexander. La storia pre-c
 
 Man23, medium brown skin, short black curly hair, dark brown eyes, angular handsome face, clean-shaven athletic build, upright confident posture. Steel-grey fitted 1880 frock coat dark red waistcoat, composed competitive expression.
 Tre immagini prodotte; nessuna nuova capacità o scelta futura.
+
+
+## Gerarchia territoriale 347
+
+Erede di Vincent Vernier, conte di Vernay, subordinato territoriale al duca. La rivalità personale non equivale a parità di rango.

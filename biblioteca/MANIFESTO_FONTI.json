@@ -43,8 +43,8 @@
       "group": "Dati strutturati e registri",
       "url": "bbae328d43d61d53.html",
       "raw": "fonti/bbae328d43d61d53.json",
-      "sha256": "7e7d7a0a77597568447eccefa0112c72c1e81e160d3fb733692e26276ba9f193",
-      "bytes": 8030
+      "sha256": "854a6783e2ac95430de4c76bcd12824be4864e923990af95256d93944e6405e1",
+      "bytes": 8404
     },
     {
       "source": "CANONE_VIGENTE/Atlante_cosmologico.json",
@@ -52,8 +52,8 @@
       "group": "Dati strutturati e registri",
       "url": "241d91237c560110.html",
       "raw": "fonti/241d91237c560110.json",
-      "sha256": "32a22502c08458035410b52aedd25c7dbe843f6aadbbb185b33b91f6f8ffc500",
-      "bytes": 746574
+      "sha256": "de0db60d100d82d44954a0e0b71f9fa42505c939fcb1c160a03dcd455d2335c1",
+      "bytes": 747076
     },
     {
       "source": "CANONE_VIGENTE/Audit_biologie_e_copertura_cast.json",
@@ -88,8 +88,8 @@
       "group": "Dati strutturati e registri",
       "url": "78b21fa5566df755.html",
       "raw": "fonti/78b21fa5566df755.json",
-      "sha256": "8c145201090d3afdc0276ee3163dcc78066eada0611bb54329b149a215092a41",
-      "bytes": 117526
+      "sha256": "5e0cb4b9f71e6fc3e962f8762b08e32887c9d60b3837a43771178a0db0b99bdf",
+      "bytes": 118976
     },
     {
       "source": "CANONE_VIGENTE/Bestiario_conoscenze.json",
@@ -97,8 +97,8 @@
       "group": "Dati strutturati e registri",
       "url": "b5eea5b445c7c351.html",
       "raw": "fonti/b5eea5b445c7c351.json",
-      "sha256": "8e0652742cc155d5f1bf8f622a0aa4e4c166a0d6a38584d77742808483d92a53",
-      "bytes": 7008
+      "sha256": "3f16a88f7aeaef474297ce8aa0a2069f1ee6be4ca914aa82f3c23a9cebbe1dd8",
+      "bytes": 7270
     },
     {
       "source": "CANONE_VIGENTE/Calendario_trama.json",
@@ -106,8 +106,8 @@
       "group": "Dati strutturati e registri",
       "url": "ed3a279a7d37f425.html",
       "raw": "fonti/ed3a279a7d37f425.json",
-      "sha256": "6ef44aed1ca1be5ec312ba4f55fb223ec475ecf0029ee1f05e2b5c4773c0dd37",
-      "bytes": 24116
+      "sha256": "a693fe060a9bf0e0acb6474e41919fac8a8564e651edaf670d657a057e190880",
+      "bytes": 24114
     },
     {
       "source": "CANONE_VIGENTE/Cast_conosciuto.json",
@@ -115,8 +115,8 @@
       "group": "Dati strutturati e registri",
       "url": "f5efdaad0166d763.html",
       "raw": "fonti/f5efdaad0166d763.json",
-      "sha256": "c3ec2f55a0df98fa0289e39cbc55f5f8cc96a903249dc0e2961c1fa8ac87a4c5",
-      "bytes": 26019
+      "sha256": "067997f05661432b2226e3263ddc5a230ef69c9c494b992a6118e61447c145ed",
+      "bytes": 37508
     },
     {
       "source": "CANONE_VIGENTE/Cast_riservato.json",
@@ -124,8 +124,8 @@
       "group": "Dati strutturati e registri",
       "url": "9f5d1e0af2de6024.html",
       "raw": "fonti/9f5d1e0af2de6024.json",
-      "sha256": "eb99c1a453401bda0d1c0af590e2d30ef6a3d940bc06b0236b9a8cd3b8a5b6c1",
-      "bytes": 2948626
+      "sha256": "30991ca00b0857f010c3bc30eb17d0687bd53ea605f0555131053256fde45881",
+      "bytes": 3001011
     },
     {
       "source": "CANONE_VIGENTE/Censimento_visuale_luoghi.json",
@@ -151,8 +151,8 @@
       "group": "Dati strutturati e registri",
       "url": "fc13a192068fb8a6.html",
       "raw": "fonti/fc13a192068fb8a6.json",
-      "sha256": "a58b72dc9213d484031d2bf3195b0a274cfc65f112738ae76602d095dc778d78",
-      "bytes": 65483
+      "sha256": "7a415c5c81238093cfb71755cc0202adc166ed252608b0de6a8fafb4271c1271",
+      "bytes": 68699
     },
     {
       "source": "CANONE_VIGENTE/Consolidamento_biologie_cast.json",
@@ -169,8 +169,8 @@
       "group": "Dati strutturati e registri",
       "url": "cc55403753728db5.html",
       "raw": "fonti/cc55403753728db5.json",
-      "sha256": "15036caf5617fc0b23cabbf6a6ab0c267a39176d81aa937761568c488200a5b1",
-      "bytes": 225133
+      "sha256": "255e6c47437c81485098fabf58d9053b1964f0cdf67151975129f6c780107b4f",
+      "bytes": 228771
     },
     {
       "source": "CANONE_VIGENTE/Decisione_esclusione_Veylen_297.json",
@@ -223,8 +223,8 @@
       "group": "Dati strutturati e registri",
       "url": "117c76e9df5ab6fa.html",
       "raw": "fonti/117c76e9df5ab6fa.json",
-      "sha256": "03a26d82ba581645c52584a6c173ebebe20cfc1371f38afae9f24c66cd6f6056",
-      "bytes": 31517
+      "sha256": "4d66d7f5b4cf0fb030e19701db123c9df7492270f98c37be7afba48603a9c5c2",
+      "bytes": 32591
     },
     {
       "source": "CANONE_VIGENTE/Geografia_condivisa.json",
@@ -232,8 +232,8 @@
       "group": "Dati strutturati e registri",
       "url": "9fb942b08a3147eb.html",
       "raw": "fonti/9fb942b08a3147eb.json",
-      "sha256": "d32df85e2a753c0f02e4ac2a2b1a2ffe37772bde6cd3ac50b564cac2c9ffc57d",
-      "bytes": 41275
+      "sha256": "de06900d835789af38847c2ad16e8b8612889f1775e5b64051abe2748b9b2d64",
+      "bytes": 65138
     },
     {
       "source": "CANONE_VIGENTE/Geografia_riservata.json",
@@ -241,8 +241,8 @@
       "group": "Dati strutturati e registri",
       "url": "c5209fee2344a605.html",
       "raw": "fonti/c5209fee2344a605.json",
-      "sha256": "d30a56e1916953f611e606b6a7c6ffd5183a2611a12c94331ffc316750f8f40f",
-      "bytes": 138567
+      "sha256": "b852adb2489635657d76686051f8ddc8983ebc884c79cd4ed2125855ea12f485",
+      "bytes": 167676
     },
     {
       "source": "CANONE_VIGENTE/Gruppo_284_personaggi_selezionati.json",
@@ -457,8 +457,8 @@
       "group": "Dati strutturati e registri",
       "url": "65039e04ef68fe9b.html",
       "raw": "fonti/65039e04ef68fe9b.json",
-      "sha256": "707289f03abce1f2834b086254d5647ac0dbae8939ce7f6108498655e3a00ed7",
-      "bytes": 16331
+      "sha256": "d4289c5ee87ec8e58b9b3bb698390b3944ac3171625e33010bac68eacefea040",
+      "bytes": 16702
     },
     {
       "source": "CANONE_VIGENTE/Nomi_stadi_approvati.json",
@@ -475,8 +475,8 @@
       "group": "Dati strutturati e registri",
       "url": "2baf9591c2774322.html",
       "raw": "fonti/2baf9591c2774322.json",
-      "sha256": "2d4aeb87d6d45a0f4297c7eafcd033721a912c688fe21e80577d7401c054ba4b",
-      "bytes": 208586
+      "sha256": "2544736d7541ee2ef3451a624f90d524cec5b723035ce755710fdc01f040f047",
+      "bytes": 211750
     },
     {
       "source": "CANONE_VIGENTE/Piano_spostamenti_originali.json",
@@ -520,8 +520,8 @@
       "group": "Dati strutturati e registri",
       "url": "4e80f3c692d27662.html",
       "raw": "fonti/4e80f3c692d27662.json",
-      "sha256": "49701ab3459f86e3c5f58397271fc53eba08ad34426d7b4d3d2bff51ef5430f9",
-      "bytes": 5130
+      "sha256": "21a09708ac79047378a5e84b8e0958dd9d429064db6f767fdc13d0fbe50018a8",
+      "bytes": 5202
     },
     {
       "source": "CANONE_VIGENTE/Progressioni_effigi.json",
@@ -529,8 +529,8 @@
       "group": "Dati strutturati e registri",
       "url": "36bfbe931678fc40.html",
       "raw": "fonti/36bfbe931678fc40.json",
-      "sha256": "efae025b10ce6ee809953fad8dba6ada9b9f6d2d0d8ba10eba6cdcadd9ed7c5a",
-      "bytes": 1362657
+      "sha256": "4aa7a711b43f5b166fdd784736a09cf9ce2b240b99a03009262d5da601365b15",
+      "bytes": 1406653
     },
     {
       "source": "CANONE_VIGENTE/Protagonista.json",
@@ -538,8 +538,8 @@
       "group": "Dati strutturati e registri",
       "url": "1deff82c48dbf8ee.html",
       "raw": "fonti/1deff82c48dbf8ee.json",
-      "sha256": "d187a012822822b7a3ca07b4ca9fca67071c2719ebe68dde711b6ad2a59f5725",
-      "bytes": 127615
+      "sha256": "35c19db84cb3dcc6479890ccd84f284f59dea3e7327c75d3f5f0780b3e12797c",
+      "bytes": 148140
     },
     {
       "source": "CANONE_VIGENTE/Protagonista_riservato.json",
@@ -547,8 +547,8 @@
       "group": "Dati strutturati e registri",
       "url": "17b2db23ae63cc2d.html",
       "raw": "fonti/17b2db23ae63cc2d.json",
-      "sha256": "89d258a1b4a8e2edfa417b7d79225e4a581fd040f2364424e3bd5316d2c510d9",
-      "bytes": 25860
+      "sha256": "9dd90c0e06994f99b3618f95f22826e82f5e178658842395feba407968dd1693",
+      "bytes": 25913
     },
     {
       "source": "CANONE_VIGENTE/Raccordo_adulto.json",
@@ -556,8 +556,8 @@
       "group": "Dati strutturati e registri",
       "url": "b405bb3ad5a3723a.html",
       "raw": "fonti/b405bb3ad5a3723a.json",
-      "sha256": "fc696f1be4c69954b03bc1df8b749a36bb81d92c28ccd87d815ea079bbdf4304",
-      "bytes": 14331
+      "sha256": "09ef4bb73e82e420dbb7feb5ae5f0007eb014bc92eb11e28fbf5a1221c1507a5",
+      "bytes": 14700
     },
     {
       "source": "CANONE_VIGENTE/Raccordo_bestiario_Effigi_317.json",
@@ -583,8 +583,8 @@
       "group": "Dati strutturati e registri",
       "url": "e39de9a82cd70923.html",
       "raw": "fonti/e39de9a82cd70923.json",
-      "sha256": "bfb25805856c65002a46b3962f30653b3e5b8f382db5d812869e7f9355d2aabb",
-      "bytes": 7114
+      "sha256": "27fb59dc066133aa664a0940dfbe283786e70302936ae65863c96c24b835ef13",
+      "bytes": 7785
     },
     {
       "source": "CANONE_VIGENTE/Revisione_affetti_antichi.json",
@@ -619,8 +619,8 @@
       "group": "Dati strutturati e registri",
       "url": "24c5bff78246655d.html",
       "raw": "fonti/24c5bff78246655d.json",
-      "sha256": "91dd2ba8e45e6a4d3ec46b54ba64ef7a1d46020c67ca39966a54048293a3587f",
-      "bytes": 257254
+      "sha256": "854c54c06c51aed0bdc571f8de58ed9e1c4ac4a287d83e094a0f6932b431f4e0",
+      "bytes": 260307
     },
     {
       "source": "CANONE_VIGENTE/Revisione_relazione_divina.json",
@@ -655,8 +655,8 @@
       "group": "Dati strutturati e registri",
       "url": "16fa64687f0e9535.html",
       "raw": "fonti/16fa64687f0e9535.json",
-      "sha256": "ced8d06f52129e7a6ab546811ba688da03c8f5775783cd666c6bfc50bbb10009",
-      "bytes": 13723
+      "sha256": "525a0909b8e20d1783987a029e418c4a8d2b3683098dddb407ddae0d0d10e6c3",
+      "bytes": 13850
     },
     {
       "source": "CANONE_VIGENTE/Societa_condivisa.json",
@@ -664,8 +664,8 @@
       "group": "Dati strutturati e registri",
       "url": "00f965548ff670d9.html",
       "raw": "fonti/00f965548ff670d9.json",
-      "sha256": "886f84178bd343ffb350c172b10e051ed526f95e131876b0573ebc1d3ab46981",
-      "bytes": 37635
+      "sha256": "7e2c388a881de209b375245a6d9807c2851dac472b1515d36d7e7731cad871f5",
+      "bytes": 38572
     },
     {
       "source": "CANONE_VIGENTE/Societa_riservata.json",
@@ -673,8 +673,8 @@
       "group": "Dati strutturati e registri",
       "url": "c137a327ee3556e1.html",
       "raw": "fonti/c137a327ee3556e1.json",
-      "sha256": "de24e9a2ef72a3e446796e6c6607dba30af8278c4f7db5d11f0d2687ab51550f",
-      "bytes": 82612
+      "sha256": "544be48d4611ab4916c337cd22c5b277fdc63c8c8549b30db6a66ecb511bbc59",
+      "bytes": 83866
     },
     {
       "source": "CANONE_VIGENTE/Storia_condivisa.json",
@@ -682,8 +682,8 @@
       "group": "Dati strutturati e registri",
       "url": "9e9bbda144f2d2b8.html",
       "raw": "fonti/9e9bbda144f2d2b8.json",
-      "sha256": "ceebd888d3414f8a2a4ff4ae30f07a9a19315b9ed86bddf65e6c352597d98f6f",
-      "bytes": 30170
+      "sha256": "0f2b89c6462dd66134c8d135806061c75a0580edc3207b3aeafc2a8eb09c32a5",
+      "bytes": 54967
     },
     {
       "source": "CANONE_VIGENTE/Storia_riservata.json",
@@ -691,8 +691,8 @@
       "group": "Dati strutturati e registri",
       "url": "6e75acc198d49235.html",
       "raw": "fonti/6e75acc198d49235.json",
-      "sha256": "4013c208182b6317c4de49e8bef79b414745b74ef3e0e5a71cdbe9e0fcebed77",
-      "bytes": 476336
+      "sha256": "ebba9a2572478ff70e4aab64596b939198f94e09bf009e1a5a038cf9860b5678",
+      "bytes": 482507
     },
     {
       "source": "CANONE_VIGENTE/Trama_riservata.json",
@@ -700,8 +700,8 @@
       "group": "Dati strutturati e registri",
       "url": "4613e26eddb565d5.html",
       "raw": "fonti/4613e26eddb565d5.json",
-      "sha256": "dcf67fcf7092c6be2dcc297c9ced376d98f10ec8af0e26aec18b35029651eee4",
-      "bytes": 88294
+      "sha256": "8d78445d6f64a0fd18855e1e58e59c9699143ce371effb1f6949bafc2e5e33e1",
+      "bytes": 153673
     },
     {
       "source": "CANONE_VIGENTE/Unita_milestone11.json",
@@ -709,8 +709,8 @@
       "group": "Dati strutturati e registri",
       "url": "72bfa25ed5973652.html",
       "raw": "fonti/72bfa25ed5973652.json",
-      "sha256": "ec51d8c0b49980cd29a9ed2d43da73477d7cf6ba6c042757401e8218b8a0f9a7",
-      "bytes": 96298
+      "sha256": "ee26091aceee663f52c2302da19510177c1288ed08c99d7c81dc5e3076ebee8a",
+      "bytes": 96296
     },
     {
       "source": "CANONE_VIGENTE/Verifica_Roots_fisiche_01.json",
@@ -1015,8 +1015,8 @@
       "group": "Cast — dossier individuali",
       "url": "d459f272f5fcbc5f.html",
       "raw": "fonti/d459f272f5fcbc5f.md",
-      "sha256": "a35ae924bc3c373d378e2089392377e92db95b80d6855f0e94822775ce1d60fa",
-      "bytes": 12682
+      "sha256": "973d11715ee4fb76cf2e6aa790d3bdc2e21d2bfcad56ddbe020f8b7b868b14d3",
+      "bytes": 17200
     },
     {
       "source": "CAST_RISERVATO/CAST-002.md",
@@ -1024,8 +1024,8 @@
       "group": "Cast — dossier individuali",
       "url": "6a6d86b6ebfb5024.html",
       "raw": "fonti/6a6d86b6ebfb5024.md",
-      "sha256": "35ba6533d88ad9b754632a9a9fd308ecb839ef9e9221a14350885aa3c521b0dc",
-      "bytes": 9285
+      "sha256": "9d64cb39e2721d09e4e8bfa09c431b932b2edc2284e707d98d979bbdb96c5ed4",
+      "bytes": 10019
     },
     {
       "source": "CAST_RISERVATO/CAST-003.md",
@@ -1105,8 +1105,8 @@
       "group": "Cast — dossier individuali",
       "url": "7f2455c4913444d8.html",
       "raw": "fonti/7f2455c4913444d8.md",
-      "sha256": "355b067937a16350a0ae9530660facca722e5ac16f9ce676eb6485c26e8f1cce",
-      "bytes": 22788
+      "sha256": "549b4ebf4b9176b20c6fa2353863c7908d4605d03095d067a7ed63db375e74ab",
+      "bytes": 23004
     },
     {
       "source": "CAST_RISERVATO/CAST-012.md",
@@ -1195,8 +1195,8 @@
       "group": "Cast — dossier individuali",
       "url": "5095a688bed232e1.html",
       "raw": "fonti/5095a688bed232e1.md",
-      "sha256": "0761e0140242eccd94280a20bba55d25217bf2773d84f02f3ba6ec19ad556b77",
-      "bytes": 10136
+      "sha256": "897f32ae92907d7b236dff209a708942c7d162a7e137ce0f674c6b02c0584f18",
+      "bytes": 10143
     },
     {
       "source": "CAST_RISERVATO/CAST-022.md",
@@ -1204,8 +1204,8 @@
       "group": "Cast — dossier individuali",
       "url": "745f71105700cfa0.html",
       "raw": "fonti/745f71105700cfa0.md",
-      "sha256": "2cebc276896a33b6697d30a1e5361eb6bd21de5a9afbcfe698681fb3e2c0dac7",
-      "bytes": 10179
+      "sha256": "07f6e88fdde8b8b05e29634710376cceb9e5325d8d697ab268714347e1f7c323",
+      "bytes": 10186
     },
     {
       "source": "CAST_RISERVATO/CAST-023.md",
@@ -1510,8 +1510,8 @@
       "group": "Cast — dossier individuali",
       "url": "15b62a467503f7f9.html",
       "raw": "fonti/15b62a467503f7f9.md",
-      "sha256": "3225f19e626266d0a52ff6ab428b4a5edb77f22c59c6909d730a4a10d7d191c1",
-      "bytes": 13080
+      "sha256": "6b5f6ddb802e8d93c76696518c6c063fa25816a5d96f217885294d53e4498d05",
+      "bytes": 13204
     },
     {
       "source": "CAST_RISERVATO/CAST-057.md",
@@ -5182,8 +5182,8 @@
       "group": "Cast — dossier individuali",
       "url": "e659613db0d667fb.html",
       "raw": "fonti/e659613db0d667fb.md",
-      "sha256": "0ac0d0379b159761d856a53418c7a56e32dca53784c4f82e209d0eba3b2e35fc",
-      "bytes": 2728
+      "sha256": "644c247492014b593480a54aa6d0e195ab23df2ae802ef12ecc820e5a102e408",
+      "bytes": 2975
     },
     {
       "source": "CAST_RISERVATO/CAST-465.md",
@@ -5191,8 +5191,8 @@
       "group": "Cast — dossier individuali",
       "url": "79dfda4bfc05388a.html",
       "raw": "fonti/79dfda4bfc05388a.md",
-      "sha256": "c3330f39471518a220486f9f9fbfea9f6cceed2ce1cc8bd39ec6743e5bc14616",
-      "bytes": 2655
+      "sha256": "97fa032efc647e5cc5476b820d5d58d7f26e4b302135aa4a6a1b5e9cd7ce78fa",
+      "bytes": 2906
     },
     {
       "source": "CAST_RISERVATO/CAST-466.md",
@@ -5236,8 +5236,8 @@
       "group": "Cast — dossier individuali",
       "url": "7281b639ce629f2b.html",
       "raw": "fonti/7281b639ce629f2b.md",
-      "sha256": "534533dcf3dbd69a30731775bb8ee193f1d83baf825b00e79d65c864d31dd6b9",
-      "bytes": 2575
+      "sha256": "7a5bf6c10e9bd172e276603a5a63ec7c91b9ef3d61e82cfeb44d22dcd9fa98c9",
+      "bytes": 2769
     },
     {
       "source": "CAST_RISERVATO/CAST-471.md",
@@ -5245,8 +5245,8 @@
       "group": "Cast — dossier individuali",
       "url": "c716d5d4aaac99fc.html",
       "raw": "fonti/c716d5d4aaac99fc.md",
-      "sha256": "a081448f405e1e6c56ac849065d348528824578826eb73b7901bac12e3a241d2",
-      "bytes": 2586
+      "sha256": "3fc87c4eab9b62c21dea4b1c554c56ac5816b94eb4c7bb8570f81de8e191657e",
+      "bytes": 2788
     },
     {
       "source": "CAST_RISERVATO/CAST-472.md",
@@ -5488,8 +5488,8 @@
       "group": "Documenti del giocatore",
       "url": "8b69a1960d24b592.html",
       "raw": "fonti/8b69a1960d24b592.md",
-      "sha256": "d870d5f1930c0947f071be226a5d2bfc1186dd18f9a0d9e77a927b92b91b1bb0",
-      "bytes": 3746
+      "sha256": "8f793845ec30de34d45795957b27325892f97c1c7c770789b3a8e65d60381be1",
+      "bytes": 3818
     },
     {
       "source": "GIOCATORE_105_Avarenne_pianeta_e_continenti.md",
@@ -5524,8 +5524,8 @@
       "group": "Documenti del giocatore",
       "url": "8f07ddffe9b159f2.html",
       "raw": "fonti/8f07ddffe9b159f2.md",
-      "sha256": "1e2bc1b58e58834c579302870eff71480c5cc609399e4c93186254c5dff41f13",
-      "bytes": 4522
+      "sha256": "d91367ea7ca4347babcd2e00030b9335b40a189b400a9ebfc6f74a86a010aa51",
+      "bytes": 4870
     },
     {
       "source": "GIOCATORE_109_Rovenne_e_geografia_personale.md",
@@ -5533,8 +5533,8 @@
       "group": "Documenti del giocatore",
       "url": "0dc213cda5b62651.html",
       "raw": "fonti/0dc213cda5b62651.md",
-      "sha256": "9d5d27641129eadd4fbe2ef82e991305950753530475af0e5b8fc8273be80d95",
-      "bytes": 2974
+      "sha256": "47e6d334aa21daf24b8ed2607749d875c181cb54c19695d0e09ff5bd11fce2d5",
+      "bytes": 3428
     },
     {
       "source": "GIOCATORE_110_Reti_e_tempi_di_viaggio.md",
@@ -5578,8 +5578,8 @@
       "group": "Documenti del giocatore",
       "url": "dd4717c09c770e08.html",
       "raw": "fonti/dd4717c09c770e08.md",
-      "sha256": "1df68899225bcab638b48f08054827e522741348b3894c9b378fa2624d227f27",
-      "bytes": 4028
+      "sha256": "8d867c013ef87aed74c820c17a4e3bf3535adab8682ed6a1da2f0a5fd54f2685",
+      "bytes": 4496
     },
     {
       "source": "GIOCATORE_123_Atlante_delle_istituzioni.md",
@@ -5632,8 +5632,8 @@
       "group": "Documenti del giocatore",
       "url": "0e03506eacc4bfc2.html",
       "raw": "fonti/0e03506eacc4bfc2.md",
-      "sha256": "b7c9a82d1598ffd87595b7b1b6a05253dde15e506626056406746c57aa611e93",
-      "bytes": 3749
+      "sha256": "b38751ffb217779584d3b5b78889b56002e4789fc47b3a2b84b22ca7a3a792d3",
+      "bytes": 4140
     },
     {
       "source": "GIOCATORE_129_Vita_quotidiana_lingue_e_estetica.md",
@@ -5713,8 +5713,8 @@
       "group": "Documenti del giocatore",
       "url": "a2aab6da9e95d1d0.html",
       "raw": "fonti/a2aab6da9e95d1d0.md",
-      "sha256": "e24de70047734ce25e5678ba5a1b76ac292598102dadac00d6b10119e40c5111",
-      "bytes": 67743
+      "sha256": "145baa1d2d4e86ebb1fa1ec70ac1102bba2bd3db2cb1d08313cdc2dabec2a2b0",
+      "bytes": 94343
     },
     {
       "source": "GIOCATORE_170_Eclipse_progressione_completa.md",
@@ -5722,8 +5722,8 @@
       "group": "Documenti del giocatore",
       "url": "2eb99aadd01bd886.html",
       "raw": "fonti/2eb99aadd01bd886.md",
-      "sha256": "8f14b69f3f6667bf374f3c39da8c7c6b1e96056fe523213d3af971e092875528",
-      "bytes": 38815
+      "sha256": "28d96c080ba351c7ca21e4309e4bf6454d2abff38eddb5018e7809be905c5d37",
+      "bytes": 65809
     },
     {
       "source": "GIOCATORE_171_The_Nocturne_e_The_Veiled_Basin.md",
@@ -5785,8 +5785,8 @@
       "group": "Documenti del giocatore",
       "url": "5f168e937d0dde45.html",
       "raw": "fonti/5f168e937d0dde45.md",
-      "sha256": "427e13b06c3310d0c7771326cdd26fdc5c9fb4ef294466dfd8e3e2908434f980",
-      "bytes": 10297
+      "sha256": "1a36acd606288e213d7786f2ef58d6ae7df4480bcce2f20dcb269fd308bcb402",
+      "bytes": 10883
     },
     {
       "source": "GIOCATORE_278_Affetti_antichi_e_longevita.md",
@@ -5893,8 +5893,8 @@
       "group": "Documenti del giocatore",
       "url": "d86901e95ffd9a70.html",
       "raw": "fonti/d86901e95ffd9a70.md",
-      "sha256": "a7e8f7cc5b34ccf50e9e488e174a3eb15c9b4c2690095dc26bb76bc20cd371f3",
-      "bytes": 13316
+      "sha256": "5e62b83382f6bb81923af13b533f54c167a2477b57d2080534020e15c6124517",
+      "bytes": 22588
     },
     {
       "source": "GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md",
@@ -5902,8 +5902,8 @@
       "group": "Documenti del giocatore",
       "url": "818b3fde8e2c3ce9.html",
       "raw": "fonti/818b3fde8e2c3ce9.md",
-      "sha256": "10052ffd1ab5c04ac9d91bc8a4e3508b1e7e88363f9d37b9920d795668ebff50",
-      "bytes": 14783
+      "sha256": "f440f7572955c628a3b045ab401892f837477a5d6628e276d97e13c7dd891e74",
+      "bytes": 14911
     },
     {
       "source": "GIOCATORE_36_Corpo_spirito_manifestazioni_e_morte.md",
@@ -5938,8 +5938,8 @@
       "group": "Documenti del giocatore",
       "url": "fec6127ea1ac5045.html",
       "raw": "fonti/fec6127ea1ac5045.md",
-      "sha256": "9f27a4e37d9c57eb2dcedd13911a916ebda1d35f71ac0391eb18ae1dbe007319",
-      "bytes": 12793
+      "sha256": "ac2a4da320ed312ec60aec6ac48a306d527ad1058348e6749175f27a8a20a6cd",
+      "bytes": 12878
     },
     {
       "source": "GIOCATORE_41_Cradle_progressione_completa.md",
@@ -5947,8 +5947,8 @@
       "group": "Documenti del giocatore",
       "url": "f32b26cbf9bf9b1c.html",
       "raw": "fonti/f32b26cbf9bf9b1c.md",
-      "sha256": "4701eb37a6fbdba56e57d52fe935e7899980c95746f34a62c1d78d143c8e4c88",
-      "bytes": 17454
+      "sha256": "6110606c97cec276577a18f3440108840a86de9dd702f1defcf6c9561ae21571",
+      "bytes": 23972
     },
     {
       "source": "GIOCATORE_42_Ruin_progressione_completa.md",
@@ -5956,8 +5956,8 @@
       "group": "Documenti del giocatore",
       "url": "5c774602b5a4e199.html",
       "raw": "fonti/5c774602b5a4e199.md",
-      "sha256": "acf6ed4872eea2dc87e06cb7b127d43c3cfc528b02fc63e43258a0c0fe60da34",
-      "bytes": 16886
+      "sha256": "fe917c98618d3f8b8fde869167252bc583dfa76c3ef429cf258bb3f6c82096c8",
+      "bytes": 24329
     },
     {
       "source": "GIOCATORE_43_Scroll_progressione_completa.md",
@@ -5965,8 +5965,8 @@
       "group": "Documenti del giocatore",
       "url": "69111cd79f4687b6.html",
       "raw": "fonti/69111cd79f4687b6.md",
-      "sha256": "5fa420e3fe598a55f239cb3f6127a57c0cd21dcf40a5996a617f2b2b17e8f724",
-      "bytes": 32692
+      "sha256": "f17774eb998d9bbe0716316f8fd2368a745cbe7186775821ecabcc71c8f54241",
+      "bytes": 66998
     },
     {
       "source": "GIOCATORE_44_Halo_progressione_completa.md",
@@ -5974,8 +5974,8 @@
       "group": "Documenti del giocatore",
       "url": "84dcac5627a3fa38.html",
       "raw": "fonti/84dcac5627a3fa38.md",
-      "sha256": "0b7348874791bbfeab08e77395375a928614b263b52fe40714ce68264ceba519",
-      "bytes": 39456
+      "sha256": "0379523221a7582d62902a89f7dde4114ae88abdb44a2e45b4ca6c5cd96cecc1",
+      "bytes": 63404
     },
     {
       "source": "GIOCATORE_45_Heart_progressione_completa.md",
@@ -5983,8 +5983,8 @@
       "group": "Documenti del giocatore",
       "url": "92157bafc45dc3cc.html",
       "raw": "fonti/92157bafc45dc3cc.md",
-      "sha256": "471626175c8b05b7740a371db394d48110ac6e1f0e2a3277d679e120a7853a35",
-      "bytes": 34485
+      "sha256": "afc2f0c1d79540577ad2c28aa6f2ccc5b12de8b4ac91a7437cb6960e225059d9",
+      "bytes": 53690
     },
     {
       "source": "GIOCATORE_46_Crucible_progressione_completa.md",
@@ -5992,8 +5992,8 @@
       "group": "Documenti del giocatore",
       "url": "7810f0f17461d877.html",
       "raw": "fonti/7810f0f17461d877.md",
-      "sha256": "17ba5debd019f8f91df47cf1bdbf3822ce3009255f1ac28d9565297ed0a380ef",
-      "bytes": 32625
+      "sha256": "a28213f5c296d6eed81d8307f66af551df89e8eabcc7323cec987eef721185cd",
+      "bytes": 51112
     },
     {
       "source": "GIOCATORE_47_Mask_progressione_completa.md",
@@ -6001,8 +6001,8 @@
       "group": "Documenti del giocatore",
       "url": "cf609655f33486b8.html",
       "raw": "fonti/cf609655f33486b8.md",
-      "sha256": "aec063d65601da8bba01b526583d302d8aaea2f286855b9e93568f5d945a8f76",
-      "bytes": 37453
+      "sha256": "5934e18f86bda0108abb8d787478075035819bfbbceb62b58a2fdebd2c1e8600",
+      "bytes": 62371
     },
     {
       "source": "GIOCATORE_48_Hourglass_progressione_completa.md",
@@ -6010,8 +6010,8 @@
       "group": "Documenti del giocatore",
       "url": "2e73f9a477a2b15e.html",
       "raw": "fonti/2e73f9a477a2b15e.md",
-      "sha256": "f26bcfd7074649f9243ca3e9801528fbabb7a78859e5c82162e30d06cdb46924",
-      "bytes": 39118
+      "sha256": "ea6bbfda2024ed61f0e8179b181c618475bbb9215f2b109095fb068f9f744051",
+      "bytes": 62681
     },
     {
       "source": "GIOCATORE_49_Astrolabe_progressione_completa.md",
@@ -6019,8 +6019,8 @@
       "group": "Documenti del giocatore",
       "url": "21527991b3eea560.html",
       "raw": "fonti/21527991b3eea560.md",
-      "sha256": "857aeb25d7768feaa338c956c9d38d827caab75c9a530e4fb7dfec6c6f688565",
-      "bytes": 36352
+      "sha256": "427d79da1fd25e3165e39c672b2ea663a646cf1187644fc44e369b6734399113",
+      "bytes": 58219
     },
     {
       "source": "GIOCATORE_50_Sepulchre_progressione_completa.md",
@@ -6028,8 +6028,8 @@
       "group": "Documenti del giocatore",
       "url": "fcc6c0b661438f57.html",
       "raw": "fonti/fcc6c0b661438f57.md",
-      "sha256": "29a59f5f8884885bac9257ce2f8537c6702087589337bb72ff583cb1639be425",
-      "bytes": 38288
+      "sha256": "954178b072dd098ffbd3f97f6f4767e9a83fa2a7b9a571fb7d8a258863f3a570",
+      "bytes": 59526
     },
     {
       "source": "GIOCATORE_51_Seed_progressione_completa.md",
@@ -6037,8 +6037,8 @@
       "group": "Documenti del giocatore",
       "url": "edffa264ed0ed00b.html",
       "raw": "fonti/edffa264ed0ed00b.md",
-      "sha256": "19a84f0308c03718ff74b83c2fbb8d55e8fd2779d2bd4c8c059ca157470918bd",
-      "bytes": 36481
+      "sha256": "c3daa33bbdbce9e75d88f7f627fefb1f207b7c385f38d73f7c6c949c0bc574d0",
+      "bytes": 58452
     },
     {
       "source": "GIOCATORE_52_Crown_progressione_completa.md",
@@ -6046,8 +6046,8 @@
       "group": "Documenti del giocatore",
       "url": "cd4c27f8a2e6ee60.html",
       "raw": "fonti/cd4c27f8a2e6ee60.md",
-      "sha256": "8b84a17cc89fe8b1ceebe68c000d4831c9764d51385294ca0be8f74e74b8a420",
-      "bytes": 39266
+      "sha256": "860ea30df769c58645d04e439a7e893934f98f988155a3fd1b3e2c75ef4f6794",
+      "bytes": 62097
     },
     {
       "source": "GIOCATORE_53_Chain_progressione_completa.md",
@@ -6055,8 +6055,8 @@
       "group": "Documenti del giocatore",
       "url": "766d2f121fc5107d.html",
       "raw": "fonti/766d2f121fc5107d.md",
-      "sha256": "207711a604ac3638015462220f8ac88f7fc4153048cf459867063341b2f64ed2",
-      "bytes": 37244
+      "sha256": "5cb7ad7e9fbd80efd22e00488cad590d14f6b9fc6f5e397113cc2a5662c61b6e",
+      "bytes": 58647
     },
     {
       "source": "GIOCATORE_54_Coin_progressione_completa.md",
@@ -6064,8 +6064,8 @@
       "group": "Documenti del giocatore",
       "url": "c0a5a4c1307f1f32.html",
       "raw": "fonti/c0a5a4c1307f1f32.md",
-      "sha256": "6a1ef56338e1877f88b317d419e76b527f8f0c8c1a851e5f7558880ee7539042",
-      "bytes": 37787
+      "sha256": "8c3715140454e8ff58d9e6ed4b4dc739e9f45e210ab4b94ae64c3942f302c95e",
+      "bytes": 59428
     },
     {
       "source": "GIOCATORE_55_Banner_progressione_completa.md",
@@ -6073,8 +6073,8 @@
       "group": "Documenti del giocatore",
       "url": "f8f3e0e9e4ef86c4.html",
       "raw": "fonti/f8f3e0e9e4ef86c4.md",
-      "sha256": "39350a60da492bd31fd0e8099bfff52dba2186bab51326aec9bec95e0bdc66bf",
-      "bytes": 38704
+      "sha256": "04a1abdf9469dee84c0e011a34b7621049afa6445d07be60b1a8760935534763",
+      "bytes": 60395
     },
     {
       "source": "GIOCATORE_56_Oracle_progressione_completa.md",
@@ -6082,8 +6082,8 @@
       "group": "Documenti del giocatore",
       "url": "2d94e6b6db40ea7c.html",
       "raw": "fonti/2d94e6b6db40ea7c.md",
-      "sha256": "fdb7646cc1d1e6645068fb5a8c1a123647fdf988edc61b20545c52f9eae090a7",
-      "bytes": 39210
+      "sha256": "a05b277de0b07d219460bca08d02ded61d16c6d541c626ca77618b2b609fd758",
+      "bytes": 61399
     },
     {
       "source": "GIOCATORE_57_Archive_progressione_completa.md",
@@ -6091,8 +6091,8 @@
       "group": "Documenti del giocatore",
       "url": "97f5f4730c063fa5.html",
       "raw": "fonti/97f5f4730c063fa5.md",
-      "sha256": "4c61bc9c15bc9c9f1b04a7099490f114f7d1e86dc37aaac18eba4c92a70536ea",
-      "bytes": 46275
+      "sha256": "0c8bb1c3dbd6c4e69d3e4213b11003257de8dd16588e4efc309e25da80c90df5",
+      "bytes": 73661
     },
     {
       "source": "GIOCATORE_58_Labyrinth_progressione_completa.md",
@@ -6100,8 +6100,8 @@
       "group": "Documenti del giocatore",
       "url": "073cd9ab45b84058.html",
       "raw": "fonti/073cd9ab45b84058.md",
-      "sha256": "ac3adc72e3aded50fafe1253fed8a61035d0ad8022e9216cc2a07053a714ce96",
-      "bytes": 37025
+      "sha256": "1dcf7fc7b5851f9f8fe54d41af90a00feb35f281ddfe344d965148b774e1b8d6",
+      "bytes": 59120
     },
     {
       "source": "GIOCATORE_59_Tempest_progressione_completa.md",
@@ -6109,8 +6109,8 @@
       "group": "Documenti del giocatore",
       "url": "15bfad0852753e4e.html",
       "raw": "fonti/15bfad0852753e4e.md",
-      "sha256": "06b3a31d0608dfcc4d1fa4b8a1f2ef96680b914afd09086c4b8361a3ca2264fd",
-      "bytes": 38449
+      "sha256": "35c76dbc1b988ae58a9d35dda61583b17eba658b12cc9309c11c7d5841882d34",
+      "bytes": 59917
     },
     {
       "source": "GIOCATORE_60_Maw_progressione_completa.md",
@@ -6118,8 +6118,8 @@
       "group": "Documenti del giocatore",
       "url": "7b2b90d7a36f95ca.html",
       "raw": "fonti/7b2b90d7a36f95ca.md",
-      "sha256": "683a260b5a9c72b93af0fad5e6b9c22527158f53d80fdf9cddb6c002ceb88161",
-      "bytes": 37976
+      "sha256": "d3b2627dd4d40d54987627a721ca566af311ab1bb413076f16a06c36198b9073",
+      "bytes": 60444
     },
     {
       "source": "GIOCATORE_61_Loom_progressione_completa.md",
@@ -6127,8 +6127,8 @@
       "group": "Documenti del giocatore",
       "url": "e832ba2ddc43d334.html",
       "raw": "fonti/e832ba2ddc43d334.md",
-      "sha256": "9436360fa7db56dabf14ba6ba51a9b21acec10cab4c71d5e0d4aba6f0fbe9abe",
-      "bytes": 33342
+      "sha256": "168e13832c004b8afe8125e7fcdfff00dc80a77f40412da776f8fb0b1c7a738a",
+      "bytes": 53437
     },
     {
       "source": "GIOCATORE_62_Audit_delle_progressioni.md",
@@ -6163,8 +6163,8 @@
       "group": "Documenti del giocatore",
       "url": "41af70d04909ccff.html",
       "raw": "fonti/41af70d04909ccff.md",
-      "sha256": "47e9a93d8da980a98cee7e9397beaf510501b0b26bb1639ef1bef8d8e6e7b839",
-      "bytes": 24964
+      "sha256": "be317c608aa01c3a9cd81b89d070d051285c7b1ba1ec6cbbadaa0437bdb83850",
+      "bytes": 25158
     },
     {
       "source": "GIOCATORE_68_The_First_Testament_consultazione.md",
@@ -6226,8 +6226,8 @@
       "group": "Documenti del giocatore",
       "url": "f4361f9c230624de.html",
       "raw": "fonti/f4361f9c230624de.md",
-      "sha256": "3e80a2bf8477da05ac8b3a094bb79370e4ebd5c584d8fe6dc4c41ac16fdd6baf",
-      "bytes": 5349
+      "sha256": "64569d98f0497df0a5ef2d88b90dab707b5ff6397f5c96b337023d19441fe58a",
+      "bytes": 6024
     },
     {
       "source": "GIOCATORE_78_Prima_vita_e_ricordi_consolidati.md",
@@ -6262,8 +6262,8 @@
       "group": "Documenti del giocatore",
       "url": "e2ee3082cb32202b.html",
       "raw": "fonti/e2ee3082cb32202b.md",
-      "sha256": "16aede32024af7d37837e89e65c7ba730d9ed09169ef266a671a33340e43e7f1",
-      "bytes": 17669
+      "sha256": "1b4f324e38d843075d0a8fd31bd30c3ee194ac5b9d2fc47dd0c14748935bebcd",
+      "bytes": 21300
     },
     {
       "source": "GIOCATORE_82_Recupero_delle_antiche_capacita.md",
@@ -6271,8 +6271,8 @@
       "group": "Documenti del giocatore",
       "url": "961d1d312fc9da50.html",
       "raw": "fonti/961d1d312fc9da50.md",
-      "sha256": "1bc1ad6b4e9493251c2d2f73ed002273544b723c4adc112d0d812da7cdd7b093",
-      "bytes": 7078
+      "sha256": "e0a1976eb0030d6e765af0676fe16ba96cb561c91f17e7cea0cfc72685f50a8d",
+      "bytes": 7943
     },
     {
       "source": "GIOCATORE_83_Matrice_delle_conoscenze_personali.md",
@@ -6289,8 +6289,8 @@
       "group": "Documenti del giocatore",
       "url": "6a30a263143d2965.html",
       "raw": "fonti/6a30a263143d2965.md",
-      "sha256": "da517e72753332dae1fa33d2a1fad8c834303f17d5180ae0eb22b93a89a6e7e0",
-      "bytes": 5774
+      "sha256": "6f14cefe63a7e126485449c2a01dfacd34fe192f6d75cea96cb784af8142f371",
+      "bytes": 5876
     },
     {
       "source": "GIOCATORE_89_Calendario_e_date_accessibili.md",
@@ -6303,12 +6303,12 @@
     },
     {
       "source": "GIOCATORE_90_Societa_antiche_e_liberazione_ricordata.md",
-      "title": "Società antiche e liberazione ricordata — versione 1.0",
+      "title": "Società antiche e liberazione ricordata — revisione enciclopedica 346",
       "group": "Documenti del giocatore",
       "url": "bd015d0b2aa55e60.html",
       "raw": "fonti/bd015d0b2aa55e60.md",
-      "sha256": "8c9b34f744baa1996e84ef47e26d98336032043eeec3bf191303f406f25cb958",
-      "bytes": 6253
+      "sha256": "f03985e878d0ae30cb4cb0ac5f1207ec952574b36854468278e4c00c4cbddf16",
+      "bytes": 30906
     },
     {
       "source": "GIOCATORE_91_Storia_pubblica_conosciuta_dal_duca.md",
@@ -6316,8 +6316,8 @@
       "group": "Documenti del giocatore",
       "url": "b7c491e0045e9b1b.html",
       "raw": "fonti/b7c491e0045e9b1b.md",
-      "sha256": "9027cd423463f08d0ad8d3925b1da71030464c2a09b0c972ab57c045e56e4180",
-      "bytes": 5668
+      "sha256": "e42f6219e57ed50ff3c4bf3ac7051d36aac45f496c4bcdd0a73d15c17b1835ef",
+      "bytes": 5727
     },
     {
       "source": "GIOCATORE_92_Industria_scoperte_e_eredita_materiale.md",
@@ -6352,8 +6352,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "4c931e7f6a9e22bf.html",
       "raw": "fonti/4c931e7f6a9e22bf.md",
-      "sha256": "ea24d6f9192397a32653ab9b1f40f969601812a5acefe36163c463ce7dbeaa60",
-      "bytes": 18544
+      "sha256": "5556fcd0a93d79660fde8c71e2d3e5841439e7e8d171299703b98adc452874cd",
+      "bytes": 18722
     },
     {
       "source": "RISERVATO_113_Geometria_planetaria_e_atlante_integrale.md",
@@ -6487,8 +6487,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "b4c85747965f48ee.html",
       "raw": "fonti/b4c85747965f48ee.md",
-      "sha256": "b4b7c65501c8ed2a90c871b6952b0e29027e8e00964692eef20f75372726a124",
-      "bytes": 12481
+      "sha256": "976324c07c504ed905b95f8ad30cdd790d2ceee4b71ffb580bb66c776423a2f2",
+      "bytes": 12940
     },
     {
       "source": "RISERVATO_154_The_Unbound_Exchange.md",
@@ -6505,8 +6505,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "56e228abb0b06f72.html",
       "raw": "fonti/56e228abb0b06f72.md",
-      "sha256": "1fdeef06366381c835fe0eb1d0cfcb7989a2e063745f136b178d9eca32def831",
-      "bytes": 5926
+      "sha256": "1f4bca58cb9304c2998bcd564166cefcc5529241346c986fd689bbafb68047ed",
+      "bytes": 5987
     },
     {
       "source": "RISERVATO_156_Cast_antico_e_successioni.md",
@@ -6514,8 +6514,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "e2f839aa9b23bc31.html",
       "raw": "fonti/e2f839aa9b23bc31.md",
-      "sha256": "342d815801ff6991c62460cc840a070aca821a091891332944a15d983d50750e",
-      "bytes": 5483
+      "sha256": "427d77e4cc9c964c4637d3aeea2b315670a5fe4e0e5f2b56ddd2c3df64b786f7",
+      "bytes": 5548
     },
     {
       "source": "RISERVATO_157_Cast_importante_e_societa.md",
@@ -6640,8 +6640,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "e70fa3b5a777fafc.html",
       "raw": "fonti/e70fa3b5a777fafc.md",
-      "sha256": "859705d098939e5cae77d9ba8f05ae8a26fd56019c7c905b25bba0344f840a99",
-      "bytes": 4824
+      "sha256": "a027c3b714cfbf54f5553039737b5a2746fa23652cf9ec6a3297521bd32b439b",
+      "bytes": 4917
     },
     {
       "source": "RISERVATO_195_Otto_volumi_e_1600_capitoli.md",
@@ -6658,8 +6658,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "aedb221be76b319d.html",
       "raw": "fonti/aedb221be76b319d.md",
-      "sha256": "cef9d0d13c76c497c3392ca7e0bc458d5843ee072a5c99aa8861f985d9c9ee31",
-      "bytes": 32241
+      "sha256": "5086e060b260eb7d57dd86d3081a589ef20808f819cf4dcdfffd67acc256258d",
+      "bytes": 46747
     },
     {
       "source": "RISERVATO_197_Archi_11_20.md",
@@ -6667,8 +6667,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "88800149b748fdae.html",
       "raw": "fonti/88800149b748fdae.md",
-      "sha256": "08536bac3b81d9ab42bcdd8caf262e9645a81f41f12531b342336045cc4a68d1",
-      "bytes": 35282
+      "sha256": "021e1124f6c93ff0ff268fd979c8481b9c5c0e14f8bf0a0a9d2974b69d1c15bc",
+      "bytes": 50110
     },
     {
       "source": "RISERVATO_198_Archi_21_30.md",
@@ -6676,8 +6676,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "4fef6954a66b2a31.html",
       "raw": "fonti/4fef6954a66b2a31.md",
-      "sha256": "e2bed35ac56d298dd0d6d4b9bed96feb65b889b79415c4ef267232423b807a36",
-      "bytes": 36203
+      "sha256": "8cbbeb4d533dc2b4e928ef36effecb85b8835a1310d1cfc9ccedb3d6fb06ebd0",
+      "bytes": 51283
     },
     {
       "source": "RISERVATO_199_Archi_31_40.md",
@@ -6685,8 +6685,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "297606d7a34e69fe.html",
       "raw": "fonti/297606d7a34e69fe.md",
-      "sha256": "92e0fcddd8974bf790314f029c8e7bad82727420441ac352bc1ba4ca1a37d4db",
-      "bytes": 34660
+      "sha256": "85790f53b097b3b32a53e340f462b99a3edf4f47c4432c44571683ed69a6bfa7",
+      "bytes": 50111
     },
     {
       "source": "RISERVATO_200_Misteri_verita_e_canali_di_rivelazione.md",
@@ -6694,8 +6694,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "1cd8a75037d8473f.html",
       "raw": "fonti/1cd8a75037d8473f.md",
-      "sha256": "16e529966814442bbae4c8ac6f8891c453cc21e08d95037b7b28017923ce7042",
-      "bytes": 19871
+      "sha256": "6c92cace0a1e7bc713e91028820dc8387edd453f597a3f32edabfca016876652",
+      "bytes": 20225
     },
     {
       "source": "RISERVATO_201_Calendario_fazioni_e_iniziative_fuori_campo.md",
@@ -6712,8 +6712,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "6d070a2c805bdf9d.html",
       "raw": "fonti/6d070a2c805bdf9d.md",
-      "sha256": "d9b70ece03337758cc5c223de6fe93ef608f98e80e0970662803dc8dc5ee113d",
-      "bytes": 4741
+      "sha256": "b6301aa83ae5fb2e502c44f9b3c52955f2d4a22772d6c0f62c1d0ce048a20e11",
+      "bytes": 6602
     },
     {
       "source": "RISERVATO_203_Apertura_primi_archi_e_preparazione_sessione.md",
@@ -6721,8 +6721,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "5d8a08ff87af58c3.html",
       "raw": "fonti/5d8a08ff87af58c3.md",
-      "sha256": "586e9d877a71393911ae203fab377ec6a84cd31785c5225b986565903b9f7c2c",
-      "bytes": 5750
+      "sha256": "922392527f6112edeaf0d9fb382ff8a7b2ede75532011ddbd9ff02850c0d1c1f",
+      "bytes": 7627
     },
     {
       "source": "RISERVATO_209_Protocollo_completo_del_Narratore.md",
@@ -6757,8 +6757,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "2eda5444812ba505.html",
       "raw": "fonti/2eda5444812ba505.md",
-      "sha256": "ae29c9b596a212b3263f6ccb6cac605130096c265a6340f60b5739d11858fd5a",
-      "bytes": 30762
+      "sha256": "b296c9ea35a170947bb1e5c4bfc48d8cfae58ee4bde1cf10c0e91305f1972b79",
+      "bytes": 31300
     },
     {
       "source": "RISERVATO_327_Rete_antica_e_confini_della_conoscenza.md",
@@ -6793,8 +6793,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "2a6a4dfe206672e3.html",
       "raw": "fonti/2a6a4dfe206672e3.md",
-      "sha256": "c156e39df2aa5b081b5b5e789ca47493d6520cf05dc818fe9b700cd4e031ab46",
-      "bytes": 15586
+      "sha256": "8f3ca1f76ea9c17f112b6c455d53432719517ac5b9452e7239433d3dfecae92d",
+      "bytes": 15695
     },
     {
       "source": "RISERVATO_85_Apertura_personale_e_rete_immediata.md",
@@ -6820,8 +6820,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "4159cddc6141aca6.html",
       "raw": "fonti/4159cddc6141aca6.md",
-      "sha256": "41e3b1aadd654fcd4bd1644ebc25e05dfd0957856e8febe48daea3f3d50348fe",
-      "bytes": 7055
+      "sha256": "372bf83107dab5590f163ec521fe4ced30c4e27ca3b841e9f7a50d76f12b7f23",
+      "bytes": 7538
     },
     {
       "source": "RISERVATO_96_Campagne_opere_ed_eredita_del_Creator.md",
@@ -6847,8 +6847,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "61b23e186a912a17.html",
       "raw": "fonti/61b23e186a912a17.md",
-      "sha256": "10c58a8a640d13a58f34f7b3d65e82e728eef2b13aefe47101208cf148fbfbdf",
-      "bytes": 11031
+      "sha256": "23c21a3c60c50ab073c80ce6550b8b49c7138eb0dace4ad5853319fc34778722",
+      "bytes": 11313
     },
     {
       "source": "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
@@ -6942,8 +6942,887 @@
       "raw": "fonti/41929931b0b2b854.md",
       "sha256": "53df61bbaa7ccf8d71f0f6a005a1cd8e5a4ec641f7c8eb7e15d768ec5dbcb97e",
       "bytes": 932
+    },
+    {
+      "source": "338_Verifica_avanzamento_e_procedure.md",
+      "title": "338_Verifica_avanzamento_e_procedure.md",
+      "group": "Regole e verifica operativa",
+      "url": "1308ee8a1142d09f.html",
+      "raw": "fonti/1308ee8a1142d09f.md",
+      "sha256": "5861f01319301e620163a5af53501ec7bc673dbb833fd6748e9586e20f9b695e",
+      "bytes": 2364
+    },
+    {
+      "source": "CANONE_VIGENTE/Audit_avanzamento_338.json",
+      "title": "CANONE_VIGENTE/Audit_avanzamento_338.json",
+      "group": "Regole e verifica operativa",
+      "url": "c611f23fe1fd61ea.html",
+      "raw": "fonti/c611f23fe1fd61ea.json",
+      "sha256": "9dab34effc8496f0a7df10e6288be0881e7d35bc8582dca017bb45814748fef9",
+      "bytes": 48605
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-01_Cradle.md",
+      "title": "AVANZAMENTO EFF-01 Cradle",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "402f4503a1439a18.html",
+      "raw": "fonti/402f4503a1439a18.md",
+      "sha256": "299fed179637df780940c7ef3c72e56fcef34421d9460ceed5a20f8a45482444",
+      "bytes": 20937
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-02_Ruin.md",
+      "title": "AVANZAMENTO EFF-02 Ruin",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "cfba5044fbb3fe5c.html",
+      "raw": "fonti/cfba5044fbb3fe5c.md",
+      "sha256": "fd97bf976f1e33ed4123a2aba5145a48a0dccf4a64b80a9b0bc2d40bd2bc1629",
+      "bytes": 25931
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-03_Scroll.md",
+      "title": "AVANZAMENTO EFF-03 Scroll",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "589001f5e2d0ff59.html",
+      "raw": "fonti/589001f5e2d0ff59.md",
+      "sha256": "ce56dc6a3d5c71f9c4f2e85a126a9b88dce08396bc43e6240617e930cb623253",
+      "bytes": 35014
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-04_Halo.md",
+      "title": "AVANZAMENTO EFF-04 Halo",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "0b6b0981058e510a.html",
+      "raw": "fonti/0b6b0981058e510a.md",
+      "sha256": "1c240c3b453bcaddc13e8b49e14e9b3bee86f435e06dfdf2d6696f4ff0748044",
+      "bytes": 33197
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-05_Heart.md",
+      "title": "AVANZAMENTO EFF-05 Heart",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "6f930e389129ab55.html",
+      "raw": "fonti/6f930e389129ab55.md",
+      "sha256": "bb6b0c28e9866376ba11cdd2d661665b7abd164b9ecd3908e8e3440d3479a026",
+      "bytes": 28933
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-06_Crucible.md",
+      "title": "AVANZAMENTO EFF-06 Crucible",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "5f0aeee84ccfbc02.html",
+      "raw": "fonti/5f0aeee84ccfbc02.md",
+      "sha256": "42705c9750fc97b90f1a5ffbab16f9446855e11ca727bbc4ee5e2e326ac87332",
+      "bytes": 28591
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-07_Mask.md",
+      "title": "AVANZAMENTO EFF-07 Mask",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "b24f505f01df4792.html",
+      "raw": "fonti/b24f505f01df4792.md",
+      "sha256": "c17c200483998d2550fc60f32ff6f26438b07d54835b8b5f0d1fce866887e1b6",
+      "bytes": 33682
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-08_Hourglass.md",
+      "title": "AVANZAMENTO EFF-08 Hourglass",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "98e01ec86a3c283b.html",
+      "raw": "fonti/98e01ec86a3c283b.md",
+      "sha256": "e0e2f81dcf85e64edb7658ea1764edd68c8860bdd0eb19b307f8aac4701897e0",
+      "bytes": 33269
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-09_Astrolabe.md",
+      "title": "AVANZAMENTO EFF-09 Astrolabe",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "7eafd9b96f15acf9.html",
+      "raw": "fonti/7eafd9b96f15acf9.md",
+      "sha256": "56af783bdeb9799cc856d32a6c23c04ae9f0427cea729fe6d1d6bb88f05969f0",
+      "bytes": 33121
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-10_Sepulchre.md",
+      "title": "AVANZAMENTO EFF-10 Sepulchre",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "fccd96dbb7a24833.html",
+      "raw": "fonti/fccd96dbb7a24833.md",
+      "sha256": "ddc62fdf129c6dbeb4c19bdad8bd9590d53a64a63a52bd6ae32c32f426a5a159",
+      "bytes": 33035
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-11_Seed.md",
+      "title": "AVANZAMENTO EFF-11 Seed",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "b8925417acad6037.html",
+      "raw": "fonti/b8925417acad6037.md",
+      "sha256": "32679ce160f874ac2f351621360b0795bc0dad1dc5c873717ae353f6a129f612",
+      "bytes": 33172
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-12_Crown.md",
+      "title": "AVANZAMENTO EFF-12 Crown",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "2ded2f6a800cacdd.html",
+      "raw": "fonti/2ded2f6a800cacdd.md",
+      "sha256": "526be8990497a5e06fb0e40e0f8637b6081e302734a5d24ebc563d8ba1cc5c89",
+      "bytes": 33127
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-13_Chain.md",
+      "title": "AVANZAMENTO EFF-13 Chain",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "d23775f3fe76ab43.html",
+      "raw": "fonti/d23775f3fe76ab43.md",
+      "sha256": "c9b01c6e9494c99f798d7cf64f07fb38b7bd203b43c62f10965a262b6d3d503f",
+      "bytes": 32766
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-14_Coin.md",
+      "title": "AVANZAMENTO EFF-14 Coin",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "eb612ef1cfd45b27.html",
+      "raw": "fonti/eb612ef1cfd45b27.md",
+      "sha256": "7b92d84ecb9d7e84804fefab8aa92713ec08b9c1299ee9160202b840018245c4",
+      "bytes": 32695
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-15_Banner.md",
+      "title": "AVANZAMENTO EFF-15 Banner",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "2df7f4f02697aaab.html",
+      "raw": "fonti/2df7f4f02697aaab.md",
+      "sha256": "59d29ea52927d6d83ac74abc91458956de0a6de91ce37a3fd28bb4a3ad62b4d2",
+      "bytes": 33017
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-16_Oracle.md",
+      "title": "AVANZAMENTO EFF-16 Oracle",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "24d11dc1e3f8ef5c.html",
+      "raw": "fonti/24d11dc1e3f8ef5c.md",
+      "sha256": "889444f0b1a60273223ab9da01552aab1951e6ae77216d9bb3e6459b8a02b011",
+      "bytes": 33295
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-17_Archive.md",
+      "title": "AVANZAMENTO EFF-17 Archive",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "29debe31450be03c.html",
+      "raw": "fonti/29debe31450be03c.md",
+      "sha256": "871973e1eb9c8a364fe6a8161cc82ed8d4f75f653b8e14d573ea907c250c8181",
+      "bytes": 38005
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-18_Labyrinth.md",
+      "title": "AVANZAMENTO EFF-18 Labyrinth",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "887fa912d2799dd0.html",
+      "raw": "fonti/887fa912d2799dd0.md",
+      "sha256": "ee486aad8198f5ff874e343703b019a27f9d3d3309dfd3e56c297528c273c9cf",
+      "bytes": 32994
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-19_Tempest.md",
+      "title": "AVANZAMENTO EFF-19 Tempest",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "44fe6aa957ed7d76.html",
+      "raw": "fonti/44fe6aa957ed7d76.md",
+      "sha256": "929b03dafc2b4344b3fee98772cb24f0dd9d3c946f08c91f79654799bde33409",
+      "bytes": 32602
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-20_Maw.md",
+      "title": "AVANZAMENTO EFF-20 Maw",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "a7eb0566c039f841.html",
+      "raw": "fonti/a7eb0566c039f841.md",
+      "sha256": "684ecae34c14ff048499401a8567897e65ef3b2cdbab2cf57a15d9c307cfba17",
+      "bytes": 33084
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-21_Loom.md",
+      "title": "AVANZAMENTO EFF-21 Loom",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "5e17a162f5093618.html",
+      "raw": "fonti/5e17a162f5093618.md",
+      "sha256": "2e07dd450685068f69d71c69cd3539d0b1bc57915f8db16d0a4240c53c305ce7",
+      "bytes": 28371
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-22_Eclipse.md",
+      "title": "AVANZAMENTO EFF-22 Eclipse",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "483c4359e52474bc.html",
+      "raw": "fonti/483c4359e52474bc.md",
+      "sha256": "c03cde23f8164e9d65d91e199984e5841f381e7a7f3dc56baaaf736113b804e5",
+      "bytes": 37664
+    },
+    {
+      "source": "CANONE_VIGENTE/PROCEDURE_AVANZAMENTO/AVANZAMENTO_EFF-23_Crescent.md",
+      "title": "AVANZAMENTO EFF-23 Crescent",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "49ccc35fd1a453fd.html",
+      "raw": "fonti/49ccc35fd1a453fd.md",
+      "sha256": "5874016e9766274a16ee9a1e0463ff386d0bf3e52b0ff4a07c5fa55d2c60cfe9",
+      "bytes": 42570
+    },
+    {
+      "source": "339_Prima_acquisizione_e_avanzamento.md",
+      "title": "339 Prima acquisizione e avanzamento",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "4fcdecb8fd7e70a7.html",
+      "raw": "fonti/4fcdecb8fd7e70a7.md",
+      "sha256": "7b5c3fa3389f8d430c03daea55f58c7abcb5d9f133d0a87775ec10f330a9cc22",
+      "bytes": 12456
+    },
+    {
+      "source": "CANONE_VIGENTE/Procedure_avanzamento_339.json",
+      "title": "Procedure avanzamento 339",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "b4ce3be766d7cbf7.html",
+      "raw": "fonti/b4ce3be766d7cbf7.json",
+      "sha256": "0530d6b2852fd4dbb52b3d6a9cf85fdb9620d78d7c6c36da12ecf7c4cd340037",
+      "bytes": 717815
+    },
+    {
+      "source": "339_Rapporto_verifica_avanzamento.md",
+      "title": "339 Rapporto verifica avanzamento",
+      "group": "Regole comuni e procedure di avanzamento",
+      "url": "ec8c7e8f9160226e.html",
+      "raw": "fonti/ec8c7e8f9160226e.md",
+      "sha256": "cfb65af7ff0d118519f5ba8efa7446c12b7c97752c51096bf6dcd9e5d1a62dba",
+      "bytes": 1758
+    },
+    {
+      "source": "340_Verifica_protagonista_e_deuteragonista.md",
+      "title": "340 Verifica protagonista e deuteragonista",
+      "group": "Verifica e consolidamento dei personaggi",
+      "url": "f3e6465e5897af7d.html",
+      "raw": "fonti/f3e6465e5897af7d.md",
+      "sha256": "a3ea164c3e320e766279c379ff89a1fed8ef69ccc806d480b732c78e46760a1c",
+      "bytes": 2127
+    },
+    {
+      "source": "341_Verifica_intrecci_narrativi.md",
+      "title": "341 Verifica intrecci narrativi",
+      "group": "Trama e intrecci narrativi",
+      "url": "c7326dea4dab274d.html",
+      "raw": "fonti/c7326dea4dab274d.md",
+      "sha256": "86980c7c7caef2585747ce16b1c0ae14f157d93f20a3a2b9b07e80d942a5acd2",
+      "bytes": 1847
+    },
+    {
+      "source": "CANONE_VIGENTE/Intrecci_narrativi_341.json",
+      "title": "Intrecci narrativi 341",
+      "group": "Trama e intrecci narrativi",
+      "url": "200f7d9a5c391172.html",
+      "raw": "fonti/200f7d9a5c391172.json",
+      "sha256": "18fa733b497b0e7776e4d141da7d4308eb2041b7ca4028d413ad9fe3269bd3d0",
+      "bytes": 58996
+    },
+    {
+      "source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md",
+      "title": "RISERVATO 341 Intrecci causali delle due linee",
+      "group": "Trama e intrecci narrativi",
+      "url": "6298c78bc2e80d18.html",
+      "raw": "fonti/6298c78bc2e80d18.md",
+      "sha256": "9f1187430f61b42d9bdf5b2a619382bfaaabf50a29d5f86ee4d98321e59115d6",
+      "bytes": 64762
+    },
+    {
+      "source": "23_Registro_unico_del_canone.md",
+      "title": "23 Registro unico del canone",
+      "group": "Canone vigente e verifica della consegna",
+      "url": "06300f093b9b4ae7.html",
+      "raw": "fonti/06300f093b9b4ae7.md",
+      "sha256": "b515fcc175bfba161e36894b253daab8b57e1e5c74af925d9ef6fdb73eaf1fd3",
+      "bytes": 54253
+    },
+    {
+      "source": "342_Stato_vigente_per_la_consegna.md",
+      "title": "342 Stato vigente per la consegna",
+      "group": "Canone vigente e verifica della consegna",
+      "url": "ef567b6168f6c582.html",
+      "raw": "fonti/ef567b6168f6c582.md",
+      "sha256": "1de17ef7570c43176e275c2b0ed58fe3dddd06dedd327ce653d5a226ffd879c2",
+      "bytes": 4129
+    },
+    {
+      "source": "342_Verifica_mondo_immagini_e_consegna.md",
+      "title": "342 Verifica mondo immagini e consegna",
+      "group": "Canone vigente e verifica della consegna",
+      "url": "5c43120dfa3dc2e4.html",
+      "raw": "fonti/5c43120dfa3dc2e4.md",
+      "sha256": "23f7d745088eaaf005fa464869fa78573ede9a75c957e38dceebba5ffcbf1eba",
+      "bytes": 2739
+    },
+    {
+      "source": "CANONE_VIGENTE/Verifica_preconsegna_342.json",
+      "title": "Verifica preconsegna 342",
+      "group": "Canone vigente e verifica della consegna",
+      "url": "672cbd5896b0ba4e.html",
+      "raw": "fonti/672cbd5896b0ba4e.json",
+      "sha256": "d8ddcbfc32cff590ed42253245ddc39890d770b1eaa568871feaa9c76561ee28",
+      "bytes": 884
+    },
+    {
+      "source": "343_Guida_agli_esempi_delle_Effigi.md",
+      "title": "343 Guida agli esempi delle Effigi",
+      "group": "Effigi — esempi",
+      "url": "6e5b2c4ca75b9700.html",
+      "raw": "fonti/6e5b2c4ca75b9700.md",
+      "sha256": "b7581367cc518a70774b8e95c1bee30a8e9c82ce8285ee441d5b554348d86aab",
+      "bytes": 3787
+    },
+    {
+      "source": "CANONE_VIGENTE/Esempi_abilita_343.json",
+      "title": "Esempi abilita 343",
+      "group": "Effigi — esempi",
+      "url": "7049e0b1700dd0bf.html",
+      "raw": "fonti/7049e0b1700dd0bf.json",
+      "sha256": "4d290f42bab84572f7eab9e6bf7bb191147dd970dcdc1be3122edd6815064efe",
+      "bytes": 437890
+    },
+    {
+      "source": "343_Verifica_esempi_delle_Effigi.md",
+      "title": "343 Verifica esempi delle Effigi",
+      "group": "Effigi — esempi",
+      "url": "a4b7e3f73b929cc4.html",
+      "raw": "fonti/a4b7e3f73b929cc4.md",
+      "sha256": "27f83db81cb6c97c74b5c9c819c8034f97c00d8b6fc3bc1dcc8297e1510407f4",
+      "bytes": 1514
+    },
+    {
+      "source": "CANONE_VIGENTE/Verifica_esempi_343.json",
+      "title": "Verifica esempi 343",
+      "group": "Effigi — esempi",
+      "url": "72255c75b99b516f.html",
+      "raw": "fonti/72255c75b99b516f.json",
+      "sha256": "fd31fda032362ba4ddacfce84f31fe1ddedf82fd5cc9db5c1ba7865e647e3398",
+      "bytes": 684
+    },
+    {
+      "source": "344_Guida_alla_revisione_editoriale_delle_Effigi.md",
+      "title": "344 Guida alla revisione editoriale delle Effigi",
+      "group": "Effigi — esempi",
+      "url": "435001e47a4320a7.html",
+      "raw": "fonti/435001e47a4320a7.md",
+      "sha256": "28bff53db90852d17e9cc2074d79427664a385841eceb8b7d497d14c4f8f86ea",
+      "bytes": 5317
+    },
+    {
+      "source": "CANONE_VIGENTE/Audit_editoriale_esempi_344.json",
+      "title": "Audit editoriale esempi 344",
+      "group": "Effigi — esempi",
+      "url": "ee2296e16ed4478a.html",
+      "raw": "fonti/ee2296e16ed4478a.json",
+      "sha256": "46bde8363bfd77ed97236276ed79a2b25dafae8a9bc1357c7e90b0b0967ff1eb",
+      "bytes": 380945
+    },
+    {
+      "source": "CANONE_VIGENTE/Esempi_abilita_344.json",
+      "title": "Esempi abilita 344",
+      "group": "Effigi — esempi",
+      "url": "4f33a3f025e36da8.html",
+      "raw": "fonti/4f33a3f025e36da8.json",
+      "sha256": "19ecd4f2a687c7754f7427e43c150b3f0b7bdfc092ad6dd819aaf2c7e8820adf",
+      "bytes": 601009
+    },
+    {
+      "source": "344_Rapporto_revisione_editoriale.md",
+      "title": "344 Rapporto revisione editoriale",
+      "group": "Effigi — esempi",
+      "url": "c948cf45186ccfa4.html",
+      "raw": "fonti/c948cf45186ccfa4.md",
+      "sha256": "8c58027bc7a7cf5b8b17aab2e68429aa7c8f376647ee6fd42d083c2fcb074948",
+      "bytes": 1666
+    },
+    {
+      "source": "177_Revisione_dei_rami_autonomi_23_Effigi.md",
+      "title": "177 Revisione dei rami autonomi 23 Effigi",
+      "group": "Sistema — Will",
+      "url": "8d0ab32af6080a9b.html",
+      "raw": "fonti/8d0ab32af6080a9b.md",
+      "sha256": "7c1f6f16e46a4431f21ff3a0194c70d33a0ce371a30a5961e7fbd9971e60ab35",
+      "bytes": 26357
+    },
+    {
+      "source": "345_Will_imposizione_e_volonta_collettiva.md",
+      "title": "345 Will imposizione e volonta collettiva",
+      "group": "Sistema — Will",
+      "url": "4ba7f7b63492c08e.html",
+      "raw": "fonti/4ba7f7b63492c08e.md",
+      "sha256": "5d8a8b864b6396668401d732cccac3f79b90df05e633a2f03313b1bdaaa92446",
+      "bytes": 15786
+    },
+    {
+      "source": "AVVIO_NARRATORE/DOSSIER_ALEXANDER_EDRAN.txt",
+      "title": "DOSSIER ALEXANDER EDRAN",
+      "group": "Sistema — Will",
+      "url": "a510f792bbb6c15f.html",
+      "raw": "fonti/a510f792bbb6c15f.txt",
+      "sha256": "26e406949b7403b54bc0a9468d4547357cfa2a5c35dc8887e6cf2fa3bed382e8",
+      "bytes": 118820
+    },
+    {
+      "source": "AVVIO_NARRATORE/PROTOCOLLO_NARRATORE_AVARENNE.txt",
+      "title": "PROTOCOLLO NARRATORE AVARENNE",
+      "group": "Sistema — Will",
+      "url": "5de80396760c781e.html",
+      "raw": "fonti/5de80396760c781e.txt",
+      "sha256": "2f805d2eeba295a523b89bfbf8283f9cd73bd7b4da87396c72f4b4657a8d62d0",
+      "bytes": 14505
+    },
+    {
+      "source": "CANONE_VIGENTE/Esempi_abilita_345.json",
+      "title": "Esempi abilita 345",
+      "group": "Sistema — Will",
+      "url": "07621a331e17a59a.html",
+      "raw": "fonti/07621a331e17a59a.json",
+      "sha256": "1bfa5a369c00ad195123be722aa3699e50d00c4c41910b8c2dbb11c1c2cc2942",
+      "bytes": 601895
+    },
+    {
+      "source": "CANONE_VIGENTE/Riallineamento_Will_345.json",
+      "title": "Riallineamento Will 345",
+      "group": "Sistema — Will",
+      "url": "590e52cfb06e2267.html",
+      "raw": "fonti/590e52cfb06e2267.json",
+      "sha256": "7b278e5a5bfec22f517c0b56425399725974d9d61901b428644d2a281864ba97",
+      "bytes": 1109
+    },
+    {
+      "source": "345_Verifica_del_riallineamento_Will.md",
+      "title": "345 Verifica del riallineamento Will",
+      "group": "Sistema — Will",
+      "url": "d8bc7217f02a430c.html",
+      "raw": "fonti/d8bc7217f02a430c.md",
+      "sha256": "ea295ef4bb03ce343c41f5c8fc0ae09566bb512277536e6ec353aaf8f5673407",
+      "bytes": 1270
+    },
+    {
+      "source": "RISERVATO_346_Signorie_Immobili_concordanza_e_limiti.md",
+      "title": "RISERVATO 346 Signorie Immobili concordanza e limiti",
+      "group": "Storia antica — Signorie Immobili",
+      "url": "8133bb7d0cfa0f60.html",
+      "raw": "fonti/8133bb7d0cfa0f60.md",
+      "sha256": "f51e927002ae72e98e8fd09db87b7a3795ba41a2779f9573c50aa180c92038e0",
+      "bytes": 3773
+    },
+    {
+      "source": "CANONE_VIGENTE/Signorie_Immobili_346.json",
+      "title": "Signorie Immobili 346",
+      "group": "Storia antica — Signorie Immobili",
+      "url": "f62d470950ec0179.html",
+      "raw": "fonti/f62d470950ec0179.json",
+      "sha256": "5ec753134f3cf60bb9af44a2c7778bd53238d761f906240a5a045924d8543dbe",
+      "bytes": 3252
+    },
+    {
+      "source": "346_Verifica_Signorie_Immobili.md",
+      "title": "Verifica dell’approfondimento sulle Signorie Immobili — 346",
+      "group": "Verifiche editoriali",
+      "url": "cd65205ae3788407.html",
+      "raw": "fonti/cd65205ae3788407.md",
+      "sha256": "b207c808d7f366e3938cd06729107cca21833076d69adc6acd90ff549d0660d2",
+      "bytes": 2224
+    },
+    {
+      "source": "CANONE_VIGENTE/Ducato_Rovenne_347.json",
+      "title": "Ducato Rovenne 347",
+      "group": "Territorio di Rovenne — 347",
+      "url": "af83887c8186b4d2.html",
+      "raw": "fonti/af83887c8186b4d2.json",
+      "sha256": "985e53b1aee4844036ed37c1402344bf0a26f3c3a850719c81bfb93e76d2bc4f",
+      "bytes": 11676
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-498.md",
+      "title": "CAST-498",
+      "group": "Territorio di Rovenne — 347",
+      "url": "26bbd2c4d6efb578.html",
+      "raw": "fonti/26bbd2c4d6efb578.md",
+      "sha256": "367489ae0bafe4b9e51466df941cfa6493f6a67787cea0a3010dcea064de514d",
+      "bytes": 1750
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-499.md",
+      "title": "CAST-499",
+      "group": "Territorio di Rovenne — 347",
+      "url": "dff7f58937c04cb7.html",
+      "raw": "fonti/dff7f58937c04cb7.md",
+      "sha256": "ad542fa4bb68d41cef38c4fc859e42c50263aad2ce2a6131fc3d31e5a393aff5",
+      "bytes": 1711
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-500.md",
+      "title": "CAST-500",
+      "group": "Territorio di Rovenne — 347",
+      "url": "6415c16509111a39.html",
+      "raw": "fonti/6415c16509111a39.md",
+      "sha256": "83ee5b1edb63bfc03e498542575c1e47349e7ae8d81f3e6ff53a6c5b7b7e67b6",
+      "bytes": 1720
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-501.md",
+      "title": "CAST-501",
+      "group": "Territorio di Rovenne — 347",
+      "url": "086bfb6afa5311da.html",
+      "raw": "fonti/086bfb6afa5311da.md",
+      "sha256": "8fdf02565556aa6ff526498652a13cf3349fc62eaf21a36707976594014117c3",
+      "bytes": 1647
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-502.md",
+      "title": "CAST-502",
+      "group": "Territorio di Rovenne — 347",
+      "url": "d378998d85cdb406.html",
+      "raw": "fonti/d378998d85cdb406.md",
+      "sha256": "3209f48d36d5ff475e48a8f4efb923027a3ce2a298037a0c7ae412188c76e88f",
+      "bytes": 1670
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-503.md",
+      "title": "CAST-503",
+      "group": "Territorio di Rovenne — 347",
+      "url": "f66c27f79959d92e.html",
+      "raw": "fonti/f66c27f79959d92e.md",
+      "sha256": "992c24e8f830c9b40f1ee6a8ec9f8b03041800f247ef06cbfda36d276992220e",
+      "bytes": 1663
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-504.md",
+      "title": "CAST-504",
+      "group": "Territorio di Rovenne — 347",
+      "url": "15cc0af9a223e6ab.html",
+      "raw": "fonti/15cc0af9a223e6ab.md",
+      "sha256": "0c97399db83ee002572f2409966c2cfc993a64ce38017e5ed7482bb19e163920",
+      "bytes": 1649
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-505.md",
+      "title": "CAST-505",
+      "group": "Territorio di Rovenne — 347",
+      "url": "6af17ec2693f003f.html",
+      "raw": "fonti/6af17ec2693f003f.md",
+      "sha256": "e9c9813c1388c292d57019090022492342506fc7980d1140c8b56eb54b485f36",
+      "bytes": 1644
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-506.md",
+      "title": "CAST-506",
+      "group": "Territorio di Rovenne — 347",
+      "url": "9444645aed9626aa.html",
+      "raw": "fonti/9444645aed9626aa.md",
+      "sha256": "f20f546640a76d8fa179b2773cc74882de8d4913b32abfd2e25138b8bfd2ecc5",
+      "bytes": 1678
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-507.md",
+      "title": "CAST-507",
+      "group": "Territorio di Rovenne — 347",
+      "url": "15c3ef9a5877e108.html",
+      "raw": "fonti/15c3ef9a5877e108.md",
+      "sha256": "53406e5ebee86fc37f8e7d078d0f0798b44194f724d7cb26f93c26c9b1e6cf2c",
+      "bytes": 1640
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-508.md",
+      "title": "CAST-508",
+      "group": "Territorio di Rovenne — 347",
+      "url": "7a6def9f0daa08e6.html",
+      "raw": "fonti/7a6def9f0daa08e6.md",
+      "sha256": "52f2af6b589de06b50cc4be79eaf66e09b00dda8876dbcb409dcd469b1c99a07",
+      "bytes": 1645
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-509.md",
+      "title": "CAST-509",
+      "group": "Territorio di Rovenne — 347",
+      "url": "f53275731039e702.html",
+      "raw": "fonti/f53275731039e702.md",
+      "sha256": "758b95a44c6b791094169bdfe53b49770c8c2e80b0b5c35342d9bdb9c263573a",
+      "bytes": 1632
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-510.md",
+      "title": "CAST-510",
+      "group": "Territorio di Rovenne — 347",
+      "url": "638c35c67826c1ec.html",
+      "raw": "fonti/638c35c67826c1ec.md",
+      "sha256": "5c7087b0ed07a76aaeca3f184faa4900ed36a0dd8ccd1cd6e0a36dc2ccbc761a",
+      "bytes": 1653
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-511.md",
+      "title": "CAST-511",
+      "group": "Territorio di Rovenne — 347",
+      "url": "1eda4e93489c2dcd.html",
+      "raw": "fonti/1eda4e93489c2dcd.md",
+      "sha256": "14a6d4ca9f2b3d01da3055aee9ba8cb3b4b241de154ef832e99aad4558fb3c89",
+      "bytes": 1630
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-512.md",
+      "title": "CAST-512",
+      "group": "Territorio di Rovenne — 347",
+      "url": "ef5eee1345247a24.html",
+      "raw": "fonti/ef5eee1345247a24.md",
+      "sha256": "7947b3e6471597de92bf70d36aab729d112ac18e37402909c8e6f695f0adcf8e",
+      "bytes": 1618
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-513.md",
+      "title": "CAST-513",
+      "group": "Territorio di Rovenne — 347",
+      "url": "f0efa49c0239ef43.html",
+      "raw": "fonti/f0efa49c0239ef43.md",
+      "sha256": "8f220a6397d9722e36b800c5bba8b1c5da6419635433aec6e22a28a7b6f363b2",
+      "bytes": 1660
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-514.md",
+      "title": "CAST-514",
+      "group": "Territorio di Rovenne — 347",
+      "url": "36d158941a9b323c.html",
+      "raw": "fonti/36d158941a9b323c.md",
+      "sha256": "8a8eae0a3e93072b1fd70d45ed0b01ec1ec46d6ac76ca5e53e760f94f58814f6",
+      "bytes": 1634
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-515.md",
+      "title": "CAST-515",
+      "group": "Territorio di Rovenne — 347",
+      "url": "17eab032e73f0393.html",
+      "raw": "fonti/17eab032e73f0393.md",
+      "sha256": "2188f1da44821eec96aceaaaa1154fdd9912086faa8f74ff76bd7012373d2f27",
+      "bytes": 1650
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-516.md",
+      "title": "CAST-516",
+      "group": "Territorio di Rovenne — 347",
+      "url": "07f5a416aa422284.html",
+      "raw": "fonti/07f5a416aa422284.md",
+      "sha256": "604fc711cf68d64e44cb0939d878744f71eb29a62a063cae30c5e0ba75180224",
+      "bytes": 1659
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-517.md",
+      "title": "CAST-517",
+      "group": "Territorio di Rovenne — 347",
+      "url": "7da6540c8e6a6ee1.html",
+      "raw": "fonti/7da6540c8e6a6ee1.md",
+      "sha256": "8131451f09519d0dfa4d1022f45dd0b5b311e99b97439a7d5f623aca570a7ad3",
+      "bytes": 1642
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-518.md",
+      "title": "CAST-518",
+      "group": "Territorio di Rovenne — 347",
+      "url": "372eb29bf91c4abc.html",
+      "raw": "fonti/372eb29bf91c4abc.md",
+      "sha256": "09d38fe11917aaba8accb615a76b3cb806b2137547f16bb792c069c2152de8a0",
+      "bytes": 1668
+    },
+    {
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "title": "GIOCATORE 347 Ducato di Rovenne territorio e gerarchia",
+      "group": "Territorio di Rovenne — 347",
+      "url": "f4d4155f1c886c33.html",
+      "raw": "fonti/f4d4155f1c886c33.md",
+      "sha256": "a6d99e2ab5b4e8bec7aeb321842f8c14a21ebb660207d919834ebb75b0fb35d7",
+      "bytes": 22778
+    },
+    {
+      "source": "347_Verifica_territorio_e_gerarchia_Rovenne.md",
+      "title": "Verifica territorio e gerarchia di Rovenne — 347",
+      "group": "Verifiche editoriali",
+      "url": "a18db52e38eaa3e2.html",
+      "raw": "fonti/a18db52e38eaa3e2.md",
+      "sha256": "5f2d56c7489d078d82da6b8aeb55af3df8f86e6e34af8308cc6ba887b44be2d3",
+      "bytes": 2455
+    },
+    {
+      "source": "GIOCATORE_213_Avvio_e_conoscenze_da_rivedere.md",
+      "title": "GIOCATORE 213 Avvio e conoscenze da rivedere",
+      "group": "Lavorazione storica — non prevale sul canone vigente",
+      "url": "2d5f5ee507756de2.html",
+      "raw": "fonti/2d5f5ee507756de2.md",
+      "sha256": "e6ad7ef2ec733d1d1bd0d8a112f64152228a7bb8334443471eec998e5f49ecf3",
+      "bytes": 1028,
+      "status": "HISTORICAL_WORKING_DOCUMENT",
+      "precedence_note": "Non prevale sui nomi approvati e sulle revisioni correnti."
+    },
+    {
+      "source": "GIOCATORE_308_Proposta_nomi_stadi_Sovereign.md",
+      "title": "GIOCATORE 308 Proposta nomi stadi Sovereign",
+      "group": "Lavorazione storica — non prevale sul canone vigente",
+      "url": "90db64a894d04c8c.html",
+      "raw": "fonti/90db64a894d04c8c.md",
+      "sha256": "7e6adabb7375d12595dc2ef7a78be886fa7d74a7c7794269a327221f6d319f21",
+      "bytes": 304,
+      "status": "HISTORICAL_WORKING_DOCUMENT",
+      "precedence_note": "Non prevale sui nomi approvati e sulle revisioni correnti."
+    },
+    {
+      "source": "GIOCATORE_309_Proposta_nomi_stadi_Worldforge.md",
+      "title": "GIOCATORE 309 Proposta nomi stadi Worldforge",
+      "group": "Lavorazione storica — non prevale sul canone vigente",
+      "url": "bdb083651348e172.html",
+      "raw": "fonti/bdb083651348e172.md",
+      "sha256": "7e6adabb7375d12595dc2ef7a78be886fa7d74a7c7794269a327221f6d319f21",
+      "bytes": 304,
+      "status": "HISTORICAL_WORKING_DOCUMENT",
+      "precedence_note": "Non prevale sui nomi approvati e sulle revisioni correnti."
+    },
+    {
+      "source": "GIOCATORE_310_Proposta_nomi_stadi_Continuum.md",
+      "title": "GIOCATORE 310 Proposta nomi stadi Continuum",
+      "group": "Lavorazione storica — non prevale sul canone vigente",
+      "url": "a689ce505caa6b21.html",
+      "raw": "fonti/a689ce505caa6b21.md",
+      "sha256": "7e6adabb7375d12595dc2ef7a78be886fa7d74a7c7794269a327221f6d319f21",
+      "bytes": 304,
+      "status": "HISTORICAL_WORKING_DOCUMENT",
+      "precedence_note": "Non prevale sui nomi approvati e sulle revisioni correnti."
+    },
+    {
+      "source": "GIOCATORE_311_Proposta_nomi_stadi_Dominion.md",
+      "title": "GIOCATORE 311 Proposta nomi stadi Dominion",
+      "group": "Lavorazione storica — non prevale sul canone vigente",
+      "url": "bcdc57b23e9f53cb.html",
+      "raw": "fonti/bcdc57b23e9f53cb.md",
+      "sha256": "7e6adabb7375d12595dc2ef7a78be886fa7d74a7c7794269a327221f6d319f21",
+      "bytes": 304,
+      "status": "HISTORICAL_WORKING_DOCUMENT",
+      "precedence_note": "Non prevale sui nomi approvati e sulle revisioni correnti."
+    },
+    {
+      "source": "GIOCATORE_312_Proposta_nomi_stadi_Witness.md",
+      "title": "GIOCATORE 312 Proposta nomi stadi Witness",
+      "group": "Lavorazione storica — non prevale sul canone vigente",
+      "url": "dda9ec7903ca6d25.html",
+      "raw": "fonti/dda9ec7903ca6d25.md",
+      "sha256": "7e6adabb7375d12595dc2ef7a78be886fa7d74a7c7794269a327221f6d319f21",
+      "bytes": 304,
+      "status": "HISTORICAL_WORKING_DOCUMENT",
+      "precedence_note": "Non prevale sui nomi approvati e sulle revisioni correnti."
+    },
+    {
+      "source": "GIOCATORE_313_Proposta_nomi_stadi_Manyfold.md",
+      "title": "GIOCATORE 313 Proposta nomi stadi Manyfold",
+      "group": "Lavorazione storica — non prevale sul canone vigente",
+      "url": "ac075a5b7c0214b2.html",
+      "raw": "fonti/ac075a5b7c0214b2.md",
+      "sha256": "7e6adabb7375d12595dc2ef7a78be886fa7d74a7c7794269a327221f6d319f21",
+      "bytes": 304,
+      "status": "HISTORICAL_WORKING_DOCUMENT",
+      "precedence_note": "Non prevale sui nomi approvati e sulle revisioni correnti."
+    },
+    {
+      "source": "GIOCATORE_314_Proposta_nomi_stadi_Last_Hunger.md",
+      "title": "GIOCATORE 314 Proposta nomi stadi Last Hunger",
+      "group": "Lavorazione storica — non prevale sul canone vigente",
+      "url": "0d92947adfe0b9bd.html",
+      "raw": "fonti/0d92947adfe0b9bd.md",
+      "sha256": "7e6adabb7375d12595dc2ef7a78be886fa7d74a7c7794269a327221f6d319f21",
+      "bytes": 304,
+      "status": "HISTORICAL_WORKING_DOCUMENT",
+      "precedence_note": "Non prevale sui nomi approvati e sulle revisioni correnti."
+    },
+    {
+      "source": "GIOCATORE_315_Proposta_nomi_stadi_Nocturne.md",
+      "title": "GIOCATORE 315 Proposta nomi stadi Nocturne",
+      "group": "Lavorazione storica — non prevale sul canone vigente",
+      "url": "58ccd180c65c600d.html",
+      "raw": "fonti/58ccd180c65c600d.md",
+      "sha256": "7e6adabb7375d12595dc2ef7a78be886fa7d74a7c7794269a327221f6d319f21",
+      "bytes": 304,
+      "status": "HISTORICAL_WORKING_DOCUMENT",
+      "precedence_note": "Non prevale sui nomi approvati e sulle revisioni correnti."
+    },
+    {
+      "source": "RISERVATO_180_Audit_integrazione_1_10.md",
+      "title": "RISERVATO 180 Audit integrazione 1 10",
+      "group": "Fonti integrali — integrazione 348",
+      "url": "829e573bc6b24414.html",
+      "raw": "fonti/829e573bc6b24414.md",
+      "sha256": "fa06bc28f0a3e3f4d8ba1ca8044bcaf3d3f1471baad097cea413fe607d23893d",
+      "bytes": 6053
+    },
+    {
+      "source": "RISERVATO_206_Audit_editoriale_della_trama.md",
+      "title": "RISERVATO 206 Audit editoriale della trama",
+      "group": "Fonti integrali — integrazione 348",
+      "url": "05a06c085961da2a.html",
+      "raw": "fonti/05a06c085961da2a.md",
+      "sha256": "e6d25044d60d2f1e18690d421199b4c6ab15f9a54d113bef45d858293d868a7b",
+      "bytes": 3789
+    },
+    {
+      "source": "RISERVATO_230_Censimento_gerarchico_organizzazioni.md",
+      "title": "RISERVATO 230 Censimento gerarchico organizzazioni",
+      "group": "Fonti integrali — integrazione 348",
+      "url": "28bade3bcfcece5d.html",
+      "raw": "fonti/28bade3bcfcece5d.md",
+      "sha256": "2be541edb5206ab6a6a2b545d6ff532108ad6b7913f0833d68665f289e571bbb",
+      "bytes": 10835
+    },
+    {
+      "source": "RISERVATO_31_Vincoli_autoriali_della_nuova_architettura.md",
+      "title": "RISERVATO 31 Vincoli autoriali della nuova architettura",
+      "group": "Fonti integrali — integrazione 348",
+      "url": "8d72b239fb1c4a87.html",
+      "raw": "fonti/8d72b239fb1c4a87.md",
+      "sha256": "a132dc8925b4c7033cbb885e5b9c52a63a5ea2086f97bc7cc1e0f5c39e2a733a",
+      "bytes": 4064
+    },
+    {
+      "source": "CANONE_VIGENTE/Room_Six_riservatezza_331.json",
+      "title": "Room Six riservatezza 331",
+      "group": "Fonti integrali — integrazione 348",
+      "url": "e6f07fede782f21d.html",
+      "raw": "fonti/e6f07fede782f21d.json",
+      "sha256": "25a1a6e7a485649b05724b6f76b3aa6f92d1c0991a30beeaa9989445a56d7c37",
+      "bytes": 5622
+    },
+    {
+      "source": "348_Immagine_Ardai_e_verifica_pre_ZIP.md",
+      "title": "348 Immagine Ardai e verifica pre ZIP",
+      "group": "Fonti integrali — integrazione 348",
+      "url": "8ec67b1aa2aeac1a.html",
+      "raw": "fonti/8ec67b1aa2aeac1a.md",
+      "sha256": "19798c2b82a9aea11c96c56b6e9967f271eeeca3a0c1998dc264b32e3deff793",
+      "bytes": 2803
+    },
+    {
+      "source": "CANONE_VIGENTE/Verifica_pre_ZIP_348.json",
+      "title": "Verifica pre ZIP 348",
+      "group": "Verifica prima dello ZIP — 348",
+      "url": "20050a0bb5c3bdc0.html",
+      "raw": "fonti/20050a0bb5c3bdc0.json",
+      "sha256": "b3a1d3bb58884995c7e4d978f41591fa165532e0eea0e088532c641c6fa03fe7",
+      "bytes": 40828
+    },
+    {
+      "source": "CANONE_VIGENTE/Piano_esportazione_integrale_348.json",
+      "title": "Piano esportazione integrale 348",
+      "group": "Verifica prima dello ZIP — 348",
+      "url": "d7c3a762f0df2655.html",
+      "raw": "fonti/d7c3a762f0df2655.json",
+      "sha256": "167fe8df4cdbb596030d6ae6eef807ec11963e9a3560c4727d6adb81843dfbd7",
+      "bytes": 233017
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",
-  "handoff_revision": 337
+  "handoff_revision": 342,
+  "explanatory_revision": 344,
+  "will_revision": 345,
+  "current_examples_source": "CANONE_VIGENTE/Esempi_abilita_345.json",
+  "ancient_history_revision": "346",
+  "territorial_revision": "347",
+  "pre_export_revision": "348"
 }

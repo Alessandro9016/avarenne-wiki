@@ -1,0 +1,1380 @@
+{
+  "revision": 341,
+  "access": "NARRATOR_RESERVED",
+  "status": "CONDITIONAL_CAUSAL_APPLICATIONS",
+  "arcs": [
+    {
+      "arc_id": "ARC-01",
+      "title": "The Waking House",
+      "volume": 1,
+      "axis": "ALEXANDER",
+      "alexander_entry": "La ripresa del corpo e le responsabilità della casa sono già nella sua sfera.",
+      "elias_entry": "Prosegue la propria controversia di laboratorio; non conosce il risveglio del duca.",
+      "contact_carrier_ids": [
+        "CAST-005",
+        "CAST-069"
+      ],
+      "activation_gate": "Nessuna convergenza necessaria. Una notizia sanitaria può uscire solo per una comunicazione realmente autorizzata o avvenuta.",
+      "without_meeting": "La casa evolve secondo le decisioni del PG; la vicenda del laboratorio procede separatamente.",
+      "calendar_references": [
+        {
+          "id": "CLK-05",
+          "date": "812-05-26",
+          "event": "Paga del personale già prevista.",
+          "is_player_appointment": false
+        }
+      ],
+      "front_calendar_references": [
+        "OPCLK-11"
+      ],
+      "front_ids": [
+        "FRONT-11"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_196_Archi_01_10.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-02",
+      "title": "The Moved Bench",
+      "volume": 1,
+      "axis": "PARALLELE_CON_INTERSEZIONE",
+      "alexander_entry": "Una richiesta professionale può arrivare attraverso gli uffici tecnici frequentati dalla famiglia, oppure Alexander può interessarsi alla controversia mentre visita Lethorne.",
+      "elias_entry": "Marcel, Livia ed Elias cercano un confronto tecnico e una seconda prova per la controversia.",
+      "contact_carrier_ids": [
+        "CAST-004",
+        "CAST-031",
+        "CAST-032"
+      ],
+      "activation_gate": "Il richiedente deve avere un recapito del perito o dell’ufficio e una ragione concreta per contattarlo. Il titolo ducale non dimostra competenza tecnica, e nessuno sa ancora che Alexander possa compiere miracoli.",
+      "without_meeting": "L’udienza usa le prove effettivamente raccolte; il laboratorio può trovare altri interlocutori e Alexander può occuparsi del proprio ducato.",
+      "calendar_references": [
+        {
+          "id": "CLK-10",
+          "date": "812-05-31",
+          "event": "Udienza sul collaudo 21 aprile.",
+          "is_player_appointment": false
+        }
+      ],
+      "front_calendar_references": [
+        "OPCLK-01",
+        "OPCLK-12"
+      ],
+      "front_ids": [
+        "FRONT-01",
+        "FRONT-12"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_196_Archi_01_10.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-03",
+      "title": "Room for Six",
+      "volume": 1,
+      "axis": "CONDIVISA_CONDIZIONALE",
+      "alexander_entry": "Un servizio effettivamente offerto, una perizia o un contatto civile può farlo conoscere ai fondatori.",
+      "elias_entry": "Elias e Livia valutano se lo scambio possa giovare a un interlocutore reale senza cedergli il controllo della rete.",
+      "contact_carrier_ids": [
+        "CAST-031",
+        "CAST-032"
+      ],
+      "activation_gate": "Invito solo dopo un contatto identificabile o una prestazione osservata; devono essere comunicati recapito e condizioni. Si può scambiare anche fuori da Room Six.",
+      "without_meeting": "Il gruppo mantiene le proprie attività con i membri effettivi. Nessun rapimento, sogno o richiamo della Root sostituisce il rifiuto del PG.",
+      "calendar_references": [
+        {
+          "id": "CLK-03",
+          "date": "812-05-23",
+          "event": "Seconda sessione seRoom Six sicura; altrimenti incontri ordinari.",
+          "is_player_appointment": false
+        }
+      ],
+      "front_calendar_references": [
+        "OPCLK-01",
+        "OPCLK-12"
+      ],
+      "front_ids": [
+        "FRONT-01",
+        "FRONT-12"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_196_Archi_01_10.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-04",
+      "title": "A Price for Recovery",
+      "volume": 1,
+      "axis": "ALEXANDER",
+      "alexander_entry": "Progetto, garanzie e patrimonio sono questioni già note attraverso Yselle e Albin.",
+      "elias_entry": "Può partecipare a una misurazione o a un lavoro soltanto se il laboratorio riceve un incarico pertinente.",
+      "contact_carrier_ids": [
+        "CAST-004",
+        "CAST-069",
+        "CAST-027"
+      ],
+      "activation_gate": "Una necessità tecnica reale del progetto deve essere comunicata al laboratorio; non si assume che Elias sia già il perito personale del duca.",
+      "without_meeting": "La famiglia può finanziare, modificare o abbandonare il progetto. Elias conserva la propria linea anche senza incarico.",
+      "calendar_references": [
+        {
+          "id": "CLK-05",
+          "date": "812-05-26",
+          "event": "Paga del personale già prevista.",
+          "is_player_appointment": false
+        },
+        {
+          "id": "CLK-17",
+          "date": "812-06-08",
+          "event": "Elren Voss Oracle IV e Dama Rinn confrontano campioni per IND-01",
+          "is_player_appointment": false
+        },
+        {
+          "id": "CLK-21",
+          "date": "812-06-08",
+          "event": "Riesamina alcune garanzie dopo Bellance e valuta il progetto di Yselle",
+          "is_player_appointment": false
+        }
+      ],
+      "front_calendar_references": [
+        "OPCLK-11"
+      ],
+      "front_ids": [
+        "FRONT-11"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_196_Archi_01_10.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-05",
+      "title": "The Shore Has a Name",
+      "volume": 1,
+      "axis": "ALEXANDER",
+      "alexander_entry": "Può riconoscere un’attribuzione antica ascoltata o letta, oppure incontrare il problema civile della sponda.",
+      "elias_entry": "Può incontrare la questione attraverso mappe, testimonianze o uno scambio effettivo; non conosce per questo la persona di Edran.",
+      "contact_carrier_ids": [
+        "CAST-072",
+        "CAST-073"
+      ],
+      "activation_gate": "Un canto o una copia devono essere materialmente ricevuti o ascoltati. Chi cerca testimoni non identifica automaticamente Alexander come Creator.",
+      "without_meeting": "Il ricorso procede con i suoi testimoni; riconoscimento religioso, esito civile e identità del PG restano questioni separate.",
+      "calendar_references": [
+        {
+          "id": "CLK-13",
+          "date": "812-06-12",
+          "event": "Udienza unica su concessione e diritto d’uso.",
+          "is_player_appointment": false
+        }
+      ],
+      "front_calendar_references": [
+        "OPCLK-02",
+        "OPCLK-05"
+      ],
+      "front_ids": [
+        "FRONT-02",
+        "FRONT-05"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_196_Archi_01_10.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-06",
+      "title": "Certified Weather",
+      "volume": 2,
+      "axis": "MONDO_CON_INTERSEZIONE",
+      "alexander_entry": "È coinvolgibile se una fornitura, un servizio o una richiesta riguarda davvero il suo progetto o una sua iniziativa.",
+      "elias_entry": "Il laboratorio può essere interpellato sulle misure dei campioni e sui limiti dei certificati.",
+      "contact_carrier_ids": [
+        "CAST-027",
+        "CAST-028",
+        "CAST-034"
+      ],
+      "activation_gate": "Occorre accertare la filiera pertinente: non si dichiara retroattivamente che ogni lotto difettoso sia stato comprato dai Valcienne.",
+      "without_meeting": "Tecnici e imprese proseguono verifiche e contestazioni; una sostituzione riuscita elimina il guasto reale senza imporre una crisi residua.",
+      "calendar_references": [
+        {
+          "id": "CLK-17",
+          "date": "812-06-08",
+          "event": "Elren Voss Oracle IV e Dama Rinn confrontano campioni per IND-01",
+          "is_player_appointment": false
+        },
+        {
+          "id": "CLK-23",
+          "date": "812-06-08",
+          "event": "Coordina una prova di pompe e l’acquisto di ricambi",
+          "is_player_appointment": false
+        }
+      ],
+      "front_calendar_references": [
+        "OPCLK-01",
+        "OPCLK-07",
+        "OPCLK-11"
+      ],
+      "front_ids": [
+        "FRONT-01",
+        "FRONT-07",
+        "FRONT-11"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_196_Archi_01_10.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-07",
+      "title": "A Patient Is Not a Model",
+      "volume": 2,
+      "axis": "MONDO_CON_INTERSEZIONE",
+      "alexander_entry": "Può visitare un servizio clinico, seguire una testimonianza o scegliere un intervento di Heart; non è già convocato come guaritore noto.",
+      "elias_entry": "Può contribuire mediante un incarico, una misura o un contatto clinico effettivo, entro le proprie capacità.",
+      "contact_carrier_ids": [
+        "CAST-023",
+        "CAST-029",
+        "CAST-075"
+      ],
+      "activation_gate": "Chi richiede un miracolo deve averne una prova o aver ricevuto un’offerta. Una richiesta ordinaria può invece limitarsi a risorse, trasporto o confronto di dati.",
+      "without_meeting": "I clinici rinviano la procedura incompatibile e cercano alternative; il paziente non muore per punire l’assenza del PG.",
+      "calendar_references": [
+        {
+          "id": "CLK-02",
+          "date": "812-05-22",
+          "event": "Prova clinica con anatomia da verificare.",
+          "is_player_appointment": false
+        },
+        {
+          "id": "CLK-24",
+          "date": "812-06-04",
+          "event": "Organizza la raccolta di proposte dopo il test di Namar",
+          "is_player_appointment": false
+        }
+      ],
+      "front_calendar_references": [
+        "OPCLK-03",
+        "OPCLK-10",
+        "OPCLK-11"
+      ],
+      "front_ids": [
+        "FRONT-03",
+        "FRONT-10",
+        "FRONT-11"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_196_Archi_01_10.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-08",
+      "title": "Copies That Cost",
+      "volume": 2,
+      "axis": "PARALLELE_CON_INTERSEZIONE",
+      "alexander_entry": "Una registrazione può interessare il suo patrimonio, le proprie indagini o una testimonianza che abbia scelto di seguire.",
+      "elias_entry": "Livia può proporre un confronto attraverso la rete già esistente, conservando limiti di pubblicazione e proprietà della copia.",
+      "contact_carrier_ids": [
+        "CAST-032",
+        "CAST-006",
+        "CAST-018"
+      ],
+      "activation_gate": "Servono una copia autentica, un mittente e il consenso o il diritto reale alla trasmissione. Una sintesi commerciale non trasferisce tutta la registrazione.",
+      "without_meeting": "Le licenze e i dissensi procedono fra i loro titolari; non è obbligatorio far incontrare i protagonisti per rendere valida una prova.",
+      "calendar_references": [
+        {
+          "id": "CLK-06",
+          "date": "812-05-26",
+          "event": "Confronto editoriale della registrazione.",
+          "is_player_appointment": false
+        },
+        {
+          "id": "CLK-18",
+          "date": "812-06-20",
+          "event": "Tratta il rilascio di un metodo da brevetto a licenza di studio",
+          "is_player_appointment": false
+        }
+      ],
+      "front_calendar_references": [
+        "OPCLK-01",
+        "OPCLK-04",
+        "OPCLK-12"
+      ],
+      "front_ids": [
+        "FRONT-01",
+        "FRONT-04",
+        "FRONT-12"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_196_Archi_01_10.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-09",
+      "title": "Two Kinds of Night",
+      "volume": 2,
+      "axis": "MONDO_PARALLELO",
+      "alexander_entry": "Può raggiungere la questione attraverso un servizio notturno, una clausura o un’indagine scelta.",
+      "elias_entry": "Può incontrare una richiesta di verifica o di scambio solo tramite persone e recapiti effettivi.",
+      "contact_carrier_ids": [
+        "CAST-462",
+        "CAST-463"
+      ],
+      "activation_gate": "Il primo contatto può essere un ufficio o un addetto, non necessariamente la divinità in persona. Le informazioni tecniche pubbliche non rivelano gli accessi segreti della Root.",
+      "without_meeting": "Le reti revisionano i circuiti con mezzi propri. La loro crisi non viene spostata a Rovenne soltanto per coinvolgere Alexander.",
+      "calendar_references": [
+        {
+          "id": "CLK-04",
+          "date": "812-05-23",
+          "event": "Prove locali dei circuiti e delle superfici.",
+          "is_player_appointment": false
+        },
+        {
+          "id": "CLK-26",
+          "date": "812-06-30",
+          "event": "Astrid confronta il mandato di clausura con Ophie; un tecnico prepara una prova della linea di allarme separata.",
+          "is_player_appointment": false
+        },
+        {
+          "id": "CLK-27",
+          "date": "812-06-30",
+          "event": "Teva richiede corroborazione della copia incompleta; Sela porta la versione usata dalla sede periferica.",
+          "is_player_appointment": false
+        }
+      ],
+      "front_calendar_references": [
+        "OPCLK-06",
+        "OPCLK-08"
+      ],
+      "front_ids": [
+        "FRONT-06",
+        "FRONT-08"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_196_Archi_01_10.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-10",
+      "title": "The Copper Settlement",
+      "volume": 2,
+      "axis": "PARALLELE_CON_INTERSEZIONE",
+      "alexander_entry": "Costi e garanzie possono raggiungerlo attraverso Yselle, se toccano rapporti realmente assunti o negoziati.",
+      "elias_entry": "Può incontrare le ricadute sul lavoro o sui materiali del laboratorio senza essere obbligato a rappresentare il duca.",
+      "contact_carrier_ids": [
+        "CAST-004",
+        "CAST-016"
+      ],
+      "activation_gate": "Verificare quali parti del progetto dipendano davvero dall’accordo. Un rinnovo estero non diventa automaticamente un debito personale del PG.",
+      "without_meeting": "Le parti cercano forniture e accordi alternativi; una decisione di Alexander modifica soltanto i rapporti che raggiunge realmente.",
+      "calendar_references": [
+        {
+          "id": "CLK-22",
+          "date": "812-07-02",
+          "event": "Confronta costi delle rotte e clausole di rame per IND-02",
+          "is_player_appointment": false
+        }
+      ],
+      "front_calendar_references": [
+        "OPCLK-05",
+        "OPCLK-07",
+        "OPCLK-11"
+      ],
+      "front_ids": [
+        "FRONT-05",
+        "FRONT-07",
+        "FRONT-11"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_196_Archi_01_10.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-11",
+      "title": "The Workshop Behind the Mark",
+      "volume": 3,
+      "axis": "ALEXANDER",
+      "alexander_entry": "Ricordi di Kharven e reperti autentici possono motivare un’indagine personale.",
+      "elias_entry": "Un’eventuale richiesta di rilievo può offrire un ruolo autonomo a Elias; non è necessaria alla memoria di Edran.",
+      "contact_carrier_ids": [
+        "CAST-030"
+      ],
+      "activation_gate": "Occorrono ubicazione moderna verificata, accesso e campione autentico. Il ricordo del luogo antico non identifica ogni galleria odierna.",
+      "without_meeting": "Custodi e concessionari continuano il confronto; Alexander può risolvere o abbandonare l’indagine senza attendere Elias.",
+      "calendar_references": [
+        {
+          "id": "CLK-09",
+          "date": "812-05-29",
+          "event": "Confronto delle due pietre.",
+          "is_player_appointment": false
+        }
+      ],
+      "front_calendar_references": [
+        "OPCLK-02",
+        "OPCLK-07",
+        "OPCLK-12"
+      ],
+      "front_ids": [
+        "FRONT-02",
+        "FRONT-07",
+        "FRONT-12"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_197_Archi_11_20.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-12",
+      "title": "The Living Orchard",
+      "volume": 3,
+      "axis": "MONDO_CON_INTERSEZIONE",
+      "alexander_entry": "Una derivazione incontrata può risultare tecnicamente riconoscibile e collegarsi alle indagini già scelte.",
+      "elias_entry": "Può partecipare a una verifica dei supporti o ricevere un risultato tramite un contatto realmente stabilito.",
+      "contact_carrier_ids": [
+        "CAST-013",
+        "CAST-077"
+      ],
+      "activation_gate": "Serve accesso alla coltura o al campione pertinente; un nome letto altrove non concede diagnosi o presenza sul posto.",
+      "without_meeting": "Coltivatori e tecnici negoziano scorte e varietà anche senza i protagonisti; nessun nuovo colpevole viene aggiunto dopo una diagnosi riuscita.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-03",
+        "OPCLK-10"
+      ],
+      "front_ids": [
+        "FRONT-03",
+        "FRONT-10"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_197_Archi_11_20.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-13",
+      "title": "The Friend Who Changed",
+      "volume": 3,
+      "axis": "ALEXANDER",
+      "alexander_entry": "Una firma, una pratica o un incontro verificato possono collegarsi a rapporti della prima vita.",
+      "elias_entry": "Può contribuire a un servizio o a una trasmissione se già coinvolto; non diventa interprete obbligatorio del passato di Edran.",
+      "contact_carrier_ids": [
+        "CAST-023",
+        "CAST-039"
+      ],
+      "activation_gate": "Una persona antica deve ricevere prove pertinenti prima di riconoscere Edran nel volto di Alexander. La sua presenza non viene annunciata tramite un segnale cosmico automatico.",
+      "without_meeting": "Le reti cliniche proseguono il proprio lavoro. Il rapporto antico può essere affrontato direttamente dal PG senza un incontro parallelo con Elias.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-03"
+      ],
+      "front_ids": [
+        "FRONT-03"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_197_Archi_11_20.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-14",
+      "title": "A Person Made Here",
+      "volume": 3,
+      "axis": "ALEXANDER_O_MONDO",
+      "alexander_entry": "Può essere coinvolto da una creazione propria realmente avvenuta oppure dalla condizione di una persona incontrata; i due casi restano distinti.",
+      "elias_entry": "Può interrogarsi su servizio, custodia e autonomia attraverso lo scambio o un caso effettivamente raggiunto.",
+      "contact_carrier_ids": [
+        "CAST-008",
+        "CAST-035"
+      ],
+      "activation_gate": "Non si inventa una persona creata da Alexander fuori gioco. Servono un caso già esistente o una sua creazione deliberata registrata.",
+      "without_meeting": "Le persone coinvolte difendono le proprie scelte e i garanti trattano i rapporti esistenti; l’arco può essere omesso se nessun caso è raggiunto.",
+      "calendar_references": [
+        {
+          "id": "CLK-08",
+          "date": "812-05-28",
+          "event": "Prestazioni e custodie distinguono consenso e sostegno.",
+          "is_player_appointment": false
+        }
+      ],
+      "front_calendar_references": [
+        "OPCLK-06",
+        "OPCLK-08",
+        "OPCLK-10"
+      ],
+      "front_ids": [
+        "FRONT-06",
+        "FRONT-08",
+        "FRONT-10"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_197_Archi_11_20.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-15",
+      "title": "An Exit Kept Open",
+      "volume": 3,
+      "axis": "ELIAS_CON_INTERSEZIONE",
+      "alexander_entry": "Può cercare un itinerario o una testimonianza legata ai rapporti antichi se ha ottenuto un accesso pertinente.",
+      "elias_entry": "Il lavoro su riferimenti e passaggi può motivarlo a cercare manutenzione o preparazione adeguata.",
+      "contact_carrier_ids": [
+        "CAST-011",
+        "CAST-024"
+      ],
+      "activation_gate": "Itinerario, permessi, mezzo e capacità devono esistere. Helyr non viene informato automaticamente dall’uso della cerniera e non riconosce il ritorno a distanza.",
+      "without_meeting": "Manutentori e custodi mantengono l’accesso ridotto; nessuno dei due protagonisti è obbligato a viaggiare con l’altro.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-02",
+        "OPCLK-05",
+        "OPCLK-09"
+      ],
+      "front_ids": [
+        "FRONT-02",
+        "FRONT-05",
+        "FRONT-09"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_197_Archi_11_20.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-16",
+      "title": "The Approved Departure",
+      "volume": 4,
+      "axis": "ALEXANDER",
+      "alexander_entry": "Le versioni del progetto finale sono un accesso pertinente alle proprie domande sul passato.",
+      "elias_entry": "Può assistere a un confronto solo se riceve documenti o incarichi reali; non ha già il sapere autobiografico di Edran.",
+      "contact_carrier_ids": [
+        "CAST-018",
+        "CAST-025"
+      ],
+      "activation_gate": "Attestazione, copia e allegati si trasmettono secondo la loro custodia effettiva. Una prova sufficiente può anticipare la scoperta senza completare altri archi.",
+      "without_meeting": "Custodi e critici conservano e discutono le versioni disponibili; Elias non sostituisce le capacità diagnostiche del PG.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-04",
+        "OPCLK-08",
+        "OPCLK-12"
+      ],
+      "front_ids": [
+        "FRONT-04",
+        "FRONT-08",
+        "FRONT-12"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_197_Archi_11_20.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-17",
+      "title": "Three Renewals",
+      "volume": 4,
+      "axis": "ALEXANDER",
+      "alexander_entry": "Può raggiungere una responsabilità o un contenimento tramite prove effettivamente conseguite.",
+      "elias_entry": "Può essere interessato agli accessi e alle ricadute presenti se vi è collegato da un servizio o da una scelta propria.",
+      "contact_carrier_ids": [
+        "CAST-014",
+        "CAST-015"
+      ],
+      "activation_gate": "Conoscere una colpa non concede accesso al responsabile né la ricezione di ogni messaggio. Titolo ducale e forza soprannaturale hanno competenze diverse.",
+      "without_meeting": "Le giurisdizioni mantengono i servizi e reagiscono alle contestazioni ricevute; nessun processo si apre perché è arrivato il numero dell’arco.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-02",
+        "OPCLK-04",
+        "OPCLK-11"
+      ],
+      "front_ids": [
+        "FRONT-02",
+        "FRONT-04",
+        "FRONT-11"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_197_Archi_11_20.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-18",
+      "title": "The Undeclared Branch",
+      "volume": 4,
+      "axis": "ALEXANDER",
+      "alexander_entry": "Una traccia della diramazione può essere riconosciuta attraverso il progetto ricordato e l’esame attuale.",
+      "elias_entry": "Può contribuire a una verifica o a una via alternativa soltanto con competenza e accesso realmente ottenuti.",
+      "contact_carrier_ids": [
+        "CAST-013",
+        "CAST-023"
+      ],
+      "activation_gate": "Servono un lotto o una derivazione raggiunti e una provenienza verificabile. La scoperta non richiede presenza simultanea dei due personaggi.",
+      "without_meeting": "Le comunità mantengono sostegni e valutano alternative; la separazione valida termina la dipendenza effettivamente rimossa.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-03",
+        "OPCLK-12"
+      ],
+      "front_ids": [
+        "FRONT-03",
+        "FRONT-12"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_197_Archi_11_20.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-19",
+      "title": "The Names on the Foundation",
+      "volume": 4,
+      "axis": "ALEXANDER_CON_INTERSEZIONE",
+      "alexander_entry": "Attribuzioni delle proprie opere e memorie pubbliche possono essere confrontate con ciò che ricorda.",
+      "elias_entry": "Può confrontare testimonianze e conseguenze contemporanee senza ricevere automaticamente l’identità segreta del PG.",
+      "contact_carrier_ids": [
+        "CAST-006",
+        "CAST-007",
+        "CAST-008",
+        "CAST-072"
+      ],
+      "activation_gate": "Una copia o un componente deve essere consegnato oppure visitato. La connessione fra Alexander ed Edran resta da comunicare o dimostrare ai singoli interlocutori.",
+      "without_meeting": "Riti e servizi continuano anche con attribuzioni contestate; non si elimina una prova genuina per prolungare la ricerca.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-04",
+        "OPCLK-08",
+        "OPCLK-12"
+      ],
+      "front_ids": [
+        "FRONT-04",
+        "FRONT-08",
+        "FRONT-12"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_197_Archi_11_20.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-20",
+      "title": "A Judgment Without a Throne",
+      "volume": 4,
+      "axis": "ALEXANDER",
+      "alexander_entry": "Può scegliere come agire sulle responsabilità che ha effettivamente accertato, anche molto prima dell’ordine editoriale.",
+      "elias_entry": "Può offrire un punto di vista o rifiutare un aiuto se esiste un rapporto reale e se conosce i fatti pertinenti.",
+      "contact_carrier_ids": [
+        "CAST-013",
+        "CAST-014",
+        "CAST-018",
+        "CAST-024"
+      ],
+      "activation_gate": "La contesa richiede attori raggiungibili e prove disponibili; nessuna assoluzione, vendetta o collaborazione viene assegnata al PG.",
+      "without_meeting": "Gli interlocutori raggiunti difendono i propri interessi; un accordo o una vittoria anticipata modifica o chiude gli archi dipendenti.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-04",
+        "OPCLK-08",
+        "OPCLK-12"
+      ],
+      "front_ids": [
+        "FRONT-04",
+        "FRONT-08",
+        "FRONT-12"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_197_Archi_11_20.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-21",
+      "title": "The Borrowed Sleeper",
+      "volume": 5,
+      "axis": "ALEXANDER",
+      "alexander_entry": "Un rapporto antico può motivare una verifica di custodia e continuità quando ne raggiunge tracce autentiche.",
+      "elias_entry": "Può incontrare un caso attuale della stessa famiglia di problemi, senza coincidere con la vicenda antica.",
+      "contact_carrier_ids": [
+        "CAST-012",
+        "CAST-026",
+        "CAST-042"
+      ],
+      "activation_gate": "Inventario custodiale e presenza autentica richiedono permessi e collegamenti reali. Il ricordo del vecchio amico non permette una convocazione a distanza.",
+      "without_meeting": "Custodi mantengono i sostegni; casi clinici presenti e continuità antiche restano distinti anche se i protagonisti non si incontrano.",
+      "calendar_references": [
+        {
+          "id": "CLK-08",
+          "date": "812-05-28",
+          "event": "Prestazioni e custodie distinguono consenso e sostegno.",
+          "is_player_appointment": false
+        }
+      ],
+      "front_calendar_references": [
+        "OPCLK-06",
+        "OPCLK-10"
+      ],
+      "front_ids": [
+        "FRONT-06",
+        "FRONT-10"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_198_Archi_21_30.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-22",
+      "title": "The Guests of the Same Host",
+      "volume": 5,
+      "axis": "MONDO_CON_INTERSEZIONE",
+      "alexander_entry": "Può esaminare un invito effettivamente ricevuto o raggiungere una presenza attraverso un’interfaccia pertinente.",
+      "elias_entry": "Può accettare o verificare un contatto solo con mezzi propri o una prestazione esterna dichiarata.",
+      "contact_carrier_ids": [
+        "CAST-010",
+        "CAST-035",
+        "CAST-083"
+      ],
+      "activation_gate": "L’invito deve percorrere un collegamento reale. Nessuna partecipazione mentale remota è concessa a tutti dal solo fatto che esista una Root.",
+      "without_meeting": "L’interfaccia viene riparata o resta limitata secondo i mezzi dei custodi; l’assenza dei protagonisti non crea un invito inevitabile.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-06"
+      ],
+      "front_ids": [
+        "FRONT-06"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_198_Archi_21_30.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-23",
+      "title": "No Patient by Vote",
+      "volume": 5,
+      "axis": "MONDO_CON_INTERSEZIONE",
+      "alexander_entry": "Può offrire una cura o una separazione dopo aver raggiunto il paziente e diagnosticato il rapporto pertinente.",
+      "elias_entry": "Può interessarsi ai permessi e alla sicurezza attraverso un caso o un incarico proprio.",
+      "contact_carrier_ids": [
+        "CAST-008",
+        "CAST-023",
+        "CAST-462",
+        "CAST-463"
+      ],
+      "activation_gate": "Il paziente e i supporti vanno raggiunti; conoscere l’autorità tecnica non basta. Le informazioni cliniche non sono trasferite integralmente a chiunque faccia parte del gruppo.",
+      "without_meeting": "Clinici e scuole trattano casi reali; un soccorso riuscito non viene annullato per conservare una disputa istituzionale.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-03",
+        "OPCLK-08",
+        "OPCLK-10",
+        "OPCLK-11"
+      ],
+      "front_ids": [
+        "FRONT-03",
+        "FRONT-08",
+        "FRONT-10",
+        "FRONT-11"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_198_Archi_21_30.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-24",
+      "title": "What the Basin Keeps",
+      "volume": 5,
+      "axis": "MONDO_CON_INTERSEZIONE",
+      "alexander_entry": "Può scegliere di seguire un richiamo o una deriva verificata se esiste un motivo e un accesso materiale.",
+      "elias_entry": "Può contribuire a riferimenti o recuperi in base alle capacità effettive, senza possedere la Root.",
+      "contact_carrier_ids": [
+        "CAST-012",
+        "CAST-020",
+        "CAST-082"
+      ],
+      "activation_gate": "Provenienza del richiamo, riserva e accessi si verificano prima del viaggio. Il bacino non si manifesta nella camera del duca per assicurare l’incontro.",
+      "without_meeting": "Chi mantiene i legami cerca risorse secondo il proprio dossier; una nuova predazione richiede iniziativa e mezzi registrati.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-05",
+        "OPCLK-08",
+        "OPCLK-10"
+      ],
+      "front_ids": [
+        "FRONT-05",
+        "FRONT-08",
+        "FRONT-10"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_198_Archi_21_30.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-25",
+      "title": "The People Who Stayed",
+      "volume": 5,
+      "axis": "CONDIVISA_CONDIZIONALE",
+      "alexander_entry": "Rapporti civili e persone effettivamente coinvolte reagiscono agli interventi che ha davvero compiuto.",
+      "elias_entry": "Lo scambio valuta recapiti e sostegni costruiti durante la propria attività, anche senza il PG.",
+      "contact_carrier_ids": [
+        "CAST-003",
+        "CAST-004",
+        "CAST-032",
+        "CAST-072"
+      ],
+      "activation_gate": "Le conseguenze devono derivare da azioni registrate e raggiungere il destinatario tramite persone o notizie reali; nessuna gratitudine collettiva automatica.",
+      "without_meeting": "I due possono restare in luoghi e comunità differenti. Cambiamenti locali e rapporti familiari proseguono senza una riunione obbligatoria.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-02",
+        "OPCLK-06",
+        "OPCLK-11"
+      ],
+      "front_ids": [
+        "FRONT-02",
+        "FRONT-06",
+        "FRONT-11"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_198_Archi_21_30.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-26",
+      "title": "The Unanswered Vessel",
+      "volume": 6,
+      "axis": "ELIAS_CON_INTERSEZIONE",
+      "alexander_entry": "Può riconoscere un fenomeno o scegliere un viaggio dopo aver ricevuto un campione o una misura autentica.",
+      "elias_entry": "Può indagare la sequenza del mezzo solo se ne raggiunge segnali e preparazione compatibile.",
+      "contact_carrier_ids": [
+        "CAST-011",
+        "CAST-080"
+      ],
+      "activation_gate": "Una rotta cosmica esige trasporto, destinazione, protezione e ritorno reali. Il segnale non dà accesso istantaneo, né promuove Elias oltre il rango effettivo.",
+      "without_meeting": "Il Medium emette finché dispone di riserva e i testimoni cercano riscontri; i protagonisti possono studiare parti diverse o non partire.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-05",
+        "OPCLK-07",
+        "OPCLK-09"
+      ],
+      "front_ids": [
+        "FRONT-05",
+        "FRONT-07",
+        "FRONT-09"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_198_Archi_21_30.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-27",
+      "title": "A Garden Between Worlds",
+      "volume": 6,
+      "axis": "ELIAS_O_MONDO",
+      "alexander_entry": "Può interessarsi alla sopravvivenza dell’habitat o alla produzione necessaria se lo raggiunge davvero.",
+      "elias_entry": "Può partecipare al viaggio soltanto con competenze, protezioni e trasporto effettivamente ottenuti.",
+      "contact_carrier_ids": [
+        "CAST-081"
+      ],
+      "activation_gate": "L’habitat non è una stanza di Room Six. Origin non apre un’uscita remota nuova per il solo desiderio di arrivarvi. Si può cominciare da campioni realmente inviati.",
+      "without_meeting": "La custode riduce produzione e cerca composti; nessuna distruzione planetaria viene imposta come conto alla rovescia universale.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-03",
+        "OPCLK-09",
+        "OPCLK-10"
+      ],
+      "front_ids": [
+        "FRONT-03",
+        "FRONT-09",
+        "FRONT-10"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_198_Archi_21_30.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-28",
+      "title": "The Light That Was Built",
+      "volume": 6,
+      "axis": "CONDIVISA_CONDIZIONALE",
+      "alexander_entry": "L’opera stellare appartiene al passato di Edran; il suo stato moderno richiede osservazioni e accessi attuali.",
+      "elias_entry": "Può cercare riferimenti e misure secondo i propri interessi, senza conoscere già l’autore antico.",
+      "contact_carrier_ids": [
+        "CAST-011",
+        "CAST-080"
+      ],
+      "activation_gate": "Per confrontare i risultati servono trasmissione o incontro reale. Il ricordo di avere creato la stella non equivale a sorvegliarla dopo millenni.",
+      "without_meeting": "Custodi e osservatori mantengono infrastrutture e raccolgono dati; le due indagini possono convergere tramite risultati scambiati, senza viaggio congiunto.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-05",
+        "OPCLK-07",
+        "OPCLK-09"
+      ],
+      "front_ids": [
+        "FRONT-05",
+        "FRONT-07",
+        "FRONT-09"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_198_Archi_21_30.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-29",
+      "title": "The Cost of a True Witness",
+      "volume": 6,
+      "axis": "MONDO_CON_INTERSEZIONE",
+      "alexander_entry": "Può consultare una testimonianza se ne ottiene il diritto e se la fonte copre davvero il fatto cercato.",
+      "elias_entry": "Può collaborare a una misura o a un riscontro senza diventare il testimone di fatti che non ha osservato.",
+      "contact_carrier_ids": [
+        "CAST-018",
+        "CAST-025",
+        "CAST-080"
+      ],
+      "activation_gate": "Dichiarare quali dati viaggiano, tramite chi e con quale latenza o limite del mezzo. Un contatto non apre l’intero repertorio del testimone.",
+      "without_meeting": "Gli osservatori difendono fonti e cercano attestazioni indipendenti; un risultato sufficiente chiude la domanda pertinente.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-04",
+        "OPCLK-09",
+        "OPCLK-12"
+      ],
+      "front_ids": [
+        "FRONT-04",
+        "FRONT-09",
+        "FRONT-12"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_198_Archi_21_30.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-30",
+      "title": "An Exchange Beyond the Room",
+      "volume": 6,
+      "axis": "ELIAS_CON_INTERSEZIONE",
+      "alexander_entry": "Può accettare singoli scambi o collegamenti senza assumere la direzione della rete.",
+      "elias_entry": "Decide con gli altri membri reali come ampliare o limitare il gruppo in base all’esperienza accumulata.",
+      "contact_carrier_ids": [
+        "CAST-031",
+        "CAST-032",
+        "CAST-035",
+        "CAST-127"
+      ],
+      "activation_gate": "Occorrono recapiti, fiducia e un mezzo superiore realmente ottenuto. La cerniera III iniziale non diventa un collegamento intercontinentale perché la rete è cresciuta.",
+      "without_meeting": "La rete può restare piccola o frammentarsi; Alexander può incontrare singoli membri fuori dal gruppo o non collaborare.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-01",
+        "OPCLK-05",
+        "OPCLK-12"
+      ],
+      "front_ids": [
+        "FRONT-01",
+        "FRONT-05",
+        "FRONT-12"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_198_Archi_21_30.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-31",
+      "title": "The Seats That Are Not Empty",
+      "volume": 7,
+      "axis": "ALEXANDER",
+      "alexander_entry": "Il recupero delle proprie competenze può portarlo ad accertare titolarità e accessi attuali.",
+      "elias_entry": "Può incontrare questioni analoghe nella propria famiglia, senza acquisire diritti sulle Seats del Sovereign.",
+      "contact_carrier_ids": [
+        "CAST-007",
+        "CAST-008",
+        "CAST-021",
+        "CAST-022"
+      ],
+      "activation_gate": "La situazione moderna si accerta attraverso fonti o diagnosi raggiunte. Nessuno è informato della richiesta di Alexander senza riceverla davvero.",
+      "without_meeting": "I titolari mantengono i propri esercizi. La teoria conosciuta non li rende antagonisti obbligatori o destinati a cedere.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-09",
+        "OPCLK-10"
+      ],
+      "front_ids": [
+        "FRONT-09",
+        "FRONT-10"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_199_Archi_31_40.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-32",
+      "title": "The Beginning Reserved",
+      "volume": 7,
+      "axis": "ALEXANDER",
+      "alexander_entry": "Può lavorare sui due presupposti personali senza dipendere da Elias o dal calendario dei volumi.",
+      "elias_entry": "Può proseguire una linea separata; un eventuale aiuto è una prestazione propria delimitata, non il conferimento dei presupposti al PG.",
+      "contact_carrier_ids": [
+        "CAST-001"
+      ],
+      "activation_gate": "Le procedure 339 e i dati personali regolano la trasformazione. Nessun falso titolare moderno di Cradle o Ruin viene inventato per creare una missione.",
+      "without_meeting": "Il recupero segue le scelte e le condizioni reali di Alexander; l’assenza del deuteragonista non lo blocca.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-10"
+      ],
+      "front_ids": [
+        "FRONT-10"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_199_Archi_31_40.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-33",
+      "title": "The Current Keeper",
+      "volume": 7,
+      "axis": "ELIAS_CON_INTERSEZIONE",
+      "alexander_entry": "Un rapporto antico o un itinerario scelto può dargli motivo di interloquire con il custode, senza decidere il futuro di Elias.",
+      "elias_entry": "Può cercare servizio, apprendimento o accesso in base ai mezzi raggiunti.",
+      "contact_carrier_ids": [
+        "CAST-011",
+        "CAST-024"
+      ],
+      "activation_gate": "Al T0 Helyr non è Continuum completo; una diversa condizione futura richiede fatti realmente avvenuti. Nessuna morte, rinuncia o successione è garantita.",
+      "without_meeting": "Custode e aspirante possono collaborare, contendere, rinunciare o non incontrarsi; la storia di Alexander resta giocabile.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-09"
+      ],
+      "front_ids": [
+        "FRONT-09"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_199_Archi_31_40.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-34",
+      "title": "The Night Does Not Belong to One",
+      "volume": 7,
+      "axis": "MONDO_PARALLELO",
+      "alexander_entry": "Può collaborare o contendere da esterno se raggiunge il problema, senza incorporare Effigi estranee.",
+      "elias_entry": "Può contribuire soltanto tramite una prestazione o un rapporto reale; non eredita poteri dal gruppo.",
+      "contact_carrier_ids": [
+        "CAST-462",
+        "CAST-463"
+      ],
+      "activation_gate": "Due derivazioni e una Root non equivalgono a una integrazione completa. Localizzazione e mezzi d’ingresso devono essere accertati.",
+      "without_meeting": "Le reti notturne possono trovare accordi propri; nessuna loro fusione o guerra viene imposta per richiamare i protagonisti.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-06",
+        "OPCLK-10"
+      ],
+      "front_ids": [
+        "FRONT-06",
+        "FRONT-10"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_199_Archi_31_40.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-35",
+      "title": "A World That Can Leave",
+      "volume": 7,
+      "axis": "CONDIVISA_CONDIZIONALE",
+      "alexander_entry": "Può offrire alternative realmente indipendenti a comunità che abbia raggiunto e scelto di aiutare.",
+      "elias_entry": "Può contribuire a vie, verifiche o scambi secondo capacità e accordi effettivi.",
+      "contact_carrier_ids": [
+        "CAST-008",
+        "CAST-013",
+        "CAST-081"
+      ],
+      "activation_gate": "Il bisogno deve appartenere a persone e supporti realmente presenti. Le prestazioni restano separabili: nessuna dipendenza metafisica viene inventata fra i protagonisti.",
+      "without_meeting": "Le comunità scelgono e cercano altre soluzioni; una liberazione riuscita rimane valida anche se la collaborazione dei due finisce.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-02",
+        "OPCLK-03",
+        "OPCLK-11"
+      ],
+      "front_ids": [
+        "FRONT-02",
+        "FRONT-03",
+        "FRONT-11"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_199_Archi_31_40.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-36",
+      "title": "Those Who Pay for Peace",
+      "volume": 8,
+      "axis": "CONDIVISA_CONDIZIONALE",
+      "alexander_entry": "Gli effetti politici raggiungono i rapporti patrimoniali o pubblici che ha realmente modificato.",
+      "elias_entry": "Le reti di lavoro e scambio reagiscono ai propri costi e alle opportunità effettive.",
+      "contact_carrier_ids": [
+        "CAST-006",
+        "CAST-015",
+        "CAST-016",
+        "CAST-017"
+      ],
+      "activation_gate": "Per negoziare occorrono interlocutori informati e un rapporto pertinente. Non tutti i governanti conoscono l’identità antica o ogni miracolo privato.",
+      "without_meeting": "Le parti possono negoziare separatamente. Il rifiuto del PG non rende inevitabile una guerra mondiale né trasforma un civile in minaccia divina.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-04",
+        "OPCLK-07",
+        "OPCLK-11"
+      ],
+      "front_ids": [
+        "FRONT-04",
+        "FRONT-07",
+        "FRONT-11"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_199_Archi_31_40.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-37",
+      "title": "The Last Borrowed Authority",
+      "volume": 8,
+      "axis": "CONDIVISA_CONDIZIONALE",
+      "alexander_entry": "Può affrontare patti o contese rimasti davvero aperti, con le capacità recuperate fino a quel momento.",
+      "elias_entry": "Può perseguire il proprio accesso o offrire una prestazione senza dover essere già arrivato al vertice.",
+      "contact_carrier_ids": [
+        "CAST-007",
+        "CAST-008",
+        "CAST-011",
+        "CAST-018"
+      ],
+      "activation_gate": "La lista dei titolari e dei fronti va aggiornata dopo ogni esito reale. Un antagonista già sconfitto non riappare e una capacità non recuperata non viene regalata per il finale.",
+      "without_meeting": "Accordi e conflitti possono risolversi separatamente; nessuna alleanza dei due o ultima battaglia è necessaria per chiudere i rapporti effettivi.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-09",
+        "OPCLK-10"
+      ],
+      "front_ids": [
+        "FRONT-09",
+        "FRONT-10"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_199_Archi_31_40.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-38",
+      "title": "The Record After the Verdict",
+      "volume": 8,
+      "axis": "CONDIVISA_CONDIZIONALE",
+      "alexander_entry": "Può scegliere cosa rendere pubblico della propria storia e contestare attribuzioni che abbia davvero ricevuto.",
+      "elias_entry": "Può confrontare testimonianze degli eventi conosciuti senza scrivere come testimone di quelli ignoti.",
+      "contact_carrier_ids": [
+        "CAST-006",
+        "CAST-018",
+        "CAST-032",
+        "CAST-072"
+      ],
+      "activation_gate": "Le cronache devono avere fonti e destinatari. L’identità di Edran non diventa pubblica perché la wiki la contiene.",
+      "without_meeting": "Cronache differenti possono restare separate; la leggenda non modifica i fatti giocati o costringe i protagonisti a una versione comune.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-04",
+        "OPCLK-08",
+        "OPCLK-12"
+      ],
+      "front_ids": [
+        "FRONT-04",
+        "FRONT-08",
+        "FRONT-12"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_199_Archi_31_40.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-39",
+      "title": "The Door Left Unlocked",
+      "volume": 8,
+      "axis": "ELIAS_CON_INTERSEZIONE",
+      "alexander_entry": "Può decidere del proprio rapporto al gruppo soltanto se vi è davvero entrato o ha assunto accordi con membri reali.",
+      "elias_entry": "Con gli effettivi partecipanti decide se mantenere, trasferire o chiudere lo scambio.",
+      "contact_carrier_ids": [
+        "CAST-031",
+        "CAST-032",
+        "CAST-035",
+        "CAST-127"
+      ],
+      "activation_gate": "Nessuna seduta finale è obbligatoria. Se Alexander non ha mai aderito, non viene trattato come fondatore dimissionario o convocato per chiudere l’arco.",
+      "without_meeting": "Il gruppo può proseguire o cessare indipendentemente dal PG, conservando effetti e obblighi civili realmente prodotti.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-01",
+        "OPCLK-06",
+        "OPCLK-12"
+      ],
+      "front_ids": [
+        "FRONT-01",
+        "FRONT-06",
+        "FRONT-12"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_199_Archi_31_40.md",
+      "actor_reference_is_current_location": false
+    },
+    {
+      "arc_id": "ARC-40",
+      "title": "The First and the Last",
+      "volume": 8,
+      "axis": "ESITO_APERTO",
+      "alexander_entry": "Il culmine riguarda una decisione ancora pertinente alla propria linea, con poteri e rapporti realmente disponibili.",
+      "elias_entry": "Il suo esito dipende dalla storia effettivamente vissuta, non dal bisogno di completare la figura del protagonista letterario.",
+      "contact_carrier_ids": [
+        "CAST-001",
+        "CAST-002"
+      ],
+      "activation_gate": "Non si presume presenza comune, sopravvivenza di entrambi o raggiungimento di Sovereign/Continuum. Se la contesa è già risolta, il culmine riguarda le conseguenze.",
+      "without_meeting": "Sono possibili conclusioni separate, cooperative o conflittuali. Il Narratore non aggiunge un nemico finale o una convocazione per unire ciò che la partita ha separato.",
+      "calendar_references": [],
+      "front_calendar_references": [
+        "OPCLK-09",
+        "OPCLK-10"
+      ],
+      "front_ids": [
+        "FRONT-09",
+        "FRONT-10"
+      ],
+      "contact_state": "NOT_SENT_NOT_OCCURRED",
+      "simultaneous_presence_required": false,
+      "automatic_identity_disclosure": false,
+      "automatic_advancement": false,
+      "source_arc": "RISERVATO_199_Archi_31_40.md",
+      "actor_reference_is_current_location": false
+    }
+  ],
+  "counts": {
+    "volumes": 8,
+    "arcs": 40,
+    "chapter_budget": 1600
+  },
+  "invariants": {
+    "initial_identities_unchanged": true,
+    "past_truths_unchanged": true,
+    "meetings_mandatory": false,
+    "club_membership_mandatory": false,
+    "new_actors": 0,
+    "new_roots": 0,
+    "automatic_advancement": false,
+    "already_played_events_added": 0
+  },
+  "source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md",
+  "scope": "Causal links between the two lines; not certification of every future timeline or the entire world."
+}

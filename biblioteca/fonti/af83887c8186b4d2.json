@@ -1,0 +1,356 @@
+{
+  "revision": "347",
+  "name": "Ducato di Rovenne",
+  "state": "Orsanne",
+  "duke_id": "CAST-001",
+  "area_km2": 16400,
+  "population_810": 1200000,
+  "administrative_capital": "LOC-001",
+  "dynastic_seat": "LOC-002",
+  "cities": 5,
+  "boroughs": 24,
+  "villages": 312,
+  "urban_population": 510000,
+  "borough_population": 90000,
+  "village_population": 238000,
+  "dispersed_population": 362000,
+  "private_estate_km2": 184,
+  "districts": [
+    {
+      "id": "ROV-D01",
+      "name": "Distretto civico di Lethorne",
+      "kind": "distretto diretto",
+      "area": 3200,
+      "population": 580000,
+      "capital": "Lethorne",
+      "urban": 430000,
+      "holder": "Alexander Valcienne",
+      "holder_id": "CAST-001",
+      "description": "Città industriale a carta propria, comuni di cintura, officine e pianura del Leth. Il municipio governa la città; il duca presiede il livello territoriale comune.",
+      "xy": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "ROV-D02",
+      "name": "Distretto ducale di Rovenne",
+      "kind": "distretto diretto",
+      "area": 2450,
+      "population": 138000,
+      "capital": "Rovenne",
+      "urban": 3800,
+      "holder": "Alexander Valcienne",
+      "holder_id": "CAST-001",
+      "description": "Sede dinastica, campagne orientali vicine a Lethorne, mulini e derivazioni. La residenza ducale e l’ufficio privato non sono l’intera amministrazione del distretto.",
+      "xy": [
+        20,
+        0
+      ]
+    },
+    {
+      "id": "ROV-D03",
+      "name": "Contea di Belcour",
+      "kind": "contea",
+      "area": 2600,
+      "population": 148000,
+      "capital": "Belcour",
+      "urban": 26000,
+      "holder": "Armand Belcour",
+      "holder_id": "CAST-465",
+      "description": "Pianure a sud-ovest di Lethorne, derivazioni irrigue, lino, orti e strade di approvvigionamento. Il conte conserva residenza cittadina e affari a Lethorne.",
+      "xy": [
+        -30,
+        -30
+      ]
+    },
+    {
+      "id": "ROV-D04",
+      "name": "Contea di Vernay",
+      "kind": "contea",
+      "area": 2850,
+      "population": 126000,
+      "capital": "Vernay",
+      "urban": 22000,
+      "holder": "Vincent Vernier",
+      "holder_id": "CAST-498",
+      "description": "Campagne meridionali, allevamento e mulini secondari; manutenzioni e terreni confinanti con lotti Valcienne. Leon è l’erede del conte, non un duca rivale.",
+      "xy": [
+        22,
+        -38
+      ]
+    },
+    {
+      "id": "ROV-D05",
+      "name": "Contea di Rochebrune",
+      "kind": "contea",
+      "area": 2750,
+      "population": 112000,
+      "capital": "Rochebrune",
+      "urban": 18000,
+      "holder": "Madeleine Rochebrune",
+      "holder_id": "CAST-499",
+      "description": "Colline sud-orientali, cave di pietra, boschi e fornaci. Non comprende il centro carbonifero di Deren né il passo di Sarn.",
+      "xy": [
+        74,
+        -34
+      ]
+    },
+    {
+      "id": "ROV-D06",
+      "name": "Contea di Aubrecourt",
+      "kind": "contea",
+      "area": 2550,
+      "population": 96000,
+      "capital": "Aubrecourt",
+      "urban": 14000,
+      "holder": "Clara Aubrecourt",
+      "holder_id": "CAST-500",
+      "description": "Terrazze nord-orientali, frutteti, pascoli e lavorazione del legname. Le strade raccordano i mercati interni senza inglobare Ossen Reach.",
+      "xy": [
+        78,
+        22
+      ]
+    }
+  ],
+  "baronies": [
+    {
+      "id": "ROV-B01",
+      "district_id": "ROV-D01",
+      "name": "Pontel",
+      "holder": "Adrien Pontel",
+      "holder_id": "CAST-501",
+      "area": 280,
+      "population_origin": "Umano",
+      "function": "Ponte e mercato di transito",
+      "tension": "Vuole ripartire il costo del ponte anche fra i trasportatori; teme che il municipio addossi tutto alle campagne."
+    },
+    {
+      "id": "ROV-B02",
+      "district_id": "ROV-D01",
+      "name": "Les Ormes",
+      "holder": "Elise Desormes",
+      "holder_id": "CAST-502",
+      "area": 330,
+      "population_origin": "Umano",
+      "function": "Orticoltura della cintura urbana",
+      "tension": "Chiede canali potabili distinti dagli scarichi industriali; teme di perdere raccolti prima che una perizia produca effetti."
+    },
+    {
+      "id": "ROV-B03",
+      "district_id": "ROV-D01",
+      "name": "Riveclaire",
+      "holder": "Soren Vask",
+      "holder_id": "CAST-503",
+      "area": 290,
+      "population_origin": "Serekh",
+      "function": "Approdi e manutenzione delle rive",
+      "tension": "Difende accessi compatibili con i residenti Serekh; contesta un dragaggio che favorisce i carichi e danneggia le sponde."
+    },
+    {
+      "id": "ROV-B04",
+      "district_id": "ROV-D02",
+      "name": "Montfaucon",
+      "holder": "Henri Montfaucon",
+      "holder_id": "CAST-504",
+      "area": 410,
+      "population_origin": "Umano",
+      "function": "Boschi e strada delle alture",
+      "tension": "Vuole commesse di legname senza esaurire i tagli futuri; si oppone a prelievi straordinari non compensati."
+    },
+    {
+      "id": "ROV-B05",
+      "district_id": "ROV-D02",
+      "name": "Briselles",
+      "holder": "Louise Briselles",
+      "holder_id": "CAST-505",
+      "area": 370,
+      "population_origin": "Umano",
+      "function": "Pascoli e manutenzione delle derivazioni",
+      "tension": "Chiede che l’acqua destinata ai mulini lasci un servizio affidabile agli allevamenti."
+    },
+    {
+      "id": "ROV-B06",
+      "district_id": "ROV-D02",
+      "name": "La Varenne",
+      "holder": "Marcel Ravelle",
+      "holder_id": "CAST-506",
+      "area": 400,
+      "population_origin": "Umano",
+      "function": "Tenute della casa Ravelle",
+      "tension": "Vuole conservare il prestigio della casa e trovare un ruolo al secondogenito Etienne senza subordinare il primogenito a una promessa ducale."
+    },
+    {
+      "id": "ROV-B07",
+      "district_id": "ROV-D03",
+      "name": "Bellive",
+      "holder": "Gaspard Bellive",
+      "holder_id": "CAST-507",
+      "area": 460,
+      "population_origin": "Umano",
+      "function": "Lino e lavatoi",
+      "tension": "Difende la fornitura d’acqua nei periodi di punta; una chiusura di manutenzione danneggia lavoratori e contratti."
+    },
+    {
+      "id": "ROV-B08",
+      "district_id": "ROV-D03",
+      "name": "Fontenac",
+      "holder": "Margot Fontenac",
+      "holder_id": "CAST-508",
+      "area": 430,
+      "population_origin": "Umano",
+      "function": "Sorgenti, condotte e diritti d’accesso",
+      "tension": "Vuole riconoscimento di costi effettivi, ma deve accettare verifiche sugli usi dichiarati."
+    },
+    {
+      "id": "ROV-B09",
+      "district_id": "ROV-D03",
+      "name": "Saulnes",
+      "holder": "Olivier Saulnes",
+      "holder_id": "CAST-509",
+      "area": 480,
+      "population_origin": "Umano",
+      "function": "Cereali e mercati rurali",
+      "tension": "Chiede depositi asciutti e pesa pubblica; contrasta tariffe che sposterebbero il mercato altrove."
+    },
+    {
+      "id": "ROV-B10",
+      "district_id": "ROV-D04",
+      "name": "Vernelles",
+      "holder": "Paul Vernelles",
+      "holder_id": "CAST-510",
+      "area": 520,
+      "population_origin": "Umano",
+      "function": "Allevamento e fiere",
+      "tension": "Vuole una strada praticabile per le mandrie; rifiuta che il suo territorio paghi da solo una via usata da tutta la contea."
+    },
+    {
+      "id": "ROV-B11",
+      "district_id": "ROV-D04",
+      "name": "Cressan",
+      "holder": "Diane Cressan",
+      "holder_id": "CAST-511",
+      "area": 440,
+      "population_origin": "Umano",
+      "function": "Mulini secondari e canali",
+      "tension": "Propone manutenzione coordinata, temendo che i mulini maggiori assorbano personale e portate."
+    },
+    {
+      "id": "ROV-B12",
+      "district_id": "ROV-D04",
+      "name": "Montreval",
+      "holder": "Jules Montreval",
+      "holder_id": "CAST-512",
+      "area": 490,
+      "population_origin": "Umano",
+      "function": "Vigneti collinari e carri",
+      "tension": "Vuole un raccordo al mercato, senza cedere gratuitamente la fascia di passaggio."
+    },
+    {
+      "id": "ROV-B13",
+      "district_id": "ROV-D05",
+      "name": "Pierrefend",
+      "holder": "Arvek Thol",
+      "holder_id": "CAST-513",
+      "area": 560,
+      "population_origin": "Ossari",
+      "function": "Cave di pietra e maestranze Ossari",
+      "tension": "Difende una filiera con materiali adatti ai lavoratori; rifiuta consegne urgenti che renderebbero insicuri i tagli."
+    },
+    {
+      "id": "ROV-B14",
+      "district_id": "ROV-D05",
+      "name": "Orbrune",
+      "holder": "Cecile Orbrune",
+      "holder_id": "CAST-514",
+      "area": 470,
+      "population_origin": "Umano",
+      "function": "Fornaci e combustibile",
+      "tension": "Chiede contratti lunghi per il legname; viene contestata per il fumo che raggiunge i comuni vicini."
+    },
+    {
+      "id": "ROV-B15",
+      "district_id": "ROV-D05",
+      "name": "Valgrise",
+      "holder": "Remy Valgrise",
+      "holder_id": "CAST-515",
+      "area": 470,
+      "population_origin": "Umano",
+      "function": "Strada di collina e piazzole di cava",
+      "tension": "Vuole consolidare una scarpata prima di ampliare il traffico, anche a costo di rinviare commesse ducali."
+    },
+    {
+      "id": "ROV-B16",
+      "district_id": "ROV-D06",
+      "name": "Aubremont",
+      "holder": "Noemie Aubremont",
+      "holder_id": "CAST-516",
+      "area": 450,
+      "population_origin": "Umano",
+      "function": "Frutteti e trasporti stagionali",
+      "tension": "Vuole carri disponibili alla raccolta; teme che una priorità industriale renda invendibile parte del prodotto."
+    },
+    {
+      "id": "ROV-B17",
+      "district_id": "ROV-D06",
+      "name": "Clairbois",
+      "holder": "Pascal Clairbois",
+      "holder_id": "CAST-517",
+      "area": 430,
+      "population_origin": "Umano",
+      "function": "Boschi e segherie",
+      "tension": "Difende rotazioni di taglio e nuove piantagioni; contesta un contratto che premia soltanto il volume immediato."
+    },
+    {
+      "id": "ROV-B18",
+      "district_id": "ROV-D06",
+      "name": "Roseraie",
+      "holder": "Ines Roseraie",
+      "holder_id": "CAST-518",
+      "area": 470,
+      "population_origin": "Umano",
+      "function": "Vivai, colture e mercato locale",
+      "tension": "Vuole un mercato stabile con pesi certificati; rifiuta che il favore personale del duca sostituisca una convenzione scritta."
+    }
+  ],
+  "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+  "rules": "Statuto territoriale costituzionale, proprietà e bilanci distinti",
+  "marriage": {
+    "count_id": "CAST-465",
+    "fiancee_id": "CAST-464",
+    "territorial_subordination": true,
+    "marriage_completed": false,
+    "duchy_ownership_transferred": false
+  },
+  "new_actor_ids": [
+    "CAST-498",
+    "CAST-499",
+    "CAST-500",
+    "CAST-501",
+    "CAST-502",
+    "CAST-503",
+    "CAST-504",
+    "CAST-505",
+    "CAST-506",
+    "CAST-507",
+    "CAST-508",
+    "CAST-509",
+    "CAST-510",
+    "CAST-511",
+    "CAST-512",
+    "CAST-513",
+    "CAST-514",
+    "CAST-515",
+    "CAST-516",
+    "CAST-517",
+    "CAST-518"
+  ],
+  "new_city_ids": [
+    "LOC-064",
+    "LOC-065",
+    "LOC-066",
+    "LOC-067"
+  ],
+  "published": false,
+  "zip_created": false
+}

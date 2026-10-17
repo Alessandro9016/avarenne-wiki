@@ -749,11 +749,14 @@
     "GIOCATORE_128_Valcienne_patrimonio_e_rete_conosciuta.md",
     "GIOCATORE_129_Vita_quotidiana_lingue_e_estetica.md",
     "GIOCATORE_130_Confini_del_sapere_sociale.md",
-    "GIOCATORE_139_Audit_sociale_e_livelli_di_impatto.md"
+    "GIOCATORE_139_Audit_sociale_e_livelli_di_impatto.md",
+    "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md"
   ],
   "power_rules": "23 Effigi e 161 denominazioni approvate; una Effige personale è la norma, aggiunte nella stessa famiglia sono eccezioni rischiose, incorporazione personale esterna alla famiglia incompatibile. Rango e addestramento individuali restano necessari.",
   "integration_revision": "RACCORDI-317",
   "world_integration_source": "GIOCATORE_174_Culti_notturni_e_pratiche_pubbliche.md",
   "population_revision": "POP-298",
-  "raccordo_revision": "RACCORDI-317"
+  "raccordo_revision": "RACCORDI-317",
+  "territorial_revision": "347",
+  "duchy_source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md"
 }

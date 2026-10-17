@@ -1,0 +1,40 @@
+{
+  "revision": 345,
+  "approved_direction": "imposizione della volontà, assenso vissuto come proprio e governo collettivo",
+  "changed_ability_ids": [
+    "EFF-03-I-M03",
+    "EFF-03-II-M03",
+    "EFF-03-III-M03",
+    "EFF-03-IV-M03",
+    "EFF-03-V-M03",
+    "EFF-03-VI-M03",
+    "EFF-03-VII-M03"
+  ],
+  "changed_abilities": 7,
+  "unchanged_abilities": 588,
+  "examples_updated": 21,
+  "total_abilities": 595,
+  "total_examples": 1785,
+  "other_authorities_unchanged": true,
+  "stage_promotions": false,
+  "new_seats": false,
+  "zip_created": false,
+  "published": false,
+  "progressions_sha256": "4aa7a711b43f5b166fdd784736a09cf9ce2b240b99a03009262d5da601365b15",
+  "verification": {
+    "ability_changes_exactly_seven": true,
+    "other_588_abilities_identical": true,
+    "other_588_example_records_identical": true,
+    "will_examples": 21,
+    "protagonist_available_will_stages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "progression_tests_updated": 7,
+    "wiki_pages_checked": 1129,
+    "wiki_references_checked": 93864,
+    "wiki_link_errors": []
+  }
+}

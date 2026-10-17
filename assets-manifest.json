@@ -4945,5 +4945,13 @@
     "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/The_First_Testament/01_The_First_Testament_rappresentazione_interiore_v1.png",
     "source_sha256": "283fa7941fd10aedb63efe08f083440da320190a32b5e9ef9010a06f64e42bb4",
     "status": "RAPPRESENTAZIONE_COGNITIVA_ILLUSTRATIVA"
+  },
+  {
+    "src": "assets/peo-01-ardai-cultura-348.webp",
+    "caption": "Ardai — cultura umana delle officine e dei bacini; figure illustrative",
+    "original": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\GIOCATORE\\IMMAGINI\\POPOLAZIONI\\Ardai\\Ardai_cultura_umana_v1.png",
+    "id": "PEO-01",
+    "source_sha256": "590e91431bff01325829b18ce716fbff7ba65ff0b4d672c762095ab90f5347af",
+    "revision": "348"
   }
 ]

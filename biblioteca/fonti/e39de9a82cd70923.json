@@ -268,5 +268,12 @@
     "source": "177_Revisione_dei_rami_autonomi_23_Effigi.md"
   },
   "integration_revision": "RACCORDI-317",
-  "effigy_progressions_approval": "APPROVED_CONSOLIDATED_316"
+  "effigy_progressions_approval": "APPROVED_CONSOLIDATED_316",
+  "advancement_operational_revision": 339,
+  "first_acquisition_guide": "339_Prima_acquisizione_e_avanzamento.md",
+  "specific_advancement_procedures": "CANONE_VIGENTE/Procedure_avanzamento_339.json",
+  "target_ability_required_before_advancement": false,
+  "first_effigy_requires_root": false,
+  "occupied_seat_blocks_lower_stages": false,
+  "temporary_charge_is_personal_inscription": false
 }

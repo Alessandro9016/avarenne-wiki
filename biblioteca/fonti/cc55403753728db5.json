@@ -2953,41 +2953,42 @@
       "operations": [
         {
           "stage": "I",
-          "name": "Directed Attention",
-          "operation": "Un significato raggiunto orienta l'attenzione: il destinatario considera una proposta invece di ignorarla."
+          "name": "Imperative Assent",
+          "operation": "Impone una singola intenzione immediata e comprensibile al destinatario raggiunto. Se prevale, «posa la chiave» diventa la sua decisione di posarla, non un consiglio che può semplicemente ignorare né un movimento comandato dall’esterno. Può imporre anche una scelta attentiva come «guardami», ma la salienza non è il limite del ramo. La decisione è vissuta senza un marcatore soggettivo necessario di estraneità; la vittima può ritenerla propria."
         },
         {
           "stage": "II",
-          "name": "Chosen Impulse",
-          "operation": "Introduce un'intenzione semplice: avvicinarsi o interrompere un gesto, contendendo deliberazione."
+          "name": "Inscribed Imperative",
+          "operation": "Deposita un imperativo di Will in un messaggio scritto o altro supporto semantico autenticamente investito, con quota e condizione di ricezione definite. Il comando viene esercitato quando il significato predisposto raggiunge una coscienza valida, anche senza una nuova direzione cosciente del Bearer. È la ricezione della volontà imposta, non la lettura ordinaria di una frase, a produrre l’obbedienza."
         },
         {
           "stage": "III",
-          "name": "Internalized Assent",
-          "operation": "L'intenzione viene assimilata come propria nella misura prevalente: indossare qualcosa sembra una buona idea, senza intera biografia riscritta."
+          "name": "Deliberative Mandate",
+          "operation": "Impone un obiettivo o un criterio di deliberazione continuato, invece di una sola scelta immediata. Il destinatario usa le proprie conoscenze e facoltà per scegliere i mezzi coerenti con la volontà ricevuta, vivendola come proprio proposito finché il mandato prevale. Può rispondere a situazioni comprese nell’incarico senza un nuovo ordine per ogni gesto. Non riceve una seconda coscienza o un’intelligenza presa in prestito."
         },
         {
           "stage": "IV",
-          "name": "Intent Dissociation",
-          "operation": "Separa l’esecuzione di una deliberazione raggiunta dal motivo che la sosteneva, mantenendo contendibile la scelta successiva."
+          "name": "Volitional Interdict",
+          "operation": "Impone un divieto deliberativo selettivo: una volontà raggiunta non può usare un motivo preso per decidere oppure non può richiamare volontariamente un ricordo specifico effettivamente raggiunto. Può disgiungere un’intenzione imposta o intrusiva dal suo impiego nella deliberazione, senza cancellare la persona. Il destinatario non sceglie semplicemente di mentire e non deve riconoscere l’origine magica del blocco."
         },
         {
           "stage": "V",
           "name": "Assent Partition",
-          "operation": "Separa l’assenso a parti di un’intenzione composta senza cancellare l’intera deliberazione."
+          "operation": "Scompone una deliberazione composta in assensi e propositi distinguibili e impone quali restano operativi, quali vengono esclusi e quale priorità devono rispettare, conservando la stessa persona. Può prendere selettivamente un segmento del volere senza assoggettare ogni altra scelta. Non compartimenta ricordi in stanze mentali né pilota organi."
         },
         {
           "stage": "VI",
           "name": "Intent Transmission",
-          "operation": "Un’intenzione investita ricevuta può essere veicolata attraverso un secondo interlocutore senza trasferire la sua coscienza."
+          "operation": "Conferisce a un significato investito ricevuto la capacità di veicolare l’imposizione attraverso un secondo interlocutore o messaggio autenticamente raccordato. La catena trasmette una volontà delimitata, non la coscienza del Bearer: ogni nuovo destinatario riceve il comando, lo vive senza un avviso soggettivo necessario e oppone la propria resistenza. Il portatore può servirsi della comunicazione dei vettori senza presenziare a ogni passaggio."
         },
         {
           "stage": "VII",
-          "name": "Deliberative Severance",
-          "operation": "Separa un impulso intrusivo dalla deliberazione che lo aveva assimilato, oppure contende il rapporto che consente di riconoscerlo come estraneo."
+          "name": "Collective Volition",
+          "operation": "Costituisce e governa una struttura di volontà imposta condivisa fra coscienze effettivamente raggiunte: un principio deliberativo comune viene assunto come proprio dai partecipanti e regola le loro decisioni anche nel rapporto reciproco. Non deve impartire separatamente ogni microordine: i soggetti scelgono mezzi differenti secondo le proprie facoltà ma subordinano l’assenso alla volontà collettiva esercitata. Può sostituire o recidere l’imperativo dominante della struttura presa e liberarne le componenti separabili. È dominio della deliberazione collettiva, anche non coscientemente riconosciuto, non creazione di uno spazio mentale condiviso o lettura di tutti i pensieri."
         }
       ],
-      "boundary": "Influenza assenso e intenzione; non sostituisce memorie, sogni e architettura mentale Labyrinth."
+      "boundary": "Occorrono una coscienza capace di deliberare, un significato effettivamente ricevuto e un accesso valido. Attivazione deliberata: le conversazioni ordinarie del Bearer non comandano per accidente. Rango, fonte, difese della volontà, profondità, durata, conflitto dell’ordine e numero di destinatari determinano la contesa; se l’imposizione prevale, la vittima non conserva un veto automatico solo perché prima non voleva eseguire. Ordini pericolosi o contrari ai valori non hanno un’immunità morale universale: la loro difficoltà appartiene alla contesa. L’azione deve restare materialmente eseguibile e non acquisisce abilità ignote; un corpo immobilizzato può voler camminare senza riuscirci. Non legge pensieri o ricordi, non ricrea il passato, non impone emozioni di attrazione e non pilota direttamente i muscoli. Resistenza e scoperta sono distinte: si può resistere o fallire la resistenza senza capire chi abbia agito. Il comando non rivela al Bearer informazioni private non altrimenti raggiunte. Il venir meno dell’investimento termina il vincolo sostenuto; ricordi degli atti compiuti, conseguenze e prove esterne restano.",
+      "will_revision": 345
     },
     {
       "effigy": "Halo",
@@ -6353,5 +6354,7 @@
   "semantic_check": "Giudizio editoriale umano-assistito; l’unicità dei nomi non dimostra da sola distinzione o bilanciamento.",
   "status": "SUPERSEDED",
   "current_successor": "Verifica_rami_autonomi_23.json",
-  "historical_only": true
+  "historical_only": true,
+  "will_revision": 345,
+  "historical_changes_note": "La lista changes conserva le revisioni anteriori; per Will prevalgono authority_reviews aggiornate e la revisione 345."
 }

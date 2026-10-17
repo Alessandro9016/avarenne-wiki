@@ -1,0 +1,1668 @@
+{
+  "revision": "348",
+  "required_files_missing": [],
+  "source_count": 864,
+  "source_original_drift": [],
+  "raw_source_hash_errors": [],
+  "local_file_reference_errors": [],
+  "raster_images_verified": 735,
+  "image_errors": [],
+  "registered_images": 705,
+  "missing_originals": [],
+  "original_hash_errors": [],
+  "registered_assets_not_rendered": [
+    "assets/room-six-veduta-330.webp",
+    "assets/alexander-incontri-riservati-330.webp",
+    "assets/room-six-veduta-331.webp",
+    "assets/room-six-alcove-332.webp",
+    "assets/room-six-pianta-332.webp"
+  ],
+  "original_unique_path_count": 705,
+  "original_bytes": 1904955774,
+  "wiki_bytes": 294139261,
+  "source_additions": [
+    "GIOCATORE_213_Avvio_e_conoscenze_da_rivedere.md",
+    "GIOCATORE_308_Proposta_nomi_stadi_Sovereign.md",
+    "GIOCATORE_309_Proposta_nomi_stadi_Worldforge.md",
+    "GIOCATORE_310_Proposta_nomi_stadi_Continuum.md",
+    "GIOCATORE_311_Proposta_nomi_stadi_Dominion.md",
+    "GIOCATORE_312_Proposta_nomi_stadi_Witness.md",
+    "GIOCATORE_313_Proposta_nomi_stadi_Manyfold.md",
+    "GIOCATORE_314_Proposta_nomi_stadi_Last_Hunger.md",
+    "GIOCATORE_315_Proposta_nomi_stadi_Nocturne.md",
+    "RISERVATO_180_Audit_integrazione_1_10.md",
+    "RISERVATO_206_Audit_editoriale_della_trama.md",
+    "RISERVATO_230_Censimento_gerarchico_organizzazioni.md",
+    "RISERVATO_31_Vincoli_autoriali_della_nuova_architettura.md",
+    "CANONE_VIGENTE/Room_Six_riservatezza_331.json"
+  ],
+  "handoff_sources_refreshed": [
+    "AVVIO_NARRATORE/DOSSIER_ALEXANDER_EDRAN.txt",
+    "AVVIO_NARRATORE/PROTOCOLLO_NARRATORE_AVARENNE.txt"
+  ],
+  "unillustrated_entities": [
+    {
+      "id": "CAST-037",
+      "title": "Vara Oss",
+      "kind": "Personaggi",
+      "url": "cast-037-vara-oss.html"
+    },
+    {
+      "id": "CAST-038",
+      "title": "Ceth Aran",
+      "kind": "Personaggi",
+      "url": "cast-038-ceth-aran.html"
+    },
+    {
+      "id": "CAST-040",
+      "title": "Nereth Aul",
+      "kind": "Personaggi",
+      "url": "cast-040-nereth-aul.html"
+    },
+    {
+      "id": "CAST-043",
+      "title": "Thalen Reth",
+      "kind": "Personaggi",
+      "url": "cast-043-thalen-reth.html"
+    },
+    {
+      "id": "CAST-044",
+      "title": "Sethra Il",
+      "kind": "Personaggi",
+      "url": "cast-044-sethra-il.html"
+    },
+    {
+      "id": "CAST-045",
+      "title": "Elsen Var",
+      "kind": "Personaggi",
+      "url": "cast-045-elsen-var.html"
+    },
+    {
+      "id": "CAST-046",
+      "title": "Rava Thenn",
+      "kind": "Personaggi",
+      "url": "cast-046-rava-thenn.html"
+    },
+    {
+      "id": "CAST-047",
+      "title": "Aven Sere",
+      "kind": "Personaggi",
+      "url": "cast-047-aven-sere.html"
+    },
+    {
+      "id": "CAST-048",
+      "title": "Meren Pell",
+      "kind": "Personaggi",
+      "url": "cast-048-meren-pell.html"
+    },
+    {
+      "id": "CAST-049",
+      "title": "Theral En",
+      "kind": "Personaggi",
+      "url": "cast-049-theral-en.html"
+    },
+    {
+      "id": "CAST-050",
+      "title": "Vesra Il",
+      "kind": "Personaggi",
+      "url": "cast-050-vesra-il.html"
+    },
+    {
+      "id": "CAST-051",
+      "title": "Sovan Reth",
+      "kind": "Personaggi",
+      "url": "cast-051-sovan-reth.html"
+    },
+    {
+      "id": "CAST-052",
+      "title": "Neva Orr",
+      "kind": "Personaggi",
+      "url": "cast-052-neva-orr.html"
+    },
+    {
+      "id": "CAST-053",
+      "title": "Dalren Vey",
+      "kind": "Personaggi",
+      "url": "cast-053-dalren-vey.html"
+    },
+    {
+      "id": "CAST-054",
+      "title": "Thessar Un",
+      "kind": "Personaggi",
+      "url": "cast-054-thessar-un.html"
+    },
+    {
+      "id": "CAST-055",
+      "title": "Aveth Raan",
+      "kind": "Personaggi",
+      "url": "cast-055-aveth-raan.html"
+    },
+    {
+      "id": "CAST-056",
+      "title": "Ysil Tal",
+      "kind": "Personaggi",
+      "url": "cast-056-ysil-tal.html"
+    },
+    {
+      "id": "CAST-057",
+      "title": "Iresh Morn",
+      "kind": "Personaggi",
+      "url": "cast-057-iresh-morn.html"
+    },
+    {
+      "id": "CAST-058",
+      "title": "Selvan Thir",
+      "kind": "Personaggi",
+      "url": "cast-058-selvan-thir.html"
+    },
+    {
+      "id": "CAST-059",
+      "title": "Ashal Ven",
+      "kind": "Personaggi",
+      "url": "cast-059-ashal-ven.html"
+    },
+    {
+      "id": "CAST-060",
+      "title": "Veyreth Sar",
+      "kind": "Personaggi",
+      "url": "cast-060-veyreth-sar.html"
+    },
+    {
+      "id": "CAST-061",
+      "title": "Hareth Ul",
+      "kind": "Personaggi",
+      "url": "cast-061-hareth-ul.html"
+    },
+    {
+      "id": "CAST-062",
+      "title": "Meran Oss",
+      "kind": "Personaggi",
+      "url": "cast-062-meran-oss.html"
+    },
+    {
+      "id": "CAST-063",
+      "title": "Thera Iven",
+      "kind": "Personaggi",
+      "url": "cast-063-thera-iven.html"
+    },
+    {
+      "id": "CAST-064",
+      "title": "Ossen Var",
+      "kind": "Personaggi",
+      "url": "cast-064-ossen-var.html"
+    },
+    {
+      "id": "CAST-065",
+      "title": "Elyra Sath",
+      "kind": "Personaggi",
+      "url": "cast-065-elyra-sath.html"
+    },
+    {
+      "id": "CAST-066",
+      "title": "Ash Velren",
+      "kind": "Personaggi",
+      "url": "cast-066-ash-velren.html"
+    },
+    {
+      "id": "CAST-067",
+      "title": "Lucien Valcienne",
+      "kind": "Personaggi",
+      "url": "cast-067-lucien-valcienne.html"
+    },
+    {
+      "id": "CAST-068",
+      "title": "Eliane Ardel",
+      "kind": "Personaggi",
+      "url": "cast-068-eliane-ardel.html"
+    },
+    {
+      "id": "CAST-125",
+      "title": "Mara Veyne",
+      "kind": "Personaggi",
+      "url": "cast-125-mara-veyne.html"
+    },
+    {
+      "id": "CAST-198",
+      "title": "Yann Orvan",
+      "kind": "Personaggi",
+      "url": "cast-198-yann-orvan.html"
+    },
+    {
+      "id": "CAST-199",
+      "title": "Jora Bessrel",
+      "kind": "Personaggi",
+      "url": "cast-199-jora-bessrel.html"
+    },
+    {
+      "id": "CAST-200",
+      "title": "Varek Lureth",
+      "kind": "Personaggi",
+      "url": "cast-200-varek-lureth.html"
+    },
+    {
+      "id": "CAST-202",
+      "title": "Ophie Irenel",
+      "kind": "Personaggi",
+      "url": "cast-202-ophie-irenel.html"
+    },
+    {
+      "id": "CAST-203",
+      "title": "Zelia Varden",
+      "kind": "Personaggi",
+      "url": "cast-203-zelia-varden.html"
+    },
+    {
+      "id": "CAST-204",
+      "title": "Korin Farel",
+      "kind": "Personaggi",
+      "url": "cast-204-korin-farel.html"
+    },
+    {
+      "id": "CAST-205",
+      "title": "Wena Saven",
+      "kind": "Personaggi",
+      "url": "cast-205-wena-saven.html"
+    },
+    {
+      "id": "CAST-207",
+      "title": "Pascal Perven",
+      "kind": "Personaggi",
+      "url": "cast-207-pascal-perven.html"
+    },
+    {
+      "id": "CAST-208",
+      "title": "Arlen Cadrin",
+      "kind": "Personaggi",
+      "url": "cast-208-arlen-cadrin.html"
+    },
+    {
+      "id": "CAST-209",
+      "title": "Lessa Mouren",
+      "kind": "Personaggi",
+      "url": "cast-209-lessa-mouren.html"
+    },
+    {
+      "id": "CAST-210",
+      "title": "Yorin Zorrel",
+      "kind": "Personaggi",
+      "url": "cast-210-yorin-zorrel.html"
+    },
+    {
+      "id": "CAST-212",
+      "title": "Quentin Welren",
+      "kind": "Personaggi",
+      "url": "cast-212-quentin-welren.html"
+    },
+    {
+      "id": "CAST-213",
+      "title": "Brina Guerin",
+      "kind": "Personaggi",
+      "url": "cast-213-brina-guerin.html"
+    },
+    {
+      "id": "CAST-214",
+      "title": "Marek Torrel",
+      "kind": "Personaggi",
+      "url": "cast-214-marek-torrel.html"
+    },
+    {
+      "id": "CAST-215",
+      "title": "Zara Gareth",
+      "kind": "Personaggi",
+      "url": "cast-215-zara-gareth.html"
+    },
+    {
+      "id": "CAST-217",
+      "title": "Rosalie Arveil",
+      "kind": "Personaggi",
+      "url": "cast-217-rosalie-arveil.html"
+    },
+    {
+      "id": "CAST-218",
+      "title": "Cyran Nivrel",
+      "kind": "Personaggi",
+      "url": "cast-218-cyran-nivrel.html"
+    },
+    {
+      "id": "CAST-219",
+      "title": "Niva Alrun",
+      "kind": "Personaggi",
+      "url": "cast-219-niva-alrun.html"
+    },
+    {
+      "id": "CAST-220",
+      "title": "Akira Norrel",
+      "kind": "Personaggi",
+      "url": "cast-220-akira-norrel.html"
+    },
+    {
+      "id": "CAST-222",
+      "title": "Sylvain Hervel",
+      "kind": "Personaggi",
+      "url": "cast-222-sylvain-hervel.html"
+    },
+    {
+      "id": "CAST-223",
+      "title": "Della Uvel",
+      "kind": "Personaggi",
+      "url": "cast-223-della-uvel.html"
+    },
+    {
+      "id": "CAST-224",
+      "title": "Oskar Helren",
+      "kind": "Personaggi",
+      "url": "cast-224-oskar-helren.html"
+    },
+    {
+      "id": "CAST-225",
+      "title": "Bela Uren",
+      "kind": "Personaggi",
+      "url": "cast-225-bela-uren.html"
+    },
+    {
+      "id": "CAST-227",
+      "title": "Therese Ossel",
+      "kind": "Personaggi",
+      "url": "cast-227-therese-ossel.html"
+    },
+    {
+      "id": "CAST-228",
+      "title": "Eren Boren",
+      "kind": "Personaggi",
+      "url": "cast-228-eren-boren.html"
+    },
+    {
+      "id": "CAST-229",
+      "title": "Pera Orvan",
+      "kind": "Personaggi",
+      "url": "cast-229-pera-orvan.html"
+    },
+    {
+      "id": "CAST-230",
+      "title": "Cira Bessrel",
+      "kind": "Personaggi",
+      "url": "cast-230-cira-bessrel.html"
+    },
+    {
+      "id": "CAST-232",
+      "title": "Ursin Vessan",
+      "kind": "Personaggi",
+      "url": "cast-232-ursin-vessan.html"
+    },
+    {
+      "id": "CAST-233",
+      "title": "Fenna Irenel",
+      "kind": "Personaggi",
+      "url": "cast-233-fenna-irenel.html"
+    },
+    {
+      "id": "CAST-234",
+      "title": "Rovan Varden",
+      "kind": "Personaggi",
+      "url": "cast-234-rovan-varden.html"
+    },
+    {
+      "id": "CAST-235",
+      "title": "Dorin Farel",
+      "kind": "Personaggi",
+      "url": "cast-235-dorin-farel.html"
+    },
+    {
+      "id": "CAST-237",
+      "title": "Valerie Ceret",
+      "kind": "Personaggi",
+      "url": "cast-237-valerie-ceret.html"
+    },
+    {
+      "id": "CAST-238",
+      "title": "Goran Perven",
+      "kind": "Personaggi",
+      "url": "cast-238-goran-perven.html"
+    },
+    {
+      "id": "CAST-239",
+      "title": "Sela Cadrin",
+      "kind": "Personaggi",
+      "url": "cast-239-sela-cadrin.html"
+    },
+    {
+      "id": "CAST-240",
+      "title": "Esra Mouren",
+      "kind": "Personaggi",
+      "url": "cast-240-esra-mouren.html"
+    },
+    {
+      "id": "CAST-242",
+      "title": "Wilhelm Jann",
+      "kind": "Personaggi",
+      "url": "cast-242-wilhelm-jann.html"
+    },
+    {
+      "id": "CAST-243",
+      "title": "Helia Welren",
+      "kind": "Personaggi",
+      "url": "cast-243-helia-welren.html"
+    },
+    {
+      "id": "CAST-244",
+      "title": "Tarin Guerin",
+      "kind": "Personaggi",
+      "url": "cast-244-tarin-guerin.html"
+    },
+    {
+      "id": "CAST-245",
+      "title": "Amelie Torrel",
+      "kind": "Personaggi",
+      "url": "cast-245-amelie-torrel.html"
+    },
+    {
+      "id": "CAST-247",
+      "title": "Xenia Qeren",
+      "kind": "Personaggi",
+      "url": "cast-247-xenia-qeren.html"
+    },
+    {
+      "id": "CAST-248",
+      "title": "Ilian Arveil",
+      "kind": "Personaggi",
+      "url": "cast-248-ilian-arveil.html"
+    },
+    {
+      "id": "CAST-249",
+      "title": "Una Nivrel",
+      "kind": "Personaggi",
+      "url": "cast-249-una-nivrel.html"
+    },
+    {
+      "id": "CAST-250",
+      "title": "Benoit Alrun",
+      "kind": "Personaggi",
+      "url": "cast-250-benoit-alrun.html"
+    },
+    {
+      "id": "CAST-252",
+      "title": "Yann Xorin",
+      "kind": "Personaggi",
+      "url": "cast-252-yann-xorin.html"
+    },
+    {
+      "id": "CAST-253",
+      "title": "Jora Hervel",
+      "kind": "Personaggi",
+      "url": "cast-253-jora-hervel.html"
+    },
+    {
+      "id": "CAST-254",
+      "title": "Varek Uvel",
+      "kind": "Personaggi",
+      "url": "cast-254-varek-uvel.html"
+    },
+    {
+      "id": "CAST-255",
+      "title": "Carine Helren",
+      "kind": "Personaggi",
+      "url": "cast-255-carine-helren.html"
+    },
+    {
+      "id": "CAST-257",
+      "title": "Zelia Brelot",
+      "kind": "Personaggi",
+      "url": "cast-257-zelia-brelot.html"
+    },
+    {
+      "id": "CAST-258",
+      "title": "Korin Ossel",
+      "kind": "Personaggi",
+      "url": "cast-258-korin-ossel.html"
+    },
+    {
+      "id": "CAST-259",
+      "title": "Wena Boren",
+      "kind": "Personaggi",
+      "url": "cast-259-wena-boren.html"
+    },
+    {
+      "id": "CAST-260",
+      "title": "Denis Orvan",
+      "kind": "Personaggi",
+      "url": "cast-260-denis-orvan.html"
+    },
+    {
+      "id": "CAST-262",
+      "title": "Arlen Istel",
+      "kind": "Personaggi",
+      "url": "cast-262-arlen-istel.html"
+    },
+    {
+      "id": "CAST-263",
+      "title": "Lessa Vessan",
+      "kind": "Personaggi",
+      "url": "cast-263-lessa-vessan.html"
+    },
+    {
+      "id": "CAST-264",
+      "title": "Yorin Irenel",
+      "kind": "Personaggi",
+      "url": "cast-264-yorin-irenel.html"
+    },
+    {
+      "id": "CAST-265",
+      "title": "Eveline Varden",
+      "kind": "Personaggi",
+      "url": "cast-265-eveline-varden.html"
+    },
+    {
+      "id": "CAST-267",
+      "title": "Brina Parven",
+      "kind": "Personaggi",
+      "url": "cast-267-brina-parven.html"
+    },
+    {
+      "id": "CAST-268",
+      "title": "Marek Ceret",
+      "kind": "Personaggi",
+      "url": "cast-268-marek-ceret.html"
+    },
+    {
+      "id": "CAST-269",
+      "title": "Zara Perven",
+      "kind": "Personaggi",
+      "url": "cast-269-zara-perven.html"
+    },
+    {
+      "id": "CAST-270",
+      "title": "Fabien Cadrin",
+      "kind": "Personaggi",
+      "url": "cast-270-fabien-cadrin.html"
+    },
+    {
+      "id": "CAST-272",
+      "title": "Cyran Weyl",
+      "kind": "Personaggi",
+      "url": "cast-272-cyran-weyl.html"
+    },
+    {
+      "id": "CAST-273",
+      "title": "Niva Jann",
+      "kind": "Personaggi",
+      "url": "cast-273-niva-jann.html"
+    },
+    {
+      "id": "CAST-274",
+      "title": "Akira Welren",
+      "kind": "Personaggi",
+      "url": "cast-274-akira-welren.html"
+    },
+    {
+      "id": "CAST-275",
+      "title": "Georgette Guerin",
+      "kind": "Personaggi",
+      "url": "cast-275-georgette-guerin.html"
+    },
+    {
+      "id": "CAST-277",
+      "title": "Della Davren",
+      "kind": "Personaggi",
+      "url": "cast-277-della-davren.html"
+    },
+    {
+      "id": "CAST-278",
+      "title": "Oskar Qeren",
+      "kind": "Personaggi",
+      "url": "cast-278-oskar-qeren.html"
+    },
+    {
+      "id": "CAST-279",
+      "title": "Bela Arveil",
+      "kind": "Personaggi",
+      "url": "cast-279-bela-arveil.html"
+    },
+    {
+      "id": "CAST-280",
+      "title": "Hector Nivrel",
+      "kind": "Personaggi",
+      "url": "cast-280-hector-nivrel.html"
+    },
+    {
+      "id": "CAST-282",
+      "title": "Eren Kelro",
+      "kind": "Personaggi",
+      "url": "cast-282-eren-kelro.html"
+    },
+    {
+      "id": "CAST-283",
+      "title": "Pera Xorin",
+      "kind": "Personaggi",
+      "url": "cast-283-pera-xorin.html"
+    },
+    {
+      "id": "CAST-284",
+      "title": "Cira Hervel",
+      "kind": "Personaggi",
+      "url": "cast-284-cira-hervel.html"
+    },
+    {
+      "id": "CAST-285",
+      "title": "Ines Uvel",
+      "kind": "Personaggi",
+      "url": "cast-285-ines-uvel.html"
+    },
+    {
+      "id": "CAST-287",
+      "title": "Fenna Rendar",
+      "kind": "Personaggi",
+      "url": "cast-287-fenna-rendar.html"
+    },
+    {
+      "id": "CAST-288",
+      "title": "Rovan Brelot",
+      "kind": "Personaggi",
+      "url": "cast-288-rovan-brelot.html"
+    },
+    {
+      "id": "CAST-289",
+      "title": "Dorin Ossel",
+      "kind": "Personaggi",
+      "url": "cast-289-dorin-ossel.html"
+    },
+    {
+      "id": "CAST-290",
+      "title": "Jacques Boren",
+      "kind": "Personaggi",
+      "url": "cast-290-jacques-boren.html"
+    },
+    {
+      "id": "CAST-292",
+      "title": "Goran Yarel",
+      "kind": "Personaggi",
+      "url": "cast-292-goran-yarel.html"
+    },
+    {
+      "id": "CAST-293",
+      "title": "Sela Istel",
+      "kind": "Personaggi",
+      "url": "cast-293-sela-istel.html"
+    },
+    {
+      "id": "CAST-294",
+      "title": "Esra Vessan",
+      "kind": "Personaggi",
+      "url": "cast-294-esra-vessan.html"
+    },
+    {
+      "id": "CAST-295",
+      "title": "Katia Irenel",
+      "kind": "Personaggi",
+      "url": "cast-295-katia-irenel.html"
+    },
+    {
+      "id": "CAST-297",
+      "title": "Helia Cazen",
+      "kind": "Personaggi",
+      "url": "cast-297-helia-cazen.html"
+    },
+    {
+      "id": "CAST-298",
+      "title": "Tarin Parven",
+      "kind": "Personaggi",
+      "url": "cast-298-tarin-parven.html"
+    },
+    {
+      "id": "CAST-299",
+      "title": "Amelie Ceret",
+      "kind": "Personaggi",
+      "url": "cast-299-amelie-ceret.html"
+    },
+    {
+      "id": "CAST-300",
+      "title": "Laurent Perven",
+      "kind": "Personaggi",
+      "url": "cast-300-laurent-perven.html"
+    },
+    {
+      "id": "CAST-302",
+      "title": "Ilian Jorel",
+      "kind": "Personaggi",
+      "url": "cast-302-ilian-jorel.html"
+    },
+    {
+      "id": "CAST-303",
+      "title": "Una Weyl",
+      "kind": "Personaggi",
+      "url": "cast-303-una-weyl.html"
+    },
+    {
+      "id": "CAST-304",
+      "title": "Benoit Jann",
+      "kind": "Personaggi",
+      "url": "cast-304-benoit-jann.html"
+    },
+    {
+      "id": "CAST-305",
+      "title": "Manon Welren",
+      "kind": "Personaggi",
+      "url": "cast-305-manon-welren.html"
+    },
+    {
+      "id": "CAST-307",
+      "title": "Jora Queral",
+      "kind": "Personaggi",
+      "url": "cast-307-jora-queral.html"
+    },
+    {
+      "id": "CAST-308",
+      "title": "Varek Davren",
+      "kind": "Personaggi",
+      "url": "cast-308-varek-davren.html"
+    },
+    {
+      "id": "CAST-309",
+      "title": "Carine Qeren",
+      "kind": "Personaggi",
+      "url": "cast-309-carine-qeren.html"
+    },
+    {
+      "id": "CAST-310",
+      "title": "Nicolas Arveil",
+      "kind": "Personaggi",
+      "url": "cast-310-nicolas-arveil.html"
+    },
+    {
+      "id": "CAST-312",
+      "title": "Korin Xarel",
+      "kind": "Personaggi",
+      "url": "cast-312-korin-xarel.html"
+    },
+    {
+      "id": "CAST-313",
+      "title": "Wena Kelro",
+      "kind": "Personaggi",
+      "url": "cast-313-wena-kelro.html"
+    },
+    {
+      "id": "CAST-314",
+      "title": "Denis Xorin",
+      "kind": "Personaggi",
+      "url": "cast-314-denis-xorin.html"
+    },
+    {
+      "id": "CAST-315",
+      "title": "Ophie Hervel",
+      "kind": "Personaggi",
+      "url": "cast-315-ophie-hervel.html"
+    },
+    {
+      "id": "CAST-317",
+      "title": "Lessa Erel",
+      "kind": "Personaggi",
+      "url": "cast-317-lessa-erel.html"
+    },
+    {
+      "id": "CAST-318",
+      "title": "Yorin Rendar",
+      "kind": "Personaggi",
+      "url": "cast-318-yorin-rendar.html"
+    },
+    {
+      "id": "CAST-319",
+      "title": "Eveline Brelot",
+      "kind": "Personaggi",
+      "url": "cast-319-eveline-brelot.html"
+    },
+    {
+      "id": "CAST-320",
+      "title": "Pascal Ossel",
+      "kind": "Personaggi",
+      "url": "cast-320-pascal-ossel.html"
+    },
+    {
+      "id": "CAST-322",
+      "title": "Marek Lennar",
+      "kind": "Personaggi",
+      "url": "cast-322-marek-lennar.html"
+    },
+    {
+      "id": "CAST-323",
+      "title": "Zara Yarel",
+      "kind": "Personaggi",
+      "url": "cast-323-zara-yarel.html"
+    },
+    {
+      "id": "CAST-324",
+      "title": "Fabien Istel",
+      "kind": "Personaggi",
+      "url": "cast-324-fabien-istel.html"
+    },
+    {
+      "id": "CAST-325",
+      "title": "Quentin Vessan",
+      "kind": "Personaggi",
+      "url": "cast-325-quentin-vessan.html"
+    },
+    {
+      "id": "CAST-327",
+      "title": "Niva Serrel",
+      "kind": "Personaggi",
+      "url": "cast-327-niva-serrel.html"
+    },
+    {
+      "id": "CAST-328",
+      "title": "Akira Cazen",
+      "kind": "Personaggi",
+      "url": "cast-328-akira-cazen.html"
+    },
+    {
+      "id": "CAST-329",
+      "title": "Georgette Parven",
+      "kind": "Personaggi",
+      "url": "cast-329-georgette-parven.html"
+    },
+    {
+      "id": "CAST-330",
+      "title": "Rosalie Ceret",
+      "kind": "Personaggi",
+      "url": "cast-330-rosalie-ceret.html"
+    },
+    {
+      "id": "CAST-332",
+      "title": "Oskar Zerin",
+      "kind": "Personaggi",
+      "url": "cast-332-oskar-zerin.html"
+    },
+    {
+      "id": "CAST-333",
+      "title": "Bela Jorel",
+      "kind": "Personaggi",
+      "url": "cast-333-bela-jorel.html"
+    },
+    {
+      "id": "CAST-334",
+      "title": "Hector Weyl",
+      "kind": "Personaggi",
+      "url": "cast-334-hector-weyl.html"
+    },
+    {
+      "id": "CAST-335",
+      "title": "Sylvain Jann",
+      "kind": "Personaggi",
+      "url": "cast-335-sylvain-jann.html"
+    },
+    {
+      "id": "CAST-337",
+      "title": "Pera Drel",
+      "kind": "Personaggi",
+      "url": "cast-337-pera-drel.html"
+    },
+    {
+      "id": "CAST-338",
+      "title": "Cira Queral",
+      "kind": "Personaggi",
+      "url": "cast-338-cira-queral.html"
+    },
+    {
+      "id": "CAST-339",
+      "title": "Ines Davren",
+      "kind": "Personaggi",
+      "url": "cast-339-ines-davren.html"
+    },
+    {
+      "id": "CAST-340",
+      "title": "Therese Qeren",
+      "kind": "Personaggi",
+      "url": "cast-340-therese-qeren.html"
+    },
+    {
+      "id": "CAST-342",
+      "title": "Rovan Kervan",
+      "kind": "Personaggi",
+      "url": "cast-342-rovan-kervan.html"
+    },
+    {
+      "id": "CAST-343",
+      "title": "Dorin Xarel",
+      "kind": "Personaggi",
+      "url": "cast-343-dorin-xarel.html"
+    },
+    {
+      "id": "CAST-344",
+      "title": "Jacques Kelro",
+      "kind": "Personaggi",
+      "url": "cast-344-jacques-kelro.html"
+    },
+    {
+      "id": "CAST-345",
+      "title": "Ursin Xorin",
+      "kind": "Personaggi",
+      "url": "cast-345-ursin-xorin.html"
+    },
+    {
+      "id": "CAST-347",
+      "title": "Sela Ressel",
+      "kind": "Personaggi",
+      "url": "cast-347-sela-ressel.html"
+    },
+    {
+      "id": "CAST-348",
+      "title": "Esra Erel",
+      "kind": "Personaggi",
+      "url": "cast-348-esra-erel.html"
+    },
+    {
+      "id": "CAST-349",
+      "title": "Katia Rendar",
+      "kind": "Personaggi",
+      "url": "cast-349-katia-rendar.html"
+    },
+    {
+      "id": "CAST-350",
+      "title": "Valerie Brelot",
+      "kind": "Personaggi",
+      "url": "cast-350-valerie-brelot.html"
+    },
+    {
+      "id": "CAST-352",
+      "title": "Tarin Yven",
+      "kind": "Personaggi",
+      "url": "cast-352-tarin-yven.html"
+    },
+    {
+      "id": "CAST-353",
+      "title": "Amelie Lennar",
+      "kind": "Personaggi",
+      "url": "cast-353-amelie-lennar.html"
+    },
+    {
+      "id": "CAST-354",
+      "title": "Laurent Yarel",
+      "kind": "Personaggi",
+      "url": "cast-354-laurent-yarel.html"
+    },
+    {
+      "id": "CAST-355",
+      "title": "Wilhelm Istel",
+      "kind": "Personaggi",
+      "url": "cast-355-wilhelm-istel.html"
+    },
+    {
+      "id": "CAST-357",
+      "title": "Una Fennel",
+      "kind": "Personaggi",
+      "url": "cast-357-una-fennel.html"
+    },
+    {
+      "id": "CAST-358",
+      "title": "Benoit Serrel",
+      "kind": "Personaggi",
+      "url": "cast-358-benoit-serrel.html"
+    },
+    {
+      "id": "CAST-359",
+      "title": "Manon Cazen",
+      "kind": "Personaggi",
+      "url": "cast-359-manon-cazen.html"
+    },
+    {
+      "id": "CAST-360",
+      "title": "Xenia Parven",
+      "kind": "Personaggi",
+      "url": "cast-360-xenia-parven.html"
+    },
+    {
+      "id": "CAST-362",
+      "title": "Varek Marnel",
+      "kind": "Personaggi",
+      "url": "cast-362-varek-marnel.html"
+    },
+    {
+      "id": "CAST-363",
+      "title": "Carine Zerin",
+      "kind": "Personaggi",
+      "url": "cast-363-carine-zerin.html"
+    },
+    {
+      "id": "CAST-364",
+      "title": "Nicolas Jorel",
+      "kind": "Personaggi",
+      "url": "cast-364-nicolas-jorel.html"
+    },
+    {
+      "id": "CAST-365",
+      "title": "Yann Weyl",
+      "kind": "Personaggi",
+      "url": "cast-365-yann-weyl.html"
+    },
+    {
+      "id": "CAST-367",
+      "title": "Wena Teth",
+      "kind": "Personaggi",
+      "url": "cast-367-wena-teth.html"
+    },
+    {
+      "id": "CAST-368",
+      "title": "Denis Drel",
+      "kind": "Personaggi",
+      "url": "cast-368-denis-drel.html"
+    },
+    {
+      "id": "CAST-369",
+      "title": "Ophie Queral",
+      "kind": "Personaggi",
+      "url": "cast-369-ophie-queral.html"
+    },
+    {
+      "id": "CAST-370",
+      "title": "Zelia Davren",
+      "kind": "Personaggi",
+      "url": "cast-370-zelia-davren.html"
+    },
+    {
+      "id": "CAST-372",
+      "title": "Yorin Arenot",
+      "kind": "Personaggi",
+      "url": "cast-372-yorin-arenot.html"
+    },
+    {
+      "id": "CAST-373",
+      "title": "Eveline Kervan",
+      "kind": "Personaggi",
+      "url": "cast-373-eveline-kervan.html"
+    },
+    {
+      "id": "CAST-374",
+      "title": "Pascal Xarel",
+      "kind": "Personaggi",
+      "url": "cast-374-pascal-xarel.html"
+    },
+    {
+      "id": "CAST-375",
+      "title": "Arlen Kelro",
+      "kind": "Personaggi",
+      "url": "cast-375-arlen-kelro.html"
+    },
+    {
+      "id": "CAST-377",
+      "title": "Zara Esten",
+      "kind": "Personaggi",
+      "url": "cast-377-zara-esten.html"
+    },
+    {
+      "id": "CAST-378",
+      "title": "Fabien Ressel",
+      "kind": "Personaggi",
+      "url": "cast-378-fabien-ressel.html"
+    },
+    {
+      "id": "CAST-379",
+      "title": "Quentin Erel",
+      "kind": "Personaggi",
+      "url": "cast-379-quentin-erel.html"
+    },
+    {
+      "id": "CAST-380",
+      "title": "Brina Rendar",
+      "kind": "Personaggi",
+      "url": "cast-380-brina-rendar.html"
+    },
+    {
+      "id": "CAST-382",
+      "title": "Akira Lureth",
+      "kind": "Personaggi",
+      "url": "cast-382-akira-lureth.html"
+    },
+    {
+      "id": "CAST-383",
+      "title": "Georgette Yven",
+      "kind": "Personaggi",
+      "url": "cast-383-georgette-yven.html"
+    },
+    {
+      "id": "CAST-384",
+      "title": "Rosalie Lennar",
+      "kind": "Personaggi",
+      "url": "cast-384-rosalie-lennar.html"
+    },
+    {
+      "id": "CAST-385",
+      "title": "Cyran Yarel",
+      "kind": "Personaggi",
+      "url": "cast-385-cyran-yarel.html"
+    },
+    {
+      "id": "CAST-387",
+      "title": "Bela Saven",
+      "kind": "Personaggi",
+      "url": "cast-387-bela-saven.html"
+    },
+    {
+      "id": "CAST-388",
+      "title": "Hector Fennel",
+      "kind": "Personaggi",
+      "url": "cast-388-hector-fennel.html"
+    },
+    {
+      "id": "CAST-389",
+      "title": "Sylvain Serrel",
+      "kind": "Personaggi",
+      "url": "cast-389-sylvain-serrel.html"
+    },
+    {
+      "id": "CAST-390",
+      "title": "Della Cazen",
+      "kind": "Personaggi",
+      "url": "cast-390-della-cazen.html"
+    },
+    {
+      "id": "CAST-392",
+      "title": "Cira Zorrel",
+      "kind": "Personaggi",
+      "url": "cast-392-cira-zorrel.html"
+    },
+    {
+      "id": "CAST-393",
+      "title": "Ines Marnel",
+      "kind": "Personaggi",
+      "url": "cast-393-ines-marnel.html"
+    },
+    {
+      "id": "CAST-394",
+      "title": "Therese Zerin",
+      "kind": "Personaggi",
+      "url": "cast-394-therese-zerin.html"
+    },
+    {
+      "id": "CAST-395",
+      "title": "Eren Jorel",
+      "kind": "Personaggi",
+      "url": "cast-395-eren-jorel.html"
+    },
+    {
+      "id": "CAST-397",
+      "title": "Dorin Gareth",
+      "kind": "Personaggi",
+      "url": "cast-397-dorin-gareth.html"
+    },
+    {
+      "id": "CAST-398",
+      "title": "Jacques Teth",
+      "kind": "Personaggi",
+      "url": "cast-398-jacques-teth.html"
+    },
+    {
+      "id": "CAST-399",
+      "title": "Ursin Drel",
+      "kind": "Personaggi",
+      "url": "cast-399-ursin-drel.html"
+    },
+    {
+      "id": "CAST-400",
+      "title": "Fenna Queral",
+      "kind": "Personaggi",
+      "url": "cast-400-fenna-queral.html"
+    },
+    {
+      "id": "CAST-402",
+      "title": "Esra Norrel",
+      "kind": "Personaggi",
+      "url": "cast-402-esra-norrel.html"
+    },
+    {
+      "id": "CAST-403",
+      "title": "Katia Arenot",
+      "kind": "Personaggi",
+      "url": "cast-403-katia-arenot.html"
+    },
+    {
+      "id": "CAST-404",
+      "title": "Valerie Kervan",
+      "kind": "Personaggi",
+      "url": "cast-404-valerie-kervan.html"
+    },
+    {
+      "id": "CAST-405",
+      "title": "Goran Xarel",
+      "kind": "Personaggi",
+      "url": "cast-405-goran-xarel.html"
+    },
+    {
+      "id": "CAST-407",
+      "title": "Amelie Uren",
+      "kind": "Personaggi",
+      "url": "cast-407-amelie-uren.html"
+    },
+    {
+      "id": "CAST-408",
+      "title": "Laurent Esten",
+      "kind": "Personaggi",
+      "url": "cast-408-laurent-esten.html"
+    },
+    {
+      "id": "CAST-409",
+      "title": "Wilhelm Ressel",
+      "kind": "Personaggi",
+      "url": "cast-409-wilhelm-ressel.html"
+    },
+    {
+      "id": "CAST-410",
+      "title": "Helia Erel",
+      "kind": "Personaggi",
+      "url": "cast-410-helia-erel.html"
+    },
+    {
+      "id": "CAST-412",
+      "title": "Benoit Bessrel",
+      "kind": "Personaggi",
+      "url": "cast-412-benoit-bessrel.html"
+    },
+    {
+      "id": "CAST-413",
+      "title": "Manon Lureth",
+      "kind": "Personaggi",
+      "url": "cast-413-manon-lureth.html"
+    },
+    {
+      "id": "CAST-414",
+      "title": "Xenia Yven",
+      "kind": "Personaggi",
+      "url": "cast-414-xenia-yven.html"
+    },
+    {
+      "id": "CAST-415",
+      "title": "Ilian Lennar",
+      "kind": "Personaggi",
+      "url": "cast-415-ilian-lennar.html"
+    },
+    {
+      "id": "CAST-417",
+      "title": "Carine Farel",
+      "kind": "Personaggi",
+      "url": "cast-417-carine-farel.html"
+    },
+    {
+      "id": "CAST-418",
+      "title": "Nicolas Saven",
+      "kind": "Personaggi",
+      "url": "cast-418-nicolas-saven.html"
+    },
+    {
+      "id": "CAST-419",
+      "title": "Yann Fennel",
+      "kind": "Personaggi",
+      "url": "cast-419-yann-fennel.html"
+    },
+    {
+      "id": "CAST-420",
+      "title": "Jora Serrel",
+      "kind": "Personaggi",
+      "url": "cast-420-jora-serrel.html"
+    },
+    {
+      "id": "CAST-422",
+      "title": "Denis Mouren",
+      "kind": "Personaggi",
+      "url": "cast-422-denis-mouren.html"
+    },
+    {
+      "id": "CAST-423",
+      "title": "Ophie Zorrel",
+      "kind": "Personaggi",
+      "url": "cast-423-ophie-zorrel.html"
+    },
+    {
+      "id": "CAST-424",
+      "title": "Zelia Marnel",
+      "kind": "Personaggi",
+      "url": "cast-424-zelia-marnel.html"
+    },
+    {
+      "id": "CAST-425",
+      "title": "Korin Zerin",
+      "kind": "Personaggi",
+      "url": "cast-425-korin-zerin.html"
+    },
+    {
+      "id": "CAST-427",
+      "title": "Eveline Torrel",
+      "kind": "Personaggi",
+      "url": "cast-427-eveline-torrel.html"
+    },
+    {
+      "id": "CAST-428",
+      "title": "Pascal Gareth",
+      "kind": "Personaggi",
+      "url": "cast-428-pascal-gareth.html"
+    },
+    {
+      "id": "CAST-429",
+      "title": "Arlen Teth",
+      "kind": "Personaggi",
+      "url": "cast-429-arlen-teth.html"
+    },
+    {
+      "id": "CAST-430",
+      "title": "Lessa Drel",
+      "kind": "Personaggi",
+      "url": "cast-430-lessa-drel.html"
+    },
+    {
+      "id": "CAST-432",
+      "title": "Fabien Alrun",
+      "kind": "Personaggi",
+      "url": "cast-432-fabien-alrun.html"
+    },
+    {
+      "id": "CAST-433",
+      "title": "Quentin Norrel",
+      "kind": "Personaggi",
+      "url": "cast-433-quentin-norrel.html"
+    },
+    {
+      "id": "CAST-434",
+      "title": "Brina Arenot",
+      "kind": "Personaggi",
+      "url": "cast-434-brina-arenot.html"
+    },
+    {
+      "id": "CAST-435",
+      "title": "Marek Kervan",
+      "kind": "Personaggi",
+      "url": "cast-435-marek-kervan.html"
+    },
+    {
+      "id": "CAST-437",
+      "title": "Georgette Helren",
+      "kind": "Personaggi",
+      "url": "cast-437-georgette-helren.html"
+    },
+    {
+      "id": "CAST-438",
+      "title": "Rosalie Uren",
+      "kind": "Personaggi",
+      "url": "cast-438-rosalie-uren.html"
+    },
+    {
+      "id": "CAST-439",
+      "title": "Cyran Esten",
+      "kind": "Personaggi",
+      "url": "cast-439-cyran-esten.html"
+    },
+    {
+      "id": "CAST-440",
+      "title": "Niva Ressel",
+      "kind": "Personaggi",
+      "url": "cast-440-niva-ressel.html"
+    },
+    {
+      "id": "CAST-442",
+      "title": "Hector Orvan",
+      "kind": "Personaggi",
+      "url": "cast-442-hector-orvan.html"
+    },
+    {
+      "id": "CAST-443",
+      "title": "Sylvain Bessrel",
+      "kind": "Personaggi",
+      "url": "cast-443-sylvain-bessrel.html"
+    },
+    {
+      "id": "CAST-444",
+      "title": "Della Lureth",
+      "kind": "Personaggi",
+      "url": "cast-444-della-lureth.html"
+    },
+    {
+      "id": "CAST-445",
+      "title": "Oskar Yven",
+      "kind": "Personaggi",
+      "url": "cast-445-oskar-yven.html"
+    },
+    {
+      "id": "CAST-447",
+      "title": "Ines Varden",
+      "kind": "Personaggi",
+      "url": "cast-447-ines-varden.html"
+    },
+    {
+      "id": "CAST-448",
+      "title": "Therese Farel",
+      "kind": "Personaggi",
+      "url": "cast-448-therese-farel.html"
+    },
+    {
+      "id": "CAST-449",
+      "title": "Eren Saven",
+      "kind": "Personaggi",
+      "url": "cast-449-eren-saven.html"
+    },
+    {
+      "id": "CAST-450",
+      "title": "Pera Fennel",
+      "kind": "Personaggi",
+      "url": "cast-450-pera-fennel.html"
+    },
+    {
+      "id": "CAST-452",
+      "title": "Jacques Cadrin",
+      "kind": "Personaggi",
+      "url": "cast-452-jacques-cadrin.html"
+    },
+    {
+      "id": "CAST-453",
+      "title": "Ursin Mouren",
+      "kind": "Personaggi",
+      "url": "cast-453-ursin-mouren.html"
+    },
+    {
+      "id": "CAST-454",
+      "title": "Fenna Zorrel",
+      "kind": "Personaggi",
+      "url": "cast-454-fenna-zorrel.html"
+    },
+    {
+      "id": "CAST-455",
+      "title": "Rovan Marnel",
+      "kind": "Personaggi",
+      "url": "cast-455-rovan-marnel.html"
+    },
+    {
+      "id": "CAST-457",
+      "title": "Katia Guerin",
+      "kind": "Personaggi",
+      "url": "cast-457-katia-guerin.html"
+    },
+    {
+      "id": "CAST-458",
+      "title": "Valerie Torrel",
+      "kind": "Personaggi",
+      "url": "cast-458-valerie-torrel.html"
+    },
+    {
+      "id": "CAST-459",
+      "title": "Goran Gareth",
+      "kind": "Personaggi",
+      "url": "cast-459-goran-gareth.html"
+    },
+    {
+      "id": "CAST-460",
+      "title": "Sela Teth",
+      "kind": "Personaggi",
+      "url": "cast-460-sela-teth.html"
+    },
+    {
+      "id": "CAST-472",
+      "title": "Naelle Varen",
+      "kind": "Personaggi",
+      "url": "cast-472-naelle-varen.html"
+    },
+    {
+      "id": "CAST-473",
+      "title": "Isera Thenn",
+      "kind": "Personaggi",
+      "url": "cast-473-isera-thenn.html"
+    },
+    {
+      "id": "CAST-498",
+      "title": "Vincent Vernier",
+      "kind": "Personaggi",
+      "url": "cast-498-vincent-vernier.html"
+    },
+    {
+      "id": "CAST-499",
+      "title": "Madeleine Rochebrune",
+      "kind": "Personaggi",
+      "url": "cast-499-madeleine-rochebrune.html"
+    },
+    {
+      "id": "CAST-500",
+      "title": "Clara Aubrecourt",
+      "kind": "Personaggi",
+      "url": "cast-500-clara-aubrecourt.html"
+    },
+    {
+      "id": "CAST-501",
+      "title": "Adrien Pontel",
+      "kind": "Personaggi",
+      "url": "cast-501-adrien-pontel.html"
+    },
+    {
+      "id": "CAST-502",
+      "title": "Elise Desormes",
+      "kind": "Personaggi",
+      "url": "cast-502-elise-desormes.html"
+    },
+    {
+      "id": "CAST-503",
+      "title": "Soren Vask",
+      "kind": "Personaggi",
+      "url": "cast-503-soren-vask.html"
+    },
+    {
+      "id": "CAST-504",
+      "title": "Henri Montfaucon",
+      "kind": "Personaggi",
+      "url": "cast-504-henri-montfaucon.html"
+    },
+    {
+      "id": "CAST-505",
+      "title": "Louise Briselles",
+      "kind": "Personaggi",
+      "url": "cast-505-louise-briselles.html"
+    },
+    {
+      "id": "CAST-506",
+      "title": "Marcel Ravelle",
+      "kind": "Personaggi",
+      "url": "cast-506-marcel-ravelle.html"
+    },
+    {
+      "id": "CAST-507",
+      "title": "Gaspard Bellive",
+      "kind": "Personaggi",
+      "url": "cast-507-gaspard-bellive.html"
+    },
+    {
+      "id": "CAST-508",
+      "title": "Margot Fontenac",
+      "kind": "Personaggi",
+      "url": "cast-508-margot-fontenac.html"
+    },
+    {
+      "id": "CAST-509",
+      "title": "Olivier Saulnes",
+      "kind": "Personaggi",
+      "url": "cast-509-olivier-saulnes.html"
+    },
+    {
+      "id": "CAST-510",
+      "title": "Paul Vernelles",
+      "kind": "Personaggi",
+      "url": "cast-510-paul-vernelles.html"
+    },
+    {
+      "id": "CAST-511",
+      "title": "Diane Cressan",
+      "kind": "Personaggi",
+      "url": "cast-511-diane-cressan.html"
+    },
+    {
+      "id": "CAST-512",
+      "title": "Jules Montreval",
+      "kind": "Personaggi",
+      "url": "cast-512-jules-montreval.html"
+    },
+    {
+      "id": "CAST-513",
+      "title": "Arvek Thol",
+      "kind": "Personaggi",
+      "url": "cast-513-arvek-thol.html"
+    },
+    {
+      "id": "CAST-514",
+      "title": "Cecile Orbrune",
+      "kind": "Personaggi",
+      "url": "cast-514-cecile-orbrune.html"
+    },
+    {
+      "id": "CAST-515",
+      "title": "Remy Valgrise",
+      "kind": "Personaggi",
+      "url": "cast-515-remy-valgrise.html"
+    },
+    {
+      "id": "CAST-516",
+      "title": "Noemie Aubremont",
+      "kind": "Personaggi",
+      "url": "cast-516-noemie-aubremont.html"
+    },
+    {
+      "id": "CAST-517",
+      "title": "Pascal Clairbois",
+      "kind": "Personaggi",
+      "url": "cast-517-pascal-clairbois.html"
+    },
+    {
+      "id": "CAST-518",
+      "title": "Ines Roseraie",
+      "kind": "Personaggi",
+      "url": "cast-518-ines-roseraie.html"
+    },
+    {
+      "id": "LOC-064",
+      "title": "Belcour",
+      "kind": "Luoghi",
+      "url": "loc-064-belcour.html"
+    },
+    {
+      "id": "LOC-065",
+      "title": "Vernay",
+      "kind": "Luoghi",
+      "url": "loc-065-vernay.html"
+    },
+    {
+      "id": "LOC-066",
+      "title": "Rochebrune",
+      "kind": "Luoghi",
+      "url": "loc-066-rochebrune.html"
+    },
+    {
+      "id": "LOC-067",
+      "title": "Aubrecourt",
+      "kind": "Luoghi",
+      "url": "loc-067-aubrecourt.html"
+    }
+  ],
+  "credentials_pattern_matches": [],
+  "foreign_development_directories": [],
+  "scope_limits": [
+    "Controllo strutturale, copertura delle fonti e leggibilità immagini; non certifica ogni possibile contraddizione narrativa.",
+    "I titolari locali aggiunti nel 347 e le quattro città aggiunte non hanno immagini dedicate: schede secondarie testuali, non file grafici rotti.",
+    "Gli originali PNG restano nella cartella illustrazioni e non sono già tutti inclusi nella cartella wiki: il piano di esportazione deve includerli in risorse grafiche separate."
+  ],
+  "zip_created": false,
+  "published": false,
+  "final_link_check": {
+    "pages": 1156,
+    "references_checked": 95266,
+    "errors": 0
+  },
+  "archive_ready_plan_only": true
+}
