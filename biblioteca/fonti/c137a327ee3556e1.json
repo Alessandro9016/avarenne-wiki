@@ -1579,5 +1579,7 @@
   "raccordo_revision": "RACCORDI-317",
   "revision": "FRONTI-326",
   "territorial_revision": "347",
-  "duchy_source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md"
+  "duchy_source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+  "service_revision": 358,
+  "service_source": "CANONE_VIGENTE/Presidi_corti_358.json"
 }

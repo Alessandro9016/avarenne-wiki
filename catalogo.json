@@ -84,7 +84,7 @@
     "title": "Adrien III Orvel",
     "kind": "Personaggi",
     "url": "cast-524-adrien-iii-orvel.html",
-    "bytes": 9065,
+    "bytes": 9669,
     "image_count": 1
   },
   {
@@ -196,7 +196,7 @@
     "title": "Alexander e la Camera delle Concessioni",
     "kind": "Approfondimenti",
     "url": "camera-concessioni-alexander.html",
-    "bytes": 17147,
+    "bytes": 17457,
     "image_count": 0
   },
   {
@@ -364,7 +364,7 @@
     "title": "Anais Rouvain",
     "kind": "Personaggi",
     "url": "cast-544-anais-rouvain.html",
-    "bytes": 8859,
+    "bytes": 9525,
     "image_count": 1
   },
   {
@@ -373,6 +373,14 @@
     "kind": "Sistema soprannaturale",
     "url": "term-anchor-anchor.html",
     "bytes": 6784,
+    "image_count": 1
+  },
+  {
+    "id": "CAST-584",
+    "title": "Anja Vestr",
+    "kind": "Personaggi",
+    "url": "cast-584-anja-vestr.html",
+    "bytes": 9099,
     "image_count": 1
   },
   {
@@ -764,7 +772,7 @@
     "title": "Astrid Eyrdal",
     "kind": "Personaggi",
     "url": "cast-532-astrid-eyrdal.html",
-    "bytes": 9090,
+    "bytes": 9601,
     "image_count": 1
   },
   {
@@ -812,7 +820,7 @@
     "title": "Atlante del mondo",
     "kind": "Indici tematici",
     "url": "mondo.html",
-    "bytes": 35060,
+    "bytes": 35440,
     "image_count": 105
   },
   {
@@ -1006,6 +1014,14 @@
     "url": "term-bearer-bearer.html",
     "bytes": 6934,
     "image_count": 1
+  },
+  {
+    "id": "DOC-358",
+    "title": "Bearer nella società e nei servizi di corte",
+    "kind": "Approfondimenti",
+    "url": "bearers-societa-e-corti.html",
+    "bytes": 13036,
+    "image_count": 0
   },
   {
     "id": "CAST-466",
@@ -1436,7 +1452,7 @@
     "title": "Case comitali di Rovenne",
     "kind": "Approfondimenti",
     "url": "case-comitali-rovenne.html",
-    "bytes": 16820,
+    "bytes": 17130,
     "image_count": 12
   },
   {
@@ -1964,7 +1980,7 @@
     "title": "Corin Belven",
     "kind": "Personaggi",
     "url": "cast-538-corin-belven.html",
-    "bytes": 8840,
+    "bytes": 9507,
     "image_count": 1
   },
   {
@@ -2174,6 +2190,14 @@
     "url": "rel-13-custodia-della-veglia.html",
     "bytes": 10936,
     "image_count": 4
+  },
+  {
+    "id": "CAST-581",
+    "title": "Cyran Belot",
+    "kind": "Personaggi",
+    "url": "cast-581-cyran-belot.html",
+    "bytes": 10509,
+    "image_count": 1
   },
   {
     "id": "CAST-439",
@@ -2416,11 +2440,19 @@
     "image_count": 0
   },
   {
+    "id": "DEM-358",
+    "title": "Diffusione dei Bearer",
+    "kind": "Approfondimenti",
+    "url": "diffusione-bearers.html",
+    "bytes": 14937,
+    "image_count": 0
+  },
+  {
     "id": "DOC-357",
     "title": "Dinastie regnanti",
     "kind": "Approfondimenti",
     "url": "dinastie-regnanti.html",
-    "bytes": 34801,
+    "bytes": 35111,
     "image_count": 43
   },
   {
@@ -2524,7 +2556,7 @@
     "title": "Dorin Xarel",
     "kind": "Personaggi",
     "url": "cast-343-dorin-xarel.html",
-    "bytes": 14649,
+    "bytes": 15180,
     "image_count": 0
   },
   {
@@ -2620,7 +2652,7 @@
     "title": "Edda Halvren",
     "kind": "Personaggi",
     "url": "cast-540-edda-halvren.html",
-    "bytes": 8767,
+    "bytes": 9433,
     "image_count": 1
   },
   {
@@ -2808,6 +2840,14 @@
     "image_count": 0
   },
   {
+    "id": "CAST-586",
+    "title": "Elise Montray",
+    "kind": "Personaggi",
+    "url": "cast-586-elise-montray.html",
+    "bytes": 8903,
+    "image_count": 1
+  },
+  {
     "id": "CAST-090",
     "title": "Elise Moret",
     "kind": "Personaggi",
@@ -2838,6 +2878,14 @@
     "url": "cast-121-elsa-dorne.html",
     "bytes": 13807,
     "image_count": 2
+  },
+  {
+    "id": "CAST-582",
+    "title": "Elsa Norrel",
+    "kind": "Personaggi",
+    "url": "cast-582-elsa-norrel.html",
+    "bytes": 10283,
+    "image_count": 1
   },
   {
     "id": "CAST-045",
@@ -3136,6 +3184,14 @@
     "image_count": 0
   },
   {
+    "id": "CAST-585",
+    "title": "Farid Eln",
+    "kind": "Personaggi",
+    "url": "cast-585-farid-eln.html",
+    "bytes": 9125,
+    "image_count": 1
+  },
+  {
     "id": "DOC-135",
     "title": "Fazioni civili, industriali e sociali",
     "kind": "Approfondimenti",
@@ -3172,7 +3228,7 @@
     "title": "Fenna Arenot",
     "kind": "Personaggi",
     "url": "cast-341-fenna-arenot.html",
-    "bytes": 15206,
+    "bytes": 15738,
     "image_count": 2
   },
   {
@@ -3252,7 +3308,7 @@
     "title": "Fonti vigenti per argomento",
     "kind": "Approfondimenti",
     "url": "fonti-vigenti.html",
-    "bytes": 7898,
+    "bytes": 8380,
     "image_count": 0
   },
   {
@@ -3284,7 +3340,7 @@
     "title": "Galleria illustrata",
     "kind": "Indici",
     "url": "galleria-illustrata.html",
-    "bytes": 374964,
+    "bytes": 375203,
     "image_count": 760
   },
   {
@@ -3492,7 +3548,7 @@
     "title": "Haldor Valdek",
     "kind": "Personaggi",
     "url": "cast-556-haldor-valdek.html",
-    "bytes": 8831,
+    "bytes": 9439,
     "image_count": 1
   },
   {
@@ -3788,7 +3844,7 @@
     "title": "Hugo Lethren",
     "kind": "Personaggi",
     "url": "cast-554-hugo-lethren.html",
-    "bytes": 8846,
+    "bytes": 9510,
     "image_count": 1
   },
   {
@@ -3812,7 +3868,7 @@
     "title": "Idris Tharen",
     "kind": "Personaggi",
     "url": "cast-542-idris-tharen.html",
-    "bytes": 8907,
+    "bytes": 9576,
     "image_count": 1
   },
   {
@@ -3932,7 +3988,7 @@
     "title": "Indice generale A–Z",
     "kind": "Indici",
     "url": "indice-generale.html",
-    "bytes": 112388,
+    "bytes": 114134,
     "image_count": 0
   },
   {
@@ -4120,6 +4176,14 @@
     "image_count": 2
   },
   {
+    "id": "CAST-570",
+    "title": "Isabeau Cernay",
+    "kind": "Personaggi",
+    "url": "cast-570-isabeau-cernay.html",
+    "bytes": 8977,
+    "image_count": 1
+  },
+  {
     "id": "CAST-100",
     "title": "Isabel Mornet",
     "kind": "Personaggi",
@@ -4172,7 +4236,7 @@
     "title": "Iven Namar",
     "kind": "Personaggi",
     "url": "cast-029-iven-namar.html",
-    "bytes": 16840,
+    "bytes": 17442,
     "image_count": 4
   },
   {
@@ -4684,7 +4748,7 @@
     "title": "Leonie Merault",
     "kind": "Personaggi",
     "url": "cast-548-leonie-merault.html",
-    "bytes": 8870,
+    "bytes": 9534,
     "image_count": 1
   },
   {
@@ -4700,7 +4764,7 @@
     "title": "Lera Soth",
     "kind": "Personaggi",
     "url": "cast-075-lera-soth.html",
-    "bytes": 15188,
+    "bytes": 15788,
     "image_count": 2
   },
   {
@@ -4956,7 +5020,7 @@
     "title": "Maelle II Vaudren",
     "kind": "Personaggi",
     "url": "cast-526-maelle-ii-vaudren.html",
-    "bytes": 9174,
+    "bytes": 9789,
     "image_count": 1
   },
   {
@@ -4980,7 +5044,7 @@
     "title": "Malik Varnet",
     "kind": "Personaggi",
     "url": "cast-552-malik-varnet.html",
-    "bytes": 8785,
+    "bytes": 9451,
     "image_count": 1
   },
   {
@@ -5126,6 +5190,14 @@
     "url": "cast-376-marek-uren.html",
     "bytes": 15947,
     "image_count": 2
+  },
+  {
+    "id": "CAST-580",
+    "title": "Maren Ild",
+    "kind": "Personaggi",
+    "url": "cast-580-maren-ild.html",
+    "bytes": 10330,
+    "image_count": 1
   },
   {
     "id": "LOC-044",
@@ -5308,7 +5380,7 @@
     "title": "Meilin Renkai",
     "kind": "Personaggi",
     "url": "cast-530-meilin-renkai.html",
-    "bytes": 9158,
+    "bytes": 9746,
     "image_count": 1
   },
   {
@@ -5422,6 +5494,14 @@
     "url": "cast-116-milo-arret.html",
     "bytes": 13702,
     "image_count": 2
+  },
+  {
+    "id": "CAST-573",
+    "title": "Milo Vardain",
+    "kind": "Personaggi",
+    "url": "cast-573-milo-vardain.html",
+    "bytes": 8899,
+    "image_count": 1
   },
   {
     "id": "CAST-175",
@@ -5710,6 +5790,14 @@
     "url": "cast-077-neris-cal.html",
     "bytes": 12856,
     "image_count": 2
+  },
+  {
+    "id": "CAST-574",
+    "title": "Neris Halven",
+    "kind": "Personaggi",
+    "url": "cast-574-neris-halven.html",
+    "bytes": 8805,
+    "image_count": 1
   },
   {
     "id": "CAST-485",
@@ -6100,7 +6188,7 @@
     "title": "Oren IV Seravel",
     "kind": "Personaggi",
     "url": "cast-528-oren-iv-seravel.html",
-    "bytes": 9073,
+    "bytes": 9683,
     "image_count": 1
   },
   {
@@ -6276,7 +6364,7 @@
     "title": "Pagina principale",
     "kind": "Enciclopedia",
     "url": "index.html",
-    "bytes": 19268,
+    "bytes": 19562,
     "image_count": 33
   },
   {
@@ -6372,7 +6460,7 @@
     "title": "Pavel Ordell",
     "kind": "Personaggi",
     "url": "cast-546-pavel-ordell.html",
-    "bytes": 8941,
+    "bytes": 9606,
     "image_count": 1
   },
   {
@@ -6420,7 +6508,7 @@
     "title": "Personaggi",
     "kind": "Indici tematici",
     "url": "personaggi.html",
-    "bytes": 172299,
+    "bytes": 175317,
     "image_count": 255
   },
   {
@@ -6493,6 +6581,14 @@
     "kind": "Reti locali",
     "url": "net-c10-57-presidi-della-veglia.html",
     "bytes": 9127,
+    "image_count": 0
+  },
+  {
+    "id": "DOC-359",
+    "title": "Presidi e servizi delle corti",
+    "kind": "Approfondimenti",
+    "url": "presidi-delle-corti.html",
+    "bytes": 48246,
     "image_count": 0
   },
   {
@@ -6632,6 +6728,14 @@
     "image_count": 0
   },
   {
+    "id": "CAST-578",
+    "title": "Ragnhild Soren",
+    "kind": "Personaggi",
+    "url": "cast-578-ragnhild-soren.html",
+    "bytes": 8881,
+    "image_count": 1
+  },
+  {
     "id": "CAST-140",
     "title": "Raoul Bellet",
     "kind": "Personaggi",
@@ -6710,6 +6814,14 @@
     "url": "doc-131-religioni-patrocini-e-verita.html",
     "bytes": 15460,
     "image_count": 0
+  },
+  {
+    "id": "CAST-571",
+    "title": "Remi Darsel",
+    "kind": "Personaggi",
+    "url": "cast-571-remi-darsel.html",
+    "bytes": 8976,
+    "image_count": 1
   },
   {
     "id": "CAST-096",
@@ -7124,7 +7236,7 @@
     "title": "Runa Hest",
     "kind": "Personaggi",
     "url": "cast-558-runa-hest.html",
-    "bytes": 8898,
+    "bytes": 9507,
     "image_count": 1
   },
   {
@@ -7132,7 +7244,7 @@
     "title": "Sabine Elvar",
     "kind": "Personaggi",
     "url": "cast-534-sabine-elvar.html",
-    "bytes": 8820,
+    "bytes": 9485,
     "image_count": 1
   },
   {
@@ -7142,6 +7254,14 @@
     "url": "cast-089-sabine-varel.html",
     "bytes": 14019,
     "image_count": 2
+  },
+  {
+    "id": "CAST-572",
+    "title": "Sadia Orven",
+    "kind": "Personaggi",
+    "url": "cast-572-sadia-orven.html",
+    "bytes": 8847,
+    "image_count": 1
   },
   {
     "id": "CAST-025",
@@ -7416,6 +7536,14 @@
     "image_count": 0
   },
   {
+    "id": "CAST-587",
+    "title": "Sena Navel",
+    "kind": "Personaggi",
+    "url": "cast-587-sena-navel.html",
+    "bytes": 8782,
+    "image_count": 1
+  },
+  {
     "id": "CAST-073",
     "title": "Sena Vey",
     "kind": "Personaggi",
@@ -7544,6 +7672,14 @@
     "image_count": 2
   },
   {
+    "id": "CAST-576",
+    "title": "Shan Luren",
+    "kind": "Personaggi",
+    "url": "cast-576-shan-luren.html",
+    "bytes": 8874,
+    "image_count": 1
+  },
+  {
     "id": "CAST-565",
     "title": "Shuren Renkai",
     "kind": "Personaggi",
@@ -7632,6 +7768,14 @@
     "image_count": 2
   },
   {
+    "id": "CAST-583",
+    "title": "Sivert Kald",
+    "kind": "Personaggi",
+    "url": "cast-583-sivert-kald.html",
+    "bytes": 9126,
+    "image_count": 1
+  },
+  {
     "id": "LOC-056",
     "title": "Sivren",
     "kind": "Luoghi",
@@ -7652,7 +7796,7 @@
     "title": "Società e istituzioni",
     "kind": "Indici tematici",
     "url": "societa.html",
-    "bytes": 39879,
+    "bytes": 40439,
     "image_count": 39
   },
   {
@@ -7742,6 +7886,14 @@
     "url": "cast-051-sovan-reth.html",
     "bytes": 14388,
     "image_count": 0
+  },
+  {
+    "id": "GALLERY-358",
+    "title": "Specialisti e servizi delle corti",
+    "kind": "Gallerie",
+    "url": "ritratti-presidi.html",
+    "bytes": 11188,
+    "image_count": 18
   },
   {
     "id": "NET-C10-11",
@@ -8044,7 +8196,7 @@
     "title": "Teren Avelin",
     "kind": "Personaggi",
     "url": "cast-536-teren-avelin.html",
-    "bytes": 8794,
+    "bytes": 9459,
     "image_count": 1
   },
   {
@@ -9160,11 +9312,19 @@
     "image_count": 4
   },
   {
+    "id": "CAST-575",
+    "title": "Tomas Arvell",
+    "kind": "Personaggi",
+    "url": "cast-575-tomas-arvell.html",
+    "bytes": 8811,
+    "image_count": 1
+  },
+  {
     "id": "CAST-560",
     "title": "Tomas Norr",
     "kind": "Personaggi",
     "url": "cast-560-tomas-norr.html",
-    "bytes": 8918,
+    "bytes": 9527,
     "image_count": 1
   },
   {
@@ -9580,7 +9740,7 @@
     "title": "Vera Seld",
     "kind": "Personaggi",
     "url": "cast-550-vera-seld.html",
-    "bytes": 8889,
+    "bytes": 9553,
     "image_count": 1
   },
   {
@@ -9646,6 +9806,14 @@
     "url": "cast-095-victor-lann.html",
     "bytes": 13996,
     "image_count": 2
+  },
+  {
+    "id": "CAST-579",
+    "title": "Viggo Harn",
+    "kind": "Personaggi",
+    "url": "cast-579-viggo-harn.html",
+    "bytes": 8871,
+    "image_count": 1
   },
   {
     "id": "REL-04",
@@ -10014,6 +10182,14 @@
     "url": "cast-023-ysra-venn.html",
     "bytes": 17219,
     "image_count": 4
+  },
+  {
+    "id": "CAST-577",
+    "title": "Yuna Senri",
+    "kind": "Personaggi",
+    "url": "cast-577-yuna-senri.html",
+    "bytes": 8827,
+    "image_count": 1
   },
   {
     "id": "CAST-377",

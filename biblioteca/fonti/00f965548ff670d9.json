@@ -985,5 +985,7 @@
   "duchy_source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
   "political_revision": 354,
   "dynasties_source": "CANONE_VIGENTE/Dinastie_regnanti_354.json",
-  "alexander_institutions_source": "CANONE_VIGENTE/Istituzioni_Alexander_354.json"
+  "alexander_institutions_source": "CANONE_VIGENTE/Istituzioni_Alexander_354.json",
+  "service_revision": 358,
+  "service_source": "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md"
 }

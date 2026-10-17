@@ -3641,7 +3641,12 @@
           "scope": "Competenza civile e pista di contatto; lo stato della creatura è nel bestiario riservato, non sapere automatico del PNG."
         }
       ],
-      "integration_revision": "RACCORDI-317"
+      "integration_revision": "RACCORDI-317",
+      "service_contracts_358": {
+        "scope": "Consulenza richiesta per incarico delimitato; non impiego permanente né disponibilità garantita.",
+        "existing_role_preserved": true,
+        "source": "CANONE_VIGENTE/Presidi_corti_358.json"
+      }
     },
     {
       "id": "CAST-030",
@@ -8253,7 +8258,12 @@
       },
       "biological_population": "Nethri",
       "biology_revision": "BIO-CAST-01",
-      "integration_revision": "RACCORDI-317"
+      "integration_revision": "RACCORDI-317",
+      "service_contracts_358": {
+        "scope": "Consulenza richiesta per incarico delimitato; non impiego permanente né disponibilità garantita.",
+        "existing_role_preserved": true,
+        "source": "CANONE_VIGENTE/Presidi_corti_358.json"
+      }
     },
     {
       "id": "CAST-076",
@@ -34216,6 +34226,11 @@
         "defense_and_retreat": "Recorded Blow: Repertorio iniziale incorporato riproduce urto e parata: può attaccare e difendersi anche senza nuove reliquie. Riproduce funzioni di eventi autentici con potenza presente; nessun viaggio nel passato, duplicato storico o copia di Seat. Se la difesa non basta può interrompere il confronto e cercare un’uscita realmente disponibile. La percezione non equivale a una barriera fisica.",
         "offensive_ability_id": "EFF-17-I-M05",
         "defensive_ability_id": "EFF-17-I-M05"
+      },
+      "service_contracts_358": {
+        "scope": "Consulenza richiesta per incarico delimitato; non impiego permanente né disponibilità garantita.",
+        "existing_role_preserved": true,
+        "source": "CANONE_VIGENTE/Presidi_corti_358.json"
       }
     },
     {
@@ -34453,6 +34468,11 @@
         "defense_and_retreat": "Secured Access: Consolida un accesso conquistato contro recupero avversario, con difesa e alimentazione reali. Consolida prese e vantaggi effettivi; un territorio dichiarato non concede ogni Seat o consenso dei suoi abitanti. Se la difesa non basta può interrompere il confronto e cercare un’uscita realmente disponibile. La percezione non equivale a una barriera fisica.",
         "offensive_ability_id": "EFF-15-III-M01",
         "defensive_ability_id": "EFF-15-III-M04"
+      },
+      "service_contracts_358": {
+        "scope": "Consulenza richiesta per incarico delimitato; non impiego permanente né disponibilità garantita.",
+        "existing_role_preserved": true,
+        "source": "CANONE_VIGENTE/Presidi_corti_358.json"
       }
     },
     {
@@ -51610,6 +51630,20 @@
       "power_acquisition_354": "Incorporazione individuale seguita da maestri e avanzamento documentato, precedente al T0; non un potere conferito dal titolo né un accesso gratuito a più Effigi.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/orsanne/CAST-524_Adrien_III_Orvel/01_Ritratto_v1.png"
+      ],
+      "service_links_358": [
+        {
+          "target": "CAST-570",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-571",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-586",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        }
       ]
     },
     {
@@ -51774,6 +51808,16 @@
       "household_scope": "Nucleo dinastico operativo censito, non affermazione di assenza di parenti collaterali. Nessun altro collaterale riceve qui un diritto concorrente inventato.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Aldren/aldren/CAST-526_Maelle_II_Vaudren/01_Ritratto_v1.png"
+      ],
+      "service_links_358": [
+        {
+          "target": "CAST-572",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-573",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        }
       ]
     },
     {
@@ -51938,6 +51982,20 @@
       "household_scope": "Nucleo dinastico operativo censito, non affermazione di assenza di parenti collaterali. Nessun altro collaterale riceve qui un diritto concorrente inventato.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Marethis/marethis/CAST-528_Oren_IV_Seravel/01_Ritratto_v1.png"
+      ],
+      "service_links_358": [
+        {
+          "target": "CAST-574",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-575",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-587",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        }
       ]
     },
     {
@@ -52134,6 +52192,16 @@
       "power_acquisition_354": "Incorporazione individuale seguita da maestri e avanzamento documentato, precedente al T0; non un potere conferito dal titolo né un accesso gratuito a più Effigi.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Teral/teral/CAST-530_Meilin_Renkai/01_Ritratto_v1.png"
+      ],
+      "service_links_358": [
+        {
+          "target": "CAST-576",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-577",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        }
       ]
     },
     {
@@ -52298,6 +52366,16 @@
       "household_scope": "Nucleo dinastico operativo censito, non affermazione di assenza di parenti collaterali. Nessun altro collaterale riceve qui un diritto concorrente inventato.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Dorel/dorel/CAST-532_Astrid_Eyrdal/01_Ritratto_v1.png"
+      ],
+      "service_links_358": [
+        {
+          "target": "CAST-578",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-579",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        }
       ]
     },
     {
@@ -52473,6 +52551,20 @@
       "power_acquisition_354": "Incorporazione individuale seguita da maestri e avanzamento documentato, precedente al T0; non un potere conferito dal titolo né un accesso gratuito a più Effigi.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/elven/CAST-534_Sabine_Elvar/01_Ritratto_v1.png"
+      ],
+      "service_links_358": [
+        {
+          "target": "CAST-580",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-581",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-582",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        }
       ]
     },
     {
@@ -52643,6 +52735,20 @@
       "power_acquisition_354": "Incorporazione individuale seguita da maestri e avanzamento documentato, precedente al T0; non un potere conferito dal titolo né un accesso gratuito a più Effigi.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/namar/CAST-536_Teren_Avelin/01_Ritratto_v1.png"
+      ],
+      "service_links_358": [
+        {
+          "target": "CAST-580",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-581",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-582",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        }
       ]
     },
     {
@@ -52797,6 +52903,20 @@
       "household_scope": "Nucleo dinastico operativo censito, non affermazione di assenza di parenti collaterali. Nessun altro collaterale riceve qui un diritto concorrente inventato.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/veyford/CAST-538_Corin_Belven/01_Ritratto_v1.png"
+      ],
+      "service_links_358": [
+        {
+          "target": "CAST-580",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-581",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-582",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        }
       ]
     },
     {
@@ -52951,6 +53071,20 @@
       "household_scope": "Nucleo dinastico operativo censito, non affermazione di assenza di parenti collaterali. Nessun altro collaterale riceve qui un diritto concorrente inventato.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/norven/CAST-540_Edda_Halvren/01_Ritratto_v1.png"
+      ],
+      "service_links_358": [
+        {
+          "target": "CAST-580",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-581",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-582",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        }
       ]
     },
     {
@@ -53105,6 +53239,20 @@
       "household_scope": "Nucleo dinastico operativo censito, non affermazione di assenza di parenti collaterali. Nessun altro collaterale riceve qui un diritto concorrente inventato.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ossenmark/CAST-542_Idris_Tharen/01_Ritratto_v1.png"
+      ],
+      "service_links_358": [
+        {
+          "target": "CAST-580",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-581",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-582",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        }
       ]
     },
     {
@@ -53259,6 +53407,20 @@
       "household_scope": "Nucleo dinastico operativo censito, non affermazione di assenza di parenti collaterali. Nessun altro collaterale riceve qui un diritto concorrente inventato.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/selvar/CAST-544_Anais_Rouvain/01_Ritratto_v1.png"
+      ],
+      "service_links_358": [
+        {
+          "target": "CAST-580",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-581",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-582",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        }
       ]
     },
     {
@@ -53413,6 +53575,20 @@
       "household_scope": "Nucleo dinastico operativo censito, non affermazione di assenza di parenti collaterali. Nessun altro collaterale riceve qui un diritto concorrente inventato.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/dalen/CAST-546_Pavel_Ordell/01_Ritratto_v1.png"
+      ],
+      "service_links_358": [
+        {
+          "target": "CAST-580",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-581",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-582",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        }
       ]
     },
     {
@@ -53567,6 +53743,20 @@
       "household_scope": "Nucleo dinastico operativo censito, non affermazione di assenza di parenti collaterali. Nessun altro collaterale riceve qui un diritto concorrente inventato.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/uren/CAST-548_Leonie_Merault/01_Ritratto_v1.png"
+      ],
+      "service_links_358": [
+        {
+          "target": "CAST-580",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-581",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-582",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        }
       ]
     },
     {
@@ -53737,6 +53927,20 @@
       "power_acquisition_354": "Incorporazione individuale seguita da maestri e avanzamento documentato, precedente al T0; non un potere conferito dal titolo né un accesso gratuito a più Effigi.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/tesh/CAST-550_Vera_Seld/01_Ritratto_v1.png"
+      ],
+      "service_links_358": [
+        {
+          "target": "CAST-580",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-581",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-582",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        }
       ]
     },
     {
@@ -53891,6 +54095,20 @@
       "household_scope": "Nucleo dinastico operativo censito, non affermazione di assenza di parenti collaterali. Nessun altro collaterale riceve qui un diritto concorrente inventato.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ravaen/CAST-552_Malik_Varnet/01_Ritratto_v1.png"
+      ],
+      "service_links_358": [
+        {
+          "target": "CAST-580",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-581",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-582",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        }
       ]
     },
     {
@@ -54045,6 +54263,20 @@
       "household_scope": "Nucleo dinastico operativo censito, non affermazione di assenza di parenti collaterali. Nessun altro collaterale riceve qui un diritto concorrente inventato.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ivel/CAST-554_Hugo_Lethren/01_Ritratto_v1.png"
+      ],
+      "service_links_358": [
+        {
+          "target": "CAST-580",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-581",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-582",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        }
       ]
     },
     {
@@ -54215,6 +54447,20 @@
       "power_acquisition_354": "Incorporazione individuale seguita da maestri e avanzamento documentato, precedente al T0; non un potere conferito dal titolo né un accesso gratuito a più Effigi.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/asren/CAST-556_Haldor_Valdek/01_Ritratto_v1.png"
+      ],
+      "service_links_358": [
+        {
+          "target": "CAST-583",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-584",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-585",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        }
       ]
     },
     {
@@ -54369,6 +54615,20 @@
       "household_scope": "Nucleo dinastico operativo censito, non affermazione di assenza di parenti collaterali. Nessun altro collaterale riceve qui un diritto concorrente inventato.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/helsen/CAST-558_Runa_Hest/01_Ritratto_v1.png"
+      ],
+      "service_links_358": [
+        {
+          "target": "CAST-583",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-584",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-585",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        }
       ]
     },
     {
@@ -54523,6 +54783,20 @@
       "household_scope": "Nucleo dinastico operativo censito, non affermazione di assenza di parenti collaterali. Nessun altro collaterale riceve qui un diritto concorrente inventato.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/varnek/CAST-560_Tomas_Norr/01_Ritratto_v1.png"
+      ],
+      "service_links_358": [
+        {
+          "target": "CAST-583",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-584",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        },
+        {
+          "target": "CAST-585",
+          "kind": "Servizio istituzionale o convenzionato secondo Presidi_corti_358.json; nessuna disponibilità illimitata."
+        }
       ]
     },
     {
@@ -55174,6 +55448,1698 @@
       "image_status": "Ritratto integrato e controllato visivamente nella consegna354.",
       "visual_assets": [
         "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/istituzioni/CAST-569_Noel_Vautrin/01_Ritratto_v1.png"
+      ]
+    },
+    {
+      "id": "CAST-570",
+      "name": "Isabeau Cernay",
+      "age_or_condition": "44",
+      "place": "Veldane",
+      "location_id": "LOC-003",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "powers": [
+        {
+          "effigy": "Halo",
+          "stage": 4,
+          "stage_title": "Lightbearer",
+          "general_rank": "Transfiguration"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Responsabile dei presidi investiti della residenza reale",
+      "goal": "Verificare i protocolli d’accesso senza lasciare scoperti i percorsi di servizio.",
+      "tension": "La segreteria vuole ridurre i ritardi delle udienze; lei non accetta di chiamare sicuro un controllo incompleto.",
+      "secret": "La tensione corrente non è un rapporto risolto: La segreteria vuole ridurre i ritardi delle udienze; lei non accetta di chiamare sicuro un controllo incompleto. Nessuna conoscenza del ritorno di Edran.",
+      "voice": "Parla con precisione professionale; distingue ciò che ha verificato da ciò che il committente desidera.",
+      "tier": "IMPORTANT",
+      "origin": "Presidi e contratti 358: persona già attiva nel mondo prima del T0, ora censita nel cast.",
+      "network": "Presidi di corte e servizi convenzionati di Orsanne",
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-524",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        }
+      ],
+      "sources": [
+        "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+        "RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md"
+      ],
+      "limits": "Una sola Effigy, nessuna Root, Seat, avatar o immunità universale. Gli esercizi richiedono accesso e carico reali; l’incarico non amplia lo stadio.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Halo",
+            "stage": 4,
+            "stage_title": "Lightbearer",
+            "general_rank": "Transfiguration"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "avatar_permission": false,
+        "ordinary_means": [
+          "Credenziali professionali, accesso alle sedi autorizzate e strumenti del proprio servizio. Nessuna arma o Medium superiore implicitamente disponibile."
+        ],
+        "special_medium": null
+      },
+      "acquisition_exception": null,
+      "power_acquisition": "Incorporazione personale anteriore al T0, formazione e avanzamento progressivi presso servizi autorizzati; nessun salto causato dall’assunzione a corte.",
+      "current": "Verificare i protocolli d’accesso senza lasciare scoperti i percorsi di servizio.",
+      "document": "CAST_RISERVATO/CAST-570.md",
+      "hooks": [
+        "Una richiesta professionale riguarda: Verificare i protocolli d’accesso senza lasciare scoperti i percorsi di servizio.",
+        "Una controparte contesta il costo o il limite del servizio: La segreteria vuole ridurre i ritardi delle udienze; lei non accetta di chiamare sicuro un controllo incompleto."
+      ],
+      "pressure": "Latente; disponibilità e convocazioni devono essere confermate, non sono un orologio di catastrofe.",
+      "impact": "🟠",
+      "evolution_without_pc": "Prosegue gli incarichi, documenta i limiti e cerca un accordo con le controparti. Non si teletrasporta né accetta automaticamente ogni ordine. Esiti futuri aperti.",
+      "biography_complement": "Entrò nei presidi dopo avere lavorato sulle contaminazioni di officina. Nel806 separò la difesa del personale dalla difesa della reputazione del committente e lasciò un incarico privato. Serve la residenza dal809.",
+      "specific_fear": "La segreteria vuole ridurre i ritardi delle udienze; lei non accetta di chiamare sicuro un controllo incompleto.",
+      "visual": "Woman44, warm brown skin, short black curls with a silver streak, amber eyes, angular mature face, navy late-industrial service coat with ivory high collar and restrained brass clasp.",
+      "biological_population": "Umano",
+      "biology": {
+        "revision": 358,
+        "biological_population": "Umano",
+        "present_body": "Corpo umano modificato soltanto secondo la propria Effigy e lo stadio realmente posseduto.",
+        "longevity_exception": "Nessuna immortalità o vita millenaria assegnata dal ruolo.",
+        "knowledge_access": "Aspetto e incarico pubblicamente reperibili; inventario e agende secondo fonte effettivamente letta."
+      },
+      "civil_memory": "Incarico anteriore al coma reperibile in elenchi e credenziali. Non è automaticamente una conoscenza personale di Alexander.",
+      "service_revision": 358,
+      "visual_assets": [
+        "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Orsanne/CAST-570_Isabeau_Cernay/01_Ritratto_v1.png"
+      ]
+    },
+    {
+      "id": "CAST-571",
+      "name": "Remi Darsel",
+      "age_or_condition": "48",
+      "place": "Veldane",
+      "location_id": "LOC-003",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "powers": [
+        {
+          "effigy": "Archive",
+          "stage": 3,
+          "stage_title": "Curator",
+          "general_rank": "Embodiment"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Perito delle attestazioni e dei registri di accesso della corte",
+      "goal": "Separare la prova dell’accesso dalla supposizione che ogni visitatore autorizzato sia innocuo.",
+      "tension": "Un funzionario vorrebbe cancellare un errore di registrazione senza conservare la rettifica.",
+      "secret": "La tensione corrente non è un rapporto risolto: Un funzionario vorrebbe cancellare un errore di registrazione senza conservare la rettifica. Nessuna conoscenza del ritorno di Edran.",
+      "voice": "Parla con precisione professionale; distingue ciò che ha verificato da ciò che il committente desidera.",
+      "tier": "IMPORTANT",
+      "origin": "Presidi e contratti 358: persona già attiva nel mondo prima del T0, ora censita nel cast.",
+      "network": "Presidi di corte e servizi convenzionati di Orsanne",
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-524",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        }
+      ],
+      "sources": [
+        "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+        "RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md"
+      ],
+      "limits": "Una sola Effigy, nessuna Root, Seat, avatar o immunità universale. Gli esercizi richiedono accesso e carico reali; l’incarico non amplia lo stadio.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Archive",
+            "stage": 3,
+            "stage_title": "Curator",
+            "general_rank": "Embodiment"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "avatar_permission": false,
+        "ordinary_means": [
+          "Credenziali professionali, accesso alle sedi autorizzate e strumenti del proprio servizio. Nessuna arma o Medium superiore implicitamente disponibile."
+        ],
+        "special_medium": null
+      },
+      "acquisition_exception": null,
+      "power_acquisition": "Incorporazione personale anteriore al T0, formazione e avanzamento progressivi presso servizi autorizzati; nessun salto causato dall’assunzione a corte.",
+      "current": "Separare la prova dell’accesso dalla supposizione che ogni visitatore autorizzato sia innocuo.",
+      "document": "CAST_RISERVATO/CAST-571.md",
+      "hooks": [
+        "Una richiesta professionale riguarda: Separare la prova dell’accesso dalla supposizione che ogni visitatore autorizzato sia innocuo.",
+        "Una controparte contesta il costo o il limite del servizio: Un funzionario vorrebbe cancellare un errore di registrazione senza conservare la rettifica."
+      ],
+      "pressure": "Latente; disponibilità e convocazioni devono essere confermate, non sono un orologio di catastrofe.",
+      "impact": "🟡",
+      "evolution_without_pc": "Prosegue gli incarichi, documenta i limiti e cerca un accordo con le controparti. Non si teletrasporta né accetta automaticamente ogni ordine. Esiti futuri aperti.",
+      "biography_complement": "Fu archivista giudiziario, poi perito in falsificazioni di mandato. Nel803 dimostrò che una copia autentica può sostenere una conclusione falsa se manca il contesto. Lavora per contratto rinnovabile e conserva incompatibilità professionali.",
+      "specific_fear": "Un funzionario vorrebbe cancellare un errore di registrazione senza conservare la rettifica.",
+      "visual": "Man48, fair olive skin, brown thinning hair silver at temples, grey-brown eyes, close beard, charcoal frock coat and muted blue waistcoat, small reading spectacles held in one hand.",
+      "biological_population": "Umano",
+      "biology": {
+        "revision": 358,
+        "biological_population": "Umano",
+        "present_body": "Corpo umano modificato soltanto secondo la propria Effigy e lo stadio realmente posseduto.",
+        "longevity_exception": "Nessuna immortalità o vita millenaria assegnata dal ruolo.",
+        "knowledge_access": "Aspetto e incarico pubblicamente reperibili; inventario e agende secondo fonte effettivamente letta."
+      },
+      "civil_memory": "Incarico anteriore al coma reperibile in elenchi e credenziali. Non è automaticamente una conoscenza personale di Alexander.",
+      "service_revision": 358,
+      "visual_assets": [
+        "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Orsanne/CAST-571_Remi_Darsel/01_Ritratto_v1.png"
+      ]
+    },
+    {
+      "id": "CAST-572",
+      "name": "Sadia Orven",
+      "age_or_condition": "42",
+      "place": "Aldora",
+      "location_id": "LOC-037",
+      "state": "Aldren",
+      "continent": "Mereth",
+      "powers": [
+        {
+          "effigy": "Chain",
+          "stage": 4,
+          "stage_title": "Bondwarden",
+          "general_rank": "Transfiguration"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Comandante della custodia investita delle residenze di Aldren",
+      "goal": "Mantenere percorsi protetti durante le audizioni sulle scorte agricole.",
+      "tension": "La chiusura più semplice esclude gli stessi delegati che il governo deve ascoltare.",
+      "secret": "La tensione corrente non è un rapporto risolto: La chiusura più semplice esclude gli stessi delegati che il governo deve ascoltare. Nessuna conoscenza del ritorno di Edran.",
+      "voice": "Parla con precisione professionale; distingue ciò che ha verificato da ciò che il committente desidera.",
+      "tier": "IMPORTANT",
+      "origin": "Presidi e contratti 358: persona già attiva nel mondo prima del T0, ora censita nel cast.",
+      "network": "Presidi di corte e servizi convenzionati di Aldren",
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-526",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        }
+      ],
+      "sources": [
+        "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+        "RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md"
+      ],
+      "limits": "Una sola Effigy, nessuna Root, Seat, avatar o immunità universale. Gli esercizi richiedono accesso e carico reali; l’incarico non amplia lo stadio.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Chain",
+            "stage": 4,
+            "stage_title": "Bondwarden",
+            "general_rank": "Transfiguration"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "avatar_permission": false,
+        "ordinary_means": [
+          "Credenziali professionali, accesso alle sedi autorizzate e strumenti del proprio servizio. Nessuna arma o Medium superiore implicitamente disponibile."
+        ],
+        "special_medium": null
+      },
+      "acquisition_exception": null,
+      "power_acquisition": "Incorporazione personale anteriore al T0, formazione e avanzamento progressivi presso servizi autorizzati; nessun salto causato dall’assunzione a corte.",
+      "current": "Mantenere percorsi protetti durante le audizioni sulle scorte agricole.",
+      "document": "CAST_RISERVATO/CAST-572.md",
+      "hooks": [
+        "Una richiesta professionale riguarda: Mantenere percorsi protetti durante le audizioni sulle scorte agricole.",
+        "Una controparte contesta il costo o il limite del servizio: La chiusura più semplice esclude gli stessi delegati che il governo deve ascoltare."
+      ],
+      "pressure": "Latente; disponibilità e convocazioni devono essere confermate, non sono un orologio di catastrofe.",
+      "impact": "🟠",
+      "evolution_without_pc": "Prosegue gli incarichi, documenta i limiti e cerca un accordo con le controparti. Non si teletrasporta né accetta automaticamente ogni ordine. Esiti futuri aperti.",
+      "biography_complement": "Si formò nella scorta dei convogli e passò alle residenze dopo una valutazione indipendente. Non ha acquisito Crown per servire una regina e non considera un mandato un’autorizzazione illimitata alla detenzione.",
+      "specific_fear": "La chiusura più semplice esclude gli stessi delegati che il governo deve ascoltare.",
+      "visual": "Woman42, deep brown skin, tightly braided black hair tied low, dark eyes, broad composed face, oxblood tailored uniform jacket with plain bronze fastening.",
+      "biological_population": "Umano",
+      "biology": {
+        "revision": 358,
+        "biological_population": "Umano",
+        "present_body": "Corpo umano modificato soltanto secondo la propria Effigy e lo stadio realmente posseduto.",
+        "longevity_exception": "Nessuna immortalità o vita millenaria assegnata dal ruolo.",
+        "knowledge_access": "Aspetto e incarico pubblicamente reperibili; inventario e agende secondo fonte effettivamente letta."
+      },
+      "civil_memory": "Incarico anteriore al coma reperibile in elenchi e credenziali. Non è automaticamente una conoscenza personale di Alexander.",
+      "service_revision": 358,
+      "visual_assets": [
+        "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Aldren/CAST-572_Sadia_Orven/01_Ritratto_v1.png"
+      ]
+    },
+    {
+      "id": "CAST-573",
+      "name": "Milo Vardain",
+      "age_or_condition": "46",
+      "place": "Aldora",
+      "location_id": "LOC-037",
+      "state": "Aldren",
+      "continent": "Mereth",
+      "powers": [
+        {
+          "effigy": "Heart",
+          "stage": 3,
+          "stage_title": "Restorer",
+          "general_rank": "Embodiment"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Curatore convenzionato della casa reale e delle scorte di Aldren",
+      "goal": "Conservare il servizio ai magazzini anche quando la corte chiede disponibilità aggiuntiva.",
+      "tension": "Due richieste legittime si sovrappongono; non può promettere di essere in due luoghi.",
+      "secret": "La tensione corrente non è un rapporto risolto: Due richieste legittime si sovrappongono; non può promettere di essere in due luoghi. Nessuna conoscenza del ritorno di Edran.",
+      "voice": "Parla con precisione professionale; distingue ciò che ha verificato da ciò che il committente desidera.",
+      "tier": "IMPORTANT",
+      "origin": "Presidi e contratti 358: persona già attiva nel mondo prima del T0, ora censita nel cast.",
+      "network": "Presidi di corte e servizi convenzionati di Aldren",
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-526",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        }
+      ],
+      "sources": [
+        "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+        "RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md"
+      ],
+      "limits": "Una sola Effigy, nessuna Root, Seat, avatar o immunità universale. Gli esercizi richiedono accesso e carico reali; l’incarico non amplia lo stadio.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Heart",
+            "stage": 3,
+            "stage_title": "Restorer",
+            "general_rank": "Embodiment"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "avatar_permission": false,
+        "ordinary_means": [
+          "Credenziali professionali, accesso alle sedi autorizzate e strumenti del proprio servizio. Nessuna arma o Medium superiore implicitamente disponibile."
+        ],
+        "special_medium": null
+      },
+      "acquisition_exception": null,
+      "power_acquisition": "Incorporazione personale anteriore al T0, formazione e avanzamento progressivi presso servizi autorizzati; nessun salto causato dall’assunzione a corte.",
+      "current": "Conservare il servizio ai magazzini anche quando la corte chiede disponibilità aggiuntiva.",
+      "document": "CAST_RISERVATO/CAST-573.md",
+      "hooks": [
+        "Una richiesta professionale riguarda: Conservare il servizio ai magazzini anche quando la corte chiede disponibilità aggiuntiva.",
+        "Una controparte contesta il costo o il limite del servizio: Due richieste legittime si sovrappongono; non può promettere di essere in due luoghi."
+      ],
+      "pressure": "Latente; disponibilità e convocazioni devono essere confermate, non sono un orologio di catastrofe.",
+      "impact": "🟡",
+      "evolution_without_pc": "Prosegue gli incarichi, documenta i limiti e cerca un accordo con le controparti. Non si teletrasporta né accetta automaticamente ogni ordine. Esiti futuri aperti.",
+      "biography_complement": "Lavorò nelle cliniche dei depositi pubblici prima dell’incarico di corte. Mantiene turni civili contrattualmente protetti e si rifiuta di dichiarare guarito un paziente per ragioni cerimoniali.",
+      "specific_fear": "Due richieste legittime si sovrappongono; non può promettere di essere in due luoghi.",
+      "visual": "Man46, deep warm skin, close black hair greying at the temples, hazel eyes, clean-shaven, cream shirt and dark brown medical frock coat, thoughtful expression.",
+      "biological_population": "Umano",
+      "biology": {
+        "revision": 358,
+        "biological_population": "Umano",
+        "present_body": "Corpo umano modificato soltanto secondo la propria Effigy e lo stadio realmente posseduto.",
+        "longevity_exception": "Nessuna immortalità o vita millenaria assegnata dal ruolo.",
+        "knowledge_access": "Aspetto e incarico pubblicamente reperibili; inventario e agende secondo fonte effettivamente letta."
+      },
+      "civil_memory": "Incarico anteriore al coma reperibile in elenchi e credenziali. Non è automaticamente una conoscenza personale di Alexander.",
+      "service_revision": 358,
+      "visual_assets": [
+        "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Aldren/CAST-573_Milo_Vardain/01_Ritratto_v1.png"
+      ]
+    },
+    {
+      "id": "CAST-574",
+      "name": "Neris Halven",
+      "age_or_condition": "44",
+      "place": "Mareth",
+      "location_id": "LOC-044",
+      "state": "Marethis",
+      "continent": "Caldris",
+      "powers": [
+        {
+          "effigy": "Tempest",
+          "stage": 4,
+          "stage_title": "Stormwarden",
+          "general_rank": "Transfiguration"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Responsabile della protezione dei transiti reali e degli approdi cerimoniali",
+      "goal": "Preparare accessi marittimi che non dipendano da una sola banchina.",
+      "tension": "Il cerimoniale vuole un arrivo visibile, mentre il porto deve continuare a lavorare.",
+      "secret": "La tensione corrente non è un rapporto risolto: Il cerimoniale vuole un arrivo visibile, mentre il porto deve continuare a lavorare. Nessuna conoscenza del ritorno di Edran.",
+      "voice": "Parla con precisione professionale; distingue ciò che ha verificato da ciò che il committente desidera.",
+      "tier": "IMPORTANT",
+      "origin": "Presidi e contratti 358: persona già attiva nel mondo prima del T0, ora censita nel cast.",
+      "network": "Presidi di corte e servizi convenzionati di Marethis",
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-528",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        }
+      ],
+      "sources": [
+        "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+        "RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md"
+      ],
+      "limits": "Una sola Effigy, nessuna Root, Seat, avatar o immunità universale. Gli esercizi richiedono accesso e carico reali; l’incarico non amplia lo stadio.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Tempest",
+            "stage": 4,
+            "stage_title": "Stormwarden",
+            "general_rank": "Transfiguration"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "avatar_permission": false,
+        "ordinary_means": [
+          "Credenziali professionali, accesso alle sedi autorizzate e strumenti del proprio servizio. Nessuna arma o Medium superiore implicitamente disponibile."
+        ],
+        "special_medium": null
+      },
+      "acquisition_exception": null,
+      "power_acquisition": "Incorporazione personale anteriore al T0, formazione e avanzamento progressivi presso servizi autorizzati; nessun salto causato dall’assunzione a corte.",
+      "current": "Preparare accessi marittimi che non dipendano da una sola banchina.",
+      "document": "CAST_RISERVATO/CAST-574.md",
+      "hooks": [
+        "Una richiesta professionale riguarda: Preparare accessi marittimi che non dipendano da una sola banchina.",
+        "Una controparte contesta il costo o il limite del servizio: Il cerimoniale vuole un arrivo visibile, mentre il porto deve continuare a lavorare."
+      ],
+      "pressure": "Latente; disponibilità e convocazioni devono essere confermate, non sono un orologio di catastrofe.",
+      "impact": "🟠",
+      "evolution_without_pc": "Prosegue gli incarichi, documenta i limiti e cerca un accordo con le controparti. Non si teletrasporta né accetta automaticamente ogni ordine. Esiti futuri aperti.",
+      "biography_complement": "Fu responsabile di contenimento in un cantiere. L’incidente del804 le insegnò a distinguere una via aperta da una via che resta praticabile durante un assalto.",
+      "specific_fear": "Il cerimoniale vuole un arrivo visibile, mentre il porto deve continuare a lavorare.",
+      "visual": "Woman44, olive skin, wavy black hair in a practical low bun, steel-grey eyes, strong nose, deep navy fitted late-industrial coat with silver piping, weathered intelligent face.",
+      "biological_population": "Umano",
+      "biology": {
+        "revision": 358,
+        "biological_population": "Umano",
+        "present_body": "Corpo umano modificato soltanto secondo la propria Effigy e lo stadio realmente posseduto.",
+        "longevity_exception": "Nessuna immortalità o vita millenaria assegnata dal ruolo.",
+        "knowledge_access": "Aspetto e incarico pubblicamente reperibili; inventario e agende secondo fonte effettivamente letta."
+      },
+      "civil_memory": "Incarico anteriore al coma reperibile in elenchi e credenziali. Non è automaticamente una conoscenza personale di Alexander.",
+      "service_revision": 358,
+      "visual_assets": [
+        "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Marethis/CAST-574_Neris_Halven/01_Ritratto_v1.png"
+      ]
+    },
+    {
+      "id": "CAST-575",
+      "name": "Tomas Arvell",
+      "age_or_condition": "51",
+      "place": "Mareth",
+      "location_id": "LOC-044",
+      "state": "Marethis",
+      "continent": "Caldris",
+      "powers": [
+        {
+          "effigy": "Archive",
+          "stage": 3,
+          "stage_title": "Curator",
+          "general_rank": "Embodiment"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Perito dei mandati navali e delle tracce d’incidente presso la corte",
+      "goal": "Separare ordini autentici e istruzioni trasmesse da canali compromessi.",
+      "tension": "Un capitano teme che conservare il verbale completo danneggi il proprio equipaggio.",
+      "secret": "La tensione corrente non è un rapporto risolto: Un capitano teme che conservare il verbale completo danneggi il proprio equipaggio. Nessuna conoscenza del ritorno di Edran.",
+      "voice": "Parla con precisione professionale; distingue ciò che ha verificato da ciò che il committente desidera.",
+      "tier": "IMPORTANT",
+      "origin": "Presidi e contratti 358: persona già attiva nel mondo prima del T0, ora censita nel cast.",
+      "network": "Presidi di corte e servizi convenzionati di Marethis",
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-528",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        }
+      ],
+      "sources": [
+        "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+        "RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md"
+      ],
+      "limits": "Una sola Effigy, nessuna Root, Seat, avatar o immunità universale. Gli esercizi richiedono accesso e carico reali; l’incarico non amplia lo stadio.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Archive",
+            "stage": 3,
+            "stage_title": "Curator",
+            "general_rank": "Embodiment"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "avatar_permission": false,
+        "ordinary_means": [
+          "Credenziali professionali, accesso alle sedi autorizzate e strumenti del proprio servizio. Nessuna arma o Medium superiore implicitamente disponibile."
+        ],
+        "special_medium": null
+      },
+      "acquisition_exception": null,
+      "power_acquisition": "Incorporazione personale anteriore al T0, formazione e avanzamento progressivi presso servizi autorizzati; nessun salto causato dall’assunzione a corte.",
+      "current": "Separare ordini autentici e istruzioni trasmesse da canali compromessi.",
+      "document": "CAST_RISERVATO/CAST-575.md",
+      "hooks": [
+        "Una richiesta professionale riguarda: Separare ordini autentici e istruzioni trasmesse da canali compromessi.",
+        "Una controparte contesta il costo o il limite del servizio: Un capitano teme che conservare il verbale completo danneggi il proprio equipaggio."
+      ],
+      "pressure": "Latente; disponibilità e convocazioni devono essere confermate, non sono un orologio di catastrofe.",
+      "impact": "🟡",
+      "evolution_without_pc": "Prosegue gli incarichi, documenta i limiti e cerca un accordo con le controparti. Non si teletrasporta né accetta automaticamente ogni ordine. Esiti futuri aperti.",
+      "biography_complement": "Conservò per anni verbali di soccorso e ricostruzioni di naufragi. Testimonia sui dati attestati, senza trasformare il favore della casa reale in una verità probatoria.",
+      "specific_fear": "Un capitano teme che conservare il verbale completo danneggi il proprio equipaggio.",
+      "visual": "Man51, tan weathered skin, salt-and-pepper short hair, green-grey eyes, short moustache, dark teal waistcoat and black maritime frock coat.",
+      "biological_population": "Umano",
+      "biology": {
+        "revision": 358,
+        "biological_population": "Umano",
+        "present_body": "Corpo umano modificato soltanto secondo la propria Effigy e lo stadio realmente posseduto.",
+        "longevity_exception": "Nessuna immortalità o vita millenaria assegnata dal ruolo.",
+        "knowledge_access": "Aspetto e incarico pubblicamente reperibili; inventario e agende secondo fonte effettivamente letta."
+      },
+      "civil_memory": "Incarico anteriore al coma reperibile in elenchi e credenziali. Non è automaticamente una conoscenza personale di Alexander.",
+      "service_revision": 358,
+      "visual_assets": [
+        "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Marethis/CAST-575_Tomas_Arvell/01_Ritratto_v1.png"
+      ]
+    },
+    {
+      "id": "CAST-576",
+      "name": "Shan Luren",
+      "age_or_condition": "39",
+      "place": "Teru",
+      "location_id": "LOC-047",
+      "state": "Teral",
+      "continent": "Iskar",
+      "powers": [
+        {
+          "effigy": "Chain",
+          "stage": 4,
+          "stage_title": "Bondwarden",
+          "general_rank": "Transfiguration"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Responsabile dei raccordi di custodia della residenza di Teru",
+      "goal": "Distinguere gli accessi degli esaminatori da quelli dei funzionari di corte.",
+      "tension": "Un ispettore chiede una scorciatoia che renderebbe impossibile ricostruire chi ha usato un deposito.",
+      "secret": "La tensione corrente non è un rapporto risolto: Un ispettore chiede una scorciatoia che renderebbe impossibile ricostruire chi ha usato un deposito. Nessuna conoscenza del ritorno di Edran.",
+      "voice": "Parla con precisione professionale; distingue ciò che ha verificato da ciò che il committente desidera.",
+      "tier": "IMPORTANT",
+      "origin": "Presidi e contratti 358: persona già attiva nel mondo prima del T0, ora censita nel cast.",
+      "network": "Presidi di corte e servizi convenzionati di Teral",
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-530",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        }
+      ],
+      "sources": [
+        "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+        "RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md"
+      ],
+      "limits": "Una sola Effigy, nessuna Root, Seat, avatar o immunità universale. Gli esercizi richiedono accesso e carico reali; l’incarico non amplia lo stadio.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Chain",
+            "stage": 4,
+            "stage_title": "Bondwarden",
+            "general_rank": "Transfiguration"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "avatar_permission": false,
+        "ordinary_means": [
+          "Credenziali professionali, accesso alle sedi autorizzate e strumenti del proprio servizio. Nessuna arma o Medium superiore implicitamente disponibile."
+        ],
+        "special_medium": null
+      },
+      "acquisition_exception": null,
+      "power_acquisition": "Incorporazione personale anteriore al T0, formazione e avanzamento progressivi presso servizi autorizzati; nessun salto causato dall’assunzione a corte.",
+      "current": "Distinguere gli accessi degli esaminatori da quelli dei funzionari di corte.",
+      "document": "CAST_RISERVATO/CAST-576.md",
+      "hooks": [
+        "Una richiesta professionale riguarda: Distinguere gli accessi degli esaminatori da quelli dei funzionari di corte.",
+        "Una controparte contesta il costo o il limite del servizio: Un ispettore chiede una scorciatoia che renderebbe impossibile ricostruire chi ha usato un deposito."
+      ],
+      "pressure": "Latente; disponibilità e convocazioni devono essere confermate, non sono un orologio di catastrofe.",
+      "impact": "🟠",
+      "evolution_without_pc": "Prosegue gli incarichi, documenta i limiti e cerca un accordo con le controparti. Non si teletrasporta né accetta automaticamente ogni ordine. Esiti futuri aperti.",
+      "biography_complement": "Servì negli ispettorati dei passaggi e ottenne l’incarico dopo avere denunciato una custodia mantenuta oltre il mandato. Non identifica sicurezza e obbedienza privata alla sovrana.",
+      "specific_fear": "Un ispettore chiede una scorciatoia che renderebbe impossibile ricostruire chi ha usato un deposito.",
+      "visual": "Man39, golden-brown skin, straight black hair neatly tied back, dark almond eyes, clean-shaven narrow face, charcoal high-collared late-industrial silk service coat.",
+      "biological_population": "Umano",
+      "biology": {
+        "revision": 358,
+        "biological_population": "Umano",
+        "present_body": "Corpo umano modificato soltanto secondo la propria Effigy e lo stadio realmente posseduto.",
+        "longevity_exception": "Nessuna immortalità o vita millenaria assegnata dal ruolo.",
+        "knowledge_access": "Aspetto e incarico pubblicamente reperibili; inventario e agende secondo fonte effettivamente letta."
+      },
+      "civil_memory": "Incarico anteriore al coma reperibile in elenchi e credenziali. Non è automaticamente una conoscenza personale di Alexander.",
+      "service_revision": 358,
+      "visual_assets": [
+        "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Teral/CAST-576_Shan_Luren/01_Ritratto_v1.png"
+      ]
+    },
+    {
+      "id": "CAST-577",
+      "name": "Yuna Senri",
+      "age_or_condition": "36",
+      "place": "Teru",
+      "location_id": "LOC-047",
+      "state": "Teral",
+      "continent": "Iskar",
+      "powers": [
+        {
+          "effigy": "Heart",
+          "stage": 3,
+          "stage_title": "Restorer",
+          "general_rank": "Embodiment"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Curatrice convenzionata di palazzo e dei servizi fluviali di Teru",
+      "goal": "Rendere la reperibilità di palazzo compatibile con le urgenze civili già accettate.",
+      "tension": "La richiesta di una presenza cerimoniale coincide con una visita remota programmata.",
+      "secret": "La tensione corrente non è un rapporto risolto: La richiesta di una presenza cerimoniale coincide con una visita remota programmata. Nessuna conoscenza del ritorno di Edran.",
+      "voice": "Parla con precisione professionale; distingue ciò che ha verificato da ciò che il committente desidera.",
+      "tier": "IMPORTANT",
+      "origin": "Presidi e contratti 358: persona già attiva nel mondo prima del T0, ora censita nel cast.",
+      "network": "Presidi di corte e servizi convenzionati di Teral",
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-530",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        }
+      ],
+      "sources": [
+        "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+        "RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md"
+      ],
+      "limits": "Una sola Effigy, nessuna Root, Seat, avatar o immunità universale. Gli esercizi richiedono accesso e carico reali; l’incarico non amplia lo stadio.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Heart",
+            "stage": 3,
+            "stage_title": "Restorer",
+            "general_rank": "Embodiment"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "avatar_permission": false,
+        "ordinary_means": [
+          "Credenziali professionali, accesso alle sedi autorizzate e strumenti del proprio servizio. Nessuna arma o Medium superiore implicitamente disponibile."
+        ],
+        "special_medium": null
+      },
+      "acquisition_exception": null,
+      "power_acquisition": "Incorporazione personale anteriore al T0, formazione e avanzamento progressivi presso servizi autorizzati; nessun salto causato dall’assunzione a corte.",
+      "current": "Rendere la reperibilità di palazzo compatibile con le urgenze civili già accettate.",
+      "document": "CAST_RISERVATO/CAST-577.md",
+      "hooks": [
+        "Una richiesta professionale riguarda: Rendere la reperibilità di palazzo compatibile con le urgenze civili già accettate.",
+        "Una controparte contesta il costo o il limite del servizio: La richiesta di una presenza cerimoniale coincide con una visita remota programmata."
+      ],
+      "pressure": "Latente; disponibilità e convocazioni devono essere confermate, non sono un orologio di catastrofe.",
+      "impact": "🟡",
+      "evolution_without_pc": "Prosegue gli incarichi, documenta i limiti e cerca un accordo con le controparti. Non si teletrasporta né accetta automaticamente ogni ordine. Esiti futuri aperti.",
+      "biography_complement": "Lavorò sui battelli medici prima della convenzione di corte. Mantiene il proprio ambulatorio e deve concordare sostituzioni quando segue un viaggio reale.",
+      "specific_fear": "La richiesta di una presenza cerimoniale coincide con una visita remota programmata.",
+      "visual": "Woman36, warm golden-brown skin, straight black hair in a compact bun, dark almond eyes, round thoughtful face, indigo high-neck medical day dress and plain silver pin.",
+      "biological_population": "Umano",
+      "biology": {
+        "revision": 358,
+        "biological_population": "Umano",
+        "present_body": "Corpo umano modificato soltanto secondo la propria Effigy e lo stadio realmente posseduto.",
+        "longevity_exception": "Nessuna immortalità o vita millenaria assegnata dal ruolo.",
+        "knowledge_access": "Aspetto e incarico pubblicamente reperibili; inventario e agende secondo fonte effettivamente letta."
+      },
+      "civil_memory": "Incarico anteriore al coma reperibile in elenchi e credenziali. Non è automaticamente una conoscenza personale di Alexander.",
+      "service_revision": 358,
+      "visual_assets": [
+        "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Teral/CAST-577_Yuna_Senri/01_Ritratto_v1.png"
+      ]
+    },
+    {
+      "id": "CAST-578",
+      "name": "Ragnhild Soren",
+      "age_or_condition": "47",
+      "place": "Dorven",
+      "location_id": "LOC-057",
+      "state": "Dorel",
+      "continent": "Veyra",
+      "powers": [
+        {
+          "effigy": "Halo",
+          "stage": 4,
+          "stage_title": "Lightbearer",
+          "general_rank": "Transfiguration"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Responsabile dei presidi di residenza e della sicurezza luminosa di Dorven",
+      "goal": "Mantenere accessi di soccorso durante la chiusura di una parte della residenza.",
+      "tension": "Una soluzione difensiva ostacola il personale che deve intervenire in caso d’incendio.",
+      "secret": "La tensione corrente non è un rapporto risolto: Una soluzione difensiva ostacola il personale che deve intervenire in caso d’incendio. Nessuna conoscenza del ritorno di Edran.",
+      "voice": "Parla con precisione professionale; distingue ciò che ha verificato da ciò che il committente desidera.",
+      "tier": "IMPORTANT",
+      "origin": "Presidi e contratti 358: persona già attiva nel mondo prima del T0, ora censita nel cast.",
+      "network": "Presidi di corte e servizi convenzionati di Dorel",
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-532",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        }
+      ],
+      "sources": [
+        "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+        "RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md"
+      ],
+      "limits": "Una sola Effigy, nessuna Root, Seat, avatar o immunità universale. Gli esercizi richiedono accesso e carico reali; l’incarico non amplia lo stadio.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Halo",
+            "stage": 4,
+            "stage_title": "Lightbearer",
+            "general_rank": "Transfiguration"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "avatar_permission": false,
+        "ordinary_means": [
+          "Credenziali professionali, accesso alle sedi autorizzate e strumenti del proprio servizio. Nessuna arma o Medium superiore implicitamente disponibile."
+        ],
+        "special_medium": null
+      },
+      "acquisition_exception": null,
+      "power_acquisition": "Incorporazione personale anteriore al T0, formazione e avanzamento progressivi presso servizi autorizzati; nessun salto causato dall’assunzione a corte.",
+      "current": "Mantenere accessi di soccorso durante la chiusura di una parte della residenza.",
+      "document": "CAST_RISERVATO/CAST-578.md",
+      "hooks": [
+        "Una richiesta professionale riguarda: Mantenere accessi di soccorso durante la chiusura di una parte della residenza.",
+        "Una controparte contesta il costo o il limite del servizio: Una soluzione difensiva ostacola il personale che deve intervenire in caso d’incendio."
+      ],
+      "pressure": "Latente; disponibilità e convocazioni devono essere confermate, non sono un orologio di catastrofe.",
+      "impact": "🟠",
+      "evolution_without_pc": "Prosegue gli incarichi, documenta i limiti e cerca un accordo con le controparti. Non si teletrasporta né accetta automaticamente ogni ordine. Esiti futuri aperti.",
+      "biography_complement": "Lavorò nei segnali costieri prima di formarsi nella protezione di persone. Il suo compito non è governare l’intera rete dei fari e non può garantire immunità contro ogni maledizione.",
+      "specific_fear": "Una soluzione difensiva ostacola il personale che deve intervenire in caso d’incendio.",
+      "visual": "Woman47, pale freckled skin, ash-blond braided hair with silver at temples, grey-blue eyes, strong mature face, slate wool service coat with narrow ivory collar.",
+      "biological_population": "Umano",
+      "biology": {
+        "revision": 358,
+        "biological_population": "Umano",
+        "present_body": "Corpo umano modificato soltanto secondo la propria Effigy e lo stadio realmente posseduto.",
+        "longevity_exception": "Nessuna immortalità o vita millenaria assegnata dal ruolo.",
+        "knowledge_access": "Aspetto e incarico pubblicamente reperibili; inventario e agende secondo fonte effettivamente letta."
+      },
+      "civil_memory": "Incarico anteriore al coma reperibile in elenchi e credenziali. Non è automaticamente una conoscenza personale di Alexander.",
+      "service_revision": 358,
+      "visual_assets": [
+        "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Dorel/CAST-578_Ragnhild_Soren/01_Ritratto_v1.png"
+      ]
+    },
+    {
+      "id": "CAST-579",
+      "name": "Viggo Harn",
+      "age_or_condition": "55",
+      "place": "Dorven",
+      "location_id": "LOC-057",
+      "state": "Dorel",
+      "continent": "Veyra",
+      "powers": [
+        {
+          "effigy": "Heart",
+          "stage": 3,
+          "stage_title": "Restorer",
+          "general_rank": "Embodiment"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Curatore convenzionato della corte e del soccorso di Dorven",
+      "goal": "Chiarire quali prestazioni siano realmente disponibili durante una visita fuori capitale.",
+      "tension": "Un intermediario vende come certa una cura che lui aveva accettato soltanto di valutare.",
+      "secret": "La tensione corrente non è un rapporto risolto: Un intermediario vende come certa una cura che lui aveva accettato soltanto di valutare. Nessuna conoscenza del ritorno di Edran.",
+      "voice": "Parla con precisione professionale; distingue ciò che ha verificato da ciò che il committente desidera.",
+      "tier": "IMPORTANT",
+      "origin": "Presidi e contratti 358: persona già attiva nel mondo prima del T0, ora censita nel cast.",
+      "network": "Presidi di corte e servizi convenzionati di Dorel",
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-532",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        }
+      ],
+      "sources": [
+        "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+        "RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md"
+      ],
+      "limits": "Una sola Effigy, nessuna Root, Seat, avatar o immunità universale. Gli esercizi richiedono accesso e carico reali; l’incarico non amplia lo stadio.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Heart",
+            "stage": 3,
+            "stage_title": "Restorer",
+            "general_rank": "Embodiment"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "avatar_permission": false,
+        "ordinary_means": [
+          "Credenziali professionali, accesso alle sedi autorizzate e strumenti del proprio servizio. Nessuna arma o Medium superiore implicitamente disponibile."
+        ],
+        "special_medium": null
+      },
+      "acquisition_exception": null,
+      "power_acquisition": "Incorporazione personale anteriore al T0, formazione e avanzamento progressivi presso servizi autorizzati; nessun salto causato dall’assunzione a corte.",
+      "current": "Chiarire quali prestazioni siano realmente disponibili durante una visita fuori capitale.",
+      "document": "CAST_RISERVATO/CAST-579.md",
+      "hooks": [
+        "Una richiesta professionale riguarda: Chiarire quali prestazioni siano realmente disponibili durante una visita fuori capitale.",
+        "Una controparte contesta il costo o il limite del servizio: Un intermediario vende come certa una cura che lui aveva accettato soltanto di valutare."
+      ],
+      "pressure": "Latente; disponibilità e convocazioni devono essere confermate, non sono un orologio di catastrofe.",
+      "impact": "🟡",
+      "evolution_without_pc": "Prosegue gli incarichi, documenta i limiti e cerca un accordo con le controparti. Non si teletrasporta né accetta automaticamente ogni ordine. Esiti futuri aperti.",
+      "biography_complement": "Fu medico ordinario prima dell’incorporazione, che non sostituì la formazione clinica. Accettò l’incarico mantenendo una clausola di consenso e una quota di servizio pubblico.",
+      "specific_fear": "Un intermediario vende come certa una cura che lui aveva accettato soltanto di valutare.",
+      "visual": "Man55, fair weathered skin, grey hair swept back, pale blue eyes, trimmed grey beard, dark olive medical coat over a brown waistcoat.",
+      "biological_population": "Umano",
+      "biology": {
+        "revision": 358,
+        "biological_population": "Umano",
+        "present_body": "Corpo umano modificato soltanto secondo la propria Effigy e lo stadio realmente posseduto.",
+        "longevity_exception": "Nessuna immortalità o vita millenaria assegnata dal ruolo.",
+        "knowledge_access": "Aspetto e incarico pubblicamente reperibili; inventario e agende secondo fonte effettivamente letta."
+      },
+      "civil_memory": "Incarico anteriore al coma reperibile in elenchi e credenziali. Non è automaticamente una conoscenza personale di Alexander.",
+      "service_revision": 358,
+      "visual_assets": [
+        "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Dorel/CAST-579_Viggo_Harn/01_Ritratto_v1.png"
+      ]
+    },
+    {
+      "id": "CAST-580",
+      "name": "Maren Ild",
+      "age_or_condition": "42",
+      "place": "Elven",
+      "location_id": "LOC-015",
+      "state": "Ovel",
+      "continent": "Mereth",
+      "powers": [
+        {
+          "effigy": "Eclipse",
+          "stage": 4,
+          "stage_title": "Umbral Warden",
+          "general_rank": "Transfiguration"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Coordinatrice dei presidi comuni d’incontro della Dieta di Ovel",
+      "goal": "Proteggere un incontro senza isolare le delegazioni dai loro accompagnatori autorizzati.",
+      "tension": "Due principati contestano lo stesso filtro perché ostacola servizi differenti.",
+      "secret": "La tensione corrente non è un rapporto risolto: Due principati contestano lo stesso filtro perché ostacola servizi differenti. Nessuna conoscenza del ritorno di Edran.",
+      "voice": "Parla con precisione professionale; distingue ciò che ha verificato da ciò che il committente desidera.",
+      "tier": "IMPORTANT",
+      "origin": "Presidi e contratti 358: persona già attiva nel mondo prima del T0, ora censita nel cast.",
+      "network": "Presidi di corte e servizi convenzionati di Ovel",
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-534",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-536",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-538",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-540",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-542",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-544",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-546",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-548",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-550",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-552",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-554",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        }
+      ],
+      "sources": [
+        "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+        "RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md"
+      ],
+      "limits": "Una sola Effigy, nessuna Root, Seat, avatar o immunità universale. Gli esercizi richiedono accesso e carico reali; l’incarico non amplia lo stadio.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Eclipse",
+            "stage": 4,
+            "stage_title": "Umbral Warden",
+            "general_rank": "Transfiguration"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "avatar_permission": false,
+        "ordinary_means": [
+          "Credenziali professionali, accesso alle sedi autorizzate e strumenti del proprio servizio. Nessuna arma o Medium superiore implicitamente disponibile."
+        ],
+        "special_medium": null
+      },
+      "acquisition_exception": null,
+      "power_acquisition": "Incorporazione personale anteriore al T0, formazione e avanzamento progressivi presso servizi autorizzati; nessun salto causato dall’assunzione a corte.",
+      "current": "Proteggere un incontro senza isolare le delegazioni dai loro accompagnatori autorizzati.",
+      "document": "CAST_RISERVATO/CAST-580.md",
+      "hooks": [
+        "Una richiesta professionale riguarda: Proteggere un incontro senza isolare le delegazioni dai loro accompagnatori autorizzati.",
+        "Una controparte contesta il costo o il limite del servizio: Due principati contestano lo stesso filtro perché ostacola servizi differenti."
+      ],
+      "pressure": "Latente; disponibilità e convocazioni devono essere confermate, non sono un orologio di catastrofe.",
+      "impact": "🟠",
+      "evolution_without_pc": "Prosegue gli incarichi, documenta i limiti e cerca un accordo con le controparti. Non si teletrasporta né accetta automaticamente ogni ordine. Esiti futuri aperti.",
+      "biography_complement": "Si formò nei ricoveri della Veglia e lavorò poi sulla separazione di accessi nelle assemblee. Serve i luoghi concordati della Dieta, non una Corona superiore agli undici principi.",
+      "specific_fear": "Due principati contestano lo stesso filtro perché ostacola servizi differenti.",
+      "visual": "Woman42, fair warm skin, straight dark brown bob with a silver strand, grey eyes, narrow composed face, midnight-blue tailored coat with restrained silver seams.",
+      "biological_population": "Umano",
+      "biology": {
+        "revision": 358,
+        "biological_population": "Umano",
+        "present_body": "Corpo umano modificato soltanto secondo la propria Effigy e lo stadio realmente posseduto.",
+        "longevity_exception": "Nessuna immortalità o vita millenaria assegnata dal ruolo.",
+        "knowledge_access": "Aspetto e incarico pubblicamente reperibili; inventario e agende secondo fonte effettivamente letta."
+      },
+      "civil_memory": "Incarico anteriore al coma reperibile in elenchi e credenziali. Non è automaticamente una conoscenza personale di Alexander.",
+      "service_revision": 358,
+      "visual_assets": [
+        "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Ovel/CAST-580_Maren_Ild/01_Ritratto_v1.png"
+      ]
+    },
+    {
+      "id": "CAST-581",
+      "name": "Cyran Belot",
+      "age_or_condition": "38",
+      "place": "Elven",
+      "location_id": "LOC-015",
+      "state": "Ovel",
+      "continent": "Mereth",
+      "powers": [
+        {
+          "effigy": "Labyrinth",
+          "stage": 3,
+          "stage_title": "Mindwright",
+          "general_rank": "Embodiment"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Consulente indipendente per incidenti cognitivi della Dieta",
+      "goal": "Ottenere campioni e colloqui pertinenti prima di attribuire un disaccordo politico a controllo mentale.",
+      "tension": "Un delegato chiede una diagnosi sull’avversario senza che questi abbia dato consenso né vi sia un mandato valido.",
+      "secret": "La tensione corrente non è un rapporto risolto: Un delegato chiede una diagnosi sull’avversario senza che questi abbia dato consenso né vi sia un mandato valido. Nessuna conoscenza del ritorno di Edran.",
+      "voice": "Parla con precisione professionale; distingue ciò che ha verificato da ciò che il committente desidera.",
+      "tier": "IMPORTANT",
+      "origin": "Presidi e contratti 358: persona già attiva nel mondo prima del T0, ora censita nel cast.",
+      "network": "Presidi di corte e servizi convenzionati di Ovel",
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-534",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-536",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-538",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-540",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-542",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-544",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-546",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-548",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-550",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-552",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-554",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        }
+      ],
+      "sources": [
+        "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+        "RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md"
+      ],
+      "limits": "Una sola Effigy, nessuna Root, Seat, avatar o immunità universale. Gli esercizi richiedono accesso e carico reali; l’incarico non amplia lo stadio.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Labyrinth",
+            "stage": 3,
+            "stage_title": "Mindwright",
+            "general_rank": "Embodiment"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "avatar_permission": false,
+        "ordinary_means": [
+          "Credenziali professionali, accesso alle sedi autorizzate e strumenti del proprio servizio. Nessuna arma o Medium superiore implicitamente disponibile."
+        ],
+        "special_medium": null
+      },
+      "acquisition_exception": null,
+      "power_acquisition": "Incorporazione personale anteriore al T0, formazione e avanzamento progressivi presso servizi autorizzati; nessun salto causato dall’assunzione a corte.",
+      "current": "Ottenere campioni e colloqui pertinenti prima di attribuire un disaccordo politico a controllo mentale.",
+      "document": "CAST_RISERVATO/CAST-581.md",
+      "hooks": [
+        "Una richiesta professionale riguarda: Ottenere campioni e colloqui pertinenti prima di attribuire un disaccordo politico a controllo mentale.",
+        "Una controparte contesta il costo o il limite del servizio: Un delegato chiede una diagnosi sull’avversario senza che questi abbia dato consenso né vi sia un mandato valido."
+      ],
+      "pressure": "Latente; disponibilità e convocazioni devono essere confermate, non sono un orologio di catastrofe.",
+      "impact": "🟡",
+      "evolution_without_pc": "Prosegue gli incarichi, documenta i limiti e cerca un accordo con le controparti. Non si teletrasporta né accetta automaticamente ogni ordine. Esiti futuri aperti.",
+      "biography_complement": "Lavorò nella cura di disturbi del sonno e imparò a distinguere suggestione, trauma e coercizione investita. Il contratto vieta di usare un colloquio clinico come interrogatorio segreto per un principe.",
+      "specific_fear": "Un delegato chiede una diagnosi sull’avversario senza che questi abbia dato consenso né vi sia un mandato valido.",
+      "visual": "Man38, light olive skin, dark curly hair, hazel eyes, clean-shaven long face, dark plum waistcoat and modest black frock coat.",
+      "biological_population": "Umano",
+      "biology": {
+        "revision": 358,
+        "biological_population": "Umano",
+        "present_body": "Corpo umano modificato soltanto secondo la propria Effigy e lo stadio realmente posseduto.",
+        "longevity_exception": "Nessuna immortalità o vita millenaria assegnata dal ruolo.",
+        "knowledge_access": "Aspetto e incarico pubblicamente reperibili; inventario e agende secondo fonte effettivamente letta."
+      },
+      "civil_memory": "Incarico anteriore al coma reperibile in elenchi e credenziali. Non è automaticamente una conoscenza personale di Alexander.",
+      "service_revision": 358,
+      "visual_assets": [
+        "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Ovel/CAST-581_Cyran_Belot/01_Ritratto_v1.png"
+      ]
+    },
+    {
+      "id": "CAST-582",
+      "name": "Elsa Norrel",
+      "age_or_condition": "45",
+      "place": "Elven",
+      "location_id": "LOC-015",
+      "state": "Ovel",
+      "continent": "Mereth",
+      "powers": [
+        {
+          "effigy": "Archive",
+          "stage": 3,
+          "stage_title": "Curator",
+          "general_rank": "Embodiment"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Perita delle credenziali e delle consegne di custodia della Dieta",
+      "goal": "Rendere verificabile il passaggio di una credenziale fra due delegazioni.",
+      "tension": "Un ufficio vorrebbe trattare la somiglianza dei sigilli come identità del mandato.",
+      "secret": "La tensione corrente non è un rapporto risolto: Un ufficio vorrebbe trattare la somiglianza dei sigilli come identità del mandato. Nessuna conoscenza del ritorno di Edran.",
+      "voice": "Parla con precisione professionale; distingue ciò che ha verificato da ciò che il committente desidera.",
+      "tier": "IMPORTANT",
+      "origin": "Presidi e contratti 358: persona già attiva nel mondo prima del T0, ora censita nel cast.",
+      "network": "Presidi di corte e servizi convenzionati di Ovel",
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-534",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-536",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-538",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-540",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-542",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-544",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-546",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-548",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-550",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-552",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-554",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        }
+      ],
+      "sources": [
+        "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+        "RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md"
+      ],
+      "limits": "Una sola Effigy, nessuna Root, Seat, avatar o immunità universale. Gli esercizi richiedono accesso e carico reali; l’incarico non amplia lo stadio.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Archive",
+            "stage": 3,
+            "stage_title": "Curator",
+            "general_rank": "Embodiment"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "avatar_permission": false,
+        "ordinary_means": [
+          "Credenziali professionali, accesso alle sedi autorizzate e strumenti del proprio servizio. Nessuna arma o Medium superiore implicitamente disponibile."
+        ],
+        "special_medium": null
+      },
+      "acquisition_exception": null,
+      "power_acquisition": "Incorporazione personale anteriore al T0, formazione e avanzamento progressivi presso servizi autorizzati; nessun salto causato dall’assunzione a corte.",
+      "current": "Rendere verificabile il passaggio di una credenziale fra due delegazioni.",
+      "document": "CAST_RISERVATO/CAST-582.md",
+      "hooks": [
+        "Una richiesta professionale riguarda: Rendere verificabile il passaggio di una credenziale fra due delegazioni.",
+        "Una controparte contesta il costo o il limite del servizio: Un ufficio vorrebbe trattare la somiglianza dei sigilli come identità del mandato."
+      ],
+      "pressure": "Latente; disponibilità e convocazioni devono essere confermate, non sono un orologio di catastrofe.",
+      "impact": "🟡",
+      "evolution_without_pc": "Prosegue gli incarichi, documenta i limiti e cerca un accordo con le controparti. Non si teletrasporta né accetta automaticamente ogni ordine. Esiti futuri aperti.",
+      "biography_complement": "Confrontò registri di residenza prima di passare agli accordi interprincipeschi. Risponde al mandato comune e conserva il diritto di annotare dissensi fra le copie.",
+      "specific_fear": "Un ufficio vorrebbe trattare la somiglianza dei sigilli come identità del mandato.",
+      "visual": "Woman45, medium brown skin, black hair threaded silver in a low bun, dark brown eyes, dignified oval face, dark green high-neck formal day dress.",
+      "biological_population": "Umano",
+      "biology": {
+        "revision": 358,
+        "biological_population": "Umano",
+        "present_body": "Corpo umano modificato soltanto secondo la propria Effigy e lo stadio realmente posseduto.",
+        "longevity_exception": "Nessuna immortalità o vita millenaria assegnata dal ruolo.",
+        "knowledge_access": "Aspetto e incarico pubblicamente reperibili; inventario e agende secondo fonte effettivamente letta."
+      },
+      "civil_memory": "Incarico anteriore al coma reperibile in elenchi e credenziali. Non è automaticamente una conoscenza personale di Alexander.",
+      "service_revision": 358,
+      "visual_assets": [
+        "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Ovel/CAST-582_Elsa_Norrel/01_Ritratto_v1.png"
+      ]
+    },
+    {
+      "id": "CAST-583",
+      "name": "Sivert Kald",
+      "age_or_condition": "50",
+      "place": "Asren",
+      "location_id": "LOC-052",
+      "state": "Askar",
+      "continent": "Nareth",
+      "powers": [
+        {
+          "effigy": "Banner",
+          "stage": 4,
+          "stage_title": "Warmaster",
+          "general_rank": "Transfiguration"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Coordinatore della scorta comune dei tre regni associati",
+      "goal": "Concordare una scorta utilizzabile senza militarizzare una trattativa doganale.",
+      "tension": "I tre regni chiedono presenza nello stesso intervallo, ma il reparto è uno solo.",
+      "secret": "La tensione corrente non è un rapporto risolto: I tre regni chiedono presenza nello stesso intervallo, ma il reparto è uno solo. Nessuna conoscenza del ritorno di Edran.",
+      "voice": "Parla con precisione professionale; distingue ciò che ha verificato da ciò che il committente desidera.",
+      "tier": "IMPORTANT",
+      "origin": "Presidi e contratti 358: persona già attiva nel mondo prima del T0, ora censita nel cast.",
+      "network": "Presidi di corte e servizi convenzionati di Askar",
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-556",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-558",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-560",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        }
+      ],
+      "sources": [
+        "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+        "RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md"
+      ],
+      "limits": "Una sola Effigy, nessuna Root, Seat, avatar o immunità universale. Gli esercizi richiedono accesso e carico reali; l’incarico non amplia lo stadio.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Banner",
+            "stage": 4,
+            "stage_title": "Warmaster",
+            "general_rank": "Transfiguration"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "avatar_permission": false,
+        "ordinary_means": [
+          "Credenziali professionali, accesso alle sedi autorizzate e strumenti del proprio servizio. Nessuna arma o Medium superiore implicitamente disponibile."
+        ],
+        "special_medium": null
+      },
+      "acquisition_exception": null,
+      "power_acquisition": "Incorporazione personale anteriore al T0, formazione e avanzamento progressivi presso servizi autorizzati; nessun salto causato dall’assunzione a corte.",
+      "current": "Concordare una scorta utilizzabile senza militarizzare una trattativa doganale.",
+      "document": "CAST_RISERVATO/CAST-583.md",
+      "hooks": [
+        "Una richiesta professionale riguarda: Concordare una scorta utilizzabile senza militarizzare una trattativa doganale.",
+        "Una controparte contesta il costo o il limite del servizio: I tre regni chiedono presenza nello stesso intervallo, ma il reparto è uno solo."
+      ],
+      "pressure": "Latente; disponibilità e convocazioni devono essere confermate, non sono un orologio di catastrofe.",
+      "impact": "🟠",
+      "evolution_without_pc": "Prosegue gli incarichi, documenta i limiti e cerca un accordo con le controparti. Non si teletrasporta né accetta automaticamente ogni ordine. Esiti futuri aperti.",
+      "biography_complement": "Comandò squadre di soccorso prima della scorta comune. Il patto distingue protezione delle delegazioni e guerra: non può trasferire il reparto a un re che voglia usarlo contro gli altri.",
+      "specific_fear": "I tre regni chiedono presenza nello stesso intervallo, ma il reparto è uno solo.",
+      "visual": "Man50, ruddy fair skin, cropped sandy-grey hair, grey eyes, square face, short full beard, charcoal wool service uniform with bronze shoulder clasp.",
+      "biological_population": "Umano",
+      "biology": {
+        "revision": 358,
+        "biological_population": "Umano",
+        "present_body": "Corpo umano modificato soltanto secondo la propria Effigy e lo stadio realmente posseduto.",
+        "longevity_exception": "Nessuna immortalità o vita millenaria assegnata dal ruolo.",
+        "knowledge_access": "Aspetto e incarico pubblicamente reperibili; inventario e agende secondo fonte effettivamente letta."
+      },
+      "civil_memory": "Incarico anteriore al coma reperibile in elenchi e credenziali. Non è automaticamente una conoscenza personale di Alexander.",
+      "service_revision": 358,
+      "visual_assets": [
+        "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Askar/CAST-583_Sivert_Kald/01_Ritratto_v1.png"
+      ]
+    },
+    {
+      "id": "CAST-584",
+      "name": "Anja Vestr",
+      "age_or_condition": "37",
+      "place": "Asren",
+      "location_id": "LOC-052",
+      "state": "Askar",
+      "continent": "Nareth",
+      "powers": [
+        {
+          "effigy": "Archive",
+          "stage": 3,
+          "stage_title": "Curator",
+          "general_rank": "Embodiment"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Perita delle credenziali del consiglio associato di Askar",
+      "goal": "Conservare una catena di autenticità accettabile per tutti e tre i regni.",
+      "tension": "Un delegato rifiuta una copia per ragioni politiche pur non contestandone il contenuto.",
+      "secret": "La tensione corrente non è un rapporto risolto: Un delegato rifiuta una copia per ragioni politiche pur non contestandone il contenuto. Nessuna conoscenza del ritorno di Edran.",
+      "voice": "Parla con precisione professionale; distingue ciò che ha verificato da ciò che il committente desidera.",
+      "tier": "IMPORTANT",
+      "origin": "Presidi e contratti 358: persona già attiva nel mondo prima del T0, ora censita nel cast.",
+      "network": "Presidi di corte e servizi convenzionati di Askar",
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-556",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-558",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-560",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        }
+      ],
+      "sources": [
+        "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+        "RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md"
+      ],
+      "limits": "Una sola Effigy, nessuna Root, Seat, avatar o immunità universale. Gli esercizi richiedono accesso e carico reali; l’incarico non amplia lo stadio.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Archive",
+            "stage": 3,
+            "stage_title": "Curator",
+            "general_rank": "Embodiment"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "avatar_permission": false,
+        "ordinary_means": [
+          "Credenziali professionali, accesso alle sedi autorizzate e strumenti del proprio servizio. Nessuna arma o Medium superiore implicitamente disponibile."
+        ],
+        "special_medium": null
+      },
+      "acquisition_exception": null,
+      "power_acquisition": "Incorporazione personale anteriore al T0, formazione e avanzamento progressivi presso servizi autorizzati; nessun salto causato dall’assunzione a corte.",
+      "current": "Conservare una catena di autenticità accettabile per tutti e tre i regni.",
+      "document": "CAST_RISERVATO/CAST-584.md",
+      "hooks": [
+        "Una richiesta professionale riguarda: Conservare una catena di autenticità accettabile per tutti e tre i regni.",
+        "Una controparte contesta il costo o il limite del servizio: Un delegato rifiuta una copia per ragioni politiche pur non contestandone il contenuto."
+      ],
+      "pressure": "Latente; disponibilità e convocazioni devono essere confermate, non sono un orologio di catastrofe.",
+      "impact": "🟡",
+      "evolution_without_pc": "Prosegue gli incarichi, documenta i limiti e cerca un accordo con le controparti. Non si teletrasporta né accetta automaticamente ogni ordine. Esiti futuri aperti.",
+      "biography_complement": "Fu copista di confine e partecipò alla ricostruzione di un errore doganale nel807. Non riconosce ad Asren un potere di modificare da solo le credenziali comuni.",
+      "specific_fear": "Un delegato rifiuta una copia per ragioni politiche pur non contestandone il contenuto.",
+      "visual": "Woman37, pale freckled skin, chestnut hair pinned into a low braid, green-grey eyes, sober navy high-collared wool dress.",
+      "biological_population": "Umano",
+      "biology": {
+        "revision": 358,
+        "biological_population": "Umano",
+        "present_body": "Corpo umano modificato soltanto secondo la propria Effigy e lo stadio realmente posseduto.",
+        "longevity_exception": "Nessuna immortalità o vita millenaria assegnata dal ruolo.",
+        "knowledge_access": "Aspetto e incarico pubblicamente reperibili; inventario e agende secondo fonte effettivamente letta."
+      },
+      "civil_memory": "Incarico anteriore al coma reperibile in elenchi e credenziali. Non è automaticamente una conoscenza personale di Alexander.",
+      "service_revision": 358,
+      "visual_assets": [
+        "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Askar/CAST-584_Anja_Vestr/01_Ritratto_v1.png"
+      ]
+    },
+    {
+      "id": "CAST-585",
+      "name": "Farid Eln",
+      "age_or_condition": "41",
+      "place": "Asren",
+      "location_id": "LOC-052",
+      "state": "Askar",
+      "continent": "Nareth",
+      "powers": [
+        {
+          "effigy": "Heart",
+          "stage": 2,
+          "stage_title": "Chirurgeon",
+          "general_rank": "Attunement"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Curatore convenzionato delle delegazioni e del soccorso associato",
+      "goal": "Preparare cure realistiche per delegazioni che viaggiano in tempi diversi.",
+      "tension": "Il fondo comune copre il viaggio ma non ogni intervento promesso dai segretari dei regni.",
+      "secret": "La tensione corrente non è un rapporto risolto: Il fondo comune copre il viaggio ma non ogni intervento promesso dai segretari dei regni. Nessuna conoscenza del ritorno di Edran.",
+      "voice": "Parla con precisione professionale; distingue ciò che ha verificato da ciò che il committente desidera.",
+      "tier": "IMPORTANT",
+      "origin": "Presidi e contratti 358: persona già attiva nel mondo prima del T0, ora censita nel cast.",
+      "network": "Presidi di corte e servizi convenzionati di Askar",
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-556",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-558",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        },
+        {
+          "target": "CAST-560",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        }
+      ],
+      "sources": [
+        "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+        "RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md"
+      ],
+      "limits": "Una sola Effigy, nessuna Root, Seat, avatar o immunità universale. Gli esercizi richiedono accesso e carico reali; l’incarico non amplia lo stadio.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Heart",
+            "stage": 2,
+            "stage_title": "Chirurgeon",
+            "general_rank": "Attunement"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "avatar_permission": false,
+        "ordinary_means": [
+          "Credenziali professionali, accesso alle sedi autorizzate e strumenti del proprio servizio. Nessuna arma o Medium superiore implicitamente disponibile."
+        ],
+        "special_medium": null
+      },
+      "acquisition_exception": null,
+      "power_acquisition": "Incorporazione personale anteriore al T0, formazione e avanzamento progressivi presso servizi autorizzati; nessun salto causato dall’assunzione a corte.",
+      "current": "Preparare cure realistiche per delegazioni che viaggiano in tempi diversi.",
+      "document": "CAST_RISERVATO/CAST-585.md",
+      "hooks": [
+        "Una richiesta professionale riguarda: Preparare cure realistiche per delegazioni che viaggiano in tempi diversi.",
+        "Una controparte contesta il costo o il limite del servizio: Il fondo comune copre il viaggio ma non ogni intervento promesso dai segretari dei regni."
+      ],
+      "pressure": "Latente; disponibilità e convocazioni devono essere confermate, non sono un orologio di catastrofe.",
+      "impact": "🟡",
+      "evolution_without_pc": "Prosegue gli incarichi, documenta i limiti e cerca un accordo con le controparti. Non si teletrasporta né accetta automaticamente ogni ordine. Esiti futuri aperti.",
+      "biography_complement": "Si trasferì per formazione e rimase dopo un inverno di emergenza sanitaria. Non rivendica capacità di restaurazione semidivina e conserva le limitazioni della propria licenza.",
+      "specific_fear": "Il fondo comune copre il viaggio ma non ogni intervento promesso dai segretari dei regni.",
+      "visual": "Man41, medium brown skin, dark short curly hair, brown eyes, neat black beard, brown wool coat and deep blue waistcoat, warm attentive expression.",
+      "biological_population": "Umano",
+      "biology": {
+        "revision": 358,
+        "biological_population": "Umano",
+        "present_body": "Corpo umano modificato soltanto secondo la propria Effigy e lo stadio realmente posseduto.",
+        "longevity_exception": "Nessuna immortalità o vita millenaria assegnata dal ruolo.",
+        "knowledge_access": "Aspetto e incarico pubblicamente reperibili; inventario e agende secondo fonte effettivamente letta."
+      },
+      "civil_memory": "Incarico anteriore al coma reperibile in elenchi e credenziali. Non è automaticamente una conoscenza personale di Alexander.",
+      "service_revision": 358,
+      "visual_assets": [
+        "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Askar/CAST-585_Farid_Eln/01_Ritratto_v1.png"
+      ]
+    },
+    {
+      "id": "CAST-586",
+      "name": "Elise Montray",
+      "age_or_condition": "46",
+      "place": "Veldane",
+      "location_id": "LOC-003",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "powers": [
+        {
+          "effigy": "Heart",
+          "stage": 3,
+          "stage_title": "Restorer",
+          "general_rank": "Embodiment"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Curatrice convenzionata di Veldane, con visite territoriali programmate",
+      "goal": "Concordare trasferimenti e precedenze cliniche senza vendere l’accesso esclusivo a una famiglia.",
+      "tension": "Una segreteria confonde prenotazione e priorità assoluta per il proprio titolare.",
+      "secret": "La tensione corrente non è un rapporto risolto: Una segreteria confonde prenotazione e priorità assoluta per il proprio titolare. Nessuna conoscenza del ritorno di Edran.",
+      "voice": "Parla con precisione professionale; distingue ciò che ha verificato da ciò che il committente desidera.",
+      "tier": "IMPORTANT",
+      "origin": "Presidi e contratti 358: persona già attiva nel mondo prima del T0, ora censita nel cast.",
+      "network": "Presidi di corte e servizi convenzionati di Orsanne",
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-524",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        }
+      ],
+      "sources": [
+        "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+        "RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md"
+      ],
+      "limits": "Una sola Effigy, nessuna Root, Seat, avatar o immunità universale. Gli esercizi richiedono accesso e carico reali; l’incarico non amplia lo stadio.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Heart",
+            "stage": 3,
+            "stage_title": "Restorer",
+            "general_rank": "Embodiment"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "avatar_permission": false,
+        "ordinary_means": [
+          "Credenziali professionali, accesso alle sedi autorizzate e strumenti del proprio servizio. Nessuna arma o Medium superiore implicitamente disponibile."
+        ],
+        "special_medium": null
+      },
+      "acquisition_exception": null,
+      "power_acquisition": "Incorporazione personale anteriore al T0, formazione e avanzamento progressivi presso servizi autorizzati; nessun salto causato dall’assunzione a corte.",
+      "current": "Concordare trasferimenti e precedenze cliniche senza vendere l’accesso esclusivo a una famiglia.",
+      "document": "CAST_RISERVATO/CAST-586.md",
+      "hooks": [
+        "Una richiesta professionale riguarda: Concordare trasferimenti e precedenze cliniche senza vendere l’accesso esclusivo a una famiglia.",
+        "Una controparte contesta il costo o il limite del servizio: Una segreteria confonde prenotazione e priorità assoluta per il proprio titolare."
+      ],
+      "pressure": "Latente; disponibilità e convocazioni devono essere confermate, non sono un orologio di catastrofe.",
+      "impact": "🟡",
+      "evolution_without_pc": "Prosegue gli incarichi, documenta i limiti e cerca un accordo con le controparti. Non si teletrasporta né accetta automaticamente ogni ordine. Esiti futuri aperti.",
+      "biography_complement": "Si formò nelle case di cura e aprì un servizio ambulatoriale prima delle convenzioni nobiliari. La disponibilità ai conti non assorbe i turni dei pazienti civili già accettati.",
+      "specific_fear": "Una segreteria confonde prenotazione e priorità assoluta per il proprio titolare.",
+      "visual": "Woman46, warm olive skin, dark auburn hair with silver at temples in a simple bun, brown eyes, deep teal high-neck medical dress, mature steady expression.",
+      "biological_population": "Umano",
+      "biology": {
+        "revision": 358,
+        "biological_population": "Umano",
+        "present_body": "Corpo umano modificato soltanto secondo la propria Effigy e lo stadio realmente posseduto.",
+        "longevity_exception": "Nessuna immortalità o vita millenaria assegnata dal ruolo.",
+        "knowledge_access": "Aspetto e incarico pubblicamente reperibili; inventario e agende secondo fonte effettivamente letta."
+      },
+      "civil_memory": "Incarico anteriore al coma reperibile in elenchi e credenziali. Non è automaticamente una conoscenza personale di Alexander.",
+      "service_revision": 358,
+      "visual_assets": [
+        "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Orsanne/CAST-586_Elise_Montray/01_Ritratto_v1.png"
+      ]
+    },
+    {
+      "id": "CAST-587",
+      "name": "Sena Navel",
+      "age_or_condition": "40",
+      "place": "Mareth",
+      "location_id": "LOC-044",
+      "state": "Marethis",
+      "continent": "Caldris",
+      "powers": [
+        {
+          "effigy": "Heart",
+          "stage": 2,
+          "stage_title": "Chirurgeon",
+          "general_rank": "Attunement"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Curatrice della clinica civile convenzionata per urgenze di corte",
+      "goal": "Separare l’urgenza clinica dal rango dei pazienti.",
+      "tension": "Un funzionario vorrebbe liberare un posto dimettendo un paziente ordinario ancora instabile.",
+      "secret": "La tensione corrente non è un rapporto risolto: Un funzionario vorrebbe liberare un posto dimettendo un paziente ordinario ancora instabile. Nessuna conoscenza del ritorno di Edran.",
+      "voice": "Parla con precisione professionale; distingue ciò che ha verificato da ciò che il committente desidera.",
+      "tier": "IMPORTANT",
+      "origin": "Presidi e contratti 358: persona già attiva nel mondo prima del T0, ora censita nel cast.",
+      "network": "Presidi di corte e servizi convenzionati di Marethis",
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-528",
+          "kind": "Incarico delimitato presso la corte o il presidio comune; non lealtà privata assoluta, non autorità di costringere il titolare."
+        }
+      ],
+      "sources": [
+        "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+        "RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md"
+      ],
+      "limits": "Una sola Effigy, nessuna Root, Seat, avatar o immunità universale. Gli esercizi richiedono accesso e carico reali; l’incarico non amplia lo stadio.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Heart",
+            "stage": 2,
+            "stage_title": "Chirurgeon",
+            "general_rank": "Attunement"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "avatar_permission": false,
+        "ordinary_means": [
+          "Credenziali professionali, accesso alle sedi autorizzate e strumenti del proprio servizio. Nessuna arma o Medium superiore implicitamente disponibile."
+        ],
+        "special_medium": null
+      },
+      "acquisition_exception": null,
+      "power_acquisition": "Incorporazione personale anteriore al T0, formazione e avanzamento progressivi presso servizi autorizzati; nessun salto causato dall’assunzione a corte.",
+      "current": "Separare l’urgenza clinica dal rango dei pazienti.",
+      "document": "CAST_RISERVATO/CAST-587.md",
+      "hooks": [
+        "Una richiesta professionale riguarda: Separare l’urgenza clinica dal rango dei pazienti.",
+        "Una controparte contesta il costo o il limite del servizio: Un funzionario vorrebbe liberare un posto dimettendo un paziente ordinario ancora instabile."
+      ],
+      "pressure": "Latente; disponibilità e convocazioni devono essere confermate, non sono un orologio di catastrofe.",
+      "impact": "🟡",
+      "evolution_without_pc": "Prosegue gli incarichi, documenta i limiti e cerca un accordo con le controparti. Non si teletrasporta né accetta automaticamente ogni ordine. Esiti futuri aperti.",
+      "biography_complement": "Lavorò con medici ordinari del porto e mantiene una licenza circoscritta. La convenzione autorizza valutazioni e interventi compatibili, non la promessa di guarire ogni ferito reale.",
+      "specific_fear": "Un funzionario vorrebbe liberare un posto dimettendo un paziente ordinario ancora instabile.",
+      "visual": "Woman40, tan olive skin, short black wavy hair pinned behind ears, dark eyes, practical dark brown medical jacket over an ivory high-neck blouse.",
+      "biological_population": "Umano",
+      "biology": {
+        "revision": 358,
+        "biological_population": "Umano",
+        "present_body": "Corpo umano modificato soltanto secondo la propria Effigy e lo stadio realmente posseduto.",
+        "longevity_exception": "Nessuna immortalità o vita millenaria assegnata dal ruolo.",
+        "knowledge_access": "Aspetto e incarico pubblicamente reperibili; inventario e agende secondo fonte effettivamente letta."
+      },
+      "civil_memory": "Incarico anteriore al coma reperibile in elenchi e credenziali. Non è automaticamente una conoscenza personale di Alexander.",
+      "service_revision": 358,
+      "visual_assets": [
+        "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Marethis/CAST-587_Sena_Navel/01_Ritratto_v1.png"
       ]
     }
   ],
@@ -56300,13 +58266,13 @@
   "status": "COMPLETE",
   "counts": {
     "CENTRAL": 37,
-    "IMPORTANT": 239,
+    "IMPORTANT": 257,
     "FUNCTIONAL": 293
   },
-  "total": 569,
+  "total": 587,
   "secondary_depth_complete": true,
-  "revision": "354",
-  "actor_count": 569,
+  "revision": "358",
+  "actor_count": 587,
   "network_count": 58,
   "integration_revision": "RACCORDI-317",
   "world_integration_source": "RISERVATO_178_Integrazione_notturna_milestone_5_10.md",
@@ -56322,5 +58288,6 @@
   "campaign_deuteragonist_id": "CAST-002",
   "legacy_role_id_scope": "protagonist_id e deuteragonist_id identificano i ruoli della campagna; nella wiki letteraria il protagonista è novel_protagonist_id.",
   "territorial_revision": "347",
-  "political_revision": 354
+  "political_revision": 354,
+  "service_revision": 358
 }

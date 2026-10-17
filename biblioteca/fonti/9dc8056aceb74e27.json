@@ -1,0 +1,26 @@
+{
+  "revision": 358,
+  "cast_before": 569,
+  "cast_after": 587,
+  "new_bearers": 18,
+  "power_inventories_before": 149,
+  "power_inventories_after": 167,
+  "power_scope_counts": {
+    "CURRENT_T0": 141,
+    "HISTORICAL_PHASE": 26
+  },
+  "all_previous_personal_powers_preserved": true,
+  "ordinary_nobles_not_promoted": true,
+  "courts": 19,
+  "shared_pools": 2,
+  "population_counts_unchanged": true,
+  "Orsanne127_numbers_preserved": true,
+  "planning_estimates_not_census": true,
+  "portraits_planned": 18,
+  "court_reference_integrity": true,
+  "previous_powers_unchanged": true,
+  "progressions_and_plot_unchanged": true,
+  "portraits_completed": 18,
+  "public_links_checked_separately": true,
+  "personal_sources": 19
+}

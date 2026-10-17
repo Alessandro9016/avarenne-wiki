@@ -1,0 +1,246 @@
+{
+  "revision": 358,
+  "access": "NARRATOR_PLANNING_NOT_PLAYER_OMNISCIENCE",
+  "Orsanne_source": "GIOCATORE_127_Scuole_medicina_e_accesso_ai_poteri.md",
+  "estimates": [
+    {
+      "state": "Orsanne",
+      "population": 26000000,
+      "estimated_bearers_low": 16000,
+      "estimated_bearers_high": 20000,
+      "basis": "Dato127 conservato: circa13000 registrati e3000–7000 non registrati o non riconosciuti.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Reth",
+      "population": 17000000,
+      "estimated_bearers_low": 7600,
+      "estimated_bearers_high": 13600,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Neressa",
+      "population": 9000000,
+      "estimated_bearers_low": 4000,
+      "estimated_bearers_high": 7200,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Ovel",
+      "population": 6000000,
+      "estimated_bearers_low": 2700,
+      "estimated_bearers_high": 4800,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Aldren",
+      "population": 34000000,
+      "estimated_bearers_low": 10200,
+      "estimated_bearers_high": 22100,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Tessara",
+      "population": 29000000,
+      "estimated_bearers_low": 13000,
+      "estimated_bearers_high": 23200,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Varrun",
+      "population": 41000000,
+      "estimated_bearers_low": 12300,
+      "estimated_bearers_high": 26600,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Esen",
+      "population": 23000000,
+      "estimated_bearers_low": 6900,
+      "estimated_bearers_high": 15000,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Darsen",
+      "population": 55000000,
+      "estimated_bearers_low": 16500,
+      "estimated_bearers_high": 35800,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Qadir",
+      "population": 38000000,
+      "estimated_bearers_low": 11400,
+      "estimated_bearers_high": 24700,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Ildovar",
+      "population": 46000000,
+      "estimated_bearers_low": 13800,
+      "estimated_bearers_high": 29900,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Marethis",
+      "population": 31000000,
+      "estimated_bearers_low": 14000,
+      "estimated_bearers_high": 24800,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Saur",
+      "population": 20000000,
+      "estimated_bearers_low": 6000,
+      "estimated_bearers_high": 13000,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Ansei",
+      "population": 32000000,
+      "estimated_bearers_low": 14400,
+      "estimated_bearers_high": 25600,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Teral",
+      "population": 27000000,
+      "estimated_bearers_low": 8100,
+      "estimated_bearers_high": 17600,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Kosh",
+      "population": 18000000,
+      "estimated_bearers_low": 5400,
+      "estimated_bearers_high": 11700,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Meren",
+      "population": 21000000,
+      "estimated_bearers_low": 9400,
+      "estimated_bearers_high": 16800,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Arul",
+      "population": 14000000,
+      "estimated_bearers_low": 4200,
+      "estimated_bearers_high": 9100,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Norell",
+      "population": 21000000,
+      "estimated_bearers_low": 9400,
+      "estimated_bearers_high": 16800,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Askar",
+      "population": 16000000,
+      "estimated_bearers_low": 4800,
+      "estimated_bearers_high": 10400,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Varsha",
+      "population": 14000000,
+      "estimated_bearers_low": 4200,
+      "estimated_bearers_high": 9100,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Edel",
+      "population": 12000000,
+      "estimated_bearers_low": 3600,
+      "estimated_bearers_high": 7800,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Keren",
+      "population": 10000000,
+      "estimated_bearers_low": 3000,
+      "estimated_bearers_high": 6500,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Sivara",
+      "population": 19000000,
+      "estimated_bearers_low": 5700,
+      "estimated_bearers_high": 12400,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Dorel",
+      "population": 13000000,
+      "estimated_bearers_low": 5800,
+      "estimated_bearers_high": 10400,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Tevar",
+      "population": 11000000,
+      "estimated_bearers_low": 5000,
+      "estimated_bearers_high": 8800,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    },
+    {
+      "state": "Iren",
+      "population": 7000000,
+      "estimated_bearers_low": 2100,
+      "estimated_bearers_high": 4600,
+      "basis": "Nuova fascia autoriale di pianificazione358, non censimento pubblico né conteggio esatto del presente.",
+      "counts_only_personal_bearers": true
+    }
+  ],
+  "estimated_global_low": 219500,
+  "estimated_global_high": 428300,
+  "stage_policy": "I–III costituiscono la grande maggioranza; nessuna estrapolazione automatica di VI/VII. Le fasce nazionali non materializzano individui fuori dal loro dossier.",
+  "Orsanne_high_stage_planning": {
+    "public_regular_IV_approx": 30,
+    "IV_total_planning_range": [
+      50,
+      90
+    ],
+    "V_total_planning_range": [
+      3,
+      8
+    ],
+    "range_is_not_census": true,
+    "VI_VII": "Solo individui e condizioni del registro vigente, nessuna quota demografica."
+  },
+  "cast_power_inventory_scope": {
+    "CURRENT_T0": 141,
+    "HISTORICAL_PHASE": 26
+  },
+  "cast_total": 587,
+  "all_cast_power_inventories": 167,
+  "cast_is_not_population_sample": true
+}

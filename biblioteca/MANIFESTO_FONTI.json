@@ -124,8 +124,8 @@
       "group": "Dati strutturati e registri",
       "url": "9f5d1e0af2de6024.html",
       "raw": "fonti/9f5d1e0af2de6024.json",
-      "sha256": "29c29529cd3b845801400ba9526d5520a623b94194086473d05aa2f4b1a15112",
-      "bytes": 3237904
+      "sha256": "fc5d8f8d32966f8040cfdf17163d98034440f0b9d6f84f930e624d22ad883eb9",
+      "bytes": 3289080
     },
     {
       "source": "CANONE_VIGENTE/Censimento_visuale_luoghi.json",
@@ -574,8 +574,8 @@
       "group": "Dati strutturati e registri",
       "url": "fe9fbb2c8f28317b.html",
       "raw": "fonti/fe9fbb2c8f28317b.json",
-      "sha256": "e286ff22776b009f418cac19c729a1f8260aea87f04ea6276dfe7395a6672a4e",
-      "bytes": 86735
+      "sha256": "71c28a9f75f72fe3a8edce5be1aa4982a00d58b563f541cc6cbb875f408b2ff3",
+      "bytes": 84667
     },
     {
       "source": "CANONE_VIGENTE/Regole_comuni.json",
@@ -664,8 +664,8 @@
       "group": "Dati strutturati e registri",
       "url": "00f965548ff670d9.html",
       "raw": "fonti/00f965548ff670d9.json",
-      "sha256": "992d26bad031457dac280a16fd14da656ada3792a6d7b05d6cd34317e0cdb7d6",
-      "bytes": 46557
+      "sha256": "9b6e49e6620531cea24df999aeffe8eb3c020980948e0736c9e0b0124797cdd2",
+      "bytes": 45671
     },
     {
       "source": "CANONE_VIGENTE/Societa_riservata.json",
@@ -673,8 +673,8 @@
       "group": "Dati strutturati e registri",
       "url": "c137a327ee3556e1.html",
       "raw": "fonti/c137a327ee3556e1.json",
-      "sha256": "544be48d4611ab4916c337cd22c5b277fdc63c8c8549b30db6a66ecb511bbc59",
-      "bytes": 83866
+      "sha256": "99c59b1743d296927cd6db76ad707a87f83886e4ed212790f0b3b97158c4f625",
+      "bytes": 82372
     },
     {
       "source": "CANONE_VIGENTE/Storia_condivisa.json",
@@ -7237,8 +7237,8 @@
       "group": "Canone vigente e verifica della consegna",
       "url": "06300f093b9b4ae7.html",
       "raw": "fonti/06300f093b9b4ae7.md",
-      "sha256": "52ab4f5336fb230ac5bc3a48cdea05b1ea07f2eef7ee342dbc89e3f8e4e448ec",
-      "bytes": 58104
+      "sha256": "efecf44149d9e0685d40b15f040723605c40e703bc4c18475d2a6fb4b5054522",
+      "bytes": 58406
     },
     {
       "source": "342_Stato_vigente_per_la_consegna.md",
@@ -7363,8 +7363,8 @@
       "group": "Sistema — Will",
       "url": "a510f792bbb6c15f.html",
       "raw": "fonti/a510f792bbb6c15f.txt",
-      "sha256": "32cb2f5a54a7d0bc288cb6c11765024239cfd12a2937d3336652189b3f7dee1b",
-      "bytes": 222685
+      "sha256": "eda4c3d5476ae279bea9002a8a51f7184939cfb5b10698d898b653f877b5ecdb",
+      "bytes": 227714
     },
     {
       "source": "AVVIO_NARRATORE/PROTOCOLLO_NARRATORE_AVARENNE.txt",
@@ -7372,8 +7372,8 @@
       "group": "Sistema — Will",
       "url": "5de80396760c781e.html",
       "raw": "fonti/5de80396760c781e.txt",
-      "sha256": "f11ab5970895e6874490127de887ee6d15226472af481a5e9303bbe5ffcc874a",
-      "bytes": 17489
+      "sha256": "efb523c24beaa9d65894c282fdd0379801bf0cf86a4d32e4dba15c05885127b2",
+      "bytes": 19636
     },
     {
       "source": "CANONE_VIGENTE/Esempi_abilita_345.json",
@@ -8319,8 +8319,8 @@
       "group": "Consolidamento operativo — 350",
       "url": "1df5e25177a75be1.html",
       "raw": "fonti/1df5e25177a75be1.txt",
-      "sha256": "128df5f0f069c76fbeafbdc28d512e07d05e9d234e65ae9eedef9fcbe5fe71d9",
-      "bytes": 728
+      "sha256": "a210943b2d27d7dd9c7d6fdac4c705b8785b0dfbcf5145582fd8f1f3898e8fcc",
+      "bytes": 556
     },
     {
       "source": "CANONE_VIGENTE/Contese_verificate_350.json",
@@ -8931,8 +8931,8 @@
       "group": "Consolidamento354",
       "url": "158a6684c37f7be9.html",
       "raw": "fonti/158a6684c37f7be9.json",
-      "sha256": "29c29529cd3b845801400ba9526d5520a623b94194086473d05aa2f4b1a15112",
-      "bytes": 3237904
+      "sha256": "fc5d8f8d32966f8040cfdf17163d98034440f0b9d6f84f930e624d22ad883eb9",
+      "bytes": 3289080
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/05_Atlante_cosmologico/DATI/Roots_consolidate.json",
@@ -9489,8 +9489,8 @@
       "group": "Consolidamento354",
       "url": "6660d8dc11a8e0d2.html",
       "raw": "fonti/6660d8dc11a8e0d2.md",
-      "sha256": "52ab4f5336fb230ac5bc3a48cdea05b1ea07f2eef7ee342dbc89e3f8e4e448ec",
-      "bytes": 58104
+      "sha256": "efecf44149d9e0685d40b15f040723605c40e703bc4c18475d2a6fb4b5054522",
+      "bytes": 58406
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-552.md",
@@ -9786,8 +9786,8 @@
       "group": "Consolidamento354",
       "url": "e6df926f90875e2e.html",
       "raw": "fonti/e6df926f90875e2e.json",
-      "sha256": "e286ff22776b009f418cac19c729a1f8260aea87f04ea6276dfe7395a6672a4e",
-      "bytes": 86735
+      "sha256": "b017e009656f217fc649922432021ed52bce3904165f78644bc351ffdbbb7576",
+      "bytes": 84667
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/09_Societa_istituzioni_e_fazioni/GIOCATORE/GIOCATORE_355_Case_comitali_di_Rovenne.md",
@@ -10551,8 +10551,8 @@
       "group": "Consolidamento354",
       "url": "987219488bc41dd2.html",
       "raw": "fonti/987219488bc41dd2.json",
-      "sha256": "992d26bad031457dac280a16fd14da656ada3792a6d7b05d6cd34317e0cdb7d6",
-      "bytes": 46557
+      "sha256": "9b6e49e6620531cea24df999aeffe8eb3c020980948e0736c9e0b0124797cdd2",
+      "bytes": 45671
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Aldren/aldren/CAST-526_Maelle_II_Vaudren/Scheda_immagine.json",
@@ -10868,6 +10868,1050 @@
       "raw": "fonti/3956988fce42dec7.json",
       "sha256": "751bc28111b257541506f047e90ee6def26f650e741d2192fa43a6e288adfb12",
       "bytes": 813
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-576.md",
+      "title": "CAST-576",
+      "group": "Diffusione e presidi358",
+      "url": "b511bcdc6768bb5c.html",
+      "raw": "fonti/b511bcdc6768bb5c.md",
+      "sha256": "c88f47e5c7c3fbd531720b4d55c173ff40982d9bb5a2c9bf606aa215554cab66",
+      "bytes": 2247
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/PRESIDI_358/CAST-579.md",
+      "title": "CAST-579",
+      "group": "Diffusione e presidi358",
+      "url": "60866a2da1791d34.html",
+      "raw": "fonti/60866a2da1791d34.md",
+      "sha256": "fc94b699027b82d7c5943d644df2e0f9df3c14612c71ca8520f916f2915ec50a",
+      "bytes": 2244
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CANONE_VIGENTE/Cast_riservato.json",
+      "title": "Cast riservato",
+      "group": "Storico precedente a358",
+      "url": "9e8df20a0b47994e.html",
+      "raw": "fonti/9e8df20a0b47994e.json",
+      "sha256": "29c29529cd3b845801400ba9526d5520a623b94194086473d05aa2f4b1a15112",
+      "bytes": 3237904
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/PRESIDI_358/CAST-574.md",
+      "title": "CAST-574",
+      "group": "Diffusione e presidi358",
+      "url": "7eada35da6b52959.html",
+      "raw": "fonti/7eada35da6b52959.md",
+      "sha256": "5ef22049981238b6002b17f045ecbc5d3d063ea4aebd58fa965f9408e97b177e",
+      "bytes": 2172
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Teral/CAST-576_Shan_Luren/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Diffusione e presidi358",
+      "url": "0fbc7d1978f2ca3a.html",
+      "raw": "fonti/0fbc7d1978f2ca3a.json",
+      "sha256": "bcf8f073716ef3a6a8cfe8154d155a80b0c70fdc7b6b014f31eb7b98c3517cbc",
+      "bytes": 1720
+    },
+    {
+      "source": "CANONE_VIGENTE/Diffusione_Bearers_358.json",
+      "title": "Diffusione Bearers 358",
+      "group": "Diffusione e presidi358",
+      "url": "8a3d40e38de09092.html",
+      "raw": "fonti/8a3d40e38de09092.json",
+      "sha256": "331a82cffe861cc9551c4d8fc47b511bad36503980b1a5a704c3b2819e4dbe47",
+      "bytes": 9198
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-586.md",
+      "title": "CAST-586",
+      "group": "Diffusione e presidi358",
+      "url": "5cf5875344c28dd2.html",
+      "raw": "fonti/5cf5875344c28dd2.md",
+      "sha256": "136a575eaeae08e25445c033656076854757612bdd1ed243f7e7779ac8ecbb20",
+      "bytes": 2267
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CAST_RISERVATO/CAST-579.md",
+      "title": "CAST-579",
+      "group": "Storico precedente a358",
+      "url": "89395ce8afa4ff5e.html",
+      "raw": "fonti/89395ce8afa4ff5e.md",
+      "sha256": "f7eb5da314252dd06509a1c463898cab0a30cf82675d7a81547262a357d669e9",
+      "bytes": 2240
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-577.md",
+      "title": "CAST-577",
+      "group": "Diffusione e presidi358",
+      "url": "ae41fe938cf60c35.html",
+      "raw": "fonti/ae41fe938cf60c35.md",
+      "sha256": "8b545ac67b7de3f2253e2a8617ef81187b7b017ed2307a0108d03fee95f32c98",
+      "bytes": 2200
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/23_Registro_unico_del_canone.md",
+      "title": "23 Registro unico del canone",
+      "group": "Storico precedente a358",
+      "url": "f75c3908d9582213.html",
+      "raw": "fonti/f75c3908d9582213.md",
+      "sha256": "52ab4f5336fb230ac5bc3a48cdea05b1ea07f2eef7ee342dbc89e3f8e4e448ec",
+      "bytes": 58104
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-578.md",
+      "title": "CAST-578",
+      "group": "Diffusione e presidi358",
+      "url": "8f5b68605054a05e.html",
+      "raw": "fonti/8f5b68605054a05e.md",
+      "sha256": "ebe607aa4443dfd4c57559266e3fb2c34fd69b8b0ea1e6cd09ee458d532a0bdd",
+      "bytes": 2242
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CANONE_VIGENTE/Societa_condivisa.json",
+      "title": "Societa condivisa",
+      "group": "Storico precedente a358",
+      "url": "67efebd13e6a191f.html",
+      "raw": "fonti/67efebd13e6a191f.json",
+      "sha256": "992d26bad031457dac280a16fd14da656ada3792a6d7b05d6cd34317e0cdb7d6",
+      "bytes": 46557
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CAST_RISERVATO/CAST-580.md",
+      "title": "CAST-580",
+      "group": "Storico precedente a358",
+      "url": "c439a4cd1c9c25bb.html",
+      "raw": "fonti/c439a4cd1c9c25bb.md",
+      "sha256": "b5fd5f6c6b482ab50aca5965097cbe8daf4d8eafe96de83fc2e865301626582e",
+      "bytes": 3642
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CAST_RISERVATO/CAST-587.md",
+      "title": "CAST-587",
+      "group": "Storico precedente a358",
+      "url": "f6055a115d4471ba.html",
+      "raw": "fonti/f6055a115d4471ba.md",
+      "sha256": "cc15bb1daaf2687e74f2435004b537d5f8ec8e3b13715b850d2ff1a60465e1e8",
+      "bytes": 2151
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-570.md",
+      "title": "CAST-570",
+      "group": "Diffusione e presidi358",
+      "url": "87c3ad863a659a30.html",
+      "raw": "fonti/87c3ad863a659a30.md",
+      "sha256": "9b3a295832c4fd4e34c4bb68735a65df694f94c5a0e9ed38d8577ece7bac9a2e",
+      "bytes": 2338
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CANONE_VIGENTE/Ritratti_presidi_358.json",
+      "title": "Ritratti presidi 358",
+      "group": "Storico precedente a358",
+      "url": "74d229e7ffcb5ac7.html",
+      "raw": "fonti/74d229e7ffcb5ac7.json",
+      "sha256": "03f7cf9657df74d941ae3a56b22c95c04792fe751237dcf59f0098b29fa37a61",
+      "bytes": 30095
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CAST_RISERVATO/CAST-574.md",
+      "title": "CAST-574",
+      "group": "Storico precedente a358",
+      "url": "95c007b4f0e221e8.html",
+      "raw": "fonti/95c007b4f0e221e8.md",
+      "sha256": "068448b5350005dea8ca7a7d0f2466ae61336d58f80d6b013c3103fa911e26c9",
+      "bytes": 2167
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/09_Societa_istituzioni_e_fazioni/RISERVATO/RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md",
+      "title": "RISERVATO 359 Presidi corti e diffusione dei Bearers",
+      "group": "Diffusione e presidi358",
+      "url": "cf4eaa5cfdb07ac3.html",
+      "raw": "fonti/cf4eaa5cfdb07ac3.md",
+      "sha256": "34e1aca990e65669aa91ae722e9d5afc20d268a1c6e36966f782cd38b5becc90",
+      "bytes": 40128
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Aldren/CAST-573_Milo_Vardain/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Diffusione e presidi358",
+      "url": "6b669ffaacffbf7a.html",
+      "raw": "fonti/6b669ffaacffbf7a.json",
+      "sha256": "d55c6990da829462815318e7667457ae43881bcbe101976466ed8a4569ecd13f",
+      "bytes": 1727
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Dorel/CAST-578_Ragnhild_Soren/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Diffusione e presidi358",
+      "url": "97c38fcdfa8156e2.html",
+      "raw": "fonti/97c38fcdfa8156e2.txt",
+      "sha256": "78dffec1a0ca4fe246326c826778eb43c3e0cec302f9b4ea885213a0e31a55b9",
+      "bytes": 943
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Teral/CAST-576_Shan_Luren/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Diffusione e presidi358",
+      "url": "607756938375fe1f.html",
+      "raw": "fonti/607756938375fe1f.txt",
+      "sha256": "56da9b314e452929e28d5da917256a9291ac4d9eeb1505c952c7a0dea7ecac0f",
+      "bytes": 934
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Marethis/CAST-574_Neris_Halven/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Diffusione e presidi358",
+      "url": "76a8d836fadcd195.html",
+      "raw": "fonti/76a8d836fadcd195.txt",
+      "sha256": "b39e549778e8ce3bc12f76bb487272e739b5c5ec26d9d7a8b39021dee0eb4fd0",
+      "bytes": 960
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Aldren/CAST-572_Sadia_Orven/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Diffusione e presidi358",
+      "url": "7f67cee62fdbb2ef.html",
+      "raw": "fonti/7f67cee62fdbb2ef.json",
+      "sha256": "846eb16995603a918ce5fc07a95b99f769b81eeb55976928ce157724f92f8496",
+      "bytes": 1716
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-571.md",
+      "title": "CAST-571",
+      "group": "Diffusione e presidi358",
+      "url": "01a1689679a893c5.html",
+      "raw": "fonti/01a1689679a893c5.md",
+      "sha256": "d0bcc6717c48e78e4b1bf8299aed1dca6b73da5e807e20bae74c395564bce90c",
+      "bytes": 2346
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Ovel/CAST-581_Cyran_Belot/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Diffusione e presidi358",
+      "url": "80dbc713e2a12a31.html",
+      "raw": "fonti/80dbc713e2a12a31.txt",
+      "sha256": "5345a12948e89b5cf4767e73a6f02bedbb0d8a334ce75a0bb92d33bd0f7389ec",
+      "bytes": 893
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Dorel/CAST-579_Viggo_Harn/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Diffusione e presidi358",
+      "url": "7edbf3dacabb7521.html",
+      "raw": "fonti/7edbf3dacabb7521.json",
+      "sha256": "c887d4f8f75f75671e528eb3ceba75984fe8071a59edbb2354e2055eac42afdc",
+      "bytes": 1686
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-582.md",
+      "title": "CAST-582",
+      "group": "Diffusione e presidi358",
+      "url": "aca456345ebdbea4.html",
+      "raw": "fonti/aca456345ebdbea4.md",
+      "sha256": "eecb00d82679449c1c3f244d831517fc075bc6c318f512b7caa0976b972c1a81",
+      "bytes": 3593
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Orsanne/CAST-586_Elise_Montray/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Diffusione e presidi358",
+      "url": "f24e6a341558d373.html",
+      "raw": "fonti/f24e6a341558d373.json",
+      "sha256": "9e1db7d7e474847c1619ad7b9cdea8f2555b26124eee68ce06e1804ce8410533",
+      "bytes": 1736
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-587.md",
+      "title": "CAST-587",
+      "group": "Diffusione e presidi358",
+      "url": "1eb60c85320020be.html",
+      "raw": "fonti/1eb60c85320020be.md",
+      "sha256": "103f14824e6bbbb3e9761c557d85ebda24175405eddfd610240e2cb7229dab9d",
+      "bytes": 2155
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/PRESIDI_358/CAST-587.md",
+      "title": "CAST-587",
+      "group": "Diffusione e presidi358",
+      "url": "9158cb4d7a0f9577.html",
+      "raw": "fonti/9158cb4d7a0f9577.md",
+      "sha256": "103f14824e6bbbb3e9761c557d85ebda24175405eddfd610240e2cb7229dab9d",
+      "bytes": 2155
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CAST_RISERVATO/CAST-575.md",
+      "title": "CAST-575",
+      "group": "Storico precedente a358",
+      "url": "d37eba1ede47c817.html",
+      "raw": "fonti/d37eba1ede47c817.md",
+      "sha256": "cf62b20d97700307776cb7136111803c435421135ef8f2071a481d84dc7c201d",
+      "bytes": 2174
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CANONE_VIGENTE/Diffusione_Bearers_358.json",
+      "title": "Diffusione Bearers 358",
+      "group": "Storico precedente a358",
+      "url": "bffeb400c9a47c02.html",
+      "raw": "fonti/bffeb400c9a47c02.json",
+      "sha256": "131a401ad7c25dfacbf6edcc329fecd422d0f01c1cb1c1096aad4b02dbc2520d",
+      "bytes": 9240
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Ovel/CAST-580_Maren_Ild/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Diffusione e presidi358",
+      "url": "882aaa147711b2f5.html",
+      "raw": "fonti/882aaa147711b2f5.txt",
+      "sha256": "4abca7be5bf65050e8f38e026dd0cc82045d10aea35a7a669ad8579a3ceed6f1",
+      "bytes": 934
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+      "title": "GIOCATORE 358 Bearers societa e servizi di corte",
+      "group": "Storico precedente a358",
+      "url": "fccf5c128c9d9632.html",
+      "raw": "fonti/fccf5c128c9d9632.md",
+      "sha256": "1794c396dd54128e76c044a6989539550f2c46424b9b028357e2df66d3a42284",
+      "bytes": 6543
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/PRESIDI_358/CAST-585.md",
+      "title": "CAST-585",
+      "group": "Diffusione e presidi358",
+      "url": "a1d77969949af10d.html",
+      "raw": "fonti/a1d77969949af10d.md",
+      "sha256": "7f3cde3f16cb19196024461b75a3a2468eb30db4844b3bdc8aed0338289f1cbd",
+      "bytes": 2489
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/PRESIDI_358/CAST-580.md",
+      "title": "CAST-580",
+      "group": "Diffusione e presidi358",
+      "url": "63d2ac543efffccf.html",
+      "raw": "fonti/63d2ac543efffccf.md",
+      "sha256": "8dd3e34d27d573783a1bde1877dedff3d1ac1b15fd788f832e9fdea9a0e05fb5",
+      "bytes": 3646
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-579.md",
+      "title": "CAST-579",
+      "group": "Diffusione e presidi358",
+      "url": "1be2dee3e9c48d4d.html",
+      "raw": "fonti/1be2dee3e9c48d4d.md",
+      "sha256": "fc94b699027b82d7c5943d644df2e0f9df3c14612c71ca8520f916f2915ec50a",
+      "bytes": 2244
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Marethis/CAST-575_Tomas_Arvell/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Diffusione e presidi358",
+      "url": "9218fbc356816d0e.html",
+      "raw": "fonti/9218fbc356816d0e.json",
+      "sha256": "247d152b19c8b86de52b9be094116166cd41c336abec8b5feacc4b7d6a20aa17",
+      "bytes": 1717
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CAST_RISERVATO/CAST-583.md",
+      "title": "CAST-583",
+      "group": "Storico precedente a358",
+      "url": "1a117e30f1f83677.html",
+      "raw": "fonti/1a117e30f1f83677.md",
+      "sha256": "3d4334bf9215d34c775a73295e82b776c6da394954b291eaa9d93ad44d0c0fc2",
+      "bytes": 2480
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/PRESIDI_358/CAST-581.md",
+      "title": "CAST-581",
+      "group": "Diffusione e presidi358",
+      "url": "56df54713d4e1253.html",
+      "raw": "fonti/56df54713d4e1253.md",
+      "sha256": "640eb941d4a0a681f22399ba1491ec2ed945e752f7f3b8bb8c587066b2a6bd11",
+      "bytes": 3819
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/PRESIDI_358/CAST-571.md",
+      "title": "CAST-571",
+      "group": "Diffusione e presidi358",
+      "url": "5b0ecadc46d5ed22.html",
+      "raw": "fonti/5b0ecadc46d5ed22.md",
+      "sha256": "d0bcc6717c48e78e4b1bf8299aed1dca6b73da5e807e20bae74c395564bce90c",
+      "bytes": 2346
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/358_Prompt_e_originali_dei_presidi.json",
+      "title": "358 Prompt e originali dei presidi",
+      "group": "Diffusione e presidi358",
+      "url": "5cbd359848f6b220.html",
+      "raw": "fonti/5cbd359848f6b220.json",
+      "sha256": "7c59d53caf0bc4e8e22a87986948538af6f140536609626124f11e21b40f1629",
+      "bytes": 32001
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/358_Stato_fonti_e_consegna.md",
+      "title": "358 Stato fonti e consegna",
+      "group": "Storico precedente a358",
+      "url": "c7b9b45946e44f03.html",
+      "raw": "fonti/c7b9b45946e44f03.md",
+      "sha256": "ab042625a43699365b63994bca37c15e59f8b66a2fb95e952b04164aa7918444",
+      "bytes": 1608
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CANONE_VIGENTE/Societa_riservata.json",
+      "title": "Societa riservata",
+      "group": "Storico precedente a358",
+      "url": "690f1694035426b3.html",
+      "raw": "fonti/690f1694035426b3.json",
+      "sha256": "544be48d4611ab4916c337cd22c5b277fdc63c8c8549b30db6a66ecb511bbc59",
+      "bytes": 83866
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Teral/CAST-577_Yuna_Senri/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Diffusione e presidi358",
+      "url": "5bc957c682a113ca.html",
+      "raw": "fonti/5bc957c682a113ca.txt",
+      "sha256": "17b0c9f6ccce51447c93dc58a503f4208907cc26fb40c7fb5d9524983e8ecdbf",
+      "bytes": 941
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CAST_RISERVATO/CAST-571.md",
+      "title": "CAST-571",
+      "group": "Storico precedente a358",
+      "url": "28acc8d0d05a1e52.html",
+      "raw": "fonti/28acc8d0d05a1e52.md",
+      "sha256": "0ba3754717590cf15c4bdbb63a8b7b72874ed5d876c0fabaaf4202b4c3bf0b02",
+      "bytes": 2341
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/PRESIDI_358/CAST-584.md",
+      "title": "CAST-584",
+      "group": "Diffusione e presidi358",
+      "url": "c8172dad35727cd9.html",
+      "raw": "fonti/c8172dad35727cd9.md",
+      "sha256": "bfbf0fb64f430d3dc8539ed5e1ee6dabda253dfaac23104bbe72960bf8b92c2f",
+      "bytes": 2460
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/PRESIDI_358/CAST-586.md",
+      "title": "CAST-586",
+      "group": "Diffusione e presidi358",
+      "url": "bf226329ed236b39.html",
+      "raw": "fonti/bf226329ed236b39.md",
+      "sha256": "136a575eaeae08e25445c033656076854757612bdd1ed243f7e7779ac8ecbb20",
+      "bytes": 2267
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Marethis/CAST-587_Sena_Navel/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Diffusione e presidi358",
+      "url": "362ec539fbe9e576.html",
+      "raw": "fonti/362ec539fbe9e576.json",
+      "sha256": "4c6b8fdbd00f7e9ace0d69e28042d94d678afd86298912eb0020681c287143e5",
+      "bytes": 1710
+    },
+    {
+      "source": "CANONE_VIGENTE/Presidi_corti_358.json",
+      "title": "Presidi corti 358",
+      "group": "Diffusione e presidi358",
+      "url": "fd0e5c3b9b406443.html",
+      "raw": "fonti/fd0e5c3b9b406443.json",
+      "sha256": "faf095f2b1d950c2a5d5641d6b370350ebe6892665326db2a4b130cb8f594193",
+      "bytes": 58461
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/16_Verifica_operativa_e_consegna/358_Stato_fonti_e_consegna.md",
+      "title": "358 Stato fonti e consegna",
+      "group": "Diffusione e presidi358",
+      "url": "151ba9dc966f38a6.html",
+      "raw": "fonti/151ba9dc966f38a6.md",
+      "sha256": "f2f8bca42f26bde7791bef6c97975d3c123159e56ada29f857ce1ba5ebe65b2a",
+      "bytes": 1618
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Askar/CAST-583_Sivert_Kald/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Diffusione e presidi358",
+      "url": "13f9cf9e4705f916.html",
+      "raw": "fonti/13f9cf9e4705f916.txt",
+      "sha256": "9d1c1d9070a931e9aa2a0b82bcd726dd87111cbc5461d43e24fb39db63f4dddc",
+      "bytes": 912
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Marethis/CAST-575_Tomas_Arvell/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Diffusione e presidi358",
+      "url": "1d426bc6b42aba2f.html",
+      "raw": "fonti/1d426bc6b42aba2f.txt",
+      "sha256": "612dbb03c1be6666f1674c6cedb20497559945860aa06a482a06d4b3265c2d89",
+      "bytes": 917
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CAST_RISERVATO/CAST-570.md",
+      "title": "CAST-570",
+      "group": "Storico precedente a358",
+      "url": "c283cac6713df254.html",
+      "raw": "fonti/c283cac6713df254.md",
+      "sha256": "d74a1db1d42c308fba9e3a82723cb8cc0f0d9327d9c0c4b3c9ad79dfbb73a3c3",
+      "bytes": 2332
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/PRESIDI_358/CAST-583.md",
+      "title": "CAST-583",
+      "group": "Diffusione e presidi358",
+      "url": "843c37e290111a91.html",
+      "raw": "fonti/843c37e290111a91.md",
+      "sha256": "6661a6c9c7581825c14d42752d74a89438e8f39d3ad2b59b5d1a76d051d56d3a",
+      "bytes": 2484
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-572.md",
+      "title": "CAST-572",
+      "group": "Diffusione e presidi358",
+      "url": "1b53e2a3d4ae4bba.html",
+      "raw": "fonti/1b53e2a3d4ae4bba.md",
+      "sha256": "7eb01f0976448d0a25eb2147364e7757f52db24d06fad7fadca8662d55095f0e",
+      "bytes": 2217
+    },
+    {
+      "source": "RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md",
+      "title": "RISERVATO 359 Presidi corti e diffusione dei Bearers",
+      "group": "Diffusione e presidi358",
+      "url": "21496ac69db87449.html",
+      "raw": "fonti/21496ac69db87449.md",
+      "sha256": "34e1aca990e65669aa91ae722e9d5afc20d268a1c6e36966f782cd38b5becc90",
+      "bytes": 40128
+    },
+    {
+      "source": "CANONE_VIGENTE/Ritratti_presidi_358.json",
+      "title": "Ritratti presidi 358",
+      "group": "Diffusione e presidi358",
+      "url": "6af59c3919f8ddb6.html",
+      "raw": "fonti/6af59c3919f8ddb6.json",
+      "sha256": "7c59d53caf0bc4e8e22a87986948538af6f140536609626124f11e21b40f1629",
+      "bytes": 32001
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Aldren/CAST-572_Sadia_Orven/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Diffusione e presidi358",
+      "url": "9d289cd3dad6b4b5.html",
+      "raw": "fonti/9d289cd3dad6b4b5.txt",
+      "sha256": "b76aff309151bb24838e8815448ac06a4062fbd9d609051196f2d9175ee030ca",
+      "bytes": 924
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Askar/CAST-585_Farid_Eln/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Diffusione e presidi358",
+      "url": "f3976044446d0cc2.html",
+      "raw": "fonti/f3976044446d0cc2.json",
+      "sha256": "8374dcb560d28228ff4614ed9c53b92c8087a8653de19637c9ae25fed471d83e",
+      "bytes": 1701
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/PRESIDI_358/CAST-578.md",
+      "title": "CAST-578",
+      "group": "Diffusione e presidi358",
+      "url": "c7f0838a9c698252.html",
+      "raw": "fonti/c7f0838a9c698252.md",
+      "sha256": "ebe607aa4443dfd4c57559266e3fb2c34fd69b8b0ea1e6cd09ee458d532a0bdd",
+      "bytes": 2242
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/PRESIDI_358/CAST-582.md",
+      "title": "CAST-582",
+      "group": "Diffusione e presidi358",
+      "url": "a37521e782121752.html",
+      "raw": "fonti/a37521e782121752.md",
+      "sha256": "eecb00d82679449c1c3f244d831517fc075bc6c318f512b7caa0976b972c1a81",
+      "bytes": 3593
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CANONE_VIGENTE/Registro_decisioni.json",
+      "title": "Registro decisioni",
+      "group": "Storico precedente a358",
+      "url": "af3e77d1804f4807.html",
+      "raw": "fonti/af3e77d1804f4807.json",
+      "sha256": "e286ff22776b009f418cac19c729a1f8260aea87f04ea6276dfe7395a6672a4e",
+      "bytes": 86735
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Orsanne/CAST-586_Elise_Montray/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Diffusione e presidi358",
+      "url": "11b3a8417cca512a.html",
+      "raw": "fonti/11b3a8417cca512a.txt",
+      "sha256": "6198938e89f92b72c2f4dbe62797dd719601ad952d791f42b97fd7b6eecce5e8",
+      "bytes": 934
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CAST_RISERVATO/CAST-581.md",
+      "title": "CAST-581",
+      "group": "Storico precedente a358",
+      "url": "ac017a4cd0d7e159.html",
+      "raw": "fonti/ac017a4cd0d7e159.md",
+      "sha256": "fc278a78924e309d6a012fb3117b3302b2a2ae186f45ae0b761616d0253dd821",
+      "bytes": 3815
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CANONE_VIGENTE/Presidi_corti_358.json",
+      "title": "Presidi corti 358",
+      "group": "Storico precedente a358",
+      "url": "0e85447d41f84e56.html",
+      "raw": "fonti/0e85447d41f84e56.json",
+      "sha256": "0e75df7b00a252deb8e4d651856c914d405d4dfe9ff4f4ab2d223ef0272989b6",
+      "bytes": 57783
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Ovel/CAST-582_Elsa_Norrel/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Diffusione e presidi358",
+      "url": "afffcc15796b77f8.html",
+      "raw": "fonti/afffcc15796b77f8.json",
+      "sha256": "ff8c1142582a13f5b6c6acebc92948a593740309661c475bc4207b5d89d02236",
+      "bytes": 1706
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CAST_RISERVATO/CAST-573.md",
+      "title": "CAST-573",
+      "group": "Storico precedente a358",
+      "url": "27186fa978f8eac8.html",
+      "raw": "fonti/27186fa978f8eac8.md",
+      "sha256": "07173305b3de45728ebe42dd5a8982e2168ae9cc9675cb11c8d10e46b28ed4c1",
+      "bytes": 2262
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/09_Societa_istituzioni_e_fazioni/GIOCATORE/GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+      "title": "GIOCATORE 358 Bearers societa e servizi di corte",
+      "group": "Diffusione e presidi358",
+      "url": "2e906f96298e9890.html",
+      "raw": "fonti/2e906f96298e9890.md",
+      "sha256": "759932f536d460db168b33981b7bdc898c5b583d9e5826ef9a2873b814579d66",
+      "bytes": 6577
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CAST_RISERVATO/CAST-572.md",
+      "title": "CAST-572",
+      "group": "Storico precedente a358",
+      "url": "21f8277e4ef68756.html",
+      "raw": "fonti/21f8277e4ef68756.md",
+      "sha256": "54364a6e00bf51d96630973d1bcdfb279063547996017e9ae58eb73442442afd",
+      "bytes": 2213
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Orsanne/CAST-571_Remi_Darsel/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Diffusione e presidi358",
+      "url": "33c905b51f9c4ddd.html",
+      "raw": "fonti/33c905b51f9c4ddd.json",
+      "sha256": "40707f6e096c29dd0f6736ad703e6ec25bf99a19cbc47c8d49328c843bc3712a",
+      "bytes": 1746
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/RISERVATO_359_Presidi_corti_e_diffusione_dei_Bearers.md",
+      "title": "RISERVATO 359 Presidi corti e diffusione dei Bearers",
+      "group": "Storico precedente a358",
+      "url": "8be6c499dd4728db.html",
+      "raw": "fonti/8be6c499dd4728db.md",
+      "sha256": "eee3c618abc3603df13a98815109700f537141f601075496a3114f28225ba09e",
+      "bytes": 40073
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CAST_RISERVATO/CAST-577.md",
+      "title": "CAST-577",
+      "group": "Storico precedente a358",
+      "url": "b0c1810363cdb573.html",
+      "raw": "fonti/b0c1810363cdb573.md",
+      "sha256": "553212e7c65adf0e2a338c851f3ece76d5e07990bec9e34ef6d466cebcea5e1a",
+      "bytes": 2196
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/PRESIDI_358/CAST-577.md",
+      "title": "CAST-577",
+      "group": "Diffusione e presidi358",
+      "url": "e4ff8f713d69aaea.html",
+      "raw": "fonti/e4ff8f713d69aaea.md",
+      "sha256": "8b545ac67b7de3f2253e2a8617ef81187b7b017ed2307a0108d03fee95f32c98",
+      "bytes": 2200
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Orsanne/CAST-570_Isabeau_Cernay/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Diffusione e presidi358",
+      "url": "1a0317899e3a3077.html",
+      "raw": "fonti/1a0317899e3a3077.txt",
+      "sha256": "ba36634205176b30b00b3d3af5e34cacd0d56c353d17fd37844594c83b57166f",
+      "bytes": 947
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/PRESIDI_358/CAST-573.md",
+      "title": "CAST-573",
+      "group": "Diffusione e presidi358",
+      "url": "686f083f5b184b3e.html",
+      "raw": "fonti/686f083f5b184b3e.md",
+      "sha256": "0912af3d3b941f3b7e7d06e4f113493265f7b090c90f48ec6d8e6377dd5979c5",
+      "bytes": 2266
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/PRESIDI_358/CAST-570.md",
+      "title": "CAST-570",
+      "group": "Diffusione e presidi358",
+      "url": "99adb9f0dfbd0610.html",
+      "raw": "fonti/99adb9f0dfbd0610.md",
+      "sha256": "9b3a295832c4fd4e34c4bb68735a65df694f94c5a0e9ed38d8577ece7bac9a2e",
+      "bytes": 2338
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/AVVIO_NARRATORE/PROTOCOLLO_NARRATORE_AVARENNE.txt",
+      "title": "PROTOCOLLO NARRATORE AVARENNE",
+      "group": "Storico precedente a358",
+      "url": "2bff66d7040012cd.html",
+      "raw": "fonti/2bff66d7040012cd.txt",
+      "sha256": "f11ab5970895e6874490127de887ee6d15226472af481a5e9303bbe5ffcc874a",
+      "bytes": 17489
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/09_Societa_istituzioni_e_fazioni/DATI/Societa_riservata.json",
+      "title": "Societa riservata",
+      "group": "Diffusione e presidi358",
+      "url": "ebd7413aefe198c7.html",
+      "raw": "fonti/ebd7413aefe198c7.json",
+      "sha256": "99c59b1743d296927cd6db76ad707a87f83886e4ed212790f0b3b97158c4f625",
+      "bytes": 82372
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Askar/CAST-583_Sivert_Kald/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Diffusione e presidi358",
+      "url": "37e9ab13577abfc5.html",
+      "raw": "fonti/37e9ab13577abfc5.json",
+      "sha256": "b77fb245889e0475108a0ac9ec127bfad63ccbb0940a7e1b78845c312bcf5517",
+      "bytes": 1702
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Orsanne/CAST-570_Isabeau_Cernay/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Diffusione e presidi358",
+      "url": "5075cdad7e1b8ea3.html",
+      "raw": "fonti/5075cdad7e1b8ea3.json",
+      "sha256": "1b0d1fc07304bbcf8450d38b1569034fd8e6b0bb545db5d6ccf9402090804e5f",
+      "bytes": 1753
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Teral/CAST-577_Yuna_Senri/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Diffusione e presidi358",
+      "url": "3e7283f357636dbc.html",
+      "raw": "fonti/3e7283f357636dbc.json",
+      "sha256": "d262eb488e252328eb2cfcd4a7e2794d7abd93ecef40fee6d9775f2e882de230",
+      "bytes": 1727
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-574.md",
+      "title": "CAST-574",
+      "group": "Diffusione e presidi358",
+      "url": "3c4b2d52578409a3.html",
+      "raw": "fonti/3c4b2d52578409a3.md",
+      "sha256": "5ef22049981238b6002b17f045ecbc5d3d063ea4aebd58fa965f9408e97b177e",
+      "bytes": 2172
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Aldren/CAST-573_Milo_Vardain/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Diffusione e presidi358",
+      "url": "6e1f5168456d0349.html",
+      "raw": "fonti/6e1f5168456d0349.txt",
+      "sha256": "172b47d4779a28a3b4ab34656e590b57bb4fa996271ad9c5171e4d2da9ea216a",
+      "bytes": 931
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CAST_RISERVATO/CAST-576.md",
+      "title": "CAST-576",
+      "group": "Storico precedente a358",
+      "url": "b963264b46e18cf2.html",
+      "raw": "fonti/b963264b46e18cf2.md",
+      "sha256": "d8cf5eebaae96b03925a460f80e740532aa90742878f6dad6d673a4e48aa3e66",
+      "bytes": 2243
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-585.md",
+      "title": "CAST-585",
+      "group": "Diffusione e presidi358",
+      "url": "3454a6540714ef55.html",
+      "raw": "fonti/3454a6540714ef55.md",
+      "sha256": "7f3cde3f16cb19196024461b75a3a2468eb30db4844b3bdc8aed0338289f1cbd",
+      "bytes": 2489
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Askar/CAST-585_Farid_Eln/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Diffusione e presidi358",
+      "url": "e0906818a64b7650.html",
+      "raw": "fonti/e0906818a64b7650.txt",
+      "sha256": "4359f1ce09653c88e47305c1f671b098440388cd33c6342bdaebb9798eb97816",
+      "bytes": 919
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Askar/CAST-584_Anja_Vestr/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Diffusione e presidi358",
+      "url": "3f255b2c5dea3747.html",
+      "raw": "fonti/3f255b2c5dea3747.txt",
+      "sha256": "3ef4993fc16ed95228755c26cc16affad31b5b107613878d6c5df35a85863a9e",
+      "bytes": 886
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/PRESIDI_358/CAST-576.md",
+      "title": "CAST-576",
+      "group": "Diffusione e presidi358",
+      "url": "e748e6111d5292aa.html",
+      "raw": "fonti/e748e6111d5292aa.md",
+      "sha256": "c88f47e5c7c3fbd531720b4d55c173ff40982d9bb5a2c9bf606aa215554cab66",
+      "bytes": 2247
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Askar/CAST-584_Anja_Vestr/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Diffusione e presidi358",
+      "url": "7c64bdda53c2ea2e.html",
+      "raw": "fonti/7c64bdda53c2ea2e.json",
+      "sha256": "e0a957d2d138b06562083f7c83c3afbfdaa9274ab19952b719b6202888f72d90",
+      "bytes": 1672
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-584.md",
+      "title": "CAST-584",
+      "group": "Diffusione e presidi358",
+      "url": "b9af59345a05cf69.html",
+      "raw": "fonti/b9af59345a05cf69.md",
+      "sha256": "bfbf0fb64f430d3dc8539ed5e1ee6dabda253dfaac23104bbe72960bf8b92c2f",
+      "bytes": 2460
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Ovel/CAST-581_Cyran_Belot/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Diffusione e presidi358",
+      "url": "a9e811c89b7d75f4.html",
+      "raw": "fonti/a9e811c89b7d75f4.json",
+      "sha256": "3d52f7f4532ed0ff366e968bf402352980fc771d326f33b470264da1c3151dd5",
+      "bytes": 1681
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Ovel/CAST-582_Elsa_Norrel/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Diffusione e presidi358",
+      "url": "9bc56014a19d235a.html",
+      "raw": "fonti/9bc56014a19d235a.txt",
+      "sha256": "c7ec2058c2be977a63cae009a948d47626a83256430e21d301c0079999bc836c",
+      "bytes": 918
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CAST_RISERVATO/CAST-582.md",
+      "title": "CAST-582",
+      "group": "Storico precedente a358",
+      "url": "adf2843b2f4d0886.html",
+      "raw": "fonti/adf2843b2f4d0886.md",
+      "sha256": "898af9b69737c4f22b5f8c2ecee201a8629bc22a6eb34fb0d9f18aae45631104",
+      "bytes": 3589
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-580.md",
+      "title": "CAST-580",
+      "group": "Diffusione e presidi358",
+      "url": "450ea49d9d6389c3.html",
+      "raw": "fonti/450ea49d9d6389c3.md",
+      "sha256": "8dd3e34d27d573783a1bde1877dedff3d1ac1b15fd788f832e9fdea9a0e05fb5",
+      "bytes": 3646
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/PRESIDI_358/CAST-572.md",
+      "title": "CAST-572",
+      "group": "Diffusione e presidi358",
+      "url": "41710f46394709f9.html",
+      "raw": "fonti/41710f46394709f9.md",
+      "sha256": "7eb01f0976448d0a25eb2147364e7757f52db24d06fad7fadca8662d55095f0e",
+      "bytes": 2217
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CAST_RISERVATO/CAST-585.md",
+      "title": "CAST-585",
+      "group": "Storico precedente a358",
+      "url": "6bea0e0a63200aa7.html",
+      "raw": "fonti/6bea0e0a63200aa7.md",
+      "sha256": "d1bdd6f7a7eb096c17049abc4d54bace43b37a19e002bd3db2d17ce92aae7b26",
+      "bytes": 2485
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/PRESIDI_358/CAST-575.md",
+      "title": "CAST-575",
+      "group": "Diffusione e presidi358",
+      "url": "0718ea586595ef70.html",
+      "raw": "fonti/0718ea586595ef70.md",
+      "sha256": "bcbec1d325d6b040bf47af47a299a2662c15b824a4d5f7fc8fa539ea3808aa85",
+      "bytes": 2178
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/AVVIO_NARRATORE/MESSAGGIO_DI_AVVIO.txt",
+      "title": "MESSAGGIO DI AVVIO",
+      "group": "Storico precedente a358",
+      "url": "33c9836e0389952d.html",
+      "raw": "fonti/33c9836e0389952d.txt",
+      "sha256": "128df5f0f069c76fbeafbdc28d512e07d05e9d234e65ae9eedef9fcbe5fe71d9",
+      "bytes": 728
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/AVVIO_NARRATORE/DOSSIER_ALEXANDER_EDRAN.txt",
+      "title": "DOSSIER ALEXANDER EDRAN",
+      "group": "Storico precedente a358",
+      "url": "ce7d20ee4110d83f.html",
+      "raw": "fonti/ce7d20ee4110d83f.txt",
+      "sha256": "32cb2f5a54a7d0bc288cb6c11765024239cfd12a2937d3336652189b3f7dee1b",
+      "bytes": 222685
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-575.md",
+      "title": "CAST-575",
+      "group": "Diffusione e presidi358",
+      "url": "7270d37dde25b346.html",
+      "raw": "fonti/7270d37dde25b346.md",
+      "sha256": "bcbec1d325d6b040bf47af47a299a2662c15b824a4d5f7fc8fa539ea3808aa85",
+      "bytes": 2178
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CAST_RISERVATO/CAST-578.md",
+      "title": "CAST-578",
+      "group": "Storico precedente a358",
+      "url": "40393b6734532aee.html",
+      "raw": "fonti/40393b6734532aee.md",
+      "sha256": "c4788e9b6caf1eaa4afde6020224c5e6dcefd99df27c35b9130ff21eccbf6ab1",
+      "bytes": 2238
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Dorel/CAST-578_Ragnhild_Soren/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Diffusione e presidi358",
+      "url": "bb0d988ad5d795cf.html",
+      "raw": "fonti/bb0d988ad5d795cf.json",
+      "sha256": "fae2a05f098ecb913da6aa4faa9b1554c2f7359307412ab0d7d63a41d5d21604",
+      "bytes": 1745
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CAST_RISERVATO/CAST-586.md",
+      "title": "CAST-586",
+      "group": "Storico precedente a358",
+      "url": "7753b93371241e31.html",
+      "raw": "fonti/7753b93371241e31.md",
+      "sha256": "f40e779307130b0fb91dbb2a339f6d3b4ca2825f401fcab42df2d1d1b2ea3dd9",
+      "bytes": 2263
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Marethis/CAST-574_Neris_Halven/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Diffusione e presidi358",
+      "url": "882881c908c681f4.html",
+      "raw": "fonti/882881c908c681f4.json",
+      "sha256": "b9b160406f5b57b2c801b6f1ee7b25f6f0f27653235aa7939d9bf175e8659349",
+      "bytes": 1760
+    },
+    {
+      "source": "CANONE_VIGENTE/Audit_servizi_Bearers_358.json",
+      "title": "Audit servizi Bearers 358",
+      "group": "Diffusione e presidi358",
+      "url": "9dc8056aceb74e27.html",
+      "raw": "fonti/9dc8056aceb74e27.json",
+      "sha256": "130820904ffa24eeeee6663200ef668e97d81b5e0f6b0cc2dcbd4dc347c38faa",
+      "bytes": 724
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Ovel/CAST-580_Maren_Ild/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Diffusione e presidi358",
+      "url": "2728456de541c513.html",
+      "raw": "fonti/2728456de541c513.json",
+      "sha256": "ba225c4ee219d3db8d86cf33d8b803c00849ddb0c5740ef9b83cf6423978c9fc",
+      "bytes": 1714
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_358/CAST_RISERVATO/CAST-584.md",
+      "title": "CAST-584",
+      "group": "Storico precedente a358",
+      "url": "a1ee266edbebb310.html",
+      "raw": "fonti/a1ee266edbebb310.md",
+      "sha256": "cefdfdaa60d15a5ab77f7d00a8796318abdeeb53561c781d4d3e091a6c3d2619",
+      "bytes": 2455
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-581.md",
+      "title": "CAST-581",
+      "group": "Diffusione e presidi358",
+      "url": "e532a6eb535f7d30.html",
+      "raw": "fonti/e532a6eb535f7d30.md",
+      "sha256": "640eb941d4a0a681f22399ba1491ec2ed945e752f7f3b8bb8c587066b2a6bd11",
+      "bytes": 3819
+    },
+    {
+      "source": "358_Stato_fonti_e_consegna.md",
+      "title": "358 Stato fonti e consegna",
+      "group": "Diffusione e presidi358",
+      "url": "f674c0e778bd137d.html",
+      "raw": "fonti/f674c0e778bd137d.md",
+      "sha256": "f2f8bca42f26bde7791bef6c97975d3c123159e56ada29f857ce1ba5ebe65b2a",
+      "bytes": 1618
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Marethis/CAST-587_Sena_Navel/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Diffusione e presidi358",
+      "url": "800eba27ef257fe8.html",
+      "raw": "fonti/800eba27ef257fe8.txt",
+      "sha256": "d445dbe8f83698754865032785882e049843e527e019f15c2b2dbeadd09b4e5e",
+      "bytes": 918
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-583.md",
+      "title": "CAST-583",
+      "group": "Diffusione e presidi358",
+      "url": "e200ca89ff59876b.html",
+      "raw": "fonti/e200ca89ff59876b.md",
+      "sha256": "6661a6c9c7581825c14d42752d74a89438e8f39d3ad2b59b5d1a76d051d56d3a",
+      "bytes": 2484
+    },
+    {
+      "source": "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md",
+      "title": "GIOCATORE 358 Bearers societa e servizi di corte",
+      "group": "Diffusione e presidi358",
+      "url": "e88e2688b11248d7.html",
+      "raw": "fonti/e88e2688b11248d7.md",
+      "sha256": "759932f536d460db168b33981b7bdc898c5b583d9e5826ef9a2873b814579d66",
+      "bytes": 6577
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Orsanne/CAST-571_Remi_Darsel/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Diffusione e presidi358",
+      "url": "495b9f7e2ca77146.html",
+      "raw": "fonti/495b9f7e2ca77146.txt",
+      "sha256": "f5e689b61752b96aa9b2030b94242942b20304dee8311c935e4b8476c7edc53b",
+      "bytes": 952
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-573.md",
+      "title": "CAST-573",
+      "group": "Diffusione e presidi358",
+      "url": "0ed8fa6e89c271fc.html",
+      "raw": "fonti/0ed8fa6e89c271fc.md",
+      "sha256": "0912af3d3b941f3b7e7d06e4f113493265f7b090c90f48ec6d8e6377dd5979c5",
+      "bytes": 2266
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/05_Presidi_e_servizi_di_corte/Dorel/CAST-579_Viggo_Harn/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Diffusione e presidi358",
+      "url": "443a294de93c74ec.html",
+      "raw": "fonti/443a294de93c74ec.txt",
+      "sha256": "8c51bf304ccf74b183adef5ad5b498a65271bd84f553fe23908c952d642597d0",
+      "bytes": 900
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",
