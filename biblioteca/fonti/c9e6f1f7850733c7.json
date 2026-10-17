@@ -1,0 +1,12 @@
+{
+  "id": "CAST-528",
+  "name": "Oren IV Seravel",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Marethis/marethis/CAST-528_Oren_IV_Seravel/01_Ritratto_v1.png",
+  "asset": "assets/ritratto-politico-354-cast-528.webp",
+  "source_sha256": "1d7f4d9361bb8bd5c9dc28d28603e0288edaa69c39964ae638e35dfaa34ad678",
+  "generation_mode": "built-in image_gen",
+  "prompt": "Create ONE vertical mature semi-realistic painterly fantasy webnovel character portrait for the AVARENNE wiki. Elegant richly detailed illustration with subtly stylized beautiful expressive face, natural anatomy, cinematic chiaroscuro, textured late nineteenth-century industrial-fantasy aristocratic tailoring. Three-quarter waist-up single subject; atmospheric softly focused interior appropriate to a civilian court, no battle. Preserve the specified age and individual facial identity, do not make everyone a young model. SUBJECT: Oren IV Seravel. Man61, weathered olive skin, silver hair and close beard, grey eyes, navy naval-style formal coat with restrained silver braid ROLE: Re di Marethis; Casa Seravel. Subtle tangible background of books, dark wood or a tall window; character dominates. No lettering, labels, watermark, collage, extra people, magic aura, halos, religious symbol or automatic crown on heirs. Regal bearing with restrained ceremonial detail, not medieval plate armor.",
+  "wiki_integrated": true,
+  "status": "GENERATED_AND_VISUALLY_REVIEWED",
+  "revision": 354
+}

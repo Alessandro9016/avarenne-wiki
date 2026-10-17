@@ -1,0 +1,53 @@
+# Scroll — domande pratiche e portata delle capacità
+
+Revisione pratica 349. Risposte per comprendere l’uso delle capacità già approvate: non sono nuove abilità e non sostituiscono le schede degli stadi. Gli esempi non fissano esiti automatici contro un parigrado. I numeri di propagazione luminosa seguono la natura del mezzo e il dossier 144; non vengono inventati massimi numerici per distanze, bersagli e riserve non fissati dal manuale.
+
+Fonte primaria: GIOCATORE_43_Scroll_progressione_completa.md. Regole comuni: 349_FAQ_Effigi_indice_e_regole_comuni.md.
+
+## Posso usare parole qualsiasi come incantesimi?
+
+Language investe formulazioni coerenti con capacità e rango, non qualunque frase desiderata. Cedi può esercitare una frattura compatibile; crea una stella non diventa automaticamente Genesis VII.
+
+## Devo parlare ad alta voce?
+
+Language può operare mediante formulazione e supporti scritti secondo le capacità; Will richiede ricezione semantica valida. Non ogni esercizio richiede un grido, ma un comando che non raggiunge la coscienza non viene ricevuto per magia del nome.
+
+## Le frasi normali comandano involontariamente chi ascolta?
+
+No: serve esercizio investito. Una conversazione quotidiana non assoggetta automaticamente ogni interlocutore e un testo copiato ordinariamente non diventa un nuovo comando autonomo.
+
+## Information mi dà onniscienza?
+
+Legge codifiche e strutture operative raggiunte. Non ottieni automaticamente biografie, contenuti di tutte le biblioteche o l’inventario di chi hai soltanto visto in fotografia.
+
+## Posso fermare un incantesimo come antimagia?
+
+Operational Diagnosis III legge componenti; Counterstructure IV interviene sulla struttura presa; Counterformulation IV oppone una formulazione pertinente. Serve la contesa reale: non esiste un tasto che disattiva qualunque magia nemica.
+
+## Language e Will sono la stessa cosa?
+
+Language esercita istruzioni e relazioni formulate; Will impone assenso, intenzione e priorità a coscienze raggiunte. Aprire un battente con forza formulata e far decidere a una guardia di aprirlo sono effetti diversi.
+
+## Will muove il corpo come una marionetta?
+
+No: I impone una decisione immediata; III un obiettivo deliberativo continuato. Il destinatario usa le proprie facoltà e può ritenere propria la decisione imposta: non vede necessariamente un segnale magico e non sente per forza estraneità.
+
+## Posso ordinare di dimenticarmi?
+
+IV può impedire il richiamo volontario di un ricordo specifico realmente raggiunto. Non è automaticamente cancellazione della traccia mnemonica, distruzione di fotografie o riscrittura dei ricordi di tutti gli altri testimoni.
+
+## Un ordine scritto funziona quando non sono presente?
+
+Inscribed Imperative II deposita Will in un messaggio realmente investito, con quota e ricezione definite; Written Instruction II prepara formulazioni di Language. Un foglio non possiede riserva infinita e va distinto un messaggio magico da una copia ordinaria.
+
+## Chi resiste si accorge sicuramente del controllo?
+
+No: resistenza e riconoscimento sono distinti. Puoi fallire senza che il bersaglio identifichi la fonte; puoi riuscire e lasciare contraddizioni o prove esterne che permettono una diagnosi pertinente.
+
+## VII controlla il subconscio di tutto il mondo?
+
+Collective Volition governa una struttura deliberativa condivisa fra coscienze effettivamente raggiunte, vissuta anche come volontà propria. Non è accesso automatico a ogni mente del pianeta né uno spazio mentale di Labyrinth.
+
+## Come combatto senza comandare il nemico?
+
+Language produce impulsi e interdizioni propri; Information può contendere componenti operative; Will può aggredire la decisione. I tre rami hanno esercizi autonomi: un avversario senza linguaggio ricevuto non rende inutile tutta l’Effige.

@@ -1,0 +1,23 @@
+# RISERVATO — CAST-498: Vincent Vernier
+
+Revisione territoriale 347. T0: 18 maggio 812.
+
+## Identità nota
+
+Conte di Vernay. 52 anni. Popolazione: Umano. Persona ordinaria, nessuna Effige assegnata.
+
+Campagne meridionali, allevamento e mulini secondari; manutenzioni e terreni confinanti con lotti Valcienne. Leon è l’erede del conte, non un duca rivale.
+
+## Rapporto con Alexander
+
+Conosce Alexander attraverso il rapporto fra casa ducale e territorio. La carica è nota al duca prima del coma, non un incontro da inventare per consentirgli di riconoscerla. La superiorità territoriale del duca non cancella competenze, patrimonio e diritti della persona. Non conosce il ritorno di Edran.
+
+## Stato dinamico e conflitto
+
+Vuole ripartire i costi stradali secondo l’uso, senza dipendere dal favore ducale. Prosegue corrispondenza e atti ordinari anche durante il coma. Le deliberazioni intervenute in quei giorni vanno comunicate attraverso fonti attuali, non retroinserite nelle memorie.
+
+## Materiale per il Narratore
+
+**Ingresso 1:** presenta un rendiconto o una richiesta sul tema pubblico indicato. **Ingresso 2:** una rappresentanza locale contesta la ripartizione di un costo. **Complicazione:** l’atto può essere legittimo ma politicamente interpretato come favore o ritorsione. **Evoluzione:** senza intervento proseguono negoziati, manutenzioni e richieste; nessun disastro obbligatorio. Con intervento, risorse, prove e deliberazioni possono cambiare il confronto. **Impatto:** 🟡 locale, 🟠 soltanto per opere realmente interdistrettuali.
+
+Origine verticale: carica e ordinamento territoriale 347. Collegamento orizzontale: circoscrizione ROV-D04, comuni e casa ducale. La scelta futura resta aperta.

@@ -1,0 +1,12 @@
+{
+  "id": "CAST-522",
+  "name": "Julien Aubrecourt",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Aubrecourt/CAST-522_Julien_Aubrecourt/01_Ritratto_v1.png",
+  "asset": "assets/ritratto-politico-354-cast-522.webp",
+  "source_sha256": "4a378744ea8aba99c4ae4674efc5fe83276d3c0568fb08fe1f619b0ab3da3314",
+  "generation_mode": "built-in image_gen",
+  "prompt": "Create ONE vertical mature semi-realistic painterly fantasy webnovel character portrait for the AVARENNE wiki. Elegant richly detailed illustration with subtly stylized beautiful expressive face, natural anatomy, cinematic chiaroscuro, textured late nineteenth-century industrial-fantasy aristocratic tailoring. Three-quarter waist-up single subject; atmospheric softly focused interior appropriate to a civilian court, no battle. Preserve the specified age and individual facial identity, do not make everyone a young model. SUBJECT: Julien Aubrecourt. Man45, tan skin, dark blond hair with receding temples, blue-grey eyes, tidy short beard, practical brown 1880s suit and dark green waistcoat, approachable intelligent face. ROLE: Coniuge di Clara, nato Marceaux; commerciante di strumenti agricoli. Subtle tangible background of books, dark wood or a tall window; character dominates. No lettering, labels, watermark, collage, extra people, magic aura, halos, religious symbol or automatic crown on heirs. Refined civilian bearing, not royal regalia or a god.",
+  "wiki_integrated": true,
+  "status": "GENERATED_AND_VISUALLY_REVIEWED",
+  "revision": 354
+}

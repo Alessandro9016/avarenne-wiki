@@ -1,0 +1,355 @@
+{
+  "revision": 353,
+  "volumes": 8,
+  "arcs": 40,
+  "covers_total": 48,
+  "new_covers": 47,
+  "approved_cover_reused": 1,
+  "directory_covers_verified": 48,
+  "article_covers_verified": 48,
+  "original_article_texts_unchanged": 48,
+  "canon_jsons_unchanged": 3,
+  "generation_mode": "built-in image_gen",
+  "original_pngs_preserved": true,
+  "outcomes_left_open": true,
+  "published": false,
+  "zip_created": false,
+  "entries": [
+    {
+      "id": "VOL-01",
+      "url": "vol-01-the-waking-house.html",
+      "asset": "assets/copertina-353-vol-01.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-01_The_Waking_House/Copertina_campione_v1.png",
+      "sha256": "ad353746d5420546bb06641a751074efc7fccc3ba0bbd3b09e72146cae1b7dd3"
+    },
+    {
+      "id": "VOL-02",
+      "url": "vol-02-the-price-of-a-miracle.html",
+      "asset": "assets/copertina-353-vol-02.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-02_The_Price_of_a_Miracle/Copertina_v1.png",
+      "sha256": "03ee8a0f19bb6b2ad1f4818cc6ff8a8e4c90903df6b746b9a6d9fb7c736d646d"
+    },
+    {
+      "id": "VOL-03",
+      "url": "vol-03-the-unburied-name.html",
+      "asset": "assets/copertina-353-vol-03.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-03_The_Unburied_Name/Copertina_v1.png",
+      "sha256": "eeee8f6031aeedf9a5a091fe77d70660e70c35754d6f9557e52a1cd9c3088d0d"
+    },
+    {
+      "id": "VOL-04",
+      "url": "vol-04-the-departure-that-failed.html",
+      "asset": "assets/copertina-353-vol-04.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-04_The_Departure_That_Failed/Copertina_v1.png",
+      "sha256": "28dc3a8a2e5437b25c817dab3384abf8bb5f7bed910c273a9606508dfedad9d4"
+    },
+    {
+      "id": "VOL-05",
+      "url": "vol-05-the-lives-not-owned.html",
+      "asset": "assets/copertina-353-vol-05.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-05_The_Lives_Not_Owned/Copertina_v1.png",
+      "sha256": "f1beb1a2de253181f1a5a4f79c9627dd8bc38836bad268f57a3198919c1f5b29"
+    },
+    {
+      "id": "VOL-06",
+      "url": "vol-06-the-world-outside-the-map.html",
+      "asset": "assets/copertina-353-vol-06.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-06_The_World_Outside_the_Map/Copertina_v1.png",
+      "sha256": "3ba63518133c856ffaa0aa969addd3e5a56a0bfba0681e81cff4ab4544b73b57"
+    },
+    {
+      "id": "VOL-07",
+      "url": "vol-07-the-right-to-begin.html",
+      "asset": "assets/copertina-353-vol-07.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-07_The_Right_to_Begin/Copertina_v1.png",
+      "sha256": "6a26b4f39c49c82ba70ed09bdca12adb265fcbcd33922b5ada46f1d21c6163fd"
+    },
+    {
+      "id": "VOL-08",
+      "url": "vol-08-the-first-and-the-last.html",
+      "asset": "assets/copertina-353-vol-08.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-08_The_First_and_the_Last/Copertina_v1.png",
+      "sha256": "2a6e916e865e22f3364591c4ebb2a95cca08416a3facdabfd3dfb6d818abf807"
+    },
+    {
+      "id": "ARC-01",
+      "url": "arc-01-the-waking-house.html",
+      "asset": "assets/copertina-353-arc-01.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-01_The_Waking_House/ARCHI/ARC-01_The_Waking_House/Copertina_v1.png",
+      "sha256": "49094ca999db58c69d403f900d301c09247cb4cd5e4aa65dd9dd3d6baa6b4b2f"
+    },
+    {
+      "id": "ARC-02",
+      "url": "arc-02-the-moved-bench.html",
+      "asset": "assets/copertina-353-arc-02.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-01_The_Waking_House/ARCHI/ARC-02_The_Moved_Bench/Copertina_v1.png",
+      "sha256": "9c057ea0a162907e6b30c2579918c64ab27e92a926a56cbc2f9ac4e3627fc275"
+    },
+    {
+      "id": "ARC-03",
+      "url": "arc-03-room-for-six.html",
+      "asset": "assets/copertina-353-arc-03.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-01_The_Waking_House/ARCHI/ARC-03_Room_for_Six/Copertina_v1.png",
+      "sha256": "ee22deb3e5161298636aee584f0681442e92abaa3514dc63822941417c8549b1"
+    },
+    {
+      "id": "ARC-04",
+      "url": "arc-04-a-price-for-recovery.html",
+      "asset": "assets/copertina-353-arc-04.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-01_The_Waking_House/ARCHI/ARC-04_A_Price_for_Recovery/Copertina_v1.png",
+      "sha256": "a44453e5d6b71d426285d09a42fd1ff8ee7dbd70101ea7a86dbc3c4b76ede0a4"
+    },
+    {
+      "id": "ARC-05",
+      "url": "arc-05-the-shore-has-a-name.html",
+      "asset": "assets/copertina-353-arc-05.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-01_The_Waking_House/ARCHI/ARC-05_The_Shore_Has_a_Name/Copertina_v1.png",
+      "sha256": "8d57f992a2e27b4fd43ac16967753357b0f2bdfc4d68b8c7c7fb131df5b40041"
+    },
+    {
+      "id": "ARC-06",
+      "url": "arc-06-certified-weather.html",
+      "asset": "assets/copertina-353-arc-06.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-02_The_Price_of_a_Miracle/ARCHI/ARC-06_Certified_Weather/Copertina_v1.png",
+      "sha256": "f5f0ef83374729cde0707b512b1847e9790874a414386ef35c2acfad8535c40c"
+    },
+    {
+      "id": "ARC-07",
+      "url": "arc-07-a-patient-is-not-a-model.html",
+      "asset": "assets/copertina-353-arc-07.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-02_The_Price_of_a_Miracle/ARCHI/ARC-07_A_Patient_Is_Not_a_Model/Copertina_v1.png",
+      "sha256": "bf8900a4d8f4aa10fdfa41fb7955908eb50db5268c83ae25d0eb389ecb73cbe5"
+    },
+    {
+      "id": "ARC-08",
+      "url": "arc-08-copies-that-cost.html",
+      "asset": "assets/copertina-353-arc-08.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-02_The_Price_of_a_Miracle/ARCHI/ARC-08_Copies_That_Cost/Copertina_v1.png",
+      "sha256": "d2a8d91810ebb4ab129a8946f8fcc489772e5005422a77b326c0858302e9bbc6"
+    },
+    {
+      "id": "ARC-09",
+      "url": "arc-09-two-kinds-of-night.html",
+      "asset": "assets/copertina-353-arc-09.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-02_The_Price_of_a_Miracle/ARCHI/ARC-09_Two_Kinds_of_Night/Copertina_v1.png",
+      "sha256": "71e424873b273dfa1ff61b3af3ecda9dda2ce9753a2c6db5b487abd5f43a34ed"
+    },
+    {
+      "id": "ARC-10",
+      "url": "arc-10-the-copper-settlement.html",
+      "asset": "assets/copertina-353-arc-10.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-02_The_Price_of_a_Miracle/ARCHI/ARC-10_The_Copper_Settlement/Copertina_v1.png",
+      "sha256": "6d6ae4f96ddee39ecaae87eada9fd5d0c8e54088e071082ddb2a9e80dcc94a8f"
+    },
+    {
+      "id": "ARC-11",
+      "url": "arc-11-the-workshop-behind-the-mark.html",
+      "asset": "assets/copertina-353-arc-11.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-03_The_Unburied_Name/ARCHI/ARC-11_The_Workshop_Behind_the_Mark/Copertina_v1.png",
+      "sha256": "637a214911affaabd8670d4865ec2cd6287ef08220e703a049afdc012844f6ea"
+    },
+    {
+      "id": "ARC-12",
+      "url": "arc-12-the-living-orchard.html",
+      "asset": "assets/copertina-353-arc-12.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-03_The_Unburied_Name/ARCHI/ARC-12_The_Living_Orchard/Copertina_v1.png",
+      "sha256": "47584e2aa68bd82f67b12c39a3706b6f3c67dc94e5b942903718c79ae01122b7"
+    },
+    {
+      "id": "ARC-13",
+      "url": "arc-13-the-friend-who-changed.html",
+      "asset": "assets/copertina-353-arc-13.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-03_The_Unburied_Name/ARCHI/ARC-13_The_Friend_Who_Changed/Copertina_v1.png",
+      "sha256": "a8a1dcdb099f7c9e9714af3a49d1002d279d6993129c5df25a28d7609e468313"
+    },
+    {
+      "id": "ARC-14",
+      "url": "arc-14-a-person-made-here.html",
+      "asset": "assets/copertina-353-arc-14.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-03_The_Unburied_Name/ARCHI/ARC-14_A_Person_Made_Here/Copertina_v1.png",
+      "sha256": "e9e9f3583c08f9b07e87ee629a7b6a69118af1ed600d1a488549c5d1c86380fc"
+    },
+    {
+      "id": "ARC-15",
+      "url": "arc-15-an-exit-kept-open.html",
+      "asset": "assets/copertina-353-arc-15.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-03_The_Unburied_Name/ARCHI/ARC-15_An_Exit_Kept_Open/Copertina_v1.png",
+      "sha256": "ca036db6d2fb00a571a3a0a11ce6e6fa20725d86cc4aa3157823efc1e59c20c6"
+    },
+    {
+      "id": "ARC-16",
+      "url": "arc-16-the-approved-departure.html",
+      "asset": "assets/copertina-353-arc-16.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-04_The_Departure_That_Failed/ARCHI/ARC-16_The_Approved_Departure/Copertina_v1.png",
+      "sha256": "50da0f19caa6d848f13691aff69ec55f02326e3aa5b8b035189a091332a17c9c"
+    },
+    {
+      "id": "ARC-17",
+      "url": "arc-17-three-renewals.html",
+      "asset": "assets/copertina-353-arc-17.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-04_The_Departure_That_Failed/ARCHI/ARC-17_Three_Renewals/Copertina_v1.png",
+      "sha256": "aa5dd317ed692c5f5dc270fbd643033b4f2b17ce2c60a7b5a81d4b361a021035"
+    },
+    {
+      "id": "ARC-18",
+      "url": "arc-18-the-undeclared-branch.html",
+      "asset": "assets/copertina-353-arc-18.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-04_The_Departure_That_Failed/ARCHI/ARC-18_The_Undeclared_Branch/Copertina_v1.png",
+      "sha256": "0398a10d635fc0bc7c2630247d7f37d759ce86c46bcf4f9d97a0f9b8cec40006"
+    },
+    {
+      "id": "ARC-19",
+      "url": "arc-19-the-names-on-the-foundation.html",
+      "asset": "assets/copertina-353-arc-19.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-04_The_Departure_That_Failed/ARCHI/ARC-19_The_Names_on_the_Foundation/Copertina_v1.png",
+      "sha256": "05b203512e8f3f0dc141a193436a42f498d45e87df6a5fcec14bbc89896f9f97"
+    },
+    {
+      "id": "ARC-20",
+      "url": "arc-20-a-judgment-without-a-throne.html",
+      "asset": "assets/copertina-353-arc-20.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-04_The_Departure_That_Failed/ARCHI/ARC-20_A_Judgment_Without_a_Throne/Copertina_v2.png",
+      "sha256": "ad4c45b295a3b01bec08ee643fb9bd7720b9e59148962954bede51f452b42555"
+    },
+    {
+      "id": "ARC-21",
+      "url": "arc-21-the-borrowed-sleeper.html",
+      "asset": "assets/copertina-353-arc-21.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-05_The_Lives_Not_Owned/ARCHI/ARC-21_The_Borrowed_Sleeper/Copertina_v1.png",
+      "sha256": "01a294e593966328181e81b12b67bc86791dd649938b513f175e9ce91e0ca6ab"
+    },
+    {
+      "id": "ARC-22",
+      "url": "arc-22-the-guests-of-the-same-host.html",
+      "asset": "assets/copertina-353-arc-22.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-05_The_Lives_Not_Owned/ARCHI/ARC-22_The_Guests_of_the_Same_Host/Copertina_v1.png",
+      "sha256": "df0f8274fb9efbc32938f48bb6cf5343c282c7a11bc7066bd0819ad756a3e5ba"
+    },
+    {
+      "id": "ARC-23",
+      "url": "arc-23-no-patient-by-vote.html",
+      "asset": "assets/copertina-353-arc-23.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-05_The_Lives_Not_Owned/ARCHI/ARC-23_No_Patient_by_Vote/Copertina_v1.png",
+      "sha256": "2eaa5c4e2be5eb1a54a90f01e898ce0fb8a1f211f088ec2ad32d7bacd56a58ee"
+    },
+    {
+      "id": "ARC-24",
+      "url": "arc-24-what-the-basin-keeps.html",
+      "asset": "assets/copertina-353-arc-24.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-05_The_Lives_Not_Owned/ARCHI/ARC-24_What_the_Basin_Keeps/Copertina_v1.png",
+      "sha256": "9b64e48853c5f25f0c6bc8742dfcd2151740b07647481648c4e17b10414035ec"
+    },
+    {
+      "id": "ARC-25",
+      "url": "arc-25-the-people-who-stayed.html",
+      "asset": "assets/copertina-353-arc-25.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-05_The_Lives_Not_Owned/ARCHI/ARC-25_The_People_Who_Stayed/Copertina_v1.png",
+      "sha256": "6b5efd14c7084469fff801c7424dc0b5de27e67bcfff1866478d42dec737a793"
+    },
+    {
+      "id": "ARC-26",
+      "url": "arc-26-the-unanswered-vessel.html",
+      "asset": "assets/copertina-353-arc-26.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-06_The_World_Outside_the_Map/ARCHI/ARC-26_The_Unanswered_Vessel/Copertina_v1.png",
+      "sha256": "e6ea88e678611b9cb7ac42fb95913d4538cfdafc715352e2916cc82b86df81f1"
+    },
+    {
+      "id": "ARC-27",
+      "url": "arc-27-a-garden-between-worlds.html",
+      "asset": "assets/copertina-353-arc-27.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-06_The_World_Outside_the_Map/ARCHI/ARC-27_A_Garden_Between_Worlds/Copertina_v1.png",
+      "sha256": "afbdb0612ebce11f37986c6f4145bb70caeb6ed83eb9a8e99796ac74827a6a09"
+    },
+    {
+      "id": "ARC-28",
+      "url": "arc-28-the-light-that-was-built.html",
+      "asset": "assets/copertina-353-arc-28.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-06_The_World_Outside_the_Map/ARCHI/ARC-28_The_Light_That_Was_Built/Copertina_v1.png",
+      "sha256": "e581cba63aa8a86600aadc7471fdab71e5adf1ac15148a217139042a9adc6e34"
+    },
+    {
+      "id": "ARC-29",
+      "url": "arc-29-the-cost-of-a-true-witness.html",
+      "asset": "assets/copertina-353-arc-29.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-06_The_World_Outside_the_Map/ARCHI/ARC-29_The_Cost_of_a_True_Witness/Copertina_v1.png",
+      "sha256": "275a81517e01c0f7711a678e10ab505dfd0cfef07913fbb5a9668694f47caa3c"
+    },
+    {
+      "id": "ARC-30",
+      "url": "arc-30-an-exchange-beyond-the-room.html",
+      "asset": "assets/copertina-353-arc-30.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-06_The_World_Outside_the_Map/ARCHI/ARC-30_An_Exchange_Beyond_the_Room/Copertina_v1.png",
+      "sha256": "82e175feb1e0fc0b93c51cd9d5a646a201f4da970d2326d6b18c8f73f39e8fab"
+    },
+    {
+      "id": "ARC-31",
+      "url": "arc-31-the-seats-that-are-not-empty.html",
+      "asset": "assets/copertina-353-arc-31.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-07_The_Right_to_Begin/ARCHI/ARC-31_The_Seats_That_Are_Not_Empty/Copertina_v1.png",
+      "sha256": "592134bb8f0dbf8dfac4695d2be87229790538b443972d952e6ea6af0ae301d0"
+    },
+    {
+      "id": "ARC-32",
+      "url": "arc-32-the-beginning-reserved.html",
+      "asset": "assets/copertina-353-arc-32.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-07_The_Right_to_Begin/ARCHI/ARC-32_The_Beginning_Reserved/Copertina_v1.png",
+      "sha256": "8d1f24822164cd08dc2ea64537acb3e169dc09cceb33fd824f9a7af46956728e"
+    },
+    {
+      "id": "ARC-33",
+      "url": "arc-33-the-current-keeper.html",
+      "asset": "assets/copertina-353-arc-33.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-07_The_Right_to_Begin/ARCHI/ARC-33_The_Current_Keeper/Copertina_v1.png",
+      "sha256": "1bcfd37491ff51bbf9d9b1707ab73dda2feead0ad4378bd1d00bcd767eb5a668"
+    },
+    {
+      "id": "ARC-34",
+      "url": "arc-34-the-night-does-not-belong-to-one.html",
+      "asset": "assets/copertina-353-arc-34.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-07_The_Right_to_Begin/ARCHI/ARC-34_The_Night_Does_Not_Belong_to_One/Copertina_v1.png",
+      "sha256": "0a626a953cc03e69b2cee1a0ed5a5ee77f69a4509a34f1add88725d0f1d93bdd"
+    },
+    {
+      "id": "ARC-35",
+      "url": "arc-35-a-world-that-can-leave.html",
+      "asset": "assets/copertina-353-arc-35.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-07_The_Right_to_Begin/ARCHI/ARC-35_A_World_That_Can_Leave/Copertina_v1.png",
+      "sha256": "4a4fb0287d7216458d437366de982398ddba8053bd271bf0e016e2167fa0105b"
+    },
+    {
+      "id": "ARC-36",
+      "url": "arc-36-those-who-pay-for-peace.html",
+      "asset": "assets/copertina-353-arc-36.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-08_The_First_and_the_Last/ARCHI/ARC-36_Those_Who_Pay_for_Peace/Copertina_v1.png",
+      "sha256": "558ded7637405c88c010ee1ba5314549fc2decf931f252c268368f3e085176e0"
+    },
+    {
+      "id": "ARC-37",
+      "url": "arc-37-the-last-borrowed-authority.html",
+      "asset": "assets/copertina-353-arc-37.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-08_The_First_and_the_Last/ARCHI/ARC-37_The_Last_Borrowed_Authority/Copertina_v1.png",
+      "sha256": "81a794e3d3668e0a9c82e1930bd4a65a498464e9138645d69eb00a48fa2547fc"
+    },
+    {
+      "id": "ARC-38",
+      "url": "arc-38-the-record-after-the-verdict.html",
+      "asset": "assets/copertina-353-arc-38.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-08_The_First_and_the_Last/ARCHI/ARC-38_The_Record_After_the_Verdict/Copertina_v1.png",
+      "sha256": "14b6c71169052a9214c132f9270071822c550c72871774a6b7068d51f1b43f72"
+    },
+    {
+      "id": "ARC-39",
+      "url": "arc-39-the-door-left-unlocked.html",
+      "asset": "assets/copertina-353-arc-39.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-08_The_First_and_the_Last/ARCHI/ARC-39_The_Door_Left_Unlocked/Copertina_v1.png",
+      "sha256": "b5713bcd61be513f166fc78e656ebbda35f664e9d4299d255d66bc0d913ab3b3"
+    },
+    {
+      "id": "ARC-40",
+      "url": "arc-40-the-first-and-the-last.html",
+      "asset": "assets/copertina-353-arc-40.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-08_The_First_and_the_Last/ARCHI/ARC-40_The_First_and_the_Last/Copertina_v1.png",
+      "sha256": "5883218b2a74012f1da2b54bb4cc907bee022bea2658d8064b0ea81b913dd79c"
+    }
+  ]
+}

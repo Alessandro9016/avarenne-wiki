@@ -1,0 +1,12 @@
+{
+  "id": "CAST-562",
+  "name": "Mireille Orvel",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/orsanne/CAST-562_Mireille_Orvel/01_Ritratto_v1.png",
+  "asset": "assets/ritratto-politico-354-cast-562.webp",
+  "source_sha256": "b5c759729c5c292ae1187a877ad5bfa2bb15cd9f174c1187a9386f757aa0cfaf",
+  "generation_mode": "built-in image_gen",
+  "prompt": "Create ONE vertical mature semi-realistic painterly fantasy webnovel character portrait for the AVARENNE wiki. Elegant richly detailed illustration with subtly stylized beautiful expressive face, natural anatomy, cinematic chiaroscuro, textured late nineteenth-century industrial-fantasy aristocratic tailoring. Three-quarter waist-up single subject; atmospheric softly focused interior appropriate to a civilian court, no battle. Preserve the specified age and individual facial identity, do not make everyone a young model. SUBJECT: Mireille Orvel. Woman53, light olive skin, dark hair silver at temples in a refined updo, grey-brown eyes, deep amethyst high-neck formal dress ROLE: Consorte di Adrien III, nata Savenne. Subtle tangible background of books, dark wood or a tall window; character dominates. No lettering, labels, watermark, collage, extra people, magic aura, halos, religious symbol or automatic crown on heirs. Regal bearing with restrained ceremonial detail, not medieval plate armor.",
+  "wiki_integrated": true,
+  "status": "GENERATED_AND_VISUALLY_REVIEWED",
+  "revision": 354
+}

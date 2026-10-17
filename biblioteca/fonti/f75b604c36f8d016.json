@@ -1,0 +1,622 @@
+{
+  "version": "1.1",
+  "access": "PLAYER_KNOWN",
+  "milestone": 10,
+  "as_of": "memorie prima del coma; non aggiornamento automatico al 18 maggio 812",
+  "people": [
+    {
+      "name": "Celine Valcienne",
+      "remembered_role": "Sorella del corpo di Alexander, quattordici anni; scuola e vita proprie",
+      "source": "Memorie del duca; 77–85 e 128, nomi specificati nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale.",
+      "remembered_relationship": "Fratello premuroso ma spesso assente; promessa di visita alla biblioteca rimasta sospesa."
+    },
+    {
+      "name": "Yselle Valcienne",
+      "remembered_role": "Zia, sorella minore di Lucien, ingegnera di trentaquattro anni; sposata e residente a Lethorne",
+      "source": "Memorie del duca; 77–85 e 128, nomi specificati nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale.",
+      "remembered_relationship": "Zia paterna, rapporto familiare e dissenso tecnico autonomo."
+    },
+    {
+      "name": "Martin Lethorne",
+      "remembered_role": "Marito di Yselle, trentasette anni, insegnante ordinario di meccanica",
+      "source": "Memorie del duca; 77–85 e 128, nomi specificati nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale.",
+      "remembered_relationship": "Zio acquisito; spiegazioni di meccanica e possibilità di fare domande senza cerimoniale."
+    },
+    {
+      "name": "Lucien Valcienne",
+      "remembered_role": "Padre di Alexander, deceduto il 26 marzo 812",
+      "source": "Memorie del duca; 77–85 e 128, nomi specificati nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Eliane Ardel",
+      "remembered_role": "Madre di Alexander, deceduta il 26 marzo 812",
+      "source": "Memorie del duca; 77–85 e 128, nomi specificati nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Albin Sere",
+      "remembered_role": "Amministratore ordinario",
+      "source": "Memorie del duca; 77–85 e 128, nomi specificati nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Teren Holt",
+      "remembered_role": "Responsabile ordinario della sicurezza",
+      "source": "Memorie del duca; 77–85 e 128, nomi specificati nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Mirel Osta",
+      "remembered_role": "Medico ordinario chiamato dalla famiglia",
+      "source": "Memorie del duca; 77–85 e 128, nomi specificati nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Nela Bress",
+      "remembered_role": "Professionista ordinaria dell’assistenza infermieristica",
+      "source": "Memorie del duca; 77–85 e 128, nomi specificati nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Heloise Brant",
+      "remembered_role": "capocuoca",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Kethari",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale.",
+      "remembered_relationship": "Familiarità domestica e pasti abituali."
+    },
+    {
+      "name": "Luca Daven",
+      "remembered_role": "secondo cuoco",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Marta Sorel",
+      "remembered_role": "dispensiera",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Nico Bell",
+      "remembered_role": "aiuto di cucina",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Adele Bresson",
+      "remembered_role": "fornaia",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Sabine Varel",
+      "remembered_role": "governante",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale.",
+      "remembered_relationship": "Fiducia domestica e tensione sulle richieste non espresse."
+    },
+    {
+      "name": "Elise Moret",
+      "remembered_role": "lavandaia",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Lena Osser",
+      "remembered_role": "addetta alle camere",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Ilyr",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Paul Rennet",
+      "remembered_role": "manutentore dei tessili",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Nora Sall",
+      "remembered_role": "addetta alle pulizie",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Emil Cress",
+      "remembered_role": "garzone di lavanderia",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Victor Lann",
+      "remembered_role": "capostalliere",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale.",
+      "remembered_relationship": "Rapporto formativo di equitazione e cura degli animali."
+    },
+    {
+      "name": "Remy Thol",
+      "remembered_role": "cocchiere",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Henri Pellan",
+      "remembered_role": "aiuto di stalla",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Anna Feral",
+      "remembered_role": "giardiniera",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Louis Keret",
+      "remembered_role": "muratore di residenza",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Ossari",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Isabel Mornet",
+      "remembered_role": "addetta agli impianti",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale.",
+      "remembered_relationship": "Confidenza tecnica dal 810, entro un rapporto di lavoro asimmetrico."
+    },
+    {
+      "name": "Estelle Nerin",
+      "remembered_role": "contabile",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale.",
+      "remembered_relationship": "Fiducia nei resoconti contabili, anche sfavorevoli."
+    },
+    {
+      "name": "Armand Leth",
+      "remembered_role": "archivista patrimoniale",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Gina Sere",
+      "remembered_role": "copista",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Maurice Verr",
+      "remembered_role": "maggiordomo",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Sophie Arel",
+      "remembered_role": "addetta alla sala",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Felix Orlen",
+      "remembered_role": "fattorino",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale.",
+      "remembered_relationship": "Conversazioni su corse e sport fra coetanei, entro un rapporto di lavoro."
+    },
+    {
+      "name": "Gareth Sorn",
+      "remembered_role": "vice di Teren",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Bruno Maret",
+      "remembered_role": "guardia cancello",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Anton Rill",
+      "remembered_role": "guardia pattuglia",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Claudine Ves",
+      "remembered_role": "guardia accompagnamento",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Hugo Kern",
+      "remembered_role": "guardia stalle",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Pierre Navet",
+      "remembered_role": "guardia archivio",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Leonie Sar",
+      "remembered_role": "guardia di turno",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Edgar Vossin",
+      "remembered_role": "guardia veterana",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Luc Rema",
+      "remembered_role": "guardia nuova",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Milo Arret",
+      "remembered_role": "guardia dei magazzini",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Sarah Cenn",
+      "remembered_role": "guardia mobile",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Octave Bren",
+      "remembered_role": "agente dei mulini",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Serekh",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Delia Vess",
+      "remembered_role": "agente forestale",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Marco Neret",
+      "remembered_role": "agente di magazzino Auvrel",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Serekh",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Elsa Dorne",
+      "remembered_role": "agente di magazzino Auvrel",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Julien Sarn",
+      "remembered_role": "agente degli affitti",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Vera Lenet",
+      "remembered_role": "agente dei pascoli",
+      "source": "Mansione conosciuta prima del coma, organico 128/133 dettagliato nel punto 10",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Identità e corporeità ordinaria riconoscibili fra le memorie pre-coma. Non include origini segrete, genealogie dettagliate o stato attuale."
+    },
+    {
+      "name": "Aurelie Belcour",
+      "cast_id": "CAST-464",
+      "remembered_role": "Figlia primogenita del conte Belcour; fidanzata dinastica di Alexander",
+      "remembered_relationship": "Conosce Alexander da bambina; amicizia prudente, ironia condivisa e fidanzamento confermato personalmente nel 811. Non ricorda una dichiarazione di amore reciproco.",
+      "source": "GIOCATORE_273; REV-CIV-01",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Conoscenza pre-coma; nessuna agenda T0",
+      "territorial_context_347": "Figlia di Armand, conte di Belcour dentro Rovenne. Alexander è superiore territoriale al padre: la trattativa non è paritaria di rango; il consenso personale resta necessario."
+    },
+    {
+      "name": "Armand Belcour",
+      "cast_id": "CAST-465",
+      "remembered_role": "Conte, padre di Aurelie; proprietario di terreni lungo una derivazione collegata ai mulini",
+      "remembered_relationship": "Interlocutore di Lucien; Alexander ne ricorda ospitalità e pazienza, insieme alla tendenza a parlare delle persone come di accordi futuri.",
+      "source": "GIOCATORE_273; REV-CIV-01",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Conoscenza pre-coma; nessuna agenda T0",
+      "territorial_context_347": "Titolare della contea di Belcour: 2.600 km² e 148.000 abitanti censiti, distinti dai beni privati. Subordinato territoriale ad Alexander, conserva residenza e attività a Lethorne."
+    },
+    {
+      "name": "Beatrice Belcour",
+      "cast_id": "CAST-466",
+      "remembered_role": "Madre di Aurelie, nata Varen; amministratrice del proprio patrimonio",
+      "remembered_relationship": "Alexander la conosce come ospite attenta, capace di interrompere con cortesia una discussione che tratta Aurelie come assente.",
+      "source": "GIOCATORE_273; REV-CIV-01",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Conoscenza pre-coma; nessuna agenda T0"
+    },
+    {
+      "name": "Olivier Ardel",
+      "cast_id": "CAST-467",
+      "remembered_role": "Fratello maggiore di Eliane; zio materno e socio di un piccolo commercio di tessuti",
+      "remembered_relationship": "Alexander ricorda vacanze e pranzi meno formali; lo zio gli disse dopo il funerale che essere duca non significava saper fare tutto.",
+      "source": "GIOCATORE_273; REV-CIV-01",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Conoscenza pre-coma; nessuna agenda T0"
+    },
+    {
+      "name": "Helene Ardel",
+      "cast_id": "CAST-468",
+      "remembered_role": "Moglie di Olivier, nata Morel; zia acquisita, insegnante di disegno",
+      "remembered_relationship": "Alexander la frequentava nei pranzi Ardel; lei riconosceva quando nascondeva imbarazzo dietro una battuta educata.",
+      "source": "GIOCATORE_273; REV-CIV-01",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Conoscenza pre-coma; nessuna agenda T0"
+    },
+    {
+      "name": "Gabriel Ardel",
+      "cast_id": "CAST-469",
+      "remembered_role": "Cugino materno, figlio di Olivier e Helene; apprendista disegnatore tecnico",
+      "remembered_relationship": "Compagno di passeggiate e scherma ordinaria; nel febbraio 812 litigarono quando Alexander offrì un posto senza chiedergli quale lavoro volesse.",
+      "source": "GIOCATORE_273; REV-CIV-01",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Conoscenza pre-coma; nessuna agenda T0"
+    },
+    {
+      "name": "Etienne Ravelle",
+      "cast_id": "CAST-470",
+      "remembered_role": "Secondogenito di una famiglia nobile minore; amico di studi e frequentazioni",
+      "remembered_relationship": "Amico dal 804: scherma, concerti e ironia sui discorsi cerimoniali. Alexander gli confidava insofferenza per gli obblighi; non la propria decisione finale.",
+      "source": "GIOCATORE_273; REV-CIV-01",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Conoscenza pre-coma; nessuna agenda T0",
+      "territorial_context_347": "Secondogenito di Marcel Ravelle, barone di La Varenne nel distretto diretto di Rovenne. Nessuna carica territoriale propria."
+    },
+    {
+      "name": "Leon Vernier",
+      "cast_id": "CAST-471",
+      "remembered_role": "Erede di una casa proprietaria di terreni confinanti; rivale sociale e sportivo",
+      "remembered_relationship": "Competizione in scherma e dibattiti scolastici. Nel 810 Leon vinse una gara; Alexander contestò il giudizio troppo pubblicamente e poi si scusò in privato.",
+      "source": "GIOCATORE_273; REV-CIV-01",
+      "remembered_biological_population": "Umano",
+      "biology_knowledge_scope": "Conoscenza pre-coma; nessuna agenda T0",
+      "territorial_context_347": "Erede di Vincent Vernier, conte di Vernay, subordinato territoriale al duca. La rivalità personale non equivale a parità di rango."
+    },
+    {
+      "name": "Jean Orrel",
+      "remembered_role": "Responsabile della biblioteca del borgo; Alexander era giovane visitatore e poi patrono.",
+      "remembered_relationship": "Conoscenza di libri e visite, non soltanto concessioni patrimoniali.",
+      "source": "GIOCATORE_273_Rete_civile_di_Alexander.md",
+      "knowledge_scope": "Memorie pre-coma; nessuna Effigy, agenda riservata o conversazione durante il coma attribuita."
+    },
+    {
+      "name": "Bastien Quell",
+      "remembered_role": "Responsabile del Mulino delle tre paratie; accompagnò Alexander nelle visite tecniche.",
+      "remembered_relationship": "Frequentazione professionale nelle visite agli impianti.",
+      "source": "GIOCATORE_273_Rete_civile_di_Alexander.md",
+      "knowledge_scope": "Memorie pre-coma; nessuna Effigy, agenda riservata o conversazione durante il coma attribuita."
+    },
+    {
+      "name": "Rosa Edril",
+      "remembered_role": "Responsabile del Consorzio dei pascoli.",
+      "remembered_relationship": "Contestò educatamente una priorità di spesa durante i rapporti con il giovane duca.",
+      "source": "GIOCATORE_273_Rete_civile_di_Alexander.md",
+      "knowledge_scope": "Memorie pre-coma; nessuna Effigy, agenda riservata o conversazione durante il coma attribuita."
+    },
+    {
+      "name": "Odette Sarin",
+      "remembered_role": "Archivio delle notifiche marittime; conoscenza professionale nata dai rapporti ricevuti dopo il naufragio.",
+      "remembered_relationship": "Interlocutrice professionale, non confidente personale; nessuna conoscenza dei suoi segreti.",
+      "source": "GIOCATORE_273_Rete_civile_di_Alexander.md",
+      "knowledge_scope": "Memorie pre-coma; nessuna Effigy, agenda riservata o conversazione durante il coma attribuita."
+    },
+    {
+      "name": "Vincent Vernier",
+      "remembered_role": "Conte di Vernay; Campagne meridionali, allevamento e mulini secondari; manutenzioni e terreni confinanti con lotti Valcienne. Leon è l’erede del conte, non un duca rivale.",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Madeleine Rochebrune",
+      "remembered_role": "Contessa di Rochebrune; Colline sud-orientali, cave di pietra, boschi e fornaci. Non comprende il centro carbonifero di Deren né il passo di Sarn.",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Clara Aubrecourt",
+      "remembered_role": "Contessa di Aubrecourt; Terrazze nord-orientali, frutteti, pascoli e lavorazione del legname. Le strade raccordano i mercati interni senza inglobare Ossen Reach.",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Adrien Pontel",
+      "remembered_role": "Barone di Pontel; Ponte e mercato di transito",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Elise Desormes",
+      "remembered_role": "Baronessa di Les Ormes; Orticoltura della cintura urbana",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Soren Vask",
+      "remembered_role": "Barone di Riveclaire; Approdi e manutenzione delle rive",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Serekh",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Henri Montfaucon",
+      "remembered_role": "Barone di Montfaucon; Boschi e strada delle alture",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Louise Briselles",
+      "remembered_role": "Baronessa di Briselles; Pascoli e manutenzione delle derivazioni",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Marcel Ravelle",
+      "remembered_role": "Barone di La Varenne; Tenute della casa Ravelle",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Gaspard Bellive",
+      "remembered_role": "Barone di Bellive; Lino e lavatoi",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Margot Fontenac",
+      "remembered_role": "Baronessa di Fontenac; Sorgenti, condotte e diritti d’accesso",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Olivier Saulnes",
+      "remembered_role": "Barone di Saulnes; Cereali e mercati rurali",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Paul Vernelles",
+      "remembered_role": "Barone di Vernelles; Allevamento e fiere",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Diane Cressan",
+      "remembered_role": "Baronessa di Cressan; Mulini secondari e canali",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Jules Montreval",
+      "remembered_role": "Barone di Montreval; Vigneti collinari e carri",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Arvek Thol",
+      "remembered_role": "Barone di Pierrefend; Cave di pietra e maestranze Ossari",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Ossari",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Cecile Orbrune",
+      "remembered_role": "Baronessa di Orbrune; Fornaci e combustibile",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Remy Valgrise",
+      "remembered_role": "Barone di Valgrise; Strada di collina e piazzole di cava",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Noemie Aubremont",
+      "remembered_role": "Baronessa di Aubremont; Frutteti e trasporti stagionali",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Pascal Clairbois",
+      "remembered_role": "Barone di Clairbois; Boschi e segherie",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Ines Roseraie",
+      "remembered_role": "Baronessa di Roseraie; Vivai, colture e mercato locale",
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "remembered_biological_population": "Umano",
+      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    }
+  ],
+  "ancient_relationship_source": "GIOCATORE_80_Legami_antichi_che_ricordi.md",
+  "excluded": [
+    "sorti successive degli antichi compagni",
+    "inventari moderni",
+    "segreti e agende correnti",
+    "identità del deuteragonista e del gruppo"
+  ],
+  "biology_revision": "POP-298",
+  "integration_revision": "RACCORDI-317",
+  "character_review_revision": 340,
+  "territorial_revision": "347"
+}

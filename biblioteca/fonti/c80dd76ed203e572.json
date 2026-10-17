@@ -1,0 +1,12 @@
+{
+  "id": "CAST-524",
+  "name": "Adrien III Orvel",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/orsanne/CAST-524_Adrien_III_Orvel/01_Ritratto_v1.png",
+  "asset": "assets/ritratto-politico-354-cast-524.webp",
+  "source_sha256": "8ff40f2c429e17cda94f0a772b04ed9a16431b3cb38ea9cc7518dfa1d46c1f5f",
+  "generation_mode": "built-in image_gen",
+  "prompt": "Create ONE vertical mature semi-realistic painterly fantasy webnovel character portrait for the AVARENNE wiki. Elegant richly detailed illustration with subtly stylized beautiful expressive face, natural anatomy, cinematic chiaroscuro, textured late nineteenth-century industrial-fantasy aristocratic tailoring. Three-quarter waist-up single subject; atmospheric softly focused interior appropriate to a civilian court, no battle. Preserve the specified age and individual facial identity, do not make everyone a young model. SUBJECT: Adrien III Orvel. Man57, light brown skin, iron-grey hair combed back, brown eyes, neat short grey beard, navy formal frock coat, restrained golden circlet beside him ROLE: Re di Orsanne; Maison Orvel. Subtle tangible background of books, dark wood or a tall window; character dominates. No lettering, labels, watermark, collage, extra people, magic aura, halos, religious symbol or automatic crown on heirs. Regal bearing with restrained ceremonial detail, not medieval plate armor.",
+  "wiki_integrated": true,
+  "status": "GENERATED_AND_VISUALLY_REVIEWED",
+  "revision": 354
+}

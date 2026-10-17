@@ -1,0 +1,847 @@
+{
+  "revision": "350",
+  "matrix_sha256": "4aa7a711b43f5b166fdd784736a09cf9ce2b240b99a03009262d5da601365b15",
+  "scope": "Verifica editoriale delle interazioni: esiti condizionali, non simulazione numerica né eventi giocati",
+  "cases": [
+    {
+      "id": "X350-01",
+      "title": "Fascio luminoso e specchio investito",
+      "abilities": [
+        {
+          "effigy": "Halo",
+          "name": "Luminous Emission",
+          "id": "EFF-04-I-M01",
+          "threshold": 1
+        },
+        {
+          "effigy": "Crescent",
+          "name": "Reflective Turn",
+          "id": "EFF-23-II-M02",
+          "threshold": 2
+        }
+      ],
+      "setup": "Un fascio incontra una superficie speculare già investita.",
+      "permitted_resolution": "Confrontare quota intercettata, superficie, tenuta e percorso del riflesso. La parte prevalsa può essere deviata; l’eccesso o ciò che non è intercettato resta un problema reale.",
+      "forbidden_inference": "Lo specchio riflette automaticamente qualsiasi potenza, oppure nessuna difesa può opporsi perché il fascio è veloce."
+    },
+    {
+      "id": "X350-02",
+      "title": "Raggio già partito e riconoscimento",
+      "abilities": [
+        {
+          "effigy": "Halo",
+          "name": "Luminous Emission",
+          "id": "EFF-04-I-M01",
+          "threshold": 1
+        },
+        {
+          "effigy": "Mask",
+          "name": "Recognition Break",
+          "id": "EFF-07-IV-M03",
+          "threshold": 4
+        }
+      ],
+      "setup": "Il fascio è già stato emesso correttamente prima del disallineamento di riconoscimento.",
+      "permitted_resolution": "La rottura può perturbare successivi indirizzamenti o una guida ancora attiva; non cancella il percorso già compiuto. Una difesa preesistente distinta può ancora contare.",
+      "forbidden_inference": "Recognition Break sposta retroattivamente il colpo già in volo."
+    },
+    {
+      "id": "X350-03",
+      "title": "Luce e lente gravitazionale",
+      "abilities": [
+        {
+          "effigy": "Halo",
+          "name": "Radiant Direction",
+          "id": "EFF-04-II-M01",
+          "threshold": 2
+        },
+        {
+          "effigy": "Astrolabe",
+          "name": "Gravitational Lens",
+          "id": "EFF-09-VI-M02",
+          "threshold": 6
+        }
+      ],
+      "setup": "Un campo a lente già sostenuto interseca un’emissione diretta.",
+      "permitted_resolution": "Confrontare curvatura del campo, guida e tenuta realmente esercitate. Astrolabe non deve incorporare Light per modificare un tragitto con Gravity.",
+      "forbidden_inference": "Una lettura di coordinate iniziale dà già la lente VI."
+    },
+    {
+      "id": "X350-04",
+      "title": "Ruin e rigenerazione",
+      "abilities": [
+        {
+          "effigy": "Ruin",
+          "name": "Finality",
+          "id": "EFF-02-IV-M01",
+          "threshold": 4
+        },
+        {
+          "effigy": "Heart",
+          "name": "Extreme Regeneration",
+          "id": "EFF-05-IV-M03",
+          "threshold": 4
+        }
+      ],
+      "setup": "Il contatto Ruin raggiunge il canale attraverso cui una parte si ricostituisce.",
+      "permitted_resolution": "Se Finality prevale, quel canale cessa. Una via di recupero veramente indipendente richiede verifica propria; la lesione e il danno già prodotti restano.",
+      "forbidden_inference": "Qualunque cura futura è abolita per nome, anche senza presa sul suo sostegno."
+    },
+    {
+      "id": "X350-05",
+      "title": "Annullamento e resurrezione",
+      "abilities": [
+        {
+          "effigy": "Ruin",
+          "name": "Existential Erasure",
+          "id": "EFF-02-VII-M01",
+          "threshold": 7
+        },
+        {
+          "effigy": "Heart",
+          "name": "Continuity Recovery",
+          "id": "EFF-05-V-M03",
+          "threshold": 5
+        }
+      ],
+      "setup": "La continuità di una persona è stata interamente annullata.",
+      "permitted_resolution": "Non resta la stessa persona da ricongiungere. Se Ruin ha distrutto soltanto il corpo, occorre verificare invece la continuità superstite: i due casi non sono equivalenti.",
+      "forbidden_inference": "Una copia dei ricordi prova automaticamente resurrezione autentica."
+    },
+    {
+      "id": "X350-06",
+      "title": "Annullamento e custodia funeraria",
+      "abilities": [
+        {
+          "effigy": "Ruin",
+          "name": "Existential Erasure",
+          "id": "EFF-02-VII-M01",
+          "threshold": 7
+        },
+        {
+          "effigy": "Sepulchre",
+          "name": "Spirit Custody",
+          "id": "EFF-10-III-M02",
+          "threshold": 3
+        }
+      ],
+      "setup": "La presa distruttiva contende la persona custodita e la tenuta del suo accesso.",
+      "permitted_resolution": "Distinguere guscio, supporto e continuità; colpire soltanto un reliquiario non prova di aver annullato ogni componente custodita. Se la continuità è interamente presa e annullata, non compare un morto interrogabile.",
+      "forbidden_inference": "Il reliquiario è un backup incondizionato dell’anima."
+    },
+    {
+      "id": "X350-07",
+      "title": "Volontà imposta e lettura mentale",
+      "abilities": [
+        {
+          "effigy": "Scroll",
+          "name": "Deliberative Mandate",
+          "id": "EFF-03-III-M03",
+          "threshold": 3
+        },
+        {
+          "effigy": "Labyrinth",
+          "name": "Surface Thought",
+          "id": "EFF-18-I-M01",
+          "threshold": 1
+        }
+      ],
+      "setup": "Il destinatario vive un obiettivo imposto come proprio; un altro Bearer ne legge contenuti affioranti.",
+      "permitted_resolution": "La lettura può mostrare il proposito ma non necessariamente la sua provenienza. Diagnosi e opposizione richiedono ulteriori accessi pertinenti.",
+      "forbidden_inference": "Leggere un pensiero fa sempre riconoscere e cancellare Will."
+    },
+    {
+      "id": "X350-08",
+      "title": "Volontà imposta e fascinazione",
+      "abilities": [
+        {
+          "effigy": "Scroll",
+          "name": "Imperative Assent",
+          "id": "EFF-03-I-M03",
+          "threshold": 1
+        },
+        {
+          "effigy": "Crescent",
+          "name": "First Fascination",
+          "id": "EFF-23-I-M03",
+          "threshold": 1
+        }
+      ],
+      "setup": "Una persona affascinata riceve un imperativo opposto alla direzione della fascinazione.",
+      "permitted_resolution": "Distinguere assenso imposto, attrazione e azione concreta. Confrontare gli esercizi effettivi; nessuno dei due rami prende tutta l’altra autorità per somiglianza.",
+      "forbidden_inference": "Charm e Will sono lo stesso potere con un altro nome."
+    },
+    {
+      "id": "X350-09",
+      "title": "Ordine di Scroll e legge di Crown",
+      "abilities": [
+        {
+          "effigy": "Scroll",
+          "name": "Imperative Assent",
+          "id": "EFF-03-I-M03",
+          "threshold": 1
+        },
+        {
+          "effigy": "Crown",
+          "name": "Conditional Rule",
+          "id": "EFF-12-II-M01",
+          "threshold": 2
+        }
+      ],
+      "setup": "Un ordine induce un soggetto ad attraversare un accesso realmente protetto da una norma.",
+      "permitted_resolution": "Will può produrre la decisione; Law può comunque ostacolare il passaggio o applicare una sanzione prevista. Il consenso mentale non abolisce la forza del confine.",
+      "forbidden_inference": "Obbedire permette automaticamente di attraversare qualunque norma."
+    },
+    {
+      "id": "X350-10",
+      "title": "Immagine ingannevole e rivelazione",
+      "abilities": [
+        {
+          "effigy": "Mask",
+          "name": "Borrowed Appearance",
+          "id": "EFF-07-I-M04",
+          "threshold": 1
+        },
+        {
+          "effigy": "Halo",
+          "name": "First Exposure",
+          "id": "EFF-04-I-M02",
+          "threshold": 1
+        }
+      ],
+      "setup": "Un’apparenza nasconde la componente che Revelation sta tentando di esporre.",
+      "permitted_resolution": "Confrontare canali e profondità presi. L’esposizione può scoprire quella componente senza svelare nome vero e tutta la storia dell’individuo.",
+      "forbidden_inference": "Revelation rivela qualsiasi segreto soltanto illuminando il volto."
+    },
+    {
+      "id": "X350-11",
+      "title": "Doppio corporeo e colpo di forza",
+      "abilities": [
+        {
+          "effigy": "Mask",
+          "name": "Invested Double",
+          "id": "EFF-07-II-M02",
+          "threshold": 2
+        },
+        {
+          "effigy": "Oracle",
+          "name": "Force and Ward",
+          "id": "EFF-16-I-M04",
+          "threshold": 1
+        }
+      ],
+      "setup": "Una rappresentazione II investita intercetta un impulso fisico-magico.",
+      "permitted_resolution": "Il doppio ha contatto reale e può opporre la quota assegnata. Viene sopraffatto se la tenuta non basta; non richiede credulità del tiratore.",
+      "forbidden_inference": "Tutte le rappresentazioni sono soltanto immagini o tutte hanno la potenza piena del portatore."
+    },
+    {
+      "id": "X350-12",
+      "title": "Creazione e sviluppo biologico",
+      "abilities": [
+        {
+          "effigy": "Cradle",
+          "name": "Personal Genesis",
+          "id": "EFF-01-IV-M01",
+          "threshold": 4
+        },
+        {
+          "effigy": "Seed",
+          "name": "Designed Brood",
+          "id": "EFF-11-IV-M01",
+          "threshold": 4
+        }
+      ],
+      "setup": "Due metodi producono organismi complessi.",
+      "permitted_resolution": "Cradle dà nuova esistenza dalla fonte; Seed sviluppa materiale germinale. Nutrimento e compatibilità restano reali; nessuno eredita automaticamente l’autorità del diverso metodo.",
+      "forbidden_inference": "La somiglianza dell’animale rende identiche le due Effigi."
+    },
+    {
+      "id": "X350-13",
+      "title": "Corpo creato e ritorno della persona",
+      "abilities": [
+        {
+          "effigy": "Cradle",
+          "name": "Personal Genesis",
+          "id": "EFF-01-IV-M01",
+          "threshold": 4
+        },
+        {
+          "effigy": "Heart",
+          "name": "Continuity Recovery",
+          "id": "EFF-05-V-M03",
+          "threshold": 5
+        }
+      ],
+      "setup": "Esiste un corpo nuovo compatibile con una persona morta la cui continuità ancora persiste.",
+      "permitted_resolution": "Il corpo può essere un mezzo per il ricongiungimento pertinente di Heart. La nuova persona già nata con centro proprio non è un contenitore da cancellare automaticamente.",
+      "forbidden_inference": "Creare un sosia resuscita il morto o autorizza a sostituire una persona esistente."
+    },
+    {
+      "id": "X350-14",
+      "title": "Luce generata e autorità sulla luce",
+      "abilities": [
+        {
+          "effigy": "Cradle",
+          "name": "Genesis",
+          "id": "EFF-01-I-M01",
+          "threshold": 1
+        },
+        {
+          "effigy": "Halo",
+          "name": "Radiant Direction",
+          "id": "EFF-04-II-M01",
+          "threshold": 2
+        }
+      ],
+      "setup": "Cradle genera un’emissione fisica luminosa o una lampada; Halo guida luce propria.",
+      "permitted_resolution": "Un fenomeno fisico può essere prodotto da metodi diversi. Cradle non incorpora per questo l’intero ramo Light; la funzione di guida II resta da ottenere con il metodo che la possiede.",
+      "forbidden_inference": "Ogni photon prodotto assegna tutte le capacità di Halo."
+    },
+    {
+      "id": "X350-15",
+      "title": "Materia creata e materia trasformata",
+      "abilities": [
+        {
+          "effigy": "Cradle",
+          "name": "Genesis",
+          "id": "EFF-01-I-M01",
+          "threshold": 1
+        },
+        {
+          "effigy": "Crucible",
+          "name": "Shaped Transmutation",
+          "id": "EFF-06-III-M03",
+          "threshold": 3
+        }
+      ],
+      "setup": "Due porte risultano materialmente simili dopo creazione e trasformazione.",
+      "permitted_resolution": "Un prodotto Independent resta dopo la fine dell’atto. Crucible richiede materia/ingressi pertinenti; Cradle non deve smontare una materia altrui per produrre il proprio oggetto.",
+      "forbidden_inference": "Finita l’attenzione, entrambe le porte scompaiono per principio."
+    },
+    {
+      "id": "X350-16",
+      "title": "Pressione e ridondanza vitale",
+      "abilities": [
+        {
+          "effigy": "Tempest",
+          "name": "Pressure Pulse",
+          "id": "EFF-19-I-M02",
+          "threshold": 1
+        },
+        {
+          "effigy": "Heart",
+          "name": "Living Fortress",
+          "id": "EFF-05-IV-M01",
+          "threshold": 4
+        }
+      ],
+      "setup": "Una sollecitazione pressoria ha leso un organo del portatore Heart IV.",
+      "permitted_resolution": "Riconoscere danno e ridondanza personale: la funzione può continuare se la costituzione realmente regge. L’organo non è già ricresciuto solo perché la persona si muove ancora.",
+      "forbidden_inference": "Ridondanza significa nessuna ferita oppure guarigione immediata gratuita."
+    },
+    {
+      "id": "X350-17",
+      "title": "Scarica e conversione",
+      "abilities": [
+        {
+          "effigy": "Tempest",
+          "name": "First Discharge",
+          "id": "EFF-19-I-M04",
+          "threshold": 1
+        },
+        {
+          "effigy": "Crucible",
+          "name": "Conversion Mantle",
+          "id": "EFF-06-IV-M02",
+          "threshold": 4
+        }
+      ],
+      "setup": "Una scarica percorre un mezzo che interseca un mantello di conversione.",
+      "permitted_resolution": "Confrontare componente intercettata, ingresso convertibile, scarico e capacità del mantello. Quote incompatibili o eccessive non diventano automaticamente nutrimento.",
+      "forbidden_inference": "Conversione assorbe ogni energia senza uscita o limite."
+    },
+    {
+      "id": "X350-18",
+      "title": "Flusso e oscurità materiale investita",
+      "abilities": [
+        {
+          "effigy": "Tempest",
+          "name": "Directed Current",
+          "id": "EFF-19-II-M01",
+          "threshold": 2
+        },
+        {
+          "effigy": "Eclipse",
+          "name": "Black Armament",
+          "id": "EFF-22-II-M01",
+          "threshold": 2
+        }
+      ],
+      "setup": "Un getto incontra uno scudo oscuro sostenuto.",
+      "permitted_resolution": "Lo scudo ha forza reale; il getto ha mezzo e carico reali. Confrontare le tenute sul fronte, senza trattare Darkness come sola assenza di luce.",
+      "forbidden_inference": "Una torcia o un vento ordinario cancellano per nome qualsiasi armamento oscuro."
+    },
+    {
+      "id": "X350-19",
+      "title": "Consumo e annullamento",
+      "abilities": [
+        {
+          "effigy": "Maw",
+          "name": "Predatory Contact",
+          "id": "EFF-20-II-M03",
+          "threshold": 2
+        },
+        {
+          "effigy": "Ruin",
+          "name": "Unmaking",
+          "id": "EFF-02-I-M01",
+          "threshold": 1
+        }
+      ],
+      "setup": "Due esercizi tentano di prendere una componente d’attacco.",
+      "permitted_resolution": "Maw consuma la componente effettivamente consumabile; ciò che Ruin ha già annullato non resta una riserva da assimilare. Il conflitto riguarda l’oggetto ancora presente e l’ordine effettivo.",
+      "forbidden_inference": "L’assenza è sempre cibo infinito."
+    },
+    {
+      "id": "X350-20",
+      "title": "Consumo e garanzia",
+      "abilities": [
+        {
+          "effigy": "Maw",
+          "name": "Predatory Contact",
+          "id": "EFF-20-II-M03",
+          "threshold": 2
+        },
+        {
+          "effigy": "Coin",
+          "name": "Collateral Bond",
+          "id": "EFF-14-III-M01",
+          "threshold": 3
+        }
+      ],
+      "setup": "La componente presa è sostenuta da una garanzia investita compatibile.",
+      "permitted_resolution": "Se il pegno pertinente tiene, sostiene la lesione tramite quota reale; se viene consumata la garanzia perde davvero risorsa. Non protegge funzioni che il rapporto non copre.",
+      "forbidden_inference": "Una moneta assorbe indistintamente qualunque annullamento della persona."
+    },
+    {
+      "id": "X350-21",
+      "title": "Vincolo e taglio del sostegno",
+      "abilities": [
+        {
+          "effigy": "Chain",
+          "name": "Directed Tether",
+          "id": "EFF-13-II-M01",
+          "threshold": 2
+        },
+        {
+          "effigy": "Loom",
+          "name": "Selective Interruption",
+          "id": "EFF-21-III-M01",
+          "threshold": 3
+        }
+      ],
+      "setup": "Loom prende la condizione realmente necessaria a un legame attivo.",
+      "permitted_resolution": "Può contendere quel nesso; Chain può avere nodi o sostegni indipendenti. Interrompere un solo ingresso non prova la cessazione di tutti i vincoli del portatore.",
+      "forbidden_inference": "La parola causa rende superfluo individuare la dipendenza."
+    },
+    {
+      "id": "X350-22",
+      "title": "Deposito autonomo e silenzio",
+      "abilities": [
+        {
+          "effigy": "Scroll",
+          "name": "Written Instruction",
+          "id": "EFF-03-II-M02",
+          "threshold": 2
+        },
+        {
+          "effigy": "Eclipse",
+          "name": "Broken Signal",
+          "id": "EFF-22-III-M05",
+          "threshold": 3
+        }
+      ],
+      "setup": "Una parola scritta è già investita e attiva; un filtro interrompe il suono locale.",
+      "permitted_resolution": "Il filtro non spegne la formulazione scritta già operante. Se il trigger richiesto è invece un segnale acustico non ricevuto, può impedire quel nuovo avvio.",
+      "forbidden_inference": "Tutto ciò che si chiama incantesimo dipende sempre dal suono."
+    },
+    {
+      "id": "X350-23",
+      "title": "Usura e rinnovo",
+      "abilities": [
+        {
+          "effigy": "Hourglass",
+          "name": "Accelerated Wear",
+          "id": "EFF-08-II-M03",
+          "threshold": 2
+        },
+        {
+          "effigy": "Heart",
+          "name": "Extreme Regeneration",
+          "id": "EFF-05-IV-M03",
+          "threshold": 4
+        }
+      ],
+      "setup": "Un processo deteriora una componente che Heart tenta di ricostruire.",
+      "permitted_resolution": "Registrare le parti prese, i ritmi realmente sostenuti e la contesa fra usura e riparazione. Rigenerare non termina automaticamente la causa dell’usura, né usura equivale ad annullamento completo.",
+      "forbidden_inference": "Vince sempre il potere che si pronuncia per ultimo."
+    },
+    {
+      "id": "X350-24",
+      "title": "Nesso di destinazione e tiro corretto",
+      "abilities": [
+        {
+          "effigy": "Loom",
+          "name": "Causal Displacement",
+          "id": "EFF-21-IV-M01",
+          "threshold": 4
+        },
+        {
+          "effigy": "Halo",
+          "name": "Luminous Emission",
+          "id": "EFF-04-I-M01",
+          "threshold": 1
+        }
+      ],
+      "setup": "Loom ha già preso un nesso pertinente prima del compimento dell’effetto luminoso.",
+      "permitted_resolution": "La deviazione deve esercitarsi sul rapporto effettivo nel tempo utile. Non si ricrea retroattivamente una difesa dopo l’impatto; un fascio non è immune a ogni struttura già attiva perché veloce.",
+      "forbidden_inference": "Causalità significa sempre teletrasportare qualsiasi colpo altrove dopo averlo subito."
+    },
+    {
+      "id": "X350-25",
+      "title": "Portale e custodia",
+      "abilities": [
+        {
+          "effigy": "Astrolabe",
+          "name": "Opened Threshold",
+          "id": "EFF-09-II-M04",
+          "threshold": 2
+        },
+        {
+          "effigy": "Chain",
+          "name": "Small Cage",
+          "id": "EFF-13-I-M02",
+          "threshold": 1
+        }
+      ],
+      "setup": "Una soglia tenta di attraversare un contenimento investito.",
+      "permitted_resolution": "Confrontare estremità e confine realmente presi. Conoscere una coordinata fuori non rende già valida un’estremità interna attraverso qualunque tenuta.",
+      "forbidden_inference": "Ogni portale ignora qualunque gabbia o ogni gabbia blocca automaticamente ogni spazio."
+    },
+    {
+      "id": "X350-26",
+      "title": "Giurisdizione e soglia",
+      "abilities": [
+        {
+          "effigy": "Crown",
+          "name": "Ordered Domain",
+          "id": "EFF-12-III-M01",
+          "threshold": 3
+        },
+        {
+          "effigy": "Astrolabe",
+          "name": "Guarded Gate",
+          "id": "EFF-09-IV-M04",
+          "threshold": 4
+        }
+      ],
+      "setup": "Un accesso spaziale investito entra in un ambiente con norme effettive.",
+      "permitted_resolution": "Riconoscere che spazio e norma possono contendere funzioni differenti: aprire una soglia non cancella la sanzione né una legge civile crea un campo antiportale.",
+      "forbidden_inference": "Un titolo nobiliare vieta magicamente i passaggi."
+    },
+    {
+      "id": "X350-27",
+      "title": "Piano tattico e possibilità",
+      "abilities": [
+        {
+          "effigy": "Banner",
+          "name": "Prepared Response",
+          "id": "EFF-15-II-M03",
+          "threshold": 2
+        },
+        {
+          "effigy": "Loom",
+          "name": "Small Favour",
+          "id": "EFF-21-I-M02",
+          "threshold": 1
+        }
+      ],
+      "setup": "Una risposta incorporata affronta un evento con alternative reali favorite da Loom.",
+      "permitted_resolution": "La risposta usa dati e mezzi conferiti; il favore modifica alternative compatibili. Nessuno dei due predice obbligatoriamente la scelta del giocatore o crea strumenti inesistenti.",
+      "forbidden_inference": "Strategy è onniscienza del futuro o fortuna garantisce qualsiasi risultato."
+    },
+    {
+      "id": "X350-28",
+      "title": "Difesa mentale e ordine",
+      "abilities": [
+        {
+          "effigy": "Labyrinth",
+          "name": "Mental Compartment",
+          "id": "EFF-18-III-M01",
+          "threshold": 3
+        },
+        {
+          "effigy": "Scroll",
+          "name": "Deliberative Mandate",
+          "id": "EFF-03-III-M03",
+          "threshold": 3
+        }
+      ],
+      "setup": "Un mandato raggiunge un compartimento protetto.",
+      "permitted_resolution": "Confrontare ingresso, contenuti e tenuta. La protezione può limitare la presa ma non cancella automaticamente una volontà già imposta perché il soggetto ne parla.",
+      "forbidden_inference": "Ogni diagnosi libera sempre il destinatario senza un intervento pertinente."
+    },
+    {
+      "id": "X350-29",
+      "title": "Residuo e rievocazione",
+      "abilities": [
+        {
+          "effigy": "Sepulchre",
+          "name": "Residual Motion",
+          "id": "EFF-10-I-M03",
+          "threshold": 1
+        },
+        {
+          "effigy": "Archive",
+          "name": "Residual Sense",
+          "id": "EFF-17-I-M02",
+          "threshold": 1
+        }
+      ],
+      "setup": "Un osso viene mosso tramite impronta funeraria e Archive ne legge una traccia.",
+      "permitted_resolution": "La lettura può cogliere un esercizio autentico; non dimostra la presenza della persona defunta né assegna la sua Effige al lettore.",
+      "forbidden_inference": "Qualunque osso animato è il morto resuscitato."
+    },
+    {
+      "id": "X350-30",
+      "title": "Modello e attestazione",
+      "abilities": [
+        {
+          "effigy": "Oracle",
+          "name": "Model Verification",
+          "id": "EFF-16-V-M01",
+          "threshold": 5
+        },
+        {
+          "effigy": "Archive",
+          "name": "True Mark",
+          "id": "EFF-17-I-M03",
+          "threshold": 1
+        }
+      ],
+      "setup": "Un modello interpreta un documento autentico ma incompleto.",
+      "permitted_resolution": "Attestazione autentica e correttezza di ogni conclusione sono distinte. La verifica prende le relazioni realmente osservabili, non inventa i dati mancanti.",
+      "forbidden_inference": "Un sigillo vero rende vera qualsiasi teoria costruita sul documento."
+    },
+    {
+      "id": "X350-31",
+      "title": "Riproduzione e guarigione della stessa persona",
+      "abilities": [
+        {
+          "effigy": "Seed",
+          "name": "Redifferentiation",
+          "id": "EFF-11-IV-M03",
+          "threshold": 4
+        },
+        {
+          "effigy": "Heart",
+          "name": "Extreme Regeneration",
+          "id": "EFF-05-IV-M03",
+          "threshold": 4
+        }
+      ],
+      "setup": "Due esercizi cercano di far assumere allo stesso tessuto configurazioni diverse nello stesso momento.",
+      "permitted_resolution": "Se concordano sulla stessa integrità possono cooperare; se impongono configurazioni incompatibili contendono. Un nuovo individuo nato non sostituisce la persona assistita.",
+      "forbidden_inference": "Tutti i poteri sulla vita si sommano sempre senza conflitto."
+    },
+    {
+      "id": "X350-32",
+      "title": "Identità e corrispondenza maledetta",
+      "abilities": [
+        {
+          "effigy": "Mask",
+          "name": "Identity Separation",
+          "id": "EFF-07-II-M01",
+          "threshold": 2
+        },
+        {
+          "effigy": "Crescent",
+          "name": "Sympathetic Effigy",
+          "id": "EFF-23-III-M04",
+          "threshold": 3
+        }
+      ],
+      "setup": "Un anatema usa una corrispondenza che attribuisce un frammento a una persona.",
+      "permitted_resolution": "Separare l’attribuzione sovrapposta può contendere quella presa se è il rapporto preso. Non cancella automaticamente ogni altro supporto o danno già indipendente.",
+      "forbidden_inference": "Cambiare faccia rende immuni a tutte le maledizioni."
+    },
+    {
+      "id": "X350-33",
+      "title": "Sonno biologico e sogno",
+      "abilities": [
+        {
+          "effigy": "Eclipse",
+          "name": "Drowsing Touch",
+          "id": "EFF-22-II-M04",
+          "threshold": 2
+        },
+        {
+          "effigy": "Labyrinth",
+          "name": "Dream Entry",
+          "id": "EFF-18-I-M02",
+          "threshold": 1
+        }
+      ],
+      "setup": "Un bersaglio viene indotto a sonnolenza e un secondo effetto cerca un sogno.",
+      "permitted_resolution": "Sonnolenza non è già sonno con un sogno accessibile. Occorre il canale onirico effettivo; Waking Reverie V resta la modalità per il vigile.",
+      "forbidden_inference": "Due nomi notturni rendono disponibile qualsiasi sogno al primo stadio."
+    },
+    {
+      "id": "X350-34",
+      "title": "Fascinazione e fame",
+      "abilities": [
+        {
+          "effigy": "Crescent",
+          "name": "First Fascination",
+          "id": "EFF-23-I-M03",
+          "threshold": 1
+        },
+        {
+          "effigy": "Maw",
+          "name": "Directed Craving",
+          "id": "EFF-20-II-M01",
+          "threshold": 2
+        }
+      ],
+      "setup": "Attrazione investita e appetito realmente presente orientano lo stesso soggetto.",
+      "permitted_resolution": "Separare i rapporti e contendere quelli presi; nessuno impone automaticamente l’intero obiettivo continuato di Will. La persona non diventa un oggetto privo di altre facoltà.",
+      "forbidden_inference": "Ogni emozione appetitiva è un comando motorio."
+    },
+    {
+      "id": "X350-35",
+      "title": "Deposito luminoso distrutto",
+      "abilities": [
+        {
+          "effigy": "Halo",
+          "name": "Light Imprint",
+          "id": "EFF-04-IV-M01",
+          "threshold": 4
+        },
+        {
+          "effigy": "Ruin",
+          "name": "Unmaking",
+          "id": "EFF-02-I-M01",
+          "threshold": 1
+        }
+      ],
+      "setup": "Ruin prende al contatto il supporto prima del trigger.",
+      "permitted_resolution": "Se il supporto necessario è realmente terminato, non emette da un luogo inesistente. Eventuali componenti già indipendenti o altri supporti richiedono una verifica distinta.",
+      "forbidden_inference": "Distruggere una placca dopo il lampo riporta indietro il lampo."
+    },
+    {
+      "id": "X350-36",
+      "title": "Vetrina e arma oscura",
+      "abilities": [
+        {
+          "effigy": "Eclipse",
+          "name": "Black Armament",
+          "id": "EFF-22-II-M01",
+          "threshold": 2
+        },
+        {
+          "effigy": "Halo",
+          "name": "First Exposure",
+          "id": "EFF-04-I-M02",
+          "threshold": 1
+        }
+      ],
+      "setup": "Revelation espone la presenza di una lama oscura.",
+      "permitted_resolution": "Sapere dove si trova permette un dato tattico, non ne annulla la forza. Per fermarla occorre un’opposizione pertinente o un intervento sul suo sostegno.",
+      "forbidden_inference": "Rivelare equivale sempre a purificare o distruggere."
+    },
+    {
+      "id": "X350-37",
+      "title": "Garanzia e mandato",
+      "abilities": [
+        {
+          "effigy": "Coin",
+          "name": "Use Seizure",
+          "id": "EFF-14-V-M04",
+          "threshold": 5
+        },
+        {
+          "effigy": "Crown",
+          "name": "Small Mandate",
+          "id": "EFF-12-I-M04",
+          "threshold": 1
+        }
+      ],
+      "setup": "Coin contende un impiego conferito a un mezzo.",
+      "permitted_resolution": "Il sequestro può riguardare la funzione investita presa senza incorporare l’Effige del delegante. Revoca, garanzia e risultato già indipendente restano rapporti distinti.",
+      "forbidden_inference": "Acquisire l’oggetto delegato trasferisce automaticamente la Seat di chi lo ha investito."
+    },
+    {
+      "id": "X350-38",
+      "title": "Più fasci contro più doppi",
+      "abilities": [
+        {
+          "effigy": "Halo",
+          "name": "Radiant Direction",
+          "id": "EFF-04-II-M01",
+          "threshold": 2
+        },
+        {
+          "effigy": "Mask",
+          "name": "Many Presences",
+          "id": "EFF-07-IV-M02",
+          "threshold": 4
+        }
+      ],
+      "setup": "Un solo Halo divide radiazione contro più posizioni di un solo Mask.",
+      "permitted_resolution": "Entrambe le parti ripartiscono risorse reali; numero di fasci e numero di doppi non moltiplicano riserve. Una posizione colpita non significa automaticamente presa integrale sul centro.",
+      "forbidden_inference": "Ogni bersaglio aggiunto produce una copia del danno pieno e ogni doppio è una persona."
+    },
+    {
+      "id": "X350-39",
+      "title": "Protezione semidivina mentre si parla",
+      "abilities": [
+        {
+          "effigy": "Heart",
+          "name": "Living Fortress",
+          "id": "EFF-05-IV-M01",
+          "threshold": 4
+        },
+        {
+          "effigy": "Banner",
+          "name": "Personal Contest",
+          "id": "EFF-15-I-M01",
+          "threshold": 1
+        }
+      ],
+      "setup": "Un portatore IV Ready conversa o usa un altro ramo quando subisce aggressione.",
+      "permitted_resolution": "La costituzione personale incorporata resta effettiva senza dover prevedere ogni sparo. Un attacco pertinente può saturarla; parlare non annulla automaticamente la difesa.",
+      "forbidden_inference": "Un civile armato uccide sempre un semidio perché non aveva dichiarato la parata."
+    },
+    {
+      "id": "X350-40",
+      "title": "Artefatto superiore e mano inferiore",
+      "abilities": [
+        {
+          "effigy": "Archive",
+          "name": "Relic Activation",
+          "id": "EFF-17-II-M05",
+          "threshold": 2
+        },
+        {
+          "effigy": "Oracle",
+          "name": "Force and Ward",
+          "id": "EFF-16-I-M04",
+          "threshold": 1
+        }
+      ],
+      "setup": "Un utente di rango basso impiega un mezzo autentico superiore con propria sorgente.",
+      "permitted_resolution": "Registrare separatamente Quality, Reserve e accessi del mezzo e del portatore. Il mezzo non promuove tutte le difese personali né dà il repertorio della sua fonte.",
+      "forbidden_inference": "Registrare un colpo VII o impugnarne il supporto rende l’utilizzatore interamente VII."
+    }
+  ]
+}

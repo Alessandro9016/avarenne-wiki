@@ -333,3 +333,79 @@ Crucible converte materia già esistente; Cradle ne genera di nuova. Seed modifi
 **Emblema:** culla vuota in rilievo, arco aperto verso l'alto; dal vano emergono una sfera, una foglia e una scintilla. Avorio, rame nascente e nero profondo; silhouette riconoscibile anche senza i tre dettagli. L'oggetto raffigurato non è un requisito rituale. Impatto: da 🟢 utensile a 🔴 mondo nuovo; ⚫ nuova persona o conseguenza irreversibile.
 
 **Presenza:** corporeità normale o forma aperta della stessa persona. Effetti e supporti non hanno la sua intera Weave. Impatto delle operazioni maggiori: 🔴 scala di mondo; ⚫ nuova persona o annullamento personale autentico.
+
+
+<!-- FAQ349 -->
+## Domande pratiche e portata — revisione 349
+
+Revisione pratica 349. Risposte per comprendere l’uso delle capacità già approvate: non sono nuove abilità e non sostituiscono le schede degli stadi. Gli esempi non fissano esiti automatici contro un parigrado. I numeri di propagazione luminosa seguono la natura del mezzo e il dossier 144; non vengono inventati massimi numerici per distanze, bersagli e riserve non fissati dal manuale.
+
+Regole comuni: [349_FAQ_Effigi_indice_e_regole_comuni.md](349_FAQ_Effigi_indice_e_regole_comuni.md). Scheda FAQ separata: [349_FAQ_Cradle_uso_pratico.md](349_FAQ_Cradle_uso_pratico.md).
+
+### Devo costruire un oggetto pezzo per pezzo?
+
+No: Genesis I crea la configurazione richiesta già assemblata, se sostenibile e conosciuta abbastanza. Bicchiere pieno d’acqua e chiave non richiedono una sequenza di poteri separati per immaginazione, scelta della materia e montaggio.
+
+### Posso creare armi e colpire a distanza?
+
+Sì: oggetti e impulsi fisici sono prodotti di Genesis I. Una lama, una massa lanciata o un getto propulsivo hanno conseguenze reali. Il proiettile materiale non acquista automaticamente la velocità della luce o una mira indipendente.
+
+### Gli oggetti scompaiono se smetto di pensarci?
+
+Un prodotto materiale stabile Independent rimane reale. Una funzione investita con alimentazione propria o mantenuta segue invece le condizioni con cui è stata creata. Una sedia ordinaria non si dissolve per distrazione.
+
+### Posso creare dentro il cuore del nemico?
+
+Non perché lo immagini: devi avere accesso generativo valido a quella componente e superare la difesa. Il nome o la posizione presunta dell’organo non sono un varco attraverso pelle, corazza e protezioni.
+
+### Quando creo piante, animali o persone?
+
+II introduce vita biologica semplice; IV introduce persone e corporeità complesse, anche non umane, entro capacità e sostenibilità. Non attribuire alla prima piantina II la libertà progettuale e la continuità personale di IV.
+
+### Posso creare draghi e creature mitologiche?
+
+IV può realizzare anatomie complesse e funzioni mitologiche progettate, con investimento compatibile: non soltanto animali con una forma decorativa. Non ne segue una divinità pronta, una nuova Seat o una fonte infinita.
+
+### Le persone create devono obbedirmi?
+
+No: Personal Genesis dà origine a un individuo con centro proprio, non a un tuo Avatar. Crearlo non rende sua ogni tua intenzione e non sostituisce un patto, una relazione o una contesa di volontà.
+
+### Posso dare proprietà magiche a un’arma?
+
+III introduce funzioni investite come presa spirituale, forza contro contatti immateriali o spinta propria. Devi descrivere che cosa fa, con quale quota e accesso; dire magica non concede antimagia universale o l’intera Effige di un altro.
+
+### Generative Gate trasporta persone già esistenti?
+
+No: V apre una bocca generativa su supporto proprio investito, da cui creare senza essere presente localmente. Non è il portale di Astrolabe e non sposta un oggetto preesistente dall’altra parte.
+
+### Posso avere fabbriche che creano da sole?
+
+VI conferisce un programma generativo circoscritto, trigger e riserva. Un supporto può produrre enti progettati senza una decisione per ogni atto, finché la fonte assegnata regge; non inventa da solo qualsiasi soluzione e non è un altro te.
+
+### Posso creare una tecnologia che non conosco?
+
+Prima di VII la progettazione deve essere sufficientemente conosciuta e coerente. Emergent Genesis VII può partire da una funzione praticabile e da fenomeni raggiunti, realizzando una soluzione nuova: non stampa automaticamente l’elenco delle invenzioni di un altro universo.
+
+### Cradle rende inutili Heart e Seed?
+
+No: generare un corpo non ricostituisce automaticamente una persona perduta; creare un organismo non governa tutta la riproduzione o l’ecologia. Nuova esistenza, cura della stessa persona e sviluppo di linee viventi sono funzioni differenti.
+
+<!-- END FAQ349 -->
+
+
+<!-- OPER350 -->
+## Riferimenti operativi vigenti — 350
+
+Le capacità sono quelle della matrice approvata. Per prestazioni Ready, attivazione, durata e risorse usare [350_Cradle_profili_operativi_I_VII.md](350_Cradle_profili_operativi_I_VII.md) e [350_Regole_operative_e_riferimenti_comuni.md](350_Regole_operative_e_riferimenti_comuni.md). I valori specifici del presente manuale restano validi nel proprio ambito; il riferimento non concede modalità remote o automatismi di una soglia futura.
+
+| Stadio | Presa/portata di riferimento | Prestazione concreta |
+|---|---|---|
+| 1 | pochi metri; prodotto non vivente fino a circa 2 kg nel riferimento I | Crea un bicchiere pieno o un utensile di pochi kg in pochi secondi. |
+| 2 | 8 m per una creazione locale semplice | Genera una pianta o un organismo semplice che vive se l’ambiente lo sostiene. |
+| 3 | 30 m per una creazione investita locale | Produce una lama con presa spirituale o una piattaforma a spinta propria. |
+| 4 | 300 m per arsenale e opere edilizie raggiunte | Genera opere edilizie o arsenali locali; una persona complessa stabile richiede da minuti a giorni. |
+| 5 | 1 km locale; Gate su bocca propria già raccordata oltre questa acquisizione locale | Crea presso una bocca generativa predisposta mentre la persona si trova altrove. |
+| 6 | 5 km locale; programmi su supporti propri già predisposti | Una creazione produce enti progettati al trigger con riserva finita. |
+| 7 | scala planetaria/celeste per creazioni e accessi realmente sostenuti | Realizza una nuova soluzione coerente per una funzione praticabile, anche a scala cosmica sostenibile. |
+
+<!-- END OPER350 -->

@@ -1,0 +1,75 @@
+# Alexander e la Camera delle Concessioni — 356
+
+Decisioni di dettaglio adottate nella consegna 354. Approfondisce il quadro costituzionale 122 e il territorio 347 senza trasformare la monarchia parlamentare in una signoria assoluta. Il sapere pubblico seguente appartiene alle memorie pre-coma del duca. Non assegna una decisione politica al giocatore.
+
+## Le due Camere e la Corona
+
+Orsanne conserva la Camera dei Deputati, eletta secondo requisiti censitari, e la Camera delle Concessioni. Entrambe devono approvare leggi, bilancio e imposizioni secondo competenza. La Corona nomina il primo ministro e promulga gli atti validi; un governo privo del sostegno necessario al bilancio deve negoziare, dimettersi o affrontare nuove consultazioni. Nessun organo dispone da solo del patrimonio privato dei sudditi.
+
+La Camera delle Concessioni conta 120 seggi: 64 collegati a concessioni territoriali maggiori, 32 affidati alle città a carta riconosciuta e 24 a concessioni infrastrutturali soggette a rinnovo. Sono categorie di rappresentanza, non 64 ducati, 32 intere popolazioni aggiuntive o 24 società proprietarie dello Stato. Un titolare non accumula più voti perché controlla più interessi economici. I mandati cittadini durano quattro anni; quelli delle concessioni infrastrutturali scadono con il mandato pubblico rappresentato. Le concessioni territoriali riconosciute possono trasmettersi per successione, con verifica dell’atto e della capacità.
+
+La titolarità territoriale di un conte subordinato non produce un secondo voto nazionale per la stessa concessione ducale. I conti di Rovenne partecipano al Consiglio territoriale; un eventuale seggio nazionale richiederebbe un titolo distinto riconosciuto e incompatibilità risolte. Il conte non vota automaticamente nella Camera solo perché è conte.
+
+Il quorum deliberativo è di 61 seggi presenti. Le deliberazioni ordinarie richiedono più voti favorevoli che contrari fra i voti espressi, salvo maggioranze speciali indicate dalla legge pertinente. L’astensione conta per la presenza ma non è un voto favorevole. Una commissione istruisce, ascolta e propone: non sostituisce il voto dell’aula o dell’altra Camera.
+
+## Il seggio di Rovenne
+
+Alexander occupa un seggio dei 64 territoriali in virtù della concessione ducale riconosciuta. La sua successione civile segue la morte dei genitori del 26 marzo 812. Il controllo del titolo e l’iscrizione nel ruolo della Camera sono atti d’ufficio, non un dono personale del sovrano né prova della sua approvazione politica. Il ritorno di Edran non è conosciuto dall’amministrazione.
+
+Alexander può presentare proposte ed emendamenti nelle materie della Camera, chiedere documenti pertinenti, intervenire nelle audizioni, votare e candidarsi a una commissione. Può promuovere un’inchiesta, ma non comandarne da solo l’esito o esigere ogni archivio privato senza base legale. Un singolo voto non equivale a maggioranza; il rango elevato offre accessi sociali, non sessantuno voti.
+
+Il duca non può trasferire il proprio voto a Yselle, a un conte o a un dipendente con una lettera privata. Può delegare preparazione documentale, gestione patrimoniale e interlocuzioni nei limiti degli atti validi; la deliberazione parlamentare resta personale. Una commissione può ricevere un consulente senza trasformarlo in membro votante.
+
+## Calendario e convocazioni
+
+Le sessioni ordinarie si svolgono da febbraio a giugno e da ottobre a dicembre, con calendari pubblicati dalla presidenza. La convocazione ordinaria deve arrivare almeno quattordici giorni prima della seduta indicata; una sessione straordinaria motivata può essere convocata con cinque giorni di preavviso. Le comunicazioni seguono posta e uffici realmente disponibili: una lettera non attraversa il mondo istantaneamente.
+
+Per la situazione iniziale del 18 maggio 812 è già previsto un blocco di sedute dal 2 giugno a Veldane, annunciato prima del coma. La questione delle concessioni fluviali è in istruttoria; non è già approvata una riforma, non c’è un voto predeterminato di Alexander e non è obbligatorio che la partita conduca a quella seduta. Viaggi, guarigione e agenda del giocatore restano fatti da gestire.
+
+L’ufficio ducale può chiedere l’ordine del giorno, le relazioni preliminari e il controllo della propria iscrizione. La Camera può ricevere osservazioni scritte durante un’assenza: non sono un voto a distanza e non creano un diritto di ritardare tutti i lavori finché il duca torna.
+
+## Assenze, coma e capacità
+
+L’assenza per malattia è giustificabile mediante documentazione clinica pertinente, non richiede divulgare ogni dettaglio medico. Il coma non trasferisce automaticamente titolo, proprietà o seggio alla sorella. La richiesta di un medico non costituisce da sola interdizione civile; un provvedimento richiede la procedura e il giudice competenti.
+
+Dopo tre convocazioni obbligatorie consecutive ignorate senza risposta, la presidenza apre una verifica e chiede chiarimenti. Non decade il titolo per un ritardo postale; vengono distinti avviso ricevuto, impedimento, giustificazione e assenza volontaria. Una sospensione del voto per incapacità richiede un atto valido, non il sospetto di un rivale. Restano possibili costi politici: un collega può decidere di trattare senza di lui e una commissione può assegnare altrove un posto vacante.
+
+## Commissioni e lavoro concreto
+
+Quattro commissioni permanenti di dodici componenti: Concessioni e opere; Finanze e conti; Diritto e statuti; Petizioni e servizi. I componenti sono eletti dall’aula per la sessione annuale; ogni membro può sedere in una sola commissione permanente. Esperti e testimoni possono essere convocati per una materia specifica. Alexander non è già componente di una commissione per nascita né perché il padre vi abbia lavorato.
+
+Per un’opera che attraversa Vernay e il distretto di Lethorne occorrono almeno: proposta con perimetro e costi; atti dei livelli territoriali pertinenti; verifica tecnica; copertura finanziaria; autorizzazioni secondo competenza. Il duca può rendere il processo possibile, ma non sostituisce il tecnico, il comune e l’intera Camera con la propria firma.
+
+## Obblighi territoriali e beni personali
+
+Alexander presiede il Consiglio territoriale di Rovenne e riceve i rendiconti delle competenze ducali. Deve distinguere bilancio pubblico, patrimonio Valcienne e beni di concessionari o comuni. I 16.400 km² del ducato non sono i 184 km² di proprietà privata. Le risorse di un progetto nazionale non entrano nel conto personale della casata.
+
+Gli atti richiedono registro, motivazione e responsabile. Le spese oltre gli stanziamenti seguono approvazione; non è introdotta qui una tassa personale o una somma aggiuntiva ai conti del dossier 133. I numeri di un nuovo progetto vanno determinati nel progetto, non ricavati arbitrariamente dal titolo.
+
+Il duca deve dichiarare un interesse patrimoniale pertinente prima di deliberare su un affidamento che lo riguarda direttamente; si astiene dalle decisioni individuali sul proprio contratto. Non è escluso da ogni legge generale perché possiede terreni. Un conflitto va delimitato all’atto reale, non usato come formula per privarlo dell’intera voce politica.
+
+## Immunità, polizia e coercizione
+
+Gli interventi parlamentari nell’esercizio della funzione hanno tutela per opinioni e voto. Non c’è immunità generale per lesioni, frodi, sequestro o coercizione soprannaturale. Non può ordinare alla polizia municipale un arresto privato; la guardia della casata non diventa gendarmeria nazionale.
+
+Un comando di Will può produrre un consenso apparente, non un consenso libero. Una funzione di Crown non convalida da sola un atto civile e una firma di Archive non prova tutto ciò che il documento lascia intendere. I controlli possono scoprire una manipolazione attraverso prove pertinenti; non sono uno scudo universale contro ogni potere. Non si presume che Alexander usi o riveli le proprie Effigi durante un’udienza.
+
+## Rango, precedenza e corte
+
+Nelle cerimonie di corte: sovrano e consorte secondo protocollo, erede riconosciuto e membri della casa reale con precedenza propria, duchi, marchesi, conti, visconti e baroni. All’interno dello stesso grado contano anzianità del riconoscimento e ordine della cerimonia; questa lista non crea nuovi titolari o territori mancanti. Un ministro può avere precedenza funzionale durante una seduta che presiede, anche se è di nascita comune.
+
+Alexander ha il trattamento di Sua Grazia in occasione formale e di duca di Rovenne negli atti. Non è automaticamente il secondo individuo dello Stato: esistono altri duchi, ministri, presidenti, maggioranze economiche e potenze sovrannaturali con influenza diversa. Nel proprio territorio conserva una superiorità gerarchica sui conti che non rende il loro patrimonio proprietà ducale.
+
+Il fidanzamento con Aurelie non è fra pari di titolo: lei è figlia ed erede di un conte subordinato. Questo può incidere su inviti, aspettative e pressione familiare. Non trasforma una promessa in matrimonio già celebrato, non trasferisce la sua volontà e non assegna sentimenti attuali a Edran.
+
+## Tre interlocutori
+
+Etienne Marvaux, 64 anni, presidente eletto della Camera: distingue procedura e maggioranza, può negare un’ammissione irregolare anche a un duca. Lucie Dervaux, 47 anni, prima ministra: nominata dalla Corona e dipendente dai voti di bilancio, tratta sulle opere ma non controlla ogni deputato. Noel Vautrin, 41 anni, cancelliere: verifica atti e notifiche, non vota e non decide l’incapacità clinica.
+
+Le loro biografie e agende correnti sono nei dossier individuali della consegna 354. Alexander ne conosce ruolo pubblico e nomi; nessuna amicizia o promessa clientelare viene aggiunta alla sua memoria.
+
+## Materiale operativo per il Narratore
+
+Scena possibile: l’ufficio ducale riceve l’ordine del giorno e una domanda di chiarimento sul rendiconto di una manutenzione. Scelta aperta: delegare la preparazione, richiedere una perizia, partecipare oppure giustificare l’assenza. Complicazione: la soluzione utile al porto aumenta i costi di un comune rappresentato da un altro membro. Svolta facoltativa: un avversario politico dispone della migliore proposta tecnica, senza essere diventato per questo alleato permanente.
+
+Senza intervento di Alexander, gli uffici continuano l’istruttoria e gli altri membri negoziano; non si ferma il Parlamento, non decade automaticamente Rovenne e non esplode una crisi cosmica. Le conseguenze sono proporzionate agli atti effettivi, alle scadenze ricevute e alle decisioni del tavolo.

@@ -4953,5 +4953,983 @@
     "id": "PEO-01",
     "source_sha256": "590e91431bff01325829b18ce716fbff7ba65ff0b4d672c762095ab90f5347af",
     "revision": "348"
+  },
+  {
+    "src": "assets/cosmologia-351-reg-01-il-mondo-corporeo.webp",
+    "caption": "Il mondo corporeo — veduta illustrativa di un tipo di regione cosmologica, non di un sito geografico identificato.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Il_mondo_corporeo/Copertina_v1.png",
+    "id": "REG-01",
+    "source_sha256": "0baaef5ab47f7d5f8fc083403173794541e5be2ff2c2cf38a3a19ca3f5f43b48"
+  },
+  {
+    "src": "assets/cosmologia-351-reg-02-near-veil.webp",
+    "caption": "Near Veil — veduta illustrativa di un tipo di regione cosmologica, non di un sito geografico identificato.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Near_Veil/Copertina_v1.png",
+    "id": "REG-02",
+    "source_sha256": "e6990c680c879b8e94f26b50d7d4ec1982bc8403dfbf0de61aae02d1b088af16"
+  },
+  {
+    "src": "assets/cosmologia-351-reg-03-confluence-belts.webp",
+    "caption": "Confluence Belts — veduta illustrativa di un tipo di regione cosmologica, non di un sito geografico identificato.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Confluence_Belts/Copertina_v1.png",
+    "id": "REG-03",
+    "source_sha256": "667fe7558a1c48864a3d171d0825bc85e9a92534dacc9e721f5d4d0952530b73"
+  },
+  {
+    "src": "assets/cosmologia-351-reg-04-unmoored-reaches.webp",
+    "caption": "Unmoored Reaches — veduta illustrativa di un tipo di regione cosmologica, non di un sito geografico identificato.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Unmoored_Reaches/Copertina_v1.png",
+    "id": "REG-04",
+    "source_sha256": "ce27969ee778dff19b6a4183d14b2722a44938e536b472dbcbe2b28fec0601b3"
+  },
+  {
+    "src": "assets/cosmologia-351-reg-05-private-reveries.webp",
+    "caption": "Private Reveries — veduta illustrativa di un tipo di regione cosmologica, non di un sito geografico identificato.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Private_Reveries/Copertina_v1.png",
+    "id": "REG-05",
+    "source_sha256": "24a7cf42eff6d3647dc1ca3fdb7808d4cb1da3d76153fb1333e92a8b2a0dab70"
+  },
+  {
+    "src": "assets/cosmologia-351-reg-06-common-reveries.webp",
+    "caption": "Common Reveries — veduta illustrativa di un tipo di regione cosmologica, non di un sito geografico identificato.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Common_Reveries/Copertina_v1.png",
+    "id": "REG-06",
+    "source_sha256": "7c7fa95bcc1a004aab206a8c970bbcd64dc5e935e323714081f01e23ab5ea8cd"
+  },
+  {
+    "src": "assets/cosmologia-351-reg-07-root-interfaces.webp",
+    "caption": "Root Interfaces — veduta illustrativa di un tipo di regione cosmologica, non di un sito geografico identificato.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Root_Interfaces/Copertina_v1.png",
+    "id": "REG-07",
+    "source_sha256": "e97fc17ad146c7b7028f6005f8222ec68cc360000df09de493c5e606868ce041"
+  },
+  {
+    "src": "assets/cosmologia-351-rank-i-awakening.webp",
+    "caption": "Awakening — illustrazione della condizione raggiunta; l’aspetto e le capacità concrete dipendono dall’Effige.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Awakening/Copertina_v1.png",
+    "id": "RANK-I",
+    "source_sha256": "4c016de1b77732dd9ac331dfafd9e8bb952d5fd445eadcc249fb25cf0719e1ad"
+  },
+  {
+    "src": "assets/cosmologia-351-rank-ii-attunement.webp",
+    "caption": "Attunement — illustrazione della condizione raggiunta; l’aspetto e le capacità concrete dipendono dall’Effige.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Attunement/Copertina_v1.png",
+    "id": "RANK-II",
+    "source_sha256": "43e85b6e3fda3d106b04bd4dd938138125051da0e61e70d72683bfeec84da804"
+  },
+  {
+    "src": "assets/cosmologia-351-rank-iii-embodiment.webp",
+    "caption": "Embodiment — illustrazione della condizione raggiunta; l’aspetto e le capacità concrete dipendono dall’Effige.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Embodiment/Copertina_v1.png",
+    "id": "RANK-III",
+    "source_sha256": "92c64909a7ced43eb305523372634e733cf464972a2094df8a16ca98225765fe"
+  },
+  {
+    "src": "assets/cosmologia-351-rank-iv-transfiguration.webp",
+    "caption": "Transfiguration — illustrazione della condizione raggiunta; l’aspetto e le capacità concrete dipendono dall’Effige.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Transfiguration/Copertina_v1.png",
+    "id": "RANK-IV",
+    "source_sha256": "c926b88feeefef18a4c440fad24ff6b8c418e77df89f6fd0c01c9e2e4a835c2d"
+  },
+  {
+    "src": "assets/cosmologia-351-rank-v-ascendance.webp",
+    "caption": "Ascendance — illustrazione della condizione raggiunta; l’aspetto e le capacità concrete dipendono dall’Effige.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Ascendance/Copertina_v1.png",
+    "id": "RANK-V",
+    "source_sha256": "e55d2a56c29fac6b88f44c3e88737b1818bc76423d60a2935360b44460b09bb4"
+  },
+  {
+    "src": "assets/cosmologia-351-rank-vi-eminence.webp",
+    "caption": "Eminence — illustrazione della condizione raggiunta; l’aspetto e le capacità concrete dipendono dall’Effige.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Eminence/Copertina_v1.png",
+    "id": "RANK-VI",
+    "source_sha256": "e2271ca523b8f1e1e20b7e904e4886621a7ab4e44e8ceaed20af869526bde94b"
+  },
+  {
+    "src": "assets/cosmologia-351-rank-vii-apotheosis.webp",
+    "caption": "Apotheosis — illustrazione della condizione raggiunta; l’aspetto e le capacità concrete dipendono dall’Effige.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Apotheosis/Copertina_v1.png",
+    "id": "RANK-VII",
+    "source_sha256": "a0ac6236d74b831d84565b92b5078e0745d3499dc58c70b288f1f2efdd2ba496"
+  },
+  {
+    "src": "assets/cosmologia-351-term-anchor-anchor.webp",
+    "caption": "Anchor — Un collegamento reale può sostenere una presenza e la sua continuità.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Anchor/Copertina_v1.png",
+    "id": "TERM-anchor",
+    "source_sha256": "9212854120d2faf1f71a5a30ff4e997eabf3917652048970c57a6b3e1875c274"
+  },
+  {
+    "src": "assets/cosmologia-351-term-archon-archon.webp",
+    "caption": "Archon — Rappresentazione simbolica di una piena integrazione cosmica, non ritratto di un personaggio presente.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Archon/Copertina_v1.png",
+    "id": "TERM-archon",
+    "source_sha256": "5d686aaf4afd37920ed8f4f9f61507b126457845999a51268f7b100a440ed462"
+  },
+  {
+    "src": "assets/cosmologia-351-term-authority-authority.webp",
+    "caption": "Authority — Un’autorità comprende una famiglia coerente di fenomeni; la luce è qui usata come esempio illustrativo.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Authority/Copertina_v1.png",
+    "id": "TERM-authority",
+    "source_sha256": "f98ea5e4527bb2bbe6622010d1ad02e4259d0d852e379960c63e3bc0ae45e321"
+  },
+  {
+    "src": "assets/cosmologia-351-term-axial-axial.webp",
+    "caption": "Axial — Rappresentazione simbolica dell’ampiezza di un asse cosmico universale.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Axial/Copertina_v1.png",
+    "id": "TERM-axial",
+    "source_sha256": "cb88d9f0691e1dda6b4600db4fe96abc1b720fb88c6af648721590a5894b9ce8"
+  },
+  {
+    "src": "assets/cosmologia-351-term-bearer-bearer.webp",
+    "caption": "Bearer — Un praticante che possiede una configurazione incorporata; figura illustrativa senza identità nel cast.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Bearer/Copertina_v1.png",
+    "id": "TERM-bearer",
+    "source_sha256": "fe18c3768fa47ed4423f000a3267fea9283458d069acbde8d8cb066a237b9306"
+  },
+  {
+    "src": "assets/cosmologia-351-term-domain-domain.webp",
+    "caption": "Domain — L’estensione raggiunta e mantenuta da un esercizio soprannaturale.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Domain/Copertina_v1.png",
+    "id": "TERM-domain",
+    "source_sha256": "bc261e9652ce95e99a05435abc9fb53009683376e9e58a84a465c49388358d82"
+  },
+  {
+    "src": "assets/cosmologia-351-term-effigy-effigy.webp",
+    "caption": "Effigy — Una configurazione fondamentale e le sue capacità collegate: schema figurativo, non una nuova Effige.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Effigy/Copertina_v1.png",
+    "id": "TERM-effigy",
+    "source_sha256": "a18ddcda460f3b6f0ca520cc668d70ab269401a92ab840717a26fe31a81766a3"
+  },
+  {
+    "src": "assets/cosmologia-351-term-inscription-inscription.webp",
+    "caption": "Inscription — Una configurazione incorporata nel corpo e nello spirito, rappresentata in modo simbolico.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Inscription/Copertina_v1.png",
+    "id": "TERM-inscription",
+    "source_sha256": "d530b2de6d452d31fa2aeae547790d9a6600ce19a8dfbb1a36c8efc69b8cedb6"
+  },
+  {
+    "src": "assets/cosmologia-351-term-investment-investment.webp",
+    "caption": "Investment — Potenza e configurazione mantenute in un supporto: esempio illustrativo.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Investment/Copertina_v1.png",
+    "id": "TERM-investment",
+    "source_sha256": "63935e344995f1aec9402d079b0bfb516c093564da011b813214dc8b1ef94ce2"
+  },
+  {
+    "src": "assets/cosmologia-351-term-manifestation-manifestation.webp",
+    "caption": "Manifestation — Una presenza che agisce attraverso il proprio corpo: manifestazione non significa necessariamente copia o Avatar.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Manifestation/Copertina_v1.png",
+    "id": "TERM-manifestation",
+    "source_sha256": "107c5afeba9c37b7017a9c1aa8adc3aba616ca88745a3100c90269e133ed6bd9"
+  },
+  {
+    "src": "assets/cosmologia-351-term-root-root.webp",
+    "caption": "Root — Rappresentazione concettuale della consistenza materiale di una sorgente; per le otto Roots effettive consultare le rispettive voci.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Root/Copertina_v1.png",
+    "id": "TERM-root",
+    "source_sha256": "5b914800afaa6682cb2d46b4e0101098ade2f74a9bfe2b0d9951c1dc79622878"
+  },
+  {
+    "src": "assets/cosmologia-351-term-seat-seat.webp",
+    "caption": "Seat — La posizione divina unica di un’Effige, rappresentata simbolicamente; non un trono materiale.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Seat/Copertina_v1.png",
+    "id": "TERM-seat",
+    "source_sha256": "4666e38f9f14621614d05dde2ae51f12b25a168338b874d01aa3b79f995a7de6"
+  },
+  {
+    "src": "assets/cosmologia-351-term-technique-technique.webp",
+    "caption": "Technique — Un’operazione soprannaturale determinata, qui illustrata attraverso un esercizio luminoso.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Technique/Copertina_v1.png",
+    "id": "TERM-technique",
+    "source_sha256": "1d11bb6a44af9b85b632db12816076bc4f6abf2f00047a8fd79204c5a51e9842"
+  },
+  {
+    "src": "assets/cosmologia-351-term-thread-thread.webp",
+    "caption": "Thread — Un collegamento operativo alla fonte, rappresentato come luce per renderne visibile la relazione.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Thread/Copertina_v1.png",
+    "id": "TERM-thread",
+    "source_sha256": "067c635da49ff986fa316003334bf1046d2d5a49da3451b58ca7ae68f4c4ac11"
+  },
+  {
+    "src": "assets/cosmologia-351-term-threshold-threshold.webp",
+    "caption": "Threshold — Le sette soglie qualitative della progressione, rappresentate attraverso sette passaggi simbolici.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Threshold/Copertina_v1.png",
+    "id": "TERM-threshold",
+    "source_sha256": "f72493d1678f3a916053ef5ca433b5a1291609556e498f0b1a7103c1a32c48b3"
+  },
+  {
+    "src": "assets/cosmologia-351-term-weave-weave.webp",
+    "caption": "Weave — L’insieme personale di configurazioni, tecniche e collegamenti incorporati: rappresentazione concettuale.",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/COSMOLOGIA/Weave/Copertina_v1.png",
+    "id": "TERM-weave",
+    "source_sha256": "f5366cc4f858934acb2b343af1563925430460ab9e7e63189a7d213165f9a057"
+  },
+  {
+    "src": "assets/copertina-353-vol-01.webp",
+    "caption": "Volume 1 — The Waking House",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-01_The_Waking_House/Copertina_campione_v1.png",
+    "id": "VOL-01",
+    "source_sha256": "ad353746d5420546bb06641a751074efc7fccc3ba0bbd3b09e72146cae1b7dd3"
+  },
+  {
+    "src": "assets/copertina-353-vol-02.webp",
+    "caption": "Volume 2 — The Price of a Miracle",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-02_The_Price_of_a_Miracle/Copertina_v1.png",
+    "id": "VOL-02",
+    "source_sha256": "03ee8a0f19bb6b2ad1f4818cc6ff8a8e4c90903df6b746b9a6d9fb7c736d646d"
+  },
+  {
+    "src": "assets/copertina-353-vol-03.webp",
+    "caption": "Volume 3 — The Unburied Name",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-03_The_Unburied_Name/Copertina_v1.png",
+    "id": "VOL-03",
+    "source_sha256": "eeee8f6031aeedf9a5a091fe77d70660e70c35754d6f9557e52a1cd9c3088d0d"
+  },
+  {
+    "src": "assets/copertina-353-vol-04.webp",
+    "caption": "Volume 4 — The Departure That Failed",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-04_The_Departure_That_Failed/Copertina_v1.png",
+    "id": "VOL-04",
+    "source_sha256": "28dc3a8a2e5437b25c817dab3384abf8bb5f7bed910c273a9606508dfedad9d4"
+  },
+  {
+    "src": "assets/copertina-353-vol-05.webp",
+    "caption": "Volume 5 — The Lives Not Owned",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-05_The_Lives_Not_Owned/Copertina_v1.png",
+    "id": "VOL-05",
+    "source_sha256": "f1beb1a2de253181f1a5a4f79c9627dd8bc38836bad268f57a3198919c1f5b29"
+  },
+  {
+    "src": "assets/copertina-353-vol-06.webp",
+    "caption": "Volume 6 — The World Outside the Map",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-06_The_World_Outside_the_Map/Copertina_v1.png",
+    "id": "VOL-06",
+    "source_sha256": "3ba63518133c856ffaa0aa969addd3e5a56a0bfba0681e81cff4ab4544b73b57"
+  },
+  {
+    "src": "assets/copertina-353-vol-07.webp",
+    "caption": "Volume 7 — The Right to Begin",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-07_The_Right_to_Begin/Copertina_v1.png",
+    "id": "VOL-07",
+    "source_sha256": "6a26b4f39c49c82ba70ed09bdca12adb265fcbcd33922b5ada46f1d21c6163fd"
+  },
+  {
+    "src": "assets/copertina-353-vol-08.webp",
+    "caption": "Volume 8 — The First and the Last",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-08_The_First_and_the_Last/Copertina_v1.png",
+    "id": "VOL-08",
+    "source_sha256": "2a6e916e865e22f3364591c4ebb2a95cca08416a3facdabfd3dfb6d818abf807"
+  },
+  {
+    "src": "assets/copertina-353-arc-01.webp",
+    "caption": "Arco 1 — The Waking House",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-01_The_Waking_House/ARCHI/ARC-01_The_Waking_House/Copertina_v1.png",
+    "id": "ARC-01",
+    "source_sha256": "49094ca999db58c69d403f900d301c09247cb4cd5e4aa65dd9dd3d6baa6b4b2f"
+  },
+  {
+    "src": "assets/copertina-353-arc-02.webp",
+    "caption": "Arco 2 — The Moved Bench",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-01_The_Waking_House/ARCHI/ARC-02_The_Moved_Bench/Copertina_v1.png",
+    "id": "ARC-02",
+    "source_sha256": "9c057ea0a162907e6b30c2579918c64ab27e92a926a56cbc2f9ac4e3627fc275"
+  },
+  {
+    "src": "assets/copertina-353-arc-03.webp",
+    "caption": "Arco 3 — Room for Six",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-01_The_Waking_House/ARCHI/ARC-03_Room_for_Six/Copertina_v1.png",
+    "id": "ARC-03",
+    "source_sha256": "ee22deb3e5161298636aee584f0681442e92abaa3514dc63822941417c8549b1"
+  },
+  {
+    "src": "assets/copertina-353-arc-04.webp",
+    "caption": "Arco 4 — A Price for Recovery",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-01_The_Waking_House/ARCHI/ARC-04_A_Price_for_Recovery/Copertina_v1.png",
+    "id": "ARC-04",
+    "source_sha256": "a44453e5d6b71d426285d09a42fd1ff8ee7dbd70101ea7a86dbc3c4b76ede0a4"
+  },
+  {
+    "src": "assets/copertina-353-arc-05.webp",
+    "caption": "Arco 5 — The Shore Has a Name",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-01_The_Waking_House/ARCHI/ARC-05_The_Shore_Has_a_Name/Copertina_v1.png",
+    "id": "ARC-05",
+    "source_sha256": "8d57f992a2e27b4fd43ac16967753357b0f2bdfc4d68b8c7c7fb131df5b40041"
+  },
+  {
+    "src": "assets/copertina-353-arc-06.webp",
+    "caption": "Arco 6 — Certified Weather",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-02_The_Price_of_a_Miracle/ARCHI/ARC-06_Certified_Weather/Copertina_v1.png",
+    "id": "ARC-06",
+    "source_sha256": "f5f0ef83374729cde0707b512b1847e9790874a414386ef35c2acfad8535c40c"
+  },
+  {
+    "src": "assets/copertina-353-arc-07.webp",
+    "caption": "Arco 7 — A Patient Is Not a Model",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-02_The_Price_of_a_Miracle/ARCHI/ARC-07_A_Patient_Is_Not_a_Model/Copertina_v1.png",
+    "id": "ARC-07",
+    "source_sha256": "bf8900a4d8f4aa10fdfa41fb7955908eb50db5268c83ae25d0eb389ecb73cbe5"
+  },
+  {
+    "src": "assets/copertina-353-arc-08.webp",
+    "caption": "Arco 8 — Copies That Cost",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-02_The_Price_of_a_Miracle/ARCHI/ARC-08_Copies_That_Cost/Copertina_v1.png",
+    "id": "ARC-08",
+    "source_sha256": "d2a8d91810ebb4ab129a8946f8fcc489772e5005422a77b326c0858302e9bbc6"
+  },
+  {
+    "src": "assets/copertina-353-arc-09.webp",
+    "caption": "Arco 9 — Two Kinds of Night",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-02_The_Price_of_a_Miracle/ARCHI/ARC-09_Two_Kinds_of_Night/Copertina_v1.png",
+    "id": "ARC-09",
+    "source_sha256": "71e424873b273dfa1ff61b3af3ecda9dda2ce9753a2c6db5b487abd5f43a34ed"
+  },
+  {
+    "src": "assets/copertina-353-arc-10.webp",
+    "caption": "Arco 10 — The Copper Settlement",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-02_The_Price_of_a_Miracle/ARCHI/ARC-10_The_Copper_Settlement/Copertina_v1.png",
+    "id": "ARC-10",
+    "source_sha256": "6d6ae4f96ddee39ecaae87eada9fd5d0c8e54088e071082ddb2a9e80dcc94a8f"
+  },
+  {
+    "src": "assets/copertina-353-arc-11.webp",
+    "caption": "Arco 11 — The Workshop Behind the Mark",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-03_The_Unburied_Name/ARCHI/ARC-11_The_Workshop_Behind_the_Mark/Copertina_v1.png",
+    "id": "ARC-11",
+    "source_sha256": "637a214911affaabd8670d4865ec2cd6287ef08220e703a049afdc012844f6ea"
+  },
+  {
+    "src": "assets/copertina-353-arc-12.webp",
+    "caption": "Arco 12 — The Living Orchard",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-03_The_Unburied_Name/ARCHI/ARC-12_The_Living_Orchard/Copertina_v1.png",
+    "id": "ARC-12",
+    "source_sha256": "47584e2aa68bd82f67b12c39a3706b6f3c67dc94e5b942903718c79ae01122b7"
+  },
+  {
+    "src": "assets/copertina-353-arc-13.webp",
+    "caption": "Arco 13 — The Friend Who Changed",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-03_The_Unburied_Name/ARCHI/ARC-13_The_Friend_Who_Changed/Copertina_v1.png",
+    "id": "ARC-13",
+    "source_sha256": "a8a1dcdb099f7c9e9714af3a49d1002d279d6993129c5df25a28d7609e468313"
+  },
+  {
+    "src": "assets/copertina-353-arc-14.webp",
+    "caption": "Arco 14 — A Person Made Here",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-03_The_Unburied_Name/ARCHI/ARC-14_A_Person_Made_Here/Copertina_v1.png",
+    "id": "ARC-14",
+    "source_sha256": "e9e9f3583c08f9b07e87ee629a7b6a69118af1ed600d1a488549c5d1c86380fc"
+  },
+  {
+    "src": "assets/copertina-353-arc-15.webp",
+    "caption": "Arco 15 — An Exit Kept Open",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-03_The_Unburied_Name/ARCHI/ARC-15_An_Exit_Kept_Open/Copertina_v1.png",
+    "id": "ARC-15",
+    "source_sha256": "ca036db6d2fb00a571a3a0a11ce6e6fa20725d86cc4aa3157823efc1e59c20c6"
+  },
+  {
+    "src": "assets/copertina-353-arc-16.webp",
+    "caption": "Arco 16 — The Approved Departure",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-04_The_Departure_That_Failed/ARCHI/ARC-16_The_Approved_Departure/Copertina_v1.png",
+    "id": "ARC-16",
+    "source_sha256": "50da0f19caa6d848f13691aff69ec55f02326e3aa5b8b035189a091332a17c9c"
+  },
+  {
+    "src": "assets/copertina-353-arc-17.webp",
+    "caption": "Arco 17 — Three Renewals",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-04_The_Departure_That_Failed/ARCHI/ARC-17_Three_Renewals/Copertina_v1.png",
+    "id": "ARC-17",
+    "source_sha256": "aa5dd317ed692c5f5dc270fbd643033b4f2b17ce2c60a7b5a81d4b361a021035"
+  },
+  {
+    "src": "assets/copertina-353-arc-18.webp",
+    "caption": "Arco 18 — The Undeclared Branch",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-04_The_Departure_That_Failed/ARCHI/ARC-18_The_Undeclared_Branch/Copertina_v1.png",
+    "id": "ARC-18",
+    "source_sha256": "0398a10d635fc0bc7c2630247d7f37d759ce86c46bcf4f9d97a0f9b8cec40006"
+  },
+  {
+    "src": "assets/copertina-353-arc-19.webp",
+    "caption": "Arco 19 — The Names on the Foundation",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-04_The_Departure_That_Failed/ARCHI/ARC-19_The_Names_on_the_Foundation/Copertina_v1.png",
+    "id": "ARC-19",
+    "source_sha256": "05b203512e8f3f0dc141a193436a42f498d45e87df6a5fcec14bbc89896f9f97"
+  },
+  {
+    "src": "assets/copertina-353-arc-20.webp",
+    "caption": "Arco 20 — A Judgment Without a Throne",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-04_The_Departure_That_Failed/ARCHI/ARC-20_A_Judgment_Without_a_Throne/Copertina_v2.png",
+    "id": "ARC-20",
+    "source_sha256": "ad4c45b295a3b01bec08ee643fb9bd7720b9e59148962954bede51f452b42555"
+  },
+  {
+    "src": "assets/copertina-353-arc-21.webp",
+    "caption": "Arco 21 — The Borrowed Sleeper",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-05_The_Lives_Not_Owned/ARCHI/ARC-21_The_Borrowed_Sleeper/Copertina_v1.png",
+    "id": "ARC-21",
+    "source_sha256": "01a294e593966328181e81b12b67bc86791dd649938b513f175e9ce91e0ca6ab"
+  },
+  {
+    "src": "assets/copertina-353-arc-22.webp",
+    "caption": "Arco 22 — The Guests of the Same Host",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-05_The_Lives_Not_Owned/ARCHI/ARC-22_The_Guests_of_the_Same_Host/Copertina_v1.png",
+    "id": "ARC-22",
+    "source_sha256": "df0f8274fb9efbc32938f48bb6cf5343c282c7a11bc7066bd0819ad756a3e5ba"
+  },
+  {
+    "src": "assets/copertina-353-arc-23.webp",
+    "caption": "Arco 23 — No Patient by Vote",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-05_The_Lives_Not_Owned/ARCHI/ARC-23_No_Patient_by_Vote/Copertina_v1.png",
+    "id": "ARC-23",
+    "source_sha256": "2eaa5c4e2be5eb1a54a90f01e898ce0fb8a1f211f088ec2ad32d7bacd56a58ee"
+  },
+  {
+    "src": "assets/copertina-353-arc-24.webp",
+    "caption": "Arco 24 — What the Basin Keeps",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-05_The_Lives_Not_Owned/ARCHI/ARC-24_What_the_Basin_Keeps/Copertina_v1.png",
+    "id": "ARC-24",
+    "source_sha256": "9b64e48853c5f25f0c6bc8742dfcd2151740b07647481648c4e17b10414035ec"
+  },
+  {
+    "src": "assets/copertina-353-arc-25.webp",
+    "caption": "Arco 25 — The People Who Stayed",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-05_The_Lives_Not_Owned/ARCHI/ARC-25_The_People_Who_Stayed/Copertina_v1.png",
+    "id": "ARC-25",
+    "source_sha256": "6b5efd14c7084469fff801c7424dc0b5de27e67bcfff1866478d42dec737a793"
+  },
+  {
+    "src": "assets/copertina-353-arc-26.webp",
+    "caption": "Arco 26 — The Unanswered Vessel",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-06_The_World_Outside_the_Map/ARCHI/ARC-26_The_Unanswered_Vessel/Copertina_v1.png",
+    "id": "ARC-26",
+    "source_sha256": "e6ea88e678611b9cb7ac42fb95913d4538cfdafc715352e2916cc82b86df81f1"
+  },
+  {
+    "src": "assets/copertina-353-arc-27.webp",
+    "caption": "Arco 27 — A Garden Between Worlds",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-06_The_World_Outside_the_Map/ARCHI/ARC-27_A_Garden_Between_Worlds/Copertina_v1.png",
+    "id": "ARC-27",
+    "source_sha256": "afbdb0612ebce11f37986c6f4145bb70caeb6ed83eb9a8e99796ac74827a6a09"
+  },
+  {
+    "src": "assets/copertina-353-arc-28.webp",
+    "caption": "Arco 28 — The Light That Was Built",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-06_The_World_Outside_the_Map/ARCHI/ARC-28_The_Light_That_Was_Built/Copertina_v1.png",
+    "id": "ARC-28",
+    "source_sha256": "e581cba63aa8a86600aadc7471fdab71e5adf1ac15148a217139042a9adc6e34"
+  },
+  {
+    "src": "assets/copertina-353-arc-29.webp",
+    "caption": "Arco 29 — The Cost of a True Witness",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-06_The_World_Outside_the_Map/ARCHI/ARC-29_The_Cost_of_a_True_Witness/Copertina_v1.png",
+    "id": "ARC-29",
+    "source_sha256": "275a81517e01c0f7711a678e10ab505dfd0cfef07913fbb5a9668694f47caa3c"
+  },
+  {
+    "src": "assets/copertina-353-arc-30.webp",
+    "caption": "Arco 30 — An Exchange Beyond the Room",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-06_The_World_Outside_the_Map/ARCHI/ARC-30_An_Exchange_Beyond_the_Room/Copertina_v1.png",
+    "id": "ARC-30",
+    "source_sha256": "82e175feb1e0fc0b93c51cd9d5a646a201f4da970d2326d6b18c8f73f39e8fab"
+  },
+  {
+    "src": "assets/copertina-353-arc-31.webp",
+    "caption": "Arco 31 — The Seats That Are Not Empty",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-07_The_Right_to_Begin/ARCHI/ARC-31_The_Seats_That_Are_Not_Empty/Copertina_v1.png",
+    "id": "ARC-31",
+    "source_sha256": "592134bb8f0dbf8dfac4695d2be87229790538b443972d952e6ea6af0ae301d0"
+  },
+  {
+    "src": "assets/copertina-353-arc-32.webp",
+    "caption": "Arco 32 — The Beginning Reserved",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-07_The_Right_to_Begin/ARCHI/ARC-32_The_Beginning_Reserved/Copertina_v1.png",
+    "id": "ARC-32",
+    "source_sha256": "8d1f24822164cd08dc2ea64537acb3e169dc09cceb33fd824f9a7af46956728e"
+  },
+  {
+    "src": "assets/copertina-353-arc-33.webp",
+    "caption": "Arco 33 — The Current Keeper",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-07_The_Right_to_Begin/ARCHI/ARC-33_The_Current_Keeper/Copertina_v1.png",
+    "id": "ARC-33",
+    "source_sha256": "1bcfd37491ff51bbf9d9b1707ab73dda2feead0ad4378bd1d00bcd767eb5a668"
+  },
+  {
+    "src": "assets/copertina-353-arc-34.webp",
+    "caption": "Arco 34 — The Night Does Not Belong to One",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-07_The_Right_to_Begin/ARCHI/ARC-34_The_Night_Does_Not_Belong_to_One/Copertina_v1.png",
+    "id": "ARC-34",
+    "source_sha256": "0a626a953cc03e69b2cee1a0ed5a5ee77f69a4509a34f1add88725d0f1d93bdd"
+  },
+  {
+    "src": "assets/copertina-353-arc-35.webp",
+    "caption": "Arco 35 — A World That Can Leave",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-07_The_Right_to_Begin/ARCHI/ARC-35_A_World_That_Can_Leave/Copertina_v1.png",
+    "id": "ARC-35",
+    "source_sha256": "4a4fb0287d7216458d437366de982398ddba8053bd271bf0e016e2167fa0105b"
+  },
+  {
+    "src": "assets/copertina-353-arc-36.webp",
+    "caption": "Arco 36 — Those Who Pay for Peace",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-08_The_First_and_the_Last/ARCHI/ARC-36_Those_Who_Pay_for_Peace/Copertina_v1.png",
+    "id": "ARC-36",
+    "source_sha256": "558ded7637405c88c010ee1ba5314549fc2decf931f252c268368f3e085176e0"
+  },
+  {
+    "src": "assets/copertina-353-arc-37.webp",
+    "caption": "Arco 37 — The Last Borrowed Authority",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-08_The_First_and_the_Last/ARCHI/ARC-37_The_Last_Borrowed_Authority/Copertina_v1.png",
+    "id": "ARC-37",
+    "source_sha256": "81a794e3d3668e0a9c82e1930bd4a65a498464e9138645d69eb00a48fa2547fc"
+  },
+  {
+    "src": "assets/copertina-353-arc-38.webp",
+    "caption": "Arco 38 — The Record After the Verdict",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-08_The_First_and_the_Last/ARCHI/ARC-38_The_Record_After_the_Verdict/Copertina_v1.png",
+    "id": "ARC-38",
+    "source_sha256": "14b6c71169052a9214c132f9270071822c550c72871774a6b7068d51f1b43f72"
+  },
+  {
+    "src": "assets/copertina-353-arc-39.webp",
+    "caption": "Arco 39 — The Door Left Unlocked",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-08_The_First_and_the_Last/ARCHI/ARC-39_The_Door_Left_Unlocked/Copertina_v1.png",
+    "id": "ARC-39",
+    "source_sha256": "b5713bcd61be513f166fc78e656ebbda35f664e9d4299d255d66bc0d913ab3b3"
+  },
+  {
+    "src": "assets/copertina-353-arc-40.webp",
+    "caption": "Arco 40 — The First and the Last",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-08_The_First_and_the_Last/ARCHI/ARC-40_The_First_and_the_Last/Copertina_v1.png",
+    "id": "ARC-40",
+    "source_sha256": "5883218b2a74012f1da2b54bb4cc907bee022bea2658d8064b0ea81b913dd79c"
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-498.webp",
+    "caption": "Vincent Vernier",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Vernier/CAST-498_Vincent_Vernier/01_Ritratto_v1.png",
+    "id": "CAST-498",
+    "source_sha256": "d2d4554852c0e410fb907e333ef2914eb10fd29039c19bdc7e14e7e7b45b5a21",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-499.webp",
+    "caption": "Madeleine Rochebrune",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Rochebrune/CAST-499_Madeleine_Rochebrune/01_Ritratto_v1.png",
+    "id": "CAST-499",
+    "source_sha256": "4ca9efeb5b9e937f058a017bdc66081ed8d80f9e3e253f115ea8bdbefa86a7ce",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-526.webp",
+    "caption": "Maelle II Vaudren",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Aldren/aldren/CAST-526_Maelle_II_Vaudren/01_Ritratto_v1.png",
+    "id": "CAST-526",
+    "source_sha256": "f977c89005a1a9030b73faf8f57eb4e04667c1a5850fd8ab739f809cf24ebbe0",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-527.webp",
+    "caption": "Tavian Vaudren",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Aldren/aldren/CAST-527_Tavian_Vaudren/01_Ritratto_v1.png",
+    "id": "CAST-527",
+    "source_sha256": "02fb5191e915a8821ae5d407db798016b6f84ec60cfac070ed01830a92169bb2",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-528.webp",
+    "caption": "Oren IV Seravel",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Marethis/marethis/CAST-528_Oren_IV_Seravel/01_Ritratto_v1.png",
+    "id": "CAST-528",
+    "source_sha256": "1d7f4d9361bb8bd5c9dc28d28603e0288edaa69c39964ae638e35dfaa34ad678",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-529.webp",
+    "caption": "Nerea Seravel",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Marethis/marethis/CAST-529_Nerea_Seravel/01_Ritratto_v1.png",
+    "id": "CAST-529",
+    "source_sha256": "ec0c567212c93bd4d3e29dc55cc8b4b42c75693ebdca9e15853af9a48f895dd1",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-530.webp",
+    "caption": "Meilin Renkai",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Teral/teral/CAST-530_Meilin_Renkai/01_Ritratto_v1.png",
+    "id": "CAST-530",
+    "source_sha256": "7e5ff0255d9a9faf09d47c4f3525092fadec852fc8f6e03dc326714dcecd2954",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-531.webp",
+    "caption": "Jian Renkai",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Teral/teral/CAST-531_Jian_Renkai/01_Ritratto_v1.png",
+    "id": "CAST-531",
+    "source_sha256": "8841a1c303cebff930e3f4aa1f87d5bbb251e906f8e1dbb50b1d4e732c2ba2eb",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-534.webp",
+    "caption": "Sabine Elvar",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/elven/CAST-534_Sabine_Elvar/01_Ritratto_v1.png",
+    "id": "CAST-534",
+    "source_sha256": "e92d3fba93e0b592c7d24cbba8f386df231f970fd3e69f93941ad31894cbf0b5",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-535.webp",
+    "caption": "Lucan Elvar",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/elven/CAST-535_Lucan_Elvar/01_Ritratto_v1.png",
+    "id": "CAST-535",
+    "source_sha256": "872208cf6b8d889fb1d9dbd485a018763ac2712ea26340e6263f8ab1fd5d4756",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-500.webp",
+    "caption": "Clara Aubrecourt",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Aubrecourt/CAST-500_Clara_Aubrecourt/01_Ritratto_v1.png",
+    "id": "CAST-500",
+    "source_sha256": "02cb65eeafdef260d90741ebbbdb6dcf3bf301c062dc60f6bebcb9631dd63c97",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-536.webp",
+    "caption": "Teren Avelin",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/namar/CAST-536_Teren_Avelin/01_Ritratto_v1.png",
+    "id": "CAST-536",
+    "source_sha256": "180fb29ef9bca06f9b72f1dbd03ebca5e1435a7fb12a7f468a67098a5c287045",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-519.webp",
+    "caption": "Helene Vernier",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Vernier/CAST-519_Helene_Vernier/01_Ritratto_v1.png",
+    "id": "CAST-519",
+    "source_sha256": "d5d4c5be9df4ce15bbe95d62b0d2cd315bbc11e8288c23d42a928e090bdf0e82",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-520.webp",
+    "caption": "Irene Rochebrune",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Rochebrune/CAST-520_Irene_Rochebrune/01_Ritratto_v1.png",
+    "id": "CAST-520",
+    "source_sha256": "7f9d7ed6abe2129195488d1c076c13dc369fc67ec9d2e1100f9e0e5621ccb121",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-521.webp",
+    "caption": "Mathis Rochebrune",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Rochebrune/CAST-521_Mathis_Rochebrune/01_Ritratto_v1.png",
+    "id": "CAST-521",
+    "source_sha256": "af67132eb82fc433754ec0383b97748126502893bf3364705a894e601eb14a24",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-522.webp",
+    "caption": "Julien Aubrecourt",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Aubrecourt/CAST-522_Julien_Aubrecourt/01_Ritratto_v1.png",
+    "id": "CAST-522",
+    "source_sha256": "4a378744ea8aba99c4ae4674efc5fe83276d3c0568fb08fe1f619b0ab3da3314",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-523.webp",
+    "caption": "Marianne Aubrecourt",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Aubrecourt/CAST-523_Marianne_Aubrecourt/01_Ritratto_v1.png",
+    "id": "CAST-523",
+    "source_sha256": "01aaacb9e272dcfdf30f8f78365a6ea8167de850d9bd85f77601bc0b8e689179",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-524.webp",
+    "caption": "Adrien III Orvel",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/orsanne/CAST-524_Adrien_III_Orvel/01_Ritratto_v1.png",
+    "id": "CAST-524",
+    "source_sha256": "8ff40f2c429e17cda94f0a772b04ed9a16431b3cb38ea9cc7518dfa1d46c1f5f",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-525.webp",
+    "caption": "Eliane Orvel",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/orsanne/CAST-525_Eliane_Orvel/01_Ritratto_v1.png",
+    "id": "CAST-525",
+    "source_sha256": "6a53291797aeb9f8d93309094f18e91f77c792a3935308c502acdc3e4bd9a303",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-532.webp",
+    "caption": "Astrid Eyrdal",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Dorel/dorel/CAST-532_Astrid_Eyrdal/01_Ritratto_v1.png",
+    "id": "CAST-532",
+    "source_sha256": "f3eff198e054fa14bb899fe93a366b300b4d970fcbcaee911eee08d4a48361c3",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-533.webp",
+    "caption": "Eirik Eyrdal",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Dorel/dorel/CAST-533_Eirik_Eyrdal/01_Ritratto_v1.png",
+    "id": "CAST-533",
+    "source_sha256": "e3cedc80b7b4aa414b5c75cd4146127a3aeca448c403aca463ac42e3c0ce50df",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-537.webp",
+    "caption": "Liora Avelin",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/namar/CAST-537_Liora_Avelin/01_Ritratto_v1.png",
+    "id": "CAST-537",
+    "source_sha256": "c8f4dc5d91d4c4017cca8607ef4704da830da317deeacd99886a1c8e63e6fa9b",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-538.webp",
+    "caption": "Corin Belven",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/veyford/CAST-538_Corin_Belven/01_Ritratto_v1.png",
+    "id": "CAST-538",
+    "source_sha256": "4637dbd0fa9a29a267f23fcd55327acb13ca9f5427953b87ec86ebc112c5453c",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-539.webp",
+    "caption": "Mara Belven",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/veyford/CAST-539_Mara_Belven/01_Ritratto_v1.png",
+    "id": "CAST-539",
+    "source_sha256": "dc78ce6a178b625a1554288efbd1110c511567b4d6956a8ac28f82029297efb3",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-540.webp",
+    "caption": "Edda Halvren",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/norven/CAST-540_Edda_Halvren/01_Ritratto_v1.png",
+    "id": "CAST-540",
+    "source_sha256": "cb34ab292061f994f625fa576f424707cb730596843b2e16c2343137a9e30ba9",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-541.webp",
+    "caption": "Soren Halvren",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/norven/CAST-541_Soren_Halvren/01_Ritratto_v1.png",
+    "id": "CAST-541",
+    "source_sha256": "7c9ae796ceab42028392e6ae90cf3ac6b63320777671e965515815cf5c88f785",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-542.webp",
+    "caption": "Idris Tharen",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ossenmark/CAST-542_Idris_Tharen/01_Ritratto_v1.png",
+    "id": "CAST-542",
+    "source_sha256": "e3e81bdea38ba032b662a9e78c63291d5c5d5628178512f3557d2a458565b395",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-543.webp",
+    "caption": "Amina Tharen",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ossenmark/CAST-543_Amina_Tharen/01_Ritratto_v1.png",
+    "id": "CAST-543",
+    "source_sha256": "9513f0b3a82ef00ea7d48efb4e2e05af3b651c0170c426d522e992583d488629",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-544.webp",
+    "caption": "Anais Rouvain",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/selvar/CAST-544_Anais_Rouvain/01_Ritratto_v1.png",
+    "id": "CAST-544",
+    "source_sha256": "1efe29c90bc4db6bf1d02307fd93e8a54b55b6e1a873b5cd884ba9105a113489",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-545.webp",
+    "caption": "Bastien Rouvain",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/selvar/CAST-545_Bastien_Rouvain/01_Ritratto_v1.png",
+    "id": "CAST-545",
+    "source_sha256": "5ac8e9c8d629ecb889a14149143e81b117b9fd8a0d93b5cb7325979a8d8d747d",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-546.webp",
+    "caption": "Pavel Ordell",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/dalen/CAST-546_Pavel_Ordell/01_Ritratto_v1.png",
+    "id": "CAST-546",
+    "source_sha256": "556bad4198fc3bc1df6c101a1fbb142bdaa471530006e05c472656a6a9b26660",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-547.webp",
+    "caption": "Elise Ordell",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/dalen/CAST-547_Elise_Ordell/01_Ritratto_v1.png",
+    "id": "CAST-547",
+    "source_sha256": "44fd21ce13a1cef9e493a9997a1c91bd37711e1cce3506702d704a7fb271d147",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-548.webp",
+    "caption": "Leonie Merault",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/uren/CAST-548_Leonie_Merault/01_Ritratto_v1.png",
+    "id": "CAST-548",
+    "source_sha256": "3d340e48361a00f77a1a989fbc6f2a350dff019cb3f53eb790051e09aa0a03e9",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-549.webp",
+    "caption": "Adrien Merault",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/uren/CAST-549_Adrien_Merault/01_Ritratto_v1.png",
+    "id": "CAST-549",
+    "source_sha256": "2ab7bd6d84720eed78e300668ad115dc274ae0f798e0c8362a9ce81ea069ffb1",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-550.webp",
+    "caption": "Vera Seld",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/tesh/CAST-550_Vera_Seld/01_Ritratto_v1.png",
+    "id": "CAST-550",
+    "source_sha256": "1da715df6f9f9931cfad1b66e531a902674b0903c3f2b21eadab84bc43ac87cf",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-551.webp",
+    "caption": "Nils Seld",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/tesh/CAST-551_Nils_Seld/01_Ritratto_v1.png",
+    "id": "CAST-551",
+    "source_sha256": "0ef9049148d38459347f4ab838949cb9284ca27d6818e59bb5e2b9ad14c9ec8e",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-552.webp",
+    "caption": "Malik Varnet",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ravaen/CAST-552_Malik_Varnet/01_Ritratto_v1.png",
+    "id": "CAST-552",
+    "source_sha256": "28991f759e8e9badf477b8ced83698bcae02a0ca77501c95a46a66fed9a87f7f",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-553.webp",
+    "caption": "Samira Varnet",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ravaen/CAST-553_Samira_Varnet/01_Ritratto_v1.png",
+    "id": "CAST-553",
+    "source_sha256": "94085638b6e338fbce23d6baeebc2b924e196cbf742226abfc6892eb08ee7d29",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-554.webp",
+    "caption": "Hugo Lethren",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ivel/CAST-554_Hugo_Lethren/01_Ritratto_v1.png",
+    "id": "CAST-554",
+    "source_sha256": "247603651c564c5445cddb57940a63e3893da58b96be1306d76a7937dc3899a1",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-555.webp",
+    "caption": "Celia Lethren",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ivel/CAST-555_Celia_Lethren/01_Ritratto_v1.png",
+    "id": "CAST-555",
+    "source_sha256": "36dd29aff760715e894dd1b062decbb20a1d33e5fe245577b081eb69496de60e",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-556.webp",
+    "caption": "Haldor Valdek",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/asren/CAST-556_Haldor_Valdek/01_Ritratto_v1.png",
+    "id": "CAST-556",
+    "source_sha256": "35cd066e83fbc1dda5d6de82939050d9fc8683e0b6374d63669817dca56a849b",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-557.webp",
+    "caption": "Ingrid Valdek",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/asren/CAST-557_Ingrid_Valdek/01_Ritratto_v1.png",
+    "id": "CAST-557",
+    "source_sha256": "5435ab5a581191ddc401e858d88836ea0b464ed1c4f77fc6c8b2fa108ff87e57",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-558.webp",
+    "caption": "Runa Hest",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/helsen/CAST-558_Runa_Hest/01_Ritratto_v1.png",
+    "id": "CAST-558",
+    "source_sha256": "b252505e206dc5de9e80f2576f1ff2ef544c2bc2739298787f769d7880861f3c",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-559.webp",
+    "caption": "Oskar Hest",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/helsen/CAST-559_Oskar_Hest/01_Ritratto_v1.png",
+    "id": "CAST-559",
+    "source_sha256": "1cb5001109c958197f440b7c094251270d2d0dcffbdee0692ef07ab2739180b7",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-560.webp",
+    "caption": "Tomas Norr",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/varnek/CAST-560_Tomas_Norr/01_Ritratto_v1.png",
+    "id": "CAST-560",
+    "source_sha256": "7b77c06767e3ba7615536c616d22689004be4f86fbff32795c57b088fe2fa280",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-561.webp",
+    "caption": "Alva Norr",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/varnek/CAST-561_Alva_Norr/01_Ritratto_v1.png",
+    "id": "CAST-561",
+    "source_sha256": "e2eedc267a949585f545570477ee0422d3fc084b3eed8ba93ecc19ec28ed6783",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-562.webp",
+    "caption": "Mireille Orvel",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/orsanne/CAST-562_Mireille_Orvel/01_Ritratto_v1.png",
+    "id": "CAST-562",
+    "source_sha256": "b5c759729c5c292ae1187a877ad5bfa2bb15cd9f174c1187a9386f757aa0cfaf",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-563.webp",
+    "caption": "Darian Vaudren",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Aldren/aldren/CAST-563_Darian_Vaudren/01_Ritratto_v1.png",
+    "id": "CAST-563",
+    "source_sha256": "dfb4e81ebc20279139b6fe33e4a391aa558844a0d562030257778be6718c0c3e",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-564.webp",
+    "caption": "Isolde Seravel",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Marethis/marethis/CAST-564_Isolde_Seravel/01_Ritratto_v1.png",
+    "id": "CAST-564",
+    "source_sha256": "0d2a560e42c89a104ad47b770fc1afa8799df97bf7ffa71873d8b4c283c1f25d",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-565.webp",
+    "caption": "Shuren Renkai",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Teral/teral/CAST-565_Shuren_Renkai/01_Ritratto_v1.png",
+    "id": "CAST-565",
+    "source_sha256": "9189cddb33cdaac78c95aebe5888d17cef97d6d6d4e8036b79c1d4e7df6350bd",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-566.webp",
+    "caption": "Kasper Eyrdal",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Dorel/dorel/CAST-566_Kasper_Eyrdal/01_Ritratto_v1.png",
+    "id": "CAST-566",
+    "source_sha256": "0c56f9fd8e8757217ba90c57b4bd9b122688d407382e2dc2f07214bc0fe4694a",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-567.webp",
+    "caption": "Etienne Marvaux",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/istituzioni/CAST-567_Etienne_Marvaux/01_Ritratto_v1.png",
+    "id": "CAST-567",
+    "source_sha256": "3f9aa1d0573882a2f8858e9ec3d96c65c5576986c5c9099294b5124e60b3458a",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-568.webp",
+    "caption": "Lucie Dervaux",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/istituzioni/CAST-568_Lucie_Dervaux/01_Ritratto_v1.png",
+    "id": "CAST-568",
+    "source_sha256": "f10f47f2e867f344edc36ab209020f7ddd6d2c4e9b9a0d09c491d4181a4c27f2",
+    "revision": 354
+  },
+  {
+    "src": "assets/ritratto-politico-354-cast-569.webp",
+    "caption": "Noel Vautrin",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/istituzioni/CAST-569_Noel_Vautrin/01_Ritratto_v1.png",
+    "id": "CAST-569",
+    "source_sha256": "538a82b40b50126705d896292c3535e1e7c6a5b575b10d5cfddca3264f66875f",
+    "revision": 354
   }
 ]

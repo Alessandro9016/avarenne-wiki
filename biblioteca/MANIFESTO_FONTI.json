@@ -43,8 +43,8 @@
       "group": "Dati strutturati e registri",
       "url": "bbae328d43d61d53.html",
       "raw": "fonti/bbae328d43d61d53.json",
-      "sha256": "854a6783e2ac95430de4c76bcd12824be4864e923990af95256d93944e6405e1",
-      "bytes": 8404
+      "sha256": "521cce4fed1e7cba3b1088878638c7ada522f70672d43d6aa6650cbd924f447d",
+      "bytes": 25606
     },
     {
       "source": "CANONE_VIGENTE/Atlante_cosmologico.json",
@@ -115,8 +115,8 @@
       "group": "Dati strutturati e registri",
       "url": "f5efdaad0166d763.html",
       "raw": "fonti/f5efdaad0166d763.json",
-      "sha256": "067997f05661432b2226e3263ddc5a230ef69c9c494b992a6118e61447c145ed",
-      "bytes": 37508
+      "sha256": "217e143fec67a87fcfe755d0feacb7cb658fa145d97d78f552ca69fedc84910d",
+      "bytes": 59580
     },
     {
       "source": "CANONE_VIGENTE/Cast_riservato.json",
@@ -124,8 +124,8 @@
       "group": "Dati strutturati e registri",
       "url": "9f5d1e0af2de6024.html",
       "raw": "fonti/9f5d1e0af2de6024.json",
-      "sha256": "30991ca00b0857f010c3bc30eb17d0687bd53ea605f0555131053256fde45881",
-      "bytes": 3001011
+      "sha256": "29c29529cd3b845801400ba9526d5520a623b94194086473d05aa2f4b1a15112",
+      "bytes": 3237904
     },
     {
       "source": "CANONE_VIGENTE/Censimento_visuale_luoghi.json",
@@ -574,8 +574,8 @@
       "group": "Dati strutturati e registri",
       "url": "fe9fbb2c8f28317b.html",
       "raw": "fonti/fe9fbb2c8f28317b.json",
-      "sha256": "bc1dac70a886de73fd80bfc8f5cd3aca524fcf65cb73da385491643abae27f7a",
-      "bytes": 86448
+      "sha256": "e286ff22776b009f418cac19c729a1f8260aea87f04ea6276dfe7395a6672a4e",
+      "bytes": 86735
     },
     {
       "source": "CANONE_VIGENTE/Regole_comuni.json",
@@ -583,8 +583,8 @@
       "group": "Dati strutturati e registri",
       "url": "e39de9a82cd70923.html",
       "raw": "fonti/e39de9a82cd70923.json",
-      "sha256": "27fb59dc066133aa664a0940dfbe283786e70302936ae65863c96c24b835ef13",
-      "bytes": 7785
+      "sha256": "cf7fba058896ab99fb85d26e4fd2304b77491dd7d07ce05113fbd4e762f72cec",
+      "bytes": 8058
     },
     {
       "source": "CANONE_VIGENTE/Revisione_affetti_antichi.json",
@@ -655,8 +655,8 @@
       "group": "Dati strutturati e registri",
       "url": "16fa64687f0e9535.html",
       "raw": "fonti/16fa64687f0e9535.json",
-      "sha256": "525a0909b8e20d1783987a029e418c4a8d2b3683098dddb407ddae0d0d10e6c3",
-      "bytes": 13850
+      "sha256": "16651ccec52c3a99aaf14e4881e5ae72d188464eed34c77de6642bcf5afef4b4",
+      "bytes": 15733
     },
     {
       "source": "CANONE_VIGENTE/Societa_condivisa.json",
@@ -664,8 +664,8 @@
       "group": "Dati strutturati e registri",
       "url": "00f965548ff670d9.html",
       "raw": "fonti/00f965548ff670d9.json",
-      "sha256": "7e2c388a881de209b375245a6d9807c2851dac472b1515d36d7e7731cad871f5",
-      "bytes": 38572
+      "sha256": "992d26bad031457dac280a16fd14da656ada3792a6d7b05d6cd34317e0cdb7d6",
+      "bytes": 46557
     },
     {
       "source": "CANONE_VIGENTE/Societa_riservata.json",
@@ -5191,8 +5191,8 @@
       "group": "Cast — dossier individuali",
       "url": "79dfda4bfc05388a.html",
       "raw": "fonti/79dfda4bfc05388a.md",
-      "sha256": "97fa032efc647e5cc5476b820d5d58d7f26e4b302135aa4a6a1b5e9cd7ce78fa",
-      "bytes": 2906
+      "sha256": "883dc940804b63740ec1cd8a0f330f27d929ee888b711dd5068705c5c5cec65c",
+      "bytes": 3249
     },
     {
       "source": "CAST_RISERVATO/CAST-466.md",
@@ -5578,8 +5578,8 @@
       "group": "Documenti del giocatore",
       "url": "dd4717c09c770e08.html",
       "raw": "fonti/dd4717c09c770e08.md",
-      "sha256": "8d867c013ef87aed74c820c17a4e3bf3535adab8682ed6a1da2f0a5fd54f2685",
-      "bytes": 4496
+      "sha256": "904dc7a38623c3deea74706f805325c414ca90db6e7e87e170997f36be0bb942",
+      "bytes": 4770
     },
     {
       "source": "GIOCATORE_123_Atlante_delle_istituzioni.md",
@@ -5632,8 +5632,8 @@
       "group": "Documenti del giocatore",
       "url": "0e03506eacc4bfc2.html",
       "raw": "fonti/0e03506eacc4bfc2.md",
-      "sha256": "b38751ffb217779584d3b5b78889b56002e4789fc47b3a2b84b22ca7a3a792d3",
-      "bytes": 4140
+      "sha256": "f2f2dd9f1ee726a75ab7eff47da924f79b2ff421d80eb5b1414287f5f45cbd54",
+      "bytes": 4414
     },
     {
       "source": "GIOCATORE_129_Vita_quotidiana_lingue_e_estetica.md",
@@ -5713,8 +5713,8 @@
       "group": "Documenti del giocatore",
       "url": "a2aab6da9e95d1d0.html",
       "raw": "fonti/a2aab6da9e95d1d0.md",
-      "sha256": "145baa1d2d4e86ebb1fa1ec70ac1102bba2bd3db2cb1d08313cdc2dabec2a2b0",
-      "bytes": 94343
+      "sha256": "6ab155bb725d4364de0c2853e0f95a358d10a187c8ba7c021d66e181de3ffd95",
+      "bytes": 100242
     },
     {
       "source": "GIOCATORE_170_Eclipse_progressione_completa.md",
@@ -5722,8 +5722,8 @@
       "group": "Documenti del giocatore",
       "url": "2eb99aadd01bd886.html",
       "raw": "fonti/2eb99aadd01bd886.md",
-      "sha256": "28d96c080ba351c7ca21e4309e4bf6454d2abff38eddb5018e7809be905c5d37",
-      "bytes": 65809
+      "sha256": "edad4b7f96460e9192b6cc7c8b791b3669fc7c815a329560260277fb2328c705",
+      "bytes": 70902
     },
     {
       "source": "GIOCATORE_171_The_Nocturne_e_The_Veiled_Basin.md",
@@ -5731,8 +5731,8 @@
       "group": "Documenti del giocatore",
       "url": "69610033e6a86c64.html",
       "raw": "fonti/69610033e6a86c64.md",
-      "sha256": "cc310b863e3f62e7b75a6f51b399e4812a9b63612a91c436af746e987705cab7",
-      "bytes": 5171
+      "sha256": "11fc406f53dd85b49a21e5ae4316ff6c445477abb2a9421014bfebfc5f976dab",
+      "bytes": 5602
     },
     {
       "source": "GIOCATORE_174_Culti_notturni_e_pratiche_pubbliche.md",
@@ -5821,8 +5821,8 @@
       "group": "Documenti del giocatore",
       "url": "40a704364de4bc78.html",
       "raw": "fonti/40a704364de4bc78.md",
-      "sha256": "ff993e147ad41cac93a31de069bb736746c5cdb1a928ecad56d04ff5fed13782",
-      "bytes": 19896
+      "sha256": "5341dd16d01ab0a83cff19de99430476a024791139b00b05259a716f31fec659",
+      "bytes": 20479
     },
     {
       "source": "GIOCATORE_298_Biologie_Ilyr_Kethari.md",
@@ -5947,8 +5947,8 @@
       "group": "Documenti del giocatore",
       "url": "f32b26cbf9bf9b1c.html",
       "raw": "fonti/f32b26cbf9bf9b1c.md",
-      "sha256": "6110606c97cec276577a18f3440108840a86de9dd702f1defcf6c9561ae21571",
-      "bytes": 23972
+      "sha256": "74c47bf72531829454c2cffe78fda0b93b9cdbaf08f11bb8ba2673845329e3cd",
+      "bytes": 29711
     },
     {
       "source": "GIOCATORE_42_Ruin_progressione_completa.md",
@@ -5956,8 +5956,8 @@
       "group": "Documenti del giocatore",
       "url": "5c774602b5a4e199.html",
       "raw": "fonti/5c774602b5a4e199.md",
-      "sha256": "fe917c98618d3f8b8fde869167252bc583dfa76c3ef429cf258bb3f6c82096c8",
-      "bytes": 24329
+      "sha256": "8b9437a56eab389e99c65b5009d55aa66dd837455c7cf47f1913f245f007be60",
+      "bytes": 29902
     },
     {
       "source": "GIOCATORE_43_Scroll_progressione_completa.md",
@@ -5965,8 +5965,8 @@
       "group": "Documenti del giocatore",
       "url": "69111cd79f4687b6.html",
       "raw": "fonti/69111cd79f4687b6.md",
-      "sha256": "f17774eb998d9bbe0716316f8fd2368a745cbe7186775821ecabcc71c8f54241",
-      "bytes": 66998
+      "sha256": "16357537a9362a4061531bd0a9fe0c6451986614bc48cf4b969f003ff7e4c0df",
+      "bytes": 72752
     },
     {
       "source": "GIOCATORE_44_Halo_progressione_completa.md",
@@ -5974,8 +5974,8 @@
       "group": "Documenti del giocatore",
       "url": "84dcac5627a3fa38.html",
       "raw": "fonti/84dcac5627a3fa38.md",
-      "sha256": "0379523221a7582d62902a89f7dde4114ae88abdb44a2e45b4ca6c5cd96cecc1",
-      "bytes": 63404
+      "sha256": "61659f7d7292517410c1040581ebdfd612c3d4e8f383fed53294adf4dcd5e677",
+      "bytes": 73184
     },
     {
       "source": "GIOCATORE_45_Heart_progressione_completa.md",
@@ -5983,8 +5983,8 @@
       "group": "Documenti del giocatore",
       "url": "92157bafc45dc3cc.html",
       "raw": "fonti/92157bafc45dc3cc.md",
-      "sha256": "afc2f0c1d79540577ad2c28aa6f2ccc5b12de8b4ac91a7437cb6960e225059d9",
-      "bytes": 53690
+      "sha256": "bf901890a964f7f243e873cc1b84244a1bc3542032f056e6f7cdb80ebd74c67f",
+      "bytes": 59462
     },
     {
       "source": "GIOCATORE_46_Crucible_progressione_completa.md",
@@ -5992,8 +5992,8 @@
       "group": "Documenti del giocatore",
       "url": "7810f0f17461d877.html",
       "raw": "fonti/7810f0f17461d877.md",
-      "sha256": "a28213f5c296d6eed81d8307f66af551df89e8eabcc7323cec987eef721185cd",
-      "bytes": 51112
+      "sha256": "fb481637b8841db53313f0f7b1c384ab4a8c1afaff733feb3b435607c7313fd6",
+      "bytes": 56098
     },
     {
       "source": "GIOCATORE_47_Mask_progressione_completa.md",
@@ -6001,8 +6001,8 @@
       "group": "Documenti del giocatore",
       "url": "cf609655f33486b8.html",
       "raw": "fonti/cf609655f33486b8.md",
-      "sha256": "5934e18f86bda0108abb8d787478075035819bfbbceb62b58a2fdebd2c1e8600",
-      "bytes": 62371
+      "sha256": "9402a436f9546a5bbccbe2a468ec7d2fa7a930f34d213fcf6f9756b472fb7e40",
+      "bytes": 67721
     },
     {
       "source": "GIOCATORE_48_Hourglass_progressione_completa.md",
@@ -6010,8 +6010,8 @@
       "group": "Documenti del giocatore",
       "url": "2e73f9a477a2b15e.html",
       "raw": "fonti/2e73f9a477a2b15e.md",
-      "sha256": "ea6bbfda2024ed61f0e8179b181c618475bbb9215f2b109095fb068f9f744051",
-      "bytes": 62681
+      "sha256": "bfff50c1f84ab6d466004eeb99f4bacb018b18b0bdf0cf0b18b448ccf75c6347",
+      "bytes": 67471
     },
     {
       "source": "GIOCATORE_49_Astrolabe_progressione_completa.md",
@@ -6019,8 +6019,8 @@
       "group": "Documenti del giocatore",
       "url": "21527991b3eea560.html",
       "raw": "fonti/21527991b3eea560.md",
-      "sha256": "427d79da1fd25e3165e39c672b2ea663a646cf1187644fc44e369b6734399113",
-      "bytes": 58219
+      "sha256": "1d61238e12890167ae919176ec6e55d5621192fac2641e39ffe455b114585452",
+      "bytes": 63615
     },
     {
       "source": "GIOCATORE_50_Sepulchre_progressione_completa.md",
@@ -6028,8 +6028,8 @@
       "group": "Documenti del giocatore",
       "url": "fcc6c0b661438f57.html",
       "raw": "fonti/fcc6c0b661438f57.md",
-      "sha256": "954178b072dd098ffbd3f97f6f4767e9a83fa2a7b9a571fb7d8a258863f3a570",
-      "bytes": 59526
+      "sha256": "4825ffd950997debb45870f932fc5c6385eb044425a5a2c9e5c4b0e1967414b6",
+      "bytes": 64367
     },
     {
       "source": "GIOCATORE_51_Seed_progressione_completa.md",
@@ -6037,8 +6037,8 @@
       "group": "Documenti del giocatore",
       "url": "edffa264ed0ed00b.html",
       "raw": "fonti/edffa264ed0ed00b.md",
-      "sha256": "c3daa33bbdbce9e75d88f7f627fefb1f207b7c385f38d73f7c6c949c0bc574d0",
-      "bytes": 58452
+      "sha256": "21166772fa526027b9e9d5daa6352189662214ef76f09f1ed2f66afd8adafa3a",
+      "bytes": 63683
     },
     {
       "source": "GIOCATORE_52_Crown_progressione_completa.md",
@@ -6046,8 +6046,8 @@
       "group": "Documenti del giocatore",
       "url": "cd4c27f8a2e6ee60.html",
       "raw": "fonti/cd4c27f8a2e6ee60.md",
-      "sha256": "860ea30df769c58645d04e439a7e893934f98f988155a3fd1b3e2c75ef4f6794",
-      "bytes": 62097
+      "sha256": "641d0c1caca2bdad73f760f2186f3ac0d2495cd7a9a9094cd91bdd4f495f4c54",
+      "bytes": 67055
     },
     {
       "source": "GIOCATORE_53_Chain_progressione_completa.md",
@@ -6055,8 +6055,8 @@
       "group": "Documenti del giocatore",
       "url": "766d2f121fc5107d.html",
       "raw": "fonti/766d2f121fc5107d.md",
-      "sha256": "5cb7ad7e9fbd80efd22e00488cad590d14f6b9fc6f5e397113cc2a5662c61b6e",
-      "bytes": 58647
+      "sha256": "ba32e0204601cce12a8219d60cc421f568d37fdf10e6f7f0516752a583352142",
+      "bytes": 63694
     },
     {
       "source": "GIOCATORE_54_Coin_progressione_completa.md",
@@ -6064,8 +6064,8 @@
       "group": "Documenti del giocatore",
       "url": "c0a5a4c1307f1f32.html",
       "raw": "fonti/c0a5a4c1307f1f32.md",
-      "sha256": "8c3715140454e8ff58d9e6ed4b4dc739e9f45e210ab4b94ae64c3942f302c95e",
-      "bytes": 59428
+      "sha256": "7f6fc4bc6234c16afa9b9381be9aa97430441a8806e173f145d3a05a2d22ec9f",
+      "bytes": 64223
     },
     {
       "source": "GIOCATORE_55_Banner_progressione_completa.md",
@@ -6073,8 +6073,8 @@
       "group": "Documenti del giocatore",
       "url": "f8f3e0e9e4ef86c4.html",
       "raw": "fonti/f8f3e0e9e4ef86c4.md",
-      "sha256": "04a1abdf9469dee84c0e011a34b7621049afa6445d07be60b1a8760935534763",
-      "bytes": 60395
+      "sha256": "f6aba07056fd17cf9b25eaaf0e892a693f2b5fa1f4f9471c5e62c607a33bbd3b",
+      "bytes": 65415
     },
     {
       "source": "GIOCATORE_56_Oracle_progressione_completa.md",
@@ -6082,8 +6082,8 @@
       "group": "Documenti del giocatore",
       "url": "2d94e6b6db40ea7c.html",
       "raw": "fonti/2d94e6b6db40ea7c.md",
-      "sha256": "a05b277de0b07d219460bca08d02ded61d16c6d541c626ca77618b2b609fd758",
-      "bytes": 61399
+      "sha256": "8a07a5737b6516eb5ba5fd10ed430a01cf1dbdd5481ef648913645745e50be5f",
+      "bytes": 66257
     },
     {
       "source": "GIOCATORE_57_Archive_progressione_completa.md",
@@ -6091,8 +6091,8 @@
       "group": "Documenti del giocatore",
       "url": "97f5f4730c063fa5.html",
       "raw": "fonti/97f5f4730c063fa5.md",
-      "sha256": "0c8bb1c3dbd6c4e69d3e4213b11003257de8dd16588e4efc309e25da80c90df5",
-      "bytes": 73661
+      "sha256": "4bd3e42f48a4bd10927cbbd72f285a6d961339069448965780767812d55d759a",
+      "bytes": 78765
     },
     {
       "source": "GIOCATORE_58_Labyrinth_progressione_completa.md",
@@ -6100,8 +6100,8 @@
       "group": "Documenti del giocatore",
       "url": "073cd9ab45b84058.html",
       "raw": "fonti/073cd9ab45b84058.md",
-      "sha256": "1dcf7fc7b5851f9f8fe54d41af90a00feb35f281ddfe344d965148b774e1b8d6",
-      "bytes": 59120
+      "sha256": "e71c439328256ddaaffae7a2b32c03bc10f75035d65f63549a3cdb4167b0ece9",
+      "bytes": 64328
     },
     {
       "source": "GIOCATORE_59_Tempest_progressione_completa.md",
@@ -6109,8 +6109,8 @@
       "group": "Documenti del giocatore",
       "url": "15bfad0852753e4e.html",
       "raw": "fonti/15bfad0852753e4e.md",
-      "sha256": "35c76dbc1b988ae58a9d35dda61583b17eba658b12cc9309c11c7d5841882d34",
-      "bytes": 59917
+      "sha256": "5c2de863bd9e0f357d2dd7aa545f53d1eaf36209f22d2f2b239d2fcbc0f8491e",
+      "bytes": 64879
     },
     {
       "source": "GIOCATORE_60_Maw_progressione_completa.md",
@@ -6118,8 +6118,8 @@
       "group": "Documenti del giocatore",
       "url": "7b2b90d7a36f95ca.html",
       "raw": "fonti/7b2b90d7a36f95ca.md",
-      "sha256": "d3b2627dd4d40d54987627a721ca566af311ab1bb413076f16a06c36198b9073",
-      "bytes": 60444
+      "sha256": "93990b3c28df7d50a5ac3d052319e33ff626433a927dc049a2397e34854ea75b",
+      "bytes": 65456
     },
     {
       "source": "GIOCATORE_61_Loom_progressione_completa.md",
@@ -6127,8 +6127,8 @@
       "group": "Documenti del giocatore",
       "url": "e832ba2ddc43d334.html",
       "raw": "fonti/e832ba2ddc43d334.md",
-      "sha256": "168e13832c004b8afe8125e7fcdfff00dc80a77f40412da776f8fb0b1c7a738a",
-      "bytes": 53437
+      "sha256": "a8a83d9763dd3f7bf6704edccff6fecb6572ca4b0493f925cc9751574a452dae",
+      "bytes": 58364
     },
     {
       "source": "GIOCATORE_62_Audit_delle_progressioni.md",
@@ -6136,8 +6136,8 @@
       "group": "Documenti del giocatore",
       "url": "7d16edc6e7e45259.html",
       "raw": "fonti/7d16edc6e7e45259.md",
-      "sha256": "53ea12e0f33efd4367b2ee5c5a9a9f328e955e063021ee3f3ed7cffd7c806445",
-      "bytes": 20149
+      "sha256": "cbef2e2fae64aae16dac413a9af5ab7aec2ff1b7b25893a1478d46a9532a0055",
+      "bytes": 3709
     },
     {
       "source": "GIOCATORE_65_Atlante_del_reale.md",
@@ -6181,8 +6181,8 @@
       "group": "Documenti del giocatore",
       "url": "380e8c13efa2431a.html",
       "raw": "fonti/380e8c13efa2431a.md",
-      "sha256": "ab3784ab1cde4ddaff9c195d433d1b9a46ea38a7628cd3978707152578a51345",
-      "bytes": 33428
+      "sha256": "4f5164b65e0c74010733fd43bdb15a9f672053b89d4975569023a9f0da72e5b3",
+      "bytes": 34108
     },
     {
       "source": "GIOCATORE_70_Identita_continuita_e_recupero.md",
@@ -7237,8 +7237,8 @@
       "group": "Canone vigente e verifica della consegna",
       "url": "06300f093b9b4ae7.html",
       "raw": "fonti/06300f093b9b4ae7.md",
-      "sha256": "b515fcc175bfba161e36894b253daab8b57e1e5c74af925d9ef6fdb73eaf1fd3",
-      "bytes": 54253
+      "sha256": "52ab4f5336fb230ac5bc3a48cdea05b1ea07f2eef7ee342dbc89e3f8e4e448ec",
+      "bytes": 58104
     },
     {
       "source": "342_Stato_vigente_per_la_consegna.md",
@@ -7363,8 +7363,8 @@
       "group": "Sistema — Will",
       "url": "a510f792bbb6c15f.html",
       "raw": "fonti/a510f792bbb6c15f.txt",
-      "sha256": "26e406949b7403b54bc0a9468d4547357cfa2a5c35dc8887e6cf2fa3bed382e8",
-      "bytes": 118820
+      "sha256": "32cb2f5a54a7d0bc288cb6c11765024239cfd12a2937d3336652189b3f7dee1b",
+      "bytes": 222685
     },
     {
       "source": "AVVIO_NARRATORE/PROTOCOLLO_NARRATORE_AVARENNE.txt",
@@ -7372,8 +7372,8 @@
       "group": "Sistema — Will",
       "url": "5de80396760c781e.html",
       "raw": "fonti/5de80396760c781e.txt",
-      "sha256": "2f805d2eeba295a523b89bfbf8283f9cd73bd7b4da87396c72f4b4657a8d62d0",
-      "bytes": 14505
+      "sha256": "f11ab5970895e6874490127de887ee6d15226472af481a5e9303bbe5ffcc874a",
+      "bytes": 17489
     },
     {
       "source": "CANONE_VIGENTE/Esempi_abilita_345.json",
@@ -7435,8 +7435,8 @@
       "group": "Territorio di Rovenne — 347",
       "url": "af83887c8186b4d2.html",
       "raw": "fonti/af83887c8186b4d2.json",
-      "sha256": "985e53b1aee4844036ed37c1402344bf0a26f3c3a850719c81bfb93e76d2bc4f",
-      "bytes": 11676
+      "sha256": "dcbdfa3ef613229f12f13542c6c90dd78d2c121dc44e7e4e4bfad962b34f146d",
+      "bytes": 11867
     },
     {
       "source": "CAST_RISERVATO/CAST-498.md",
@@ -7444,8 +7444,8 @@
       "group": "Territorio di Rovenne — 347",
       "url": "26bbd2c4d6efb578.html",
       "raw": "fonti/26bbd2c4d6efb578.md",
-      "sha256": "367489ae0bafe4b9e51466df941cfa6493f6a67787cea0a3010dcea064de514d",
-      "bytes": 1750
+      "sha256": "e690b859ac57fde6f5f63b1829c3a362b0843be778fa86fb320d38b7524028f1",
+      "bytes": 2990
     },
     {
       "source": "CAST_RISERVATO/CAST-499.md",
@@ -7453,8 +7453,8 @@
       "group": "Territorio di Rovenne — 347",
       "url": "dff7f58937c04cb7.html",
       "raw": "fonti/dff7f58937c04cb7.md",
-      "sha256": "ad542fa4bb68d41cef38c4fc859e42c50263aad2ce2a6131fc3d31e5a393aff5",
-      "bytes": 1711
+      "sha256": "039c4cfe04b6101beecc1e78eddcbe469e9895e6bdf7e4e30c61a8c220d21a35",
+      "bytes": 3033
     },
     {
       "source": "CAST_RISERVATO/CAST-500.md",
@@ -7462,8 +7462,8 @@
       "group": "Territorio di Rovenne — 347",
       "url": "6415c16509111a39.html",
       "raw": "fonti/6415c16509111a39.md",
-      "sha256": "83ee5b1edb63bfc03e498542575c1e47349e7ae8d81f3e6ff53a6c5b7b7e67b6",
-      "bytes": 1720
+      "sha256": "efaf963f255b899855be5d7c6e4d320a27748a00234ede8db273a7b66609ef55",
+      "bytes": 2904
     },
     {
       "source": "CAST_RISERVATO/CAST-501.md",
@@ -7815,14 +7815,3070 @@
       "raw": "fonti/d7c3a762f0df2655.json",
       "sha256": "167fe8df4cdbb596030d6ae6eef807ec11963e9a3560c4727d6adb81843dfbd7",
       "bytes": 233017
+    },
+    {
+      "source": "349_FAQ_Archive_uso_pratico.md",
+      "title": "349 FAQ Archive uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "c4d314dfce1107e0.html",
+      "raw": "fonti/c4d314dfce1107e0.md",
+      "sha256": "70e6aa8a9f304a6d553936470564d2138d3e598c5c38587ee25b0749466fecfa",
+      "bytes": 3355
+    },
+    {
+      "source": "349_FAQ_Astrolabe_uso_pratico.md",
+      "title": "349 FAQ Astrolabe uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "8ec49dbdb09eaacc.html",
+      "raw": "fonti/8ec49dbdb09eaacc.md",
+      "sha256": "dccb6b9e0434821ce52c0ab3c8bc51dac94b9410b348801cabc2ae2075223cab",
+      "bytes": 3453
+    },
+    {
+      "source": "349_FAQ_Banner_uso_pratico.md",
+      "title": "349 FAQ Banner uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "7cdf3d923d0d5e93.html",
+      "raw": "fonti/7cdf3d923d0d5e93.md",
+      "sha256": "0b6c65067702ca394517786c0a567511bb9b561cd3bbb2a672af614c93726178",
+      "bytes": 3254
+    },
+    {
+      "source": "349_FAQ_Chain_uso_pratico.md",
+      "title": "349 FAQ Chain uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "8e288b1a4b9ade04.html",
+      "raw": "fonti/8e288b1a4b9ade04.md",
+      "sha256": "84d2882806e80fdeccd4d253f88911fb1d1c416f403ab3304cd27ef63e1e3b20",
+      "bytes": 3354
+    },
+    {
+      "source": "349_FAQ_Coin_uso_pratico.md",
+      "title": "349 FAQ Coin uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "6a6544c9f78ec5fa.html",
+      "raw": "fonti/6a6544c9f78ec5fa.md",
+      "sha256": "2577d204c42724f54c78549ed0d375c73ec18c8d574c5c2a41ab4cffd0683978",
+      "bytes": 3101
+    },
+    {
+      "source": "349_FAQ_Cradle_uso_pratico.md",
+      "title": "349 FAQ Cradle uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "4e586e17089c74cc.html",
+      "raw": "fonti/4e586e17089c74cc.md",
+      "sha256": "c3bb863c436433b1aa5478d0af88f5288253818cae2a6108c2e08c59725a3ebd",
+      "bytes": 3953
+    },
+    {
+      "source": "349_FAQ_Crescent_uso_pratico.md",
+      "title": "349 FAQ Crescent uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "5f8ed81b5129ef8c.html",
+      "raw": "fonti/5f8ed81b5129ef8c.md",
+      "sha256": "1a73dae6c1a58fa7d6076d7eac21010e1381fdd03861851db1ce21c41fe378d4",
+      "bytes": 3866
+    },
+    {
+      "source": "349_FAQ_Crown_uso_pratico.md",
+      "title": "349 FAQ Crown uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "c3cd13aa87f5f484.html",
+      "raw": "fonti/c3cd13aa87f5f484.md",
+      "sha256": "fa0b8d3be87f5c2116800d3cd7f876d1049f3325f1bf9d4feb070afb930b3e91",
+      "bytes": 3236
+    },
+    {
+      "source": "349_FAQ_Crucible_uso_pratico.md",
+      "title": "349 FAQ Crucible uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "f2533e9000a2291e.html",
+      "raw": "fonti/f2533e9000a2291e.md",
+      "sha256": "d18ae25a67e9e58b4b02fa3bceef6708f11af2e905ce561d823cb239d1fd2ad2",
+      "bytes": 3235
+    },
+    {
+      "source": "349_FAQ_Eclipse_uso_pratico.md",
+      "title": "349 FAQ Eclipse uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "f2fb96ddd430bfb6.html",
+      "raw": "fonti/f2fb96ddd430bfb6.md",
+      "sha256": "34430e745c7afcf4b9a0daf2834be98456bcd0597062c9099451f21b66d580dc",
+      "bytes": 3324
+    },
+    {
+      "source": "349_FAQ_Effigi_indice_e_regole_comuni.md",
+      "title": "349 FAQ Effigi indice e regole comuni",
+      "group": "Effigi — uso pratico 349",
+      "url": "8bbe4487ab887dca.html",
+      "raw": "fonti/8bbe4487ab887dca.md",
+      "sha256": "a14f94af3f83873b4253e98abefe0220fa5f52b4bafdf875004df5abb45ddb83",
+      "bytes": 5588
+    },
+    {
+      "source": "349_FAQ_Halo_uso_pratico.md",
+      "title": "349 FAQ Halo uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "4ae8b09c05f330a8.html",
+      "raw": "fonti/4ae8b09c05f330a8.md",
+      "sha256": "a9d7ea179c69cf14d3c484d9082525a0bce478de74a29edb9eae802e518f9436",
+      "bytes": 7706
+    },
+    {
+      "source": "349_FAQ_Heart_uso_pratico.md",
+      "title": "349 FAQ Heart uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "092b871ff6cfa4d6.html",
+      "raw": "fonti/092b871ff6cfa4d6.md",
+      "sha256": "9db64536383f71c198a5e2f8fbafe0d68c2fd976cef28dec662d437916045134",
+      "bytes": 3747
+    },
+    {
+      "source": "349_FAQ_Hourglass_uso_pratico.md",
+      "title": "349 FAQ Hourglass uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "6e7c002f5e174d46.html",
+      "raw": "fonti/6e7c002f5e174d46.md",
+      "sha256": "92013585247fd4155dcbf604ea1773185af8465a8fc55fda702ffbcba4afa87b",
+      "bytes": 3097
+    },
+    {
+      "source": "349_FAQ_Labyrinth_uso_pratico.md",
+      "title": "349 FAQ Labyrinth uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "e8e08a7e0eb21533.html",
+      "raw": "fonti/e8e08a7e0eb21533.md",
+      "sha256": "6f30ea3459e81675a2a48d1ec4748f47cf082d3b969e0ad408f60bc1ac73f4f3",
+      "bytes": 3416
+    },
+    {
+      "source": "349_FAQ_Loom_uso_pratico.md",
+      "title": "349 FAQ Loom uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "a7437431f800f442.html",
+      "raw": "fonti/a7437431f800f442.md",
+      "sha256": "00a631610c4bb9b9f29431327d7760895224185641ed39daf8e60a22cd58ec6b",
+      "bytes": 3172
+    },
+    {
+      "source": "349_FAQ_Mask_uso_pratico.md",
+      "title": "349 FAQ Mask uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "e036610f7119875b.html",
+      "raw": "fonti/e036610f7119875b.md",
+      "sha256": "35bb77b7896b7767e12944006f9d150cc1ed80e499905f2c34893c4e251f9834",
+      "bytes": 3466
+    },
+    {
+      "source": "349_FAQ_Maw_uso_pratico.md",
+      "title": "349 FAQ Maw uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "3d346a3d228c63c5.html",
+      "raw": "fonti/3d346a3d228c63c5.md",
+      "sha256": "30e5c5e4bc38e424dcbf490efd83c798aa145a3faba88d8a0ae1945c085e2fb2",
+      "bytes": 3102
+    },
+    {
+      "source": "349_FAQ_Oracle_uso_pratico.md",
+      "title": "349 FAQ Oracle uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "ae9c06fb23571ad3.html",
+      "raw": "fonti/ae9c06fb23571ad3.md",
+      "sha256": "d30caa5e5220e06901482154d8a061217975117e98906ec87e80beff69afd48f",
+      "bytes": 3115
+    },
+    {
+      "source": "349_FAQ_Ruin_uso_pratico.md",
+      "title": "349 FAQ Ruin uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "147eee7296350d44.html",
+      "raw": "fonti/147eee7296350d44.md",
+      "sha256": "3850b92400387336ebf72b664ee2f15f0b2cb0c73f27e6ed0c6b25811f26c7d8",
+      "bytes": 3846
+    },
+    {
+      "source": "349_FAQ_Scroll_uso_pratico.md",
+      "title": "349 FAQ Scroll uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "ed78924abeaa7f7a.html",
+      "raw": "fonti/ed78924abeaa7f7a.md",
+      "sha256": "bcde18931a3e8e7e5213601a44ce43de86ed6cb41ad73988a2bccb6ebce86fa6",
+      "bytes": 3871
+    },
+    {
+      "source": "349_FAQ_Seed_uso_pratico.md",
+      "title": "349 FAQ Seed uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "c3125677c7773e94.html",
+      "raw": "fonti/c3125677c7773e94.md",
+      "sha256": "6ce4c6ebf6eafd8f32852a8de065977ab609c5c293e12cff699e050d1443c342",
+      "bytes": 3390
+    },
+    {
+      "source": "349_FAQ_Sepulchre_uso_pratico.md",
+      "title": "349 FAQ Sepulchre uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "5647213e55872131.html",
+      "raw": "fonti/5647213e55872131.md",
+      "sha256": "3e06b7aed70e5f9b568004ba2b445ee88441b01d1a1034e0f058d64a3e87ff4e",
+      "bytes": 3083
+    },
+    {
+      "source": "349_FAQ_Tempest_uso_pratico.md",
+      "title": "349 FAQ Tempest uso pratico",
+      "group": "Effigi — uso pratico 349",
+      "url": "5168afc521bb57f1.html",
+      "raw": "fonti/5168afc521bb57f1.md",
+      "sha256": "65396be3c1ddb338b9083940731b5afd686cfea3cee11d1135dd79ca51ad71a9",
+      "bytes": 3270
+    },
+    {
+      "source": "CANONE_VIGENTE/FAQ_uso_pratico_Effigi_349.json",
+      "title": "FAQ uso pratico Effigi 349",
+      "group": "Effigi — uso pratico 349",
+      "url": "c6c112750856e3f2.html",
+      "raw": "fonti/c6c112750856e3f2.json",
+      "sha256": "a11ea3c01838581f5fc5d41efcb7c464f11a8dfc84e1010796be3b3b8ce5d972",
+      "bytes": 139955
+    },
+    {
+      "source": "CANONE_VIGENTE/Verifica_FAQ_pratiche_349.json",
+      "title": "Verifica FAQ pratiche 349",
+      "group": "Verifica FAQ pratiche — 349",
+      "url": "debb2547b28dee4d.html",
+      "raw": "fonti/debb2547b28dee4d.json",
+      "sha256": "8435c8d2e852c806ed9a285fdee6b3b2fa4c4bc885759c9bed8c36bdd9b4fd76",
+      "bytes": 768
+    },
+    {
+      "source": "349_Verifica_FAQ_pratiche_delle_Effigi.md",
+      "title": "349 Verifica FAQ pratiche delle Effigi",
+      "group": "Verifica FAQ pratiche — 349",
+      "url": "1b6a4d7fbd813273.html",
+      "raw": "fonti/1b6a4d7fbd813273.md",
+      "sha256": "1a2a4e8ba2b5454502e532c5cb33271b37a8aaae423a69a0b0239cd4a0043b7b",
+      "bytes": 1949
+    },
+    {
+      "source": "350_Archive_profili_operativi_I_VII.md",
+      "title": "350 Archive profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "52ece7bdc3038853.html",
+      "raw": "fonti/52ece7bdc3038853.md",
+      "sha256": "2de085c0f271b7a99548b733020f5b71cbb4b754227add330dad00977345fa57",
+      "bytes": 13833
+    },
+    {
+      "source": "350_Astrolabe_profili_operativi_I_VII.md",
+      "title": "350 Astrolabe profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "fd8be58fe47fce5b.html",
+      "raw": "fonti/fd8be58fe47fce5b.md",
+      "sha256": "f57521d9566586dc9271fede2553f4000aa250351c0b377e2bbc272da2b0227d",
+      "bytes": 13771
+    },
+    {
+      "source": "350_Banner_profili_operativi_I_VII.md",
+      "title": "350 Banner profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "fa5a0495022d87e8.html",
+      "raw": "fonti/fa5a0495022d87e8.md",
+      "sha256": "d7245fd16810911897e3215c77e293cef1e676efdf2bfd68cdc2912730d794a6",
+      "bytes": 13659
+    },
+    {
+      "source": "350_Chain_profili_operativi_I_VII.md",
+      "title": "350 Chain profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "031dfd30b503d23e.html",
+      "raw": "fonti/031dfd30b503d23e.md",
+      "sha256": "b8ac27ebf7f449f748b550464586b4d62869898bf7c2708d4c6253d0942afeb5",
+      "bytes": 13564
+    },
+    {
+      "source": "350_Coda_di_lavoro_case_comitali_e_istituzioni.md",
+      "title": "350 Coda di lavoro case comitali e istituzioni",
+      "group": "Consolidamento operativo — 350",
+      "url": "e5f80640a1bea7b0.html",
+      "raw": "fonti/e5f80640a1bea7b0.md",
+      "sha256": "dac5c1c08e720b48ec6abb5244f67ffa89acdc2785db869d7771ed74ee0d756c",
+      "bytes": 1689
+    },
+    {
+      "source": "350_Coin_profili_operativi_I_VII.md",
+      "title": "350 Coin profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "c21a94be41af37d5.html",
+      "raw": "fonti/c21a94be41af37d5.md",
+      "sha256": "eb7b3eb0429958af0ec8568797059d63b796b16f4b4ae1715179d55fc2b05e62",
+      "bytes": 13476
+    },
+    {
+      "source": "350_Contese_interazioni_e_casi_verificati.md",
+      "title": "350 Contese interazioni e casi verificati",
+      "group": "Consolidamento operativo — 350",
+      "url": "d4b435f8b70065ae.html",
+      "raw": "fonti/d4b435f8b70065ae.md",
+      "sha256": "c945396e84ed8f69a64f33af49b8c2d9a97b46a50f81f56e90bb801e921edc77",
+      "bytes": 20829
+    },
+    {
+      "source": "350_Cradle_profili_operativi_I_VII.md",
+      "title": "350 Cradle profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "82d8dc2cbd585d30.html",
+      "raw": "fonti/82d8dc2cbd585d30.md",
+      "sha256": "18f42f4fd37bfa295b5e5e178c45057c278d869337252f694a50fafd08bce79b",
+      "bytes": 12772
+    },
+    {
+      "source": "350_Crescent_profili_operativi_I_VII.md",
+      "title": "350 Crescent profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "85b98bcba90ac1ee.html",
+      "raw": "fonti/85b98bcba90ac1ee.md",
+      "sha256": "cac4b1984c5f1350c22e46277d69d35c08faabbaf8e7ce942e9e4957fac472f2",
+      "bytes": 14150
+    },
+    {
+      "source": "350_Crown_profili_operativi_I_VII.md",
+      "title": "350 Crown profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "bd66608ca70fd779.html",
+      "raw": "fonti/bd66608ca70fd779.md",
+      "sha256": "5ff9b0074b5dc07bb7597d17d0d4c600aeddbd7440dc72ad0db61b257e3ee00b",
+      "bytes": 13578
+    },
+    {
+      "source": "350_Crucible_profili_operativi_I_VII.md",
+      "title": "350 Crucible profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "40f81585b81836a0.html",
+      "raw": "fonti/40f81585b81836a0.md",
+      "sha256": "a494bb5999618c1c215c4752068fa403fe1282002c0b8378c73b904791292a06",
+      "bytes": 13573
+    },
+    {
+      "source": "350_Eclipse_profili_operativi_I_VII.md",
+      "title": "350 Eclipse profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "9ddd1b52148bd962.html",
+      "raw": "fonti/9ddd1b52148bd962.md",
+      "sha256": "5cee7265371c8f937d9ef4e3d040a50f4a3edf091ed97b6e3b58ff265184cf77",
+      "bytes": 13782
+    },
+    {
+      "source": "350_Fonti_vigenti_per_argomento.md",
+      "title": "350 Fonti vigenti per argomento",
+      "group": "Consolidamento operativo — 350",
+      "url": "82a1c48523591399.html",
+      "raw": "fonti/82a1c48523591399.md",
+      "sha256": "a1b049b4f6b0378f426b3701e4e79c6e767f3b136558591f2fb2c605a0aab2b9",
+      "bytes": 2852
+    },
+    {
+      "source": "350_Halo_profili_operativi_I_VII.md",
+      "title": "350 Halo profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "3865e21d819ed510.html",
+      "raw": "fonti/3865e21d819ed510.md",
+      "sha256": "90b6d7994fbffa6749feca474c2eedf3fc3800b4c16b8956356b2653862978f3",
+      "bytes": 13735
+    },
+    {
+      "source": "350_Heart_profili_operativi_I_VII.md",
+      "title": "350 Heart profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "00d50e8d95577a3c.html",
+      "raw": "fonti/00d50e8d95577a3c.md",
+      "sha256": "a76cc788e73b97669cd61011ccbbde56a388907c37603ba8968af47b4c5cde67",
+      "bytes": 13684
+    },
+    {
+      "source": "350_Hourglass_profili_operativi_I_VII.md",
+      "title": "350 Hourglass profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "aa8fdce5cc68b544.html",
+      "raw": "fonti/aa8fdce5cc68b544.md",
+      "sha256": "ccb2ea12f8c91f65de1596a40965c41475fee687e932dae72517a3726993d0bf",
+      "bytes": 13530
+    },
+    {
+      "source": "350_Labyrinth_profili_operativi_I_VII.md",
+      "title": "350 Labyrinth profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "77c3fc284380e980.html",
+      "raw": "fonti/77c3fc284380e980.md",
+      "sha256": "39351a2f149dda542bb853d5bfef5d9c1a1e4318cc8eba1ca32a3a75633115d2",
+      "bytes": 13668
+    },
+    {
+      "source": "350_Loom_profili_operativi_I_VII.md",
+      "title": "350 Loom profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "b42c29fbc04a1855.html",
+      "raw": "fonti/b42c29fbc04a1855.md",
+      "sha256": "b15df8fee3ffdc80710a78cb56f7a3c59828d65481f21fd0348110cd931902c4",
+      "bytes": 13464
+    },
+    {
+      "source": "350_Mask_profili_operativi_I_VII.md",
+      "title": "350 Mask profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "88342b85a7b919d7.html",
+      "raw": "fonti/88342b85a7b919d7.md",
+      "sha256": "a147ea22a565ef4dd04ac5407c2dc467a1a99185e34da9bae0242488bfd2e92a",
+      "bytes": 13911
+    },
+    {
+      "source": "350_Maw_profili_operativi_I_VII.md",
+      "title": "350 Maw profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "6ef072212a319e80.html",
+      "raw": "fonti/6ef072212a319e80.md",
+      "sha256": "7eeb55559e972420809ed54cdca79c2065355c11034d0770fa6e5a8bc9a027bb",
+      "bytes": 13815
+    },
+    {
+      "source": "350_Oracle_profili_operativi_I_VII.md",
+      "title": "350 Oracle profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "a29458a513dc19e3.html",
+      "raw": "fonti/a29458a513dc19e3.md",
+      "sha256": "60ffb8fe738831b945ac373170161620eba7896d0041c545c90a9ba1968a4e25",
+      "bytes": 13675
+    },
+    {
+      "source": "350_Regole_operative_e_riferimenti_comuni.md",
+      "title": "350 Regole operative e riferimenti comuni",
+      "group": "Consolidamento operativo — 350",
+      "url": "5fd69576c4d46e49.html",
+      "raw": "fonti/5fd69576c4d46e49.md",
+      "sha256": "5aea97d48b7cae1993c4d1abd56fb48cd6caa9694343f7dd502f1d6a59a6b426",
+      "bytes": 6873
+    },
+    {
+      "source": "350_Ruin_profili_operativi_I_VII.md",
+      "title": "350 Ruin profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "3404119e695ca076.html",
+      "raw": "fonti/3404119e695ca076.md",
+      "sha256": "199bdb3da8251ce0bd6434ed851dba52fe5af6bee3948a7943362f4988592879",
+      "bytes": 12625
+    },
+    {
+      "source": "350_Scroll_profili_operativi_I_VII.md",
+      "title": "350 Scroll profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "3b9943768db0778b.html",
+      "raw": "fonti/3b9943768db0778b.md",
+      "sha256": "36dc6a74ffc14d65a33c055c9ea999ffeec0376dd17c9d1abc851ddfaf8b3eeb",
+      "bytes": 13215
+    },
+    {
+      "source": "350_Seed_profili_operativi_I_VII.md",
+      "title": "350 Seed profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "507e0806d87d8523.html",
+      "raw": "fonti/507e0806d87d8523.md",
+      "sha256": "7060eba66c779526ae8d82fae05ec1d13db78de4898587504afe715b433a9218",
+      "bytes": 13799
+    },
+    {
+      "source": "350_Sepulchre_profili_operativi_I_VII.md",
+      "title": "350 Sepulchre profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "a16c37869537327d.html",
+      "raw": "fonti/a16c37869537327d.md",
+      "sha256": "bf6edd7538cc560cce8cbc8ccf4c301d230c7cddc9dac413132e554f2cf318a8",
+      "bytes": 13577
+    },
+    {
+      "source": "350_Tempest_profili_operativi_I_VII.md",
+      "title": "350 Tempest profili operativi I VII",
+      "group": "Consolidamento operativo — 350",
+      "url": "f4dd1c87a70b5579.html",
+      "raw": "fonti/f4dd1c87a70b5579.md",
+      "sha256": "2586ec053ff73211bc83cf28038e11532ae604a29046a4abc00fc87bf6490557",
+      "bytes": 13529
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_350/GIOCATORE_62_Audit_delle_progressioni_prima_del_consolidamento350.md",
+      "title": "GIOCATORE 62 Audit delle progressioni prima del consolidamento350",
+      "group": "Consolidamento operativo — 350",
+      "url": "4e7510b0a43eb062.html",
+      "raw": "fonti/4e7510b0a43eb062.md",
+      "status": "HISTORICAL_SUPERSEDED",
+      "precedence_note": "Audit corrente nel file 62 revisionato 350.",
+      "sha256": "4d1522080e2a4c16b816b6e3409361ab4b474f6b0d4da197cc3157a459eba8d1",
+      "bytes": 20340
+    },
+    {
+      "source": "AVVIO_NARRATORE/MESSAGGIO_DI_AVVIO.txt",
+      "title": "MESSAGGIO DI AVVIO",
+      "group": "Consolidamento operativo — 350",
+      "url": "1df5e25177a75be1.html",
+      "raw": "fonti/1df5e25177a75be1.txt",
+      "sha256": "128df5f0f069c76fbeafbdc28d512e07d05e9d234e65ae9eedef9fcbe5fe71d9",
+      "bytes": 728
+    },
+    {
+      "source": "CANONE_VIGENTE/Contese_verificate_350.json",
+      "title": "Contese verificate 350",
+      "group": "Consolidamento operativo — 350",
+      "url": "ad2b6599058a1753.html",
+      "raw": "fonti/ad2b6599058a1753.json",
+      "sha256": "5d66276d31a6782a447bba55fbeadae18cc71a831a3c07b2a12dcd46b66cd8c3",
+      "bytes": 32991
+    },
+    {
+      "source": "CANONE_VIGENTE/Profili_operativi_Effigi_350.json",
+      "title": "Profili operativi Effigi 350",
+      "group": "Consolidamento operativo — 350",
+      "url": "65a0a60c5bc68a23.html",
+      "raw": "fonti/65a0a60c5bc68a23.json",
+      "sha256": "329f707967f6cdbf008d14b2d068af8b3864ca9e9e60669cec6c5cdd54c1f0da",
+      "bytes": 393905
+    },
+    {
+      "source": "CANONE_VIGENTE/Verifica_consolidamento_operativo_350.json",
+      "title": "Verifica consolidamento operativo 350",
+      "group": "Verifica consolidamento operativo 350",
+      "url": "a14149818542f85f.html",
+      "raw": "fonti/a14149818542f85f.json",
+      "sha256": "2ca35f078785889360b629d0091e49622157d2f36599c107f5e11ba033f887c9",
+      "bytes": 987
+    },
+    {
+      "source": "350_Verifica_dei_tre_punti_operativi.md",
+      "title": "350 Verifica dei tre punti operativi",
+      "group": "Verifica consolidamento operativo 350",
+      "url": "a1ca8f8c840d1726.html",
+      "raw": "fonti/a1ca8f8c840d1726.md",
+      "sha256": "d75b56db0ddd4d0f3bd255e99dc56bcd6eef2bdcc4d3bdeacac0b272be70664a",
+      "bytes": 2993
+    },
+    {
+      "source": "CANONE_VIGENTE/Audit_copertine_cosmologia_351.json",
+      "title": "Audit copertine cosmologia 351",
+      "group": "Illustrazioni e verifiche",
+      "url": "f210ac62e1276276.html",
+      "raw": "fonti/f210ac62e1276276.json",
+      "sha256": "97d0c5049018f2e0ef518bf7005412630b9e168efe9faea49b82f1fb66d151ae",
+      "bytes": 13617
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/351_Piano_e_prompt_copertine_cosmologia.json",
+      "title": "351 Piano e prompt copertine cosmologia",
+      "group": "Illustrazioni e verifiche",
+      "url": "f0b69c3065fcdfa4.html",
+      "raw": "fonti/f0b69c3065fcdfa4.json",
+      "sha256": "3dcf4b41a5ed117e5acd6929f2f4f3a13253323b81c5ef58881fee4bfcb664cb",
+      "bytes": 47186
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/353_Copertine_volumi_e_archi_piano_e_prompt.json",
+      "title": "353 Copertine volumi e archi piano e prompt",
+      "group": "Illustrazioni e verifiche",
+      "url": "e5fde7ca560b1011.html",
+      "raw": "fonti/e5fde7ca560b1011.json",
+      "sha256": "d5705bedf1b6b92562408a31486deea02b3b1e850b234695a2b99f8db356dd4b",
+      "bytes": 129295
+    },
+    {
+      "source": "CANONE_VIGENTE/Audit_copertine_opera_353.json",
+      "title": "Audit copertine opera 353",
+      "group": "Illustrazioni e verifiche",
+      "url": "6b7ed8e6700f8dea.html",
+      "raw": "fonti/6b7ed8e6700f8dea.json",
+      "sha256": "2af5e9b691546797f63450252d06527848335422b691dea112a6fd7d70eb6dd8",
+      "bytes": 20603
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/VOLUMI_E_ARCHI/VOL-01_The_Waking_House/Scheda_campione.json",
+      "title": "Scheda campione",
+      "group": "Illustrazioni e verifiche",
+      "url": "3cda011f96cbd866.html",
+      "raw": "fonti/3cda011f96cbd866.json",
+      "sha256": "d6c02d2d062957ce84b92848a95dcdd7530fff7cc1a6d7113216ad9833ef81eb",
+      "bytes": 387
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/CAST_RISERVATO/CAST-465.md",
+      "title": "CAST-465",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "16ae6e0d8f00cb5a.html",
+      "raw": "fonti/16ae6e0d8f00cb5a.md",
+      "sha256": "97fa032efc647e5cc5476b820d5d58d7f26e4b302135aa4a6a1b5e9cd7ce78fa",
+      "bytes": 2906
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-563.md",
+      "title": "CAST-563",
+      "group": "Consolidamento354",
+      "url": "289b2eb0fabde399.html",
+      "raw": "fonti/289b2eb0fabde399.md",
+      "sha256": "aefd678b5eda616b64fd2c22fb3efd8eac88be93d8fc70db6ec72df9fd794dce",
+      "bytes": 2207
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-498.md",
+      "title": "CAST-498",
+      "group": "Consolidamento354",
+      "url": "2e0072609222fdc6.html",
+      "raw": "fonti/2e0072609222fdc6.md",
+      "sha256": "e690b859ac57fde6f5f63b1829c3a362b0843be778fa86fb320d38b7524028f1",
+      "bytes": 2990
+    },
+    {
+      "source": "CANONE_VIGENTE/Integrazioni_strutturali_354.json",
+      "title": "Integrazioni strutturali 354",
+      "group": "Consolidamento354",
+      "url": "af4984ffe805e9a6.html",
+      "raw": "fonti/af4984ffe805e9a6.json",
+      "sha256": "9a115622b2bdba063584294d20d52c3d782d8be53e20fbb237ce1c58ae64386a",
+      "bytes": 16792
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/namar/CAST-536_Teren_Avelin/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "ed541e093ce39ec4.html",
+      "raw": "fonti/ed541e093ce39ec4.txt",
+      "sha256": "8e216aafd6d4c8f893bace726a1a550009235984979e07c276ccb7c181c33299",
+      "bytes": 970
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-527.md",
+      "title": "CAST-527",
+      "group": "Consolidamento354",
+      "url": "a5ba7afe3eb576aa.html",
+      "raw": "fonti/a5ba7afe3eb576aa.md",
+      "sha256": "40faa5f3c89e0ec92edbc9421cc2aeafe747ab662be68447b0aaa73edd87d8c4",
+      "bytes": 2392
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-565.md",
+      "title": "CAST-565",
+      "group": "Consolidamento354",
+      "url": "e104e4ea4d39ff11.html",
+      "raw": "fonti/e104e4ea4d39ff11.md",
+      "sha256": "32fa83061b2b368d4c71cb7f7a8a2bacc6fcc0e46f890927336440ee65be656a",
+      "bytes": 2255
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/GIOCATORE_171_The_Nocturne_e_The_Veiled_Basin.md",
+      "title": "GIOCATORE 171 The Nocturne e The Veiled Basin",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "03067cabec132517.html",
+      "raw": "fonti/03067cabec132517.md",
+      "sha256": "cc310b863e3f62e7b75a6f51b399e4812a9b63612a91c436af746e987705cab7",
+      "bytes": 5171
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-551.md",
+      "title": "CAST-551",
+      "group": "Consolidamento354",
+      "url": "5e441236a2a9ce55.html",
+      "raw": "fonti/5e441236a2a9ce55.md",
+      "sha256": "9e3424d2b5c231704e422beec69cb0a3f440e35b60054ab11f61578604a4c590",
+      "bytes": 2229
+    },
+    {
+      "source": "GIOCATORE_357_Dinastie_regnanti.md",
+      "title": "GIOCATORE 357 Dinastie regnanti",
+      "group": "Consolidamento354",
+      "url": "04d6d13bf1060347.html",
+      "raw": "fonti/04d6d13bf1060347.md",
+      "sha256": "ad472e7cee8d12ab063c1a0b7e6edb0378afd1d242673b005049a7ce8971d84d",
+      "bytes": 13339
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-545.md",
+      "title": "CAST-545",
+      "group": "Consolidamento354",
+      "url": "a8b1eb002eac2395.html",
+      "raw": "fonti/a8b1eb002eac2395.md",
+      "sha256": "dd7dab1b8a1717f2f647e61b12534c4522a743f916641d2cc5be041ec8941e5c",
+      "bytes": 2252
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-531.md",
+      "title": "CAST-531",
+      "group": "Consolidamento354",
+      "url": "c93148fb39e0f4e1.html",
+      "raw": "fonti/c93148fb39e0f4e1.md",
+      "sha256": "5c1e3f8b57afe38dd9fb26cf97a0ca444a14fd081091f25be0608a4d5f21dc15",
+      "bytes": 2399
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-529.md",
+      "title": "CAST-529",
+      "group": "Consolidamento354",
+      "url": "3aa9ad04c40efea1.html",
+      "raw": "fonti/3aa9ad04c40efea1.md",
+      "sha256": "6f871c1f021e14e40adbe58e8b2ad330a9515a5f94d2b836ffef994f8ef3fb21",
+      "bytes": 2364
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-556.md",
+      "title": "CAST-556",
+      "group": "Consolidamento354",
+      "url": "9f170ed3a9f16f7e.html",
+      "raw": "fonti/9f170ed3a9f16f7e.md",
+      "sha256": "f860df351346da978259546a97e37447faa198dc7092d744433e6d28579aefa1",
+      "bytes": 2220
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/02_Fondamenti_e_architettura_cosmica/GIOCATORE/GIOCATORE_171_The_Nocturne_e_The_Veiled_Basin.md",
+      "title": "GIOCATORE 171 The Nocturne e The Veiled Basin",
+      "group": "Consolidamento354",
+      "url": "528ec7e1ffac2f35.html",
+      "raw": "fonti/528ec7e1ffac2f35.md",
+      "sha256": "11fc406f53dd85b49a21e5ae4316ff6c445477abb2a9421014bfebfc5f976dab",
+      "bytes": 5602
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-564.md",
+      "title": "CAST-564",
+      "group": "Consolidamento354",
+      "url": "15838c1a6d277163.html",
+      "raw": "fonti/15838c1a6d277163.md",
+      "sha256": "c09583d20a37362947a28b33dd65f45a7f1eda1ec40b02d617b66c129b9c284f",
+      "bytes": 2158
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/05_Atlante_cosmologico/GIOCATORE/GIOCATORE_69_Roots_e_risorse_cosmiche.md",
+      "title": "GIOCATORE 69 Roots e risorse cosmiche",
+      "group": "Consolidamento354",
+      "url": "f1470ac2588e5921.html",
+      "raw": "fonti/f1470ac2588e5921.md",
+      "sha256": "4f5164b65e0c74010733fd43bdb15a9f672053b89d4975569023a9f0da72e5b3",
+      "bytes": 34108
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-561.md",
+      "title": "CAST-561",
+      "group": "Consolidamento354",
+      "url": "6b1909a2985a23de.html",
+      "raw": "fonti/6b1909a2985a23de.md",
+      "sha256": "5fca4b034e31da1111862cb6a4fc9f7feff46b9d1113e75965814f069c30d99a",
+      "bytes": 2294
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-527.md",
+      "title": "CAST-527",
+      "group": "Consolidamento354",
+      "url": "0ef9176647c65164.html",
+      "raw": "fonti/0ef9176647c65164.md",
+      "sha256": "40faa5f3c89e0ec92edbc9421cc2aeafe747ab662be68447b0aaa73edd87d8c4",
+      "bytes": 2392
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-541.md",
+      "title": "CAST-541",
+      "group": "Consolidamento354",
+      "url": "a83e818220a77251.html",
+      "raw": "fonti/a83e818220a77251.md",
+      "sha256": "9c8658510e648bddc2f0910af66a971d5e4251f8596e047bc1bfa2922162bee2",
+      "bytes": 2304
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-569.md",
+      "title": "CAST-569",
+      "group": "Consolidamento354",
+      "url": "75ac1ad25471f5b5.html",
+      "raw": "fonti/75ac1ad25471f5b5.md",
+      "sha256": "1c7b24b269aec4f850694e8a706f7bb07691e02301355ef42b266b3185b1df59",
+      "bytes": 2119
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-542.md",
+      "title": "CAST-542",
+      "group": "Consolidamento354",
+      "url": "1269eb254490c141.html",
+      "raw": "fonti/1269eb254490c141.md",
+      "sha256": "af5900ea940d2d88551dbed149e402bb74b32a2409371fe3fe1d28879a853daa",
+      "bytes": 2299
+    },
+    {
+      "source": "GIOCATORE_356_Alexander_Camera_e_obblighi.md",
+      "title": "GIOCATORE 356 Alexander Camera e obblighi",
+      "group": "Consolidamento354",
+      "url": "bad2611f36dccd9a.html",
+      "raw": "fonti/bad2611f36dccd9a.md",
+      "sha256": "4a94294b73437a05f375b8d0c9cfa8fd4039e97dc649aefdb751d5993e28be8c",
+      "bytes": 10753
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/elven/CAST-534_Sabine_Elvar/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "6c01cf6742d51c14.html",
+      "raw": "fonti/6c01cf6742d51c14.json",
+      "sha256": "f4fdbcd8d4e8cf99d4e4868009e921c5c0549c57ccac95ab33a74072c2da0f2b",
+      "bytes": 1530
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-547.md",
+      "title": "CAST-547",
+      "group": "Consolidamento354",
+      "url": "7284802d8c933c86.html",
+      "raw": "fonti/7284802d8c933c86.md",
+      "sha256": "9d1f3963fb5e076fa5670aca4f4cf6277d258cf29337404bffbcc0f8f5a7773e",
+      "bytes": 2299
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-559.md",
+      "title": "CAST-559",
+      "group": "Consolidamento354",
+      "url": "df23f425527f2d6e.html",
+      "raw": "fonti/df23f425527f2d6e.md",
+      "sha256": "d177a73cf3c154e90e5d64fd284f23af64c5f1dcbaa532f151c7636703f8a223",
+      "bytes": 2328
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-548.md",
+      "title": "CAST-548",
+      "group": "Consolidamento354",
+      "url": "7be8d40cc6feff56.html",
+      "raw": "fonti/7be8d40cc6feff56.md",
+      "sha256": "f4ad7d93071de669fb9969eb56e5a0f07ee1e5f6a9c264db0ec41472e3139733",
+      "bytes": 2256
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-465.md",
+      "title": "CAST-465",
+      "group": "Consolidamento354",
+      "url": "809fc1c8e415c257.html",
+      "raw": "fonti/809fc1c8e415c257.md",
+      "sha256": "883dc940804b63740ec1cd8a0f330f27d929ee888b711dd5068705c5c5cec65c",
+      "bytes": 3249
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-522.md",
+      "title": "CAST-522",
+      "group": "Consolidamento354",
+      "url": "383839ebb279188b.html",
+      "raw": "fonti/383839ebb279188b.md",
+      "sha256": "335f60deee39690b6a78542c1455ee67dae935e857456b643577b77813caf276",
+      "bytes": 2650
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-529.md",
+      "title": "CAST-529",
+      "group": "Consolidamento354",
+      "url": "178a0f02ee4c054d.html",
+      "raw": "fonti/178a0f02ee4c054d.md",
+      "sha256": "6f871c1f021e14e40adbe58e8b2ad330a9515a5f94d2b836ffef994f8ef3fb21",
+      "bytes": 2364
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/09_Societa_istituzioni_e_fazioni/GIOCATORE/GIOCATORE_356_Alexander_Camera_e_obblighi.md",
+      "title": "GIOCATORE 356 Alexander Camera e obblighi",
+      "group": "Consolidamento354",
+      "url": "e415b669650107c0.html",
+      "raw": "fonti/e415b669650107c0.md",
+      "sha256": "4a94294b73437a05f375b8d0c9cfa8fd4039e97dc649aefdb751d5993e28be8c",
+      "bytes": 10753
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-521.md",
+      "title": "CAST-521",
+      "group": "Consolidamento354",
+      "url": "f4e61fe45eeed8ef.html",
+      "raw": "fonti/f4e61fe45eeed8ef.md",
+      "sha256": "90dc8ae489c80a3918bf9e3eaec10e45eab7bf0a9c070200b67a438171851991",
+      "bytes": 2640
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-520.md",
+      "title": "CAST-520",
+      "group": "Consolidamento354",
+      "url": "c6c02217b10b9c3a.html",
+      "raw": "fonti/c6c02217b10b9c3a.md",
+      "sha256": "b9202006617cf5d1a31136419a5fa93657350187cd11317820d3962ab0f777a4",
+      "bytes": 2536
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-557.md",
+      "title": "CAST-557",
+      "group": "Consolidamento354",
+      "url": "80ec3533ab35f487.html",
+      "raw": "fonti/80ec3533ab35f487.md",
+      "sha256": "8defbaa3dadbcacf0f880750feb65b03bfc0503d39526c376dceb1feff76fc81",
+      "bytes": 2335
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/elven/CAST-535_Lucan_Elvar/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "3b4e1bd156dd8b81.html",
+      "raw": "fonti/3b4e1bd156dd8b81.txt",
+      "sha256": "d32df2575b830d9c43293922d6633c6c9c126bf41b867afefcdce48df33b6b45",
+      "bytes": 959
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/AVVIO_NARRATORE/PROTOCOLLO_NARRATORE_AVARENNE.txt",
+      "title": "PROTOCOLLO NARRATORE AVARENNE",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "c7f12316e7cd9c55.html",
+      "raw": "fonti/c7f12316e7cd9c55.txt",
+      "sha256": "b1102b1904f4241047b22a84f313d9d8fddf863126bcda5f42e87138af3bcc11",
+      "bytes": 16399
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Aldren/aldren/CAST-526_Maelle_II_Vaudren/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "4a12c29e62cdb954.html",
+      "raw": "fonti/4a12c29e62cdb954.txt",
+      "sha256": "40b6866e197f2c22c83e975e572def385c3975e647635bd7854209e80964051d",
+      "bytes": 1010
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/CAST_RISERVATO/CAST-498.md",
+      "title": "CAST-498",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "f1c5841ac7fca8da.html",
+      "raw": "fonti/f1c5841ac7fca8da.md",
+      "sha256": "367489ae0bafe4b9e51466df941cfa6493f6a67787cea0a3010dcea064de514d",
+      "bytes": 1750
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/16_Verifica_operativa_e_consegna/350_Coda_di_lavoro_case_comitali_e_istituzioni.md",
+      "title": "350 Coda di lavoro case comitali e istituzioni",
+      "group": "Consolidamento354",
+      "url": "6c63c4db4982d8b1.html",
+      "raw": "fonti/6c63c4db4982d8b1.md",
+      "sha256": "dac5c1c08e720b48ec6abb5244f67ffa89acdc2785db869d7771ed74ee0d756c",
+      "bytes": 1689
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-546.md",
+      "title": "CAST-546",
+      "group": "Consolidamento354",
+      "url": "a211408ef75e8669.html",
+      "raw": "fonti/a211408ef75e8669.md",
+      "sha256": "c767f6c3310eb24b28d29ef27fa84b11662fa8757274377c557e5069a1225fbf",
+      "bytes": 2333
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-566.md",
+      "title": "CAST-566",
+      "group": "Consolidamento354",
+      "url": "e696e706c969a9d7.html",
+      "raw": "fonti/e696e706c969a9d7.md",
+      "sha256": "8dfe82dacf6d839d7cef1dc0955ed28d297bbf06d097fb8e3a90a53edf80fa56",
+      "bytes": 2288
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/orsanne/CAST-524_Adrien_III_Orvel/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "7d8378fd6561919f.html",
+      "raw": "fonti/7d8378fd6561919f.txt",
+      "sha256": "1aaf4deaa14216f2efe6ae8a5f4ffbc120ead16a4b268fc07bcff496254947cd",
+      "bytes": 1018
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/23_Registro_unico_del_canone.md",
+      "title": "23 Registro unico del canone",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "c44baaee3e31cc07.html",
+      "raw": "fonti/c44baaee3e31cc07.md",
+      "sha256": "c8b887343b95c71888a4cacfe2061a0853a0643adb851c678f31ec7b0d936082",
+      "bytes": 57237
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/AVVIO_NARRATORE/DOSSIER_ALEXANDER_EDRAN.txt",
+      "title": "DOSSIER ALEXANDER EDRAN",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "01b7f20f74808528.html",
+      "raw": "fonti/01b7f20f74808528.txt",
+      "sha256": "8630dd7a930dc0af64442dca7360641d604a16813640f45831e9a971c5622339",
+      "bytes": 172545
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-530.md",
+      "title": "CAST-530",
+      "group": "Consolidamento354",
+      "url": "29ab46deb391e5e3.html",
+      "raw": "fonti/29ab46deb391e5e3.md",
+      "sha256": "81f2c1bf1900a6c258e13cf81089fc45907b7a2d7abf6e96f53a12cbbacd8ab9",
+      "bytes": 2542
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-554.md",
+      "title": "CAST-554",
+      "group": "Consolidamento354",
+      "url": "5f56eb4869d6eef5.html",
+      "raw": "fonti/5f56eb4869d6eef5.md",
+      "sha256": "f18140c6f14acb3e62e9ba5f53b7ead9e820ea5b5801c05fbb8f67d10b220335",
+      "bytes": 2238
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-538.md",
+      "title": "CAST-538",
+      "group": "Consolidamento354",
+      "url": "9aded3ce04acfaac.html",
+      "raw": "fonti/9aded3ce04acfaac.md",
+      "sha256": "b6c5e648f84caf3bb0077048d992f31beba2f9f13546ecd88f8c87571a0bf009",
+      "bytes": 2232
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/16_Verifica_operativa_e_consegna/354_Fonti_correnti_e_consegna.md",
+      "title": "354 Fonti correnti e consegna",
+      "group": "Consolidamento354",
+      "url": "c42a0440c6129fab.html",
+      "raw": "fonti/c42a0440c6129fab.md",
+      "sha256": "b4e3fd9b14cd5d3605d3ee3d3772c713e20331f2458297dbcc4198694ad140ba",
+      "bytes": 1808
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-564.md",
+      "title": "CAST-564",
+      "group": "Consolidamento354",
+      "url": "b1ffcb9f5982a288.html",
+      "raw": "fonti/b1ffcb9f5982a288.md",
+      "sha256": "c09583d20a37362947a28b33dd65f45a7f1eda1ec40b02d617b66c129b9c284f",
+      "bytes": 2158
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-544.md",
+      "title": "CAST-544",
+      "group": "Consolidamento354",
+      "url": "1072c16a7bda1306.html",
+      "raw": "fonti/1072c16a7bda1306.md",
+      "sha256": "0880055844fa4902f0d759c35b46a07cf38ab317286eb6d6a9c4f921b6582480",
+      "bytes": 2248
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/CANONE_VIGENTE/Roots_consolidate.json",
+      "title": "Roots consolidate",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "9256ebea7998b3f1.html",
+      "raw": "fonti/9256ebea7998b3f1.json",
+      "sha256": "525a0909b8e20d1783987a029e418c4a8d2b3683098dddb407ddae0d0d10e6c3",
+      "bytes": 13850
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-569.md",
+      "title": "CAST-569",
+      "group": "Consolidamento354",
+      "url": "11f652513c6c1d27.html",
+      "raw": "fonti/11f652513c6c1d27.md",
+      "sha256": "1c7b24b269aec4f850694e8a706f7bb07691e02301355ef42b266b3185b1df59",
+      "bytes": 2119
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Teral/teral/CAST-530_Meilin_Renkai/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "41fa581a2e2dba66.html",
+      "raw": "fonti/41fa581a2e2dba66.txt",
+      "sha256": "b91fd9b9524c0ff5986cbcac2fb31d4cd9cc0d8aca17551248387949298ad523",
+      "bytes": 1030
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-526.md",
+      "title": "CAST-526",
+      "group": "Consolidamento354",
+      "url": "debd513e7a162786.html",
+      "raw": "fonti/debd513e7a162786.md",
+      "sha256": "15077bee743305c8ca446b8d93fac54ecac5955aeb0c8ded18200ec03330fd8f",
+      "bytes": 2546
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-568.md",
+      "title": "CAST-568",
+      "group": "Consolidamento354",
+      "url": "18af6c67877da834.html",
+      "raw": "fonti/18af6c67877da834.md",
+      "sha256": "4a100aa32ec7925d169f9ccbd115f5d01556a8bb206b2f76ee372f55dac4334f",
+      "bytes": 2153
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-523.md",
+      "title": "CAST-523",
+      "group": "Consolidamento354",
+      "url": "12575688cfe467b2.html",
+      "raw": "fonti/12575688cfe467b2.md",
+      "sha256": "16a5e9719a9308641c7db5ea96047d7e94568c9be156fc067b67a6683a6a388e",
+      "bytes": 2637
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-539.md",
+      "title": "CAST-539",
+      "group": "Consolidamento354",
+      "url": "9cb084669656762b.html",
+      "raw": "fonti/9cb084669656762b.md",
+      "sha256": "c45e37b39b6a44d725d9d2a037e638a4161d458beb748280967ae1bab09b79e4",
+      "bytes": 2299
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-521.md",
+      "title": "CAST-521",
+      "group": "Consolidamento354",
+      "url": "7415f1b252300fa0.html",
+      "raw": "fonti/7415f1b252300fa0.md",
+      "sha256": "90dc8ae489c80a3918bf9e3eaec10e45eab7bf0a9c070200b67a438171851991",
+      "bytes": 2640
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/DATI/Cast_riservato.json",
+      "title": "Cast riservato",
+      "group": "Consolidamento354",
+      "url": "158a6684c37f7be9.html",
+      "raw": "fonti/158a6684c37f7be9.json",
+      "sha256": "29c29529cd3b845801400ba9526d5520a623b94194086473d05aa2f4b1a15112",
+      "bytes": 3237904
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/05_Atlante_cosmologico/DATI/Roots_consolidate.json",
+      "title": "Roots consolidate",
+      "group": "Consolidamento354",
+      "url": "bae4325b5dd95479.html",
+      "raw": "fonti/bae4325b5dd95479.json",
+      "sha256": "16651ccec52c3a99aaf14e4881e5ae72d188464eed34c77de6642bcf5afef4b4",
+      "bytes": 15733
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/09_Societa_istituzioni_e_fazioni/GIOCATORE/GIOCATORE_357_Dinastie_regnanti.md",
+      "title": "GIOCATORE 357 Dinastie regnanti",
+      "group": "Consolidamento354",
+      "url": "95a0941f7f268565.html",
+      "raw": "fonti/95a0941f7f268565.md",
+      "sha256": "ad472e7cee8d12ab063c1a0b7e6edb0378afd1d242673b005049a7ce8971d84d",
+      "bytes": 13339
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-528.md",
+      "title": "CAST-528",
+      "group": "Consolidamento354",
+      "url": "f8d2e5196a0cc064.html",
+      "raw": "fonti/f8d2e5196a0cc064.md",
+      "sha256": "9dcb6b881ce2d3cf20d4cc783f4cea6fbbee31b32c17fe1ef7b294c3258af9be",
+      "bytes": 2451
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-526.md",
+      "title": "CAST-526",
+      "group": "Consolidamento354",
+      "url": "9d922b77798e2427.html",
+      "raw": "fonti/9d922b77798e2427.md",
+      "sha256": "15077bee743305c8ca446b8d93fac54ecac5955aeb0c8ded18200ec03330fd8f",
+      "bytes": 2546
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-567.md",
+      "title": "CAST-567",
+      "group": "Consolidamento354",
+      "url": "e31aedd7bc0135cd.html",
+      "raw": "fonti/e31aedd7bc0135cd.md",
+      "sha256": "6dec1aad990d3f2ef41bf099d6a1836db4071abb1611883181ed14b7c24a79a9",
+      "bytes": 2191
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Marethis/marethis/CAST-529_Nerea_Seravel/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "bdff93403723511d.html",
+      "raw": "fonti/bdff93403723511d.txt",
+      "sha256": "4f694f8d2cda74054710d0bb2cb87087250744a97ab2baaccbbc2892a96bbeef",
+      "bytes": 1000
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-534.md",
+      "title": "CAST-534",
+      "group": "Consolidamento354",
+      "url": "e0aae2ff049b4afe.html",
+      "raw": "fonti/e0aae2ff049b4afe.md",
+      "sha256": "c9224fdf6fb2fa1b9ea77d57024787da3fe4090a74d64eb0aeb187964dd1a551",
+      "bytes": 2212
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-546.md",
+      "title": "CAST-546",
+      "group": "Consolidamento354",
+      "url": "a756f80ac50d39bd.html",
+      "raw": "fonti/a756f80ac50d39bd.md",
+      "sha256": "c767f6c3310eb24b28d29ef27fa84b11662fa8757274377c557e5069a1225fbf",
+      "bytes": 2333
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-568.md",
+      "title": "CAST-568",
+      "group": "Consolidamento354",
+      "url": "dd4f9b4a861b0b39.html",
+      "raw": "fonti/dd4f9b4a861b0b39.md",
+      "sha256": "4a100aa32ec7925d169f9ccbd115f5d01556a8bb206b2f76ee372f55dac4334f",
+      "bytes": 2153
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-525.md",
+      "title": "CAST-525",
+      "group": "Consolidamento354",
+      "url": "bddb0489ee4b408f.html",
+      "raw": "fonti/bddb0489ee4b408f.md",
+      "sha256": "77e11b56049331773f51a74f25c3588579d4c8506e9155dc47e94fb80f8f4d95",
+      "bytes": 2372
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-519.md",
+      "title": "CAST-519",
+      "group": "Consolidamento354",
+      "url": "9b8c11627bda44a9.html",
+      "raw": "fonti/9b8c11627bda44a9.md",
+      "sha256": "20787a795f5b9391a0c845c260fac98a3cd434ccaaf2963a6986d7c80b4eb8b7",
+      "bytes": 2611
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-542.md",
+      "title": "CAST-542",
+      "group": "Consolidamento354",
+      "url": "e50f71e355e1c6e0.html",
+      "raw": "fonti/e50f71e355e1c6e0.md",
+      "sha256": "af5900ea940d2d88551dbed149e402bb74b32a2409371fe3fe1d28879a853daa",
+      "bytes": 2299
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-524.md",
+      "title": "CAST-524",
+      "group": "Consolidamento354",
+      "url": "57ba608d9dbb89f2.html",
+      "raw": "fonti/57ba608d9dbb89f2.md",
+      "sha256": "24a0109234f0af6f28c57aadac7987a373b44924c219609c62c6abd0d595bd0a",
+      "bytes": 2440
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-539.md",
+      "title": "CAST-539",
+      "group": "Consolidamento354",
+      "url": "328123dda8625c68.html",
+      "raw": "fonti/328123dda8625c68.md",
+      "sha256": "c45e37b39b6a44d725d9d2a037e638a4161d458beb748280967ae1bab09b79e4",
+      "bytes": 2299
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Teral/teral/CAST-530_Meilin_Renkai/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "230cf5d2be51e760.html",
+      "raw": "fonti/230cf5d2be51e760.json",
+      "sha256": "49d771a1c78733619201da0113f950517a0cc6c7f870dbca338867d14d0fd239",
+      "bytes": 1573
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-553.md",
+      "title": "CAST-553",
+      "group": "Consolidamento354",
+      "url": "72fb06dadc094614.html",
+      "raw": "fonti/72fb06dadc094614.md",
+      "sha256": "741cf465d8a6777f4e3ea6639dc17c6c27ebd6599f270e02f1b766daf16e69ce",
+      "bytes": 2315
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-550.md",
+      "title": "CAST-550",
+      "group": "Consolidamento354",
+      "url": "821e9f6613659452.html",
+      "raw": "fonti/821e9f6613659452.md",
+      "sha256": "16e8f270837f371c0bd99823010a76d1a6824b7988abd0c045bccb7e2c431f64",
+      "bytes": 2290
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-556.md",
+      "title": "CAST-556",
+      "group": "Consolidamento354",
+      "url": "22fae35f96c55086.html",
+      "raw": "fonti/22fae35f96c55086.md",
+      "sha256": "f860df351346da978259546a97e37447faa198dc7092d744433e6d28579aefa1",
+      "bytes": 2220
+    },
+    {
+      "source": "GIOCATORE_355_Case_comitali_di_Rovenne.md",
+      "title": "GIOCATORE 355 Case comitali di Rovenne",
+      "group": "Consolidamento354",
+      "url": "33697d9e21b1bdd4.html",
+      "raw": "fonti/33697d9e21b1bdd4.md",
+      "sha256": "28d21750ad16adc557852f3d407808b29e1453345810e63ee334bc2e699b0942",
+      "bytes": 5929
+    },
+    {
+      "source": "354_Fonti_correnti_e_consegna.md",
+      "title": "354 Fonti correnti e consegna",
+      "group": "Consolidamento354",
+      "url": "eb226b4c076e38ec.html",
+      "raw": "fonti/eb226b4c076e38ec.md",
+      "sha256": "b4e3fd9b14cd5d3605d3ee3d3772c713e20331f2458297dbcc4198694ad140ba",
+      "bytes": 1808
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-531.md",
+      "title": "CAST-531",
+      "group": "Consolidamento354",
+      "url": "d77e7d0454de40fb.html",
+      "raw": "fonti/d77e7d0454de40fb.md",
+      "sha256": "5c1e3f8b57afe38dd9fb26cf97a0ca444a14fd081091f25be0608a4d5f21dc15",
+      "bytes": 2399
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-533.md",
+      "title": "CAST-533",
+      "group": "Consolidamento354",
+      "url": "aebacf03b671432f.html",
+      "raw": "fonti/aebacf03b671432f.md",
+      "sha256": "9e94ce0bc0f94ddfbbd15108b0b55414b3ae2b3053a4853c3c91484a6567849f",
+      "bytes": 2426
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-562.md",
+      "title": "CAST-562",
+      "group": "Consolidamento354",
+      "url": "6728546abd3c03e8.html",
+      "raw": "fonti/6728546abd3c03e8.md",
+      "sha256": "af4b77ca3f6c035c1299eed7239c10bb753aeff7c8e909447bbebff2707164a7",
+      "bytes": 2221
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-567.md",
+      "title": "CAST-567",
+      "group": "Consolidamento354",
+      "url": "121697f83772cb6d.html",
+      "raw": "fonti/121697f83772cb6d.md",
+      "sha256": "6dec1aad990d3f2ef41bf099d6a1836db4071abb1611883181ed14b7c24a79a9",
+      "bytes": 2191
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-565.md",
+      "title": "CAST-565",
+      "group": "Consolidamento354",
+      "url": "2d548d7790fd294a.html",
+      "raw": "fonti/2d548d7790fd294a.md",
+      "sha256": "32fa83061b2b368d4c71cb7f7a8a2bacc6fcc0e46f890927336440ee65be656a",
+      "bytes": 2255
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-558.md",
+      "title": "CAST-558",
+      "group": "Consolidamento354",
+      "url": "1b8aae48a1051028.html",
+      "raw": "fonti/1b8aae48a1051028.md",
+      "sha256": "48e95830cc501c94876f1cd3b3ef7c11bdb82840320d1e8543b852de17d0029a",
+      "bytes": 2299
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-553.md",
+      "title": "CAST-553",
+      "group": "Consolidamento354",
+      "url": "9dbc6ed0cc5f6473.html",
+      "raw": "fonti/9dbc6ed0cc5f6473.md",
+      "sha256": "741cf465d8a6777f4e3ea6639dc17c6c27ebd6599f270e02f1b766daf16e69ce",
+      "bytes": 2315
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Teral/teral/CAST-531_Jian_Renkai/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "e7705edca3358a84.html",
+      "raw": "fonti/e7705edca3358a84.txt",
+      "sha256": "8f1eb09055c5b931e1ec402b0c48ad4e75107268ed30187423b71c304027acf8",
+      "bytes": 1021
+    },
+    {
+      "source": "CANONE_VIGENTE/Istituzioni_Alexander_354.json",
+      "title": "Istituzioni Alexander 354",
+      "group": "Consolidamento354",
+      "url": "9d71d8d81961d834.html",
+      "raw": "fonti/9d71d8d81961d834.json",
+      "sha256": "97584a1c1332ddde6c1d0245e5000774387ec2f8d573af79ff4af4572980ae16",
+      "bytes": 843
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-533.md",
+      "title": "CAST-533",
+      "group": "Consolidamento354",
+      "url": "995dbb7de645e30e.html",
+      "raw": "fonti/995dbb7de645e30e.md",
+      "sha256": "9e94ce0bc0f94ddfbbd15108b0b55414b3ae2b3053a4853c3c91484a6567849f",
+      "bytes": 2426
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/AVVIO_NARRATORE/MESSAGGIO_DI_AVVIO.txt",
+      "title": "MESSAGGIO DI AVVIO",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "80cd99741df3c003.html",
+      "raw": "fonti/80cd99741df3c003.txt",
+      "sha256": "6e6c1901050380a4b4e98bc0fd6c7651ba45314e491f8c1f880438c4a34971e6",
+      "bytes": 540
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/CANONE_VIGENTE/Architettura_cosmica.json",
+      "title": "Architettura cosmica",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "d90a8f0451ec8f18.html",
+      "raw": "fonti/d90a8f0451ec8f18.json",
+      "sha256": "854a6783e2ac95430de4c76bcd12824be4864e923990af95256d93944e6405e1",
+      "bytes": 8404
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/namar/CAST-536_Teren_Avelin/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "578753b7e2543afd.html",
+      "raw": "fonti/578753b7e2543afd.json",
+      "sha256": "4037e2a4f6c0b2c3ab87320ef259ec9175dbe876d67414eb9137c3d0b5565738",
+      "bytes": 1510
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-550.md",
+      "title": "CAST-550",
+      "group": "Consolidamento354",
+      "url": "56c81a346d93d50b.html",
+      "raw": "fonti/56c81a346d93d50b.md",
+      "sha256": "16e8f270837f371c0bd99823010a76d1a6824b7988abd0c045bccb7e2c431f64",
+      "bytes": 2290
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/DATI/Cast_conosciuto.json",
+      "title": "Cast conosciuto",
+      "group": "Consolidamento354",
+      "url": "55c0757975d38713.html",
+      "raw": "fonti/55c0757975d38713.json",
+      "sha256": "217e143fec67a87fcfe755d0feacb7cb658fa145d97d78f552ca69fedc84910d",
+      "bytes": 59580
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-522.md",
+      "title": "CAST-522",
+      "group": "Consolidamento354",
+      "url": "4ca6dccc5eff1d33.html",
+      "raw": "fonti/4ca6dccc5eff1d33.md",
+      "sha256": "335f60deee39690b6a78542c1455ee67dae935e857456b643577b77813caf276",
+      "bytes": 2650
+    },
+    {
+      "source": "GIOCATORE_354_Integrazioni_cosmiche_struttura_e_Root.md",
+      "title": "GIOCATORE 354 Integrazioni cosmiche struttura e Root",
+      "group": "Consolidamento354",
+      "url": "3ee8e2ab84b6dc11.html",
+      "raw": "fonti/3ee8e2ab84b6dc11.md",
+      "sha256": "7ff4600fc262e182dd7828fd96b179bceec6e166174ebfd126231a7ccad342ac",
+      "bytes": 19751
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-519.md",
+      "title": "CAST-519",
+      "group": "Consolidamento354",
+      "url": "aebaac3759a74815.html",
+      "raw": "fonti/aebaac3759a74815.md",
+      "sha256": "20787a795f5b9391a0c845c260fac98a3cd434ccaaf2963a6986d7c80b4eb8b7",
+      "bytes": 2611
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-563.md",
+      "title": "CAST-563",
+      "group": "Consolidamento354",
+      "url": "d761a130b0bdcba2.html",
+      "raw": "fonti/d761a130b0bdcba2.md",
+      "sha256": "aefd678b5eda616b64fd2c22fb3efd8eac88be93d8fc70db6ec72df9fd794dce",
+      "bytes": 2207
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/09_Societa_istituzioni_e_fazioni/GIOCATORE/GIOCATORE_128_Valcienne_patrimonio_e_rete_conosciuta.md",
+      "title": "GIOCATORE 128 Valcienne patrimonio e rete conosciuta",
+      "group": "Consolidamento354",
+      "url": "b457276946d7c06c.html",
+      "raw": "fonti/b457276946d7c06c.md",
+      "sha256": "f2f2dd9f1ee726a75ab7eff47da924f79b2ff421d80eb5b1414287f5f45cbd54",
+      "bytes": 4414
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Marethis/marethis/CAST-528_Oren_IV_Seravel/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "7fa5ab126618daa8.html",
+      "raw": "fonti/7fa5ab126618daa8.txt",
+      "sha256": "975b0827e248e781ef6d36dde1b2b10911a5964b27b1d93bd17fe0f0bfdf7e51",
+      "bytes": 996
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-500.md",
+      "title": "CAST-500",
+      "group": "Consolidamento354",
+      "url": "091d42e49054a6e2.html",
+      "raw": "fonti/091d42e49054a6e2.md",
+      "sha256": "efaf963f255b899855be5d7c6e4d320a27748a00234ede8db273a7b66609ef55",
+      "bytes": 2904
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-566.md",
+      "title": "CAST-566",
+      "group": "Consolidamento354",
+      "url": "40329ba2563663ca.html",
+      "raw": "fonti/40329ba2563663ca.md",
+      "sha256": "8dfe82dacf6d839d7cef1dc0955ed28d297bbf06d097fb8e3a90a53edf80fa56",
+      "bytes": 2288
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-541.md",
+      "title": "CAST-541",
+      "group": "Consolidamento354",
+      "url": "9fa4fb5efe1dc1a8.html",
+      "raw": "fonti/9fa4fb5efe1dc1a8.md",
+      "sha256": "9c8658510e648bddc2f0910af66a971d5e4251f8596e047bc1bfa2922162bee2",
+      "bytes": 2304
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-538.md",
+      "title": "CAST-538",
+      "group": "Consolidamento354",
+      "url": "1cfc6a8b358697c6.html",
+      "raw": "fonti/1cfc6a8b358697c6.md",
+      "sha256": "b6c5e648f84caf3bb0077048d992f31beba2f9f13546ecd88f8c87571a0bf009",
+      "bytes": 2232
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-561.md",
+      "title": "CAST-561",
+      "group": "Consolidamento354",
+      "url": "54ca47c064018b2d.html",
+      "raw": "fonti/54ca47c064018b2d.md",
+      "sha256": "5fca4b034e31da1111862cb6a4fc9f7feff46b9d1113e75965814f069c30d99a",
+      "bytes": 2294
+    },
+    {
+      "source": "CANONE_VIGENTE/Ritratti_politici_354.json",
+      "title": "Ritratti politici 354",
+      "group": "Consolidamento354",
+      "url": "a27c4b143bcfd403.html",
+      "raw": "fonti/a27c4b143bcfd403.json",
+      "sha256": "3762d2c414fd8ad1b1067049ff24293879695e31e22e0bd3de68eff11e6ec172",
+      "bytes": 86772
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-530.md",
+      "title": "CAST-530",
+      "group": "Consolidamento354",
+      "url": "282971ae80ba265e.html",
+      "raw": "fonti/282971ae80ba265e.md",
+      "sha256": "81f2c1bf1900a6c258e13cf81089fc45907b7a2d7abf6e96f53a12cbbacd8ab9",
+      "bytes": 2542
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-557.md",
+      "title": "CAST-557",
+      "group": "Consolidamento354",
+      "url": "dbd8c42a25aee01f.html",
+      "raw": "fonti/dbd8c42a25aee01f.md",
+      "sha256": "8defbaa3dadbcacf0f880750feb65b03bfc0503d39526c376dceb1feff76fc81",
+      "bytes": 2335
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-499.md",
+      "title": "CAST-499",
+      "group": "Consolidamento354",
+      "url": "fd0d8636796f2101.html",
+      "raw": "fonti/fd0d8636796f2101.md",
+      "sha256": "039c4cfe04b6101beecc1e78eddcbe469e9895e6bdf7e4e30c61a8c220d21a35",
+      "bytes": 3033
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-549.md",
+      "title": "CAST-549",
+      "group": "Consolidamento354",
+      "url": "4dfae30beafa3b72.html",
+      "raw": "fonti/4dfae30beafa3b72.md",
+      "sha256": "06a3a8753e22674afa68a8bc3fb6f9cc036222a0c9a15013f8f283ca4c3cc37d",
+      "bytes": 2347
+    },
+    {
+      "source": "354_Stato_del_lavoro_e_verifiche.md",
+      "title": "354 Stato del lavoro e verifiche",
+      "group": "Consolidamento354",
+      "url": "b1750c51343e135f.html",
+      "raw": "fonti/b1750c51343e135f.md",
+      "sha256": "24fe1c6b79112de5fc93af39c8264ab68b035f5e0d9e883c956a4e90dd92f16a",
+      "bytes": 813
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/GIOCATORE_122_Governi_diritto_e_cittadinanza.md",
+      "title": "GIOCATORE 122 Governi diritto e cittadinanza",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "cd2b572ff54a5665.html",
+      "raw": "fonti/cd2b572ff54a5665.md",
+      "sha256": "8d867c013ef87aed74c820c17a4e3bf3535adab8682ed6a1da2f0a5fd54f2685",
+      "bytes": 4496
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/CANONE_VIGENTE/Cast_conosciuto.json",
+      "title": "Cast conosciuto",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "f75b604c36f8d016.html",
+      "raw": "fonti/f75b604c36f8d016.json",
+      "sha256": "067997f05661432b2226e3263ddc5a230ef69c9c494b992a6118e61447c145ed",
+      "bytes": 37508
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-537.md",
+      "title": "CAST-537",
+      "group": "Consolidamento354",
+      "url": "9a92ad5b427b72be.html",
+      "raw": "fonti/9a92ad5b427b72be.md",
+      "sha256": "101fae7e34b8a5ad235aa79da1bb05197100f21a730d0595d1a06f4d14e4e24b",
+      "bytes": 2293
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-465.md",
+      "title": "CAST-465",
+      "group": "Consolidamento354",
+      "url": "0d421746aa7ef594.html",
+      "raw": "fonti/0d421746aa7ef594.md",
+      "sha256": "883dc940804b63740ec1cd8a0f330f27d929ee888b711dd5068705c5c5cec65c",
+      "bytes": 3249
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Aldren/aldren/CAST-527_Tavian_Vaudren/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "e9f8ed132366874e.html",
+      "raw": "fonti/e9f8ed132366874e.txt",
+      "sha256": "8dc288dc099f7da0fe0130066cc96e20c22b4dbd4c89cb734fe283799f405173",
+      "bytes": 978
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-558.md",
+      "title": "CAST-558",
+      "group": "Consolidamento354",
+      "url": "21ee2e1127d409ef.html",
+      "raw": "fonti/21ee2e1127d409ef.md",
+      "sha256": "48e95830cc501c94876f1cd3b3ef7c11bdb82840320d1e8543b852de17d0029a",
+      "bytes": 2299
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-544.md",
+      "title": "CAST-544",
+      "group": "Consolidamento354",
+      "url": "7fea9f058189a2cd.html",
+      "raw": "fonti/7fea9f058189a2cd.md",
+      "sha256": "0880055844fa4902f0d759c35b46a07cf38ab317286eb6d6a9c4f921b6582480",
+      "bytes": 2248
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-555.md",
+      "title": "CAST-555",
+      "group": "Consolidamento354",
+      "url": "6f425c67f7f77d96.html",
+      "raw": "fonti/6f425c67f7f77d96.md",
+      "sha256": "1447db1e628f668e7d7a85aa7153609dd78117dc787a630e635559074fcb6f72",
+      "bytes": 2302
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/CANONE_VIGENTE/Registro_decisioni.json",
+      "title": "Registro decisioni",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "055e216b16c7ba61.html",
+      "raw": "fonti/055e216b16c7ba61.json",
+      "sha256": "dbad97104f085708911a5ff12d61f33175711a5744d99518058bb0a434590960",
+      "bytes": 86748
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/01_Consolidamento_documentale/INDICI_E_DOCUMENTI_CONDIVISI/23_Registro_unico_del_canone.md",
+      "title": "23 Registro unico del canone",
+      "group": "Consolidamento354",
+      "url": "6660d8dc11a8e0d2.html",
+      "raw": "fonti/6660d8dc11a8e0d2.md",
+      "sha256": "52ab4f5336fb230ac5bc3a48cdea05b1ea07f2eef7ee342dbc89e3f8e4e448ec",
+      "bytes": 58104
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-552.md",
+      "title": "CAST-552",
+      "group": "Consolidamento354",
+      "url": "6eb8a0529b05c560.html",
+      "raw": "fonti/6eb8a0529b05c560.md",
+      "sha256": "6ecaa0115084575f850882ee3cca6fcc0a1229d50a9659ec2fd892d41f93788d",
+      "bytes": 2177
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/elven/CAST-535_Lucan_Elvar/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "dd869cc78a04f8f1.html",
+      "raw": "fonti/dd869cc78a04f8f1.json",
+      "sha256": "a42eb2642f0beb732791634b53ef6f4492e25b945bf92ca339e9e1b11d097364",
+      "bytes": 1497
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/orsanne/CAST-525_Eliane_Orvel/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "550f8d19a6816066.html",
+      "raw": "fonti/550f8d19a6816066.txt",
+      "sha256": "452bdef1ec22b78061a01714827e4a9b6f168a1dc5fe7900538ef741877ebf98",
+      "bytes": 988
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/GIOCATORE_28_Le_sette_integrazioni_cosmiche.md",
+      "title": "GIOCATORE 28 Le sette integrazioni cosmiche",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "4f69eb980625cf29.html",
+      "raw": "fonti/4f69eb980625cf29.md",
+      "sha256": "ff993e147ad41cac93a31de069bb736746c5cdb1a928ecad56d04ff5fed13782",
+      "bytes": 19896
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-520.md",
+      "title": "CAST-520",
+      "group": "Consolidamento354",
+      "url": "93941810949f2fd4.html",
+      "raw": "fonti/93941810949f2fd4.md",
+      "sha256": "b9202006617cf5d1a31136419a5fa93657350187cd11317820d3962ab0f777a4",
+      "bytes": 2536
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/elven/CAST-534_Sabine_Elvar/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "de05717496d3fc8c.html",
+      "raw": "fonti/de05717496d3fc8c.txt",
+      "sha256": "f601748713fe6f8a39d4d62a3f6e56b034920f390feafd750de1138e29d9f0f0",
+      "bytes": 990
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-528.md",
+      "title": "CAST-528",
+      "group": "Consolidamento354",
+      "url": "a1bb3d24b9eb60c7.html",
+      "raw": "fonti/a1bb3d24b9eb60c7.md",
+      "sha256": "9dcb6b881ce2d3cf20d4cc783f4cea6fbbee31b32c17fe1ef7b294c3258af9be",
+      "bytes": 2451
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/02_Fondamenti_e_architettura_cosmica/GIOCATORE/GIOCATORE_28_Le_sette_integrazioni_cosmiche.md",
+      "title": "GIOCATORE 28 Le sette integrazioni cosmiche",
+      "group": "Consolidamento354",
+      "url": "b69fbd1a9e7403f3.html",
+      "raw": "fonti/b69fbd1a9e7403f3.md",
+      "sha256": "5341dd16d01ab0a83cff19de99430476a024791139b00b05259a716f31fec659",
+      "bytes": 20479
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-532.md",
+      "title": "CAST-532",
+      "group": "Consolidamento354",
+      "url": "434e45217be7405d.html",
+      "raw": "fonti/434e45217be7405d.md",
+      "sha256": "dd0f9c57914d1407c0a1b7c8f44f7bd60c786ffbed8c75aebb49f2129434d568",
+      "bytes": 2474
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-540.md",
+      "title": "CAST-540",
+      "group": "Consolidamento354",
+      "url": "4786cc48a536d227.html",
+      "raw": "fonti/4786cc48a536d227.md",
+      "sha256": "014bce6b83b5224c4fb1af63f165417f91cc7d87142000360b4933e9c415c99e",
+      "bytes": 2159
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Teral/teral/CAST-531_Jian_Renkai/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "9ab29bc35ba77794.html",
+      "raw": "fonti/9ab29bc35ba77794.json",
+      "sha256": "c093379eb004b78e4b7570275c8881d7d798d2be185bab9199cc5f5c3029f3bf",
+      "bytes": 1560
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-523.md",
+      "title": "CAST-523",
+      "group": "Consolidamento354",
+      "url": "43de9dc619314e82.html",
+      "raw": "fonti/43de9dc619314e82.md",
+      "sha256": "16a5e9719a9308641c7db5ea96047d7e94568c9be156fc067b67a6683a6a388e",
+      "bytes": 2637
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-524.md",
+      "title": "CAST-524",
+      "group": "Consolidamento354",
+      "url": "22bf11cd25fcb38a.html",
+      "raw": "fonti/22bf11cd25fcb38a.md",
+      "sha256": "24a0109234f0af6f28c57aadac7987a373b44924c219609c62c6abd0d595bd0a",
+      "bytes": 2440
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-560.md",
+      "title": "CAST-560",
+      "group": "Consolidamento354",
+      "url": "24cd2faca54405a4.html",
+      "raw": "fonti/24cd2faca54405a4.md",
+      "sha256": "ad6586782c61737f8aaae0c457c2feee7fb3b93020e0dc3b3d2723f229d6502d",
+      "bytes": 2316
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-560.md",
+      "title": "CAST-560",
+      "group": "Consolidamento354",
+      "url": "c2d712881b58989d.html",
+      "raw": "fonti/c2d712881b58989d.md",
+      "sha256": "ad6586782c61737f8aaae0c457c2feee7fb3b93020e0dc3b3d2723f229d6502d",
+      "bytes": 2316
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-551.md",
+      "title": "CAST-551",
+      "group": "Consolidamento354",
+      "url": "61a55110ee1df4a5.html",
+      "raw": "fonti/61a55110ee1df4a5.md",
+      "sha256": "9e3424d2b5c231704e422beec69cb0a3f440e35b60054ab11f61578604a4c590",
+      "bytes": 2229
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-543.md",
+      "title": "CAST-543",
+      "group": "Consolidamento354",
+      "url": "a555dae884ac3def.html",
+      "raw": "fonti/a555dae884ac3def.md",
+      "sha256": "6d08f342bad93148bba4fa5180060a356498545336733e51785e2e62911cde08",
+      "bytes": 2253
+    },
+    {
+      "source": "CANONE_VIGENTE/Piano_politico_354.json",
+      "title": "Piano politico 354",
+      "group": "Consolidamento354",
+      "url": "adbf1abd7f46e233.html",
+      "raw": "fonti/adbf1abd7f46e233.json",
+      "sha256": "fbefb86cb221fca013162685689fc97773ca763d35ddd7f5f574fa365db49f50",
+      "bytes": 1561
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-534.md",
+      "title": "CAST-534",
+      "group": "Consolidamento354",
+      "url": "80364c8f2e72413d.html",
+      "raw": "fonti/80364c8f2e72413d.md",
+      "sha256": "c9224fdf6fb2fa1b9ea77d57024787da3fe4090a74d64eb0aeb187964dd1a551",
+      "bytes": 2212
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-543.md",
+      "title": "CAST-543",
+      "group": "Consolidamento354",
+      "url": "894a982d0181cc11.html",
+      "raw": "fonti/894a982d0181cc11.md",
+      "sha256": "6d08f342bad93148bba4fa5180060a356498545336733e51785e2e62911cde08",
+      "bytes": 2253
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-525.md",
+      "title": "CAST-525",
+      "group": "Consolidamento354",
+      "url": "a9d04289159a5af2.html",
+      "raw": "fonti/a9d04289159a5af2.md",
+      "sha256": "77e11b56049331773f51a74f25c3588579d4c8506e9155dc47e94fb80f8f4d95",
+      "bytes": 2372
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/350_Coda_di_lavoro_case_comitali_e_istituzioni.md",
+      "title": "350 Coda di lavoro case comitali e istituzioni",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "4d21cc194a10d5f9.html",
+      "raw": "fonti/4d21cc194a10d5f9.md",
+      "sha256": "eb760183298d2cb906882fb02f23fb49367b3581a3aa0070021c2a8784ea1fed",
+      "bytes": 1451
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/GIOCATORE_128_Valcienne_patrimonio_e_rete_conosciuta.md",
+      "title": "GIOCATORE 128 Valcienne patrimonio e rete conosciuta",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "10aa8b761436707e.html",
+      "raw": "fonti/10aa8b761436707e.md",
+      "sha256": "b38751ffb217779584d3b5b78889b56002e4789fc47b3a2b84b22ca7a3a792d3",
+      "bytes": 4140
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-535.md",
+      "title": "CAST-535",
+      "group": "Consolidamento354",
+      "url": "c8283e3ca50e5780.html",
+      "raw": "fonti/c8283e3ca50e5780.md",
+      "sha256": "960b05963dc9da7406ca70e82fcbd3892534e2968cfd55e26f35ece401c48b10",
+      "bytes": 2248
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-537.md",
+      "title": "CAST-537",
+      "group": "Consolidamento354",
+      "url": "01b0cbb4b4daa76e.html",
+      "raw": "fonti/01b0cbb4b4daa76e.md",
+      "sha256": "101fae7e34b8a5ad235aa79da1bb05197100f21a730d0595d1a06f4d14e4e24b",
+      "bytes": 2293
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-540.md",
+      "title": "CAST-540",
+      "group": "Consolidamento354",
+      "url": "fb63e8b52e597c6f.html",
+      "raw": "fonti/fb63e8b52e597c6f.md",
+      "sha256": "014bce6b83b5224c4fb1af63f165417f91cc7d87142000360b4933e9c415c99e",
+      "bytes": 2159
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-554.md",
+      "title": "CAST-554",
+      "group": "Consolidamento354",
+      "url": "e753d1bae53dd336.html",
+      "raw": "fonti/e753d1bae53dd336.md",
+      "sha256": "f18140c6f14acb3e62e9ba5f53b7ead9e820ea5b5801c05fbb8f67d10b220335",
+      "bytes": 2238
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-536.md",
+      "title": "CAST-536",
+      "group": "Consolidamento354",
+      "url": "87dd806a5a37ef6c.html",
+      "raw": "fonti/87dd806a5a37ef6c.md",
+      "sha256": "5c4a7d43f6ff2529693535cb8a7cdfe6ee79d1e963090ac2cd2798a131af5280",
+      "bytes": 2186
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-547.md",
+      "title": "CAST-547",
+      "group": "Consolidamento354",
+      "url": "4dbd5d26836965a5.html",
+      "raw": "fonti/4dbd5d26836965a5.md",
+      "sha256": "9d1f3963fb5e076fa5670aca4f4cf6277d258cf29337404bffbcc0f8f5a7773e",
+      "bytes": 2299
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-549.md",
+      "title": "CAST-549",
+      "group": "Consolidamento354",
+      "url": "1a78ae1baec43086.html",
+      "raw": "fonti/1a78ae1baec43086.md",
+      "sha256": "06a3a8753e22674afa68a8bc3fb6f9cc036222a0c9a15013f8f283ca4c3cc37d",
+      "bytes": 2347
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-536.md",
+      "title": "CAST-536",
+      "group": "Consolidamento354",
+      "url": "657f3e0cdb936dc1.html",
+      "raw": "fonti/657f3e0cdb936dc1.md",
+      "sha256": "5c4a7d43f6ff2529693535cb8a7cdfe6ee79d1e963090ac2cd2798a131af5280",
+      "bytes": 2186
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-562.md",
+      "title": "CAST-562",
+      "group": "Consolidamento354",
+      "url": "1de1f638cd3ff9fc.html",
+      "raw": "fonti/1de1f638cd3ff9fc.md",
+      "sha256": "af4b77ca3f6c035c1299eed7239c10bb753aeff7c8e909447bbebff2707164a7",
+      "bytes": 2221
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/01_Consolidamento_documentale/DATI/Registro_decisioni.json",
+      "title": "Registro decisioni",
+      "group": "Consolidamento354",
+      "url": "e6df926f90875e2e.html",
+      "raw": "fonti/e6df926f90875e2e.json",
+      "sha256": "e286ff22776b009f418cac19c729a1f8260aea87f04ea6276dfe7395a6672a4e",
+      "bytes": 86735
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/09_Societa_istituzioni_e_fazioni/GIOCATORE/GIOCATORE_355_Case_comitali_di_Rovenne.md",
+      "title": "GIOCATORE 355 Case comitali di Rovenne",
+      "group": "Consolidamento354",
+      "url": "d5f1500748e780f6.html",
+      "raw": "fonti/d5f1500748e780f6.md",
+      "sha256": "28d21750ad16adc557852f3d407808b29e1453345810e63ee334bc2e699b0942",
+      "bytes": 5929
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-548.md",
+      "title": "CAST-548",
+      "group": "Consolidamento354",
+      "url": "fc11a070744ed8b3.html",
+      "raw": "fonti/fc11a070744ed8b3.md",
+      "sha256": "f4ad7d93071de669fb9969eb56e5a0f07ee1e5f6a9c264db0ec41472e3139733",
+      "bytes": 2256
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/CAST_RISERVATO/CAST-500.md",
+      "title": "CAST-500",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "2ed8bf43c658df53.html",
+      "raw": "fonti/2ed8bf43c658df53.md",
+      "sha256": "83ee5b1edb63bfc03e498542575c1e47349e7ae8d81f3e6ff53a6c5b7b7e67b6",
+      "bytes": 1720
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-559.md",
+      "title": "CAST-559",
+      "group": "Consolidamento354",
+      "url": "d33aeb562b2a6f5d.html",
+      "raw": "fonti/d33aeb562b2a6f5d.md",
+      "sha256": "d177a73cf3c154e90e5d64fd284f23af64c5f1dcbaa532f151c7636703f8a223",
+      "bytes": 2328
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-545.md",
+      "title": "CAST-545",
+      "group": "Consolidamento354",
+      "url": "6d2f5dc1dda9171d.html",
+      "raw": "fonti/6d2f5dc1dda9171d.md",
+      "sha256": "dd7dab1b8a1717f2f647e61b12534c4522a743f916641d2cc5be041ec8941e5c",
+      "bytes": 2252
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-535.md",
+      "title": "CAST-535",
+      "group": "Consolidamento354",
+      "url": "c7070d4455961b47.html",
+      "raw": "fonti/c7070d4455961b47.md",
+      "sha256": "960b05963dc9da7406ca70e82fcbd3892534e2968cfd55e26f35ece401c48b10",
+      "bytes": 2248
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/CAST_RISERVATO/CAST-499.md",
+      "title": "CAST-499",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "7fb43430e8826afe.html",
+      "raw": "fonti/7fb43430e8826afe.md",
+      "sha256": "ad542fa4bb68d41cef38c4fc859e42c50263aad2ce2a6131fc3d31e5a393aff5",
+      "bytes": 1711
+    },
+    {
+      "source": "CANONE_VIGENTE/Dinastie_regnanti_354.json",
+      "title": "Dinastie regnanti 354",
+      "group": "Consolidamento354",
+      "url": "a46a12d24efc5f6a.html",
+      "raw": "fonti/a46a12d24efc5f6a.json",
+      "sha256": "8f7ac507c6f602d4cc063ec7fd1dac315611a14cd1dd94312d7a8da751cf3efd",
+      "bytes": 7704
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-552.md",
+      "title": "CAST-552",
+      "group": "Consolidamento354",
+      "url": "01141be253a54211.html",
+      "raw": "fonti/01141be253a54211.md",
+      "sha256": "6ecaa0115084575f850882ee3cca6fcc0a1229d50a9659ec2fd892d41f93788d",
+      "bytes": 2177
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-532.md",
+      "title": "CAST-532",
+      "group": "Consolidamento354",
+      "url": "07347d7f425b24d9.html",
+      "raw": "fonti/07347d7f425b24d9.md",
+      "sha256": "dd0f9c57914d1407c0a1b7c8f44f7bd60c786ffbed8c75aebb49f2129434d568",
+      "bytes": 2474
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/02_Fondamenti_e_architettura_cosmica/DATI/Architettura_cosmica.json",
+      "title": "Architettura cosmica",
+      "group": "Consolidamento354",
+      "url": "d818178b863366dd.html",
+      "raw": "fonti/d818178b863366dd.json",
+      "sha256": "521cce4fed1e7cba3b1088878638c7ada522f70672d43d6aa6650cbd924f447d",
+      "bytes": 25606
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/09_Societa_istituzioni_e_fazioni/GIOCATORE/GIOCATORE_122_Governi_diritto_e_cittadinanza.md",
+      "title": "GIOCATORE 122 Governi diritto e cittadinanza",
+      "group": "Consolidamento354",
+      "url": "08e675d46ebc237d.html",
+      "raw": "fonti/08e675d46ebc237d.md",
+      "sha256": "904dc7a38623c3deea74706f805325c414ca90db6e7e87e170997f36be0bb942",
+      "bytes": 4770
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/GIOCATORE_69_Roots_e_risorse_cosmiche.md",
+      "title": "GIOCATORE 69 Roots e risorse cosmiche",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "e4badb2c6a9c116c.html",
+      "raw": "fonti/e4badb2c6a9c116c.md",
+      "sha256": "ab3784ab1cde4ddaff9c195d433d1b9a46ea38a7628cd3978707152578a51345",
+      "bytes": 33428
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/CANONE_VIGENTE/Cast_riservato.json",
+      "title": "Cast riservato",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "3ffb517ad5895e5d.html",
+      "raw": "fonti/3ffb517ad5895e5d.json",
+      "sha256": "30991ca00b0857f010c3bc30eb17d0687bd53ea605f0555131053256fde45881",
+      "bytes": 3001011
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-555.md",
+      "title": "CAST-555",
+      "group": "Consolidamento354",
+      "url": "8f89c20c71459ae7.html",
+      "raw": "fonti/8f89c20c71459ae7.md",
+      "sha256": "1447db1e628f668e7d7a85aa7153609dd78117dc787a630e635559074fcb6f72",
+      "bytes": 2302
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/05_Atlante_cosmologico/GIOCATORE/GIOCATORE_354_Integrazioni_cosmiche_struttura_e_Root.md",
+      "title": "GIOCATORE 354 Integrazioni cosmiche struttura e Root",
+      "group": "Consolidamento354",
+      "url": "e2fd5f649d7b9fea.html",
+      "raw": "fonti/e2fd5f649d7b9fea.md",
+      "sha256": "7ff4600fc262e182dd7828fd96b179bceec6e166174ebfd126231a7ccad342ac",
+      "bytes": 19751
+    },
+    {
+      "source": "CANONE_VIGENTE/Audit_consolidamento_354.json",
+      "title": "Audit consolidamento 354",
+      "group": "Approfondimenti 354",
+      "url": "e126b6f09897a23b.html",
+      "raw": "fonti/e126b6f09897a23b.json",
+      "sha256": "1e7e903a2c61de2de4de64945ca71404fc35c0d165a5c4cc2ff3788581844cae",
+      "bytes": 977
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Dorel/dorel/CAST-566_Kasper_Eyrdal/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "e8972a3589b8d204.html",
+      "raw": "fonti/e8972a3589b8d204.json",
+      "sha256": "5c688d29d6b4569cbac9eca9193f87b2e9913112cb6fd90be6c8f2b575a60d2e",
+      "bytes": 1508
+    },
+    {
+      "source": "AVVIO_NARRATORE/VERIFICA_CONSEGNA_354.json",
+      "title": "VERIFICA CONSEGNA 354",
+      "group": "Consolidamento354",
+      "url": "9f93200d50d2b0b0.html",
+      "raw": "fonti/9f93200d50d2b0b0.json",
+      "sha256": "1e7e903a2c61de2de4de64945ca71404fc35c0d165a5c4cc2ff3788581844cae",
+      "bytes": 977
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/varnek/CAST-561_Alva_Norr/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "1d43be32aabfb2bc.html",
+      "raw": "fonti/1d43be32aabfb2bc.json",
+      "sha256": "251676d9e9fc971f47226ce630c9c6bb3a898ff2f128dac56d5f90db1801031a",
+      "bytes": 1511
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ravaen/CAST-552_Malik_Varnet/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "9805705147fc5e7e.html",
+      "raw": "fonti/9805705147fc5e7e.json",
+      "sha256": "664fc76ff7bc45083bbf27ee068557cbcef8f66956657fcd4cbfc09d4eae6e59",
+      "bytes": 1510
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Teral/teral/CAST-565_Shuren_Renkai/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "0a717d2a79b746e8.html",
+      "raw": "fonti/0a717d2a79b746e8.json",
+      "sha256": "2383bd089a3e81b60ba6ac967f5a94c50f370ee6323b0116fa04c1a707a7012e",
+      "bytes": 1533
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/selvar/CAST-545_Bastien_Rouvain/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "f3f3348abb3b7258.html",
+      "raw": "fonti/f3f3348abb3b7258.txt",
+      "sha256": "789bfadd95f668c4c6b6288c0c57bf9895ddd100d6fad8e95d46fe8406d54366",
+      "bytes": 985
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/norven/CAST-540_Edda_Halvren/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "c73844b1d54c6242.html",
+      "raw": "fonti/c73844b1d54c6242.txt",
+      "sha256": "c4604f1efc0cf939ed14d3be7d1bf72e9d4b3d13dcb10f5b51373ffdd527eed6",
+      "bytes": 978
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/uren/CAST-548_Leonie_Merault/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "e736538ea209f9f1.html",
+      "raw": "fonti/e736538ea209f9f1.txt",
+      "sha256": "fd57c5073420f37dfe044f89c4ee1ac52c55b324bf905bd85ed4f9885e5155b3",
+      "bytes": 997
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/dalen/CAST-546_Pavel_Ordell/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "d42eb0d2f7ef085e.html",
+      "raw": "fonti/d42eb0d2f7ef085e.json",
+      "sha256": "33dccc5976b55a842eedd25823baecf0b46ba6a7c0d4b56a0ea47ad86b6fd57e",
+      "bytes": 1512
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/veyford/CAST-538_Corin_Belven/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "b73229c316994873.html",
+      "raw": "fonti/b73229c316994873.json",
+      "sha256": "0dcf91fb6d512f4c0c1b24b16c973a0cbdd094a974d436d271e8457cc898d86f",
+      "bytes": 1520
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Dorel/dorel/CAST-533_Eirik_Eyrdal/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "512575d7e73d624c.html",
+      "raw": "fonti/512575d7e73d624c.json",
+      "sha256": "c6bd714c9ce720357a6e58013902cfd71495b7edd1504ff6f32a3ffda8798a1f",
+      "bytes": 1535
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/namar/CAST-537_Liora_Avelin/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "435a263c17b7a16c.html",
+      "raw": "fonti/435a263c17b7a16c.txt",
+      "sha256": "8839dc34ab9904d1ebeca2fea9091a09229cf9d2e49eea335befc82043b66674",
+      "bytes": 965
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/veyford/CAST-539_Mara_Belven/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "0907718e75dae838.html",
+      "raw": "fonti/0907718e75dae838.txt",
+      "sha256": "1c95341b4816c3253f0112ebb71a6678658a73bd4a41649b5cbe4212b7593074",
+      "bytes": 977
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/norven/CAST-540_Edda_Halvren/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "e5ae80f10b0632d2.html",
+      "raw": "fonti/e5ae80f10b0632d2.json",
+      "sha256": "df3f58bd69ceb8cd28e32624c214300c669b5565bc6c5af7e53d58e7784d8f93",
+      "bytes": 1519
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/veyford/CAST-539_Mara_Belven/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "bb5bfd965cbd73f5.html",
+      "raw": "fonti/bb5bfd965cbd73f5.json",
+      "sha256": "9d3a034b3c6af80625d92f1f8798255ec7d387b96885f3241edf8ccd71965e72",
+      "bytes": 1517
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/norven/CAST-541_Soren_Halvren/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "5de233611e3bf13a.html",
+      "raw": "fonti/5de233611e3bf13a.txt",
+      "sha256": "39018bf7a52551e5f4ac2ad150ff1f8514d4835a55534ddeec96eb95ef89f87f",
+      "bytes": 970
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ravaen/CAST-553_Samira_Varnet/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "5f8c0d98cbbd2e54.html",
+      "raw": "fonti/5f8c0d98cbbd2e54.txt",
+      "sha256": "331b0be11ec383cadd19a22e67b40c47835bb11577fd9aa57093651b65952f93",
+      "bytes": 996
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/selvar/CAST-544_Anais_Rouvain/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "e1d275fa9d576398.html",
+      "raw": "fonti/e1d275fa9d576398.json",
+      "sha256": "fcfa70005c81dfb66e3ea010016850fb9dc8225f328302e7096b8085e591ccdd",
+      "bytes": 1518
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/tesh/CAST-550_Vera_Seld/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "922835955deac20b.html",
+      "raw": "fonti/922835955deac20b.txt",
+      "sha256": "e842c33327bd95f32746e814652091c0dde719c6a60ba49d06f82cab7126f2d0",
+      "bytes": 971
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/helsen/CAST-559_Oskar_Hest/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "481ddf8e0f1eef39.html",
+      "raw": "fonti/481ddf8e0f1eef39.json",
+      "sha256": "29f8361ceae62a56d9eadf070f779a7446fad5881c4dfc8e6720dcafe3d7c817",
+      "bytes": 1529
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/dalen/CAST-547_Elise_Ordell/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "e0cbdbb451e21282.html",
+      "raw": "fonti/e0cbdbb451e21282.json",
+      "sha256": "124f08068c8526749fd67a24848c70b0fa2856fbe78ab9e72c10390da1c6075b",
+      "bytes": 1514
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/CANONE_VIGENTE/Societa_condivisa.json",
+      "title": "Societa condivisa",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "ddc0ceea1bb5d382.html",
+      "raw": "fonti/ddc0ceea1bb5d382.json",
+      "sha256": "7e2c388a881de209b375245a6d9807c2851dac472b1515d36d7e7731cad871f5",
+      "bytes": 38572
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/helsen/CAST-559_Oskar_Hest/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "83dd2f199e757ee0.html",
+      "raw": "fonti/83dd2f199e757ee0.txt",
+      "sha256": "031a24c97edd21f15e55e5f1b8ac3d07c50265ec6b1271db8fb7f6aee4bb78f1",
+      "bytes": 991
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/varnek/CAST-560_Tomas_Norr/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "de0bd4609a179072.html",
+      "raw": "fonti/de0bd4609a179072.json",
+      "sha256": "d00c73a5c54bd1a2ff0a33409862a762c8d1203c254a5eaccc1c4acdcb5513c5",
+      "bytes": 1502
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/uren/CAST-548_Leonie_Merault/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "97e3f0d8b8ada7a8.html",
+      "raw": "fonti/97e3f0d8b8ada7a8.json",
+      "sha256": "fbe00fc9db0d14bab0e15b0d6c8c0c3955282a91f8ed13b02ffcdc4f284bf92d",
+      "bytes": 1540
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/varnek/CAST-561_Alva_Norr/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "1647a06c097367e1.html",
+      "raw": "fonti/1647a06c097367e1.txt",
+      "sha256": "dbf8f12f44504727e5186377f89fca03d8e02767c4963edd920b0e7c7b03cd13",
+      "bytes": 975
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/asren/CAST-556_Haldor_Valdek/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "9f573fdee740cbe4.html",
+      "raw": "fonti/9f573fdee740cbe4.txt",
+      "sha256": "ecbd4968cb0a524a8d0a12b97e97d9ac1addb50122832a42fc60ba26b48952c3",
+      "bytes": 983
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/dalen/CAST-547_Elise_Ordell/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "b45093eaf9bdaa20.html",
+      "raw": "fonti/b45093eaf9bdaa20.txt",
+      "sha256": "cb7e1cc4bffa73e062e0754a5ab8294e57dc3b4ee7c6c31aae43f2833c2485f0",
+      "bytes": 974
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/helsen/CAST-558_Runa_Hest/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "da2acdb742a1f3f5.html",
+      "raw": "fonti/da2acdb742a1f3f5.json",
+      "sha256": "8472dababa73399e66ee3a178e5af90bc3684345c418350c1c1987fab56f253c",
+      "bytes": 1506
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/CANONE_VIGENTE/Ritratti_politici_354.json",
+      "title": "Ritratti politici 354",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "77e8d8434f2c38e0.html",
+      "raw": "fonti/77e8d8434f2c38e0.json",
+      "sha256": "53880f8e82669871784c93a5245f16de077a0b044cb2e13e76a718ad48035732",
+      "bytes": 32149
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/istituzioni/CAST-568_Lucie_Dervaux/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "ea179f1e6c41782d.html",
+      "raw": "fonti/ea179f1e6c41782d.txt",
+      "sha256": "b374b1b41be82528e0d4c21b2813d456a16965a896c905ad240b276b93037357",
+      "bytes": 950
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ivel/CAST-555_Celia_Lethren/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "b1735d9ccdfa119e.html",
+      "raw": "fonti/b1735d9ccdfa119e.json",
+      "sha256": "2d710867f55eb01c752edc5276f21cca5f963e6cd4eb38a947e52b507e03ad8e",
+      "bytes": 1533
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Marethis/marethis/CAST-564_Isolde_Seravel/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "ce45da0652d4a6ac.html",
+      "raw": "fonti/ce45da0652d4a6ac.txt",
+      "sha256": "606e8c5a256a58236ec56d4366ac38ecf392c54ca57bed904593ca7d314bb670",
+      "bytes": 976
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/namar/CAST-537_Liora_Avelin/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "debcf3857c985798.html",
+      "raw": "fonti/debcf3857c985798.json",
+      "sha256": "12b00c3ad58778f68aa9259e17de708505ac887adbecb791628e0878a8c8088c",
+      "bytes": 1505
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/dalen/CAST-546_Pavel_Ordell/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "05df528ed3b780e5.html",
+      "raw": "fonti/05df528ed3b780e5.txt",
+      "sha256": "b18bddd7b244b5aa565cdff30ef302e9a5ee3848ff283daaa821dd2430c83490",
+      "bytes": 972
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ravaen/CAST-553_Samira_Varnet/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "150f803a3e047949.html",
+      "raw": "fonti/150f803a3e047949.json",
+      "sha256": "e09a808e81ca1d93c94c853882b84da40899f2a41af887fc23a3be433a7b3240",
+      "bytes": 1539
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/CANONE_VIGENTE/Ducato_Rovenne_347.json",
+      "title": "Ducato Rovenne 347",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "d05054a40734d8d5.html",
+      "raw": "fonti/d05054a40734d8d5.json",
+      "sha256": "985e53b1aee4844036ed37c1402344bf0a26f3c3a850719c81bfb93e76d2bc4f",
+      "bytes": 11676
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/helsen/CAST-558_Runa_Hest/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "c6cae29cd3e6b4b1.html",
+      "raw": "fonti/c6cae29cd3e6b4b1.txt",
+      "sha256": "6b7eae67d9f7ed090b119576e12b085fea4f5d40403819e1ca69e96fb7b8fa35",
+      "bytes": 970
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/orsanne/CAST-562_Mireille_Orvel/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "3d7d93ff24108117.html",
+      "raw": "fonti/3d7d93ff24108117.txt",
+      "sha256": "9a82f9568b2b116417595a635d5bb74ff2e2d321067134bad8742a116ec4a6ca",
+      "bytes": 1004
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/09_Societa_istituzioni_e_fazioni/DUCATO_ROVENNE_347/Ducato_Rovenne_347.json",
+      "title": "Ducato Rovenne 347",
+      "group": "Consolidamento354",
+      "url": "d4999feed6935a39.html",
+      "raw": "fonti/d4999feed6935a39.json",
+      "sha256": "dcbdfa3ef613229f12f13542c6c90dd78d2c121dc44e7e4e4bfad962b34f146d",
+      "bytes": 11867
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/354_Fonti_correnti_e_consegna.md",
+      "title": "354 Fonti correnti e consegna",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "2b7f8e13f336ab8d.html",
+      "raw": "fonti/2b7f8e13f336ab8d.md",
+      "sha256": "43972ac75c5a88fda5d632b2e5a45407d3b1fcced65eaa86343a082246ff5eef",
+      "bytes": 1807
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/varnek/CAST-560_Tomas_Norr/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "716787e987efb287.html",
+      "raw": "fonti/716787e987efb287.txt",
+      "sha256": "83299b13848acc3fd04b1c34b5b2089214f1fd2e6218306df43256d8660d0692",
+      "bytes": 964
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Dorel/dorel/CAST-566_Kasper_Eyrdal/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "f381e4bf182166c9.html",
+      "raw": "fonti/f381e4bf182166c9.txt",
+      "sha256": "7a1e6fd8393e1098732bac255800fde96e150de6bf30dfba3f1d6e77bf3d8b12",
+      "bytes": 965
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ivel/CAST-554_Hugo_Lethren/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "f757f64ff919531d.html",
+      "raw": "fonti/f757f64ff919531d.json",
+      "sha256": "cc2ac59549767c07c37eed5123fc0368de96dd5c5b2d9e1adf1b1aece3482082",
+      "bytes": 1509
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/tesh/CAST-550_Vera_Seld/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "6644343a19f82d57.html",
+      "raw": "fonti/6644343a19f82d57.json",
+      "sha256": "8c8656775f99ed70a88ef5e5c2bfa636a84a9798a34b9fcd4ffe19fd72aa60c4",
+      "bytes": 1504
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/uren/CAST-549_Adrien_Merault/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "90f9599589b36a4d.html",
+      "raw": "fonti/90f9599589b36a4d.json",
+      "sha256": "c3b2022258b339a35b52515b255ef5df5ced0a2d706046e0a0aff7fbec41f793",
+      "bytes": 1508
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/tesh/CAST-551_Nils_Seld/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "63326de7814c5279.html",
+      "raw": "fonti/63326de7814c5279.txt",
+      "sha256": "d6b1ba124b04f212b66b731b28d0f0c2ad5101808716bdcfa22d2fbc7c22c170",
+      "bytes": 964
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/354_Stato_del_lavoro_e_verifiche.md",
+      "title": "354 Stato del lavoro e verifiche",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "f95c390d7807ed26.html",
+      "raw": "fonti/f95c390d7807ed26.md",
+      "sha256": "ac05aa682742a3c3edbfee4abdc7972090c15f4025a8fbb8358488abb839076e",
+      "bytes": 810
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ivel/CAST-554_Hugo_Lethren/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "fb86e7396e70d50c.html",
+      "raw": "fonti/fb86e7396e70d50c.txt",
+      "sha256": "1d0dd6a29fdae59fc3fe48fcb37654730fe7d442c324ee5d97d58b7012a1e48c",
+      "bytes": 970
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/asren/CAST-556_Haldor_Valdek/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "683d941fef83ef43.html",
+      "raw": "fonti/683d941fef83ef43.json",
+      "sha256": "835cd605724d16e8012b270f8c0b3e5855c2aef9ba4f6f6e06a2a02c2cecf2a9",
+      "bytes": 1526
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/istituzioni/CAST-569_Noel_Vautrin/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "2bc0c99be05e38fc.html",
+      "raw": "fonti/2bc0c99be05e38fc.txt",
+      "sha256": "b751309c5afeac79e7e99969bbbb153c33196cac14640b5c3a06affd151783fc",
+      "bytes": 971
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Dorel/dorel/CAST-533_Eirik_Eyrdal/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "a1cb800faa8e0e05.html",
+      "raw": "fonti/a1cb800faa8e0e05.txt",
+      "sha256": "7220cf9392808ccbb66f5a479ef657597c38c045a78163ed5578342cc8dca81a",
+      "bytes": 994
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/asren/CAST-557_Ingrid_Valdek/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "b8d848ca4e6060d5.html",
+      "raw": "fonti/b8d848ca4e6060d5.txt",
+      "sha256": "d8b8c36c1b3e41f37b10c60db6b7aeb664a1986ac746e0c0de9af2cf69288fb7",
+      "bytes": 971
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/tesh/CAST-551_Nils_Seld/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "ae14472215702c24.html",
+      "raw": "fonti/ae14472215702c24.json",
+      "sha256": "a635b7d61ca747bffd78e5358f21c13ace988c2105ecb1d0d0fc2ba8ebf392c2",
+      "bytes": 1497
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/veyford/CAST-538_Corin_Belven/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "9187614a9bdddf5b.html",
+      "raw": "fonti/9187614a9bdddf5b.txt",
+      "sha256": "8717c7c7d0d6750e6bb29714486eee7aa7b8616aa2c8c75441c5d3de77ee8e60",
+      "bytes": 978
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ossenmark/CAST-542_Idris_Tharen/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "ba283cb4fbd5db8d.html",
+      "raw": "fonti/ba283cb4fbd5db8d.txt",
+      "sha256": "0ebfdedd19447cdae17cc3ed605e01062ee9e2fee78940f8c37beec628d40b17",
+      "bytes": 976
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ossenmark/CAST-543_Amina_Tharen/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "057ec9f4eaca74f6.html",
+      "raw": "fonti/057ec9f4eaca74f6.txt",
+      "sha256": "aeda0cecdf0929d230d8ffa8e12115af6cdd12e7ddb093bb5900f6b150a0e164",
+      "bytes": 979
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/norven/CAST-541_Soren_Halvren/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "59b38d508f0c98eb.html",
+      "raw": "fonti/59b38d508f0c98eb.json",
+      "sha256": "da2b36227e58e123c3f84428b9af6c0784528ec1d63424de0fba431bd8affeae",
+      "bytes": 1513
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/asren/CAST-557_Ingrid_Valdek/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "18dd1000e73f1ccb.html",
+      "raw": "fonti/18dd1000e73f1ccb.json",
+      "sha256": "2b84187fb7e7215e91e8ef261c751af498e5bee4dd5346b4e6da412944b18e76",
+      "bytes": 1514
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Aldren/aldren/CAST-563_Darian_Vaudren/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "fc37b39721a6edda.html",
+      "raw": "fonti/fc37b39721a6edda.txt",
+      "sha256": "05c9acade1328040472f0057f4807d6443f68a5660f9dcc9d2f9feaf708029f5",
+      "bytes": 982
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Teral/teral/CAST-565_Shuren_Renkai/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "0b5c464258930521.html",
+      "raw": "fonti/0b5c464258930521.txt",
+      "sha256": "b747b08656a68fee166d69ac8468f7200d3d7d7e7e4e33553bccc5a7f645a042",
+      "bytes": 990
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/selvar/CAST-544_Anais_Rouvain/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "8d4c0beae8f58672.html",
+      "raw": "fonti/8d4c0beae8f58672.txt",
+      "sha256": "d7726e9e341113d805b53809c6dc95c87fe1d88d8391c47b9b68370580f95dc3",
+      "bytes": 975
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Dorel/dorel/CAST-532_Astrid_Eyrdal/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "863f22fba64e896f.html",
+      "raw": "fonti/863f22fba64e896f.json",
+      "sha256": "107eef83c22db8bd3ae79e82530d2a5bc8bdefc4c5bdbd59414ea301ef423af9",
+      "bytes": 1562
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ivel/CAST-555_Celia_Lethren/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "177c245e190b2cc5.html",
+      "raw": "fonti/177c245e190b2cc5.txt",
+      "sha256": "2a2b5b8a8737c0bf004643cba52761e65ddf52ceb8bb6f8fd18ef6856b052eff",
+      "bytes": 992
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/uren/CAST-549_Adrien_Merault/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "6fbb736a4d87ec07.html",
+      "raw": "fonti/6fbb736a4d87ec07.txt",
+      "sha256": "7e7a2d81e663ba27ceb8f3b1e2f71d1e79d9c95668f14a7395afcf093f8b988c",
+      "bytes": 965
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ravaen/CAST-552_Malik_Varnet/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "647c875c8001391e.html",
+      "raw": "fonti/647c875c8001391e.txt",
+      "sha256": "3900a6c0a16b8b4a253d47d50d7f331d5bb082fd8d0851facfdfdd0e7b1af315",
+      "bytes": 969
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Dorel/dorel/CAST-532_Astrid_Eyrdal/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "4320a15b00f38bc3.html",
+      "raw": "fonti/4320a15b00f38bc3.txt",
+      "sha256": "52be979b0074ce5800255f587824df3e592dd85efaa2e95b9cb83becd6ebc379",
+      "bytes": 1019
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/09_Societa_istituzioni_e_fazioni/DATI/Societa_condivisa.json",
+      "title": "Societa condivisa",
+      "group": "Consolidamento354",
+      "url": "987219488bc41dd2.html",
+      "raw": "fonti/987219488bc41dd2.json",
+      "sha256": "992d26bad031457dac280a16fd14da656ada3792a6d7b05d6cd34317e0cdb7d6",
+      "bytes": 46557
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Aldren/aldren/CAST-526_Maelle_II_Vaudren/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "af646650168008dd.html",
+      "raw": "fonti/af646650168008dd.json",
+      "sha256": "ad1e3f5c4cd79755e2938eda9295649cf137fe515dfdee8ac160976adb14036b",
+      "bytes": 1563
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/istituzioni/CAST-568_Lucie_Dervaux/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "5a758b93f60152e1.html",
+      "raw": "fonti/5a758b93f60152e1.json",
+      "sha256": "97ec0e3121b914c559562af58e075d060f6ab6700dc0510cc8579c31146113fd",
+      "bytes": 1501
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/orsanne/CAST-525_Eliane_Orvel/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "2dbe50cb6977c5ca.html",
+      "raw": "fonti/2dbe50cb6977c5ca.json",
+      "sha256": "1fd601019fffb4614a399e0bc056bbe3f20cde08e5b64e2a01110cbf27d1b116",
+      "bytes": 1533
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Rochebrune/CAST-521_Mathis_Rochebrune/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "2b37677c1d6970b9.html",
+      "raw": "fonti/2b37677c1d6970b9.json",
+      "sha256": "af28d2b121512630bfc507e25d17198f219593259d2b14d6fcd6d544b2a10704",
+      "bytes": 1608
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Aldren/aldren/CAST-563_Darian_Vaudren/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "e4fc27b84270af83.html",
+      "raw": "fonti/e4fc27b84270af83.json",
+      "sha256": "8df159b96dec4cd65a59ca3ca2411a68f60a7346f27e202c90570ece8919e817",
+      "bytes": 1529
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Rochebrune/CAST-520_Irene_Rochebrune/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "f673b34670039a1f.html",
+      "raw": "fonti/f673b34670039a1f.txt",
+      "sha256": "91195e6d467393c8891aca65190d107c60d039612aa05c6ff10e23b1cdb1fa2d",
+      "bytes": 1051
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Vernier/CAST-498_Vincent_Vernier/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "ba4cc4d389740f00.html",
+      "raw": "fonti/ba4cc4d389740f00.json",
+      "sha256": "8b0549e987004c95bac2b955f04f89f6fcb7c1f9e382f85150f4fb2d2e20d702",
+      "bytes": 1841
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/istituzioni/CAST-567_Etienne_Marvaux/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "a10251f744f5876f.html",
+      "raw": "fonti/a10251f744f5876f.json",
+      "sha256": "51d55de360120344dffbf163f46d07c0b1923242f47440a8cff0543fa49d4b3d",
+      "bytes": 1532
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Aubrecourt/CAST-500_Clara_Aubrecourt/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "81bbf68869f9e2f4.html",
+      "raw": "fonti/81bbf68869f9e2f4.json",
+      "sha256": "c65599be2cdc82ccdf94e42ef5e2dba267f7a119fcbc3069e0a41f299931c9db",
+      "bytes": 1811
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Aubrecourt/CAST-522_Julien_Aubrecourt/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "eecb93de7f266023.html",
+      "raw": "fonti/eecb93de7f266023.json",
+      "sha256": "da1160b9102875193bd8fee77353332b37e66cc5e70d4a80c7f2d881e4e3a690",
+      "bytes": 1629
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Vernier/CAST-519_Helene_Vernier/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "ce20f5a70a4109b6.html",
+      "raw": "fonti/ce20f5a70a4109b6.txt",
+      "sha256": "dc42d694a4d59b0559591a0e063c1711baabc81a8841a84d2d1a7dc2b5d35265",
+      "bytes": 1034
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Marethis/marethis/CAST-528_Oren_IV_Seravel/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "c9e6f1f7850733c7.html",
+      "raw": "fonti/c9e6f1f7850733c7.json",
+      "sha256": "45b5eeaab3ddfef7567f4a0868b7af2338e65f201f77bd74046f6787e209cc06",
+      "bytes": 1549
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Marethis/marethis/CAST-529_Nerea_Seravel/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "c65eb684f8befbdc.html",
+      "raw": "fonti/c65eb684f8befbdc.json",
+      "sha256": "65100c52fae012b1b87953e2a25c81ba58f2fdfb84ff79e15a6bebf859bbd26e",
+      "bytes": 1549
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/selvar/CAST-545_Bastien_Rouvain/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "d6f410e590154dd7.html",
+      "raw": "fonti/d6f410e590154dd7.json",
+      "sha256": "5e1e291f04f2bc3997bc5634e4d061730b381c7dc3d333786ae6d4b502aa047e",
+      "bytes": 1532
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/orsanne/CAST-562_Mireille_Orvel/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "17b61636cb41a8c8.html",
+      "raw": "fonti/17b61636cb41a8c8.json",
+      "sha256": "0f9e90856c4afbff5db87b5209d9f5da4a54b23cec6993fd23b9a640f104d9c3",
+      "bytes": 1553
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Aubrecourt/CAST-523_Marianne_Aubrecourt/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "83148bba018d7b5e.html",
+      "raw": "fonti/83148bba018d7b5e.json",
+      "sha256": "d8c2fa205e276ce8ee1254ffd44ed807c0dba5099f410d26e2a436f37af3e958",
+      "bytes": 1617
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ossenmark/CAST-543_Amina_Tharen/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "06e249f45df3f86d.html",
+      "raw": "fonti/06e249f45df3f86d.json",
+      "sha256": "ac3b04f5c08deeb21533efd0eb9701fc2d9c08f272b7a2d502b3518d4ece3a0d",
+      "bytes": 1523
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Vernier/CAST-498_Vincent_Vernier/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "5c5bb800b322c916.html",
+      "raw": "fonti/5c5bb800b322c916.txt",
+      "sha256": "360d31faa402074db3468f8d9b2adbf74c8edf0357514f81d09b22eac18355d7",
+      "bytes": 1282
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Aldren/aldren/CAST-527_Tavian_Vaudren/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "bba38f63e7bc3fb3.html",
+      "raw": "fonti/bba38f63e7bc3fb3.json",
+      "sha256": "349307347876ba3a5b3b4ce45c3ed532059711941b27ef367d8dcc3badc59d7b",
+      "bytes": 1525
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/istituzioni/CAST-567_Etienne_Marvaux/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "8ef193df7b2d0baa.html",
+      "raw": "fonti/8ef193df7b2d0baa.txt",
+      "sha256": "e0d2553a82584650e2f18a8da7e16c37ef451355cc4c72eb773ce0628389dc25",
+      "bytes": 977
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Aubrecourt/CAST-523_Marianne_Aubrecourt/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "deaafa5cc8d314b5.html",
+      "raw": "fonti/deaafa5cc8d314b5.txt",
+      "sha256": "1456ec7119522cae336c9f63b7a18075f8860153a6b6c865a509c237630c6ea2",
+      "bytes": 1047
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Aubrecourt/CAST-522_Julien_Aubrecourt/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "39d9721628708d34.html",
+      "raw": "fonti/39d9721628708d34.txt",
+      "sha256": "75c95239d83b1ab5c2e9f9ca169c4c958d2fb6288bea9ec5471ec455beec3f1e",
+      "bytes": 1063
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/354_Ritratti_politici_prompt_e_originali.json",
+      "title": "354 Ritratti politici prompt e originali",
+      "group": "Consolidamento354",
+      "url": "b6a55bf19e22e259.html",
+      "raw": "fonti/b6a55bf19e22e259.json",
+      "sha256": "3762d2c414fd8ad1b1067049ff24293879695e31e22e0bd3de68eff11e6ec172",
+      "bytes": 86772
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Aubrecourt/CAST-500_Clara_Aubrecourt/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "baae79f7a00edd3c.html",
+      "raw": "fonti/baae79f7a00edd3c.txt",
+      "sha256": "166c2537ed56ada81257edfb7388d977a9a3563d73bb37e9608f7dfb1dcde9b0",
+      "bytes": 1247
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Rochebrune/CAST-499_Madeleine_Rochebrune/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "f9db60935ac41f31.html",
+      "raw": "fonti/f9db60935ac41f31.json",
+      "sha256": "ab9264d603f76ccd47a6886bb9a18bdf0bb0ed14a9e3ebe1a57b019ee8240d45",
+      "bytes": 1819
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Rochebrune/CAST-521_Mathis_Rochebrune/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "c276df5262f0a91f.html",
+      "raw": "fonti/c276df5262f0a91f.txt",
+      "sha256": "86ebfb8c73f0907bf2468201450489a85dfc1f3df4f773912c188699f71ebbd6",
+      "bytes": 1042
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Vernier/CAST-519_Helene_Vernier/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "8e669ea70eaedd6a.html",
+      "raw": "fonti/8e669ea70eaedd6a.json",
+      "sha256": "d73ea53454dfd1185ae8821a45125ec787bd8c808d7b62692207938e192ab69e",
+      "bytes": 1591
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Rochebrune/CAST-520_Irene_Rochebrune/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "8423e909dfbdc9b5.html",
+      "raw": "fonti/8423e909dfbdc9b5.json",
+      "sha256": "416b94403d00c8e6160e8ae7ec6ecd616e98f460b5cc3dc58714f22cc3a89385",
+      "bytes": 1615
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Rochebrune/CAST-499_Madeleine_Rochebrune/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Consolidamento354",
+      "url": "3e7fc378064ea086.html",
+      "raw": "fonti/3e7fc378064ea086.txt",
+      "sha256": "419c32c700c33038545822e61d1bb2c9db87ea13683a237c2fc3b62e689449ee",
+      "bytes": 1247
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Marethis/marethis/CAST-564_Isolde_Seravel/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "ad4dd620cc133725.html",
+      "raw": "fonti/ad4dd620cc133725.json",
+      "sha256": "91717f8eab94574da536445fe73e12267dea90fed148e046024b7aee6aeecc96",
+      "bytes": 1527
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/istituzioni/CAST-569_Noel_Vautrin/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "2dcbfd4d6492981e.html",
+      "raw": "fonti/2dcbfd4d6492981e.json",
+      "sha256": "1762c66e286a3372599bb3196a15f6081129faab475b6e74b5d3ab46aab071f0",
+      "bytes": 1520
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/AVVIO_NARRATORE/VERIFICA_CONSEGNA_354.json",
+      "title": "VERIFICA CONSEGNA 354",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "a2b9160b11f1d359.html",
+      "raw": "fonti/a2b9160b11f1d359.json",
+      "sha256": "751bc28111b257541506f047e90ee6def26f650e741d2192fa43a6e288adfb12",
+      "bytes": 813
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/orsanne/CAST-524_Adrien_III_Orvel/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "c80dd76ed203e572.html",
+      "raw": "fonti/c80dd76ed203e572.json",
+      "sha256": "4c8d495f805d794f06debc6ca67b1ab89c69eac150e68bcd58a3a3a153afe52f",
+      "bytes": 1571
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ossenmark/CAST-542_Idris_Tharen/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Consolidamento354",
+      "url": "24a6e07232e13eaf.html",
+      "raw": "fonti/24a6e07232e13eaf.json",
+      "sha256": "c7db5c3372bf6248d138c07ccfef1e5991f87ee7d8356b7b50b302ee62b64109",
+      "bytes": 1520
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_354/CANONE_VIGENTE/Audit_consolidamento_354.json",
+      "title": "Audit consolidamento 354",
+      "group": "Archivio precedente a354 — non prevale",
+      "url": "3956988fce42dec7.html",
+      "raw": "fonti/3956988fce42dec7.json",
+      "sha256": "751bc28111b257541506f047e90ee6def26f650e741d2192fa43a6e288adfb12",
+      "bytes": 813
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",
-  "handoff_revision": 342,
+  "handoff_revision": 350,
   "explanatory_revision": 344,
   "will_revision": 345,
   "current_examples_source": "CANONE_VIGENTE/Esempi_abilita_345.json",
   "ancient_history_revision": "346",
   "territorial_revision": "347",
-  "pre_export_revision": "348"
+  "pre_export_revision": "348",
+  "practical_faq_revision": "349",
+  "operational_revision": "350",
+  "current_topic_register": "350_Fonti_vigenti_per_argomento.md"
 }

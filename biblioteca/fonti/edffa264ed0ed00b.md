@@ -1093,3 +1093,75 @@ Ogni riga seguente può essere esercitata senza un potere degli altri rami. Gli 
 | Ecology | Scambi e dipendenze di comunità viventi | Devia nutrimento in una rete radicale presa o regola il rapporto organismo-habitat. | Comunità già esistente; non serve produrla, allevarla o modificarne i geni. |
 
 Nessun requisito di osservare, ricordare, concepire, preparare o scegliere costituisce da solo una nuova abilità. Una lettura qui contata acquisisce informazioni o rapporti attraverso l’Inscription, oltre i sensi e il ragionamento ordinari. Ogni operazione successiva deve introdurre una modalità prima indisponibile; intensità e portata crescono cumulativamente.
+
+
+<!-- FAQ349 -->
+## Domande pratiche e portata — revisione 349
+
+Revisione pratica 349. Risposte per comprendere l’uso delle capacità già approvate: non sono nuove abilità e non sostituiscono le schede degli stadi. Gli esempi non fissano esiti automatici contro un parigrado. I numeri di propagazione luminosa seguono la natura del mezzo e il dossier 144; non vengono inventati massimi numerici per distanze, bersagli e riserve non fissati dal manuale.
+
+Regole comuni: [349_FAQ_Effigi_indice_e_regole_comuni.md](349_FAQ_Effigi_indice_e_regole_comuni.md). Scheda FAQ separata: [349_FAQ_Seed_uso_pratico.md](349_FAQ_Seed_uso_pratico.md).
+
+### È soltanto un domatore di animali?
+
+No: riproduzione, ereditarietà, sviluppo ed ecologia sono rami autonomi. Coordinare una colonia mediante segnali e risorse non equivale a possedere la volontà di ogni animale o persona.
+
+### Creo organismi dal nulla come Cradle?
+
+Seed governa materiale vivente e germinale, sviluppo e relazioni reali. Nutrimento e sostegno contano: Designed Brood IV sviluppa materiale germinale, non trasforma l’assenza di qualsiasi substrato in Genesis.
+
+### Come attacco con piante o tessuti?
+
+Predatory Development III sviluppa radici o organi offensivi da un inoculo raggiunto, che deve attraversare realmente le difese. Non fa comparire una foresta già penetrata nel cuore di una persona mai presa.
+
+### Posso proteggere direttamente il mio corpo?
+
+Adaptive Cover II sviluppa membrane o protezioni da configurazioni assimilate. Non si adatta gratuitamente a ogni fenomeno sconosciuto; Habitat Membrane IV regola invece gli scambi fra organismo e ambiente.
+
+### Posso cambiare l’aspetto di chiunque?
+
+Selected Trait II e Lineage Craft III riguardano materiale germinale e trasmissione; non riscrivono automaticamente il corpo adulto di ogni discendente. Redifferentiation IV può riassegnare tessuto realmente raggiunto entro compatibilità biologica.
+
+### Le creature generate sono schiave?
+
+Se sono senzienti restano individui distinti. Riproduzione e sviluppo non introducono un ordine mentale universale; dire che un organismo deriva dalla tua linea non decide la sua fedeltà.
+
+### Posso trasmettere un potere ai figli?
+
+Germinal Investment IV predispone una funzione investita con fonte e alimentazione. Non moltiplica Seats, non conferisce ogni Effige del genitore e non rende illimitata la riserva della progenie.
+
+### Posso spezzare un vincolo ereditario?
+
+Hereditary Partition V separa trasmissioni collegate entro la presa, mantenendo un tratto utile distinto da una dipendenza. Bloccare nuovi casi e liberare i singoli già nati sono problemi differenti.
+
+### Mi posso ricostruire da un seme?
+
+Germinal Reconstitution V richiede un supporto germinale investito superstite della stessa persona. Non ogni seme ordinario porta la tua continuità e non si riavvia chi è stato annullato integralmente.
+
+### Ecology serve soltanto a curare un bosco?
+
+Legge e sostiene dipendenze fra organismi, canali e riserve. Può mantenere un habitat, coordinare sostegni o contendere relazioni ostili: non è decorazione naturalistica né comando su tutte le specie del mondo.
+
+### Quanto velocemente cresce ciò che produco?
+
+Lo sviluppo è accelerato dall’esercizio e sostenuto da risorse; non possiede un unico tempo per ogni organismo e rango. Una coltura semplice I non ha automaticamente la complessità e il ritmo di un organismo investito IV.
+
+<!-- END FAQ349 -->
+
+
+<!-- OPER350 -->
+## Riferimenti operativi vigenti — 350
+
+Le capacità sono quelle della matrice approvata. Per prestazioni Ready, attivazione, durata e risorse usare [350_Seed_profili_operativi_I_VII.md](350_Seed_profili_operativi_I_VII.md) e [350_Regole_operative_e_riferimenti_comuni.md](350_Regole_operative_e_riferimenti_comuni.md). I valori specifici del presente manuale restano validi nel proprio ambito; il riferimento non concede modalità remote o automatismi di una soglia futura.
+
+| Stadio | Presa/portata di riferimento | Prestazione concreta |
+|---|---|---|
+| 1 | contatto o 5 m per tessuti, germinazioni e relazioni prossime | Accelera germinazione o tessuto semplice usando nutrimento o sostegno proprio. |
+| 2 | 15 m per organismi o colonie raggiunti | Sviluppa una protezione personale da configurazione conosciuta e organizza una piccola colonia. |
+| 3 | 50 m per inoculi e scambi locali | Un inoculo sviluppa organi offensivi attraversando davvero le difese. |
+| 4 | 300 m per habitat e sviluppo locale; interno di un corpo richiede presa propria | Produce organismi complessi da materiale germinale e un habitat selettivo di scala edilizia/locale. |
+| 5 | 5 km attraverso habitat e linee viventi collegate | Una filiera locale mantiene riserve e può sostenere una ricostituzione personale da supporto germinale superstite. |
+| 6 | 500 km su filiere ecologiche predisposte e sostenute | Dirige una successione ecologica regionale attraverso risorse e organismi reali. |
+| 7 | scala planetaria/biosferica con organismi, trasmissioni e risorse reali | Separa relazioni ostili in un habitat biosferico raggiunto senza sterilizzare indiscriminatamente il vivente. |
+
+<!-- END OPER350 -->

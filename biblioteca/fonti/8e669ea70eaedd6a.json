@@ -1,0 +1,12 @@
+{
+  "id": "CAST-519",
+  "name": "Helene Vernier",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Vernier/CAST-519_Helene_Vernier/01_Ritratto_v1.png",
+  "asset": "assets/ritratto-politico-354-cast-519.webp",
+  "source_sha256": "d5d4c5be9df4ce15bbe95d62b0d2cd315bbc11e8288c23d42a928e090bdf0e82",
+  "generation_mode": "built-in image_gen",
+  "prompt": "Create ONE vertical mature semi-realistic painterly fantasy webnovel character portrait for the AVARENNE wiki. Elegant richly detailed illustration with subtly stylized beautiful expressive face, natural anatomy, cinematic chiaroscuro, textured late nineteenth-century industrial-fantasy aristocratic tailoring. Three-quarter waist-up single subject; atmospheric softly focused interior appropriate to a civilian court, no battle. Preserve the specified age and individual facial identity, do not make everyone a young model. SUBJECT: Helene Vernier. Woman50, medium brown skin, dark curls streaked silver in an elegant low bun, warm brown eyes, oval mature face, deep rust silk high-collared dress, simple pearl pin. ROLE: Coniuge di Vincent, madre di Leon; nata Dorsenne. Subtle tangible background of books, dark wood or a tall window; character dominates. No lettering, labels, watermark, collage, extra people, magic aura, halos, religious symbol or automatic crown on heirs. Refined civilian bearing, not royal regalia or a god.",
+  "wiki_integrated": true,
+  "status": "GENERATED_AND_VISUALLY_REVIEWED",
+  "revision": 354
+}

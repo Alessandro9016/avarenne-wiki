@@ -1,0 +1,447 @@
+{
+  "revision": 351,
+  "section": "Cosmologia",
+  "entries": 48,
+  "covers_in_directory": 48,
+  "covers_in_articles": 48,
+  "new_images": 30,
+  "existing_covers_preserved": 17,
+  "existing_image_reconnected": 1,
+  "canon_text_changed": false,
+  "published": false,
+  "zip_created": false,
+  "entries_audit": [
+    {
+      "url": "int-03-the-continuum.html",
+      "title": "The Continuum",
+      "cover": "assets/int-03-07cb85d6246e.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": false
+    },
+    {
+      "url": "int-04-the-dominion.html",
+      "title": "The Dominion",
+      "cover": "assets/int-04-307128c1d19f.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": false
+    },
+    {
+      "url": "int-07-the-last-hunger.html",
+      "title": "The Last Hunger",
+      "cover": "assets/int-07-9e65fc147ea1.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": false
+    },
+    {
+      "url": "int-06-the-manyfold.html",
+      "title": "The Manyfold",
+      "cover": "assets/int-06-247867ecbcb9.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": false
+    },
+    {
+      "url": "int-08-the-nocturne.html",
+      "title": "The Nocturne",
+      "cover": "assets/int-08-0fd0149880f2.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": false
+    },
+    {
+      "url": "int-01-the-sovereign.html",
+      "title": "The Sovereign",
+      "cover": "assets/int-01-46d21c76846b.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": false
+    },
+    {
+      "url": "int-05-the-witness.html",
+      "title": "The Witness",
+      "cover": "assets/int-05-6ced6ba0b6a4.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": false
+    },
+    {
+      "url": "int-02-the-worldforge.html",
+      "title": "The Worldforge",
+      "cover": "assets/int-02-9c37f24fe7b2.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": false
+    },
+    {
+      "url": "root-07-the-black-mouth.html",
+      "title": "The Black Mouth",
+      "cover": "assets/root-07-2e762a54e184.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": false
+    },
+    {
+      "url": "root-04-the-bonded-throne.html",
+      "title": "The Bonded Throne",
+      "cover": "assets/root-04-01f946284d0e.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": false
+    },
+    {
+      "url": "root-03-the-crossing.html",
+      "title": "The Crossing",
+      "cover": "assets/root-03-a22af7fb4b04.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": false
+    },
+    {
+      "url": "root-06-the-inner-vast.html",
+      "title": "The Inner Vast",
+      "cover": "assets/root-06-a945fa94d6be.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": false
+    },
+    {
+      "url": "root-02-the-living-furnace.html",
+      "title": "The Living Furnace",
+      "cover": "assets/root-02-c99dc2918e2f.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": false
+    },
+    {
+      "url": "root-01-the-origin.html",
+      "title": "The Origin",
+      "cover": "assets/root-01-af25a925f13a.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": false
+    },
+    {
+      "url": "root-05-the-unbroken-record.html",
+      "title": "The Unbroken Record",
+      "cover": "assets/root-05-38dda4f5ab8c.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": false
+    },
+    {
+      "url": "root-08-the-veiled-basin.html",
+      "title": "The Veiled Basin",
+      "cover": "assets/root-08-480d5d97de9a.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": false
+    },
+    {
+      "url": "avarenne.html",
+      "title": "Avarenne",
+      "cover": "assets/Avarenne_mappa_tecnica.svg",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": false
+    },
+    {
+      "url": "reg-06-common-reveries.html",
+      "title": "Common Reveries",
+      "cover": "assets/cosmologia-351-reg-06-common-reveries.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "reg-03-confluence-belts.html",
+      "title": "Confluence Belts",
+      "cover": "assets/cosmologia-351-reg-03-confluence-belts.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "reg-01-il-mondo-corporeo.html",
+      "title": "Il mondo corporeo",
+      "cover": "assets/cosmologia-351-reg-01-il-mondo-corporeo.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "reg-02-near-veil.html",
+      "title": "Near Veil",
+      "cover": "assets/cosmologia-351-reg-02-near-veil.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "reg-05-private-reveries.html",
+      "title": "Private Reveries",
+      "cover": "assets/cosmologia-351-reg-05-private-reveries.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "reg-07-root-interfaces.html",
+      "title": "Root Interfaces",
+      "cover": "assets/cosmologia-351-reg-07-root-interfaces.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "testament-the-first-testament.html",
+      "title": "The First Testament",
+      "cover": "assets/first-testament-illustrazione-337.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": false
+    },
+    {
+      "url": "reg-04-unmoored-reaches.html",
+      "title": "Unmoored Reaches",
+      "cover": "assets/cosmologia-351-reg-04-unmoored-reaches.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "term-anchor-anchor.html",
+      "title": "Anchor",
+      "cover": "assets/cosmologia-351-term-anchor-anchor.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "rank-vii-apotheosis.html",
+      "title": "Apotheosis",
+      "cover": "assets/cosmologia-351-rank-vii-apotheosis.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "term-archon-archon.html",
+      "title": "Archon",
+      "cover": "assets/cosmologia-351-term-archon-archon.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "rank-v-ascendance.html",
+      "title": "Ascendance",
+      "cover": "assets/cosmologia-351-rank-v-ascendance.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "rank-ii-attunement.html",
+      "title": "Attunement",
+      "cover": "assets/cosmologia-351-rank-ii-attunement.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "term-authority-authority.html",
+      "title": "Authority",
+      "cover": "assets/cosmologia-351-term-authority-authority.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "rank-i-awakening.html",
+      "title": "Awakening",
+      "cover": "assets/cosmologia-351-rank-i-awakening.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "term-axial-axial.html",
+      "title": "Axial",
+      "cover": "assets/cosmologia-351-term-axial-axial.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "term-bearer-bearer.html",
+      "title": "Bearer",
+      "cover": "assets/cosmologia-351-term-bearer-bearer.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "term-domain-domain.html",
+      "title": "Domain",
+      "cover": "assets/cosmologia-351-term-domain-domain.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "term-effigy-effigy.html",
+      "title": "Effigy",
+      "cover": "assets/cosmologia-351-term-effigy-effigy.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "rank-iii-embodiment.html",
+      "title": "Embodiment",
+      "cover": "assets/cosmologia-351-rank-iii-embodiment.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "rank-vi-eminence.html",
+      "title": "Eminence",
+      "cover": "assets/cosmologia-351-rank-vi-eminence.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "term-inscription-inscription.html",
+      "title": "Inscription",
+      "cover": "assets/cosmologia-351-term-inscription-inscription.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "term-investment-investment.html",
+      "title": "Investment",
+      "cover": "assets/cosmologia-351-term-investment-investment.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "term-manifestation-manifestation.html",
+      "title": "Manifestation",
+      "cover": "assets/cosmologia-351-term-manifestation-manifestation.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "term-root-root.html",
+      "title": "Root",
+      "cover": "assets/cosmologia-351-term-root-root.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "term-seat-seat.html",
+      "title": "Seat",
+      "cover": "assets/cosmologia-351-term-seat-seat.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "term-technique-technique.html",
+      "title": "Technique",
+      "cover": "assets/cosmologia-351-term-technique-technique.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "term-thread-thread.html",
+      "title": "Thread",
+      "cover": "assets/cosmologia-351-term-thread-thread.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "term-threshold-threshold.html",
+      "title": "Threshold",
+      "cover": "assets/cosmologia-351-term-threshold-threshold.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "rank-iv-transfiguration.html",
+      "title": "Transfiguration",
+      "cover": "assets/cosmologia-351-rank-iv-transfiguration.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    },
+    {
+      "url": "term-weave-weave.html",
+      "title": "Weave",
+      "cover": "assets/cosmologia-351-term-weave-weave.webp",
+      "directory_cover": true,
+      "article_cover": true,
+      "asset_readable": true,
+      "new_illustration": true
+    }
+  ]
+}

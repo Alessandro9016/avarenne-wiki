@@ -1,0 +1,12 @@
+{
+  "id": "CAST-520",
+  "name": "Irene Rochebrune",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/02_Rete_civile_Alexander/CASE_COMITALI/Rochebrune/CAST-520_Irene_Rochebrune/01_Ritratto_v1.png",
+  "asset": "assets/ritratto-politico-354-cast-520.webp",
+  "source_sha256": "7f9d7ed6abe2129195488d1c076c13dc369fc67ec9d2e1100f9e0e5621ccb121",
+  "generation_mode": "built-in image_gen",
+  "prompt": "Create ONE vertical mature semi-realistic painterly fantasy webnovel character portrait for the AVARENNE wiki. Elegant richly detailed illustration with subtly stylized beautiful expressive face, natural anatomy, cinematic chiaroscuro, textured late nineteenth-century industrial-fantasy aristocratic tailoring. Three-quarter waist-up single subject; atmospheric softly focused interior appropriate to a civilian court, no battle. Preserve the specified age and individual facial identity, do not make everyone a young model. SUBJECT: Irene Rochebrune. Woman29, fair freckled skin, dark auburn hair cut to jaw and tucked behind ears, grey-green eyes, sharp thoughtful face, dark blue fitted practical aristocratic jacket, ivory blouse. ROLE: Figlia maggiore ed erede designata di Madeleine. Subtle tangible background of books, dark wood or a tall window; character dominates. No lettering, labels, watermark, collage, extra people, magic aura, halos, religious symbol or automatic crown on heirs. Refined civilian bearing, not royal regalia or a god.",
+  "wiki_integrated": true,
+  "status": "GENERATED_AND_VISUALLY_REVIEWED",
+  "revision": 354
+}

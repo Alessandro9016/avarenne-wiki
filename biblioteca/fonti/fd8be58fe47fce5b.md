@@ -1,0 +1,108 @@
+# Astrolabe — profili operativi I–VII
+
+Questa revisione adotta riferimenti operativi prima mancanti. Le quantità nuove sono scelte progettuali 350, non numeri che fingiamo già presenti nelle fonti precedenti. Descrivono un portatore Ready, una sola Effige stabilizzata, condizioni ordinarie, senza artefatti esterni e senza vantaggi personali ulteriori. Non sono limiti metafisici uguali per tutti.
+
+La prestazione di riferimento si usa per spiegare che cosa sa fare ordinariamente il personaggio prima di una decisione; non si inventa un limite dopo che ha agito. Accesso, portata utile, area, intensità e propagazione sono campi distinti. Un riferimento territoriale non dà presa su tutti i bersagli presenti; un fascio può continuare a propagarsi oltre la distanza alla quale è garantita quella prestazione concentrata. I valori specifici già fissati — Cradle I/IV, Crescent e dossier 144 — sono conservati e prevalgono nel proprio ambito.
+
+Una distanza remota attraverso supporti preparati non è un raggio di acquisizione cieca: occorrono la cella che apre quella modalità e il rapporto reale. Se nessuna cella concede la modalità remota, il riferimento non la crea. Dove è scritto contatto non subentra una gittata numerica. Il riferimento celeste VII non è dominio universale e non significa impatto istantaneo.
+
+Fonte delle funzioni: GIOCATORE_49_Astrolabe_progressione_completa.md. Regole di lettura: 350_Regole_operative_e_riferimenti_comuni.md.
+
+## Accessi distinti dei rami
+
+Space prende volumi e adiacenze; Gravity il campo e la materia; Orientation riferimenti; Passage estremità reali. Il valore locale non rende noto un luogo lontano o accessibile l’interno di un corpo schermato.
+
+## Tempi effettivi
+
+Un esercizio semplice Ready si avvia nello stesso gesto pertinente; un supporto, un modello composto o una configurazione complessa richiedono preparazione reale. Il tempo di propagazione segue il mezzo prodotto o il collegamento della cella; non viene assegnata velocità luminosa per il solo rango.
+
+## I — riferimento operativo
+
+| Campo | Riferimento |
+|---|---|
+| Funzioni nuove | Space: Near Coordinates; Gravity: Weight Shift; Orientation: Spatial Bearing; Passage: Small Transfer |
+| Presa e portata utile | 5 m per piccoli trasferimenti e pesi; lettura geometrica prossima |
+| Prestazione concreta | Modifica il peso di un piccolo oggetto o lo trasferisce fra punti prossimi connessi. |
+| Attivazione | Un esercizio semplice Ready si avvia nello stesso gesto pertinente; un supporto, un modello composto o una configurazione complessa richiedono preparazione reale. Il tempo di propagazione segue il mezzo prodotto o il collegamento della cella; non viene assegnata velocità luminosa per il solo rango. |
+| Durata | Instant, Maintained, Prepared/Autonomous o Independent secondo il prodotto e la cella; applicare i quattro casi del documento comune. |
+| Risorse e simultaneità | Esercizio focalizzato alla prestazione indicata: Demanding; impieghi modesti e mantenimenti realmente in equilibrio: Routine. Le difese Intrinsic già possedute non sono eliminate per finanziare nominalmente il colpo. Simultaneità: ripartire energia e controllo, non replicare riserve. |
+| Difesa personale | Nessuna immunità alle armi ordinarie. Una difesa specifica protegge soltanto quando la configurazione e il suo accesso sono effettivi. |
+| Esiti e limiti | No access non prende il centro irraggiunto; Resisted non cambia la proprietà; Partial cambia soltanto la parte prevalsa; Unstable specifica che cosa cede. Non aggiungere malattie, pazzia o ingredienti indispensabili per compensare una mancanza della scheda. |
+
+## II — riferimento operativo
+
+| Campo | Riferimento |
+|---|---|
+| Funzioni nuove | Space: Local Fold; Gravity: Directed Fall; Orientation: Marked Destination; Passage: Opened Threshold |
+| Presa e portata utile | 20 m per piega o soglia locale predisposta |
+| Prestazione concreta | Apre una soglia piccola fra estremità investite e orienta una caduta locale. |
+| Attivazione | Un esercizio semplice Ready si avvia nello stesso gesto pertinente; un supporto, un modello composto o una configurazione complessa richiedono preparazione reale. Il tempo di propagazione segue il mezzo prodotto o il collegamento della cella; non viene assegnata velocità luminosa per il solo rango. |
+| Durata | Instant, Maintained, Prepared/Autonomous o Independent secondo il prodotto e la cella; applicare i quattro casi del documento comune. |
+| Risorse e simultaneità | Esercizio focalizzato alla prestazione indicata: Demanding; impieghi modesti e mantenimenti realmente in equilibrio: Routine. Le difese Intrinsic già possedute non sono eliminate per finanziare nominalmente il colpo. Simultaneità: ripartire energia e controllo, non replicare riserve. |
+| Difesa personale | Nessuna immunità alle armi ordinarie. Una difesa specifica protegge soltanto quando la configurazione e il suo accesso sono effettivi. |
+| Esiti e limiti | No access non prende il centro irraggiunto; Resisted non cambia la proprietà; Partial cambia soltanto la parte prevalsa; Unstable specifica che cosa cede. Non aggiungere malattie, pazzia o ingredienti indispensabili per compensare una mancanza della scheda. |
+
+## III — riferimento operativo
+
+| Campo | Riferimento |
+|---|---|
+| Funzioni nuove | Space: Held Chamber; Gravity: Gravity Well; Orientation: Route Reading; Passage: Return Mark |
+| Presa e portata utile | 60 m per volume/accesso locale; magazzino non è presa sull’intera città |
+| Prestazione concreta | Custodisce materia in un volume delimitato e mantiene un ritorno distinto. |
+| Attivazione | Un esercizio semplice Ready si avvia nello stesso gesto pertinente; un supporto, un modello composto o una configurazione complessa richiedono preparazione reale. Il tempo di propagazione segue il mezzo prodotto o il collegamento della cella; non viene assegnata velocità luminosa per il solo rango. |
+| Durata | Instant, Maintained, Prepared/Autonomous o Independent secondo il prodotto e la cella; applicare i quattro casi del documento comune. |
+| Risorse e simultaneità | Esercizio focalizzato alla prestazione indicata: Demanding; impieghi modesti e mantenimenti realmente in equilibrio: Routine. Le difese Intrinsic già possedute non sono eliminate per finanziare nominalmente il colpo. Simultaneità: ripartire energia e controllo, non replicare riserve. |
+| Difesa personale | Nessuna immunità alle armi ordinarie. Una difesa specifica protegge soltanto quando la configurazione e il suo accesso sono effettivi. |
+| Esiti e limiti | No access non prende il centro irraggiunto; Resisted non cambia la proprietà; Partial cambia soltanto la parte prevalsa; Unstable specifica che cosa cede. Non aggiungere malattie, pazzia o ingredienti indispensabili per compensare una mancanza della scheda. |
+
+## IV — riferimento operativo
+
+| Campo | Riferimento |
+|---|---|
+| Funzioni nuove | Space: Spatial Refolding; Gravity: Gravitational Articulation; Orientation: Reference Isolation; Passage: Guarded Gate |
+| Presa e portata utile | 300 m per volume e gravità locali; estremità già investite sono accessi distinti |
+| Prestazione concreta | Una geometria edilizia o un campo articolato contende un assalto semidivino realmente raggiunto. |
+| Attivazione | Un esercizio semplice Ready si avvia nello stesso gesto pertinente; un supporto, un modello composto o una configurazione complessa richiedono preparazione reale. Il tempo di propagazione segue il mezzo prodotto o il collegamento della cella; non viene assegnata velocità luminosa per il solo rango. |
+| Durata | Instant, Maintained, Prepared/Autonomous o Independent secondo il prodotto e la cella; applicare i quattro casi del documento comune. |
+| Risorse e simultaneità | Esercizio focalizzato alla prestazione indicata: Demanding; impieghi modesti e mantenimenti realmente in equilibrio: Routine. Le difese Intrinsic già possedute non sono eliminate per finanziare nominalmente il colpo. Simultaneità: ripartire energia e controllo, non replicare riserve. |
+| Difesa personale | Costituzione personale semidivina materiale e spirituale già presente; a V Core angelico, a VII pienezza divina secondo regole comuni. Un pari contende la protezione pertinente. |
+| Esiti e limiti | No access non prende il centro irraggiunto; Resisted non cambia la proprietà; Partial cambia soltanto la parte prevalsa; Unstable specifica che cosa cede. Non aggiungere malattie, pazzia o ingredienti indispensabili per compensare una mancanza della scheda. |
+
+## V — riferimento operativo
+
+| Campo | Riferimento |
+|---|---|
+| Funzioni nuove | Space: Nested Interior; Gravity: Orbital Hold; Orientation: Address Verification; Passage: Veil Crossing |
+| Presa e portata utile | 5 km per riferimento locale di volumi e accessi; attraversamento del Veil su estremità valide |
+| Prestazione concreta | Mantiene sottovolumi e attraversa corporeamente un ambiente spirituale compatibile. |
+| Attivazione | Un esercizio semplice Ready si avvia nello stesso gesto pertinente; un supporto, un modello composto o una configurazione complessa richiedono preparazione reale. Il tempo di propagazione segue il mezzo prodotto o il collegamento della cella; non viene assegnata velocità luminosa per il solo rango. |
+| Durata | Instant, Maintained, Prepared/Autonomous o Independent secondo il prodotto e la cella; applicare i quattro casi del documento comune. |
+| Risorse e simultaneità | Esercizio focalizzato alla prestazione indicata: Demanding; impieghi modesti e mantenimenti realmente in equilibrio: Routine. Le difese Intrinsic già possedute non sono eliminate per finanziare nominalmente il colpo. Simultaneità: ripartire energia e controllo, non replicare riserve. |
+| Difesa personale | Costituzione personale semidivina materiale e spirituale già presente; a V Core angelico, a VII pienezza divina secondo regole comuni. Un pari contende la protezione pertinente. |
+| Esiti e limiti | No access non prende il centro irraggiunto; Resisted non cambia la proprietà; Partial cambia soltanto la parte prevalsa; Unstable specifica che cosa cede. Non aggiungere malattie, pazzia o ingredienti indispensabili per compensare una mancanza della scheda. |
+
+## VI — riferimento operativo
+
+| Campo | Riferimento |
+|---|---|
+| Funzioni nuove | Space: Adjacency Exchange; Gravity: Gravitational Lens; Orientation: Reference Reconstruction; Passage: Transit Sorting |
+| Presa e portata utile | 500 km fra riferimenti e accessi preparati; non è acquisizione cieca di un luogo |
+| Prestazione concreta | Una lente gravitazionale modifica un tragitto energetico preso e scambia adiacenze reali. |
+| Attivazione | Un esercizio semplice Ready si avvia nello stesso gesto pertinente; un supporto, un modello composto o una configurazione complessa richiedono preparazione reale. Il tempo di propagazione segue il mezzo prodotto o il collegamento della cella; non viene assegnata velocità luminosa per il solo rango. |
+| Durata | Instant, Maintained, Prepared/Autonomous o Independent secondo il prodotto e la cella; applicare i quattro casi del documento comune. |
+| Risorse e simultaneità | Esercizio focalizzato alla prestazione indicata: Demanding; impieghi modesti e mantenimenti realmente in equilibrio: Routine. Le difese Intrinsic già possedute non sono eliminate per finanziare nominalmente il colpo. Simultaneità: ripartire energia e controllo, non replicare riserve. |
+| Difesa personale | Costituzione personale semidivina materiale e spirituale già presente; a V Core angelico, a VII pienezza divina secondo regole comuni. Un pari contende la protezione pertinente. |
+| Esiti e limiti | No access non prende il centro irraggiunto; Resisted non cambia la proprietà; Partial cambia soltanto la parte prevalsa; Unstable specifica che cosa cede. Non aggiungere malattie, pazzia o ingredienti indispensabili per compensare una mancanza della scheda. |
+
+## VII — riferimento operativo
+
+| Campo | Riferimento |
+|---|---|
+| Funzioni nuove | Space: Spatial Segregation; Gravity: Field Exclusion; Orientation: Frame Translation; Passage: Passage Continuity |
+| Presa e portata utile | scala planetaria/celeste mediante geometrie, riferimenti e estremità reali |
+| Prestazione concreta | Governa interfacce e passaggi celesti tramite estremità reali, non indirizzi semplicemente nominati. |
+| Attivazione | Un esercizio semplice Ready si avvia nello stesso gesto pertinente; un supporto, un modello composto o una configurazione complessa richiedono preparazione reale. Il tempo di propagazione segue il mezzo prodotto o il collegamento della cella; non viene assegnata velocità luminosa per il solo rango. |
+| Durata | Instant, Maintained, Prepared/Autonomous o Independent secondo il prodotto e la cella; applicare i quattro casi del documento comune. |
+| Risorse e simultaneità | Esercizio focalizzato alla prestazione indicata: Demanding; impieghi modesti e mantenimenti realmente in equilibrio: Routine. Le difese Intrinsic già possedute non sono eliminate per finanziare nominalmente il colpo. Simultaneità: ripartire energia e controllo, non replicare riserve. |
+| Difesa personale | Costituzione personale semidivina materiale e spirituale già presente; a V Core angelico, a VII pienezza divina secondo regole comuni. Un pari contende la protezione pertinente. |
+| Esiti e limiti | No access non prende il centro irraggiunto; Resisted non cambia la proprietà; Partial cambia soltanto la parte prevalsa; Unstable specifica che cosa cede. Non aggiungere malattie, pazzia o ingredienti indispensabili per compensare una mancanza della scheda. |

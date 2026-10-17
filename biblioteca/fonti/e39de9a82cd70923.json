@@ -275,5 +275,8 @@
   "target_ability_required_before_advancement": false,
   "first_effigy_requires_root": false,
   "occupied_seat_blocks_lower_stages": false,
-  "temporary_charge_is_personal_inscription": false
+  "temporary_charge_is_personal_inscription": false,
+  "operational_reference_revision": "350",
+  "operational_reference_source": "CANONE_VIGENTE/Profili_operativi_Effigi_350.json",
+  "reference_policy": "Ready di confronto, senza nuova macro o promozione; i parametri specifici conservati prevalgono nel proprio ambito."
 }

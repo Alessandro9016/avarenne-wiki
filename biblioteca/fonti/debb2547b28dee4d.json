@@ -1,0 +1,21 @@
+{
+  "revision": "349",
+  "effigies": 23,
+  "specific_questions": 259,
+  "common_questions": 12,
+  "total_questions": 271,
+  "macro_abilities": 595,
+  "macro_matrix_sha256": "4aa7a711b43f5b166fdd784736a09cf9ce2b240b99a03009262d5da601365b15",
+  "example_collection_sha256": "1bfa5a369c00ad195123be722aa3699e50d00c4c41910b8c2dbb11c1c2cc2942",
+  "manuals_original_content_preserved": 23,
+  "faq_html_content_verified": true,
+  "ability_references_valid": true,
+  "wiki_pages_checked": 1180,
+  "wiki_references_checked": 96651,
+  "wiki_link_errors": 0,
+  "narrative_events_changed": false,
+  "progression_or_inventory_changed": false,
+  "published": false,
+  "existing_zip348_modified": false,
+  "current_wiki_requires_new_export_to_include_faq": true
+}

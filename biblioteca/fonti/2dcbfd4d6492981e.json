@@ -1,0 +1,12 @@
+{
+  "id": "CAST-569",
+  "name": "Noel Vautrin",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Orsanne/istituzioni/CAST-569_Noel_Vautrin/01_Ritratto_v1.png",
+  "asset": "assets/ritratto-politico-354-cast-569.webp",
+  "source_sha256": "538a82b40b50126705d896292c3535e1e7c6a5b575b10d5cfddca3264f66875f",
+  "generation_mode": "built-in image_gen",
+  "prompt": "Create ONE vertical mature semi-realistic painterly fantasy webnovel character portrait for the AVARENNE wiki. Elegant richly detailed illustration with subtly stylized beautiful expressive face, natural anatomy, cinematic chiaroscuro, textured late nineteenth-century industrial-fantasy aristocratic tailoring. Three-quarter waist-up single subject; atmospheric softly focused interior appropriate to a civilian court, no battle. Preserve the specified age and individual facial identity, do not make everyone a young model. SUBJECT: Noel Vautrin. Man41, olive skin, dark hair thinning slightly, hazel eyes, clean shaven, charcoal modest late-industrial suit. ROLE: Cancelliere della Camera delle Concessioni. Subtle tangible background of books, dark wood or a tall window; character dominates. No lettering, labels, watermark, collage, extra people, magic aura, halos, religious symbol or automatic crown on heirs. Refined civilian bearing, not royal regalia or a god.",
+  "wiki_integrated": true,
+  "status": "GENERATED_AND_VISUALLY_REVIEWED",
+  "revision": 354
+}

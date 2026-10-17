@@ -370,7 +370,7 @@
       "name": "Armand Belcour",
       "cast_id": "CAST-465",
       "remembered_role": "Conte, padre di Aurelie; proprietario di terreni lungo una derivazione collegata ai mulini",
-      "remembered_relationship": "Interlocutore di Lucien; Alexander ne ricorda ospitalità e pazienza, insieme alla tendenza a parlare delle persone come di accordi futuri.",
+      "remembered_relationship": "Alexander lo frequentò durante visite familiari e discussioni sulle derivazioni. Gli riconosceva pazienza e ospitalità; trovava soffocante il modo in cui anticipava le decisioni di Aurelie. Non esiste una promessa del duca di sposarla contro la sua volontà.",
       "source": "GIOCATORE_273; REV-CIV-01",
       "remembered_biological_population": "Umano",
       "biology_knowledge_scope": "Conoscenza pre-coma; nessuna agenda T0",
@@ -465,21 +465,21 @@
       "remembered_role": "Conte di Vernay; Campagne meridionali, allevamento e mulini secondari; manutenzioni e terreni confinanti con lotti Valcienne. Leon è l’erede del conte, non un duca rivale.",
       "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
       "remembered_biological_population": "Umano",
-      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+      "remembered_relationship": "Alexander conosce Vincent da ricevimenti e ispezioni con Lucien. Ricorda che il conte interruppe una volta una battuta offensiva contro Leon senza umiliarlo in pubblico. Il rapporto gerarchico è duca-conte; la rivalità fra i figli non lo annulla."
     },
     {
       "name": "Madeleine Rochebrune",
       "remembered_role": "Contessa di Rochebrune; Colline sud-orientali, cave di pietra, boschi e fornaci. Non comprende il centro carbonifero di Deren né il passo di Sarn.",
       "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
       "remembered_biological_population": "Umano",
-      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+      "remembered_relationship": "Alexander la incontrò nelle sedute territoriali e in due visite alle cave. Lei gli fece distinguere il margine del fornitore dal costo pubblico di una strada. È cortese con il giovane duca, ma non ne considera il lutto una ragione per approvare qualunque proposta."
     },
     {
       "name": "Clara Aubrecourt",
       "remembered_role": "Contessa di Aubrecourt; Terrazze nord-orientali, frutteti, pascoli e lavorazione del legname. Le strade raccordano i mercati interni senza inglobare Ossen Reach.",
       "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
       "remembered_biological_population": "Umano",
-      "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+      "remembered_relationship": "Alexander la ricorda mentre contraddiceva con calma Lucien sul calendario dei trasporti. Gli offrì una volta una visita ai frutteti, rimasta senza data. Nessuna amicizia intima o confidenza privata è attribuita automaticamente a Edran."
     },
     {
       "name": "Adrien Pontel",
@@ -606,6 +606,363 @@
       "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
       "remembered_biological_population": "Umano",
       "remembered_relationship": "Rapporto pubblico territoriale anteriore al coma; non necessariamente amicizia personale."
+    },
+    {
+      "name": "Helene Vernier",
+      "remembered_role": "Coniuge di Vincent, madre di Leon; nata Dorsenne",
+      "remembered_relationship": "Alexander la conosce da visite e da un pranzo nel 810 in cui gli chiese di ascoltare Leon prima di rispondergli.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Irene Rochebrune",
+      "remembered_role": "Figlia maggiore ed erede designata di Madeleine",
+      "remembered_relationship": "Alexander la ricorda a una visita del 811: gli mostrò un modello di sostegno, non un interesse romantico.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Mathis Rochebrune",
+      "remembered_role": "Figlio minore di Madeleine; medico ordinario in formazione avanzata",
+      "remembered_relationship": "Alexander lo ha incontrato durante un ricevimento; ne ricorda il rifiuto garbato di parlare di ferite come curiosità da salotto.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Julien Aubrecourt",
+      "remembered_role": "Coniuge di Clara, nato Marceaux; commerciante di strumenti agricoli",
+      "remembered_relationship": "Alexander ne ricorda l’umorismo e una discussione sulle scatole di innesti; non un consigliere privato di Lucien.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Marianne Aubrecourt",
+      "remembered_role": "Figlia maggiore ed erede designata di Clara e Julien",
+      "remembered_relationship": "Alexander la conosce da ricevimenti giovanili; parlarono di scuola e del peso dei cognomi. Nessun flirt pregresso viene aggiunto.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Adrien III Orvel",
+      "remembered_role": "Re di Orsanne; Maison Orvel",
+      "remembered_relationship": "Alexander partecipò con Lucien a un’udienza collettiva a Veldane nel 811. Conosce voce e volto del sovrano; non ne è amico intimo e non ha ricevuto promesse private.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Eliane Orvel",
+      "remembered_role": "Figlia ed erede designata di Orsanne; Maison Orvel",
+      "remembered_relationship": "Nome e parentela noti dall’almanacco pre-coma; nessuna amicizia personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Maelle II Vaudren",
+      "remembered_role": "Regina di Aldren; Casa Vaudren",
+      "remembered_relationship": "Identità e successione pubblica note dall’almanacco di corte prima del coma; nessuna confidenza personale o conoscenza delle deliberazioni attuali.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Tavian Vaudren",
+      "remembered_role": "Figlio ed erede designato di Aldren; Casa Vaudren",
+      "remembered_relationship": "Nome e parentela noti dall’almanacco pre-coma; nessuna amicizia personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Oren IV Seravel",
+      "remembered_role": "Re di Marethis; Casa Seravel",
+      "remembered_relationship": "Identità e successione pubblica note dall’almanacco di corte prima del coma; nessuna confidenza personale o conoscenza delle deliberazioni attuali.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Nerea Seravel",
+      "remembered_role": "Figlia ed erede designata di Marethis; Casa Seravel",
+      "remembered_relationship": "Nome e parentela noti dall’almanacco pre-coma; nessuna amicizia personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Meilin Renkai",
+      "remembered_role": "Regina di Teral; Casa Renkai",
+      "remembered_relationship": "Identità e successione pubblica note dall’almanacco di corte prima del coma; nessuna confidenza personale o conoscenza delle deliberazioni attuali.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Jian Renkai",
+      "remembered_role": "Figlio ed erede designato di Teral; Casa Renkai",
+      "remembered_relationship": "Nome e parentela noti dall’almanacco pre-coma; nessuna amicizia personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Astrid Eyrdal",
+      "remembered_role": "Regina di Dorel; Casa Eyrdal",
+      "remembered_relationship": "Identità e successione pubblica note dall’almanacco di corte prima del coma; nessuna confidenza personale o conoscenza delle deliberazioni attuali.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Eirik Eyrdal",
+      "remembered_role": "Figlio ed erede designato di Dorel; Casa Eyrdal",
+      "remembered_relationship": "Nome e parentela noti dall’almanacco pre-coma; nessuna amicizia personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Sabine Elvar",
+      "remembered_role": "Principessa di Elven; Casa Elvar",
+      "remembered_relationship": "Identità e successione pubblica note dall’almanacco di corte prima del coma; nessuna confidenza personale o conoscenza delle deliberazioni attuali.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Lucan Elvar",
+      "remembered_role": "Figlio ed erede designato di Elven; Casa Elvar",
+      "remembered_relationship": "Nome e parentela noti dall’almanacco pre-coma; nessuna amicizia personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Teren Avelin",
+      "remembered_role": "Principe di Namar; Casa Avelin",
+      "remembered_relationship": "Identità e successione pubblica note dall’almanacco di corte prima del coma; nessuna confidenza personale o conoscenza delle deliberazioni attuali.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Liora Avelin",
+      "remembered_role": "Figlia ed erede designata di Namar; Casa Avelin",
+      "remembered_relationship": "Nome e parentela noti dall’almanacco pre-coma; nessuna amicizia personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Corin Belven",
+      "remembered_role": "Principe di Veyford; Casa Belven",
+      "remembered_relationship": "Identità e successione pubblica note dall’almanacco di corte prima del coma; nessuna confidenza personale o conoscenza delle deliberazioni attuali.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Mara Belven",
+      "remembered_role": "Figlia ed erede designata di Veyford; Casa Belven",
+      "remembered_relationship": "Nome e parentela noti dall’almanacco pre-coma; nessuna amicizia personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Edda Halvren",
+      "remembered_role": "Principessa di Norven; Casa Halvren",
+      "remembered_relationship": "Identità e successione pubblica note dall’almanacco di corte prima del coma; nessuna confidenza personale o conoscenza delle deliberazioni attuali.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Soren Halvren",
+      "remembered_role": "Figlio ed erede designato di Norven; Casa Halvren",
+      "remembered_relationship": "Nome e parentela noti dall’almanacco pre-coma; nessuna amicizia personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Idris Tharen",
+      "remembered_role": "Principe di Ossenmark; Casa Tharen",
+      "remembered_relationship": "Identità e successione pubblica note dall’almanacco di corte prima del coma; nessuna confidenza personale o conoscenza delle deliberazioni attuali.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Amina Tharen",
+      "remembered_role": "Figlia ed erede designata di Ossenmark; Casa Tharen",
+      "remembered_relationship": "Nome e parentela noti dall’almanacco pre-coma; nessuna amicizia personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Anais Rouvain",
+      "remembered_role": "Principessa di Selvar; Casa Rouvain",
+      "remembered_relationship": "Identità e successione pubblica note dall’almanacco di corte prima del coma; nessuna confidenza personale o conoscenza delle deliberazioni attuali.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Bastien Rouvain",
+      "remembered_role": "Fratello ed erede presuntivo di Selvar; Casa Rouvain",
+      "remembered_relationship": "Nome e parentela noti dall’almanacco pre-coma; nessuna amicizia personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Pavel Ordell",
+      "remembered_role": "Principe di Dalen; Casa Ordell",
+      "remembered_relationship": "Identità e successione pubblica note dall’almanacco di corte prima del coma; nessuna confidenza personale o conoscenza delle deliberazioni attuali.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Elise Ordell",
+      "remembered_role": "Figlia ed erede designata di Dalen; Casa Ordell",
+      "remembered_relationship": "Nome e parentela noti dall’almanacco pre-coma; nessuna amicizia personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Leonie Merault",
+      "remembered_role": "Principessa di Uren; Casa Merault",
+      "remembered_relationship": "Identità e successione pubblica note dall’almanacco di corte prima del coma; nessuna confidenza personale o conoscenza delle deliberazioni attuali.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Adrien Merault",
+      "remembered_role": "Figlio ed erede designato di Uren; Casa Merault",
+      "remembered_relationship": "Nome e parentela noti dall’almanacco pre-coma; nessuna amicizia personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Vera Seld",
+      "remembered_role": "Principessa di Tesh; Casa Seld",
+      "remembered_relationship": "Identità e successione pubblica note dall’almanacco di corte prima del coma; nessuna confidenza personale o conoscenza delle deliberazioni attuali.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Nils Seld",
+      "remembered_role": "Figlio ed erede designato di Tesh; Casa Seld",
+      "remembered_relationship": "Nome e parentela noti dall’almanacco pre-coma; nessuna amicizia personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Malik Varnet",
+      "remembered_role": "Principe di Ravaen; Casa Varnet",
+      "remembered_relationship": "Identità e successione pubblica note dall’almanacco di corte prima del coma; nessuna confidenza personale o conoscenza delle deliberazioni attuali.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Samira Varnet",
+      "remembered_role": "Figlia ed erede designata di Ravaen; Casa Varnet",
+      "remembered_relationship": "Nome e parentela noti dall’almanacco pre-coma; nessuna amicizia personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Hugo Lethren",
+      "remembered_role": "Principe di Ivel; Casa Lethren",
+      "remembered_relationship": "Identità e successione pubblica note dall’almanacco di corte prima del coma; nessuna confidenza personale o conoscenza delle deliberazioni attuali.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Celia Lethren",
+      "remembered_role": "Figlia ed erede designata di Ivel; Casa Lethren",
+      "remembered_relationship": "Nome e parentela noti dall’almanacco pre-coma; nessuna amicizia personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Haldor Valdek",
+      "remembered_role": "Re di Asren; Casa Valdek",
+      "remembered_relationship": "Identità e successione pubblica note dall’almanacco di corte prima del coma; nessuna confidenza personale o conoscenza delle deliberazioni attuali.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Ingrid Valdek",
+      "remembered_role": "Figlia ed erede designata di Asren; Casa Valdek",
+      "remembered_relationship": "Nome e parentela noti dall’almanacco pre-coma; nessuna amicizia personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Runa Hest",
+      "remembered_role": "Regina di Helsen; Casa Hest",
+      "remembered_relationship": "Identità e successione pubblica note dall’almanacco di corte prima del coma; nessuna confidenza personale o conoscenza delle deliberazioni attuali.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Oskar Hest",
+      "remembered_role": "Figlio ed erede designato di Helsen; Casa Hest",
+      "remembered_relationship": "Nome e parentela noti dall’almanacco pre-coma; nessuna amicizia personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Tomas Norr",
+      "remembered_role": "Re di Varnek; Casa Norr",
+      "remembered_relationship": "Identità e successione pubblica note dall’almanacco di corte prima del coma; nessuna confidenza personale o conoscenza delle deliberazioni attuali.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Alva Norr",
+      "remembered_role": "Figlia ed erede designata di Varnek; Casa Norr",
+      "remembered_relationship": "Nome e parentela noti dall’almanacco pre-coma; nessuna amicizia personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Mireille Orvel",
+      "remembered_role": "Consorte di Adrien III, nata Savenne",
+      "remembered_relationship": "Identità pubblica nota prima del coma; nessuna confidenza personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Darian Vaudren",
+      "remembered_role": "Consorte di Maelle II, nato Anver",
+      "remembered_relationship": "Identità pubblica nota prima del coma; nessuna confidenza personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Isolde Seravel",
+      "remembered_role": "Consorte di Oren IV, nata Malven",
+      "remembered_relationship": "Identità pubblica nota prima del coma; nessuna confidenza personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Shuren Renkai",
+      "remembered_role": "Consorte di Meilin, nato Han",
+      "remembered_relationship": "Identità pubblica nota prima del coma; nessuna confidenza personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Kasper Eyrdal",
+      "remembered_role": "Consorte di Astrid, nato Verren",
+      "remembered_relationship": "Identità pubblica nota prima del coma; nessuna confidenza personale assegnata.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Etienne Marvaux",
+      "remembered_role": "Presidente eletto della Camera delle Concessioni",
+      "remembered_relationship": "Ruolo pubblico noto prima del coma; nessuna amicizia o rapporto clientelare imposto.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Lucie Dervaux",
+      "remembered_role": "Prima ministra di Orsanne",
+      "remembered_relationship": "Ruolo pubblico noto prima del coma; nessuna amicizia o rapporto clientelare imposto.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
+    },
+    {
+      "name": "Noel Vautrin",
+      "remembered_role": "Cancelliere della Camera delle Concessioni",
+      "remembered_relationship": "Ruolo pubblico noto prima del coma; nessuna amicizia o rapporto clientelare imposto.",
+      "remembered_biological_population": "Umano",
+      "source": "Approfondimento pubblico 354: almanacchi e memorie pre-coma; non segreti attuali."
     }
   ],
   "ancient_relationship_source": "GIOCATORE_80_Legami_antichi_che_ricordi.md",
@@ -618,5 +975,6 @@
   "biology_revision": "POP-298",
   "integration_revision": "RACCORDI-317",
   "character_review_revision": 340,
-  "territorial_revision": "347"
+  "territorial_revision": "347",
+  "political_revision": 354
 }

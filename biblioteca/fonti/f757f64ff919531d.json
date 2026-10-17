@@ -1,0 +1,12 @@
+{
+  "id": "CAST-554",
+  "name": "Hugo Lethren",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/ivel/CAST-554_Hugo_Lethren/01_Ritratto_v1.png",
+  "asset": "assets/ritratto-politico-354-cast-554.webp",
+  "source_sha256": "247603651c564c5445cddb57940a63e3893da58b96be1306d76a7937dc3899a1",
+  "generation_mode": "built-in image_gen",
+  "prompt": "Create ONE vertical mature semi-realistic painterly fantasy webnovel character portrait for the AVARENNE wiki. Elegant richly detailed illustration with subtly stylized beautiful expressive face, natural anatomy, cinematic chiaroscuro, textured late nineteenth-century industrial-fantasy aristocratic tailoring. Three-quarter waist-up single subject; atmospheric softly focused interior appropriate to a civilian court, no battle. Preserve the specified age and individual facial identity, do not make everyone a young model. SUBJECT: Hugo Lethren. Man55, warm fair skin, brown greying hair, green-grey eyes, close brown beard, dark olive formal coat ROLE: Principe di Ivel; Casa Lethren. Subtle tangible background of books, dark wood or a tall window; character dominates. No lettering, labels, watermark, collage, extra people, magic aura, halos, religious symbol or automatic crown on heirs. Regal bearing with restrained ceremonial detail, not medieval plate armor.",
+  "wiki_integrated": true,
+  "status": "GENERATED_AND_VISUALLY_REVIEWED",
+  "revision": 354
+}

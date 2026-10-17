@@ -1,8 +1,8 @@
 {
-  "versione": "1.24",
-  "data": "2026-10-11",
+  "versione": "350",
+  "data": "2026-10-17",
   "fonte_unica": "23_Registro_unico_del_canone.md",
-  "sha256_fonte": "0e3a9331d4fdac09ce95954fe026d74f74d4addafab66db86dbbb5034bbebf69",
+  "sha256_fonte": "52ab4f5336fb230ac5bc3a48cdea05b1ea07f2eef7ee342dbc89e3f8e4e448ec",
   "decisioni": [
     {
       "id": "CAN-001",
@@ -2009,5 +2009,9 @@
       "versione": "326"
     }
   ],
-  "revision": "MILESTONE13-01"
+  "revision": 354,
+  "current_topic_register": "350_Fonti_vigenti_per_argomento.md",
+  "operational_profiles_source": "CANONE_VIGENTE/Profili_operativi_Effigi_350.json",
+  "interaction_source": "CANONE_VIGENTE/Contese_verificate_350.json",
+  "pending_work_source": "350_Coda_di_lavoro_case_comitali_e_istituzioni.md"
 }

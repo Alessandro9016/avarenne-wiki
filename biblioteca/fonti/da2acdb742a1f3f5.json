@@ -1,0 +1,12 @@
+{
+  "id": "CAST-558",
+  "name": "Runa Hest",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Askar/helsen/CAST-558_Runa_Hest/01_Ritratto_v1.png",
+  "asset": "assets/ritratto-politico-354-cast-558.webp",
+  "source_sha256": "b252505e206dc5de9e80f2576f1ff2ef544c2bc2739298787f769d7880861f3c",
+  "generation_mode": "built-in image_gen",
+  "prompt": "Create ONE vertical mature semi-realistic painterly fantasy webnovel character portrait for the AVARENNE wiki. Elegant richly detailed illustration with subtly stylized beautiful expressive face, natural anatomy, cinematic chiaroscuro, textured late nineteenth-century industrial-fantasy aristocratic tailoring. Three-quarter waist-up single subject; atmospheric softly focused interior appropriate to a civilian court, no battle. Preserve the specified age and individual facial identity, do not make everyone a young model. SUBJECT: Runa Hest. Woman49, fair freckled skin, dark blonde hair with silver pinned back, grey eyes, burgundy wool formal coat ROLE: Regina di Helsen; Casa Hest. Subtle tangible background of books, dark wood or a tall window; character dominates. No lettering, labels, watermark, collage, extra people, magic aura, halos, religious symbol or automatic crown on heirs. Regal bearing with restrained ceremonial detail, not medieval plate armor.",
+  "wiki_integrated": true,
+  "status": "GENERATED_AND_VISUALLY_REVIEWED",
+  "revision": 354
+}

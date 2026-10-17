@@ -1,0 +1,35 @@
+{
+  "revision": "350",
+  "points_completed": [
+    "Riferimenti operativi",
+    "Interazioni",
+    "Consolidamento Narratore"
+  ],
+  "profiles": 161,
+  "effigies": 23,
+  "macro_abilities": 595,
+  "profiles_cover_exactly_all_ability_ids": true,
+  "interaction_cases": 40,
+  "effigies_in_interaction_cases": 23,
+  "personal_sources_in_dossier": 14,
+  "new_reference_values_explicitly_adopted_now": true,
+  "previous_specific_parameters_retained": [
+    "Cradle I e IV",
+    "Crescent I–VII",
+    "Halo dossier 144"
+  ],
+  "macro_matrix_unchanged": true,
+  "example_collection_unchanged": true,
+  "cast_unchanged": true,
+  "royal_and_county_expansion_started": false,
+  "queued_work": "350_Coda_di_lavoro_case_comitali_e_istituzioni.md",
+  "no_numerical_combat_simulation_claimed": true,
+  "zip348_unchanged": true,
+  "new_zip_created": false,
+  "published": false,
+  "wiki_link_check": {
+    "pages": 1206,
+    "references": 98145,
+    "errors": 0
+  }
+}

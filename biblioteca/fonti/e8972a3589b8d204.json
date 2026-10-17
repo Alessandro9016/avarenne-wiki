@@ -1,0 +1,12 @@
+{
+  "id": "CAST-566",
+  "name": "Kasper Eyrdal",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Dorel/dorel/CAST-566_Kasper_Eyrdal/01_Ritratto_v1.png",
+  "asset": "assets/ritratto-politico-354-cast-566.webp",
+  "source_sha256": "0c56f9fd8e8757217ba90c57b4bd9b122688d407382e2dc2f07214bc0fe4694a",
+  "generation_mode": "built-in image_gen",
+  "prompt": "Create ONE vertical mature semi-realistic painterly fantasy webnovel character portrait for the AVARENNE wiki. Elegant richly detailed illustration with subtly stylized beautiful expressive face, natural anatomy, cinematic chiaroscuro, textured late nineteenth-century industrial-fantasy aristocratic tailoring. Three-quarter waist-up single subject; atmospheric softly focused interior appropriate to a civilian court, no battle. Preserve the specified age and individual facial identity, do not make everyone a young model. SUBJECT: Kasper Eyrdal. Man56, fair weathered skin, sandy-grey hair, short beard, blue eyes, charcoal wool formal coat ROLE: Consorte di Astrid, nato Verren. Subtle tangible background of books, dark wood or a tall window; character dominates. No lettering, labels, watermark, collage, extra people, magic aura, halos, religious symbol or automatic crown on heirs. Regal bearing with restrained ceremonial detail, not medieval plate armor.",
+  "wiki_integrated": true,
+  "status": "GENERATED_AND_VISUALLY_REVIEWED",
+  "revision": 354
+}

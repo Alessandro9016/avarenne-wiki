@@ -1,0 +1,63 @@
+# Julien Aubrecourt — dossier politico 354
+
+CAST-522; situazione iniziale 18 maggio 812. Sapere riservato distinto da memorie pre-coma.
+
+## Identità e ruolo
+
+Coniuge di Clara, nato Marceaux; commerciante di strumenti agricoli
+
+## Età
+
+45
+
+## Biografia
+
+Conobbe Clara durante una disputa su una consegna e la sposò nel 790. Ha rinunciato a dirigere le gare pubbliche della contea per evitare che la propria impresa coincida con l’ufficio della moglie.
+
+## Obiettivo
+
+Vuole concorrere a una commessa legittima senza approfittare del matrimonio né essere escluso per principio.
+
+## Conflitto
+
+Interessi familiari e responsabilità pubbliche possono richiedere scelte differenti.
+
+## Rapporto ricordato con Alexander
+
+Alexander ne ricorda l’umorismo e una discussione sulle scatole di innesti; non un consigliere privato di Lucien.
+
+## Informazioni riservate
+
+Un socio vorrebbe usare una lettera familiare come raccomandazione; Julien non l’ha autorizzato.
+
+## Stato attuale
+
+Vuole concorrere a una commessa legittima senza approfittare del matrimonio né essere escluso per principio.
+
+## Limiti
+
+Titolo civile distinto da autorità sovrannaturale. Nessuna conoscenza del ritorno di Edran; nessuna Root o Seat implicita.
+
+## Evoluzione senza intervento
+
+Prosegue negoziati e verifiche con gli interlocutori disponibili. Può cambiare proposta, perdere sostegno o rinviare; nessuna vittoria, morte o alleanza futura è garantita.
+
+## Poteri personali
+
+Persona ordinaria; il titolo non conferisce un’Effigy.
+
+## Legami
+
+- CAST-500: Parentela e rapporto: Coniuge di Clara, nato Marceaux; commerciante di strumenti agricoli
+- CAST-001: Conoscenza pre-coma: Alexander ne ricorda l’umorismo e una discussione sulle scatole di innesti; non un consigliere privato di Lucien.
+
+## Punti di ingresso
+
+- Un colloquio o una lettera riguarda: Vuole concorrere a una commessa legittima senza approfittare del matrimonio né essere escluso per principio.
+- Una controparte contesta: Interessi familiari e responsabilità pubbliche possono richiedere scelte differenti.
+
+## Immagine e corporeità
+
+Man45, tan skin, dark blond hair with receding temples, blue-grey eyes, tidy short beard, practical brown 1880s suit and dark green waistcoat, approachable intelligent face.
+
+Origine verticale: successione o carriera civile della biografia. Collegamento orizzontale: persone elencate nei legami e territorio di riferimento. Stato Attivo; impatto ordinario 🟡, effetti nazionali soltanto tramite atti e risorse realmente disponibili. Nessuna scelta futura del personaggio o dei PG è chiusa.

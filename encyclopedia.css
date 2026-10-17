@@ -3,3 +3,9 @@
 @media(max-width:900px){.sidebar{max-height:100vh}.compact-list{columns:1}}
 @media(max-width:640px){.directory-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px 12px}.directory-card a>span:not(.text-monogram){font-size:16px}.directory-card small{font-size:10px}.portal-links{grid-template-columns:1fr}.alphabet-list{columns:1}.ability-detail{padding-left:10px}.ability-detail h3{font-size:20px}.directory-controls{padding:12px}.article-content h2{scroll-margin-top:95px}}
 .section-nav{display:flex;gap:23px;overflow-x:auto;white-space:nowrap;padding-block:10px;border-bottom:1px solid #41575b;background:#102027e8;font-size:12px;scrollbar-width:thin}.section-nav a{flex:none}.media-atlas figcaption small{display:block;color:var(--muted);font-size:10px;margin-top:5px}.media-atlas img{object-fit:contain!important;background:#0b171d}.home-repertories{margin-bottom:25px}.infobox .image-caption{padding:8px 12px;font-size:10px;line-height:1.5;color:var(--muted)}
+
+/* Copertine cosmologiche 351: nessun ritaglio dei simboli e delle scene. */
+.cosmology-directory .directory-card img{aspect-ratio:3/2;object-fit:contain;object-position:center;background:#0b171d}.cosmology-cover{margin:0 0 28px;max-width:900px}.cosmology-cover img{display:block;width:100%;height:auto;max-height:620px;object-fit:contain;background:#0b171d;border:1px solid #52606166}.cosmology-cover figcaption{font-size:12px;line-height:1.55;color:var(--muted);padding:8px 0}
+
+/* Collana illustrata 353: copertine integrali in formato libro. */
+.book-directory .directory-card img,.directory-card img[src*="copertina-353-"]{aspect-ratio:2/3;object-fit:contain;object-position:center;background:#09151b}.book-cover{max-width:420px;margin:0 auto 28px}.book-cover img{display:block;width:100%;height:auto;border:1px solid #8e795955}.book-cover figcaption{font-size:12px;color:var(--muted);text-align:center;padding:9px 0}.book-arc-gallery{clear:both;margin-top:30px}

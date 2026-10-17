@@ -1,0 +1,96 @@
+{
+  "revision": 354,
+  "new_actor_ids": [
+    "CAST-519",
+    "CAST-520",
+    "CAST-521",
+    "CAST-522",
+    "CAST-523",
+    "CAST-524",
+    "CAST-525",
+    "CAST-526",
+    "CAST-527",
+    "CAST-528",
+    "CAST-529",
+    "CAST-530",
+    "CAST-531",
+    "CAST-532",
+    "CAST-533",
+    "CAST-534",
+    "CAST-535",
+    "CAST-536",
+    "CAST-537",
+    "CAST-538",
+    "CAST-539",
+    "CAST-540",
+    "CAST-541",
+    "CAST-542",
+    "CAST-543",
+    "CAST-544",
+    "CAST-545",
+    "CAST-546",
+    "CAST-547",
+    "CAST-548",
+    "CAST-549",
+    "CAST-550",
+    "CAST-551",
+    "CAST-552",
+    "CAST-553",
+    "CAST-554",
+    "CAST-555",
+    "CAST-556",
+    "CAST-557",
+    "CAST-558",
+    "CAST-559",
+    "CAST-560",
+    "CAST-561",
+    "CAST-562",
+    "CAST-563",
+    "CAST-564",
+    "CAST-565",
+    "CAST-566",
+    "CAST-567",
+    "CAST-568",
+    "CAST-569"
+  ],
+  "existing_counts_deepened": [
+    "CAST-465",
+    "CAST-498",
+    "CAST-499",
+    "CAST-500"
+  ],
+  "royal_units": 19,
+  "royal_heads": 19,
+  "images_planned": 54,
+  "powers_added_explicitly": {
+    "Adrien III Orvel": [
+      "Crown",
+      2
+    ],
+    "Meilin Renkai": [
+      "Oracle",
+      3
+    ],
+    "Sabine Elvar": [
+      "Archive",
+      2
+    ],
+    "Teren Avelin": [
+      "Heart",
+      2
+    ],
+    "Vera Seld": [
+      "Chain",
+      2
+    ],
+    "Haldor Valdek": [
+      "Banner",
+      3
+    ],
+    "Nerea Seravel": [
+      "Tempest",
+      2
+    ]
+  },
+  "all_outcomes_open": true
+}

@@ -1,0 +1,2550 @@
+{
+  "revision": "349",
+  "scope": "Chiarimenti di uso e applicazioni delle capacità approvate; nessuna nuova abilità macro",
+  "ability_matrix_sha256": "4aa7a711b43f5b166fdd784736a09cf9ce2b240b99a03009262d5da601365b15",
+  "example_collection_sha256": "1bfa5a369c00ad195123be722aa3699e50d00c4c41910b8c2dbb11c1c2cc2942",
+  "common": [
+    {
+      "id": "FAQ-C-01",
+      "question": "Quanto lontano posso colpire?",
+      "answer": "La portata è quella dell’esercizio e dello stadio nel manuale, non quella di tutto ciò che riesci a nominare. Un effetto remoto richiede un percorso, supporto o rapporto previsto dalla capacità: vedere la Luna non dà accesso operativo alla Luna."
+    },
+    {
+      "id": "FAQ-C-02",
+      "question": "Guardare un bersaglio significa averlo già raggiunto?",
+      "answer": "La vista può servire a individuare e dirigere l’azione, ma non supera muri, schermature o difese spirituali. Raggiunto significa che l’effetto ha davvero un modo valido di interagire con quella componente."
+    },
+    {
+      "id": "FAQ-C-03",
+      "question": "Quanti attacchi posso mantenere insieme?",
+      "answer": "Non esiste un numero universale uguale per tutti. Più bersagli, direzioni, supporti e funzioni dividono capacità, energia e controllo; la scheda distingue quando compare una gestione condizionale o autonoma. Non sono copie gratuite del colpo a piena potenza."
+    },
+    {
+      "id": "FAQ-C-04",
+      "question": "Le tecniche iniziali diventano inutili avanzando?",
+      "answer": "No. Un’abilità I esercitata a IV ha forza, precisione e tenuta di un portatore IV entro quella funzione. Non acquisisce però il nuovo modo operativo di una capacità V soltanto perché viene alimentata molto."
+    },
+    {
+      "id": "FAQ-C-05",
+      "question": "Quanto velocemente parte un potere?",
+      "answer": "Distingui preparazione, scelta, attivazione, viaggio dell’effetto e conseguenza. La velocità non è universalmente luminosa: proiettili materiali, suoni, onde di pressione, luce e rapporti spirituali non sono lo stesso mezzo. Dove manca un valore, il manuale non autorizza un numero inventato."
+    },
+    {
+      "id": "FAQ-C-06",
+      "question": "Un effetto senza proiettile è istantaneo e inevitabile?",
+      "answer": "No. Può richiedere presa, ricezione di un significato, contatto o attivazione di un supporto. La difesa può opporsi durante quel rapporto; l’assenza di una pallottola visibile non prova un successo automatico."
+    },
+    {
+      "id": "FAQ-C-07",
+      "question": "Posso attaccare organi interni soltanto vedendo il nemico?",
+      "answer": "Non automaticamente. La capacità deve raggiungere quella componente e superare la difesa pertinente. Una tecnica che agisce su una superficie non diventa un colpo al cuore ignorando la strada e i tessuti interposti."
+    },
+    {
+      "id": "FAQ-C-08",
+      "question": "Un supporto predisposto agisce senza il Bearer?",
+      "answer": "Soltanto quando la capacità prevede deposito, trigger, delega o autonomia. Occorrono energia assegnata e condizioni rilevabili. Una semplice sfera disegnata, parola scritta o moneta appoggiata non diventa da sola una torretta magica."
+    },
+    {
+      "id": "FAQ-C-09",
+      "question": "Se il portatore sviene, tutto sparisce?",
+      "answer": "Dipende dalla natura del prodotto. Un oggetto Independent può restare reale; un effetto Maintained richiede il sostegno previsto; un deposito condizionale può funzionare finché la quota e il supporto persistono. Non esiste una risposta unica per ogni Effige."
+    },
+    {
+      "id": "FAQ-C-10",
+      "question": "Un avversario parigrado è immune?",
+      "answer": "No: il confronto dipende da accesso, autorità, investimento, difesa e situazione. Il rango non è immunità universale e non garantisce neppure che ogni colpo passi. Ai ranghi IV, V e VII cambia qualitativamente la costituzione del portatore."
+    },
+    {
+      "id": "FAQ-C-11",
+      "question": "Posso usare il potere su persone non umane?",
+      "answer": "Conta la componente realmente presente: vita, mente, materia, volontà, riflesso o continuità. Un corpo diverso può richiedere una diagnosi diversa; il nome di una razza non assegna automaticamente vulnerabilità o immunità."
+    },
+    {
+      "id": "FAQ-C-12",
+      "question": "Una forma spettacolare è una nuova abilità?",
+      "answer": "Non sempre: un ventaglio di luce o una lama di oscurità possono essere applicazioni di una funzione già concessa. Diventano un’altra funzione se aggiungono inseguimento autonomo, pensiero indipendente, accesso remoto o autorità non previsti."
+    }
+  ],
+  "effigies": [
+    {
+      "id": "EFF-01",
+      "name": "Cradle",
+      "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+      "faq_source": "349_FAQ_Cradle_uso_pratico.md",
+      "authorities": [
+        "Creation"
+      ],
+      "questions": [
+        {
+          "id": "EFF-01-FAQ-01",
+          "question": "Devo costruire un oggetto pezzo per pezzo?",
+          "answer": "No: Genesis I crea la configurazione richiesta già assemblata, se sostenibile e conosciuta abbastanza. Bicchiere pieno d’acqua e chiave non richiedono una sequenza di poteri separati per immaginazione, scelta della materia e montaggio.",
+          "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+          "ability_ids": [
+            "EFF-01-I-M01"
+          ]
+        },
+        {
+          "id": "EFF-01-FAQ-02",
+          "question": "Posso creare armi e colpire a distanza?",
+          "answer": "Sì: oggetti e impulsi fisici sono prodotti di Genesis I. Una lama, una massa lanciata o un getto propulsivo hanno conseguenze reali. Il proiettile materiale non acquista automaticamente la velocità della luce o una mira indipendente.",
+          "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+          "ability_ids": [
+            "EFF-01-I-M01"
+          ]
+        },
+        {
+          "id": "EFF-01-FAQ-03",
+          "question": "Gli oggetti scompaiono se smetto di pensarci?",
+          "answer": "Un prodotto materiale stabile Independent rimane reale. Una funzione investita con alimentazione propria o mantenuta segue invece le condizioni con cui è stata creata. Una sedia ordinaria non si dissolve per distrazione.",
+          "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-01-FAQ-04",
+          "question": "Posso creare dentro il cuore del nemico?",
+          "answer": "Non perché lo immagini: devi avere accesso generativo valido a quella componente e superare la difesa. Il nome o la posizione presunta dell’organo non sono un varco attraverso pelle, corazza e protezioni.",
+          "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-01-FAQ-05",
+          "question": "Quando creo piante, animali o persone?",
+          "answer": "II introduce vita biologica semplice; IV introduce persone e corporeità complesse, anche non umane, entro capacità e sostenibilità. Non attribuire alla prima piantina II la libertà progettuale e la continuità personale di IV.",
+          "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-01-FAQ-06",
+          "question": "Posso creare draghi e creature mitologiche?",
+          "answer": "IV può realizzare anatomie complesse e funzioni mitologiche progettate, con investimento compatibile: non soltanto animali con una forma decorativa. Non ne segue una divinità pronta, una nuova Seat o una fonte infinita.",
+          "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-01-FAQ-07",
+          "question": "Le persone create devono obbedirmi?",
+          "answer": "No: Personal Genesis dà origine a un individuo con centro proprio, non a un tuo Avatar. Crearlo non rende sua ogni tua intenzione e non sostituisce un patto, una relazione o una contesa di volontà.",
+          "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+          "ability_ids": [
+            "EFF-01-I-M01",
+            "EFF-01-IV-M01"
+          ]
+        },
+        {
+          "id": "EFF-01-FAQ-08",
+          "question": "Posso dare proprietà magiche a un’arma?",
+          "answer": "III introduce funzioni investite come presa spirituale, forza contro contatti immateriali o spinta propria. Devi descrivere che cosa fa, con quale quota e accesso; dire magica non concede antimagia universale o l’intera Effige di un altro.",
+          "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-01-FAQ-09",
+          "question": "Generative Gate trasporta persone già esistenti?",
+          "answer": "No: V apre una bocca generativa su supporto proprio investito, da cui creare senza essere presente localmente. Non è il portale di Astrolabe e non sposta un oggetto preesistente dall’altra parte.",
+          "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+          "ability_ids": [
+            "EFF-01-V-M01"
+          ]
+        },
+        {
+          "id": "EFF-01-FAQ-10",
+          "question": "Posso avere fabbriche che creano da sole?",
+          "answer": "VI conferisce un programma generativo circoscritto, trigger e riserva. Un supporto può produrre enti progettati senza una decisione per ogni atto, finché la fonte assegnata regge; non inventa da solo qualsiasi soluzione e non è un altro te.",
+          "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-01-FAQ-11",
+          "question": "Posso creare una tecnologia che non conosco?",
+          "answer": "Prima di VII la progettazione deve essere sufficientemente conosciuta e coerente. Emergent Genesis VII può partire da una funzione praticabile e da fenomeni raggiunti, realizzando una soluzione nuova: non stampa automaticamente l’elenco delle invenzioni di un altro universo.",
+          "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+          "ability_ids": [
+            "EFF-01-I-M01",
+            "EFF-01-VII-M01"
+          ]
+        },
+        {
+          "id": "EFF-01-FAQ-12",
+          "question": "Cradle rende inutili Heart e Seed?",
+          "answer": "No: generare un corpo non ricostituisce automaticamente una persona perduta; creare un organismo non governa tutta la riproduzione o l’ecologia. Nuova esistenza, cura della stessa persona e sviluppo di linee viventi sono funzioni differenti.",
+          "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+          "ability_ids": []
+        }
+      ]
+    },
+    {
+      "id": "EFF-02",
+      "name": "Ruin",
+      "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+      "faq_source": "349_FAQ_Ruin_uso_pratico.md",
+      "authorities": [
+        "Destruction"
+      ],
+      "questions": [
+        {
+          "id": "EFF-02-FAQ-01",
+          "question": "Serve sempre toccare il bersaglio?",
+          "answer": "Sì, a ogni stadio. Il contatto fisico pertinente avvia la presa: Ruin non acquisisce un raggio distruttivo con il rango. Le capacità superiori cambiano che cosa puoi distruggere e come l’investimento opera dopo una presa autentica.",
+          "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-02-FAQ-02",
+          "question": "Posso semplicemente cancellare una porzione di materia?",
+          "answer": "Unmaking I permette disgregazione con frammenti oppure annullamento della porzione presa. Intensità e quantità crescono con il portatore, ma un bersaglio protetto oppone la propria resistenza.",
+          "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+          "ability_ids": [
+            "EFF-02-I-M01"
+          ]
+        },
+        {
+          "id": "EFF-02-FAQ-03",
+          "question": "Se tocco la faccia a IV che succede?",
+          "answer": "Puoi aggredire realmente tessuti e componenti raggiunte: non è solo decadimento simbolico. Puoi distruggere una porzione oppure contenderne con Finality il canale di rinnovo preso. Non ignori automaticamente ogni protezione del Bearer.",
+          "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+          "ability_ids": [
+            "EFF-02-IV-M01"
+          ]
+        },
+        {
+          "id": "EFF-02-FAQ-04",
+          "question": "Toccando un braccio posso cancellare soltanto la gamba?",
+          "answer": "Cascade III propaga distruzione lungo la continuità presa e distrugge il percorso effettivo. Non salta dal braccio alla gamba lasciando intatto ciò che li collega; puoi fermare la propagazione dove l’esercizio lo consente.",
+          "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-02-FAQ-05",
+          "question": "Un marchio mi consente un’esplosione remota?",
+          "answer": "II deposita al contatto un atto distruttivo con trigger ed energia assegnata. Il danno può avvenire dopo, senza un nuovo tocco, ma non è un raggio remoto che prende un bersaglio mai toccato.",
+          "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-02-FAQ-06",
+          "question": "Finality può arrivare al cuore?",
+          "answer": "Se la presa raggiunge davvero il rapporto pertinente, anche interno, può distruggerlo. Non basta toccare una manica e nominare il cuore per attraversare senza conseguenze tutte le difese e i tessuti.",
+          "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+          "ability_ids": [
+            "EFF-02-IV-M01"
+          ]
+        },
+        {
+          "id": "EFF-02-FAQ-07",
+          "question": "Blocca qualsiasi rigenerazione per sempre?",
+          "answer": "IV termina il canale di ricostituzione effettivamente preso. Una diversa via autentica e indipendente non viene cancellata per associazione. La distruzione compiuta resta, ma la parola Finality non equivale a onnipotenza su ogni cura futura.",
+          "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+          "ability_ids": [
+            "EFF-02-IV-M01"
+          ]
+        },
+        {
+          "id": "EFF-02-FAQ-08",
+          "question": "Posso separare uno spirito dall’armatura che lo ospita?",
+          "answer": "Constitutive Severance V può distruggere il vincolo costitutivo preso e lasciare le componenti capaci di esistere separate. Non garantisce che un’entità dipendente sopravviva senza quel supporto.",
+          "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+          "ability_ids": [
+            "EFF-02-V-M01"
+          ]
+        },
+        {
+          "id": "EFF-02-FAQ-09",
+          "question": "Ruin Seed viola il contatto obbligatorio?",
+          "answer": "No: VI rende trasferibile l’investimento attraverso contatti reali successivi. Ogni passaggio richiede presa e quota; non contagia per il solo fatto di essere nominato né procede infinitamente senza energia.",
+          "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+          "ability_ids": [
+            "EFF-02-VI-M01"
+          ]
+        },
+        {
+          "id": "EFF-02-FAQ-10",
+          "question": "VII cancella anche ricordi, storia e copie?",
+          "answer": "Existential Erasure può annullare interamente la continuità personale raggiunta. Non riscrive automaticamente tutti i ricordi altrui, il passato, una Root o persone distinte che la ricordano. Se l’annullamento è completo, Heart non recupera la stessa persona.",
+          "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+          "ability_ids": [
+            "EFF-02-VII-M01"
+          ]
+        },
+        {
+          "id": "EFF-02-FAQ-11",
+          "question": "Come mi difendo se non ho un raggio?",
+          "answer": "Puoi distruggere materia o energia che raggiungi al contatto pertinente, interrompere un sostegno o collocare un marchio preso. Devi poter reggere e contendere l’interazione: non ogni aggressione può essere toccata in sicurezza.",
+          "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-02-FAQ-12",
+          "question": "Ruin è anche fuoco, marciume o corruzione?",
+          "answer": "No: distruzione pura non richiede quei fenomeni e non li governa automaticamente. Lasciare un processo di decomposizione naturale e annullare direttamente una porzione sono operazioni differenti.",
+          "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+          "ability_ids": []
+        }
+      ]
+    },
+    {
+      "id": "EFF-03",
+      "name": "Scroll",
+      "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+      "faq_source": "349_FAQ_Scroll_uso_pratico.md",
+      "authorities": [
+        "Information",
+        "Language",
+        "Will"
+      ],
+      "questions": [
+        {
+          "id": "EFF-03-FAQ-01",
+          "question": "Posso usare parole qualsiasi come incantesimi?",
+          "answer": "Language investe formulazioni coerenti con capacità e rango, non qualunque frase desiderata. Cedi può esercitare una frattura compatibile; crea una stella non diventa automaticamente Genesis VII.",
+          "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-03-FAQ-02",
+          "question": "Devo parlare ad alta voce?",
+          "answer": "Language può operare mediante formulazione e supporti scritti secondo le capacità; Will richiede ricezione semantica valida. Non ogni esercizio richiede un grido, ma un comando che non raggiunge la coscienza non viene ricevuto per magia del nome.",
+          "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-03-FAQ-03",
+          "question": "Le frasi normali comandano involontariamente chi ascolta?",
+          "answer": "No: serve esercizio investito. Una conversazione quotidiana non assoggetta automaticamente ogni interlocutore e un testo copiato ordinariamente non diventa un nuovo comando autonomo.",
+          "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-03-FAQ-04",
+          "question": "Information mi dà onniscienza?",
+          "answer": "Legge codifiche e strutture operative raggiunte. Non ottieni automaticamente biografie, contenuti di tutte le biblioteche o l’inventario di chi hai soltanto visto in fotografia.",
+          "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-03-FAQ-05",
+          "question": "Posso fermare un incantesimo come antimagia?",
+          "answer": "Operational Diagnosis III legge componenti; Counterstructure IV interviene sulla struttura presa; Counterformulation IV oppone una formulazione pertinente. Serve la contesa reale: non esiste un tasto che disattiva qualunque magia nemica.",
+          "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+          "ability_ids": [
+            "EFF-03-III-M01",
+            "EFF-03-IV-M01",
+            "EFF-03-IV-M02"
+          ]
+        },
+        {
+          "id": "EFF-03-FAQ-06",
+          "question": "Language e Will sono la stessa cosa?",
+          "answer": "Language esercita istruzioni e relazioni formulate; Will impone assenso, intenzione e priorità a coscienze raggiunte. Aprire un battente con forza formulata e far decidere a una guardia di aprirlo sono effetti diversi.",
+          "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-03-FAQ-07",
+          "question": "Will muove il corpo come una marionetta?",
+          "answer": "No: I impone una decisione immediata; III un obiettivo deliberativo continuato. Il destinatario usa le proprie facoltà e può ritenere propria la decisione imposta: non vede necessariamente un segnale magico e non sente per forza estraneità.",
+          "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-03-FAQ-08",
+          "question": "Posso ordinare di dimenticarmi?",
+          "answer": "IV può impedire il richiamo volontario di un ricordo specifico realmente raggiunto. Non è automaticamente cancellazione della traccia mnemonica, distruzione di fotografie o riscrittura dei ricordi di tutti gli altri testimoni.",
+          "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-03-FAQ-09",
+          "question": "Un ordine scritto funziona quando non sono presente?",
+          "answer": "Inscribed Imperative II deposita Will in un messaggio realmente investito, con quota e ricezione definite; Written Instruction II prepara formulazioni di Language. Un foglio non possiede riserva infinita e va distinto un messaggio magico da una copia ordinaria.",
+          "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+          "ability_ids": [
+            "EFF-03-II-M02",
+            "EFF-03-II-M03"
+          ]
+        },
+        {
+          "id": "EFF-03-FAQ-10",
+          "question": "Chi resiste si accorge sicuramente del controllo?",
+          "answer": "No: resistenza e riconoscimento sono distinti. Puoi fallire senza che il bersaglio identifichi la fonte; puoi riuscire e lasciare contraddizioni o prove esterne che permettono una diagnosi pertinente.",
+          "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-03-FAQ-11",
+          "question": "VII controlla il subconscio di tutto il mondo?",
+          "answer": "Collective Volition governa una struttura deliberativa condivisa fra coscienze effettivamente raggiunte, vissuta anche come volontà propria. Non è accesso automatico a ogni mente del pianeta né uno spazio mentale di Labyrinth.",
+          "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+          "ability_ids": [
+            "EFF-03-VII-M03"
+          ]
+        },
+        {
+          "id": "EFF-03-FAQ-12",
+          "question": "Come combatto senza comandare il nemico?",
+          "answer": "Language produce impulsi e interdizioni propri; Information può contendere componenti operative; Will può aggredire la decisione. I tre rami hanno esercizi autonomi: un avversario senza linguaggio ricevuto non rende inutile tutta l’Effige.",
+          "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+          "ability_ids": []
+        }
+      ]
+    },
+    {
+      "id": "EFF-04",
+      "name": "Halo",
+      "source": "GIOCATORE_44_Halo_progressione_completa.md",
+      "faq_source": "349_FAQ_Halo_uso_pratico.md",
+      "authorities": [
+        "Light",
+        "Revelation",
+        "Manifestation",
+        "Purification"
+      ],
+      "questions": [
+        {
+          "id": "EFF-04-FAQ-01",
+          "question": "Posso fare sfere di luce?",
+          "answer": "Sì come forma dell’emissione: un globo luminoso presso il punto da cui emetti o, con Luminous Envelope III, un involucro radiante attorno al corpo. Non sono materia solida. Una pallina separata, ferma a mezz’aria e carica fino a un ordine futuro richiede un confinamento reale: non è concessa dal solo Luminous Emission I.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": [
+            "EFF-04-I-M01",
+            "EFF-04-III-M01"
+          ]
+        },
+        {
+          "id": "EFF-04-FAQ-02",
+          "question": "Posso lanciare una sfera come una palla di fuoco lenta?",
+          "answer": "Puoi emettere un lampo o un fronte luminoso che si espande, ma non trattarlo automaticamente come un oggetto compatto che vola lentamente, aspetta e poi esplode. Un deposito offensivo IV o un confinamento VI danno modalità predisposte: il supporto e la capacità usati vanno dichiarati.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-04-FAQ-03",
+          "question": "Posso sparare più raggi nello stesso momento?",
+          "answer": "Sì: puoi distribuire un’emissione fra più fasci. Radiant Direction II permette inoltre di raccordare e far convergere i percorsi mediante interfacce investite. La potenza totale si divide: dieci fasci non ricevono ciascuno gratuitamente l’energia del fascio unico.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": [
+            "EFF-04-II-M01"
+          ]
+        },
+        {
+          "id": "EFF-04-FAQ-04",
+          "question": "Posso emettere dalla mano o dal corpo?",
+          "answer": "La sorgente è propria e l’emissione può partire dalla mano o da una superficie corporea idonea all’esercizio: non è un oggetto esterno obbligatorio. Rivestire continuativamente il corpo con un involucro offensivo/protettivo è però la funzione distinta di III.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-04-FAQ-05",
+          "question": "Posso far comparire un raggio dietro il nemico senza esserci?",
+          "answer": "II può portare la luce attorno a un ostacolo attraverso un percorso investito valido: la luce parte dalla sorgente effettiva, non nasce dal nulla dietro la testa. IV può far emettere un supporto predisposto; VI conserva radiazione e la libera da uscite predisposte. V può spostare la persona stessa.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-04-FAQ-06",
+          "question": "Quanto sono veloci i raggi?",
+          "answer": "La radiazione libera si propaga alla velocità della luce: circa 300.000 km/s nel vuoto, con il comportamento del mezzo compatibile. Questa precisazione esplicita la natura luminosa del ramo, coerente con il dossier 144; non rende luminose decisioni, mani, sigilli o ogni processo necessario a formare il colpo.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-04-FAQ-07",
+          "question": "Allora chiunque viene colpito prima di reagire?",
+          "answer": "Una volta arrivato il fascio non si reagisce retroattivamente. Il difensore può però avere già una protezione, interrompere l’accesso, ostacolare la mira o contrastare l’attivazione e la sorgente prima della propagazione. Non viene assegnata una vittoria garantita a ogni emissione.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-04-FAQ-08",
+          "question": "Posso curvare il raggio o farlo seguire a qualcuno?",
+          "answer": "Da II puoi piegarne il percorso attraverso le interfacce realmente investite e correggere un’emissione sostenuta. Non implica un proiettile onnisciente capace di trovare da solo una persona in qualsiasi luogo. Una correzione richiede dati e controllo pertinenti.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-04-FAQ-09",
+          "question": "Un fascio attraversa muri e corazze?",
+          "answer": "La luce interagisce con il materiale incontrato. Può aggredirlo termicamente e danneggiarlo se la potenza basta; non è automaticamente intangibile. Una parete opaca interrompe la via finché non la aggiri o superi realmente la sua resistenza.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-04-FAQ-10",
+          "question": "Posso fare un ventaglio, un raggio sottile o una scarica ampia?",
+          "answer": "Sono distribuzioni compatibili dell’emissione: concentrare sullo stesso punto favorisce l’intensità locale; allargare investe più superficie. Non c’è una triplicazione gratuita di energia fra il raggio, il ventaglio e il lampo.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-04-FAQ-11",
+          "question": "Una spada di luce è una vera lama solida?",
+          "answer": "Non automaticamente. Puoi configurare un’emissione allungata che aggredisce ciò che espone, ma non usarla come sbarra materiale per sollevare un peso. Manifestation non crea materia: rende interagibile una presenza già esistente. Una barriera di Light opera come esercizio radiante sostenuto, non come vetro fabbricato.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-04-FAQ-12",
+          "question": "Il mantello III ferisce anche senza un pugno?",
+          "answer": "Sì: chi entra in contatto con l’emissione incontra l’aggressione radiante. Puoi concentrare il mantello sul lato esposto. Questo non garantisce di arrestare ogni proiettile o un attacco mentale: conta quale componente il mantello oppone e con quanta tenuta.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-04-FAQ-13",
+          "question": "Come funziona una trappola luminosa IV?",
+          "answer": "Investi un supporto, gli assegni energia, un trigger rilevabile e un’emissione lungo un percorso disponibile. Una placca può rilasciare un lampo offensivo quando viene premuta. Non deduce intenzioni segrete e non continua a sparare quando quota o supporto sono esauriti.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-04-FAQ-14",
+          "question": "La luce colpisce anche gli spiriti?",
+          "answer": "Light non equivale automaticamente a danno contro ogni presenza incorporea. Serve una forma o interfaccia realmente interagibile; Manifestation può fornire quel tipo di accesso secondo il rango. Illuminare un morto non significa aver già preso tutta la sua continuità.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-04-FAQ-15",
+          "question": "Posso usare raggi X, gamma, laser nucleari e tutte le radiazioni?",
+          "answer": "Il dominio adottato è radiazione luminosa e relativi impieghi investiti. Il termine luce non concede automaticamente l’intero spettro elettromagnetico, reazioni nucleari o qualsiasi fenomeno chiamato radiante. Nessuna nuova branca del genere è introdotta da questa FAQ.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-04-FAQ-16",
+          "question": "Posso diventare luce già a IV?",
+          "answer": "No: Radiant Transit è V. Il dossier 144 distingue conversione, percorso ottico e ricostituzione; a V il riferimento è una tratta urbana fino a 5 km, a VI continentale fino a 5.000 km, a VII celeste secondo condizioni e accessi. Il viaggio non lascia un secondo corpo dietro.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": [
+            "EFF-04-V-M01"
+          ]
+        },
+        {
+          "id": "EFF-04-FAQ-17",
+          "question": "Radiant Storage VI è solo una lampada?",
+          "answer": "No: conserva radiazione propria che puoi liberare anche offensivamente dalle uscite predisposte. La differenza da IV è il deposito confinato e il rilascio della quota, non semplicemente una luce più brillante; l’energia custodita può finire.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": [
+            "EFF-04-VI-M01"
+          ]
+        },
+        {
+          "id": "EFF-04-FAQ-18",
+          "question": "Cosa aggiunge VII oltre a fare più danno?",
+          "answer": "Radiant Phase governa il rapporto di fase fra emissioni proprie: rinforza la concentrazione dove colpire e attenua le proprie emissioni dove preservare. Non spegne automaticamente la stella di un altro dio e non crea energia infinita per interferenza.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": [
+            "EFF-04-VII-M01"
+          ]
+        },
+        {
+          "id": "EFF-04-FAQ-19",
+          "question": "Revelation vede ogni cosa illuminata?",
+          "answer": "No: illumini un tavolo con Light, ma un occultamento investito richiede un’esposizione pertinente di Revelation. Puoi svelare una relazione nascosta senza sapere automaticamente nome, biografia e intenzione dei coinvolti.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-04-FAQ-20",
+          "question": "Purification elimina il male o ogni veleno?",
+          "answer": "Separa un contaminante reale raggiunto dall’ospite. Un nemico moralmente malvagio non è una contaminazione; un veleno non diagnosticato non diventa automaticamente noto. Small Separation, confini, custodie ed esorcismo hanno modi differenti e progressivi.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": [
+            "EFF-04-I-M04"
+          ]
+        },
+        {
+          "id": "EFF-04-FAQ-21",
+          "question": "Manifestation evoca un’altra persona o un Avatar?",
+          "answer": "No. Dà interfaccia materiale/spirituale a una presenza già esistente e può mantenerne, dividere o convertire l’interagibilità. Una mano spirituale esposta può essere toccata; non è un nuovo servitore creato dal Bearer.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-04-FAQ-22",
+          "question": "Come combatte Alexander con Halo IV?",
+          "answer": "Può emettere radiazione a potenza semidivina, raccordare più fasci con II, usare l’involucro III e supporti IV; può affiancare esposizione, interfacce ed espulsione delle intrusioni. Non usa Transit V, Storage VI o Phase VII soltanto perché li ricorda.",
+          "source": "GIOCATORE_44_Halo_progressione_completa.md",
+          "ability_ids": []
+        }
+      ]
+    },
+    {
+      "id": "EFF-05",
+      "name": "Heart",
+      "source": "GIOCATORE_45_Heart_progressione_completa.md",
+      "faq_source": "349_FAQ_Heart_uso_pratico.md",
+      "authorities": [
+        "Life",
+        "Spirit",
+        "Restoration"
+      ],
+      "questions": [
+        {
+          "id": "EFF-05-FAQ-01",
+          "question": "Sono soltanto un guaritore?",
+          "answer": "No: Life sostiene vigore e tenuta propri, altera funzioni vitali raggiunte e introduce ridondanze; Spirit possiede impulso lesivo II. La forza personale non richiede che un alleato sia ferito.",
+          "source": "GIOCATORE_45_Heart_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-05-FAQ-02",
+          "question": "Deep Vitality potenzia anche chiunque tocco?",
+          "answer": "I è potenziamento del portatore. Non diventa un’aura universale di forza e resistenza; per sostenere altri usi le funzioni esplicitamente trasferibili di Life e Restoration.",
+          "source": "GIOCATORE_45_Heart_progressione_completa.md",
+          "ability_ids": [
+            "EFF-05-I-M01"
+          ]
+        },
+        {
+          "id": "EFF-05-FAQ-03",
+          "question": "Posso fermare cuore o respiro a distanza?",
+          "answer": "Functional Interference II può alterare una funzione vitale percepita e raggiunta. Non equivale a nominare l’organo di una persona lontana e spegnerlo senza accesso o opposizione; nessuna distanza universale è introdotta qui.",
+          "source": "GIOCATORE_45_Heart_progressione_completa.md",
+          "ability_ids": [
+            "EFF-05-II-M01"
+          ]
+        },
+        {
+          "id": "EFF-05-FAQ-04",
+          "question": "Spirit serve soltanto contro fantasmi?",
+          "answer": "No: anche un vivente ha una componente spirituale. I la percepisce, II la sostiene o lede, III sutura lesioni recuperabili e IV contende ingressi e uscite dei rapporti spirituali presi.",
+          "source": "GIOCATORE_45_Heart_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-05-FAQ-05",
+          "question": "Una ferita spirituale è una malattia mentale?",
+          "answer": "Non necessariamente: riguarda una componente spirituale realmente lesa. Tristezza, trauma psicologico e opinioni non sono automaticamente fratture dell’anima da suturare o correggere.",
+          "source": "GIOCATORE_45_Heart_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-05-FAQ-06",
+          "question": "Posso guarire senza toccare?",
+          "answer": "Restoring Touch I richiede contatto pertinente. Life Transfer III sostiene a distanza una funzione diagnosticata con energia propria; gli altri esercizi seguono i propri rapporti e accessi. Non tutte le cure diventano raggi indistinti.",
+          "source": "GIOCATORE_45_Heart_progressione_completa.md",
+          "ability_ids": [
+            "EFF-05-I-M03",
+            "EFF-05-III-M01"
+          ]
+        },
+        {
+          "id": "EFF-05-FAQ-07",
+          "question": "Living Fortress IV ricrea già il cuore?",
+          "answer": "No: altre strutture interne investite sostengono temporaneamente la funzione dell’organo leso. Extreme Regeneration IV è la capacità distinta che ricresce parti: ridondanza e ricostruzione non sono lo stesso atto.",
+          "source": "GIOCATORE_45_Heart_progressione_completa.md",
+          "ability_ids": [
+            "EFF-05-IV-M01",
+            "EFF-05-IV-M03"
+          ]
+        },
+        {
+          "id": "EFF-05-FAQ-08",
+          "question": "Functional Substitution VI vale anche per un’altra persona?",
+          "answer": "Può sostenere una funzione del soggetto raggiunto con una struttura vivente esterna compatibile già disponibile. Non è Living Fortress assegnata a tutti, non crea quel tessuto dal nulla e dipende dal raccordo alimentato.",
+          "source": "GIOCATORE_45_Heart_progressione_completa.md",
+          "ability_ids": [
+            "EFF-05-IV-M01",
+            "EFF-05-VI-M01"
+          ]
+        },
+        {
+          "id": "EFF-05-FAQ-09",
+          "question": "Quando posso riportare qualcuno in vita?",
+          "answer": "IV ricostruisce parti e può riattivare morte biologica se la stessa continuità è recuperabile; V ricongiunge una continuità morta ancora persistente a un corpo compatibile. Nessuno dei due inventa una persona interamente annullata.",
+          "source": "GIOCATORE_45_Heart_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-05-FAQ-10",
+          "question": "Posso clonare i ricordi e avere una resurrezione sicura?",
+          "answer": "No: Spirit Anchorage V sostiene la stessa persona durante la ricostituzione; non è una copia di riserva. Un corpo nuovo e un archivio di ricordi non provano la sopravvivenza della stessa continuità.",
+          "source": "GIOCATORE_45_Heart_progressione_completa.md",
+          "ability_ids": [
+            "EFF-05-V-M02"
+          ]
+        },
+        {
+          "id": "EFF-05-FAQ-11",
+          "question": "Posso guarire ciò che sta continuando a danneggiare il paziente?",
+          "answer": "Puoi trattare una lesione raggiunta, ma suturare non elimina automaticamente un’intrusione o una maledizione attiva. Spirit Gating IV può contendere accessi; altre cause richiedono contrasto pertinente.",
+          "source": "GIOCATORE_45_Heart_progressione_completa.md",
+          "ability_ids": [
+            "EFF-05-IV-M02"
+          ]
+        },
+        {
+          "id": "EFF-05-FAQ-12",
+          "question": "Cosa rende divino VII?",
+          "answer": "Life può separare una funzione da una singola dipendenza ambientale mediante sostegno proprio; Spirit innesta sostegni compatibili; Restoration distingue configurazione recuperabile e deformazione ostile. Non è semplicemente guarire più velocemente.",
+          "source": "GIOCATORE_45_Heart_progressione_completa.md",
+          "ability_ids": []
+        }
+      ]
+    },
+    {
+      "id": "EFF-06",
+      "name": "Crucible",
+      "source": "GIOCATORE_46_Crucible_progressione_completa.md",
+      "faq_source": "349_FAQ_Crucible_uso_pratico.md",
+      "authorities": [
+        "Composition",
+        "Energy Conversion",
+        "Transmutation"
+      ],
+      "questions": [
+        {
+          "id": "EFF-06-FAQ-01",
+          "question": "Posso creare materia dal nulla come Cradle?",
+          "answer": "No: operi su componenti presenti, trasformazioni e conversioni. La tua fonte può alimentare l’esercizio, ma non significa che una stanza vuota contenga già ogni materiale desiderato.",
+          "source": "GIOCATORE_46_Crucible_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-06-FAQ-02",
+          "question": "Devo essere un chimico ordinario per leggere una lega?",
+          "answer": "Component Sense I percepisce componenti e interfacce nascosti senza reagenti o smontaggio. È una lettura soprannaturale limitata da accesso e resistenza, non soltanto esperienza di laboratorio.",
+          "source": "GIOCATORE_46_Crucible_progressione_completa.md",
+          "ability_ids": [
+            "EFF-06-I-M01"
+          ]
+        },
+        {
+          "id": "EFF-06-FAQ-03",
+          "question": "Posso combattere raffreddando e scaldando?",
+          "answer": "Heat Exchange I sposta o converte quote termiche compatibili. Puoi sottrarre calore a un supporto e investirne un altro, ma devi sostenere il trasferimento: non imponi temperature illimitate ovunque.",
+          "source": "GIOCATORE_46_Crucible_progressione_completa.md",
+          "ability_ids": [
+            "EFF-06-I-M02"
+          ]
+        },
+        {
+          "id": "EFF-06-FAQ-04",
+          "question": "Posso trasformare una corazza nemica?",
+          "answer": "Transmutation può modificarne proprietà e stato secondo rango e presa: I opera su una proprietà superficiale, II sullo stato fisico, III su una struttura progettata. Non si salta alla conversione integrale di un avversario schermato.",
+          "source": "GIOCATORE_46_Crucible_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-06-FAQ-05",
+          "question": "Un semplice tocco trasforma chiunque in oro?",
+          "answer": "No: la descrizione non concede qualunque sostanza, qualunque organismo e qualunque massa in un solo atto. Somatic Transmutation IV riguarda il proprio corpo investito; non è trasformazione biologica arbitraria di ogni persona.",
+          "source": "GIOCATORE_46_Crucible_progressione_completa.md",
+          "ability_ids": [
+            "EFF-06-IV-M03"
+          ]
+        },
+        {
+          "id": "EFF-06-FAQ-06",
+          "question": "Posso proteggermi da un raggio o un’esplosione?",
+          "answer": "Conversion Mantle IV contende componenti dell’aggressione che riesce davvero a convertire. Energia in eccesso, componenti non prese e conversioni incompatibili restano minacce: non è assorbimento universale.",
+          "source": "GIOCATORE_46_Crucible_progressione_completa.md",
+          "ability_ids": [
+            "EFF-06-IV-M02"
+          ]
+        },
+        {
+          "id": "EFF-06-FAQ-07",
+          "question": "Le conversioni danno energia infinita?",
+          "answer": "No: accumulo, dissipazione e capacità dei supporti contano. Conversion Loop V recupera una quota di scarico, non crea un moto perpetuo; distruggere un accumulatore può far perdere o liberare la quota custodita.",
+          "source": "GIOCATORE_46_Crucible_progressione_completa.md",
+          "ability_ids": [
+            "EFF-06-V-M02"
+          ]
+        },
+        {
+          "id": "EFF-06-FAQ-08",
+          "question": "Posso lasciare oggetti che si trasformano dopo?",
+          "answer": "Stored Conversion II accumula un flusso convertito; Transmutation Reserve V conserva una configurazione che opera a un trigger rilevabile. Sono funzioni distinte dalla deliberazione continua sul materiale presente.",
+          "source": "GIOCATORE_46_Crucible_progressione_completa.md",
+          "ability_ids": [
+            "EFF-06-II-M02",
+            "EFF-06-V-M03"
+          ]
+        },
+        {
+          "id": "EFF-06-FAQ-09",
+          "question": "Qual è la differenza fra Composition e Transmutation?",
+          "answer": "Composition legge, separa e organizza componenti e interfacce; Transmutation cambia proprietà, stato e configurazione della materia. Separare il sale da un miscuglio non è la stessa operazione che cambiarne lo stato.",
+          "source": "GIOCATORE_46_Crucible_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-06-FAQ-10",
+          "question": "VII annulla ogni reazione chimica?",
+          "answer": "No: i tre rami contendono composizione investita, verso di conversioni e coesistenza di stati realmente raggiunti. L’autorità divina non fornisce accesso a una reazione sconosciuta dietro qualunque difesa.",
+          "source": "GIOCATORE_46_Crucible_progressione_completa.md",
+          "ability_ids": []
+        }
+      ]
+    },
+    {
+      "id": "EFF-07",
+      "name": "Mask",
+      "source": "GIOCATORE_47_Mask_progressione_completa.md",
+      "faq_source": "349_FAQ_Mask_uso_pratico.md",
+      "authorities": [
+        "Identity",
+        "Representation",
+        "Recognition",
+        "Perception"
+      ],
+      "questions": [
+        {
+          "id": "EFF-07-FAQ-01",
+          "question": "I doppi sono immagini oppure possono colpire?",
+          "answer": "Representation I è una figura percettiva senza forza autonoma; II introduce contatto corporeo investito; III condensa anche presa spirituale. IV sostiene più posizioni combattenti; VI introduce un Avatar con funzioni conferite e autonomia operativa delimitata.",
+          "source": "GIOCATORE_47_Mask_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-07-FAQ-02",
+          "question": "Ogni doppio ha la mia piena potenza?",
+          "answer": "No: stessa fonte e carico condivisi. Moltiplicare le posizioni dà angoli e possibilità, non copie gratuite della riserva e non altre Seats.",
+          "source": "GIOCATORE_47_Mask_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-07-FAQ-03",
+          "question": "Posso attaccare senza creare un doppio?",
+          "answer": "Sì: la superficie investita può rivestire mano o mezzo; Representational Strike III può colpire materialmente o spiritualmente. Identity IV può aggredire il raccordo fra parte e soggetto raggiunto.",
+          "source": "GIOCATORE_47_Mask_progressione_completa.md",
+          "ability_ids": [
+            "EFF-07-III-M02"
+          ]
+        },
+        {
+          "id": "EFF-07-FAQ-04",
+          "question": "Contro un raggio luminoso cosa faccio?",
+          "answer": "Un doppio può offrire un contatto difensivo se la sua tenuta basta; Recognition può disturbare l’indirizzamento prima dell’emissione; un’esca può indurre una mira sbagliata. Recognition Break IV non devia retroattivamente un raggio già in volo.",
+          "source": "GIOCATORE_47_Mask_progressione_completa.md",
+          "ability_ids": [
+            "EFF-07-IV-M03"
+          ]
+        },
+        {
+          "id": "EFF-07-FAQ-05",
+          "question": "Il travestimento cambia davvero il corpo?",
+          "answer": "Perception I modifica apparenza e segnali presi; II rimodella superficialmente corporeità e canali sensoriali entro proporzioni moderate. Non ottieni la biologia completa, la forza o le Effigi della persona imitata.",
+          "source": "GIOCATORE_47_Mask_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-07-FAQ-06",
+          "question": "Inganno anche telecamere, tatto e ogni spirito?",
+          "answer": "Devi prendere i canali pertinenti: un canale non investito può contraddire l’apparenza. Una registrazione isolata può conservare ciò che un osservatore non riconosce. Non c’è invisibilità universale incorporata nel nome Mask.",
+          "source": "GIOCATORE_47_Mask_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-07-FAQ-07",
+          "question": "Identity cambia le memorie degli altri?",
+          "answer": "Governa individuazione e rapporti che attribuiscono parti e supporti alla persona. Non riscrive automaticamente ricordi e opinioni; Recognition governa attribuzioni, Perception segnali, Representation figure efficaci.",
+          "source": "GIOCATORE_47_Mask_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-07-FAQ-08",
+          "question": "Posso trasferirmi in un corpo diverso?",
+          "answer": "Identity Transposition V richiede una corporeità compatibile disponibile e il raccordo della stessa continuità. Non crea un corpo dal nulla e non assoggetta automaticamente il proprietario di un corpo occupato.",
+          "source": "GIOCATORE_47_Mask_progressione_completa.md",
+          "ability_ids": [
+            "EFF-07-V-M01"
+          ]
+        },
+        {
+          "id": "EFF-07-FAQ-09",
+          "question": "Posso esplorare attraverso un oggetto senza Avatar?",
+          "answer": "Sensory Extension V collega una propria esperienza a un’interfaccia esterna realmente investita. Non necessita di Representation, ma riceve soltanto segnali accessibili presso quel supporto.",
+          "source": "GIOCATORE_47_Mask_progressione_completa.md",
+          "ability_ids": [
+            "EFF-07-V-M04"
+          ]
+        },
+        {
+          "id": "EFF-07-FAQ-10",
+          "question": "Quando una figura lavora senza la mia attenzione continua?",
+          "answer": "Invested Avatar VI conferisce funzioni operative definite. Non è un individuo nuovo con una fonte indipendente; perderlo non equivale automaticamente ad annullare l’intera persona.",
+          "source": "GIOCATORE_47_Mask_progressione_completa.md",
+          "ability_ids": [
+            "EFF-07-VI-M02"
+          ]
+        },
+        {
+          "id": "EFF-07-FAQ-11",
+          "question": "VII ricostruisce chi è stato annullato da Ruin?",
+          "answer": "No: Identity Reconciliation ricompone raccordi della stessa continuità superstite. Non inventa un individuo perduto integralmente e non fonde persone distinte perché si somigliano.",
+          "source": "GIOCATORE_47_Mask_progressione_completa.md",
+          "ability_ids": [
+            "EFF-07-VII-M01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EFF-08",
+      "name": "Hourglass",
+      "source": "GIOCATORE_48_Hourglass_progressione_completa.md",
+      "faq_source": "349_FAQ_Hourglass_uso_pratico.md",
+      "authorities": [
+        "Time",
+        "Duration",
+        "Decay",
+        "Recurrence"
+      ],
+      "questions": [
+        {
+          "id": "EFF-08-FAQ-01",
+          "question": "Posso fermare il tempo di tutto il mondo?",
+          "answer": "Non è la funzione concessa dal repertorio. Local Tempo II modifica il ritmo di un processo circoscritto; i confini e le separazioni superiori operano su successioni raggiunte. Non esiste uno stop globale automatico.",
+          "source": "GIOCATORE_48_Hourglass_progressione_completa.md",
+          "ability_ids": [
+            "EFF-08-II-M01"
+          ]
+        },
+        {
+          "id": "EFF-08-FAQ-02",
+          "question": "Posso rallentare un nemico o un proiettile?",
+          "answer": "Se ne raggiungi il processo puoi contenderne il ritmo con Time II, entro tenuta. Percepire bene la successione con Moment Sense I non basta da solo a fermare quel processo.",
+          "source": "GIOCATORE_48_Hourglass_progressione_completa.md",
+          "ability_ids": [
+            "EFF-08-I-M01"
+          ]
+        },
+        {
+          "id": "EFF-08-FAQ-03",
+          "question": "Posso tornare indietro dopo una sconfitta?",
+          "answer": "Recurrence ripete operazioni proprie o ricostituisce configurazioni da nuclei superstiti; non riscrive il passato. Renewal Window IV usa una quota predisposta, non annulla storicamente il colpo ricevuto.",
+          "source": "GIOCATORE_48_Hourglass_progressione_completa.md",
+          "ability_ids": [
+            "EFF-08-IV-M04"
+          ]
+        },
+        {
+          "id": "EFF-08-FAQ-04",
+          "question": "Un pugno può colpire due volte?",
+          "answer": "Repeated Gesture I imprime un’eco operativa della forza o del movimento, con energia propria. Non è soltanto muovere rapidamente il braccio e non implica un secondo corpo cosciente.",
+          "source": "GIOCATORE_48_Hourglass_progressione_completa.md",
+          "ability_ids": [
+            "EFF-08-I-M04"
+          ]
+        },
+        {
+          "id": "EFF-08-FAQ-05",
+          "question": "Posso conservare uno stato che dovrebbe cessare?",
+          "answer": "Duration I sostiene persistenza circoscritta, come una luce residua o un piccolo sostegno che sta cedendo. Non produce necessariamente lo stato iniziale e non rende eterno qualunque effetto.",
+          "source": "GIOCATORE_48_Hourglass_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-08-FAQ-06",
+          "question": "Decay è distruzione pura?",
+          "answer": "No: legge e governa deterioramento e usura reali. Accelerated Wear II aggrava un processo preso; Ruin annulla direttamente. Un nome antico o una fotografia non forniscono la lesione interna richiesta.",
+          "source": "GIOCATORE_48_Hourglass_progressione_completa.md",
+          "ability_ids": [
+            "EFF-08-II-M03"
+          ]
+        },
+        {
+          "id": "EFF-08-FAQ-07",
+          "question": "Posso consumare un organo senza rovinare prima la corazza?",
+          "answer": "Erosion Bypass IV può raccordare il decadimento a una componente interna davvero raggiunta. Non equivale a dichiarare un organo scoperto ignorando la protezione che impedisce la presa.",
+          "source": "GIOCATORE_48_Hourglass_progressione_completa.md",
+          "ability_ids": [
+            "EFF-08-IV-M03"
+          ]
+        },
+        {
+          "id": "EFF-08-FAQ-08",
+          "question": "Posso preparare azioni che accadono dopo?",
+          "answer": "Deferred Completion III trattiene il compimento di un’operazione propria già iniziata; Conditional Echo II e altri trigger hanno condizioni investite. Sono preparazioni effettive, non azioni retroattive inventate dopo l’esito.",
+          "source": "GIOCATORE_48_Hourglass_progressione_completa.md",
+          "ability_ids": [
+            "EFF-08-II-M04",
+            "EFF-08-III-M01"
+          ]
+        },
+        {
+          "id": "EFF-08-FAQ-09",
+          "question": "Posso rendere immortale una persona fermandone l’usura?",
+          "answer": "Decay Arrest V trattiene deterioramento preso ma non ricrea le parti perdute. Cura, continuità spirituale e morte per un altro tipo di attacco rimangono problemi distinti.",
+          "source": "GIOCATORE_48_Hourglass_progressione_completa.md",
+          "ability_ids": [
+            "EFF-08-V-M03"
+          ]
+        },
+        {
+          "id": "EFF-08-FAQ-10",
+          "question": "Cosa fa VII che non fosse già rallentare?",
+          "answer": "Separa successioni, distingue fine della durata e dell’operazione, contende deterioramento ancora reversibile e usa supporti di rinnovo predisposti. Non recupera ciò che non possiede più alcuna continuità recuperabile.",
+          "source": "GIOCATORE_48_Hourglass_progressione_completa.md",
+          "ability_ids": []
+        }
+      ]
+    },
+    {
+      "id": "EFF-09",
+      "name": "Astrolabe",
+      "source": "GIOCATORE_49_Astrolabe_progressione_completa.md",
+      "faq_source": "349_FAQ_Astrolabe_uso_pratico.md",
+      "authorities": [
+        "Space",
+        "Gravity",
+        "Orientation",
+        "Passage"
+      ],
+      "questions": [
+        {
+          "id": "EFF-09-FAQ-01",
+          "question": "Posso teletrasportarmi ovunque lo desideri?",
+          "answer": "Passage richiede estremità e accessi effettivi. I trasferisce un piccolo oggetto fra punti prossimi connessi; II apre soglie limitate. Una coordinata immaginata non è già una destinazione investita.",
+          "source": "GIOCATORE_49_Astrolabe_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-09-FAQ-02",
+          "question": "Posso aprire un portale nel cuore del nemico?",
+          "answer": "Non per averne visto il petto: l’estremità deve raggiungere la componente interna e superarne le difese. Space non rende automaticamente adiacente qualunque punto protetto.",
+          "source": "GIOCATORE_49_Astrolabe_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-09-FAQ-03",
+          "question": "Posso avere una stanza più grande dentro?",
+          "answer": "Held Chamber III configura un volume delimitato con accesso per materia realmente trasferita; Nested Interior V introduce sottovolumi e geometrie sostenute. Non è creare da nulla tutti gli arredi e gli abitanti.",
+          "source": "GIOCATORE_49_Astrolabe_progressione_completa.md",
+          "ability_ids": [
+            "EFF-09-III-M01",
+            "EFF-09-V-M01"
+          ]
+        },
+        {
+          "id": "EFF-09-FAQ-04",
+          "question": "Come ferisce Gravity?",
+          "answer": "Weight Shift I altera peso con forza reale; Directed Fall II orienta caduta o pressione; Gravity Well III attrae; Gravitational Articulation IV distribuisce direzioni differenti fra parti collegate. Il corpo e le sue difese possono resistere alla sollecitazione.",
+          "source": "GIOCATORE_49_Astrolabe_progressione_completa.md",
+          "ability_ids": [
+            "EFF-09-I-M02",
+            "EFF-09-II-M02",
+            "EFF-09-III-M02",
+            "EFF-09-IV-M02"
+          ]
+        },
+        {
+          "id": "EFF-09-FAQ-05",
+          "question": "Un pozzo gravitazionale è già un buco nero?",
+          "answer": "No: il nome non concede massa, densità o collasso illimitati. Il campo è circoscritto e investito; non puoi aggiungere una singolarità astronomica come effetto gratuito di III.",
+          "source": "GIOCATORE_49_Astrolabe_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-09-FAQ-06",
+          "question": "Posso deviare un raggio di Halo?",
+          "answer": "Gravitational Lens VI modifica il tragitto di emissioni raggiunte attraverso il campo. Non produce Light, non prende automaticamente ogni fascio lontano e non significa che la sola lettura delle coordinate I pieghi già la luce.",
+          "source": "GIOCATORE_49_Astrolabe_progressione_completa.md",
+          "ability_ids": [
+            "EFF-09-VI-M02"
+          ]
+        },
+        {
+          "id": "EFF-09-FAQ-07",
+          "question": "Orientation mi mostra ogni cosa dietro un muro?",
+          "answer": "Space I legge geometrie raggiunte; Orientation dà riferimenti e percorsi affidabili rispetto agli inganni pertinenti. Nessuno dei due consegna automaticamente contenuto di lettere, ricordi degli occupanti o tutto ciò che succede in una stanza.",
+          "source": "GIOCATORE_49_Astrolabe_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-09-FAQ-08",
+          "question": "Se un portale si chiude rimango bloccato?",
+          "answer": "Return Mark III può mantenere un accesso di ritorno distinto da quello iniziale. Non è un ritorno garantito se anche quel rapporto viene distrutto o la destinazione non è più compatibile.",
+          "source": "GIOCATORE_49_Astrolabe_progressione_completa.md",
+          "ability_ids": [
+            "EFF-09-III-M04"
+          ]
+        },
+        {
+          "id": "EFF-09-FAQ-09",
+          "question": "I portali selezionano chi passa?",
+          "answer": "Guarded Gate IV discrimina trasferimenti secondo criteri sostenuti e contende chi forza la soglia. Non conosce automaticamente intenzioni e identità autentiche di qualsiasi viaggiatore.",
+          "source": "GIOCATORE_49_Astrolabe_progressione_completa.md",
+          "ability_ids": [
+            "EFF-09-IV-M04"
+          ]
+        },
+        {
+          "id": "EFF-09-FAQ-10",
+          "question": "Posso entrare fisicamente in un ambiente spirituale?",
+          "answer": "Veil Crossing V apre un passaggio corporeo verso un ambiente spirituale compatibile tramite estremità reali. Non rende innocuo ogni ambiente e non concede accesso a tutte le Roots.",
+          "source": "GIOCATORE_49_Astrolabe_progressione_completa.md",
+          "ability_ids": [
+            "EFF-09-V-M04"
+          ]
+        },
+        {
+          "id": "EFF-09-FAQ-11",
+          "question": "Posso usare passaggi e gravità senza andare più veloce con i pensieri?",
+          "answer": "Sì: ridurre una distanza o sostenere un trasferimento non accelera automaticamente deliberazione e riflessi. La difesa può colpire accessi, riferimenti e soglie anziché inseguire il corpo lungo il tragitto ordinario.",
+          "source": "GIOCATORE_49_Astrolabe_progressione_completa.md",
+          "ability_ids": []
+        }
+      ]
+    },
+    {
+      "id": "EFF-10",
+      "name": "Sepulchre",
+      "source": "GIOCATORE_50_Sepulchre_progressione_completa.md",
+      "faq_source": "349_FAQ_Sepulchre_uso_pratico.md",
+      "authorities": [
+        "Death",
+        "Dead Spirits",
+        "Remains",
+        "Repose"
+      ],
+      "questions": [
+        {
+          "id": "EFF-10-FAQ-01",
+          "question": "Death ferisce anche una persona viva?",
+          "answer": "Sì: Mortal Touch I esercita pressione sul confine fra funzione vitale e cessazione. Non devi prima uccidere qualcuno per poter usare l’Effige; rango, accesso e difese limitano l’esito.",
+          "source": "GIOCATORE_50_Sepulchre_progressione_completa.md",
+          "ability_ids": [
+            "EFF-10-I-M01"
+          ]
+        },
+        {
+          "id": "EFF-10-FAQ-02",
+          "question": "Un morto evocato conosce automaticamente tutta la verità?",
+          "answer": "No: Near Dead I distingue presenza e residuo; Dead Address II comunica con un morto raggiunto. Il morto può ignorare, ricordare male o mentire; non diventa onnisciente perché è morto.",
+          "source": "GIOCATORE_50_Sepulchre_progressione_completa.md",
+          "ability_ids": [
+            "EFF-10-I-M02",
+            "EFF-10-II-M02"
+          ]
+        },
+        {
+          "id": "EFF-10-FAQ-03",
+          "question": "Devo portarmi dietro ossa o cadaveri?",
+          "answer": "Remains usa resti autentici già presenti, quindi quel ramo necessita del materiale pertinente. Death può esercitare pressione su un vivente senza ossa in tasca; i rami non sono prerequisiti obbligatori l’uno dell’altro.",
+          "source": "GIOCATORE_50_Sepulchre_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-10-FAQ-04",
+          "question": "Posso creare scheletri che combattono?",
+          "answer": "Residual Motion I muove resti mediante forza investita; Remains Assembly III organizza costrutti funzionali. Non è resurrezione della persona cui appartenevano le ossa e non crea materia dal nulla.",
+          "source": "GIOCATORE_50_Sepulchre_progressione_completa.md",
+          "ability_ids": [
+            "EFF-10-I-M03",
+            "EFF-10-III-M03"
+          ]
+        },
+        {
+          "id": "EFF-10-FAQ-05",
+          "question": "Uno spirito custodito è una mia copia o una batteria senza volontà?",
+          "answer": "È una continuità distinta. Spirit Custody III la custodisce e Invested Dead IV ne permette interventi tramite accessi e capacità realmente disponibili. Non copi automaticamente tutte le sue Effigi nel tuo inventario.",
+          "source": "GIOCATORE_50_Sepulchre_progressione_completa.md",
+          "ability_ids": [
+            "EFF-10-III-M02",
+            "EFF-10-IV-M02"
+          ]
+        },
+        {
+          "id": "EFF-10-FAQ-06",
+          "question": "Posso impedire una resurrezione?",
+          "answer": "Mortal Interdict IV contende il rapporto attraverso cui una condizione morta tenta di tornare viva. Devi prendere quel rapporto: non è un divieto universale su ogni cura in qualunque luogo.",
+          "source": "GIOCATORE_50_Sepulchre_progressione_completa.md",
+          "ability_ids": [
+            "EFF-10-IV-M01"
+          ]
+        },
+        {
+          "id": "EFF-10-FAQ-07",
+          "question": "Posso ritardare una morte senza guarire?",
+          "answer": "Death Stay V trattiene il compimento della morte di una continuità raggiunta. Il corpo resta da curare o ricostituire: sospendere la transizione non equivale alla rigenerazione di Heart.",
+          "source": "GIOCATORE_50_Sepulchre_progressione_completa.md",
+          "ability_ids": [
+            "EFF-10-V-M01"
+          ]
+        },
+        {
+          "id": "EFF-10-FAQ-08",
+          "question": "Repose addormenta tutte le persone?",
+          "answer": "Il ramo riguarda quiete e custodia di attività funerarie e residui pertinenti. Non è l’autorità sul sonno biologico dei viventi, che appartiene ad altri esercizi.",
+          "source": "GIOCATORE_50_Sepulchre_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-10-FAQ-09",
+          "question": "Posso trasferire un morto fra reliquiari?",
+          "answer": "Custodial Transfer VI conserva la stessa continuità attraverso supporti autentici. Non duplica il morto e richiede che il trasferimento abbia un raccordo realmente sostenuto.",
+          "source": "GIOCATORE_50_Sepulchre_progressione_completa.md",
+          "ability_ids": [
+            "EFF-10-VI-M02"
+          ]
+        },
+        {
+          "id": "EFF-10-FAQ-10",
+          "question": "VII rende immortali tutti i morti?",
+          "answer": "Mortality Separation distingue morte dell’incarnazione e cessazione della continuità; gli altri rami accordano interventi, successioni e quieti. Non inventano la stessa persona quando la continuità è stata completamente annullata.",
+          "source": "GIOCATORE_50_Sepulchre_progressione_completa.md",
+          "ability_ids": [
+            "EFF-10-VII-M01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EFF-11",
+      "name": "Seed",
+      "source": "GIOCATORE_51_Seed_progressione_completa.md",
+      "faq_source": "349_FAQ_Seed_uso_pratico.md",
+      "authorities": [
+        "Reproduction",
+        "Heredity",
+        "Development",
+        "Ecology"
+      ],
+      "questions": [
+        {
+          "id": "EFF-11-FAQ-01",
+          "question": "È soltanto un domatore di animali?",
+          "answer": "No: riproduzione, ereditarietà, sviluppo ed ecologia sono rami autonomi. Coordinare una colonia mediante segnali e risorse non equivale a possedere la volontà di ogni animale o persona.",
+          "source": "GIOCATORE_51_Seed_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-11-FAQ-02",
+          "question": "Creo organismi dal nulla come Cradle?",
+          "answer": "Seed governa materiale vivente e germinale, sviluppo e relazioni reali. Nutrimento e sostegno contano: Designed Brood IV sviluppa materiale germinale, non trasforma l’assenza di qualsiasi substrato in Genesis.",
+          "source": "GIOCATORE_51_Seed_progressione_completa.md",
+          "ability_ids": [
+            "EFF-11-IV-M01"
+          ]
+        },
+        {
+          "id": "EFF-11-FAQ-03",
+          "question": "Come attacco con piante o tessuti?",
+          "answer": "Predatory Development III sviluppa radici o organi offensivi da un inoculo raggiunto, che deve attraversare realmente le difese. Non fa comparire una foresta già penetrata nel cuore di una persona mai presa.",
+          "source": "GIOCATORE_51_Seed_progressione_completa.md",
+          "ability_ids": [
+            "EFF-11-III-M03"
+          ]
+        },
+        {
+          "id": "EFF-11-FAQ-04",
+          "question": "Posso proteggere direttamente il mio corpo?",
+          "answer": "Adaptive Cover II sviluppa membrane o protezioni da configurazioni assimilate. Non si adatta gratuitamente a ogni fenomeno sconosciuto; Habitat Membrane IV regola invece gli scambi fra organismo e ambiente.",
+          "source": "GIOCATORE_51_Seed_progressione_completa.md",
+          "ability_ids": [
+            "EFF-11-II-M03",
+            "EFF-11-IV-M04"
+          ]
+        },
+        {
+          "id": "EFF-11-FAQ-05",
+          "question": "Posso cambiare l’aspetto di chiunque?",
+          "answer": "Selected Trait II e Lineage Craft III riguardano materiale germinale e trasmissione; non riscrivono automaticamente il corpo adulto di ogni discendente. Redifferentiation IV può riassegnare tessuto realmente raggiunto entro compatibilità biologica.",
+          "source": "GIOCATORE_51_Seed_progressione_completa.md",
+          "ability_ids": [
+            "EFF-11-II-M02",
+            "EFF-11-III-M02",
+            "EFF-11-IV-M03"
+          ]
+        },
+        {
+          "id": "EFF-11-FAQ-06",
+          "question": "Le creature generate sono schiave?",
+          "answer": "Se sono senzienti restano individui distinti. Riproduzione e sviluppo non introducono un ordine mentale universale; dire che un organismo deriva dalla tua linea non decide la sua fedeltà.",
+          "source": "GIOCATORE_51_Seed_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-11-FAQ-07",
+          "question": "Posso trasmettere un potere ai figli?",
+          "answer": "Germinal Investment IV predispone una funzione investita con fonte e alimentazione. Non moltiplica Seats, non conferisce ogni Effige del genitore e non rende illimitata la riserva della progenie.",
+          "source": "GIOCATORE_51_Seed_progressione_completa.md",
+          "ability_ids": [
+            "EFF-11-IV-M02"
+          ]
+        },
+        {
+          "id": "EFF-11-FAQ-08",
+          "question": "Posso spezzare un vincolo ereditario?",
+          "answer": "Hereditary Partition V separa trasmissioni collegate entro la presa, mantenendo un tratto utile distinto da una dipendenza. Bloccare nuovi casi e liberare i singoli già nati sono problemi differenti.",
+          "source": "GIOCATORE_51_Seed_progressione_completa.md",
+          "ability_ids": [
+            "EFF-11-V-M02"
+          ]
+        },
+        {
+          "id": "EFF-11-FAQ-09",
+          "question": "Mi posso ricostruire da un seme?",
+          "answer": "Germinal Reconstitution V richiede un supporto germinale investito superstite della stessa persona. Non ogni seme ordinario porta la tua continuità e non si riavvia chi è stato annullato integralmente.",
+          "source": "GIOCATORE_51_Seed_progressione_completa.md",
+          "ability_ids": [
+            "EFF-11-V-M03"
+          ]
+        },
+        {
+          "id": "EFF-11-FAQ-10",
+          "question": "Ecology serve soltanto a curare un bosco?",
+          "answer": "Legge e sostiene dipendenze fra organismi, canali e riserve. Può mantenere un habitat, coordinare sostegni o contendere relazioni ostili: non è decorazione naturalistica né comando su tutte le specie del mondo.",
+          "source": "GIOCATORE_51_Seed_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-11-FAQ-11",
+          "question": "Quanto velocemente cresce ciò che produco?",
+          "answer": "Lo sviluppo è accelerato dall’esercizio e sostenuto da risorse; non possiede un unico tempo per ogni organismo e rango. Una coltura semplice I non ha automaticamente la complessità e il ritmo di un organismo investito IV.",
+          "source": "GIOCATORE_51_Seed_progressione_completa.md",
+          "ability_ids": []
+        }
+      ]
+    },
+    {
+      "id": "EFF-12",
+      "name": "Crown",
+      "source": "GIOCATORE_52_Crown_progressione_completa.md",
+      "faq_source": "349_FAQ_Crown_uso_pratico.md",
+      "authorities": [
+        "Law",
+        "Hierarchy",
+        "Judgment",
+        "Delegation"
+      ],
+      "questions": [
+        {
+          "id": "EFF-12-FAQ-01",
+          "question": "Le mie norme sono consigli o esercitano forza?",
+          "answer": "Small Ordinance I oppone forza reale a un accesso prossimo; le norme successive possono avere condizioni e sanzioni investite. Non richiedono che il nemico condivida la tua opinione o riconosca la tua autorità politica.",
+          "source": "GIOCATORE_52_Crown_progressione_completa.md",
+          "ability_ids": [
+            "EFF-12-I-M01"
+          ]
+        },
+        {
+          "id": "EFF-12-FAQ-02",
+          "question": "Posso dire è vietato respirare e vincere?",
+          "answer": "Una frase non basta: occorrono ambito, accesso, funzione concessa, energia e contesa. La sanzione non è automaticamente qualunque conseguenza immaginabile e una norma non raggiunge tutti gli organismi soltanto nominandoli.",
+          "source": "GIOCATORE_52_Crown_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-12-FAQ-03",
+          "question": "Essere duca rende più forte Crown?",
+          "answer": "Il titolo civile e la gerarchia investita sono distinti. Rank Distinction I percepisce rapporti operativi, Assigned Place II costituisce precedenze magiche sostenute. Alexander non incorpora Crown perché ha conti subordinati.",
+          "source": "GIOCATORE_52_Crown_progressione_completa.md",
+          "ability_ids": [
+            "EFF-12-I-M02",
+            "EFF-12-II-M02"
+          ]
+        },
+        {
+          "id": "EFF-12-FAQ-04",
+          "question": "Come attacco senza uno Stato o un tribunale?",
+          "answer": "Measured Sanction II può applicare un urto o un’interdizione circoscritta a una violazione realmente rilevata; le norme possono ostacolare accessi. Il criterio e l’ambito vanno stabiliti: non serve fondare un impero per iniziare.",
+          "source": "GIOCATORE_52_Crown_progressione_completa.md",
+          "ability_ids": [
+            "EFF-12-II-M03"
+          ]
+        },
+        {
+          "id": "EFF-12-FAQ-05",
+          "question": "Judgment conosce la colpa morale?",
+          "answer": "No: confronta fatti raggiunti con criteri e produce attestazioni o sanzioni pertinenti. Un criterio ingiusto non diventa moralmente vero e ciò che non è stato osservato non viene inventato per giustificare una condanna.",
+          "source": "GIOCATORE_52_Crown_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-12-FAQ-06",
+          "question": "Posso proteggere una stanza e lasciare entrare alleati?",
+          "answer": "Un ordinamento può distinguere accessi con condizioni riconoscibili e sostenibili. Non legge automaticamente chi è segretamente buono: una discriminazione deve avere dati e rapporti effettivi.",
+          "source": "GIOCATORE_52_Crown_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-12-FAQ-07",
+          "question": "Delegation trasferisce la mia Effige?",
+          "answer": "Conferisce funzioni delimitate attraverso rapporti alimentati, non la Seat o tutta la competenza personale. Può investire persone o supporti e già I conferisce forza a un compito circoscritto.",
+          "source": "GIOCATORE_52_Crown_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-12-FAQ-08",
+          "question": "Se revoco una delega cancello ciò che ha già fatto?",
+          "answer": "Revocable Office III scioglie il conferimento sostenuto, ma un risultato Independent resta avvenuto. Un muro realmente abbattuto non si ricostruisce perché l’ufficio perde il mandato.",
+          "source": "GIOCATORE_52_Crown_progressione_completa.md",
+          "ability_ids": [
+            "EFF-12-III-M04"
+          ]
+        },
+        {
+          "id": "EFF-12-FAQ-09",
+          "question": "Due Crown possono avere norme nello stesso luogo?",
+          "answer": "Concurrent Jurisdiction IV mantiene e contende ambiti sovrapposti. Nessuno vince solo perché ha pronunciato per primo la parola legge; accessi, priorità e tenuta restano oggetto di confronto.",
+          "source": "GIOCATORE_52_Crown_progressione_completa.md",
+          "ability_ids": [
+            "EFF-12-IV-M01"
+          ]
+        },
+        {
+          "id": "EFF-12-FAQ-10",
+          "question": "VII fa diventare una frase la legge dell’universo?",
+          "answer": "Le operazioni divine contendono ordinamenti e rapporti presi, organizzano funzioni e successioni. La scala superiore non elimina le condizioni dell’esercizio né crea sovranità automatica su tutte le altre Effigi.",
+          "source": "GIOCATORE_52_Crown_progressione_completa.md",
+          "ability_ids": []
+        }
+      ]
+    },
+    {
+      "id": "EFF-13",
+      "name": "Chain",
+      "source": "GIOCATORE_53_Chain_progressione_completa.md",
+      "faq_source": "349_FAQ_Chain_uso_pratico.md",
+      "authorities": [
+        "Binding",
+        "Captivity",
+        "Dependency",
+        "Transmission"
+      ],
+      "questions": [
+        {
+          "id": "EFF-13-FAQ-01",
+          "question": "Devo avere catene metalliche?",
+          "answer": "No: Binding esercita un vincolo investito, che può usare mezzi e supporti compatibili senza dipendere dal ferro. Una forma di catena non è però una nuova creatura autonoma.",
+          "source": "GIOCATORE_53_Chain_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-13-FAQ-02",
+          "question": "Posso attaccare semplicemente legando un braccio?",
+          "answer": "First Binding I limita un gesto o tiene due oggetti mediante forza reale; Directed Tether II mantiene distanza o tensione. L’avversario può contrastare la tenuta, non è necessario che accetti un contratto.",
+          "source": "GIOCATORE_53_Chain_progressione_completa.md",
+          "ability_ids": [
+            "EFF-13-I-M01",
+            "EFF-13-II-M01"
+          ]
+        },
+        {
+          "id": "EFF-13-FAQ-03",
+          "question": "Posso immobilizzare soltanto l’arma invece di tutto il corpo?",
+          "answer": "Selective Bond III prende una funzione o componente pertinente. Non si presume di avere l’intera persona solo perché si è bloccato il manico della sua pistola.",
+          "source": "GIOCATORE_53_Chain_progressione_completa.md",
+          "ability_ids": [
+            "EFF-13-III-M01"
+          ]
+        },
+        {
+          "id": "EFF-13-FAQ-04",
+          "question": "Una gabbia protegge anche me?",
+          "answer": "Captivity può impedire un’uscita o creare una custodia raggiunta; Selective Confinement II discrimina passaggi e Custodial Reversal VI contende il verso del contenimento. All’inizio una piccola gabbia non è già un’intera fortezza spirituale.",
+          "source": "GIOCATORE_53_Chain_progressione_completa.md",
+          "ability_ids": [
+            "EFF-13-II-M02",
+            "EFF-13-VI-M02"
+          ]
+        },
+        {
+          "id": "EFF-13-FAQ-05",
+          "question": "Dependency spegne qualsiasi potere?",
+          "answer": "III contende una dipendenza avversaria raggiunta, come alimentazione o trigger. Non decide che ogni magia dipenda da un cavo inesistente e non annulla tutti gli effetti Independent già prodotti.",
+          "source": "GIOCATORE_53_Chain_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-13-FAQ-06",
+          "question": "Posso obbligare una funzione a dipendere da una condizione?",
+          "answer": "Coupled Function II istituisce un rapporto soprannaturale preso: quella funzione non passa attraverso il rapporto finché manca il sostegno imposto. Non equivale a governare tutta la volontà del soggetto come Scroll.",
+          "source": "GIOCATORE_53_Chain_progressione_completa.md",
+          "ability_ids": [
+            "EFF-13-II-M03"
+          ]
+        },
+        {
+          "id": "EFF-13-FAQ-07",
+          "question": "Transmission serve soltanto a mandare messaggi?",
+          "answer": "I crea un canale di segnale; II trasmette un impulso di forza reale. Puoi sostenere o colpire attraverso il raccordo compatibile, dividendo capacità e subendo perdite del mezzo.",
+          "source": "GIOCATORE_53_Chain_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-13-FAQ-08",
+          "question": "Posso agire senza toccare il nemico in quel momento?",
+          "answer": "Una presa già valida, un canale o Conditional Bond IV possono esercitarsi secondo le proprie condizioni. Non significa un collegamento universale a chiunque sia nominato su un foglio.",
+          "source": "GIOCATORE_53_Chain_progressione_completa.md",
+          "ability_ids": [
+            "EFF-13-IV-M01"
+          ]
+        },
+        {
+          "id": "EFF-13-FAQ-09",
+          "question": "Posso liberare qualcuno al primo stadio?",
+          "answer": "Puoi contendere i vincoli entro la funzione effettiva disponibile; Bond Articulation V è lo scioglimento selettivo di prese composte. Non attribuire I–II lo smontaggio universale di qualsiasi legame altrui.",
+          "source": "GIOCATORE_53_Chain_progressione_completa.md",
+          "ability_ids": [
+            "EFF-13-V-M01"
+          ]
+        },
+        {
+          "id": "EFF-13-FAQ-10",
+          "question": "Posso spostare un prigioniero senza aprire tutta la gabbia?",
+          "answer": "Portable Custody IV trasferisce il raccordo fra supporti predisposti; Compartmented Prison V distingue spazi e permessi. Non è un portale libero verso qualunque destinazione.",
+          "source": "GIOCATORE_53_Chain_progressione_completa.md",
+          "ability_ids": [
+            "EFF-13-IV-M02",
+            "EFF-13-V-M02"
+          ]
+        },
+        {
+          "id": "EFF-13-FAQ-11",
+          "question": "VII rimanda indietro un attacco già accaduto?",
+          "answer": "Channel Return può rinviare una quota attraverso il percorso preso; Bond Reversal e Dependency Inversion contendono rapporti pertinenti. Non cancellano retroattivamente il danno già indipendente.",
+          "source": "GIOCATORE_53_Chain_progressione_completa.md",
+          "ability_ids": [
+            "EFF-13-VII-M01",
+            "EFF-13-VII-M03",
+            "EFF-13-VII-M04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EFF-14",
+      "name": "Coin",
+      "source": "GIOCATORE_54_Coin_progressione_completa.md",
+      "faq_source": "349_FAQ_Coin_uso_pratico.md",
+      "authorities": [
+        "Value",
+        "Exchange",
+        "Possession",
+        "Claim"
+      ],
+      "questions": [
+        {
+          "id": "EFF-14-FAQ-01",
+          "question": "Devo essere ricco per combattere?",
+          "answer": "Value impegna una quota e risorse operative compatibili, non la reputazione economica dichiarata. First Stake I può sostenere un pugno o una parata ordinari con forza investita: non serve prima possedere una banca.",
+          "source": "GIOCATORE_54_Coin_progressione_completa.md",
+          "ability_ids": [
+            "EFF-14-I-M01"
+          ]
+        },
+        {
+          "id": "EFF-14-FAQ-02",
+          "question": "Posso comprare un fulmine pagando una moneta?",
+          "answer": "No: Exchange trasferisce risorse e componenti compatibili attraverso scambi reali. Il prezzo immaginato di un fenomeno non ti conferisce l’autorità di Tempest né un’incorporazione estranea.",
+          "source": "GIOCATORE_54_Coin_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-14-FAQ-03",
+          "question": "Dove si vede l’offesa di Value?",
+          "answer": "I libera un impulso di forza o tenuta; II investe persistentemente un mezzo. Un bastone ordinario può diventare un mezzo investito: l’azione e il rapporto devono essere realmente sostenuti, non soltanto dichiarati preziosi.",
+          "source": "GIOCATORE_54_Coin_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-14-FAQ-04",
+          "question": "Posso scaricare una ferita su un pegno?",
+          "answer": "Collateral Bond III sostiene una lesione dell’esercizio mediante la quota di garanzia pertinente, esposta a perdita reale. Non trasferisce automaticamente qualsiasi morte a un oggetto economico qualunque.",
+          "source": "GIOCATORE_54_Coin_progressione_completa.md",
+          "ability_ids": [
+            "EFF-14-III-M01"
+          ]
+        },
+        {
+          "id": "EFF-14-FAQ-05",
+          "question": "Posso rubare la funzione di un’arma?",
+          "answer": "Selected Seizure III sequestra una funzione o quota presa; Use Seizure V riguarda un impiego investito. Non ottieni tutta l’Effige del proprietario, la sua persona o ogni funzione non raggiunta.",
+          "source": "GIOCATORE_54_Coin_progressione_completa.md",
+          "ability_ids": [
+            "EFF-14-III-M04",
+            "EFF-14-V-M04"
+          ]
+        },
+        {
+          "id": "EFF-14-FAQ-06",
+          "question": "Possession mi teletrasporta tutti i miei beni?",
+          "answer": "Owned Contact I e i marchi sostengono rapporti di riscontro e possesso. Remote Custody III richiama o protegge una funzione tramite quel rapporto, non ogni oggetto lontano senza un meccanismo di trasferimento.",
+          "source": "GIOCATORE_54_Coin_progressione_completa.md",
+          "ability_ids": [
+            "EFF-14-I-M03",
+            "EFF-14-III-M03"
+          ]
+        },
+        {
+          "id": "EFF-14-FAQ-07",
+          "question": "Gli scambi richiedono sempre il consenso del nemico?",
+          "answer": "Un atto civile volontario e la contesa magica su una risorsa non sono la stessa cosa. Il ramo può contendere scambi e prese investite; chiamare uno scambio non rende valido qualunque scippo metafisico immaginato.",
+          "source": "GIOCATORE_54_Coin_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-14-FAQ-08",
+          "question": "Posso conservare energia per un secondo momento?",
+          "answer": "Reserve Escrow V custodisce una garanzia reale; Conditional Escrow V deposita uno scambio che si compie a condizione. La quota depositata non può contemporaneamente alimentare ogni altro attacco.",
+          "source": "GIOCATORE_54_Coin_progressione_completa.md",
+          "ability_ids": [
+            "EFF-14-V-M01",
+            "EFF-14-V-M02"
+          ]
+        },
+        {
+          "id": "EFF-14-FAQ-09",
+          "question": "Se una garanzia è distrutta la recupero tutta?",
+          "answer": "No: Collateral Redemption IV libera la quota autentica non consumata. Il consumo e la perdita sono veri; nessun rimborso infinito viene prodotto dal nome riscatto.",
+          "source": "GIOCATORE_54_Coin_progressione_completa.md",
+          "ability_ids": [
+            "EFF-14-IV-M01"
+          ]
+        },
+        {
+          "id": "EFF-14-FAQ-10",
+          "question": "VII altera il prezzo di tutta la realtà?",
+          "answer": "Contende rapporti investiti di valore, possesso, pretesa e scambio effettivamente presi. Non trasforma una rivalutazione arbitraria in potere universale su materia, tempo e anime.",
+          "source": "GIOCATORE_54_Coin_progressione_completa.md",
+          "ability_ids": []
+        }
+      ]
+    },
+    {
+      "id": "EFF-15",
+      "name": "Banner",
+      "source": "GIOCATORE_55_Banner_progressione_completa.md",
+      "faq_source": "349_FAQ_Banner_uso_pratico.md",
+      "authorities": [
+        "Conflict",
+        "Mobilization",
+        "Strategy",
+        "Conquest"
+      ],
+      "questions": [
+        {
+          "id": "EFF-15-FAQ-01",
+          "question": "Senza soldati sono debole?",
+          "answer": "No: Personal Contest I concentra forza e difesa sul confronto personale; Ready Instrument I investe un mezzo ordinario; Incorporated Armament IV integra una funzione di armamento nel corpo. Nessun esercito è requisito di sopravvivenza.",
+          "source": "GIOCATORE_55_Banner_progressione_completa.md",
+          "ability_ids": [
+            "EFF-15-I-M01",
+            "EFF-15-I-M02",
+            "EFF-15-IV-M02"
+          ]
+        },
+        {
+          "id": "EFF-15-FAQ-02",
+          "question": "Posso usare pugni, armi da fuoco e armi bianche?",
+          "answer": "Sono mezzi ordinari su cui esercitare le funzioni pertinenti. Investire un mezzo non gli assegna capacità ignote di un’altra Effige e un proiettile conserva il proprio modo di propagazione, salvo intervento effettivo previsto.",
+          "source": "GIOCATORE_55_Banner_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-15-FAQ-03",
+          "question": "Strategy è soltanto esperienza militare?",
+          "answer": "Tactical Reading I percepisce finestre operative oltre i segnali ordinari; Prepared Response II esercita una risposta investita su trigger; i ranghi successivi riconfigurano alternative. Non sono semplici consigli tattici.",
+          "source": "GIOCATORE_55_Banner_progressione_completa.md",
+          "ability_ids": [
+            "EFF-15-I-M03",
+            "EFF-15-II-M03"
+          ]
+        },
+        {
+          "id": "EFF-15-FAQ-04",
+          "question": "Posso reagire senza decidere ogni parata?",
+          "answer": "Prepared Response II e Alternative Plan III predispongono funzioni e selettori reali; Adaptive Interception IV modifica la risposta in corso. Non predicono una mossa che nessuno ha deciso né proteggono contro tutto.",
+          "source": "GIOCATORE_55_Banner_progressione_completa.md",
+          "ability_ids": [
+            "EFF-15-II-M03",
+            "EFF-15-III-M03",
+            "EFF-15-IV-M03"
+          ]
+        },
+        {
+          "id": "EFF-15-FAQ-05",
+          "question": "Mobilization controlla la volontà delle truppe?",
+          "answer": "Rally Signal II sostiene coordinamento di chi riceve il segnale, senza cancellarne volontà e opinioni. Un comandante magico non rende fedeli per nascita o impossibilitati a dissentire.",
+          "source": "GIOCATORE_55_Banner_progressione_completa.md",
+          "ability_ids": [
+            "EFF-15-II-M02"
+          ]
+        },
+        {
+          "id": "EFF-15-FAQ-06",
+          "question": "Conquest richiede di occupare un regno?",
+          "answer": "Held Ground I può investire una posizione realmente conquistata anche con azioni ordinarie. Secured Access III consolida un accesso; Personal Redoubt IV porta nella protezione personale il rapporto della posizione presa.",
+          "source": "GIOCATORE_55_Banner_progressione_completa.md",
+          "ability_ids": [
+            "EFF-15-I-M04",
+            "EFF-15-III-M04",
+            "EFF-15-IV-M04"
+          ]
+        },
+        {
+          "id": "EFF-15-FAQ-07",
+          "question": "Devo restare fermo sul terreno conquistato?",
+          "answer": "Le funzioni iniziali dipendono dalla presa descritta; IV dà una modalità personale oltre quel suolo e VI trasferisce un vantaggio prima dell’evacuazione. Non anticipare queste funzioni dal solo nome Conquest.",
+          "source": "GIOCATORE_55_Banner_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-15-FAQ-08",
+          "question": "Posso far combattere armi lasciate sul campo?",
+          "answer": "Occorre una funzione predisposta con mezzi, trigger e quota, come Deferred Muster VI, non un esercito di oggetti automaticamente coscienti. Un’arma reale può eseguire il compito conferito senza diventare un Avatar.",
+          "source": "GIOCATORE_55_Banner_progressione_completa.md",
+          "ability_ids": [
+            "EFF-15-VI-M02"
+          ]
+        },
+        {
+          "id": "EFF-15-FAQ-09",
+          "question": "Chi è fuori dal combattimento viene protetto automaticamente?",
+          "answer": "Contested Boundary IV distingue chi esercita pressione nel confronto, ma non crea una tutela morale universale. L’ambito va preso e l’energia di un’esplosione continua ad avere conseguenze materiali.",
+          "source": "GIOCATORE_55_Banner_progressione_completa.md",
+          "ability_ids": [
+            "EFF-15-IV-M01"
+          ]
+        },
+        {
+          "id": "EFF-15-FAQ-10",
+          "question": "Cosa cambia a VII?",
+          "answer": "Le funzioni divine usano vantaggi realmente conquistati per aggredire sostegni, richiamare investimenti o sostenere piani-esca pertinenti. Non impongono vittoria storica o fedeltà di tutti gli abitanti conquistati.",
+          "source": "GIOCATORE_55_Banner_progressione_completa.md",
+          "ability_ids": []
+        }
+      ]
+    },
+    {
+      "id": "EFF-16",
+      "name": "Oracle",
+      "source": "GIOCATORE_56_Oracle_progressione_completa.md",
+      "faq_source": "349_FAQ_Oracle_uso_pratico.md",
+      "authorities": [
+        "Knowledge",
+        "Interpretation",
+        "Divination",
+        "Spellcraft"
+      ],
+      "questions": [
+        {
+          "id": "EFF-16-FAQ-01",
+          "question": "Posso lanciare magia senza studiare un nemico prima?",
+          "answer": "Sì: Force and Ward I produce urto e barriera propri. Non dipendi da una reliquia, da un nuovo modello nemico o dalla presenza di un altro mago per attaccare e difenderti.",
+          "source": "GIOCATORE_56_Oracle_progressione_completa.md",
+          "ability_ids": [
+            "EFF-16-I-M04"
+          ]
+        },
+        {
+          "id": "EFF-16-FAQ-02",
+          "question": "Che attacchi magici possiedo concretamente?",
+          "answer": "I urto; II emissione divisa e trasferimento termico con Forked Arc; III vettori offensivi, deviazioni e formula su un nodo compreso; VI intervento su processo magico avverso. Non è soltanto raccogliere informazioni.",
+          "source": "GIOCATORE_56_Oracle_progressione_completa.md",
+          "ability_ids": [
+            "EFF-16-II-M04"
+          ]
+        },
+        {
+          "id": "EFF-16-FAQ-03",
+          "question": "Posso avere un grimorio di qualunque elemento?",
+          "answer": "Spellcraft compone le funzioni concesse e i modelli realmente assimilati. Chiamarsi mago non dà automaticamente tutte le Effigi o qualsiasi incantesimo di un’altra opera.",
+          "source": "GIOCATORE_56_Oracle_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-16-FAQ-04",
+          "question": "Knowledge è una semplice capacità di apprendimento?",
+          "answer": "Operative Insight I assimila relazioni funzionali esposte oltre la deduzione ordinaria; II simula in ambiente investito; III rende operativo un modello in un dispositivo. Sono esercizi soprannaturali autonomi.",
+          "source": "GIOCATORE_56_Oracle_progressione_completa.md",
+          "ability_ids": [
+            "EFF-16-I-M01"
+          ]
+        },
+        {
+          "id": "EFF-16-FAQ-05",
+          "question": "Interpretation duplica Information di Scroll?",
+          "answer": "Legge e modella rapporti di funzionamento per esercitarli e contenderli. Scroll si concentra su codifiche, formulazioni e volontà; nessun ramo conosce automaticamente tutto ciò che l’altro potrebbe analizzare.",
+          "source": "GIOCATORE_56_Oracle_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-16-FAQ-06",
+          "question": "Posso conoscere il futuro esatto?",
+          "answer": "Divination interroga rapporti e campioni reali. Conditional Forecast II produce risposte condizionali che possono essere schermate o ambigue; una domanda non crea dati su un luogo cui manca qualunque accesso.",
+          "source": "GIOCATORE_56_Oracle_progressione_completa.md",
+          "ability_ids": [
+            "EFF-16-II-M03"
+          ]
+        },
+        {
+          "id": "EFF-16-FAQ-07",
+          "question": "Posso copiare il potere di un dio guardandolo?",
+          "answer": "Comprendere un modello non incorpora fonte, Seat o intera Effige. Knowledge Translation VII traspone una relazione realmente compresa in un mezzo compatibile, senza diventare il titolare della competenza osservata.",
+          "source": "GIOCATORE_56_Oracle_progressione_completa.md",
+          "ability_ids": [
+            "EFF-16-VII-M01"
+          ]
+        },
+        {
+          "id": "EFF-16-FAQ-08",
+          "question": "Posso preparare protezioni che rispondono da sole?",
+          "answer": "Living Diagram IV incorpora circuito sensore-risposta; modelli e supporti possono avere trigger e quota secondo la capacità. Non è una seconda mente indipendente né una difesa infinita.",
+          "source": "GIOCATORE_56_Oracle_progressione_completa.md",
+          "ability_ids": [
+            "EFF-16-IV-M01"
+          ]
+        },
+        {
+          "id": "EFF-16-FAQ-09",
+          "question": "L’antimagia richiede analisi?",
+          "answer": "Gli interventi sui nodi compresi e i processi avversi richiedono un modello pertinente e presa. La barriera propria I no: può opporsi frontalmente anche prima di comprendere il colpo, se la tenuta basta.",
+          "source": "GIOCATORE_56_Oracle_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-16-FAQ-10",
+          "question": "Come si distingue da Archive?",
+          "answer": "Oracle sviluppa ed esercita modelli e formule; Archive conserva tracce, attestazioni e rievocazioni autentiche. Simulare una relazione nuova non è lo stesso che rievocare una funzione realmente registrata.",
+          "source": "GIOCATORE_56_Oracle_progressione_completa.md",
+          "ability_ids": []
+        }
+      ]
+    },
+    {
+      "id": "EFF-17",
+      "name": "Archive",
+      "source": "GIOCATORE_57_Archive_progressione_completa.md",
+      "faq_source": "349_FAQ_Archive_uso_pratico.md",
+      "authorities": [
+        "Memory",
+        "Trace",
+        "Attestation",
+        "Preservation",
+        "Re-enactment"
+      ],
+      "questions": [
+        {
+          "id": "EFF-17-FAQ-01",
+          "question": "Se non ho reperti e libri non posso combattere?",
+          "answer": "Recorded Blow I è un repertorio iniziale incorporato di urto e parata. Non occorre cercare ogni volta una nuova reliquia per poter usare l’Effige.",
+          "source": "GIOCATORE_57_Archive_progressione_completa.md",
+          "ability_ids": [
+            "EFF-17-I-M05"
+          ]
+        },
+        {
+          "id": "EFF-17-FAQ-02",
+          "question": "Che magia offensiva posso esercitare?",
+          "answer": "Puoi rievocare colpi, attivare impulsi residui, intrecciare una barriera con una scarica attestata e contendere legami mediante precedenti pertinenti. La rievocazione è un esercizio presente alimentato, non il passato che ritorna fisicamente.",
+          "source": "GIOCATORE_57_Archive_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-17-FAQ-03",
+          "question": "Devo subire un colpo per copiarlo?",
+          "answer": "Serve una registrazione, traccia o attestazione autentica compatibile con la funzione. Non è necessariamente subire il danno; vedere un gesto non concede automaticamente fonte e intera capacità dell’esecutore.",
+          "source": "GIOCATORE_57_Archive_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-17-FAQ-04",
+          "question": "Posso registrare un dio e diventare quel dio?",
+          "answer": "No: conservi contenuti e funzioni delimitate, non la Seat né tutta la continuità personale. La tua sorgente deve sostenere l’impiego, con tenuta e scala compatibili.",
+          "source": "GIOCATORE_57_Archive_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-17-FAQ-05",
+          "question": "Memory conserva qualunque informazione mai esistita?",
+          "answer": "Held Moment I conserva un’esperienza vissuta con precisione soprannaturale; i ranghi successivi custodiscono e raccordano registrazioni autentiche. Non aggiunge eventi mai osservati e frammenti interamente perduti.",
+          "source": "GIOCATORE_57_Archive_progressione_completa.md",
+          "ability_ids": [
+            "EFF-17-I-M01"
+          ]
+        },
+        {
+          "id": "EFF-17-FAQ-06",
+          "question": "Trace legge la storia completa di un oggetto?",
+          "answer": "Residual Sense I percepisce residui autentici presenti. Una traccia può essere incompleta, sovrapposta o interrotta: non è una biografia universale del proprietario.",
+          "source": "GIOCATORE_57_Archive_progressione_completa.md",
+          "ability_ids": [
+            "EFF-17-I-M02"
+          ]
+        },
+        {
+          "id": "EFF-17-FAQ-07",
+          "question": "Attestation rende vera una bugia scritta bene?",
+          "answer": "No: certifica un rapporto reale fra testimonianza e referente, non l’onniscienza del testimone. Una registrazione autentica può non aver osservato il dettaglio decisivo.",
+          "source": "GIOCATORE_57_Archive_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-17-FAQ-08",
+          "question": "Preservation mi rende invulnerabile?",
+          "answer": "Echo Bastion III mantiene strati finiti di protezione; altre custodie preservano stati o eventi compatibili. Un colpo adeguato può consumare o superare la tenuta, e preservare un sigillo non preserva automaticamente tutto il corpo.",
+          "source": "GIOCATORE_57_Archive_progressione_completa.md",
+          "ability_ids": [
+            "EFF-17-III-M04"
+          ]
+        },
+        {
+          "id": "EFF-17-FAQ-09",
+          "question": "Posso lasciare un incantesimo dentro una reliquia?",
+          "answer": "Relic Activation II deposita una rievocazione attestata che il supporto può esercitare senza il gesto attuale. Fonte, trigger, contenuto e consumo devono essere predisposti: non ogni oggetto antico è già carico.",
+          "source": "GIOCATORE_57_Archive_progressione_completa.md",
+          "ability_ids": [
+            "EFF-17-II-M05"
+          ]
+        },
+        {
+          "id": "EFF-17-FAQ-10",
+          "question": "Una rievocazione cambia ciò che avvenne anni fa?",
+          "answer": "No: Event Reordering VI riarticola componenti attestate in un nuovo esercizio presente. Non corregge il passato e non trasforma un progetto narrativo futuro in un evento già registrato.",
+          "source": "GIOCATORE_57_Archive_progressione_completa.md",
+          "ability_ids": [
+            "EFF-17-VI-M05"
+          ]
+        },
+        {
+          "id": "EFF-17-FAQ-11",
+          "question": "VII può recuperare qualsiasi ricordo cancellato?",
+          "answer": "Memory Reconciliation ricompone custodie autentiche e contenuti superstiti. Non inventa ciò che manca completamente; gli altri rami separano tracce e attestazioni o traspongono funzioni con rapporti reali.",
+          "source": "GIOCATORE_57_Archive_progressione_completa.md",
+          "ability_ids": [
+            "EFF-17-VII-M01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EFF-18",
+      "name": "Labyrinth",
+      "source": "GIOCATORE_58_Labyrinth_progressione_completa.md",
+      "faq_source": "349_FAQ_Labyrinth_uso_pratico.md",
+      "authorities": [
+        "Mind",
+        "Dream",
+        "Emotion",
+        "Interior Architecture"
+      ],
+      "questions": [
+        {
+          "id": "EFF-18-FAQ-01",
+          "question": "Leggo subito tutti i pensieri e i ricordi?",
+          "answer": "Surface Thought I raggiunge contenuti affioranti, non intera biografia e pensieri di ogni persona vicina. I compartimenti e le difese mentali possono limitare la presa.",
+          "source": "GIOCATORE_58_Labyrinth_progressione_completa.md",
+          "ability_ids": [
+            "EFF-18-I-M01"
+          ]
+        },
+        {
+          "id": "EFF-18-FAQ-02",
+          "question": "Posso far cambiare attenzione o associazioni?",
+          "answer": "Directed Thought II interviene su un percorso mentale raggiunto. Non equivale al controllo dell’assenso e degli obiettivi di Will: può dirigere l’esperienza senza rendere ogni ordine una decisione propria.",
+          "source": "GIOCATORE_58_Labyrinth_progressione_completa.md",
+          "ability_ids": [
+            "EFF-18-II-M01"
+          ]
+        },
+        {
+          "id": "EFF-18-FAQ-03",
+          "question": "Emotion è solo carisma normale?",
+          "answer": "Emotional Pressure I modula soprannaturalmente stati affioranti; i ranghi successivi ne governano scudi, trigger e raccordi con funzioni. Non è una normale conversazione e non garantisce fedeltà eterna.",
+          "source": "GIOCATORE_58_Labyrinth_progressione_completa.md",
+          "ability_ids": [
+            "EFF-18-I-M03"
+          ]
+        },
+        {
+          "id": "EFF-18-FAQ-04",
+          "question": "Come attacco senza ferire il corpo?",
+          "answer": "Puoi perturbare attenzione e stati affettivi; IV introduce disgiunzione fra funzione mentale e comando, lesione onirica e afflizione semidivina. L’effetto deve raggiungere mente o spirito: non basta che il nemico abbia paura di te.",
+          "source": "GIOCATORE_58_Labyrinth_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-18-FAQ-05",
+          "question": "Se ferisco qualcuno in sogno muore davvero?",
+          "answer": "Oneiric Wound IV raccorda una lesione della scena alla funzione mentale o spirituale presa. Prima di quella funzione una scena spaventosa non è automaticamente una ferita reale; anche IV deve prevalere sulla difesa.",
+          "source": "GIOCATORE_58_Labyrinth_progressione_completa.md",
+          "ability_ids": [
+            "EFF-18-IV-M02"
+          ]
+        },
+        {
+          "id": "EFF-18-FAQ-06",
+          "question": "Deve essere addormentato?",
+          "answer": "Dream Entry I e le prime scene operano sul sogno prossimo raggiunto. Waking Reverie V apre esperienza onirica a una coscienza vigile; non attribuirla al primo stadio per il solo nome Dream.",
+          "source": "GIOCATORE_58_Labyrinth_progressione_completa.md",
+          "ability_ids": [
+            "EFF-18-I-M02",
+            "EFF-18-V-M02"
+          ]
+        },
+        {
+          "id": "EFF-18-FAQ-07",
+          "question": "Posso rinchiudere fisicamente qualcuno in una stanza mentale?",
+          "answer": "Interior Architecture costruisce ambienti e accessi interiori, non un magazzino materiale di Astrolabe. Una persona può essere coinvolta nell’esperienza o un’intrusione custodita senza che il suo corpo scompaia dal mondo.",
+          "source": "GIOCATORE_58_Labyrinth_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-18-FAQ-08",
+          "question": "Posso difendermi leggendo l’attacco dopo che arriva?",
+          "answer": "Scudi e compartimenti pertinenti possono essere già attivi; una lettura cosciente non annulla retroattivamente il colpo. Una protezione mentale non è automaticamente una corazza contro proiettili fisici.",
+          "source": "GIOCATORE_58_Labyrinth_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-18-FAQ-09",
+          "question": "Posso collegare più persone senza fonderle?",
+          "answer": "Mental Relay, Dream Junction e Interior Junction VI raccordano contenuti e soglie reali fra soggetti distinti. Non assegnano una sola volontà né copiano la personalità del portatore in tutti.",
+          "source": "GIOCATORE_58_Labyrinth_progressione_completa.md",
+          "ability_ids": [
+            "EFF-18-VI-M01",
+            "EFF-18-VI-M02",
+            "EFF-18-VI-M04"
+          ]
+        },
+        {
+          "id": "EFF-18-FAQ-10",
+          "question": "Posso trattare un trauma?",
+          "answer": "Puoi agire su esperienze, compartimenti ed emozioni realmente raggiunti, con consenso o contesa pertinenti. Non è una diagnosi automatica di ogni disagio e non rende un intervento coercitivo moralmente terapeutico.",
+          "source": "GIOCATORE_58_Labyrinth_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-18-FAQ-11",
+          "question": "Cosa distingue VII dal semplice controllo mentale?",
+          "answer": "Opera su percorsi della stessa persona, strati d’uscita onirici, circuiti affettivi e verso degli accessi interiori. Non sostituisce il ramo Will o l’autorità di Crown per il solo rango divino.",
+          "source": "GIOCATORE_58_Labyrinth_progressione_completa.md",
+          "ability_ids": []
+        }
+      ]
+    },
+    {
+      "id": "EFF-19",
+      "name": "Tempest",
+      "source": "GIOCATORE_59_Tempest_progressione_completa.md",
+      "faq_source": "349_FAQ_Tempest_uso_pratico.md",
+      "authorities": [
+        "Flow",
+        "Pressure",
+        "Turbulence",
+        "Discharge"
+      ],
+      "questions": [
+        {
+          "id": "EFF-19-FAQ-01",
+          "question": "Devo portarmi una bottiglia d’acqua?",
+          "answer": "No: Flow governa flussi compatibili realmente presenti, inclusi correnti d’aria e acqua nelle condizioni raggiunte. Non è limitato a una borraccia; non crea però dal nulla un oceano se manca il mezzo.",
+          "source": "GIOCATORE_59_Tempest_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-19-FAQ-02",
+          "question": "Posso usare il vapore nell’aria?",
+          "answer": "La sua presenza è una risorsa reale, non il volume di un mare in ogni stanza. Stato, quantità e condizioni contano; riconoscere H2O non significa averne già concentrato tonnellate o comandare molecole attraverso qualsiasi barriera.",
+          "source": "GIOCATORE_59_Tempest_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-19-FAQ-03",
+          "question": "Flow e Turbulence sono entrambi vento?",
+          "answer": "Flow dirige e raccorda correnti; Turbulence legge e induce instabilità, separa o frammenta fronti. Puoi deviare un getto senza renderlo turbolento e turbarne la coerenza senza generare tutto il vento.",
+          "source": "GIOCATORE_59_Tempest_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-19-FAQ-04",
+          "question": "Come attacco con Pressure?",
+          "answer": "Pressure Pulse I urta o comprime; Held Compression II conserva una regione compressa; Pressure Gradient III muove materia lungo un gradiente. Sono pressioni reali, non un sentimento di soggezione.",
+          "source": "GIOCATORE_59_Tempest_progressione_completa.md",
+          "ability_ids": [
+            "EFF-19-I-M02",
+            "EFF-19-II-M02",
+            "EFF-19-III-M02"
+          ]
+        },
+        {
+          "id": "EFF-19-FAQ-05",
+          "question": "Posso far esplodere i polmoni a chiunque?",
+          "answer": "Devi raggiungere la componente e contenderne difesa e carico. Pressure non aggira automaticamente pelle e centro spirituale perché un organo contiene gas; un bersaglio visto non è già internamente preso.",
+          "source": "GIOCATORE_59_Tempest_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-19-FAQ-06",
+          "question": "Discharge è elettricità oppure serve un temporale?",
+          "answer": "First Discharge I produce dalla fonte un impulso tenue; Charge Induction II separa cariche su un supporto. Non devi aspettare un fulmine naturale. Il percorso, il mezzo e l’isolamento hanno conseguenze reali.",
+          "source": "GIOCATORE_59_Tempest_progressione_completa.md",
+          "ability_ids": [
+            "EFF-19-I-M04",
+            "EFF-19-II-M04"
+          ]
+        },
+        {
+          "id": "EFF-19-FAQ-07",
+          "question": "Tutte le scariche viaggiano alla velocità della luce?",
+          "answer": "No: conduzione nel mezzo, formazione del canale e propagazione dell’effetto non sono un raggio luminoso nel vuoto. Il manuale non assegna un numero universale o riflessi luminosi a chi governa Discharge.",
+          "source": "GIOCATORE_59_Tempest_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-19-FAQ-08",
+          "question": "Posso avere uno scudo contro proiettili ed esplosioni?",
+          "answer": "Flussi e gradienti possono opporre forze pertinenti; Pressure Insulation IV separa trasmissioni pressorie e Discharge Insulation IV i percorsi di scarica dal centro. Uno schermo contro la pressione non neutralizza automaticamente frammenti e luce.",
+          "source": "GIOCATORE_59_Tempest_progressione_completa.md",
+          "ability_ids": [
+            "EFF-19-IV-M02",
+            "EFF-19-IV-M04"
+          ]
+        },
+        {
+          "id": "EFF-19-FAQ-09",
+          "question": "Posso cambiare il tempo atmosferico in tutta la regione?",
+          "answer": "La scala cresce col rango e con i mezzi raggiunti. Le operazioni locali non sono già governo climatico universale; distribuire un intervento richiede energia, continuità e accessi reali.",
+          "source": "GIOCATORE_59_Tempest_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-19-FAQ-10",
+          "question": "VII controlla davvero pressione e flussi?",
+          "answer": "Sì entro autorità, scala divina e presa: può separare pressioni compensate e dirigere il rilascio, sovrapporre flussi senza mescolamento ordinario, trasferire instabilità e contendere il ritorno di una scarica. Non si riduce a spruzzare acqua più forte.",
+          "source": "GIOCATORE_59_Tempest_progressione_completa.md",
+          "ability_ids": []
+        }
+      ]
+    },
+    {
+      "id": "EFF-20",
+      "name": "Maw",
+      "source": "GIOCATORE_60_Maw_progressione_completa.md",
+      "faq_source": "349_FAQ_Maw_uso_pratico.md",
+      "authorities": [
+        "Desire",
+        "Hunger",
+        "Consumption",
+        "Assimilation"
+      ],
+      "questions": [
+        {
+          "id": "EFF-20-FAQ-01",
+          "question": "Devo mangiare persone per avanzare o combattere?",
+          "answer": "No: apporti e bersagli compatibili possono essere cibo, materia o energia pertinente. First Consumption I e Small Assimilation I non impongono vittime umane come requisito universale.",
+          "source": "GIOCATORE_60_Maw_progressione_completa.md",
+          "ability_ids": [
+            "EFF-20-I-M03",
+            "EFF-20-I-M04"
+          ]
+        },
+        {
+          "id": "EFF-20-FAQ-02",
+          "question": "Desire legge i pensieri?",
+          "answer": "Appetite Sense I percepisce pressione degli appetiti affioranti, non le frasi mentali o un’intera memoria. Directed Craving II orienta appetiti realmente presenti, senza essere un ordine di Will.",
+          "source": "GIOCATORE_60_Maw_progressione_completa.md",
+          "ability_ids": [
+            "EFF-20-I-M01",
+            "EFF-20-II-M01"
+          ]
+        },
+        {
+          "id": "EFF-20-FAQ-03",
+          "question": "Hunger è la stessa cosa di Desire?",
+          "answer": "No: Hunger legge e aggrava deficit di sostegno, anche quando la persona non desidera coscientemente la risorsa. Puoi essere privato dell’alimentazione di una funzione senza provare il desiderio che Maw sta influenzando altrove.",
+          "source": "GIOCATORE_60_Maw_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-20-FAQ-04",
+          "question": "Come colpisco fisicamente?",
+          "answer": "Predatory Contact II consuma al contatto materia o componente spirituale pertinente; Consumption Mantle IV distribuisce l’esercizio sul confine personale. Non richiede che la vittima voglia essere divorata.",
+          "source": "GIOCATORE_60_Maw_progressione_completa.md",
+          "ability_ids": [
+            "EFF-20-II-M03",
+            "EFF-20-IV-M03"
+          ]
+        },
+        {
+          "id": "EFF-20-FAQ-05",
+          "question": "Posso consumare qualsiasi attacco senza rischi?",
+          "answer": "Devi prendere una componente consumabile e reggere quota e compatibilità. Selective Feeding III distingue componenti nocive, ma non trasforma ogni raggio o maledizione in nutrimento innocuo.",
+          "source": "GIOCATORE_60_Maw_progressione_completa.md",
+          "ability_ids": [
+            "EFF-20-III-M03"
+          ]
+        },
+        {
+          "id": "EFF-20-FAQ-06",
+          "question": "Assimilation funziona senza usare Consumption?",
+          "answer": "Sì: può integrare soprannaturalmente un apporto compatibile normalmente ingerito o ricevuto. I rami non obbligano a ferire qualcosa prima di alimentare una funzione propria.",
+          "source": "GIOCATORE_60_Maw_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-20-FAQ-07",
+          "question": "Se consumo un Bearer acquisisco la sua Effige?",
+          "answer": "No: Assimilated Function III sostiene un tratto delimitato compatibile, non tutta l’Inscription né una nuova Seat. Incorporare famiglie estranee rimane incompatibile anche quando l’apporto proviene da una vittima potente.",
+          "source": "GIOCATORE_60_Maw_progressione_completa.md",
+          "ability_ids": [
+            "EFF-20-III-M04"
+          ]
+        },
+        {
+          "id": "EFF-20-FAQ-08",
+          "question": "Posso togliere un tratto assimilato?",
+          "answer": "Assimilative Release IV disincorpora selettivamente una proprietà, conservando gli apporti che non ne dipendono. Non è l’esternalizzazione libera di qualunque potere in un altro oggetto, che è una funzione diversa di VII.",
+          "source": "GIOCATORE_60_Maw_progressione_completa.md",
+          "ability_ids": [
+            "EFF-20-IV-M04"
+          ]
+        },
+        {
+          "id": "EFF-20-FAQ-09",
+          "question": "Quando posso nutrirmi da un accesso remoto?",
+          "answer": "Remote Feeding VI richiede un mezzo investito che consuma presso un accesso reale e conduce la quota compatibile. Non basta desiderare una persona lontana o possederne il nome.",
+          "source": "GIOCATORE_60_Maw_progressione_completa.md",
+          "ability_ids": [
+            "EFF-20-VI-M03"
+          ]
+        },
+        {
+          "id": "EFF-20-FAQ-10",
+          "question": "VII rende inesauribile la fame?",
+          "answer": "No: anche le funzioni divine hanno rapporti presi e quote. Possono accoppiare gratificazioni, costituire carenze reciproche, seguire successioni consumanti ed esternalizzare tratti compatibili; non generano ogni risorsa dal nulla.",
+          "source": "GIOCATORE_60_Maw_progressione_completa.md",
+          "ability_ids": []
+        }
+      ]
+    },
+    {
+      "id": "EFF-21",
+      "name": "Loom",
+      "source": "GIOCATORE_61_Loom_progressione_completa.md",
+      "faq_source": "349_FAQ_Loom_uso_pratico.md",
+      "authorities": [
+        "Causality",
+        "Probability",
+        "Destiny"
+      ],
+      "questions": [
+        {
+          "id": "EFF-21-FAQ-01",
+          "question": "Posso decidere che qualsiasi cosa accada?",
+          "answer": "Probability opera su alternative compatibili e condizioni reali. Small Favour I favorisce una presa o caduta disponibile: non materializza una porta, una pistola o un alleato inesistenti.",
+          "source": "GIOCATORE_61_Loom_progressione_completa.md",
+          "ability_ids": [
+            "EFF-21-I-M02"
+          ]
+        },
+        {
+          "id": "EFF-21-FAQ-02",
+          "question": "Come attacco senza un proiettile magico?",
+          "answer": "Causal Nudge I modifica il rendimento di un nesso raggiunto: un urto reale può produrre una conseguenza maggiore o minore entro tenuta. Probability può favorire un’apertura; Destiny sostenere una sequenza. Non è dichiarare che il nemico è già morto.",
+          "source": "GIOCATORE_61_Loom_progressione_completa.md",
+          "ability_ids": [
+            "EFF-21-I-M01"
+          ]
+        },
+        {
+          "id": "EFF-21-FAQ-03",
+          "question": "Causality può cambiare un fatto passato?",
+          "answer": "Non rende avvenuta una causa mai prodotta. Causal Displacement IV devia una destinazione mediante un rapporto raggiunto; non cancella il fatto che la causa sia accaduta.",
+          "source": "GIOCATORE_61_Loom_progressione_completa.md",
+          "ability_ids": [
+            "EFF-21-IV-M01"
+          ]
+        },
+        {
+          "id": "EFF-21-FAQ-04",
+          "question": "Prepared Opening III crea possibilità impossibili?",
+          "answer": "Costituisce un margine compatibile prima escluso operativamente dal vincolo preso. Non crea materia o cause inesistenti: l’alternativa deve poter funzionare nelle condizioni realmente sostenute.",
+          "source": "GIOCATORE_61_Loom_progressione_completa.md",
+          "ability_ids": [
+            "EFF-21-III-M02"
+          ]
+        },
+        {
+          "id": "EFF-21-FAQ-05",
+          "question": "Destiny predice il finale della partita?",
+          "answer": "Thread Sense I legge passaggi e tendenze investibili di traiettorie in corso. Non conosce ogni scelta futura e non obbliga il giocatore a un arco narrativo prestabilito.",
+          "source": "GIOCATORE_61_Loom_progressione_completa.md",
+          "ability_ids": [
+            "EFF-21-I-M03"
+          ]
+        },
+        {
+          "id": "EFF-21-FAQ-06",
+          "question": "Posso mantenere una fortuna protettiva senza pensare a ogni proiettile?",
+          "answer": "Puoi sostenere alternative e rapporti entro le funzioni disponibili; sigilli e fissazioni introducono modi persistenti specifici. Non è un’immunità automatica all’evento letale o a minacce che non presentano un’alternativa pertinente.",
+          "source": "GIOCATORE_61_Loom_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-21-FAQ-07",
+          "question": "Posso depositare la fortuna per dopo?",
+          "answer": "Probability Reserve VI isola una quota di favore effettivamente esercitata su condizioni reali. Quella quota non sostiene più il processo corrente e il nuovo impiego deve essere compatibile: non è fortuna infinita prodotta da un buon proposito.",
+          "source": "GIOCATORE_61_Loom_progressione_completa.md",
+          "ability_ids": [
+            "EFF-21-VI-M02"
+          ]
+        },
+        {
+          "id": "EFF-21-FAQ-08",
+          "question": "Due Loom possono volere esiti opposti?",
+          "answer": "Sì: distribuzioni, condizioni e traiettorie possono essere contese. Non vince automaticamente l’ultimo che dice destino, e l’esito non viene fissato fuori gioco per proteggere la trama.",
+          "source": "GIOCATORE_61_Loom_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-21-FAQ-09",
+          "question": "Posso collegare un evento al comando di un alleato?",
+          "answer": "Linked Condition II e Causal Branching V predispongono rapporti reali per attivare funzioni proprie. Non conferiscono all’alleato l’intera Effige e non avviano funzioni mai preparate.",
+          "source": "GIOCATORE_61_Loom_progressione_completa.md",
+          "ability_ids": [
+            "EFF-21-II-M01",
+            "EFF-21-V-M01"
+          ]
+        },
+        {
+          "id": "EFF-21-FAQ-10",
+          "question": "VII annulla una catena di conseguenze già completa?",
+          "answer": "Può isolare propagazioni ancora prese, separare correlazioni e articolare percorsi. Non fa sparire ogni risultato già indipendente né riscrive tutto il passato per eliminarne la causa.",
+          "source": "GIOCATORE_61_Loom_progressione_completa.md",
+          "ability_ids": []
+        }
+      ]
+    },
+    {
+      "id": "EFF-22",
+      "name": "Eclipse",
+      "source": "GIOCATORE_170_Eclipse_progressione_completa.md",
+      "faq_source": "349_FAQ_Eclipse_uso_pratico.md",
+      "authorities": [
+        "Darkness",
+        "Shadow",
+        "Concealment",
+        "Night",
+        "Silence"
+      ],
+      "questions": [
+        {
+          "id": "EFF-22-FAQ-01",
+          "question": "È soltanto spegnere le luci?",
+          "answer": "No: Darkness I produce velo e getto che urta; II condensa lama, punta o scudo mantenuti. L’oscurità investita esercita forza, non è soltanto una stanza senza lampadine.",
+          "source": "GIOCATORE_170_Eclipse_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-22-FAQ-02",
+          "question": "Posso fare armi oscure concrete?",
+          "answer": "Black Armament II dà contatto offensivo o difensivo reale a forme mantenute. Non è materia Independent da vendere come acciaio e non possiede automaticamente volontà o inseguimento autonomo.",
+          "source": "GIOCATORE_170_Eclipse_progressione_completa.md",
+          "ability_ids": [
+            "EFF-22-II-M01"
+          ]
+        },
+        {
+          "id": "EFF-22-FAQ-03",
+          "question": "Il sole annulla tutti i miei poteri?",
+          "answer": "La luce ordinaria e gli investimenti possono contrastare condizioni e fronti, ma non cancellano nominalmente l’Effige. Un velo mantenuto e un’ombra ancorata hanno tenuta; anche Darkness non spegne automaticamente Halo VII.",
+          "source": "GIOCATORE_170_Eclipse_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-22-FAQ-04",
+          "question": "Posso colpire una persona toccando la sua ombra?",
+          "answer": "Shadow Edge II usa un’ombra raggiunta come taglio; Shadow Wound IV contende il collegamento dell’ombra ancorata alla componente che la sostiene. Non basta individuare una macchia scura qualunque e chiamarla ombra della vittima.",
+          "source": "GIOCATORE_170_Eclipse_progressione_completa.md",
+          "ability_ids": [
+            "EFF-22-II-M02",
+            "EFF-22-IV-M02"
+          ]
+        },
+        {
+          "id": "EFF-22-FAQ-05",
+          "question": "Posso viaggiare attraverso tutte le ombre del mondo?",
+          "answer": "Contiguous Passage III sposta lungo un tratto contiguo realmente raggiunto. Non è un teletrasporto globale fra due stanze buie e non lascia un secondo corpo dietro.",
+          "source": "GIOCATORE_170_Eclipse_progressione_completa.md",
+          "ability_ids": [
+            "EFF-22-III-M02"
+          ]
+        },
+        {
+          "id": "EFF-22-FAQ-06",
+          "question": "Concealment mi rende invisibile a ogni senso?",
+          "answer": "Dim Signature I attenua segnali propri; funzioni successive selezionano segnali e relazioni informative. Un contatto o canale non preso può rivelarti; nessun silenzio cancella automaticamente un odore o un’immagine registrata altrove.",
+          "source": "GIOCATORE_170_Eclipse_progressione_completa.md",
+          "ability_ids": [
+            "EFF-22-I-M03"
+          ]
+        },
+        {
+          "id": "EFF-22-FAQ-07",
+          "question": "Night mi fa controllare i sogni?",
+          "answer": "Governa percezione nel buio e ritmi fisiologici di riposo e vigilanza. Drowsing Touch II induce sonnolenza; non è un ordine di Will né la costruzione di un sogno di Labyrinth.",
+          "source": "GIOCATORE_170_Eclipse_progressione_completa.md",
+          "ability_ids": [
+            "EFF-22-II-M04"
+          ]
+        },
+        {
+          "id": "EFF-22-FAQ-08",
+          "question": "Posso combattere mentre gli altri non sentono nulla?",
+          "answer": "Muted Step I attenua vibrazioni proprie e può concentrare impulso al contatto. Broken Signal III interrompe canali acustici presi; una formula già attiva non viene annullata perché ora il mago non si sente.",
+          "source": "GIOCATORE_170_Eclipse_progressione_completa.md",
+          "ability_ids": [
+            "EFF-22-I-M05",
+            "EFF-22-III-M05"
+          ]
+        },
+        {
+          "id": "EFF-22-FAQ-09",
+          "question": "Silence può fermare un’esplosione?",
+          "answer": "Silent Barrier II smorza vibrazioni e urti limitati; non neutralizza automaticamente calore, schegge e ogni componente. Una difesa va valutata per ciò che intercetta davvero.",
+          "source": "GIOCATORE_170_Eclipse_progressione_completa.md",
+          "ability_ids": [
+            "EFF-22-II-M05"
+          ]
+        },
+        {
+          "id": "EFF-22-FAQ-10",
+          "question": "Posso fare sentinelle autonome di oscurità?",
+          "answer": "Autonomous Tenebra V riconfigura modi predisposti in base a dati locali. Non è un Avatar cosciente dotato di tutte le tue conoscenze e non inventa una risposta non conferita.",
+          "source": "GIOCATORE_170_Eclipse_progressione_completa.md",
+          "ability_ids": [
+            "EFF-22-V-M01"
+          ]
+        },
+        {
+          "id": "EFF-22-FAQ-11",
+          "question": "VII è semplicemente buio assoluto?",
+          "answer": "Le funzioni divine distinguono versi di attraversamento, ombra e ancoraggio, successioni dell’occultamento, ritmi e filtri silenziosi. Non riscrivono automaticamente ogni accesso e ogni senso di tutte le persone presenti.",
+          "source": "GIOCATORE_170_Eclipse_progressione_completa.md",
+          "ability_ids": []
+        }
+      ]
+    },
+    {
+      "id": "EFF-23",
+      "name": "Crescent",
+      "source": "GIOCATORE_168_Crescent_progressione_completa.md",
+      "faq_source": "349_FAQ_Crescent_uso_pratico.md",
+      "authorities": [
+        "Black Magic",
+        "Reflection",
+        "Enchantment",
+        "Curses",
+        "Lunar Cycles"
+      ],
+      "questions": [
+        {
+          "id": "EFF-23-FAQ-01",
+          "question": "Black Magic è un nome estetico oppure fa danno?",
+          "answer": "Sigilcraft I dà esercizi materiali o spirituali reali; Witch Armament II mantiene un mezzo offensivo; Ritual Circuit III coordina supporti. Puoi esercitare urti, prese e strumenti magici senza dover prima affascinare una vittima.",
+          "source": "GIOCATORE_168_Crescent_progressione_completa.md",
+          "ability_ids": [
+            "EFF-23-I-M01",
+            "EFF-23-II-M01",
+            "EFF-23-III-M01"
+          ]
+        },
+        {
+          "id": "EFF-23-FAQ-02",
+          "question": "Devo avere sempre uno specchio?",
+          "answer": "Reflection usa un riflesso presente e investito all’inizio. Living Mirror IV incorpora superfici operative senza dipendere dal vetro esterno. Gli altri quattro rami non hanno tutti Reflection come prerequisito.",
+          "source": "GIOCATORE_168_Crescent_progressione_completa.md",
+          "ability_ids": [
+            "EFF-23-IV-M02"
+          ]
+        },
+        {
+          "id": "EFF-23-FAQ-03",
+          "question": "Posso rimandare un raggio di Halo?",
+          "answer": "Reflective Turn II contende un’emissione intercettata da superficie speculare investita. Devi averla intercettata e sostenerne la quota: non è il riflesso automatico di ogni attacco luminoso o spirituale.",
+          "source": "GIOCATORE_168_Crescent_progressione_completa.md",
+          "ability_ids": [
+            "EFF-23-II-M02"
+          ]
+        },
+        {
+          "id": "EFF-23-FAQ-04",
+          "question": "Mirror Substitution può proteggere me stesso?",
+          "answer": "Sì: III usa un riflesso proprio investito come sostituzione difensiva della lesione corporea durante la contesa. Il riflesso e la riserva devono esistere; non sposta indiscriminatamente qualsiasi morte su ogni specchio vicino.",
+          "source": "GIOCATORE_168_Crescent_progressione_completa.md",
+          "ability_ids": [
+            "EFF-23-III-M02"
+          ]
+        },
+        {
+          "id": "EFF-23-FAQ-05",
+          "question": "Enchantment impone ordini come Will?",
+          "answer": "No: rende una presenza o fulcro affascinante o repellente e governa quel rapporto. Può avere forza soprannaturale rilevante senza trasformare ogni frase in un’intenzione propria obbligatoria del destinatario.",
+          "source": "GIOCATORE_168_Crescent_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-23-FAQ-06",
+          "question": "Una maledizione richiede vicinanza continua?",
+          "answer": "Witchmark I imprime un’afflizione; Conditional Hex II ne definisce una condizione; Sympathetic Effigy III usa un supporto autenticamente collegato. Non serve restare sempre accanto alla vittima, ma un pupazzo casuale non dà presa su chiunque.",
+          "source": "GIOCATORE_168_Crescent_progressione_completa.md",
+          "ability_ids": [
+            "EFF-23-I-M04",
+            "EFF-23-II-M04",
+            "EFF-23-III-M04"
+          ]
+        },
+        {
+          "id": "EFF-23-FAQ-07",
+          "question": "Posso inventare qualsiasi afflizione?",
+          "answer": "L’anatema deve avere un effetto circoscritto compatibile con stadio, energia e rapporto preso. Dire maledizione di morte non rende automatico l’annullamento dell’anima né consente qualsiasi autorità estranea.",
+          "source": "GIOCATORE_168_Crescent_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-23-FAQ-08",
+          "question": "Il famiglio IV è un’altra me?",
+          "answer": "No: Major Familiar Pact è un contratto con un’entità indipendente, con proprie capacità e obblighi effettivi. Non è generazione gratuita di un demone onnipotente e non assegna a tutti i portatori lo stesso famiglio.",
+          "source": "GIOCATORE_168_Crescent_progressione_completa.md",
+          "ability_ids": [
+            "EFF-23-IV-M01"
+          ]
+        },
+        {
+          "id": "EFF-23-FAQ-09",
+          "question": "Lunar Cycles funziona soltanto con luna piena?",
+          "answer": "Il ciclo è esercitato dalla fonte propria; I ha già impulso che cresce e si libera in urto o tenuta. Non viene introdotta un’inattività universale di ventinove giorni: eventuali condizioni rituali particolari devono essere realmente stabilite.",
+          "source": "GIOCATORE_168_Crescent_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-23-FAQ-10",
+          "question": "Un ciclo è soltanto un colpo che si carica?",
+          "answer": "II divide fasi e rilasci; III deposita un ciclo in quiescenza; IV cambia funzione fra fasi predisposte. Puoi riservare una fase alla tenuta e un’altra all’impulso: non dipendi da una magia presa dagli altri rami.",
+          "source": "GIOCATORE_168_Crescent_progressione_completa.md",
+          "ability_ids": []
+        },
+        {
+          "id": "EFF-23-FAQ-11",
+          "question": "Una maledizione contagiosa si diffonde senza limiti?",
+          "answer": "Contagious Hex V richiede una modalità di trasmissione definita e ogni nuova presa è contendibile. Le strutture superiori intrecciano condizioni e supporti, non producono automaticamente una pandemia infinita.",
+          "source": "GIOCATORE_168_Crescent_progressione_completa.md",
+          "ability_ids": [
+            "EFF-23-V-M04"
+          ]
+        },
+        {
+          "id": "EFF-23-FAQ-12",
+          "question": "VII mi fa rinascere comunque da un riflesso?",
+          "answer": "Eternal Recurrence ricostruisce parti operative da nucleo rituale superstite, fonte e Pattern reali. Non è una garanzia se anche la continuità necessaria è stata annullata e non duplica automaticamente la persona.",
+          "source": "GIOCATORE_168_Crescent_progressione_completa.md",
+          "ability_ids": [
+            "EFF-23-VII-M05"
+          ]
+        }
+      ]
+    }
+  ],
+  "published": false,
+  "export_348_updated": false,
+  "specific_question_count": 259,
+  "common_question_count": 12
+}

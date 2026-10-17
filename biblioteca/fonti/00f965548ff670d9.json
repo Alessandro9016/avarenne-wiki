@@ -14,7 +14,19 @@
       "law": "Giudici distrettuali, Corte delle Concessioni e Corte di revisione a Veldane; polizia municipale e gendarmeria separata",
       "conflict": "Riforma delle concessioni fluviali: accesso pubblico e diritti acquisiti non coincidono",
       "foreign_links": "Reth: rame e frontiera; Neressa: noli e debito; Ovel: legname e acque",
-      "limits": "Concessioni industriali controllate da pochi casati e società; suffragio censitario, non voto universale"
+      "limits": "Concessioni industriali controllate da pochi casati e società; suffragio censitario, non voto universale",
+      "dynastic_units_354": [
+        {
+          "state": "Orsanne",
+          "unit": "Orsanne",
+          "house": "Maison Orvel",
+          "holder_id": "CAST-524",
+          "heir_id": "CAST-525",
+          "consort_id": "CAST-562",
+          "sovereign_title": "Re",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        }
+      ]
     },
     {
       "id": "POL-02",
@@ -26,7 +38,8 @@
       "law": "Tribunali cantonali; arbitrato federale per contratti interni, ricorso comune per discriminazioni fra cantoni",
       "conflict": "Ripartizione delle rendite minerarie fra cantoni produttori e città manifatturiere",
       "foreign_links": "Orsanne acquista rame; Ovel offre passaggi settentrionali; Kosh scambia tecniche estrattive",
-      "limits": "Cittadinanza non richiede nobiltà ma residenza e contribuzione limitano ancora il voto"
+      "limits": "Cittadinanza non richiede nobiltà ma residenza e contribuzione limitano ancora il voto",
+      "dynastic_units_354": []
     },
     {
       "id": "POL-03",
@@ -38,7 +51,8 @@
       "law": "Giudici portuali; Corte del Patto per controversie fra le sei repubbliche",
       "conflict": "Le isole chiedono carbone garantito, Serele contesta le quote navali imposte al suo territorio continentale",
       "foreign_links": "Reth fornisce rame; Orsanne carbone; Meren e Arul sono partner navali lontani",
-      "limits": "Il voto delle repubbliche non segue la popolazione; l’Unione non può espropriare senza ratifica locale"
+      "limits": "Il voto delle repubbliche non segue la popolazione; l’Unione non può espropriare senza ratifica locale",
+      "dynastic_units_354": []
     },
     {
       "id": "POL-04",
@@ -50,7 +64,119 @@
       "law": "Corti di principato; Collegio dei Bacini per acque interterritoriali, non tribunale universale",
       "conflict": "Censimento dei lavoratori stagionali e diritti di residenza: entrate fiscali contro libertà di transito",
       "foreign_links": "Orsanne compra legname; Reth propone una ferrovia settentrionale; Sivara vende utensili",
-      "limits": "Elven ospita la Dieta ma non governa gli altri dieci principati"
+      "limits": "Elven ospita la Dieta ma non governa gli altri dieci principati",
+      "dynastic_units_354": [
+        {
+          "state": "Ovel",
+          "unit": "Elven",
+          "house": "Casa Elvar",
+          "holder_id": "CAST-534",
+          "heir_id": "CAST-535",
+          "consort_id": null,
+          "sovereign_title": "Principessa",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Namar",
+          "house": "Casa Avelin",
+          "holder_id": "CAST-536",
+          "heir_id": "CAST-537",
+          "consort_id": null,
+          "sovereign_title": "Principe",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Veyford",
+          "house": "Casa Belven",
+          "holder_id": "CAST-538",
+          "heir_id": "CAST-539",
+          "consort_id": null,
+          "sovereign_title": "Principe",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Norven",
+          "house": "Casa Halvren",
+          "holder_id": "CAST-540",
+          "heir_id": "CAST-541",
+          "consort_id": null,
+          "sovereign_title": "Principessa",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Ossenmark",
+          "house": "Casa Tharen",
+          "holder_id": "CAST-542",
+          "heir_id": "CAST-543",
+          "consort_id": null,
+          "sovereign_title": "Principe",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Selvar",
+          "house": "Casa Rouvain",
+          "holder_id": "CAST-544",
+          "heir_id": "CAST-545",
+          "consort_id": null,
+          "sovereign_title": "Principessa",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Dalen",
+          "house": "Casa Ordell",
+          "holder_id": "CAST-546",
+          "heir_id": "CAST-547",
+          "consort_id": null,
+          "sovereign_title": "Principe",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Uren",
+          "house": "Casa Merault",
+          "holder_id": "CAST-548",
+          "heir_id": "CAST-549",
+          "consort_id": null,
+          "sovereign_title": "Principessa",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Tesh",
+          "house": "Casa Seld",
+          "holder_id": "CAST-550",
+          "heir_id": "CAST-551",
+          "consort_id": null,
+          "sovereign_title": "Principessa",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Ravaen",
+          "house": "Casa Varnet",
+          "holder_id": "CAST-552",
+          "heir_id": "CAST-553",
+          "consort_id": null,
+          "sovereign_title": "Principe",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Ivel",
+          "house": "Casa Lethren",
+          "holder_id": "CAST-554",
+          "heir_id": "CAST-555",
+          "consort_id": null,
+          "sovereign_title": "Principe",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        }
+      ]
     },
     {
       "id": "POL-05",
@@ -62,7 +188,19 @@
       "law": "Corti reali con sezioni provinciali e ricorso per servitù agricole",
       "conflict": "Debiti dei coltivatori dopo due raccolti diseguali; riforma dei depositi pubblici",
       "foreign_links": "Varrun compra lino; Darsen compete sul grano; Orsanne vende macchine",
-      "limits": "Grandi proprietari dominano il credito rurale; le città hanno rappresentanza separata"
+      "limits": "Grandi proprietari dominano il credito rurale; le città hanno rappresentanza separata",
+      "dynastic_units_354": [
+        {
+          "state": "Aldren",
+          "unit": "Aldren",
+          "house": "Casa Vaudren",
+          "holder_id": "CAST-526",
+          "heir_id": "CAST-527",
+          "consort_id": "CAST-563",
+          "sovereign_title": "Regina",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        }
+      ]
     },
     {
       "id": "POL-06",
@@ -74,7 +212,8 @@
       "law": "Tribunali cittadini e arbitrato commerciale federato",
       "conflict": "Protezione delle coste contro cicloni e premio assicurativo richiesto ai porti meno ricchi",
       "foreign_links": "Marethis lana; Neressa cantieri; Ildovar materie tropicali",
-      "limits": "Diciassette membri politici non esauriscono le città del territorio"
+      "limits": "Diciassette membri politici non esauriscono le città del territorio",
+      "dynastic_units_354": []
     },
     {
       "id": "POL-07",
@@ -86,7 +225,8 @@
       "law": "Tribunali provinciali; ispettori federali possono sospendere una derivazione illegale",
       "conflict": "Province dell’interno chiedono di non finanziare soltanto gli argini del delta",
       "foreign_links": "Ansei commercia carta e riso; Aldren lino; Qadir tecniche idriche",
-      "limits": "Il centro coordina opere, non possiede ogni terra irrigata"
+      "limits": "Il centro coordina opere, non possiede ogni terra irrigata",
+      "dynastic_units_354": []
     },
     {
       "id": "POL-08",
@@ -98,7 +238,8 @@
       "law": "Giudici itineranti riconosciuti dai comuni; arbitrato stagionale dei pascoli",
       "conflict": "Accordi di acqua fra pastori mobili e miniere di stagno permanenti",
       "foreign_links": "Saur lana; Kosh sali; Varrun macchine e sbocco fluviale",
-      "limits": "Una frontiera amministrativa non interrompe automaticamente i passaggi tradizionali"
+      "limits": "Una frontiera amministrativa non interrompe automaticamente i passaggi tradizionali",
+      "dynastic_units_354": []
     },
     {
       "id": "POL-09",
@@ -110,7 +251,8 @@
       "law": "Corti fluviali per danni e navigazione; tribunali civili ordinari per il resto",
       "conflict": "Il debito degli argini cresce mentre i distretti asciutti rifiutano nuovi contributi",
       "foreign_links": "Auvrel via Serevan; Qadir rame; Ildovar legname",
-      "limits": "Le opere federali non danno al governo diritto di deviare tutta l’acqua"
+      "limits": "Le opere federali non danno al governo diritto di deviare tutta l’acqua",
+      "dynastic_units_354": []
     },
     {
       "id": "POL-10",
@@ -122,7 +264,8 @@
       "law": "Corti distrettuali e ispettorato dei pozzi soggetto a ricorso",
       "conflict": "Distretto minerario richiede acqua sottraendola a colture e quartieri popolari",
       "foreign_links": "Darsen cereali; Kosh tecniche; Esen stagno e animali",
-      "limits": "I contratti di acqua includono quote domestiche minime; il rispetto effettivo è conteso"
+      "limits": "I contratti di acqua includono quote domestiche minime; il rispetto effettivo è conteso",
+      "dynastic_units_354": []
     },
     {
       "id": "POL-11",
@@ -134,7 +277,8 @@
       "law": "Giudici di bacino; uffici di traduzione per contratti con comunità forestali",
       "conflict": "Concessioni di legname attraversano usi collettivi non registrati su carta",
       "foreign_links": "Tessara e Ansei carta; Darsen carbone; Marethis trasporto",
-      "limits": "Un registro urbano incompleto non cancella una comunità o il suo diritto"
+      "limits": "Un registro urbano incompleto non cancella una comunità o il suo diritto",
+      "dynastic_units_354": []
     },
     {
       "id": "POL-12",
@@ -146,7 +290,19 @@
       "law": "Corti civili, navali e d’appello; sanzioni di porto distinte dalla colpa penale",
       "conflict": "Modernizzazione dei cantieri e indebitamento dei piccoli proprietari di navi",
       "foreign_links": "Tessara cotone; Norell carbone; Neressa ottica",
-      "limits": "La flotta pubblica tutela rotte scelte, non rende sicuro l’intero oceano"
+      "limits": "La flotta pubblica tutela rotte scelte, non rende sicuro l’intero oceano",
+      "dynastic_units_354": [
+        {
+          "state": "Marethis",
+          "unit": "Marethis",
+          "house": "Casa Seravel",
+          "holder_id": "CAST-528",
+          "heir_id": "CAST-529",
+          "consort_id": "CAST-564",
+          "sovereign_title": "Re",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        }
+      ]
     },
     {
       "id": "POL-13",
@@ -158,7 +314,8 @@
       "law": "Arbitrato fra conche; tribunali cittadini per proprietà e salari",
       "conflict": "Miniere d’argento chiedono una strada finanziata anche da villaggi senza miniera",
       "foreign_links": "Esen lana; Qadir sale; Marethis porti",
-      "limits": "Le conche mantengono diritto di opposizione a nuovi pedaggi, con negoziati lenti"
+      "limits": "Le conche mantengono diritto di opposizione a nuovi pedaggi, con negoziati lenti",
+      "dynastic_units_354": []
     },
     {
       "id": "POL-14",
@@ -170,7 +327,8 @@
       "law": "Corti statali e Sezione delle Lettere per brevetti, carta e editoria",
       "conflict": "Diritti sugli apparati ottici contro accesso pubblico alle scuole tecniche",
       "foreign_links": "Ashen Quay collega Neressa; Varrun riso; Arul vetro",
-      "limits": "La tipografia non richiede incorporare Archive; la censura resta una scelta politica"
+      "limits": "La tipografia non richiede incorporare Archive; la censura resta una scelta politica",
+      "dynastic_units_354": []
     },
     {
       "id": "POL-15",
@@ -182,7 +340,19 @@
       "law": "Tribunali locali; magistratura centrale per abusi degli ispettori",
       "conflict": "L’arruolamento tecnico obbligatorio sottrae personale ai villaggi montani",
       "foreign_links": "Ansei carta; Kosh minerali; Meren cantieri",
-      "limits": "Gli esami civili aprono carriere ma favoriscono chi ha tempo per studiare"
+      "limits": "Gli esami civili aprono carriere ma favoriscono chi ha tempo per studiare",
+      "dynastic_units_354": [
+        {
+          "state": "Teral",
+          "unit": "Teral",
+          "house": "Casa Renkai",
+          "holder_id": "CAST-530",
+          "heir_id": "CAST-531",
+          "consort_id": "CAST-565",
+          "sovereign_title": "Regina",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        }
+      ]
     },
     {
       "id": "POL-16",
@@ -194,7 +364,8 @@
       "law": "Giurie cantonali e collegio interterritoriale delle gallerie",
       "conflict": "Rischio dei pendii contro pressione a esportare rame tutto l’anno",
       "foreign_links": "Reth scambia tecniche; Teral compra metalli; Esen bestiame",
-      "limits": "La chiusura di un passo richiede perizia, non equivale a guerra automatica"
+      "limits": "La chiusura di un passo richiede perizia, non equivale a guerra automatica",
+      "dynastic_units_354": []
     },
     {
       "id": "POL-17",
@@ -206,7 +377,8 @@
       "law": "Tribunali portuali; ricorso civile regionale per incidenti industriali",
       "conflict": "Quartieri rialzati antisismici più cari spingono i lavoratori nelle zone esposte",
       "foreign_links": "Neressa navigazione; Arul zolfo; Teral ferro",
-      "limits": "Assistenza portuale e proprietà privata convivono con conflitti di affitto"
+      "limits": "Assistenza portuale e proprietà privata convivono con conflitti di affitto",
+      "dynastic_units_354": []
     },
     {
       "id": "POL-18",
@@ -218,7 +390,8 @@
       "law": "Corti insulari; accordi di estradizione limitati a reati concordati",
       "conflict": "L’isola che esporta zolfo paga il maggiore costo sanitario senza ricevere uguali entrate",
       "foreign_links": "Meren cantieri; Ansei vetro; Tessara cotone",
-      "limits": "Le repubbliche possono rifiutare basi straniere pur condividendo segnali marini"
+      "limits": "Le repubbliche possono rifiutare basi straniere pur condividendo segnali marini",
+      "dynastic_units_354": []
     },
     {
       "id": "POL-19",
@@ -230,7 +403,8 @@
       "law": "Corti municipali e tribunale federale del lavoro marittimo",
       "conflict": "Scorte invernali e tariffe: i porti minori temono di diventare dipendenti",
       "foreign_links": "Belanne via Norell Roads; Marethis lana; Varsha pesce",
-      "limits": "Nessun porto opera tutte le stagioni con la stessa capacità"
+      "limits": "Nessun porto opera tutte le stagioni con la stessa capacità",
+      "dynastic_units_354": []
     },
     {
       "id": "POL-20",
@@ -242,7 +416,39 @@
       "law": "Corti di regno; arbitrato della Lega per frontiere dei bacini",
       "conflict": "Unificazione doganale osteggiata dai regni che vivono di pedaggi",
       "foreign_links": "Edel lana; Keren rame; Norell macchine",
-      "limits": "L’associazione non ha un monarca unico né una cittadinanza già uniforme"
+      "limits": "L’associazione non ha un monarca unico né una cittadinanza già uniforme",
+      "dynastic_units_354": [
+        {
+          "state": "Askar",
+          "unit": "Asren",
+          "house": "Casa Valdek",
+          "holder_id": "CAST-556",
+          "heir_id": "CAST-557",
+          "consort_id": null,
+          "sovereign_title": "Re",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Askar",
+          "unit": "Helsen",
+          "house": "Casa Hest",
+          "holder_id": "CAST-558",
+          "heir_id": "CAST-559",
+          "consort_id": null,
+          "sovereign_title": "Regina",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Askar",
+          "unit": "Varnek",
+          "house": "Casa Norr",
+          "holder_id": "CAST-560",
+          "heir_id": "CAST-561",
+          "consort_id": null,
+          "sovereign_title": "Re",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        }
+      ]
     },
     {
       "id": "POL-21",
@@ -254,7 +460,8 @@
       "law": "Giudici dei fiordi; registro delle compensazioni per danni da ghiaccio",
       "conflict": "Cantieri vogliono abbattere foreste che proteggono pendii abitati",
       "foreign_links": "Norell carbone; Dorel navigazione; Askar cereali",
-      "limits": "Un bosco può avere funzione pubblica pur essendo proprietà privata"
+      "limits": "Un bosco può avere funzione pubblica pur essendo proprietà privata",
+      "dynastic_units_354": []
     },
     {
       "id": "POL-22",
@@ -266,7 +473,8 @@
       "law": "Tribunali provinciali e uffici mobili durante la stagione dei passi",
       "conflict": "Insegnanti e medici non raggiungono regolarmente i villaggi durante l’inverno",
       "foreign_links": "Askar alimenti; Norell officine; Tevar vetro",
-      "limits": "Servizi stagionali producono diseguaglianza senza dover inventare un culto malvagio"
+      "limits": "Servizi stagionali producono diseguaglianza senza dover inventare un culto malvagio",
+      "dynastic_units_354": []
     },
     {
       "id": "POL-23",
@@ -278,7 +486,8 @@
       "law": "Corti locali, collegio tecnico indipendente per manutenzione investita",
       "conflict": "Città concentrate temono il monopolio dei manutentori delle serre",
       "foreign_links": "Askar macchine; Tevar consulenze; Edel manodopera",
-      "limits": "La coltivazione protetta dipende da energia, ricambi e personale, non da una Seat locale"
+      "limits": "La coltivazione protetta dipende da energia, ricambi e personale, non da una Seat locale",
+      "dynastic_units_354": []
     },
     {
       "id": "POL-24",
@@ -290,7 +499,8 @@
       "law": "Corti di valle; arbitrato federale per collegamenti fra fiordi",
       "conflict": "Costruire collegamenti interni o espandere porti già redditizi",
       "foreign_links": "Ovel legname e utensili; Dorel trasporti; Iren pesca",
-      "limits": "Il territorio non è una sola tundra: città e valli hanno climi e servizi diversi"
+      "limits": "Il territorio non è una sola tundra: città e valli hanno climi e servizi diversi",
+      "dynastic_units_354": []
     },
     {
       "id": "POL-25",
@@ -302,7 +512,19 @@
       "law": "Corti del regno e sezione marittima autonoma",
       "conflict": "Prestiti navali garantiti su introiti futuri di porti troppo dipendenti da una rotta",
       "foreign_links": "Auvrel via Dorel Outer Port; Varsha pesca; Sivara officine",
-      "limits": "La garanzia non trasferisce automaticamente sovranità al creditore"
+      "limits": "La garanzia non trasferisce automaticamente sovranità al creditore",
+      "dynastic_units_354": [
+        {
+          "state": "Dorel",
+          "unit": "Dorel",
+          "house": "Casa Eyrdal",
+          "holder_id": "CAST-532",
+          "heir_id": "CAST-533",
+          "consort_id": "CAST-566",
+          "sovereign_title": "Regina",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        }
+      ]
     },
     {
       "id": "POL-26",
@@ -314,7 +536,8 @@
       "law": "Tribunali di valle; perizie termiche pubbliche contestabili",
       "conflict": "Ampliare serre e vetro aumenta il rischio di estrazione termica mal distribuita",
       "foreign_links": "Keren manutenzione; Edel vetro; Sivara legname",
-      "limits": "Calore geologico ordinario e supporti investiti sono censiti separatamente"
+      "limits": "Calore geologico ordinario e supporti investiti sono censiti separatamente",
+      "dynastic_units_354": []
     },
     {
       "id": "POL-27",
@@ -326,7 +549,8 @@
       "law": "Giudici di circuito; archivio comune degli accordi tradotto in più lingue",
       "conflict": "Registrazione dei percorsi stagionali contro pretese di concessioni esclusive",
       "foreign_links": "Sivara officine; Dorel navi; Tevar serre",
-      "limits": "I sette milioni comprendono coste abitabili; non vivono tutti sul ghiaccio"
+      "limits": "I sette milioni comprendono coste abitabili; non vivono tutti sul ghiaccio",
+      "dynastic_units_354": []
     }
   ],
   "religions": [
@@ -758,5 +982,8 @@
   "population_revision": "POP-298",
   "raccordo_revision": "RACCORDI-317",
   "territorial_revision": "347",
-  "duchy_source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md"
+  "duchy_source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+  "political_revision": 354,
+  "dynasties_source": "CANONE_VIGENTE/Dinastie_regnanti_354.json",
+  "alexander_institutions_source": "CANONE_VIGENTE/Istituzioni_Alexander_354.json"
 }

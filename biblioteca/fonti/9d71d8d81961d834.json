@@ -1,0 +1,31 @@
+{
+  "revision": 354,
+  "chamber": {
+    "name": "Camera delle Concessioni",
+    "seats": 120,
+    "territorial": 64,
+    "cities": 32,
+    "infrastructure": 24,
+    "quorum": 61,
+    "committees": 4,
+    "committee_members": 12,
+    "ordinary_notice_days": 14,
+    "extraordinary_notice_days": 5,
+    "ordinary_sessions": [
+      "febbraio–giugno",
+      "ottobre–dicembre"
+    ]
+  },
+  "alexander": {
+    "seat": "Concessione di Rovenne",
+    "proxy_vote": false,
+    "already_committee_member": false,
+    "medical_absence_possible": true,
+    "title_or_seat_not_transferred_by_coma": true,
+    "known_next_session": "2 giugno 812, non evento già giocato",
+    "political_choices": "OPEN"
+  },
+  "duchy_area_unchanged": 16400,
+  "private_estate_unchanged": 184,
+  "financial_accounts_133_unchanged": true
+}

@@ -1,0 +1,62 @@
+# Corin Belven — dossier politico 354
+
+CAST-538; situazione iniziale 18 maggio 812. Sapere riservato distinto da memorie pre-coma.
+
+## Identità e ruolo
+
+Principe di Veyford; Casa Belven
+
+## Età
+
+44
+
+## Biografia
+
+Divenne principe nel 806 dopo aver amministrato un magazzino pubblico. Ha un mandato ereditario ma deve negoziare il bilancio con il consiglio locale. Gioca a scacchi e perde volentieri solo con gli amici.
+
+## Obiettivo
+
+Distribuire i costi di un passaggio commerciale.
+
+## Conflitto
+
+Gli operatori maggiori chiedono esenzioni che i piccoli trasportatori non ricevono.
+
+## Rapporto ricordato con Alexander
+
+Identità e successione pubblica note dall’almanacco di corte prima del coma; nessuna confidenza personale o conoscenza delle deliberazioni attuali.
+
+## Informazioni riservate
+
+Sta confrontando una proposta meno vantaggiosa per la propria casa: Distribuire i costi di un passaggio commerciale. L’accettazione resta aperta.
+
+## Stato attuale
+
+Distribuire i costi di un passaggio commerciale.
+
+## Limiti
+
+Titolo civile distinto da autorità sovrannaturale. Nessuna conoscenza del ritorno di Edran; nessuna Root o Seat implicita.
+
+## Evoluzione senza intervento
+
+Prosegue negoziati e verifiche con gli interlocutori disponibili. Può cambiare proposta, perdere sostegno o rinviare; nessuna vittoria, morte o alleanza futura è garantita.
+
+## Poteri personali
+
+Persona ordinaria; il titolo non conferisce un’Effigy.
+
+## Legami
+
+- CAST-539: Figlia ed erede designata
+
+## Punti di ingresso
+
+- Un colloquio o una lettera riguarda: Distribuire i costi di un passaggio commerciale.
+- Una controparte contesta: Gli operatori maggiori chiedono esenzioni che i piccoli trasportatori non ricevono.
+
+## Immagine e corporeità
+
+Man44, brown skin, black cropped hair, dark eyes, clean shaven, muted ochre waistcoat and black formal coat
+
+Origine verticale: successione o carriera civile della biografia. Collegamento orizzontale: persone elencate nei legami e territorio di riferimento. Stato Attivo; impatto ordinario 🟡, effetti nazionali soltanto tramite atti e risorse realmente disponibili. Nessuna scelta futura del personaggio o dei PG è chiusa.
