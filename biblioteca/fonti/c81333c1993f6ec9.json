@@ -6150,5 +6150,11 @@
       "approval": "APERTA"
     }
   ],
-  "census_limits": "Tutti gli 86 slot del repertorio hanno un file quando produced=86; approvazione artistica utente distinta dalla presenza del file. Non equivale a completamento di tutta la roadmap."
+  "census_limits": "Tutti gli 86 slot del repertorio hanno un file quando produced=86; approvazione artistica utente distinta dalla presenza del file. Non equivale a completamento di tutta la roadmap.",
+  "consolidamento_362": {
+    "artifacts": 100,
+    "new_images": 75,
+    "source": "Illustrazioni_artefatti_362.json",
+    "precedence": "Il piano 304 e i suoi conteggi restano il resoconto della produzione storica; per il catalogo corrente e le immagini aggiunte prevalgono le fonti 362."
+  }
 }

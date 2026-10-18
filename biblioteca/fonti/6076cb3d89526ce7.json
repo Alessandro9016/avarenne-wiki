@@ -1,0 +1,11 @@
+{
+  "id": "ART-027",
+  "name": "The Last Match",
+  "asset": "assets/artefatto362-art-027.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_1/ART-027_the-last-match/01_illustrazione_originale.png",
+  "source_sha256": "e3fae54453dbf89f51ef702f3890f047e07e647b9e6bae47e145dda016c7e030",
+  "generator": "builtin image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: a single artifact illustration for the Avarenne dark fantasy novel encyclopedia. Primary subject: An ivory and brass match case holding a single faceted glass match with a tiny golden core. Show the whole artifact clearly with believable construction and exquisite tactile materials, one main view only. Refined semi-realistic painted novel concept art, sophisticated late industrial occult atmosphere, controlled soft museum illumination, dark charcoal or desaturated stone setting with subtle atmospheric depth. Make its silhouette distinctive and practical details legible. No person, no body wearing it, no mannequin face, no action scene, no extra weapons or props that could be mistaken for part of it. No text, labels, letters, numerals, logo, watermark, game interface, border, card frame or collage. Landscape composition approximately 3:2; object or installation dominates the frame with room around its silhouette. Restrained supernatural quality, not generic glowing loot.",
+  "visual_review": "APPROVATA: supporto, leggibilità e assenza di nuovi poteri impliciti verificati",
+  "revision": 362
+}

@@ -124,8 +124,8 @@
       "group": "Dati strutturati e registri",
       "url": "9f5d1e0af2de6024.html",
       "raw": "fonti/9f5d1e0af2de6024.json",
-      "sha256": "fc5d8f8d32966f8040cfdf17163d98034440f0b9d6f84f930e624d22ad883eb9",
-      "bytes": 3289080
+      "sha256": "550df88083165bb5c0f39cb3c5095e34b4af691274c2d26ffeb7528ca14d5e21",
+      "bytes": 3335865
     },
     {
       "source": "CANONE_VIGENTE/Censimento_visuale_luoghi.json",
@@ -475,8 +475,8 @@
       "group": "Dati strutturati e registri",
       "url": "2baf9591c2774322.html",
       "raw": "fonti/2baf9591c2774322.json",
-      "sha256": "2544736d7541ee2ef3451a624f90d524cec5b723035ce755710fdc01f040f047",
-      "bytes": 211750
+      "sha256": "57d37161056c1291d332cb2d505cb10cafd55b117734e639ee1b7a275d90fb33",
+      "bytes": 750957
     },
     {
       "source": "CANONE_VIGENTE/Piano_spostamenti_originali.json",
@@ -502,8 +502,8 @@
       "group": "Dati strutturati e registri",
       "url": "c81333c1993f6ec9.html",
       "raw": "fonti/c81333c1993f6ec9.json",
-      "sha256": "01832ebe238db075b32ad48aea3bf6fa9846f63501b26c19bcac7d9f0836a922",
-      "bytes": 363414
+      "sha256": "e5546dc4bda0e627f64858c4df36517c73fa55c7788f66cdc29045488a5c058f",
+      "bytes": 357557
     },
     {
       "source": "CANONE_VIGENTE/Piano_visuale_personaggi.json",
@@ -574,8 +574,8 @@
       "group": "Dati strutturati e registri",
       "url": "fe9fbb2c8f28317b.html",
       "raw": "fonti/fe9fbb2c8f28317b.json",
-      "sha256": "07352c11bc80331fae778c1bbcbebdd0d62337a0e0299314da3cc6d1684865ab",
-      "bytes": 84684
+      "sha256": "dfceb51a1f870b3e1685596a7593c23e5338cd9c21a023e526576b3db3a62945",
+      "bytes": 84680
     },
     {
       "source": "CANONE_VIGENTE/Regole_comuni.json",
@@ -5749,8 +5749,8 @@
       "group": "Documenti del giocatore",
       "url": "79b29f22ce651f20.html",
       "raw": "fonti/79b29f22ce651f20.md",
-      "sha256": "fd8f3aa33b4b7c50dd692079948f1344f4c006682ea99b27f5df2e09b7e94259",
-      "bytes": 5328
+      "sha256": "b30337ca38d6b69ff0f5c258a8f3b25fede3009244b767b498b8a4465962f564",
+      "bytes": 5323
     },
     {
       "source": "GIOCATORE_266_Popolazioni_delle_persone_che_ricordi.md",
@@ -6577,8 +6577,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "3cf264c4ff2263c6.html",
       "raw": "fonti/3cf264c4ff2263c6.md",
-      "sha256": "48aa861b49de5b2b3a13b67e85813c0b4321ae182d60e2b731413bbb83e85b78",
-      "bytes": 63921
+      "sha256": "5f3bde1f3b425705c4b8998d6374f887f0c23d1ae81afb1ba343d4b65f6cb7f5",
+      "bytes": 417895
     },
     {
       "source": "RISERVATO_185_Risorse_materiali_e_filiere.md",
@@ -7237,8 +7237,8 @@
       "group": "Canone vigente e verifica della consegna",
       "url": "06300f093b9b4ae7.html",
       "raw": "fonti/06300f093b9b4ae7.md",
-      "sha256": "82d1789eb9c6e3f61ecc0273a929eb9161b2d2e4fc34d9cc682b6a310a944b50",
-      "bytes": 58959
+      "sha256": "7b2120e039e2e9334e27e51060f4e8f1edddf740822160fcae1b5f66c95927bb",
+      "bytes": 59598
     },
     {
       "source": "342_Stato_vigente_per_la_consegna.md",
@@ -8931,8 +8931,8 @@
       "group": "Consolidamento354",
       "url": "158a6684c37f7be9.html",
       "raw": "fonti/158a6684c37f7be9.json",
-      "sha256": "fc5d8f8d32966f8040cfdf17163d98034440f0b9d6f84f930e624d22ad883eb9",
-      "bytes": 3289080
+      "sha256": "550df88083165bb5c0f39cb3c5095e34b4af691274c2d26ffeb7528ca14d5e21",
+      "bytes": 3335865
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/05_Atlante_cosmologico/DATI/Roots_consolidate.json",
@@ -12200,6 +12200,1554 @@
       "raw": "fonti/7410ae931d8ddf02.json",
       "sha256": "9c0f490ab4ac841af6c5a938a1f8e13e2a73b585bff28a8c537d682f6cccf766",
       "bytes": 388
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-037_the-unsaid-letter/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "28f2725b4478be22.html",
+      "raw": "fonti/28f2725b4478be22.json",
+      "sha256": "198303d18ffff0e6f5cbf634feb8c3b302a84398036178f7138002bd48ce8b05",
+      "bytes": 1569
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-041_the-long-exhalation/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "14bdeae1815391e6.html",
+      "raw": "fonti/14bdeae1815391e6.txt",
+      "sha256": "6e4be3648d6852a448ff3d9318dd6285b067d3bf67fa984635adf887ab74a9fc",
+      "bytes": 1026
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-093_the-black-tithe/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "f28ca4362ab5b614.html",
+      "raw": "fonti/f28ca4362ab5b614.txt",
+      "sha256": "c13a056ccd48780454baa9037cddb2eebec3436588e4089b95844aeebe586eb9",
+      "bytes": 1032
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-042_the-empty-feast/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "ead7587d506a9b99.html",
+      "raw": "fonti/ead7587d506a9b99.txt",
+      "sha256": "4f5bcbda1c259b444bd2d02f7faa61096531112e10e305ba94903e0b18da19dd",
+      "bytes": 1023
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/11_Oggetti_creature_e_unita_di_gioco/DATI/Oggetti_creature_materiali.json",
+      "title": "Oggetti creature materiali",
+      "group": "Artefatti 362",
+      "url": "40bea937933ad07d.html",
+      "raw": "fonti/40bea937933ad07d.json",
+      "sha256": "57d37161056c1291d332cb2d505cb10cafd55b117734e639ee1b7a275d90fb33",
+      "bytes": 750957
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-096_the-grave-meridian/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "5c91f5d137e870ce.html",
+      "raw": "fonti/5c91f5d137e870ce.txt",
+      "sha256": "5302c7bb81337b25ff84e761ece4135a102eb66e322475735aaa6102585ec2a0",
+      "bytes": 1023
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_1/ART-029_the-rain-nail/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "9b0128f62d3e42fa.html",
+      "raw": "fonti/9b0128f62d3e42fa.json",
+      "sha256": "e95127410ff1647bf9f21867729c67cc05f1d1fcd48378bed9017d655f814b90",
+      "bytes": 1551
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-039_the-broken-choir/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "076f243f3ed2b480.html",
+      "raw": "fonti/076f243f3ed2b480.json",
+      "sha256": "8def08fd76549d97ee28f59792557a74ba58b76dda80652f45e1bc47c1053101",
+      "bytes": 1544
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-087_the-midnight-porter/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "d5e4f3b953519b55.html",
+      "raw": "fonti/d5e4f3b953519b55.txt",
+      "sha256": "e67b10f602b0946932ab53624d74de99d5921ef835a216affa9f83a8bfcdfc21",
+      "bytes": 1026
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-063_the-hollow-orchard/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "7918737aed600e27.html",
+      "raw": "fonti/7918737aed600e27.txt",
+      "sha256": "b6992d656dd1eef712a856b3faf3ea043b67c81db7b77d2e517734117c5fe5d6",
+      "bytes": 1029
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_2/ART-031_the-beggar-s-thunder/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "3b127fafa4b983fe.html",
+      "raw": "fonti/3b127fafa4b983fe.json",
+      "sha256": "4fcf72d4918a1c77d6666261529d2a8c1c7552c7bd6b57ca5d5fb43c980b9901",
+      "bytes": 1571
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-092_the-vessel-of-repetition/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "7d2506ab8028e423.html",
+      "raw": "fonti/7d2506ab8028e423.json",
+      "sha256": "0270420624b9eda243232ceff97af25ac36b8fdac19077c6d7a605e5e53a7b7c",
+      "bytes": 1586
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_2/ART-033_the-smuggler-s-heel/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "1f18ed2df9a92821.html",
+      "raw": "fonti/1f18ed2df9a92821.txt",
+      "sha256": "573cd09ffe4de81728ebe541546036660e9f873dc90bf0383af0121cd4b3cec0",
+      "bytes": 1034
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-045_the-noon-key/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "69fccbf721586811.html",
+      "raw": "fonti/69fccbf721586811.json",
+      "sha256": "709af93a963a5d560f0749800628574a70e078604df73833cb4735a26665e1de",
+      "bytes": 1549
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-071_the-blue-scar/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "03ff893495aa417e.html",
+      "raw": "fonti/03ff893495aa417e.json",
+      "sha256": "59632952f421560426b18b0b3273c5291d9d9e64dc1b70b8f4a60b78190aba55",
+      "bytes": 1547
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-089_the-unanimous-pen/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "53d6ecc7a6e79f4d.html",
+      "raw": "fonti/53d6ecc7a6e79f4d.json",
+      "sha256": "122bdf6e69532bf44fffd36bf4ffd46decdc69e1469a09db65f1436bc3f354a1",
+      "bytes": 1561
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-040_the-pocket-redoubt/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "cf63bed966f46c48.html",
+      "raw": "fonti/cf63bed966f46c48.json",
+      "sha256": "22609067de50b2c003365373b3385522b6dfe3a852ebd852c8a4f53a8d27232c",
+      "bytes": 1554
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_2/ART-032_the-pale-bridle/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "6c02ed105cf6cf6e.html",
+      "raw": "fonti/6c02ed105cf6cf6e.txt",
+      "sha256": "b4d926c37e963efcbad27f219189fa124c5ccd6bf6fc492b7fbb51c2cbc7c2cc",
+      "bytes": 1015
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/11_Oggetti_creature_e_unita_di_gioco/GIOCATORE/GIOCATORE_183_Oggetti_organismi_e_fenomeni_regole.md",
+      "title": "GIOCATORE 183 Oggetti organismi e fenomeni regole",
+      "group": "Artefatti 362",
+      "url": "f003cb4d56bab3d2.html",
+      "raw": "fonti/f003cb4d56bab3d2.md",
+      "sha256": "b30337ca38d6b69ff0f5c258a8f3b25fede3009244b767b498b8a4465962f564",
+      "bytes": 5323
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-041_the-long-exhalation/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "2137c1183d28f001.html",
+      "raw": "fonti/2137c1183d28f001.json",
+      "sha256": "01cfc5fd49d7c92e9bbdb55c4afa63621d1d9fcb5129b2c451acee50d87ace04",
+      "bytes": 1566
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-055_the-false-funeral/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "c8089a5a377fed22.html",
+      "raw": "fonti/c8089a5a377fed22.json",
+      "sha256": "5c8f9eb1608738d1d34b89f168bfd1e09b7b7877d41ecaffa1158d8f3dd1bbeb",
+      "bytes": 1549
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-048_the-saintless-blade/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "09aace8553f25989.html",
+      "raw": "fonti/09aace8553f25989.json",
+      "sha256": "731d95ed4389ad13516a4a5f79fc75d6c6d5458a021cb14e99aafb1963baea80",
+      "bytes": 1564
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-092_the-vessel-of-repetition/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "464869942d67f7ca.html",
+      "raw": "fonti/464869942d67f7ca.txt",
+      "sha256": "4d11e0e069fe2ba1c20105f3ff727c865620ba1dc5eeb91d3148c3a64b5c22bd",
+      "bytes": 1036
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-069_the-bloodless-stitch/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "fee638f2fd226ed2.html",
+      "raw": "fonti/fee638f2fd226ed2.txt",
+      "sha256": "84aaf6da496ebd3003eb697770eb604c51c2379139eb3e566c74787e64a6e56a",
+      "bytes": 1023
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-096_the-grave-meridian/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "6c459df17e092224.html",
+      "raw": "fonti/6c459df17e092224.json",
+      "sha256": "dc8e008a2f14c72e3ed35d31e6df5ffcd96d72025fb0d49573b912519e86e99c",
+      "bytes": 1561
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/11_Oggetti_creature_e_unita_di_gioco/INDICI_E_DOCUMENTI_CONDIVISI/362_Consolidamento_artefatti_e_custodie.md",
+      "title": "362 Consolidamento artefatti e custodie",
+      "group": "Artefatti 362",
+      "url": "b0ad38fee4d03612.html",
+      "raw": "fonti/b0ad38fee4d03612.md",
+      "sha256": "3df3a712243e6944c889c69da4daded87b5d47861952fa0fb58fabc4bc9280be",
+      "bytes": 2566
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_2/ART-032_the-pale-bridle/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "714a03a2e613d44b.html",
+      "raw": "fonti/714a03a2e613d44b.json",
+      "sha256": "d8c485866e292f7556f434823668488d915e181aca01bd3a9092f5c718f206c7",
+      "bytes": 1547
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-044_the-last-ferry/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "7356cdef6180cd7e.html",
+      "raw": "fonti/7356cdef6180cd7e.json",
+      "sha256": "e300cd6dfb78686fd0765f2936ed2879672061c8cf9dd8504e1126d2881123a3",
+      "bytes": 1547
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/Piano_visuale_oggetti_creature_popolazioni.json",
+      "title": "Piano visuale oggetti creature popolazioni",
+      "group": "Artefatti 362",
+      "url": "c3901650928534bc.html",
+      "raw": "fonti/c3901650928534bc.json",
+      "sha256": "e5546dc4bda0e627f64858c4df36517c73fa55c7788f66cdc29045488a5c058f",
+      "bytes": 357557
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_1/ART-029_the-rain-nail/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "7ac9a39ae84a9ba6.html",
+      "raw": "fonti/7ac9a39ae84a9ba6.txt",
+      "sha256": "06fa6609875b032618d0165875a004a31f0a309a2fb4eb2544f2dd1e685e161c",
+      "bytes": 1023
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_7/ART-099_the-starless-dawn/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "e38363625d12c441.html",
+      "raw": "fonti/e38363625d12c441.json",
+      "sha256": "4012467c1bbdf44fe1a8f605f205e007e21dc3ff6c1057fbbb5d551b456c1e05",
+      "bytes": 1587
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-079_the-mercy-engine/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "68f873eaad7789df.html",
+      "raw": "fonti/68f873eaad7789df.txt",
+      "sha256": "a9481271e3409f525996fbb44e86d97c2e6578cf45f30b5ea8e3947659dfd5df",
+      "bytes": 1033
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_362/23_Registro_unico_del_canone.md",
+      "title": "23 Registro unico del canone",
+      "group": "Storico prima di 362",
+      "url": "3f146ea9701f7a4d.html",
+      "raw": "fonti/3f146ea9701f7a4d.md",
+      "sha256": "82d1789eb9c6e3f61ecc0273a929eb9161b2d2e4fc34d9cc682b6a310a944b50",
+      "bytes": 58959
+    },
+    {
+      "source": "362_Rapporto_finale_artefatti.md",
+      "title": "362 Rapporto finale artefatti",
+      "group": "Artefatti 362",
+      "url": "7ed2a57ecf33cf32.html",
+      "raw": "fonti/7ed2a57ecf33cf32.md",
+      "sha256": "5af5e462bc96db8f8618ec8848c4e55c26a48f51829acf6d5240017cf193415f",
+      "bytes": 1304
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-037_the-unsaid-letter/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "849b132eda8d6be6.html",
+      "raw": "fonti/849b132eda8d6be6.txt",
+      "sha256": "83a18ce18331fcb2198a16a22695607dedcb14d739449674dd7291b7466a9347",
+      "bytes": 1033
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-045_the-noon-key/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "47e6271c5e7d7699.html",
+      "raw": "fonti/47e6271c5e7d7699.txt",
+      "sha256": "b7bcc6d8e4e42f198e18362c9e0b7a8b2d4fe901788cd8190b686f6a7cc752a2",
+      "bytes": 1023
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-091_the-sleepless-court/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "45ce2c3d81252cde.html",
+      "raw": "fonti/45ce2c3d81252cde.txt",
+      "sha256": "16cb4a77b6024f79f4cd8746a9e271cb894160f1151fa27f9189b6dc2fc58d60",
+      "bytes": 1026
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/11_Oggetti_creature_e_unita_di_gioco/RISERVATO/RISERVATO_184_Catalogo_artefatti_e_dispositivi.md",
+      "title": "RISERVATO 184 Catalogo artefatti e dispositivi",
+      "group": "Artefatti 362",
+      "url": "c90cd5cb92f206ea.html",
+      "raw": "fonti/c90cd5cb92f206ea.md",
+      "sha256": "5f3bde1f3b425705c4b8998d6374f887f0c23d1ae81afb1ba343d4b65f6cb7f5",
+      "bytes": 417895
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-061_the-closed-battalion/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "d1845f8017507254.html",
+      "raw": "fonti/d1845f8017507254.json",
+      "sha256": "9b677f791c59ba5422b599671371582266fa6f827fd73c763496d845492f59aa",
+      "bytes": 1567
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-059_the-nail-of-descent/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "2ce3b4475cd6222a.html",
+      "raw": "fonti/2ce3b4475cd6222a.json",
+      "sha256": "e8ec475d719919296e8fbc36b67a5f88f41c4df653947c02d85239459af4bae0",
+      "bytes": 1562
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-051_the-widow-s-line/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "b1e9ab7c8e5b41cf.html",
+      "raw": "fonti/b1e9ab7c8e5b41cf.txt",
+      "sha256": "9f483da10cca02ffc03cf39243e3dda875adf605d7a915ddc81723a5445bf5fe",
+      "bytes": 1025
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-083_the-unspent-hour/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "8e5a5cff0b6cab98.html",
+      "raw": "fonti/8e5a5cff0b6cab98.txt",
+      "sha256": "7c05a34186c324185de5a8b2c7b371213f2c1da3336a6f133d9763d1515b9d3f",
+      "bytes": 1025
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-064_the-thirsting-harness/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "50bb090d5f915d83.html",
+      "raw": "fonti/50bb090d5f915d83.txt",
+      "sha256": "1dde29cf0481f9827662119c590114523169d834c4838fce4cd61242925f579b",
+      "bytes": 1024
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_7/ART-100_the-unfallen-sentence/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "549e35c75e2a630c.html",
+      "raw": "fonti/549e35c75e2a630c.json",
+      "sha256": "3d84f8b89d82883d995dea13c174c93d294ce64a715045d4b6609f71ed7d3c8e",
+      "bytes": 1590
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-044_the-last-ferry/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "747da0d08b292e50.html",
+      "raw": "fonti/747da0d08b292e50.txt",
+      "sha256": "5b6d71cf2b537b322511fe11c352a249ecd713ff01c957d0a7a35a493dbe3d28",
+      "bytes": 1017
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-047_the-amber-second/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "2fa025c0f89481b9.html",
+      "raw": "fonti/2fa025c0f89481b9.txt",
+      "sha256": "656ca72117f30c1954e4e5d2c7af2517fafc2300008caf6fffe60ae203f8a606",
+      "bytes": 1014
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-056_the-winter-arithmetic/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "c86413d8b5fbf661.html",
+      "raw": "fonti/c86413d8b5fbf661.json",
+      "sha256": "f7a5edeb20ef39c40dbdae494589d60708159aafeb798629c142f31decbfa8ee",
+      "bytes": 1576
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-069_the-bloodless-stitch/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "10e16d3bea60ce83.html",
+      "raw": "fonti/10e16d3bea60ce83.json",
+      "sha256": "797227d92e680f79a5db55393faf0eeb7b52b91ea432bfe54bf80579cb289608",
+      "bytes": 1565
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-048_the-saintless-blade/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "71e0a82b194f1249.html",
+      "raw": "fonti/71e0a82b194f1249.txt",
+      "sha256": "5f4d79fed4dc93d72cff91e722d27bce35d7b9e5ce26af1c56706bc6d97657be",
+      "bytes": 1024
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-064_the-thirsting-harness/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "551ae64553ae15a0.html",
+      "raw": "fonti/551ae64553ae15a0.json",
+      "sha256": "18e2db1fc68c8080e77b2dc28d522e2aafb9a7d04990d4dd3a6c088cbe550d64",
+      "bytes": 1568
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-076_the-familiar-s-door/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "a573c2af7a7559eb.html",
+      "raw": "fonti/a573c2af7a7559eb.txt",
+      "sha256": "7c25e577759ccabe906e5feaad26190b2b0cf13b71752a666c6636385a970511",
+      "bytes": 1029
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-052_the-patient-lightning/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "e7a59c09899260cf.html",
+      "raw": "fonti/e7a59c09899260cf.txt",
+      "sha256": "fc3a2269ad4283c0edb0cba010cf65e625e494d18411d887e7f0810a44e53613",
+      "bytes": 1025
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-085_the-court-of-one/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "e49936677ca455c8.html",
+      "raw": "fonti/e49936677ca455c8.json",
+      "sha256": "f1845ae992ba0f4fb309a843a28deeee576c762da64fd573f9024b82699ccd77",
+      "bytes": 1551
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-051_the-widow-s-line/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "0ccf81b76210267b.html",
+      "raw": "fonti/0ccf81b76210267b.json",
+      "sha256": "d2ccef28f6515eb8583e291caf8fb7928b1d076260a191a3e1b9027babd3b027",
+      "bytes": 1559
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-066_the-glass-fever/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "05f7dbc5450d1f84.html",
+      "raw": "fonti/05f7dbc5450d1f84.txt",
+      "sha256": "aa4a92f2542126ab73f8f90fc1cffc887ed6adc33f0c0264aa9747d1112c6c5f",
+      "bytes": 1012
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-062_the-salt-crown/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "49c6d655c22ccf07.html",
+      "raw": "fonti/49c6d655c22ccf07.json",
+      "sha256": "53baaf11cb70a758fbbfa7f2c98584bda0b2b89434cdc6c8aa9651226e20c3e0",
+      "bytes": 1554
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-043_the-glass-battalion/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "a294f7302d95f16d.html",
+      "raw": "fonti/a294f7302d95f16d.txt",
+      "sha256": "07f7b3e41da8fec49b73b6db060a15c64da645141164429326af398935c67015",
+      "bytes": 1039
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-077_the-unbought-hand/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "b7034d1c4757bbcf.html",
+      "raw": "fonti/b7034d1c4757bbcf.json",
+      "sha256": "c59632824098ca4db8417445a3a349d885cb802ecb1ee6051771545c6b2c71b6",
+      "bytes": 1560
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-035_the-orchard-teeth/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "2d93d89e4954aaf0.html",
+      "raw": "fonti/2d93d89e4954aaf0.json",
+      "sha256": "5cf97b04d9107913c9443021a735470d322afa89fc05b4749c78c6112d51d60d",
+      "bytes": 1553
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_1/ART-028_the-thorn-confessor/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "7272058b31781bc1.html",
+      "raw": "fonti/7272058b31781bc1.json",
+      "sha256": "761372b27121654aaba9e29cc85ff49d89a35d91e80fd7efb00411c8eb82cd76",
+      "bytes": 1557
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_362/GIOCATORE_183_Oggetti_organismi_e_fenomeni_regole.md",
+      "title": "GIOCATORE 183 Oggetti organismi e fenomeni regole",
+      "group": "Storico prima di 362",
+      "url": "01033016faf3126f.html",
+      "raw": "fonti/01033016faf3126f.md",
+      "sha256": "fd8f3aa33b4b7c50dd692079948f1344f4c006682ea99b27f5df2e09b7e94259",
+      "bytes": 5328
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-068_the-end-chisel/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "165de3c0f0d8fd59.html",
+      "raw": "fonti/165de3c0f0d8fd59.txt",
+      "sha256": "8364245513213fce407e3889abbda3e0c478a30a1c161181dde1cc0b95eb51e6",
+      "bytes": 1043
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-050_the-redoubt-skin/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "6202e2aba2084758.html",
+      "raw": "fonti/6202e2aba2084758.txt",
+      "sha256": "b7fdfb8c78c50c634e4c231dc5910c10fc0428298c3248bbb1c07c311156a7eb",
+      "bytes": 1032
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-081_the-closed-horizon/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "fd00bc1873163eb4.html",
+      "raw": "fonti/fd00bc1873163eb4.json",
+      "sha256": "4c7d0587ea84add878d2497431475b697fe053481c9e6322eec409e77df8e25e",
+      "bytes": 1571
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-066_the-glass-fever/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "71efec1193435238.html",
+      "raw": "fonti/71efec1193435238.json",
+      "sha256": "35e7c6ddb27c2dd05accd60d972180fea42eb6981be917fe50a026a6490307cb",
+      "bytes": 1544
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_7/ART-098_the-far-hinge/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "77d29239ecbba215.html",
+      "raw": "fonti/77d29239ecbba215.txt",
+      "sha256": "6030849d2e5b52b891137c1fbb3a1c3194190d8163794f6edcfe667a9298fa31",
+      "bytes": 1043
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-036_the-cinder-charges/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "54ac302813d67082.html",
+      "raw": "fonti/54ac302813d67082.txt",
+      "sha256": "2f531cb84ca939aee3bd364bcc9337c9bde9c5333894f9dba1c8c0ef977fb6bc",
+      "bytes": 1045
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-079_the-mercy-engine/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "c60ae3466af8130c.html",
+      "raw": "fonti/c60ae3466af8130c.json",
+      "sha256": "11ea818949d2333393966a2900bef17039c5b178aaf1f560245378b4a095f60c",
+      "bytes": 1567
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-077_the-unbought-hand/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "aa4bd8701a6c9511.html",
+      "raw": "fonti/aa4bd8701a6c9511.txt",
+      "sha256": "5172bec41616902af9f8bb2dd2fe71116d050b949207a6add61d951642b18287",
+      "bytes": 1024
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_7/ART-098_the-far-hinge/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "4ebd09a000c40d2b.html",
+      "raw": "fonti/4ebd09a000c40d2b.json",
+      "sha256": "2ec0889ef658871ebf4b110ce3fc9d06c8ba6ff3630192697afe5b5980dd360d",
+      "bytes": 1571
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-078_the-white-road/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "41e6078576d89595.html",
+      "raw": "fonti/41e6078576d89595.json",
+      "sha256": "3ce3a11e70c65129eabb3a7da02734595e57b761931e6af9fdac7bea3e6df148",
+      "bytes": 1553
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-071_the-blue-scar/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "1d9f5e582e323a96.html",
+      "raw": "fonti/1d9f5e582e323a96.txt",
+      "sha256": "b1fc9395346c9db3595f59f9734320a4f4804ab0e92e0c80987fc9012f450781",
+      "bytes": 1019
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_362/CANONE_VIGENTE/Cast_riservato.json",
+      "title": "Cast riservato",
+      "group": "Storico prima di 362",
+      "url": "ff7e116d29ccce3a.html",
+      "raw": "fonti/ff7e116d29ccce3a.json",
+      "sha256": "fc5d8f8d32966f8040cfdf17163d98034440f0b9d6f84f930e624d22ad883eb9",
+      "bytes": 3289080
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-053_the-mirror-gallows/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "8c2959acd0f7c830.html",
+      "raw": "fonti/8c2959acd0f7c830.json",
+      "sha256": "99135464f71820094e566b66ebff1ff34cd2c03c673f04b769fda7350719974e",
+      "bytes": 1565
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-097_the-treaty-of-ash/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "2bced0bdce9366cc.html",
+      "raw": "fonti/2bced0bdce9366cc.json",
+      "sha256": "ace77739387c74169ca66453aa708412db5169efa9f0648a116e59a2dc06920d",
+      "bytes": 1565
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-040_the-pocket-redoubt/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "f984368d88752467.html",
+      "raw": "fonti/f984368d88752467.txt",
+      "sha256": "c90fb848bc8a7dbd4cf7b481b6d0c219423559721d1cc1c2a9c1ab73a281fb8f",
+      "bytes": 1016
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_1/ART-028_the-thorn-confessor/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "1552ad2a23979af6.html",
+      "raw": "fonti/1552ad2a23979af6.txt",
+      "sha256": "0d6f5fa4ff132f448472647494f9ccd9bcb8ec1afefcfb4b3d1463562d784b61",
+      "bytes": 1017
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-063_the-hollow-orchard/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "145196b6f68f557e.html",
+      "raw": "fonti/145196b6f68f557e.json",
+      "sha256": "5285930667da237caedbdf5025fd58a34395cac2b158de0a8bc70444b4c9447e",
+      "bytes": 1567
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-088_the-heirless-face/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "a4ce1161d6b0bd7c.html",
+      "raw": "fonti/a4ce1161d6b0bd7c.txt",
+      "sha256": "ec9cd9371c304d4759b295a513222a97ec61bba2b948a4084b21d9e5f54e7303",
+      "bytes": 1025
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-091_the-sleepless-court/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "b948887904225fed.html",
+      "raw": "fonti/b948887904225fed.json",
+      "sha256": "3ba8435a2b679f9e5f7777f33b6c26f0e019de7cf6bdfd260019e3df8716fa65",
+      "bytes": 1566
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-094_the-unbroken-corridor/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "26678e91d0c5a78c.html",
+      "raw": "fonti/26678e91d0c5a78c.json",
+      "sha256": "f6e5d4f45604fe77ad0cd41290a2e098f20f1dc01123f42a3573e949bd30cdfb",
+      "bytes": 1586
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-095_the-witness-of-fire/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "6f95f4732ecce3a0.html",
+      "raw": "fonti/6f95f4732ecce3a0.json",
+      "sha256": "6728fce023a68b7bcfc7f8d8d086f34914b8a6a2889efe4271e8b5195a78e9a3",
+      "bytes": 1575
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/11_Oggetti_creature_e_unita_di_gioco/INDICI_E_DOCUMENTI_CONDIVISI/190_Indice_milestone_11.md",
+      "title": "190 Indice milestone 11",
+      "group": "Artefatti 362",
+      "url": "b6df843c013a7fe0.html",
+      "raw": "fonti/b6df843c013a7fe0.md",
+      "sha256": "7bcc8caac0942b5a6f8da5eeacf255a02cb1778e69e7ba94b972db1456a7c1b9",
+      "bytes": 1727
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-036_the-cinder-charges/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "56c6107862127a8e.html",
+      "raw": "fonti/56c6107862127a8e.json",
+      "sha256": "b264d90b400d68f7fd57a0f5cb9e5f48fa0321760c354c585fbb08a5e0cc7ad3",
+      "bytes": 1583
+    },
+    {
+      "source": "CANONE_VIGENTE/Artefatti_consolidati_362.json",
+      "title": "Artefatti consolidati 362",
+      "group": "Artefatti 362",
+      "url": "93cdb86a7ba61367.html",
+      "raw": "fonti/93cdb86a7ba61367.json",
+      "sha256": "7c6025e1167134d8531428718d9c58178eb32e6f145b03620cbed3d87f2e59b4",
+      "bytes": 588842
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-053_the-mirror-gallows/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "0f4c3f42fd8aaa85.html",
+      "raw": "fonti/0f4c3f42fd8aaa85.txt",
+      "sha256": "be03d09879e5a68531a9315ab7542603cb54513f10eacfec0b8503fdec84277c",
+      "bytes": 1027
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_1/ART-027_the-last-match/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "7c0fd5cd399e4059.html",
+      "raw": "fonti/7c0fd5cd399e4059.txt",
+      "sha256": "dabe725b70c831ada418f23550f8ffe0707438d9204304beb77643fb5d401cde",
+      "bytes": 1024
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_362/RISERVATO_184_Catalogo_artefatti_e_dispositivi.md",
+      "title": "RISERVATO 184 Catalogo artefatti e dispositivi",
+      "group": "Storico prima di 362",
+      "url": "ec29a1f3d5c2612c.html",
+      "raw": "fonti/ec29a1f3d5c2612c.md",
+      "sha256": "48aa861b49de5b2b3a13b67e85813c0b4321ae182d60e2b731413bbb83e85b78",
+      "bytes": 63921
+    },
+    {
+      "source": "CANONE_VIGENTE/Audit_artefatti_362.json",
+      "title": "Audit artefatti 362",
+      "group": "Artefatti 362",
+      "url": "639a6388cc96156b.html",
+      "raw": "fonti/639a6388cc96156b.json",
+      "sha256": "78bf178c74002c9c3f1683504a3aba7903dd0b8008e8dd311566023e0fe89ba9",
+      "bytes": 564
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-046_the-hollow-sermon/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "3abad53551ee5df7.html",
+      "raw": "fonti/3abad53551ee5df7.txt",
+      "sha256": "efd065c3a8d9eb292dcdfcd2bb7fadcb532b4c2197f08061ac2ab4080e7870c0",
+      "bytes": 1034
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-084_the-borrowed-winter/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "b161290f703731a9.html",
+      "raw": "fonti/b161290f703731a9.txt",
+      "sha256": "d6c251db40818cdb07fb599694b9cc24e838eda2a2f50a514a5ab81ce53c2981",
+      "bytes": 1027
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-087_the-midnight-porter/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "025c7751d93e62e2.html",
+      "raw": "fonti/025c7751d93e62e2.json",
+      "sha256": "d6489e392cd0d9d1d079d2a8896649afbe8e428a1e2ffa610c1dded3b2c8d6fb",
+      "bytes": 1566
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-073_the-unanswered-mirror/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "b0df8d47472cc112.html",
+      "raw": "fonti/b0df8d47472cc112.txt",
+      "sha256": "b3ebe2f347a54ee4ee35cea97d52d0dbe897663ae32d203e8664abf96e894ebf",
+      "bytes": 1021
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-088_the-heirless-face/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "293662220e38c22f.html",
+      "raw": "fonti/293662220e38c22f.json",
+      "sha256": "c22b0d63e39e3b7e8de6797cd25dfcd581308de466ddefa531fa050f3bc1162f",
+      "bytes": 1561
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-061_the-closed-battalion/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "d61e69ba06476fde.html",
+      "raw": "fonti/d61e69ba06476fde.txt",
+      "sha256": "95f4263ad92fa712edee9e10004b9b294ec1d62b7e89a0eddd07d3f437e53156",
+      "bytes": 1025
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/11_Oggetti_creature_e_unita_di_gioco/DATI/Artefatti_consolidati_362.json",
+      "title": "Artefatti consolidati 362",
+      "group": "Artefatti 362",
+      "url": "098f981481c767da.html",
+      "raw": "fonti/098f981481c767da.json",
+      "sha256": "7c6025e1167134d8531428718d9c58178eb32e6f145b03620cbed3d87f2e59b4",
+      "bytes": 588842
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-070_the-cartographer-s-coffin/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "1caf0e3cbfe0db6a.html",
+      "raw": "fonti/1caf0e3cbfe0db6a.json",
+      "sha256": "41553ee41c00629ac7ff777ece03ebd148100378346bb56134add68f6f15a337",
+      "bytes": 1579
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-072_the-furnace-veil/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "3c1cf8bb5fb2fd00.html",
+      "raw": "fonti/3c1cf8bb5fb2fd00.txt",
+      "sha256": "d3bfcab1fd354de608394447520f932e3e91930b4d96f38e79004209a89e8823",
+      "bytes": 1025
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-047_the-amber-second/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "c9a086a851355515.html",
+      "raw": "fonti/c9a086a851355515.json",
+      "sha256": "03dca52b52261b257c2fc57f833ec74237705d349a88921e9167e28011698216",
+      "bytes": 1548
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-049_the-iron-psalm/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "6e2cd123167f1e5e.html",
+      "raw": "fonti/6e2cd123167f1e5e.txt",
+      "sha256": "363a67ec09b69b4509bf3a470ba3c8ab7f3e57b0b03b1468f0b44f451bfd6dc4",
+      "bytes": 1037
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-058_the-unfinished-wound/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "582609e52129a6cb.html",
+      "raw": "fonti/582609e52129a6cb.txt",
+      "sha256": "964013b9fb91d351c9baecf136f83a0344002ece966a97c29ae3b2ab62e40f02",
+      "bytes": 1030
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/11_Oggetti_creature_e_unita_di_gioco/INDICI_E_DOCUMENTI_CONDIVISI/362_Rapporto_finale_artefatti.md",
+      "title": "362 Rapporto finale artefatti",
+      "group": "Artefatti 362",
+      "url": "517f1b9d4c96b82a.html",
+      "raw": "fonti/517f1b9d4c96b82a.md",
+      "sha256": "5af5e462bc96db8f8618ec8848c4e55c26a48f51829acf6d5240017cf193415f",
+      "bytes": 1304
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-070_the-cartographer-s-coffin/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "20eb7307a6943faa.html",
+      "raw": "fonti/20eb7307a6943faa.txt",
+      "sha256": "ec809e1b7057442222953a18e91cb358207fa222eae033433952d26d974d86f0",
+      "bytes": 1027
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-090_the-glass-counterexample/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "07f5c26da10cb67a.html",
+      "raw": "fonti/07f5c26da10cb67a.json",
+      "sha256": "42df201bb6bd9477231d5bee242f7a2582fa97576b86180a8c88311604b8613e",
+      "bytes": 1565
+    },
+    {
+      "source": "CANONE_VIGENTE/Illustrazioni_artefatti_362.json",
+      "title": "Illustrazioni artefatti 362",
+      "group": "Artefatti 362",
+      "url": "a1ea4d345e318506.html",
+      "raw": "fonti/a1ea4d345e318506.json",
+      "sha256": "963dc77fda0740e5bab9db6ea973aae217d53e97ab26a5c87704edc6f09d47ef",
+      "bytes": 120877
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-072_the-furnace-veil/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "40a50c6480743a64.html",
+      "raw": "fonti/40a50c6480743a64.json",
+      "sha256": "f9fad45be763824b39c5bcceeb60b0a1e5871682ec099d77cc303c8b7a81cdc1",
+      "bytes": 1559
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-038_the-twice-worn-coat/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "b0dd023323510e09.html",
+      "raw": "fonti/b0dd023323510e09.json",
+      "sha256": "552f819aa7478718bab0b9a75e33d173e560873c432f09dcd64b85c9a30d0f99",
+      "bytes": 1575
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/11_Oggetti_creature_e_unita_di_gioco/INDICI_E_DOCUMENTI_CONDIVISI/191_Chiusura_milestone_11.md",
+      "title": "191 Chiusura milestone 11",
+      "group": "Artefatti 362",
+      "url": "50fb2c637239a0ec.html",
+      "raw": "fonti/50fb2c637239a0ec.md",
+      "sha256": "28c4465827d380a65a2c66147f83563357a325b39b6505eb9aafd8bfa1a8f2cf",
+      "bytes": 2618
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-046_the-hollow-sermon/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "fe4a660fe799324d.html",
+      "raw": "fonti/fe4a660fe799324d.json",
+      "sha256": "7f6a0d772e9202dbd9ccd078d0bdf00bd445daf9fbcde73c930e05a681e81e73",
+      "bytes": 1570
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-084_the-borrowed-winter/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "b3303a1229056ba7.html",
+      "raw": "fonti/b3303a1229056ba7.json",
+      "sha256": "34c28c3c36638858bc6dd8ded7c2e152f2f0b1c71d2f81e57e92860a52c3e085",
+      "bytes": 1567
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-094_the-unbroken-corridor/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "caf0ad3df7de25d9.html",
+      "raw": "fonti/caf0ad3df7de25d9.txt",
+      "sha256": "1e01decfe5b94fdaf1e00f150fb0a686382f52a129f3e73a41355808e140e58c",
+      "bytes": 1042
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_7/ART-099_the-starless-dawn/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "9bbfecacd91323f7.html",
+      "raw": "fonti/9bbfecacd91323f7.txt",
+      "sha256": "d1e1e02a2eebecb8b1e76d6a3c7e4542a503cd25c1eb1f604ba9228e3ed79112",
+      "bytes": 1051
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-038_the-twice-worn-coat/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "ca3cdd95617c2566.html",
+      "raw": "fonti/ca3cdd95617c2566.txt",
+      "sha256": "43f1027270e103fc80422f51dfbdd5daaab2c0b171334d1190a0eea0d36b95ce",
+      "bytes": 1035
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-067_the-contrary-thread/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "95dae366964ac539.html",
+      "raw": "fonti/95dae366964ac539.txt",
+      "sha256": "eede7823f91407eae348f19b9b1f5457e173277fa26117b28ccafcef3483be2b",
+      "bytes": 1022
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-089_the-unanimous-pen/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "d0a98904fb933c3e.html",
+      "raw": "fonti/d0a98904fb933c3e.txt",
+      "sha256": "bb5f540fed5adcc17d5af83aaa8d33db958d60c2fe27c036918259513b4f01ec",
+      "bytes": 1025
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-060_the-price-of-shelter/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "fcb281f1296c2c3c.html",
+      "raw": "fonti/fcb281f1296c2c3c.txt",
+      "sha256": "dcdddc2cb97048e6fd0b49572f8590fe113d9ae006d50c0a9cae7232384047f6",
+      "bytes": 1025
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-065_the-silent-nail/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "f9e4e3f7bfe62a34.html",
+      "raw": "fonti/f9e4e3f7bfe62a34.txt",
+      "sha256": "978616a3cb3ba5c6f115f977a7490c6cd204c4f2e924efa59c5c9bf8af0acc44",
+      "bytes": 1025
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-052_the-patient-lightning/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "c2bbf08da89188d4.html",
+      "raw": "fonti/c2bbf08da89188d4.json",
+      "sha256": "f65671ebc6badcf0b12673312425889783051726fe22f15540e332a61e807007",
+      "bytes": 1569
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-058_the-unfinished-wound/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "707280927b7597ac.html",
+      "raw": "fonti/707280927b7597ac.json",
+      "sha256": "b41e42c0ede73e8887bd9be4b53c20e1ad66d83f71b704e9acd5b3e34d3a9dbd",
+      "bytes": 1572
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-060_the-price-of-shelter/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "f7702bacbc87c8bf.html",
+      "raw": "fonti/f7702bacbc87c8bf.json",
+      "sha256": "4294187895652c3c270987f2020d6d5e7073cfaf8167c8c3e334436ec44cf2d3",
+      "bytes": 1567
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-082_the-last-hospital/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "e97794e97c80057f.html",
+      "raw": "fonti/e97794e97c80057f.json",
+      "sha256": "432f7e0255dbc77ae5db9ba7af8cb975de419379ef3c166a7c750d5bf2cdd9af",
+      "bytes": 1560
+    },
+    {
+      "source": "PROMPT_ARTEFATTI_362.txt",
+      "title": "PROMPT ARTEFATTI 362",
+      "group": "Artefatti 362",
+      "url": "16019e6906e7a2d1.html",
+      "raw": "fonti/16019e6906e7a2d1.txt",
+      "sha256": "27deaef508bf3a4878d2680d8ba297c5f84d001f9203e73131e8e4ee9a34ac1a",
+      "bytes": 79156
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-059_the-nail-of-descent/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "b216bd00d7d9e304.html",
+      "raw": "fonti/b216bd00d7d9e304.txt",
+      "sha256": "3e0bc612689f2d29328804feefbf2bd38cc75ed4f84c36900d243cd8bfced5f3",
+      "bytes": 1022
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-062_the-salt-crown/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "510675a47e9dc138.html",
+      "raw": "fonti/510675a47e9dc138.txt",
+      "sha256": "71668386efd6bb3a053731b4f517e59ba252f80cfef7d404690fad7aeb23e8c0",
+      "bytes": 1024
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-065_the-silent-nail/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "722145f8ddb245b1.html",
+      "raw": "fonti/722145f8ddb245b1.json",
+      "sha256": "a760e6ac4fb43c373a353a416d4eef986a4c44fd8cdaba62424178c5149906c8",
+      "bytes": 1557
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-054_the-buried-mouth/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "b602f34d42f1d05e.html",
+      "raw": "fonti/b602f34d42f1d05e.txt",
+      "sha256": "2341ff43adbec5b09841582934ae19cd2d458ceae17e41bf5ec15624e4eedf3b",
+      "bytes": 1026
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-082_the-last-hospital/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "c0728a5b2ec83fa1.html",
+      "raw": "fonti/c0728a5b2ec83fa1.txt",
+      "sha256": "5ebdb784f0abe4d926585d2f6f83f89717c9258ff1ee0975ae13d2b40703e33e",
+      "bytes": 1024
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-097_the-treaty-of-ash/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "290415b795fc74e6.html",
+      "raw": "fonti/290415b795fc74e6.txt",
+      "sha256": "7b6c9ae5f0c7e27456dfaf5a202d34c251fc7ce54351390efcc839b942145da8",
+      "bytes": 1029
+    },
+    {
+      "source": "190_Indice_milestone_11.md",
+      "title": "190 Indice milestone 11",
+      "group": "Artefatti 362",
+      "url": "1d7d0ab2f861ae7a.html",
+      "raw": "fonti/1d7d0ab2f861ae7a.md",
+      "sha256": "7bcc8caac0942b5a6f8da5eeacf255a02cb1778e69e7ba94b972db1456a7c1b9",
+      "bytes": 1727
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-057_the-ash-repeater/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "46d0267885338f3b.html",
+      "raw": "fonti/46d0267885338f3b.txt",
+      "sha256": "c02d94000c8f0df3533a1fa1cd34776b632b45772fe4ef8537b135d6aa717dcd",
+      "bytes": 1035
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-043_the-glass-battalion/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "7eac4b3c9a368940.html",
+      "raw": "fonti/7eac4b3c9a368940.json",
+      "sha256": "b0856070f1b9d191a0299973ef0d19400798aa37c999de6eca99f050d13a4754",
+      "bytes": 1579
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_2/ART-034_the-bone-advocate/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "fe99bfd4b98515b5.html",
+      "raw": "fonti/fe99bfd4b98515b5.txt",
+      "sha256": "10ac8cb0f1f86a0b63bd8c8fd82bf59ca2941d82cd72644cdd95884d76793b12",
+      "bytes": 1030
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-086_the-hunger-treasury/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "f5ff16d2f055131f.html",
+      "raw": "fonti/f5ff16d2f055131f.txt",
+      "sha256": "4a878a804f1a8440eaa51734c32ea50671eb2ba57a879cfec191ade17cb8ec5b",
+      "bytes": 1019
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-083_the-unspent-hour/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "1aa2b6f600c79bc1.html",
+      "raw": "fonti/1aa2b6f600c79bc1.json",
+      "sha256": "411eee8ac3923c2cf71d0abaaa24ef7dc61daa7c1f6692c17536ccc270b5c505",
+      "bytes": 1559
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_2/ART-031_the-beggar-s-thunder/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "e6af94d4637a6ee4.html",
+      "raw": "fonti/e6af94d4637a6ee4.txt",
+      "sha256": "565593d96417eb199a90452c347c0061186c10b5aaf3bf0aa602f949c241aefb",
+      "bytes": 1029
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-056_the-winter-arithmetic/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "a34c29b49e17d7d5.html",
+      "raw": "fonti/a34c29b49e17d7d5.txt",
+      "sha256": "e538e7d0ade11a55003bb3e39b6df9e434cdeef3dc947a57b6fefe4ec40ae225",
+      "bytes": 1032
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-090_the-glass-counterexample/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "f0bd906769bb0e99.html",
+      "raw": "fonti/f0bd906769bb0e99.txt",
+      "sha256": "b0e1670ac64f1a804455cb3650ec5122452d7c2b44e5c0ca87cbb70f02fbe3f3",
+      "bytes": 1015
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-050_the-redoubt-skin/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "68f040ccbe100b06.html",
+      "raw": "fonti/68f040ccbe100b06.json",
+      "sha256": "d0748d934bd2f01d85e108577a2028731988c29dab8c60aeeef27931f0cc49e8",
+      "bytes": 1566
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_2/ART-030_the-black-index/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "f567d524477ed622.html",
+      "raw": "fonti/f567d524477ed622.txt",
+      "sha256": "b59bd7a9cda84d89eda5b3630c3328d83d684a8f41bf4f1291712fb313c19e35",
+      "bytes": 1028
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-068_the-end-chisel/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "1d3c5aa016115fe5.html",
+      "raw": "fonti/1d3c5aa016115fe5.json",
+      "sha256": "bc61401a0aafd4d2f3a976a3472129570acf590609fcb226ada7db0270be62e1",
+      "bytes": 1573
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-049_the-iron-psalm/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "4282e30faa2b5bf3.html",
+      "raw": "fonti/4282e30faa2b5bf3.json",
+      "sha256": "0aa4a24d46408c83e24f25f648d02f92c43e9ad53aac3372c0c47a050248117a",
+      "bytes": 1567
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-067_the-contrary-thread/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "546193ab584af002.html",
+      "raw": "fonti/546193ab584af002.json",
+      "sha256": "7f9bc4694c48539aa28d4507b7fed4b7536f891fe50ab02a8ff0630a313328a6",
+      "bytes": 1562
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-042_the-empty-feast/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "7ca4d312c132cf0e.html",
+      "raw": "fonti/7ca4d312c132cf0e.json",
+      "sha256": "436e28a8f61fe4c3461e37987d20933a8bdffb9666edebf0f19b9fc5b1252830",
+      "bytes": 1555
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-075_the-drowned-bell/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "319f74a084c5b817.html",
+      "raw": "fonti/319f74a084c5b817.txt",
+      "sha256": "53514ed220c09ad924957e0e8761c60005f0575f67dc19943169d3ccdcab05fc",
+      "bytes": 1026
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_362/CANONE_VIGENTE/Oggetti_creature_materiali.json",
+      "title": "Oggetti creature materiali",
+      "group": "Storico prima di 362",
+      "url": "cc15294ce2cda564.html",
+      "raw": "fonti/cc15294ce2cda564.json",
+      "sha256": "2544736d7541ee2ef3451a624f90d524cec5b723035ce755710fdc01f040f047",
+      "bytes": 211750
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-073_the-unanswered-mirror/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "10f1d0fbeda95119.html",
+      "raw": "fonti/10f1d0fbeda95119.json",
+      "sha256": "92593161ad97ef5087801b7e4a9f59e29c8964ba3be0d1d017e3697b436fac70",
+      "bytes": 1565
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-039_the-broken-choir/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "0c581e6e8f844f53.html",
+      "raw": "fonti/0c581e6e8f844f53.txt",
+      "sha256": "3d6369356adeb36bb3b35fb15cb26870361dd48093047b5fc81128edd3d214a1",
+      "bytes": 1010
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_2/ART-030_the-black-index/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "cb60f012f81fa1f0.html",
+      "raw": "fonti/cb60f012f81fa1f0.json",
+      "sha256": "76a37af12d4e72c06765f594ead3e474b175eee17849171bb4e8ea89d2310235",
+      "bytes": 1560
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-080_the-garrison-without-walls/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "074fd3a22ef5aa9b.html",
+      "raw": "fonti/074fd3a22ef5aa9b.txt",
+      "sha256": "53e6938b33ab67d514a2d0c42952d76adb07964434f61d09edc366714aa42a58",
+      "bytes": 1039
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-074_the-ashen-audience/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "1c28973ccd4e8398.html",
+      "raw": "fonti/1c28973ccd4e8398.json",
+      "sha256": "925fe9d88d1c041fba7686a581a8f17e0c286324e544ebca14a97d69001c768e",
+      "bytes": 1558
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-081_the-closed-horizon/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "4ea75431e5d547d4.html",
+      "raw": "fonti/4ea75431e5d547d4.txt",
+      "sha256": "551925033eff0a3e64ee8b7d33f7153f00f7fdf84381bd1bed53da2341d9226e",
+      "bytes": 1033
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-074_the-ashen-audience/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "32aac45e8fa142fd.html",
+      "raw": "fonti/32aac45e8fa142fd.txt",
+      "sha256": "96e80810fcfa3179b13758824d843b4559dabd8fdf4a8cca1c63f5a18cf20166",
+      "bytes": 1020
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-078_the-white-road/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "02d524e4ecf8a3aa.html",
+      "raw": "fonti/02d524e4ecf8a3aa.txt",
+      "sha256": "9fd27a2e4e2ed74cad8f377ff6bc224cbd1cdf2a7323274f8f91b3974e06ece5",
+      "bytes": 1023
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-055_the-false-funeral/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "9736fe3093705411.html",
+      "raw": "fonti/9736fe3093705411.txt",
+      "sha256": "fe931221e7d857118814dbfdf30f84a26a2cb841497adb776005ae88b710d240",
+      "bytes": 1013
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_1/ART-027_the-last-match/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "6076cb3d89526ce7.html",
+      "raw": "fonti/6076cb3d89526ce7.json",
+      "sha256": "b084b8e589991789dd80b4388d01b82c41f2c6b8f4a9530102c7cffebd7f8ed2",
+      "bytes": 1554
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-035_the-orchard-teeth/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "d4f889381dbb1149.html",
+      "raw": "fonti/d4f889381dbb1149.txt",
+      "sha256": "2f853807fa0adf586bba9588e684944c90679809405aaddf2aabe76761a0cbfc",
+      "bytes": 1017
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-057_the-ash-repeater/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "c446576837511e96.html",
+      "raw": "fonti/c446576837511e96.json",
+      "sha256": "85f00bfc6f048ee03bd4ca28e5e81258ccda66433992acc3f186a6dad96b1c22",
+      "bytes": 1569
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-095_the-witness-of-fire/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "032f491c37346693.html",
+      "raw": "fonti/032f491c37346693.txt",
+      "sha256": "bf7499a8f88179b431a7738f9a72289af9473e2f35035915f557b9cee97c691f",
+      "bytes": 1035
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_1/ART-026_the-coal-widow/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "e4db7a0f0f62a143.html",
+      "raw": "fonti/e4db7a0f0f62a143.json",
+      "sha256": "527d0f2f6d7f2ca7f45be6e557e27e86677b6d3f5a5508a868855b7cd04649a7",
+      "bytes": 1547
+    },
+    {
+      "source": "362_Consolidamento_artefatti_e_custodie.md",
+      "title": "362 Consolidamento artefatti e custodie",
+      "group": "Artefatti 362",
+      "url": "5bf468aaf34df320.html",
+      "raw": "fonti/5bf468aaf34df320.md",
+      "sha256": "3df3a712243e6944c889c69da4daded87b5d47861952fa0fb58fabc4bc9280be",
+      "bytes": 2566
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-076_the-familiar-s-door/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "4a719596fa6b1972.html",
+      "raw": "fonti/4a719596fa6b1972.json",
+      "sha256": "b3eb005c1e6ff9496e2b75c6395ca6f96bd0bf7261462953d28c3cc25fe29643",
+      "bytes": 1569
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_1/ART-026_the-coal-widow/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "196ef1f133b925d6.html",
+      "raw": "fonti/196ef1f133b925d6.txt",
+      "sha256": "d8566de1b013b303926ae830972ff2bcbe1efc03679c9d0e6556374f7c5095ad",
+      "bytes": 1017
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-075_the-drowned-bell/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "6cd04de8cdb2b30d.html",
+      "raw": "fonti/6cd04de8cdb2b30d.json",
+      "sha256": "3af60c540df07db3da7d20acad891b82f30da2ace1c6f434058d62ee458cb25b",
+      "bytes": 1560
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-093_the-black-tithe/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "c41dbd75665f3566.html",
+      "raw": "fonti/c41dbd75665f3566.json",
+      "sha256": "59a636b8f63c427d5ec7a258b822e16954650889d07cdbe3cb7c37c582ba814a",
+      "bytes": 1564
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-080_the-garrison-without-walls/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "723d453448017c48.html",
+      "raw": "fonti/723d453448017c48.json",
+      "sha256": "ffb4b7874486c5acf2526e906e2b13f21fa39039580a516cbc7212ed3cec8899",
+      "bytes": 1593
+    },
+    {
+      "source": "191_Chiusura_milestone_11.md",
+      "title": "191 Chiusura milestone 11",
+      "group": "Artefatti 362",
+      "url": "fbee3b83832d687b.html",
+      "raw": "fonti/fbee3b83832d687b.md",
+      "sha256": "28c4465827d380a65a2c66147f83563357a325b39b6505eb9aafd8bfa1a8f2cf",
+      "bytes": 2618
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_2/ART-033_the-smuggler-s-heel/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "c05e923c63358ebb.html",
+      "raw": "fonti/c05e923c63358ebb.json",
+      "sha256": "7d92e7aa46cbc470fd3cdc50a4804e5bbb04cccd58d77020d1d5871525bc08d4",
+      "bytes": 1574
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_7/ART-100_the-unfallen-sentence/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "1926df0c1e394dbc.html",
+      "raw": "fonti/1926df0c1e394dbc.txt",
+      "sha256": "d9b5648eaff1997c59fa82f41a3126bf903696e0cd43b01e0fc9b0269b68b967",
+      "bytes": 1046
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-054_the-buried-mouth/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "e279aa050c599b0a.html",
+      "raw": "fonti/e279aa050c599b0a.json",
+      "sha256": "ee7a5b0d4316f2fa009cb08f86a4b84ab3cd8a5fef4c2b37be9604e604350086",
+      "bytes": 1560
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-086_the-hunger-treasury/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "cbb87bf834f685b0.html",
+      "raw": "fonti/cbb87bf834f685b0.json",
+      "sha256": "ae29b12e11033475cba08e83dad0774a6d8c94f26a6134eb36ae7c7333a6d3ad",
+      "bytes": 1559
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-085_the-court-of-one/Prompt.txt",
+      "title": "Prompt",
+      "group": "Artefatti 362",
+      "url": "1b830a2f6f9ee7fd.html",
+      "raw": "fonti/1b830a2f6f9ee7fd.txt",
+      "sha256": "fd286ce63fde42eaaaddec68ca7d2264677c7032bc9301a9a8bb47813fbf5ac8",
+      "bytes": 1017
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_2/ART-034_the-bone-advocate/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Artefatti 362",
+      "url": "d4ca5f3b23bfbba9.html",
+      "raw": "fonti/d4ca5f3b23bfbba9.json",
+      "sha256": "7191193a7327c5b85615f2961c21502f6e719e3eabc894056048834ab2e6bdbd",
+      "bytes": 1566
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",

@@ -1,0 +1,11 @@
+{
+  "id": "ART-096",
+  "name": "The Grave Meridian",
+  "asset": "assets/artefatto362-art-096.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-096_the-grave-meridian/01_illustrazione_originale.png",
+  "source_sha256": "ce71bc39f702375955f6c039e01fab22946fd5724b040a90694fddcf372e0138",
+  "generator": "builtin image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: a single artifact illustration for the Avarenne dark fantasy novel encyclopedia. Primary subject: A narrow black stone obelisk carried on a dark bronze sled, with one silver vertical seam. Show the whole artifact clearly with believable construction and exquisite tactile materials, one main view only. Refined semi-realistic painted novel concept art, sophisticated late industrial occult atmosphere, controlled soft museum illumination, dark charcoal or desaturated stone setting with subtle atmospheric depth. Make its silhouette distinctive and practical details legible. No person, no body wearing it, no mannequin face, no action scene, no extra weapons or props that could be mistaken for part of it. No text, labels, letters, numerals, logo, watermark, game interface, border, card frame or collage. Landscape composition approximately 3:2; object or installation dominates the frame with room around its silhouette. Restrained supernatural quality, not generic glowing loot.",
+  "visual_review": "APPROVATA: supporto, leggibilità e assenza di nuovi poteri impliciti verificati",
+  "revision": 362
+}

@@ -1,8 +1,8 @@
 {
-  "versione": "360",
+  "versione": "362",
   "data": "2026-10-17",
   "fonte_unica": "23_Registro_unico_del_canone.md",
-  "sha256_fonte": "82d1789eb9c6e3f61ecc0273a929eb9161b2d2e4fc34d9cc682b6a310a944b50",
+  "sha256_fonte": "7b2120e039e2e9334e27e51060f4e8f1edddf740822160fcae1b5f66c95927bb",
   "decisioni": [
     {
       "id": "CAN-001",
@@ -2009,8 +2009,8 @@
       "versione": "326"
     }
   ],
-  "revision": 360,
-  "current_topic_register": "360_Atlante_cartografico_guida_e_precisione.md",
+  "revision": 362,
+  "current_topic_register": "362_Consolidamento_artefatti_e_custodie.md",
   "operational_profiles_source": "CANONE_VIGENTE/Profili_operativi_Effigi_350.json",
   "interaction_source": "CANONE_VIGENTE/Contese_verificate_350.json",
   "pending_work_source": null

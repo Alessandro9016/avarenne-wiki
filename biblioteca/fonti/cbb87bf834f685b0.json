@@ -1,0 +1,11 @@
+{
+  "id": "ART-086",
+  "name": "The Hunger Treasury",
+  "asset": "assets/artefatto362-art-086.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-086_the-hunger-treasury/01_illustrazione_originale.png",
+  "source_sha256": "1626446bce66e5701f6cfe57251123f6775a7f337ab8a54019c96c2d7853b0dc",
+  "generator": "builtin image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: a single artifact illustration for the Avarenne dark fantasy novel encyclopedia. Primary subject: A locked black iron coffer with a smooth oval mouth aperture and red internal baffles. Show the whole artifact clearly with believable construction and exquisite tactile materials, one main view only. Refined semi-realistic painted novel concept art, sophisticated late industrial occult atmosphere, controlled soft museum illumination, dark charcoal or desaturated stone setting with subtle atmospheric depth. Make its silhouette distinctive and practical details legible. No person, no body wearing it, no mannequin face, no action scene, no extra weapons or props that could be mistaken for part of it. No text, labels, letters, numerals, logo, watermark, game interface, border, card frame or collage. Landscape composition approximately 3:2; object or installation dominates the frame with room around its silhouette. Restrained supernatural quality, not generic glowing loot.",
+  "visual_review": "APPROVATA: supporto, leggibilità e assenza di nuovi poteri impliciti verificati",
+  "revision": 362
+}

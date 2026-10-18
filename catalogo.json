@@ -172,7 +172,7 @@
     "title": "Aldora",
     "kind": "Luoghi",
     "url": "loc-037-aldora.html",
-    "bytes": 8998,
+    "bytes": 9422,
     "image_count": 2
   },
   {
@@ -268,7 +268,7 @@
     "title": "Althene Rhos",
     "kind": "Personaggi",
     "url": "cast-012-althene-rhos.html",
-    "bytes": 18656,
+    "bytes": 19215,
     "image_count": 4
   },
   {
@@ -396,7 +396,7 @@
     "title": "Anren",
     "kind": "Luoghi",
     "url": "loc-046-anren.html",
-    "bytes": 9297,
+    "bytes": 9635,
     "image_count": 3
   },
   {
@@ -484,7 +484,7 @@
     "title": "Archive",
     "kind": "Effigi",
     "url": "archive.html",
-    "bytes": 125860,
+    "bytes": 126613,
     "image_count": 2
   },
   {
@@ -632,19 +632,19 @@
     "image_count": 2
   },
   {
-    "id": "CAT-artefatti",
-    "title": "Artefatti",
-    "kind": "Indici tematici",
+    "id": "INDEX-ARTIFACTS",
+    "title": "Artefatti e dispositivi",
+    "kind": "Repertori",
     "url": "artefatti.html",
-    "bytes": 13914,
-    "image_count": 25
+    "bytes": 45353,
+    "image_count": 100
   },
   {
     "id": "DOC-184",
     "title": "Artefatti e dispositivi",
     "kind": "Approfondimenti",
     "url": "doc-184-artefatti-e-dispositivi.html",
-    "bytes": 85833,
+    "bytes": 455889,
     "image_count": 0
   },
   {
@@ -660,7 +660,7 @@
     "title": "Arula",
     "kind": "Luoghi",
     "url": "loc-050-arula.html",
-    "bytes": 8861,
+    "bytes": 9216,
     "image_count": 2
   },
   {
@@ -708,7 +708,7 @@
     "title": "Ashen Quay",
     "kind": "Luoghi",
     "url": "loc-061-ashen-quay.html",
-    "bytes": 8855,
+    "bytes": 9303,
     "image_count": 2
   },
   {
@@ -724,7 +724,7 @@
     "title": "Ashren Tor",
     "kind": "Personaggi",
     "url": "cast-009-ashren-tor.html",
-    "bytes": 18162,
+    "bytes": 18717,
     "image_count": 4
   },
   {
@@ -740,7 +740,7 @@
     "title": "Asren",
     "kind": "Luoghi",
     "url": "loc-052-asren.html",
-    "bytes": 8851,
+    "bytes": 9209,
     "image_count": 2
   },
   {
@@ -780,7 +780,7 @@
     "title": "Astrid Noll",
     "kind": "Personaggi",
     "url": "cast-177-astrid-noll.html",
-    "bytes": 20393,
+    "bytes": 21036,
     "image_count": 2
   },
   {
@@ -788,7 +788,7 @@
     "title": "Astrolabe",
     "kind": "Effigi",
     "url": "astrolabe.html",
-    "bytes": 104886,
+    "bytes": 105736,
     "image_count": 2
   },
   {
@@ -908,7 +908,7 @@
     "title": "Avaris",
     "kind": "Luoghi",
     "url": "loc-021-avaris.html",
-    "bytes": 9379,
+    "bytes": 9621,
     "image_count": 2
   },
   {
@@ -972,7 +972,7 @@
     "title": "Banner",
     "kind": "Effigi",
     "url": "banner.html",
-    "bytes": 107019,
+    "bytes": 107561,
     "image_count": 2
   },
   {
@@ -1548,7 +1548,7 @@
     "title": "Cerel Voss",
     "kind": "Personaggi",
     "url": "cast-016-cerel-voss.html",
-    "bytes": 18384,
+    "bytes": 19033,
     "image_count": 4
   },
   {
@@ -1572,7 +1572,7 @@
     "title": "Chain",
     "kind": "Effigi",
     "url": "chain.html",
-    "bytes": 101867,
+    "bytes": 102530,
     "image_count": 2
   },
   {
@@ -1732,7 +1732,7 @@
     "title": "Coin",
     "kind": "Effigi",
     "url": "coin.html",
-    "bytes": 105430,
+    "bytes": 105868,
     "image_count": 2
   },
   {
@@ -2012,7 +2012,7 @@
     "title": "Corten",
     "kind": "Luoghi",
     "url": "loc-022-corten.html",
-    "bytes": 9759,
+    "bytes": 10212,
     "image_count": 3
   },
   {
@@ -2020,7 +2020,7 @@
     "title": "Corvin Dast",
     "kind": "Personaggi",
     "url": "cast-033-corvin-dast.html",
-    "bytes": 20437,
+    "bytes": 20998,
     "image_count": 4
   },
   {
@@ -2044,7 +2044,7 @@
     "title": "Cradle",
     "kind": "Effigi",
     "url": "cradle.html",
-    "bytes": 57959,
+    "bytes": 58307,
     "image_count": 2
   },
   {
@@ -2076,7 +2076,7 @@
     "title": "Crescent",
     "kind": "Effigi",
     "url": "crescent.html",
-    "bytes": 130725,
+    "bytes": 131370,
     "image_count": 2
   },
   {
@@ -2124,7 +2124,7 @@
     "title": "Crown",
     "kind": "Effigi",
     "url": "crown.html",
-    "bytes": 107056,
+    "bytes": 107605,
     "image_count": 2
   },
   {
@@ -2156,7 +2156,7 @@
     "title": "Crucible",
     "kind": "Effigi",
     "url": "crucible.html",
-    "bytes": 90418,
+    "bytes": 91145,
     "image_count": 2
   },
   {
@@ -2268,7 +2268,7 @@
     "title": "Dama Rinn",
     "kind": "Personaggi",
     "url": "cast-028-dama-rinn.html",
-    "bytes": 14719,
+    "bytes": 15154,
     "image_count": 4
   },
   {
@@ -2420,7 +2420,7 @@
     "title": "Denor Rai",
     "kind": "Personaggi",
     "url": "cast-026-denor-rai.html",
-    "bytes": 17549,
+    "bytes": 18091,
     "image_count": 4
   },
   {
@@ -2428,7 +2428,7 @@
     "title": "Deren",
     "kind": "Luoghi",
     "url": "loc-006-deren.html",
-    "bytes": 10003,
+    "bytes": 10438,
     "image_count": 3
   },
   {
@@ -2444,7 +2444,7 @@
     "title": "Deyran Ur",
     "kind": "Personaggi",
     "url": "cast-015-deyran-ur.html",
-    "bytes": 18727,
+    "bytes": 19190,
     "image_count": 4
   },
   {
@@ -2532,7 +2532,7 @@
     "title": "Doria Seln",
     "kind": "Personaggi",
     "url": "cast-006-doria-seln.html",
-    "bytes": 14530,
+    "bytes": 14981,
     "image_count": 4
   },
   {
@@ -2580,7 +2580,7 @@
     "title": "Dorven",
     "kind": "Luoghi",
     "url": "loc-057-dorven.html",
-    "bytes": 8806,
+    "bytes": 9134,
     "image_count": 2
   },
   {
@@ -2588,7 +2588,7 @@
     "title": "Dovar",
     "kind": "Luoghi",
     "url": "loc-014-dovar.html",
-    "bytes": 9312,
+    "bytes": 9567,
     "image_count": 2
   },
   {
@@ -2644,7 +2644,7 @@
     "title": "Eclipse",
     "kind": "Effigi",
     "url": "eclipse.html",
-    "bytes": 104903,
+    "bytes": 105435,
     "image_count": 2
   },
   {
@@ -2772,7 +2772,7 @@
     "title": "Edris",
     "kind": "Luoghi",
     "url": "loc-054-edris.html",
-    "bytes": 8779,
+    "bytes": 9139,
     "image_count": 2
   },
   {
@@ -2980,7 +2980,7 @@
     "title": "Erath Pell",
     "kind": "Personaggi",
     "url": "cast-039-erath-pell.html",
-    "bytes": 16402,
+    "bytes": 16844,
     "image_count": 2
   },
   {
@@ -3044,7 +3044,7 @@
     "title": "Eshar",
     "kind": "Luoghi",
     "url": "loc-040-eshar.html",
-    "bytes": 9001,
+    "bytes": 9338,
     "image_count": 2
   },
   {
@@ -3052,7 +3052,7 @@
     "title": "Eshra Vale",
     "kind": "Personaggi",
     "url": "cast-083-eshra-vale.html",
-    "bytes": 19966,
+    "bytes": 20520,
     "image_count": 2
   },
   {
@@ -3060,7 +3060,7 @@
     "title": "Esra Erel",
     "kind": "Personaggi",
     "url": "cast-348-esra-erel.html",
-    "bytes": 16329,
+    "bytes": 16777,
     "image_count": 0
   },
   {
@@ -3364,7 +3364,7 @@
     "title": "Galleria illustrata",
     "kind": "Indici",
     "url": "galleria-illustrata.html",
-    "bytes": 375530,
+    "bytes": 375880,
     "image_count": 760
   },
   {
@@ -3556,7 +3556,7 @@
     "title": "Grey Embankment",
     "kind": "Luoghi",
     "url": "loc-032-grey-embankment.html",
-    "bytes": 8675,
+    "bytes": 9016,
     "image_count": 2
   },
   {
@@ -3572,7 +3572,7 @@
     "title": "Hadrik Vos",
     "kind": "Personaggi",
     "url": "cast-486-hadrik-vos.html",
-    "bytes": 15896,
+    "bytes": 16427,
     "image_count": 2
   },
   {
@@ -3588,7 +3588,7 @@
     "title": "Halo",
     "kind": "Effigi",
     "url": "halo.html",
-    "bytes": 115150,
+    "bytes": 115771,
     "image_count": 2
   },
   {
@@ -3644,7 +3644,7 @@
     "title": "Heart",
     "kind": "Effigi",
     "url": "heart.html",
-    "bytes": 95552,
+    "bytes": 96164,
     "image_count": 2
   },
   {
@@ -3692,7 +3692,7 @@
     "title": "Hector Orvan",
     "kind": "Personaggi",
     "url": "cast-442-hector-orvan.html",
-    "bytes": 16379,
+    "bytes": 16818,
     "image_count": 0
   },
   {
@@ -3740,7 +3740,7 @@
     "title": "Helia Erel",
     "kind": "Personaggi",
     "url": "cast-410-helia-erel.html",
-    "bytes": 15906,
+    "bytes": 16356,
     "image_count": 0
   },
   {
@@ -3836,7 +3836,7 @@
     "title": "Hourglass",
     "kind": "Effigi",
     "url": "hourglass.html",
-    "bytes": 106522,
+    "bytes": 107038,
     "image_count": 2
   },
   {
@@ -3924,7 +3924,7 @@
     "title": "Ildan",
     "kind": "Luoghi",
     "url": "loc-043-ildan.html",
-    "bytes": 8885,
+    "bytes": 9139,
     "image_count": 2
   },
   {
@@ -4004,7 +4004,7 @@
     "title": "Ilyra Sen",
     "kind": "Personaggi",
     "url": "cast-014-ilyra-sen.html",
-    "bytes": 16780,
+    "bytes": 17243,
     "image_count": 4
   },
   {
@@ -4020,7 +4020,7 @@
     "title": "Indice generale A–Z",
     "kind": "Indici",
     "url": "indice-generale.html",
-    "bytes": 116034,
+    "bytes": 122530,
     "image_count": 0
   },
   {
@@ -4068,7 +4068,7 @@
     "title": "Ines Uvel",
     "kind": "Personaggi",
     "url": "cast-285-ines-uvel.html",
-    "bytes": 15957,
+    "bytes": 16403,
     "image_count": 0
   },
   {
@@ -4172,7 +4172,7 @@
     "title": "Irela",
     "kind": "Luoghi",
     "url": "loc-059-irela.html",
-    "bytes": 8445,
+    "bytes": 8710,
     "image_count": 2
   },
   {
@@ -4220,7 +4220,7 @@
     "title": "Isabeau Cernay",
     "kind": "Personaggi",
     "url": "cast-570-isabeau-cernay.html",
-    "bytes": 9763,
+    "bytes": 10209,
     "image_count": 1
   },
   {
@@ -4252,7 +4252,7 @@
     "title": "Ishven Raal",
     "kind": "Personaggi",
     "url": "cast-484-ishven-raal.html",
-    "bytes": 16049,
+    "bytes": 16594,
     "image_count": 2
   },
   {
@@ -4284,7 +4284,7 @@
     "title": "Iven Namar",
     "kind": "Personaggi",
     "url": "cast-029-iven-namar.html",
-    "bytes": 17442,
+    "bytes": 17979,
     "image_count": 4
   },
   {
@@ -4436,7 +4436,7 @@
     "title": "Kaeris Ohn",
     "kind": "Personaggi",
     "url": "cast-490-kaeris-ohn.html",
-    "bytes": 16895,
+    "bytes": 17642,
     "image_count": 2
   },
   {
@@ -4452,7 +4452,7 @@
     "title": "Karrel",
     "kind": "Luoghi",
     "url": "loc-011-karrel.html",
-    "bytes": 10117,
+    "bytes": 10352,
     "image_count": 3
   },
   {
@@ -4524,7 +4524,7 @@
     "title": "Keran",
     "kind": "Luoghi",
     "url": "loc-055-keran.html",
-    "bytes": 8846,
+    "bytes": 9278,
     "image_count": 2
   },
   {
@@ -4548,7 +4548,7 @@
     "title": "Kessel",
     "kind": "Luoghi",
     "url": "loc-013-kessel.html",
-    "bytes": 9268,
+    "bytes": 9621,
     "image_count": 2
   },
   {
@@ -4628,7 +4628,7 @@
     "title": "Koshen",
     "kind": "Luoghi",
     "url": "loc-048-koshen.html",
-    "bytes": 8869,
+    "bytes": 9297,
     "image_count": 2
   },
   {
@@ -4644,7 +4644,7 @@
     "title": "Labyrinth",
     "kind": "Effigi",
     "url": "labyrinth.html",
-    "bytes": 103329,
+    "bytes": 103880,
     "image_count": 2
   },
   {
@@ -4812,7 +4812,7 @@
     "title": "Lera Soth",
     "kind": "Personaggi",
     "url": "cast-075-lera-soth.html",
-    "bytes": 15788,
+    "bytes": 16228,
     "image_count": 2
   },
   {
@@ -4868,7 +4868,7 @@
     "title": "Lethorne",
     "kind": "Luoghi",
     "url": "loc-001-lethorne.html",
-    "bytes": 17197,
+    "bytes": 17538,
     "image_count": 5
   },
   {
@@ -4916,7 +4916,7 @@
     "title": "Loom",
     "kind": "Effigi",
     "url": "loom.html",
-    "bytes": 93422,
+    "bytes": 93854,
     "image_count": 2
   },
   {
@@ -4956,7 +4956,7 @@
     "title": "Loran Esch",
     "kind": "Personaggi",
     "url": "cast-022-loran-esch.html",
-    "bytes": 15866,
+    "bytes": 16403,
     "image_count": 4
   },
   {
@@ -5060,7 +5060,7 @@
     "title": "Mael Vaur",
     "kind": "Personaggi",
     "url": "cast-474-mael-vaur.html",
-    "bytes": 16289,
+    "bytes": 16835,
     "image_count": 2
   },
   {
@@ -5188,7 +5188,7 @@
     "title": "Marcel Ruy",
     "kind": "Personaggi",
     "url": "cast-031-marcel-ruy.html",
-    "bytes": 18323,
+    "bytes": 18778,
     "image_count": 4
   },
   {
@@ -5244,7 +5244,7 @@
     "title": "Maren Ild",
     "kind": "Personaggi",
     "url": "cast-580-maren-ild.html",
-    "bytes": 11116,
+    "bytes": 11554,
     "image_count": 1
   },
   {
@@ -5252,7 +5252,7 @@
     "title": "Mareth",
     "kind": "Luoghi",
     "url": "loc-044-mareth.html",
-    "bytes": 8896,
+    "bytes": 9354,
     "image_count": 2
   },
   {
@@ -5316,7 +5316,7 @@
     "title": "Marwen Kael",
     "kind": "Personaggi",
     "url": "cast-480-marwen-kael.html",
-    "bytes": 16165,
+    "bytes": 16709,
     "image_count": 2
   },
   {
@@ -5324,7 +5324,7 @@
     "title": "Mask",
     "kind": "Effigi",
     "url": "mask.html",
-    "bytes": 110715,
+    "bytes": 111268,
     "image_count": 2
   },
   {
@@ -5396,7 +5396,7 @@
     "title": "Maw",
     "kind": "Effigi",
     "url": "maw.html",
-    "bytes": 104025,
+    "bytes": 104666,
     "image_count": 2
   },
   {
@@ -5540,7 +5540,7 @@
     "title": "Mersa",
     "kind": "Luoghi",
     "url": "loc-049-mersa.html",
-    "bytes": 8851,
+    "bytes": 9397,
     "image_count": 2
   },
   {
@@ -5716,7 +5716,7 @@
     "title": "Namar",
     "kind": "Luoghi",
     "url": "loc-016-namar.html",
-    "bytes": 10623,
+    "bytes": 11235,
     "image_count": 3
   },
   {
@@ -5748,7 +5748,7 @@
     "title": "Naor Vesk",
     "kind": "Personaggi",
     "url": "cast-482-naor-vesk.html",
-    "bytes": 15954,
+    "bytes": 16388,
     "image_count": 2
   },
   {
@@ -5772,7 +5772,7 @@
     "title": "Nava Tesh",
     "kind": "Personaggi",
     "url": "cast-041-nava-tesh.html",
-    "bytes": 16683,
+    "bytes": 17137,
     "image_count": 2
   },
   {
@@ -5804,7 +5804,7 @@
     "title": "Neral Venn",
     "kind": "Personaggi",
     "url": "cast-010-neral-venn.html",
-    "bytes": 22797,
+    "bytes": 23350,
     "image_count": 4
   },
   {
@@ -5820,7 +5820,7 @@
     "title": "Neren Aul",
     "kind": "Personaggi",
     "url": "cast-017-neren-aul.html",
-    "bytes": 18508,
+    "bytes": 18971,
     "image_count": 4
   },
   {
@@ -5836,7 +5836,7 @@
     "title": "Neressa",
     "kind": "Luoghi",
     "url": "loc-019-neressa.html",
-    "bytes": 10501,
+    "bytes": 10857,
     "image_count": 3
   },
   {
@@ -5868,7 +5868,7 @@
     "title": "Neris Halven",
     "kind": "Personaggi",
     "url": "cast-574-neris-halven.html",
-    "bytes": 9591,
+    "bytes": 10147,
     "image_count": 1
   },
   {
@@ -5964,7 +5964,7 @@
     "title": "Nine Houses Field",
     "kind": "Luoghi",
     "url": "loc-031-nine-houses-field.html",
-    "bytes": 8710,
+    "bytes": 9058,
     "image_count": 2
   },
   {
@@ -6060,7 +6060,7 @@
     "title": "Noran",
     "kind": "Luoghi",
     "url": "loc-051-noran.html",
-    "bytes": 8882,
+    "bytes": 9522,
     "image_count": 2
   },
   {
@@ -6092,7 +6092,7 @@
     "title": "Norell Roads",
     "kind": "Luoghi",
     "url": "loc-063-norell-roads.html",
-    "bytes": 8212,
+    "bytes": 8454,
     "image_count": 2
   },
   {
@@ -6148,7 +6148,7 @@
     "title": "Oggetti, organismi e fenomeni — regole di lettura",
     "kind": "Approfondimenti",
     "url": "doc-183-oggetti-organismi-e-fenomeni-regole-di-lettura.html",
-    "bytes": 12409,
+    "bytes": 12175,
     "image_count": 0
   },
   {
@@ -6228,7 +6228,7 @@
     "title": "Ophie Zorrel",
     "kind": "Personaggi",
     "url": "cast-423-ophie-zorrel.html",
-    "bytes": 14778,
+    "bytes": 15233,
     "image_count": 0
   },
   {
@@ -6236,7 +6236,7 @@
     "title": "Oracle",
     "kind": "Effigi",
     "url": "oracle.html",
-    "bytes": 111086,
+    "bytes": 111541,
     "image_count": 2
   },
   {
@@ -6332,7 +6332,7 @@
     "title": "Oskar Farel",
     "kind": "Personaggi",
     "url": "cast-386-oskar-farel.html",
-    "bytes": 15955,
+    "bytes": 16400,
     "image_count": 2
   },
   {
@@ -6420,7 +6420,7 @@
     "title": "Ossiel Thren",
     "kind": "Personaggi",
     "url": "cast-488-ossiel-thren.html",
-    "bytes": 16248,
+    "bytes": 16883,
     "image_count": 2
   },
   {
@@ -6428,7 +6428,7 @@
     "title": "Othrem Cal",
     "kind": "Personaggi",
     "url": "cast-013-othrem-cal.html",
-    "bytes": 16937,
+    "bytes": 17379,
     "image_count": 4
   },
   {
@@ -6764,7 +6764,7 @@
     "title": "Qadra",
     "kind": "Luoghi",
     "url": "loc-042-qadra.html",
-    "bytes": 9273,
+    "bytes": 9528,
     "image_count": 3
   },
   {
@@ -6828,7 +6828,7 @@
     "title": "Ragnhild Soren",
     "kind": "Personaggi",
     "url": "cast-578-ragnhild-soren.html",
-    "bytes": 9667,
+    "bytes": 10103,
     "image_count": 1
   },
   {
@@ -7052,7 +7052,7 @@
     "title": "Rethar Basin",
     "kind": "Luoghi",
     "url": "loc-030-rethar-basin.html",
-    "bytes": 9833,
+    "bytes": 10070,
     "image_count": 2
   },
   {
@@ -7252,7 +7252,7 @@
     "title": "Rovan Kervan",
     "kind": "Personaggi",
     "url": "cast-342-rovan-kervan.html",
-    "bytes": 16368,
+    "bytes": 16802,
     "image_count": 0
   },
   {
@@ -7316,7 +7316,7 @@
     "title": "Ruin",
     "kind": "Effigi",
     "url": "ruin.html",
-    "bytes": 63174,
+    "bytes": 63515,
     "image_count": 2
   },
   {
@@ -7372,7 +7372,7 @@
     "title": "Sadia Orven",
     "kind": "Personaggi",
     "url": "cast-572-sadia-orven.html",
-    "bytes": 9633,
+    "bytes": 10073,
     "image_count": 1
   },
   {
@@ -7380,7 +7380,7 @@
     "title": "Sael Mereth",
     "kind": "Personaggi",
     "url": "cast-025-sael-mereth.html",
-    "bytes": 17957,
+    "bytes": 18526,
     "image_count": 4
   },
   {
@@ -7388,7 +7388,7 @@
     "title": "Sairen Velis",
     "kind": "Personaggi",
     "url": "cast-007-sairen-velis.html",
-    "bytes": 18838,
+    "bytes": 19291,
     "image_count": 4
   },
   {
@@ -7420,7 +7420,7 @@
     "title": "Sarn Gate",
     "kind": "Luoghi",
     "url": "loc-007-sarn-gate.html",
-    "bytes": 10234,
+    "bytes": 10690,
     "image_count": 3
   },
   {
@@ -7436,7 +7436,7 @@
     "title": "Saura",
     "kind": "Luoghi",
     "url": "loc-045-saura.html",
-    "bytes": 8941,
+    "bytes": 9376,
     "image_count": 2
   },
   {
@@ -7460,7 +7460,7 @@
     "title": "Scroll",
     "kind": "Effigi",
     "url": "scroll.html",
-    "bytes": 142471,
+    "bytes": 143104,
     "image_count": 2
   },
   {
@@ -7556,7 +7556,7 @@
     "title": "Seed",
     "kind": "Effigi",
     "url": "seed.html",
-    "bytes": 102581,
+    "bytes": 103034,
     "image_count": 2
   },
   {
@@ -7668,7 +7668,7 @@
     "title": "Sepulchre",
     "kind": "Effigi",
     "url": "sepulchre.html",
-    "bytes": 102779,
+    "bytes": 103530,
     "image_count": 2
   },
   {
@@ -7724,7 +7724,7 @@
     "title": "Sereth Daal",
     "kind": "Personaggi",
     "url": "cast-024-sereth-daal.html",
-    "bytes": 18178,
+    "bytes": 18814,
     "image_count": 4
   },
   {
@@ -7732,7 +7732,7 @@
     "title": "Serevan",
     "kind": "Luoghi",
     "url": "loc-060-serevan.html",
-    "bytes": 8841,
+    "bytes": 9185,
     "image_count": 2
   },
   {
@@ -7772,7 +7772,7 @@
     "title": "Sevra Dhal",
     "kind": "Personaggi",
     "url": "cast-478-sevra-dhal.html",
-    "bytes": 15660,
+    "bytes": 16114,
     "image_count": 2
   },
   {
@@ -7788,7 +7788,7 @@
     "title": "Shan Luren",
     "kind": "Personaggi",
     "url": "cast-576-shan-luren.html",
-    "bytes": 9660,
+    "bytes": 10191,
     "image_count": 1
   },
   {
@@ -7884,7 +7884,7 @@
     "title": "Sivert Kald",
     "kind": "Personaggi",
     "url": "cast-583-sivert-kald.html",
-    "bytes": 9912,
+    "bytes": 10455,
     "image_count": 1
   },
   {
@@ -7892,7 +7892,7 @@
     "title": "Sivren",
     "kind": "Luoghi",
     "url": "loc-056-sivren.html",
-    "bytes": 8895,
+    "bytes": 9231,
     "image_count": 2
   },
   {
@@ -7956,7 +7956,7 @@
     "title": "Soran Il",
     "kind": "Personaggi",
     "url": "cast-020-soran-il.html",
-    "bytes": 16447,
+    "bytes": 16893,
     "image_count": 4
   },
   {
@@ -7980,7 +7980,7 @@
     "title": "South Shoals",
     "kind": "Luoghi",
     "url": "loc-036-south-shoals.html",
-    "bytes": 9754,
+    "bytes": 10008,
     "image_count": 2
   },
   {
@@ -8172,7 +8172,7 @@
     "title": "Talren Soth",
     "kind": "Personaggi",
     "url": "cast-018-talren-soth.html",
-    "bytes": 23524,
+    "bytes": 24181,
     "image_count": 4
   },
   {
@@ -8228,7 +8228,7 @@
     "title": "Tavel Rinn",
     "kind": "Personaggi",
     "url": "cast-030-tavel-rinn.html",
-    "bytes": 16948,
+    "bytes": 17489,
     "image_count": 4
   },
   {
@@ -8252,7 +8252,7 @@
     "title": "Tempest",
     "kind": "Effigi",
     "url": "tempest.html",
-    "bytes": 103205,
+    "bytes": 103854,
     "image_count": 2
   },
   {
@@ -8292,7 +8292,7 @@
     "title": "Teren",
     "kind": "Luoghi",
     "url": "loc-010-teren.html",
-    "bytes": 10357,
+    "bytes": 10823,
     "image_count": 3
   },
   {
@@ -8332,7 +8332,7 @@
     "title": "Teru",
     "kind": "Luoghi",
     "url": "loc-047-teru.html",
-    "bytes": 8818,
+    "bytes": 9149,
     "image_count": 2
   },
   {
@@ -8340,7 +8340,7 @@
     "title": "Teshen",
     "kind": "Luoghi",
     "url": "loc-038-teshen.html",
-    "bytes": 8813,
+    "bytes": 9167,
     "image_count": 2
   },
   {
@@ -8364,7 +8364,7 @@
     "title": "Teva Marr",
     "kind": "Personaggi",
     "url": "cast-184-teva-marr.html",
-    "bytes": 20449,
+    "bytes": 21294,
     "image_count": 2
   },
   {
@@ -8380,7 +8380,7 @@
     "title": "Tevren",
     "kind": "Luoghi",
     "url": "loc-058-tevren.html",
-    "bytes": 9311,
+    "bytes": 9757,
     "image_count": 3
   },
   {
@@ -8408,12 +8408,20 @@
     "image_count": 0
   },
   {
+    "id": "ART-047",
+    "title": "The Amber Second",
+    "kind": "Artefatti",
+    "url": "art-047-the-amber-second.html",
+    "bytes": 13530,
+    "image_count": 1
+  },
+  {
     "id": "ART-009",
     "title": "The Answering Wire",
     "kind": "Artefatti",
     "url": "art-009-the-answering-wire.html",
-    "bytes": 9986,
-    "image_count": 2
+    "bytes": 10815,
+    "image_count": 1
   },
   {
     "id": "ARC-16",
@@ -8428,8 +8436,24 @@
     "title": "The Ash Clock",
     "kind": "Artefatti",
     "url": "art-014-the-ash-clock.html",
-    "bytes": 9912,
-    "image_count": 2
+    "bytes": 10689,
+    "image_count": 1
+  },
+  {
+    "id": "ART-057",
+    "title": "The Ash Repeater",
+    "kind": "Artefatti",
+    "url": "art-057-the-ash-repeater.html",
+    "bytes": 13804,
+    "image_count": 1
+  },
+  {
+    "id": "ART-074",
+    "title": "The Ashen Audience",
+    "kind": "Artefatti",
+    "url": "art-074-the-ashen-audience.html",
+    "bytes": 15244,
+    "image_count": 1
   },
   {
     "id": "FAC-16",
@@ -8437,6 +8461,14 @@
     "kind": "Istituzioni e fazioni",
     "url": "fac-16-the-ashen-tithe.html",
     "bytes": 11076,
+    "image_count": 1
+  },
+  {
+    "id": "ART-031",
+    "title": "The Beggar's Thunder",
+    "kind": "Artefatti",
+    "url": "art-031-the-beggar-s-thunder.html",
+    "bytes": 13483,
     "image_count": 1
   },
   {
@@ -8448,6 +8480,14 @@
     "image_count": 1
   },
   {
+    "id": "ART-030",
+    "title": "The Black Index",
+    "kind": "Artefatti",
+    "url": "art-030-the-black-index.html",
+    "bytes": 13334,
+    "image_count": 1
+  },
+  {
     "id": "ROOT-07",
     "title": "The Black Mouth",
     "kind": "Roots",
@@ -8456,11 +8496,27 @@
     "image_count": 4
   },
   {
+    "id": "ART-093",
+    "title": "The Black Tithe",
+    "kind": "Artefatti",
+    "url": "art-093-the-black-tithe.html",
+    "bytes": 13549,
+    "image_count": 1
+  },
+  {
     "id": "FAC-19",
     "title": "The Black Wake",
     "kind": "Istituzioni e fazioni",
     "url": "fac-19-the-black-wake.html",
     "bytes": 10692,
+    "image_count": 1
+  },
+  {
+    "id": "ART-069",
+    "title": "The Bloodless Stitch",
+    "kind": "Artefatti",
+    "url": "art-069-the-bloodless-stitch.html",
+    "bytes": 13634,
     "image_count": 1
   },
   {
@@ -8476,8 +8532,16 @@
     "title": "The Blue Rule",
     "kind": "Artefatti",
     "url": "art-008-the-blue-rule.html",
-    "bytes": 9905,
-    "image_count": 2
+    "bytes": 10675,
+    "image_count": 1
+  },
+  {
+    "id": "ART-071",
+    "title": "The Blue Scar",
+    "kind": "Artefatti",
+    "url": "art-071-the-blue-scar.html",
+    "bytes": 13510,
+    "image_count": 1
   },
   {
     "id": "ROOT-04",
@@ -8488,12 +8552,20 @@
     "image_count": 4
   },
   {
+    "id": "ART-034",
+    "title": "The Bone Advocate",
+    "kind": "Artefatti",
+    "url": "art-034-the-bone-advocate.html",
+    "bytes": 13480,
+    "image_count": 1
+  },
+  {
     "id": "ART-019",
     "title": "The Borrowed Face",
     "kind": "Artefatti",
     "url": "art-019-the-borrowed-face.html",
-    "bytes": 9953,
-    "image_count": 2
+    "bytes": 10736,
+    "image_count": 1
   },
   {
     "id": "CRE-019",
@@ -8512,12 +8584,28 @@
     "image_count": 1
   },
   {
+    "id": "ART-084",
+    "title": "The Borrowed Winter",
+    "kind": "Artefatti",
+    "url": "art-084-the-borrowed-winter.html",
+    "bytes": 13551,
+    "image_count": 1
+  },
+  {
     "id": "PHN-002",
     "title": "The Breathing Seam",
     "kind": "Fenomeni",
     "url": "phn-002-the-breathing-seam.html",
     "bytes": 7701,
     "image_count": 0
+  },
+  {
+    "id": "ART-039",
+    "title": "The Broken Choir",
+    "kind": "Artefatti",
+    "url": "art-039-the-broken-choir.html",
+    "bytes": 13570,
+    "image_count": 1
   },
   {
     "id": "FAC-26",
@@ -8528,20 +8616,52 @@
     "image_count": 1
   },
   {
+    "id": "ART-054",
+    "title": "The Buried Mouth",
+    "kind": "Artefatti",
+    "url": "art-054-the-buried-mouth.html",
+    "bytes": 13597,
+    "image_count": 1
+  },
+  {
+    "id": "ART-070",
+    "title": "The Cartographer's Coffin",
+    "kind": "Artefatti",
+    "url": "art-070-the-cartographer-s-coffin.html",
+    "bytes": 13595,
+    "image_count": 1
+  },
+  {
     "id": "ART-022",
     "title": "The Causal Bell",
     "kind": "Artefatti",
     "url": "art-022-the-causal-bell.html",
-    "bytes": 9871,
-    "image_count": 2
+    "bytes": 10637,
+    "image_count": 1
+  },
+  {
+    "id": "ART-036",
+    "title": "The Cinder Charges",
+    "kind": "Artefatti",
+    "url": "art-036-the-cinder-charges.html",
+    "bytes": 13748,
+    "image_count": 1
   },
   {
     "id": "ART-006",
     "title": "The Clear Lintel",
     "kind": "Artefatti",
     "url": "art-006-the-clear-lintel.html",
-    "bytes": 9922,
-    "image_count": 2
+    "bytes": 10727,
+    "image_count": 1
+  },
+  {
+    "id": "ART-061",
+    "title": "The Closed Battalion",
+    "kind": "Artefatti",
+    "url": "art-061-the-closed-battalion.html",
+    "bytes": 13705,
+    "image_count": 1
   },
   {
     "id": "PHN-004",
@@ -8552,12 +8672,36 @@
     "image_count": 0
   },
   {
+    "id": "ART-081",
+    "title": "The Closed Horizon",
+    "kind": "Artefatti",
+    "url": "art-081-the-closed-horizon.html",
+    "bytes": 13545,
+    "image_count": 1
+  },
+  {
+    "id": "ART-026",
+    "title": "The Coal Widow",
+    "kind": "Artefatti",
+    "url": "art-026-the-coal-widow.html",
+    "bytes": 13419,
+    "image_count": 1
+  },
+  {
     "id": "INT-03",
     "title": "The Continuum",
     "kind": "Integrazioni cosmiche",
     "url": "int-03-the-continuum.html",
     "bytes": 13097,
     "image_count": 5
+  },
+  {
+    "id": "ART-067",
+    "title": "The Contrary Thread",
+    "kind": "Artefatti",
+    "url": "art-067-the-contrary-thread.html",
+    "bytes": 13594,
+    "image_count": 1
   },
   {
     "id": "PHN-011",
@@ -8572,8 +8716,8 @@
     "title": "The Cooling Mantle",
     "kind": "Artefatti",
     "url": "art-004-the-cooling-mantle.html",
-    "bytes": 9956,
-    "image_count": 2
+    "bytes": 10758,
+    "image_count": 1
   },
   {
     "id": "ARC-10",
@@ -8592,12 +8736,20 @@
     "image_count": 1
   },
   {
+    "id": "ART-085",
+    "title": "The Court of One",
+    "kind": "Artefatti",
+    "url": "art-085-the-court-of-one.html",
+    "bytes": 13580,
+    "image_count": 1
+  },
+  {
     "id": "ART-012",
     "title": "The Covered Ledger",
     "kind": "Artefatti",
     "url": "art-012-the-covered-ledger.html",
-    "bytes": 10004,
-    "image_count": 2
+    "bytes": 10842,
+    "image_count": 1
   },
   {
     "id": "ROOT-03",
@@ -8660,8 +8812,40 @@
     "title": "The Dream Lattice",
     "kind": "Artefatti",
     "url": "art-020-the-dream-lattice.html",
-    "bytes": 10139,
-    "image_count": 2
+    "bytes": 11117,
+    "image_count": 1
+  },
+  {
+    "id": "ART-075",
+    "title": "The Drowned Bell",
+    "kind": "Artefatti",
+    "url": "art-075-the-drowned-bell.html",
+    "bytes": 13538,
+    "image_count": 1
+  },
+  {
+    "id": "ART-042",
+    "title": "The Empty Feast",
+    "kind": "Artefatti",
+    "url": "art-042-the-empty-feast.html",
+    "bytes": 13566,
+    "image_count": 1
+  },
+  {
+    "id": "ART-068",
+    "title": "The End Chisel",
+    "kind": "Artefatti",
+    "url": "art-068-the-end-chisel.html",
+    "bytes": 15145,
+    "image_count": 1
+  },
+  {
+    "id": "ART-055",
+    "title": "The False Funeral",
+    "kind": "Artefatti",
+    "url": "art-055-the-false-funeral.html",
+    "bytes": 13505,
+    "image_count": 1
   },
   {
     "id": "PHN-003",
@@ -8670,6 +8854,22 @@
     "url": "phn-003-the-false-heat-debt.html",
     "bytes": 7701,
     "image_count": 0
+  },
+  {
+    "id": "ART-076",
+    "title": "The Familiar's Door",
+    "kind": "Artefatti",
+    "url": "art-076-the-familiar-s-door.html",
+    "bytes": 13687,
+    "image_count": 1
+  },
+  {
+    "id": "ART-098",
+    "title": "The Far Hinge",
+    "kind": "Artefatti",
+    "url": "art-098-the-far-hinge.html",
+    "bytes": 13925,
+    "image_count": 1
   },
   {
     "id": "VOL-08",
@@ -8716,8 +8916,48 @@
     "title": "The Funeral Latch",
     "kind": "Artefatti",
     "url": "art-016-the-funeral-latch.html",
-    "bytes": 10001,
-    "image_count": 2
+    "bytes": 10801,
+    "image_count": 1
+  },
+  {
+    "id": "ART-072",
+    "title": "The Furnace Veil",
+    "kind": "Artefatti",
+    "url": "art-072-the-furnace-veil.html",
+    "bytes": 13580,
+    "image_count": 1
+  },
+  {
+    "id": "ART-080",
+    "title": "The Garrison Without Walls",
+    "kind": "Artefatti",
+    "url": "art-080-the-garrison-without-walls.html",
+    "bytes": 13675,
+    "image_count": 1
+  },
+  {
+    "id": "ART-043",
+    "title": "The Glass Battalion",
+    "kind": "Artefatti",
+    "url": "art-043-the-glass-battalion.html",
+    "bytes": 13551,
+    "image_count": 1
+  },
+  {
+    "id": "ART-090",
+    "title": "The Glass Counterexample",
+    "kind": "Artefatti",
+    "url": "art-090-the-glass-counterexample.html",
+    "bytes": 13616,
+    "image_count": 1
+  },
+  {
+    "id": "ART-066",
+    "title": "The Glass Fever",
+    "kind": "Artefatti",
+    "url": "art-066-the-glass-fever.html",
+    "bytes": 13679,
+    "image_count": 1
   },
   {
     "id": "FAC-15",
@@ -8725,6 +8965,14 @@
     "kind": "Istituzioni e fazioni",
     "url": "fac-15-the-glass-hunt.html",
     "bytes": 10957,
+    "image_count": 1
+  },
+  {
+    "id": "ART-096",
+    "title": "The Grave Meridian",
+    "kind": "Artefatti",
+    "url": "art-096-the-grave-meridian.html",
+    "bytes": 13847,
     "image_count": 1
   },
   {
@@ -8736,12 +8984,20 @@
     "image_count": 1
   },
   {
+    "id": "ART-088",
+    "title": "The Heirless Face",
+    "kind": "Artefatti",
+    "url": "art-088-the-heirless-face.html",
+    "bytes": 13707,
+    "image_count": 1
+  },
+  {
     "id": "ART-013",
     "title": "The Held Line",
     "kind": "Artefatti",
     "url": "art-013-the-held-line.html",
-    "bytes": 9940,
-    "image_count": 2
+    "bytes": 10801,
+    "image_count": 1
   },
   {
     "id": "FAC-20",
@@ -8749,6 +9005,22 @@
     "kind": "Istituzioni e fazioni",
     "url": "fac-20-the-hollow-choir.html",
     "bytes": 11069,
+    "image_count": 1
+  },
+  {
+    "id": "ART-063",
+    "title": "The Hollow Orchard",
+    "kind": "Artefatti",
+    "url": "art-063-the-hollow-orchard.html",
+    "bytes": 13588,
+    "image_count": 1
+  },
+  {
+    "id": "ART-046",
+    "title": "The Hollow Sermon",
+    "kind": "Artefatti",
+    "url": "art-046-the-hollow-sermon.html",
+    "bytes": 13350,
     "image_count": 1
   },
   {
@@ -8764,8 +9036,16 @@
     "title": "The Hunger Cup",
     "kind": "Artefatti",
     "url": "art-021-the-hunger-cup.html",
-    "bytes": 9817,
-    "image_count": 2
+    "bytes": 10667,
+    "image_count": 1
+  },
+  {
+    "id": "ART-086",
+    "title": "The Hunger Treasury",
+    "kind": "Artefatti",
+    "url": "art-086-the-hunger-treasury.html",
+    "bytes": 13444,
+    "image_count": 1
   },
   {
     "id": "ROOT-06",
@@ -8774,6 +9054,14 @@
     "url": "root-06-the-inner-vast.html",
     "bytes": 49509,
     "image_count": 4
+  },
+  {
+    "id": "ART-049",
+    "title": "The Iron Psalm",
+    "kind": "Artefatti",
+    "url": "art-049-the-iron-psalm.html",
+    "bytes": 13619,
+    "image_count": 1
   },
   {
     "id": "CULT-02",
@@ -8792,12 +9080,36 @@
     "image_count": 1
   },
   {
+    "id": "ART-044",
+    "title": "The Last Ferry",
+    "kind": "Artefatti",
+    "url": "art-044-the-last-ferry.html",
+    "bytes": 13479,
+    "image_count": 1
+  },
+  {
+    "id": "ART-082",
+    "title": "The Last Hospital",
+    "kind": "Artefatti",
+    "url": "art-082-the-last-hospital.html",
+    "bytes": 13383,
+    "image_count": 1
+  },
+  {
     "id": "INT-07",
     "title": "The Last Hunger",
     "kind": "Integrazioni cosmiche",
     "url": "int-07-the-last-hunger.html",
     "bytes": 13432,
     "image_count": 4
+  },
+  {
+    "id": "ART-027",
+    "title": "The Last Match",
+    "kind": "Artefatti",
+    "url": "art-027-the-last-match.html",
+    "bytes": 13526,
+    "image_count": 1
   },
   {
     "id": "FAC-24",
@@ -8840,6 +9152,14 @@
     "image_count": 1
   },
   {
+    "id": "ART-041",
+    "title": "The Long Exhalation",
+    "kind": "Artefatti",
+    "url": "art-041-the-long-exhalation.html",
+    "bytes": 13435,
+    "image_count": 1
+  },
+  {
     "id": "INT-06",
     "title": "The Manyfold",
     "kind": "Integrazioni cosmiche",
@@ -8848,11 +9168,43 @@
     "image_count": 4
   },
   {
+    "id": "ART-079",
+    "title": "The Mercy Engine",
+    "kind": "Artefatti",
+    "url": "art-079-the-mercy-engine.html",
+    "bytes": 13605,
+    "image_count": 1
+  },
+  {
+    "id": "ART-087",
+    "title": "The Midnight Porter",
+    "kind": "Artefatti",
+    "url": "art-087-the-midnight-porter.html",
+    "bytes": 13560,
+    "image_count": 1
+  },
+  {
+    "id": "ART-053",
+    "title": "The Mirror Gallows",
+    "kind": "Artefatti",
+    "url": "art-053-the-mirror-gallows.html",
+    "bytes": 13797,
+    "image_count": 1
+  },
+  {
     "id": "ARC-02",
     "title": "The Moved Bench",
     "kind": "Archi narrativi",
     "url": "arc-02-the-moved-bench.html",
     "bytes": 11113,
+    "image_count": 1
+  },
+  {
+    "id": "ART-059",
+    "title": "The Nail of Descent",
+    "kind": "Artefatti",
+    "url": "art-059-the-nail-of-descent.html",
+    "bytes": 13583,
     "image_count": 1
   },
   {
@@ -8876,8 +9228,8 @@
     "title": "The Night Curtain",
     "kind": "Artefatti",
     "url": "art-017-the-night-curtain.html",
-    "bytes": 10041,
-    "image_count": 2
+    "bytes": 10784,
+    "image_count": 1
   },
   {
     "id": "ARC-34",
@@ -8912,12 +9264,28 @@
     "image_count": 0
   },
   {
+    "id": "ART-045",
+    "title": "The Noon Key",
+    "kind": "Artefatti",
+    "url": "art-045-the-noon-key.html",
+    "bytes": 14104,
+    "image_count": 1
+  },
+  {
     "id": "ART-015",
     "title": "The Orchard Spindle",
     "kind": "Artefatti",
     "url": "art-015-the-orchard-spindle.html",
-    "bytes": 9935,
-    "image_count": 2
+    "bytes": 10655,
+    "image_count": 1
+  },
+  {
+    "id": "ART-035",
+    "title": "The Orchard Teeth",
+    "kind": "Artefatti",
+    "url": "art-035-the-orchard-teeth.html",
+    "bytes": 13431,
+    "image_count": 1
   },
   {
     "id": "ROOT-01",
@@ -8936,6 +9304,14 @@
     "image_count": 0
   },
   {
+    "id": "ART-032",
+    "title": "The Pale Bridle",
+    "kind": "Artefatti",
+    "url": "art-032-the-pale-bridle.html",
+    "bytes": 13511,
+    "image_count": 1
+  },
+  {
     "id": "FAC-22",
     "title": "The Pale Ledger",
     "kind": "Istituzioni e fazioni",
@@ -8948,8 +9324,16 @@
     "title": "The Patient Brace",
     "kind": "Artefatti",
     "url": "art-005-the-patient-brace.html",
-    "bytes": 10085,
-    "image_count": 2
+    "bytes": 10833,
+    "image_count": 1
+  },
+  {
+    "id": "ART-052",
+    "title": "The Patient Lightning",
+    "kind": "Artefatti",
+    "url": "art-052-the-patient-lightning.html",
+    "bytes": 13798,
+    "image_count": 1
   },
   {
     "id": "ARC-25",
@@ -8960,12 +9344,28 @@
     "image_count": 1
   },
   {
+    "id": "ART-040",
+    "title": "The Pocket Redoubt",
+    "kind": "Artefatti",
+    "url": "art-040-the-pocket-redoubt.html",
+    "bytes": 13535,
+    "image_count": 1
+  },
+  {
     "id": "VOL-02",
     "title": "The Price of a Miracle",
     "kind": "Volumi",
     "url": "vol-02-the-price-of-a-miracle.html",
     "bytes": 9685,
     "image_count": 6
+  },
+  {
+    "id": "ART-060",
+    "title": "The Price of Shelter",
+    "kind": "Artefatti",
+    "url": "art-060-the-price-of-shelter.html",
+    "bytes": 13572,
+    "image_count": 1
   },
   {
     "id": "WORK-05B-ENC360",
@@ -8980,8 +9380,16 @@
     "title": "The Quiet Governor",
     "kind": "Artefatti",
     "url": "art-002-the-quiet-governor.html",
-    "bytes": 10074,
-    "image_count": 2
+    "bytes": 10935,
+    "image_count": 1
+  },
+  {
+    "id": "ART-029",
+    "title": "The Rain Nail",
+    "kind": "Artefatti",
+    "url": "art-029-the-rain-nail.html",
+    "bytes": 13324,
+    "image_count": 1
   },
   {
     "id": "ARC-38",
@@ -9004,8 +9412,8 @@
     "title": "The Red Gauge",
     "kind": "Artefatti",
     "url": "art-003-the-red-gauge.html",
-    "bytes": 9924,
-    "image_count": 2
+    "bytes": 10735,
+    "image_count": 1
   },
   {
     "id": "FAC-17",
@@ -9016,12 +9424,20 @@
     "image_count": 1
   },
   {
+    "id": "ART-050",
+    "title": "The Redoubt Skin",
+    "kind": "Artefatti",
+    "url": "art-050-the-redoubt-skin.html",
+    "bytes": 13788,
+    "image_count": 1
+  },
+  {
     "id": "ART-011",
     "title": "The Returning Needle",
     "kind": "Artefatti",
     "url": "art-011-the-returning-needle.html",
-    "bytes": 10093,
-    "image_count": 2
+    "bytes": 10877,
+    "image_count": 1
   },
   {
     "id": "VOL-07",
@@ -9030,6 +9446,22 @@
     "url": "vol-07-the-right-to-begin.html",
     "bytes": 9822,
     "image_count": 6
+  },
+  {
+    "id": "ART-048",
+    "title": "The Saintless Blade",
+    "kind": "Artefatti",
+    "url": "art-048-the-saintless-blade.html",
+    "bytes": 13615,
+    "image_count": 1
+  },
+  {
+    "id": "ART-062",
+    "title": "The Salt Crown",
+    "kind": "Artefatti",
+    "url": "art-062-the-salt-crown.html",
+    "bytes": 13763,
+    "image_count": 1
   },
   {
     "id": "ARC-31",
@@ -9044,8 +9476,8 @@
     "title": "The Severed Brand",
     "kind": "Artefatti",
     "url": "art-025-the-severed-brand.html",
-    "bytes": 10609,
-    "image_count": 2
+    "bytes": 11588,
+    "image_count": 1
   },
   {
     "id": "FAC-23",
@@ -9088,6 +9520,14 @@
     "image_count": 1
   },
   {
+    "id": "ART-065",
+    "title": "The Silent Nail",
+    "kind": "Artefatti",
+    "url": "art-065-the-silent-nail.html",
+    "bytes": 13491,
+    "image_count": 1
+  },
+  {
     "id": "PHN-006",
     "title": "The Silent Wedge",
     "kind": "Fenomeni",
@@ -9100,8 +9540,24 @@
     "title": "The Silver Hinge",
     "kind": "Artefatti",
     "url": "art-018-the-silver-hinge.html",
-    "bytes": 10063,
-    "image_count": 2
+    "bytes": 10907,
+    "image_count": 1
+  },
+  {
+    "id": "ART-091",
+    "title": "The Sleepless Court",
+    "kind": "Artefatti",
+    "url": "art-091-the-sleepless-court.html",
+    "bytes": 13578,
+    "image_count": 1
+  },
+  {
+    "id": "ART-033",
+    "title": "The Smuggler's Heel",
+    "kind": "Artefatti",
+    "url": "art-033-the-smuggler-s-heel.html",
+    "bytes": 13516,
+    "image_count": 1
   },
   {
     "id": "INT-01",
@@ -9128,6 +9584,14 @@
     "image_count": 0
   },
   {
+    "id": "ART-099",
+    "title": "The Starless Dawn",
+    "kind": "Artefatti",
+    "url": "art-099-the-starless-dawn.html",
+    "bytes": 13920,
+    "image_count": 1
+  },
+  {
     "id": "PHN-008",
     "title": "The Sterile Promise",
     "kind": "Fenomeni",
@@ -9148,8 +9612,56 @@
     "title": "The Surveyor’s Hinge",
     "kind": "Artefatti",
     "url": "art-001-the-surveyors-hinge.html",
-    "bytes": 10762,
-    "image_count": 2
+    "bytes": 12277,
+    "image_count": 1
+  },
+  {
+    "id": "ART-064",
+    "title": "The Thirsting Harness",
+    "kind": "Artefatti",
+    "url": "art-064-the-thirsting-harness.html",
+    "bytes": 13535,
+    "image_count": 1
+  },
+  {
+    "id": "ART-028",
+    "title": "The Thorn Confessor",
+    "kind": "Artefatti",
+    "url": "art-028-the-thorn-confessor.html",
+    "bytes": 13348,
+    "image_count": 1
+  },
+  {
+    "id": "ART-097",
+    "title": "The Treaty of Ash",
+    "kind": "Artefatti",
+    "url": "art-097-the-treaty-of-ash.html",
+    "bytes": 13720,
+    "image_count": 1
+  },
+  {
+    "id": "ART-038",
+    "title": "The Twice-Worn Coat",
+    "kind": "Artefatti",
+    "url": "art-038-the-twice-worn-coat.html",
+    "bytes": 13539,
+    "image_count": 1
+  },
+  {
+    "id": "ART-089",
+    "title": "The Unanimous Pen",
+    "kind": "Artefatti",
+    "url": "art-089-the-unanimous-pen.html",
+    "bytes": 15130,
+    "image_count": 1
+  },
+  {
+    "id": "ART-073",
+    "title": "The Unanswered Mirror",
+    "kind": "Artefatti",
+    "url": "art-073-the-unanswered-mirror.html",
+    "bytes": 13575,
+    "image_count": 1
   },
   {
     "id": "ARC-26",
@@ -9157,6 +9669,14 @@
     "kind": "Archi narrativi",
     "url": "arc-26-the-unanswered-vessel.html",
     "bytes": 11192,
+    "image_count": 1
+  },
+  {
+    "id": "ART-077",
+    "title": "The Unbought Hand",
+    "kind": "Artefatti",
+    "url": "art-077-the-unbought-hand.html",
+    "bytes": 13970,
     "image_count": 1
   },
   {
@@ -9184,6 +9704,14 @@
     "image_count": 1
   },
   {
+    "id": "ART-094",
+    "title": "The Unbroken Corridor",
+    "kind": "Artefatti",
+    "url": "art-094-the-unbroken-corridor.html",
+    "bytes": 13661,
+    "image_count": 1
+  },
+  {
     "id": "ROOT-05",
     "title": "The Unbroken Record",
     "kind": "Roots",
@@ -9208,12 +9736,28 @@
     "image_count": 1
   },
   {
+    "id": "ART-100",
+    "title": "The Unfallen Sentence",
+    "kind": "Artefatti",
+    "url": "art-100-the-unfallen-sentence.html",
+    "bytes": 13838,
+    "image_count": 1
+  },
+  {
+    "id": "ART-058",
+    "title": "The Unfinished Wound",
+    "kind": "Artefatti",
+    "url": "art-058-the-unfinished-wound.html",
+    "bytes": 13707,
+    "image_count": 1
+  },
+  {
     "id": "ART-010",
     "title": "The Unlatched Bond",
     "kind": "Artefatti",
     "url": "art-010-the-unlatched-bond.html",
-    "bytes": 9966,
-    "image_count": 2
+    "bytes": 10745,
+    "image_count": 1
   },
   {
     "id": "PHN-009",
@@ -9224,12 +9768,36 @@
     "image_count": 0
   },
   {
+    "id": "ART-037",
+    "title": "The Unsaid Letter",
+    "kind": "Artefatti",
+    "url": "art-037-the-unsaid-letter.html",
+    "bytes": 15227,
+    "image_count": 1
+  },
+  {
+    "id": "ART-083",
+    "title": "The Unspent Hour",
+    "kind": "Artefatti",
+    "url": "art-083-the-unspent-hour.html",
+    "bytes": 13573,
+    "image_count": 1
+  },
+  {
     "id": "ROOT-08",
     "title": "The Veiled Basin",
     "kind": "Roots",
     "url": "root-08-the-veiled-basin.html",
     "bytes": 17716,
     "image_count": 4
+  },
+  {
+    "id": "ART-092",
+    "title": "The Vessel of Repetition",
+    "kind": "Artefatti",
+    "url": "art-092-the-vessel-of-repetition.html",
+    "bytes": 14133,
+    "image_count": 1
   },
   {
     "id": "WORK-01-ENC360",
@@ -9260,16 +9828,40 @@
     "title": "The Weather Reliquary",
     "kind": "Artefatti",
     "url": "art-024-the-weather-reliquary.html",
-    "bytes": 10587,
-    "image_count": 2
+    "bytes": 11685,
+    "image_count": 1
   },
   {
     "id": "ART-023",
     "title": "The White Partition",
     "kind": "Artefatti",
     "url": "art-023-the-white-partition.html",
-    "bytes": 10207,
-    "image_count": 2
+    "bytes": 11042,
+    "image_count": 1
+  },
+  {
+    "id": "ART-078",
+    "title": "The White Road",
+    "kind": "Artefatti",
+    "url": "art-078-the-white-road.html",
+    "bytes": 13517,
+    "image_count": 1
+  },
+  {
+    "id": "ART-051",
+    "title": "The Widow's Line",
+    "kind": "Artefatti",
+    "url": "art-051-the-widow-s-line.html",
+    "bytes": 13571,
+    "image_count": 1
+  },
+  {
+    "id": "ART-056",
+    "title": "The Winter Arithmetic",
+    "kind": "Artefatti",
+    "url": "art-056-the-winter-arithmetic.html",
+    "bytes": 13516,
+    "image_count": 1
   },
   {
     "id": "INT-05",
@@ -9280,12 +9872,20 @@
     "image_count": 4
   },
   {
+    "id": "ART-095",
+    "title": "The Witness of Fire",
+    "kind": "Artefatti",
+    "url": "art-095-the-witness-of-fire.html",
+    "bytes": 13835,
+    "image_count": 1
+  },
+  {
     "id": "ART-007",
     "title": "The Witness Plate",
     "kind": "Artefatti",
     "url": "art-007-the-witness-plate.html",
-    "bytes": 10281,
-    "image_count": 2
+    "bytes": 11370,
+    "image_count": 1
   },
   {
     "id": "ARC-11",
@@ -9316,7 +9916,7 @@
     "title": "Thel Ordan",
     "kind": "Personaggi",
     "url": "cast-491-thel-ordan.html",
-    "bytes": 16367,
+    "bytes": 16997,
     "image_count": 2
   },
   {
@@ -9796,7 +10396,7 @@
     "title": "Vareth Senn",
     "kind": "Personaggi",
     "url": "cast-492-vareth-senn.html",
-    "bytes": 16959,
+    "bytes": 17607,
     "image_count": 2
   },
   {
@@ -9804,7 +10404,7 @@
     "title": "Varlen",
     "kind": "Luoghi",
     "url": "loc-039-varlen.html",
-    "bytes": 8904,
+    "bytes": 9237,
     "image_count": 2
   },
   {
@@ -9828,7 +10428,7 @@
     "title": "Varshen",
     "kind": "Luoghi",
     "url": "loc-053-varshen.html",
-    "bytes": 8808,
+    "bytes": 9359,
     "image_count": 2
   },
   {
@@ -9836,7 +10436,7 @@
     "title": "Veldane",
     "kind": "Luoghi",
     "url": "loc-003-veldane.html",
-    "bytes": 10743,
+    "bytes": 11501,
     "image_count": 5
   },
   {
@@ -9844,7 +10444,7 @@
     "title": "Velis",
     "kind": "Luoghi",
     "url": "loc-024-velis.html",
-    "bytes": 9496,
+    "bytes": 9842,
     "image_count": 2
   },
   {
@@ -9940,7 +10540,7 @@
     "title": "Veyra Pell",
     "kind": "Personaggi",
     "url": "cast-021-veyra-pell.html",
-    "bytes": 16091,
+    "bytes": 16634,
     "image_count": 4
   },
   {
@@ -10092,7 +10692,7 @@
     "title": "Wena Teth",
     "kind": "Personaggi",
     "url": "cast-367-wena-teth.html",
-    "bytes": 16340,
+    "bytes": 16795,
     "image_count": 0
   },
   {
@@ -10124,7 +10724,7 @@
     "title": "Wilhelm Jann",
     "kind": "Personaggi",
     "url": "cast-242-wilhelm-jann.html",
-    "bytes": 16275,
+    "bytes": 16728,
     "image_count": 0
   },
   {
@@ -10260,7 +10860,7 @@
     "title": "Yann Orvan",
     "kind": "Personaggi",
     "url": "cast-198-yann-orvan.html",
-    "bytes": 16428,
+    "bytes": 17150,
     "image_count": 0
   },
   {
@@ -10348,7 +10948,7 @@
     "title": "Ysra Venn",
     "kind": "Personaggi",
     "url": "cast-023-ysra-venn.html",
-    "bytes": 17437,
+    "bytes": 17970,
     "image_count": 4
   },
   {
@@ -10396,7 +10996,7 @@
     "title": "Zara Yarel",
     "kind": "Personaggi",
     "url": "cast-323-zara-yarel.html",
-    "bytes": 15014,
+    "bytes": 15463,
     "image_count": 0
   },
   {

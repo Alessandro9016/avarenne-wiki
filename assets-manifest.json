@@ -6331,5 +6331,605 @@
     "id": "ATLAS360-rovenne-accessi",
     "source_sha256": "5677c3380e902947c2c1d4b179d1d4b813549eb77461ad28bdd5865026e06260",
     "revision": 360
+  },
+  {
+    "src": "assets/artefatto362-art-026.webp",
+    "caption": "The Coal Widow",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_1/ART-026_the-coal-widow/01_illustrazione_originale.png",
+    "id": "ART-026",
+    "source_sha256": "3f1900d14551e62c0d35083e99312ceecf82998f212d683cd9fde7ed7b6ae20f",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-027.webp",
+    "caption": "The Last Match",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_1/ART-027_the-last-match/01_illustrazione_originale.png",
+    "id": "ART-027",
+    "source_sha256": "e3fae54453dbf89f51ef702f3890f047e07e647b9e6bae47e145dda016c7e030",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-028.webp",
+    "caption": "The Thorn Confessor",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_1/ART-028_the-thorn-confessor/01_illustrazione_originale.png",
+    "id": "ART-028",
+    "source_sha256": "1b81a380cb50ab4bc30023a39a56123d380adedea8a4d7d764f35447c7227019",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-029.webp",
+    "caption": "The Rain Nail",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_1/ART-029_the-rain-nail/01_illustrazione_originale.png",
+    "id": "ART-029",
+    "source_sha256": "2155e8a3be05ad7dc867a3b033c3bba4e0fedcca84d4d61035a4104709d7ecac",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-030.webp",
+    "caption": "The Black Index",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_2/ART-030_the-black-index/01_illustrazione_originale.png",
+    "id": "ART-030",
+    "source_sha256": "c456a5100faedbf2e5a1b2d114b46458c1baccce3fea6a964203ddc37b5d8058",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-031.webp",
+    "caption": "The Beggar's Thunder",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_2/ART-031_the-beggar-s-thunder/01_illustrazione_originale.png",
+    "id": "ART-031",
+    "source_sha256": "c95f264524cba4159e3dbc082d8afac19b228124dae950c5f87b3d67c85c7c08",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-032.webp",
+    "caption": "The Pale Bridle",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_2/ART-032_the-pale-bridle/01_illustrazione_originale.png",
+    "id": "ART-032",
+    "source_sha256": "bc7d3610b8d67a97c9b088bf3000e089e20274c20a8e7005c4e694d3ecf3ee41",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-033.webp",
+    "caption": "The Smuggler's Heel",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_2/ART-033_the-smuggler-s-heel/01_illustrazione_originale.png",
+    "id": "ART-033",
+    "source_sha256": "06a44683c0a9d84945ae9e2ea97e3fe424a1e89ad2a4894976faae8a42d0109e",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-034.webp",
+    "caption": "The Bone Advocate",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_2/ART-034_the-bone-advocate/01_illustrazione_originale.png",
+    "id": "ART-034",
+    "source_sha256": "3ca5c02891ec30b5078d4373be73b64bfea34a71d2917f03aceda6aadcc41030",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-035.webp",
+    "caption": "The Orchard Teeth",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-035_the-orchard-teeth/01_illustrazione_originale.png",
+    "id": "ART-035",
+    "source_sha256": "861b8a90501af9eadff2f1afe6ac1a3f755cc965f4b73490d75f247c13663d8c",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-036.webp",
+    "caption": "The Cinder Charges",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-036_the-cinder-charges/01_illustrazione_originale.png",
+    "id": "ART-036",
+    "source_sha256": "79ec23f0fc832bf567b576dfdf9e6839ffa88db728c05eb4c3aa511c11b3b619",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-037.webp",
+    "caption": "The Unsaid Letter",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-037_the-unsaid-letter/01_illustrazione_originale.png",
+    "id": "ART-037",
+    "source_sha256": "522eee0ae35e1acd17fad1b325397f974f4be1e7d939403aa32d7e2a1075d231",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-038.webp",
+    "caption": "The Twice-Worn Coat",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-038_the-twice-worn-coat/01_illustrazione_originale.png",
+    "id": "ART-038",
+    "source_sha256": "bbd88a1ef80599725a91ae6d5be954bcf4ad7d0c552728b142492007e4cf7d31",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-039.webp",
+    "caption": "The Broken Choir",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-039_the-broken-choir/01_illustrazione_originale.png",
+    "id": "ART-039",
+    "source_sha256": "8438a49a5dadc4d4490067be2602dd89ae7c0621db22d82f87f502d02c80999f",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-040.webp",
+    "caption": "The Pocket Redoubt",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-040_the-pocket-redoubt/01_illustrazione_originale.png",
+    "id": "ART-040",
+    "source_sha256": "907e1b39caa3e73913ef9b219acaf1258167df230e896b8805c3ca914df38f27",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-041.webp",
+    "caption": "The Long Exhalation",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-041_the-long-exhalation/01_illustrazione_originale.png",
+    "id": "ART-041",
+    "source_sha256": "ed85809978dde2cad8db4fcb6c1d801453efddf03d937d8b58530941731394d9",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-042.webp",
+    "caption": "The Empty Feast",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-042_the-empty-feast/01_illustrazione_originale.png",
+    "id": "ART-042",
+    "source_sha256": "7da578882644b6fed26b9c536250a6cde9c92e672a9721377dbaba15579b2cb3",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-043.webp",
+    "caption": "The Glass Battalion",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-043_the-glass-battalion/01_illustrazione_originale.png",
+    "id": "ART-043",
+    "source_sha256": "072e5671e94f6f4b0b64ddc157c3989d4023e7836e8c9d65fc54399999edfbb6",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-044.webp",
+    "caption": "The Last Ferry",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-044_the-last-ferry/01_illustrazione_originale.png",
+    "id": "ART-044",
+    "source_sha256": "95eb5cb882f276c08746f8ef44a11ee8e39892faa53ab6bbe5c3cc4cb9c07a0c",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-045.webp",
+    "caption": "The Noon Key",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-045_the-noon-key/01_illustrazione_originale.png",
+    "id": "ART-045",
+    "source_sha256": "b327cb9ee934ea72d038730981ba7c3573f9abc5bc0f66ab44849701c89618e4",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-046.webp",
+    "caption": "The Hollow Sermon",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-046_the-hollow-sermon/01_illustrazione_originale.png",
+    "id": "ART-046",
+    "source_sha256": "1997611839577cf45b2841a1a21fa3540df7c97059f48e8cc638e60b7bed929d",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-047.webp",
+    "caption": "The Amber Second",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-047_the-amber-second/01_illustrazione_originale.png",
+    "id": "ART-047",
+    "source_sha256": "21b99e002a606ee131ea357ae9031a6c5278f75d1857a6dcfa3b009bd8ff93cb",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-048.webp",
+    "caption": "The Saintless Blade",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-048_the-saintless-blade/01_illustrazione_originale.png",
+    "id": "ART-048",
+    "source_sha256": "6e5c51c1dd23395a476899d9088a938285d8d27dcf2d34c2dd184cf018ae3425",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-049.webp",
+    "caption": "The Iron Psalm",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-049_the-iron-psalm/01_illustrazione_originale.png",
+    "id": "ART-049",
+    "source_sha256": "e95772889807115f9f843f1db627de97dfb0e15fd439565d3a82ab9f6cb56a31",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-050.webp",
+    "caption": "The Redoubt Skin",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-050_the-redoubt-skin/01_illustrazione_originale.png",
+    "id": "ART-050",
+    "source_sha256": "ad901367d0f4e2df0b5efff7028dc0b807b9e4a2b1b72d6f6106212eb5f1e2dc",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-051.webp",
+    "caption": "The Widow's Line",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-051_the-widow-s-line/01_illustrazione_originale.png",
+    "id": "ART-051",
+    "source_sha256": "ae7aa8eaefb5811ffda587d17fcc05ea7d8b633c7ad4cc1a636931811c6fb896",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-052.webp",
+    "caption": "The Patient Lightning",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-052_the-patient-lightning/01_illustrazione_originale.png",
+    "id": "ART-052",
+    "source_sha256": "c9a3a3be61ba60c9fcadc6989cc352bca6ae844fd9012b3c28e977c85c358718",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-053.webp",
+    "caption": "The Mirror Gallows",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-053_the-mirror-gallows/01_illustrazione_originale.png",
+    "id": "ART-053",
+    "source_sha256": "d1a525f3b6f6a140fefb1aa376986c105056f925a286374cc3e76b0ca83e2a87",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-054.webp",
+    "caption": "The Buried Mouth",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-054_the-buried-mouth/01_illustrazione_originale.png",
+    "id": "ART-054",
+    "source_sha256": "2e20165918a8dcaf25bdbda76584cffa04dabc836f5e25d1096e05b3f2dea5cb",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-055.webp",
+    "caption": "The False Funeral",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-055_the-false-funeral/01_illustrazione_originale.png",
+    "id": "ART-055",
+    "source_sha256": "a0d4fe8a67128fd7a51aac785376114d8a257959f84c450c9d8797be653ee956",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-056.webp",
+    "caption": "The Winter Arithmetic",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-056_the-winter-arithmetic/01_illustrazione_originale.png",
+    "id": "ART-056",
+    "source_sha256": "1d14bc759698eb81ee3304d161e05a0e93fc8915b82680eeef1f4ec68768caf2",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-057.webp",
+    "caption": "The Ash Repeater",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-057_the-ash-repeater/01_illustrazione_originale.png",
+    "id": "ART-057",
+    "source_sha256": "87e7a1cf59740d41bea4a7bccff1b686c6b3f685c07a3b3662947dadafd5639e",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-061.webp",
+    "caption": "The Closed Battalion",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-061_the-closed-battalion/01_illustrazione_originale.png",
+    "id": "ART-061",
+    "source_sha256": "72ba257853abee51722dba3e313f2407bb8d34c8013fc101c8d438662965813b",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-062.webp",
+    "caption": "The Salt Crown",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-062_the-salt-crown/01_illustrazione_originale.png",
+    "id": "ART-062",
+    "source_sha256": "a65b1ce7b52b1876db5bd1db3ffb985710c7e5931be1cad3a84d0e442860725f",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-063.webp",
+    "caption": "The Hollow Orchard",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-063_the-hollow-orchard/01_illustrazione_originale.png",
+    "id": "ART-063",
+    "source_sha256": "b3924f739fa8a112b2ef1e2f8c673bff4b36cfcf00f39fe01b38e054145e5cd3",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-064.webp",
+    "caption": "The Thirsting Harness",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-064_the-thirsting-harness/01_illustrazione_originale.png",
+    "id": "ART-064",
+    "source_sha256": "a9f2130b76d02e7223d4cb2282d6a1fa4936d9bc42c26788766427c5f5f1bfb8",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-058.webp",
+    "caption": "The Unfinished Wound",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-058_the-unfinished-wound/01_illustrazione_originale.png",
+    "id": "ART-058",
+    "source_sha256": "0ed74277b56e1cb8448bf2b1d81b0fa0591f94b0b5705c2c6261fd9bef36252a",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-059.webp",
+    "caption": "The Nail of Descent",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-059_the-nail-of-descent/01_illustrazione_originale.png",
+    "id": "ART-059",
+    "source_sha256": "18864e2ca82f00c99e4b37dfe58e9eba89ddf0e8b58f29365520bf1391241f7d",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-060.webp",
+    "caption": "The Price of Shelter",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-060_the-price-of-shelter/01_illustrazione_originale.png",
+    "id": "ART-060",
+    "source_sha256": "e8d2632b2468793ab1e1d41a43c143364a2bf47a15eb332e125e4b28effe2aca",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-065.webp",
+    "caption": "The Silent Nail",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-065_the-silent-nail/01_illustrazione_originale.png",
+    "id": "ART-065",
+    "source_sha256": "d51a79fbdd38acf3505a8dbf935a08ed809e4885bd4a85fa3418bd30896cd13d",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-066.webp",
+    "caption": "The Glass Fever",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-066_the-glass-fever/01_illustrazione_originale.png",
+    "id": "ART-066",
+    "source_sha256": "a36192bfe1ae876b709ebc922959983fd5eb5cd4eb84ce05191fb423be0ceaf8",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-067.webp",
+    "caption": "The Contrary Thread",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-067_the-contrary-thread/01_illustrazione_originale.png",
+    "id": "ART-067",
+    "source_sha256": "7df54dc936b26fcdd435592daaf6779695c6e84a4459d348cadeece391bf8e24",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-068.webp",
+    "caption": "The End Chisel",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-068_the-end-chisel/01_illustrazione_originale.png",
+    "id": "ART-068",
+    "source_sha256": "7cff6b2ff470cf5c0fd2ab83fe2b7e93b170e274d31a8f3ba2e9d16dd70faecc",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-069.webp",
+    "caption": "The Bloodless Stitch",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-069_the-bloodless-stitch/01_illustrazione_originale.png",
+    "id": "ART-069",
+    "source_sha256": "4054c539829caa2f4730eaa1bf300f0a34edc5b8f7675303f8d7bd189ce366c4",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-070.webp",
+    "caption": "The Cartographer's Coffin",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-070_the-cartographer-s-coffin/01_illustrazione_originale.png",
+    "id": "ART-070",
+    "source_sha256": "b694cde1693020f941b6a3de401ed03b4ab5ae5fa30632a1a827079df69ab13f",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-071.webp",
+    "caption": "The Blue Scar",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-071_the-blue-scar/01_illustrazione_originale.png",
+    "id": "ART-071",
+    "source_sha256": "7665e22f19cd0406512dbe8e7eacf493c8667cd7c3bb227981d09cfa7318dddd",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-072.webp",
+    "caption": "The Furnace Veil",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-072_the-furnace-veil/01_illustrazione_originale.png",
+    "id": "ART-072",
+    "source_sha256": "0c9b7104c00719813a20867925bf62c049940d002617b7e31f16fff196ca0eb5",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-073.webp",
+    "caption": "The Unanswered Mirror",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-073_the-unanswered-mirror/01_illustrazione_originale.png",
+    "id": "ART-073",
+    "source_sha256": "50aa32d902870d8264036d0448062e57e43d5f220e13c954f8ef9baa3e17d926",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-075.webp",
+    "caption": "The Drowned Bell",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-075_the-drowned-bell/01_illustrazione_originale.png",
+    "id": "ART-075",
+    "source_sha256": "294c01f2c50e9ed17b2e362e289ee2cd1ab7a38afd13a25c5f32859c7f78e547",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-074.webp",
+    "caption": "The Ashen Audience",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-074_the-ashen-audience/01_illustrazione_originale.png",
+    "id": "ART-074",
+    "source_sha256": "f3f68b1c208f1d837a6f6efa33512c63c7d2f90c0d47f5eb665669f361cb6529",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-076.webp",
+    "caption": "The Familiar's Door",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-076_the-familiar-s-door/01_illustrazione_originale.png",
+    "id": "ART-076",
+    "source_sha256": "7a1d8515dfeddc3d96390ae1cae1a5e5e7ed49f45dccc364ce8ef4c6b747ce13",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-077.webp",
+    "caption": "The Unbought Hand",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-077_the-unbought-hand/01_illustrazione_originale.png",
+    "id": "ART-077",
+    "source_sha256": "b44875c357586717ce24a0cbfbc32e635bf89172824987c6ef279fc32bb128ea",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-078.webp",
+    "caption": "The White Road",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-078_the-white-road/01_illustrazione_originale.png",
+    "id": "ART-078",
+    "source_sha256": "175322be3e1716badfbadb6ec0e0c42fbdf20197eeaec2afec802c08b6448e03",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-079.webp",
+    "caption": "The Mercy Engine",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-079_the-mercy-engine/01_illustrazione_originale.png",
+    "id": "ART-079",
+    "source_sha256": "070c2c3e6cbf97424d6d1023564790683ef4ce2cc3ac795245d41329b9d9e16a",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-080.webp",
+    "caption": "The Garrison Without Walls",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-080_the-garrison-without-walls/01_illustrazione_originale.png",
+    "id": "ART-080",
+    "source_sha256": "3af5dbb33c03a17f0f68e7177f4e785d4e4552a4c6301d98f2c8423570897689",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-081.webp",
+    "caption": "The Closed Horizon",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-081_the-closed-horizon/01_illustrazione_originale.png",
+    "id": "ART-081",
+    "source_sha256": "25014304377a7bf3f1724cb762a9a3d96097ac5c5168a870e9c32c6bf1be410c",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-082.webp",
+    "caption": "The Last Hospital",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-082_the-last-hospital/01_illustrazione_originale.png",
+    "id": "ART-082",
+    "source_sha256": "237f18372d58e6903e504cbbd36e3a25dd3605eccf7b661237789da965682704",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-083.webp",
+    "caption": "The Unspent Hour",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-083_the-unspent-hour/01_illustrazione_originale.png",
+    "id": "ART-083",
+    "source_sha256": "123b5d87fc74fa8664d7dfd3166b4552e5a81cb01beecad7f83223152cb4b544",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-084.webp",
+    "caption": "The Borrowed Winter",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-084_the-borrowed-winter/01_illustrazione_originale.png",
+    "id": "ART-084",
+    "source_sha256": "cd5694e92c871b3e222afae6a4658105654b88bdec1c94f4e7920c0b2ffba088",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-085.webp",
+    "caption": "The Court of One",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-085_the-court-of-one/01_illustrazione_originale.png",
+    "id": "ART-085",
+    "source_sha256": "3e71a792708b67dfce4931253c69d20fa21670decad18964d52875b5976c8e13",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-086.webp",
+    "caption": "The Hunger Treasury",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-086_the-hunger-treasury/01_illustrazione_originale.png",
+    "id": "ART-086",
+    "source_sha256": "1626446bce66e5701f6cfe57251123f6775a7f337ab8a54019c96c2d7853b0dc",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-087.webp",
+    "caption": "The Midnight Porter",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-087_the-midnight-porter/01_illustrazione_originale.png",
+    "id": "ART-087",
+    "source_sha256": "6cf3bf70d704bc76b55450a189cb1fbb288ccee226491c96d47e4d95272d5efa",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-088.webp",
+    "caption": "The Heirless Face",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-088_the-heirless-face/01_illustrazione_originale.png",
+    "id": "ART-088",
+    "source_sha256": "a695ce6f1f451869c455ed2215f0506faa337d2f609275ce6f895ff673729744",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-089.webp",
+    "caption": "The Unanimous Pen",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-089_the-unanimous-pen/01_illustrazione_originale.png",
+    "id": "ART-089",
+    "source_sha256": "d83747b143df6213d1701631c027489b9a5e5ce43f4e12459fc5d21730d43c8e",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-093.webp",
+    "caption": "The Black Tithe",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-093_the-black-tithe/01_illustrazione_originale.png",
+    "id": "ART-093",
+    "source_sha256": "088cc440f78d12161dcecf995124db18e44f624824c60cfb614eb1c67cd2e956",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-090.webp",
+    "caption": "The Glass Counterexample",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-090_the-glass-counterexample/01_illustrazione_originale.png",
+    "id": "ART-090",
+    "source_sha256": "14dbfcb530540bb2ecac21d387c241192bf747fa92d9810170ea581911c0d739",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-091.webp",
+    "caption": "The Sleepless Court",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_5/ART-091_the-sleepless-court/01_illustrazione_originale.png",
+    "id": "ART-091",
+    "source_sha256": "7f3e3c91d74ae8ea3f128f766789d5a1b1143b8068cf91d6a9c9ebfce53c2588",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-092.webp",
+    "caption": "The Vessel of Repetition",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-092_the-vessel-of-repetition/01_illustrazione_originale.png",
+    "id": "ART-092",
+    "source_sha256": "8cc4fcb6162bae9dae1116c4ad11db82a9de21ec860412e26872986ab3bebe33",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-094.webp",
+    "caption": "The Unbroken Corridor",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-094_the-unbroken-corridor/01_illustrazione_originale.png",
+    "id": "ART-094",
+    "source_sha256": "6e9f0befa8e194e636193401b44fe23d3594fa1e2bc9626e86f032133c5d13bb",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-095.webp",
+    "caption": "The Witness of Fire",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-095_the-witness-of-fire/01_illustrazione_originale.png",
+    "id": "ART-095",
+    "source_sha256": "d4a6e738e4a084952741238d43087a14c8925a3f2491bc1ae4771cec0526fed9",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-096.webp",
+    "caption": "The Grave Meridian",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-096_the-grave-meridian/01_illustrazione_originale.png",
+    "id": "ART-096",
+    "source_sha256": "ce71bc39f702375955f6c039e01fab22946fd5724b040a90694fddcf372e0138",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-097.webp",
+    "caption": "The Treaty of Ash",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-097_the-treaty-of-ash/01_illustrazione_originale.png",
+    "id": "ART-097",
+    "source_sha256": "bc3a1b6465d6cd70224fa5b302eba55c5b67bd1d852fd82dff57d7606dfa3037",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-098.webp",
+    "caption": "The Far Hinge",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_7/ART-098_the-far-hinge/01_illustrazione_originale.png",
+    "id": "ART-098",
+    "source_sha256": "c886b45889378894d5ac24bb7bbc611c4eae06ba8a7e0ff8a9ed136c82ec932f",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-099.webp",
+    "caption": "The Starless Dawn",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_7/ART-099_the-starless-dawn/01_illustrazione_originale.png",
+    "id": "ART-099",
+    "source_sha256": "3e1f33899fdb8403eceab421031b8ae5f30c92c1c5427df2cffbe81742ea90cb",
+    "revision": 362
+  },
+  {
+    "src": "assets/artefatto362-art-100.webp",
+    "caption": "The Unfallen Sentence",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_7/ART-100_the-unfallen-sentence/01_illustrazione_originale.png",
+    "id": "ART-100",
+    "source_sha256": "d31204f915728d99bac425dcf15de04f5984c629b2be381def6ea60abd6d63ed",
+    "revision": 362
   }
 ]

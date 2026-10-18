@@ -1,0 +1,25 @@
+{
+  "revision": 362,
+  "artifacts": 100,
+  "previous_artifacts_preserved": 25,
+  "new_artifacts": 75,
+  "quality_counts": {
+    "3": 22,
+    "1": 5,
+    "2": 18,
+    "5": 15,
+    "6": 7,
+    "4": 30,
+    "7": 3
+  },
+  "effigies_covered": 23,
+  "new_original_images": 75,
+  "all_image_integrity_verified": true,
+  "visual_review_complete": true,
+  "cast": 587,
+  "cast_personal_powers_unchanged": true,
+  "plot_roots_protagonist_and_abilities_unchanged": true,
+  "room_six_documentation_corrected": true,
+  "zip_created": false,
+  "links_checked_separately": true
+}

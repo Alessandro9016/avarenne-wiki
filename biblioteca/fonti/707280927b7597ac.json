@@ -1,0 +1,11 @@
+{
+  "id": "ART-058",
+  "name": "The Unfinished Wound",
+  "asset": "assets/artefatto362-art-058.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-058_the-unfinished-wound/01_illustrazione_originale.png",
+  "source_sha256": "0ed74277b56e1cb8448bf2b1d81b0fa0591f94b0b5705c2c6261fd9bef36252a",
+  "generator": "builtin image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: a single artifact illustration for the Avarenne dark fantasy novel encyclopedia. Primary subject: A hinged silver watch cuff with an exposed red escapement and a small strip of blood-dark fabric. Show the whole artifact clearly with believable construction and exquisite tactile materials, one main view only. Refined semi-realistic painted novel concept art, sophisticated late industrial occult atmosphere, controlled soft museum illumination, dark charcoal or desaturated stone setting with subtle atmospheric depth. Make its silhouette distinctive and practical details legible. No person, no body wearing it, no mannequin face, no action scene, no extra weapons or props that could be mistaken for part of it. No text, labels, letters, numerals, logo, watermark, game interface, border, card frame or collage. Landscape composition approximately 3:2; object or installation dominates the frame with room around its silhouette. Restrained supernatural quality, not generic glowing loot.",
+  "visual_review": "APPROVATA: supporto, leggibilità e assenza di nuovi poteri impliciti verificati",
+  "revision": 362
+}
