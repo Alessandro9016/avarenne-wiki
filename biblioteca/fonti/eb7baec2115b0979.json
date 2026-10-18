@@ -1,0 +1,4943 @@
+{
+  "revision": 368,
+  "scope": "Sola vista enciclopedica; originali storici e chiavi dei JSON conservati.",
+  "changed_pages": [
+    {
+      "id": "CAST-088",
+      "url": "cast-088-adele-bresson.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-034",
+      "url": "cast-034-adele-rosk.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-124",
+      "url": "cast-124-adrien-veyne.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-171",
+      "url": "cast-171-aki-noren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-328",
+      "url": "cast-328-akira-cazen.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-382",
+      "url": "cast-382-akira-lureth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-436",
+      "url": "cast-436-akira-uvel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-274",
+      "url": "cast-274-akira-welren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-069",
+      "url": "cast-069-albin-sere.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-037",
+      "url": "loc-037-aldora.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "CAST-161",
+      "url": "cast-161-alessia-torn.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-001",
+      "url": "cast-001-alexander-valcienne.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-133",
+      "url": "cast-133-aline-maret.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-012",
+      "url": "cast-012-althene-rhos.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-186",
+      "url": "cast-186-amelie-arveil.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-299",
+      "url": "cast-299-amelie-ceret.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-353",
+      "url": "cast-353-amelie-lennar.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-407",
+      "url": "cast-407-amelie-uren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-169",
+      "url": "cast-169-amin-sorel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-098",
+      "url": "cast-098-anna-feral.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-046",
+      "url": "loc-046-anren.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "CAST-109",
+      "url": "cast-109-anton-rill.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-026",
+      "url": "loc-026-arel-cut.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-375",
+      "url": "cast-375-arlen-kelro.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-316",
+      "url": "cast-316-arlen-ressel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-429",
+      "url": "cast-429-arlen-teth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-102",
+      "url": "cast-102-armand-leth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-050",
+      "url": "loc-050-arula.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "CAST-066",
+      "url": "cast-066-ash-velren.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-059",
+      "url": "cast-059-ashal-ven.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "LOC-061",
+      "url": "loc-061-ashen-quay.html",
+      "changes": [
+        "Commercial atlas and nautical charts; not a personal visit"
+      ]
+    },
+    {
+      "id": "CAST-009",
+      "url": "cast-009-ashren-tor.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-052",
+      "url": "loc-052-asren.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "FAC-11",
+      "url": "fac-11-assemblee-dei-bacini-aperti.html",
+      "changes": [
+        "definizione istituzionale generica FAC-11"
+      ]
+    },
+    {
+      "id": "CAST-177",
+      "url": "cast-177-astrid-noll.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-021",
+      "url": "loc-021-avaris.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-081",
+      "url": "cast-081-avarra-neth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-047",
+      "url": "cast-047-aven-sere.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-055",
+      "url": "cast-055-aveth-raan.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "FAC-08",
+      "url": "fac-08-banca-di-lethorne.html",
+      "changes": [
+        "definizione istituzionale generica FAC-08"
+      ]
+    },
+    {
+      "id": "CAST-134",
+      "url": "cast-134-bastien-quell.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-279",
+      "url": "cast-279-bela-arveil.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-441",
+      "url": "cast-441-bela-boren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-333",
+      "url": "cast-333-bela-jorel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-387",
+      "url": "cast-387-bela-saven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-225",
+      "url": "cast-225-bela-uren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-005",
+      "url": "loc-005-belanne.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-412",
+      "url": "cast-412-benoit-bessrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-191",
+      "url": "cast-191-benoit-hervel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-304",
+      "url": "cast-304-benoit-jann.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-358",
+      "url": "cast-358-benoit-serrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-178",
+      "url": "cast-178-borin-askel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-434",
+      "url": "cast-434-brina-arenot.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-213",
+      "url": "cast-213-brina-guerin.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-267",
+      "url": "cast-267-brina-parven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-380",
+      "url": "cast-380-brina-rendar.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-108",
+      "url": "cast-108-bruno-maret.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "DOC-84",
+      "url": "doc-84-caduta-continuita-ritorno-e-seats.html",
+      "changes": [
+        "rinvio storico a milestone ormai completate"
+      ]
+    },
+    {
+      "id": "FAC-09",
+      "url": "fac-09-camera-dei-noli-neressani.html",
+      "changes": [
+        "definizione istituzionale generica FAC-09"
+      ]
+    },
+    {
+      "id": "FAC-06",
+      "url": "fac-06-capitoli-della-concordia.html",
+      "changes": [
+        "definizione istituzionale generica FAC-06"
+      ]
+    },
+    {
+      "id": "CAST-417",
+      "url": "cast-417-carine-farel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-255",
+      "url": "cast-255-carine-helren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-196",
+      "url": "cast-196-carine-ossel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-309",
+      "url": "cast-309-carine-qeren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-363",
+      "url": "cast-363-carine-zerin.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "FAC-07",
+      "url": "fac-07-case-della-living-mercy.html",
+      "changes": [
+        "definizione istituzionale generica FAC-07"
+      ]
+    },
+    {
+      "id": "CAST-003",
+      "url": "cast-003-celine-valcienne.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-016",
+      "url": "cast-016-cerel-voss.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-038",
+      "url": "cast-038-ceth-aran.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-230",
+      "url": "cast-230-cira-bessrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-284",
+      "url": "cast-284-cira-hervel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-446",
+      "url": "cast-446-cira-irenel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-392",
+      "url": "cast-392-cira-zorrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-132",
+      "url": "cast-132-clara-vossel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-110",
+      "url": "cast-110-claudine-ves.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "FAC-04",
+      "url": "fac-04-collegium-dei-metodi.html",
+      "changes": [
+        "definizione istituzionale generica FAC-04"
+      ]
+    },
+    {
+      "id": "FAC-10",
+      "url": "fac-10-consiglio-delle-officine-di-lethorne.html",
+      "changes": [
+        "definizione istituzionale generica FAC-10"
+      ]
+    },
+    {
+      "id": "FAC-02",
+      "url": "fac-02-consorzio-tre-moli.html",
+      "changes": [
+        "definizione istituzionale generica FAC-02"
+      ]
+    },
+    {
+      "id": "LOC-034",
+      "url": "loc-034-copper-yard.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "LOC-022",
+      "url": "loc-022-corten.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-033",
+      "url": "cast-033-corvin-dast.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-439",
+      "url": "cast-439-cyran-esten.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-326",
+      "url": "cast-326-cyran-fennel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-218",
+      "url": "cast-218-cyran-nivrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-272",
+      "url": "cast-272-cyran-weyl.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-385",
+      "url": "cast-385-cyran-yarel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-053",
+      "url": "cast-053-dalren-vey.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-028",
+      "url": "cast-028-dama-rinn.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-076",
+      "url": "cast-076-damren-aul.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-158",
+      "url": "cast-158-daren-vel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-165",
+      "url": "cast-165-darian-vos.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-041",
+      "url": "loc-041-darsa.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "CAST-119",
+      "url": "cast-119-delia-vess.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-277",
+      "url": "cast-277-della-davren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-444",
+      "url": "cast-444-della-lureth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-331",
+      "url": "cast-331-della-marnel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-223",
+      "url": "cast-223-della-uvel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-368",
+      "url": "cast-368-denis-drel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-422",
+      "url": "cast-422-denis-mouren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-260",
+      "url": "cast-260-denis-orvan.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-201",
+      "url": "cast-201-denis-vessan.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-314",
+      "url": "cast-314-denis-xorin.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-026",
+      "url": "cast-026-denor-rai.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-006",
+      "url": "loc-006-deren.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-015",
+      "url": "cast-015-deyran-ur.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-183",
+      "url": "cast-183-dorel-aven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-062",
+      "url": "loc-062-dorel-outer-port.html",
+      "changes": [
+        "Commercial atlas and nautical charts; not a personal visit"
+      ]
+    },
+    {
+      "id": "CAST-006",
+      "url": "cast-006-doria-seln.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-235",
+      "url": "cast-235-dorin-farel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-397",
+      "url": "cast-397-dorin-gareth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-451",
+      "url": "cast-451-dorin-perven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-057",
+      "url": "loc-057-dorven.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "LOC-014",
+      "url": "loc-014-dovar.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-147",
+      "url": "cast-147-edda-oren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-114",
+      "url": "cast-114-edgar-vossin.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-127",
+      "url": "cast-127-edith-torrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "EDRAN",
+      "url": "edran-vael.html",
+      "changes": [
+        "rinvio storico a milestone ormai completate"
+      ]
+    },
+    {
+      "id": "COVER-Protagonista_riservato",
+      "url": "approfondimento-protagonista-riservato.html",
+      "changes": [
+        "rinvio storico a milestone ormai completate"
+      ]
+    },
+    {
+      "id": "LOC-054",
+      "url": "loc-054-edris.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "CAST-068",
+      "url": "cast-068-eliane-ardel.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-002",
+      "url": "elias-veyne.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-164",
+      "url": "cast-164-elisa-rath.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-090",
+      "url": "cast-090-elise-moret.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-027",
+      "url": "cast-027-elren-voss.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-121",
+      "url": "cast-121-elsa-dorne.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-045",
+      "url": "cast-045-elsen-var.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "LOC-015",
+      "url": "loc-015-elven.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-065",
+      "url": "cast-065-elyra-sath.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-094",
+      "url": "cast-094-emil-cress.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-019",
+      "url": "cast-019-enra-keth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-039",
+      "url": "cast-039-erath-pell.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-228",
+      "url": "cast-228-eren-boren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-395",
+      "url": "cast-395-eren-jorel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-282",
+      "url": "cast-282-eren-kelro.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-449",
+      "url": "cast-449-eren-saven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-040",
+      "url": "loc-040-eshar.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "CAST-083",
+      "url": "cast-083-eshra-vale.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-348",
+      "url": "cast-348-esra-erel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-240",
+      "url": "cast-240-esra-mouren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-402",
+      "url": "cast-402-esra-norrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-294",
+      "url": "cast-294-esra-vessan.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-456",
+      "url": "cast-456-esra-welren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-101",
+      "url": "cast-101-estelle-nerin.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-129",
+      "url": "cast-129-etienne-brac.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-319",
+      "url": "cast-319-eveline-brelot.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-206",
+      "url": "cast-206-eveline-ceret.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-373",
+      "url": "cast-373-eveline-kervan.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-427",
+      "url": "cast-427-eveline-torrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-432",
+      "url": "cast-432-fabien-alrun.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-270",
+      "url": "cast-270-fabien-cadrin.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-324",
+      "url": "cast-324-fabien-istel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-378",
+      "url": "cast-378-fabien-ressel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-106",
+      "url": "cast-106-felix-orlen.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-233",
+      "url": "cast-233-fenna-irenel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-400",
+      "url": "cast-400-fenna-queral.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-287",
+      "url": "cast-287-fenna-rendar.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-454",
+      "url": "cast-454-fenna-zorrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-107",
+      "url": "cast-107-gareth-sorn.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-131",
+      "url": "cast-131-gaston-mery.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-275",
+      "url": "cast-275-georgette-guerin.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-437",
+      "url": "cast-437-georgette-helren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-329",
+      "url": "cast-329-georgette-parven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-216",
+      "url": "cast-216-georgette-qeren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-383",
+      "url": "cast-383-georgette-yven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-103",
+      "url": "cast-103-gina-sere.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-346",
+      "url": "cast-346-goran-esten.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-459",
+      "url": "cast-459-goran-gareth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-238",
+      "url": "cast-238-goran-perven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-405",
+      "url": "cast-405-goran-xarel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-292",
+      "url": "cast-292-goran-yarel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-032",
+      "url": "loc-032-grey-embankment.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-172",
+      "url": "cast-172-hana-teral.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-061",
+      "url": "cast-061-hareth-ul.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-280",
+      "url": "cast-280-hector-nivrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-442",
+      "url": "cast-442-hector-orvan.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-334",
+      "url": "cast-334-hector-weyl.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-221",
+      "url": "cast-221-hector-xorin.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-297",
+      "url": "cast-297-helia-cazen.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-410",
+      "url": "cast-410-helia-erel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-351",
+      "url": "cast-351-helia-lureth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-189",
+      "url": "cast-189-helia-norrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-084",
+      "url": "cast-084-heloise-brant.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-011",
+      "url": "cast-011-helyr-ossen.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-097",
+      "url": "cast-097-henri-pellan.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-027",
+      "url": "loc-027-hollow-towers.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-111",
+      "url": "cast-111-hugo-kern.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-154",
+      "url": "cast-154-ilar-arven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-043",
+      "url": "loc-043-ildan.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "CAST-302",
+      "url": "cast-302-ilian-jorel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-415",
+      "url": "cast-415-ilian-lennar.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-356",
+      "url": "cast-356-ilian-saven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-226",
+      "url": "cast-226-ines-brelot.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-339",
+      "url": "cast-339-ines-davren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-393",
+      "url": "cast-393-ines-marnel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-285",
+      "url": "cast-285-ines-uvel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-447",
+      "url": "cast-447-ines-varden.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-059",
+      "url": "loc-059-irela.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "CAST-185",
+      "url": "cast-185-irena-vor.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-057",
+      "url": "cast-057-iresh-morn.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-141",
+      "url": "cast-141-irma-kehl.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-100",
+      "url": "cast-100-isabel-mornet.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-180",
+      "url": "cast-180-ivo-edel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-452",
+      "url": "cast-452-jacques-cadrin.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-231",
+      "url": "cast-231-jacques-istel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-344",
+      "url": "cast-344-jacques-kelro.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-398",
+      "url": "cast-398-jacques-teth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-136",
+      "url": "cast-136-jean-orrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-173",
+      "url": "cast-173-jin-sora.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-199",
+      "url": "cast-199-jora-bessrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-253",
+      "url": "cast-253-jora-hervel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-307",
+      "url": "cast-307-jora-queral.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-361",
+      "url": "cast-361-jora-zorrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-138",
+      "url": "cast-138-jules-baret.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-122",
+      "url": "cast-122-julien-sarn.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-152",
+      "url": "cast-152-karel-morn.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-011",
+      "url": "loc-011-karrel.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-403",
+      "url": "cast-403-katia-arenot.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-457",
+      "url": "cast-457-katia-guerin.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-295",
+      "url": "cast-295-katia-irenel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-236",
+      "url": "cast-236-katia-parven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-349",
+      "url": "cast-349-katia-rendar.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-055",
+      "url": "loc-055-keran.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "LOC-013",
+      "url": "loc-013-kessel.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-181",
+      "url": "cast-181-kira-keren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-204",
+      "url": "cast-204-korin-farel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-366",
+      "url": "cast-366-korin-gareth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-258",
+      "url": "cast-258-korin-ossel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-312",
+      "url": "cast-312-korin-xarel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-048",
+      "url": "loc-048-koshen.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "CAST-408",
+      "url": "cast-408-laurent-esten.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-187",
+      "url": "cast-187-laurent-nivrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-300",
+      "url": "cast-300-laurent-perven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-354",
+      "url": "cast-354-laurent-yarel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-091",
+      "url": "cast-091-lena-osser.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-168",
+      "url": "cast-168-leona-mar.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-113",
+      "url": "cast-113-leonie-sar.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-430",
+      "url": "cast-430-lessa-drel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-317",
+      "url": "cast-317-lessa-erel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-209",
+      "url": "cast-209-lessa-mouren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-371",
+      "url": "cast-371-lessa-norrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-263",
+      "url": "cast-263-lessa-vessan.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-001",
+      "url": "loc-001-lethorne.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-126",
+      "url": "cast-126-lise-veyne.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-032",
+      "url": "cast-032-livia-varn.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-009",
+      "url": "loc-009-lorien.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-099",
+      "url": "cast-099-louis-keret.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-035",
+      "url": "loc-035-low-fen.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-115",
+      "url": "cast-115-luc-rema.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-085",
+      "url": "cast-085-luca-daven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-067",
+      "url": "cast-067-lucien-valcienne.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-137",
+      "url": "cast-137-madeleine-ravel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-036",
+      "url": "cast-036-maerin-sol.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-079",
+      "url": "cast-079-malrec-dorn.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-359",
+      "url": "cast-359-manon-cazen.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-413",
+      "url": "cast-413-manon-lureth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-192",
+      "url": "cast-192-manon-uvel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-305",
+      "url": "cast-305-manon-welren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-072",
+      "url": "cast-072-mara-ossen.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-125",
+      "url": "cast-125-mara-veyne.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-031",
+      "url": "cast-031-marcel-ruy.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-120",
+      "url": "cast-120-marco-neret.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-268",
+      "url": "cast-268-marek-ceret.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-435",
+      "url": "cast-435-marek-kervan.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-322",
+      "url": "cast-322-marek-lennar.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-214",
+      "url": "cast-214-marek-torrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-376",
+      "url": "cast-376-marek-uren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-044",
+      "url": "loc-044-mareth.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "CAST-143",
+      "url": "cast-143-margot-sain.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-086",
+      "url": "cast-086-marta-sorel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-104",
+      "url": "cast-104-maurice-verr.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-155",
+      "url": "cast-155-mera-seln.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-062",
+      "url": "cast-062-meran-oss.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-048",
+      "url": "cast-048-meren-pell.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "LOC-049",
+      "url": "loc-049-mersa.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "CAST-148",
+      "url": "cast-148-milan-thesk.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-116",
+      "url": "cast-116-milo-arret.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-175",
+      "url": "cast-175-mina-aru.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-005",
+      "url": "cast-005-mirel-osta.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-150",
+      "url": "cast-150-mireya-voss.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "FAC-03",
+      "url": "fac-03-mutua-dei-turni-del-porto.html",
+      "changes": [
+        "definizione istituzionale generica FAC-03"
+      ]
+    },
+    {
+      "id": "CAST-153",
+      "url": "cast-153-nadia-thenn.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-170",
+      "url": "cast-170-nahla-doren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-016",
+      "url": "loc-016-namar.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "LOC-028",
+      "url": "loc-028-namar-upper-works.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-041",
+      "url": "cast-041-nava-tesh.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-071",
+      "url": "cast-071-nela-bress.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-023",
+      "url": "loc-023-nelle.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-010",
+      "url": "cast-010-neral-venn.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-017",
+      "url": "cast-017-neren-aul.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-019",
+      "url": "loc-019-neressa.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-040",
+      "url": "cast-040-nereth-aul.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-156",
+      "url": "cast-156-nerin-koss.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-077",
+      "url": "cast-077-neris-cal.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-052",
+      "url": "cast-052-neva-orr.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-087",
+      "url": "cast-087-nico-bell.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-310",
+      "url": "cast-310-nicolas-arveil.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-197",
+      "url": "cast-197-nicolas-boren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-364",
+      "url": "cast-364-nicolas-jorel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-251",
+      "url": "cast-251-nicolas-kelro.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-031",
+      "url": "loc-031-nine-houses-field.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-219",
+      "url": "cast-219-niva-alrun.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-381",
+      "url": "cast-381-niva-bessrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-273",
+      "url": "cast-273-niva-jann.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-440",
+      "url": "cast-440-niva-ressel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-327",
+      "url": "cast-327-niva-serrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-130",
+      "url": "cast-130-noemi-darel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-093",
+      "url": "cast-093-nora-sall.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-051",
+      "url": "loc-051-noran.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "LOC-063",
+      "url": "loc-063-norell-roads.html",
+      "changes": [
+        "Commercial atlas and nautical charts; not a personal visit"
+      ]
+    },
+    {
+      "id": "LOC-033",
+      "url": "loc-033-north-lock.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-118",
+      "url": "cast-118-octave-bren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-139",
+      "url": "cast-139-odette-sarin.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-315",
+      "url": "cast-315-ophie-hervel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-202",
+      "url": "cast-202-ophie-irenel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-369",
+      "url": "cast-369-ophie-queral.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-256",
+      "url": "cast-256-ophie-rendar.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-074",
+      "url": "cast-074-oren-daal.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-160",
+      "url": "cast-160-orenna-keth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-008",
+      "url": "cast-008-oriel-namar.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-224",
+      "url": "cast-224-oskar-helren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-278",
+      "url": "cast-278-oskar-qeren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-142",
+      "url": "cast-142-oskar-veyl.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-445",
+      "url": "cast-445-oskar-yven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-332",
+      "url": "cast-332-oskar-zerin.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-018",
+      "url": "loc-018-ossen-reach.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-064",
+      "url": "cast-064-ossen-var.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-428",
+      "url": "cast-428-pascal-gareth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-320",
+      "url": "cast-320-pascal-ossel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-207",
+      "url": "cast-207-pascal-perven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-374",
+      "url": "cast-374-pascal-xarel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-092",
+      "url": "cast-092-paul-rennet.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-146",
+      "url": "cast-146-pavel-dornik.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-337",
+      "url": "cast-337-pera-drel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-450",
+      "url": "cast-450-pera-fennel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-391",
+      "url": "cast-391-pera-mouren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-229",
+      "url": "cast-229-pera-orvan.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-283",
+      "url": "cast-283-pera-xorin.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-112",
+      "url": "cast-112-pierre-navet.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-004",
+      "url": "loc-004-port-auvrel.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "LOC-042",
+      "url": "loc-042-qadra.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "CAST-266",
+      "url": "cast-266-quentin-cazen.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-379",
+      "url": "cast-379-quentin-erel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-433",
+      "url": "cast-433-quentin-norrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-212",
+      "url": "cast-212-quentin-welren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-140",
+      "url": "cast-140-raoul-bellet.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-046",
+      "url": "cast-046-rava-thenn.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-096",
+      "url": "cast-096-remy-thol.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-078",
+      "url": "cast-078-ren-istral.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-174",
+      "url": "cast-174-ren-matsu.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "FAC-12",
+      "url": "fac-12-rete-delle-vigil-di-porta.html",
+      "changes": [
+        "definizione istituzionale generica FAC-12"
+      ]
+    },
+    {
+      "id": "LOC-012",
+      "url": "loc-012-reth-narrows.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "LOC-030",
+      "url": "loc-030-rethar-basin.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-042",
+      "url": "cast-042-rhael-den.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-145",
+      "url": "cast-145-rina-merel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-135",
+      "url": "cast-135-rosa-edril.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-217",
+      "url": "cast-217-rosalie-arveil.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-330",
+      "url": "cast-330-rosalie-ceret.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-271",
+      "url": "cast-271-rosalie-jorel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-384",
+      "url": "cast-384-rosalie-lennar.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-438",
+      "url": "cast-438-rosalie-uren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-288",
+      "url": "cast-288-rovan-brelot.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-342",
+      "url": "cast-342-rovan-kervan.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-455",
+      "url": "cast-455-rovan-marnel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-396",
+      "url": "cast-396-rovan-torrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-234",
+      "url": "cast-234-rovan-varden.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-002",
+      "url": "loc-002-rovenne.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-089",
+      "url": "cast-089-sabine-varel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-025",
+      "url": "cast-025-sael-mereth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-007",
+      "url": "cast-007-sairen-velis.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-166",
+      "url": "cast-166-samira-qel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-117",
+      "url": "cast-117-sarah-cenn.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-007",
+      "url": "loc-007-sarn-gate.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "LOC-045",
+      "url": "loc-045-saura.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "CAST-149",
+      "url": "cast-149-sava-rel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-401",
+      "url": "cast-401-sela-alrun.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-239",
+      "url": "cast-239-sela-cadrin.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-293",
+      "url": "cast-293-sela-istel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-347",
+      "url": "cast-347-sela-ressel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-460",
+      "url": "cast-460-sela-teth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-157",
+      "url": "cast-157-selma-arel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-058",
+      "url": "cast-058-selvan-thir.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-073",
+      "url": "cast-073-sena-vey.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-020",
+      "url": "loc-020-serele.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-024",
+      "url": "cast-024-sereth-daal.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-060",
+      "url": "loc-060-serevan.html",
+      "changes": [
+        "Commercial atlas and nautical charts; not a personal visit"
+      ]
+    },
+    {
+      "id": "CAST-080",
+      "url": "cast-080-serevan-ilex.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-044",
+      "url": "cast-044-sethra-il.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-035",
+      "url": "cast-035-silas-merrow.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-144",
+      "url": "cast-144-simon-evrard.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-182",
+      "url": "cast-182-sivana-rell.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-056",
+      "url": "loc-056-sivren.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "CAST-105",
+      "url": "cast-105-sophie-arel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-176",
+      "url": "cast-176-sora-kan.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-036",
+      "url": "loc-036-south-shoals.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-051",
+      "url": "cast-051-sovan-reth.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "LOC-029",
+      "url": "loc-029-stillwater-steps.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-443",
+      "url": "cast-443-sylvain-bessrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-222",
+      "url": "cast-222-sylvain-hervel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-335",
+      "url": "cast-335-sylvain-jann.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-276",
+      "url": "cast-276-sylvain-queral.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-389",
+      "url": "cast-389-sylvain-serrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-151",
+      "url": "cast-151-talia-neth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-018",
+      "url": "cast-018-talren-soth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-167",
+      "url": "cast-167-tarek-orun.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-190",
+      "url": "cast-190-tarin-arenot.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-244",
+      "url": "cast-244-tarin-guerin.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-406",
+      "url": "cast-406-tarin-helren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-298",
+      "url": "cast-298-tarin-parven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-352",
+      "url": "cast-352-tarin-yven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-030",
+      "url": "cast-030-tavel-rinn.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-010",
+      "url": "loc-010-teren.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-070",
+      "url": "cast-070-teren-holt.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-047",
+      "url": "loc-047-teru.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "LOC-038",
+      "url": "loc-038-teshen.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "CAST-162",
+      "url": "cast-162-tessa-lyr.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-184",
+      "url": "cast-184-teva-marr.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-058",
+      "url": "loc-058-tevren.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "CAST-043",
+      "url": "cast-043-thalen-reth.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "INT-08",
+      "url": "int-08-the-nocturne.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-025",
+      "url": "loc-025-thenn-pass.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-063",
+      "url": "cast-063-thera-iven.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-049",
+      "url": "cast-049-theral-en.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-082",
+      "url": "cast-082-theral-voss.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-448",
+      "url": "cast-448-therese-farel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-227",
+      "url": "cast-227-therese-ossel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-281",
+      "url": "cast-281-therese-xarel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-394",
+      "url": "cast-394-therese-zerin.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-054",
+      "url": "cast-054-thessar-un.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "FAC-01",
+      "url": "fac-01-ufficio-delle-concordanze.html",
+      "changes": [
+        "definizione istituzionale generica FAC-01"
+      ]
+    },
+    {
+      "id": "CAST-195",
+      "url": "cast-195-una-esten.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-357",
+      "url": "cast-357-una-fennel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-249",
+      "url": "cast-249-una-nivrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-411",
+      "url": "cast-411-una-orvan.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-303",
+      "url": "cast-303-una-weyl.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-399",
+      "url": "cast-399-ursin-drel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-453",
+      "url": "cast-453-ursin-mouren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-232",
+      "url": "cast-232-ursin-vessan.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-008",
+      "url": "loc-008-valenne.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-350",
+      "url": "cast-350-valerie-brelot.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-237",
+      "url": "cast-237-valerie-ceret.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-404",
+      "url": "cast-404-valerie-kervan.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-291",
+      "url": "cast-291-valerie-lennar.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-458",
+      "url": "cast-458-valerie-torrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-037",
+      "url": "cast-037-vara-oss.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-308",
+      "url": "cast-308-varek-davren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-362",
+      "url": "cast-362-varek-marnel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-254",
+      "url": "cast-254-varek-uvel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "LOC-039",
+      "url": "loc-039-varlen.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "LOC-053",
+      "url": "loc-053-varshen.html",
+      "changes": [
+        "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+      ]
+    },
+    {
+      "id": "LOC-003",
+      "url": "loc-003-veldane.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "LOC-024",
+      "url": "loc-024-velis.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-159",
+      "url": "cast-159-vera-isen.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-123",
+      "url": "cast-123-vera-lenet.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-128",
+      "url": "cast-128-vern-soller.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-050",
+      "url": "cast-050-vesra-il.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "LOC-017",
+      "url": "loc-017-veyford.html",
+      "changes": [
+        "Ducal maps and reports; modern secret effects excluded"
+      ]
+    },
+    {
+      "id": "CAST-060",
+      "url": "cast-060-veyreth-sar.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-095",
+      "url": "cast-095-victor-lann.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-163",
+      "url": "cast-163-viktor-senn.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-259",
+      "url": "cast-259-wena-boren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-313",
+      "url": "cast-313-wena-kelro.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-205",
+      "url": "cast-205-wena-saven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-367",
+      "url": "cast-367-wena-teth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-188",
+      "url": "cast-188-wilhelm-alrun.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-355",
+      "url": "cast-355-wilhelm-istel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-242",
+      "url": "cast-242-wilhelm-jann.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-409",
+      "url": "cast-409-wilhelm-ressel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-296",
+      "url": "cast-296-wilhelm-serrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "FAC-05",
+      "url": "fac-05-witness-houses-di-mereth.html",
+      "changes": [
+        "definizione istituzionale generica FAC-05"
+      ]
+    },
+    {
+      "id": "CAST-360",
+      "url": "cast-360-xenia-parven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-247",
+      "url": "cast-247-xenia-qeren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-414",
+      "url": "cast-414-xenia-yven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-301",
+      "url": "cast-301-xenia-zerin.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-306",
+      "url": "cast-306-yann-drel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-419",
+      "url": "cast-419-yann-fennel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-198",
+      "url": "cast-198-yann-orvan.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-365",
+      "url": "cast-365-yann-weyl.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-252",
+      "url": "cast-252-yann-xorin.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-179",
+      "url": "cast-179-yelena-varn.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-372",
+      "url": "cast-372-yorin-arenot.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-426",
+      "url": "cast-426-yorin-guerin.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-264",
+      "url": "cast-264-yorin-irenel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-318",
+      "url": "cast-318-yorin-rendar.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-210",
+      "url": "cast-210-yorin-zorrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-004",
+      "url": "cast-004-yselle-valcienne.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-056",
+      "url": "cast-056-ysil-tal.html",
+      "changes": [
+        "HISTORICAL_PHASE"
+      ]
+    },
+    {
+      "id": "CAST-023",
+      "url": "cast-023-ysra-venn.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-377",
+      "url": "cast-377-zara-esten.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-215",
+      "url": "cast-215-zara-gareth.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-431",
+      "url": "cast-431-zara-nivrel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-269",
+      "url": "cast-269-zara-perven.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-257",
+      "url": "cast-257-zelia-brelot.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-370",
+      "url": "cast-370-zelia-davren.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-311",
+      "url": "cast-311-zelia-kervan.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-424",
+      "url": "cast-424-zelia-marnel.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    },
+    {
+      "id": "CAST-203",
+      "url": "cast-203-zelia-varden.html",
+      "changes": [
+        "CURRENT_T0"
+      ]
+    }
+  ],
+  "intentionally_retained": [
+    {
+      "id": "DOC-202",
+      "reason": "Da costruire prima di canonizzare descrive la procedura per future aggiunte, non un lavoro dimenticato."
+    },
+    {
+      "id": "EFF-23",
+      "reason": "Collegamento da costruire e contendere è una regola di attivazione, non un segnaposto."
+    },
+    {
+      "id": "EXC366-CAST-336",
+      "reason": "Futuro contatto da costruire indica un rapporto aperto, non una biografia incompleta."
+    }
+  ],
+  "technical_heading_dictionary": {
+    "Location id": "Codice del luogo",
+    "Network": "Rete di rapporti",
+    "Networks": "Reti di rapporti",
+    "Number": "Numero",
+    "Roman": "Numero romano",
+    "Map": "Carta di riferimento",
+    "Powers": "Poteri",
+    "Opposition": "Opposizione e contromisure",
+    "Evolution": "Evoluzione",
+    "Optional twist": "Svolta opzionale",
+    "Leader": "Responsabile",
+    "Current seats": "Titolarità attuali delle Seats",
+    "Exclusive prerequisite": "Presupposto esclusivo",
+    "Full external holder": "Titolare esterno pieno",
+    "Partial access": "Accesso parziale",
+    "Full holder": "Titolare pieno",
+    "Authoritative sources": "Fonti vigenti",
+    "Future player choices": "Scelte future del giocatore",
+    "Future choices": "Scelte future",
+    "Resource dimensions": "Dimensioni delle risorse",
+    "Export scope": "Ambito dell’esportazione",
+    "Threshold": "Soglia",
+    "Preparation seconds reference": "Preparazione di riferimento (secondi)",
+    "External distance m": "Distanza esterna (metri)",
+    "Opening width m": "Larghezza dell’apertura (metri)",
+    "Load kg reference": "Carico di riferimento (chilogrammi)",
+    "Work area diameter m reference": "Diametro di riferimento dell’area di lavoro (metri)",
+    "Mental access transfers matter": "L’accesso mentale trasferisce materia",
+    "Current date": "Data attuale",
+    "Month number": "Numero del mese",
+    "Current location known": "Ubicazione attuale conosciuta",
+    "Review status": "Stato della revisione",
+    "Regional projection": "Proiezione regionale",
+    "Origin latitude": "Latitudine d’origine",
+    "Active geographic units": "Situazioni geografiche attive",
+    "Temporal pressure": "Pressione temporale",
+    "Bestiary habitat scope": "Ambito degli habitat del bestiario",
+    "Ordinary location": "Ubicazione ordinaria",
+    "Authority scope": "Ambito dell’autorità",
+    "Text": "Descrizione",
+    "Source of vigil star location": "Fonte della posizione di Vigil Star"
+  },
+  "heading_or_preview_pages": [
+    "acquisizione-e-ascesa.html",
+    "approfondimenti.html",
+    "approfondimento-149-matrice-adulta-effigi-roots-e-confini.html",
+    "approfondimento-atlante-cosmologico.html",
+    "approfondimento-bestiario-conoscenze.html",
+    "approfondimento-calendario-trama.html",
+    "approfondimento-cast-conosciuto.html",
+    "approfondimento-geografia-condivisa.html",
+    "approfondimento-geografia-riservata.html",
+    "approfondimento-giocatore-40-lettura-delle-progressioni.html",
+    "approfondimento-misteri-trama.html",
+    "approfondimento-protagonista-riservato.html",
+    "approfondimento-protagonista.html",
+    "approfondimento-raccordo-bestiario-effigi-317.html",
+    "approfondimento-regole-comuni.html",
+    "approfondimento-roots-consolidate.html",
+    "approfondimento-societa-condivisa.html",
+    "approfondimento-societa-riservata.html",
+    "approfondimento-storia-condivisa.html",
+    "approfondimento-storia-riservata.html",
+    "arc-01-the-waking-house.html",
+    "arc-02-the-moved-bench.html",
+    "arc-03-room-for-six.html",
+    "arc-04-a-price-for-recovery.html",
+    "arc-05-the-shore-has-a-name.html",
+    "arc-06-certified-weather.html",
+    "arc-07-a-patient-is-not-a-model.html",
+    "arc-08-copies-that-cost.html",
+    "arc-09-two-kinds-of-night.html",
+    "arc-10-the-copper-settlement.html",
+    "arc-11-the-workshop-behind-the-mark.html",
+    "arc-12-the-living-orchard.html",
+    "arc-13-the-friend-who-changed.html",
+    "arc-14-a-person-made-here.html",
+    "arc-15-an-exit-kept-open.html",
+    "arc-16-the-approved-departure.html",
+    "arc-17-three-renewals.html",
+    "arc-18-the-undeclared-branch.html",
+    "arc-19-the-names-on-the-foundation.html",
+    "arc-20-a-judgment-without-a-throne.html",
+    "arc-21-the-borrowed-sleeper.html",
+    "arc-22-the-guests-of-the-same-host.html",
+    "arc-23-no-patient-by-vote.html",
+    "arc-24-what-the-basin-keeps.html",
+    "arc-25-the-people-who-stayed.html",
+    "arc-26-the-unanswered-vessel.html",
+    "arc-27-a-garden-between-worlds.html",
+    "arc-28-the-light-that-was-built.html",
+    "arc-29-the-cost-of-a-true-witness.html",
+    "arc-30-an-exchange-beyond-the-room.html",
+    "arc-31-the-seats-that-are-not-empty.html",
+    "arc-32-the-beginning-reserved.html",
+    "arc-33-the-current-keeper.html",
+    "arc-34-the-night-does-not-belong-to-one.html",
+    "arc-35-a-world-that-can-leave.html",
+    "arc-36-those-who-pay-for-peace.html",
+    "arc-37-the-last-borrowed-authority.html",
+    "arc-38-the-record-after-the-verdict.html",
+    "arc-39-the-door-left-unlocked.html",
+    "arc-40-the-first-and-the-last.html",
+    "archive.html",
+    "art-001-the-surveyors-hinge.html",
+    "art-002-the-quiet-governor.html",
+    "art-003-the-red-gauge.html",
+    "art-004-the-cooling-mantle.html",
+    "art-005-the-patient-brace.html",
+    "art-006-the-clear-lintel.html",
+    "art-007-the-witness-plate.html",
+    "art-008-the-blue-rule.html",
+    "art-009-the-answering-wire.html",
+    "art-010-the-unlatched-bond.html",
+    "art-011-the-returning-needle.html",
+    "art-012-the-covered-ledger.html",
+    "art-013-the-held-line.html",
+    "art-014-the-ash-clock.html",
+    "art-015-the-orchard-spindle.html",
+    "art-016-the-funeral-latch.html",
+    "art-017-the-night-curtain.html",
+    "art-018-the-silver-hinge.html",
+    "art-019-the-borrowed-face.html",
+    "art-020-the-dream-lattice.html",
+    "art-021-the-hunger-cup.html",
+    "art-022-the-causal-bell.html",
+    "art-023-the-white-partition.html",
+    "art-024-the-weather-reliquary.html",
+    "art-025-the-severed-brand.html",
+    "art-026-the-coal-widow.html",
+    "art-027-the-last-match.html",
+    "art-028-the-thorn-confessor.html",
+    "art-029-the-rain-nail.html",
+    "art-030-the-black-index.html",
+    "art-031-the-beggar-s-thunder.html",
+    "art-032-the-pale-bridle.html",
+    "art-033-the-smuggler-s-heel.html",
+    "art-034-the-bone-advocate.html",
+    "art-035-the-orchard-teeth.html",
+    "art-036-the-cinder-charges.html",
+    "art-037-the-unsaid-letter.html",
+    "art-038-the-twice-worn-coat.html",
+    "art-039-the-broken-choir.html",
+    "art-040-the-pocket-redoubt.html",
+    "art-041-the-long-exhalation.html",
+    "art-042-the-empty-feast.html",
+    "art-043-the-glass-battalion.html",
+    "art-044-the-last-ferry.html",
+    "art-045-the-noon-key.html",
+    "art-046-the-hollow-sermon.html",
+    "art-047-the-amber-second.html",
+    "art-048-the-saintless-blade.html",
+    "art-049-the-iron-psalm.html",
+    "art-050-the-redoubt-skin.html",
+    "art-051-the-widow-s-line.html",
+    "art-052-the-patient-lightning.html",
+    "art-053-the-mirror-gallows.html",
+    "art-054-the-buried-mouth.html",
+    "art-055-the-false-funeral.html",
+    "art-056-the-winter-arithmetic.html",
+    "art-057-the-ash-repeater.html",
+    "art-058-the-unfinished-wound.html",
+    "art-059-the-nail-of-descent.html",
+    "art-060-the-price-of-shelter.html",
+    "art-061-the-closed-battalion.html",
+    "art-062-the-salt-crown.html",
+    "art-063-the-hollow-orchard.html",
+    "art-064-the-thirsting-harness.html",
+    "art-065-the-silent-nail.html",
+    "art-066-the-glass-fever.html",
+    "art-067-the-contrary-thread.html",
+    "art-068-the-end-chisel.html",
+    "art-069-the-bloodless-stitch.html",
+    "art-070-the-cartographer-s-coffin.html",
+    "art-071-the-blue-scar.html",
+    "art-072-the-furnace-veil.html",
+    "art-073-the-unanswered-mirror.html",
+    "art-074-the-ashen-audience.html",
+    "art-075-the-drowned-bell.html",
+    "art-076-the-familiar-s-door.html",
+    "art-077-the-unbought-hand.html",
+    "art-078-the-white-road.html",
+    "art-079-the-mercy-engine.html",
+    "art-080-the-garrison-without-walls.html",
+    "art-081-the-closed-horizon.html",
+    "art-082-the-last-hospital.html",
+    "art-083-the-unspent-hour.html",
+    "art-084-the-borrowed-winter.html",
+    "art-085-the-court-of-one.html",
+    "art-086-the-hunger-treasury.html",
+    "art-087-the-midnight-porter.html",
+    "art-088-the-heirless-face.html",
+    "art-089-the-unanimous-pen.html",
+    "art-090-the-glass-counterexample.html",
+    "art-091-the-sleepless-court.html",
+    "art-092-the-vessel-of-repetition.html",
+    "art-093-the-black-tithe.html",
+    "art-094-the-unbroken-corridor.html",
+    "art-095-the-witness-of-fire.html",
+    "art-096-the-grave-meridian.html",
+    "art-097-the-treaty-of-ash.html",
+    "art-098-the-far-hinge.html",
+    "art-099-the-starless-dawn.html",
+    "art-100-the-unfallen-sentence.html",
+    "artefatti.html",
+    "astrolabe.html",
+    "atlante-caldris.html",
+    "atlante-ducato-rovenne.html",
+    "atlante-iskar.html",
+    "atlante-mereth-occidentale.html",
+    "atlante-mereth.html",
+    "atlante-mondo.html",
+    "atlante-nareth.html",
+    "atlante-oceani.html",
+    "atlante-opere-territori.html",
+    "atlante-orsanne.html",
+    "atlante-rovenne-accessi.html",
+    "atlante-veyra.html",
+    "avanzamento-archive.html",
+    "avanzamento-astrolabe.html",
+    "avanzamento-banner.html",
+    "avanzamento-chain.html",
+    "avanzamento-coin.html",
+    "avanzamento-cradle.html",
+    "avanzamento-crescent.html",
+    "avanzamento-crown.html",
+    "avanzamento-crucible.html",
+    "avanzamento-eclipse.html",
+    "avanzamento-halo.html",
+    "avanzamento-heart.html",
+    "avanzamento-hourglass.html",
+    "avanzamento-labyrinth.html",
+    "avanzamento-loom.html",
+    "avanzamento-mask.html",
+    "avanzamento-maw.html",
+    "avanzamento-oracle.html",
+    "avanzamento-ruin.html",
+    "avanzamento-scroll.html",
+    "avanzamento-seed.html",
+    "avanzamento-sepulchre.html",
+    "avanzamento-tempest.html",
+    "avarenne.html",
+    "banner.html",
+    "bearers-societa-e-corti.html",
+    "bestiario.html",
+    "bst-001-hollowjaw.html",
+    "bst-002-gloam-hart.html",
+    "bst-003-stonewake-burrower.html",
+    "bst-004-thornback-choir.html",
+    "bst-005-undertow-maw.html",
+    "bst-006-keel-lantern.html",
+    "bst-007-brine-reliquary.html",
+    "bst-008-glasswake-hunter.html",
+    "bst-009-bellwing.html",
+    "bst-010-rimeglass-weaver.html",
+    "bst-011-weightfall-grazer.html",
+    "bst-012-cinder-crown-drake.html",
+    "bst-013-latch-eater.html",
+    "bst-014-pall-manta.html",
+    "bst-015-mourning-grazer.html",
+    "bst-016-threshold-needle.html",
+    "bst-017-stair-stalker.html",
+    "bst-018-velvet-pursuer.html",
+    "bst-019-dream-sieve.html",
+    "bst-020-borrowed-face-nest.html",
+    "bst-021-marrow-thread.html",
+    "bst-022-suture-bloom.html",
+    "bst-023-ashlung-swarm.html",
+    "bst-024-mirror-tick.html",
+    "bst-025-graft-warden.html",
+    "bst-026-kiln-hound.html",
+    "bst-027-witness-carapace.html",
+    "bst-028-chapel-walker.html",
+    "bst-029-pale-bastion.html",
+    "bst-030-night-censer.html",
+    "bst-031-hollow-season.html",
+    "bst-032-long-vigil.html",
+    "camera-concessioni-alexander.html",
+    "cartografia.html",
+    "case-comitali-rovenne.html",
+    "cast-001-alexander-valcienne.html",
+    "cast-003-celine-valcienne.html",
+    "cast-004-yselle-valcienne.html",
+    "cast-005-mirel-osta.html",
+    "cast-006-doria-seln.html",
+    "cast-007-sairen-velis.html",
+    "cast-008-oriel-namar.html",
+    "cast-009-ashren-tor.html",
+    "cast-010-neral-venn.html",
+    "cast-011-helyr-ossen.html",
+    "cast-012-althene-rhos.html",
+    "cast-013-othrem-cal.html",
+    "cast-014-ilyra-sen.html",
+    "cast-015-deyran-ur.html",
+    "cast-016-cerel-voss.html",
+    "cast-017-neren-aul.html",
+    "cast-018-talren-soth.html",
+    "cast-019-enra-keth.html",
+    "cast-020-soran-il.html",
+    "cast-021-veyra-pell.html",
+    "cast-022-loran-esch.html",
+    "cast-023-ysra-venn.html",
+    "cast-024-sereth-daal.html",
+    "cast-025-sael-mereth.html",
+    "cast-026-denor-rai.html",
+    "cast-027-elren-voss.html",
+    "cast-028-dama-rinn.html",
+    "cast-029-iven-namar.html",
+    "cast-030-tavel-rinn.html",
+    "cast-031-marcel-ruy.html",
+    "cast-032-livia-varn.html",
+    "cast-033-corvin-dast.html",
+    "cast-034-adele-rosk.html",
+    "cast-035-silas-merrow.html",
+    "cast-036-maerin-sol.html",
+    "cast-037-vara-oss.html",
+    "cast-038-ceth-aran.html",
+    "cast-039-erath-pell.html",
+    "cast-040-nereth-aul.html",
+    "cast-041-nava-tesh.html",
+    "cast-042-rhael-den.html",
+    "cast-043-thalen-reth.html",
+    "cast-044-sethra-il.html",
+    "cast-045-elsen-var.html",
+    "cast-046-rava-thenn.html",
+    "cast-047-aven-sere.html",
+    "cast-048-meren-pell.html",
+    "cast-049-theral-en.html",
+    "cast-050-vesra-il.html",
+    "cast-051-sovan-reth.html",
+    "cast-052-neva-orr.html",
+    "cast-053-dalren-vey.html",
+    "cast-054-thessar-un.html",
+    "cast-055-aveth-raan.html",
+    "cast-056-ysil-tal.html",
+    "cast-057-iresh-morn.html",
+    "cast-058-selvan-thir.html",
+    "cast-059-ashal-ven.html",
+    "cast-060-veyreth-sar.html",
+    "cast-061-hareth-ul.html",
+    "cast-062-meran-oss.html",
+    "cast-063-thera-iven.html",
+    "cast-064-ossen-var.html",
+    "cast-065-elyra-sath.html",
+    "cast-066-ash-velren.html",
+    "cast-067-lucien-valcienne.html",
+    "cast-068-eliane-ardel.html",
+    "cast-069-albin-sere.html",
+    "cast-070-teren-holt.html",
+    "cast-071-nela-bress.html",
+    "cast-072-mara-ossen.html",
+    "cast-073-sena-vey.html",
+    "cast-074-oren-daal.html",
+    "cast-075-lera-soth.html",
+    "cast-076-damren-aul.html",
+    "cast-077-neris-cal.html",
+    "cast-078-ren-istral.html",
+    "cast-079-malrec-dorn.html",
+    "cast-080-serevan-ilex.html",
+    "cast-081-avarra-neth.html",
+    "cast-082-theral-voss.html",
+    "cast-083-eshra-vale.html",
+    "cast-084-heloise-brant.html",
+    "cast-085-luca-daven.html",
+    "cast-086-marta-sorel.html",
+    "cast-087-nico-bell.html",
+    "cast-088-adele-bresson.html",
+    "cast-089-sabine-varel.html",
+    "cast-090-elise-moret.html",
+    "cast-091-lena-osser.html",
+    "cast-092-paul-rennet.html",
+    "cast-093-nora-sall.html",
+    "cast-094-emil-cress.html",
+    "cast-095-victor-lann.html",
+    "cast-096-remy-thol.html",
+    "cast-097-henri-pellan.html",
+    "cast-098-anna-feral.html",
+    "cast-099-louis-keret.html",
+    "cast-100-isabel-mornet.html",
+    "cast-101-estelle-nerin.html",
+    "cast-102-armand-leth.html",
+    "cast-103-gina-sere.html",
+    "cast-104-maurice-verr.html",
+    "cast-105-sophie-arel.html",
+    "cast-106-felix-orlen.html",
+    "cast-107-gareth-sorn.html",
+    "cast-108-bruno-maret.html",
+    "cast-109-anton-rill.html",
+    "cast-110-claudine-ves.html",
+    "cast-111-hugo-kern.html",
+    "cast-112-pierre-navet.html",
+    "cast-113-leonie-sar.html",
+    "cast-114-edgar-vossin.html",
+    "cast-115-luc-rema.html",
+    "cast-116-milo-arret.html",
+    "cast-117-sarah-cenn.html",
+    "cast-118-octave-bren.html",
+    "cast-119-delia-vess.html",
+    "cast-120-marco-neret.html",
+    "cast-121-elsa-dorne.html",
+    "cast-122-julien-sarn.html",
+    "cast-123-vera-lenet.html",
+    "cast-124-adrien-veyne.html",
+    "cast-125-mara-veyne.html",
+    "cast-126-lise-veyne.html",
+    "cast-127-edith-torrel.html",
+    "cast-128-vern-soller.html",
+    "cast-129-etienne-brac.html",
+    "cast-130-noemi-darel.html",
+    "cast-131-gaston-mery.html",
+    "cast-132-clara-vossel.html",
+    "cast-133-aline-maret.html",
+    "cast-134-bastien-quell.html",
+    "cast-135-rosa-edril.html",
+    "cast-136-jean-orrel.html",
+    "cast-137-madeleine-ravel.html",
+    "cast-138-jules-baret.html",
+    "cast-139-odette-sarin.html",
+    "cast-140-raoul-bellet.html",
+    "cast-141-irma-kehl.html",
+    "cast-142-oskar-veyl.html",
+    "cast-143-margot-sain.html",
+    "cast-144-simon-evrard.html",
+    "cast-145-rina-merel.html",
+    "cast-146-pavel-dornik.html",
+    "cast-147-edda-oren.html",
+    "cast-148-milan-thesk.html",
+    "cast-149-sava-rel.html",
+    "cast-150-mireya-voss.html",
+    "cast-151-talia-neth.html",
+    "cast-152-karel-morn.html",
+    "cast-153-nadia-thenn.html",
+    "cast-154-ilar-arven.html",
+    "cast-155-mera-seln.html",
+    "cast-156-nerin-koss.html",
+    "cast-157-selma-arel.html",
+    "cast-158-daren-vel.html",
+    "cast-159-vera-isen.html",
+    "cast-160-orenna-keth.html",
+    "cast-161-alessia-torn.html",
+    "cast-162-tessa-lyr.html",
+    "cast-163-viktor-senn.html",
+    "cast-164-elisa-rath.html",
+    "cast-165-darian-vos.html",
+    "cast-166-samira-qel.html",
+    "cast-167-tarek-orun.html",
+    "cast-168-leona-mar.html",
+    "cast-169-amin-sorel.html",
+    "cast-170-nahla-doren.html",
+    "cast-171-aki-noren.html",
+    "cast-172-hana-teral.html",
+    "cast-173-jin-sora.html",
+    "cast-174-ren-matsu.html",
+    "cast-175-mina-aru.html",
+    "cast-176-sora-kan.html",
+    "cast-177-astrid-noll.html",
+    "cast-178-borin-askel.html",
+    "cast-179-yelena-varn.html",
+    "cast-180-ivo-edel.html",
+    "cast-181-kira-keren.html",
+    "cast-182-sivana-rell.html",
+    "cast-183-dorel-aven.html",
+    "cast-184-teva-marr.html",
+    "cast-185-irena-vor.html",
+    "cast-186-amelie-arveil.html",
+    "cast-187-laurent-nivrel.html",
+    "cast-188-wilhelm-alrun.html",
+    "cast-189-helia-norrel.html",
+    "cast-190-tarin-arenot.html",
+    "cast-191-benoit-hervel.html",
+    "cast-192-manon-uvel.html",
+    "cast-193-xenia-helren.html",
+    "cast-194-ilian-uren.html",
+    "cast-195-una-esten.html",
+    "cast-196-carine-ossel.html",
+    "cast-197-nicolas-boren.html",
+    "cast-198-yann-orvan.html",
+    "cast-199-jora-bessrel.html",
+    "cast-200-varek-lureth.html",
+    "cast-201-denis-vessan.html",
+    "cast-202-ophie-irenel.html",
+    "cast-203-zelia-varden.html",
+    "cast-204-korin-farel.html",
+    "cast-205-wena-saven.html",
+    "cast-206-eveline-ceret.html",
+    "cast-207-pascal-perven.html",
+    "cast-208-arlen-cadrin.html",
+    "cast-209-lessa-mouren.html",
+    "cast-210-yorin-zorrel.html",
+    "cast-211-fabien-jann.html",
+    "cast-212-quentin-welren.html",
+    "cast-213-brina-guerin.html",
+    "cast-214-marek-torrel.html",
+    "cast-215-zara-gareth.html",
+    "cast-216-georgette-qeren.html",
+    "cast-217-rosalie-arveil.html",
+    "cast-218-cyran-nivrel.html",
+    "cast-219-niva-alrun.html",
+    "cast-220-akira-norrel.html",
+    "cast-221-hector-xorin.html",
+    "cast-222-sylvain-hervel.html",
+    "cast-223-della-uvel.html",
+    "cast-224-oskar-helren.html",
+    "cast-225-bela-uren.html",
+    "cast-226-ines-brelot.html",
+    "cast-227-therese-ossel.html",
+    "cast-228-eren-boren.html",
+    "cast-229-pera-orvan.html",
+    "cast-230-cira-bessrel.html",
+    "cast-231-jacques-istel.html",
+    "cast-232-ursin-vessan.html",
+    "cast-233-fenna-irenel.html",
+    "cast-234-rovan-varden.html",
+    "cast-235-dorin-farel.html",
+    "cast-236-katia-parven.html",
+    "cast-237-valerie-ceret.html",
+    "cast-238-goran-perven.html",
+    "cast-239-sela-cadrin.html",
+    "cast-240-esra-mouren.html",
+    "cast-241-laurent-weyl.html",
+    "cast-242-wilhelm-jann.html",
+    "cast-243-helia-welren.html",
+    "cast-244-tarin-guerin.html",
+    "cast-245-amelie-torrel.html",
+    "cast-246-manon-davren.html",
+    "cast-247-xenia-qeren.html",
+    "cast-248-ilian-arveil.html",
+    "cast-249-una-nivrel.html",
+    "cast-250-benoit-alrun.html",
+    "cast-251-nicolas-kelro.html",
+    "cast-252-yann-xorin.html",
+    "cast-253-jora-hervel.html",
+    "cast-254-varek-uvel.html",
+    "cast-255-carine-helren.html",
+    "cast-256-ophie-rendar.html",
+    "cast-257-zelia-brelot.html",
+    "cast-258-korin-ossel.html",
+    "cast-259-wena-boren.html",
+    "cast-260-denis-orvan.html",
+    "cast-261-pascal-yarel.html",
+    "cast-262-arlen-istel.html",
+    "cast-263-lessa-vessan.html",
+    "cast-264-yorin-irenel.html",
+    "cast-265-eveline-varden.html",
+    "cast-266-quentin-cazen.html",
+    "cast-267-brina-parven.html",
+    "cast-268-marek-ceret.html",
+    "cast-269-zara-perven.html",
+    "cast-270-fabien-cadrin.html",
+    "cast-271-rosalie-jorel.html",
+    "cast-272-cyran-weyl.html",
+    "cast-273-niva-jann.html",
+    "cast-274-akira-welren.html",
+    "cast-275-georgette-guerin.html",
+    "cast-276-sylvain-queral.html",
+    "cast-277-della-davren.html",
+    "cast-278-oskar-qeren.html",
+    "cast-279-bela-arveil.html",
+    "cast-280-hector-nivrel.html",
+    "cast-281-therese-xarel.html",
+    "cast-282-eren-kelro.html",
+    "cast-283-pera-xorin.html",
+    "cast-284-cira-hervel.html",
+    "cast-285-ines-uvel.html",
+    "cast-286-ursin-erel.html",
+    "cast-287-fenna-rendar.html",
+    "cast-288-rovan-brelot.html",
+    "cast-289-dorin-ossel.html",
+    "cast-290-jacques-boren.html",
+    "cast-291-valerie-lennar.html",
+    "cast-292-goran-yarel.html",
+    "cast-293-sela-istel.html",
+    "cast-294-esra-vessan.html",
+    "cast-295-katia-irenel.html",
+    "cast-296-wilhelm-serrel.html",
+    "cast-297-helia-cazen.html",
+    "cast-298-tarin-parven.html",
+    "cast-299-amelie-ceret.html",
+    "cast-300-laurent-perven.html",
+    "cast-301-xenia-zerin.html",
+    "cast-302-ilian-jorel.html",
+    "cast-303-una-weyl.html",
+    "cast-304-benoit-jann.html",
+    "cast-305-manon-welren.html",
+    "cast-306-yann-drel.html",
+    "cast-307-jora-queral.html",
+    "cast-308-varek-davren.html",
+    "cast-309-carine-qeren.html",
+    "cast-310-nicolas-arveil.html",
+    "cast-311-zelia-kervan.html",
+    "cast-312-korin-xarel.html",
+    "cast-313-wena-kelro.html",
+    "cast-314-denis-xorin.html",
+    "cast-315-ophie-hervel.html",
+    "cast-316-arlen-ressel.html",
+    "cast-317-lessa-erel.html",
+    "cast-318-yorin-rendar.html",
+    "cast-319-eveline-brelot.html",
+    "cast-320-pascal-ossel.html",
+    "cast-321-brina-yven.html",
+    "cast-322-marek-lennar.html",
+    "cast-323-zara-yarel.html",
+    "cast-324-fabien-istel.html",
+    "cast-325-quentin-vessan.html",
+    "cast-326-cyran-fennel.html",
+    "cast-327-niva-serrel.html",
+    "cast-328-akira-cazen.html",
+    "cast-329-georgette-parven.html",
+    "cast-330-rosalie-ceret.html",
+    "cast-331-della-marnel.html",
+    "cast-332-oskar-zerin.html",
+    "cast-333-bela-jorel.html",
+    "cast-334-hector-weyl.html",
+    "cast-335-sylvain-jann.html",
+    "cast-336-eren-teth.html",
+    "cast-337-pera-drel.html",
+    "cast-338-cira-queral.html",
+    "cast-339-ines-davren.html",
+    "cast-340-therese-qeren.html",
+    "cast-341-fenna-arenot.html",
+    "cast-342-rovan-kervan.html",
+    "cast-343-dorin-xarel.html",
+    "cast-344-jacques-kelro.html",
+    "cast-345-ursin-xorin.html",
+    "cast-346-goran-esten.html",
+    "cast-347-sela-ressel.html",
+    "cast-348-esra-erel.html",
+    "cast-349-katia-rendar.html",
+    "cast-350-valerie-brelot.html",
+    "cast-351-helia-lureth.html",
+    "cast-352-tarin-yven.html",
+    "cast-353-amelie-lennar.html",
+    "cast-354-laurent-yarel.html",
+    "cast-355-wilhelm-istel.html",
+    "cast-356-ilian-saven.html",
+    "cast-357-una-fennel.html",
+    "cast-358-benoit-serrel.html",
+    "cast-359-manon-cazen.html",
+    "cast-360-xenia-parven.html",
+    "cast-361-jora-zorrel.html",
+    "cast-362-varek-marnel.html",
+    "cast-363-carine-zerin.html",
+    "cast-364-nicolas-jorel.html",
+    "cast-365-yann-weyl.html",
+    "cast-366-korin-gareth.html",
+    "cast-367-wena-teth.html",
+    "cast-368-denis-drel.html",
+    "cast-369-ophie-queral.html",
+    "cast-370-zelia-davren.html",
+    "cast-371-lessa-norrel.html",
+    "cast-372-yorin-arenot.html",
+    "cast-373-eveline-kervan.html",
+    "cast-374-pascal-xarel.html",
+    "cast-375-arlen-kelro.html",
+    "cast-376-marek-uren.html",
+    "cast-377-zara-esten.html",
+    "cast-378-fabien-ressel.html",
+    "cast-379-quentin-erel.html",
+    "cast-380-brina-rendar.html",
+    "cast-381-niva-bessrel.html",
+    "cast-382-akira-lureth.html",
+    "cast-383-georgette-yven.html",
+    "cast-384-rosalie-lennar.html",
+    "cast-385-cyran-yarel.html",
+    "cast-386-oskar-farel.html",
+    "cast-387-bela-saven.html",
+    "cast-388-hector-fennel.html",
+    "cast-389-sylvain-serrel.html",
+    "cast-390-della-cazen.html",
+    "cast-391-pera-mouren.html",
+    "cast-392-cira-zorrel.html",
+    "cast-393-ines-marnel.html",
+    "cast-394-therese-zerin.html",
+    "cast-395-eren-jorel.html",
+    "cast-396-rovan-torrel.html",
+    "cast-397-dorin-gareth.html",
+    "cast-398-jacques-teth.html",
+    "cast-399-ursin-drel.html",
+    "cast-400-fenna-queral.html",
+    "cast-401-sela-alrun.html",
+    "cast-402-esra-norrel.html",
+    "cast-403-katia-arenot.html",
+    "cast-404-valerie-kervan.html",
+    "cast-405-goran-xarel.html",
+    "cast-406-tarin-helren.html",
+    "cast-407-amelie-uren.html",
+    "cast-408-laurent-esten.html",
+    "cast-409-wilhelm-ressel.html",
+    "cast-410-helia-erel.html",
+    "cast-411-una-orvan.html",
+    "cast-412-benoit-bessrel.html",
+    "cast-413-manon-lureth.html",
+    "cast-414-xenia-yven.html",
+    "cast-415-ilian-lennar.html",
+    "cast-416-varek-varden.html",
+    "cast-417-carine-farel.html",
+    "cast-418-nicolas-saven.html",
+    "cast-419-yann-fennel.html",
+    "cast-420-jora-serrel.html",
+    "cast-421-wena-cadrin.html",
+    "cast-422-denis-mouren.html",
+    "cast-423-ophie-zorrel.html",
+    "cast-424-zelia-marnel.html",
+    "cast-425-korin-zerin.html",
+    "cast-426-yorin-guerin.html",
+    "cast-427-eveline-torrel.html",
+    "cast-428-pascal-gareth.html",
+    "cast-429-arlen-teth.html",
+    "cast-430-lessa-drel.html",
+    "cast-431-zara-nivrel.html",
+    "cast-432-fabien-alrun.html",
+    "cast-433-quentin-norrel.html",
+    "cast-434-brina-arenot.html",
+    "cast-435-marek-kervan.html",
+    "cast-436-akira-uvel.html",
+    "cast-437-georgette-helren.html",
+    "cast-438-rosalie-uren.html",
+    "cast-439-cyran-esten.html",
+    "cast-440-niva-ressel.html",
+    "cast-441-bela-boren.html",
+    "cast-442-hector-orvan.html",
+    "cast-443-sylvain-bessrel.html",
+    "cast-444-della-lureth.html",
+    "cast-445-oskar-yven.html",
+    "cast-446-cira-irenel.html",
+    "cast-447-ines-varden.html",
+    "cast-448-therese-farel.html",
+    "cast-449-eren-saven.html",
+    "cast-450-pera-fennel.html",
+    "cast-451-dorin-perven.html",
+    "cast-452-jacques-cadrin.html",
+    "cast-453-ursin-mouren.html",
+    "cast-454-fenna-zorrel.html",
+    "cast-455-rovan-marnel.html",
+    "cast-456-esra-welren.html",
+    "cast-457-katia-guerin.html",
+    "cast-458-valerie-torrel.html",
+    "cast-459-goran-gareth.html",
+    "cast-460-sela-teth.html",
+    "cast-461-martin-lethorne.html",
+    "cast-462-varessa-nhal.html",
+    "cast-463-ilyren-sareth.html",
+    "cast-464-aurelie-belcour.html",
+    "cast-465-armand-belcour.html",
+    "cast-466-beatrice-belcour.html",
+    "cast-467-olivier-ardel.html",
+    "cast-468-helene-ardel.html",
+    "cast-469-gabriel-ardel.html",
+    "cast-470-etienne-ravelle.html",
+    "cast-471-leon-vernier.html",
+    "cast-472-naelle-varen.html",
+    "cast-473-isera-thenn.html",
+    "cast-474-mael-vaur.html",
+    "cast-475-sybille-kest.html",
+    "cast-476-voren-ashk.html",
+    "cast-477-ishra-neth.html",
+    "cast-478-sevra-dhal.html",
+    "cast-479-arven-sorel.html",
+    "cast-480-marwen-kael.html",
+    "cast-481-elisa-vorn.html",
+    "cast-482-naor-vesk.html",
+    "cast-483-dara-ulven.html",
+    "cast-484-ishven-raal.html",
+    "cast-485-neris-vaal.html",
+    "cast-486-hadrik-vos.html",
+    "cast-487-eline-rusk.html",
+    "cast-488-ossiel-thren.html",
+    "cast-489-meraine-solt.html",
+    "cast-490-kaeris-ohn.html",
+    "cast-491-thel-ordan.html",
+    "cast-492-vareth-senn.html",
+    "cast-493-ilena-dorr.html",
+    "cast-494-mireya-voss.html",
+    "cast-495-teren-alst.html",
+    "cast-496-seran-vaust.html",
+    "cast-497-alise-reth.html",
+    "cast-498-vincent-vernier.html",
+    "cast-499-madeleine-rochebrune.html",
+    "cast-500-clara-aubrecourt.html",
+    "cast-501-adrien-pontel.html",
+    "cast-502-elise-desormes.html",
+    "cast-503-soren-vask.html",
+    "cast-504-henri-montfaucon.html",
+    "cast-505-louise-briselles.html",
+    "cast-506-marcel-ravelle.html",
+    "cast-507-gaspard-bellive.html",
+    "cast-508-margot-fontenac.html",
+    "cast-509-olivier-saulnes.html",
+    "cast-510-paul-vernelles.html",
+    "cast-511-diane-cressan.html",
+    "cast-512-jules-montreval.html",
+    "cast-513-arvek-thol.html",
+    "cast-514-cecile-orbrune.html",
+    "cast-515-remy-valgrise.html",
+    "cast-516-noemie-aubremont.html",
+    "cast-517-pascal-clairbois.html",
+    "cast-518-ines-roseraie.html",
+    "cast-519-helene-vernier.html",
+    "cast-520-irene-rochebrune.html",
+    "cast-521-mathis-rochebrune.html",
+    "cast-522-julien-aubrecourt.html",
+    "cast-523-marianne-aubrecourt.html",
+    "cast-524-adrien-iii-orvel.html",
+    "cast-525-eliane-orvel.html",
+    "cast-526-maelle-ii-vaudren.html",
+    "cast-527-tavian-vaudren.html",
+    "cast-528-oren-iv-seravel.html",
+    "cast-529-nerea-seravel.html",
+    "cast-530-meilin-renkai.html",
+    "cast-531-jian-renkai.html",
+    "cast-532-astrid-eyrdal.html",
+    "cast-533-eirik-eyrdal.html",
+    "cast-534-sabine-elvar.html",
+    "cast-535-lucan-elvar.html",
+    "cast-536-teren-avelin.html",
+    "cast-537-liora-avelin.html",
+    "cast-538-corin-belven.html",
+    "cast-539-mara-belven.html",
+    "cast-540-edda-halvren.html",
+    "cast-541-soren-halvren.html",
+    "cast-542-idris-tharen.html",
+    "cast-543-amina-tharen.html",
+    "cast-544-anais-rouvain.html",
+    "cast-545-bastien-rouvain.html",
+    "cast-546-pavel-ordell.html",
+    "cast-547-elise-ordell.html",
+    "cast-548-leonie-merault.html",
+    "cast-549-adrien-merault.html",
+    "cast-550-vera-seld.html",
+    "cast-551-nils-seld.html",
+    "cast-552-malik-varnet.html",
+    "cast-553-samira-varnet.html",
+    "cast-554-hugo-lethren.html",
+    "cast-555-celia-lethren.html",
+    "cast-556-haldor-valdek.html",
+    "cast-557-ingrid-valdek.html",
+    "cast-558-runa-hest.html",
+    "cast-559-oskar-hest.html",
+    "cast-560-tomas-norr.html",
+    "cast-561-alva-norr.html",
+    "cast-562-mireille-orvel.html",
+    "cast-563-darian-vaudren.html",
+    "cast-564-isolde-seravel.html",
+    "cast-565-shuren-renkai.html",
+    "cast-566-kasper-eyrdal.html",
+    "cast-567-etienne-marvaux.html",
+    "cast-568-lucie-dervaux.html",
+    "cast-569-noel-vautrin.html",
+    "cast-570-isabeau-cernay.html",
+    "cast-571-remi-darsel.html",
+    "cast-572-sadia-orven.html",
+    "cast-573-milo-vardain.html",
+    "cast-574-neris-halven.html",
+    "cast-575-tomas-arvell.html",
+    "cast-576-shan-luren.html",
+    "cast-577-yuna-senri.html",
+    "cast-578-ragnhild-soren.html",
+    "cast-579-viggo-harn.html",
+    "cast-580-maren-ild.html",
+    "cast-581-cyran-belot.html",
+    "cast-582-elsa-norrel.html",
+    "cast-583-sivert-kald.html",
+    "cast-584-anja-vestr.html",
+    "cast-585-farid-eln.html",
+    "cast-586-elise-montray.html",
+    "cast-587-sena-navel.html",
+    "cast-588-tavian-rell.html",
+    "cast-589-rethan-veyr.html",
+    "chain.html",
+    "coin.html",
+    "completamento-editoriale-367.html",
+    "cont-01-mereth.html",
+    "cont-02-caldris.html",
+    "cont-03-iskar.html",
+    "cont-04-nareth.html",
+    "cont-05-veyra.html",
+    "contese-verificate.html",
+    "cosmologia.html",
+    "cradle.html",
+    "cre-001-silt-grazers.html",
+    "cre-002-vent-mites.html",
+    "cre-003-pressure-eels.html",
+    "cre-004-copper-root-fungus.html",
+    "cre-005-lantern-reed.html",
+    "cre-006-wound-leeches.html",
+    "cre-007-cinder-runners.html",
+    "cre-008-archive-silverfish.html",
+    "cre-009-echo-husk.html",
+    "cre-010-unbound-attendant.html",
+    "cre-011-ridge-gliders.html",
+    "cre-012-glass-shrimp.html",
+    "cre-013-shadow-cling.html",
+    "cre-014-mirror-larva.html",
+    "cre-015-loom-moths.html",
+    "cre-016-cistern-polyps.html",
+    "cre-017-storm-skates.html",
+    "cre-018-ridge-grazers.html",
+    "cre-019-the-borrowed-sleeper.html",
+    "cre-020-the-red-bloom.html",
+    "crescent.html",
+    "crown.html",
+    "crucible.html",
+    "cult-01-br-01-witnessing-oars.html",
+    "cult-01-br-02-open-moorings.html",
+    "cult-01-br-03-last-dawn-brethren.html",
+    "cult-01-the-shore-companies.html",
+    "cult-02-br-01-first-separation-keepers.html",
+    "cult-02-br-02-renewal-stewards.html",
+    "cult-02-br-03-free-basin-assembly.html",
+    "cult-02-the-keepers-of-namar.html",
+    "diffusione-bearers.html",
+    "dinastie-regnanti.html",
+    "doc-100-storia-industriale-stati-e-conflitti-aperti.html",
+    "doc-101-repertorio-delle-prove-e-trasmissioni.html",
+    "doc-105-avarenne-pianeta-e-continenti.html",
+    "doc-106-climi-bacini-e-risorse.html",
+    "doc-107-stati-e-confini-del-mondo.html",
+    "doc-108-citta-porti-e-distretti-regionali.html",
+    "doc-109-rovenne-e-geografia-personale.html",
+    "doc-110-reti-e-tempi-di-viaggio.html",
+    "doc-111-regioni-lontane-e-limiti-dellatlante.html",
+    "doc-112-matrice-del-sapere-geografico.html",
+    "doc-113-geometria-planetaria-e-atlante-integrale.html",
+    "doc-114-distretti-confini-e-logistica-locale.html",
+    "doc-115-siti-soprannaturali-localizzati.html",
+    "doc-116-territori-antichi-e-sovrapposizioni.html",
+    "doc-117-reti-interruzioni-e-accessi-alternativi.html",
+    "doc-118-unita-geografiche-pronte-al-narratore.html",
+    "doc-122-governi-diritto-e-cittadinanza.html",
+    "doc-123-atlante-delle-istituzioni-di-avarenne.html",
+    "doc-124-moneta-prezzi-e-salario.html",
+    "doc-125-produzione-commerci-e-credito.html",
+    "doc-126-religioni-dottrine-e-servizi.html",
+    "doc-127-scuole-medicina-e-accesso-ai-poteri.html",
+    "doc-128-valcienne-patrimonio-e-rete-conosciuta.html",
+    "doc-129-vita-quotidiana-lingue-ed-estetica.html",
+    "doc-130-confini-del-sapere-sociale.html",
+    "doc-131-religioni-patrocini-e-verita.html",
+    "doc-132-diritto-operativo-e-rapporti-internazionali.html",
+    "doc-133-valcienne-conti-e-personale-al-risveglio.html",
+    "doc-134-mercati-banche-e-crisi-locali.html",
+    "doc-135-fazioni-civili-industriali-e-sociali.html",
+    "doc-136-fazioni-di-cura-credito-e-servizio.html",
+    "doc-137-relazioni-e-agenda-delle-istituzioni.html",
+    "doc-138-societa-in-azione-e-procedure-di-uso.html",
+    "doc-143-avatar-effetti-e-padronanza-vi.html",
+    "doc-144-halo-transito-luminoso-e-fulfilment.html",
+    "doc-146-otto-roots-fisiche-consolidamento.html",
+    "doc-153-elias-veyne-biografia-e-origini.html",
+    "doc-154-the-unbound-exchange.html",
+    "doc-155-cast-centrale.html",
+    "doc-156-cast-antico-e-successioni.html",
+    "doc-157-cast-importante.html",
+    "doc-158-cast-minore-funzionale.html",
+    "doc-159-persone-che-alexander-conosce-integrazione-nominativa.html",
+    "doc-160-inventari-vigenti-del-cast-23-eff-01.html",
+    "doc-161-reti-e-copertura-del-cast.html",
+    "doc-171-the-nocturne-e-the-veiled-basin.html",
+    "doc-172-raccordo-riservato-nocturne-storia-religioni-luoghi-e-cast.html",
+    "doc-174-culti-notturni-e-pratiche-pubbliche.html",
+    "doc-178-integrazione-notturna-dei-punti-510.html",
+    "doc-183-oggetti-organismi-e-fenomeni-regole-di-lettura.html",
+    "doc-184-artefatti-e-dispositivi.html",
+    "doc-185-risorse-materiali-e-filiere.html",
+    "doc-186-bestiario-e-condizioni-non-umane.html",
+    "doc-187-popolazioni.html",
+    "doc-188-fenomeni-anomalie-e-incidenti.html",
+    "doc-194-promessa-e-struttura-della-lunga-opera.html",
+    "doc-195-otto-volumi-e-quaranta-archi.html",
+    "doc-196-archi-0110.html",
+    "doc-197-archi-1120.html",
+    "doc-198-archi-2130.html",
+    "doc-199-archi-3140.html",
+    "doc-200-repertorio-dei-misteri-e-delle-rivelazioni.html",
+    "doc-201-calendario-delle-iniziative-e-processi-fuori-campo.html",
+    "doc-202-biforcazioni-e-protezione-del-canone.html",
+    "doc-203-apertura-e-primi-archi-pronti.html",
+    "doc-26-fondamenti-cosmologici.html",
+    "doc-266-popolazioni-delle-persone-che-ricordi.html",
+    "doc-27-catalogo-macro-delle-ventitre-effigi.html",
+    "doc-270-rapporti-ricordati-centrali-illustrati.html",
+    "doc-273-la-rete-civile-di-alexander.html",
+    "doc-278-vita-affettiva-antica-e-durata-della-vita-rev-aff-01.html",
+    "doc-279-althene-rhos-relazione-antica-ricordata-rev-aff-02.html",
+    "doc-28-le-otto-integrazioni-cosmiche.html",
+    "doc-280-althene-lutto-e-indagine-rev-aff-02.html",
+    "doc-29-the-sovereign-the-beginning-and-the-end.html",
+    "doc-298-ilyr-e-kethari-biologia.html",
+    "doc-30-confini-contese-e-verifica-dell-architettura.html",
+    "doc-301-organismi-investimenti-e-creature-raccordo-bio-301.html",
+    "doc-302-bestiario-cio-che-puoi-sapere.html",
+    "doc-33-lessico-e-sette-soglie.html",
+    "doc-34-acquisizione-avanzamento-e-recupero.html",
+    "doc-35-weaves-risorse-e-uso-dei-poteri.html",
+    "doc-36-corpo-spirito-manifestazioni-e-morte.html",
+    "doc-37-procedura-operativa-delle-contese.html",
+    "doc-38-poteri-e-vita-comune.html",
+    "doc-65-atlante-del-reale.html",
+    "doc-66-accessi-viaggi-e-comunicazioni.html",
+    "doc-67-the-origin-manifestazioni-e-fenomeni.html",
+    "doc-68-the-first-testament-sapere-e-consultazione.html",
+    "doc-69-roots-e-risorse-cosmiche.html",
+    "doc-70-identita-continuita-e-recupero.html",
+    "doc-71-interventi-esterni-e-diagnosi.html",
+    "doc-72-presenze-esterne-e-pressioni-cosmiche.html",
+    "doc-76-direzione-del-protagonista-e-vincoli.html",
+    "doc-77-identita-di-edran-e-alexander.html",
+    "doc-78-prima-vita-e-ricordi-consolidati.html",
+    "doc-79-alexander-valcienne-memorie-e-vita-civile.html",
+    "doc-80-legami-antichi-che-ricordi.html",
+    "doc-81-alexander-dotazione-iniziale-e-capacita-pratiche.html",
+    "doc-82-recupero-delle-antiche-capacita.html",
+    "doc-83-matrice-delle-conoscenze-personali.html",
+    "doc-84-caduta-continuita-ritorno-e-seats.html",
+    "doc-85-apertura-personale-e-rete-immediata.html",
+    "doc-89-calendario-e-date-accessibili.html",
+    "doc-90-societa-antiche-e-liberazione-ricordata.html",
+    "doc-91-storia-pubblica-conosciuta-dal-duca.html",
+    "doc-92-industria-scoperte-ed-eredita-materiale.html",
+    "doc-93-conoscenza-storica-e-riconoscimenti.html",
+    "doc-94-cronologia-integrale-ed-ere.html",
+    "doc-95-origini-societa-e-potenze-antiche.html",
+    "doc-96-campagne-opere-ed-eredita-del-creator.html",
+    "doc-97-caduta-nove-sedi-e-storia-delle-attribuzioni.html",
+    "doc-98-seats-successioni-e-antichi-compagni.html",
+    "doc-99-culti-superstiti-e-memorie-divergenti.html",
+    "ducato-di-rovenne.html",
+    "eclipse.html",
+    "edran-rapporti-e-conoscenze.html",
+    "edran-vael.html",
+    "effigi.html",
+    "elias-veyne.html",
+    "exchange-dodici.html",
+    "exchange-dossier-cast-032-livia-varn.html",
+    "exchange-dossier-cast-035-silas-merrow.html",
+    "exchange-dossier-cast-127-edith-torrel.html",
+    "exchange-dossier-cast-141-irma-kehl.html",
+    "exchange-dossier-cast-181-kira-keren.html",
+    "exchange-dossier-cast-243-helia-welren.html",
+    "exchange-dossier-cast-336-eren-teth.html",
+    "exchange-dossier-cast-421-wena-cadrin.html",
+    "exchange-dossier-cast-588-tavian-rell.html",
+    "exchange-dossier-cast-589-rethan-veyr.html",
+    "exchange-percorsi.html",
+    "fac-01-ufficio-delle-concordanze.html",
+    "fac-02-consorzio-tre-moli.html",
+    "fac-03-mutua-dei-turni-del-porto.html",
+    "fac-04-collegium-dei-metodi.html",
+    "fac-05-witness-houses-di-mereth.html",
+    "fac-06-capitoli-della-concordia.html",
+    "fac-07-case-della-living-mercy.html",
+    "fac-08-banca-di-lethorne.html",
+    "fac-09-camera-dei-noli-neressani.html",
+    "fac-10-consiglio-delle-officine-di-lethorne.html",
+    "fac-11-assemblee-dei-bacini-aperti.html",
+    "fac-12-rete-delle-vigil-di-porta.html",
+    "fac-13-ufficio-della-veglia.html",
+    "fac-14-camera-dei-sigilli.html",
+    "fac-15-the-glass-hunt.html",
+    "fac-16-the-ashen-tithe.html",
+    "fac-17-the-red-orchard.html",
+    "fac-18-the-still-court.html",
+    "fac-19-the-black-wake.html",
+    "fac-20-the-hollow-choir.html",
+    "fac-21-the-ninth-cinder.html",
+    "fac-22-the-pale-ledger.html",
+    "fac-23-the-severed-compass.html",
+    "fac-24-the-last-vessel.html",
+    "fac-25-the-blue-lantern.html",
+    "fac-26-the-broken-seal.html",
+    "faq-archive.html",
+    "faq-astrolabe.html",
+    "faq-banner.html",
+    "faq-chain.html",
+    "faq-coin.html",
+    "faq-cradle.html",
+    "faq-crescent.html",
+    "faq-crown.html",
+    "faq-crucible.html",
+    "faq-eclipse.html",
+    "faq-effigi.html",
+    "faq-halo.html",
+    "faq-heart.html",
+    "faq-hourglass.html",
+    "faq-labyrinth.html",
+    "faq-loom.html",
+    "faq-mask.html",
+    "faq-maw.html",
+    "faq-oracle.html",
+    "faq-ruin.html",
+    "faq-scroll.html",
+    "faq-seed.html",
+    "faq-sepulchre.html",
+    "faq-tempest.html",
+    "fenomeni.html",
+    "fonti-vigenti.html",
+    "fronti-del-presente.html",
+    "galleria-corti-e-case.html",
+    "galleria-illustrata.html",
+    "group-unbound-the-unbound-exchange.html",
+    "halo.html",
+    "heart.html",
+    "hourglass.html",
+    "index.html",
+    "informazioni.html",
+    "int-01-the-sovereign.html",
+    "int-02-the-worldforge.html",
+    "int-03-the-continuum.html",
+    "int-04-the-dominion.html",
+    "int-05-the-witness.html",
+    "int-06-the-manyfold.html",
+    "int-07-the-last-hunger.html",
+    "int-08-the-nocturne.html",
+    "integrazioni-struttura-e-roots.html",
+    "intrecci-narrativi.html",
+    "labyrinth.html",
+    "loc-001-lethorne.html",
+    "loc-002-rovenne.html",
+    "loc-003-veldane.html",
+    "loc-004-port-auvrel.html",
+    "loc-005-belanne.html",
+    "loc-006-deren.html",
+    "loc-007-sarn-gate.html",
+    "loc-008-valenne.html",
+    "loc-009-lorien.html",
+    "loc-010-teren.html",
+    "loc-011-karrel.html",
+    "loc-012-reth-narrows.html",
+    "loc-013-kessel.html",
+    "loc-014-dovar.html",
+    "loc-015-elven.html",
+    "loc-016-namar.html",
+    "loc-017-veyford.html",
+    "loc-018-ossen-reach.html",
+    "loc-019-neressa.html",
+    "loc-020-serele.html",
+    "loc-021-avaris.html",
+    "loc-022-corten.html",
+    "loc-023-nelle.html",
+    "loc-024-velis.html",
+    "loc-025-thenn-pass.html",
+    "loc-026-arel-cut.html",
+    "loc-027-hollow-towers.html",
+    "loc-028-namar-upper-works.html",
+    "loc-029-stillwater-steps.html",
+    "loc-030-rethar-basin.html",
+    "loc-031-nine-houses-field.html",
+    "loc-032-grey-embankment.html",
+    "loc-033-north-lock.html",
+    "loc-034-copper-yard.html",
+    "loc-035-low-fen.html",
+    "loc-036-south-shoals.html",
+    "loc-037-aldora.html",
+    "loc-038-teshen.html",
+    "loc-039-varlen.html",
+    "loc-040-eshar.html",
+    "loc-041-darsa.html",
+    "loc-042-qadra.html",
+    "loc-043-ildan.html",
+    "loc-044-mareth.html",
+    "loc-045-saura.html",
+    "loc-046-anren.html",
+    "loc-047-teru.html",
+    "loc-048-koshen.html",
+    "loc-049-mersa.html",
+    "loc-050-arula.html",
+    "loc-051-noran.html",
+    "loc-052-asren.html",
+    "loc-053-varshen.html",
+    "loc-054-edris.html",
+    "loc-055-keran.html",
+    "loc-056-sivren.html",
+    "loc-057-dorven.html",
+    "loc-058-tevren.html",
+    "loc-059-irela.html",
+    "loc-060-serevan.html",
+    "loc-061-ashen-quay.html",
+    "loc-062-dorel-outer-port.html",
+    "loc-063-norell-roads.html",
+    "loc-064-belcour.html",
+    "loc-065-vernay.html",
+    "loc-066-rochebrune.html",
+    "loc-067-aubrecourt.html",
+    "loom.html",
+    "map-mereth-mereth-occidentale-reti-e-collegamenti.html",
+    "map-rovenne-rovenne-accessi-e-territorio.html",
+    "map-world-avarenne-atlante-dei-continenti.html",
+    "mask.html",
+    "mat-001-deren-coal.html",
+    "mat-002-karrel-copper.html",
+    "mat-003-fireclay-sleeves.html",
+    "mat-004-ossen-seal-resin.html",
+    "mat-005-valenne-linen.html",
+    "mat-006-namar-flexible-mesh.html",
+    "mat-007-velis-optical-glass.html",
+    "mat-008-reference-basalt.html",
+    "mat-009-witness-lacquer.html",
+    "mat-010-reth-load-cable.html",
+    "mat-011-invested-stone-fragments.html",
+    "mat-012-qadra-salt-tolerant-seed.html",
+    "mat-013-dream-silk.html",
+    "mat-014-noran-black-felt.html",
+    "mat-015-tevren-silver-lamina.html",
+    "mat-016-saura-filter-pith.html",
+    "mat-017-keran-signal-horn.html",
+    "mat-018-continuity-ceramic.html",
+    "mat-board-01-campioni-materiali-tavola-1.html",
+    "mat-board-02-campioni-materiali-tavola-2.html",
+    "mat-board-03-campioni-materiali-tavola-3.html",
+    "materiali.html",
+    "maw.html",
+    "mondo.html",
+    "net-c10-01-mutua-delle-protesi.html",
+    "net-c10-02-officina-di-misura-ruy.html",
+    "net-c10-03-cooperativa-di-stampa.html",
+    "net-c10-04-scuola-serale-dei-tornitori.html",
+    "net-c10-05-mulino-delle-tre-paratie.html",
+    "net-c10-06-consorzio-dei-pascoli.html",
+    "net-c10-07-biblioteca-del-borgo.html",
+    "net-c10-08-mutua-dei-turni.html",
+    "net-c10-09-dragaggio-municipale.html",
+    "net-c10-10-archivio-delle-notifiche-marittime.html",
+    "net-c10-11-squadra-dei-convogli-costieri.html",
+    "net-c10-12-commissione-dei-pozzi.html",
+    "net-c10-13-squadra-di-drenaggio.html",
+    "net-c10-14-cooperativa-del-lino.html",
+    "net-c10-15-rete-delle-case-d-asilo.html",
+    "net-c10-16-witness-house-dei-prestiti.html",
+    "net-c10-17-sindacato-dei-saggi-di-rame.html",
+    "net-c10-18-mutua-dei-manutentori.html",
+    "net-c10-19-mercato-dei-semi-comuni.html",
+    "net-c10-20-servizio-dei-piloti-fluviali.html",
+    "net-c10-21-assemblea-dei-bacini.html",
+    "net-c10-22-scuola-dei-ricambi.html",
+    "net-c10-23-mercato-dei-legnami.html",
+    "net-c10-24-segreteria-degli-approdi.html",
+    "net-c10-25-camera-dei-noli.html",
+    "net-c10-26-cantiere-dei-gusci-corti.html",
+    "net-c10-27-ufficio-dei-passaggi-civili.html",
+    "net-c10-28-compagnia-delle-salvagioni.html",
+    "net-c10-29-scuola-dei-cartografi.html",
+    "net-c10-30-casa-della-clear-dawn.html",
+    "net-c10-31-servizio-delle-bussole.html",
+    "net-c10-32-archivio-dei-congedi.html",
+    "net-c10-33-collegio-delle-lingue.html",
+    "net-c10-34-lega-dei-forni-comunali.html",
+    "net-c10-35-ufficio-degli-atti-vincolati.html",
+    "net-c10-36-cooperativa-dei-ponti.html",
+    "net-c10-37-consiglio-dei-pozzi.html",
+    "net-c10-38-camera-dei-trasporti-interni.html",
+    "net-c10-39-clinica-dei-restauri.html",
+    "net-c10-40-assemblea-dei-campi-mobili.html",
+    "net-c10-41-magazzino-di-ricezione-oceanica.html",
+    "net-c10-42-registro-degli-apprendistati.html",
+    "net-c10-43-rete-dei-battelli-medici.html",
+    "net-c10-44-camera-delle-ceramiche.html",
+    "net-c10-45-commissione-delle-memorie-civili.html",
+    "net-c10-46-cooperativa-delle-vele.html",
+    "net-c10-47-ufficio-delle-merci-vive.html",
+    "net-c10-48-rete-delle-sale-funerarie.html",
+    "net-c10-49-lega-dei-taglialegna.html",
+    "net-c10-50-archivio-delle-adozioni.html",
+    "net-c10-51-scuola-delle-leghe-fredde.html",
+    "net-c10-52-consiglio-delle-piste.html",
+    "net-c10-53-ufficio-delle-acque-agricole.html",
+    "net-c10-54-officina-dei-trattamenti-organici.html",
+    "net-c10-55-rete-delle-scuole-di-porto.html",
+    "net-c10-56-commissione-dei-ritorni.html",
+    "net-c10-57-presidi-della-veglia.html",
+    "net-c10-58-scuole-dei-sigilli.html",
+    "nuovi-ritratti-del-cast.html",
+    "opera-departure-project.html",
+    "opera-grey-brand-remnants.html",
+    "opera-inner-refuge.html",
+    "opera-namar-works.html",
+    "opera-quiet-glass.html",
+    "opera-unbound-works.html",
+    "opera-vigil-reach.html",
+    "opera-vigil-star.html",
+    "opera.html",
+    "operativa-archive.html",
+    "operativa-astrolabe.html",
+    "operativa-banner.html",
+    "operativa-chain.html",
+    "operativa-coin.html",
+    "operativa-cradle.html",
+    "operativa-crescent.html",
+    "operativa-crown.html",
+    "operativa-crucible.html",
+    "operativa-eclipse.html",
+    "operativa-halo.html",
+    "operativa-heart.html",
+    "operativa-hourglass.html",
+    "operativa-labyrinth.html",
+    "operativa-loom.html",
+    "operativa-mask.html",
+    "operativa-maw.html",
+    "operativa-oracle.html",
+    "operativa-ruin.html",
+    "operativa-scroll.html",
+    "operativa-seed.html",
+    "operativa-sepulchre.html",
+    "operativa-tempest.html",
+    "opere-di-edran.html",
+    "oracle.html",
+    "peo-01-ardai.html",
+    "peo-02-ilyr.html",
+    "peo-03-serekh.html",
+    "peo-04-ossari.html",
+    "peo-05-nethri.html",
+    "peo-06-kethari.html",
+    "personaggi.html",
+    "phn-001-the-shifted-reference.html",
+    "phn-002-the-breathing-seam.html",
+    "phn-003-the-false-heat-debt.html",
+    "phn-004-the-closed-gill.html",
+    "phn-005-the-honest-contradiction.html",
+    "phn-006-the-silent-wedge.html",
+    "phn-007-the-divided-bearing.html",
+    "phn-008-the-sterile-promise.html",
+    "phn-009-the-unquiet-curtain.html",
+    "phn-010-the-spent-reflection.html",
+    "phn-011-the-convenient-rest.html",
+    "phn-012-the-shared-drain.html",
+    "phn-013-the-hollow-reply.html",
+    "phn-014-the-grey-recoil.html",
+    "phn-015-the-drowned-repose.html",
+    "phn-016-the-white-reed-exchange.html",
+    "phn-017-the-inward-rain.html",
+    "phn-018-the-broken-sound.html",
+    "phn-019-the-ash-interval.html",
+    "phn-020-the-shared-stair.html",
+    "phn-021-the-moon-tide-debt.html",
+    "phn-022-the-blue-crown.html",
+    "phn-023-the-afterlight.html",
+    "phn-024-the-hunger-line.html",
+    "popoli.html",
+    "presidi-delle-corti.html",
+    "profili-operativi-effigi.html",
+    "rank-i-awakening.html",
+    "rank-ii-attunement.html",
+    "rank-iii-embodiment.html",
+    "rank-iv-transfiguration.html",
+    "rank-v-ascendance.html",
+    "rank-vi-eminence.html",
+    "rank-vii-apotheosis.html",
+    "reg-01-il-mondo-corporeo.html",
+    "reg-02-near-veil.html",
+    "reg-03-confluence-belts.html",
+    "reg-04-unmoored-reaches.html",
+    "reg-05-private-reveries.html",
+    "reg-06-common-reveries.html",
+    "reg-07-root-interfaces.html",
+    "rel-01-concordia-dei-mestieri.html",
+    "rel-02-clear-dawn.html",
+    "rel-03-living-mercy.html",
+    "rel-04-vigil-of-doors.html",
+    "rel-05-wayfarer-communion.html",
+    "rel-06-witness-houses.html",
+    "rel-07-common-measure.html",
+    "rel-08-throne-and-bond.html",
+    "rel-09-ember-fellowship.html",
+    "rel-10-tide-covenant.html",
+    "rel-11-tradizioni-fluviali-del-creator-ricordo-antico.html",
+    "rel-12-tradizioni-di-namar-ricordo-antico.html",
+    "rel-13-custodia-della-veglia.html",
+    "rel-14-concordia-dei-cicli.html",
+    "repertorio.html",
+    "ritratti-presidi.html",
+    "room-six.html",
+    "root-01-the-origin.html",
+    "root-02-the-living-furnace.html",
+    "root-03-the-crossing.html",
+    "root-04-the-bonded-throne.html",
+    "root-05-the-unbroken-record.html",
+    "root-06-the-inner-vast.html",
+    "root-07-the-black-mouth.html",
+    "root-08-the-veiled-basin.html",
+    "ruin.html",
+    "scroll.html",
+    "seed.html",
+    "sepulchre.html",
+    "signorie-immobili.html",
+    "site-01-arel-cut.html",
+    "site-02-hollow-towers.html",
+    "site-03-namar-upper-works.html",
+    "site-04-stillwater-steps.html",
+    "site-05-rethar-basin.html",
+    "site-06-nine-houses-field.html",
+    "site-07-grey-embankment.html",
+    "site-08-south-shoals.html",
+    "site-09-noran-camera-delle-uscite.html",
+    "site-10-tevren-cortile-dei-sigilli.html",
+    "societa.html",
+    "state-01-orsanne.html",
+    "state-02-reth.html",
+    "state-03-neressa.html",
+    "state-04-ovel.html",
+    "state-05-aldren.html",
+    "state-06-tessara.html",
+    "state-07-varrun.html",
+    "state-08-esen.html",
+    "state-09-darsen.html",
+    "state-10-qadir.html",
+    "state-11-ildovar.html",
+    "state-12-marethis.html",
+    "state-13-saur.html",
+    "state-14-ansei.html",
+    "state-15-teral.html",
+    "state-16-kosh.html",
+    "state-17-meren.html",
+    "state-18-arul.html",
+    "state-19-norell.html",
+    "state-20-askar.html",
+    "state-21-varsha.html",
+    "state-22-edel.html",
+    "state-23-keren.html",
+    "state-24-sivara.html",
+    "state-25-dorel.html",
+    "state-26-tevar.html",
+    "state-27-iren.html",
+    "tempest.html",
+    "term-anchor-anchor.html",
+    "term-archon-archon.html",
+    "term-authority-authority.html",
+    "term-axial-axial.html",
+    "term-bearer-bearer.html",
+    "term-domain-domain.html",
+    "term-effigy-effigy.html",
+    "term-inscription-inscription.html",
+    "term-investment-investment.html",
+    "term-manifestation-manifestation.html",
+    "term-root-root.html",
+    "term-seat-seat.html",
+    "term-technique-technique.html",
+    "term-thread-thread.html",
+    "term-threshold-threshold.html",
+    "term-weave-weave.html",
+    "testament-the-first-testament.html",
+    "verifica-copertura.html",
+    "vol-01-the-waking-house.html",
+    "vol-02-the-price-of-a-miracle.html",
+    "vol-03-the-unburied-name.html",
+    "vol-04-the-departure-that-failed.html",
+    "vol-05-the-lives-not-owned.html",
+    "vol-06-the-world-outside-the-map.html",
+    "vol-07-the-right-to-begin.html",
+    "vol-08-the-first-and-the-last.html"
+  ],
+  "canonical_english_names_preserved": true
+}

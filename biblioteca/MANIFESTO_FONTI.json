@@ -241,8 +241,8 @@
       "group": "Dati strutturati e registri",
       "url": "c5209fee2344a605.html",
       "raw": "fonti/c5209fee2344a605.json",
-      "sha256": "73b72ff621c6716246904e4ce263202f9d2a3979202e3d9043e8b835c0279ea4",
-      "bytes": 235246
+      "sha256": "3bf4d52f29fb6987d4890c74ee9647e47187a2ba43c0872d7c6c501608a6a796",
+      "bytes": 236445
     },
     {
       "source": "CANONE_VIGENTE/Gruppo_284_personaggi_selezionati.json",
@@ -574,8 +574,8 @@
       "group": "Dati strutturati e registri",
       "url": "fe9fbb2c8f28317b.html",
       "raw": "fonti/fe9fbb2c8f28317b.json",
-      "sha256": "f4bc1ea0f322a52d19030f05d892b7a6a51cac740eee58decc52b3b6fc14bdec",
-      "bytes": 84682
+      "sha256": "60a6ebb15029438df48dc2cda252edcbd151c84cfb5e7a9a37f1b4ee21f364e1",
+      "bytes": 84681
     },
     {
       "source": "CANONE_VIGENTE/Regole_comuni.json",
@@ -7237,8 +7237,8 @@
       "group": "Canone vigente e verifica della consegna",
       "url": "06300f093b9b4ae7.html",
       "raw": "fonti/06300f093b9b4ae7.md",
-      "sha256": "0ddf7ba5cc78b1660b6935287139caabb77561be08006835217de6fb99801347",
-      "bytes": 63420
+      "sha256": "cada01a17dbcce08e49cbda59db50ee67a06a98ac3beabca1eb8c1b22f9f5f20",
+      "bytes": 65181
     },
     {
       "source": "342_Stato_vigente_per_la_consegna.md",
@@ -17069,6 +17069,96 @@
       "raw": "fonti/f0d231e0b8ee4a0f.md",
       "sha256": "c9b9ca0502e568bce6e66920f2aeaa6743dff80fce6826ffdb528e157d79a5b2",
       "bytes": 3112
+    },
+    {
+      "source": "CANONE_VIGENTE/Citta_centrali_368.json",
+      "title": "Citta centrali 368",
+      "group": "Chiusura editoriale e città — 368",
+      "url": "867b5aef579c3158.html",
+      "raw": "fonti/867b5aef579c3158.json",
+      "sha256": "2bba3bc198d0df9bec99f4c2c752270ef94f2dd1e1e0c935c5867eda53620812",
+      "bytes": 33292
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_368/CANONE_VIGENTE/Registro_decisioni.json",
+      "title": "Registro decisioni",
+      "group": "Storico prima di 368",
+      "url": "2bac004e240dabf2.html",
+      "raw": "fonti/2bac004e240dabf2.json",
+      "sha256": "f4bc1ea0f322a52d19030f05d892b7a6a51cac740eee58decc52b3b6fc14bdec",
+      "bytes": 84682
+    },
+    {
+      "source": "RISERVATO_368_Citta_centrali_e_luoghi_operativi.md",
+      "title": "RISERVATO 368 Citta centrali e luoghi operativi",
+      "group": "Chiusura editoriale e città — 368",
+      "url": "378b6fd7ca9b0dbb.html",
+      "raw": "fonti/378b6fd7ca9b0dbb.md",
+      "sha256": "e083b29095333a04b87b366e55da7575ccf82901acd60a7781b07fd90c9d2643",
+      "bytes": 25222
+    },
+    {
+      "source": "CANONE_VIGENTE/Audit_chiusura_368.json",
+      "title": "Audit chiusura 368",
+      "group": "Chiusura editoriale e città — 368",
+      "url": "2c21bb7c9d263dc6.html",
+      "raw": "fonti/2c21bb7c9d263dc6.json",
+      "sha256": "567f698654641266b7984612a3f32aba32d6ebf2dfe8df0d166e226e2efdd6b5",
+      "bytes": 575
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/07_Geografia_storia_e_popoli/RISERVATO/RISERVATO_368_Citta_centrali_e_luoghi_operativi.md",
+      "title": "RISERVATO 368 Citta centrali e luoghi operativi",
+      "group": "Chiusura editoriale e città — 368",
+      "url": "fe0a9efd58b94fff.html",
+      "raw": "fonti/fe0a9efd58b94fff.md",
+      "sha256": "e083b29095333a04b87b366e55da7575ccf82901acd60a7781b07fd90c9d2643",
+      "bytes": 25222
+    },
+    {
+      "source": "368_Registro_chiusura_editoriale_e_citta.md",
+      "title": "368 Registro chiusura editoriale e citta",
+      "group": "Chiusura editoriale e città — 368",
+      "url": "e1e7ccb16ecfd009.html",
+      "raw": "fonti/e1e7ccb16ecfd009.md",
+      "sha256": "ecd3ec1080b3d49df45d33ea814333d1c89ed24ee6a8c20696d2b63f340dc5b0",
+      "bytes": 1762
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_368/23_Registro_unico_del_canone.md",
+      "title": "23 Registro unico del canone",
+      "group": "Storico prima di 368",
+      "url": "8e4f77b56db72587.html",
+      "raw": "fonti/8e4f77b56db72587.md",
+      "sha256": "0ddf7ba5cc78b1660b6935287139caabb77561be08006835217de6fb99801347",
+      "bytes": 63420
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/15_Wiki/REGISTRI_E_VERIFICHE/368_Registro_chiusura_editoriale_e_citta.md",
+      "title": "368 Registro chiusura editoriale e citta",
+      "group": "Chiusura editoriale e città — 368",
+      "url": "fd61e54562d304eb.html",
+      "raw": "fonti/fd61e54562d304eb.md",
+      "sha256": "ecd3ec1080b3d49df45d33ea814333d1c89ed24ee6a8c20696d2b63f340dc5b0",
+      "bytes": 1762
+    },
+    {
+      "source": "CANONE_VIGENTE/Pulizia_editoriale_368.json",
+      "title": "Pulizia editoriale 368",
+      "group": "Chiusura editoriale e città — 368",
+      "url": "eb7baec2115b0979.html",
+      "raw": "fonti/eb7baec2115b0979.json",
+      "sha256": "d6c6df71015e44e19d283437e3bed7177501a4a977e54566d345954d7fbf544b",
+      "bytes": 120749
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_368/CANONE_VIGENTE/Geografia_riservata.json",
+      "title": "Geografia riservata",
+      "group": "Storico prima di 368",
+      "url": "242bd1f6736a0765.html",
+      "raw": "fonti/242bd1f6736a0765.json",
+      "sha256": "73b72ff621c6716246904e4ce263202f9d2a3979202e3d9043e8b835c0279ea4",
+      "bytes": 235246
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",

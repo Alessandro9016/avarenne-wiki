@@ -1,8 +1,8 @@
 {
-  "versione": "367",
+  "versione": "368",
   "data": "2026-10-17",
   "fonte_unica": "23_Registro_unico_del_canone.md",
-  "sha256_fonte": "0ddf7ba5cc78b1660b6935287139caabb77561be08006835217de6fb99801347",
+  "sha256_fonte": "cada01a17dbcce08e49cbda59db50ee67a06a98ac3beabca1eb8c1b22f9f5f20",
   "decisioni": [
     {
       "id": "CAN-001",
@@ -2009,8 +2009,8 @@
       "versione": "326"
     }
   ],
-  "revision": 367,
-  "current_topic_register": "367_Registro_del_completamento_editoriale.md",
+  "revision": 368,
+  "current_topic_register": "368_Registro_chiusura_editoriale_e_citta.md",
   "operational_profiles_source": "CANONE_VIGENTE/Profili_operativi_Effigi_350.json",
   "interaction_source": "CANONE_VIGENTE/Contese_verificate_350.json",
   "pending_work_source": null
