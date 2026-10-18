@@ -1,0 +1,16 @@
+{
+  "id": "CAST-032",
+  "name": "Livia Varn",
+  "variant": "03_Vita_privata",
+  "asset": "assets/exchange366-cast-032-03-vita-privata.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-032_livia-varn/03_Vita_privata_366.png",
+  "source_sha256": "ed6ad6c9e46be3a2d02e0e0884118226e6ba9441ae68bd64a73fc586b0be4594",
+  "generator": "builtin image_gen",
+  "prompt": "Premium dark fantasy novel illustration, semi-realistic painterly editorial portrait, mature elegant character design, finely painted face and textile textures, restrained atmospheric lighting, late nineteenth-century inspired industrial fantasy Avarenne. No anime exaggeration, no photographic cosplay, no text, labels or watermark. One image only, vertical 2:3 composition. Anatomically convincing hands and body. No attack or ability demonstration. Subject: Woman27, fair skin, hazel eyes, medium brown hair in an intricate practical low bun, narrow oval face, slate-blue high-collared tailored dress, 169cm; preserve approved face. Scene: seated at a dark walnut communal oval table, putting aside a notebook with a small genuine smile, warm brass lamp, ordinary human intimacy; no recognizable other participants This is a character illustration, not proof that a future narrative event happened. Input reference establishes the same individual: preserve face, age, skin tone and distinguishing features; adapt pose and clothing only as described.",
+  "reference_paths": [
+    "C:\\Users\\Lenovo\\Documents\\Codex\\2026-10-09\\istruzioni-per-il-creatore-di-mondi\\outputs\\WIKI_AVARENNE\\assets\\cast-032-cbd21120aef5.webp"
+  ],
+  "visual_review": "APPROVATA: volto e abiti coerenti, resa narrativa e distinzione del soggetto controllate; anatomie Ilyr e Ossari riconoscibili, nessun nuovo potere attestato.",
+  "revision": 366,
+  "narrative_status": "Illustrazione del personaggio, non evento futuro già avvenuto"
+}

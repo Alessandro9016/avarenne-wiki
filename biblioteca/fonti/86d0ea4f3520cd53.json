@@ -1,0 +1,16 @@
+{
+  "id": "CAST-141",
+  "name": "Irma Kehl",
+  "variant": "02_Figura_intera",
+  "asset": "assets/exchange366-cast-141-02-figura-intera.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-141_irma-kehl/02_Figura_intera_366.png",
+  "source_sha256": "2ca41e91a506d82dd85318b54563927726e8dde04f07d6c94ca416b4f4803c9f",
+  "generator": "builtin image_gen",
+  "prompt": "Premium dark fantasy novel illustration, semi-realistic painterly editorial portrait, mature elegant character design, finely painted face and textile textures, restrained atmospheric lighting, late nineteenth-century inspired industrial fantasy Avarenne. No anime exaggeration, no photographic cosplay, no text, labels or watermark. One image only, vertical 2:3 composition. Anatomically convincing hands and body. No attack or ability demonstration. Subject: Ossari woman58, biologically young adult, warm tan skin, dark brown eyes, brown hair in low chignon, strong rounded cheekbones, clear living mineral lattice tracing temples neck and forearms, flexible joints and organic skin, olive tailored coat and cream high collar; retain approved face, not statue or robot. Scene: Full body standing civilian character study in a plausible street of their home town, feet visible, practical period clothing and true body proportions. This is a character illustration, not proof that a future narrative event happened. Input reference establishes the same individual: preserve face, age, skin tone and distinguishing features, adapt pose and clothing only as described. Irma must retain her face while clearly showing her canonically living Ossari mineral lattice.",
+  "reference_paths": [
+    "C:\\Users\\Lenovo\\Documents\\Codex\\2026-10-09\\istruzioni-per-il-creatore-di-mondi\\outputs\\WIKI_AVARENNE\\assets\\cast-141-88a409a662d7.webp"
+  ],
+  "visual_review": "APPROVATA: volto e abiti coerenti, resa narrativa e distinzione del soggetto controllate; anatomie Ilyr e Ossari riconoscibili, nessun nuovo potere attestato.",
+  "revision": 366,
+  "narrative_status": "Illustrazione del personaggio, non evento futuro già avvenuto"
+}

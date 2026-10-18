@@ -1,0 +1,45 @@
+{
+  "revision": 366,
+  "projected_core": 12,
+  "deep_dossiers": 10,
+  "dossier_words": {
+    "CAST-032": 2067,
+    "CAST-035": 2004,
+    "CAST-127": 1991,
+    "CAST-243": 2051,
+    "CAST-336": 2007,
+    "CAST-421": 1963,
+    "CAST-181": 1993,
+    "CAST-141": 2022,
+    "CAST-588": 2040,
+    "CAST-589": 2069
+  },
+  "volumes": 8,
+  "alternative_volume_branches": 24,
+  "individual_volume_traces": 80,
+  "new_cast": 2,
+  "cast_total": 589,
+  "existing_powers_roots_seats_and_relations_preserved": true,
+  "ordinary_inventories_explicitly_refined": true,
+  "existing_plot_arcs_unchanged": true,
+  "current_members": [
+    "CAST-002",
+    "CAST-032"
+  ],
+  "future_membership_and_outcomes_open": true,
+  "new_images": 21,
+  "individual_image_counts": {
+    "CAST-032": 4,
+    "CAST-035": 4,
+    "CAST-127": 3,
+    "CAST-243": 3,
+    "CAST-336": 3,
+    "CAST-421": 3,
+    "CAST-181": 3,
+    "CAST-141": 3,
+    "CAST-588": 3,
+    "CAST-589": 3
+  },
+  "visual_review_complete": true,
+  "zip_created": false
+}

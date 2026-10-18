@@ -1,8 +1,8 @@
 {
-  "versione": "365",
+  "versione": "366",
   "data": "2026-10-17",
   "fonte_unica": "23_Registro_unico_del_canone.md",
-  "sha256_fonte": "a2f4124ebe53494df6cff8981a6cf8da87f5f262a99535ed8cf29652a3c22c3f",
+  "sha256_fonte": "30f2ed8a83aa0e424aacdc39d87b85e853977ccf1d235b29320050998965f11c",
   "decisioni": [
     {
       "id": "CAN-001",
@@ -2009,8 +2009,8 @@
       "versione": "326"
     }
   ],
-  "revision": 365,
-  "current_topic_register": "365_Exchange_e_Room_Six_consolidamento.md",
+  "revision": 366,
+  "current_topic_register": "366_Registro_del_nucleo_Exchange.md",
   "operational_profiles_source": "CANONE_VIGENTE/Profili_operativi_Effigi_350.json",
   "interaction_source": "CANONE_VIGENTE/Contese_verificate_350.json",
   "pending_work_source": null

@@ -1,0 +1,55 @@
+{
+  "id": "CAST-243",
+  "name": "Helia Welren",
+  "approved_previous": [],
+  "new_images": [
+    {
+      "id": "CAST-243",
+      "name": "Helia Welren",
+      "variant": "01_Ritratto",
+      "asset": "assets/exchange366-cast-243-01-ritratto.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-243_helia-welren/01_Ritratto_366.png",
+      "source_sha256": "49ac301be1409abf4f2dcbd54adf99bae500e075d006da4a60fc969c0e1d9474",
+      "generator": "builtin image_gen",
+      "prompt": "Premium dark fantasy novel illustration, semi-realistic painterly editorial portrait, mature elegant character design, finely painted face and textile textures, restrained atmospheric lighting, late nineteenth-century inspired industrial fantasy Avarenne. No anime exaggeration, no photographic cosplay, no text, labels or watermark. One image only, vertical 2:3 composition. Anatomically convincing hands and body. No attack or ability demonstration. Subject: Woman26, light olive skin, amber-brown eyes, straight dark auburn jaw-length hair tucked behind right ear, square determined face, charcoal high-collared workshop jacket with burgundy waistcoat, burn freckles on right wrist, no fantasy armor. Scene: Three-quarter bust portrait, neutral dignified pose, subtly contextual background. This is a character illustration, not proof that a future narrative event happened.",
+      "reference_paths": [],
+      "visual_review": "APPROVATA: volto e abiti coerenti, resa narrativa e distinzione del soggetto controllate; anatomie Ilyr e Ossari riconoscibili, nessun nuovo potere attestato.",
+      "revision": 366,
+      "narrative_status": "Illustrazione del personaggio, non evento futuro già avvenuto"
+    },
+    {
+      "id": "CAST-243",
+      "name": "Helia Welren",
+      "variant": "02_Figura_intera",
+      "asset": "assets/exchange366-cast-243-02-figura-intera.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-243_helia-welren/02_Figura_intera_366.png",
+      "source_sha256": "cc31b96efcf6cacfdfca1e23296e1dd7af5639ba203aba11ce2ed9a5ff569ac3",
+      "generator": "builtin image_gen",
+      "prompt": "Premium dark fantasy novel illustration, semi-realistic painterly editorial portrait, mature elegant character design, finely painted face and textile textures, restrained atmospheric lighting, late nineteenth-century inspired industrial fantasy Avarenne. No anime exaggeration, no photographic cosplay, no text, labels or watermark. One image only, vertical 2:3 composition. Anatomically convincing hands and body. No attack or ability demonstration. Subject: Woman26, light olive skin, amber-brown eyes, straight dark auburn jaw-length hair tucked behind right ear, square determined face, charcoal high-collared workshop jacket with burgundy waistcoat, burn freckles on right wrist, no fantasy armor. Scene: Full body standing civilian character study in a plausible street of their home town, feet visible, practical period clothing and true body proportions. This is a character illustration, not proof that a future narrative event happened.",
+      "reference_paths": [],
+      "visual_review": "APPROVATA: volto e abiti coerenti, resa narrativa e distinzione del soggetto controllate; anatomie Ilyr e Ossari riconoscibili, nessun nuovo potere attestato.",
+      "revision": 366,
+      "narrative_status": "Illustrazione del personaggio, non evento futuro già avvenuto"
+    },
+    {
+      "id": "CAST-243",
+      "name": "Helia Welren",
+      "variant": "03_Vita_privata",
+      "asset": "assets/exchange366-cast-243-03-vita-privata.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-243_helia-welren/03_Vita_privata_366.png",
+      "source_sha256": "2550b74fc3b55b39086b2d7064ae516bb5f9d371e6fa391db18c8be37989004f",
+      "generator": "builtin image_gen",
+      "prompt": "Premium dark fantasy novel illustration, semi-realistic painterly editorial portrait, mature elegant character design, finely painted face and textile textures, restrained atmospheric lighting, late nineteenth-century inspired industrial fantasy Avarenne. No anime exaggeration, no photographic cosplay, no text, labels or watermark. One image only, vertical 2:3 composition. Anatomically convincing hands and body. No attack or ability demonstration. Subject: Woman26, light olive skin, amber-brown eyes, straight dark auburn jaw-length hair tucked behind right ear, square determined face, charcoal high-collared workshop jacket with burgundy waistcoat, burn freckles on right wrist, no fantasy armor. Scene: in a compact Deren workshop holding a flawed empty metal vessel with an honest thoughtful expression, scattered ceramic samples, no flames This is a character illustration, not proof that a future narrative event happened.",
+      "reference_paths": [],
+      "visual_review": "APPROVATA: volto e abiti coerenti, resa narrativa e distinzione del soggetto controllate; anatomie Ilyr e Ossari riconoscibili, nessun nuovo potere attestato.",
+      "revision": 366,
+      "narrative_status": "Illustrazione del personaggio, non evento futuro già avvenuto"
+    }
+  ],
+  "all_wiki_assets": [
+    "assets/exchange366-cast-243-01-ritratto.webp",
+    "assets/exchange366-cast-243-02-figura-intera.webp",
+    "assets/exchange366-cast-243-03-vita-privata.webp"
+  ],
+  "visual_review_complete": true
+}

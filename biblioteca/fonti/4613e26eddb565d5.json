@@ -3812,5 +3812,200 @@
   "rules_source": "194;202",
   "raccordo_revision": "RACCORDI-317",
   "convergence_revision": 341,
-  "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+  "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md",
+  "exchange_core_366": {
+    "source": "Exchange_dodici_366.json",
+    "projected_members": [
+      "CAST-001",
+      "CAST-002",
+      "CAST-032",
+      "CAST-035",
+      "CAST-127",
+      "CAST-243",
+      "CAST-336",
+      "CAST-421",
+      "CAST-181",
+      "CAST-141",
+      "CAST-588",
+      "CAST-589"
+    ],
+    "future_outcomes": "OPEN",
+    "volumes": [
+      {
+        "number": 1,
+        "theme": "Una stanza che si può lasciare",
+        "ambition": "Trasformare due persone con documenti separati in una rete dove chiedere aiuto senza perdere autonomia.",
+        "trigger": "La controversia del collaudo, il 23 maggio e l’udienza del 31 maggio restano le occasioni iniziali. L’incontro dipende da accessi sicuri e persone disponibili, non da un capitolo obbligatorio.",
+        "action": "Elias prepara una richiesta di confronto limitata; Livia distingue copia, inferenza e pubblicabilità; Marcel verifica i mezzi che gli competono. Si cercano prestazioni iniziali di Edith, Silas e Tavian soltanto attraverso contatti effettivi. Rethan è raggiungibile tramite filiera portuale, non già convocato. Alexander può imbattersi in una richiesta concreta senza sapere prima il nome del circolo.",
+        "test": "Una prova utile contiene un dettaglio che identifica il testimone. Pubblicarlo può aiutare la controversia e danneggiare una persona. Il gruppo deve offrire almeno due vie praticabili: estratto più limitato o consenso e protezione reali; non una scelta finta fra giustizia e morte.",
+        "branches": [
+          "Fiducia: la controversia chiarita consente di scegliere una missione più ampia; le persone restano insieme per qualcosa che desiderano costruire.",
+          "Dissenso: due scambi riusciti non bastano a creare amicizia; si mantengono consulenze e incontri separati.",
+          "Compromissione: si perde la sede o un recapito; si mette in salvo chi è raggiungibile e si prosegue fuori dalla stanza, senza una cancellazione automatica della rete."
+        ],
+        "intimacy": "Un partecipante torna dopo essere stato libero di rifiutare. È il primo gesto di appartenenza credibile. Il tavolo può ospitare una pausa, un pasto semplice o una discussione sciocca che non deve nascondere un indizio.",
+        "horizon": "Il traguardo possibile è un primo accordo che sopravvive al caso iniziale. Non richiede dodici persone presenti o un successo processuale prestabilito.",
+        "arcs": [
+          "ARC-02",
+          "ARC-03",
+          "ARC-04",
+          "ARC-05"
+        ]
+      },
+      {
+        "number": 2,
+        "theme": "Il prezzo dell’indipendenza",
+        "ambition": "Costruire un piccolo fondo o una rete di reciprocità che permetta di rifiutare il committente sbagliato.",
+        "trigger": "Servizi già riusciti producono richieste nuove; deve esistere un contatto, non fama attribuita a posteriori a tutto il paese.",
+        "action": "Il circolo propone preventivi leggibili, compensi per il lavoro ordinario e un servizio di consultazione non esclusivo. Un fondo esiste solo dopo quote o donazioni accettate e registrate. A Deren, Irma e Helia hanno un problema reale che può incrociare le prove. Eren può portare una questione di trasporto o soccorso dalle South Shoals attraverso un viaggio o un intermediario.",
+        "test": "Un finanziatore offre continuità economica chiedendo controllo sull’agenda e precedenza sui beneficiari. Può essere sincero e utile, non un cattivo smascherato automaticamente. Accettare parti limitate dell’offerta è possibile.",
+        "branches": [
+          "Autonomia finanziata: il gruppo paga lavoro e rimborsi senza comprare voti.",
+          "Patronato negoziato: un contratto circoscritto dà risorse e crea un conflitto di interessi dichiarato.",
+          "Crisi: la rete riduce servizi e rimanda espansione, senza trasformare il mancato pagamento in una punizione cosmica."
+        ],
+        "intimacy": "Il primo aiuto non retribuito deve essere offerto, non preteso. Si esplorano differenze di gusto, ceto, imbarazzo e gratitudine. Una festa di un membro può interessare agli altri senza essere un attacco.",
+        "horizon": "Lo scambio diventa desiderabile perché consente una scelta che da soli sarebbe economicamente impossibile. Una persona può restare esterna e aiutare.",
+        "arcs": [
+          "ARC-06",
+          "ARC-07",
+          "ARC-08",
+          "ARC-09",
+          "ARC-10"
+        ]
+      },
+      {
+        "number": 3,
+        "theme": "Appartenere senza possedere",
+        "ambition": "Consentire il confronto fra persone liberate, eredi, comunità e competenze senza appropriarsi delle loro storie.",
+        "trigger": "L’accesso alle gallerie, ai marchi o a una testimonianza antica deve essere realmente ottenuto. La rete non conosce Edran perché la trama entra nel terzo volume.",
+        "action": "Se coinvolto, il circolo organizza trasporti, copie distinte da originali e ascolto di testimoni che possono non condividere la narrazione celebrativa. Wena offre una via di custodia se raggiunta a Noran; Kira può essere un contatto su percorsi di Nareth, non una guida già in attesa. Gli incarichi locali di entrambe restano attivi anche se l’Exchange non le incontra.",
+        "test": "Un ricordo autentico contraddice il ritratto che un membro vuole difendere. Esistono modi differenti di accertarlo senza costringere il testimone a esibirsi in sala. Alexander decide quanto della propria storia condividere.",
+        "branches": [
+          "Ricerca comune: fonti indipendenti entrano in relazione e il gruppo amplia ciò che sa.",
+          "Reti parallele: qualcuno conserva un testimone fuori dal deposito collettivo e resta amico degli altri.",
+          "Rottura locale: una violazione della riservatezza interrompe un rapporto senza rendere false tutte le prove già ottenute."
+        ],
+        "intimacy": "Si permette di ricordare i vivi oltre le loro imprese. Gli amici possono non essere d’accordo sull’uomo del passato senza decidere al posto del giocatore cosa egli prova.",
+        "horizon": "Un nucleo più ampio può conoscere il valore di un silenzio. Nessun riconoscimento pubblico o ingresso di tutti e dodici è necessario.",
+        "arcs": [
+          "ARC-11",
+          "ARC-12",
+          "ARC-13",
+          "ARC-14",
+          "ARC-15"
+        ]
+      },
+      {
+        "number": 4,
+        "theme": "La responsabilità degli amici",
+        "ambition": "Dimostrare che l’Exchange sa chiedere conto anche a una persona utile o amata.",
+        "trigger": "Le prove di Departure e delle responsabilità antiche devono giungere attraverso i canali fissati. La verità non cambia secondo chi entra nel gruppo.",
+        "action": "Si separano indagine, assistenza e giudizio. Una persona può essere curata senza essere assolta. Helia, se coinvolta, deve affrontare la responsabilità già documentata di Ninth Cinder; non viene equiparata automaticamente ai responsabili di Departure. Livia e Tavian possono dissentire sul grado di prova; Wena non fa deporre una continuità morta contro il suo consenso.",
+        "test": "Proteggere un testimone può rendere più difficile accusare un amico; difendere il diritto al contraddittorio non significa negare il danno. Non aggiungere un nuovo traditore per prolungare il mistero già risolto.",
+        "branches": [
+          "Riparazione: ammissione verificata, danno delimitato e impegno concreto, senza perdono imposto alle vittime.",
+          "Separazione: una persona resta esterna o viene sospesa; sopravvivono alcuni rapporti privati.",
+          "Conflitto: il gruppo si divide su rimedio e autorità, mantenendo i fatti passati acquisiti."
+        ],
+        "intimacy": "Un membro può restare seduto accanto a chi non intende perdonare. L’affetto si vede nella cura che non falsifica il giudizio, non nella concordia obbligatoria.",
+        "horizon": "L’Exchange acquisisce o perde credibilità per come tratta una responsabilità interna. Se il caso viene risolto presto si narrano conseguenze, non nuovi rinvii.",
+        "arcs": [
+          "ARC-16",
+          "ARC-17",
+          "ARC-18",
+          "ARC-19",
+          "ARC-20"
+        ]
+      },
+      {
+        "number": 5,
+        "theme": "La rete non è una persona",
+        "ambition": "Proteggere il diritto di uscire anche quando la separazione costa alla collettività.",
+        "trigger": "Custodie, corpi ospiti, assistenza e legami entrano nella rete attraverso casi effettivi; non si applica ogni problema a ogni membro.",
+        "action": "Si negoziano prestazioni separabili, successioni di servizio e accessi personali alle proprie prove. Edith può scegliere o rifiutare Heart; Wena distingue ascolto e ritorno; Silas distingue interfaccia e individuo. Rethan deve permettere che un protetto lasci un incarico, anche se complica la missione. I compagni possono allenarsi o avanzare, ma fonti e stabilizzazione non arrivano perché il volume lo richiede.",
+        "test": "Un membro vuole lasciare il circolo portando un sapere indispensabile. Il gruppo può comprare un trasferimento di competenze o cambiare servizio; non può votare la proprietà della persona.",
+        "branches": [
+          "Successione: la persona forma un sostituto volontario.",
+          "Riduzione: si rinuncia a un servizio per rispettare l’uscita.",
+          "Scissione: due reti condividono alcune regole e divergono su altre; nessuna deve essere segretamente malvagia."
+        ],
+        "intimacy": "La fiducia include non invitare una persona a una missione per cui ha già detto no. La casa di un membro può diventare luogo di amicizia senza trasformarsi in seconda sede operativa.",
+        "horizon": "L’Exchange può diventare qualcosa a cui si appartiene per scelta ripetuta. La sua importanza non richiede uniformità di rango o opinioni.",
+        "arcs": [
+          "ARC-21",
+          "ARC-22",
+          "ARC-23",
+          "ARC-24",
+          "ARC-25"
+        ]
+      },
+      {
+        "number": 6,
+        "theme": "Oltre la stanza",
+        "ambition": "Estendere la reciprocità senza esportare un governo occulto sui nuovi interlocutori.",
+        "trigger": "Trasporti interregionali o cosmici richiedono destinazione, fonte, protezione, ritorno e motivazione. Se non disponibili, la linea terrestre rimane completa.",
+        "action": "Si possono creare cellule con recapiti, depositi e responsabili locali che non devono tutti venire a Room Six. Eren e Kira valutano percorsi reali; Rethan protegge una squadra e non l’intero pianeta; Tavian e Livia preparano verifiche ripetibili con ritardo di comunicazione. Chi non può viaggiare mantiene un ruolo locale importante, senza essere portato nel vuoto per completare il gruppo.",
+        "test": "Un avamposto chiede aiuto immediato che la rete non può garantire. Occorre dichiarare il limite, scegliere priorità e cercare mezzi adeguati. Non inventare un collegamento gratuito della cerniera per evitare la decisione.",
+        "branches": [
+          "Federazione: nodi autonomi concordano procedure minime.",
+          "Spedizione limitata: pochi partono e gli altri sostengono la continuità locale.",
+          "Ritiro: una rotta viene chiusa e si mantengono rapporti attraverso mezzi più lenti."
+        ],
+        "intimacy": "Una lettera arrivata tardi può contenere una battuta o un dettaglio domestico, non soltanto coordinate. Le assenze devono pesare sui rapporti senza equivalere ogni volta a morte presunta.",
+        "horizon": "Il nome Exchange può avere significato in più luoghi, ma non attribuisce sovranità territoriale o accesso universale.",
+        "arcs": [
+          "ARC-26",
+          "ARC-27",
+          "ARC-28",
+          "ARC-29",
+          "ARC-30"
+        ]
+      },
+      {
+        "number": 7,
+        "theme": "Essere amici di una potenza",
+        "ambition": "Mantenere libertà e possibilità di dissenso quando alcuni membri possono cambiare la scala del mondo.",
+        "trigger": "Le contese sulle Seats e sulle Roots sorgono soltanto se davvero intraprese. La presenza di un candidato non crea una Seat libera.",
+        "action": "I membri distinguono consiglio, aiuto e comando. Elias può cercare una continuità maggiore senza essere obbligato a uccidere Helyr; Alexander sceglie il recupero dei propri accessi. Gli altri negoziano cosa significhi fidarsi di qualcuno contro cui non esiste una sanzione materiale sufficiente. Uscita, accesso alle proprie memorie e distribuzione delle copie restano strumenti concreti ma non scudi cosmici.",
+        "test": "Una decisione superiore protegge la rete e limita persone che non l’hanno autorizzata. Il gruppo deve poter dissentire senza che il Narratore chiami il dissenso ingratitudine. La forza può risolvere il pericolo ma non stabilisce da sola il rapporto personale.",
+        "branches": [
+          "Autolimite: una potenza accetta accordi verificabili nei canali effettivamente disponibili.",
+          "Distanza: amicizia privata e organizzazione assumono forme diverse.",
+          "Opposizione: un membro rifiuta un progetto senza diventare nemico per decreto; il conflitto si valuta su azioni reali."
+        ],
+        "intimacy": "Si ricorda una preferenza banale a chi ora riceve titoli solenni. Il gesto funziona soltanto se quel rapporto è stato costruito; non si fabbrica un ricordo condiviso.",
+        "horizon": "Il successo non è avere dodici divinità. È sapere quali rapporti restano volontari dopo che il rango non è più paritario.",
+        "arcs": [
+          "ARC-31",
+          "ARC-32",
+          "ARC-33",
+          "ARC-34",
+          "ARC-35"
+        ]
+      },
+      {
+        "number": 8,
+        "theme": "La porta lasciata aperta",
+        "ambition": "Lasciare istituzioni e rapporti capaci di vivere anche dopo la scelta finale dei protagonisti.",
+        "trigger": "Si chiudono soltanto domande e impegni realmente aperti durante la partita. Nessun cast deve morire per completare l’epilogo.",
+        "action": "Si decide il futuro di nome, depositi, mezzi, fondi e responsabilità. Dodici protagonisti progettati non equivalgono a dodici presenti all’ultima seduta. Membri assenti, ritirati o separati mantengono la propria storia. I vivi possono avere una vita fuori dal circolo; le continuità morte non vengono trasformate in una galleria di trofei.",
+        "test": "L’organizzazione potrebbe sopravvivere solo diventando ciò che rifiutava: un monopolio di accessi o un patronato irrinunciabile. Scioglierla, federarla o ridimensionarla devono essere esiti completi e praticabili.",
+        "branches": [
+          "Istituzione: statuto pubblico limitato, responsabilità nominate e rapporti riservati circoscritti.",
+          "Federazione: sedi autonome, regole condivise e diritto di separazione.",
+          "Scioglimento: restituzione di depositi, liquidazione trasparente e amicizie che continuano senza marchio."
+        ],
+        "intimacy": "Un’ultima riunione può parlare del prossimo pranzo invece che dell’eternità. Se esiste una sedia vuota si distingue lutto, assenza, rifiuto e semplice ritardo; non ogni vuoto è un sacrificio.",
+        "horizon": "Il finale risponde a cosa hanno scelto di tenere insieme e cosa hanno lasciato libero. L’autore della futura novel selezionerà un ramo; il Narratore non lo impone alla campagna.",
+        "arcs": [
+          "ARC-36",
+          "ARC-37",
+          "ARC-38",
+          "ARC-39",
+          "ARC-40"
+        ]
+      }
+    ]
+  }
 }

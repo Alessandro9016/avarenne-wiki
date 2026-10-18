@@ -1,0 +1,16 @@
+{
+  "id": "CAST-035",
+  "name": "Silas Merrow",
+  "variant": "03_Vita_privata",
+  "asset": "assets/exchange366-cast-035-03-vita-privata.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-035_silas-merrow/03_Vita_privata_366.png",
+  "source_sha256": "afec20c570b69a5be85e79ffd3ce634c16e63809f2cb01fa88dd7492fd923f1f",
+  "generator": "builtin image_gen",
+  "prompt": "Premium dark fantasy novel illustration, semi-realistic painterly editorial portrait, mature elegant character design, finely painted face and textile textures, restrained atmospheric lighting, late nineteenth-century inspired industrial fantasy Avarenne. No anime exaggeration, no photographic cosplay, no text, labels or watermark. One image only, vertical 2:3 composition. Anatomically convincing hands and body. No attack or ability demonstration. Subject: Man33, olive skin, brown eyes, black wavy hair, lean 176cm, discreet quality navy port coat and ivory shirt, faint dark stubble; preserve approved face. Scene: standing backstage at a modest old theatre, folding away gloves, contemplative unperformed expression, no magical copies or mirror faces This is a character illustration, not proof that a future narrative event happened. Input reference establishes the same individual: preserve face, age, skin tone and distinguishing features; adapt pose and clothing only as described.",
+  "reference_paths": [
+    "C:\\Users\\Lenovo\\Documents\\Codex\\2026-10-09\\istruzioni-per-il-creatore-di-mondi\\outputs\\WIKI_AVARENNE\\assets\\cast-035-1a842aa9e76b.webp"
+  ],
+  "visual_review": "APPROVATA: volto e abiti coerenti, resa narrativa e distinzione del soggetto controllate; anatomie Ilyr e Ossari riconoscibili, nessun nuovo potere attestato.",
+  "revision": 366,
+  "narrative_status": "Illustrazione del personaggio, non evento futuro già avvenuto"
+}

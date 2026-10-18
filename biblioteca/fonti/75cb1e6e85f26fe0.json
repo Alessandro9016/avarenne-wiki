@@ -1,0 +1,51 @@
+{
+  "id": "CAST-141",
+  "name": "Irma Kehl",
+  "approved_previous": [
+    {
+      "asset": "assets/cast-141-88a409a662d7.webp",
+      "original_source": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\PERSONAGGI\\02_Cast_importante\\Mereth\\Orsanne\\Deren\\NET-C10-12\\CAST-141_Irma_Kehl\\01_Ritratto_v1.png",
+      "organized_copy": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-141_irma-kehl/Approvate_precedenti_1.png"
+    }
+  ],
+  "new_images": [
+    {
+      "id": "CAST-141",
+      "name": "Irma Kehl",
+      "variant": "02_Figura_intera",
+      "asset": "assets/exchange366-cast-141-02-figura-intera.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-141_irma-kehl/02_Figura_intera_366.png",
+      "source_sha256": "2ca41e91a506d82dd85318b54563927726e8dde04f07d6c94ca416b4f4803c9f",
+      "generator": "builtin image_gen",
+      "prompt": "Premium dark fantasy novel illustration, semi-realistic painterly editorial portrait, mature elegant character design, finely painted face and textile textures, restrained atmospheric lighting, late nineteenth-century inspired industrial fantasy Avarenne. No anime exaggeration, no photographic cosplay, no text, labels or watermark. One image only, vertical 2:3 composition. Anatomically convincing hands and body. No attack or ability demonstration. Subject: Ossari woman58, biologically young adult, warm tan skin, dark brown eyes, brown hair in low chignon, strong rounded cheekbones, clear living mineral lattice tracing temples neck and forearms, flexible joints and organic skin, olive tailored coat and cream high collar; retain approved face, not statue or robot. Scene: Full body standing civilian character study in a plausible street of their home town, feet visible, practical period clothing and true body proportions. This is a character illustration, not proof that a future narrative event happened. Input reference establishes the same individual: preserve face, age, skin tone and distinguishing features, adapt pose and clothing only as described. Irma must retain her face while clearly showing her canonically living Ossari mineral lattice.",
+      "reference_paths": [
+        "C:\\Users\\Lenovo\\Documents\\Codex\\2026-10-09\\istruzioni-per-il-creatore-di-mondi\\outputs\\WIKI_AVARENNE\\assets\\cast-141-88a409a662d7.webp"
+      ],
+      "visual_review": "APPROVATA: volto e abiti coerenti, resa narrativa e distinzione del soggetto controllate; anatomie Ilyr e Ossari riconoscibili, nessun nuovo potere attestato.",
+      "revision": 366,
+      "narrative_status": "Illustrazione del personaggio, non evento futuro già avvenuto"
+    },
+    {
+      "id": "CAST-141",
+      "name": "Irma Kehl",
+      "variant": "03_Vita_privata",
+      "asset": "assets/exchange366-cast-141-03-vita-privata.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-141_irma-kehl/03_Vita_privata_366.png",
+      "source_sha256": "7da7bceed4ba2caf23ff08edd2e3d09d6de01d3b73f11c57106ddcee2bcc5939",
+      "generator": "builtin image_gen",
+      "prompt": "Premium dark fantasy novel illustration, semi-realistic painterly editorial portrait, mature elegant character design, finely painted face and textile textures, restrained atmospheric lighting, late nineteenth-century inspired industrial fantasy Avarenne. No anime exaggeration, no photographic cosplay, no text, labels or watermark. One image only, vertical 2:3 composition. Anatomically convincing hands and body. No attack or ability demonstration. Subject: Ossari woman58, biologically young adult, warm tan skin, dark brown eyes, brown hair in low chignon, strong rounded cheekbones, clear living mineral lattice tracing temples neck and forearms, flexible joints and organic skin, olive tailored coat and cream high collar; retain approved face, not statue or robot. Scene: in a Deren sampling room beside clear water flasks, forearms visible with organic mineral lattice, relaxed low smile, not a stone statue This is a character illustration, not proof that a future narrative event happened. Input reference establishes the same individual: preserve face, age, skin tone and distinguishing features, adapt pose and clothing only as described. Irma must retain her face while clearly showing her canonically living Ossari mineral lattice.",
+      "reference_paths": [
+        "C:\\Users\\Lenovo\\Documents\\Codex\\2026-10-09\\istruzioni-per-il-creatore-di-mondi\\outputs\\WIKI_AVARENNE\\assets\\cast-141-88a409a662d7.webp"
+      ],
+      "visual_review": "APPROVATA: volto e abiti coerenti, resa narrativa e distinzione del soggetto controllate; anatomie Ilyr e Ossari riconoscibili, nessun nuovo potere attestato.",
+      "revision": 366,
+      "narrative_status": "Illustrazione del personaggio, non evento futuro già avvenuto"
+    }
+  ],
+  "all_wiki_assets": [
+    "assets/cast-141-88a409a662d7.webp",
+    "assets/exchange366-cast-141-02-figura-intera.webp",
+    "assets/exchange366-cast-141-03-vita-privata.webp"
+  ],
+  "visual_review_complete": true
+}

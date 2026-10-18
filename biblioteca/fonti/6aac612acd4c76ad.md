@@ -93,3 +93,8 @@ Poteri, date, famiglia, competenze e obiettivi restano quelli delle sezioni prec
 ## Raccordo bestiario BIO-301
 
 Responsabile: Consiglio delle piste. Collegamenti: BST-009. Interlocuzione limitata alla funzione già posseduta; consultare il bestiario per i fatti T0. Nessuna diagnosi, capacità soprannaturale o conoscenza segreta attribuita automaticamente.
+
+
+## Dossier principale CORE-366
+
+Approfondimento vigente: DOSSIER_EXCHANGE_366/CAST-181_kira-keren.md. Responsabile delle piste a Keran; possibile membro tardivo dopo collegamenti reali. Potenziale e rapporti futuri sono condizionati, non eventi acquisiti. Inventario ordinario e contante precisati nel 366: Mantello e cappotto da viaggio, carta locale aggiornata, corda ordinaria, coperta e stoviglie da campo. Non possiede ogni carta o diritto di transito di Keran. 31.50 corone personali.

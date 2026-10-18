@@ -124,8 +124,8 @@
       "group": "Dati strutturati e registri",
       "url": "9f5d1e0af2de6024.html",
       "raw": "fonti/9f5d1e0af2de6024.json",
-      "sha256": "6965af17595c5652bc26ad5860d6fca7a31e4ed103a7fcfdda75dfec016f7688",
-      "bytes": 3338338
+      "sha256": "e954d73a1499f8aacf5daafdc9bcd2cb4ee47dc42321b18cfce0e62827a8563a",
+      "bytes": 3376578
     },
     {
       "source": "CANONE_VIGENTE/Censimento_visuale_luoghi.json",
@@ -574,8 +574,8 @@
       "group": "Dati strutturati e registri",
       "url": "fe9fbb2c8f28317b.html",
       "raw": "fonti/fe9fbb2c8f28317b.json",
-      "sha256": "6e11a275b69ae4f982aaa4d297409962e9215b052670eb2c3c5967cafe6a5e42",
-      "bytes": 84679
+      "sha256": "903549a4651fa9e047eee7d120443ebf007645296973ab9981e7266eecf1d7b2",
+      "bytes": 84673
     },
     {
       "source": "CANONE_VIGENTE/Regole_comuni.json",
@@ -700,8 +700,8 @@
       "group": "Dati strutturati e registri",
       "url": "4613e26eddb565d5.html",
       "raw": "fonti/4613e26eddb565d5.json",
-      "sha256": "8d78445d6f64a0fd18855e1e58e59c9699143ce371effb1f6949bafc2e5e33e1",
-      "bytes": 153673
+      "sha256": "7bba02ade9fcfbaaae897cf13ebdeaf275296cbc7050393b6a0b137e4b50592d",
+      "bytes": 165462
     },
     {
       "source": "CANONE_VIGENTE/Unita_milestone11.json",
@@ -1294,8 +1294,8 @@
       "group": "Cast — dossier individuali",
       "url": "59a9907db8c909c8.html",
       "raw": "fonti/59a9907db8c909c8.md",
-      "sha256": "a6cb9c6e36896c4ee1104432d8965f290e89c324e12bf992d4aace531aebcbda",
-      "bytes": 7940
+      "sha256": "f0d8c6a4d990ca7e83f856fdb81b659088b7b7ce637ac66cab8e83afe96e527e",
+      "bytes": 8391
     },
     {
       "source": "CAST_RISERVATO/CAST-033.md",
@@ -1321,8 +1321,8 @@
       "group": "Cast — dossier individuali",
       "url": "a6911ce388a01130.html",
       "raw": "fonti/a6911ce388a01130.md",
-      "sha256": "20e0343986e9d005ce57258f1f43b8a48d85511d2e77bd343ae1a04d2cd503ae",
-      "bytes": 8641
+      "sha256": "e8618b8007abbf0a2aebcc21806a6aecb2cf52d32426ca4e617d8c5c4f5b6fdf",
+      "bytes": 9145
     },
     {
       "source": "CAST_RISERVATO/CAST-036.md",
@@ -2149,8 +2149,8 @@
       "group": "Cast — dossier individuali",
       "url": "9caa2dbfd1653365.html",
       "raw": "fonti/9caa2dbfd1653365.md",
-      "sha256": "b39b4766faa68bdc942f7c43ad4fd9e15b367ca7a190babb9862211ad2e79a98",
-      "bytes": 6088
+      "sha256": "37c8ffe507fb71b1dd7dab891186b8e98754c08abf2ed503f94d75b91943c5d9",
+      "bytes": 6585
     },
     {
       "source": "CAST_RISERVATO/CAST-128.md",
@@ -2275,8 +2275,8 @@
       "group": "Cast — dossier individuali",
       "url": "053994c46fa6af45.html",
       "raw": "fonti/053994c46fa6af45.md",
-      "sha256": "a1216b9132c25e179fcb4e195d8be9e8449e67e322758092a157be5a0871fe73",
-      "bytes": 6772
+      "sha256": "b62538183d247ad6792ea9a1c3b7c69faf4107e1cf33043e7e1ecd32b8b2f31b",
+      "bytes": 7249
     },
     {
       "source": "CAST_RISERVATO/CAST-142.md",
@@ -2635,8 +2635,8 @@
       "group": "Cast — dossier individuali",
       "url": "6aac612acd4c76ad.html",
       "raw": "fonti/6aac612acd4c76ad.md",
-      "sha256": "0f8c9df29a87f2112509531384280fffa345cdf70f54a78012d3469ae10a9e7f",
-      "bytes": 7061
+      "sha256": "48b984b691d726f18dc167701a17e5aa19a46cc0cd7424bfe668ecbff34794e0",
+      "bytes": 7554
     },
     {
       "source": "CAST_RISERVATO/CAST-182.md",
@@ -3193,8 +3193,8 @@
       "group": "Cast — dossier individuali",
       "url": "53fd965353da353b.html",
       "raw": "fonti/53fd965353da353b.md",
-      "sha256": "96c3f43364d9e7fe44819c90fc13e10da1f91bddf0f1bbf9ca139eeadb5c5883",
-      "bytes": 5484
+      "sha256": "a0e440164042ea9919601d398a10c6b8c8b2fe8c3ddce1ebe3c782827d63abfc",
+      "bytes": 5944
     },
     {
       "source": "CAST_RISERVATO/CAST-244.md",
@@ -4030,8 +4030,8 @@
       "group": "Cast — dossier individuali",
       "url": "d17dad334b5dfb70.html",
       "raw": "fonti/d17dad334b5dfb70.md",
-      "sha256": "9c76903b607663a30627a654f1901bf5531db20c6c26c93d1b27deb46d179ffe",
-      "bytes": 5171
+      "sha256": "284776cbee036e4da087801abacf6f91090c4224dd39d88748671d9781cf3487",
+      "bytes": 5582
     },
     {
       "source": "CAST_RISERVATO/CAST-337.md",
@@ -4795,8 +4795,8 @@
       "group": "Cast — dossier individuali",
       "url": "7a323720bfb502f8.html",
       "raw": "fonti/7a323720bfb502f8.md",
-      "sha256": "9862879d3e4119cd93bf0ea2435661d148a251e9b68c1aadefc02e8ff3ffd941",
-      "bytes": 5338
+      "sha256": "748911cc91519c75b3ebb3125a2db134775a13546f67b895a8b53291f599e719",
+      "bytes": 5754
     },
     {
       "source": "CAST_RISERVATO/CAST-422.md",
@@ -6496,8 +6496,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "0161848595a41654.html",
       "raw": "fonti/0161848595a41654.md",
-      "sha256": "01ed07f2aa5cb223d334efe51907cde2c65280a97aada45e332b7861da7ce3f7",
-      "bytes": 31267
+      "sha256": "18e279be7c69b21bf83faf3144d73bcd6ff6666243ce5297333f22a19fe62b7e",
+      "bytes": 31873
     },
     {
       "source": "RISERVATO_155_Indice_del_cast_centrale.md",
@@ -7237,8 +7237,8 @@
       "group": "Canone vigente e verifica della consegna",
       "url": "06300f093b9b4ae7.html",
       "raw": "fonti/06300f093b9b4ae7.md",
-      "sha256": "a2f4124ebe53494df6cff8981a6cf8da87f5f262a99535ed8cf29652a3c22c3f",
-      "bytes": 60810
+      "sha256": "30f2ed8a83aa0e424aacdc39d87b85e853977ccf1d235b29320050998965f11c",
+      "bytes": 61328
     },
     {
       "source": "342_Stato_vigente_per_la_consegna.md",
@@ -14718,8 +14718,8 @@
       "group": "Exchange 365",
       "url": "b7b1846ebdd82411.html",
       "raw": "fonti/b7b1846ebdd82411.md",
-      "sha256": "01ed07f2aa5cb223d334efe51907cde2c65280a97aada45e332b7861da7ce3f7",
-      "bytes": 31267
+      "sha256": "18e279be7c69b21bf83faf3144d73bcd6ff6666243ce5297333f22a19fe62b7e",
+      "bytes": 31873
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-129.md",
@@ -14754,8 +14754,8 @@
       "group": "Exchange 365",
       "url": "cd2ed60ff783c22b.html",
       "raw": "fonti/cd2ed60ff783c22b.json",
-      "sha256": "6965af17595c5652bc26ad5860d6fca7a31e4ed103a7fcfdda75dfec016f7688",
-      "bytes": 3338338
+      "sha256": "e954d73a1499f8aacf5daafdc9bcd2cb4ee47dc42321b18cfce0e62827a8563a",
+      "bytes": 3376578
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_365/CAST_RISERVATO/CAST-035.md",
@@ -14835,8 +14835,8 @@
       "group": "Exchange 365",
       "url": "8944e4be7e244127.html",
       "raw": "fonti/8944e4be7e244127.md",
-      "sha256": "b39b4766faa68bdc942f7c43ad4fd9e15b367ca7a190babb9862211ad2e79a98",
-      "bytes": 6088
+      "sha256": "37c8ffe507fb71b1dd7dab891186b8e98754c08abf2ed503f94d75b91943c5d9",
+      "bytes": 6585
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-128.md",
@@ -14871,8 +14871,8 @@
       "group": "Exchange 365",
       "url": "061227bd4ed1b54f.html",
       "raw": "fonti/061227bd4ed1b54f.md",
-      "sha256": "20e0343986e9d005ce57258f1f43b8a48d85511d2e77bd343ae1a04d2cd503ae",
-      "bytes": 8641
+      "sha256": "e8618b8007abbf0a2aebcc21806a6aecb2cf52d32426ca4e617d8c5c4f5b6fdf",
+      "bytes": 9145
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_365/CAST_RISERVATO/CAST-002.md",
@@ -14898,8 +14898,8 @@
       "group": "Exchange 365",
       "url": "03e19d714f5ab10c.html",
       "raw": "fonti/03e19d714f5ab10c.md",
-      "sha256": "a6cb9c6e36896c4ee1104432d8965f290e89c324e12bf992d4aace531aebcbda",
-      "bytes": 7940
+      "sha256": "f0d8c6a4d990ca7e83f856fdb81b659088b7b7ce637ac66cab8e83afe96e527e",
+      "bytes": 8391
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/INDICI_E_DOCUMENTI_CONDIVISI/365_Exchange_e_Room_Six_consolidamento.md",
@@ -14918,6 +14918,951 @@
       "raw": "fonti/d329a3bc28e5cfa8.json",
       "sha256": "d9d14905f393024a44c807ff93b4f532a3f0eca80212f6bd29a3fe425eb1f2d2",
       "bytes": 33604
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-002_elias-veyne/INDICE_IMMAGINI.json",
+      "title": "INDICE IMMAGINI",
+      "group": "Exchange 366",
+      "url": "41762f1a91d164ed.html",
+      "raw": "fonti/41762f1a91d164ed.json",
+      "sha256": "04273ea72b9dec8af5bd330d2da25540c663e6abe503156b65b78640c54ca88b",
+      "bytes": 3148
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-589_rethan-veyr/INDICE_IMMAGINI.json",
+      "title": "INDICE IMMAGINI",
+      "group": "Exchange 366",
+      "url": "7ee4d32f22087911.html",
+      "raw": "fonti/7ee4d32f22087911.json",
+      "sha256": "1db63ebd80ad9e4ebd9472e5b39e303fda30437d7dc0147ce88a8324b96e44b5",
+      "bytes": 6615
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-336_eren-teth/02_Figura_intera_Scheda.json",
+      "title": "02 Figura intera Scheda",
+      "group": "Exchange 366",
+      "url": "37efdc2a1e2f32cb.html",
+      "raw": "fonti/37efdc2a1e2f32cb.json",
+      "sha256": "d1d45c4783881f110311ac2dd0a1b781460ebca9fbd87de9b81aa04200d9f598",
+      "bytes": 1979
+    },
+    {
+      "source": "DOSSIER_EXCHANGE_366/CAST-589_rethan-veyr.md",
+      "title": "CAST-589 rethan-veyr",
+      "group": "Exchange 366",
+      "url": "dc06a33899a228fd.html",
+      "raw": "fonti/dc06a33899a228fd.md",
+      "sha256": "973fe9ed35a70691604b84849d7f4a5f3f6360049fab66af034a70032e7b7173",
+      "bytes": 14446
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-001_alexander-valcienne-edran-vael/INDICE_IMMAGINI.json",
+      "title": "INDICE IMMAGINI",
+      "group": "Exchange 366",
+      "url": "8ec73470dc253bdd.html",
+      "raw": "fonti/8ec73470dc253bdd.json",
+      "sha256": "11a6a4b6645eed6fc5cf0f7b0d69d953352d16d0729cfdc3c09dda932e671de4",
+      "bytes": 2914
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-421_wena-cadrin/INDICE_IMMAGINI.json",
+      "title": "INDICE IMMAGINI",
+      "group": "Exchange 366",
+      "url": "4b4a705e16dfc56c.html",
+      "raw": "fonti/4b4a705e16dfc56c.json",
+      "sha256": "7d933216fa3f0e56851322f7bc26ada8882881e7fa7496d264ae73ef572c6dfa",
+      "bytes": 4856
+    },
+    {
+      "source": "CANONE_VIGENTE/Illustrazioni_Exchange_366.json",
+      "title": "Illustrazioni Exchange 366",
+      "group": "Exchange 366",
+      "url": "2df6b2248f672bd7.html",
+      "raw": "fonti/2df6b2248f672bd7.json",
+      "sha256": "f78e72bac42233972adcf7c62eee11be6e86f9210355b4fdc688dd42636093b6",
+      "bytes": 42194
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_366/CAST_RISERVATO/CAST-032.md",
+      "title": "CAST-032",
+      "group": "Storico prima di 366",
+      "url": "6817b4f3dc22f8b6.html",
+      "raw": "fonti/6817b4f3dc22f8b6.md",
+      "sha256": "a6cb9c6e36896c4ee1104432d8965f290e89c324e12bf992d4aace531aebcbda",
+      "bytes": 7940
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_366/CANONE_VIGENTE/Trama_riservata.json",
+      "title": "Trama riservata",
+      "group": "Storico prima di 366",
+      "url": "757552a4318d7e6a.html",
+      "raw": "fonti/757552a4318d7e6a.json",
+      "sha256": "8d78445d6f64a0fd18855e1e58e59c9699143ce371effb1f6949bafc2e5e33e1",
+      "bytes": 153673
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/EXCHANGE_DODICI/CAST-336_eren-teth.md",
+      "title": "CAST-336 eren-teth",
+      "group": "Exchange 366",
+      "url": "95f2814c2f5213b7.html",
+      "raw": "fonti/95f2814c2f5213b7.md",
+      "sha256": "1825e1ccdf406ba3b36d2c6cfb638c9266d4f80556e1bddb84d022e073d15b0f",
+      "bytes": 13941
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-181_kira-keren/03_Vita_privata_Scheda.json",
+      "title": "03 Vita privata Scheda",
+      "group": "Exchange 366",
+      "url": "a4036466f318cf2f.html",
+      "raw": "fonti/a4036466f318cf2f.json",
+      "sha256": "3bf2d4eded5d076c9ae51ba9f6d615ba4ba5a6a4670a3a96e638e93402d35b6e",
+      "bytes": 1952
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-589.md",
+      "title": "CAST-589",
+      "group": "Exchange 366",
+      "url": "ad40dcca82fb24ec.html",
+      "raw": "fonti/ad40dcca82fb24ec.md",
+      "sha256": "bbb100181d02a05fb3ef42cd6fa10e283893508349ebcc6cd0a577eba8bbcd20",
+      "bytes": 1404
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-141_irma-kehl/03_Vita_privata_Scheda.json",
+      "title": "03 Vita privata Scheda",
+      "group": "Exchange 366",
+      "url": "c784ebbf31fbbffa.html",
+      "raw": "fonti/c784ebbf31fbbffa.json",
+      "sha256": "8091fc054eb12631e1c024ca425ba40a4802642c8d401ac729dc31263af5ee24",
+      "bytes": 2161
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/INDICI_E_DOCUMENTI_CONDIVISI/366_Registro_del_nucleo_Exchange.md",
+      "title": "366 Registro del nucleo Exchange",
+      "group": "Exchange 366",
+      "url": "713845a769c4cd44.html",
+      "raw": "fonti/713845a769c4cd44.md",
+      "sha256": "45d4906c9027e742ed796acf11e046ccd831d9326f68ce3ec797bdd2543ed775",
+      "bytes": 2455
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/EXCHANGE_DODICI/CAST-421_wena-cadrin.md",
+      "title": "CAST-421 wena-cadrin",
+      "group": "Exchange 366",
+      "url": "c540fe9ea8083e63.html",
+      "raw": "fonti/c540fe9ea8083e63.md",
+      "sha256": "6c92fdbf615ee67acb77005c5a4578556466d654cb6a37c76bea260a9ad4a38f",
+      "bytes": 13652
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-421.md",
+      "title": "CAST-421",
+      "group": "Exchange 366",
+      "url": "aa257938a5234402.html",
+      "raw": "fonti/aa257938a5234402.md",
+      "sha256": "748911cc91519c75b3ebb3125a2db134775a13546f67b895a8b53291f599e719",
+      "bytes": 5754
+    },
+    {
+      "source": "DOSSIER_EXCHANGE_366/CAST-336_eren-teth.md",
+      "title": "CAST-336 eren-teth",
+      "group": "Exchange 366",
+      "url": "9e0d7cce160075c0.html",
+      "raw": "fonti/9e0d7cce160075c0.md",
+      "sha256": "1825e1ccdf406ba3b36d2c6cfb638c9266d4f80556e1bddb84d022e073d15b0f",
+      "bytes": 13941
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-588.md",
+      "title": "CAST-588",
+      "group": "Exchange 366",
+      "url": "9d9dfb232d7b97ab.html",
+      "raw": "fonti/9d9dfb232d7b97ab.md",
+      "sha256": "44834ae57653ba494e8c585598f3b4ab36839cd9a4b469c0a7f26d20ad6d5fc3",
+      "bytes": 1395
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-243_helia-welren/INDICE_IMMAGINI.json",
+      "title": "INDICE IMMAGINI",
+      "group": "Exchange 366",
+      "url": "531155dcd63d1739.html",
+      "raw": "fonti/531155dcd63d1739.json",
+      "sha256": "a2130df18c1b11691674ad3ecde99d5b69c6846d18a43f3fe139755a83da05d7",
+      "bytes": 5546
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-589_rethan-veyr/01_Ritratto_Prompt.txt",
+      "title": "01 Ritratto Prompt",
+      "group": "Exchange 366",
+      "url": "15cb0f72f916f014.html",
+      "raw": "fonti/15cb0f72f916f014.txt",
+      "sha256": "e4c7dd6eacad6672371749a8d616111c8e99c0d20ddef88c4cca95ed51d37f96",
+      "bytes": 1055
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_366/CAST_RISERVATO/CAST-243.md",
+      "title": "CAST-243",
+      "group": "Storico prima di 366",
+      "url": "93e07f9d7fd895aa.html",
+      "raw": "fonti/93e07f9d7fd895aa.md",
+      "sha256": "e6dbc69505c31688fb734cd0c78b40b2e8b4fcf3d834ecf0e6079a4923fb3555",
+      "bytes": 5430
+    },
+    {
+      "source": "DOSSIER_EXCHANGE_366/CAST-243_helia-welren.md",
+      "title": "CAST-243 helia-welren",
+      "group": "Exchange 366",
+      "url": "9ac13978d14977e0.html",
+      "raw": "fonti/9ac13978d14977e0.md",
+      "sha256": "aab152c52c8577aef0855aa8a126c6dc52ba7ba6f32cfaacae966a5b36546a14",
+      "bytes": 14570
+    },
+    {
+      "source": "DOSSIER_EXCHANGE_366/CAST-421_wena-cadrin.md",
+      "title": "CAST-421 wena-cadrin",
+      "group": "Exchange 366",
+      "url": "925d87a3d432fcf3.html",
+      "raw": "fonti/925d87a3d432fcf3.md",
+      "sha256": "6c92fdbf615ee67acb77005c5a4578556466d654cb6a37c76bea260a9ad4a38f",
+      "bytes": 13652
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-032_livia-varn/INDICE_IMMAGINI.json",
+      "title": "INDICE IMMAGINI",
+      "group": "Exchange 366",
+      "url": "7baf88acda419c51.html",
+      "raw": "fonti/7baf88acda419c51.json",
+      "sha256": "f96adb9c506fded1ec3bba3eaef20571ac2941ceeae0e54d02ac3635af0c0372",
+      "bytes": 3904
+    },
+    {
+      "source": "DOSSIER_EXCHANGE_366/CAST-588_tavian-rell.md",
+      "title": "CAST-588 tavian-rell",
+      "group": "Exchange 366",
+      "url": "ba9fce051fa5ea1e.html",
+      "raw": "fonti/ba9fce051fa5ea1e.md",
+      "sha256": "47b245cf766f0d6c68ee60d3abea9337f551ee4df5f63ab16d0445cc9e68b59a",
+      "bytes": 14400
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-336_eren-teth/03_Vita_privata_Prompt.txt",
+      "title": "03 Vita privata Prompt",
+      "group": "Exchange 366",
+      "url": "579113582b5823b2.html",
+      "raw": "fonti/579113582b5823b2.txt",
+      "sha256": "4ee39fc6f05f793f5935ed7024a78575d72fe0c5b78a53d72b17388e452f50d6",
+      "bytes": 1037
+    },
+    {
+      "source": "CANONE_VIGENTE/Exchange_dodici_366.json",
+      "title": "Exchange dodici 366",
+      "group": "Exchange 366",
+      "url": "84ca79a23076ed62.html",
+      "raw": "fonti/84ca79a23076ed62.json",
+      "sha256": "a1859cd467c305db2386303a77697869aace15ecb7a5489412f51d75d8a34468",
+      "bytes": 168357
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-035_silas-merrow/INDICE_IMMAGINI.json",
+      "title": "INDICE IMMAGINI",
+      "group": "Exchange 366",
+      "url": "517bb15abd756138.html",
+      "raw": "fonti/517bb15abd756138.json",
+      "sha256": "e31c23ca1d18d3484c12ae768e15aa10711034d20a08edc5271ec1272c9e41d4",
+      "bytes": 3871
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-181_kira-keren/03_Vita_privata_Prompt.txt",
+      "title": "03 Vita privata Prompt",
+      "group": "Exchange 366",
+      "url": "b26c844466c71639.html",
+      "raw": "fonti/b26c844466c71639.txt",
+      "sha256": "c99fde4b9adab4d01d9e224079ab04fbb22bfa1caf139d31af0f40349147d2be",
+      "bytes": 1035
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-127_edith-torrel/02_Figura_intera_Scheda.json",
+      "title": "02 Figura intera Scheda",
+      "group": "Exchange 366",
+      "url": "de5cfde7bcbf3191.html",
+      "raw": "fonti/de5cfde7bcbf3191.json",
+      "sha256": "9f364421a4b64b2abe6729336d421bfee91ee8181e1e5f4ff241c15da14c8499",
+      "bytes": 1960
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/EXCHANGE_DODICI/CAST-141_irma-kehl.md",
+      "title": "CAST-141 irma-kehl",
+      "group": "Exchange 366",
+      "url": "5b5535b4d0e69c42.html",
+      "raw": "fonti/5b5535b4d0e69c42.md",
+      "sha256": "7a8eb21390376474f0d52f4311af134687c67303efa2dbfc0e94cd100f3f75e0",
+      "bytes": 14090
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/EXCHANGE_DODICI/CAST-181_kira-keren.md",
+      "title": "CAST-181 kira-keren",
+      "group": "Exchange 366",
+      "url": "d6f6e55c19e602b1.html",
+      "raw": "fonti/d6f6e55c19e602b1.md",
+      "sha256": "0550585cf808ed711ae252fca29f6c98259fea171ba46806c8c166850cfcbe7f",
+      "bytes": 13869
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_366/CAST_RISERVATO/CAST-181.md",
+      "title": "CAST-181",
+      "group": "Storico prima di 366",
+      "url": "21f02fdf869c5102.html",
+      "raw": "fonti/21f02fdf869c5102.md",
+      "sha256": "0f8c9df29a87f2112509531384280fffa345cdf70f54a78012d3469ae10a9e7f",
+      "bytes": 7061
+    },
+    {
+      "source": "DOSSIER_EXCHANGE_366/CAST-032_livia-varn.md",
+      "title": "CAST-032 livia-varn",
+      "group": "Exchange 366",
+      "url": "0ddabe7a5eaf0d2c.html",
+      "raw": "fonti/0ddabe7a5eaf0d2c.md",
+      "sha256": "6a27c9d8ecd077a0320562757cb2233a63812ca3a3c4c628dbf500fdf825e21b",
+      "bytes": 14474
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/EXCHANGE_DODICI/CAST-589_rethan-veyr.md",
+      "title": "CAST-589 rethan-veyr",
+      "group": "Exchange 366",
+      "url": "70a4f7d156050e69.html",
+      "raw": "fonti/70a4f7d156050e69.md",
+      "sha256": "973fe9ed35a70691604b84849d7f4a5f3f6360049fab66af034a70032e7b7173",
+      "bytes": 14446
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-588_tavian-rell/02_Figura_intera_Scheda.json",
+      "title": "02 Figura intera Scheda",
+      "group": "Exchange 366",
+      "url": "fe708709572d49f4.html",
+      "raw": "fonti/fe708709572d49f4.json",
+      "sha256": "7a86dfca9d85ecd71cb5bc76df53b4a90505f03bbc1a03fa0ee09132c591113c",
+      "bytes": 2005
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-588_tavian-rell/03_Vita_privata_Scheda.json",
+      "title": "03 Vita privata Scheda",
+      "group": "Exchange 366",
+      "url": "98426ed4ec1f6b92.html",
+      "raw": "fonti/98426ed4ec1f6b92.json",
+      "sha256": "4737348f037e1a2dbaf0d76585a6fb650d9ad2ad8eaaca81f2cb861558a8618a",
+      "bytes": 2003
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-141_irma-kehl/02_Figura_intera_Prompt.txt",
+      "title": "02 Figura intera Prompt",
+      "group": "Exchange 366",
+      "url": "6ff0da09769c4543.html",
+      "raw": "fonti/6ff0da09769c4543.txt",
+      "sha256": "7f34d7052abc47f5cadcb246e4a10c7c64dd66150182b0e1d281f836c568ffe0",
+      "bytes": 1262
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-243_helia-welren/01_Ritratto_Scheda.json",
+      "title": "01 Ritratto Scheda",
+      "group": "Exchange 366",
+      "url": "142f2b943c392e93.html",
+      "raw": "fonti/142f2b943c392e93.json",
+      "sha256": "727288f9b1f5891263b1722bfe0491d11002088b0e7ea2bf14b19fa4f042e24e",
+      "bytes": 1632
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-127_edith-torrel/02_Figura_intera_Prompt.txt",
+      "title": "02 Figura intera Prompt",
+      "group": "Exchange 366",
+      "url": "020f53b54fe6c67a.html",
+      "raw": "fonti/020f53b54fe6c67a.txt",
+      "sha256": "1aeaf875b346985f5e118f5d7f9031d256af39c31b0b0a664bc6839f391d2ee9",
+      "bytes": 1036
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-421_wena-cadrin/03_Vita_privata_Scheda.json",
+      "title": "03 Vita privata Scheda",
+      "group": "Exchange 366",
+      "url": "d7d27367590cd4bb.html",
+      "raw": "fonti/d7d27367590cd4bb.json",
+      "sha256": "7661807e6ec83b6775e9a4de5154cd42419873607b6a49fe6621321181c811c5",
+      "bytes": 1955
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-035_silas-merrow/03_Vita_privata_Prompt.txt",
+      "title": "03 Vita privata Prompt",
+      "group": "Exchange 366",
+      "url": "a3dd31c9273506d5.html",
+      "raw": "fonti/a3dd31c9273506d5.txt",
+      "sha256": "ae4ce323e29b74e1575b5ac06d5554e22764d9de7662a42676fb4a5c21dbb547",
+      "bytes": 992
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_366/CAST_RISERVATO/CAST-336.md",
+      "title": "CAST-336",
+      "group": "Storico prima di 366",
+      "url": "30b77cf5a7cbf91f.html",
+      "raw": "fonti/30b77cf5a7cbf91f.md",
+      "sha256": "65b9b77d705108c6ca7f996a56cf6ee64f56895c72eac6457a2ecf1084d7f251",
+      "bytes": 5117
+    },
+    {
+      "source": "PROMPT_EXCHANGE_366.txt",
+      "title": "PROMPT EXCHANGE 366",
+      "group": "Exchange 366",
+      "url": "2d4ea673cfdeb0dc.html",
+      "raw": "fonti/2d4ea673cfdeb0dc.txt",
+      "sha256": "91d4bb1ad5ea8f917af020ea41d1fe5d0b6099bf647066ce9508b6c3f6c40ac1",
+      "bytes": 25249
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-181.md",
+      "title": "CAST-181",
+      "group": "Exchange 366",
+      "url": "beca8fddc5efafd8.html",
+      "raw": "fonti/beca8fddc5efafd8.md",
+      "sha256": "48b984b691d726f18dc167701a17e5aa19a46cc0cd7424bfe668ecbff34794e0",
+      "bytes": 7554
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-181_kira-keren/02_Figura_intera_Prompt.txt",
+      "title": "02 Figura intera Prompt",
+      "group": "Exchange 366",
+      "url": "8ef8db0f173a866e.html",
+      "raw": "fonti/8ef8db0f173a866e.txt",
+      "sha256": "8e48032d5e84afe1927751c27cf98660e562e027d6f66b8f8041de99c9eefbc8",
+      "bytes": 1057
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_366/RISERVATO_154_The_Unbound_Exchange.md",
+      "title": "RISERVATO 154 The Unbound Exchange",
+      "group": "Storico prima di 366",
+      "url": "123d3452b01768b6.html",
+      "raw": "fonti/123d3452b01768b6.md",
+      "sha256": "01ed07f2aa5cb223d334efe51907cde2c65280a97aada45e332b7861da7ce3f7",
+      "bytes": 31267
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-243.md",
+      "title": "CAST-243",
+      "group": "Exchange 366",
+      "url": "ce2dc5fb626cc61e.html",
+      "raw": "fonti/ce2dc5fb626cc61e.md",
+      "sha256": "a0e440164042ea9919601d398a10c6b8c8b2fe8c3ddce1ebe3c782827d63abfc",
+      "bytes": 5944
+    },
+    {
+      "source": "CANONE_VIGENTE/Audit_Exchange_366.json",
+      "title": "Audit Exchange 366",
+      "group": "Exchange 366",
+      "url": "1cb0ec3dc2b9ddb0.html",
+      "raw": "fonti/1cb0ec3dc2b9ddb0.json",
+      "sha256": "0a56d1141eba32df9d23a6d3ed675ffd233694a100a7550cfee6abdb10e653fa",
+      "bytes": 1001
+    },
+    {
+      "source": "DOSSIER_EXCHANGE_366/CAST-181_kira-keren.md",
+      "title": "CAST-181 kira-keren",
+      "group": "Exchange 366",
+      "url": "42a909bbd14cfb3f.html",
+      "raw": "fonti/42a909bbd14cfb3f.md",
+      "sha256": "0550585cf808ed711ae252fca29f6c98259fea171ba46806c8c166850cfcbe7f",
+      "bytes": 13869
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-243_helia-welren/03_Vita_privata_Scheda.json",
+      "title": "03 Vita privata Scheda",
+      "group": "Exchange 366",
+      "url": "52d4e8d383ca895b.html",
+      "raw": "fonti/52d4e8d383ca895b.json",
+      "sha256": "3f4f1205ab48b1e02313a828ad86750f481923dc3ffaa1c014b9f01fcd4f9896",
+      "bytes": 1700
+    },
+    {
+      "source": "DOSSIER_EXCHANGE_366/CAST-127_edith-torrel.md",
+      "title": "CAST-127 edith-torrel",
+      "group": "Exchange 366",
+      "url": "372dd6b119be1d9d.html",
+      "raw": "fonti/372dd6b119be1d9d.md",
+      "sha256": "de4745d7474242012738dbca56916c5160fe98fbcedd595a4d51c1bdc4b0c1cb",
+      "bytes": 13839
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-589.md",
+      "title": "CAST-589",
+      "group": "Exchange 366",
+      "url": "7b01f01f586e035c.html",
+      "raw": "fonti/7b01f01f586e035c.md",
+      "sha256": "bbb100181d02a05fb3ef42cd6fa10e283893508349ebcc6cd0a577eba8bbcd20",
+      "bytes": 1404
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-336.md",
+      "title": "CAST-336",
+      "group": "Exchange 366",
+      "url": "634deff57a04a787.html",
+      "raw": "fonti/634deff57a04a787.md",
+      "sha256": "284776cbee036e4da087801abacf6f91090c4224dd39d88748671d9781cf3487",
+      "bytes": 5582
+    },
+    {
+      "source": "366_Registro_del_nucleo_Exchange.md",
+      "title": "366 Registro del nucleo Exchange",
+      "group": "Exchange 366",
+      "url": "000c6b15abb15de0.html",
+      "raw": "fonti/000c6b15abb15de0.md",
+      "sha256": "45d4906c9027e742ed796acf11e046ccd831d9326f68ce3ec797bdd2543ed775",
+      "bytes": 2455
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-032_livia-varn/03_Vita_privata_Prompt.txt",
+      "title": "03 Vita privata Prompt",
+      "group": "Exchange 366",
+      "url": "cd53a21653d47878.html",
+      "raw": "fonti/cd53a21653d47878.txt",
+      "sha256": "dda34c5e12a5aa0c233cd12c7eca6d06b347e5536305c97b7fb3b647157080d2",
+      "bytes": 1052
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-589_rethan-veyr/01_Ritratto_Scheda.json",
+      "title": "01 Ritratto Scheda",
+      "group": "Exchange 366",
+      "url": "69d755173050cbe7.html",
+      "raw": "fonti/69d755173050cbe7.json",
+      "sha256": "72a68d255a4adb4db656ef4786bdbc10bebfe0e23a45e036d629e7a3e07696ab",
+      "bytes": 1808
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-141.md",
+      "title": "CAST-141",
+      "group": "Exchange 366",
+      "url": "635464a51bc94551.html",
+      "raw": "fonti/635464a51bc94551.md",
+      "sha256": "b62538183d247ad6792ea9a1c3b7c69faf4107e1cf33043e7e1ecd32b8b2f31b",
+      "bytes": 7249
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_366/CAST_RISERVATO/CAST-141.md",
+      "title": "CAST-141",
+      "group": "Storico prima di 366",
+      "url": "37cb2ee5386ce034.html",
+      "raw": "fonti/37cb2ee5386ce034.md",
+      "sha256": "a1216b9132c25e179fcb4e195d8be9e8449e67e322758092a157be5a0871fe73",
+      "bytes": 6772
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-127_edith-torrel/03_Vita_privata_Prompt.txt",
+      "title": "03 Vita privata Prompt",
+      "group": "Exchange 366",
+      "url": "6ad11a09e2181eb6.html",
+      "raw": "fonti/6ad11a09e2181eb6.txt",
+      "sha256": "d5bb863d0857f4578613f502e3666c25f106ab3423c566d899f3f6681d87eaf9",
+      "bytes": 1009
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-421_wena-cadrin/02_Figura_intera_Scheda.json",
+      "title": "02 Figura intera Scheda",
+      "group": "Exchange 366",
+      "url": "f6e5ee04490c9c99.html",
+      "raw": "fonti/f6e5ee04490c9c99.json",
+      "sha256": "878723cadb6bd88f4216146d7e5ec751f48d444303df37f08c14be75dfdae1c0",
+      "bytes": 1986
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-141_irma-kehl/02_Figura_intera_Scheda.json",
+      "title": "02 Figura intera Scheda",
+      "group": "Exchange 366",
+      "url": "86d0ea4f3520cd53.html",
+      "raw": "fonti/86d0ea4f3520cd53.json",
+      "sha256": "79709f3c0121936698645a2619aec215be0ad074156a287b23bdbcf2c265ad0b",
+      "bytes": 2180
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/EXCHANGE_DODICI/RISERVATO_366_Exchange_nucleo_e_sviluppi.md",
+      "title": "RISERVATO 366 Exchange nucleo e sviluppi",
+      "group": "Exchange 366",
+      "url": "043e4210f223adc5.html",
+      "raw": "fonti/043e4210f223adc5.md",
+      "sha256": "5c573797a26f1e78991290f0e5e6f9ad7691e4aa914559b843e942a4ca061534",
+      "bytes": 31156
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-588_tavian-rell/01_Ritratto_Prompt.txt",
+      "title": "01 Ritratto Prompt",
+      "group": "Exchange 366",
+      "url": "008d02b738ea8056.html",
+      "raw": "fonti/008d02b738ea8056.txt",
+      "sha256": "4e488263aacf415749837997d65cbf77574f302fd25ad523740bbb89e8d1199d",
+      "bytes": 914
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-589_rethan-veyr/03_Vita_privata_Prompt.txt",
+      "title": "03 Vita privata Prompt",
+      "group": "Exchange 366",
+      "url": "87786a28f7a7adce.html",
+      "raw": "fonti/87786a28f7a7adce.txt",
+      "sha256": "bcd80dee1131604282e96419f76491856c35897704de3626fc09acd6a97b7e49",
+      "bytes": 1257
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_366/CAST_RISERVATO/CAST-421.md",
+      "title": "CAST-421",
+      "group": "Storico prima di 366",
+      "url": "53dd9a92029efaae.html",
+      "raw": "fonti/53dd9a92029efaae.md",
+      "sha256": "0e7e55065b2930c1081d31c9a4e22c3e26f862f067d3f81e582bceadcffaf293",
+      "bytes": 5284
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-243_helia-welren/01_Ritratto_Prompt.txt",
+      "title": "01 Ritratto Prompt",
+      "group": "Exchange 366",
+      "url": "dcc764f7aae01f03.html",
+      "raw": "fonti/dcc764f7aae01f03.txt",
+      "sha256": "8721aad0f24950768aa96e7a30037a3ef4c37123bd93d5f2fdfccba3eb2bbd63",
+      "bytes": 877
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/EXCHANGE_DODICI/Exchange_dodici_366.json",
+      "title": "Exchange dodici 366",
+      "group": "Exchange 366",
+      "url": "1661c40ddf927eb5.html",
+      "raw": "fonti/1661c40ddf927eb5.json",
+      "sha256": "a1859cd467c305db2386303a77697869aace15ecb7a5489412f51d75d8a34468",
+      "bytes": 168357
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_366/CANONE_VIGENTE/Cast_riservato.json",
+      "title": "Cast riservato",
+      "group": "Storico prima di 366",
+      "url": "3fcf0cf04159cebc.html",
+      "raw": "fonti/3fcf0cf04159cebc.json",
+      "sha256": "6965af17595c5652bc26ad5860d6fca7a31e4ed103a7fcfdda75dfec016f7688",
+      "bytes": 3338338
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-336_eren-teth/INDICE_IMMAGINI.json",
+      "title": "INDICE IMMAGINI",
+      "group": "Exchange 366",
+      "url": "cda70eb35cae95fa.html",
+      "raw": "fonti/cda70eb35cae95fa.json",
+      "sha256": "bd1df29edeb8bbde0661ca41549ed78b5f7200ddf2b4868f679b79f77f722c89",
+      "bytes": 4848
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/00_LEGGIMI.md",
+      "title": "00 LEGGIMI",
+      "group": "Exchange 366",
+      "url": "619f532d9ee0fad2.html",
+      "raw": "fonti/619f532d9ee0fad2.md",
+      "sha256": "07b67f7913691a11f2f4f40d7e3fdef55488d169e65dcb0c30a060072b2bc9a2",
+      "bytes": 679
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/EXCHANGE_DODICI/CAST-127_edith-torrel.md",
+      "title": "CAST-127 edith-torrel",
+      "group": "Exchange 366",
+      "url": "837f5278afcc7362.html",
+      "raw": "fonti/837f5278afcc7362.md",
+      "sha256": "de4745d7474242012738dbca56916c5160fe98fbcedd595a4d51c1bdc4b0c1cb",
+      "bytes": 13839
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-589_rethan-veyr/02_Figura_intera_Prompt.txt",
+      "title": "02 Figura intera Prompt",
+      "group": "Exchange 366",
+      "url": "04ba28b546f79c9e.html",
+      "raw": "fonti/04ba28b546f79c9e.txt",
+      "sha256": "6402474218b4ab334da282abe9bcd8c4acb76a8ffa1851798b245da375dad39c",
+      "bytes": 1229
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-588_tavian-rell/02_Figura_intera_Prompt.txt",
+      "title": "02 Figura intera Prompt",
+      "group": "Exchange 366",
+      "url": "61c8a2b740eb31e5.html",
+      "raw": "fonti/61c8a2b740eb31e5.txt",
+      "sha256": "1599219f7e656acf7f267bb5355c93aa907323b384ea9363cb5cddb381c13a34",
+      "bytes": 1099
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-588.md",
+      "title": "CAST-588",
+      "group": "Exchange 366",
+      "url": "e298e109faebc70a.html",
+      "raw": "fonti/e298e109faebc70a.md",
+      "sha256": "44834ae57653ba494e8c585598f3b4ab36839cd9a4b469c0a7f26d20ad6d5fc3",
+      "bytes": 1395
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-141_irma-kehl/INDICE_IMMAGINI.json",
+      "title": "INDICE IMMAGINI",
+      "group": "Exchange 366",
+      "url": "75cb1e6e85f26fe0.html",
+      "raw": "fonti/75cb1e6e85f26fe0.json",
+      "sha256": "15f06770c869acd17c2e2be98f00bc979d18b0549b21f68e56a7e25d22baaba4",
+      "bytes": 5251
+    },
+    {
+      "source": "DOSSIER_EXCHANGE_366/CAST-141_irma-kehl.md",
+      "title": "CAST-141 irma-kehl",
+      "group": "Exchange 366",
+      "url": "30c0dfb3cf7837ca.html",
+      "raw": "fonti/30c0dfb3cf7837ca.md",
+      "sha256": "7a8eb21390376474f0d52f4311af134687c67303efa2dbfc0e94cd100f3f75e0",
+      "bytes": 14090
+    },
+    {
+      "source": "RISERVATO_366_Exchange_nucleo_e_sviluppi.md",
+      "title": "RISERVATO 366 Exchange nucleo e sviluppi",
+      "group": "Exchange 366",
+      "url": "489635097e30c671.html",
+      "raw": "fonti/489635097e30c671.md",
+      "sha256": "5c573797a26f1e78991290f0e5e6f9ad7691e4aa914559b843e942a4ca061534",
+      "bytes": 31156
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/EXCHANGE_DODICI/CAST-035_silas-merrow.md",
+      "title": "CAST-035 silas-merrow",
+      "group": "Exchange 366",
+      "url": "5d0ff5e72a21cb81.html",
+      "raw": "fonti/5d0ff5e72a21cb81.md",
+      "sha256": "eaf6ea1f1658e6db2462ff3b557896838e78d0f84e1306aaca4cb7fa6db6bf0e",
+      "bytes": 14244
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/EXCHANGE_DODICI/CAST-588_tavian-rell.md",
+      "title": "CAST-588 tavian-rell",
+      "group": "Exchange 366",
+      "url": "23d819723944dc5e.html",
+      "raw": "fonti/23d819723944dc5e.md",
+      "sha256": "47b245cf766f0d6c68ee60d3abea9337f551ee4df5f63ab16d0445cc9e68b59a",
+      "bytes": 14400
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-181_kira-keren/02_Figura_intera_Scheda.json",
+      "title": "02 Figura intera Scheda",
+      "group": "Exchange 366",
+      "url": "e1cf2d8f051d8d78.html",
+      "raw": "fonti/e1cf2d8f051d8d78.json",
+      "sha256": "5223849fc4d9fff5d9a011296e7ae83e37250f04e64f28013e8c0fdeae61b858",
+      "bytes": 1977
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-589_rethan-veyr/02_Figura_intera_Scheda.json",
+      "title": "02 Figura intera Scheda",
+      "group": "Exchange 366",
+      "url": "5d7f1da9fca87270.html",
+      "raw": "fonti/5d7f1da9fca87270.json",
+      "sha256": "a9f739d32680676244acb48773396a3754d944d30aca0f834e206e586b3d8d05",
+      "bytes": 2135
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/EXCHANGE_DODICI/CAST-243_helia-welren.md",
+      "title": "CAST-243 helia-welren",
+      "group": "Exchange 366",
+      "url": "32ce143a5af66722.html",
+      "raw": "fonti/32ce143a5af66722.md",
+      "sha256": "aab152c52c8577aef0855aa8a126c6dc52ba7ba6f32cfaacae966a5b36546a14",
+      "bytes": 14570
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-336_eren-teth/02_Figura_intera_Prompt.txt",
+      "title": "02 Figura intera Prompt",
+      "group": "Exchange 366",
+      "url": "1676b24178b57587.html",
+      "raw": "fonti/1676b24178b57587.txt",
+      "sha256": "a388388019d63596f07b8c3dd196718c45683bbfc4ae5dd82cd3e96f54f7e670",
+      "bytes": 1061
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/EXCHANGE_DODICI/CAST-032_livia-varn.md",
+      "title": "CAST-032 livia-varn",
+      "group": "Exchange 366",
+      "url": "ba05ca05a3ca33d9.html",
+      "raw": "fonti/ba05ca05a3ca33d9.md",
+      "sha256": "6a27c9d8ecd077a0320562757cb2233a63812ca3a3c4c628dbf500fdf825e21b",
+      "bytes": 14474
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-127_edith-torrel/INDICE_IMMAGINI.json",
+      "title": "INDICE IMMAGINI",
+      "group": "Exchange 366",
+      "url": "2039387f9c16750e.html",
+      "raw": "fonti/2039387f9c16750e.json",
+      "sha256": "b52869fdb1c20575b53293df1e6517f7b601718463ae1adad562340d1676b28d",
+      "bytes": 4845
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_366/23_Registro_unico_del_canone.md",
+      "title": "23 Registro unico del canone",
+      "group": "Storico prima di 366",
+      "url": "df7c31b8722acabd.html",
+      "raw": "fonti/df7c31b8722acabd.md",
+      "sha256": "a2f4124ebe53494df6cff8981a6cf8da87f5f262a99535ed8cf29652a3c22c3f",
+      "bytes": 60810
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-243_helia-welren/02_Figura_intera_Prompt.txt",
+      "title": "02 Figura intera Prompt",
+      "group": "Exchange 366",
+      "url": "9c0de1d9e2bc751c.html",
+      "raw": "fonti/9c0de1d9e2bc751c.txt",
+      "sha256": "98b8b90915dc3339fe48fa44a541ff031144eda137031bd3d6db04fdfeaa20ab",
+      "bytes": 947
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-588_tavian-rell/INDICE_IMMAGINI.json",
+      "title": "INDICE IMMAGINI",
+      "group": "Exchange 366",
+      "url": "fdb0628246dadaed.html",
+      "raw": "fonti/fdb0628246dadaed.json",
+      "sha256": "94baa2e20bc06786920454d4c9ff42192ed2caa878a54603131fa30ddd8b991b",
+      "bytes": 6187
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-181_kira-keren/INDICE_IMMAGINI.json",
+      "title": "INDICE IMMAGINI",
+      "group": "Exchange 366",
+      "url": "2a54214052fd15f2.html",
+      "raw": "fonti/2a54214052fd15f2.json",
+      "sha256": "b7cc4799973c075eb771d654e06aa7ba185bf3f8f3d3fe2affd06690deccc5c2",
+      "bytes": 4840
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-243_helia-welren/03_Vita_privata_Prompt.txt",
+      "title": "03 Vita privata Prompt",
+      "group": "Exchange 366",
+      "url": "7abb1d9e22d5a05d.html",
+      "raw": "fonti/7abb1d9e22d5a05d.txt",
+      "sha256": "dc53c50e7b7ae3dc38a59b9a49ea5d5043e420cd88416ad2bef2d9b50898370e",
+      "bytes": 933
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_366/CAST_RISERVATO/CAST-035.md",
+      "title": "CAST-035",
+      "group": "Storico prima di 366",
+      "url": "52c317f8c9e9a042.html",
+      "raw": "fonti/52c317f8c9e9a042.md",
+      "sha256": "20e0343986e9d005ce57258f1f43b8a48d85511d2e77bd343ae1a04d2cd503ae",
+      "bytes": 8641
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-589_rethan-veyr/03_Vita_privata_Scheda.json",
+      "title": "03 Vita privata Scheda",
+      "group": "Exchange 366",
+      "url": "1879b006267112dc.html",
+      "raw": "fonti/1879b006267112dc.json",
+      "sha256": "257fb580dc0eedf20e2fcb99df975fa5d6159f9a553ca95e1de5a18f6c1ac132",
+      "bytes": 2160
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-243_helia-welren/02_Figura_intera_Scheda.json",
+      "title": "02 Figura intera Scheda",
+      "group": "Exchange 366",
+      "url": "aca03cff2a1c164b.html",
+      "raw": "fonti/aca03cff2a1c164b.json",
+      "sha256": "cdabccf626075bdffc35f97e02eb84e9805b272f4b6ded2a400adca662823464",
+      "bytes": 1717
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-588_tavian-rell/01_Ritratto_Scheda.json",
+      "title": "01 Ritratto Scheda",
+      "group": "Exchange 366",
+      "url": "ecc2f589c00dea11.html",
+      "raw": "fonti/ecc2f589c00dea11.json",
+      "sha256": "6be543cbbf2e89e3394823e111e685ccb8124bb4687580efb7ade1b2474d645e",
+      "bytes": 1667
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-141_irma-kehl/03_Vita_privata_Prompt.txt",
+      "title": "03 Vita privata Prompt",
+      "group": "Exchange 366",
+      "url": "8f3a644f70f3f177.html",
+      "raw": "fonti/8f3a644f70f3f177.txt",
+      "sha256": "d6b9c286d7c1b5c171acbb0af9f7bb94e205a69ab7d3df646c545422a609902b",
+      "bytes": 1246
+    },
+    {
+      "source": "DOSSIER_EXCHANGE_366/CAST-035_silas-merrow.md",
+      "title": "CAST-035 silas-merrow",
+      "group": "Exchange 366",
+      "url": "6e244392ad4434e5.html",
+      "raw": "fonti/6e244392ad4434e5.md",
+      "sha256": "eaf6ea1f1658e6db2462ff3b557896838e78d0f84e1306aaca4cb7fa6db6bf0e",
+      "bytes": 14244
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-421_wena-cadrin/02_Figura_intera_Prompt.txt",
+      "title": "02 Figura intera Prompt",
+      "group": "Exchange 366",
+      "url": "fcc9a474cec65eaf.html",
+      "raw": "fonti/fcc9a474cec65eaf.txt",
+      "sha256": "2d1adf620f78a868d9c6d9d42c5e7a45c8984b234fd260a590828d1ee5b24013",
+      "bytes": 1064
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-588_tavian-rell/03_Vita_privata_Prompt.txt",
+      "title": "03 Vita privata Prompt",
+      "group": "Exchange 366",
+      "url": "cffdd38b7d94312b.html",
+      "raw": "fonti/cffdd38b7d94312b.txt",
+      "sha256": "bced76da97290a934d4729f1b5927036bd26c35a60229127ca1018f0678b332f",
+      "bytes": 1100
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-035_silas-merrow/03_Vita_privata_Scheda.json",
+      "title": "03 Vita privata Scheda",
+      "group": "Exchange 366",
+      "url": "61a81e1d2fd9b95e.html",
+      "raw": "fonti/61a81e1d2fd9b95e.json",
+      "sha256": "bd58e23cd3598cdaf69d1a51290448208712a6ff937679cd579366f6957c667b",
+      "bytes": 1913
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-336_eren-teth/03_Vita_privata_Scheda.json",
+      "title": "03 Vita privata Scheda",
+      "group": "Exchange 366",
+      "url": "eaaf011d2c757313.html",
+      "raw": "fonti/eaaf011d2c757313.json",
+      "sha256": "affd165f46fc348de095bbc87387527c3adf5a6bdad757667be290b801738a3d",
+      "bytes": 1952
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-032_livia-varn/03_Vita_privata_Scheda.json",
+      "title": "03 Vita privata Scheda",
+      "group": "Exchange 366",
+      "url": "b2a3a7ef151bdb80.html",
+      "raw": "fonti/b2a3a7ef151bdb80.json",
+      "sha256": "e59c96f3e88a959dc00c2472069e403ca4991d62bfc2845e5b1c0ac450c9cc01",
+      "bytes": 1969
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-127_edith-torrel/03_Vita_privata_Scheda.json",
+      "title": "03 Vita privata Scheda",
+      "group": "Exchange 366",
+      "url": "ea28e8a9023d9de5.html",
+      "raw": "fonti/ea28e8a9023d9de5.json",
+      "sha256": "ce71f2f7e1a3ac3609f9304d0f319b9eaa6e5a323f9c465d35d60e5326a273ac",
+      "bytes": 1930
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_366/CAST_RISERVATO/CAST-127.md",
+      "title": "CAST-127",
+      "group": "Storico prima di 366",
+      "url": "0ce07ae2b11e0b81.html",
+      "raw": "fonti/0ce07ae2b11e0b81.md",
+      "sha256": "b39b4766faa68bdc942f7c43ad4fd9e15b367ca7a190babb9862211ad2e79a98",
+      "bytes": 6088
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-421_wena-cadrin/03_Vita_privata_Prompt.txt",
+      "title": "03 Vita privata Prompt",
+      "group": "Exchange 366",
+      "url": "28edc64dfbcd0059.html",
+      "raw": "fonti/28edc64dfbcd0059.txt",
+      "sha256": "7cdb143acf63e5716302aff07ba4766dc23d550009c742573d319aec8b4b6615",
+      "bytes": 1036
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",

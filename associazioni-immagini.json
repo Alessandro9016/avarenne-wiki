@@ -297,7 +297,8 @@
   "CAST-032": [
     "assets/cast-032-cbd21120aef5.webp",
     "assets/cast-032-fb95c9e72b79.webp",
-    "assets/cast-032-9d2d00b3c48c.webp"
+    "assets/cast-032-9d2d00b3c48c.webp",
+    "assets/exchange366-cast-032-03-vita-privata.webp"
   ],
   "CAST-033": [
     "assets/cast-033-3126f64e12f8.webp",
@@ -312,7 +313,8 @@
   "CAST-035": [
     "assets/cast-035-1a842aa9e76b.webp",
     "assets/cast-035-515f26c7a758.webp",
-    "assets/cast-035-45bbdb231f1e.webp"
+    "assets/cast-035-45bbdb231f1e.webp",
+    "assets/exchange366-cast-035-03-vita-privata.webp"
   ],
   "CAST-036": [
     "assets/cast-036-d47c676a96e3.webp"
@@ -498,7 +500,9 @@
     "assets/cast-126-8a12c65f0259.webp"
   ],
   "CAST-127": [
-    "assets/cast-127-ad0537b82cc5.webp"
+    "assets/cast-127-ad0537b82cc5.webp",
+    "assets/exchange366-cast-127-02-figura-intera.webp",
+    "assets/exchange366-cast-127-03-vita-privata.webp"
   ],
   "CAST-128": [
     "assets/cast-128-2198547655fa.webp"
@@ -540,7 +544,9 @@
     "assets/cast-140-25942a82b9c4.webp"
   ],
   "CAST-141": [
-    "assets/cast-141-88a409a662d7.webp"
+    "assets/cast-141-88a409a662d7.webp",
+    "assets/exchange366-cast-141-02-figura-intera.webp",
+    "assets/exchange366-cast-141-03-vita-privata.webp"
   ],
   "CAST-142": [
     "assets/cast-142-4feb430698c3.webp"
@@ -660,7 +666,9 @@
     "assets/cast-180-7a0443f5b3d0.webp"
   ],
   "CAST-181": [
-    "assets/cast-181-1676e3b7f178.webp"
+    "assets/cast-181-1676e3b7f178.webp",
+    "assets/exchange366-cast-181-02-figura-intera.webp",
+    "assets/exchange366-cast-181-03-vita-privata.webp"
   ],
   "CAST-182": [
     "assets/cast-182-c9d32201d0bd.webp"
@@ -792,7 +800,9 @@
     "assets/cast-331-abe72806ac95.webp"
   ],
   "CAST-336": [
-    "assets/cast-336-9b6a97db8950.webp"
+    "assets/cast-336-9b6a97db8950.webp",
+    "assets/exchange366-cast-336-03-vita-privata.webp",
+    "assets/exchange366-cast-336-02-figura-intera.webp"
   ],
   "CAST-341": [
     "assets/cast-341-74d8bb3d3256.webp"
@@ -843,7 +853,9 @@
     "assets/cast-416-b863f56b9776.webp"
   ],
   "CAST-421": [
-    "assets/cast-421-3f5dff5da0f1.webp"
+    "assets/cast-421-3f5dff5da0f1.webp",
+    "assets/exchange366-cast-421-02-figura-intera.webp",
+    "assets/exchange366-cast-421-03-vita-privata.webp"
   ],
   "CAST-426": [
     "assets/cast-426-00b622a92934.webp"
@@ -2633,5 +2645,20 @@
   ],
   "PHN-024": [
     "assets/fenomeno363-phn-024.webp"
+  ],
+  "CAST-243": [
+    "assets/exchange366-cast-243-01-ritratto.webp",
+    "assets/exchange366-cast-243-02-figura-intera.webp",
+    "assets/exchange366-cast-243-03-vita-privata.webp"
+  ],
+  "CAST-588": [
+    "assets/exchange366-cast-588-01-ritratto.webp",
+    "assets/exchange366-cast-588-02-figura-intera.webp",
+    "assets/exchange366-cast-588-03-vita-privata.webp"
+  ],
+  "CAST-589": [
+    "assets/exchange366-cast-589-01-ritratto.webp",
+    "assets/exchange366-cast-589-02-figura-intera.webp",
+    "assets/exchange366-cast-589-03-vita-privata.webp"
   ]
 }

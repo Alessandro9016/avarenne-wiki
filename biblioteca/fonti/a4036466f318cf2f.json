@@ -1,0 +1,16 @@
+{
+  "id": "CAST-181",
+  "name": "Kira Keren",
+  "variant": "03_Vita_privata",
+  "asset": "assets/exchange366-cast-181-03-vita-privata.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-181_kira-keren/03_Vita_privata_366.png",
+  "source_sha256": "062c1a70cb0c4d2cab6d5aec290ed6df3fb3710402a632a57cb0a1817839e9b0",
+  "generator": "builtin image_gen",
+  "prompt": "Premium dark fantasy novel illustration, semi-realistic painterly editorial portrait, mature elegant character design, finely painted face and textile textures, restrained atmospheric lighting, late nineteenth-century inspired industrial fantasy Avarenne. No anime exaggeration, no photographic cosplay, no text, labels or watermark. One image only, vertical 2:3 composition. Anatomically convincing hands and body. No attack or ability demonstration. Subject: Woman48, weathered olive skin, dark grey eyes, long black hair streaked silver in a loose braid, strong cheekbones, olive travelling coat, rust neck scarf, practical broad belt; preserve approved face. Scene: at a mountain waystation setting aside a rolled map and warming bread at a stove, seasoned guide at rest, no cloak made of shadows This is a character illustration, not proof that a future narrative event happened. Input reference establishes the same individual: preserve face, age, skin tone and distinguishing features; adapt pose and clothing only as described.",
+  "reference_paths": [
+    "C:\\Users\\Lenovo\\Documents\\Codex\\2026-10-09\\istruzioni-per-il-creatore-di-mondi\\outputs\\WIKI_AVARENNE\\assets\\cast-181-1676e3b7f178.webp"
+  ],
+  "visual_review": "APPROVATA: volto e abiti coerenti, resa narrativa e distinzione del soggetto controllate; anatomie Ilyr e Ossari riconoscibili, nessun nuovo potere attestato.",
+  "revision": 366,
+  "narrative_status": "Illustrazione del personaggio, non evento futuro già avvenuto"
+}

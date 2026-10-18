@@ -1,0 +1,16 @@
+{
+  "id": "CAST-588",
+  "name": "Tavian Rell",
+  "variant": "03_Vita_privata",
+  "asset": "assets/exchange366-cast-588-03-vita-privata.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-588_tavian-rell/03_Vita_privata_366.png",
+  "source_sha256": "d3becbfff015fa446fa6e886cfb3fbdcac437b97ee9738a8346ac1eb9d3bde41",
+  "generator": "builtin image_gen",
+  "prompt": "Premium dark fantasy novel illustration, semi-realistic painterly editorial portrait, mature elegant character design, finely painted face and textile textures, restrained atmospheric lighting, late nineteenth-century inspired industrial fantasy Avarenne. No anime exaggeration, no photographic cosplay, no text, labels or watermark. One image only, vertical 2:3 composition. Anatomically convincing hands and body. No attack or ability demonstration. Subject: Man31, medium brown skin, long narrow face, dark brown eyes, closely cropped black hair with a small silver premature streak at right temple, clean shaven, slim 181cm, bottle-green frock coat, ink-blue waistcoat and ivory high collar, brass reading spectacles in pocket not worn. Scene: at a cramped study table late at night with a small string instrument set beside loose calculation sheets, embarrassed amused smile, no glowing equations This is a character illustration, not proof that a future narrative event happened. Preserve exactly the same man as the reference: facial structure, skin, silver temple streak and clothing palette.",
+  "reference_paths": [
+    "C:\\Users\\Lenovo\\.codex\\generated_images\\01a11eb6-983f-70b1-9c55-1cfef1e845ea\\exec-4c534236-45aa-4f40-8cd1-fd2e8c2213a7.png"
+  ],
+  "visual_review": "APPROVATA: volto e abiti coerenti, resa narrativa e distinzione del soggetto controllate; anatomie Ilyr e Ossari riconoscibili, nessun nuovo potere attestato.",
+  "revision": 366,
+  "narrative_status": "Illustrazione del personaggio, non evento futuro già avvenuto"
+}

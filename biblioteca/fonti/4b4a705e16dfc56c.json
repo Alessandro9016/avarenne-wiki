@@ -1,0 +1,51 @@
+{
+  "id": "CAST-421",
+  "name": "Wena Cadrin",
+  "approved_previous": [
+    {
+      "asset": "assets/cast-421-3f5dff5da0f1.webp",
+      "original_source": "ORGANIZZATO_PER_MILESTONE\\14_Illustrazioni_e_direzione_grafica\\RISERVATO\\IMMAGINI\\PERSONAGGI\\03_Cast_funzionale\\Nareth\\Norell\\Noran\\NET-C10-48\\CAST-421_Wena_Cadrin\\01_Ritratto_v1.png",
+      "organized_copy": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-421_wena-cadrin/Approvate_precedenti_1.png"
+    }
+  ],
+  "new_images": [
+    {
+      "id": "CAST-421",
+      "name": "Wena Cadrin",
+      "variant": "02_Figura_intera",
+      "asset": "assets/exchange366-cast-421-02-figura-intera.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-421_wena-cadrin/02_Figura_intera_366.png",
+      "source_sha256": "a4ba57e230efe09fe64786dd77e6e2762be3bc71d08f224ab9babb5bceb67cec",
+      "generator": "builtin image_gen",
+      "prompt": "Premium dark fantasy novel illustration, semi-realistic painterly editorial portrait, mature elegant character design, finely painted face and textile textures, restrained atmospheric lighting, late nineteenth-century inspired industrial fantasy Avarenne. No anime exaggeration, no photographic cosplay, no text, labels or watermark. One image only, vertical 2:3 composition. Anatomically convincing hands and body. No attack or ability demonstration. Subject: Woman28, pale freckled skin, grey-green eyes, auburn hair in soft low pinned bun, delicate long face, black high-collared wool dress with discreet lace, composed but lively expression; preserve approved face. Scene: Full body standing civilian character study in a plausible street of their home town, feet visible, practical period clothing and true body proportions. This is a character illustration, not proof that a future narrative event happened. Input reference establishes the same individual: preserve face, age, skin tone and distinguishing features; adapt pose and clothing only as described.",
+      "reference_paths": [
+        "C:\\Users\\Lenovo\\Documents\\Codex\\2026-10-09\\istruzioni-per-il-creatore-di-mondi\\outputs\\WIKI_AVARENNE\\assets\\cast-421-3f5dff5da0f1.webp"
+      ],
+      "visual_review": "APPROVATA: volto e abiti coerenti, resa narrativa e distinzione del soggetto controllate; anatomie Ilyr e Ossari riconoscibili, nessun nuovo potere attestato.",
+      "revision": 366,
+      "narrative_status": "Illustrazione del personaggio, non evento futuro già avvenuto"
+    },
+    {
+      "id": "CAST-421",
+      "name": "Wena Cadrin",
+      "variant": "03_Vita_privata",
+      "asset": "assets/exchange366-cast-421-03-vita-privata.webp",
+      "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-421_wena-cadrin/03_Vita_privata_366.png",
+      "source_sha256": "9413fbcdf99a895a6fb96715a324593b5fce88ad80b368950701b22d4547ce97",
+      "generator": "builtin image_gen",
+      "prompt": "Premium dark fantasy novel illustration, semi-realistic painterly editorial portrait, mature elegant character design, finely painted face and textile textures, restrained atmospheric lighting, late nineteenth-century inspired industrial fantasy Avarenne. No anime exaggeration, no photographic cosplay, no text, labels or watermark. One image only, vertical 2:3 composition. Anatomically convincing hands and body. No attack or ability demonstration. Subject: Woman28, pale freckled skin, grey-green eyes, auburn hair in soft low pinned bun, delicate long face, black high-collared wool dress with discreet lace, composed but lively expression; preserve approved face. Scene: in a modest home conservatory tending a hardy potted plant, black civilian dress, lively private smile, no ghosts or corpses This is a character illustration, not proof that a future narrative event happened. Input reference establishes the same individual: preserve face, age, skin tone and distinguishing features; adapt pose and clothing only as described.",
+      "reference_paths": [
+        "C:\\Users\\Lenovo\\Documents\\Codex\\2026-10-09\\istruzioni-per-il-creatore-di-mondi\\outputs\\WIKI_AVARENNE\\assets\\cast-421-3f5dff5da0f1.webp"
+      ],
+      "visual_review": "APPROVATA: volto e abiti coerenti, resa narrativa e distinzione del soggetto controllate; anatomie Ilyr e Ossari riconoscibili, nessun nuovo potere attestato.",
+      "revision": 366,
+      "narrative_status": "Illustrazione del personaggio, non evento futuro già avvenuto"
+    }
+  ],
+  "all_wiki_assets": [
+    "assets/cast-421-3f5dff5da0f1.webp",
+    "assets/exchange366-cast-421-02-figura-intera.webp",
+    "assets/exchange366-cast-421-03-vita-privata.webp"
+  ],
+  "visual_review_complete": true
+}

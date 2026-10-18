@@ -4,7 +4,7 @@
     "title": "A Garden Between Worlds",
     "kind": "Archi narrativi",
     "url": "arc-27-a-garden-between-worlds.html",
-    "bytes": 11174,
+    "bytes": 11681,
     "image_count": 1
   },
   {
@@ -12,7 +12,7 @@
     "title": "A Judgment Without a Throne",
     "kind": "Archi narrativi",
     "url": "arc-20-a-judgment-without-a-throne.html",
-    "bytes": 11380,
+    "bytes": 11882,
     "image_count": 1
   },
   {
@@ -20,7 +20,7 @@
     "title": "A Patient Is Not a Model",
     "kind": "Archi narrativi",
     "url": "arc-07-a-patient-is-not-a-model.html",
-    "bytes": 11352,
+    "bytes": 11879,
     "image_count": 1
   },
   {
@@ -28,7 +28,7 @@
     "title": "A Person Made Here",
     "kind": "Archi narrativi",
     "url": "arc-14-a-person-made-here.html",
-    "bytes": 11303,
+    "bytes": 11838,
     "image_count": 1
   },
   {
@@ -36,7 +36,7 @@
     "title": "A Price for Recovery",
     "kind": "Archi narrativi",
     "url": "arc-04-a-price-for-recovery.html",
-    "bytes": 10583,
+    "bytes": 11108,
     "image_count": 1
   },
   {
@@ -44,7 +44,7 @@
     "title": "A World That Can Leave",
     "kind": "Archi narrativi",
     "url": "arc-35-a-world-that-can-leave.html",
-    "bytes": 11338,
+    "bytes": 11863,
     "image_count": 1
   },
   {
@@ -204,7 +204,7 @@
     "title": "Alexander Valcienne",
     "kind": "Personaggi",
     "url": "cast-001-alexander-valcienne.html",
-    "bytes": 71733,
+    "bytes": 72561,
     "image_count": 7
   },
   {
@@ -348,7 +348,7 @@
     "title": "An Exchange Beyond the Room",
     "kind": "Archi narrativi",
     "url": "arc-30-an-exchange-beyond-the-room.html",
-    "bytes": 11332,
+    "bytes": 11839,
     "image_count": 1
   },
   {
@@ -356,7 +356,7 @@
     "title": "An Exit Kept Open",
     "kind": "Archi narrativi",
     "url": "arc-15-an-exit-kept-open.html",
-    "bytes": 11178,
+    "bytes": 11713,
     "image_count": 1
   },
   {
@@ -1556,7 +1556,7 @@
     "title": "Certified Weather",
     "kind": "Archi narrativi",
     "url": "arc-06-certified-weather.html",
-    "bytes": 11240,
+    "bytes": 11767,
     "image_count": 1
   },
   {
@@ -1972,7 +1972,7 @@
     "title": "Copies That Cost",
     "kind": "Archi narrativi",
     "url": "arc-08-copies-that-cost.html",
-    "bytes": 11262,
+    "bytes": 11789,
     "image_count": 1
   },
   {
@@ -2708,8 +2708,16 @@
     "title": "Edith Torrel",
     "kind": "Personaggi",
     "url": "cast-127-edith-torrel.html",
-    "bytes": 14573,
-    "image_count": 2
+    "bytes": 15732,
+    "image_count": 4
+  },
+  {
+    "id": "EXC366-CAST-127",
+    "title": "Edith Torrel — dossier principale",
+    "kind": "Dossier principali",
+    "url": "exchange-dossier-cast-127-edith-torrel.html",
+    "bytes": 21863,
+    "image_count": 3
   },
   {
     "id": "EDRAN",
@@ -2820,7 +2828,7 @@
     "title": "Elias Veyne",
     "kind": "Personaggi",
     "url": "elias-veyne.html",
-    "bytes": 33968,
+    "bytes": 34623,
     "image_count": 7
   },
   {
@@ -3020,8 +3028,16 @@
     "title": "Eren Teth",
     "kind": "Personaggi",
     "url": "cast-336-eren-teth.html",
-    "bytes": 15079,
-    "image_count": 2
+    "bytes": 16238,
+    "image_count": 4
+  },
+  {
+    "id": "EXC366-CAST-336",
+    "title": "Eren Teth — dossier principale",
+    "kind": "Dossier principali",
+    "url": "exchange-dossier-cast-336-eren-teth.html",
+    "bytes": 21944,
+    "image_count": 3
   },
   {
     "id": "GUIDE-343",
@@ -3364,8 +3380,8 @@
     "title": "Galleria illustrata",
     "kind": "Indici",
     "url": "galleria-illustrata.html",
-    "bytes": 382137,
-    "image_count": 775
+    "bytes": 390301,
+    "image_count": 796
   },
   {
     "id": "CAST-107",
@@ -3764,8 +3780,16 @@
     "title": "Helia Welren",
     "kind": "Personaggi",
     "url": "cast-243-helia-welren.html",
-    "bytes": 14704,
-    "image_count": 0
+    "bytes": 16279,
+    "image_count": 3
+  },
+  {
+    "id": "EXC366-CAST-243",
+    "title": "Helia Welren — dossier principale",
+    "kind": "Dossier principali",
+    "url": "exchange-dossier-cast-243-helia-welren.html",
+    "bytes": 22635,
+    "image_count": 3
   },
   {
     "id": "CAST-084",
@@ -3878,6 +3902,14 @@
     "url": "cast-554-hugo-lethren.html",
     "bytes": 10438,
     "image_count": 1
+  },
+  {
+    "id": "EXCHANGE-CORE-366",
+    "title": "I dodici dell’Exchange",
+    "kind": "Organizzazioni",
+    "url": "exchange-dodici.html",
+    "bytes": 15792,
+    "image_count": 10
   },
   {
     "id": "DOC-77",
@@ -4020,7 +4052,7 @@
     "title": "Indice generale A–Z",
     "kind": "Indici",
     "url": "indice-generale.html",
-    "bytes": 123633,
+    "bytes": 125194,
     "image_count": 0
   },
   {
@@ -4212,8 +4244,16 @@
     "title": "Irma Kehl",
     "kind": "Personaggi",
     "url": "cast-141-irma-kehl.html",
-    "bytes": 18168,
-    "image_count": 2
+    "bytes": 19308,
+    "image_count": 4
+  },
+  {
+    "id": "EXC366-CAST-141",
+    "title": "Irma Kehl — dossier principale",
+    "kind": "Dossier principali",
+    "url": "exchange-dossier-cast-141-irma-kehl.html",
+    "bytes": 22093,
+    "image_count": 3
   },
   {
     "id": "CAST-570",
@@ -4572,8 +4612,16 @@
     "title": "Kira Keren",
     "kind": "Personaggi",
     "url": "cast-181-kira-keren.html",
-    "bytes": 19265,
-    "image_count": 2
+    "bytes": 20434,
+    "image_count": 4
+  },
+  {
+    "id": "EXC366-CAST-181",
+    "title": "Kira Keren — dossier principale",
+    "kind": "Dossier principali",
+    "url": "exchange-dossier-cast-181-kira-keren.html",
+    "bytes": 21879,
+    "image_count": 3
   },
   {
     "id": "CAST-204",
@@ -4868,7 +4916,7 @@
     "title": "Lethorne",
     "kind": "Luoghi",
     "url": "loc-001-lethorne.html",
-    "bytes": 17799,
+    "bytes": 18165,
     "image_count": 5
   },
   {
@@ -4892,7 +4940,15 @@
     "title": "Livia Varn",
     "kind": "Personaggi",
     "url": "cast-032-livia-varn.html",
-    "bytes": 19560,
+    "bytes": 20322,
+    "image_count": 5
+  },
+  {
+    "id": "EXC366-CAST-032",
+    "title": "Livia Varn — dossier principale",
+    "kind": "Dossier principali",
+    "url": "exchange-dossier-cast-032-livia-varn.html",
+    "bytes": 22755,
     "image_count": 4
   },
   {
@@ -5029,6 +5085,14 @@
     "kind": "Personaggi",
     "url": "cast-067-lucien-valcienne.html",
     "bytes": 12571,
+    "image_count": 0
+  },
+  {
+    "id": "EXCHANGE-PATHS-366",
+    "title": "L’Exchange negli otto volumi",
+    "kind": "Struttura narrativa",
+    "url": "exchange-percorsi.html",
+    "bytes": 38585,
     "image_count": 0
   },
   {
@@ -6020,7 +6084,7 @@
     "title": "No Patient by Vote",
     "kind": "Archi narrativi",
     "url": "arc-23-no-patient-by-vote.html",
-    "bytes": 11754,
+    "bytes": 12261,
     "image_count": 1
   },
   {
@@ -6604,8 +6668,8 @@
     "title": "Personaggi",
     "kind": "Indici tematici",
     "url": "personaggi.html",
-    "bytes": 175317,
-    "image_count": 255
+    "bytes": 211887,
+    "image_count": 330
   },
   {
     "id": "DOC-159",
@@ -6652,7 +6716,7 @@
     "title": "Port Auvrel",
     "kind": "Luoghi",
     "url": "loc-004-port-auvrel.html",
-    "bytes": 12374,
+    "bytes": 12703,
     "image_count": 5
   },
   {
@@ -7048,6 +7112,22 @@
     "image_count": 2
   },
   {
+    "id": "CAST-589",
+    "title": "Rethan Veyr",
+    "kind": "Personaggi",
+    "url": "cast-589-rethan-veyr.html",
+    "bytes": 8305,
+    "image_count": 3
+  },
+  {
+    "id": "EXC366-CAST-589",
+    "title": "Rethan Veyr — dossier principale",
+    "kind": "Dossier principali",
+    "url": "exchange-dossier-cast-589-rethan-veyr.html",
+    "bytes": 22504,
+    "image_count": 3
+  },
+  {
     "id": "LOC-030",
     "title": "Rethar Basin",
     "kind": "Luoghi",
@@ -7148,7 +7228,7 @@
     "title": "Room for Six",
     "kind": "Archi narrativi",
     "url": "arc-03-room-for-six.html",
-    "bytes": 10869,
+    "bytes": 11394,
     "image_count": 1
   },
   {
@@ -7156,7 +7236,7 @@
     "title": "Room Six",
     "kind": "Luoghi soprannaturali",
     "url": "room-six.html",
-    "bytes": 14281,
+    "bytes": 14820,
     "image_count": 3
   },
   {
@@ -7820,7 +7900,15 @@
     "title": "Silas Merrow",
     "kind": "Personaggi",
     "url": "cast-035-silas-merrow.html",
-    "bytes": 20340,
+    "bytes": 21146,
+    "image_count": 5
+  },
+  {
+    "id": "EXC366-CAST-035",
+    "title": "Silas Merrow — dossier principale",
+    "kind": "Dossier principali",
+    "url": "exchange-dossier-cast-035-silas-merrow.html",
+    "bytes": 22543,
     "image_count": 4
   },
   {
@@ -8240,6 +8328,22 @@
     "image_count": 4
   },
   {
+    "id": "CAST-588",
+    "title": "Tavian Rell",
+    "kind": "Personaggi",
+    "url": "cast-588-tavian-rell.html",
+    "bytes": 8358,
+    "image_count": 3
+  },
+  {
+    "id": "EXC366-CAST-588",
+    "title": "Tavian Rell — dossier principale",
+    "kind": "Dossier principali",
+    "url": "exchange-dossier-cast-588-tavian-rell.html",
+    "bytes": 22458,
+    "image_count": 3
+  },
+  {
     "id": "CAST-527",
     "title": "Tavian Vaudren",
     "kind": "Personaggi",
@@ -8444,7 +8548,7 @@
     "title": "The Approved Departure",
     "kind": "Archi narrativi",
     "url": "arc-16-the-approved-departure.html",
-    "bytes": 11213,
+    "bytes": 11715,
     "image_count": 1
   },
   {
@@ -8500,7 +8604,7 @@
     "title": "The Beginning Reserved",
     "kind": "Archi narrativi",
     "url": "arc-32-the-beginning-reserved.html",
-    "bytes": 10588,
+    "bytes": 11113,
     "image_count": 1
   },
   {
@@ -8612,7 +8716,7 @@
     "title": "The Borrowed Sleeper",
     "kind": "Archi narrativi",
     "url": "arc-21-the-borrowed-sleeper.html",
-    "bytes": 10976,
+    "bytes": 11483,
     "image_count": 1
   },
   {
@@ -8764,7 +8868,7 @@
     "title": "The Copper Settlement",
     "kind": "Archi narrativi",
     "url": "arc-10-the-copper-settlement.html",
-    "bytes": 11161,
+    "bytes": 11688,
     "image_count": 1
   },
   {
@@ -8772,7 +8876,7 @@
     "title": "The Cost of a True Witness",
     "kind": "Archi narrativi",
     "url": "arc-29-the-cost-of-a-true-witness.html",
-    "bytes": 11306,
+    "bytes": 11813,
     "image_count": 1
   },
   {
@@ -8804,7 +8908,7 @@
     "title": "The Current Keeper",
     "kind": "Archi narrativi",
     "url": "arc-33-the-current-keeper.html",
-    "bytes": 10615,
+    "bytes": 11140,
     "image_count": 1
   },
   {
@@ -8820,7 +8924,7 @@
     "title": "The Departure That Failed",
     "kind": "Volumi",
     "url": "vol-04-the-departure-that-failed.html",
-    "bytes": 9811,
+    "bytes": 11685,
     "image_count": 6
   },
   {
@@ -8844,7 +8948,7 @@
     "title": "The Door Left Unlocked",
     "kind": "Archi narrativi",
     "url": "arc-39-the-door-left-unlocked.html",
-    "bytes": 11543,
+    "bytes": 12059,
     "image_count": 1
   },
   {
@@ -8924,7 +9028,7 @@
     "title": "The First and the Last",
     "kind": "Volumi",
     "url": "vol-08-the-first-and-the-last.html",
-    "bytes": 9815,
+    "bytes": 11684,
     "image_count": 6
   },
   {
@@ -8932,7 +9036,7 @@
     "title": "The First and the Last",
     "kind": "Archi narrativi",
     "url": "arc-40-the-first-and-the-last.html",
-    "bytes": 10975,
+    "bytes": 11491,
     "image_count": 1
   },
   {
@@ -8956,7 +9060,7 @@
     "title": "The Friend Who Changed",
     "kind": "Archi narrativi",
     "url": "arc-13-the-friend-who-changed.html",
-    "bytes": 10581,
+    "bytes": 11116,
     "image_count": 1
   },
   {
@@ -9036,7 +9140,7 @@
     "title": "The Guests of the Same Host",
     "kind": "Archi narrativi",
     "url": "arc-22-the-guests-of-the-same-host.html",
-    "bytes": 10569,
+    "bytes": 11076,
     "image_count": 1
   },
   {
@@ -9156,7 +9260,7 @@
     "title": "The Last Borrowed Authority",
     "kind": "Archi narrativi",
     "url": "arc-37-the-last-borrowed-authority.html",
-    "bytes": 11223,
+    "bytes": 11739,
     "image_count": 1
   },
   {
@@ -9204,7 +9308,7 @@
     "title": "The Light That Was Built",
     "kind": "Archi narrativi",
     "url": "arc-28-the-light-that-was-built.html",
-    "bytes": 11252,
+    "bytes": 11759,
     "image_count": 1
   },
   {
@@ -9212,7 +9316,7 @@
     "title": "The Lives Not Owned",
     "kind": "Volumi",
     "url": "vol-05-the-lives-not-owned.html",
-    "bytes": 9693,
+    "bytes": 11507,
     "image_count": 6
   },
   {
@@ -9228,7 +9332,7 @@
     "title": "The Living Orchard",
     "kind": "Archi narrativi",
     "url": "arc-12-the-living-orchard.html",
-    "bytes": 10884,
+    "bytes": 11419,
     "image_count": 1
   },
   {
@@ -9284,7 +9388,7 @@
     "title": "The Moved Bench",
     "kind": "Archi narrativi",
     "url": "arc-02-the-moved-bench.html",
-    "bytes": 11113,
+    "bytes": 11638,
     "image_count": 1
   },
   {
@@ -9308,7 +9412,7 @@
     "title": "The Names on the Foundation",
     "kind": "Archi narrativi",
     "url": "arc-19-the-names-on-the-foundation.html",
-    "bytes": 11429,
+    "bytes": 11931,
     "image_count": 1
   },
   {
@@ -9324,7 +9428,7 @@
     "title": "The Night Does Not Belong to One",
     "kind": "Archi narrativi",
     "url": "arc-34-the-night-does-not-belong-to-one.html",
-    "bytes": 10969,
+    "bytes": 11494,
     "image_count": 1
   },
   {
@@ -9428,7 +9532,7 @@
     "title": "The People Who Stayed",
     "kind": "Archi narrativi",
     "url": "arc-25-the-people-who-stayed.html",
-    "bytes": 11511,
+    "bytes": 12018,
     "image_count": 1
   },
   {
@@ -9444,7 +9548,7 @@
     "title": "The Price of a Miracle",
     "kind": "Volumi",
     "url": "vol-02-the-price-of-a-miracle.html",
-    "bytes": 9685,
+    "bytes": 11616,
     "image_count": 6
   },
   {
@@ -9484,7 +9588,7 @@
     "title": "The Record After the Verdict",
     "kind": "Archi narrativi",
     "url": "arc-38-the-record-after-the-verdict.html",
-    "bytes": 11385,
+    "bytes": 11901,
     "image_count": 1
   },
   {
@@ -9532,7 +9636,7 @@
     "title": "The Right to Begin",
     "kind": "Volumi",
     "url": "vol-07-the-right-to-begin.html",
-    "bytes": 9822,
+    "bytes": 11734,
     "image_count": 6
   },
   {
@@ -9556,7 +9660,7 @@
     "title": "The Seats That Are Not Empty",
     "kind": "Archi narrativi",
     "url": "arc-31-the-seats-that-are-not-empty.html",
-    "bytes": 11203,
+    "bytes": 11728,
     "image_count": 1
   },
   {
@@ -9612,7 +9716,7 @@
     "title": "The Shore Has a Name",
     "kind": "Archi narrativi",
     "url": "arc-05-the-shore-has-a-name.html",
-    "bytes": 10782,
+    "bytes": 11307,
     "image_count": 1
   },
   {
@@ -9764,7 +9868,7 @@
     "title": "The Unanswered Vessel",
     "kind": "Archi narrativi",
     "url": "arc-26-the-unanswered-vessel.html",
-    "bytes": 11192,
+    "bytes": 11699,
     "image_count": 1
   },
   {
@@ -9780,7 +9884,7 @@
     "title": "The Unbound Exchange",
     "kind": "Organizzazioni",
     "url": "group-unbound-the-unbound-exchange.html",
-    "bytes": 42476,
+    "bytes": 43121,
     "image_count": 3
   },
   {
@@ -9788,7 +9892,7 @@
     "title": "The Unbound Exchange — dossier completo",
     "kind": "Approfondimenti",
     "url": "doc-154-the-unbound-exchange.html",
-    "bytes": 42515,
+    "bytes": 43122,
     "image_count": 3
   },
   {
@@ -9820,7 +9924,7 @@
     "title": "The Unburied Name",
     "kind": "Volumi",
     "url": "vol-03-the-unburied-name.html",
-    "bytes": 9718,
+    "bytes": 11650,
     "image_count": 6
   },
   {
@@ -9828,7 +9932,7 @@
     "title": "The Undeclared Branch",
     "kind": "Archi narrativi",
     "url": "arc-18-the-undeclared-branch.html",
-    "bytes": 10936,
+    "bytes": 11438,
     "image_count": 1
   },
   {
@@ -9908,7 +10012,7 @@
     "title": "The Waking House",
     "kind": "Volumi",
     "url": "vol-01-the-waking-house.html",
-    "bytes": 9588,
+    "bytes": 11802,
     "image_count": 6
   },
   {
@@ -9996,7 +10100,7 @@
     "title": "The Workshop Behind the Mark",
     "kind": "Archi narrativi",
     "url": "arc-11-the-workshop-behind-the-mark.html",
-    "bytes": 11082,
+    "bytes": 11617,
     "image_count": 1
   },
   {
@@ -10004,7 +10108,7 @@
     "title": "The World Outside the Map",
     "kind": "Volumi",
     "url": "vol-06-the-world-outside-the-map.html",
-    "bytes": 9804,
+    "bytes": 11627,
     "image_count": 6
   },
   {
@@ -10116,7 +10220,7 @@
     "title": "Those Who Pay for Peace",
     "kind": "Archi narrativi",
     "url": "arc-36-those-who-pay-for-peace.html",
-    "bytes": 11430,
+    "bytes": 11946,
     "image_count": 1
   },
   {
@@ -10132,7 +10236,7 @@
     "title": "Three Renewals",
     "kind": "Archi narrativi",
     "url": "arc-17-three-renewals.html",
-    "bytes": 11253,
+    "bytes": 11755,
     "image_count": 1
   },
   {
@@ -10212,7 +10316,7 @@
     "title": "Two Kinds of Night",
     "kind": "Archi narrativi",
     "url": "arc-09-two-kinds-of-night.html",
-    "bytes": 10831,
+    "bytes": 11358,
     "image_count": 1
   },
   {
@@ -10772,8 +10876,16 @@
     "title": "Wena Cadrin",
     "kind": "Personaggi",
     "url": "cast-421-wena-cadrin.html",
-    "bytes": 15338,
-    "image_count": 2
+    "bytes": 16504,
+    "image_count": 4
+  },
+  {
+    "id": "EXC366-CAST-421",
+    "title": "Wena Cadrin — dossier principale",
+    "kind": "Dossier principali",
+    "url": "exchange-dossier-cast-421-wena-cadrin.html",
+    "bytes": 21669,
+    "image_count": 3
   },
   {
     "id": "CAST-313",
@@ -10804,7 +10916,7 @@
     "title": "What the Basin Keeps",
     "kind": "Archi narrativi",
     "url": "arc-24-what-the-basin-keeps.html",
-    "bytes": 11289,
+    "bytes": 11796,
     "image_count": 1
   },
   {
