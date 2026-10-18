@@ -1,0 +1,871 @@
+{
+  "revision": 360,
+  "maps": [
+    {
+      "slug": "mondo",
+      "svg": "assets/atlas360-mondo.svg",
+      "image": "assets/atlas360-mondo.webp",
+      "original": "CARTOGRAFIA/ATLANTE_360/mondo.svg",
+      "labels": [
+        "ATLAS • AVARENNE",
+        "Avarenne • quadro del mondo",
+        "Cinque continenti • coste generalizzate • coordinate geografiche",
+        "-180°",
+        "-150°",
+        "-120°",
+        "-90°",
+        "-60°",
+        "-30°",
+        "0°",
+        "30°",
+        "60°",
+        "90°",
+        "120°",
+        "150°",
+        "180°",
+        "-60°",
+        "-30°",
+        "0°",
+        "30°",
+        "60°",
+        "MERETH",
+        "CALDRIS",
+        "ISKAR",
+        "NARETH",
+        "VEYRA",
+        "OCEANO OCCIDENTALE",
+        "OCEANO ORIENTALE",
+        "OCEANO MERIDIONALE",
+        "Raggio: 6.400 km • proiezione equirettangolare • non misurare i viaggi oceanici su questa proiezione."
+      ]
+    },
+    {
+      "slug": "mereth",
+      "svg": "assets/atlas360-mereth.svg",
+      "image": "assets/atlas360-mereth.webp",
+      "original": "CARTOGRAFIA/ATLANTE_360/mereth.svg",
+      "labels": [
+        "ATLAS • AVARENNE",
+        "Mereth • atlante continentale",
+        "Coste, centri attestati e repertorio dei sistemi territoriali",
+        "N",
+        "Veldane",
+        "Teren",
+        "Elven",
+        "Neressa",
+        "Aldora",
+        "Territori e centri",
+        "Orsanne • Veldane",
+        "26 milioni • stima 810 CP",
+        "",
+        "Reth • Teren",
+        "17 milioni • stima 810 CP",
+        "",
+        "Neressa • Neressa",
+        "9 milioni • stima 810 CP",
+        "",
+        "Ovel • Elven",
+        "6 milioni • stima 810 CP",
+        "",
+        "Aldren • Aldora",
+        "34 milioni • stima 810 CP",
+        "",
+        "Tessara • Teshen",
+        "29 milioni • stima 810 CP",
+        "",
+        "Varrun • Varlen",
+        "41 milioni • stima 810 CP",
+        "",
+        "Esen • Eshar",
+        "23 milioni • stima 810 CP",
+        "",
+        "Rilievi e clima: leggere la pagina.",
+        "Le etichette non delimitano Stati.",
+        "I confini non rilevati non sono inventati.",
+        "Proiezione locale indicativa • centri dalle coordinate dell’atlante • coste continentali generalizzate."
+      ]
+    },
+    {
+      "slug": "caldris",
+      "svg": "assets/atlas360-caldris.svg",
+      "image": "assets/atlas360-caldris.webp",
+      "original": "CARTOGRAFIA/ATLANTE_360/caldris.svg",
+      "labels": [
+        "ATLAS • AVARENNE",
+        "Caldris • atlante continentale",
+        "Coste, centri attestati e repertorio dei sistemi territoriali",
+        "N",
+        "Darsa",
+        "Qadra",
+        "Ildan",
+        "Mareth",
+        "Saura",
+        "Serevan",
+        "Territori e centri",
+        "Darsen • Darsa",
+        "55 milioni • stima 810 CP",
+        "",
+        "Qadir • Qadra",
+        "38 milioni • stima 810 CP",
+        "",
+        "Ildovar • Ildan",
+        "46 milioni • stima 810 CP",
+        "",
+        "Marethis • Mareth",
+        "31 milioni • stima 810 CP",
+        "",
+        "Saur • Saura",
+        "20 milioni • stima 810 CP",
+        "",
+        "Rilievi e clima: leggere la pagina.",
+        "Le etichette non delimitano Stati.",
+        "I confini non rilevati non sono inventati.",
+        "Proiezione locale indicativa • centri dalle coordinate dell’atlante • coste continentali generalizzate."
+      ]
+    },
+    {
+      "slug": "iskar",
+      "svg": "assets/atlas360-iskar.svg",
+      "image": "assets/atlas360-iskar.webp",
+      "original": "CARTOGRAFIA/ATLANTE_360/iskar.svg",
+      "labels": [
+        "ATLAS • AVARENNE",
+        "Iskar • atlante continentale",
+        "Coste, centri attestati e repertorio dei sistemi territoriali",
+        "N",
+        "Anren",
+        "Teru",
+        "Koshen",
+        "Mersa",
+        "Arula",
+        "Ashen Quay",
+        "Territori e centri",
+        "Ansei • Anren",
+        "32 milioni • stima 810 CP",
+        "",
+        "Teral • Teru",
+        "27 milioni • stima 810 CP",
+        "",
+        "Kosh • Koshen",
+        "18 milioni • stima 810 CP",
+        "",
+        "Meren • Mersa",
+        "21 milioni • stima 810 CP",
+        "",
+        "Arul • Arula",
+        "14 milioni • stima 810 CP",
+        "",
+        "Rilievi e clima: leggere la pagina.",
+        "Le etichette non delimitano Stati.",
+        "I confini non rilevati non sono inventati.",
+        "Proiezione locale indicativa • centri dalle coordinate dell’atlante • coste continentali generalizzate."
+      ]
+    },
+    {
+      "slug": "nareth",
+      "svg": "assets/atlas360-nareth.svg",
+      "image": "assets/atlas360-nareth.webp",
+      "original": "CARTOGRAFIA/ATLANTE_360/nareth.svg",
+      "labels": [
+        "ATLAS • AVARENNE",
+        "Nareth • atlante continentale",
+        "Coste, centri attestati e repertorio dei sistemi territoriali",
+        "N",
+        "Noran",
+        "Asren",
+        "Varshen",
+        "Edris",
+        "Keran",
+        "Norell Roads",
+        "Territori e centri",
+        "Norell • Noran",
+        "21 milioni • stima 810 CP",
+        "",
+        "Askar • Asren",
+        "16 milioni • stima 810 CP",
+        "",
+        "Varsha • Varshen",
+        "14 milioni • stima 810 CP",
+        "",
+        "Edel • Edris",
+        "12 milioni • stima 810 CP",
+        "",
+        "Keren • Keran",
+        "10 milioni • stima 810 CP",
+        "",
+        "Rilievi e clima: leggere la pagina.",
+        "Le etichette non delimitano Stati.",
+        "I confini non rilevati non sono inventati.",
+        "Proiezione locale indicativa • centri dalle coordinate dell’atlante • coste continentali generalizzate."
+      ]
+    },
+    {
+      "slug": "veyra",
+      "svg": "assets/atlas360-veyra.svg",
+      "image": "assets/atlas360-veyra.webp",
+      "original": "CARTOGRAFIA/ATLANTE_360/veyra.svg",
+      "labels": [
+        "ATLAS • AVARENNE",
+        "Veyra • atlante continentale",
+        "Coste, centri attestati e repertorio dei sistemi territoriali",
+        "N",
+        "Sivren",
+        "Dorven",
+        "Tevren",
+        "Irela",
+        "Dorel Outer Port",
+        "Territori e centri",
+        "Sivara • Sivren",
+        "19 milioni • stima 810 CP",
+        "",
+        "Dorel • Dorven",
+        "13 milioni • stima 810 CP",
+        "",
+        "Tevar • Tevren",
+        "11 milioni • stima 810 CP",
+        "",
+        "Iren • Irela",
+        "7 milioni • stima 810 CP",
+        "",
+        "Rilievi e clima: leggere la pagina.",
+        "Le etichette non delimitano Stati.",
+        "I confini non rilevati non sono inventati.",
+        "Proiezione locale indicativa • centri dalle coordinate dell’atlante • coste continentali generalizzate."
+      ]
+    },
+    {
+      "slug": "mereth-occidentale",
+      "svg": "assets/atlas360-mereth-occidentale.svg",
+      "image": "assets/atlas360-mereth-occidentale.webp",
+      "original": "CARTOGRAFIA/ATLANTE_360/mereth-occidentale.svg",
+      "labels": [
+        "ATLAS • AVARENNE",
+        "Mereth occidentale • vie e territori",
+        "Coordinate chilometriche riferite a Lethorne • nord in alto",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "Centri e collegamenti",
+        "1. Lethorne",
+        "2. Rovenne",
+        "3. Veldane",
+        "4. Port Auvrel",
+        "5. Belanne",
+        "6. Deren",
+        "7. Sarn Gate",
+        "8. Valenne",
+        "9. Lorien",
+        "10. Teren",
+        "11. Karrel",
+        "12. Reth Narrows",
+        "13. Kessel",
+        "14. Dovar",
+        "15. Elven",
+        "16. Namar",
+        "17. Veyford",
+        "18. Ossen Reach",
+        "19. Neressa",
+        "20. Serele",
+        "21. Avaris",
+        "22. Corten",
+        "23. Nelle",
+        "24. Velis",
+        "Elenco completo nella pagina.",
+        "N",
+        "200 km",
+        "Oro: ferrovia • tratteggio: strada/mare • blu: fiumi • linee di rete schematiche; distanze nelle tabelle."
+      ],
+      "markers": [
+        {
+          "number": 1,
+          "id": "LOC-001",
+          "name": "Lethorne"
+        },
+        {
+          "number": 2,
+          "id": "LOC-002",
+          "name": "Rovenne"
+        },
+        {
+          "number": 3,
+          "id": "LOC-003",
+          "name": "Veldane"
+        },
+        {
+          "number": 4,
+          "id": "LOC-004",
+          "name": "Port Auvrel"
+        },
+        {
+          "number": 5,
+          "id": "LOC-005",
+          "name": "Belanne"
+        },
+        {
+          "number": 6,
+          "id": "LOC-006",
+          "name": "Deren"
+        },
+        {
+          "number": 7,
+          "id": "LOC-007",
+          "name": "Sarn Gate"
+        },
+        {
+          "number": 8,
+          "id": "LOC-008",
+          "name": "Valenne"
+        },
+        {
+          "number": 9,
+          "id": "LOC-009",
+          "name": "Lorien"
+        },
+        {
+          "number": 10,
+          "id": "LOC-010",
+          "name": "Teren"
+        },
+        {
+          "number": 11,
+          "id": "LOC-011",
+          "name": "Karrel"
+        },
+        {
+          "number": 12,
+          "id": "LOC-012",
+          "name": "Reth Narrows"
+        },
+        {
+          "number": 13,
+          "id": "LOC-013",
+          "name": "Kessel"
+        },
+        {
+          "number": 14,
+          "id": "LOC-014",
+          "name": "Dovar"
+        },
+        {
+          "number": 15,
+          "id": "LOC-015",
+          "name": "Elven"
+        },
+        {
+          "number": 16,
+          "id": "LOC-016",
+          "name": "Namar"
+        },
+        {
+          "number": 17,
+          "id": "LOC-017",
+          "name": "Veyford"
+        },
+        {
+          "number": 18,
+          "id": "LOC-018",
+          "name": "Ossen Reach"
+        },
+        {
+          "number": 19,
+          "id": "LOC-019",
+          "name": "Neressa"
+        },
+        {
+          "number": 20,
+          "id": "LOC-020",
+          "name": "Serele"
+        },
+        {
+          "number": 21,
+          "id": "LOC-021",
+          "name": "Avaris"
+        },
+        {
+          "number": 22,
+          "id": "LOC-022",
+          "name": "Corten"
+        },
+        {
+          "number": 23,
+          "id": "LOC-023",
+          "name": "Nelle"
+        },
+        {
+          "number": 24,
+          "id": "LOC-024",
+          "name": "Velis"
+        },
+        {
+          "number": 25,
+          "id": "LOC-025",
+          "name": "Thenn Pass"
+        },
+        {
+          "number": 26,
+          "id": "LOC-026",
+          "name": "Arel Cut"
+        },
+        {
+          "number": 27,
+          "id": "LOC-027",
+          "name": "Hollow Towers"
+        },
+        {
+          "number": 28,
+          "id": "LOC-028",
+          "name": "Namar Upper Works"
+        },
+        {
+          "number": 29,
+          "id": "LOC-029",
+          "name": "Stillwater Steps"
+        },
+        {
+          "number": 30,
+          "id": "LOC-030",
+          "name": "Rethar Basin"
+        },
+        {
+          "number": 31,
+          "id": "LOC-031",
+          "name": "Nine Houses Field"
+        },
+        {
+          "number": 32,
+          "id": "LOC-032",
+          "name": "Grey Embankment"
+        },
+        {
+          "number": 33,
+          "id": "LOC-033",
+          "name": "North Lock"
+        },
+        {
+          "number": 34,
+          "id": "LOC-034",
+          "name": "Copper Yard"
+        },
+        {
+          "number": 35,
+          "id": "LOC-035",
+          "name": "Low Fen"
+        },
+        {
+          "number": 36,
+          "id": "LOC-036",
+          "name": "South Shoals"
+        },
+        {
+          "number": 37,
+          "id": "LOC-064",
+          "name": "Belcour"
+        },
+        {
+          "number": 38,
+          "id": "LOC-065",
+          "name": "Vernay"
+        },
+        {
+          "number": 39,
+          "id": "LOC-066",
+          "name": "Rochebrune"
+        },
+        {
+          "number": 40,
+          "id": "LOC-067",
+          "name": "Aubrecourt"
+        }
+      ]
+    },
+    {
+      "slug": "orsanne",
+      "svg": "assets/atlas360-orsanne.svg",
+      "image": "assets/atlas360-orsanne.webp",
+      "original": "CARTOGRAFIA/ATLANTE_360/orsanne.svg",
+      "labels": [
+        "ATLAS • AVARENNE",
+        "Orsanne • territorio e centri",
+        "Coordinate chilometriche riferite a Lethorne • nord in alto",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "Centri e collegamenti",
+        "1. Lethorne",
+        "2. Rovenne",
+        "3. Veldane",
+        "4. Port Auvrel",
+        "5. Belanne",
+        "6. Deren",
+        "7. Sarn Gate",
+        "8. Valenne",
+        "9. Lorien",
+        "10. Ossen Reach",
+        "11. Thenn Pass",
+        "12. Arel Cut",
+        "13. Stillwater Steps",
+        "14. Grey Embankment",
+        "15. Low Fen",
+        "16. Belcour",
+        "17. Vernay",
+        "18. Rochebrune",
+        "19. Aubrecourt",
+        "N",
+        "100 km",
+        "Oro: ferrovia • tratteggio: strada/mare • blu: fiumi • linee di rete schematiche; distanze nelle tabelle."
+      ],
+      "markers": [
+        {
+          "number": 1,
+          "id": "LOC-001",
+          "name": "Lethorne"
+        },
+        {
+          "number": 2,
+          "id": "LOC-002",
+          "name": "Rovenne"
+        },
+        {
+          "number": 3,
+          "id": "LOC-003",
+          "name": "Veldane"
+        },
+        {
+          "number": 4,
+          "id": "LOC-004",
+          "name": "Port Auvrel"
+        },
+        {
+          "number": 5,
+          "id": "LOC-005",
+          "name": "Belanne"
+        },
+        {
+          "number": 6,
+          "id": "LOC-006",
+          "name": "Deren"
+        },
+        {
+          "number": 7,
+          "id": "LOC-007",
+          "name": "Sarn Gate"
+        },
+        {
+          "number": 8,
+          "id": "LOC-008",
+          "name": "Valenne"
+        },
+        {
+          "number": 9,
+          "id": "LOC-009",
+          "name": "Lorien"
+        },
+        {
+          "number": 10,
+          "id": "LOC-018",
+          "name": "Ossen Reach"
+        },
+        {
+          "number": 11,
+          "id": "LOC-025",
+          "name": "Thenn Pass"
+        },
+        {
+          "number": 12,
+          "id": "LOC-026",
+          "name": "Arel Cut"
+        },
+        {
+          "number": 13,
+          "id": "LOC-029",
+          "name": "Stillwater Steps"
+        },
+        {
+          "number": 14,
+          "id": "LOC-032",
+          "name": "Grey Embankment"
+        },
+        {
+          "number": 15,
+          "id": "LOC-035",
+          "name": "Low Fen"
+        },
+        {
+          "number": 16,
+          "id": "LOC-064",
+          "name": "Belcour"
+        },
+        {
+          "number": 17,
+          "id": "LOC-065",
+          "name": "Vernay"
+        },
+        {
+          "number": 18,
+          "id": "LOC-066",
+          "name": "Rochebrune"
+        },
+        {
+          "number": 19,
+          "id": "LOC-067",
+          "name": "Aubrecourt"
+        }
+      ]
+    },
+    {
+      "slug": "ducato-rovenne",
+      "svg": "assets/atlas360-ducato-rovenne.svg",
+      "image": "assets/atlas360-ducato-rovenne.webp",
+      "original": "CARTOGRAFIA/ATLANTE_360/ducato-rovenne.svg",
+      "labels": [
+        "ATLAS • AVARENNE",
+        "Ducato di Rovenne • centri e circoscrizioni",
+        "16.400 km² • 1,2 milioni di abitanti (810 CP) • sei distretti e diciotto baronie",
+        "Lethorne",
+        "D1",
+        "Rovenne",
+        "D2",
+        "Belcour",
+        "D3",
+        "Vernay",
+        "D4",
+        "Rochebrune",
+        "D5",
+        "Aubrecourt",
+        "D6",
+        "Gerarchia territoriale",
+        "D1 • Distretto civico di Lethorne",
+        "3200 km² • 580.000 ab.",
+        "D2 • Distretto ducale di Rovenne",
+        "2450 km² • 138.000 ab.",
+        "D3 • Contea di Belcour",
+        "2600 km² • 148.000 ab.",
+        "D4 • Contea di Vernay",
+        "2850 km² • 126.000 ab.",
+        "D5 • Contea di Rochebrune",
+        "2750 km² • 112.000 ab.",
+        "D6 • Contea di Aubrecourt",
+        "2550 km² • 96.000 ab.",
+        "",
+        "Baronie: elenco nella pagina.",
+        "Non sono punti georeferenziati.",
+        "N",
+        "20 km",
+        "Confini editoriali a media scala, aree coerenti con il registro 347 • non è un rilievo catastale."
+      ]
+    },
+    {
+      "slug": "oceani",
+      "svg": "assets/atlas360-oceani.svg",
+      "image": "assets/atlas360-oceani.webp",
+      "original": "CARTOGRAFIA/ATLANTE_360/oceani.svg",
+      "labels": [
+        "ATLAS • AVARENNE",
+        "Rotte oceaniche",
+        "Cinque continenti • coste generalizzate • coordinate geografiche",
+        "-180°",
+        "-150°",
+        "-120°",
+        "-90°",
+        "-60°",
+        "-30°",
+        "0°",
+        "30°",
+        "60°",
+        "90°",
+        "120°",
+        "150°",
+        "180°",
+        "-60°",
+        "-30°",
+        "0°",
+        "30°",
+        "60°",
+        "MERETH",
+        "CALDRIS",
+        "ISKAR",
+        "NARETH",
+        "VEYRA",
+        "OCEANO OCCIDENTALE",
+        "OCEANO ORIENTALE",
+        "OCEANO MERIDIONALE",
+        "1",
+        "2",
+        "3",
+        "4",
+        "Rotte numerate: leggere la tabella nella pagina • tracciati dai punti di rotta canonici, non dalle linee fra capitali."
+      ]
+    },
+    {
+      "slug": "opere-territori",
+      "svg": "assets/atlas360-opere-territori.svg",
+      "image": "assets/atlas360-opere-territori.webp",
+      "original": "CARTOGRAFIA/ATLANTE_360/opere-territori.svg",
+      "labels": [
+        "ATLAS • AVARENNE",
+        "Paesaggi e opere antiche",
+        "Coordinate chilometriche riferite a Lethorne • nord in alto",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "Riferimenti e siti",
+        "1. Lethorne",
+        "2. Rovenne",
+        "3. Namar",
+        "4. Arel Cut",
+        "5. Hollow Towers",
+        "6. Namar Upper Works",
+        "7. Rethar Basin",
+        "8. Nine Houses Field",
+        "9. Grey Embankment",
+        "N",
+        "200 km",
+        "Coordinate dei siti ATTUALI; non ricostruzione dei confini antichi."
+      ],
+      "markers": [
+        {
+          "number": 1,
+          "id": "LOC-001",
+          "name": "Lethorne"
+        },
+        {
+          "number": 2,
+          "id": "LOC-002",
+          "name": "Rovenne"
+        },
+        {
+          "number": 3,
+          "id": "LOC-016",
+          "name": "Namar"
+        },
+        {
+          "number": 4,
+          "id": "LOC-026",
+          "name": "Arel Cut"
+        },
+        {
+          "number": 5,
+          "id": "LOC-027",
+          "name": "Hollow Towers"
+        },
+        {
+          "number": 6,
+          "id": "LOC-028",
+          "name": "Namar Upper Works"
+        },
+        {
+          "number": 7,
+          "id": "LOC-030",
+          "name": "Rethar Basin"
+        },
+        {
+          "number": 8,
+          "id": "LOC-031",
+          "name": "Nine Houses Field"
+        },
+        {
+          "number": 9,
+          "id": "LOC-032",
+          "name": "Grey Embankment"
+        }
+      ]
+    },
+    {
+      "slug": "rovenne-accessi",
+      "svg": "assets/atlas360-rovenne-accessi.svg",
+      "image": "assets/atlas360-rovenne-accessi.webp",
+      "original": "CARTOGRAFIA/ATLANTE_360/rovenne-accessi.svg",
+      "labels": [
+        "ATLAS • AVARENNE",
+        "Rovenne • casa, borgo e accessi",
+        "Schema funzionale delle memorie del duca • non una pianta edilizia né una carta del ducato",
+        "Camera di convalescenza",
+        "Piano primo",
+        "Biblioteca",
+        "25 m dalla camera",
+        "Ingresso e scala",
+        "Collegamenti interni",
+        "Ufficio patrimoniale",
+        "45 m dalla camera",
+        "Rimessa e scuderie",
+        "95 m dall’ingresso",
+        "Piazza del borgo",
+        "620 m dalla casa",
+        "Fuori dalla residenza",
+        "Rovenne: borgo, 3.800 abitanti.",
+        "Fermata ferroviaria: 1,4 km.",
+        "Ponte dei mulini vicini: 2,8 km.",
+        "",
+        "Lethorne:",
+        "23 km su strada.",
+        "26 km su ferrovia.",
+        "",
+        "I collegamenti non stabiliscono",
+        "porte o orientamenti delle stanze.",
+        "Distanze di percorso ricordate • non misurare sul disegno • residenza, borgo e ducato sono tre scale diverse."
+      ]
+    }
+  ],
+  "preserved_source": "Geografia_riservata.json",
+  "no_new_cadastral_polygons": true,
+  "count": 12
+}

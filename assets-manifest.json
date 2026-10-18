@@ -6075,5 +6075,261 @@
     "id": "CAST-587",
     "source_sha256": "35676c12cc34cda3aecc991d7c9c2ba1f619cfb5b1f47f98a82acb8d7e8f1dd8",
     "revision": 358
+  },
+  {
+    "src": "assets/opere360-vigil-star.webp",
+    "caption": "Vigil Star — sorgente stellare",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/vigil-star/01_Illustrazione_v1.png",
+    "id": "WORK-01",
+    "source_sha256": "451589df83a61396ef5c1c889db8ae8774e81ac76d29436b8966fba002726d5f",
+    "revision": 360
+  },
+  {
+    "src": "assets/opere360-vigil-reach.webp",
+    "caption": "Vigil Reach — luce degli insediamenti",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/vigil-reach/01_Illustrazione_v1.png",
+    "id": "VIGIL-REACH",
+    "source_sha256": "3e31154633c834b8f58f9741cdf789d71204951c92a06ee54d90d6b91a385b7c",
+    "revision": 360
+  },
+  {
+    "src": "assets/opere360-unbound-works.webp",
+    "caption": "Unbound Works — ricostruzione antica",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/unbound-works/01_Illustrazione_v1.png",
+    "id": "WORK-02",
+    "source_sha256": "206d0583390a702b5543c55cfb8462f933442e13a3dd7a4f0d3276998db38a25",
+    "revision": 360
+  },
+  {
+    "src": "assets/opere360-namar-works.webp",
+    "caption": "Namar Works — impianto e separazioni",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/namar-works/01_Illustrazione_v1.png",
+    "id": "WORK-03",
+    "source_sha256": "36b8c254a8715346a022fa101089387dd07ed6975e0bd1a9f9419ebd28724c13",
+    "revision": 360
+  },
+  {
+    "src": "assets/opere360-departure-project.webp",
+    "caption": "Departure Project — nodi del bacino",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/departure-project/01_Illustrazione_v1.png",
+    "id": "WORK-04",
+    "source_sha256": "f54215b39cc9fa1ff49ee09066e4b8faee24a9523bc9ac77fe1cbbbdb32a71cc",
+    "revision": 360
+  },
+  {
+    "src": "assets/opere360-inner-refuge.webp",
+    "caption": "Inner Refuge — rappresentazione metafisica",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/inner-refuge/01_Illustrazione_v1.png",
+    "id": "WORK-05A",
+    "source_sha256": "921e29157c02bf0660817bccd5efe086b78352157feba73760e0a1d1eca82531",
+    "revision": 360
+  },
+  {
+    "src": "assets/opere360-quiet-glass.webp",
+    "caption": "Quiet Glass — frammenti a T0",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/quiet-glass/01_Illustrazione_v1.png",
+    "id": "WORK-05B",
+    "source_sha256": "869b15e36ab0b88184238b08e82d8b55dcea6c716d7e58b483a98623ccf3c5d0",
+    "revision": 360
+  },
+  {
+    "src": "assets/opere360-grey-brand-remnants.webp",
+    "caption": "Grey Brand Remnants — campione storico",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/grey-brand-remnants/01_Illustrazione_v1.png",
+    "id": "WORK-06",
+    "source_sha256": "3b0f768b90fe9e9391159cdd6e29990f2b0194693fa04f2180ffd444a6387690",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-mondo.svg",
+    "caption": "Atlante: mondo",
+    "original": "CARTOGRAFIA/ATLANTE_360/mondo.svg",
+    "id": "ATLAS360-mondo",
+    "source_sha256": "d589128c05103d743da1db3d5f3654fc9df055312395f0ed1304537681d1f2a4",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-mondo.webp",
+    "caption": "Atlante: mondo",
+    "original": "CARTOGRAFIA/ATLANTE_360/mondo.svg",
+    "id": "ATLAS360-mondo",
+    "source_sha256": "d589128c05103d743da1db3d5f3654fc9df055312395f0ed1304537681d1f2a4",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-mereth.svg",
+    "caption": "Atlante: mereth",
+    "original": "CARTOGRAFIA/ATLANTE_360/mereth.svg",
+    "id": "ATLAS360-mereth",
+    "source_sha256": "94a1039263a74311f3b141e00a0fefeb8ac4ed922f390d0684d1ccabe14def5f",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-mereth.webp",
+    "caption": "Atlante: mereth",
+    "original": "CARTOGRAFIA/ATLANTE_360/mereth.svg",
+    "id": "ATLAS360-mereth",
+    "source_sha256": "94a1039263a74311f3b141e00a0fefeb8ac4ed922f390d0684d1ccabe14def5f",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-caldris.svg",
+    "caption": "Atlante: caldris",
+    "original": "CARTOGRAFIA/ATLANTE_360/caldris.svg",
+    "id": "ATLAS360-caldris",
+    "source_sha256": "4d5261dcd2b6c785901f84544003c4106d31dfddfe442c3307fc520b72f793fc",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-caldris.webp",
+    "caption": "Atlante: caldris",
+    "original": "CARTOGRAFIA/ATLANTE_360/caldris.svg",
+    "id": "ATLAS360-caldris",
+    "source_sha256": "4d5261dcd2b6c785901f84544003c4106d31dfddfe442c3307fc520b72f793fc",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-iskar.svg",
+    "caption": "Atlante: iskar",
+    "original": "CARTOGRAFIA/ATLANTE_360/iskar.svg",
+    "id": "ATLAS360-iskar",
+    "source_sha256": "18a030701933d421cf07788fbe096459fbc242066f9e27ab55a9e26b2dd5443e",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-iskar.webp",
+    "caption": "Atlante: iskar",
+    "original": "CARTOGRAFIA/ATLANTE_360/iskar.svg",
+    "id": "ATLAS360-iskar",
+    "source_sha256": "18a030701933d421cf07788fbe096459fbc242066f9e27ab55a9e26b2dd5443e",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-nareth.svg",
+    "caption": "Atlante: nareth",
+    "original": "CARTOGRAFIA/ATLANTE_360/nareth.svg",
+    "id": "ATLAS360-nareth",
+    "source_sha256": "b6e1f3356076d8d9559de1621d77a77edbc4fdb65871481acb6b4eadaced9453",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-nareth.webp",
+    "caption": "Atlante: nareth",
+    "original": "CARTOGRAFIA/ATLANTE_360/nareth.svg",
+    "id": "ATLAS360-nareth",
+    "source_sha256": "b6e1f3356076d8d9559de1621d77a77edbc4fdb65871481acb6b4eadaced9453",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-veyra.svg",
+    "caption": "Atlante: veyra",
+    "original": "CARTOGRAFIA/ATLANTE_360/veyra.svg",
+    "id": "ATLAS360-veyra",
+    "source_sha256": "5abc7469635f66953fa0aecb192685461b63b6a2a7e8ef0ef902a9b3277913c5",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-veyra.webp",
+    "caption": "Atlante: veyra",
+    "original": "CARTOGRAFIA/ATLANTE_360/veyra.svg",
+    "id": "ATLAS360-veyra",
+    "source_sha256": "5abc7469635f66953fa0aecb192685461b63b6a2a7e8ef0ef902a9b3277913c5",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-mereth-occidentale.svg",
+    "caption": "Atlante: mereth-occidentale",
+    "original": "CARTOGRAFIA/ATLANTE_360/mereth-occidentale.svg",
+    "id": "ATLAS360-mereth-occidentale",
+    "source_sha256": "ee347f79212e41756b66df72e842c42263f5185afcbccf3cf9c105fb2d7e74d4",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-mereth-occidentale.webp",
+    "caption": "Atlante: mereth-occidentale",
+    "original": "CARTOGRAFIA/ATLANTE_360/mereth-occidentale.svg",
+    "id": "ATLAS360-mereth-occidentale",
+    "source_sha256": "ee347f79212e41756b66df72e842c42263f5185afcbccf3cf9c105fb2d7e74d4",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-orsanne.svg",
+    "caption": "Atlante: orsanne",
+    "original": "CARTOGRAFIA/ATLANTE_360/orsanne.svg",
+    "id": "ATLAS360-orsanne",
+    "source_sha256": "0562d839fae2c4438595857cdf5c7c81660fd64b3606985722d65b68cff49daa",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-orsanne.webp",
+    "caption": "Atlante: orsanne",
+    "original": "CARTOGRAFIA/ATLANTE_360/orsanne.svg",
+    "id": "ATLAS360-orsanne",
+    "source_sha256": "0562d839fae2c4438595857cdf5c7c81660fd64b3606985722d65b68cff49daa",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-ducato-rovenne.svg",
+    "caption": "Atlante: ducato-rovenne",
+    "original": "CARTOGRAFIA/ATLANTE_360/ducato-rovenne.svg",
+    "id": "ATLAS360-ducato-rovenne",
+    "source_sha256": "61b809ebf9995708ef704bbc21b3b2886013ab0e3cec69abeb0b1ac249e8e672",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-ducato-rovenne.webp",
+    "caption": "Atlante: ducato-rovenne",
+    "original": "CARTOGRAFIA/ATLANTE_360/ducato-rovenne.svg",
+    "id": "ATLAS360-ducato-rovenne",
+    "source_sha256": "61b809ebf9995708ef704bbc21b3b2886013ab0e3cec69abeb0b1ac249e8e672",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-oceani.svg",
+    "caption": "Atlante: oceani",
+    "original": "CARTOGRAFIA/ATLANTE_360/oceani.svg",
+    "id": "ATLAS360-oceani",
+    "source_sha256": "0b5e2a1f5b24328d64b33a6ea2a85115295851744f50ae6a96c36a28025d4e75",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-oceani.webp",
+    "caption": "Atlante: oceani",
+    "original": "CARTOGRAFIA/ATLANTE_360/oceani.svg",
+    "id": "ATLAS360-oceani",
+    "source_sha256": "0b5e2a1f5b24328d64b33a6ea2a85115295851744f50ae6a96c36a28025d4e75",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-opere-territori.svg",
+    "caption": "Atlante: opere-territori",
+    "original": "CARTOGRAFIA/ATLANTE_360/opere-territori.svg",
+    "id": "ATLAS360-opere-territori",
+    "source_sha256": "da9d1de513bb084ddf7aceb215c31e31b13b21078bdc856243710c633800ec0b",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-opere-territori.webp",
+    "caption": "Atlante: opere-territori",
+    "original": "CARTOGRAFIA/ATLANTE_360/opere-territori.svg",
+    "id": "ATLAS360-opere-territori",
+    "source_sha256": "da9d1de513bb084ddf7aceb215c31e31b13b21078bdc856243710c633800ec0b",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-rovenne-accessi.svg",
+    "caption": "Atlante: rovenne-accessi",
+    "original": "CARTOGRAFIA/ATLANTE_360/rovenne-accessi.svg",
+    "id": "ATLAS360-rovenne-accessi",
+    "source_sha256": "5677c3380e902947c2c1d4b179d1d4b813549eb77461ad28bdd5865026e06260",
+    "revision": 360
+  },
+  {
+    "src": "assets/atlas360-rovenne-accessi.webp",
+    "caption": "Atlante: rovenne-accessi",
+    "original": "CARTOGRAFIA/ATLANTE_360/rovenne-accessi.svg",
+    "id": "ATLAS360-rovenne-accessi",
+    "source_sha256": "5677c3380e902947c2c1d4b179d1d4b813549eb77461ad28bdd5865026e06260",
+    "revision": 360
   }
 ]

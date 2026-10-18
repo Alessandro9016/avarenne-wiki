@@ -574,8 +574,8 @@
       "group": "Dati strutturati e registri",
       "url": "fe9fbb2c8f28317b.html",
       "raw": "fonti/fe9fbb2c8f28317b.json",
-      "sha256": "71c28a9f75f72fe3a8edce5be1aa4982a00d58b563f541cc6cbb875f408b2ff3",
-      "bytes": 84667
+      "sha256": "07352c11bc80331fae778c1bbcbebdd0d62337a0e0299314da3cc6d1684865ab",
+      "bytes": 84684
     },
     {
       "source": "CANONE_VIGENTE/Regole_comuni.json",
@@ -7237,8 +7237,8 @@
       "group": "Canone vigente e verifica della consegna",
       "url": "06300f093b9b4ae7.html",
       "raw": "fonti/06300f093b9b4ae7.md",
-      "sha256": "efecf44149d9e0685d40b15f040723605c40e703bc4c18475d2a6fb4b5054522",
-      "bytes": 58406
+      "sha256": "82d1789eb9c6e3f61ecc0273a929eb9161b2d2e4fc34d9cc682b6a310a944b50",
+      "bytes": 58959
     },
     {
       "source": "342_Stato_vigente_per_la_consegna.md",
@@ -7363,8 +7363,8 @@
       "group": "Sistema — Will",
       "url": "a510f792bbb6c15f.html",
       "raw": "fonti/a510f792bbb6c15f.txt",
-      "sha256": "eda4c3d5476ae279bea9002a8a51f7184939cfb5b10698d898b653f877b5ecdb",
-      "bytes": 227714
+      "sha256": "ae2906fb6b219e9520f452497c471f58f8045a8850bda49cdc56457eaea434c6",
+      "bytes": 227939
     },
     {
       "source": "AVVIO_NARRATORE/PROTOCOLLO_NARRATORE_AVARENNE.txt",
@@ -7372,8 +7372,8 @@
       "group": "Sistema — Will",
       "url": "5de80396760c781e.html",
       "raw": "fonti/5de80396760c781e.txt",
-      "sha256": "efb523c24beaa9d65894c282fdd0379801bf0cf86a4d32e4dba15c05885127b2",
-      "bytes": 19636
+      "sha256": "054825f27d0b396c624091c0d52e96bd24d93a999b3f341eb647cb8981397609",
+      "bytes": 21572
     },
     {
       "source": "CANONE_VIGENTE/Esempi_abilita_345.json",
@@ -8319,8 +8319,8 @@
       "group": "Consolidamento operativo — 350",
       "url": "1df5e25177a75be1.html",
       "raw": "fonti/1df5e25177a75be1.txt",
-      "sha256": "a210943b2d27d7dd9c7d6fdac4c705b8785b0dfbcf5145582fd8f1f3898e8fcc",
-      "bytes": 556
+      "sha256": "13aa41a08b9fbd87b5a4bc045c64bc92b0f5209ef7aefb6caf100c3c6c34887e",
+      "bytes": 380
     },
     {
       "source": "CANONE_VIGENTE/Contese_verificate_350.json",
@@ -11912,6 +11912,294 @@
       "raw": "fonti/443a294de93c74ec.txt",
       "sha256": "8c51bf304ccf74b183adef5ad5b498a65271bd84f553fe23908c952d642597d0",
       "bytes": 900
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/vigil-reach/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Atlante e opere 360",
+      "url": "90a49d18fc4778b7.html",
+      "raw": "fonti/90a49d18fc4778b7.json",
+      "sha256": "6edd7b1dc83180c108424ff234d365bca25493f7a11bdbb29fe91c96864db9b0",
+      "bytes": 1406
+    },
+    {
+      "source": "CANONE_VIGENTE/Geometria_ducato_360.json",
+      "title": "Geometria ducato 360",
+      "group": "Atlante e opere 360",
+      "url": "b7b695493ae9ec94.html",
+      "raw": "fonti/b7b695493ae9ec94.json",
+      "sha256": "e0dbc433b17d807ab42e155351682c06cec68bc608c26a6ad74fda8083876189",
+      "bytes": 4219
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/15_Wiki/AVVIO_NARRATORE/MESSAGGIO_DI_AVVIO.txt",
+      "title": "MESSAGGIO DI AVVIO",
+      "group": "Atlante e opere 360",
+      "url": "80b1c9d607646561.html",
+      "raw": "fonti/80b1c9d607646561.txt",
+      "sha256": "13aa41a08b9fbd87b5a4bc045c64bc92b0f5209ef7aefb6caf100c3c6c34887e",
+      "bytes": 380
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_360/AVVIO_NARRATORE/DOSSIER_ALEXANDER_EDRAN.txt",
+      "title": "DOSSIER ALEXANDER EDRAN",
+      "group": "Storico prima di 360",
+      "url": "dccb6cb3f3f6f0e8.html",
+      "raw": "fonti/dccb6cb3f3f6f0e8.txt",
+      "sha256": "eda4c3d5476ae279bea9002a8a51f7184939cfb5b10698d898b653f877b5ecdb",
+      "bytes": 227714
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_360/AVVIO_NARRATORE/PROTOCOLLO_NARRATORE_AVARENNE.txt",
+      "title": "PROTOCOLLO NARRATORE AVARENNE",
+      "group": "Storico prima di 360",
+      "url": "d70f5f128611c68a.html",
+      "raw": "fonti/d70f5f128611c68a.txt",
+      "sha256": "efb523c24beaa9d65894c282fdd0379801bf0cf86a4d32e4dba15c05885127b2",
+      "bytes": 19636
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/departure-project/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Atlante e opere 360",
+      "url": "8bfc273587368329.html",
+      "raw": "fonti/8bfc273587368329.json",
+      "sha256": "5d0557ff91cbc19cd4a2c8eda88c3791171bfb65ba78f87d99a6ba1c7f7773bd",
+      "bytes": 1457
+    },
+    {
+      "source": "361_Opere_ed_eredita_di_Edran_repertorio.md",
+      "title": "361 Opere ed eredita di Edran repertorio",
+      "group": "Atlante e opere 360",
+      "url": "78d16fa9d3f79a50.html",
+      "raw": "fonti/78d16fa9d3f79a50.md",
+      "sha256": "d79221d656d592e56612a01e82ec2acc2ddbd37ce9afe0ca686ad9a0154780f2",
+      "bytes": 17572
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/inner-refuge/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Atlante e opere 360",
+      "url": "8a85b0e8dd496ffd.html",
+      "raw": "fonti/8a85b0e8dd496ffd.txt",
+      "sha256": "5dea269d05d43cf4d95cd71a5d4ab54f5ec259b7c848470f3d3cb4500bc1ebb1",
+      "bytes": 813
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/07_Storia_antica_e_moderna/RISERVATO/361_Opere_ed_eredita_di_Edran_repertorio.md",
+      "title": "361 Opere ed eredita di Edran repertorio",
+      "group": "Atlante e opere 360",
+      "url": "771c6c471faf7868.html",
+      "raw": "fonti/771c6c471faf7868.md",
+      "sha256": "d79221d656d592e56612a01e82ec2acc2ddbd37ce9afe0ca686ad9a0154780f2",
+      "bytes": 17572
+    },
+    {
+      "source": "CANONE_VIGENTE/Opere_Edran_360.json",
+      "title": "Opere Edran 360",
+      "group": "Atlante e opere 360",
+      "url": "f11ff2b90cccddd8.html",
+      "raw": "fonti/f11ff2b90cccddd8.json",
+      "sha256": "4758d4449a77559de911f8fe937447b610c886d146b4563d668f7e598ef93ae3",
+      "bytes": 19682
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/quiet-glass/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Atlante e opere 360",
+      "url": "fab1a0ea071aca39.html",
+      "raw": "fonti/fab1a0ea071aca39.txt",
+      "sha256": "0bfd89ba220e8294966c3b0f71ccdd1409965cc063dde5a6ee1d46078de3ad1b",
+      "bytes": 859
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/grey-brand-remnants/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Atlante e opere 360",
+      "url": "7b5dbeb14e15b8bc.html",
+      "raw": "fonti/7b5dbeb14e15b8bc.json",
+      "sha256": "c07f6e41ddde62aa45453a8bc4ffcf38d3b78a1f5fe6e48a6af4c8a2816882d9",
+      "bytes": 1333
+    },
+    {
+      "source": "360_Atlante_cartografico_guida_e_precisione.md",
+      "title": "360 Atlante cartografico guida e precisione",
+      "group": "Atlante e opere 360",
+      "url": "23e49e862cf7f805.html",
+      "raw": "fonti/23e49e862cf7f805.md",
+      "sha256": "d0697724d855757270a7f38c359db42c831f2a843238bb41da673476d155547b",
+      "bytes": 2347
+    },
+    {
+      "source": "CANONE_VIGENTE/Atlante_cartografico_360.json",
+      "title": "Atlante cartografico 360",
+      "group": "Atlante e opere 360",
+      "url": "551efe67686893a1.html",
+      "raw": "fonti/551efe67686893a1.json",
+      "sha256": "5f2a74397904912012015a350bf74675c9080c0fbd4e79aac817c9466a74f614",
+      "bytes": 21511
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/quiet-glass/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Atlante e opere 360",
+      "url": "b2d75f4a2d503046.html",
+      "raw": "fonti/b2d75f4a2d503046.json",
+      "sha256": "6244b308ed02b81292067626a3a4d140819d7ecaee69fe52926270b062e1d3e6",
+      "bytes": 1454
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/unbound-works/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Atlante e opere 360",
+      "url": "d3d0a319e31d4eb1.html",
+      "raw": "fonti/d3d0a319e31d4eb1.json",
+      "sha256": "717ca5cd0b60a0334a771c45aa0191f279ba34a71700db3b94fce4cff1babd36",
+      "bytes": 1484
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_360/AVVIO_NARRATORE/MESSAGGIO_DI_AVVIO.txt",
+      "title": "MESSAGGIO DI AVVIO",
+      "group": "Storico prima di 360",
+      "url": "a3ffcf70c10a951f.html",
+      "raw": "fonti/a3ffcf70c10a951f.txt",
+      "sha256": "a210943b2d27d7dd9c7d6fdac4c705b8785b0dfbcf5145582fd8f1f3898e8fcc",
+      "bytes": 556
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/vigil-star/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Atlante e opere 360",
+      "url": "a112d8642027f28d.html",
+      "raw": "fonti/a112d8642027f28d.json",
+      "sha256": "fd548f4f49c747d7ffd3dbab266c02266acb45c1778edeaafee6605092f4ac74",
+      "bytes": 1362
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/inner-refuge/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Atlante e opere 360",
+      "url": "9c0918dbebca2992.html",
+      "raw": "fonti/9c0918dbebca2992.json",
+      "sha256": "a49a466b2915863dd67db634dbeda3e2d6220b86bbecb90eb920d605ff30d681",
+      "bytes": 1425
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/15_Wiki/AVVIO_NARRATORE/PROTOCOLLO_NARRATORE_AVARENNE.txt",
+      "title": "PROTOCOLLO NARRATORE AVARENNE",
+      "group": "Atlante e opere 360",
+      "url": "c5bd051fa0148c66.html",
+      "raw": "fonti/c5bd051fa0148c66.txt",
+      "sha256": "054825f27d0b396c624091c0d52e96bd24d93a999b3f341eb647cb8981397609",
+      "bytes": 21572
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/departure-project/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Atlante e opere 360",
+      "url": "e449174cd0e05aac.html",
+      "raw": "fonti/e449174cd0e05aac.txt",
+      "sha256": "89786937809fd6d7fee169a97c328407957326dc657935d1ce2d7b03bbeb4dab",
+      "bytes": 838
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/15_Wiki/AVVIO_NARRATORE/DOSSIER_ALEXANDER_EDRAN.txt",
+      "title": "DOSSIER ALEXANDER EDRAN",
+      "group": "Atlante e opere 360",
+      "url": "701e8917cb0218b2.html",
+      "raw": "fonti/701e8917cb0218b2.txt",
+      "sha256": "ae2906fb6b219e9520f452497c471f58f8045a8850bda49cdc56457eaea434c6",
+      "bytes": 227939
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/vigil-star/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Atlante e opere 360",
+      "url": "8464f22a6c27558b.html",
+      "raw": "fonti/8464f22a6c27558b.txt",
+      "sha256": "f6af95ffafbf1b3390290b49819c352b9f3ad4f84fae5479853240a520cbc5d0",
+      "bytes": 769
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/namar-works/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Atlante e opere 360",
+      "url": "98b0e76e040dc716.html",
+      "raw": "fonti/98b0e76e040dc716.txt",
+      "sha256": "6a816134a672733e2c783157e7b226388dd4d1fca0fbe33face950e54585331c",
+      "bytes": 807
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/unbound-works/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Atlante e opere 360",
+      "url": "dad9f0e95c4ae063.html",
+      "raw": "fonti/dad9f0e95c4ae063.txt",
+      "sha256": "0a7b1e24f9eb6589d65cef1ab910f22b95ba9545f2fab388eee8d8a044b5bb8a",
+      "bytes": 876
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/grey-brand-remnants/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Atlante e opere 360",
+      "url": "968e48c4a0c8f337.html",
+      "raw": "fonti/968e48c4a0c8f337.txt",
+      "sha256": "e6818cc7866d14d99476cd2f17afcd27353af69fd0407f687a3f513b3c58eb30",
+      "bytes": 705
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/08_Geografia_e_ambiente/INDICI_E_DOCUMENTI_CONDIVISI/360_Atlante_cartografico_guida_e_precisione.md",
+      "title": "360 Atlante cartografico guida e precisione",
+      "group": "Atlante e opere 360",
+      "url": "52163177d94f1868.html",
+      "raw": "fonti/52163177d94f1868.md",
+      "sha256": "d0697724d855757270a7f38c359db42c831f2a843238bb41da673476d155547b",
+      "bytes": 2347
+    },
+    {
+      "source": "CANONE_VIGENTE/Illustrazioni_opere_Edran_360.json",
+      "title": "Illustrazioni opere Edran 360",
+      "group": "Atlante e opere 360",
+      "url": "6cc952398debbd0e.html",
+      "raw": "fonti/6cc952398debbd0e.json",
+      "sha256": "f9ec1f7d4562cf7bb7b80e488e3b78bc40a0f7ea421ee09df6a4c5731c28fb96",
+      "bytes": 11786
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/vigil-reach/Prompt_v1.txt",
+      "title": "Prompt v1",
+      "group": "Atlante e opere 360",
+      "url": "ba8c9d689d2641de.html",
+      "raw": "fonti/ba8c9d689d2641de.txt",
+      "sha256": "9014dd1160c8b70a937bb1b2c2c289fe52a931221aa30defc90b56526901db5f",
+      "bytes": 799
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/360_Prompt_opere_Edran.json",
+      "title": "360 Prompt opere Edran",
+      "group": "Atlante e opere 360",
+      "url": "cfadb83a4dd7c2cf.html",
+      "raw": "fonti/cfadb83a4dd7c2cf.json",
+      "sha256": "b7b66ccea3bf6cb8e3a17457e9379f61898d3c52a3a600588b1250ac95823f9b",
+      "bytes": 10964
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/OPERE_DI_EDRAN/namar-works/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Atlante e opere 360",
+      "url": "99fd225dcfaa099b.html",
+      "raw": "fonti/99fd225dcfaa099b.json",
+      "sha256": "6bb8eecda1e8bb80a2cf1eae72e60b05a26a2533e92ace7393b7152a8c643920",
+      "bytes": 1409
+    },
+    {
+      "source": "CANONE_VIGENTE/Audit_atlante_e_opere_360.json",
+      "title": "Audit atlante e opere 360",
+      "group": "Verifiche 360",
+      "url": "7410ae931d8ddf02.html",
+      "raw": "fonti/7410ae931d8ddf02.json",
+      "sha256": "9c0f490ab4ac841af6c5a938a1f8e13e2a73b585bff28a8c537d682f6cccf766",
+      "bytes": 388
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",
