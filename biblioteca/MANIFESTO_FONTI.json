@@ -124,8 +124,8 @@
       "group": "Dati strutturati e registri",
       "url": "9f5d1e0af2de6024.html",
       "raw": "fonti/9f5d1e0af2de6024.json",
-      "sha256": "550df88083165bb5c0f39cb3c5095e34b4af691274c2d26ffeb7528ca14d5e21",
-      "bytes": 3335865
+      "sha256": "6965af17595c5652bc26ad5860d6fca7a31e4ed103a7fcfdda75dfec016f7688",
+      "bytes": 3338338
     },
     {
       "source": "CANONE_VIGENTE/Censimento_visuale_luoghi.json",
@@ -574,8 +574,8 @@
       "group": "Dati strutturati e registri",
       "url": "fe9fbb2c8f28317b.html",
       "raw": "fonti/fe9fbb2c8f28317b.json",
-      "sha256": "e102e27233a2bccd3ca7fb9f360fe241544eb5168d584abacdd236c3a9490384",
-      "bytes": 84680
+      "sha256": "6e11a275b69ae4f982aaa4d297409962e9215b052670eb2c3c5967cafe6a5e42",
+      "bytes": 84679
     },
     {
       "source": "CANONE_VIGENTE/Regole_comuni.json",
@@ -1024,8 +1024,8 @@
       "group": "Cast — dossier individuali",
       "url": "6a6d86b6ebfb5024.html",
       "raw": "fonti/6a6d86b6ebfb5024.md",
-      "sha256": "9d64cb39e2721d09e4e8bfa09c431b932b2edc2284e707d98d979bbdb96c5ed4",
-      "bytes": 10019
+      "sha256": "eb1616c2770ed410c4cc88752f6660ea35422844edbbd38c68bcb7d64ad31b30",
+      "bytes": 10222
     },
     {
       "source": "CAST_RISERVATO/CAST-003.md",
@@ -1285,8 +1285,8 @@
       "group": "Cast — dossier individuali",
       "url": "3d7ee5604208a5a7.html",
       "raw": "fonti/3d7ee5604208a5a7.md",
-      "sha256": "911131c31a6b0c061b68e81dcc6feda04b4c9df75c480eb4ec5757365ba4e988",
-      "bytes": 7183
+      "sha256": "a749f9ef04a5711beb066db0fa999959cac32869edec044066ecd50768babd52",
+      "bytes": 7468
     },
     {
       "source": "CAST_RISERVATO/CAST-032.md",
@@ -1294,8 +1294,8 @@
       "group": "Cast — dossier individuali",
       "url": "59a9907db8c909c8.html",
       "raw": "fonti/59a9907db8c909c8.md",
-      "sha256": "b7cf9287afd17a8bb1ce781e043efaf00e71344e5257b10828af5a7996bca3f0",
-      "bytes": 7644
+      "sha256": "a6cb9c6e36896c4ee1104432d8965f290e89c324e12bf992d4aace531aebcbda",
+      "bytes": 7940
     },
     {
       "source": "CAST_RISERVATO/CAST-033.md",
@@ -1321,8 +1321,8 @@
       "group": "Cast — dossier individuali",
       "url": "a6911ce388a01130.html",
       "raw": "fonti/a6911ce388a01130.md",
-      "sha256": "88ffd544c9c73f2ce4e4262fc559c110d77e77d15ee13dcdb498d4a7388554d8",
-      "bytes": 8352
+      "sha256": "20e0343986e9d005ce57258f1f43b8a48d85511d2e77bd343ae1a04d2cd503ae",
+      "bytes": 8641
     },
     {
       "source": "CAST_RISERVATO/CAST-036.md",
@@ -2149,8 +2149,8 @@
       "group": "Cast — dossier individuali",
       "url": "9caa2dbfd1653365.html",
       "raw": "fonti/9caa2dbfd1653365.md",
-      "sha256": "c3347062640a023602f6420503572db97a1baeb5c1ac3259dab3ae636a044728",
-      "bytes": 5836
+      "sha256": "b39b4766faa68bdc942f7c43ad4fd9e15b367ca7a190babb9862211ad2e79a98",
+      "bytes": 6088
     },
     {
       "source": "CAST_RISERVATO/CAST-128.md",
@@ -2158,8 +2158,8 @@
       "group": "Cast — dossier individuali",
       "url": "574a042f9bfb3e09.html",
       "raw": "fonti/574a042f9bfb3e09.md",
-      "sha256": "73a209e87d56d5a72f5fc9000ecdebdf80f1019c0d9916fa855ce39aa6d59d80",
-      "bytes": 5811
+      "sha256": "4be3cc6a5cd28714286488ed0b96046367f85b55419b70619ae2c5c11c93cb3e",
+      "bytes": 6087
     },
     {
       "source": "CAST_RISERVATO/CAST-129.md",
@@ -2167,8 +2167,8 @@
       "group": "Cast — dossier individuali",
       "url": "36b6c77b0f3e3a90.html",
       "raw": "fonti/36b6c77b0f3e3a90.md",
-      "sha256": "069128f3fd7c67066ae206ea163dad7db084fb1c26860fd81fe6d75741c27526",
-      "bytes": 5953
+      "sha256": "290af4824f59e5d30af13a51ceb58dcdee15e7d3301a4a5dfbf6339603930b03",
+      "bytes": 6214
     },
     {
       "source": "CAST_RISERVATO/CAST-130.md",
@@ -6496,8 +6496,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "0161848595a41654.html",
       "raw": "fonti/0161848595a41654.md",
-      "sha256": "682a1252bd155bdcdebb32ac5cad41623866b71180e5c91615a93a602e1e529f",
-      "bytes": 6553
+      "sha256": "01ed07f2aa5cb223d334efe51907cde2c65280a97aada45e332b7861da7ce3f7",
+      "bytes": 31267
     },
     {
       "source": "RISERVATO_155_Indice_del_cast_centrale.md",
@@ -7237,8 +7237,8 @@
       "group": "Canone vigente e verifica della consegna",
       "url": "06300f093b9b4ae7.html",
       "raw": "fonti/06300f093b9b4ae7.md",
-      "sha256": "51e00e78b9cd31d57230f000ff96aa497073bbb8576cf59b8fe538a5bf21598a",
-      "bytes": 60436
+      "sha256": "a2f4124ebe53494df6cff8981a6cf8da87f5f262a99535ed8cf29652a3c22c3f",
+      "bytes": 60810
     },
     {
       "source": "342_Stato_vigente_per_la_consegna.md",
@@ -14702,6 +14702,222 @@
       "raw": "fonti/4dbf22cf5420ac46.txt",
       "sha256": "5ed56aeeefb880bc7accbb17f862aa1ef08c4fddb92a229fcb63d22812f491ae",
       "bytes": 1130
+    },
+    {
+      "source": "CANONE_VIGENTE/Audit_Exchange_365.json",
+      "title": "Audit Exchange 365",
+      "group": "Exchange 365",
+      "url": "51a6f3a6e9118407.html",
+      "raw": "fonti/51a6f3a6e9118407.json",
+      "sha256": "bd19c87325e8dda9f7555ea642e4749abb8a54137fc8db9557c76a33c97b7a7f",
+      "bytes": 387
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/RISERVATO_154_The_Unbound_Exchange.md",
+      "title": "RISERVATO 154 The Unbound Exchange",
+      "group": "Exchange 365",
+      "url": "b7b1846ebdd82411.html",
+      "raw": "fonti/b7b1846ebdd82411.md",
+      "sha256": "01ed07f2aa5cb223d334efe51907cde2c65280a97aada45e332b7861da7ce3f7",
+      "bytes": 31267
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-129.md",
+      "title": "CAST-129",
+      "group": "Exchange 365",
+      "url": "3ebb428382c3cc88.html",
+      "raw": "fonti/3ebb428382c3cc88.md",
+      "sha256": "290af4824f59e5d30af13a51ceb58dcdee15e7d3301a4a5dfbf6339603930b03",
+      "bytes": 6214
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-031.md",
+      "title": "CAST-031",
+      "group": "Exchange 365",
+      "url": "399862b13c7d201d.html",
+      "raw": "fonti/399862b13c7d201d.md",
+      "sha256": "a749f9ef04a5711beb066db0fa999959cac32869edec044066ecd50768babd52",
+      "bytes": 7468
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_365/CAST_RISERVATO/CAST-031.md",
+      "title": "CAST-031",
+      "group": "Storico prima di 365",
+      "url": "2fd779aa83470cfd.html",
+      "raw": "fonti/2fd779aa83470cfd.md",
+      "sha256": "911131c31a6b0c061b68e81dcc6feda04b4c9df75c480eb4ec5757365ba4e988",
+      "bytes": 7183
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/Cast_riservato.json",
+      "title": "Cast riservato",
+      "group": "Exchange 365",
+      "url": "cd2ed60ff783c22b.html",
+      "raw": "fonti/cd2ed60ff783c22b.json",
+      "sha256": "6965af17595c5652bc26ad5860d6fca7a31e4ed103a7fcfdda75dfec016f7688",
+      "bytes": 3338338
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_365/CAST_RISERVATO/CAST-035.md",
+      "title": "CAST-035",
+      "group": "Storico prima di 365",
+      "url": "804fcf050135e09e.html",
+      "raw": "fonti/804fcf050135e09e.md",
+      "sha256": "88ffd544c9c73f2ce4e4262fc559c110d77e77d15ee13dcdb498d4a7388554d8",
+      "bytes": 8352
+    },
+    {
+      "source": "365_Exchange_e_Room_Six_consolidamento.md",
+      "title": "365 Exchange e Room Six consolidamento",
+      "group": "Exchange 365",
+      "url": "3e250082dc4df304.html",
+      "raw": "fonti/3e250082dc4df304.md",
+      "sha256": "447eb911f9fbe0ab37f293190916f23be325e96511c866e55d808349cf3c3ec3",
+      "bytes": 1623
+    },
+    {
+      "source": "CANONE_VIGENTE/Unbound_Exchange_consolidato_365.json",
+      "title": "Unbound Exchange consolidato 365",
+      "group": "Exchange 365",
+      "url": "2fb3a4c9c0a9bbb4.html",
+      "raw": "fonti/2fb3a4c9c0a9bbb4.json",
+      "sha256": "d9d14905f393024a44c807ff93b4f532a3f0eca80212f6bd29a3fe425eb1f2d2",
+      "bytes": 33604
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_365/CAST_RISERVATO/CAST-128.md",
+      "title": "CAST-128",
+      "group": "Storico prima di 365",
+      "url": "d7223b170226bdac.html",
+      "raw": "fonti/d7223b170226bdac.md",
+      "sha256": "73a209e87d56d5a72f5fc9000ecdebdf80f1019c0d9916fa855ce39aa6d59d80",
+      "bytes": 5811
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_365/RISERVATO_154_The_Unbound_Exchange.md",
+      "title": "RISERVATO 154 The Unbound Exchange",
+      "group": "Storico prima di 365",
+      "url": "97c6bb095bfa0e90.html",
+      "raw": "fonti/97c6bb095bfa0e90.md",
+      "sha256": "682a1252bd155bdcdebb32ac5cad41623866b71180e5c91615a93a602e1e529f",
+      "bytes": 6553
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-002.md",
+      "title": "CAST-002",
+      "group": "Exchange 365",
+      "url": "a3f9433f8f284ac8.html",
+      "raw": "fonti/a3f9433f8f284ac8.md",
+      "sha256": "eb1616c2770ed410c4cc88752f6660ea35422844edbbd38c68bcb7d64ad31b30",
+      "bytes": 10222
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_365/23_Registro_unico_del_canone.md",
+      "title": "23 Registro unico del canone",
+      "group": "Storico prima di 365",
+      "url": "b54401abe4576ebd.html",
+      "raw": "fonti/b54401abe4576ebd.md",
+      "sha256": "51e00e78b9cd31d57230f000ff96aa497073bbb8576cf59b8fe538a5bf21598a",
+      "bytes": 60436
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_365/CAST_RISERVATO/CAST-129.md",
+      "title": "CAST-129",
+      "group": "Storico prima di 365",
+      "url": "8469bf1c90a7739a.html",
+      "raw": "fonti/8469bf1c90a7739a.md",
+      "sha256": "069128f3fd7c67066ae206ea163dad7db084fb1c26860fd81fe6d75741c27526",
+      "bytes": 5953
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-127.md",
+      "title": "CAST-127",
+      "group": "Exchange 365",
+      "url": "8944e4be7e244127.html",
+      "raw": "fonti/8944e4be7e244127.md",
+      "sha256": "b39b4766faa68bdc942f7c43ad4fd9e15b367ca7a190babb9862211ad2e79a98",
+      "bytes": 6088
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-128.md",
+      "title": "CAST-128",
+      "group": "Exchange 365",
+      "url": "6aef91d4ff3f5299.html",
+      "raw": "fonti/6aef91d4ff3f5299.md",
+      "sha256": "4be3cc6a5cd28714286488ed0b96046367f85b55419b70619ae2c5c11c93cb3e",
+      "bytes": 6087
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_365/CAST_RISERVATO/CAST-127.md",
+      "title": "CAST-127",
+      "group": "Storico prima di 365",
+      "url": "47f86d839d543582.html",
+      "raw": "fonti/47f86d839d543582.md",
+      "sha256": "c3347062640a023602f6420503572db97a1baeb5c1ac3259dab3ae636a044728",
+      "bytes": 5836
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_365/CAST_RISERVATO/CAST-032.md",
+      "title": "CAST-032",
+      "group": "Storico prima di 365",
+      "url": "5a9aa4313af383a4.html",
+      "raw": "fonti/5a9aa4313af383a4.md",
+      "sha256": "b7cf9287afd17a8bb1ce781e043efaf00e71344e5257b10828af5a7996bca3f0",
+      "bytes": 7644
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-035.md",
+      "title": "CAST-035",
+      "group": "Exchange 365",
+      "url": "061227bd4ed1b54f.html",
+      "raw": "fonti/061227bd4ed1b54f.md",
+      "sha256": "20e0343986e9d005ce57258f1f43b8a48d85511d2e77bd343ae1a04d2cd503ae",
+      "bytes": 8641
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_365/CAST_RISERVATO/CAST-002.md",
+      "title": "CAST-002",
+      "group": "Storico prima di 365",
+      "url": "f1bb34c4f0574533.html",
+      "raw": "fonti/f1bb34c4f0574533.md",
+      "sha256": "354f6dba76dd974a59a25eaea9686260132ea1a811db3c4cba98b5522a067248",
+      "bytes": 9917
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_365/CANONE_VIGENTE/Cast_riservato.json",
+      "title": "Cast riservato",
+      "group": "Storico prima di 365",
+      "url": "b605769c8fd18f9e.html",
+      "raw": "fonti/b605769c8fd18f9e.json",
+      "sha256": "550df88083165bb5c0f39cb3c5095e34b4af691274c2d26ffeb7528ca14d5e21",
+      "bytes": 3335865
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-032.md",
+      "title": "CAST-032",
+      "group": "Exchange 365",
+      "url": "03e19d714f5ab10c.html",
+      "raw": "fonti/03e19d714f5ab10c.md",
+      "sha256": "a6cb9c6e36896c4ee1104432d8965f290e89c324e12bf992d4aace531aebcbda",
+      "bytes": 7940
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/INDICI_E_DOCUMENTI_CONDIVISI/365_Exchange_e_Room_Six_consolidamento.md",
+      "title": "365 Exchange e Room Six consolidamento",
+      "group": "Exchange 365",
+      "url": "e4ebc53dc1d0a3ce.html",
+      "raw": "fonti/e4ebc53dc1d0a3ce.md",
+      "sha256": "447eb911f9fbe0ab37f293190916f23be325e96511c866e55d808349cf3c3ec3",
+      "bytes": 1623
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/Unbound_Exchange_consolidato_365.json",
+      "title": "Unbound Exchange consolidato 365",
+      "group": "Exchange 365",
+      "url": "d329a3bc28e5cfa8.html",
+      "raw": "fonti/d329a3bc28e5cfa8.json",
+      "sha256": "d9d14905f393024a44c807ff93b4f532a3f0eca80212f6bd29a3fe425eb1f2d2",
+      "bytes": 33604
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",

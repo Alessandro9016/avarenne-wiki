@@ -204,7 +204,7 @@
     "title": "Alexander Valcienne",
     "kind": "Personaggi",
     "url": "cast-001-alexander-valcienne.html",
-    "bytes": 71200,
+    "bytes": 71733,
     "image_count": 7
   },
   {
@@ -2708,7 +2708,7 @@
     "title": "Edith Torrel",
     "kind": "Personaggi",
     "url": "cast-127-edith-torrel.html",
-    "bytes": 14158,
+    "bytes": 14573,
     "image_count": 2
   },
   {
@@ -2820,7 +2820,7 @@
     "title": "Elias Veyne",
     "kind": "Personaggi",
     "url": "elias-veyne.html",
-    "bytes": 33517,
+    "bytes": 33968,
     "image_count": 7
   },
   {
@@ -3108,7 +3108,7 @@
     "title": "Etienne Brac",
     "kind": "Personaggi",
     "url": "cast-129-etienne-brac.html",
-    "bytes": 14398,
+    "bytes": 14822,
     "image_count": 2
   },
   {
@@ -4020,7 +4020,7 @@
     "title": "Indice generale A–Z",
     "kind": "Indici",
     "url": "indice-generale.html",
-    "bytes": 123541,
+    "bytes": 123633,
     "image_count": 0
   },
   {
@@ -4892,7 +4892,7 @@
     "title": "Livia Varn",
     "kind": "Personaggi",
     "url": "cast-032-livia-varn.html",
-    "bytes": 19101,
+    "bytes": 19560,
     "image_count": 4
   },
   {
@@ -5188,7 +5188,7 @@
     "title": "Marcel Ruy",
     "kind": "Personaggi",
     "url": "cast-031-marcel-ruy.html",
-    "bytes": 19039,
+    "bytes": 19487,
     "image_count": 4
   },
   {
@@ -7152,6 +7152,14 @@
     "image_count": 1
   },
   {
+    "id": "ROOM-SIX-365",
+    "title": "Room Six",
+    "kind": "Luoghi soprannaturali",
+    "url": "room-six.html",
+    "bytes": 14281,
+    "image_count": 3
+  },
+  {
     "id": "TERM-root",
     "title": "Root",
     "kind": "Sistema soprannaturale",
@@ -7812,7 +7820,7 @@
     "title": "Silas Merrow",
     "kind": "Personaggi",
     "url": "cast-035-silas-merrow.html",
-    "bytes": 19888,
+    "bytes": 20340,
     "image_count": 4
   },
   {
@@ -9772,16 +9780,16 @@
     "title": "The Unbound Exchange",
     "kind": "Organizzazioni",
     "url": "group-unbound-the-unbound-exchange.html",
-    "bytes": 13749,
+    "bytes": 42476,
     "image_count": 3
   },
   {
     "id": "DOC-154",
-    "title": "The Unbound Exchange",
+    "title": "The Unbound Exchange — dossier completo",
     "kind": "Approfondimenti",
     "url": "doc-154-the-unbound-exchange.html",
-    "bytes": 11997,
-    "image_count": 0
+    "bytes": 42515,
+    "image_count": 3
   },
   {
     "id": "WORK-02-ENC360",
@@ -10596,7 +10604,7 @@
     "title": "Vern Soller",
     "kind": "Personaggi",
     "url": "cast-128-vern-soller.html",
-    "bytes": 14094,
+    "bytes": 14533,
     "image_count": 2
   },
   {

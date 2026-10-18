@@ -384,7 +384,8 @@
         }
       ],
       "sources": [
-        "RISERVATO_153_Deuteragonista_Elias_Veyne.md"
+        "RISERVATO_153_Deuteragonista_Elias_Veyne.md",
+        "RISERVATO_154_The_Unbound_Exchange.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -456,7 +457,13 @@
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
       "character_review_revision": 340,
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "exchange_365": {
+        "role": "Cofondatore e coordinamento dei contatti; Northbound",
+        "tension": "Iniziativa e necessità di autonomia possono scontrarsi con protezione dei testimoni e limiti tecnici.",
+        "source": "RISERVATO_154_The_Unbound_Exchange.md",
+        "future_membership": "CURRENT_MEMBER"
+      }
     },
     {
       "id": "CAST-003",
@@ -4011,7 +4018,8 @@
         }
       ],
       "sources": [
-        "RISERVATO_153_Deuteragonista_Elias_Veyne.md"
+        "RISERVATO_153_Deuteragonista_Elias_Veyne.md",
+        "RISERVATO_154_The_Unbound_Exchange.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -4087,7 +4095,13 @@
           "id": "ART-001",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "exchange_365": {
+        "role": "Garante tecnico esterno; non membro",
+        "tension": "Può sospendere i mezzi sotto la propria responsabilità, non vietare relazioni e incontri altrove.",
+        "source": "RISERVATO_154_The_Unbound_Exchange.md",
+        "future_membership": "OPEN"
+      }
     },
     {
       "id": "CAST-032",
@@ -4144,7 +4158,8 @@
         }
       ],
       "sources": [
-        "RISERVATO_153_Deuteragonista_Elias_Veyne.md"
+        "RISERVATO_153_Deuteragonista_Elias_Veyne.md",
+        "RISERVATO_154_The_Unbound_Exchange.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -4215,7 +4230,13 @@
       "biological_population": "Umano",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "exchange_365": {
+        "role": "Cofondatrice e continuità documentale; Footnote",
+        "tension": "Pubblicabilità, responsabilità e anonimato vanno negoziati; non segretaria subordinata a Elias.",
+        "source": "RISERVATO_154_The_Unbound_Exchange.md",
+        "future_membership": "CURRENT_MEMBER"
+      }
     },
     {
       "id": "CAST-033",
@@ -4481,7 +4502,9 @@
           "kind": "Possibile consulenza su identità e attestazioni, nessuna adesione al gruppo già decisa"
         }
       ],
-      "sources": [],
+      "sources": [
+        "RISERVATO_154_The_Unbound_Exchange.md"
+      ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
         "personal_effigies": [
@@ -4557,7 +4580,13 @@
         }
       ],
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "exchange_365": {
+        "role": "Consulente possibile, non membro",
+        "tension": "Autenticazione e falsificazione restano attività distinte; nessun anonimato permanente fornito alla sala.",
+        "source": "RISERVATO_154_The_Unbound_Exchange.md",
+        "future_membership": "OPEN"
+      }
     },
     {
       "id": "CAST-036",
@@ -13155,7 +13184,8 @@
         }
       ],
       "sources": [
-        "RISERVATO_153_Deuteragonista_Elias_Veyne.md"
+        "RISERVATO_153_Deuteragonista_Elias_Veyne.md",
+        "RISERVATO_154_The_Unbound_Exchange.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -13210,7 +13240,13 @@
       "biological_population": "Umano",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "exchange_365": {
+        "role": "Invitata, adesione non avvenuta",
+        "tension": "Assistenza ordinaria e consenso del paziente; nessuna Effige aggiunta.",
+        "source": "RISERVATO_154_The_Unbound_Exchange.md",
+        "future_membership": "OPEN"
+      }
     },
     {
       "id": "CAST-128",
@@ -13246,7 +13282,8 @@
         }
       ],
       "sources": [
-        "RISERVATO_153_Deuteragonista_Elias_Veyne.md"
+        "RISERVATO_153_Deuteragonista_Elias_Veyne.md",
+        "RISERVATO_154_The_Unbound_Exchange.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -13301,7 +13338,13 @@
       "biological_population": "Umano",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "exchange_365": {
+        "role": "Controparte del collaudo, non membro",
+        "tension": "La responsabilità passata resta quella fissata nel 153; non un agente cosmico inventato.",
+        "source": "RISERVATO_154_The_Unbound_Exchange.md",
+        "future_membership": "OPEN"
+      }
     },
     {
       "id": "CAST-129",
@@ -13341,7 +13384,8 @@
         }
       ],
       "sources": [
-        "RISERVATO_153_Deuteragonista_Elias_Veyne.md"
+        "RISERVATO_153_Deuteragonista_Elias_Veyne.md",
+        "RISERVATO_154_The_Unbound_Exchange.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -13396,7 +13440,13 @@
       "biological_population": "Umano",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "exchange_365": {
+        "role": "Testimone, non membro",
+        "tension": "Salario, referto e diritto a scegliere se testimoniare; non risorsa personale del gruppo.",
+        "source": "RISERVATO_154_The_Unbound_Exchange.md",
+        "future_membership": "OPEN"
+      }
     },
     {
       "id": "CAST-130",
