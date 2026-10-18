@@ -1,0 +1,12 @@
+{
+  "id": "PHN-022",
+  "name": "The Blue Crown",
+  "asset": "assets/fenomeno363-phn-022.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-022_the-blue-crown/01_fenomeno_originale.png",
+  "source_sha256": "5aa9ec1d11c381ae0511561c6ad4a386c257e1752d3077b23bfad250cdcab6f0",
+  "generator": "builtin image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: encyclopedia cover illustration for Avarenne, a mature late-industrial occult fantasy novel. Scene: Stormy outer roadstead with a limited line of eight harbour grounding posts and wet mooring ropes carrying thin blue electrical corona, ships beyond the isolated berth, dark real sea and clouds, no giant god or city-destroying lightning pillar. Style: refined semi-realistic painted novel art, tactile architecture and believable materials, dramatic but readable light, atmospheric depth. One coherent scene, landscape 3:2. Show only the specified bounded manifestation; supernatural graphic traces are illustrative, never game interface. Anonymous adult figures only when specified, no named canonical character. No legible text, numbers, labels, logo, watermark, card frame or collage. No additional creature, portal, deity, avatar or city-wide catastrophe. Avoid exaggerating the effect beyond its local source.",
+  "visual_caption": "La corona azzurra segue conduttori effettivi di un impianto circoscritto. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità.",
+  "visual_review": "APPROVATA: scena, limiti illustrativi e assenza di poteri aggiuntivi verificati",
+  "revision": 363
+}

@@ -1,0 +1,12 @@
+{
+  "id": "PHN-007",
+  "name": "The Divided Bearing",
+  "asset": "assets/fenomeno363-phn-007.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-007_the-divided-bearing/01_fenomeno_originale.png",
+  "source_sha256": "938ebbe33dd9875d5d6468b6ec45d8d9eb42c3823333170fa32f6009f69174d6",
+  "generator": "builtin image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: encyclopedia cover illustration for Avarenne, a mature late-industrial occult fantasy novel. Scene: Coastal pilot boat above shallow reefs and fog banks, two brass invested compasses on a chart table pointing in different directions, a lead sounding line descending into real water, lighthouse far away; no whirlpool, portal or bent horizon. Style: refined semi-realistic painted novel art, tactile architecture and believable materials, dramatic but readable light, atmospheric depth. One coherent scene, landscape 3:2. Show only the specified bounded manifestation; supernatural graphic traces are illustrative, never game interface. Anonymous adult figures only when specified, no named canonical character. No legible text, numbers, labels, logo, watermark, card frame or collage. No additional creature, portal, deity, avatar or city-wide catastrophe. Avoid exaggerating the effect beyond its local source.",
+  "visual_caption": "Bussole investite divergenti si confrontano con scandaglio e riferimenti indipendenti. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità.",
+  "visual_review": "APPROVATA: scena, limiti illustrativi e assenza di poteri aggiuntivi verificati",
+  "revision": 363
+}

@@ -6931,5 +6931,197 @@
     "id": "ART-100",
     "source_sha256": "d31204f915728d99bac425dcf15de04f5984c629b2be381def6ea60abd6d63ed",
     "revision": 362
+  },
+  {
+    "src": "assets/fenomeno363-phn-001.webp",
+    "caption": "The Shifted Reference",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-001_the-shifted-reference/01_fenomeno_originale.png",
+    "id": "PHN-001",
+    "source_sha256": "1ce24aff98fb3ad5db9a6050016b019394f172dfd11e4cd5c4ed4b1f8bc56b3a",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-002.webp",
+    "caption": "The Breathing Seam",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-002_the-breathing-seam/01_fenomeno_originale.png",
+    "id": "PHN-002",
+    "source_sha256": "deece9cec7e541d08c80e33f6f6f1219c124cd32451381ae860c443c4337a41b",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-003.webp",
+    "caption": "The False Heat Debt",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-003_the-false-heat-debt/01_fenomeno_originale.png",
+    "id": "PHN-003",
+    "source_sha256": "4172b0f7cb65b648478dda16ef11f3c36aba77445fa316e59010b53c6427d69c",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-004.webp",
+    "caption": "The Closed Gill",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-004_the-closed-gill/01_fenomeno_originale.png",
+    "id": "PHN-004",
+    "source_sha256": "227ec3113226265f14581214c78bbfef9fb8af32ce515ba3a7e7768c4828f341",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-005.webp",
+    "caption": "The Honest Contradiction",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-005_the-honest-contradiction/01_fenomeno_originale.png",
+    "id": "PHN-005",
+    "source_sha256": "6b787143a3ebd0a77b5694cdeb1c290dcd3935bd03c293b9276f87fb97402d97",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-006.webp",
+    "caption": "The Silent Wedge",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-006_the-silent-wedge/01_fenomeno_originale.png",
+    "id": "PHN-006",
+    "source_sha256": "4ad357bf40d3ed21d429527c4792e9c7f1e923889d899cf0c62e4598c5fb09f8",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-007.webp",
+    "caption": "The Divided Bearing",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-007_the-divided-bearing/01_fenomeno_originale.png",
+    "id": "PHN-007",
+    "source_sha256": "938ebbe33dd9875d5d6468b6ec45d8d9eb42c3823333170fa32f6009f69174d6",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-008.webp",
+    "caption": "The Sterile Promise",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-008_the-sterile-promise/01_fenomeno_originale.png",
+    "id": "PHN-008",
+    "source_sha256": "007e99aaddfd7e69f822ae2f2fcb1ef7382e3d210c4fa48ea92d625e31b381df",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-010.webp",
+    "caption": "The Spent Reflection",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-010_the-spent-reflection/01_fenomeno_originale.png",
+    "id": "PHN-010",
+    "source_sha256": "698b367f2e3c28d0ed9c57376e4c6ca815b4cd8ff83981467ed0327067b1cf26",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-011.webp",
+    "caption": "The Convenient Rest",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-011_the-convenient-rest/01_fenomeno_originale.png",
+    "id": "PHN-011",
+    "source_sha256": "d81d5063a7391a8a50741391fc3ac1856a314d79affeffe606b212bea40c941b",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-009.webp",
+    "caption": "The Unquiet Curtain",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-009_the-unquiet-curtain/01_fenomeno_originale.png",
+    "id": "PHN-009",
+    "source_sha256": "3e1b2639a95d58e762cfdad41a7e58fb7b3248a861ffed0dd577db7a8ba702a9",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-012.webp",
+    "caption": "The Shared Drain",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-012_the-shared-drain/01_fenomeno_originale.png",
+    "id": "PHN-012",
+    "source_sha256": "2b01e0e138dbbe855e45851788fde782916fbc7a8e7a10de387c8420fd9d5432",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-013.webp",
+    "caption": "The Hollow Reply",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-013_the-hollow-reply/01_fenomeno_originale.png",
+    "id": "PHN-013",
+    "source_sha256": "e2620f364be9f8cdf8e11a49bac4eea494b7bd01d1594382bfa4c0c74ab8f0b5",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-014.webp",
+    "caption": "The Grey Recoil",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-014_the-grey-recoil/01_fenomeno_originale.png",
+    "id": "PHN-014",
+    "source_sha256": "b1ea072b25b5d95bbb583bedd89810d240f9241b4eeba45babdb057dd9dec065",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-015.webp",
+    "caption": "The Drowned Repose",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-015_the-drowned-repose/01_fenomeno_originale.png",
+    "id": "PHN-015",
+    "source_sha256": "220af74afde15c6ba749288eb9daa5006ae77828232399eeb374284d35996209",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-016.webp",
+    "caption": "The White Reed Exchange",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-016_the-white-reed-exchange/01_fenomeno_originale.png",
+    "id": "PHN-016",
+    "source_sha256": "ebf3507a8d3fc1a2f8520f0d299cb9fe78ae108d056ab7ae32f0056d1126ca3f",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-020.webp",
+    "caption": "The Shared Stair",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-020_the-shared-stair/01_fenomeno_originale.png",
+    "id": "PHN-020",
+    "source_sha256": "4f15c8f8a3c0193eb6ce6df01fb22b4b986a105866bd2dba12a4c7de03ac1779",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-021.webp",
+    "caption": "The Moon-Tide Debt",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-021_the-moon-tide-debt/01_fenomeno_originale.png",
+    "id": "PHN-021",
+    "source_sha256": "9abdf13f1879a73a3c2d2fa0dc3e849240a2c477457e09184d9e4d283cc6f4fd",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-017-v2.webp",
+    "caption": "The Inward Rain",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-017_the-inward-rain/02_fenomeno_revisione.png",
+    "id": "PHN-017",
+    "source_sha256": "cf19f0b814968af93ad768080e9cd86e5062161883ba1c1e456b11a203162abd",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-018.webp",
+    "caption": "The Broken Sound",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-018_the-broken-sound/01_fenomeno_originale.png",
+    "id": "PHN-018",
+    "source_sha256": "8caedfbb4556072e121ee0d8406f85c806c8abeaa101571b6f33ecc55f3a4822",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-019.webp",
+    "caption": "The Ash Interval",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-019_the-ash-interval/01_fenomeno_originale.png",
+    "id": "PHN-019",
+    "source_sha256": "d3c6e137099232bd8c34aebc043ad68962ad50d3112807a2ba584756ca384e81",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-022.webp",
+    "caption": "The Blue Crown",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-022_the-blue-crown/01_fenomeno_originale.png",
+    "id": "PHN-022",
+    "source_sha256": "5aa9ec1d11c381ae0511561c6ad4a386c257e1752d3077b23bfad250cdcab6f0",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-023.webp",
+    "caption": "The Afterlight",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-023_the-afterlight/01_fenomeno_originale.png",
+    "id": "PHN-023",
+    "source_sha256": "240394a7ebf52089317365260fd00dda9772bf59ea1b2513242e8276c08ac7e3",
+    "revision": 363
+  },
+  {
+    "src": "assets/fenomeno363-phn-024.webp",
+    "caption": "The Hunger Line",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-024_the-hunger-line/01_fenomeno_originale.png",
+    "id": "PHN-024",
+    "source_sha256": "b9c9e91f880c8d47ce80eef0b5d38962652106e41fc3d12faa5b2bca8773cc03",
+    "revision": 363
   }
 ]

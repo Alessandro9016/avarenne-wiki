@@ -8864,7 +8864,80 @@
       "response": "Nuova taratura elimina rischio tecnico, ma non prova da sola responsabilità. Nessuna magia rende inevitabile il processo.",
       "current": "Permesso limitato e udienza 31 maggio.",
       "unit": "U11-01",
-      "future_outcome": "OPEN"
+      "future_outcome": "OPEN",
+      "category": "Errore di riferimento",
+      "effigy": "Oracle",
+      "scene": "Un tecnico posa il regolo sul banco e ottiene due risultati incompatibili: il calcolo ordinario concorda con la posizione attuale, il modello investito continua a certificare quella precedente. Gli strumenti non cambiano posto e nessuno viene teletrasportato.",
+      "sequence": "Prima del trasporto le coordinate erano corrette. Dopo lo spostamento sono stati conservati sigillo e certificato senza ripetere il collaudo. Ogni nuova verifica che riusa quel riferimento riproduce lo scarto; una misura indipendente non lo eredita.",
+      "diagnosis": [
+        "Fissare un punto esterno al banco e misurare la posizione senza ART-008: lo scarto resta localizzato al riferimento investito.",
+        "Confrontare tavola precedente, nuova impronta dei piedi e abrasioni dei bulloni: ricostruiscono il trasporto, non chi lo abbia autorizzato.",
+        "Ripetere una prova con riferimento corretto e una con quello vecchio: il diverso risultato distingue guasto del modello da falsificazione della carta."
+      ],
+      "exposure": "Il rischio riguarda decisioni fondate su una misura sbagliata: un pezzo fuori tolleranza può essere montato dove non entra, oppure un lotto valido essere respinto. Restare accanto al banco non altera il corpo, i ricordi o la fortuna.",
+      "intervention": "Conservare una copia verificabile dello stato iniziale prima della ritaratura consente di correggere il servizio senza distruggere una prova. La correzione tecnica non decide risarcimenti, colpa o attendibilità di ogni documento della stessa officina.",
+      "society": "Per il laboratorio è una disputa sul diritto di certificare; per gli operai è un rischio di contestazioni sul lavoro già consegnato. Il prestigio di chi firma può rallentare una seconda perizia, ma non trasforma una firma in una misura vera.",
+      "visual": "A late industrial calibration workbench, brass measuring rule and two distinct sets of old and new anchor marks on the stone floor, a technician comparing their alignment, subtle invested geometric glow confined to the rule; no warped room or floating furniture.",
+      "revision": 363,
+      "record_type": "CASO_DIAGNOSTICO",
+      "continent": "Mereth",
+      "status": "Attivo",
+      "impact": "🟡",
+      "technical_scope": "Il caso conserva causa, limiti e situazione già fissati. Gli esempi diagnostici approfondiscono il funzionamento senza riscrivere il passato.",
+      "occurrence": "Si riproduce solo quando ricorrono le condizioni fisiche e investite descritte: non appare automaticamente alla presenza del PG.",
+      "wiki_url": "phn-001-the-shifted-reference.html",
+      "visual_caption": "Il confronto fra le marche vecchie e nuove distingue la misura certificata dalla posizione attuale. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità.",
+      "situation": {
+        "id": "U11-01",
+        "name": "The Unmoved Certificate",
+        "location_id": "LOC-001",
+        "location": "Lethorne",
+        "activation": "Attivo",
+        "narrative_function": "Indagine tecnica, accesso a reti di laboratorio.",
+        "current": "Marcel conserva la cerniera e limita nuove aperture; il laboratorio confronta le due posizioni del banco. Le misure originali e il successivo spostamento appartengono al caso già fissato in 153.",
+        "conflict": "Riparare l’apparato e conservare prove senza esporre a nuovi rischi persone estranee.",
+        "forces": [
+          {
+            "actor": "CAST-031",
+            "wants": "Laboratorio sicuro e manutenzione III qualificata.",
+            "fears": "Una dimostrazione consumi le due aperture residue.",
+            "limits": "Astrolabe II non rifornisce III."
+          },
+          {
+            "actor": "CAST-032",
+            "wants": "Seconda prova pubblicabile.",
+            "fears": "Confisca della copia autentica.",
+            "limits": "Archive I non riscrive o certifica ordini che non possiede."
+          },
+          {
+            "actor": "CAST-002",
+            "wants": "Misure riconosciute e permesso di lavoro.",
+            "fears": "Scambiare buon funzionamento con innocenza provata.",
+            "limits": "Capacità I e informazioni effettive, scelte autonome."
+          }
+        ],
+        "secret": "Vern autorizzò lo spostamento contando sul margine del venditore: responsabilità già fissata, nessun nuovo sabotatore cosmico.",
+        "hooks": [
+          "Una richiesta di confronto dei basamenti raggiunge un’officina collegata a Yselle.",
+          "Un addetto al trasporto offre il proprio cartellino con orario e descrizione del carico."
+        ],
+        "with_intervention": "Diagnosi può ritarare, conservare marche e permettere ricerca di servizio III. Prove raggiunte possono correggere responsabilità; riparazione non implica alleanza con il gruppo.",
+        "without_intervention": "Elias prepara deposizione, Livia cerca seconda copia, Marcel sospende aperture non verificate. Cerniera e laboratorio non spariscono alla scadenza.",
+        "time_pressure": "Udienza 31 maggio 812; riserva della cerniera consumata soltanto da attivazioni effettive.",
+        "impact": "🟡",
+        "narrator_material": {
+          "scene": "Sul banco, due tavole autentiche e due fori dei bulloni: entrambe le misure risultano corrette per il proprio riferimento.",
+          "complication": "Una prova funzionante consumerebbe una delle aperture; la porta ordinaria consente ispezione senza farlo.",
+          "optional_twist": "Il testimone chiede solo rimborso della giornata, non ingresso nello scambio."
+        },
+        "future_outcome": "OPEN",
+        "components": [
+          "ART-001",
+          "ART-008",
+          "MAT-008",
+          "PHN-001"
+        ]
+      }
     },
     {
       "id": "PHN-002",
@@ -8879,7 +8952,76 @@
       "response": "Bypass e guarnizione conforme; spegnere magia senza ventilazione alternativa può peggiorare il pozzo.",
       "current": "Turni ridotti mentre si verifica partita.",
       "unit": "U11-02",
-      "future_outcome": "OPEN"
+      "future_outcome": "OPEN",
+      "category": "Incidente di flusso",
+      "effigy": "Tempest",
+      "scene": "Dal giunto arriva un soffio intermittente, come un respiro. Il ramo che dovrebbe rifornire la galleria utile riceve meno aria mentre un tratto secondario rimane in pressione. Il rumore non proviene da un animale nella parete.",
+      "sequence": "L’umidità gonfia la guarnizione e restringe il raccordo. La pompa investita continua a esercitare il proprio gradiente: il flusso trova la resistenza minore nel ramo sbagliato. L’effetto peggiora quando si chiede più ventilazione senza rimuovere l’occlusione.",
+      "diagnosis": [
+        "Misurare separatamente i due rami, con ingresso e uscita accessibili: una sola lettura alla pompa nasconde il problema.",
+        "Esaminare il giunto bagnato e confrontarlo con un ricambio asciutto; la colonia sul raccordo può aggravare l’umidità senza essere il motore della pressione.",
+        "Analizzare l’aria respirabile nella galleria: silenzio del manometro e assenza di odore non dimostrano disponibilità di ossigeno."
+      ],
+      "exposure": "Il pericolo principale è respiratorio e materiale: aria insufficiente, accumulo di gas e urti da rilascio di pressione. Non si trasmette da persona a persona. Una protezione spirituale non sostituisce una via respirabile o una vera riserva d’aria.",
+      "intervention": "Il bypass va verificato prima di spegnere il circuito che sostiene il pozzo. Separare zona occupata e ramo in prova riduce l’esposizione; rimuovere la guarnizione sotto carico può liberare il gradiente sugli addetti. La riparazione richiede un controllo del flusso, non soltanto un pezzo dall’aspetto nuovo.",
+      "society": "Ridurre i turni protegge i minatori ma incide su salari e consegne. Una direzione può sbagliare senza essere posseduta; una frode sulle guarnizioni resta distinta dalla causa immediata. I lavoratori hanno ragioni concrete per chiedere una prova prima della riapertura.",
+      "visual": "Underground mine ventilation junction, wet swollen gasket exposed at a service opening, copper pipes, pressure instruments without readable markings, mist visibly escaping into the wrong side duct, distant empty mining gallery; no monster.",
+      "revision": 363,
+      "record_type": "CASO_DIAGNOSTICO",
+      "continent": "Mereth",
+      "status": "Critico",
+      "impact": "🟠",
+      "technical_scope": "Il caso conserva causa, limiti e situazione già fissati. Gli esempi diagnostici approfondiscono il funzionamento senza riscrivere il passato.",
+      "occurrence": "Si riproduce solo quando ricorrono le condizioni fisiche e investite descritte: non appare automaticamente alla presenza del PG.",
+      "wiki_url": "phn-002-the-breathing-seam.html",
+      "visual_caption": "Un giunto umido devia la ventilazione: il soffio non è una creatura nella parete. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità.",
+      "situation": {
+        "id": "U11-02",
+        "name": "Air for the Next Shift",
+        "location_id": "LOC-006",
+        "location": "Deren",
+        "activation": "Critico",
+        "narrative_function": "Pressione industriale con soluzione tecnica reale.",
+        "current": "La squadra usa bypass, turni ridotti e misure del gas. La resina gonfia mantiene incerto il ramo secondario; non si mandano tutti i minatori nel pozzo per attendere il PG.",
+        "conflict": "Garantire aria senza nascondere perdita di reddito o fermare anche rami sicuri.",
+        "forces": [
+          {
+            "actor": "CAST-242",
+            "wants": "Salute del familiare e salario durante fermo.",
+            "fears": "Scelta fra fame e rischio.",
+            "limits": "Ordinario, non modifica la valvola investita."
+          },
+          {
+            "actor": null,
+            "role": "Squadra di manutenzione del pozzo",
+            "wants": "Guarnizione e ventilazione provate.",
+            "fears": "Blocco dell’unico bypass.",
+            "limits": "Non può creare ossigeno con Pressure Gradient."
+          }
+        ],
+        "secret": "Certificazione a secco valida; fornitore omise prova umida. Non prova di avvelenamento volontario.",
+        "hooks": [
+          "La guardia del pozzo mostra un giunto gonfio e chiede confronto con la partita.",
+          "Un familiare presenta una busta paga ridotta con l’avviso di fermo."
+        ],
+        "with_intervention": "Sostituzione, flusso alternativo, accordo salariale o soccorso cambiano condizioni. Un potere capace può creare o riparare realmente il componente senza dover cercare per forza il venditore.",
+        "without_intervention": "Direzione limita settore e chiede sostituzione; lavoratori contrattano compenso. Rischio aumenta solo se si riapre senza prova o il bypass si guasta.",
+        "time_pressure": "Prossimo turno del 20 maggio, condizionato all’esito delle misure; nessuna strage automatica.",
+        "impact": "🟠",
+        "narrator_material": {
+          "scene": "Manometro corretto sul ramo principale, aria insufficiente al ramo basso e resina aperta sul tavolo.",
+          "complication": "Eliminare la magia prima del bypass può togliere aria anche al ramo sano.",
+          "optional_twist": "Il fornitore accetta ritiro della partita ma contesta il danno salariale."
+        },
+        "future_outcome": "OPEN",
+        "components": [
+          "ART-002",
+          "MAT-001",
+          "MAT-004",
+          "CRE-002",
+          "PHN-002"
+        ]
+      }
     },
     {
       "id": "PHN-003",
@@ -8894,7 +9036,80 @@
       "response": "Scaricare in recipiente sicuro e provare manicotti; cura delle ustioni non restituisce merce bruciata.",
       "current": "Proposta di carico anticipato prima della spedizione.",
       "unit": "U11-03",
-      "future_outcome": "OPEN"
+      "future_outcome": "OPEN",
+      "category": "Scarica termica",
+      "effigy": "Crucible",
+      "scene": "Un imballo si annerisce dall’interno; chi lo apre trova ceramica virata e metallo troppo caldo, benché il carico non sia passato vicino a una fiamma. Il calore proviene dalla matrice trasportata, non da una maledizione del magazzino.",
+      "sequence": "L’apparato carico è stato appoggiato troppo vicino a merci e pareti dell’involucro. La riserva termica trova un trasferimento fisico attraverso quei contatti. Separare i colli interrompe una via di conduzione, ma non fa sparire l’energia ancora conservata.",
+      "diagnosis": [
+        "Verificare il gradiente dal centro verso l’esterno del collo senza aprirlo a mani nude.",
+        "Confrontare carica residua e tre impulsi previsti: il riscaldamento deve avere una sorgente e un consumo, non crescere senza limite.",
+        "Esaminare separatamente il nido e la merce: la presenza di un animale fra i colli non prova che abbia acceso il carico."
+      ],
+      "exposure": "Si rischiano ustioni e incendio delle merci compatibili. Il legno già carbonizzato rimane tale anche dopo una purificazione; il recipiente caldo continua a scottare quando il comando magico è stato arrestato.",
+      "intervention": "Predisporre un recipiente di scarico compatibile, liberare spazio e allontanare ciò che può accendersi. Non bagnare alla cieca ogni matrice rovente: la procedura deve considerare il materiale e la sua capacità di sostenere il trasferimento. La cura di un ferito e la messa in sicurezza del carico sono due interventi diversi.",
+      "society": "Il nome commerciale suggerisce un debito inesistente perché qualcuno attribuisce il danno a calore “rubato” a una casa vicina. Le misure mostrano una riserva realmente trasportata. Assicuratore, vettore e fornitore discutono su imballaggio e istruzioni ricevute.",
+      "visual": "Opened industrial shipping crate with blackened paper charred from within, a heat-invested ceramic matrix glowing faint amber inside an insulated metal sleeve, a safe receiving crucible nearby, no uncontrolled inferno.",
+      "revision": 363,
+      "record_type": "CASO_DIAGNOSTICO",
+      "continent": "Mereth",
+      "status": "Attivo",
+      "impact": "🟡",
+      "technical_scope": "Il caso conserva causa, limiti e situazione già fissati. Gli esempi diagnostici approfondiscono il funzionamento senza riscrivere il passato.",
+      "occurrence": "Si riproduce solo quando ricorrono le condizioni fisiche e investite descritte: non appare automaticamente alla presenza del PG.",
+      "wiki_url": "phn-003-the-false-heat-debt.html",
+      "visual_caption": "La riserva termica scalda il collo dall’interno, attraverso contatti materiali. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità.",
+      "situation": {
+        "id": "U11-03",
+        "name": "A Load That Looks Pure",
+        "location_id": "LOC-011",
+        "location": "Karrel",
+        "activation": "Attivo",
+        "narrative_function": "Filiera e responsabilità materiale.",
+        "current": "Il campione superficiale del rame risulta puro, quello interno no. A Kessel, in un modulo distinto, la spedizione termica resta sospesa fino a prova dei manicotti.",
+        "conflict": "Consegnare in tempo senza fingere che una sola certificazione copra tutti i campioni e impieghi.",
+        "forces": [
+          {
+            "actor": "CAST-198",
+            "wants": "Recupero del credito di filiera senza finanziamento di frode.",
+            "fears": "Confondere autenticità dei documenti e qualità della merce.",
+            "limits": "Creditore a Lethorne, comunica per canali ordinari; non perito di rame."
+          },
+          {
+            "actor": null,
+            "role": "Tecnici locali di Karrel e Kessel, équipe separate",
+            "wants": "Campioni rappresentativi e imballaggi sicuri.",
+            "fears": "Perdita di combustibile e lavoro.",
+            "limits": "Non conoscono automaticamente le prove dell’altra città."
+          }
+        ],
+        "secret": "Scorie nascoste da rivestimento; il calore della Mantle è un secondo difetto separato. Non un colpevole unico obbligatorio.",
+        "hooks": [
+          "A Karrel un magazzino mette a disposizione lingotto tagliato e campione certificato.",
+          "A Kessel una cassa calda è respinta prima di essere caricata sul treno."
+        ],
+        "with_intervention": "Saggio, trasmutazione pertinente, separazione, sostituzione o scarica sicura rendono lotti utilizzabili; titoli civili e compensi restano questioni di prova.",
+        "without_intervention": "Lotti segregati, campioni nuovi, fornitore sostituito se rifiuta test. Le officine consumano scorte o rinviano ordini, senza catastrofe predefinita.",
+        "time_pressure": "Controllo delle partite IND-02 il 2 luglio; spedizione successiva dipende dal test, nessun viaggio immediato fra città.",
+        "impact": "🟡",
+        "narrator_material": {
+          "scene": "Il lingotto aperto rivela nucleo scuro mentre il puntale dà lo stesso responso corretto sul campione lucidato.",
+          "complication": "Conseguenza tecnica eliminabile con potere autentico, ma parte della partita è già stata rivenduta.",
+          "optional_twist": "Il venditore di resina ammette il problema prima del creditore, per salvare la propria reputazione."
+        },
+        "future_outcome": "OPEN",
+        "components": [
+          "ART-003",
+          "ART-004",
+          "ART-014",
+          "MAT-002",
+          "MAT-003",
+          "CRE-004",
+          "CRE-007",
+          "PEO-04",
+          "PHN-003"
+        ]
+      }
     },
     {
       "id": "PHN-004",
@@ -8909,7 +9124,88 @@
       "response": "Rilascio e supporto appropriato; Heart pertinente può curare, non certifica il fornitore automaticamente.",
       "current": "Reparto mantiene paziente stabile con supporto provvisorio.",
       "unit": "U11-04",
-      "future_outcome": "OPEN"
+      "future_outcome": "OPEN",
+      "category": "Incompatibilità clinica",
+      "effigy": "Heart",
+      "scene": "La ferita sanguina meno, ma il paziente Serekh fatica a respirare. La brace curativa sostiene il tessuto lesionato mentre una sua parte rigida comprime il distretto respiratorio: il beneficio e il danno possono coesistere.",
+      "sequence": "Un modello destinato all’anatomia umana è stato applicato senza una prova specifica. L’investimento non diventa ostile: la compressione meccanica cresce con l’aderenza del supporto. Allentare il bordo migliora la respirazione ma richiede un altro modo di controllare la lesione.",
+      "diagnosis": [
+        "Osservare insieme sanguinamento, escursione respiratoria e dolore al margine: una sola ferita apparentemente chiusa non dimostra che il paziente sia stabile.",
+        "Confrontare il punto compresso con il modello anatomico corretto, senza assimilare tutte le popolazioni non umane.",
+        "Provare un rilascio controllato con sostegno alternativo già pronto e registrare se la respirazione cambia."
+      ],
+      "exposure": "Il caso riguarda il paziente e quel supporto. Non è una sterilità collettiva né un rifiuto soprannaturale dei Serekh. Un soccorritore non contrae l’anomalia toccando il letto; può però ripetere lo stesso errore su un secondo paziente.",
+      "intervention": "Separare il contenimento della ferita dal sostegno respiratorio e ottenere il consenso del paziente quando possibile. Una cura Heart competente può risolvere la lesione; non certifica retroattivamente la qualità del lotto o la correttezza della prescrizione.",
+      "society": "L’incidente mette in gioco accesso a modelli clinici, formazione e disponibilità di misure appropriate. La paura di perdere il contratto può spingere a difendere la brace; non rende giusto sperimentare su altri ricoverati per salvare la reputazione.",
+      "visual": "Respectful clinical close-up of a rigid invested healing brace near an adult amphibious Serekh patient’s lateral respiratory slits, pale scaled skin, gloved medical hands carefully loosening a strap, clothed body, no face focus, no gore or nudity.",
+      "revision": 363,
+      "record_type": "CASO_DIAGNOSTICO",
+      "continent": "Mereth",
+      "status": "Attivo",
+      "impact": "🟡",
+      "technical_scope": "Il caso conserva causa, limiti e situazione già fissati. Gli esempi diagnostici approfondiscono il funzionamento senza riscrivere il passato.",
+      "occurrence": "Si riproduce solo quando ricorrono le condizioni fisiche e investite descritte: non appare automaticamente alla presenza del PG.",
+      "wiki_url": "phn-004-the-closed-gill.html",
+      "visual_caption": "La verifica clinica distingue il sostegno della ferita dalla compressione respiratoria. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità.",
+      "situation": {
+        "id": "U11-04",
+        "name": "The Shape of a Patient",
+        "location_id": "LOC-016",
+        "location": "Namar",
+        "activation": "Attivo",
+        "narrative_function": "Cura, consenso e autonomia.",
+        "current": "Il paziente Serekh è stabile con sostegno provvisorio; reparto prepara un modello diverso. Il piccolo Attendant richiede consenso al trasferimento, e una prenotazione dell’apparato V limita disponibilità reale.",
+        "conflict": "Adattare il servizio al paziente invece di adattare la persona alla standardizzazione.",
+        "forces": [
+          {
+            "actor": "CAST-029",
+            "wants": "Pazienti stabili e procedure congrue.",
+            "fears": "Il reparto venga fermato in blocco per difetto circoscritto.",
+            "limits": "Heart IV non rifornisce da solo apparato V."
+          },
+          {
+            "actor": "CAST-075",
+            "wants": "Filtro tarato e contaminazione separata.",
+            "fears": "Il responso diventi esclusione di specie.",
+            "limits": "Halo III diagnostica la configurazione raggiunta."
+          },
+          {
+            "actor": null,
+            "role": "Paziente e Attendant, due persone distinte",
+            "wants": "Respirare e scegliere collocazione.",
+            "fears": "Essere registrati come pezzi di attrezzatura.",
+            "limits": "Dipendenze materiali e informazioni cliniche, nessuna obbedienza al PG."
+          }
+        ],
+        "secret": "Errore dello stampo e filtro diagnosticato per altra contaminazione; nessuna maledizione etnica. Presunto sacrificio vivente per ART-023 non necessario.",
+        "hooks": [
+          "Un tecnico offre la brace e il calco precedente per una perizia.",
+          "La domanda di trasferimento dell’Attendant contiene una protesta firmata da lui."
+        ],
+        "with_intervention": "Modello congruo, cura pertinente, supporto alternativo o rifiuto di abuso risolvono specifiche dipendenze. Guarire non obbliga paziente a gratitudine, culto o testimonianza.",
+        "without_intervention": "Équipe usa modelli provvisori, separa fornitore e valuta consenso; paziente resta curato mentre si decide. Non si muore per una scadenza burocratica.",
+        "time_pressure": "Valutazione clinica 22 maggio; urgenza segue respirazione e sostegno effettivi.",
+        "impact": "🟡",
+        "narrator_material": {
+          "scene": "Due anatomie sullo stesso stampo, un bordo lascia livido pur mentre la ferita guarisce.",
+          "complication": "La placca del filtro è corretta per il suo bersaglio ma quel bersaglio non è il paziente.",
+          "optional_twist": "L’Attendant sceglie di restare dopo aver ottenuto libertà formale, non per comando del creatore."
+        },
+        "future_outcome": "OPEN",
+        "components": [
+          "ART-005",
+          "ART-006",
+          "ART-023",
+          "MAT-005",
+          "MAT-006",
+          "MAT-007",
+          "CRE-003",
+          "CRE-006",
+          "CRE-010",
+          "PEO-03",
+          "PHN-004"
+        ]
+      }
     },
     {
       "id": "PHN-005",
@@ -8924,7 +9220,77 @@
       "response": "Contestualizzare e interrogare senza estorcere una confessione al ricordo sbagliato.",
       "current": "Redazione prepara pubblicazione.",
       "unit": "U11-05",
-      "future_outcome": "OPEN"
+      "future_outcome": "OPEN",
+      "category": "Contraddizione probatoria",
+      "effigy": "Archive",
+      "scene": "Due deposizioni autentiche non raccontano la stessa cosa. Una conserva parole realmente pronunciate, l’altra registra una fase diversa dell’incontro. Chi cerca soltanto il documento falso rischia di distruggere entrambe le fonti valide.",
+      "sequence": "Il ricordo del testimone era già inesatto quando venne attestato; il supporto preserva fedelmente quell’affermazione. Una lacuna cartacea elimina inoltre parte del contesto. La divergenza nasce fra esperienza, ricordo e registrazione: non è una riscrittura avvenuta dopo il sigillo.",
+      "diagnosis": [
+        "Distinguere la data dell’evento da quella in cui il testimone ha parlato e dalla data di conservazione.",
+        "Controllare che l’identità attestata sia quella del parlante: un sigillo d’identità non certifica ogni contenuto della sua memoria.",
+        "Confrontare una traccia indipendente dell’incontro e la lacuna fisica della pagina; l’accesso Archive a ulteriori prove resta possibile."
+      ],
+      "exposure": "Il danno si produce quando una versione autentica ma incompleta viene assunta come verità esaustiva: reputazioni, giudizi e scelte operative possono cambiare. La lettura non infetta i ricordi altrui e non impone una volontà.",
+      "intervention": "Conservare entrambe le fonti, rendere visibili le lacune e formulare domande che non trasformino l’incertezza in confessione. Una nuova ricostruzione deve dire quale divergenza risolve e quale rimane aperta; trovare un terzo testimone non rende infallibile il terzo.",
+      "society": "La redazione deve scegliere tempi, contesto e responsabilità della pubblicazione. Il deposito può custodire una prova senza possederne l’interpretazione definitiva. Il caso distingue forza soprannaturale della conservazione e fallibilità delle persone.",
+      "visual": "Editorial investigation desk with two authenticated sealed witness records, one damaged page with a missing corner, an invested memory plate and ordinary notebook beside it, soft lamplight, indistinct illegible handwriting; no ghost, mind-control rays or fabricated visions.",
+      "revision": 363,
+      "record_type": "CASO_DIAGNOSTICO",
+      "continent": "Mereth",
+      "status": "Attivo",
+      "impact": "🟡",
+      "technical_scope": "Il caso conserva causa, limiti e situazione già fissati. Gli esempi diagnostici approfondiscono il funzionamento senza riscrivere il passato.",
+      "occurrence": "Si riproduce solo quando ricorrono le condizioni fisiche e investite descritte: non appare automaticamente alla presenza del PG.",
+      "wiki_url": "phn-005-the-honest-contradiction.html",
+      "visual_caption": "Due registrazioni autentiche possono divergere per memoria inesatta o contesto incompleto. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità.",
+      "situation": {
+        "id": "U11-05",
+        "name": "The Words That Were Said",
+        "location_id": "LOC-038",
+        "location": "Teshen",
+        "activation": "Attivo",
+        "narrative_function": "Prove, informazione e successioni.",
+        "current": "La redazione prepara una testimonianza autentica priva di un contesto cartaceo. Il modulo di Veldane riguarda deposito e cablaggio, collegabile tramite documenti ma fisicamente separato.",
+        "conflict": "Pubblicare dati utili senza convertire attestazione in infallibilità o consegna in proprietà.",
+        "forces": [
+          {
+            "actor": "CAST-348",
+            "wants": "Testo verificabile e accessibile.",
+            "fears": "Essere accusata di falsificazione per ricordo altrui.",
+            "limits": "Redazione ordinaria non riscrive Witness Seal."
+          },
+          {
+            "actor": "CAST-006",
+            "wants": "Concordanze e confini di competenza.",
+            "fears": "Una matrice tecnica venga usata come titolo legale universale.",
+            "limits": "Ufficio non conosce ogni luogo remoto."
+          }
+        ],
+        "secret": "Testimone sincero ma inesatto; un deposito attesta consegna e non eredità. Collegare le due vicende è opportunità editoriale, non identità della vittima.",
+        "hooks": [
+          "Una redazione offre confronto tra registrazione e pagina mangiata.",
+          "Un depositario chiede parere su due titoli che la matrice non sa distinguere."
+        ],
+        "with_intervention": "Raggiungere altra traccia, intervistare o delimitare la pubblicazione cambia prova e fiducia; non serve dichiarare falso un oggetto autentico.",
+        "without_intervention": "Redazione pubblica con nota di lacuna se manca contesto; deposito trattiene nei limiti pattuiti e chiede giudizio civile. Nessuna memoria collettiva riscritta.",
+        "time_pressure": "Edizione del 26 maggio; deposizione o deposito possono essere aggiornati con nuove prove.",
+        "impact": "🟡",
+        "narrator_material": {
+          "scene": "Registrazione pronuncia la frase contestata, e il testimone spiega perché gli pareva vera.",
+          "complication": "Una copia più leggibile è meno antica ma può conservare fedelmente il testo.",
+          "optional_twist": "Il presunto avversario offre spontaneamente il documento che riduce l’accusa."
+        },
+        "future_outcome": "OPEN",
+        "components": [
+          "ART-007",
+          "ART-009",
+          "ART-012",
+          "MAT-009",
+          "CRE-008",
+          "PEO-01",
+          "PHN-005"
+        ]
+      }
     },
     {
       "id": "PHN-006",
@@ -8939,7 +9305,78 @@
       "response": "Perizia e nuovo allarme pertinente o deviazione ordinaria; non imputare a Loom una capacità mai promessa.",
       "current": "Mercanti chiedono riapertura dopo test del cuneo.",
       "unit": "U11-06",
-      "future_outcome": "OPEN"
+      "future_outcome": "OPEN",
+      "category": "Falso affidamento",
+      "effigy": "Loom",
+      "scene": "La campana tace e il cuneo appare saldo, mentre a pochi passi una crepa si allarga sotto un masso diverso. L’allarme non è guasto: sta sorvegliando esattamente il rapporto per cui è stato preparato.",
+      "sequence": "Il trigger riguarda lo spostamento del cuneo collegato. Pioggia, carichi e passaggio della mandria modificano un’altra parte della parete. Poiché nessun rapporto investito lega quella crepa al segnale, il nuovo rischio non entra nel circuito.",
+      "diagnosis": [
+        "Muovere il riferimento in una prova controllata: la campana risponde e dimostra soltanto quel collegamento.",
+        "Ispezionare la frattura esterna al riferimento con mezzi appropriati, senza dedurne la sicurezza dal test precedente.",
+        "Ricostruire dove passano carri e animali: un carico cambiato può aver reso insufficiente una protezione prima adeguata."
+      ],
+      "exposure": "Il rischio è il crollo reale lungo la via. Non segue chi ascolta la campana e non decide quale mercante debba morire. Una previsione Loom può aiutare solo se raggiunge il fenomeno pertinente, non perché ogni futuro appartenga automaticamente al campanello.",
+      "intervention": "Deviare il passaggio e predisporre sostegni consente di studiare la parete senza chiedere all’oggetto una funzione che non possiede. Un nuovo allarme deve legarsi alla condizione giusta e avere una fonte reale. Anche con la campana attiva restano necessari accesso e manutenzione.",
+      "society": "Mercanti e custodi possono usare la stessa prova per sostenere richieste opposte. La contesa riguarda l’interpretazione di una garanzia limitata: essere stati informati che “l’allarme funziona” non equivale ad aver ricevuto una perizia dell’intero passo.",
+      "visual": "Mountain trading path beneath a fractured rock face, intact invested wedge connected to a small silent bell in the foreground, a separate dangerous fissure higher on the cliff clearly visible, distant pack animals diverted safely; no giant magical crack.",
+      "revision": 363,
+      "record_type": "CASO_DIAGNOSTICO",
+      "continent": "Nareth",
+      "status": "Attivo",
+      "impact": "🟠",
+      "technical_scope": "Il caso conserva causa, limiti e situazione già fissati. Gli esempi diagnostici approfondiscono il funzionamento senza riscrivere il passato.",
+      "occurrence": "Si riproduce solo quando ricorrono le condizioni fisiche e investite descritte: non appare automaticamente alla presenza del PG.",
+      "wiki_url": "phn-006-the-silent-wedge.html",
+      "visual_caption": "L’allarme è collegato al cuneo, mentre la frattura pericolosa riguarda una parte diversa della parete. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità.",
+      "situation": {
+        "id": "U11-06",
+        "name": "The Safe Way Around",
+        "location_id": "LOC-055",
+        "location": "Keran",
+        "activation": "Attivo",
+        "narrative_function": "Vie, evacuazione e impatto ecologico.",
+        "current": "Un cuneo verificato tace mentre un masso vicino si muove. Mercanti preparano deviazione, mandria cerca altro passaggio. A Sarn il modulo di soccorso mantiene ispezione 27 maggio già fissata.",
+        "conflict": "Accesso sicuro contro costo della deviazione e necessità di preservare il passaggio animale.",
+        "forces": [
+          {
+            "actor": "CAST-442",
+            "wants": "Percorso e tempi dichiarati per merci.",
+            "fears": "Il test venga scambiato per garanzia assoluta.",
+            "limits": "Mercante ordinario non estende Loom."
+          },
+          {
+            "actor": "CAST-285",
+            "wants": "Segnali e evacuazione nei limiti dell’argano.",
+            "fears": "Cavo da merci montato sul soccorso.",
+            "limits": "A Reth Narrows, incarichi e spostamenti reali, nessuna presenza simultanea a Keran."
+          }
+        ],
+        "secret": "Allarme non guasto: bersaglio del trigger incompleto. Il collare del modulo Sarn è di altro lotto.",
+        "hooks": [
+          "A Keran un carrettiere indica la crepa oltre il cuneo.",
+          "A Sarn una squadra esibisce la giunzione di ricambio e chiede perizia del carico."
+        ],
+        "with_intervention": "Nuovo trigger, consolidamento, viaggio soprannaturale pertinente o deviazione cambiano flussi; non annullano debiti e diritti di territorio automaticamente.",
+        "without_intervention": "Mercanti deviano o attendono, manutentori limitano carico; mandria cambia pista. Frana richiede cedimento reale, non il mancato coinvolgimento del PG.",
+        "time_pressure": "Sarn 27 maggio; a Keran le misure quotidiane del masso determinano urgenza.",
+        "impact": "🟠",
+        "narrator_material": {
+          "scene": "Campana silenziosa e pietra marcata integra, crepa visibile sulla roccia contigua.",
+          "complication": "Un bypass commerciale sposta i carri proprio sulla via stagionale della mandria.",
+          "optional_twist": "Raccoglitori accettano meno corno pur di evitare abbattimenti."
+        },
+        "future_outcome": "OPEN",
+        "components": [
+          "ART-010",
+          "ART-022",
+          "MAT-010",
+          "MAT-017",
+          "CRE-011",
+          "CRE-018",
+          "PEO-02",
+          "PHN-006"
+        ]
+      }
     },
     {
       "id": "PHN-007",
@@ -8954,7 +9391,76 @@
       "response": "Separazione o arresto del canale guasto; la rotta alternativa resta più lunga.",
       "current": "Revisione 6 giugno, piloti già usano scandaglio.",
       "unit": "U11-07",
-      "future_outcome": "OPEN"
+      "future_outcome": "OPEN",
+      "category": "Interferenza di navigazione",
+      "effigy": "Astrolabe",
+      "scene": "Due bussole investite indicano direzioni diverse nella stessa imbarcazione, mentre scandaglio e riferimenti costieri restano coerenti. Il mare non ha cambiato geografia: gli strumenti ricevono riferimenti investiti incompatibili.",
+      "sequence": "Le marche sovrapposte appartengono allo stesso canale storico. Entrando nel settore raggiunto dall’apparato, uno strumento accordato può agganciare il raccordo sbagliato. Uscendo dal raggio di 800 m cessa quell’interferenza; nebbia e fondali restano pericoli propri.",
+      "diagnosis": [
+        "Confrontare strumenti accordati e strumenti ordinari nello stesso punto, mantenendo nota di quale riferimento ciascuno usa.",
+        "Rilevare il fondale con lo scandaglio e confrontarlo con bollettini datati: una carta vecchia può introdurre un secondo errore indipendente.",
+        "Tracciare il margine della divergenza senza usare proprio la bussola sospetta come unico criterio di posizione."
+      ],
+      "exposure": "L’interferenza può far sbagliare una rotta e provocare un naufragio; non sposta corpi, isole o stelle. Un pilota che conserva riferimenti indipendenti può attraversare il settore senza assumere la lettura investita come ordine.",
+      "intervention": "Separare il canale o arrestare l’apparato può risolvere la divergenza, ma la nave deve comunque avere acqua sufficiente sotto la chiglia. La deviazione più lunga comporta costi e tempi reali; una correzione soprannaturale non restituisce automaticamente un carico già perduto.",
+      "society": "Piloti, assicuratori e servizio dei fari hanno interesse a distinguere errore strumentale e imperizia. La leggenda di correnti che scelgono le vittime prospera quando gli strumenti portano un’autorità che nessuno osa verificare.",
+      "visual": "Coastal pilot boat above shallow reefs and fog banks, two brass invested compasses on a chart table pointing in different directions, a lead sounding line descending into real water, lighthouse far away; no whirlpool, portal or bent horizon.",
+      "revision": 363,
+      "record_type": "CASO_DIAGNOSTICO",
+      "continent": "Mereth",
+      "status": "Attivo",
+      "impact": "🟠",
+      "technical_scope": "Il caso conserva causa, limiti e situazione già fissati. Gli esempi diagnostici approfondiscono il funzionamento senza riscrivere il passato.",
+      "occurrence": "Si riproduce solo quando ricorrono le condizioni fisiche e investite descritte: non appare automaticamente alla presenza del PG.",
+      "wiki_url": "phn-007-the-divided-bearing.html",
+      "visual_caption": "Bussole investite divergenti si confrontano con scandaglio e riferimenti indipendenti. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità.",
+      "situation": {
+        "id": "U11-07",
+        "name": "Two Honest Stones",
+        "location_id": "LOC-032",
+        "location": "Grey Embankment",
+        "activation": "Attivo",
+        "narrative_function": "Rovine, navigazione e conservazione; moduli separati.",
+        "current": "Due blocchi autentici sono catalogati prima del cantiere. Al modulo South Shoals i piloti già confrontano bussole e scandagli; al porto il dragaggio minaccia colonia di filtratori.",
+        "conflict": "Salvare prove e servizio senza attribuire a tutto il paesaggio il potere di un frammento.",
+        "forces": [
+          {
+            "actor": "CAST-030",
+            "wants": "Provenienza e campioni separati.",
+            "fears": "Una vendita cancelli contesto.",
+            "limits": "Archive III non conosce tutto da un solo frammento."
+          },
+          {
+            "actor": "CAST-078",
+            "wants": "Dragaggio sicuro e approdi utilizzabili.",
+            "fears": "Un canale riaperto danneggi una riva.",
+            "limits": "Tecnico ordinario, altri moduli richiedono viaggi o corrispondenza."
+          }
+        ],
+        "secret": "Un blocco attivo e uno inerte; echo non personale. Le marche South Shoals sono un caso tecnico distinto, non una pista garantita verso il tradimento.",
+        "hooks": [
+          "Un appaltatore mostra campioni isolati e piano di consolidamento.",
+          "A Belanne un bollettino invita periti a confrontare bussole presso l’apparato."
+        ],
+        "with_intervention": "Campionare, stabilizzare, sostituire funzione o separare canale consente servizio e conservazione; soluzione competente non richiede distruzione di tutto il sito.",
+        "without_intervention": "Cantiere conserva campioni e consolida, porto devia traffico, piloti seguono bollettino. Informazioni rimaste sepolte non diventano annullate universalmente.",
+        "time_pressure": "29 maggio cantiere, 3 giugno dragaggio, 6 giugno revisione; tre calendari reali distinti.",
+        "impact": "🟠",
+        "narrator_material": {
+          "scene": "Due pietre genuine, una reagisce e l’altra no; venditore giura che vengono dallo stesso muro.",
+          "complication": "Consolidare conserva sicurezza ma rende più costosa l’indagine sullo strato non campionato.",
+          "optional_twist": "Il pezzo costoso è inerte; quello usato come fermaporta conserva traccia attiva."
+        },
+        "future_outcome": "OPEN",
+        "components": [
+          "ART-011",
+          "ART-025",
+          "MAT-011",
+          "CRE-001",
+          "CRE-009",
+          "PHN-007"
+        ]
+      }
     },
     {
       "id": "PHN-008",
@@ -8969,7 +9475,77 @@
       "response": "Separare, sostituire e distribuire alternative; Cradle o Seed pertinenti possono creare soluzione materiale senza risolvere debiti.",
       "current": "Cooperative confrontano prove prima di seminare.",
       "unit": "U11-08",
-      "future_outcome": "OPEN"
+      "future_outcome": "OPEN",
+      "category": "Errore di filiera biologica",
+      "effigy": "Seed",
+      "scene": "Vassoi seminati nello stesso giorno danno esiti diversi: alcuni semi germinano con il tratto selezionato, altri non germinano affatto. La terra non è stata condannata; il sacco mescola linee differenti e materiale sterile.",
+      "sequence": "L’investimento può favorire una tolleranza presente nella linea raggiunta. Non inventa una capacità riproduttiva in ogni seme morto o sterile. Una mescolanza precedente alla consegna produce fallimenti distribuiti nel lotto, poi nei campi che ne ricevono le porzioni.",
+      "diagnosis": [
+        "Separare campioni per provenienza verificabile e ripetere la germinazione in condizioni comparabili.",
+        "Controllare vitalità e tratto come domande distinte: essere tollerante non significa necessariamente essere fertile.",
+        "Seguire i registri della linea fino alle confezioni effettive, senza assumere che il marchio sul sacco descriva ogni seme dentro."
+      ],
+      "exposure": "Il rischio è agricolo ed economico: un raccolto atteso può mancare e lasciare debiti. Non è un contagio che sterilizza chi tocca il seme. Il resto del continente non perde fertilità per il fallimento di una partita.",
+      "intervention": "Isolare il lotto evita ulteriori consegne equivoche; sostituire il materiale o creare una soluzione pertinente può salvare una stagione entro risorse e tempi reali. Una nuova pianta non decide chi debba pagare le spese già sostenute, né cancella il consenso degli agricoltori.",
+      "society": "La promessa commerciale può essere più ampia della funzione investita acquistata. Cooperative e fornitori devono poter confrontare campioni senza essere accusati di rifiutare la magia. Il caso distingue una linea biologica da una garanzia universale di abbondanza.",
+      "visual": "Experimental seed trays in an arid agricultural station, one tray of healthy young sprouts beside another of visibly ungerminated seeds, separated cloth seed bags and irrigation channel, late industrial fantasy, no monster plants or apocalyptic dead landscape.",
+      "revision": 363,
+      "record_type": "CASO_DIAGNOSTICO",
+      "continent": "Caldris",
+      "status": "Attivo",
+      "impact": "🟡",
+      "technical_scope": "Il caso conserva causa, limiti e situazione già fissati. Gli esempi diagnostici approfondiscono il funzionamento senza riscrivere il passato.",
+      "occurrence": "Si riproduce solo quando ricorrono le condizioni fisiche e investite descritte: non appare automaticamente alla presenza del PG.",
+      "wiki_url": "phn-008-the-sterile-promise.html",
+      "visual_caption": "Germinazione e tratto selezionato sono due proprietà da verificare separatamente. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità.",
+      "situation": {
+        "id": "U11-08",
+        "name": "A Harvest with Conditions",
+        "location_id": "LOC-042",
+        "location": "Qadra",
+        "activation": "Attivo",
+        "narrative_function": "Risorse alimentari, sviluppo e commercio.",
+        "current": "Cooperative confrontano semi prima di distribuire. Moduli Low Fen, Aldora, Serele e Mareth trattano raccolti, accessi e trasporto di fauna; non una spedizione unica su più continenti.",
+        "conflict": "Produrre senza convertire un adattamento limitato in promessa universale di resa.",
+        "forces": [
+          {
+            "actor": "CAST-367",
+            "wants": "Lotto fertile e acqua concordata.",
+            "fears": "Perdere una semina per prova tardiva.",
+            "limits": "Coltivatore ordinario non incorpora Seed tramite semi."
+          },
+          {
+            "actor": "CAST-342",
+            "wants": "Silo e strada accessibili.",
+            "fears": "La barriera Banner sia un pretesto per monopolio.",
+            "limits": "Congedato ordinario, nessun comando divino del presidio."
+          }
+        ],
+        "secret": "Partita mescolata, non castigo del dio; fauna elettrica non batteria infinita e canne luminose non Halo.",
+        "hooks": [
+          "Un sacco venduto con marchio fertile contiene due tipi di semi; campione disponibile.",
+          "Un presidio del silo chiede alternative per mantenere accesso senza bloccare raccolta."
+        ],
+        "with_intervention": "Separazione, nuove risorse congrue, distribuzione, negoziazione o infrastruttura possono risolvere; Cradle crea davvero, non deve fingere incapacità per preservare scarsità.",
+        "without_intervention": "Cooperative riducono superficie o usano varietà alternative, presidio corregge corsia, allevatori isolano vasche; prezzi cambiano per quantità reali.",
+        "time_pressure": "Finestra di semina locale verificata con clima del luogo; non medesima stagione per cinque continenti.",
+        "impact": "🟡",
+        "narrator_material": {
+          "scene": "Tre vasche di germinazione: sale tollerato, semi sterili e campione di controllo.",
+          "complication": "Una varietà fertile può reggere il sale ma richiedere più acqua di quella disponibile.",
+          "optional_twist": "Una comunità propone condivisione invece di acquistare tutta la partita."
+        },
+        "future_outcome": "OPEN",
+        "components": [
+          "ART-013",
+          "ART-015",
+          "MAT-012",
+          "CRE-005",
+          "CRE-012",
+          "CRE-017",
+          "PHN-008"
+        ]
+      }
     },
     {
       "id": "PHN-009",
@@ -8984,7 +9560,75 @@
       "response": "Separare matrice, asciugare, rinnovare configurazione; uscite ordinarie restano aperte.",
       "current": "Test locale 23 maggio; accordo superiore 30 giugno distinto.",
       "unit": "U11-09",
-      "future_outcome": "OPEN"
+      "future_outcome": "OPEN",
+      "category": "Errore di occultamento",
+      "effigy": "Eclipse",
+      "scene": "La stanza sembra schermata perché la tenda nuova è nera quanto la vecchia. Una prova rivela però che l’occultamento è rimasto sulla cornice dismessa: l’aspetto del tessuto non trasporta la funzione investita.",
+      "sequence": "Durante il rinnovo sono stati separati supporto e configurazione. Il filtro continua a operare sul canale effettivamente preso, ma quel canale non coincide con ogni possibilità di ascolto, osservazione o lettura spirituale della camera. Umidità e muffa restano problemi materiali distinti.",
+      "diagnosis": [
+        "Eseguire una prova acustica e una spirituale separate: il fallimento dell’una non dimostra il fallimento dell’altra.",
+        "Individuare il supporto che conserva la traccia, confrontando cornice vecchia e nuova invece del colore del tessuto.",
+        "Controllare porte e linea di allarme prima di un test: una schermatura non deve essere scambiata per assenza di uscite."
+      ],
+      "exposure": "Il pericolo principale è una falsa aspettativa di riservatezza. Non diventa invisibile chi porta via la tenda e non viene trascinato in una Root chi entra nella camera. La muffa può nuocere per cause proprie, senza creare poteri notturni.",
+      "intervention": "Riconfigurare il filtro sul supporto corretto e dichiarare quali canali copre. Asciugare o sostituire il tessuto non rifornisce l’investimento; spegnere il filtro non risolve la salubrità. La separazione superiore delle licenze rimane una questione diversa dal test della camera.",
+      "society": "Utenti del ricovero e manutentori devono sapere cosa il servizio protegge davvero. Un esito tecnico locale non conferisce alla rete funeraria il diritto di osservare i pazienti, né stabilisce che ogni ufficio della rete condivida la stessa falla.",
+      "visual": "Quiet shelter room with a new black curtain hanging in an ordinary doorway, discarded old wooden frame beside it holding a faint narrow occult veil, damp wall detail, visible open exit; no person trapped or demonic silhouette.",
+      "revision": 363,
+      "record_type": "CASO_DIAGNOSTICO",
+      "continent": "Nareth",
+      "status": "Attivo",
+      "impact": "🟡",
+      "technical_scope": "Il caso conserva causa, limiti e situazione già fissati. Gli esempi diagnostici approfondiscono il funzionamento senza riscrivere il passato.",
+      "occurrence": "Si riproduce solo quando ricorrono le condizioni fisiche e investite descritte: non appare automaticamente alla presenza del PG.",
+      "wiki_url": "phn-009-the-unquiet-curtain.html",
+      "visual_caption": "La cornice dismessa conserva il filtro che il tessuto nuovo non ha ereditato. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità.",
+      "situation": {
+        "id": "U11-09",
+        "name": "Privacy with Two Doors",
+        "location_id": "LOC-051",
+        "location": "Noran",
+        "activation": "Attivo",
+        "narrative_function": "Riservatezza, culto e custodia dei morti.",
+        "current": "Sale funerarie rinnovano tende e verificano uscite. Una cassa di quiete è richiesta da famiglia e legale; le due questioni restano distinguibili.",
+        "conflict": "Proteggere colloqui senza sequestrare persone o chiamare ogni silenzio quiete dei morti.",
+        "forces": [
+          {
+            "actor": "CAST-177",
+            "wants": "Riservatezza con evacuazione possibile.",
+            "fears": "Filtro locale usato per recludere.",
+            "limits": "Eclipse IV, non Sepulchre e non controllo della Root."
+          },
+          {
+            "actor": "CAST-423",
+            "wants": "Consenso della famiglia verificato.",
+            "fears": "Una cassetta vuota venga trattata come persona.",
+            "limits": "Legale ordinario, non risveglia morti."
+          }
+        ],
+        "secret": "Muffa fisica su cornice ancora investita; la seconda cassetta è cenere inerte. Non aggiungere anima dove il residuo non c’è.",
+        "hooks": [
+          "Un test delle uscite ammette un osservatore indipendente.",
+          "Una famiglia chiede verifica delle cassette prima del trasferimento."
+        ],
+        "with_intervention": "Separare matrice e sostanza, diagnosticare residuo, mantenere porte e consenso migliora servizio. Una contesa superiore non si risolve soltanto timbrando un modulo.",
+        "without_intervention": "Sale ritirano tenda difettosa, cassa resta custodita nei limiti legittimi, legale cerca altra prova; Varessa segue propria unità già fissata, non aspetta questa scena.",
+        "time_pressure": "Test locale 23 maggio; rinnovo superiore 30 giugno distinto.",
+        "impact": "🟡",
+        "narrator_material": {
+          "scene": "In una stanza buia l’allarme ordinario funziona; in quella illuminata il filtro spirituale è spento.",
+          "complication": "La famiglia desidera silenzio ma non isolamento materiale dal medico.",
+          "optional_twist": "Un custode sospende spontaneamente una custodia che avrebbe aumentato il proprio prestigio."
+        },
+        "future_outcome": "OPEN",
+        "components": [
+          "ART-016",
+          "ART-017",
+          "MAT-014",
+          "CRE-013",
+          "PHN-009"
+        ]
+      }
     },
     {
       "id": "PHN-010",
@@ -8999,7 +9643,74 @@
       "response": "Sostituire e investire; non provare il filtro aggredendo un allievo.",
       "current": "Controlli 23 maggio nella valle, rinnovo superiore 30 giugno.",
       "unit": "U11-10",
-      "future_outcome": "OPEN"
+      "future_outcome": "OPEN",
+      "category": "Esaurimento di protezione",
+      "effigy": "Crescent",
+      "scene": "La lamina restituisce ancora un riflesso nitido, ma non sostiene una seconda sostituzione difensiva. Essere intatto come specchio e avere ancora una riserva investita sono condizioni differenti.",
+      "sequence": "Il primo uso ha consumato la funzione predisposta. Un addetto ha rimesso la lamina fra le scorte integre senza riconciliare registro e microfrattura. La superficie ottica sopravvive all’impiego: il suo aspetto favorisce la confusione.",
+      "diagnosis": [
+        "Controllare registro di prova e continuità della matrice: la nitidezza dell’immagine non misura la carica.",
+        "Esaminare la microcrepa con una verifica non lesiva su supporto inerte.",
+        "Distinguere l’automatismo didattico dal famiglio indipendente: una sua risposta non ricarica né certifica lo specchio."
+      ],
+      "exposure": "Il rischio compare quando qualcuno affida il proprio corpo a una difesa già spenta. Il riflesso non prende vita, non conserva un doppio del ferito e non assorbe ogni successivo danno del proprietario.",
+      "intervention": "Togliere la lamina dal servizio, registrare il consumo e predisporre un altro supporto realmente investito. Non aggredire un allievo per dimostrare che una protezione funziona: una prova va progettata in modo da non dipendere dall’esito sperato.",
+      "society": "La scuola ha interesse a controllare manutenzione e consenso senza trasformare l’errore in presunta punizione divina. Il rinnovo delle licenze può cambiare responsabilità e procedure, ma non modifica retroattivamente il numero di sostituzioni disponibili.",
+      "visual": "Occult training courtyard, a silver mirror plate with a fine branching crack reflecting an empty stone arch accurately, an unused comparison plate stored separately, examination tools, restrained moonlike lighting; no duplicate person or wound transferred to an enemy.",
+      "revision": 363,
+      "record_type": "CASO_DIAGNOSTICO",
+      "continent": "Veyra",
+      "status": "Attivo",
+      "impact": "🟡",
+      "technical_scope": "Il caso conserva causa, limiti e situazione già fissati. Gli esempi diagnostici approfondiscono il funzionamento senza riscrivere il passato.",
+      "occurrence": "Si riproduce solo quando ricorrono le condizioni fisiche e investite descritte: non appare automaticamente alla presenza del PG.",
+      "wiki_url": "phn-010-the-spent-reflection.html",
+      "visual_caption": "Una lamina può riflettere correttamente anche dopo aver consumato la protezione. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità.",
+      "situation": {
+        "id": "U11-10",
+        "name": "The Lamina Already Broken",
+        "location_id": "LOC-058",
+        "location": "Tevren",
+        "activation": "Attivo",
+        "narrative_function": "Pratiche rituali, apprendimento e fiducia.",
+        "current": "Scuola di valle separa lamine consumate e integre; allievi chiedono che la Larva didattica sia diagnosticata prima di dismetterla.",
+        "conflict": "Dimostrare protezione senza colpire una persona per produrre spettacolo.",
+        "forces": [
+          {
+            "actor": "CAST-184",
+            "wants": "Prova sicura e corrispondenza rituale valida.",
+            "fears": "Scorte vecchie facciano perdere fiducia al rito.",
+            "limits": "Crescent IV non rende ogni specchio un Living Mirror."
+          },
+          {
+            "actor": "CAST-460",
+            "wants": "Lezioni e registri disponibili agli allievi.",
+            "fears": "Consumo confuso con fallimento morale.",
+            "limits": "Ordinario, non rifornisce la matrice."
+          }
+        ],
+        "secret": "Lamina consumata durante prova; automatismo non ancora dimostrato personale. Il difetto non dipende dal luogo essere valle invece di porto.",
+        "hooks": [
+          "Un verbale di inventario segnala microfratture prima del test.",
+          "Un’allieva chiede di confrontare due attivazioni identiche della Larva."
+        ],
+        "with_intervention": "Sostituire, investire e provare con bersaglio non personale; se emerge coscienza autentica riconoscerne autonomia. Non si incorpora Crescent da una lezione teorica.",
+        "without_intervention": "Scuola elimina supporti consumati, sospende dimostrazione rischiosa e conserva campione. Ilyren gestisce il proprio accordo superiore secondo dossier463, non viene neutralizzata dal magazzino.",
+        "time_pressure": "23 maggio prova locale; 30 giugno rinnovo superiore, senza equivalenza fra carenza di lamina e caduta divina.",
+        "impact": "🟡",
+        "narrator_material": {
+          "scene": "Specchio perfettamente lucido rivela microcrepa controluce mentre il registro lo chiama nuovo.",
+          "complication": "Un ricambio riflette bene ma non ha ancora investimento; trasparenza commerciale non basta.",
+          "optional_twist": "Il responsabile della svista è chi l’ha denunciata prima del test."
+        },
+        "future_outcome": "OPEN",
+        "components": [
+          "ART-018",
+          "MAT-015",
+          "CRE-014",
+          "PHN-010"
+        ]
+      }
     },
     {
       "id": "PHN-011",
@@ -9014,7 +9725,77 @@
       "response": "Riposo reale, uso consensuale, eliminazione uova; protezione Labyrinth non crea consenso al contratto.",
       "current": "Una clinica vuole rinnovare turni allungati.",
       "unit": "U11-11",
-      "future_outcome": "OPEN"
+      "future_outcome": "OPEN",
+      "category": "Abuso di protezione",
+      "effigy": "Labyrinth",
+      "scene": "Un lavoratore si sente meno assalito da ansia e stimoli durante il turno, ma accumula stanchezza e perde precisione. La difesa emotiva è reale; la promessa di non aver più bisogno di dormire è falsa.",
+      "sequence": "Lo schermo sostiene un limite contro intrusioni pertinenti. L’allungamento dei turni usa quel beneficio per rinviare riposo e recupero corporeo. Il corpo continua a pagare il lavoro; le uova nelle fibre aggiungono un problema di igiene e filiera, non una spiegazione unica dell’esaurimento.",
+      "diagnosis": [
+        "Ricostruire ore effettive di sonno e lavoro invece di chiedere soltanto se l’utente si sente tranquillo.",
+        "Verificare che il supporto possa essere spento dall’interno e distinguere consenso iniziale da rinnovo del turno.",
+        "Analizzare le fibre separatamente dall’investimento: eliminare uova e larve non ristora chi non ha dormito."
+      ],
+      "exposure": "Il pericolo riguarda affaticamento, incidenti e dipendenza da una condizione lavorativa. Il mezzo non legge automaticamente i pensieri e non rende consenziente chi firma sotto pressione economica. La stanchezza resta anche fuori dalla camera schermata.",
+      "intervention": "Garantire riposo reale e alternativa al turno è parte della soluzione pratica. La protezione può rimanere utile se impiegata per lo scopo corretto. Una diagnosi deve poter distinguere beneficio, limite e abuso senza dichiarare nociva qualsiasi difesa mentale.",
+      "society": "La clinica tratta contemporaneamente un bisogno di cura e un interesse contrattuale. I lavoratori possono volere protezione dai disturbi e rifiutare turni più lunghi: le due posizioni non si contraddicono.",
+      "visual": "Late industrial rest ward with a quiet invested canopy above an empty bed, a separate factory shift desk and an unlit bedside lamp, folded work clothes suggesting an exhausted shift, small textile examination tray, no sleeping worker controlled by puppet strings.",
+      "revision": 363,
+      "record_type": "CASO_DIAGNOSTICO",
+      "continent": "Iskar",
+      "status": "Attivo",
+      "impact": "🟡",
+      "technical_scope": "Il caso conserva causa, limiti e situazione già fissati. Gli esempi diagnostici approfondiscono il funzionamento senza riscrivere il passato.",
+      "occurrence": "Si riproduce solo quando ricorrono le condizioni fisiche e investite descritte: non appare automaticamente alla presenza del PG.",
+      "wiki_url": "phn-011-the-convenient-rest.html",
+      "visual_caption": "La difesa dai disturbi non sostituisce il sonno biologico. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità.",
+      "situation": {
+        "id": "U11-11",
+        "name": "A Person Is Not a Device",
+        "location_id": "LOC-022",
+        "location": "Corten",
+        "activation": "Attivo",
+        "narrative_function": "Consenso, identità e istituzioni del quotidiano.",
+        "current": "Il caso di un morto custodito richiede consenso all’interrogatorio. Modulo Mersa tratta riposo e fibra; modulo Corten include compagnia teatrale: canali concreti, non un unico complotto.",
+        "conflict": "Usare una capacità senza confondere apparenza, cura o testimonianza con proprietà sulla persona.",
+        "forces": [
+          {
+            "actor": "CAST-323",
+            "wants": "Contratto valido e rischio dichiarato.",
+            "fears": "Finanziatore si appropria di identità e immagine.",
+            "limits": "Legale ordinaria, non riconfigura Mask."
+          },
+          {
+            "actor": "CAST-410",
+            "wants": "Testimonianze raggiungano destinatario integre.",
+            "fears": "Pubblicare dialogo ottenuto senza consenso.",
+            "limits": "Corriere a Mersa, notizie tramite viaggio o messaggi."
+          }
+        ],
+        "secret": "Modello Mask consenziente, custodia del morto distinta da replay, protezione emotiva distinta da sonno sufficiente. Nessun rinnovo conferisce potere su tutto il popolo Nethri.",
+        "hooks": [
+          "La famiglia consegna un consenso con limiti espliciti all’uso della testimonianza.",
+          "Un lavoratore porta contratto dei turni e dati del telaio di riposo."
+        ],
+        "with_intervention": "Delimitare uso, garantire riposo, verificare continuità e rendere separabile sostegno cambiano rapporti. Un potere può smascherare o proteggere, non rendere vera una menzogna civile.",
+        "without_intervention": "Famiglia negozia accesso o rifiuta, clinica corregge turni se prove convincenti, compagnia mantiene uso teatrale dichiarato. Nessuna alleanza o romance fissato.",
+        "time_pressure": "Revisione dei contratti 28 maggio, vincolo civile rinviabile; urgenza fisica segue condizioni del paziente.",
+        "impact": "🟡",
+        "narrator_material": {
+          "scene": "Due supporti sembrano parlare: uno risponde a una domanda nuova, l’altro ripete il medesimo gesto.",
+          "complication": "Ripristinare una voce non ricostruisce ogni memoria mancante.",
+          "optional_twist": "Il morto rifiuta la domanda dei parenti ma accetta di discutere una scelta per la propria custodia."
+        },
+        "future_outcome": "OPEN",
+        "components": [
+          "ART-019",
+          "ART-020",
+          "MAT-013",
+          "CRE-015",
+          "CRE-019",
+          "PEO-05",
+          "PHN-011"
+        ]
+      }
     },
     {
       "id": "PHN-012",
@@ -9029,15 +9810,995 @@
       "response": "Evacuare, separare drenaggi, diagnosi Archive VI del sigillo e separazione Heart III del campione. Potenza superiore può risolvere senza missione obbligata.",
       "current": "Custodi isolano corridoio e chiamano competenze qualificate.",
       "unit": "U11-12",
-      "future_outcome": "OPEN"
+      "future_outcome": "OPEN",
+      "category": "Incidente composito",
+      "effigy": "Archive / Heart",
+      "scene": "Nel corridoio si registrano calore anomalo e noduli trasportati da una pompa. Sembrano un unico organismo che sta invadendo il laboratorio, ma le due manifestazioni hanno sorgenti e qualifiche diverse.",
+      "sequence": "Un nuovo isolamento restringe il condotto termico della cella Archive VI. Un drenaggio clinico con tessuto Heart III è stato collegato senza un controllo adeguato. La connessione materiale permette ai rischi di incontrarsi; non fonde le due famiglie soprannaturali in una nuova Effige.",
+      "diagnosis": [
+        "Separare i tracciati termico e clinico su carta e sul posto, controllando le valvole realmente raggiungibili.",
+        "Verificare dove i noduli seguono il flusso della pompa: il movimento non dimostra che controllino la cella superiore.",
+        "Far esaminare il sigillo alla qualifica richiesta: una diagnosi del tessuto non basta a certificare la tenuta Archive VI."
+      ],
+      "exposure": "Il tessuto rimane III anche quando passa vicino a un sigillo VI. L’esposizione superiore avviene se la cella viene realmente aperta o perde tenuta. Un campione contaminato può ferire o intasare un circuito senza diventare una reliquia serafica.",
+      "intervention": "Evacuare l’area esposta, mantenere accessi di soccorso e separare i drenaggi prima di aprire contenitori ignoti. Spegnere una sola pompa non garantisce che entrambe le riserve siano neutralizzate. Potenze adatte possono intervenire direttamente: la diagnosi non impone una ricerca artificiosa di un ingrediente unico.",
+      "society": "Custodi del laboratorio, reparto clinico e addetti agli scarichi hanno competenze parziali. Attribuire tutto all’ultimo arrivato nasconde il raccordo costruito dall’istituzione. La scelta urgente riguarda sicurezza e conservazione delle prove, senza un disastro già obbligatorio.",
+      "visual": "Sealed laboratory service corridor, one insulated containment chamber behind a closed inspection window and a separate transparent clinical drain with small pale organic nodules, two distinct pipe routes visibly joining incorrectly at a service junction, warning lanterns, no giant creature.",
+      "revision": 363,
+      "record_type": "CASO_DIAGNOSTICO",
+      "continent": "Nareth",
+      "status": "Critico",
+      "impact": "🟠 attuale; 🔴 se il fronte investito supera isolamento e raggiunge il nodo di servizio",
+      "technical_scope": "Il caso conserva causa, limiti e situazione già fissati. Gli esempi diagnostici approfondiscono il funzionamento senza riscrivere il passato.",
+      "occurrence": "Si riproduce solo quando ricorrono le condizioni fisiche e investite descritte: non appare automaticamente alla presenza del PG.",
+      "wiki_url": "phn-012-the-shared-drain.html",
+      "visual_caption": "Cella superiore e drenaggio clinico hanno sorgenti diverse, anche quando condividono un servizio. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità.",
+      "situation": {
+        "id": "U11-12",
+        "name": "The Two Drains",
+        "location_id": "LOC-054",
+        "location": "Edris",
+        "activation": "Critico",
+        "narrative_function": "Contenimento elevato e incidente biologico locale.",
+        "current": "La camera VI ha un corridoio evacuato e una cella in perdita; gli altri due sigilli sono integri. Il reparto isola il campione Heart III su un altro circuito. Saura offre un modulo distinto di depurazione, non la fonte cosmica del problema.",
+        "conflict": "Separare gli interventi senza scambiare due cause contemporanee per contaminazione universale.",
+        "forces": [
+          {
+            "actor": "CAST-018",
+            "wants": "Matrice Archive esaminata e persone protette.",
+            "fears": "Aprire inutilmente una cella attiva.",
+            "limits": "Intervento segue accessi e informazioni effettivi; non presenza personale automatica a Edris."
+          },
+          {
+            "actor": null,
+            "role": "Custodia regionale e laboratorio locale",
+            "wants": "Evacuazione, drenaggi separati e diagnosi qualificata.",
+            "fears": "Togliere cura a pazienti per arrestare il campione.",
+            "limits": "Ordinari non possono rinnovare sigillo VI."
+          },
+          {
+            "actor": "CAST-386",
+            "wants": "Lotti depurati secondo prova.",
+            "fears": "Il setto saturo venga riutilizzato.",
+            "limits": "A Serevan, contatto logistico del modulo Saura; non controlla una reliquia VI."
+          }
+        ],
+        "secret": "Nuovo isolamento ha stretto il condotto; Red Bloom da sostegno mal separato. Nessun dio impazzito o nuovo antagonista inventato per l’incidente.",
+        "hooks": [
+          "Custodia invia richiesta di diagnosi con disegno del condotto prima e dopo lavori.",
+          "Un infermiere presenta la pompa separata e campione sigillato ancora pulsante."
+        ],
+        "with_intervention": "Potere Archive VI realmente raggiunto può contenere o ricostruire il fronte; altri mezzi adeguati possono deviare, separare o distruggere fonte raggiunta. Separazione Heart pertinente arresta crescita mantenuta, tessuto nato va rimosso. Nessun oggetto immune perché importante alla trama.",
+        "without_intervention": "Custodi evacuano e isolano, chiedono équipe superiore, reparto mantiene cure separate. Una perdita aumenta se sigillo continua a deteriorarsi; totale rilascio richiede rottura concreta, non il calendario.",
+        "time_pressure": "Ispezione 21 maggio; misure ogni sei ore. Pericolo elevato al contatto con cella attiva, non obbligo di visita del protagonista.",
+        "impact": "🟠 attuale; 🔴 se il fronte investito supera isolamento e raggiunge il nodo di servizio",
+        "narrator_material": {
+          "scene": "Il sigillo illumina sempre lo stesso tratto di tubo; il campione pulsa solo mentre la pompa del reparto è collegata.",
+          "complication": "Distruggere il contenitore senza separare il fronte può liberare quanto conservava.",
+          "optional_twist": "Una squadra ordinaria salva il corridoio chiudendo il giusto scarico, pur senza poter riparare il sigillo."
+        },
+        "future_outcome": "OPEN",
+        "components": [
+          "ART-021",
+          "ART-024",
+          "MAT-016",
+          "MAT-018",
+          "CRE-016",
+          "CRE-020",
+          "PHN-012"
+        ]
+      }
+    },
+    {
+      "id": "PHN-013",
+      "name": "The Hollow Reply",
+      "location_id": "LOC-027",
+      "location": "Hollow Towers",
+      "continent": "Mereth",
+      "record_type": "MANIFESTAZIONE_RICORRENTE",
+      "category": "Residuo informativo",
+      "effigy": "Raccordo informativo storico",
+      "ability_id": "",
+      "support_ids": [
+        "SITE-02"
+      ],
+      "source": "SITE-02",
+      "cause": "L’arco antico delle Hollow Towers conserva un raccordo informativo fra due terrazze. Le manutenzioni recenti ne hanno mantenuto leggibile un solo tratto; sulle altre pietre non esiste lo stesso collegamento.",
+      "effect": "Parole pronunciate presso la bocca attiva arrivano all’altra terrazza come un’eco vicina, senza la distanza acustica apparente. Non viaggia una persona e non viene rievocato automaticamente il parlante morto. Un osservatore può udire una frase recente senza vedere chi l’ha detta.",
+      "extent": "Due bocche sul medesimo arco, otto minuti per quota di servizio, una trasmissione alla volta. La riserva rinnovata sostiene il circuito attuale; non si presume che abbia parlato ininterrottamente per millenni.",
+      "current": "I custodi mantengono un turno di prova; lo scavo sulla terrazza inferiore richiede di distinguere comunicazioni autorizzate e rumori del cantiere.",
+      "diagnosis": [
+        "Pronunciare una parola concordata mentre un osservatore controlla l’altra bocca; registrare latenza e direzione senza assumere il contenuto della risposta.",
+        "Chiudere il canale durante una frase: il raccordo investito cessa, mentre voci e passi ordinari sulle terrazze restano udibili.",
+        "Confrontare la frase ricevuta con quanto è stato realmente detto: il canale non risponde a domande sulla storia che nessuno ha introdotto."
+      ],
+      "exposure": "Un uso sbagliato può rivelare una conversazione o indurre a scambiare un operaio nascosto per un testimone antico. Un mittente può mentire normalmente: autenticità del canale e verità del messaggio sono distinte.",
+      "response": "Separare accessi, concordare segnali e conservare la registrazione prima dei restauri. La pietra spenta è ancora una prova archeologica, non una porta per un corpo.",
+      "intervention": "Separare accessi, concordare segnali e conservare la registrazione prima dei restauri. La pietra spenta è ancora una prova archeologica, non una porta per un corpo.",
+      "society": "Archeologi, custodi e guide discutono se mostrare il raccordo ai visitatori. Il pagamento di una visita non dà il diritto di usare ogni registrazione del sito.",
+      "hooks": [
+        "Un visitatore riceve una frase pronunciata altrove",
+        "un custode chiede un confronto fra registro delle prove e orari di scavo."
+      ],
+      "evolution": "L’arco può rimanere un servizio delimitato, essere sospeso per restauro o diventare oggetto di contesa sulle registrazioni. Nessuna voce futura è già attribuita a un personaggio.",
+      "status": "Attivo",
+      "impact": "🟡",
+      "visual": "Two weathered stone terraces at an ancient hollow tower linked by a narrow carved stone arch, a delicate luminous waveform visible only along the arch between two small speaking apertures, a distant anonymous conservator, vast ruined fortress remains ordinary, no portal or ghosts.",
+      "future_outcome": "OPEN",
+      "revision": 363,
+      "unit": null,
+      "occurrence": "La manifestazione richiede sorgente e accesso effettivi. Dormiente indica un supporto predisposto che non sta esercitando la funzione al T0, non un’attivazione automatica al passaggio dei personaggi.",
+      "situation": {
+        "id": "PHN-013-S",
+        "narrative_function": "Fonte di scelte su accesso, diagnosi e responsabilità.",
+        "current": "I custodi mantengono un turno di prova; lo scavo sulla terrazza inferiore richiede di distinguere comunicazioni autorizzate e rumori del cantiere.",
+        "conflict": "Archeologi, custodi e guide discutono se mostrare il raccordo ai visitatori. Il pagamento di una visita non dà il diritto di usare ogni registrazione del sito.",
+        "forces": [
+          {
+            "actor": "Scuola archeologica",
+            "wants": "Mantenere il servizio o la custodia senza perdere controllo e prove.",
+            "fears": "Un impiego improprio o un fermo che danneggi chi ne dipende.",
+            "limits": "Sorgente, riserva e qualifiche sono quelle della scheda; l’autorità civile non le sostituisce."
+          },
+          {
+            "actor": "Guide e visitatori",
+            "wants": "Verificare le condizioni effettive prima di assumere costi o rischi.",
+            "fears": "Un uso sbagliato può rivelare una conversazione o indurre a scambiare un operaio nascosto per un testimone antico.",
+            "limits": "L’accesso al luogo non garantisce una diagnosi superiore né diritto sui supporti altrui."
+          }
+        ],
+        "secret": "L’arco antico delle Hollow Towers conserva un raccordo informativo fra due terrazze. Le manutenzioni recenti ne hanno mantenuto leggibile un solo tratto; sulle altre pietre non esiste lo stesso collegamento.",
+        "hooks": [
+          "Un visitatore riceve una frase pronunciata altrove",
+          "un custode chiede un confronto fra registro delle prove e orari di scavo."
+        ],
+        "with_intervention": "L’arco può rimanere un servizio delimitato, essere sospeso per restauro o diventare oggetto di contesa sulle registrazioni. Nessuna voce futura è già attribuita a un personaggio.",
+        "without_intervention": "I custodi mantengono un turno di prova; lo scavo sulla terrazza inferiore richiede di distinguere comunicazioni autorizzate e rumori del cantiere. Le parti mantengono il servizio, l’interdizione o la verifica dichiarata; l’effetto si esercita soltanto alle condizioni descritte.",
+        "time_pressure": "Due bocche sul medesimo arco, otto minuti per quota di servizio, una trasmissione alla volta. La riserva rinnovata sostiene il circuito attuale; non si presume che abbia parlato ininterrottamente per millenni.",
+        "narrator_material": {
+          "scene": "Parole pronunciate presso la bocca attiva arrivano all’altra terrazza come un’eco vicina, senza la distanza acustica apparente.",
+          "complication": "Un uso sbagliato può rivelare una conversazione o indurre a scambiare un operaio nascosto per un testimone antico. Un mittente può mentire normalmente: autenticità del canale e verità del messaggio sono distinte.",
+          "optional_twist": "Una verifica separata rivela una differenza fra ciò che un interlocutore aveva osservato e la spiegazione che ne aveva dato. È uno sviluppo possibile, non una nuova causa obbligatoria."
+        }
+      },
+      "wiki_url": "phn-013-the-hollow-reply.html",
+      "visual_caption": "Il segno luminoso illustra il raccordo informativo dell’arco: non un varco corporeo. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità."
+    },
+    {
+      "id": "PHN-014",
+      "name": "The Grey Recoil",
+      "location_id": "LOC-032",
+      "location": "Grey Embankment",
+      "continent": "Mereth",
+      "record_type": "MANIFESTAZIONE_RICORRENTE",
+      "category": "Residuo coercitivo",
+      "effigy": "Residuo storico",
+      "ability_id": "",
+      "support_ids": [
+        "SITE-07",
+        "WORK-06"
+      ],
+      "source": "SITE-07 / WORK-06",
+      "cause": "Due blocchi dell’argine conservano tracce della separazione dei Grey Brands; soltanto uno mantiene un investimento residuo. È un resto di rapporti coercitivi spezzati, non un marchio di schiavitù creato da Edran.",
+      "effect": "Quando un mezzo tenta realmente di riagganciare il vecchio rapporto sul blocco ancora investito, il raccordo incompatibile può respingere carico lungo la sonda. La persona vede il campione tremare o sente un urto nel mezzo; una percezione spirituale può riconoscere la separazione ancora presa.",
+      "extent": "Il solo frammento attivo e la sonda connessa. Detriti comuni, argine e abitanti non condividono automaticamente l’effetto. Ogni prova consuma o altera una quota del residuo: non è una fonte rinnovabile di Ruin.",
+      "current": "Il cantiere ha delimitato il blocco attivo mentre il campione inerte resta disponibile per confronto. La piena rende difficile conservare contesto e provenienza.",
+      "diagnosis": [
+        "Confrontare i due blocchi con una diagnosi a carico limitato: uno conserva soltanto la traccia, l’altro una funzione ancora presa.",
+        "Verificare che la reazione segua il collegamento della sonda e non il nome o la discendenza dell’addetto.",
+        "Fotografare e rilevare strato e giacitura prima di separare il campione: una reazione potente non prova da sola una data."
+      ],
+      "exposure": "Il Backflow può ferire il tramite realmente collegato. Guardare il blocco dalla strada non risveglia un marchio nel sangue, e una persona non diventa schiava o Bearer raccogliendo ghiaia.",
+      "response": "Usare mediazione qualificata, lasciare libero il ritorno del carico e interrompere la prova quando la sonda perde tenuta. Spezzare il blocco può disperdere la funzione e distruggere la prova senza neutralizzare con certezza ogni scheggia investita.",
+      "intervention": "Usare mediazione qualificata, lasciare libero il ritorno del carico e interrompere la prova quando la sonda perde tenuta. Spezzare il blocco può disperdere la funzione e distruggere la prova senza neutralizzare con certezza ogni scheggia investita.",
+      "society": "Cava e consorzio idrico devono scegliere come proteggere una prova nel mezzo di un’opera necessaria. Un falsario può vendere ghiaia inerte come residuo autentico; il pericolo reale non rende autentico ogni campione in commercio.",
+      "hooks": [
+        "Un campione venduto come potente non reagisce",
+        "una squadra chiede di documentare il blocco prima che la piena lo renda irraggiungibile."
+      ],
+      "evolution": "La conservazione può riuscire o fallire secondo accesso e interventi reali. La prova non rivela automaticamente autori della caduta, Seats o storia completa delle Signorie.",
+      "status": "Dormiente",
+      "impact": "🟠",
+      "visual": "Flood embankment excavation with two large grey stone fragments side by side, one inert and one with a thin broken dark-red invested seam, an insulated diagnostic probe connected to the active fragment recoiling subtly, water below, no enslaved people, no glowing symbol on a human body.",
+      "future_outcome": "OPEN",
+      "revision": 363,
+      "unit": null,
+      "occurrence": "La manifestazione richiede sorgente e accesso effettivi. Dormiente indica un supporto predisposto che non sta esercitando la funzione al T0, non un’attivazione automatica al passaggio dei personaggi.",
+      "situation": {
+        "id": "PHN-014-S",
+        "narrative_function": "Fonte di scelte su accesso, diagnosi e responsabilità.",
+        "current": "Il cantiere ha delimitato il blocco attivo mentre il campione inerte resta disponibile per confronto. La piena rende difficile conservare contesto e provenienza.",
+        "conflict": "Cava e consorzio idrico devono scegliere come proteggere una prova nel mezzo di un’opera necessaria. Un falsario può vendere ghiaia inerte come residuo autentico; il pericolo reale non rende autentico ogni campione in commercio.",
+        "forces": [
+          {
+            "actor": "Consorzio idrico",
+            "wants": "Mantenere il servizio o la custodia senza perdere controllo e prove.",
+            "fears": "Un impiego improprio o un fermo che danneggi chi ne dipende.",
+            "limits": "Sorgente, riserva e qualifiche sono quelle della scheda; l’autorità civile non le sostituisce."
+          },
+          {
+            "actor": "Deposito e restauratori",
+            "wants": "Verificare le condizioni effettive prima di assumere costi o rischi.",
+            "fears": "Il Backflow può ferire il tramite realmente collegato.",
+            "limits": "L’accesso al luogo non garantisce una diagnosi superiore né diritto sui supporti altrui."
+          }
+        ],
+        "secret": "Due blocchi dell’argine conservano tracce della separazione dei Grey Brands; soltanto uno mantiene un investimento residuo. È un resto di rapporti coercitivi spezzati, non un marchio di schiavitù creato da Edran.",
+        "hooks": [
+          "Un campione venduto come potente non reagisce",
+          "una squadra chiede di documentare il blocco prima che la piena lo renda irraggiungibile."
+        ],
+        "with_intervention": "La conservazione può riuscire o fallire secondo accesso e interventi reali. La prova non rivela automaticamente autori della caduta, Seats o storia completa delle Signorie.",
+        "without_intervention": "Il cantiere ha delimitato il blocco attivo mentre il campione inerte resta disponibile per confronto. La piena rende difficile conservare contesto e provenienza. Le parti mantengono il servizio, l’interdizione o la verifica dichiarata; l’effetto si esercita soltanto alle condizioni descritte.",
+        "time_pressure": "Il solo frammento attivo e la sonda connessa. Detriti comuni, argine e abitanti non condividono automaticamente l’effetto. Ogni prova consuma o altera una quota del residuo: non è una fonte rinnovabile di Ruin.",
+        "narrator_material": {
+          "scene": "Quando un mezzo tenta realmente di riagganciare il vecchio rapporto sul blocco ancora investito, il raccordo incompatibile può respingere carico lungo la sonda.",
+          "complication": "Il Backflow può ferire il tramite realmente collegato. Guardare il blocco dalla strada non risveglia un marchio nel sangue, e una persona non diventa schiava o Bearer raccogliendo ghiaia.",
+          "optional_twist": "Una verifica separata rivela una differenza fra ciò che un interlocutore aveva osservato e la spiegazione che ne aveva dato. È uno sviluppo possibile, non una nuova causa obbligatoria."
+        }
+      },
+      "wiki_url": "phn-014-the-grey-recoil.html",
+      "visual_caption": "Il campione attivo e quello inerte richiedono diagnosi distinte. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità. La scena mostra un esercizio possibile alle condizioni indicate, non un’attivazione già in corso al T0."
+    },
+    {
+      "id": "PHN-015",
+      "name": "The Drowned Repose",
+      "location_id": "LOC-056",
+      "location": "Sivren",
+      "continent": "Veyra",
+      "record_type": "MANIFESTAZIONE_RICORRENTE",
+      "category": "Custodia funeraria ambientale",
+      "effigy": "Sepulchre",
+      "ability_id": "EFF-10-III-M04",
+      "support_ids": [
+        "EFF-10-II-M04"
+      ],
+      "source": "EFF-10-II-M04",
+      "cause": "Una custodia funeraria sulle rive di Sivren mantiene ancore di quiete sopra il livello ordinario dell’acqua. Le piene possono sommergere un anello di manutenzione senza disperdere subito le continuità custodite.",
+      "effect": "Durante la sommersione un’attività residua che prima raggiungeva il pontile torna a essere percepibile presso la sua ancora. Piccoli richiami e disturbi spirituali possono ripetersi sul margine dell’acqua; la corrente non trascina via una persona morta come fosse semplice detrito.",
+      "extent": "Quattro ancore del tratto funerario, trenta metri di riva. La custodia sostiene soltanto presenze effettivamente affidate; non attira tutti i morti di Veyra e non trattiene chiunque anneghi nel fiume.",
+      "current": "Le acque alte rendono due ancore difficili da ispezionare. I custodi continuano il servizio dalle passerelle senza trasformare il periodo di piena in una cerimonia obbligatoria per la città.",
+      "diagnosis": [
+        "Confrontare il disturbo con livello dell’acqua e identità dell’ancora raggiunta, non con il calendario delle morti recenti.",
+        "Far verificare una presenza a chi dispone dell’accesso spirituale: un suono nel legno non basta a identificare una persona.",
+        "Isolare per prova una sola attività residua mantenendo le altre custodite; la quiete selettiva non deve equivalere a cancellazione."
+      ],
+      "exposure": "Una sonda invasiva può riattivare un’attività quieta o danneggiare l’accesso alla custodia. La paura dei visitatori è ordinaria; non è automaticamente una maledizione trasportata dal fiume.",
+      "response": "Ripristinare accessi di manutenzione e distinguere spostamento di un’ancora da trasferimento della presenza. Una conversazione con il morto richiede un mezzo pertinente, e la persona può ignorare la risposta cercata o rifiutare di collaborare.",
+      "intervention": "Ripristinare accessi di manutenzione e distinguere spostamento di un’ancora da trasferimento della presenza. Una conversazione con il morto richiede un mezzo pertinente, e la persona può ignorare la risposta cercata o rifiutare di collaborare.",
+      "society": "Famiglie e custodi possono desiderare cose diverse: mantenere quiete, ottenere testimonianza o spostare una sepoltura. Il solo pagamento del servizio non conferisce proprietà sulla volontà del defunto.",
+      "hooks": [
+        "Una famiglia sente un richiamo e chiede verifica",
+        "un tecnico propone di rimuovere un’ancora senza aver previsto una custodia alternativa."
+      ],
+      "evolution": "Piena, manutenzione e scelte delle persone possono modificare gli accessi. Non è fissato che un morto ritorni vivo o diventi nemico.",
+      "status": "Attivo",
+      "impact": "🟠",
+      "visual": "Rain-swollen river beside an old funerary quay, four small anchored memorial posts partly submerged, silver-grey ripples and extremely subtle spectral impressions confined near the posts, raised maintenance walkway; ritual illustration of custody, not a crowd of invading undead.",
+      "future_outcome": "OPEN",
+      "revision": 363,
+      "unit": null,
+      "occurrence": "La manifestazione richiede sorgente e accesso effettivi. Dormiente indica un supporto predisposto che non sta esercitando la funzione al T0, non un’attivazione automatica al passaggio dei personaggi.",
+      "situation": {
+        "id": "PHN-015-S",
+        "narrative_function": "Fonte di scelte su accesso, diagnosi e responsabilità.",
+        "current": "Le acque alte rendono due ancore difficili da ispezionare. I custodi continuano il servizio dalle passerelle senza trasformare il periodo di piena in una cerimonia obbligatoria per la città.",
+        "conflict": "Famiglie e custodi possono desiderare cose diverse: mantenere quiete, ottenere testimonianza o spostare una sepoltura. Il solo pagamento del servizio non conferisce proprietà sulla volontà del defunto.",
+        "forces": [
+          {
+            "actor": "Custodi funerari",
+            "wants": "Mantenere il servizio o la custodia senza perdere controllo e prove.",
+            "fears": "Un impiego improprio o un fermo che danneggi chi ne dipende.",
+            "limits": "Sorgente, riserva e qualifiche sono quelle della scheda; l’autorità civile non le sostituisce."
+          },
+          {
+            "actor": "Famiglie delle presenze custodite",
+            "wants": "Verificare le condizioni effettive prima di assumere costi o rischi.",
+            "fears": "Una sonda invasiva può riattivare un’attività quieta o danneggiare l’accesso alla custodia.",
+            "limits": "L’accesso al luogo non garantisce una diagnosi superiore né diritto sui supporti altrui."
+          }
+        ],
+        "secret": "Una custodia funeraria sulle rive di Sivren mantiene ancore di quiete sopra il livello ordinario dell’acqua. Le piene possono sommergere un anello di manutenzione senza disperdere subito le continuità custodite.",
+        "hooks": [
+          "Una famiglia sente un richiamo e chiede verifica",
+          "un tecnico propone di rimuovere un’ancora senza aver previsto una custodia alternativa."
+        ],
+        "with_intervention": "Piena, manutenzione e scelte delle persone possono modificare gli accessi. Non è fissato che un morto ritorni vivo o diventi nemico.",
+        "without_intervention": "Le acque alte rendono due ancore difficili da ispezionare. I custodi continuano il servizio dalle passerelle senza trasformare il periodo di piena in una cerimonia obbligatoria per la città. Le parti mantengono il servizio, l’interdizione o la verifica dichiarata; l’effetto si esercita soltanto alle condizioni descritte.",
+        "time_pressure": "Quattro ancore del tratto funerario, trenta metri di riva. La custodia sostiene soltanto presenze effettivamente affidate; non attira tutti i morti di Veyra e non trattiene chiunque anneghi nel fiume.",
+        "narrator_material": {
+          "scene": "Durante la sommersione un’attività residua che prima raggiungeva il pontile torna a essere percepibile presso la sua ancora.",
+          "complication": "Una sonda invasiva può riattivare un’attività quieta o danneggiare l’accesso alla custodia. La paura dei visitatori è ordinaria; non è automaticamente una maledizione trasportata dal fiume.",
+          "optional_twist": "Una verifica separata rivela una differenza fra ciò che un interlocutore aveva osservato e la spiegazione che ne aveva dato. È uno sviluppo possibile, non una nuova causa obbligatoria."
+        }
+      },
+      "wiki_url": "phn-015-the-drowned-repose.html",
+      "visual_caption": "Rappresentazione rituale della custodia funeraria: le impressioni spirituali non sono automaticamente visibili a un osservatore ordinario. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità."
+    },
+    {
+      "id": "PHN-016",
+      "name": "The White Reed Exchange",
+      "location_id": "LOC-035",
+      "location": "Low Fen",
+      "continent": "Mereth",
+      "record_type": "MANIFESTAZIONE_RICORRENTE",
+      "category": "Ecologia investita",
+      "effigy": "Seed",
+      "ability_id": "EFF-11-III-M04",
+      "support_ids": [
+        "EFF-11-III-M01"
+      ],
+      "source": "EFF-11-III-M01",
+      "cause": "Una linea di canne stabilizzata per il drenaggio di Low Fen è divenuta capace di riprodursi nel proprio habitat. Un raccordo investito mantenuto su una sola parcella coordina lo scambio di nutrimento fra ceppi vicini.",
+      "effect": "Una parcella nutrita può sostenere per breve tempo un ceppo in ombra o danneggiato. Le foglie schiariscono mentre risorse reali vengono spostate nel reticolo. Lo scambio rende più difficile intuire dal solo colore quale pianta stia consumando le riserve del terreno.",
+      "extent": "Una parcella di circa sessanta metri di lato e le radici realmente connesse. Le canne fuori rete restano della stessa linea biologica, ma non ricevono il servizio. Suolo impoverito e freddo persistente possono far fallire la colonia. Il raccordo mantenuto opera per una finestra di tre ore dopo ogni irrigazione autorizzata e richiede rinnovo Seed III, nutrimento e radici integre; il solo metabolismo sostiene la linea biologica, non investimenti gratuiti.",
+      "current": "L’argine asciutto ha separato un settore dalla rete; la colonia indipendente sopravvive, mentre il raccordo mantenuto richiede nutrimento e controllo.",
+      "diagnosis": [
+        "Tracciare radici e passaggi di nutrimento con campioni distinti: la vicinanza visiva non prova connessione.",
+        "Confrontare ceppi della stessa linea dentro e fuori dal raccordo senza presumere che tutte le canne pallide siano malate.",
+        "Misurare ciò che entra nella parcella e ciò che viene asportato: la resa non deve superare indefinitamente le risorse disponibili."
+      ],
+      "exposure": "Un taglio incauto può sottrarre sostegno a ceppi apparentemente sani; portare via una radice non regala adattamento o guarigione al raccoglitore. La pianta non possiede una volontà collettiva capace di impartire ordini.",
+      "response": "Rialimentare il suolo, separare settori e mantenere un deflusso ordinario. Spegnere il coordinamento non cancella la discendenza biologica già indipendente e non fa ricrescere raccolti già perduti.",
+      "intervention": "Rialimentare il suolo, separare settori e mantenere un deflusso ordinario. Spegnere il coordinamento non cancella la discendenza biologica già indipendente e non fa ricrescere raccolti già perduti.",
+      "society": "Coltivatori e addetti al drenaggio contendono acqua, biomassa e diritto di taglio. La capacità di aiutare una parcella non autorizza a deviare di nascosto il nutrimento di un’altra.",
+      "hooks": [
+        "Un coltivatore trova canne vive su terra esausta",
+        "una squadra chiede dove tagliare senza perdere la tenuta dell’argine."
+      ],
+      "evolution": "La colonia può stabilizzarsi, frammentarsi o essere sostituita senza che la palude debba diventare una nuova creatura senziente.",
+      "status": "Attivo",
+      "impact": "🟡",
+      "visual": "Broad wetland of pale ivory reeds with a limited patch connected by subtle amber-lit root channels visible in a cut bank, darker ordinary reeds beyond a drainage berm, water and soil tangible, no giant carnivorous plants or humanoid faces.",
+      "future_outcome": "OPEN",
+      "revision": 363,
+      "unit": null,
+      "occurrence": "La manifestazione richiede sorgente e accesso effettivi. Dormiente indica un supporto predisposto che non sta esercitando la funzione al T0, non un’attivazione automatica al passaggio dei personaggi.",
+      "situation": {
+        "id": "PHN-016-S",
+        "narrative_function": "Fonte di scelte su accesso, diagnosi e responsabilità.",
+        "current": "L’argine asciutto ha separato un settore dalla rete; la colonia indipendente sopravvive, mentre il raccordo mantenuto richiede nutrimento e controllo.",
+        "conflict": "Coltivatori e addetti al drenaggio contendono acqua, biomassa e diritto di taglio. La capacità di aiutare una parcella non autorizza a deviare di nascosto il nutrimento di un’altra.",
+        "forces": [
+          {
+            "actor": "Coltivatori della parcella",
+            "wants": "Mantenere il servizio o la custodia senza perdere controllo e prove.",
+            "fears": "Un impiego improprio o un fermo che danneggi chi ne dipende.",
+            "limits": "Sorgente, riserva e qualifiche sono quelle della scheda; l’autorità civile non le sostituisce."
+          },
+          {
+            "actor": "Servizio di drenaggio",
+            "wants": "Verificare le condizioni effettive prima di assumere costi o rischi.",
+            "fears": "Un taglio incauto può sottrarre sostegno a ceppi apparentemente sani; portare via una radice non regala adattamento o guarigione al raccoglitore.",
+            "limits": "L’accesso al luogo non garantisce una diagnosi superiore né diritto sui supporti altrui."
+          }
+        ],
+        "secret": "Una linea di canne stabilizzata per il drenaggio di Low Fen è divenuta capace di riprodursi nel proprio habitat. Un raccordo investito mantenuto su una sola parcella coordina lo scambio di nutrimento fra ceppi vicini.",
+        "hooks": [
+          "Un coltivatore trova canne vive su terra esausta",
+          "una squadra chiede dove tagliare senza perdere la tenuta dell’argine."
+        ],
+        "with_intervention": "La colonia può stabilizzarsi, frammentarsi o essere sostituita senza che la palude debba diventare una nuova creatura senziente.",
+        "without_intervention": "L’argine asciutto ha separato un settore dalla rete; la colonia indipendente sopravvive, mentre il raccordo mantenuto richiede nutrimento e controllo. Le parti mantengono il servizio, l’interdizione o la verifica dichiarata; l’effetto si esercita soltanto alle condizioni descritte.",
+        "time_pressure": "Una parcella di circa sessanta metri di lato e le radici realmente connesse. Le canne fuori rete restano della stessa linea biologica, ma non ricevono il servizio. Suolo impoverito e freddo persistente possono far fallire la colonia. Il raccordo mantenuto opera per una finestra di tre ore dopo ogni irrigazione autorizzata e richiede rinnovo Seed III, nutrimento e radici integre; il solo metabolismo sostiene la linea biologica, non investimenti gratuiti.",
+        "narrator_material": {
+          "scene": "Una parcella nutrita può sostenere per breve tempo un ceppo in ombra o danneggiato.",
+          "complication": "Un taglio incauto può sottrarre sostegno a ceppi apparentemente sani; portare via una radice non regala adattamento o guarigione al raccoglitore. La pianta non possiede una volontà collettiva capace di impartire ordini.",
+          "optional_twist": "Una verifica separata rivela una differenza fra ciò che un interlocutore aveva osservato e la spiegazione che ne aveva dato. È uno sviluppo possibile, non una nuova causa obbligatoria."
+        }
+      },
+      "wiki_url": "phn-016-the-white-reed-exchange.html",
+      "visual_caption": "La rete radicale illustrata coordina risorse reali, senza crearle dal nulla. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità. Le tracce dorate visualizzano il raccordo: non sono una nuova capacità luminosa delle canne."
+    },
+    {
+      "id": "PHN-017",
+      "name": "The Inward Rain",
+      "location_id": "LOC-048",
+      "location": "Koshen",
+      "continent": "Iskar",
+      "record_type": "MANIFESTAZIONE_RICORRENTE",
+      "category": "Anomalia gravitazionale locale",
+      "effigy": "Astrolabe",
+      "ability_id": "EFF-09-III-M02",
+      "support_ids": [
+        "EFF-09-II-M03"
+      ],
+      "source": "EFF-09-II-M03",
+      "cause": "In una cava di Koshen un centro gravitazionale investito serviva a raccogliere detriti verso un invaso di servizio. L’impianto conserva una configurazione di raccolta ancora attivabile, alimentata da quote predisposte.",
+      "effect": "Quando la raccolta è attiva, le gocce che attraversano il volume piegano verso il medesimo centro. Anche polvere e pietrisco raggiunti cambiano traiettoria. All’esterno continua a piovere verso terra; la nube e il tempo atmosferico non vengono comandati.",
+      "extent": "Volume di diciotto metri attorno all’invaso; sei minuti per quota, due quote presenti al T0. Il carico certificato riguarda detriti e acqua, non navi o edifici. Entrare nel volume espone un corpo a forze reali.",
+      "current": "L’invaso è recintato e il servizio sospeso mentre si verifica la griglia di raccolta. La pioggia rende evidente una configurazione che sull’asciutto è meno facile da riconoscere.",
+      "diagnosis": [
+        "Osservare gocce o una sonda sospesa dall’esterno; non lanciare una persona per misurare la direzione.",
+        "Confrontare peso apparente e traiettorie dentro e fuori dal confine con strumenti assicurati.",
+        "Arrestare il comando e verificare che cessi la forza mantenuta, tenendo conto che sassi e acqua già mossi continuano il loro moto."
+      ],
+      "exposure": "Cadute, urti e schiacciamento sono rischi fisici. Il volume non apre una Root, non rallenta il tempo e non rende innocua l’acqua accelerata. Un ombrello non protegge dalla componente gravitazionale.",
+      "response": "Arresto, rimozione del carico e manutenzione qualificata sono alternative reali. Una barriera deve sopportare materia e urti, non soltanto nascondere il centro dalla vista.",
+      "intervention": "Arresto, rimozione del carico e manutenzione qualificata sono alternative reali. Una barriera deve sopportare materia e urti, non soltanto nascondere il centro dalla vista.",
+      "society": "La cava deve scegliere fra ripristinare un servizio utile e mantenere accessibili passaggi ordinari. I racconti di pioggia “che torna in cielo” deformano un effetto circoscritto.",
+      "hooks": [
+        "Una squadra vede la pioggia curvare dietro il recinto",
+        "un carro ha perso un carico trascinato troppo vicino all’invaso."
+      ],
+      "evolution": "Si può recuperare il servizio o dismetterlo; nessuna attivazione avviene perché il protagonista passa in strada.",
+      "status": "Dormiente",
+      "impact": "🟠",
+      "visual": "Rain over a deep industrial stone quarry, raindrops and a few small loose stones visibly curving sideways inward toward one recessed collection basin, ordinary rain falling straight beyond a clearly limited zone, guarded empty walkway, no black hole or reversed entire sky.",
+      "future_outcome": "OPEN",
+      "revision": 363,
+      "unit": null,
+      "occurrence": "La manifestazione richiede sorgente e accesso effettivi. Dormiente indica un supporto predisposto che non sta esercitando la funzione al T0, non un’attivazione automatica al passaggio dei personaggi.",
+      "situation": {
+        "id": "PHN-017-S",
+        "narrative_function": "Fonte di scelte su accesso, diagnosi e responsabilità.",
+        "current": "L’invaso è recintato e il servizio sospeso mentre si verifica la griglia di raccolta. La pioggia rende evidente una configurazione che sull’asciutto è meno facile da riconoscere.",
+        "conflict": "La cava deve scegliere fra ripristinare un servizio utile e mantenere accessibili passaggi ordinari. I racconti di pioggia “che torna in cielo” deformano un effetto circoscritto.",
+        "forces": [
+          {
+            "actor": "Direzione della cava",
+            "wants": "Mantenere il servizio o la custodia senza perdere controllo e prove.",
+            "fears": "Un impiego improprio o un fermo che danneggi chi ne dipende.",
+            "limits": "Sorgente, riserva e qualifiche sono quelle della scheda; l’autorità civile non le sostituisce."
+          },
+          {
+            "actor": "Addetti al trasporto",
+            "wants": "Verificare le condizioni effettive prima di assumere costi o rischi.",
+            "fears": "Cadute, urti e schiacciamento sono rischi fisici.",
+            "limits": "L’accesso al luogo non garantisce una diagnosi superiore né diritto sui supporti altrui."
+          }
+        ],
+        "secret": "In una cava di Koshen un centro gravitazionale investito serviva a raccogliere detriti verso un invaso di servizio. L’impianto conserva una configurazione di raccolta ancora attivabile, alimentata da quote predisposte.",
+        "hooks": [
+          "Una squadra vede la pioggia curvare dietro il recinto",
+          "un carro ha perso un carico trascinato troppo vicino all’invaso."
+        ],
+        "with_intervention": "Si può recuperare il servizio o dismetterlo; nessuna attivazione avviene perché il protagonista passa in strada.",
+        "without_intervention": "L’invaso è recintato e il servizio sospeso mentre si verifica la griglia di raccolta. La pioggia rende evidente una configurazione che sull’asciutto è meno facile da riconoscere. Le parti mantengono il servizio, l’interdizione o la verifica dichiarata; l’effetto si esercita soltanto alle condizioni descritte.",
+        "time_pressure": "Volume di diciotto metri attorno all’invaso; sei minuti per quota, due quote presenti al T0. Il carico certificato riguarda detriti e acqua, non navi o edifici. Entrare nel volume espone un corpo a forze reali.",
+        "narrator_material": {
+          "scene": "Quando la raccolta è attiva, le gocce che attraversano il volume piegano verso il medesimo centro.",
+          "complication": "Cadute, urti e schiacciamento sono rischi fisici. Il volume non apre una Root, non rallenta il tempo e non rende innocua l’acqua accelerata. Un ombrello non protegge dalla componente gravitazionale.",
+          "optional_twist": "Una verifica separata rivela una differenza fra ciò che un interlocutore aveva osservato e la spiegazione che ne aveva dato. È uno sviluppo possibile, non una nuova causa obbligatoria."
+        }
+      },
+      "wiki_url": "phn-017-the-inward-rain.html",
+      "visual_caption": "La pioggia rende riconoscibile un centro gravitazionale locale durante l’esercizio. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità. La scena mostra un esercizio possibile alle condizioni indicate, non un’attivazione già in corso al T0."
+    },
+    {
+      "id": "PHN-018",
+      "name": "The Broken Sound",
+      "location_id": "LOC-057",
+      "location": "Dorven",
+      "continent": "Veyra",
+      "record_type": "MANIFESTAZIONE_RICORRENTE",
+      "category": "Silenzio investito",
+      "effigy": "Eclipse",
+      "ability_id": "EFF-22-III-M05",
+      "support_ids": [
+        "EFF-22-III-M03"
+      ],
+      "source": "EFF-22-III-M03",
+      "cause": "Nel deposito di Dorven una fascia investita proteggeva la riservatezza del lavoro notturno. Dopo il riallestimento, il tratto attivo attraversa ancora una porta di servizio che viene usata per l’allarme acustico.",
+      "effect": "Un richiamo o una vibrazione che attraversa il tratto raggiunto perde la continuità necessaria a propagarsi oltre. Si vedono bocche e campane muoversi senza riceverne il suono dall’altro lato. Una luce di segnalazione e un messaggio scritto restano utilizzabili.",
+      "extent": "Una fascia lunga dodici metri, cinque minuti per quota, quattro quote nel supporto. Non svuota l’aria né impedisce il passaggio dei corpi. Vibrazioni e impatti non presi o superiori alla tenuta restano una contesa, non una promessa d’invulnerabilità.",
+      "current": "La fascia è stata isolata dal percorso abituale; un test richiede due addetti e un segnale visivo indipendente.",
+      "diagnosis": [
+        "Porre osservatori ai due lati e confrontare voce, campana e lanterna con tempi concordati.",
+        "Verificare la via attraverso parete e tubi: una trasmissione esterna alla fascia può restare udibile.",
+        "Controllare riserva e stato del comando senza dedurli dalla sola assenza di rumore in una stanza vuota."
+      ],
+      "exposure": "Una richiesta di soccorso può non arrivare; il silenzio non toglie volontà né capacità di respirare. Un colpo già giunto al bersaglio non viene annullato perché il rumore è soppresso.",
+      "response": "Separare il percorso d’allarme, disattivare il tratto o fornire un segnale che non dipenda dal canale filtrato. L’uscita fisica deve rimanere raggiungibile durante ogni prova.",
+      "intervention": "Separare il percorso d’allarme, disattivare il tratto o fornire un segnale che non dipenda dal canale filtrato. L’uscita fisica deve rimanere raggiungibile durante ogni prova.",
+      "society": "I lavoratori possono volere meno rumore senza accettare di perdere la possibilità di chiamare aiuto. La riservatezza del datore non rende legittimo occultare un incidente.",
+      "hooks": [
+        "Un custode vede una campana agitarsi senza sentirla",
+        "un ufficio chiede una perizia prima di rinnovare il servizio."
+      ],
+      "evolution": "Il circuito può essere ridisposto o mantenuto con procedure diverse. Non produce automaticamente una notte muta su Dorven.",
+      "status": "Dormiente",
+      "impact": "🟡",
+      "visual": "Shadowed dock warehouse doorway, a hanging brass alarm bell visibly tilted on one side and an attentive worker on the other using a bright ordinary signal lantern, fine vibration rings ending at a narrow dark threshold, no opaque fog or soundproof globe.",
+      "future_outcome": "OPEN",
+      "revision": 363,
+      "unit": null,
+      "occurrence": "La manifestazione richiede sorgente e accesso effettivi. Dormiente indica un supporto predisposto che non sta esercitando la funzione al T0, non un’attivazione automatica al passaggio dei personaggi.",
+      "situation": {
+        "id": "PHN-018-S",
+        "narrative_function": "Fonte di scelte su accesso, diagnosi e responsabilità.",
+        "current": "La fascia è stata isolata dal percorso abituale; un test richiede due addetti e un segnale visivo indipendente.",
+        "conflict": "I lavoratori possono volere meno rumore senza accettare di perdere la possibilità di chiamare aiuto. La riservatezza del datore non rende legittimo occultare un incidente.",
+        "forces": [
+          {
+            "actor": "Deposito e manutenzione",
+            "wants": "Mantenere il servizio o la custodia senza perdere controllo e prove.",
+            "fears": "Un impiego improprio o un fermo che danneggi chi ne dipende.",
+            "limits": "Sorgente, riserva e qualifiche sono quelle della scheda; l’autorità civile non le sostituisce."
+          },
+          {
+            "actor": "Lavoratori del turno",
+            "wants": "Verificare le condizioni effettive prima di assumere costi o rischi.",
+            "fears": "Una richiesta di soccorso può non arrivare; il silenzio non toglie volontà né capacità di respirare.",
+            "limits": "L’accesso al luogo non garantisce una diagnosi superiore né diritto sui supporti altrui."
+          }
+        ],
+        "secret": "Nel deposito di Dorven una fascia investita proteggeva la riservatezza del lavoro notturno. Dopo il riallestimento, il tratto attivo attraversa ancora una porta di servizio che viene usata per l’allarme acustico.",
+        "hooks": [
+          "Un custode vede una campana agitarsi senza sentirla",
+          "un ufficio chiede una perizia prima di rinnovare il servizio."
+        ],
+        "with_intervention": "Il circuito può essere ridisposto o mantenuto con procedure diverse. Non produce automaticamente una notte muta su Dorven.",
+        "without_intervention": "La fascia è stata isolata dal percorso abituale; un test richiede due addetti e un segnale visivo indipendente. Le parti mantengono il servizio, l’interdizione o la verifica dichiarata; l’effetto si esercita soltanto alle condizioni descritte.",
+        "time_pressure": "Una fascia lunga dodici metri, cinque minuti per quota, quattro quote nel supporto. Non svuota l’aria né impedisce il passaggio dei corpi. Vibrazioni e impatti non presi o superiori alla tenuta restano una contesa, non una promessa d’invulnerabilità.",
+        "narrator_material": {
+          "scene": "Un richiamo o una vibrazione che attraversa il tratto raggiunto perde la continuità necessaria a propagarsi oltre.",
+          "complication": "Una richiesta di soccorso può non arrivare; il silenzio non toglie volontà né capacità di respirare. Un colpo già giunto al bersaglio non viene annullato perché il rumore è soppresso.",
+          "optional_twist": "Una verifica separata rivela una differenza fra ciò che un interlocutore aveva osservato e la spiegazione che ne aveva dato. È uno sviluppo possibile, non una nuova causa obbligatoria."
+        }
+      },
+      "wiki_url": "phn-018-the-broken-sound.html",
+      "visual_caption": "Il confronto fra campana e lanterna separa il canale acustico da quello visivo. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità. La scena mostra un esercizio possibile alle condizioni indicate, non un’attivazione già in corso al T0."
+    },
+    {
+      "id": "PHN-019",
+      "name": "The Ash Interval",
+      "location_id": "LOC-045",
+      "location": "Saura",
+      "continent": "Caldris",
+      "record_type": "MANIFESTAZIONE_RICORRENTE",
+      "category": "Ritmo temporale investito",
+      "effigy": "Hourglass",
+      "ability_id": "EFF-08-II-M01",
+      "support_ids": [
+        "EFF-08-II-M02"
+      ],
+      "source": "EFF-08-II-M02",
+      "cause": "Una camera di Saura riceve un investimento sul ritmo di un processo di combustione già presente. La matrice viene rifornita per un ciclo di lavoro; non possiede energia infinita né continua a esercitarsi perché il nome della città sia antico.",
+      "effect": "Una brace e le sue faville evolvono più lentamente nel tratto raggiunto. Un addetto osserva un tizzone ancora acceso quando un campione di confronto esterno ha già completato la combustione. Si modifica il ritmo del processo preso, non l’età del personale o la storia della fornace.",
+      "extent": "Camera di quattro metri, un solo lotto raggiunto per ciclo, dodici minuti di mantenimento; due cicli predisposti al T0. Il ritmo concordato è circa un sesto di quello del campione comparabile, entro tenuta e condizioni della prova.",
+      "current": "Il lotto precedente è stato ritirato. La camera resta pronta per una prova controllata, con ventilazione ordinaria e orologi esterni.",
+      "diagnosis": [
+        "Usare campioni comparabili e misurare da fuori: un legno più umido può sembrare rallentato per una causa ordinaria.",
+        "Confrontare una fase di combustione raggiunta con un moto meccanico esterno: non tutti i processi nella stanza devono seguire lo stesso ritmo.",
+        "Interrompere il mantenimento con il lotto isolato e verificare che il fuoco riprenda a evolvere, senza presumere estinzione istantanea."
+      ],
+      "exposure": "La brace conserva un pericolo termico: rallentare una reazione non autorizza a toccarla. I fumi richiedono una via reale; il tempo non assorbe la materia prodotta.",
+      "response": "Concludere il processo o trasferire il lotto in una custodia adatta prima di esaurire il mantenimento. Non si recupera legno già bruciato e non si riporta indietro una lesione.",
+      "intervention": "Concludere il processo o trasferire il lotto in una custodia adatta prima di esaurire il mantenimento. Non si recupera legno già bruciato e non si riporta indietro una lesione.",
+      "society": "Il servizio permette programmazione di lavorazioni e crea aspettative sbagliate sui tempi di sicurezza. Un acquirente può confondere “non ancora completato” con “mai avvenuto”.",
+      "hooks": [
+        "Un collaudatore chiede un confronto con campioni ordinari",
+        "un vettore vuole caricare troppo presto una brace apparentemente spenta."
+      ],
+      "evolution": "Una nuova procedura può sfruttare il ritmo senza riscrivere il passato. Guasti e consumo restano fatti del ciclo effettivo.",
+      "status": "Dormiente",
+      "impact": "🟠",
+      "visual": "Kiln testing chamber with two isolated charcoal samples, one behind a small invested glass enclosure with a lingering slow ember and suspended-looking fine sparks, an ordinary burned-out comparison tray outside, external clock with no readable numerals, no time portal.",
+      "future_outcome": "OPEN",
+      "revision": 363,
+      "unit": null,
+      "occurrence": "La manifestazione richiede sorgente e accesso effettivi. Dormiente indica un supporto predisposto che non sta esercitando la funzione al T0, non un’attivazione automatica al passaggio dei personaggi.",
+      "situation": {
+        "id": "PHN-019-S",
+        "narrative_function": "Fonte di scelte su accesso, diagnosi e responsabilità.",
+        "current": "Il lotto precedente è stato ritirato. La camera resta pronta per una prova controllata, con ventilazione ordinaria e orologi esterni.",
+        "conflict": "Il servizio permette programmazione di lavorazioni e crea aspettative sbagliate sui tempi di sicurezza. Un acquirente può confondere “non ancora completato” con “mai avvenuto”.",
+        "forces": [
+          {
+            "actor": "Responsabili della fornace",
+            "wants": "Mantenere il servizio o la custodia senza perdere controllo e prove.",
+            "fears": "Un impiego improprio o un fermo che danneggi chi ne dipende.",
+            "limits": "Sorgente, riserva e qualifiche sono quelle della scheda; l’autorità civile non le sostituisce."
+          },
+          {
+            "actor": "Collaudatori e vettori",
+            "wants": "Verificare le condizioni effettive prima di assumere costi o rischi.",
+            "fears": "La brace conserva un pericolo termico: rallentare una reazione non autorizza a toccarla.",
+            "limits": "L’accesso al luogo non garantisce una diagnosi superiore né diritto sui supporti altrui."
+          }
+        ],
+        "secret": "Una camera di Saura riceve un investimento sul ritmo di un processo di combustione già presente. La matrice viene rifornita per un ciclo di lavoro; non possiede energia infinita né continua a esercitarsi perché il nome della città sia antico.",
+        "hooks": [
+          "Un collaudatore chiede un confronto con campioni ordinari",
+          "un vettore vuole caricare troppo presto una brace apparentemente spenta."
+        ],
+        "with_intervention": "Una nuova procedura può sfruttare il ritmo senza riscrivere il passato. Guasti e consumo restano fatti del ciclo effettivo.",
+        "without_intervention": "Il lotto precedente è stato ritirato. La camera resta pronta per una prova controllata, con ventilazione ordinaria e orologi esterni. Le parti mantengono il servizio, l’interdizione o la verifica dichiarata; l’effetto si esercita soltanto alle condizioni descritte.",
+        "time_pressure": "Camera di quattro metri, un solo lotto raggiunto per ciclo, dodici minuti di mantenimento; due cicli predisposti al T0. Il ritmo concordato è circa un sesto di quello del campione comparabile, entro tenuta e condizioni della prova.",
+        "narrator_material": {
+          "scene": "Una brace e le sue faville evolvono più lentamente nel tratto raggiunto.",
+          "complication": "La brace conserva un pericolo termico: rallentare una reazione non autorizza a toccarla. I fumi richiedono una via reale; il tempo non assorbe la materia prodotta.",
+          "optional_twist": "Una verifica separata rivela una differenza fra ciò che un interlocutore aveva osservato e la spiegazione che ne aveva dato. È uno sviluppo possibile, non una nuova causa obbligatoria."
+        }
+      },
+      "wiki_url": "phn-019-the-ash-interval.html",
+      "visual_caption": "Una prova confronta il ritmo della brace raggiunta con un campione ordinario. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità. La scena mostra un esercizio possibile alle condizioni indicate, non un’attivazione già in corso al T0."
+    },
+    {
+      "id": "PHN-020",
+      "name": "The Shared Stair",
+      "location_id": "LOC-050",
+      "location": "Arula",
+      "continent": "Iskar",
+      "record_type": "MANIFESTAZIONE_RICORRENTE",
+      "category": "Contagio onirico circoscritto",
+      "effigy": "Labyrinth",
+      "ability_id": "EFF-18-III-M02",
+      "support_ids": [
+        "EFF-18-II-M02"
+      ],
+      "source": "EFF-18-II-M02",
+      "cause": "Quattro posti di riposo di Arula erano collegati per accompagnare un esercizio onirico consensuale. Un raccordo è rimasto incluso nella configurazione successiva: persone che non si conoscono trovano lo stesso pianerottolo nei sogni raggiunti.",
+      "effect": "I sognatori possono incontrare porzioni della scena condivisa e influenzarne piccoli dettagli attraverso i percorsi realmente collegati. Al risveglio portano ricordi di esperienza onirica; non hanno camminato materialmente in una scala fuori dal mondo.",
+      "extent": "Quattro supporti e soli dormienti raggiunti dalla configurazione, una sessione di venti minuti per riserva. Raccontare il sogno non contagia un quinto ascoltatore. La scena non costringe ad agire nel corpo sveglio.",
+      "current": "Due utenti hanno riconosciuto lo stesso dettaglio prima di incontrarsi; la struttura ha sospeso l’uso congiunto e conserva i resoconti separati.",
+      "diagnosis": [
+        "Raccogliere descrizioni indipendenti prima di mostrare una pianta o suggerire cosa ci si debba trovare.",
+        "Scollegare uno dei quattro supporti per una prova consensuale e confrontare gli accessi, non soltanto il ricordo del mattino.",
+        "Verificare che gli oggetti portati nel sogno non siano comparsi nella stanza fisica: contenuto rappresentato e materia sono distinti."
+      ],
+      "exposure": "Un partecipante può ottenere informazioni che l’altro mostra nella scena o restare spaventato al risveglio. L’accesso non legge ogni memoria privata, non crea un secondo sé e non sostituisce un comando Will.",
+      "response": "Separare i supporti, concordare un segnale di interruzione e sostenere chi si sveglia in difficoltà. Un diario aiuta a distinguere esperienza condivisa, ricostruzione e suggestione dopo il risveglio.",
+      "intervention": "Separare i supporti, concordare un segnale di interruzione e sostenere chi si sveglia in difficoltà. Un diario aiuta a distinguere esperienza condivisa, ricostruzione e suggestione dopo il risveglio.",
+      "society": "Terapeuti e utenti devono negoziare riservatezza e diritto di uscire dall’esercizio. Una tecnica utile non rende pubblico ciò che un partecipante ha lasciato apparire nel sogno.",
+      "hooks": [
+        "Due persone descrivono lo stesso pianerottolo con particolari diversi",
+        "un utente chiede una prova prima di accusare l’altro di avergli rubato un ricordo."
+      ],
+      "evolution": "Il collegamento può essere corretto, mantenuto consensualmente o abbandonato. I sogni non fissano profezie o azioni future dei partecipanti.",
+      "status": "Attivo",
+      "impact": "🟠",
+      "visual": "Surreal but restrained shared dream stair landing with four faint door-shaped openings around one worn staircase, dreamlike muted geometry and hanging cloth, clear pictorial dream atmosphere, no physical portal in a hospital or extra human clones.",
+      "future_outcome": "OPEN",
+      "revision": 363,
+      "unit": null,
+      "occurrence": "La manifestazione richiede sorgente e accesso effettivi. Dormiente indica un supporto predisposto che non sta esercitando la funzione al T0, non un’attivazione automatica al passaggio dei personaggi.",
+      "situation": {
+        "id": "PHN-020-S",
+        "narrative_function": "Fonte di scelte su accesso, diagnosi e responsabilità.",
+        "current": "Due utenti hanno riconosciuto lo stesso dettaglio prima di incontrarsi; la struttura ha sospeso l’uso congiunto e conserva i resoconti separati.",
+        "conflict": "Terapeuti e utenti devono negoziare riservatezza e diritto di uscire dall’esercizio. Una tecnica utile non rende pubblico ciò che un partecipante ha lasciato apparire nel sogno.",
+        "forces": [
+          {
+            "actor": "Responsabili dell’esercizio onirico",
+            "wants": "Mantenere il servizio o la custodia senza perdere controllo e prove.",
+            "fears": "Un impiego improprio o un fermo che danneggi chi ne dipende.",
+            "limits": "Sorgente, riserva e qualifiche sono quelle della scheda; l’autorità civile non le sostituisce."
+          },
+          {
+            "actor": "Utenti dei quattro supporti",
+            "wants": "Verificare le condizioni effettive prima di assumere costi o rischi.",
+            "fears": "Un partecipante può ottenere informazioni che l’altro mostra nella scena o restare spaventato al risveglio.",
+            "limits": "L’accesso al luogo non garantisce una diagnosi superiore né diritto sui supporti altrui."
+          }
+        ],
+        "secret": "Quattro posti di riposo di Arula erano collegati per accompagnare un esercizio onirico consensuale. Un raccordo è rimasto incluso nella configurazione successiva: persone che non si conoscono trovano lo stesso pianerottolo nei sogni raggiunti.",
+        "hooks": [
+          "Due persone descrivono lo stesso pianerottolo con particolari diversi",
+          "un utente chiede una prova prima di accusare l’altro di avergli rubato un ricordo."
+        ],
+        "with_intervention": "Il collegamento può essere corretto, mantenuto consensualmente o abbandonato. I sogni non fissano profezie o azioni future dei partecipanti.",
+        "without_intervention": "Due utenti hanno riconosciuto lo stesso dettaglio prima di incontrarsi; la struttura ha sospeso l’uso congiunto e conserva i resoconti separati. Le parti mantengono il servizio, l’interdizione o la verifica dichiarata; l’effetto si esercita soltanto alle condizioni descritte.",
+        "time_pressure": "Quattro supporti e soli dormienti raggiunti dalla configurazione, una sessione di venti minuti per riserva. Raccontare il sogno non contagia un quinto ascoltatore. La scena non costringe ad agire nel corpo sveglio.",
+        "narrator_material": {
+          "scene": "I sognatori possono incontrare porzioni della scena condivisa e influenzarne piccoli dettagli attraverso i percorsi realmente collegati.",
+          "complication": "Un partecipante può ottenere informazioni che l’altro mostra nella scena o restare spaventato al risveglio. L’accesso non legge ogni memoria privata, non crea un secondo sé e non sostituisce un comando Will.",
+          "optional_twist": "Una verifica separata rivela una differenza fra ciò che un interlocutore aveva osservato e la spiegazione che ne aveva dato. È uno sviluppo possibile, non una nuova causa obbligatoria."
+        }
+      },
+      "wiki_url": "phn-020-the-shared-stair.html",
+      "visual_caption": "Scena onirica rappresentata dal punto di vista dei partecipanti; nessuna scala materiale viene creata nel reparto. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità."
+    },
+    {
+      "id": "PHN-021",
+      "name": "The Moon-Tide Debt",
+      "location_id": "LOC-059",
+      "location": "Irela",
+      "continent": "Veyra",
+      "record_type": "MANIFESTAZIONE_RICORRENTE",
+      "category": "Ciclo rituale",
+      "effigy": "Crescent",
+      "ability_id": "EFF-23-III-M05",
+      "support_ids": [
+        "EFF-23-II-M04",
+        "EFF-23-II-M05"
+      ],
+      "source": "EFF-23-II-M04 / EFF-23-II-M05",
+      "cause": "Una cisterna rituale di Irela conserva un esercizio lunare diviso in tre rilasci. Un anatema condizionale era stato legato a un contatto preciso con il bordo investito; il ciclo rimane depositato finché fonte e supporto tengono.",
+      "effect": "Il contatto previsto può imprimere un’afflizione fredda e dolorosa nella mano raggiunta. I tre rilasci scandiscono l’esercizio, consumando la riserva comune. L’acqua che riflette la luna non crea da sola il maleficio, e ogni luna piena non rifornisce ogni cisterna del mondo.",
+      "extent": "Bordo marcato della singola cisterna e bersaglio effettivamente collegato; tre rilasci di una quota finita. La copia del riflesso in una fotografia non trasporta la funzione.",
+      "current": "Il bordo è coperto e l’acqua accessibile tramite un prelievo ordinario separato. Si verifica chi abbia conservato la clausola e con quale autorizzazione.",
+      "diagnosis": [
+        "Leggere separatamente fase, condizione e destinatario previsto: il calendario celeste non sostituisce il controllo della matrice.",
+        "Verificare su una sonda compatibile che il collegamento passi dal bordo investito, non da ogni goccia d’acqua.",
+        "Confrontare rilasci consumati e ancora disponibili prima di chiamare “nuova maledizione” un impulso già preparato."
+      ],
+      "exposure": "La lesione può durare anche dopo che il contatto è terminato, secondo la tenuta dell’anatema. Il fenomeno non trasforma il corpo, non impone attrazione e non obbliga la volontà del bersaglio.",
+      "response": "Separare l’accesso, identificare il rapporto che alimenta l’afflizione e contenderlo con capacità pertinente. Rompere il vetro di un riflesso ordinario non scioglie necessariamente la clausola sul bordo.",
+      "intervention": "Separare l’accesso, identificare il rapporto che alimenta l’afflizione e contenderlo con capacità pertinente. Rompere il vetro di un riflesso ordinario non scioglie necessariamente la clausola sul bordo.",
+      "society": "Una tradizione di custodia può nascondere una vecchia condizione che gli utenti attuali non hanno accettato. Conservare valore storico non richiede di lasciarla attiva su chi attinge acqua.",
+      "hooks": [
+        "Una mano si raffredda dopo un contatto preciso",
+        "un custode trova il conteggio dei rilasci incompatibile con il registro recente."
+      ],
+      "evolution": "Si può rimuovere l’anatema e conservare la cisterna, oppure contendere le responsabilità. Nessun colpevole o vittima futura è già fissato.",
+      "status": "Dormiente",
+      "impact": "🟠",
+      "visual": "Stone ritual cistern under moonlight, one narrow invested silver rim with three separate crescent-like seals, covered dangerous contact section and an ordinary water dipper kept clear, black water reflecting the real moon, no erotic imagery or transforming person.",
+      "future_outcome": "OPEN",
+      "revision": 363,
+      "unit": null,
+      "occurrence": "La manifestazione richiede sorgente e accesso effettivi. Dormiente indica un supporto predisposto che non sta esercitando la funzione al T0, non un’attivazione automatica al passaggio dei personaggi.",
+      "situation": {
+        "id": "PHN-021-S",
+        "narrative_function": "Fonte di scelte su accesso, diagnosi e responsabilità.",
+        "current": "Il bordo è coperto e l’acqua accessibile tramite un prelievo ordinario separato. Si verifica chi abbia conservato la clausola e con quale autorizzazione.",
+        "conflict": "Una tradizione di custodia può nascondere una vecchia condizione che gli utenti attuali non hanno accettato. Conservare valore storico non richiede di lasciarla attiva su chi attinge acqua.",
+        "forces": [
+          {
+            "actor": "Custodi della cisterna",
+            "wants": "Mantenere il servizio o la custodia senza perdere controllo e prove.",
+            "fears": "Un impiego improprio o un fermo che danneggi chi ne dipende.",
+            "limits": "Sorgente, riserva e qualifiche sono quelle della scheda; l’autorità civile non le sostituisce."
+          },
+          {
+            "actor": "Utenti e autorità locali",
+            "wants": "Verificare le condizioni effettive prima di assumere costi o rischi.",
+            "fears": "La lesione può durare anche dopo che il contatto è terminato, secondo la tenuta dell’anatema.",
+            "limits": "L’accesso al luogo non garantisce una diagnosi superiore né diritto sui supporti altrui."
+          }
+        ],
+        "secret": "Una cisterna rituale di Irela conserva un esercizio lunare diviso in tre rilasci. Un anatema condizionale era stato legato a un contatto preciso con il bordo investito; il ciclo rimane depositato finché fonte e supporto tengono.",
+        "hooks": [
+          "Una mano si raffredda dopo un contatto preciso",
+          "un custode trova il conteggio dei rilasci incompatibile con il registro recente."
+        ],
+        "with_intervention": "Si può rimuovere l’anatema e conservare la cisterna, oppure contendere le responsabilità. Nessun colpevole o vittima futura è già fissato.",
+        "without_intervention": "Il bordo è coperto e l’acqua accessibile tramite un prelievo ordinario separato. Si verifica chi abbia conservato la clausola e con quale autorizzazione. Le parti mantengono il servizio, l’interdizione o la verifica dichiarata; l’effetto si esercita soltanto alle condizioni descritte.",
+        "time_pressure": "Bordo marcato della singola cisterna e bersaglio effettivamente collegato; tre rilasci di una quota finita. La copia del riflesso in una fotografia non trasporta la funzione.",
+        "narrator_material": {
+          "scene": "Il contatto previsto può imprimere un’afflizione fredda e dolorosa nella mano raggiunta.",
+          "complication": "La lesione può durare anche dopo che il contatto è terminato, secondo la tenuta dell’anatema. Il fenomeno non trasforma il corpo, non impone attrazione e non obbliga la volontà del bersaglio.",
+          "optional_twist": "Una verifica separata rivela una differenza fra ciò che un interlocutore aveva osservato e la spiegazione che ne aveva dato. È uno sviluppo possibile, non una nuova causa obbligatoria."
+        }
+      },
+      "wiki_url": "phn-021-the-moon-tide-debt.html",
+      "visual_caption": "Il bordo investito conserva un ciclo predisposto: la luna riflessa non è la sua riserva. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità. La scena mostra un esercizio possibile alle condizioni indicate, non un’attivazione già in corso al T0."
+    },
+    {
+      "id": "PHN-022",
+      "name": "The Blue Crown",
+      "location_id": "LOC-063",
+      "location": "Norell Roads",
+      "continent": "Nareth",
+      "record_type": "MANIFESTAZIONE_RICORRENTE",
+      "category": "Scarica ambientale",
+      "effigy": "Tempest",
+      "ability_id": "EFF-19-III-M04",
+      "support_ids": [
+        "EFF-19-II-M04"
+      ],
+      "source": "EFF-19-II-M04",
+      "cause": "Una corona di dispersione sul servizio di rada di Norell Roads riceve carica separata tramite un investimento Tempest. Umidità e depositi salini modificano i percorsi conduttivi previsti dai manutentori.",
+      "effect": "Sui punti alti compare un bordo azzurro; una scarica può seguire funi bagnate o parti metalliche realmente collegate. Il colore avverte della condizione locale, ma non rivela intenzioni divine e non implica che ogni bagliore marino abbia la stessa causa.",
+      "extent": "Otto ancoraggi del singolo impianto, circa centocinquanta metri di linea collegata, quattro scariche predisposte. La tempesta e la carica ordinaria esterna vanno valutate a parte; arrestare il mezzo non arresta il meteo.",
+      "current": "Gli addetti hanno interdetto un tratto di ormeggio e mantengono una via asciutta per il controllo dei collegamenti.",
+      "diagnosis": [
+        "Seguire i collegamenti conduttivi effettivi e confrontarli con il percorso di scarico previsto.",
+        "Controllare la riserva investita e il tempo atmosferico come sorgenti distinte: possono concorrere senza essere identiche.",
+        "Verificare che un cambiamento di marea non abbia bagnato una fune prima isolata, creando un nuovo accesso materiale."
+      ],
+      "exposure": "Folgorazione, incendio di materiali e caduta in acqua sono rischi possibili. Un oggetto di legno bagnato non va assunto come isolante; difese luminose non equivalgono automaticamente a isolamento elettrico.",
+      "response": "Mettere in sicurezza le vie di scarica e rimuovere carichi con mezzi adatti. Una purificazione non sostituisce una disconnessione e non fa sparire energia già accumulata in un altro apparato.",
+      "intervention": "Mettere in sicurezza le vie di scarica e rimuovere carichi con mezzi adatti. Una purificazione non sostituisce una disconnessione e non fa sparire energia già accumulata in un altro apparato.",
+      "society": "L’interdizione incide sugli ormeggi disponibili. Capitani e servizio di rada possono condividere l’obiettivo di evitare incidenti ma discutere su chi debba attendere e pagare la manutenzione.",
+      "hooks": [
+        "Una fune emette un bagliore prima della partenza",
+        "una nave chiede un ormeggio alternativo già promesso ad altri."
+      ],
+      "evolution": "La linea può essere ripristinata o riprogettata. L’impianto non diventa una tempesta senziente o un’arma già puntata su una città.",
+      "status": "Attivo",
+      "impact": "🟠",
+      "visual": "Stormy outer roadstead with a limited line of eight harbour grounding posts and wet mooring ropes carrying thin blue electrical corona, ships beyond the isolated berth, dark real sea and clouds, no giant god or city-destroying lightning pillar.",
+      "future_outcome": "OPEN",
+      "revision": 363,
+      "unit": null,
+      "occurrence": "La manifestazione richiede sorgente e accesso effettivi. Dormiente indica un supporto predisposto che non sta esercitando la funzione al T0, non un’attivazione automatica al passaggio dei personaggi.",
+      "situation": {
+        "id": "PHN-022-S",
+        "narrative_function": "Fonte di scelte su accesso, diagnosi e responsabilità.",
+        "current": "Gli addetti hanno interdetto un tratto di ormeggio e mantengono una via asciutta per il controllo dei collegamenti.",
+        "conflict": "L’interdizione incide sugli ormeggi disponibili. Capitani e servizio di rada possono condividere l’obiettivo di evitare incidenti ma discutere su chi debba attendere e pagare la manutenzione.",
+        "forces": [
+          {
+            "actor": "Servizio di rada",
+            "wants": "Mantenere il servizio o la custodia senza perdere controllo e prove.",
+            "fears": "Un impiego improprio o un fermo che danneggi chi ne dipende.",
+            "limits": "Sorgente, riserva e qualifiche sono quelle della scheda; l’autorità civile non le sostituisce."
+          },
+          {
+            "actor": "Capitani delle navi",
+            "wants": "Verificare le condizioni effettive prima di assumere costi o rischi.",
+            "fears": "Folgorazione, incendio di materiali e caduta in acqua sono rischi possibili.",
+            "limits": "L’accesso al luogo non garantisce una diagnosi superiore né diritto sui supporti altrui."
+          }
+        ],
+        "secret": "Una corona di dispersione sul servizio di rada di Norell Roads riceve carica separata tramite un investimento Tempest. Umidità e depositi salini modificano i percorsi conduttivi previsti dai manutentori.",
+        "hooks": [
+          "Una fune emette un bagliore prima della partenza",
+          "una nave chiede un ormeggio alternativo già promesso ad altri."
+        ],
+        "with_intervention": "La linea può essere ripristinata o riprogettata. L’impianto non diventa una tempesta senziente o un’arma già puntata su una città.",
+        "without_intervention": "Gli addetti hanno interdetto un tratto di ormeggio e mantengono una via asciutta per il controllo dei collegamenti. Le parti mantengono il servizio, l’interdizione o la verifica dichiarata; l’effetto si esercita soltanto alle condizioni descritte.",
+        "time_pressure": "Otto ancoraggi del singolo impianto, circa centocinquanta metri di linea collegata, quattro scariche predisposte. La tempesta e la carica ordinaria esterna vanno valutate a parte; arrestare il mezzo non arresta il meteo.",
+        "narrator_material": {
+          "scene": "Sui punti alti compare un bordo azzurro; una scarica può seguire funi bagnate o parti metalliche realmente collegate.",
+          "complication": "Folgorazione, incendio di materiali e caduta in acqua sono rischi possibili. Un oggetto di legno bagnato non va assunto come isolante; difese luminose non equivalgono automaticamente a isolamento elettrico.",
+          "optional_twist": "Una verifica separata rivela una differenza fra ciò che un interlocutore aveva osservato e la spiegazione che ne aveva dato. È uno sviluppo possibile, non una nuova causa obbligatoria."
+        }
+      },
+      "wiki_url": "phn-022-the-blue-crown.html",
+      "visual_caption": "La corona azzurra segue conduttori effettivi di un impianto circoscritto. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità."
+    },
+    {
+      "id": "PHN-023",
+      "name": "The Afterlight",
+      "location_id": "LOC-024",
+      "location": "Velis",
+      "continent": "Mereth",
+      "record_type": "MANIFESTAZIONE_RICORRENTE",
+      "category": "Emissione residuale superiore",
+      "effigy": "Halo",
+      "ability_id": "EFF-04-VI-M01",
+      "support_ids": [
+        "EFF-04-IV-M01"
+      ],
+      "source": "EFF-04-IV-M01",
+      "cause": "Un apparato di taratura di Velis conserva una quota luminosa propria conferita da una fonte Halo qualificata. Il confinamento VI e l’interfaccia di rilascio sono mantenuti come strumenti ottici: il vano non contiene una stella, una Seat o la Vigil Star.",
+      "effect": "Dopo che la sorgente visibile di prova è stata schermata, un’interfaccia predisposta continua a emettere la quota conservata. Una parete può illuminarsi da un punto che sembra spento. La luce è realmente presente, non un ricordo che esiste soltanto nella mente degli osservatori.",
+      "extent": "Tre emissioni predisposte di quarantacinque secondi, lungo un circuito ottico di venti metri nel locale schermato. Quality VI del confinamento non implica che il rilascio di taratura sia regolato per devastare la città.",
+      "current": "Il vano è chiuso e due emissioni restano disponibili dopo un collaudo registrato. Il rifornimento richiede fonte e qualifica pertinenti; il custode ordinario non le produce con una leva.",
+      "diagnosis": [
+        "Interporre uno schermo fisico adatto e misurare l’emissione sul percorso realmente aperto.",
+        "Confrontare sorgente spenta e interfaccia di uscita: la seconda può emettere dalla riserva già assegnata.",
+        "Verificare durata e consumo senza ripetere il collaudo fino a esaurire una quota che serve al servizio."
+      ],
+      "exposure": "Luce e calore possono colpire occhio, pelle o materiale esposto secondo l’emissione realmente impostata. Non si acquisiscono rivelazione, purificazione o volontà divina fissando il bagliore.",
+      "response": "Chiudere l’uscita preparata o intervenire sulla custodia con la qualifica richiesta. La semplice copertura ottica non certifica la tenuta del confinamento superiore; l’assenza di luce non prova che la riserva sia vuota.",
+      "intervention": "Chiudere l’uscita preparata o intervenire sulla custodia con la qualifica richiesta. La semplice copertura ottica non certifica la tenuta del confinamento superiore; l’assenza di luce non prova che la riserva sia vuota.",
+      "society": "Per i tecnici è una calibrazione; per un visitatore può sembrare un miracolo autonomo. La dimostrazione pubblica consuma una riserva e richiede di dichiarare ciò che mostra davvero.",
+      "hooks": [
+        "Un addetto vede luce dopo l’arresto della lampada di prova",
+        "un confronto di strumenti richiede di scegliere se consumare una delle quote rimaste."
+      ],
+      "evolution": "Il servizio può restare chiuso, essere rifornito o cambiare procedura. Il fenomeno non attesta un ritorno di Edran e non aggiunge emissioni nuove alla stella.",
+      "status": "Dormiente",
+      "impact": "🟠",
+      "visual": "Sealed optical calibration room with a shuttered lamp visibly dark, a separate small invested aperture still emitting a brilliant controlled white beam into a stone receiving panel, concentric silver confinement rings, no sun inside the apparatus or god manifestation.",
+      "future_outcome": "OPEN",
+      "revision": 363,
+      "unit": null,
+      "occurrence": "La manifestazione richiede sorgente e accesso effettivi. Dormiente indica un supporto predisposto che non sta esercitando la funzione al T0, non un’attivazione automatica al passaggio dei personaggi.",
+      "situation": {
+        "id": "PHN-023-S",
+        "narrative_function": "Fonte di scelte su accesso, diagnosi e responsabilità.",
+        "current": "Il vano è chiuso e due emissioni restano disponibili dopo un collaudo registrato. Il rifornimento richiede fonte e qualifica pertinenti; il custode ordinario non le produce con una leva.",
+        "conflict": "Per i tecnici è una calibrazione; per un visitatore può sembrare un miracolo autonomo. La dimostrazione pubblica consuma una riserva e richiede di dichiarare ciò che mostra davvero.",
+        "forces": [
+          {
+            "actor": "Custodi del vano ottico",
+            "wants": "Mantenere il servizio o la custodia senza perdere controllo e prove.",
+            "fears": "Un impiego improprio o un fermo che danneggi chi ne dipende.",
+            "limits": "Sorgente, riserva e qualifiche sono quelle della scheda; l’autorità civile non le sostituisce."
+          },
+          {
+            "actor": "Tecnici e committenti delle prove",
+            "wants": "Verificare le condizioni effettive prima di assumere costi o rischi.",
+            "fears": "Luce e calore possono colpire occhio, pelle o materiale esposto secondo l’emissione realmente impostata.",
+            "limits": "L’accesso al luogo non garantisce una diagnosi superiore né diritto sui supporti altrui."
+          }
+        ],
+        "secret": "Un apparato di taratura di Velis conserva una quota luminosa propria conferita da una fonte Halo qualificata. Il confinamento VI e l’interfaccia di rilascio sono mantenuti come strumenti ottici: il vano non contiene una stella, una Seat o la Vigil Star.",
+        "hooks": [
+          "Un addetto vede luce dopo l’arresto della lampada di prova",
+          "un confronto di strumenti richiede di scegliere se consumare una delle quote rimaste."
+        ],
+        "with_intervention": "Il servizio può restare chiuso, essere rifornito o cambiare procedura. Il fenomeno non attesta un ritorno di Edran e non aggiunge emissioni nuove alla stella.",
+        "without_intervention": "Il vano è chiuso e due emissioni restano disponibili dopo un collaudo registrato. Il rifornimento richiede fonte e qualifica pertinenti; il custode ordinario non le produce con una leva. Le parti mantengono il servizio, l’interdizione o la verifica dichiarata; l’effetto si esercita soltanto alle condizioni descritte.",
+        "time_pressure": "Tre emissioni predisposte di quarantacinque secondi, lungo un circuito ottico di venti metri nel locale schermato. Quality VI del confinamento non implica che il rilascio di taratura sia regolato per devastare la città.",
+        "narrator_material": {
+          "scene": "Dopo che la sorgente visibile di prova è stata schermata, un’interfaccia predisposta continua a emettere la quota conservata.",
+          "complication": "Luce e calore possono colpire occhio, pelle o materiale esposto secondo l’emissione realmente impostata. Non si acquisiscono rivelazione, purificazione o volontà divina fissando il bagliore.",
+          "optional_twist": "Una verifica separata rivela una differenza fra ciò che un interlocutore aveva osservato e la spiegazione che ne aveva dato. È uno sviluppo possibile, non una nuova causa obbligatoria."
+        }
+      },
+      "wiki_url": "phn-023-the-afterlight.html",
+      "visual_caption": "Un’interfaccia emette la quota luminosa già custodita anche se la sorgente di prova è schermata. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità. La scena mostra un esercizio possibile alle condizioni indicate, non un’attivazione già in corso al T0."
+    },
+    {
+      "id": "PHN-024",
+      "name": "The Hunger Line",
+      "location_id": "LOC-052",
+      "location": "Asren",
+      "continent": "Nareth",
+      "record_type": "MANIFESTAZIONE_RICORRENTE",
+      "category": "Drenaggio consumante",
+      "effigy": "Maw",
+      "ability_id": "EFF-20-III-M02",
+      "support_ids": [
+        "EFF-20-III-M03"
+      ],
+      "source": "EFF-20-III-M03",
+      "cause": "Un circuito di Asren sottrae una componente consumabile da scarti compatibili attraverso un rapporto investito mantenuto. La mancanza predisposta continua a richiedere alimentazione finché la riserva e il collegamento sostengono l’esercizio.",
+      "effect": "Materiale compatibile accostato alla bocca di servizio perde la componente presa anche quando il lotto previsto è finito. Scarti non compatibili possono rimanere quasi intatti: la linea non divora tutto ciò che esiste.",
+      "extent": "Un canale di nove metri, una bocca raggiungibile e un recipiente di raccolta reale; venti minuti per quota. Il materiale sottratto segue il circuito e le perdite dichiarate, non scompare in una Root senza fondo.",
+      "current": "Il servizio è arrestato e la bocca coperta. Il confronto riguarda se il trigger sia rimasto incluso nell’ultima manutenzione e come isolare il recipiente senza esporre gli addetti.",
+      "diagnosis": [
+        "Usare campioni compatibili e non compatibili già identificati, pesandoli separatamente prima e dopo il passaggio.",
+        "Seguire il materiale verso la raccolta per distinguere consumo, trasporto e semplice perdita da una guarnizione.",
+        "Verificare il trigger e interrompere il rapporto di alimentazione, senza presumere che la fame del circuito sia una volontà personale."
+      ],
+      "exposure": "Un corpo può essere danneggiato se offre una componente compatibile all’accesso consumante. Non viene acquisita l’Effige della vittima e la linea non mangia una mente lontana perché ne conosce il nome.",
+      "response": "Separare il collegamento, isolare la bocca e verificare che il recipiente sostenga ciò che ha già ricevuto. Spegnere il richiamo non svuota automaticamente la raccolta né elimina residui corrosivi o caldi.",
+      "intervention": "Separare il collegamento, isolare la bocca e verificare che il recipiente sostenga ciò che ha già ricevuto. Spegnere il richiamo non svuota automaticamente la raccolta né elimina residui corrosivi o caldi.",
+      "society": "Il recupero di scarti ha valore economico, ma un impiego produttivo non giustifica un accesso pericoloso sul percorso degli addetti. Il funzionamento si verifica con la filiera materiale, non con il racconto di un “pozzo affamato”.",
+      "hooks": [
+        "Un campione perde massa dopo la fine del turno",
+        "un custode chiede un percorso di manutenzione che non attraversi la bocca."
+      ],
+      "evolution": "Il circuito può essere corretto, sigillato o sostituito con un trattamento diverso. Non nasce automaticamente una nuova bestia o un’integrazione cosmica.",
+      "status": "Dormiente",
+      "impact": "🟠",
+      "visual": "Industrial occult waste recovery channel in a stone workshop, one clearly isolated dark intake mouth connected through a visible short conduit to a sealed collection vat, a partially depleted sample of slag on an inspection tray, no organic monster or infinite abyss.",
+      "future_outcome": "OPEN",
+      "revision": 363,
+      "unit": null,
+      "occurrence": "La manifestazione richiede sorgente e accesso effettivi. Dormiente indica un supporto predisposto che non sta esercitando la funzione al T0, non un’attivazione automatica al passaggio dei personaggi.",
+      "situation": {
+        "id": "PHN-024-S",
+        "narrative_function": "Fonte di scelte su accesso, diagnosi e responsabilità.",
+        "current": "Il servizio è arrestato e la bocca coperta. Il confronto riguarda se il trigger sia rimasto incluso nell’ultima manutenzione e come isolare il recipiente senza esporre gli addetti.",
+        "conflict": "Il recupero di scarti ha valore economico, ma un impiego produttivo non giustifica un accesso pericoloso sul percorso degli addetti. Il funzionamento si verifica con la filiera materiale, non con il racconto di un “pozzo affamato”.",
+        "forces": [
+          {
+            "actor": "Responsabili del recupero",
+            "wants": "Mantenere il servizio o la custodia senza perdere controllo e prove.",
+            "fears": "Un impiego improprio o un fermo che danneggi chi ne dipende.",
+            "limits": "Sorgente, riserva e qualifiche sono quelle della scheda; l’autorità civile non le sostituisce."
+          },
+          {
+            "actor": "Addetti alla manutenzione",
+            "wants": "Verificare le condizioni effettive prima di assumere costi o rischi.",
+            "fears": "Un corpo può essere danneggiato se offre una componente compatibile all’accesso consumante.",
+            "limits": "L’accesso al luogo non garantisce una diagnosi superiore né diritto sui supporti altrui."
+          }
+        ],
+        "secret": "Un circuito di Asren sottrae una componente consumabile da scarti compatibili attraverso un rapporto investito mantenuto. La mancanza predisposta continua a richiedere alimentazione finché la riserva e il collegamento sostengono l’esercizio.",
+        "hooks": [
+          "Un campione perde massa dopo la fine del turno",
+          "un custode chiede un percorso di manutenzione che non attraversi la bocca."
+        ],
+        "with_intervention": "Il circuito può essere corretto, sigillato o sostituito con un trattamento diverso. Non nasce automaticamente una nuova bestia o un’integrazione cosmica.",
+        "without_intervention": "Il servizio è arrestato e la bocca coperta. Il confronto riguarda se il trigger sia rimasto incluso nell’ultima manutenzione e come isolare il recipiente senza esporre gli addetti. Le parti mantengono il servizio, l’interdizione o la verifica dichiarata; l’effetto si esercita soltanto alle condizioni descritte.",
+        "time_pressure": "Un canale di nove metri, una bocca raggiungibile e un recipiente di raccolta reale; venti minuti per quota. Il materiale sottratto segue il circuito e le perdite dichiarate, non scompare in una Root senza fondo.",
+        "narrator_material": {
+          "scene": "Materiale compatibile accostato alla bocca di servizio perde la componente presa anche quando il lotto previsto è finito.",
+          "complication": "Un corpo può essere danneggiato se offre una componente compatibile all’accesso consumante. Non viene acquisita l’Effige della vittima e la linea non mangia una mente lontana perché ne conosce il nome.",
+          "optional_twist": "Una verifica separata rivela una differenza fra ciò che un interlocutore aveva osservato e la spiegazione che ne aveva dato. È uno sviluppo possibile, non una nuova causa obbligatoria."
+        }
+      },
+      "wiki_url": "phn-024-the-hunger-line.html",
+      "visual_caption": "Bocca, condotto e recipiente rendono verificabile il percorso del materiale consumato. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità. La scena mostra un esercizio possibile alle condizioni indicate, non un’attivazione già in corso al T0."
     }
   ],
-  "record_count": 188,
+  "record_count": 200,
   "ability_revision": "APPROVED_CONSOLIDATED_316",
   "future_outcomes": "OPEN",
   "population_revision": "POP-298",
   "bestiary_revision": "BIO-301",
   "bestiary_source": "Bestiario_ampliato.json",
   "integration_revision": "RACCORDI-317",
-  "artifact_revision": 362
+  "artifact_revision": 362,
+  "phenomena_revision": 363
 }

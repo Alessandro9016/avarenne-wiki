@@ -1,0 +1,12 @@
+{
+  "id": "PHN-005",
+  "name": "The Honest Contradiction",
+  "asset": "assets/fenomeno363-phn-005.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-005_the-honest-contradiction/01_fenomeno_originale.png",
+  "source_sha256": "6b787143a3ebd0a77b5694cdeb1c290dcd3935bd03c293b9276f87fb97402d97",
+  "generator": "builtin image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: encyclopedia cover illustration for Avarenne, a mature late-industrial occult fantasy novel. Scene: Editorial investigation desk with two authenticated sealed witness records, one damaged page with a missing corner, an invested memory plate and ordinary notebook beside it, soft lamplight, indistinct illegible handwriting; no ghost, mind-control rays or fabricated visions. Style: refined semi-realistic painted novel art, tactile architecture and believable materials, dramatic but readable light, atmospheric depth. One coherent scene, landscape 3:2. Show only the specified bounded manifestation; supernatural graphic traces are illustrative, never game interface. Anonymous adult figures only when specified, no named canonical character. No legible text, numbers, labels, logo, watermark, card frame or collage. No additional creature, portal, deity, avatar or city-wide catastrophe. Avoid exaggerating the effect beyond its local source.",
+  "visual_caption": "Due registrazioni autentiche possono divergere per memoria inesatta o contesto incompleto. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità.",
+  "visual_review": "APPROVATA: scena, limiti illustrativi e assenza di poteri aggiuntivi verificati",
+  "revision": 363
+}

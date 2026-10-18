@@ -1,0 +1,12 @@
+{
+  "id": "PHN-009",
+  "name": "The Unquiet Curtain",
+  "asset": "assets/fenomeno363-phn-009.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-009_the-unquiet-curtain/01_fenomeno_originale.png",
+  "source_sha256": "3e1b2639a95d58e762cfdad41a7e58fb7b3248a861ffed0dd577db7a8ba702a9",
+  "generator": "builtin image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: encyclopedia cover illustration for Avarenne, a mature late-industrial occult fantasy novel. Scene: Quiet shelter room with a new black curtain hanging in an ordinary doorway, discarded old wooden frame beside it holding a faint narrow occult veil, damp wall detail, visible open exit; no person trapped or demonic silhouette. Style: refined semi-realistic painted novel art, tactile architecture and believable materials, dramatic but readable light, atmospheric depth. One coherent scene, landscape 3:2. Show only the specified bounded manifestation; supernatural graphic traces are illustrative, never game interface. Anonymous adult figures only when specified, no named canonical character. No legible text, numbers, labels, logo, watermark, card frame or collage. No additional creature, portal, deity, avatar or city-wide catastrophe. Avoid exaggerating the effect beyond its local source.",
+  "visual_caption": "La cornice dismessa conserva il filtro che il tessuto nuovo non ha ereditato. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità.",
+  "visual_review": "APPROVATA: scena, limiti illustrativi e assenza di poteri aggiuntivi verificati",
+  "revision": 363
+}

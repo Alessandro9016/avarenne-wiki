@@ -1,0 +1,12 @@
+{
+  "id": "PHN-010",
+  "name": "The Spent Reflection",
+  "asset": "assets/fenomeno363-phn-010.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-010_the-spent-reflection/01_fenomeno_originale.png",
+  "source_sha256": "698b367f2e3c28d0ed9c57376e4c6ca815b4cd8ff83981467ed0327067b1cf26",
+  "generator": "builtin image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: encyclopedia cover illustration for Avarenne, a mature late-industrial occult fantasy novel. Scene: Occult training courtyard, a silver mirror plate with a fine branching crack reflecting an empty stone arch accurately, an unused comparison plate stored separately, examination tools, restrained moonlike lighting; no duplicate person or wound transferred to an enemy. Style: refined semi-realistic painted novel art, tactile architecture and believable materials, dramatic but readable light, atmospheric depth. One coherent scene, landscape 3:2. Show only the specified bounded manifestation; supernatural graphic traces are illustrative, never game interface. Anonymous adult figures only when specified, no named canonical character. No legible text, numbers, labels, logo, watermark, card frame or collage. No additional creature, portal, deity, avatar or city-wide catastrophe. Avoid exaggerating the effect beyond its local source.",
+  "visual_caption": "Una lamina può riflettere correttamente anche dopo aver consumato la protezione. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità.",
+  "visual_review": "APPROVATA: scena, limiti illustrativi e assenza di poteri aggiuntivi verificati",
+  "revision": 363
+}

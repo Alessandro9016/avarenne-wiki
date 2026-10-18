@@ -1,0 +1,12 @@
+{
+  "id": "PHN-013",
+  "name": "The Hollow Reply",
+  "asset": "assets/fenomeno363-phn-013.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-013_the-hollow-reply/01_fenomeno_originale.png",
+  "source_sha256": "e2620f364be9f8cdf8e11a49bac4eea494b7bd01d1594382bfa4c0c74ab8f0b5",
+  "generator": "builtin image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: encyclopedia cover illustration for Avarenne, a mature late-industrial occult fantasy novel. Scene: Two weathered stone terraces at an ancient hollow tower linked by a narrow carved stone arch, a delicate luminous waveform visible only along the arch between two small speaking apertures, a distant anonymous conservator, vast ruined fortress remains ordinary, no portal or ghosts. Style: refined semi-realistic painted novel art, tactile architecture and believable materials, dramatic but readable light, atmospheric depth. One coherent scene, landscape 3:2. Show only the specified bounded manifestation; supernatural graphic traces are illustrative, never game interface. Anonymous adult figures only when specified, no named canonical character. No legible text, numbers, labels, logo, watermark, card frame or collage. No additional creature, portal, deity, avatar or city-wide catastrophe. Avoid exaggerating the effect beyond its local source.",
+  "visual_caption": "Il segno luminoso illustra il raccordo informativo dell’arco: non un varco corporeo. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità.",
+  "visual_review": "APPROVATA: scena, limiti illustrativi e assenza di poteri aggiuntivi verificati",
+  "revision": 363
+}

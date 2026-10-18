@@ -1,0 +1,12 @@
+{
+  "id": "PHN-006",
+  "name": "The Silent Wedge",
+  "asset": "assets/fenomeno363-phn-006.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-006_the-silent-wedge/01_fenomeno_originale.png",
+  "source_sha256": "4ad357bf40d3ed21d429527c4792e9c7f1e923889d899cf0c62e4598c5fb09f8",
+  "generator": "builtin image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: encyclopedia cover illustration for Avarenne, a mature late-industrial occult fantasy novel. Scene: Mountain trading path beneath a fractured rock face, intact invested wedge connected to a small silent bell in the foreground, a separate dangerous fissure higher on the cliff clearly visible, distant pack animals diverted safely; no giant magical crack. Style: refined semi-realistic painted novel art, tactile architecture and believable materials, dramatic but readable light, atmospheric depth. One coherent scene, landscape 3:2. Show only the specified bounded manifestation; supernatural graphic traces are illustrative, never game interface. Anonymous adult figures only when specified, no named canonical character. No legible text, numbers, labels, logo, watermark, card frame or collage. No additional creature, portal, deity, avatar or city-wide catastrophe. Avoid exaggerating the effect beyond its local source.",
+  "visual_caption": "L’allarme è collegato al cuneo, mentre la frattura pericolosa riguarda una parte diversa della parete. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità.",
+  "visual_review": "APPROVATA: scena, limiti illustrativi e assenza di poteri aggiuntivi verificati",
+  "revision": 363
+}

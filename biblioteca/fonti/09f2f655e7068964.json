@@ -1,0 +1,12 @@
+{
+  "id": "PHN-014",
+  "name": "The Grey Recoil",
+  "asset": "assets/fenomeno363-phn-014.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-014_the-grey-recoil/01_fenomeno_originale.png",
+  "source_sha256": "b1ea072b25b5d95bbb583bedd89810d240f9241b4eeba45babdb057dd9dec065",
+  "generator": "builtin image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: encyclopedia cover illustration for Avarenne, a mature late-industrial occult fantasy novel. Scene: Flood embankment excavation with two large grey stone fragments side by side, one inert and one with a thin broken dark-red invested seam, an insulated diagnostic probe connected to the active fragment recoiling subtly, water below, no enslaved people, no glowing symbol on a human body. Style: refined semi-realistic painted novel art, tactile architecture and believable materials, dramatic but readable light, atmospheric depth. One coherent scene, landscape 3:2. Show only the specified bounded manifestation; supernatural graphic traces are illustrative, never game interface. Anonymous adult figures only when specified, no named canonical character. No legible text, numbers, labels, logo, watermark, card frame or collage. No additional creature, portal, deity, avatar or city-wide catastrophe. Avoid exaggerating the effect beyond its local source.",
+  "visual_caption": "Il campione attivo e quello inerte richiedono diagnosi distinte. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità. La scena mostra un esercizio possibile alle condizioni indicate, non un’attivazione già in corso al T0.",
+  "visual_review": "APPROVATA: scena, limiti illustrativi e assenza di poteri aggiuntivi verificati",
+  "revision": 363
+}

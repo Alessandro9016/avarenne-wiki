@@ -1,8 +1,8 @@
 {
-  "versione": "362",
+  "versione": "363",
   "data": "2026-10-17",
   "fonte_unica": "23_Registro_unico_del_canone.md",
-  "sha256_fonte": "7b2120e039e2e9334e27e51060f4e8f1edddf740822160fcae1b5f66c95927bb",
+  "sha256_fonte": "cd66de74c016862a0a858bdebe85f1f91f50742c78ef91bd6a583adfe1a18fce",
   "decisioni": [
     {
       "id": "CAN-001",
@@ -2009,8 +2009,8 @@
       "versione": "326"
     }
   ],
-  "revision": 362,
-  "current_topic_register": "362_Consolidamento_artefatti_e_custodie.md",
+  "revision": 363,
+  "current_topic_register": "363_Fenomeni_approfondimento_e_ampliamento.md",
   "operational_profiles_source": "CANONE_VIGENTE/Profili_operativi_Effigi_350.json",
   "interaction_source": "CANONE_VIGENTE/Contese_verificate_350.json",
   "pending_work_source": null

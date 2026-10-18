@@ -1,0 +1,12 @@
+{
+  "id": "PHN-024",
+  "name": "The Hunger Line",
+  "asset": "assets/fenomeno363-phn-024.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-024_the-hunger-line/01_fenomeno_originale.png",
+  "source_sha256": "b9c9e91f880c8d47ce80eef0b5d38962652106e41fc3d12faa5b2bca8773cc03",
+  "generator": "builtin image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: encyclopedia cover illustration for Avarenne, a mature late-industrial occult fantasy novel. Scene: Industrial occult waste recovery channel in a stone workshop, one clearly isolated dark intake mouth connected through a visible short conduit to a sealed collection vat, a partially depleted sample of slag on an inspection tray, no organic monster or infinite abyss. Style: refined semi-realistic painted novel art, tactile architecture and believable materials, dramatic but readable light, atmospheric depth. One coherent scene, landscape 3:2. Show only the specified bounded manifestation; supernatural graphic traces are illustrative, never game interface. Anonymous adult figures only when specified, no named canonical character. No legible text, numbers, labels, logo, watermark, card frame or collage. No additional creature, portal, deity, avatar or city-wide catastrophe. Avoid exaggerating the effect beyond its local source.",
+  "visual_caption": "Bocca, condotto e recipiente rendono verificabile il percorso del materiale consumato. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità. La scena mostra un esercizio possibile alle condizioni indicate, non un’attivazione già in corso al T0.",
+  "visual_review": "APPROVATA: scena, limiti illustrativi e assenza di poteri aggiuntivi verificati",
+  "revision": 363
+}

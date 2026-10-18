@@ -475,8 +475,8 @@
       "group": "Dati strutturati e registri",
       "url": "2baf9591c2774322.html",
       "raw": "fonti/2baf9591c2774322.json",
-      "sha256": "57d37161056c1291d332cb2d505cb10cafd55b117734e639ee1b7a275d90fb33",
-      "bytes": 750957
+      "sha256": "4ae4d21ed0b346290de57d220e66970bb0e8db7a6d30f58493d489e95eacd0b1",
+      "bytes": 904307
     },
     {
       "source": "CANONE_VIGENTE/Piano_spostamenti_originali.json",
@@ -574,8 +574,8 @@
       "group": "Dati strutturati e registri",
       "url": "fe9fbb2c8f28317b.html",
       "raw": "fonti/fe9fbb2c8f28317b.json",
-      "sha256": "dfceb51a1f870b3e1685596a7593c23e5338cd9c21a023e526576b3db3a62945",
-      "bytes": 84680
+      "sha256": "754e48e5c514f9f1156993e91dfada2ea46f15d097fd75cd449d99414c318e65",
+      "bytes": 84683
     },
     {
       "source": "CANONE_VIGENTE/Regole_comuni.json",
@@ -6613,8 +6613,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "22ece53d21f03d42.html",
       "raw": "fonti/22ece53d21f03d42.md",
-      "sha256": "8055a5187f0ba812884b0c9ff4f40d872d20abae2e1068705cebcc3a6de6a569",
-      "bytes": 25164
+      "sha256": "4f2099c3d2e103c17f02ba6464f866d11bda983a1aecba37f2f953c3a50cebeb",
+      "bytes": 140088
     },
     {
       "source": "RISERVATO_189_Unita_di_gioco_e_pressioni.md",
@@ -7237,8 +7237,8 @@
       "group": "Canone vigente e verifica della consegna",
       "url": "06300f093b9b4ae7.html",
       "raw": "fonti/06300f093b9b4ae7.md",
-      "sha256": "7b2120e039e2e9334e27e51060f4e8f1edddf740822160fcae1b5f66c95927bb",
-      "bytes": 59598
+      "sha256": "cd66de74c016862a0a858bdebe85f1f91f50742c78ef91bd6a583adfe1a18fce",
+      "bytes": 60023
     },
     {
       "source": "342_Stato_vigente_per_la_consegna.md",
@@ -12243,8 +12243,8 @@
       "group": "Artefatti 362",
       "url": "40bea937933ad07d.html",
       "raw": "fonti/40bea937933ad07d.json",
-      "sha256": "57d37161056c1291d332cb2d505cb10cafd55b117734e639ee1b7a275d90fb33",
-      "bytes": 750957
+      "sha256": "4ae4d21ed0b346290de57d220e66970bb0e8db7a6d30f58493d489e95eacd0b1",
+      "bytes": 904307
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-096_the-grave-meridian/Prompt.txt",
@@ -12945,8 +12945,8 @@
       "group": "Artefatti 362",
       "url": "b6df843c013a7fe0.html",
       "raw": "fonti/b6df843c013a7fe0.md",
-      "sha256": "7bcc8caac0942b5a6f8da5eeacf255a02cb1778e69e7ba94b972db1456a7c1b9",
-      "bytes": 1727
+      "sha256": "57abf6e118a1e610e192755e6c484e5ef9432f0fcb430f0cb2caedd987df149a",
+      "bytes": 2077
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-036_the-cinder-charges/Scheda_immagine.json",
@@ -13170,8 +13170,8 @@
       "group": "Artefatti 362",
       "url": "50fb2c637239a0ec.html",
       "raw": "fonti/50fb2c637239a0ec.md",
-      "sha256": "28c4465827d380a65a2c66147f83563357a325b39b6505eb9aafd8bfa1a8f2cf",
-      "bytes": 2618
+      "sha256": "936bc67a0a6d5c172e7051acd5f00de51ad84c42b5f0f411cbd8a0fae0a0b2d2",
+      "bytes": 2968
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_3/ART-046_the-hollow-sermon/Scheda_immagine.json",
@@ -13359,8 +13359,8 @@
       "group": "Artefatti 362",
       "url": "1d7d0ab2f861ae7a.html",
       "raw": "fonti/1d7d0ab2f861ae7a.md",
-      "sha256": "7bcc8caac0942b5a6f8da5eeacf255a02cb1778e69e7ba94b972db1456a7c1b9",
-      "bytes": 1727
+      "sha256": "57abf6e118a1e610e192755e6c484e5ef9432f0fcb430f0cb2caedd987df149a",
+      "bytes": 2077
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_4/ART-057_the-ash-repeater/Prompt.txt",
@@ -13692,8 +13692,8 @@
       "group": "Artefatti 362",
       "url": "fbee3b83832d687b.html",
       "raw": "fonti/fbee3b83832d687b.md",
-      "sha256": "28c4465827d380a65a2c66147f83563357a325b39b6505eb9aafd8bfa1a8f2cf",
-      "bytes": 2618
+      "sha256": "936bc67a0a6d5c172e7051acd5f00de51ad84c42b5f0f411cbd8a0fae0a0b2d2",
+      "bytes": 2968
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_2/ART-033_the-smuggler-s-heel/Scheda_immagine.json",
@@ -13748,6 +13748,537 @@
       "raw": "fonti/d4ca5f3b23bfbba9.json",
       "sha256": "7191193a7327c5b85615f2961c21502f6e719e3eabc894056048834ab2e6bdbd",
       "bytes": 1566
+    },
+    {
+      "source": "CANONE_VIGENTE/Fenomeni_consolidati_363.json",
+      "title": "Fenomeni consolidati 363",
+      "group": "Fenomeni 363",
+      "url": "53ac226ae645ffa3.html",
+      "raw": "fonti/53ac226ae645ffa3.json",
+      "sha256": "b38b0364837ba80876961291457515b0ab51298e41e1c2ba02ea77db27f11c4a",
+      "bytes": 163506
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-020_the-shared-stair/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "4c544c91ac8bc639.html",
+      "raw": "fonti/4c544c91ac8bc639.json",
+      "sha256": "3a6b5f32f33765b6bd3df152fd06047e5cd96facadbb1fe2cb11ceb594e9229d",
+      "bytes": 1689
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-007_the-divided-bearing/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "644434679bfd185e.html",
+      "raw": "fonti/644434679bfd185e.json",
+      "sha256": "7b869a1ceaaecd1b0b068f7920fe931abdb09bced2353bfaa5257a83adbdac84",
+      "bytes": 1661
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-021_the-moon-tide-debt/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "76573e237d5617ab.html",
+      "raw": "fonti/76573e237d5617ab.json",
+      "sha256": "c66786dc8d823d1846a5293fae21b64c07b9881aae8577e18f32597595c155e2",
+      "bytes": 1792
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-004_the-closed-gill/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "9c1b12b987e6a110.html",
+      "raw": "fonti/9c1b12b987e6a110.txt",
+      "sha256": "5b702102d69573db0234c28c88fa9bc835822a7e3f754eca90c9dfc4bae8d231",
+      "bytes": 959
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-007_the-divided-bearing/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "edbe65d76ef624c2.html",
+      "raw": "fonti/edbe65d76ef624c2.txt",
+      "sha256": "ba9d34ad4ba4eba315028bed0e4f0a1fd3ef72680a1df3b43a6fcb4f192c3514",
+      "bytes": 951
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-016_the-white-reed-exchange/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "689247ad4cefb84a.html",
+      "raw": "fonti/689247ad4cefb84a.json",
+      "sha256": "483db6ad4c499eb76c2956cbd12a9768e166190257fa793f635b8d817d54add7",
+      "bytes": 1751
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-016_the-white-reed-exchange/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "58a91ed35376d281.html",
+      "raw": "fonti/58a91ed35376d281.txt",
+      "sha256": "21bea4b795239c97b09065ad664e387cf214a0bb629615dc6450f9b31ba445d1",
+      "bytes": 949
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-001_the-shifted-reference/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "dbdf22aa72b2f960.html",
+      "raw": "fonti/dbdf22aa72b2f960.json",
+      "sha256": "020416aa86763c8bff101a346a80d2c5f33df5597e8f7be0a532748277b8db2d",
+      "bytes": 1699
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-011_the-convenient-rest/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "596ab4fcee23df22.html",
+      "raw": "fonti/596ab4fcee23df22.txt",
+      "sha256": "e079f51e6752723a81dc86a6ea93dc26089fe9d975f8b8c2030e704f3381a870",
+      "bytes": 973
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_363/RISERVATO_188_Fenomeni_anomalie_e_incidenti.md",
+      "title": "RISERVATO 188 Fenomeni anomalie e incidenti",
+      "group": "Storico prima di 363",
+      "url": "c0fa2fe271bc9447.html",
+      "raw": "fonti/c0fa2fe271bc9447.md",
+      "sha256": "8055a5187f0ba812884b0c9ff4f40d872d20abae2e1068705cebcc3a6de6a569",
+      "bytes": 25164
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-014_the-grey-recoil/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "09f2f655e7068964.html",
+      "raw": "fonti/09f2f655e7068964.json",
+      "sha256": "baa9324300bf2fe25ba9440f7e3d2362c6d0d3bbdbb0cb55fc8578012734799c",
+      "bytes": 1784
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-001_the-shifted-reference/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "875045e30512d0be.html",
+      "raw": "fonti/875045e30512d0be.txt",
+      "sha256": "49948424e162fcfd7000a8d29e2ca45870519ef643ef372464ce19ff421ca47d",
+      "bytes": 972
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-002_the-breathing-seam/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "68c6f40ed36433c6.html",
+      "raw": "fonti/68c6f40ed36433c6.txt",
+      "sha256": "b97a97276e8f9a6e95561b9f2d2d6127bc256d18b9bbca5999a2dba7cd605be9",
+      "bytes": 949
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_363/23_Registro_unico_del_canone.md",
+      "title": "23 Registro unico del canone",
+      "group": "Storico prima di 363",
+      "url": "2645e4b09ca46b79.html",
+      "raw": "fonti/2645e4b09ca46b79.md",
+      "sha256": "7b2120e039e2e9334e27e51060f4e8f1edddf740822160fcae1b5f66c95927bb",
+      "bytes": 59598
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-011_the-convenient-rest/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "dd9d399722d13d82.html",
+      "raw": "fonti/dd9d399722d13d82.json",
+      "sha256": "538c6eceeee802e351dc95651927ec8c39699ca119f2b70a477f2abb1870d988",
+      "bytes": 1655
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-009_the-unquiet-curtain/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "5e34fe31de073f22.html",
+      "raw": "fonti/5e34fe31de073f22.txt",
+      "sha256": "757bf0a118fe7e79dcd12a73daa25a94237d95004d7d9af444200ae529d876d8",
+      "bytes": 936
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-002_the-breathing-seam/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "7ce263dbdc46c69c.html",
+      "raw": "fonti/7ce263dbdc46c69c.json",
+      "sha256": "e2073dbc0d856a8c7ee04d8fc9d815e4d7b3f6ee197e4bdde3b0ab3f164cedb8",
+      "bytes": 1653
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-003_the-false-heat-debt/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "4898c8efd858dd90.html",
+      "raw": "fonti/4898c8efd858dd90.txt",
+      "sha256": "c02f7c6bc3a38a9da0d8c8dba6bee5f298c92818c2560801359bafac7aacfac8",
+      "bytes": 928
+    },
+    {
+      "source": "CANONE_VIGENTE/Audit_fenomeni_363.json",
+      "title": "Audit fenomeni 363",
+      "group": "Fenomeni 363",
+      "url": "809ba14849636b2b.html",
+      "raw": "fonti/809ba14849636b2b.json",
+      "sha256": "87fd74f3eaff6753bffbe68f6b92f18f52e1da0fc1e48162d7c05d0b964ef4bb",
+      "bytes": 483
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-006_the-silent-wedge/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "ca6281c7685cad73.html",
+      "raw": "fonti/ca6281c7685cad73.json",
+      "sha256": "bde2a414c0fe5abd43268c50d8cadcfba0dcdeabeaeb4a94252abc2d8b7f736c",
+      "bytes": 1687
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-019_the-ash-interval/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "20ebcbf1e32bc901.html",
+      "raw": "fonti/20ebcbf1e32bc901.txt",
+      "sha256": "f9f93a69472db22cd891e133ef62cd68ba15dce1041b1a738dbcb3caf6fbe13b",
+      "bytes": 979
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-018_the-broken-sound/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "1c631bf3e27e4f3b.html",
+      "raw": "fonti/1c631bf3e27e4f3b.json",
+      "sha256": "37798953a7558d6b5b4a28446c4707c4db6c447055dc5d9bbc4b4c89ee9bcd49",
+      "bytes": 1768
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_363/CANONE_VIGENTE/Oggetti_creature_materiali.json",
+      "title": "Oggetti creature materiali",
+      "group": "Storico prima di 363",
+      "url": "b2f36828331b2936.html",
+      "raw": "fonti/b2f36828331b2936.json",
+      "sha256": "57d37161056c1291d332cb2d505cb10cafd55b117734e639ee1b7a275d90fb33",
+      "bytes": 750957
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-022_the-blue-crown/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "a5136afbc7d7da27.html",
+      "raw": "fonti/a5136afbc7d7da27.json",
+      "sha256": "6dfd1876f327c9f8641004e42b8e80dc5ebf03449ef9feba0ef630258cd87612",
+      "bytes": 1641
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/11_Oggetti_creature_e_unita_di_gioco/DATI/Fenomeni_consolidati_363.json",
+      "title": "Fenomeni consolidati 363",
+      "group": "Fenomeni 363",
+      "url": "c3c8e5e5062aa784.html",
+      "raw": "fonti/c3c8e5e5062aa784.json",
+      "sha256": "b38b0364837ba80876961291457515b0ab51298e41e1c2ba02ea77db27f11c4a",
+      "bytes": 163506
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-018_the-broken-sound/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "62b070c9366bea95.html",
+      "raw": "fonti/62b070c9366bea95.txt",
+      "sha256": "ca1b5dd354659337ebc51897a76ffbcb4db6d91090585f4f45f62924d3aca199",
+      "bytes": 964
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-005_the-honest-contradiction/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "f425be6fc295d436.html",
+      "raw": "fonti/f425be6fc295d436.json",
+      "sha256": "e6d796778b5da999b3428575563fd3cd1edae934bfed1824f7521f530d2cfa3e",
+      "bytes": 1708
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-013_the-hollow-reply/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "30811b18729ff56f.html",
+      "raw": "fonti/30811b18729ff56f.txt",
+      "sha256": "a43bf3c30615335225882fb35cddd29c1fee3cb00a9f3961ed71f39b9af3fc93",
+      "bytes": 991
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-020_the-shared-stair/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "b305678a4efb1760.html",
+      "raw": "fonti/b305678a4efb1760.txt",
+      "sha256": "d8d4cf3f4a5a4076f5cdb14f480f53983567bd8687b7a9e9edc59583a067d137",
+      "bytes": 957
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-009_the-unquiet-curtain/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "c46c6e72d46dafd7.html",
+      "raw": "fonti/c46c6e72d46dafd7.json",
+      "sha256": "fc4674b2b65c144fe9fe48de2a98c3407a77fabae33f42c062befc88da317be1",
+      "bytes": 1637
+    },
+    {
+      "source": "363_Fenomeni_approfondimento_e_ampliamento.md",
+      "title": "363 Fenomeni approfondimento e ampliamento",
+      "group": "Fenomeni 363",
+      "url": "f7ce3f471539bbad.html",
+      "raw": "fonti/f7ce3f471539bbad.md",
+      "sha256": "91641236130cc20ad985e450378d6affddf80f6308e86c9d1b8fc34b99330bc3",
+      "bytes": 2242
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/11_Oggetti_creature_e_unita_di_gioco/RISERVATO/RISERVATO_188_Fenomeni_anomalie_e_incidenti.md",
+      "title": "RISERVATO 188 Fenomeni anomalie e incidenti",
+      "group": "Fenomeni 363",
+      "url": "e03a354881ec7a21.html",
+      "raw": "fonti/e03a354881ec7a21.md",
+      "sha256": "4f2099c3d2e103c17f02ba6464f866d11bda983a1aecba37f2f953c3a50cebeb",
+      "bytes": 140088
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-023_the-afterlight/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "27639b41f828bb92.html",
+      "raw": "fonti/27639b41f828bb92.json",
+      "sha256": "77141a7b034aee00a500416565aa24bcfb3209f3382f8d30c8a3f5451209333c",
+      "bytes": 1799
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-003_the-false-heat-debt/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "42044bae2b4b1acf.html",
+      "raw": "fonti/42044bae2b4b1acf.json",
+      "sha256": "47f38ff9bbf6db254181c028db697381171328cd0ce4f77bc82771d3625e2380",
+      "bytes": 1633
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-015_the-drowned-repose/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "6645db0e7d321688.html",
+      "raw": "fonti/6645db0e7d321688.txt",
+      "sha256": "79544036373ec8afe66695c4ebe0ca2e0fc86005e9d89a73735608a9b7f0b95a",
+      "bytes": 989
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-014_the-grey-recoil/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "af37f3969c5153d2.html",
+      "raw": "fonti/af37f3969c5153d2.txt",
+      "sha256": "ab465a5415e7856b18b5378ba3b6cac0191848b1c096b3f61a6f087d5367f112",
+      "bytes": 997
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-017_the-inward-rain/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "7eb6098a27fad14c.html",
+      "raw": "fonti/7eb6098a27fad14c.txt",
+      "sha256": "7297674990053b0fa5d08d95bf97813ef6e5d30aa2d077d7e0adb4efcaecb9e4",
+      "bytes": 1826
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-008_the-sterile-promise/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "4d1e0874a41009f6.html",
+      "raw": "fonti/4d1e0874a41009f6.json",
+      "sha256": "8d61a6b813921f014242a786e326d9e9056a9cf4f5a616ec1c304af7e52004b2",
+      "bytes": 1676
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-012_the-shared-drain/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "319ab78d2fb6d72b.html",
+      "raw": "fonti/319ab78d2fb6d72b.txt",
+      "sha256": "33b104effefbb8438b183e142806df6f8e4da784899403a889c7edf92999e826",
+      "bytes": 1001
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-015_the-drowned-repose/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "8d6a57615dcb8724.html",
+      "raw": "fonti/8d6a57615dcb8724.json",
+      "sha256": "ab755ffcb8a205025b055ac6ed643308edd423ba1976b3231a4a485dd2070777",
+      "bytes": 1749
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-010_the-spent-reflection/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "8331a36b7e6035be.html",
+      "raw": "fonti/8331a36b7e6035be.json",
+      "sha256": "a10d5fc4c829539a29d343791d02de6d2c806e622b6346e98539d8461f6d48b4",
+      "bytes": 1685
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-022_the-blue-crown/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "746e85543a73c70b.html",
+      "raw": "fonti/746e85543a73c70b.txt",
+      "sha256": "d7e8ba7dc7d96420427ddfa9d958c5135853505354dc5616d7fe1f04bdd19622",
+      "bytes": 954
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-006_the-silent-wedge/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "fe76ca698ede815c.html",
+      "raw": "fonti/fe76ca698ede815c.txt",
+      "sha256": "e0d2a1548ca4069229da0ba04446888394cfa84d0536f0c7049d213260d34625",
+      "bytes": 964
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-019_the-ash-interval/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "ed70cb7759114614.html",
+      "raw": "fonti/ed70cb7759114614.json",
+      "sha256": "e802975e490a7bc4e095047e03561c340e86f0783a994a6824e139916485df94",
+      "bytes": 1781
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/11_Oggetti_creature_e_unita_di_gioco/INDICI_E_DOCUMENTI_CONDIVISI/363_Fenomeni_approfondimento_e_ampliamento.md",
+      "title": "363 Fenomeni approfondimento e ampliamento",
+      "group": "Fenomeni 363",
+      "url": "38e4b5c53be9e66b.html",
+      "raw": "fonti/38e4b5c53be9e66b.md",
+      "sha256": "91641236130cc20ad985e450378d6affddf80f6308e86c9d1b8fc34b99330bc3",
+      "bytes": 2242
+    },
+    {
+      "source": "PROMPT_FENOMENI_363.txt",
+      "title": "PROMPT FENOMENI 363",
+      "group": "Fenomeni 363",
+      "url": "00282433b1bc5a2d.html",
+      "raw": "fonti/00282433b1bc5a2d.txt",
+      "sha256": "b5cbce2219e8ef83ce23bd5bdeeab126c5e0021e901d254f6c425e3cd8a8ee34",
+      "bytes": 24783
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-005_the-honest-contradiction/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "2a6f4eb125252780.html",
+      "raw": "fonti/2a6f4eb125252780.txt",
+      "sha256": "b98f8c035b958039fa63eab41b2178d512b951f9f6292667c552e181212435a1",
+      "bytes": 984
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-024_the-hunger-line/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "2b2f80e3adc7f074.html",
+      "raw": "fonti/2b2f80e3adc7f074.txt",
+      "sha256": "befb756729551ae9d1f69c44edc8dcbb1442b8e6351a14b96ec49bc94bf69d23",
+      "bytes": 977
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-013_the-hollow-reply/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "edf208e96032cd34.html",
+      "raw": "fonti/edf208e96032cd34.json",
+      "sha256": "109925e441122d02ca5da9bb60b2c8899b4b22e489b356baf3a47b036ee2d214",
+      "bytes": 1695
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-004_the-closed-gill/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "e83e052ee1f07a53.html",
+      "raw": "fonti/e83e052ee1f07a53.json",
+      "sha256": "1196574387133f5121c7625802aa332bfad837971b94a3446773a771542a18d7",
+      "bytes": 1662
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-010_the-spent-reflection/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "5a1102adcd87d7ca.html",
+      "raw": "fonti/5a1102adcd87d7ca.txt",
+      "sha256": "8534751be6459c240c5d59f4c9f2463bd49f6b014371f6d5b2f23f5a44cf0be7",
+      "bytes": 978
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-023_the-afterlight/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "9d47aac601694068.html",
+      "raw": "fonti/9d47aac601694068.txt",
+      "sha256": "92d2a87debc56b170824af4b2e2b4627e956c46ece486962f8c43b580d05fada",
+      "bytes": 978
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-021_the-moon-tide-debt/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "0023a8562de646a5.html",
+      "raw": "fonti/0023a8562de646a5.txt",
+      "sha256": "1455b478e49de5be4e741cf2e79abb1c54b09f5e6e2f005db8602b7c27b4d868",
+      "bytes": 974
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-017_the-inward-rain/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "c84ee2f287bf5917.html",
+      "raw": "fonti/c84ee2f287bf5917.json",
+      "sha256": "b6f0825ab1df0e579199f7dab47ba7594d932db8d5c825327a7b932816d1b050",
+      "bytes": 2638
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-012_the-shared-drain/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "40fe24b8c47d9fe2.html",
+      "raw": "fonti/40fe24b8c47d9fe2.json",
+      "sha256": "dd5dbe1db72e1303ae2f4eddc736168b2cba4b6c2033c4b043e41647fcebfab9",
+      "bytes": 1716
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-024_the-hunger-line/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Fenomeni 363",
+      "url": "c1b28e887abdac7b.html",
+      "raw": "fonti/c1b28e887abdac7b.json",
+      "sha256": "da73b5c3650215cbd5e4e32050886875a6d2c9f3a309d65a84adbe1675868283",
+      "bytes": 1786
+    },
+    {
+      "source": "CANONE_VIGENTE/Illustrazioni_fenomeni_363.json",
+      "title": "Illustrazioni fenomeni 363",
+      "group": "Fenomeni 363",
+      "url": "6e35a7a8673db3bd.html",
+      "raw": "fonti/6e35a7a8673db3bd.json",
+      "sha256": "6e0617986b52b58d9b373ec4b22d05c91aaf65503624770598254a56db04e774",
+      "bytes": 43234
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-008_the-sterile-promise/Prompt.txt",
+      "title": "Prompt",
+      "group": "Fenomeni 363",
+      "url": "8085fe53adc39686.html",
+      "raw": "fonti/8085fe53adc39686.txt",
+      "sha256": "3b92e4ed689801f97ed6b7d2c3b5e7456c48bd43986429aec18d1e3a0453d867",
+      "bytes": 970
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",

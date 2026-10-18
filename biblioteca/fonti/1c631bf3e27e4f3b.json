@@ -1,0 +1,12 @@
+{
+  "id": "PHN-018",
+  "name": "The Broken Sound",
+  "asset": "assets/fenomeno363-phn-018.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/FENOMENI/PHN-018_the-broken-sound/01_fenomeno_originale.png",
+  "source_sha256": "8caedfbb4556072e121ee0d8406f85c806c8abeaa101571b6f33ecc55f3a4822",
+  "generator": "builtin image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: encyclopedia cover illustration for Avarenne, a mature late-industrial occult fantasy novel. Scene: Shadowed dock warehouse doorway, a hanging brass alarm bell visibly tilted on one side and an attentive worker on the other using a bright ordinary signal lantern, fine vibration rings ending at a narrow dark threshold, no opaque fog or soundproof globe. Style: refined semi-realistic painted novel art, tactile architecture and believable materials, dramatic but readable light, atmospheric depth. One coherent scene, landscape 3:2. Show only the specified bounded manifestation; supernatural graphic traces are illustrative, never game interface. Anonymous adult figures only when specified, no named canonical character. No legible text, numbers, labels, logo, watermark, card frame or collage. No additional creature, portal, deity, avatar or city-wide catastrophe. Avoid exaggerating the effect beyond its local source.",
+  "visual_caption": "Il confronto fra campana e lanterna separa il canale acustico da quello visivo. Ricostruzione illustrativa, non prova diagnostica o fonte di nuove capacità. La scena mostra un esercizio possibile alle condizioni indicate, non un’attivazione già in corso al T0.",
+  "visual_review": "APPROVATA: scena, limiti illustrativi e assenza di poteri aggiuntivi verificati",
+  "revision": 363
+}

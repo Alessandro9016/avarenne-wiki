@@ -1,0 +1,20 @@
+{
+  "revision": 363,
+  "phenomena": 24,
+  "previous_cases_preserved": 12,
+  "new_manifestations": 12,
+  "new_original_images": 24,
+  "each_page_has_cover": true,
+  "visual_review_complete": true,
+  "continents": {
+    "Mereth": 10,
+    "Nareth": 5,
+    "Caldris": 2,
+    "Veyra": 4,
+    "Iskar": 3
+  },
+  "artifacts_materials_creatures_peoples_unchanged": true,
+  "cast_powers_plot_roots_and_progressions_unchanged": true,
+  "zip_created": false,
+  "links_checked_separately": true
+}
