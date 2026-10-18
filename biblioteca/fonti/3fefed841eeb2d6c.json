@@ -1,0 +1,3529 @@
+{
+  "version": "1.1",
+  "access": "NARRATOR_RESERVED",
+  "planet": {
+    "name": "Avarenne",
+    "radius_km": 6400,
+    "surface_gravity_ms2": 9.8,
+    "hours_per_day": 24,
+    "calendar": "Gregorian proleptic editorial convention",
+    "obliquity_degrees": 24,
+    "sun": "Aster",
+    "major_moon": "Ivren",
+    "source_of_vigil_star_location": "RISERVATO_96_Campagne_opere_ed_eredita_del_Creator.md"
+  },
+  "continents": [
+    {
+      "id": "CONT-01",
+      "name": "Mereth",
+      "population_millions": 185,
+      "outline_lon_lat": [
+        [
+          -3,
+          41
+        ],
+        [
+          -3.7,
+          43
+        ],
+        [
+          -3.3,
+          45
+        ],
+        [
+          -3.55,
+          46.8
+        ],
+        [
+          -2.45,
+          49
+        ],
+        [
+          -9,
+          52
+        ],
+        [
+          -18,
+          61
+        ],
+        [
+          -14,
+          70
+        ],
+        [
+          4,
+          74
+        ],
+        [
+          24,
+          68
+        ],
+        [
+          43,
+          55
+        ],
+        [
+          51,
+          32
+        ],
+        [
+          35,
+          8
+        ],
+        [
+          20,
+          -22
+        ],
+        [
+          -1,
+          -28
+        ],
+        [
+          -13,
+          -5
+        ],
+        [
+          -10,
+          16
+        ],
+        [
+          -5,
+          29
+        ]
+      ],
+      "relief": "Sarn e altopiani orientali; grandi bacini settentrionali e penisole tropicali",
+      "environment": "Industria occidentale, agricoltura interna, foreste boreali e coste calde",
+      "territories": "Orsanne, Reth, Neressa, Ovel, Aldren, Tessara, Varrun, Esen"
+    },
+    {
+      "id": "CONT-02",
+      "name": "Caldris",
+      "population_millions": 190,
+      "outline_lon_lat": [
+        [
+          -153,
+          44
+        ],
+        [
+          -128,
+          53
+        ],
+        [
+          -103,
+          42
+        ],
+        [
+          -89,
+          23
+        ],
+        [
+          -76,
+          -2
+        ],
+        [
+          -83,
+          -30
+        ],
+        [
+          -110,
+          -54
+        ],
+        [
+          -140,
+          -39
+        ],
+        [
+          -155,
+          -9
+        ]
+      ],
+      "relief": "Catena di Varad sul margine occidentale; grande pianura di Ildovar",
+      "environment": "Costa umida, interno steppico, foreste equatoriali e bacini meridionali",
+      "territories": "Darsen, Qadir, Ildovar, Marethis, Saur"
+    },
+    {
+      "id": "CONT-03",
+      "name": "Iskar",
+      "population_millions": 112,
+      "outline_lon_lat": [
+        [
+          84,
+          55
+        ],
+        [
+          115,
+          62
+        ],
+        [
+          139,
+          46
+        ],
+        [
+          150,
+          17
+        ],
+        [
+          137,
+          -8
+        ],
+        [
+          121,
+          -38
+        ],
+        [
+          97,
+          -28
+        ],
+        [
+          79,
+          5
+        ]
+      ],
+      "relief": "Archi vulcanici orientali e altopiano di Kosh",
+      "environment": "Monsoni, risaie di bacino, terremoti locali e correnti costiere",
+      "territories": "Ansei, Teral, Kosh, Meren, Arul"
+    },
+    {
+      "id": "CONT-04",
+      "name": "Nareth",
+      "population_millions": 73,
+      "outline_lon_lat": [
+        [
+          62,
+          -48
+        ],
+        [
+          91,
+          -42
+        ],
+        [
+          123,
+          -45
+        ],
+        [
+          145,
+          -58
+        ],
+        [
+          126,
+          -72
+        ],
+        [
+          94,
+          -79
+        ],
+        [
+          64,
+          -68
+        ]
+      ],
+      "relief": "Rilievi glaciali e conche interne; coste settentrionali abitabili",
+      "environment": "Venti occidentali, pascoli freddi, ghiaccio meridionale e navigazione stagionale",
+      "territories": "Norell, Askar, Varsha, Edel, Keren"
+    },
+    {
+      "id": "CONT-05",
+      "name": "Veyra",
+      "population_millions": 50,
+      "outline_lon_lat": [
+        [
+          -82,
+          64
+        ],
+        [
+          -58,
+          57
+        ],
+        [
+          -30,
+          62
+        ],
+        [
+          -16,
+          74
+        ],
+        [
+          -38,
+          84
+        ],
+        [
+          -69,
+          81
+        ]
+      ],
+      "relief": "Massicci antichi, fiordi e valli geotermiche",
+      "environment": "Tundra, taiga, cereali nelle coste miti e habitat investiti circoscritti",
+      "territories": "Sivara, Dorel, Tevar, Iren"
+    }
+  ],
+  "states": [
+    {
+      "id": "STATE-01",
+      "name": "Orsanne",
+      "continent": "Mereth",
+      "population_millions": 26,
+      "centre": "Veldane",
+      "political_geography": "Monarchia con Camere",
+      "position": "Costa occidentale temperata",
+      "resources": "Carbone, cerealicoltura, meccanica; rame importato"
+    },
+    {
+      "id": "STATE-02",
+      "name": "Reth",
+      "continent": "Mereth",
+      "population_millions": 17,
+      "centre": "Teren",
+      "political_geography": "Repubblica federativa",
+      "position": "Altopiani oltre Sarn",
+      "resources": "Rame e metallurgia; macchine di precisione importate"
+    },
+    {
+      "id": "STATE-03",
+      "name": "Neressa",
+      "continent": "Mereth",
+      "population_millions": 9,
+      "centre": "Neressa",
+      "political_geography": "Unione di sei repubbliche",
+      "position": "Arcipelago sudoccidentale e enclave costiera",
+      "resources": "Cantieri, ottica, pesca; dipendenza da carbone e rame esterni"
+    },
+    {
+      "id": "STATE-04",
+      "name": "Ovel",
+      "continent": "Mereth",
+      "population_millions": 6,
+      "centre": "Elven",
+      "political_geography": "Undici principati; Elven è nodo comune, non capitale sovrana",
+      "position": "Bacini settentrionali",
+      "resources": "Legname, resine, cereali; manifatture urbane"
+    },
+    {
+      "id": "STATE-05",
+      "name": "Aldren",
+      "continent": "Mereth",
+      "population_millions": 34,
+      "centre": "Aldora",
+      "political_geography": "Regno di pianura",
+      "position": "Nordest dei bacini di Mereth",
+      "resources": "Grano, lino, ferro; siccità intermittenti"
+    },
+    {
+      "id": "STATE-06",
+      "name": "Tessara",
+      "continent": "Mereth",
+      "population_millions": 29,
+      "centre": "Teshen",
+      "political_geography": "Lega di città",
+      "position": "Penisole del sud",
+      "resources": "Cotone, sali, spezie e transito; cicloni stagionali"
+    },
+    {
+      "id": "STATE-07",
+      "name": "Varrun",
+      "continent": "Mereth",
+      "population_millions": 41,
+      "centre": "Varlen",
+      "political_geography": "Unione di province",
+      "position": "Grandi valli orientali",
+      "resources": "Riso, carbone e cantieri; divari fra delta e interno"
+    },
+    {
+      "id": "STATE-08",
+      "name": "Esen",
+      "continent": "Mereth",
+      "population_millions": 23,
+      "centre": "Eshar",
+      "political_geography": "Confederazione di altopiani",
+      "position": "Interno centro-meridionale",
+      "resources": "Pastorizia, stagno, frutti secchi; acqua contesa"
+    },
+    {
+      "id": "STATE-09",
+      "name": "Darsen",
+      "continent": "Caldris",
+      "population_millions": 55,
+      "centre": "Darsa",
+      "political_geography": "Federazione fluviale",
+      "position": "Pianure settentrionali",
+      "resources": "Grano, carbone, industria; piene e debiti di arginatura"
+    },
+    {
+      "id": "STATE-10",
+      "name": "Qadir",
+      "continent": "Caldris",
+      "population_millions": 38,
+      "centre": "Qadra",
+      "political_geography": "Unione di distretti",
+      "position": "Bacini semiaridi orientali",
+      "resources": "Rame, sale e irrigazione; distribuzione idrica decisiva"
+    },
+    {
+      "id": "STATE-11",
+      "name": "Ildovar",
+      "continent": "Caldris",
+      "population_millions": 46,
+      "centre": "Ildan",
+      "political_geography": "Repubbliche di bacino",
+      "position": "Fascia centrale umida",
+      "resources": "Legname, caucciù locale e colture tropicali; accessi fluviali"
+    },
+    {
+      "id": "STATE-12",
+      "name": "Marethis",
+      "continent": "Caldris",
+      "population_millions": 31,
+      "centre": "Mareth",
+      "political_geography": "Regno costiero",
+      "position": "Sudovest temperato",
+      "resources": "Ferro, lana e navigazione; tempeste oceaniche"
+    },
+    {
+      "id": "STATE-13",
+      "name": "Saur",
+      "continent": "Caldris",
+      "population_millions": 20,
+      "centre": "Saura",
+      "political_geography": "Lega delle conche",
+      "position": "Altopiani meridionali",
+      "resources": "Argento, lana, cereali resistenti; isolamento dei passi"
+    },
+    {
+      "id": "STATE-14",
+      "name": "Ansei",
+      "continent": "Iskar",
+      "population_millions": 32,
+      "centre": "Anren",
+      "political_geography": "Stati consociati",
+      "position": "Pianure orientali",
+      "resources": "Riso, carta e macchine ottiche; alluvioni monsoniche"
+    },
+    {
+      "id": "STATE-15",
+      "name": "Teral",
+      "continent": "Iskar",
+      "population_millions": 27,
+      "centre": "Teru",
+      "political_geography": "Monarchia amministrativa",
+      "position": "Valli centrali",
+      "resources": "Tè, ferro, seta e manifattura; trasporto montano"
+    },
+    {
+      "id": "STATE-16",
+      "name": "Kosh",
+      "continent": "Iskar",
+      "population_millions": 18,
+      "centre": "Koshen",
+      "political_geography": "Cantoni di altopiano",
+      "position": "Interno occidentale",
+      "resources": "Rame, allevamento e sali; dissesto dei pendii"
+    },
+    {
+      "id": "STATE-17",
+      "name": "Meren",
+      "continent": "Iskar",
+      "population_millions": 21,
+      "centre": "Mersa",
+      "political_geography": "Lega di porti",
+      "position": "Costa meridionale",
+      "resources": "Pesca, cantieri, oli; terremoti costieri"
+    },
+    {
+      "id": "STATE-18",
+      "name": "Arul",
+      "continent": "Iskar",
+      "population_millions": 14,
+      "centre": "Arula",
+      "political_geography": "Repubbliche insulari",
+      "position": "Isole dell’arco orientale",
+      "resources": "Zolfo, vetro, colture calde; vulcani e stagionalità"
+    },
+    {
+      "id": "STATE-19",
+      "name": "Norell",
+      "continent": "Nareth",
+      "population_millions": 21,
+      "centre": "Noran",
+      "political_geography": "Federazione costiera",
+      "position": "Costa nordoccidentale",
+      "resources": "Lana, carbone, navigazione e officine; inverno lungo"
+    },
+    {
+      "id": "STATE-20",
+      "name": "Askar",
+      "continent": "Nareth",
+      "population_millions": 16,
+      "centre": "Asren",
+      "political_geography": "Regni associati",
+      "position": "Conche del nord",
+      "resources": "Grano resistente, ferro e pascoli; frontiere di bacino"
+    },
+    {
+      "id": "STATE-21",
+      "name": "Varsha",
+      "continent": "Nareth",
+      "population_millions": 14,
+      "centre": "Varshen",
+      "political_geography": "Lega di fiordi",
+      "position": "Costa nordorientale",
+      "resources": "Pesca, legname e metalli; ghiaccio mobile"
+    },
+    {
+      "id": "STATE-22",
+      "name": "Edel",
+      "continent": "Nareth",
+      "population_millions": 12,
+      "centre": "Edris",
+      "political_geography": "Province autonome",
+      "position": "Valli interne",
+      "resources": "Lana, stagno e mulini; transiti stagionali"
+    },
+    {
+      "id": "STATE-23",
+      "name": "Keren",
+      "continent": "Nareth",
+      "population_millions": 10,
+      "centre": "Keran",
+      "political_geography": "Unione di conche",
+      "position": "Margine glaciale abitato",
+      "resources": "Rame, pietra e serre; insediamenti concentrati"
+    },
+    {
+      "id": "STATE-24",
+      "name": "Sivara",
+      "continent": "Veyra",
+      "population_millions": 19,
+      "centre": "Sivren",
+      "political_geography": "Federazione di valli",
+      "position": "Costa meridionale",
+      "resources": "Legname, carbone e officine; fiordi vincolano la rete"
+    },
+    {
+      "id": "STATE-25",
+      "name": "Dorel",
+      "continent": "Veyra",
+      "population_millions": 13,
+      "centre": "Dorven",
+      "political_geography": "Regno di fiordi",
+      "position": "Costa occidentale",
+      "resources": "Pesca, minerali e cantieri; mare invernale"
+    },
+    {
+      "id": "STATE-26",
+      "name": "Tevar",
+      "continent": "Veyra",
+      "population_millions": 11,
+      "centre": "Tevren",
+      "political_geography": "Lega di vallate",
+      "position": "Valli geotermiche orientali",
+      "resources": "Serre, vetro e rame; attività termica irregolare"
+    },
+    {
+      "id": "STATE-27",
+      "name": "Iren",
+      "continent": "Veyra",
+      "population_millions": 7,
+      "centre": "Irela",
+      "political_geography": "Consigli di bacino",
+      "position": "Nord abitabile discontinuo",
+      "resources": "Pesca, pellicce e manutenzione investita; nessuna città universale nel ghiaccio"
+    }
+  ],
+  "locations": [
+    {
+      "id": "LOC-001",
+      "name": "Lethorne",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 0,
+      "y_km": 0,
+      "elevation_m": 95,
+      "population": 430000,
+      "function": "Centro industriale sul fiume Leth",
+      "cause_and_pressure": "Drenaggio 594, elettricità 798; inquinamento e quartieri non serviti",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 0.0,
+      "latitude": 45.0
+    },
+    {
+      "id": "LOC-002",
+      "name": "Rovenne",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 20,
+      "y_km": 0,
+      "elevation_m": 130,
+      "population": 3800,
+      "function": "Borgo e residenza Valcienne",
+      "cause_and_pressure": "Ufficio patrimoniale, dodici mulini dispersi; servitù e manutenzione",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 0.25413,
+      "latitude": 45.0
+    },
+    {
+      "id": "LOC-003",
+      "name": "Veldane",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": -40,
+      "y_km": -220,
+      "elevation_m": 62,
+      "population": 1180000,
+      "function": "Capitale politica",
+      "cause_and_pressure": "Camere, finanza e nodo ferroviario; dipendenza da cibo e combustibile",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": -0.50826,
+      "latitude": 43.02158
+    },
+    {
+      "id": "LOC-004",
+      "name": "Port Auvrel",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": -240,
+      "y_km": 0,
+      "elevation_m": 3,
+      "population": 260000,
+      "function": "Porto occidentale",
+      "cause_and_pressure": "Tre Moli e magazzini in concessione; insabbiamento dell’estuario",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": -3.04956,
+      "latitude": 45.0
+    },
+    {
+      "id": "LOC-005",
+      "name": "Belanne",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": -270,
+      "y_km": -200,
+      "elevation_m": 4,
+      "population": 190000,
+      "function": "Porto meridionale",
+      "cause_and_pressure": "Rotta Neressa e cantieri; onde di ponente",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": -3.43075,
+      "latitude": 43.20144
+    },
+    {
+      "id": "LOC-006",
+      "name": "Deren",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 90,
+      "y_km": 230,
+      "elevation_m": 180,
+      "population": 88000,
+      "function": "Centro carbonifero",
+      "cause_and_pressure": "Carbone sedimentario; abbassamento del terreno e acqua di miniera",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 1.14358,
+      "latitude": 47.06835
+    },
+    {
+      "id": "LOC-007",
+      "name": "Sarn Gate",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 200,
+      "y_km": 90,
+      "elevation_m": 760,
+      "population": 34000,
+      "function": "Nodo ferroviario ai piedi del passo",
+      "cause_and_pressure": "Smistamento e dogane; gelo nei tratti alti",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 2.5413,
+      "latitude": 45.80935
+    },
+    {
+      "id": "LOC-008",
+      "name": "Valenne",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 100,
+      "y_km": -280,
+      "elevation_m": 160,
+      "population": 54000,
+      "function": "Mercato cerealicolo",
+      "cause_and_pressure": "Pianure coltivate e silos; domanda urbana e piene",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 1.27065,
+      "latitude": 42.48201
+    },
+    {
+      "id": "LOC-009",
+      "name": "Lorien",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": -150,
+      "y_km": 330,
+      "elevation_m": 42,
+      "population": 76000,
+      "function": "Porto fluviale settentrionale",
+      "cause_and_pressure": "Legname da Ovel; ghiaccio breve in inverni severi",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": -1.90597,
+      "latitude": 47.96763
+    },
+    {
+      "id": "LOC-010",
+      "name": "Teren",
+      "state": "Reth",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 670,
+      "y_km": 80,
+      "elevation_m": 980,
+      "population": 560000,
+      "function": "Centro federale retheano",
+      "cause_and_pressure": "Metallurgia, assemblee provinciali e ferrovia; rame da altre conche",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 8.51334,
+      "latitude": 45.71942
+    },
+    {
+      "id": "LOC-011",
+      "name": "Karrel",
+      "state": "Reth",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 550,
+      "y_km": -40,
+      "elevation_m": 1180,
+      "population": 180000,
+      "function": "Distretto minerario",
+      "cause_and_pressure": "Rame in filoni alterati; sterile, acqua acida e trasporto",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 6.98856,
+      "latitude": 44.64029
+    },
+    {
+      "id": "LOC-012",
+      "name": "Reth Narrows",
+      "state": "Reth",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 370,
+      "y_km": 140,
+      "elevation_m": 640,
+      "population": 27000,
+      "function": "Chiuse e dogana",
+      "cause_and_pressure": "Transito garantito dal 511; pedaggi e carichi concorrenti",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 4.7014,
+      "latitude": 46.25899
+    },
+    {
+      "id": "LOC-013",
+      "name": "Kessel",
+      "state": "Reth",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 840,
+      "y_km": 260,
+      "elevation_m": 920,
+      "population": 120000,
+      "function": "Città di altopiano",
+      "cause_and_pressure": "Acciaio, allevamento e coalizione ferroviaria; freddo continentale",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 10.67344,
+      "latitude": 47.33813
+    },
+    {
+      "id": "LOC-014",
+      "name": "Dovar",
+      "state": "Reth",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 560,
+      "y_km": -300,
+      "elevation_m": 880,
+      "population": 68000,
+      "function": "Mercato rurale",
+      "cause_and_pressure": "Grano resistente e lana; vie stagionali verso Esen",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 7.11563,
+      "latitude": 42.30216
+    },
+    {
+      "id": "LOC-015",
+      "name": "Elven",
+      "state": "Ovel",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": -80,
+      "y_km": 760,
+      "elevation_m": 220,
+      "population": 140000,
+      "function": "Nodo interprincipesco",
+      "cause_and_pressure": "Stampa e centrali locali; non governa gli undici principati",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": -1.01652,
+      "latitude": 51.83453
+    },
+    {
+      "id": "LOC-016",
+      "name": "Namar",
+      "state": "Ovel",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 80,
+      "y_km": 680,
+      "elevation_m": 410,
+      "population": 62000,
+      "function": "Città di bacino",
+      "cause_and_pressure": "Manutenzione idrica, medicine e riforme; nome antico noto, dottrina non scolastica",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 1.01652,
+      "latitude": 51.11511
+    },
+    {
+      "id": "LOC-017",
+      "name": "Veyford",
+      "state": "Ovel",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 20,
+      "y_km": 500,
+      "elevation_m": 150,
+      "population": 41000,
+      "function": "Porto di confine",
+      "cause_and_pressure": "Trasbordi di legname, sponda e dazi",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 0.25413,
+      "latitude": 49.4964
+    },
+    {
+      "id": "LOC-018",
+      "name": "Ossen Reach",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 35,
+      "y_km": 160,
+      "elevation_m": 120,
+      "population": 9000,
+      "function": "Approdi e borgo di riva",
+      "cause_and_pressure": "Diritti d’uso contesi nella concessione 806",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 0.44473,
+      "latitude": 46.43885
+    },
+    {
+      "id": "LOC-019",
+      "name": "Neressa",
+      "state": "Neressa",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": -760,
+      "y_km": -720,
+      "elevation_m": 18,
+      "population": 390000,
+      "function": "Sede navale comune",
+      "cause_and_pressure": "Arsenali, assicurazioni e assemblee; unione di repubbliche",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": -9.65693,
+      "latitude": 38.52518
+    },
+    {
+      "id": "LOC-020",
+      "name": "Serele",
+      "state": "Neressa",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": -230,
+      "y_km": -650,
+      "elevation_m": 25,
+      "population": 150000,
+      "function": "Repubblica costiera",
+      "cause_and_pressure": "Magazzini di transito e colture miti; stretta dipendenza dalla rotta",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": -2.92249,
+      "latitude": 39.15468
+    },
+    {
+      "id": "LOC-021",
+      "name": "Avaris",
+      "state": "Neressa",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": -960,
+      "y_km": -680,
+      "elevation_m": 20,
+      "population": 125000,
+      "function": "Repubblica insulare",
+      "cause_and_pressure": "Cantieri e pesca; bassi fondali verso Neressa",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": -12.19822,
+      "latitude": 38.88489
+    },
+    {
+      "id": "LOC-022",
+      "name": "Corten",
+      "state": "Neressa",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": -700,
+      "y_km": -1060,
+      "elevation_m": 38,
+      "population": 82000,
+      "function": "Repubblica insulare",
+      "cause_and_pressure": "Ottica e vetro; combustibili importati",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": -8.89454,
+      "latitude": 35.46763
+    },
+    {
+      "id": "LOC-023",
+      "name": "Nelle",
+      "state": "Neressa",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": -490,
+      "y_km": -850,
+      "elevation_m": 44,
+      "population": 72000,
+      "function": "Repubblica insulare",
+      "cause_and_pressure": "Frutteti, sale e deposito navale",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": -6.22618,
+      "latitude": 37.35612
+    },
+    {
+      "id": "LOC-024",
+      "name": "Velis",
+      "state": "Neressa",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": -890,
+      "y_km": -980,
+      "elevation_m": 55,
+      "population": 65000,
+      "function": "Repubblica insulare",
+      "cause_and_pressure": "Cave di rame minori e acqua in cisterne",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": -11.30877,
+      "latitude": 36.18705
+    },
+    {
+      "id": "LOC-025",
+      "name": "Thenn Pass",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 240,
+      "y_km": 150,
+      "elevation_m": 1720,
+      "population": 1800,
+      "function": "Valico e galleria",
+      "cause_and_pressure": "Linea principale sotto quota 1450; frane e drenaggi",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 3.04956,
+      "latitude": 46.34892
+    },
+    {
+      "id": "LOC-026",
+      "name": "Arel Cut",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 140,
+      "y_km": 75,
+      "elevation_m": 290,
+      "population": 1200,
+      "function": "Sito archeologico pubblico",
+      "cause_and_pressure": "Frammenti delle gallerie antiche; attribuzioni discordanti",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 1.77891,
+      "latitude": 45.67446
+    },
+    {
+      "id": "LOC-027",
+      "name": "Hollow Towers",
+      "state": "Reth",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 480,
+      "y_km": 300,
+      "elevation_m": 1480,
+      "population": 0,
+      "function": "Rovine parzialmente visitabili",
+      "cause_and_pressure": "Sedimenti e infrastrutture successive; campo investito circoscritto",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 6.09911,
+      "latitude": 47.69784
+    },
+    {
+      "id": "LOC-028",
+      "name": "Namar Upper Works",
+      "state": "Ovel",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 100,
+      "y_km": 705,
+      "elevation_m": 690,
+      "population": 2100,
+      "function": "Complesso di chiuse",
+      "cause_and_pressure": "Manutenzione ordinaria e investita; non un contenitore di Origin",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 1.27065,
+      "latitude": 51.33993
+    },
+    {
+      "id": "LOC-029",
+      "name": "Stillwater Steps",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 55,
+      "y_km": 170,
+      "elevation_m": 115,
+      "population": 700,
+      "function": "Approdo della Sponda",
+      "cause_and_pressure": "Canticle in copie e traduzioni; accesso civile contestato",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 0.69886,
+      "latitude": 46.52878
+    },
+    {
+      "id": "LOC-030",
+      "name": "Rethar Basin",
+      "state": "Ovel",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 330,
+      "y_km": 800,
+      "elevation_m": 620,
+      "population": 18000,
+      "function": "Conca e insediamenti",
+      "cause_and_pressure": "Bacino antico della caduta; non Repubblica di Reth",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 4.19314,
+      "latitude": 52.19424
+    },
+    {
+      "id": "LOC-031",
+      "name": "Nine Houses Field",
+      "state": "Ovel",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 310,
+      "y_km": 780,
+      "elevation_m": 680,
+      "population": 0,
+      "function": "Terrazze e scavi",
+      "cause_and_pressure": "Sovrapposizione di sedi civili; non nove Seats divine",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 3.93901,
+      "latitude": 52.01439
+    },
+    {
+      "id": "LOC-032",
+      "name": "Grey Embankment",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 125,
+      "y_km": 120,
+      "elevation_m": 240,
+      "population": 0,
+      "function": "Argine e rovine",
+      "cause_and_pressure": "Remoti marchi separati; frane moderne espongono materiali",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 1.58831,
+      "latitude": 46.07914
+    },
+    {
+      "id": "LOC-033",
+      "name": "North Lock",
+      "state": "Ovel",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 120,
+      "y_km": 880,
+      "elevation_m": 520,
+      "population": 2400,
+      "function": "Nodo di transito fluviale",
+      "cause_and_pressure": "Gelo stagionale, chiuse e magazzini",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 1.52478,
+      "latitude": 52.91367
+    },
+    {
+      "id": "LOC-034",
+      "name": "Copper Yard",
+      "state": "Reth",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 530,
+      "y_km": -30,
+      "elevation_m": 1100,
+      "population": 6000,
+      "function": "Deposito ferroviario",
+      "cause_and_pressure": "Lotti da Karrel; separazione fra rifiuto e minerale",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": 6.73443,
+      "latitude": 44.73022
+    },
+    {
+      "id": "LOC-035",
+      "name": "Low Fen",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": -85,
+      "y_km": 30,
+      "elevation_m": 18,
+      "population": 4500,
+      "function": "Zone umide coltivate",
+      "cause_and_pressure": "Argini, piene e pesca; nessuna palude universalmente maledetta",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": -1.08005,
+      "latitude": 45.26978
+    },
+    {
+      "id": "LOC-036",
+      "name": "South Shoals",
+      "state": "Neressa",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": -520,
+      "y_km": -760,
+      "elevation_m": 0,
+      "population": 0,
+      "function": "Bassi fondali marini",
+      "cause_and_pressure": "Boati e nebbia ordinaria; deviazioni stagionali della rotta",
+      "knowledge": "Ducal maps and reports; modern secret effects excluded",
+      "longitude": -6.60737,
+      "latitude": 38.16547
+    },
+    {
+      "id": "LOC-037",
+      "name": "Aldora",
+      "state": "Aldren",
+      "continent": "Mereth",
+      "map": "world",
+      "longitude": 24,
+      "latitude": 59,
+      "elevation_m": 250,
+      "population": 1190000,
+      "function": "Nodo regionale: Regno di pianura",
+      "cause_and_pressure": "Grano, lino, ferro; siccità intermittenti",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-038",
+      "name": "Teshen",
+      "state": "Tessara",
+      "continent": "Mereth",
+      "map": "world",
+      "longitude": 14,
+      "latitude": -8,
+      "elevation_m": 250,
+      "population": 1015000,
+      "function": "Nodo regionale: Lega di città",
+      "cause_and_pressure": "Cotone, sali, spezie e transito; cicloni stagionali",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-039",
+      "name": "Varlen",
+      "state": "Varrun",
+      "continent": "Mereth",
+      "map": "world",
+      "longitude": 38,
+      "latitude": 22,
+      "elevation_m": 250,
+      "population": 1435000,
+      "function": "Nodo regionale: Unione di province",
+      "cause_and_pressure": "Riso, carbone e cantieri; divari fra delta e interno",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-040",
+      "name": "Eshar",
+      "state": "Esen",
+      "continent": "Mereth",
+      "map": "world",
+      "longitude": 17,
+      "latitude": 8,
+      "elevation_m": 250,
+      "population": 805000,
+      "function": "Nodo regionale: Confederazione di altopiani",
+      "cause_and_pressure": "Pastorizia, stagno, frutti secchi; acqua contesa",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-041",
+      "name": "Darsa",
+      "state": "Darsen",
+      "continent": "Caldris",
+      "map": "world",
+      "longitude": -121,
+      "latitude": 37,
+      "elevation_m": 250,
+      "population": 1925000,
+      "function": "Nodo regionale: Federazione fluviale",
+      "cause_and_pressure": "Grano, carbone, industria; piene e debiti di arginatura",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-042",
+      "name": "Qadra",
+      "state": "Qadir",
+      "continent": "Caldris",
+      "map": "world",
+      "longitude": -88,
+      "latitude": 13,
+      "elevation_m": 250,
+      "population": 1330000,
+      "function": "Nodo regionale: Unione di distretti",
+      "cause_and_pressure": "Rame, sale e irrigazione; distribuzione idrica decisiva",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-043",
+      "name": "Ildan",
+      "state": "Ildovar",
+      "continent": "Caldris",
+      "map": "world",
+      "longitude": -124,
+      "latitude": -3,
+      "elevation_m": 250,
+      "population": 1610000,
+      "function": "Nodo regionale: Repubbliche di bacino",
+      "cause_and_pressure": "Legname, caucciù locale e colture tropicali; accessi fluviali",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-044",
+      "name": "Mareth",
+      "state": "Marethis",
+      "continent": "Caldris",
+      "map": "world",
+      "longitude": -135,
+      "latitude": -30,
+      "elevation_m": 250,
+      "population": 1085000,
+      "function": "Nodo regionale: Regno costiero",
+      "cause_and_pressure": "Ferro, lana e navigazione; tempeste oceaniche",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-045",
+      "name": "Saura",
+      "state": "Saur",
+      "continent": "Caldris",
+      "map": "world",
+      "longitude": -110,
+      "latitude": -42,
+      "elevation_m": 250,
+      "population": 700000,
+      "function": "Nodo regionale: Lega delle conche",
+      "cause_and_pressure": "Argento, lana, cereali resistenti; isolamento dei passi",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-046",
+      "name": "Anren",
+      "state": "Ansei",
+      "continent": "Iskar",
+      "map": "world",
+      "longitude": 127,
+      "latitude": 35,
+      "elevation_m": 250,
+      "population": 1120000,
+      "function": "Nodo regionale: Stati consociati",
+      "cause_and_pressure": "Riso, carta e macchine ottiche; alluvioni monsoniche",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-047",
+      "name": "Teru",
+      "state": "Teral",
+      "continent": "Iskar",
+      "map": "world",
+      "longitude": 110,
+      "latitude": 15,
+      "elevation_m": 250,
+      "population": 945000,
+      "function": "Nodo regionale: Monarchia amministrativa",
+      "cause_and_pressure": "Tè, ferro, seta e manifattura; trasporto montano",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-048",
+      "name": "Koshen",
+      "state": "Kosh",
+      "continent": "Iskar",
+      "map": "world",
+      "longitude": 91,
+      "latitude": 26,
+      "elevation_m": 250,
+      "population": 630000,
+      "function": "Nodo regionale: Cantoni di altopiano",
+      "cause_and_pressure": "Rame, allevamento e sali; dissesto dei pendii",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-049",
+      "name": "Mersa",
+      "state": "Meren",
+      "continent": "Iskar",
+      "map": "world",
+      "longitude": 125,
+      "latitude": -15,
+      "elevation_m": 0,
+      "population": 735000,
+      "function": "Nodo regionale: Lega di porti",
+      "cause_and_pressure": "Pesca, cantieri, oli; terremoti costieri",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-050",
+      "name": "Arula",
+      "state": "Arul",
+      "continent": "Iskar",
+      "map": "world",
+      "longitude": 144,
+      "latitude": 7,
+      "elevation_m": 250,
+      "population": 490000,
+      "function": "Nodo regionale: Repubbliche insulari",
+      "cause_and_pressure": "Zolfo, vetro, colture calde; vulcani e stagionalità",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-051",
+      "name": "Noran",
+      "state": "Norell",
+      "continent": "Nareth",
+      "map": "world",
+      "longitude": 77,
+      "latitude": -50,
+      "elevation_m": 0,
+      "population": 735000,
+      "function": "Nodo regionale: Federazione costiera",
+      "cause_and_pressure": "Lana, carbone, navigazione e officine; inverno lungo",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-052",
+      "name": "Asren",
+      "state": "Askar",
+      "continent": "Nareth",
+      "map": "world",
+      "longitude": 101,
+      "latitude": -49,
+      "elevation_m": 250,
+      "population": 560000,
+      "function": "Nodo regionale: Regni associati",
+      "cause_and_pressure": "Grano resistente, ferro e pascoli; frontiere di bacino",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-053",
+      "name": "Varshen",
+      "state": "Varsha",
+      "continent": "Nareth",
+      "map": "world",
+      "longitude": 129,
+      "latitude": -55,
+      "elevation_m": 0,
+      "population": 490000,
+      "function": "Nodo regionale: Lega di fiordi",
+      "cause_and_pressure": "Pesca, legname e metalli; ghiaccio mobile",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-054",
+      "name": "Edris",
+      "state": "Edel",
+      "continent": "Nareth",
+      "map": "world",
+      "longitude": 98,
+      "latitude": -62,
+      "elevation_m": 250,
+      "population": 420000,
+      "function": "Nodo regionale: Province autonome",
+      "cause_and_pressure": "Lana, stagno e mulini; transiti stagionali",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-055",
+      "name": "Keran",
+      "state": "Keren",
+      "continent": "Nareth",
+      "map": "world",
+      "longitude": 85,
+      "latitude": -69,
+      "elevation_m": 250,
+      "population": 350000,
+      "function": "Nodo regionale: Unione di conche",
+      "cause_and_pressure": "Rame, pietra e serre; insediamenti concentrati",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-056",
+      "name": "Sivren",
+      "state": "Sivara",
+      "continent": "Veyra",
+      "map": "world",
+      "longitude": -56,
+      "latitude": 61,
+      "elevation_m": 0,
+      "population": 665000,
+      "function": "Nodo regionale: Federazione di valli",
+      "cause_and_pressure": "Legname, carbone e officine; fiordi vincolano la rete",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-057",
+      "name": "Dorven",
+      "state": "Dorel",
+      "continent": "Veyra",
+      "map": "world",
+      "longitude": -72,
+      "latitude": 68,
+      "elevation_m": 0,
+      "population": 455000,
+      "function": "Nodo regionale: Regno di fiordi",
+      "cause_and_pressure": "Pesca, minerali e cantieri; mare invernale",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-058",
+      "name": "Tevren",
+      "state": "Tevar",
+      "continent": "Veyra",
+      "map": "world",
+      "longitude": -34,
+      "latitude": 67,
+      "elevation_m": 250,
+      "population": 385000,
+      "function": "Nodo regionale: Lega di vallate",
+      "cause_and_pressure": "Serre, vetro e rame; attività termica irregolare",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-059",
+      "name": "Irela",
+      "state": "Iren",
+      "continent": "Veyra",
+      "map": "world",
+      "longitude": -42,
+      "latitude": 78,
+      "elevation_m": 250,
+      "population": 245000,
+      "function": "Nodo regionale: Consigli di bacino",
+      "cause_and_pressure": "Pesca, pellicce e manutenzione investita; nessuna città universale nel ghiaccio",
+      "knowledge": "School atlas: rounded population, continental position and major trade; no exact access or secret authority"
+    },
+    {
+      "id": "LOC-060",
+      "name": "Serevan",
+      "state": "Darsen",
+      "continent": "Caldris",
+      "map": "world",
+      "longitude": -88,
+      "latitude": 22,
+      "elevation_m": 3,
+      "population": 80000,
+      "function": "Porto oceanico di riferimento; collegamento terrestre distinto verso il centro politico",
+      "cause_and_pressure": "Insediamento costiero e commercio; rada, scali e rifornimenti da verificare",
+      "knowledge": "Commercial atlas and nautical charts; not a personal visit"
+    },
+    {
+      "id": "LOC-061",
+      "name": "Ashen Quay",
+      "state": "Ansei",
+      "continent": "Iskar",
+      "map": "world",
+      "longitude": 144,
+      "latitude": 34,
+      "elevation_m": 3,
+      "population": 80000,
+      "function": "Porto oceanico di riferimento; collegamento terrestre distinto verso il centro politico",
+      "cause_and_pressure": "Insediamento costiero e commercio; rada, scali e rifornimenti da verificare",
+      "knowledge": "Commercial atlas and nautical charts; not a personal visit"
+    },
+    {
+      "id": "LOC-062",
+      "name": "Dorel Outer Port",
+      "state": "Dorel",
+      "continent": "Veyra",
+      "map": "world",
+      "longitude": -75.15,
+      "latitude": 62,
+      "elevation_m": 3,
+      "population": 80000,
+      "function": "Porto oceanico di riferimento; collegamento terrestre distinto verso il centro politico",
+      "cause_and_pressure": "Insediamento costiero e commercio; rada, scali e rifornimenti da verificare",
+      "knowledge": "Commercial atlas and nautical charts; not a personal visit"
+    },
+    {
+      "id": "LOC-063",
+      "name": "Norell Roads",
+      "state": "Norell",
+      "continent": "Nareth",
+      "map": "world",
+      "longitude": 77,
+      "latitude": -44.9,
+      "elevation_m": 3,
+      "population": 80000,
+      "function": "Porto oceanico di riferimento; collegamento terrestre distinto verso il centro politico",
+      "cause_and_pressure": "Insediamento costiero e commercio; rada, scali e rifornimenti da verificare",
+      "knowledge": "Commercial atlas and nautical charts; not a personal visit"
+    },
+    {
+      "id": "LOC-064",
+      "name": "Belcour",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": -30,
+      "y_km": -30,
+      "elevation_m": 88,
+      "population": 26000,
+      "function": "Centro comitale nel ducato di Rovenne",
+      "cause_and_pressure": "Pianure a sud-ovest di Lethorne, derivazioni irrigue, lino, orti e strade di approvvigionamento. Il conte conserva residenza cittadina e affari a Lethorne.",
+      "knowledge": "Formazione e rapporti territoriali di Alexander; stato attuale da verificare",
+      "longitude": -0.38119,
+      "latitude": 44.73022,
+      "duchy": "Rovenne"
+    },
+    {
+      "id": "LOC-065",
+      "name": "Vernay",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 22,
+      "y_km": -38,
+      "elevation_m": 155,
+      "population": 22000,
+      "function": "Centro comitale nel ducato di Rovenne",
+      "cause_and_pressure": "Campagne meridionali, allevamento e mulini secondari; manutenzioni e terreni confinanti con lotti Valcienne. Leon è l’erede del conte, non un duca rivale.",
+      "knowledge": "Formazione e rapporti territoriali di Alexander; stato attuale da verificare",
+      "longitude": 0.27954,
+      "latitude": 44.65827,
+      "duchy": "Rovenne"
+    },
+    {
+      "id": "LOC-066",
+      "name": "Rochebrune",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 74,
+      "y_km": -34,
+      "elevation_m": 260,
+      "population": 18000,
+      "function": "Centro comitale nel ducato di Rovenne",
+      "cause_and_pressure": "Colline sud-orientali, cave di pietra, boschi e fornaci. Non comprende il centro carbonifero di Deren né il passo di Sarn.",
+      "knowledge": "Formazione e rapporti territoriali di Alexander; stato attuale da verificare",
+      "longitude": 0.94028,
+      "latitude": 44.69424,
+      "duchy": "Rovenne"
+    },
+    {
+      "id": "LOC-067",
+      "name": "Aubrecourt",
+      "state": "Orsanne",
+      "continent": "Mereth",
+      "map": "regional",
+      "x_km": 78,
+      "y_km": 22,
+      "elevation_m": 210,
+      "population": 14000,
+      "function": "Centro comitale nel ducato di Rovenne",
+      "cause_and_pressure": "Terrazze nord-orientali, frutteti, pascoli e lavorazione del legname. Le strade raccordano i mercati interni senza inglobare Ossen Reach.",
+      "knowledge": "Formazione e rapporti territoriali di Alexander; stato attuale da verificare",
+      "longitude": 0.99111,
+      "latitude": 45.19784,
+      "duchy": "Rovenne"
+    }
+  ],
+  "routes": [
+    {
+      "id": "ROUTE-001",
+      "from_id": "LOC-002",
+      "to_id": "LOC-001",
+      "from_name": "Rovenne",
+      "to_name": "Lethorne",
+      "mode": "road",
+      "length_km": 23,
+      "straight_distance_km": 20.0,
+      "operating_speed_kmh": 7,
+      "base_delays_hours": 1,
+      "moving_hours": 3.29,
+      "daily_operating_hours": 12,
+      "notes": "Strada lastricata; carrozza 3–4 ore; ponte sul ramo locale",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-002",
+      "from_id": "LOC-002",
+      "to_id": "LOC-001",
+      "from_name": "Rovenne",
+      "to_name": "Lethorne",
+      "mode": "rail",
+      "length_km": 26,
+      "straight_distance_km": 20.0,
+      "operating_speed_kmh": 24,
+      "base_delays_hours": 1,
+      "moving_hours": 1.08,
+      "daily_operating_hours": 24,
+      "notes": "Due corse passeggeri al giorno; attesa 0–12 ore",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-003",
+      "from_id": "LOC-001",
+      "to_id": "LOC-003",
+      "from_name": "Lethorne",
+      "to_name": "Veldane",
+      "mode": "rail",
+      "length_km": 268,
+      "straight_distance_km": 223.61,
+      "operating_speed_kmh": 34,
+      "base_delays_hours": 2,
+      "moving_hours": 7.88,
+      "daily_operating_hours": 24,
+      "notes": "Linea 661, sei corse al giorno; merci 14–22 ore",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-004",
+      "from_id": "LOC-001",
+      "to_id": "LOC-004",
+      "from_name": "Lethorne",
+      "to_name": "Port Auvrel",
+      "mode": "rail",
+      "length_km": 282,
+      "straight_distance_km": 240.0,
+      "operating_speed_kmh": 30,
+      "base_delays_hours": 2,
+      "moving_hours": 9.4,
+      "daily_operating_hours": 24,
+      "notes": "Quattro corse; smistamento portuale 4–12 ore extra",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-005",
+      "from_id": "LOC-001",
+      "to_id": "LOC-004",
+      "from_name": "Lethorne",
+      "to_name": "Port Auvrel",
+      "mode": "river",
+      "length_km": 295,
+      "straight_distance_km": 240.0,
+      "operating_speed_kmh": 6,
+      "base_delays_hours": 2,
+      "moving_hours": 49.17,
+      "daily_operating_hours": 12,
+      "notes": "Discesa diurna 12 ore; 4–5 giorni; risalita 2,5 km/h, 9–11 giorni",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-006",
+      "from_id": "LOC-003",
+      "to_id": "LOC-005",
+      "from_name": "Veldane",
+      "to_name": "Belanne",
+      "mode": "rail",
+      "length_km": 274,
+      "straight_distance_km": 230.87,
+      "operating_speed_kmh": 32,
+      "base_delays_hours": 2,
+      "moving_hours": 8.56,
+      "daily_operating_hours": 24,
+      "notes": "Quattro corse; alternativo al trasbordo di Auvrel",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-007",
+      "from_id": "LOC-001",
+      "to_id": "LOC-007",
+      "from_name": "Lethorne",
+      "to_name": "Sarn Gate",
+      "mode": "rail",
+      "length_km": 238,
+      "straight_distance_km": 219.32,
+      "operating_speed_kmh": 30,
+      "base_delays_hours": 1.5,
+      "moving_hours": 7.93,
+      "daily_operating_hours": 24,
+      "notes": "Quattro corse; linea in salita",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-008",
+      "from_id": "LOC-007",
+      "to_id": "LOC-012",
+      "from_name": "Sarn Gate",
+      "to_name": "Reth Narrows",
+      "mode": "rail",
+      "length_km": 209,
+      "straight_distance_km": 177.2,
+      "operating_speed_kmh": 22,
+      "base_delays_hours": 5,
+      "moving_hours": 9.5,
+      "daily_operating_hours": 24,
+      "notes": "Galleria, ispezioni e dogana; controllo ordinario 2–6 ore",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-009",
+      "from_id": "LOC-012",
+      "to_id": "LOC-010",
+      "from_name": "Reth Narrows",
+      "to_name": "Teren",
+      "mode": "rail",
+      "length_km": 344,
+      "straight_distance_km": 305.94,
+      "operating_speed_kmh": 30,
+      "base_delays_hours": 2,
+      "moving_hours": 11.47,
+      "daily_operating_hours": 24,
+      "notes": "Tre corse; attraversamento di valli retheane",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-010",
+      "from_id": "LOC-010",
+      "to_id": "LOC-011",
+      "from_name": "Teren",
+      "to_name": "Karrel",
+      "mode": "rail",
+      "length_km": 195,
+      "straight_distance_km": 169.71,
+      "operating_speed_kmh": 26,
+      "base_delays_hours": 2,
+      "moving_hours": 7.5,
+      "daily_operating_hours": 24,
+      "notes": "Due corse passeggeri; priorità a lotti minerari",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-011",
+      "from_id": "LOC-011",
+      "to_id": "LOC-034",
+      "from_name": "Karrel",
+      "to_name": "Copper Yard",
+      "mode": "road",
+      "length_km": 24,
+      "straight_distance_km": 22.36,
+      "operating_speed_kmh": 5,
+      "base_delays_hours": 1,
+      "moving_hours": 4.8,
+      "daily_operating_hours": 12,
+      "notes": "Carri e binario industriale non aperto a ogni passeggero",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-012",
+      "from_id": "LOC-010",
+      "to_id": "LOC-013",
+      "from_name": "Teren",
+      "to_name": "Kessel",
+      "mode": "rail",
+      "length_km": 280,
+      "straight_distance_km": 247.59,
+      "operating_speed_kmh": 27,
+      "base_delays_hours": 2,
+      "moving_hours": 10.37,
+      "daily_operating_hours": 24,
+      "notes": "Linea provinciale; neve e manutenzione",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-013",
+      "from_id": "LOC-011",
+      "to_id": "LOC-014",
+      "from_name": "Karrel",
+      "to_name": "Dovar",
+      "mode": "road",
+      "length_km": 294,
+      "straight_distance_km": 260.19,
+      "operating_speed_kmh": 5,
+      "base_delays_hours": 2,
+      "moving_hours": 58.8,
+      "daily_operating_hours": 12,
+      "notes": "Cinque-sei giorni con tappe; alternativa via ferrovia più lunga",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-014",
+      "from_id": "LOC-001",
+      "to_id": "LOC-018",
+      "from_name": "Lethorne",
+      "to_name": "Ossen Reach",
+      "mode": "rail",
+      "length_km": 187,
+      "straight_distance_km": 163.78,
+      "operating_speed_kmh": 28,
+      "base_delays_hours": 1,
+      "moving_hours": 6.68,
+      "daily_operating_hours": 24,
+      "notes": "Due corse; approdo raggiungibile a piedi dalla stazione",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-015",
+      "from_id": "LOC-018",
+      "to_id": "LOC-029",
+      "from_name": "Ossen Reach",
+      "to_name": "Stillwater Steps",
+      "mode": "road",
+      "length_km": 25,
+      "straight_distance_km": 22.36,
+      "operating_speed_kmh": 5,
+      "base_delays_hours": 1,
+      "moving_hours": 5.0,
+      "daily_operating_hours": 12,
+      "notes": "Servitù civile; contestazione già attiva",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-016",
+      "from_id": "LOC-018",
+      "to_id": "LOC-017",
+      "from_name": "Ossen Reach",
+      "to_name": "Veyford",
+      "mode": "river",
+      "length_km": 390,
+      "straight_distance_km": 340.33,
+      "operating_speed_kmh": 3,
+      "base_delays_hours": 3,
+      "moving_hours": 130.0,
+      "daily_operating_hours": 12,
+      "notes": "Risalita diurna; 11–13 giorni incluse chiuse",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-017",
+      "from_id": "LOC-017",
+      "to_id": "LOC-015",
+      "from_name": "Veyford",
+      "to_name": "Elven",
+      "mode": "river",
+      "length_km": 310,
+      "straight_distance_km": 278.57,
+      "operating_speed_kmh": 3.5,
+      "base_delays_hours": 3,
+      "moving_hours": 88.57,
+      "daily_operating_hours": 12,
+      "notes": "Otto-nove giorni; ghiaccio in inverno",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-018",
+      "from_id": "LOC-017",
+      "to_id": "LOC-016",
+      "from_name": "Veyford",
+      "to_name": "Namar",
+      "mode": "road",
+      "length_km": 204,
+      "straight_distance_km": 189.74,
+      "operating_speed_kmh": 5,
+      "base_delays_hours": 2,
+      "moving_hours": 40.8,
+      "daily_operating_hours": 12,
+      "notes": "Quattro giorni di carro; rampe di bacino",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-019",
+      "from_id": "LOC-016",
+      "to_id": "LOC-028",
+      "from_name": "Namar",
+      "to_name": "Namar Upper Works",
+      "mode": "road",
+      "length_km": 38,
+      "straight_distance_km": 32.02,
+      "operating_speed_kmh": 4,
+      "base_delays_hours": 1,
+      "moving_hours": 9.5,
+      "daily_operating_hours": 12,
+      "notes": "Carri leggeri, 10–12 ore; quota più alta delle chiuse",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-020",
+      "from_id": "LOC-016",
+      "to_id": "LOC-030",
+      "from_name": "Namar",
+      "to_name": "Rethar Basin",
+      "mode": "road",
+      "length_km": 304,
+      "straight_distance_km": 277.31,
+      "operating_speed_kmh": 4.5,
+      "base_delays_hours": 2,
+      "moving_hours": 67.56,
+      "daily_operating_hours": 12,
+      "notes": "Sei giorni e due trasbordi; nessuna ferrovia diretta",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-021",
+      "from_id": "LOC-030",
+      "to_id": "LOC-031",
+      "from_name": "Rethar Basin",
+      "to_name": "Nine Houses Field",
+      "mode": "road",
+      "length_km": 31,
+      "straight_distance_km": 28.28,
+      "operating_speed_kmh": 4,
+      "base_delays_hours": 1,
+      "moving_hours": 7.75,
+      "daily_operating_hours": 12,
+      "notes": "Accesso a scavi e terrazze, ultimo tratto pedonale",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-022",
+      "from_id": "LOC-005",
+      "to_id": "LOC-019",
+      "from_name": "Belanne",
+      "to_name": "Neressa",
+      "mode": "sea",
+      "length_km": 960,
+      "straight_distance_km": 714.49,
+      "operating_speed_kmh": 12,
+      "base_delays_hours": 18,
+      "moving_hours": 80.0,
+      "daily_operating_hours": 24,
+      "notes": "Navigazione continua; 4–6 giorni con imbarco, meteo e scali",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-023",
+      "from_id": "LOC-005",
+      "to_id": "LOC-020",
+      "from_name": "Belanne",
+      "to_name": "Serele",
+      "mode": "sea",
+      "length_km": 510,
+      "straight_distance_km": 451.77,
+      "operating_speed_kmh": 12,
+      "base_delays_hours": 14,
+      "moving_hours": 42.5,
+      "daily_operating_hours": 24,
+      "notes": "Due-tre giorni con attese ordinarie",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-024",
+      "from_id": "LOC-019",
+      "to_id": "LOC-021",
+      "from_name": "Neressa",
+      "to_name": "Avaris",
+      "mode": "sea",
+      "length_km": 254,
+      "straight_distance_km": 203.96,
+      "operating_speed_kmh": 10,
+      "base_delays_hours": 6,
+      "moving_hours": 25.4,
+      "daily_operating_hours": 24,
+      "notes": "Traversata un giorno più attese; bassi fondali",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-025",
+      "from_id": "LOC-019",
+      "to_id": "LOC-022",
+      "from_name": "Neressa",
+      "to_name": "Corten",
+      "mode": "sea",
+      "length_km": 380,
+      "straight_distance_km": 345.25,
+      "operating_speed_kmh": 11,
+      "base_delays_hours": 6,
+      "moving_hours": 34.55,
+      "daily_operating_hours": 24,
+      "notes": "Due giorni con attese; scalo ottico",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-026",
+      "from_id": "LOC-019",
+      "to_id": "LOC-023",
+      "from_name": "Neressa",
+      "to_name": "Nelle",
+      "mode": "sea",
+      "length_km": 352,
+      "straight_distance_km": 299.67,
+      "operating_speed_kmh": 10,
+      "base_delays_hours": 6,
+      "moving_hours": 35.2,
+      "daily_operating_hours": 24,
+      "notes": "Due giorni; deviazione dai bassi fondali",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-027",
+      "from_id": "LOC-019",
+      "to_id": "LOC-024",
+      "from_name": "Neressa",
+      "to_name": "Velis",
+      "mode": "sea",
+      "length_km": 334,
+      "straight_distance_km": 290.69,
+      "operating_speed_kmh": 10,
+      "base_delays_hours": 6,
+      "moving_hours": 33.4,
+      "daily_operating_hours": 24,
+      "notes": "Uno-due giorni; acqua e combustibile limitati",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-028",
+      "from_id": "LOC-001",
+      "to_id": "LOC-026",
+      "from_name": "Lethorne",
+      "to_name": "Arel Cut",
+      "mode": "road",
+      "length_km": 173,
+      "straight_distance_km": 158.82,
+      "operating_speed_kmh": 6,
+      "base_delays_hours": 1,
+      "moving_hours": 28.83,
+      "daily_operating_hours": 12,
+      "notes": "Quattro giorni di carro; attraversamento di colline",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-029",
+      "from_id": "LOC-026",
+      "to_id": "LOC-032",
+      "from_name": "Arel Cut",
+      "to_name": "Grey Embankment",
+      "mode": "road",
+      "length_km": 59,
+      "straight_distance_km": 47.43,
+      "operating_speed_kmh": 5,
+      "base_delays_hours": 1,
+      "moving_hours": 11.8,
+      "daily_operating_hours": 12,
+      "notes": "Una giornata lunga di carro",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-030",
+      "from_id": "LOC-012",
+      "to_id": "LOC-027",
+      "from_name": "Reth Narrows",
+      "to_name": "Hollow Towers",
+      "mode": "road",
+      "length_km": 210,
+      "straight_distance_km": 194.16,
+      "operating_speed_kmh": 4,
+      "base_delays_hours": 2,
+      "moving_hours": 52.5,
+      "daily_operating_hours": 12,
+      "notes": "Cinque giorni; salita fino al campo archeologico",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-031",
+      "from_id": "LOC-015",
+      "to_id": "LOC-033",
+      "from_name": "Elven",
+      "to_name": "North Lock",
+      "mode": "road",
+      "length_km": 255,
+      "straight_distance_km": 233.24,
+      "operating_speed_kmh": 5,
+      "base_delays_hours": 2,
+      "moving_hours": 51.0,
+      "daily_operating_hours": 12,
+      "notes": "Cinque giorni; via ordinaria alternativa alla chiusa",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-032",
+      "from_id": "LOC-001",
+      "to_id": "LOC-035",
+      "from_name": "Lethorne",
+      "to_name": "Low Fen",
+      "mode": "road",
+      "length_km": 110,
+      "straight_distance_km": 90.14,
+      "operating_speed_kmh": 5,
+      "base_delays_hours": 1,
+      "moving_hours": 22.0,
+      "daily_operating_hours": 12,
+      "notes": "Due-tre giorni; argini allagabili",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-033",
+      "from_id": "LOC-001",
+      "to_id": "LOC-006",
+      "from_name": "Lethorne",
+      "to_name": "Deren",
+      "mode": "rail",
+      "length_km": 294,
+      "straight_distance_km": 246.98,
+      "operating_speed_kmh": 27,
+      "base_delays_hours": 2,
+      "moving_hours": 10.89,
+      "daily_operating_hours": 24,
+      "notes": "Linea carbonifera, quattro corse; merci prioritarie",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-034",
+      "from_id": "LOC-003",
+      "to_id": "LOC-008",
+      "from_name": "Veldane",
+      "to_name": "Valenne",
+      "mode": "rail",
+      "length_km": 166,
+      "straight_distance_km": 152.32,
+      "operating_speed_kmh": 28,
+      "base_delays_hours": 1,
+      "moving_hours": 5.93,
+      "daily_operating_hours": 24,
+      "notes": "Linea cerealicola; tre corse",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-035",
+      "from_id": "LOC-001",
+      "to_id": "LOC-009",
+      "from_name": "Lethorne",
+      "to_name": "Lorien",
+      "mode": "rail",
+      "length_km": 425,
+      "straight_distance_km": 362.49,
+      "operating_speed_kmh": 29,
+      "base_delays_hours": 2,
+      "moving_hours": 14.66,
+      "daily_operating_hours": 24,
+      "notes": "Tre corse; circa diciassette ore con fermate",
+      "access": "Ordinary ticket or civil passage; departure wait, border and hazard conditions apply",
+      "knowledge": "Ducal timetables and maps; operational disruption must be verified"
+    },
+    {
+      "id": "ROUTE-036",
+      "from_id": "LOC-007",
+      "to_id": "LOC-025",
+      "from_name": "Sarn Gate",
+      "to_name": "Thenn Pass",
+      "mode": "road",
+      "length_km": 90,
+      "straight_distance_km": 72.11,
+      "operating_speed_kmh": 4,
+      "base_delays_hours": 2,
+      "moving_hours": 22.5,
+      "daily_operating_hours": 12,
+      "notes": "Strada di valico; circa due giorni di carro, aperta salvo meteo effettivo",
+      "access": "Civil route or technical vessel; documents, real weather and departure wait apply",
+      "knowledge": "Public chart and local service, not knowledge of hidden effect"
+    },
+    {
+      "id": "ROUTE-037",
+      "from_id": "LOC-025",
+      "to_id": "LOC-012",
+      "from_name": "Thenn Pass",
+      "to_name": "Reth Narrows",
+      "mode": "road",
+      "length_km": 158,
+      "straight_distance_km": 130.38,
+      "operating_speed_kmh": 4,
+      "base_delays_hours": 3,
+      "moving_hours": 39.5,
+      "daily_operating_hours": 12,
+      "notes": "Discesa e dogana; circa quattro giorni di carro",
+      "access": "Civil route or technical vessel; documents, real weather and departure wait apply",
+      "knowledge": "Public chart and local service, not knowledge of hidden effect"
+    },
+    {
+      "id": "ROUTE-038",
+      "from_id": "LOC-020",
+      "to_id": "LOC-036",
+      "from_name": "Serele",
+      "to_name": "South Shoals",
+      "mode": "sea",
+      "length_km": 398,
+      "straight_distance_km": 310.16,
+      "operating_speed_kmh": 10,
+      "base_delays_hours": 6,
+      "moving_hours": 39.8,
+      "daily_operating_hours": 24,
+      "notes": "Navigazione tecnica verso i fondali; circa due giorni con imbarco",
+      "access": "Civil route or technical vessel; documents, real weather and departure wait apply",
+      "knowledge": "Public chart and local service, not knowledge of hidden effect"
+    },
+    {
+      "id": "ROUTE-039",
+      "from_id": "LOC-023",
+      "to_id": "LOC-036",
+      "from_name": "Nelle",
+      "to_name": "South Shoals",
+      "mode": "sea",
+      "length_km": 130,
+      "straight_distance_km": 94.87,
+      "operating_speed_kmh": 8,
+      "base_delays_hours": 4,
+      "moving_hours": 16.25,
+      "daily_operating_hours": 24,
+      "notes": "Cabotaggio tecnico; circa un giorno con imbarco",
+      "access": "Civil route or technical vessel; documents, real weather and departure wait apply",
+      "knowledge": "Public chart and local service, not knowledge of hidden effect"
+    }
+  ],
+  "rivers": [
+    {
+      "id": "RIVER-01",
+      "name": "Leth",
+      "points": [
+        [
+          220,
+          100,
+          1450
+        ],
+        [
+          90,
+          80,
+          600
+        ],
+        [
+          0,
+          0,
+          95
+        ],
+        [
+          -85,
+          30,
+          18
+        ],
+        [
+          -240,
+          0,
+          0
+        ]
+      ],
+      "mouth": "Port Auvrel",
+      "cause": "Piogge di ponente e disgelo di Sarn",
+      "use": "Mulini, canali, porto e acqua industriale",
+      "risk": "Piene fra febbraio e aprile; bassi fondali agosto–settembre"
+    },
+    {
+      "id": "RIVER-02",
+      "name": "Ossen",
+      "points": [
+        [
+          120,
+          1020,
+          970
+        ],
+        [
+          120,
+          880,
+          520
+        ],
+        [
+          -80,
+          760,
+          220
+        ],
+        [
+          20,
+          500,
+          150
+        ],
+        [
+          35,
+          160,
+          120
+        ],
+        [
+          0,
+          0,
+          95
+        ]
+      ],
+      "mouth": "Confluenza nel Leth a Lethorne",
+      "cause": "Bacini settentrionali, neve e piogge",
+      "use": "Legname, transiti della Sponda e concessioni",
+      "risk": "Ghiaccio a monte dicembre–febbraio; risalita lenta"
+    },
+    {
+      "id": "RIVER-03",
+      "name": "Namar Watercourse",
+      "points": [
+        [
+          110,
+          760,
+          1050
+        ],
+        [
+          100,
+          705,
+          690
+        ],
+        [
+          80,
+          680,
+          410
+        ],
+        [
+          20,
+          500,
+          150
+        ]
+      ],
+      "mouth": "Ossen presso Veyford",
+      "cause": "Bacino sospeso, precipitazioni e sorgenti",
+      "use": "Opere idriche e canali di Namar",
+      "risk": "Manutenzione attiva; nessuna corrente risale spontaneamente"
+    },
+    {
+      "id": "RIVER-04",
+      "name": "Taren",
+      "points": [
+        [
+          600,
+          370,
+          2200
+        ],
+        [
+          670,
+          80,
+          980
+        ],
+        [
+          560,
+          -300,
+          880
+        ],
+        [
+          700,
+          -550,
+          300
+        ],
+        [
+          930,
+          -850,
+          0
+        ]
+      ],
+      "mouth": "Costa meridionale retheana oltre la carta locale",
+      "cause": "Disgelo dei massicci orientali e piogge estive",
+      "use": "Irrigazione e trasporto di valli separate dal Leth",
+      "risk": "Portata irregolare e trasbordi; non canale navigabile fra tutti gli stati"
+    }
+  ],
+  "resources": [
+    {
+      "id": "RES-01",
+      "node": "Deren",
+      "resource": "Carbone",
+      "origin": "Bacino sedimentario; miniere a 10–35 km dalla città",
+      "transfer": "Drenaggio, ventilazione e ferrovia",
+      "risk": "Subsidenza e acqua di miniera"
+    },
+    {
+      "id": "RES-02",
+      "node": "Karrel",
+      "resource": "Rame",
+      "origin": "Filoni e zone alterate nelle rocce di altopiano",
+      "transfer": "Frantumazione, concentrato e ferrovia via Copper Yard",
+      "risk": "Acqua acida, scorie e instabilità dei lotti"
+    },
+    {
+      "id": "RES-03",
+      "node": "Kessel",
+      "resource": "Ferro e carbone regionale",
+      "origin": "Depositi distinti collegati dalla ferrovia provinciale",
+      "transfer": "Coke e forni; non ogni acciaieria sopra una miniera",
+      "risk": "Concorrenza per combustibile"
+    },
+    {
+      "id": "RES-04",
+      "node": "Elven",
+      "resource": "Legname e resine",
+      "origin": "Foreste di Ovel con concessioni e comunità d’uso",
+      "transfer": "Fluitazione Ossen e trasbordo",
+      "risk": "Taglio eccessivo, piene e perdita di accessi"
+    },
+    {
+      "id": "RES-05",
+      "node": "Valenne",
+      "resource": "Grano e lino",
+      "origin": "Suoli alluvionali e rotazioni temperate",
+      "transfer": "Silos, mulini, strada e ferrovia",
+      "risk": "Alluvioni e consumo urbano"
+    },
+    {
+      "id": "RES-06",
+      "node": "Velis",
+      "resource": "Rame limitato",
+      "origin": "Piccole cave insulari; insufficiente a tutta Neressa",
+      "transfer": "Lavorazione e cabotaggio",
+      "risk": "Acqua e combustibili importati"
+    },
+    {
+      "id": "RES-07",
+      "node": "Serele",
+      "resource": "Sale e frutta",
+      "origin": "Evaporazione e clima costiero mite",
+      "transfer": "Stagionalità e imballaggio",
+      "risk": "Piogge fuori stagione e credito"
+    },
+    {
+      "id": "RES-08",
+      "node": "Namar",
+      "resource": "Acqua e componenti investiti",
+      "origin": "Sorgenti, chiuse e investimenti diagnosticabili",
+      "transfer": "Manutenzione e competenza; non estrazione di un minerale universale",
+      "risk": "Carico oltre capacità, protocollo falsamente applicato"
+    }
+  ],
+  "regional_projection": {
+    "origin": "Lethorne",
+    "origin_latitude": 45,
+    "origin_longitude": 0,
+    "units": "km",
+    "axes": "x east, y north",
+    "longitude_km_per_degree": 78.7,
+    "latitude_km_per_degree": 111.2,
+    "scope": "Regional planning chart; affine distances are operative canon locally, not a global great-circle projection"
+  },
+  "boundaries": {
+    "Orsanne": [
+      [
+        -220,
+        -420
+      ],
+      [
+        -270,
+        -200
+      ],
+      [
+        -240,
+        0
+      ],
+      [
+        -260,
+        200
+      ],
+      [
+        -180,
+        440
+      ],
+      [
+        110,
+        420
+      ],
+      [
+        240,
+        150
+      ],
+      [
+        230,
+        -150
+      ],
+      [
+        130,
+        -420
+      ]
+    ],
+    "Reth": [
+      [
+        240,
+        -150
+      ],
+      [
+        240,
+        150
+      ],
+      [
+        110,
+        420
+      ],
+      [
+        500,
+        510
+      ],
+      [
+        970,
+        380
+      ],
+      [
+        1020,
+        -350
+      ],
+      [
+        480,
+        -440
+      ],
+      [
+        130,
+        -420
+      ]
+    ],
+    "Ovel": [
+      [
+        -180,
+        440
+      ],
+      [
+        -320,
+        640
+      ],
+      [
+        -260,
+        1020
+      ],
+      [
+        150,
+        1160
+      ],
+      [
+        560,
+        1020
+      ],
+      [
+        500,
+        510
+      ],
+      [
+        110,
+        420
+      ]
+    ],
+    "Neressa_main": [
+      [
+        -1030,
+        -1090
+      ],
+      [
+        -560,
+        -1170
+      ],
+      [
+        -430,
+        -810
+      ],
+      [
+        -570,
+        -570
+      ],
+      [
+        -970,
+        -610
+      ]
+    ],
+    "Neressa_coastal": [
+      [
+        -280,
+        -720
+      ],
+      [
+        -200,
+        -750
+      ],
+      [
+        -180,
+        -560
+      ],
+      [
+        -260,
+        -530
+      ]
+    ]
+  },
+  "precision": {
+    "world_outlines": "Generalized continental coastline, not survey cadastral geometry",
+    "regional_borders": "Mid-scale administrative boundary, not parcels",
+    "route_length": "Operational distance canon; greater than local straight distance",
+    "population": "Rounded estimate 810 CP; no update automatically at T0"
+  },
+  "future_outcomes": "OPEN",
+  "ocean_routes": [
+    {
+      "id": "OCEAN-01",
+      "from_name": "Port Auvrel",
+      "to_name": "Serevan",
+      "waypoints_lon_lat": [
+        [
+          -3.05,
+          45
+        ],
+        [
+          -12,
+          43
+        ],
+        [
+          -40,
+          39
+        ],
+        [
+          -70,
+          37
+        ],
+        [
+          -82,
+          25
+        ],
+        [
+          -88,
+          22
+        ]
+      ],
+      "length_km": 8244,
+      "speed_kmh": 13,
+      "port_and_supply_days": 3,
+      "typical_min_days": 30,
+      "notes": "Riferimento per nave commerciale con rifornimenti e scali; rotta verso Iskar aggira Mereth a sud, nessuna linea attraverso il continente. Non servizio passeggeri garantito quotidiano."
+    },
+    {
+      "id": "OCEAN-02",
+      "from_name": "Neressa",
+      "to_name": "Ashen Quay",
+      "waypoints_lon_lat": [
+        [
+          -9.66,
+          38.53
+        ],
+        [
+          -12,
+          28
+        ],
+        [
+          -18,
+          10
+        ],
+        [
+          -20,
+          -10
+        ],
+        [
+          -6,
+          -34
+        ],
+        [
+          24,
+          -37
+        ],
+        [
+          55,
+          -42
+        ],
+        [
+          82,
+          -40
+        ],
+        [
+          118,
+          -40
+        ],
+        [
+          147,
+          -30
+        ],
+        [
+          156,
+          0
+        ],
+        [
+          156,
+          28
+        ],
+        [
+          144,
+          34
+        ]
+      ],
+      "length_km": 30180,
+      "speed_kmh": 13,
+      "port_and_supply_days": 5,
+      "typical_min_days": 102,
+      "notes": "Riferimento per nave commerciale con rifornimenti e scali; rotta verso Iskar aggira Mereth a sud, nessuna linea attraverso il continente. Non servizio passeggeri garantito quotidiano."
+    },
+    {
+      "id": "OCEAN-03",
+      "from_name": "Port Auvrel",
+      "to_name": "Dorel Outer Port",
+      "waypoints_lon_lat": [
+        [
+          -3.05,
+          45
+        ],
+        [
+          -12,
+          51
+        ],
+        [
+          -30,
+          55
+        ],
+        [
+          -60,
+          54
+        ],
+        [
+          -75.15,
+          62
+        ]
+      ],
+      "length_km": 5425,
+      "speed_kmh": 12,
+      "port_and_supply_days": 2,
+      "typical_min_days": 21,
+      "notes": "Riferimento per nave commerciale con rifornimenti e scali; rotta verso Iskar aggira Mereth a sud, nessuna linea attraverso il continente. Non servizio passeggeri garantito quotidiano."
+    },
+    {
+      "id": "OCEAN-04",
+      "from_name": "Belanne",
+      "to_name": "Norell Roads",
+      "waypoints_lon_lat": [
+        [
+          -3.43,
+          43.2
+        ],
+        [
+          -12,
+          28
+        ],
+        [
+          -18,
+          10
+        ],
+        [
+          -20,
+          -10
+        ],
+        [
+          -6,
+          -34
+        ],
+        [
+          24,
+          -37
+        ],
+        [
+          55,
+          -42
+        ],
+        [
+          77,
+          -44.9
+        ]
+      ],
+      "length_km": 16516,
+      "speed_kmh": 12,
+      "port_and_supply_days": 4,
+      "typical_min_days": 62,
+      "notes": "Riferimento per nave commerciale con rifornimenti e scali; rotta verso Iskar aggira Mereth a sud, nessuna linea attraverso il continente. Non servizio passeggeri garantito quotidiano."
+    }
+  ],
+  "supernatural_sites": [
+    {
+      "id": "SITE-01",
+      "location": "Arel Cut",
+      "environment": "corporeal / Near Veil",
+      "origin": "Gallerie della prima fuga, poi tagli ferroviari e cave",
+      "state": "Attivo",
+      "effect": "Residui di marchi in pochi supporti identificabili; superfici comuni inerti",
+      "access": "Strada 173 km da Lethorne, permesso di cava per livelli bassi; due uscite corporee",
+      "risk": "Crolli materiali e Backflow solo su residui effettivamente attivati",
+      "operator": "Cava e soprintendenza locale; nessun VII proprietario di ogni pietra",
+      "return_access": "Stessa strada o uscita occidentale della cava; non passaggio gratuito in Root",
+      "transfer": "Corpi, equipaggiamento e informazioni lungo accessi ordinari",
+      "cause": "Atti reali su marchi e uso posteriore del sito",
+      "consequence": "Prove spezzate e disputa sulla cava",
+      "link": "HIST-007, EVD-01/02"
+    },
+    {
+      "id": "SITE-02",
+      "location": "Hollow Towers",
+      "environment": "corporeal / Confluence Belt locale",
+      "origin": "Assedio−12052 e ricostruzioni successive",
+      "state": "Attivo",
+      "effect": "Un arco di pietra conserva collegamento informativo fra due terrazze; non tutta la fortezza",
+      "access": "Da Reth Narrows 210 km di strada; presidio degli scavi",
+      "risk": "Perdita di un collegamento e caduta; nessun trasferimento corporeo attraverso un canale informativo",
+      "operator": "Scuola archeologica e custodi regionali",
+      "return_access": "Sentiero e terrazza di ingresso; legame Veil non sostituisce strada",
+      "transfer": "Informazione attestata su mezzo locale; corpo solo su sentieri",
+      "cause": "Investimenti bellici e riuso amministrativo",
+      "consequence": "Documenti di perdite e vie antiche confrontabili",
+      "link": "CAM-02, EVD-02"
+    },
+    {
+      "id": "SITE-03",
+      "location": "Namar Upper Works",
+      "environment": "corporeal / Near Veil",
+      "origin": "Opere−11928, manutenzioni e riforme successive",
+      "state": "Critico",
+      "effect": "Distribuzione idrica e sostegno clinico tramite circuiti distinguibili; nessuna riserva d’anime di Edran",
+      "access": "38 km dal centro, contatto tecnico o assemblea; scala e strada di servizio",
+      "risk": "Sovraccarico già programmato, acqua persa e lesioni se separazione errata",
+      "operator": "Iven Namar, Heart IV e tecnici; Orielnon dirige ogni valvola",
+      "return_access": "Strada e passerella; accesso spirituale solo tramite mezzo diagnosticato",
+      "transfer": "Corpi lungo strada, acqua nei canali, informazione nei supporti specifici",
+      "cause": "Bacino alto e configurazioni mantenute",
+      "consequence": "Decisione 24 maggio, riduzione servizio se non intervenuto",
+      "link": "CULT-02, WORK-03, EVD-10"
+    },
+    {
+      "id": "SITE-04",
+      "location": "Stillwater Steps",
+      "environment": "corporeal / Near Veil non universale",
+      "origin": "Approdi successivi e tradizioni della Sponda",
+      "state": "Attivo",
+      "effect": "Canto ordinario o investito secondo esecutore; nome vero non apre automaticamente Origin",
+      "access": "25 km da Ossen Reach; strada, pontile e incontri civili",
+      "risk": "Contesa di accesso e perdita di copie; nessuna identificazione automatica del Sovereign",
+      "operator": "Shore Companies locali con Mara,Tavel,Sena,Oren",
+      "return_access": "Argine e battello; restare non comporta ingresso involontario in Reverie",
+      "transfer": "Persone, copie, merci; eventuale mezzo investito da verificare",
+      "cause": "Diritti d’uso e riforme di tradizioni",
+      "consequence": "Udienza 12 giugno collegata al transito",
+      "link": "CULT-01, IND-03, EVD-09"
+    },
+    {
+      "id": "SITE-05",
+      "location": "Rethar Basin",
+      "environment": "corporeal / Confluence Belts frammentate",
+      "origin": "Teatro del Departure e chiusura−11500",
+      "state": "Attivo",
+      "effect": "Tre nodi separati conservano residui di derivazione, contenimento e corridoio; non replica integrale della caduta",
+      "access": "304 km da Namar con tappe; due accessi civili e sentiero altopiano",
+      "risk": "Nodi ancora connessi richiedono diagnosi; attivazione può essere osservabile dal canale reale",
+      "operator": "Comuni, fondazioni e potenze con accessi specifici",
+      "return_access": "Vie corporee; Anchor e riferimento di uscita per intrusione Veil",
+      "transfer": "Corpi sulle vie, spirito/informazione solo in nodi verificati",
+      "cause": "Manipolazione storica e trasformazioni di bacino",
+      "consequence": "Prove locali e rischi di ricerca, non obiettivo obbligatorio",
+      "link": "FALL-01/04, EVD-04/08"
+    },
+    {
+      "id": "SITE-06",
+      "location": "Nine Houses Field",
+      "environment": "corporeal / Near Veil",
+      "origin": "Nove sedi civili riedificate in epoche diverse",
+      "state": "Dormiente",
+      "effect": "Supporti spenti autentici e archivi parziali; un frammento non incorpora automaticamente una Effigy",
+      "access": "31 km da Rethar, scavo pubblico e depositi su richiesta",
+      "risk": "Restauro che sovrascrive segni; reazione solo se attivato un mezzo reale",
+      "operator": "Deposito civico e squadre di restauro",
+      "return_access": "Sentiero orientale o strada principale",
+      "transfer": "Corpi e materiali; supporti spenti non trasferiscono coscienza",
+      "cause": "Usi amministrativi sovrapposti",
+      "consequence": "Distinte incomplete e conflitto interpretativo",
+      "link": "NINE-01/09, EVD-08"
+    },
+    {
+      "id": "SITE-07",
+      "location": "Grey Embankment",
+      "environment": "corporeal / Near Veil circoscritto",
+      "origin": "Grey Brands e argini ricostruiti",
+      "state": "Attivo",
+      "effect": "Traccia di separazione su due blocchi; detrito comune inerte, un blocco ancora investito",
+      "access": "59 km da Arel Cut; argine e ingresso di servizio",
+      "risk": "Piena, scavo in sicuro e frodi sui materiali",
+      "operator": "Consorzio idrico e appaltatore",
+      "return_access": "Strada di valle e sentiero alto",
+      "transfer": "Persone e materiali; nessun portale autonomo",
+      "cause": "Frana moderna espone strati millenari",
+      "consequence": "Nuova prova o dispersione tramite cantiere",
+      "link": "CAM-01, EVD-02"
+    },
+    {
+      "id": "SITE-08",
+      "location": "South Shoals",
+      "environment": "corporeal / Confluence Belt limitata",
+      "origin": "Scogliere, naufragi ordinari e un vecchio mezzo di orientamento",
+      "state": "Attivo",
+      "effect": "Il mezzo interferisce con una bussola investita in un raggio di 800 m; nebbia e correnti circostanti sono ordinarie",
+      "access": "Deviazione navale da Serele o Nelle, sbarco solo su un’isola di manutenzione",
+      "risk": "Fondali, perdita di riferimento e attribuzione falsa del guasto a Tempest",
+      "operator": "Servizio difari e navi indipendenti",
+      "return_access": "Rotta costiera tracciata con scandaglio; riferimento alternativo",
+      "transfer": "Corpi e merci via nave; informazione dal mezzo solo con canale idoneo",
+      "cause": "Separazione incompleta di un apparato nel 785CP",
+      "consequence": "Incidenti circoscritti e inchiesta nautica",
+      "link": "IND-02, EVD-16"
+    },
+    {
+      "id": "SITE-09",
+      "location": "Noran",
+      "environment": "Installazione corporea sotto una sala di ricovero: porte, scala di servizio, vasca di verifica e linea di allarme ordinaria.",
+      "origin": "Infrastruttura delle licenze 768 su un rapporto parziale antico.",
+      "state": "Attivo; accesso ristretto, non portale aperto al pubblico.",
+      "effect": "Il circuito investito filtra accessi informativi effettivamente presi; la porta e la scala restano uscite corporee ordinarie. Un allarme meccanico separato permette di segnalare una chiusura anche durante il test.",
+      "access": "Ingresso dalla sede locale con mandato, due addetti e registro di entrata. Il collegamento rituale non apre da solo una soglia corporea verso Basin.",
+      "risk": "Il raccordo ostile interno condivide una parte dell’alimentazione di soccorso; chiudere tutto isola anche utenti legittimi.",
+      "operator": "Eclipse",
+      "return_access": "Porta della sala o scala di servizio, entrambe controllabili fisicamente. Un segnale inviato alla vasca non sposta la persona.",
+      "transfer": "Persone e oggetti lungo porte e scala; messaggi rituali soltanto nel circuito autenticato. Nessun trasporto corporeo promesso da quel circuito.",
+      "cause": "Rete di assistenza e revisione delle licenze.",
+      "consequence": "La verifica del 23 maggio riguarda il ricovero; la separazione superiore resta in discussione entro il 30 giugno, senza chiusura predeterminata.",
+      "link": "ROOT-08; FAC-13; REL-13; CAST-177; CAST-423",
+      "name": "Noran — Camera delle Uscite",
+      "location_id": "LOC-051",
+      "ordinary_location": "Noran, LOC-051; accesso locale dalla sede della rete funeraria, non nuova coordinata planetaria.",
+      "root_relation": "Derivazione parziale filtrata; non Root locale, nessuna Seat conferita.",
+      "operator_id": "CAST-177",
+      "source": "RISERVATO_178_Integrazione_notturna_milestone_5_10.md"
+    },
+    {
+      "id": "SITE-10",
+      "location": "Tevren",
+      "environment": "Scuola di vallata: cortile di prova con vasca riflettente, lamine numerate e due uscite sul camminamento pubblico.",
+      "origin": "Infrastruttura delle licenze 768 su un rapporto parziale antico.",
+      "state": "Attivo; accesso ristretto, non portale aperto al pubblico.",
+      "effect": "Supporti autenticati permettono esercizi rituali e confronto delle clausole; un circuito collegato porta carico e messaggi circoscritti. I supporti disattivati restano oggetti materiali.",
+      "access": "Mandato della scuola, controllo del supporto e assenso delle persone coinvolte. Il rito non costituisce automaticamente consenso civile.",
+      "risk": "La clausola di scarico trasferisce carico alla sede periferica; un test può consumarne la protezione. Fascinazione e consenso vanno verificati separatamente.",
+      "operator": "Crescent",
+      "return_access": "Porta della scuola o camminamento del cortile; uscita dal rito non è teletrasporto verso un porto.",
+      "transfer": "Corpi e oggetti lungo camminamenti; messaggi ed esercizi delimitati nel circuito autenticato. Ingresso corporeo a Basin richiede una soglia ulteriore effettiva, non presente per diritto di iscrizione.",
+      "cause": "Rete di assistenza e revisione delle licenze.",
+      "consequence": "La lettura delle versioni è fissata entro il 23 maggio; il rinnovo entro il 30 giugno può essere rifiutato, modificato o sospeso.",
+      "link": "ROOT-08; FAC-14; REL-14; CAST-184; CAST-460",
+      "name": "Tevren — Cortile dei Sigilli",
+      "location_id": "LOC-058",
+      "ordinary_location": "Tevren, LOC-058; cortile della scuola locale di vallata. La rete commerciale raggiunge i porti attraverso le vie già cartografate.",
+      "root_relation": "Rapporto parziale con circuito Basin; non proprietà della Root e non trasferimento corporeo automatico.",
+      "operator_id": "CAST-184",
+      "source": "RISERVATO_178_Integrazione_notturna_milestone_5_10.md"
+    }
+  ],
+  "active_geographic_units": [
+    {
+      "id": "GEO-U01",
+      "name": "Sarn Tunnel Drainage",
+      "activation": "Critico",
+      "location": "Sarn Gate",
+      "source": "RISERVATO_118_Unita_geografiche_pronte_al_Narratore.md",
+      "temporal_pressure": "Ispezione 27 maggio 812; avanzamento del guasto verificabile.",
+      "impact": "🟠"
+    },
+    {
+      "id": "GEO-U02",
+      "name": "Auvrel Silt Line",
+      "activation": "Attivo",
+      "location": "Port Auvrel",
+      "source": "RISERVATO_118_Unita_geografiche_pronte_al_Narratore.md",
+      "temporal_pressure": "Lavori dal 3 giugno 812; portata del Leth effettiva.",
+      "impact": "🟡"
+    },
+    {
+      "id": "GEO-U03",
+      "name": "Grey Embankment Exposure",
+      "activation": "Attivo",
+      "location": "Grey Embankment",
+      "source": "RISERVATO_118_Unita_geografiche_pronte_al_Narratore.md",
+      "temporal_pressure": "Consolidamento 29 maggio 812, salvo pioggia effettiva.",
+      "impact": "🟡"
+    },
+    {
+      "id": "GEO-U04",
+      "name": "South Shoals Bearings",
+      "activation": "Attivo",
+      "location": "South Shoals",
+      "source": "RISERVATO_118_Unita_geografiche_pronte_al_Narratore.md",
+      "temporal_pressure": "Revisione 6 giugno 812, incidenti reali orientano urgenza.",
+      "impact": "🟠"
+    }
+  ],
+  "documents": [
+    {
+      "source": "RISERVATO_113_Geometria_planetaria_e_atlante_integrale.md",
+      "text": "# RISERVATO — Geometria planetaria e atlante integrale — versione 1.0\n\nMilestone 8. Verità autoriale contemporanea; non conoscenza automatica di Alexander.\n\n## Fonte geometrica e livelli\nGeografia_riservata.json è la fonte strutturata del punto 8; nomi, coordinate, reti e relazioni sono esportati e verificati. Le carte SVG sono derivate da questi dati. Le coste continentali sono generalizzazioni: consentono continenti, rotte e clima, non una precisa navigazione fra scogli. Nel settore iniziale le coordinate chilometriche rispetto a Lethorne sono la geometria operativa; la conversione latitudine/longitudine affine è illustrativa a media scala. Non si sommano distanze equirettangolari per un viaggio oceanico: le tratte globali usano archi sulla sfera di raggio 6400 km.\n\nIl punto 8 fissa 27 sistemi territoriali, 63 luoghi georeferenziati e 39 tratte regionali. Le future città minori appartengono a distretti definiti e devono mantenere questa rete. La loro aggiunta al cast non è necessaria per decidere se si possa raggiungere Teren oggi. Le aree bianche della carta sono territorio non rappresentato al dettaglio, non spazio inesistente o vietato.\n\n## Estensione planetaria\nI contorni sono in longitudine−180..180 e latitudine−90..90; nessun continente oltrepassa artificiosamente il bordo della carta. Iskar è a est di Mereth; Caldris a ovest; Veyra nell'alto emisfero nord; Nareth nel sud. Neressa è cartografata come arcipelago regionale associato a Mereth: le sue isole non devono diventare un sesto continente per abbassare una distanza.\n\n| Traccia | Origine → destinazione | km di riferimento | Durata minima ordinaria con scali |\n|---|---|---: |---: |\n| OCEAN-01 | Port Auvrel → Serevan | 8244 | 30 giorni |\n| OCEAN-02 | Neressa → Ashen Quay | 30180 | 102 giorni |\n| OCEAN-03 | Port Auvrel → Dorel Outer Port | 5425 | 21 giorni |\n| OCEAN-04 | Belanne → Norell Roads | 16516 | 62 giorni |\n\nLe durate non garantiscono partenza immediata, meteo favorevole o posto a bordo. Una carta aggiornata permette al PG di conoscere una tratta; non richiedere un'indagine segreta per ottenere informazioni commerciali pubbliche.\n\n## Ovel e Neressa: demografia senza duplicazioni\nOvel: Elven 1,05 milioni; Namar 0,42; Veyford 0,53; Norven 0,67; Ossenmark 0,61; Selvar 0,58; Dalen 0,46; Uren 0,43; Tesh 0,39; Ravaen 0,47; Ivel 0,39. Totale 6 milioni, città e campagne incluse. Le coordinate dei tre nodi principali non collocano l'intero principato nel singolo punto. Gli altri principati occupano settori contigui del bacino: Norven nordovest, Selvar nord, Ossenmark centro-nord, Dalen ovest, Uren est, Tesh nordest, Ravaen sudovest, Ivel centro-est. Il punto 9 assegnerà istituzioni e amministrazioni, non una seconda geografia.\n\nNeressa: repubblica omonima 2,5 milioni; Serele 1,7; Avaris 1,4; Corten 1,1; Nelle 1,2; Velis 1,1. Totale 9 milioni. Le isole maggiori hanno rilievi, falde e hinterland fuori dal punto della città; i confini schematici dell'arcipelago delimitano una zona marittima di riferimento, non un'unica isola piena di terra.\n\n## Clima globale e correnti\nFra 30°e 60°prevalgono apporti occidentali oceanici e tempeste; la fascia tropicale alterna regimi convettivi e stagioni umide. I rilievi occidentali di Caldris creano pioggia costiera e con che asciutte interne. Iskar riceve apporti estivi oceanici sul margine orientale; le valli interne e l'altopiano Kosh differiscono. Nareth ha coste settentrionali abitabili e ghiaccio meridionale; Veyra è discontinuamente abitabile per latitudine, mare e geotermia. Non introdurre un'intera corrente rovente senza bilancio climatico. Investimenti superiori possono creare zone anomale documentate e circoscritte, non una scusa per ogni contraddizione.\n\n## Precisione e ampliamenti\nLa costa locale orsannese e l'enclave Serele sono prioritarie sulla generalizzazione mondiale: dove la carta globale smussa una baia, la carta regionale conserva porto e accesso. La fonte strutturata registra questo scarto intenzionale. Nessuna città ha un metro preciso di quota dimostrato dal numero arrotondato. Geografia e geometria degli accessi soprannaturali si descrivono separatamente, come 65.\n\n## Dal porto oceanico al centro interno\n\nIl termine di una rotta navale è un porto, non una capitale interna. Le connessioni LANDING completano il riferimento continentale; attese, permessi e condizioni correnti vanno aggiunti.\n\n| Connessione | Percorso | km | Giorni di riferimento | Condizioni |\n|---|---|---:|---:|---|\n| LANDING-01 | Serevan → Darsa | 4320 | 72 | Più distretti e soste; non una ferrovia oceanica |\n| LANDING-02 | Ashen Quay → Anren | 1890 | 32 | Bacini orientali e passaggi locali; la capitale è interna |\n| LANDING-03 | Dorel Outer Port → Dorven | 900 | 19 | Fiordi: tratti terrestri e traghetti, manutenzione stagionale |\n| LANDING-04 | Norell Roads → Noran | 720 | 12 | Strada costiera e accesso al bacino della città |\n"
+    },
+    {
+      "source": "RISERVATO_114_Distretti_confini_e_logistica_locale.md",
+      "text": "# RISERVATO — Distretti, confini e logistica locale — versione 1.0\n\nMilestone 8. Verità autoriale contemporanea; non conoscenza automatica di Alexander.\n\n## Sottoregioni operative\nOrsanne ha sei macrosettori: Costa Auvrel occidentale, Valle Leth centrale, Pianure Veldane meridionali, Deren coalfield nordest, Sarn Front orientale, Lorien March nordovest. I loro limiti sono spartiacque, circoscrizioni e vie; non sei stati indipendenti. Rovenne è nella Valle Leth. Reth distingue Karrel Mining Basin, Teren Plateau, Kessel Iron Belt, Dovar Rural Basin e Lower Taren verso sud. Ovel è il bacino settentrionale dell'Ossen con Namar tributario; il confine non spezza il fiume a ogni ansa.\n\n## Geometria familiare da mantenere\nRovenne è 20 km a est in linea della carta e 23 km stradali da Lethorne. La deviazione della strada segue argini e ponte; il binario 26 km raccorda fermata e stazione. Lethorne è 95 m s.l.m.; Rovenne 130 m, quindi rami d'acqua locali possono scendere al Leth. Non collocare un mulino ordinario sopra la sua sorgente o assegnare ai Valcienne l'intero corso.\n\nIl territorio nominale di 18.400 ettari è 184 km² distribuiti. Circa 92 km² agricoli, 48 forestali, 22 di pascolo, 7 di residenze/borghi/servizi e 15 di lotti misti, rive e strade. Sono la classificazione dell'ultimo rapporto, non nuove liquidità. I 12 mulini si suddividono 4 nell'alto ramo di Rovenne, 5 lungo affluenti fra Rovenne e Lethorne, 3 in lotti a 45–70 km verso Deren. I diritti di uso non implicano proprietà dell'acqua o di persone nelle campagne. Il punto 9 fisserà contratti e redditi correnti su questa geometria.\n\n## Confini e itinerari reali\nSarn Gate è nel regno orsannese; Reth Narrows in Reth. Fra i due esistono galleria, dogana e tratti di valle. Il valico Thenn Pass è a 1720 m; la galleria ferroviaria passa più bassa, sotto quota 1450: un pendolare non viaggia sulla vetta. Un blocco della linea non chiude automaticamente ogni strada: la deviazione via Thenn aggiunge trasbordi e salite, con rischi propri.\n\nLa Carta regionale è una proiezione operativa, non catastale. Port Auvrel e Belanne sono vertici della costa schematica e stanno al mare; Veldane è capitale interna. Serele è enclave costiera neressana, a sud di Orsanne, non dentro la sua residenza. Il punto 9 potrà approfondire accordi di transito senza spostare questi luoghi.\n\n## Rete urbana e carichi\nMercati, depositi, smistamenti e chiuse assorbono tempo. Lethorne dispone di magazzini ma non di ogni risorsa estratta; Auvrel riceve merci fluviali e ferroviarie; Belanne è alternativa meridionale. Un lotto di rame può sostare a Copper Yard o Teren senza essere sparito. Le quote minoritarie di Alexander non gli danno diritto a ordinare ogni treno. Se crea una risorsa Independent, la sua esistenza è vera, ma occorrono vie e distribuzione per trasferirla: nessuna penalità inventata per impedire l'uso utile di poteri.\n\n## Fusi e ore\nIl meridiano editoriale 0 attraversa Lethorne. Per le ferrovie Orsanne usa Lethorne Standard; Reth adotta lo stesso orario sui treni internazionali e ora locale negli uffici. Neressa può indicare ora portuale: ogni appuntamento precisa la differenza. Per spostamenti oceanici il Narratore calcola il fuso dalla longitudine e dichiara il cambio di data; non ritarda una morte o guarigione con una semplice etichetta oraria.\n"
+    },
+    {
+      "source": "RISERVATO_115_Siti_soprannaturali_localizzati.md",
+      "text": "# RISERVATO — Siti soprannaturali localizzati — versione 1.0\n\nMilestone 8. Verità autoriale contemporanea; non conoscenza automatica di Alexander.\n\nQuesti otto esemplari applicano i tipi del documento 65, non aggiungono nuove autorità. La posizione materiale è in Geografia_riservata; The Veil e The Reverie non ereditano automaticamente chilometri dalla carta. Un ingresso può trasferire informazione ma non corpo. Il grado del PG non cambia varcando una rovina.\n\n## SITE-01 — Arel Cut\n\n**Ambiente: ** corporeal / Near Veil. **Origine: ** Gallerie della prima fuga, poi tagli ferroviari e cave. **Stato: ** Attivo.\n\n**Effetto concreto: ** Residui di marchi in pochi supporti identificabili; superfici comuni inerti. **Gestione: ** Cava e soprintendenza locale; nessun VII proprietario di ogni pietra.\n\n**Andata: ** Strada 173 km da Lethorne, permesso di cava per livelli bassi; due uscite corporee. **Trasferibili: ** Corpi, equipaggiamento e informazioni lungo accessi ordinari. **Ritorno: ** Stessa strada o uscita occidentale della cava; non passaggio gratuito in Root.\n\n**Esposizione e limite: ** Crolli materiali e Backflow solo su residui effettivamente attivati. Un visitatore sa ciò che osserva o diagnostica; il nome locale non conferisce il repertorio storico. **Causa: ** Atti reali su marchi e uso posteriore del sito. **Conseguenza: ** Prove spezzate e disputa sulla cava. **Collegamenti: ** HIST-007, EVD-01/02.\n\n## SITE-02 — Hollow Towers\n\n**Ambiente: ** corporeal / Confluence Belt locale. **Origine: ** Assedio−12052 e ricostruzioni successive. **Stato: ** Attivo.\n\n**Effetto concreto: ** Un arco di pietra conserva collegamento informativo fra due terrazze; non tutta la fortezza. **Gestione: ** Scuola archeologica e custodi regionali.\n\n**Andata: ** Da Reth Narrows 210 km di strada; presidio degli scavi. **Trasferibili: ** Informazione attestata su mezzo locale; corpo solo su sentieri. **Ritorno: ** Sentiero e terrazza di ingresso; legame Veil non sostituisce strada.\n\n**Esposizione e limite: ** Perdita di un collegamento e caduta; nessun trasferimento corporeo attraverso un canale informativo. Un visitatore sa ciò che osserva o diagnostica; il nome locale non conferisce il repertorio storico. **Causa: ** Investimenti bellici e riuso amministrativo. **Conseguenza: ** Documenti di perdite e vie antiche confrontabili. **Collegamenti: ** CAM-02, EVD-02.\n\n## SITE-03 — Namar Upper Works\n\n**Ambiente: ** corporeal / Near Veil. **Origine: ** Opere−11928, manutenzioni e riforme successive. **Stato: ** Critico.\n\n**Effetto concreto: ** Distribuzione idrica e sostegno clinico tramite circuiti distinguibili; nessuna riserva d’anime di Edran. **Gestione: ** Iven Namar, Heart IV e tecnici; Oriel non dirige ogni valvola.\n\n**Andata: ** 38 km dal centro, contatto tecnico o assemblea; scala e strada di servizio. **Trasferibili: ** Corpi lungo strada, acqua nei canali, informazione nei supporti specifici. **Ritorno: ** Strada e passerella; accesso spirituale solo tramite mezzo diagnosticato.\n\n**Esposizione e limite: ** Sovraccarico già programmato, acqua persa e lesioni se separazione errata. Un visitatore sa ciò che osserva o diagnostica; il nome locale non conferisce il repertorio storico. **Causa: ** Bacino alto e configurazioni mantenute. **Conseguenza: ** Decisione 24 maggio, riduzione servizio se non intervenuto. **Collegamenti: ** CULT-02, WORK-03, EVD-10.\n\n## SITE-04 — Stillwater Steps\n\n**Ambiente: ** corporeal / Near Veil non universale. **Origine: ** Approdi successivi e tradizioni della Sponda. **Stato: ** Attivo.\n\n**Effetto concreto: ** Canto ordinario o investito secondo esecutore; nome vero non apre automaticamente Origin. **Gestione: ** Shore Companies locali con Mara, Tavel, Sena, Oren.\n\n**Andata: ** 25 km da Ossen Reach; strada, pontile e incontri civili. **Trasferibili: ** Persone, copie, merci; eventuale mezzo investito da verificare. **Ritorno: ** Argine e battello; restare non comporta ingresso involontario in Reverie.\n\n**Esposizione e limite: ** Contesa di accesso e perdita di copie; nessuna identificazione automatica del Sovereign. Un visitatore sa ciò che osserva o diagnostica; il nome locale non conferisce il repertorio storico. **Causa: ** Diritti d’uso e riforme di tradizioni. **Conseguenza: ** Udienza 12 giugno collegata al transito. **Collegamenti: ** CULT-01, IND-03, EVD-09.\n\n## SITE-05 — Rethar Basin\n\n**Ambiente: ** corporeal / Confluence Belts frammentate. **Origine: ** Teatro del Departure e chiusura−11500. **Stato: ** Attivo.\n\n**Effetto concreto: ** Tre nodi separati conservano residui di derivazione, contenimento e corridoio; non replica integrale della caduta. **Gestione: ** Comuni, fondazioni e potenze con accessi specifici.\n\n**Andata: ** 304 km da Namar con tappe; due accessi civili e sentiero altopiano. **Trasferibili: ** Corpi sulle vie, spirito/informazione solo in nodi verificati. **Ritorno: ** Vie corporee; Anchor e riferimento di uscita per intrusione Veil.\n\n**Esposizione e limite: ** Nodi ancora connessi richiedono diagnosi; attivazione può essere osservabile dal canale reale. Un visitatore sa ciò che osserva o diagnostica; il nome locale non conferisce il repertorio storico. **Causa: ** Manipolazione storica e trasformazioni di bacino. **Conseguenza: ** Prove locali e rischi di ricerca, non obiettivo obbligatorio. **Collegamenti: ** FALL-01/04, EVD-04/08.\n\n## SITE-06 — Nine Houses Field\n\n**Ambiente: ** corporeal / Near Veil. **Origine: ** Nove sedi civili riedificate in epoche diverse. **Stato: ** Dormiente.\n\n**Effetto concreto: ** Supporti spenti autentici e archivi parziali; un frammento non incorpora automaticamente una Effigy. **Gestione: ** Deposito civico e squadre di restauro.\n\n**Andata: ** 31 km da Rethar, scavo pubblico e depositi su richiesta. **Trasferibili: ** Corpi e materiali; supporti spenti non trasferiscono coscienza. **Ritorno: ** Sentiero orientale o strada principale.\n\n**Esposizione e limite: ** Restauro che sovrascrive segni; reazione solo se attivato un mezzo reale. Un visitatore sa ciò che osserva o diagnostica; il nome locale non conferisce il repertorio storico. **Causa: ** Usi amministrativi sovrapposti. **Conseguenza: ** Distinte incomplete e conflitto interpretativo. **Collegamenti: ** NINE-01/09, EVD-08.\n\n## SITE-07 — Grey Embankment\n\n**Ambiente: ** corporeal / Near Veil circoscritto. **Origine: ** Grey Brands e argini ricostruiti. **Stato: ** Attivo.\n\n**Effetto concreto: ** Traccia di separazione su due blocchi; detrito comune inerte, un blocco ancora investito. **Gestione: ** Consorzio idrico e appaltatore.\n\n**Andata: ** 59 km da Arel Cut; argine e ingresso di servizio. **Trasferibili: ** Persone e materiali; nessun portale autonomo. **Ritorno: ** Strada di valle e sentiero alto.\n\n**Esposizione e limite: ** Piena, scavo in sicuro e frodi sui materiali. Un visitatore sa ciò che osserva o diagnostica; il nome locale non conferisce il repertorio storico. **Causa: ** Frana moderna espone strati millenari. **Conseguenza: ** Nuova prova o dispersione tramite cantiere. **Collegamenti: ** CAM-01, EVD-02.\n\n## SITE-08 — South Shoals\n\n**Ambiente: ** corporeal / Confluence Belt limitata. **Origine: ** Scogliere, naufragi ordinari e un vecchio mezzo di orientamento. **Stato: ** Attivo.\n\n**Effetto concreto: ** Il mezzo interferisce con una bussola investita in un raggio di 800 m; nebbia e correnti circostanti sono ordinarie. **Gestione: ** Servizio di fari e navi indipendenti.\n\n**Andata: ** Deviazione navale da Serele o Nelle, sbarco solo su un’isola di manutenzione. **Trasferibili: ** Corpi e merci via nave; informazione dal mezzo solo con canale idoneo. **Ritorno: ** Rotta costiera tracciata con scandaglio; riferimento alternativo.\n\n**Esposizione e limite: ** Fondali, perdita di riferimento e attribuzione falsa del guasto a Tempest. Un visitatore sa ciò che osserva o diagnostica; il nome locale non conferisce il repertorio storico. **Causa: ** Separazione incompleta di un apparato nel 785CP. **Conseguenza: ** Incidenti circoscritti e inchiesta nautica. **Collegamenti: ** IND-02, EVD-16.\n\n\n## Siti superiori e remoto\nIl Vigil Reach di 96 resta fuori dal sistema di Avarenne: la stella è Independent, con habitat e rotte posteriori non conosciuti automaticamente. Non si assegna al PG un corridoio diretto per ricordare la sua opera. Le Roots non si trasformano in sette montagne: le interfacce sono legate a fonti e persone determinate, e loro eventuali accessi moderni restano nel 72 e 98.\n\nDormiente significa effetto locale non in movimento, non mondo congelato: custodi, restauratori e cantieri continuano ad agire. Nei casi critici il Narratore registra modifiche del servizio e vere decisioni, senza chiudere anticipatamente un conflitto.\n"
+    },
+    {
+      "source": "RISERVATO_116_Territori_antichi_e_sovrapposizioni.md",
+      "text": "# RISERVATO — Territori antichi e sovrapposizioni — versione 1.0\n\nMilestone 8. Verità autoriale contemporanea; non conoscenza automatica di Alexander.\n\n## Coordinate contemporanee e ricordi antichi\nI 12.312 anni di assenza hanno modificato insediamenti, argini, lingue e confini. La geologia ordinaria non sposta un continente per garantire l’oblio. Edran ricorda paesaggi vissuti; i nomi moderni non sono già nella sua memoria antica. Il duca conosce carte moderne senza sapere che una delle con che è il teatro della caduta. Incontro, cote topografica e diagnosi possono consentire riconoscimento: non è richiesto un documento raro se la concordanza è già sufficiente.\n\n| Territorio o opera antica | Sovrapposizione attuale | Persistenza | Cosa è cambiato | Prova / limite |\n|---|---|---|---|---|\n| Kharven e reti proprietarie | Fascia Arel Cut–Grey Embankment–Sarn Front | Rocce, tagli e supporti particolari | Gallerie, cave e quartieri; nomi ricollocati | EVD-01; non ogni rovina è coeva |\n| Water Truce | Confluenze oggi nell’alto Ossen | Spazi di chiusa e protocolli ricostruiti | Corsi minori e pontili | EVD-10; niente oggetti ordinari intatti 12 millenni |\n| Grey Brands | Grey Embankment e depositi fuori carta | Separazioni diagnosticabili | Argini e blocchi mossi dal cantiere | EVD-02; un blocco autentico non prova l’intera campagna |\n| Hollow Towers | Campo collinare in Reth | Fondazioni e arco investito informativo | Torri crollate, terrazze ricostruite | EVD-02; fonte di perdite e responsabilità |\n| Open Wells e Namar Works | Namar e Upper Works | Relazioni di servizio, matrici confrontabili | Componenti, popolazione e istituzioni | EVD-10; Heart IV non conserva tutte le memorie |\n| Nine Houses | Nine Houses Field sopra Rethar | Distinte e supporti parziali | Edifici e archivi sovrapposti | EVD-08; funzioni civili, non 9Seats |\n| Departure Project | Tre nodi del Rethar Basin | Residui distinguibili della modifica | Bacino abitato, dispositivi spenti e nuovi usi | EVD-04/08; non un film automatico della caduta |\n| Trasmissione Quiet Glass | Catena fra scuole, collegi e Rovenne | Nucleo investito identificabile | Montatura e parti ordinarie sostituite | EVD-15; arrivo 805 non previsto dall’artefice |\n| Vigil Star | Vigil Reach extramondiale | Stella Independent | Colonizzazione e rotte posteriori | EVD-03; non sole locale Aster |\n\n## Storia fisica dei bacini\nOssen e Leth attraversano terrazze alluvionali con letti antichi e borghi successivi. Il trasferimento della Via delle Argille del−10680 riguarda il corso fluviale, non uno spostamento di mille chilometri della sorgente. Le Guerre delle Dighe Alte del−7620 hanno lasciato opere e ricostruzioni a monte; correnti commerciali successive usarono valli nuove. I principati moderni emergono molto dopo: non governano retroattivamente Kharven.\n\n## Regola delle attribuzioni\nSeparare autore antico, riparatore successivo, titolare attuale e narratore del fatto. La stessa infrastruttura può includere componenti di persone diverse, con riconoscimenti storici diversi. Conoscere una storia vera non concede proprietà della città o servizio. Se il PG ricostruisce una corrispondenza, il Narratore può comunicarla senza assegnargli automaticamente segreti successivi.\n"
+    },
+    {
+      "source": "RISERVATO_117_Reti_interruzioni_e_accessi_alternativi.md",
+      "text": "# RISERVATO — Reti, interruzioni e accessi alternativi — versione 1.0\n\nMilestone 8. Verità autoriale contemporanea; non conoscenza automatica di Alexander.\n\n## Stato T0 verificabile\nLe 39 tratte ordinarie del registro sono normalmente aperte a T0; non sono 35 cronache di disastri. Non è inatto una sospensione ferroviaria segreta di Rovenne. Le pressioni qui descritte hanno cause e soglie osservabili. Meteo, carico e decisioni possono produrre interruzioni; il Narratore registra causa, momento, servizio colpito e alternativa effettiva, non una chiusura retroattiva per costringere il PG.\n\n| Settore | Pressione reale iniziale | Effetto se aggravata | Alternativa esistente |\n|---|---|---|---|\n| Sarn Gate–Reth Narrows | Drenaggio di galleria da ispezionare il 27 maggio | Limite di peso e fermate temporanee | Strada Thenn Pass, trasbordo e quattro–cinque giorni aggiuntivi nel tratto |\n| Ossen Reach–Veyford | Concessione contestata, udienza 12 giugno | Tariffe e accessi civili cambiati, non barriera magica | Argine ordinario e nuovi accordi di approdo |\n| Namar Upper Works | Componente 789 sotto carico 806 | Riduzione dell’acqua e sostegno limitato | Serbatoi e carico ridotto; diagnosi o riparazione diretta valida |\n| Auvrel estuario | Insabbiamento annuale e dragaggio | Grandi pescaggi attesi alla rada | Nave minore, ferrovia verso Belanne, deposito temporaneo |\n| Karrel–Copper Yard | Deposito pieno e lotti contestati | Rinvio di alcuni vagoni | Magazzino Karrel e confronto sul lotto, non rame planetario esaurito |\n| South Shoals | Apparato 785 separato incompletamente | Guasto di bussola investita entro 800 m | Scandaglio e rotta d’altura più lunga 90 km |\n\n## Applicare i tempi\nIl tempo minimo di movimento è distanza/velocità. Per strade e fiumi dividere per 12 ore giornaliere e aggiungere notti e soste. Per treni e navi usare servizio e coincidenze reali. Iritardi base sono informativi e non un pedaggio inviolabile: un genuino intervento può ridurli. Una modalità speciale richiede proprie condizioni, non la somma gratuita dei migliori parametri di tre mezzi.\n\nPesi, pescaggio, carburante e documenti possono impedire un certo carico, non necessariamente il passaggio di una persona. Un titolo ducale dà accessi civili limitati; i poteri possono superare un ostacolo fisico senza cancellare la responsabilità pubblica. L’uso di Cradle per un ponte o Heart per un ferito resta valido quando sostegno, pattern e grado bastano. Infrastrutture ordinarie non sono protette da contromagia cosmica inventata.\n\n## Telegrafo e comunicazioni sostitutive\nI fili seguono linee ferroviarie e reti di posta. Un taglio vicino a Deren interrompe quel ramo, non ogni telegramma del mondo. Posta a cavallo e invio via altro nodo restano; relazioni spirituali richiedono un mezzo effettivo. Un guasto tecnico può essere verificato da tecnici ordinari; un messaggio autentico può trasmettere un informatore errato. Non attestare verità cosmica per ogni telegramma certificato.\n\n## Collegamenti superiori\nUncorridorio di un Seat-holder è un rapporto con un investimento dichiarato. Nonè una strada comunale nella quale Alexander entra automaticamente. Se viene procurato un passaggio, stabilire andata, ritorno, cosa trasferisce, testimoni e contesa prima del transito. Le Confluence Belts di Rethar non ricostituiscono il Refuge di Edran o la sua piena Cardinalità.\n"
+    },
+    {
+      "source": "RISERVATO_118_Unita_geografiche_pronte_al_Narratore.md",
+      "text": "# RISERVATO — Unità geografiche pronte al Narratore — versione 1.0\n\nMilestone 8. Verità autoriale contemporanea; non conoscenza automatica di Alexander.\n\nLe unità sono autonome e combinabili con CULT-01/02 e IND-01/03. Nessun evento parte perché Alexander apre un file. Date e condizioni descrivono attività in corso: la partita decide come evolvono. Non fissare azioni, emozioni o esiti dei PG. Almeno due ingressi reali sono offerti per ciascuna unità; la trama futura non può eliminarli per proteggere una rivelazione.\n\n## GEO-U01 — Sarn Tunnel Drainage\n\n**Concetto: ** Una galleria di frontiera richiede drenaggio e prove prima del limite di carico. **Funzione: ** Minaccia logistica e occasione tecnica. **Attivazione: ** Critico.\n\n**Stato dinamico: ** Il 27 maggio ingegneri ispezionano un ramo; i treni passano già a carichi ridotti. **Conflitto: ** Ridurre rischio senza bloccare cibo e lavoro.\n\n**Forze, obiettivi, paure e limiti: ** Ingegneri vogliono prova, temono allagamento, non possono annullare dogana; compagnie vogliono traffico, hanno vincolo di sicurezza; lavoratori chiedono fermo circoscritto. **Segreto: ** Una derivazione secondaria omessa dal piano moderno appartiene a lavori ordinari del 511; non dispositivo divino.\n\n**Ingressi concreti, almeno due: ** Richiesta di perizia inoltrata a una società partecipata; un telegramma segnala vagoni limitati.\n\n**Con intervento: ** Un controllo o intervento valido può ripristinare il ramo; pagare o ignorare cambia flussi e disponibilità. **Senza intervento: ** La squadra applica limiti di peso e devia alcuni carichi; non aspetta il PG.\n\n**Pressione temporale: ** Ispezione 27 maggio 812; avanzamento del guasto verificabile. **Impatto: ** 🟠.\n\n**Scena possibile: ** Confronto fra mappa di drenaggio e stillicidio. **Complicazione: ** Due planimetrie genuine descrivono epoche diverse. **Twist opzionale: ** Una squadra locale aveva già capito il difetto ma mancava autorizzazione.\n\n**Luogo: ** Sarn Gate. **Collegamento verticale e orizzontale: ** ROUTE-08 / HIST-056.\n\n## GEO-U02 — Auvrel Silt Line\n\n**Concetto: ** Porto e fiume accumulano limo che rende conteso il dragaggio. **Funzione: ** Conflitto economico e accesso alternativo. **Attivazione: ** Attivo.\n\n**Stato dinamico: ** Un lotto di dragaggio parte il 3 giugno; depositi chiedono priorità. **Conflitto: ** Canale profondo contro rive difese e costo pubblico.\n\n**Forze, obiettivi, paure e limiti: ** Autorità portuale vuole passaggi sicuri, teme incidenti, non possiede ogni approdo; comunità di riva vogliono sponda integra; vettori vogliono priorità. **Segreto: ** Un deposito dichiara pescaggio maggiore di quello necessario per ottenere un posto; sedimento reale non è congiura.\n\n**Ingressi concreti, almeno due: ** Un magazzino in concessione dei Valcienne riceve un avviso; due navi competono per una finestra.\n\n**Con intervento: ** Diagnosi, accordo, navi minori o opera reale cambiano il servizio. **Senza intervento: ** Il porto assegna rada e devia alcuni carichi verso Belanne.\n\n**Pressione temporale: ** Lavori dal 3 giugno 812; portata del Leth effettiva. **Impatto: ** 🟡.\n\n**Scena possibile: ** Sedimento estratto e due richieste concorrenti. **Complicazione: ** Un canale ripulito sposta rischio verso un’altra riva. **Twist opzionale: ** Una vettore rinuncia al la priorità per salvare un accordo.\n\n**Luogo: ** Port Auvrel. **Collegamento verticale e orizzontale: ** ROUTE-04/05 / RES-05.\n\n## GEO-U03 — Grey Embankment Exposure\n\n**Concetto: ** Una frana espone materiali antichi in un argine di servizio. **Funzione: ** Prova storica e conflitto di cantiere. **Attivazione: ** Attivo.\n\n**Stato dinamico: ** Appaltatore prepara consolidamento il 29 maggio, soprintendenza raccoglie frammenti. **Conflitto: ** Sicurezza della sponda contro distruzione di una prova.\n\n**Forze, obiettivi, paure e limiti: ** Appaltatore vuole evitare piena e penali, non conosce ogni traccia; restauratori vogliono campioni; comunità vuole strada aperta. **Segreto: ** Due blocchi sono autentici; uno contiene investimento residuo, altri detriti sono inerti.\n\n**Ingressi concreti, almeno due: ** Richiesta di analisi a Lethorne; un campione appare in vendita con attribuzione troppo estesa.\n\n**Con intervento: ** Conservazione, diagnosi e consolidamento possono coesistere se tecnicamente validi. **Senza intervento: ** Campioni vengono catalogati; il cantiere consolida e altri segni possono restare sepolti.\n\n**Pressione temporale: ** Consolidamento 29 maggio 812, salvo pioggia effettiva. **Impatto: ** 🟡.\n\n**Scena possibile: ** Confronto fra strato e campione venduto. **Complicazione: ** L’unico blocco attivo è usato come pietra comune. **Twist opzionale: ** Unpezzo pubblicizzato come segreto è una copia recente.\n\n**Luogo: ** Grey Embankment. **Collegamento verticale e orizzontale: ** SITE-07 / EVD-02.\n\n## GEO-U04 — South Shoals Bearings\n\n**Concetto: ** Bussole investite falliscono presso un vecchio mezzo di orientamento. **Funzione: ** Minaccia circoscritta e indagine tecnica. **Attivazione: ** Attivo.\n\n**Stato dinamico: ** Servizio fari raccoglie due incidenti e prepara revisione il 6 giugno. **Conflitto: ** Separare guasto investito da fondali e nebbia ordinari.\n\n**Forze, obiettivi, paure e limiti: ** Marinai vogliono ritorno sicuro, hanno limiti di carburante; tecnici vogliono ricostruzione; armatori temono sospensione totale. **Segreto: ** Solo un canale del dispositivo 785 interferisce entro 800 m; le bussole ordinarie non diventano tutte false.\n\n**Ingressi concreti, almeno due: ** Bollettino commerciale a Belanne; sopravvissuto chiede confronto dei mezzi.\n\n**Con intervento: ** Verifica o disattivazione selettiva può togliere l’effetto; percorso alternativo resta 90 km più lungo. **Senza intervento: ** I piloti usano scandaglio e correggono la rotta; gli uffici pubblicano riserva.\n\n**Pressione temporale: ** Revisione 6 giugno 812, incidenti reali orientano urgenza. **Impatto: ** 🟠.\n\n**Scena possibile: ** Due bussole e una carta autentica. **Complicazione: ** Una buona diagnosi non annulla bassi fondali. **Twist opzionale: ** L’apparato era mantenuto per una funzione utile separabile.\n\n**Luogo: ** South Shoals. **Collegamento verticale e orizzontale: ** SITE-08 / IND-02.\n"
+    },
+    {
+      "source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+      "text": "# Il Ducato di Rovenne — territorio, città e gerarchia\n\nRevisione territoriale 347. Integrazione del canone: questi dettagli mancavano, non erano informazioni nascoste da scoprire durante la partita. Sono conoscenze ordinarie di Alexander anteriori al coma: formazione, visite, carte e atti della casa. Dati demografici del censimento 810, arrotondati; non una conta istantanea degli abitanti al risveglio.\n\n## Dimensioni e centri abitati\n\nIl **Ducato di Rovenne** è un territorio interno del regno di Orsanne: **16.400 km²**, circa **1.200.000 abitanti**, **cinque città riconosciute**, **24 borghi** e **312 villaggi censiti**, oltre a case sparse, poderi e insediamenti minori. I villaggi censiti sono nuclei abitati distinti, non 312 comuni necessariamente autonomi. La superficie comprende centri, campagne, boschi, acque e viabilità; le suddivisioni non sono superfici da sommare di nuovo al ducato.\n\nIl ducato si sviluppa nelle pianure del Leth e nelle colline vicine a Lethorne, per un ordine di grandezza di **175 km da ovest a est e 125 km da nord a sud** fra gli estremi. Queste estensioni descrivono un territorio irregolare, non un rettangolo pieno né una precisione catastale per ogni confine. La densità media è di circa 73 abitanti per km², con forte concentrazione a Lethorne.\n\nLe cinque città sono **Lethorne, Belcour, Vernay, Rochebrune e Aubrecourt**. **Rovenne rimane un borgo di 3.800 abitanti**: dà il nome al titolo e ospita la residenza dinastica, ma non diventa artificiosamente una metropoli. **Lethorne è il capoluogo amministrativo ed economico del ducato**; la sua carta civica e il municipio mantengono competenze proprie. Non esiste una contea ereditaria di Lethorne assegnata a un altro casato sopra il municipio.\n\nVeldane, Port Auvrel, Belanne, Deren, Valenne, Lorien, Sarn Gate e Ossen Reach **sono fuori dal ducato**. Le proprietà o le concessioni di una famiglia oltre confine non spostano il confine politico. I due magazzini Valcienne a Port Auvrel sono quindi beni esterni al territorio ducale. Le città locali aggiunte qui non sostituiscono le grandi città nazionali già definite.\n\n## Territorio pubblico e patrimonio privato\n\nI **18.400 ettari, cioè 184 km²**, del catasto Valcienne sono proprietà private distribuite: non la dimensione del ducato. Anche se tutti fossero al suo interno, sarebbero soltanto l’1,12% dei 16.400 km². Quella percentuale è un confronto di scala, non una nuova attestazione dell’ubicazione di ciascun lotto. Lotti, quote e concessioni conservano titoli e ubicazioni propri.\n\nNel ducato vivono proprietari indipendenti, affittuari, lavoratori, comuni, enti religiosi e società. Il duca non riceve personalmente il canone di ogni casa e non possiede ogni strada o fabbrica. Essere conte di Belcour non significa possedere tutti i 2.600 km² della contea: il patrimonio Belcour e la circoscrizione territoriale sono distinti nello stesso modo.\n\nLa cassa privata e i debiti Valcienne rimangono quelli dei documenti 128 e 133. Imposte, stanziamenti e servizi territoriali transitano per tesorerie pubbliche separate. **Albin amministra il patrimonio, non sostituisce il governo ducale; le dodici guardie domestiche non sono la forza pubblica di 1,2 milioni di abitanti.**\n\n## La gerarchia effettiva\n\nLa catena territoriale è **Corona di Orsanne → duca di Rovenne → conti territoriali → baroni territoriali**. Le istituzioni nazionali e le carte civiche limitano e distribuiscono le competenze, ma non cancellano il rango e la dipendenza territoriale. I conti non sono duchi sovrani che trattano con Alexander sullo stesso piano.\n\nIl ducato comprende **sei grandi circoscrizioni: quattro contee e due distretti diretti**, e **18 baronie territoriali riconosciute**. Dodici baronie rispondono attraverso i quattro conti; sei rispondono direttamente al livello ducale nei due distretti senza conte. I distretti diretti non sono due contee con un conte tenuto segreto.\n\nLe baronie sono parti delle rispettive circoscrizioni: complessivamente coprono 7.750 km² già inclusi nei 16.400. Gli altri 8.650 km² comprendono città con carte proprie, comuni e territori amministrati direttamente al livello comitale o ducale. Il territorio non deve essere integralmente spartito in tenute baronali per avere una gerarchia nobiliare effettiva.\n\n## Le sei circoscrizioni\n\n| Circoscrizione | Superficie km² | Abitanti totali | Centro principale e abitanti del centro | Titolare superiore |\n|---|---:|---:|---|---|\n| Distretto civico di Lethorne | 3.200 | 580.000 | Lethorne: 430.000 | Alexander Valcienne |\n| Distretto ducale di Rovenne | 2.450 | 138.000 | Rovenne: 3.800 | Alexander Valcienne |\n| Contea di Belcour | 2.600 | 148.000 | Belcour: 26.000 | Armand Belcour |\n| Contea di Vernay | 2.850 | 126.000 | Vernay: 22.000 | Vincent Vernier |\n| Contea di Rochebrune | 2.750 | 112.000 | Rochebrune: 18.000 | Madeleine Rochebrune |\n| Contea di Aubrecourt | 2.550 | 96.000 | Aubrecourt: 14.000 | Clara Aubrecourt |\n\nLe popolazioni delle città e dei borghi sono comprese nei totali territoriali. Le cinque città sommano **510.000 abitanti**; i 24 borghi, Rovenne incluso, circa **90.000**; i villaggi censiti circa **238.000**; case sparse e nuclei minori circa **362.000**. Totale: **1.200.000**, senza duplicare le città nelle campagne.\n\n### Distretto civico di Lethorne\n\nCittà industriale a carta propria, comuni di cintura, officine e pianura del Leth. Il municipio governa la città; il duca presiede il livello territoriale comune.\n\n\n### Distretto ducale di Rovenne\n\nSede dinastica, campagne orientali vicine a Lethorne, mulini e derivazioni. La residenza ducale e l’ufficio privato non sono l’intera amministrazione del distretto.\n\n\n### Contea di Belcour\n\nPianure a sud-ovest di Lethorne, derivazioni irrigue, lino, orti e strade di approvvigionamento. Il conte conserva residenza cittadina e affari a Lethorne.\n\n**Armand Belcour è conte di Belcour e titolare territoriale subordinato ad Alexander.** Il suo rango e il suo ufficio non sono una nuova nomina fatta dal giovane duca: esistevano sotto Lucien. Aurelie è la figlia del conte e la primogenita già definita; il fidanzamento non l’ha resa duchessa.\n\n### Contea di Vernay\n\nCampagne meridionali, allevamento e mulini secondari; manutenzioni e terreni confinanti con lotti Valcienne. Leon è l’erede del conte, non un duca rivale.\n\n**Vincent Vernier**, cinquantadue anni, è il conte; **Leon Vernier**, ventitré, suo figlio ed erede. La rivalità scolastica con Alexander è personale e competitiva, ma la gerarchia pubblica non è paritaria. Vincent vuole che il finanziamento delle strade segua l’uso effettivo, anziché diventare favore del duca o privilegio della città.\n\n### Contea di Rochebrune\n\nColline sud-orientali, cave di pietra, boschi e fornaci. Non comprende il centro carbonifero di Deren né il passo di Sarn.\n\n**Madeleine Rochebrune**, cinquantasei anni, è contessa titolare in proprio. Deve tenere insieme commesse industriali, comuni delle cave e manutenzione dei versanti; contesta il rinvio dei lavori di sicurezza per accelerare le forniture a Lethorne. Non è la moglie di un conte che esercita la carica al suo posto.\n\n### Contea di Aubrecourt\n\nTerrazze nord-orientali, frutteti, pascoli e lavorazione del legname. Le strade raccordano i mercati interni senza inglobare Ossen Reach.\n\n**Clara Aubrecourt**, quarantatré anni, è contessa titolare in proprio. Chiede trasporti stagionali affidabili e contesta che il calendario delle officine assorba sempre la capacità disponibile. Il suo sostegno a un’opera ducale dipende da costi e benefici, non da un’obbedienza personale illimitata.\n\n## Le diciotto baronie e i loro titolari\n\nI nomi seguenti sono titolari attuali noti ad Alexander per atti, incontri o corrispondenza; non tutti sono suoi amici intimi. Il titolo è una funzione territoriale ereditaria riconosciuta, non un’Effige, una licenza di arresto o la proprietà degli abitanti. “Diretta” indica il rapporto ducale senza un conte interposto.\n\n| Baronia | km² | Titolare | Dipendenza | Interessi territoriali |\n|---|---:|---|---|---|\n| Pontel | 280 | Adrien Pontel | Distretto civico di Lethorne | Ponte e mercato di transito |\n| Les Ormes | 330 | Elise Desormes | Distretto civico di Lethorne | Orticoltura della cintura urbana |\n| Riveclaire | 290 | Soren Vask | Distretto civico di Lethorne | Approdi e manutenzione delle rive |\n| Montfaucon | 410 | Henri Montfaucon | Distretto ducale di Rovenne | Boschi e strada delle alture |\n| Briselles | 370 | Louise Briselles | Distretto ducale di Rovenne | Pascoli e manutenzione delle derivazioni |\n| La Varenne | 400 | Marcel Ravelle | Distretto ducale di Rovenne | Tenute della casa Ravelle |\n| Bellive | 460 | Gaspard Bellive | Contea di Belcour | Lino e lavatoi |\n| Fontenac | 430 | Margot Fontenac | Contea di Belcour | Sorgenti, condotte e diritti d’accesso |\n| Saulnes | 480 | Olivier Saulnes | Contea di Belcour | Cereali e mercati rurali |\n| Vernelles | 520 | Paul Vernelles | Contea di Vernay | Allevamento e fiere |\n| Cressan | 440 | Diane Cressan | Contea di Vernay | Mulini secondari e canali |\n| Montreval | 490 | Jules Montreval | Contea di Vernay | Vigneti collinari e carri |\n| Pierrefend | 560 | Arvek Thol | Contea di Rochebrune | Cave di pietra e maestranze Ossari |\n| Orbrune | 470 | Cecile Orbrune | Contea di Rochebrune | Fornaci e combustibile |\n| Valgrise | 470 | Remy Valgrise | Contea di Rochebrune | Strada di collina e piazzole di cava |\n| Aubremont | 450 | Noemie Aubremont | Contea di Aubrecourt | Frutteti e trasporti stagionali |\n| Clairbois | 430 | Pascal Clairbois | Contea di Aubrecourt | Boschi e segherie |\n| Roseraie | 470 | Ines Roseraie | Contea di Aubrecourt | Vivai, colture e mercato locale |\n\n**Marcel Ravelle**, barone di La Varenne, è il padre di Etienne, già amico di Alexander. Etienne resta un secondogenito senza titolo territoriale proprio; suo fratello maggiore è l’erede. **Soren Vask è Serekh; Arvek Thol è Ossari.** Sono persone e titolari civili, non mascotte di una razza né Bearer assegnati per il loro corpo. Gli altri titolari introdotti da questo raccordo sono umani ordinari; nessuna abilità soprannaturale viene aggiunta per accompagnare un titolo.\n\n**Adrien Pontel, Pontel.** Vuole ripartire il costo del ponte anche fra i trasportatori; teme che il municipio addossi tutto alle campagne. Alexander conosce il ruolo e il tema pubblico della controversia; non riceve per questo ogni conversazione privata della casa.\n\n**Elise Desormes, Les Ormes.** Chiede canali potabili distinti dagli scarichi industriali; teme di perdere raccolti prima che una perizia produca effetti. Alexander conosce il ruolo e il tema pubblico della controversia; non riceve per questo ogni conversazione privata della casa.\n\n**Soren Vask, Riveclaire.** Difende accessi compatibili con i residenti Serekh; contesta un dragaggio che favorisce i carichi e danneggia le sponde. Alexander conosce il ruolo e il tema pubblico della controversia; non riceve per questo ogni conversazione privata della casa.\n\n**Henri Montfaucon, Montfaucon.** Vuole commesse di legname senza esaurire i tagli futuri; si oppone a prelievi straordinari non compensati. Alexander conosce il ruolo e il tema pubblico della controversia; non riceve per questo ogni conversazione privata della casa.\n\n**Louise Briselles, Briselles.** Chiede che l’acqua destinata ai mulini lasci un servizio affidabile agli allevamenti. Alexander conosce il ruolo e il tema pubblico della controversia; non riceve per questo ogni conversazione privata della casa.\n\n**Marcel Ravelle, La Varenne.** Vuole conservare il prestigio della casa e trovare un ruolo al secondogenito Etienne senza subordinare il primogenito a una promessa ducale. Alexander conosce il ruolo e il tema pubblico della controversia; non riceve per questo ogni conversazione privata della casa.\n\n**Gaspard Bellive, Bellive.** Difende la fornitura d’acqua nei periodi di punta; una chiusura di manutenzione danneggia lavoratori e contratti. Alexander conosce il ruolo e il tema pubblico della controversia; non riceve per questo ogni conversazione privata della casa.\n\n**Margot Fontenac, Fontenac.** Vuole riconoscimento di costi effettivi, ma deve accettare verifiche sugli usi dichiarati. Alexander conosce il ruolo e il tema pubblico della controversia; non riceve per questo ogni conversazione privata della casa.\n\n**Olivier Saulnes, Saulnes.** Chiede depositi asciutti e pesa pubblica; contrasta tariffe che sposterebbero il mercato altrove. Alexander conosce il ruolo e il tema pubblico della controversia; non riceve per questo ogni conversazione privata della casa.\n\n**Paul Vernelles, Vernelles.** Vuole una strada praticabile per le mandrie; rifiuta che il suo territorio paghi da solo una via usata da tutta la contea. Alexander conosce il ruolo e il tema pubblico della controversia; non riceve per questo ogni conversazione privata della casa.\n\n**Diane Cressan, Cressan.** Propone manutenzione coordinata, temendo che i mulini maggiori assorbano personale e portate. Alexander conosce il ruolo e il tema pubblico della controversia; non riceve per questo ogni conversazione privata della casa.\n\n**Jules Montreval, Montreval.** Vuole un raccordo al mercato, senza cedere gratuitamente la fascia di passaggio. Alexander conosce il ruolo e il tema pubblico della controversia; non riceve per questo ogni conversazione privata della casa.\n\n**Arvek Thol, Pierrefend.** Difende una filiera con materiali adatti ai lavoratori; rifiuta consegne urgenti che renderebbero insicuri i tagli. Alexander conosce il ruolo e il tema pubblico della controversia; non riceve per questo ogni conversazione privata della casa.\n\n**Cecile Orbrune, Orbrune.** Chiede contratti lunghi per il legname; viene contestata per il fumo che raggiunge i comuni vicini. Alexander conosce il ruolo e il tema pubblico della controversia; non riceve per questo ogni conversazione privata della casa.\n\n**Remy Valgrise, Valgrise.** Vuole consolidare una scarpata prima di ampliare il traffico, anche a costo di rinviare commesse ducali. Alexander conosce il ruolo e il tema pubblico della controversia; non riceve per questo ogni conversazione privata della casa.\n\n**Noemie Aubremont, Aubremont.** Vuole carri disponibili alla raccolta; teme che una priorità industriale renda invendibile parte del prodotto. Alexander conosce il ruolo e il tema pubblico della controversia; non riceve per questo ogni conversazione privata della casa.\n\n**Pascal Clairbois, Clairbois.** Difende rotazioni di taglio e nuove piantagioni; contesta un contratto che premia soltanto il volume immediato. Alexander conosce il ruolo e il tema pubblico della controversia; non riceve per questo ogni conversazione privata della casa.\n\n**Ines Roseraie, Roseraie.** Vuole un mercato stabile con pesi certificati; rifiuta che il favore personale del duca sostituisca una convenzione scritta. Alexander conosce il ruolo e il tema pubblico della controversia; non riceve per questo ogni conversazione privata della casa.\n\n## Che cosa può fare Alexander come duca\n\nIl titolo comporta **precedenza, rappresentanza e competenze territoriali reali**. Non è soltanto il nome elegante di un imprenditore. Alla successione di Lucien, il riconoscimento della concessione ducale trasferì ad Alexander anche queste funzioni; non deve conquistarle attraverso il fidanzamento.\n\n- **Presiede il Consiglio territoriale del ducato.** Convoca i lavori, presenta il programma delle opere interdistrettuali e indirizza l’esecuzione delle deliberazioni approvate. Conti, rappresentanze civiche e delegati dei distretti non possono sostituire questa presidenza chiamandosi assemblea privata. Il duca non approva da solo un’imposta nuova.\n- **Riceve il riconoscimento territoriale dei conti e dei baroni diretti.** Alla successione si registrano titoli, obblighi e privilegi entro il ducato. Le successioni comitali e le investiture baronali devono essere riconosciute secondo statuto; un rifiuto ducale richiede motivi e può essere impugnato davanti alla Corona. Non può confiscare una contea per antipatia.\n- **Richiede rendiconti e adempimenti pubblici.** Può intimare a un conte di produrre il conto di un contributo territoriale o di eseguire un’opera già obbligatoria, attraverso gli uffici competenti. Un conte può contestare legittimità e ripartizione; non può considerare inesistente l’autorità ducale perché è proprietario dei suoi terreni.\n- **Nomina i responsabili degli uffici ducali nei limiti di statuto**, presenta o conferma le nomine territoriali previste e dispone ispezioni su atti e servizi soggetti al controllo ducale. Il personale di un comune o di un’impresa non diventa per questo suo dipendente privato.\n- **Coordina strade, argini e servizi fra circoscrizioni**, utilizza stanziamenti autorizzati e rappresenta il ducato nei negoziati con ministeri e territori confinanti. Una disposizione valida può imporre un adempimento pubblico: non è sempre un invito facoltativo a collaborare.\n- **Esercita il seggio nella Camera delle Concessioni**, con voti, emendamenti e petizioni già stabiliti nel documento 122. Il rango territoriale gli dà inoltre accesso politico e peso sociale non disponibili a un comune proprietario.\n\nLa tesoreria pubblica esegue spese autorizzate, un ufficio territoriale prepara atti e rendiconti, i comuni mantengono i propri servizi e la gendarmeria risponde alla catena pubblica prevista. Alexander può sollecitare interventi e trasmettere denunce, ma **non impartisce ordini privati alla polizia, non giudica da solo i reati e non dispone del bilancio pubblico come della sua cassa**. Le competenze sono coerenti con il diritto costituzionale del documento 122, qui approfondito: i poteri territoriali non equivalgono a sovranità assoluta.\n\nI conti presiedono il livello comitale e coordinano i baroni della propria contea nelle materie attribuite. I baroni hanno obblighi locali e rappresentanza, non signoria sulle persone. I residenti non prestano servizio coatto per nascita. Un obbligo pubblico del titolare non autorizza a usare i suoi lavoratori come servi ereditari.\n\n## Il fidanzamento Belcour: una relazione di rango diseguale\n\n**Alexander è il duca territorialmente superiore al padre di Aurelie.** Armand è un conte del suo ducato. Non sono due capi di Stati sovrani che trattano da pari; non basta una conversazione familiare informale a cancellare questa asimmetria. Lucien era già superiore territoriale di Armand quando gli adulti formularono l’intesa del 800.\n\nPer i Belcour, l’unione porterebbe prossimità alla casa ducale, prestigio e maggiore accesso alla rete politica. Per i Valcienne, consoliderebbe un legame con una delle quattro case comitali, importante per terre, derivazioni e cooperazione interna. Non è un’alleanza internazionale e non è necessaria a rendere Alexander legittimo duca.\n\n**Aurelie, a vent’anni, non esercita oggi la carica comitale di suo padre.** La sua condizione di figlia del conte non le conferisce il potere di impegnare da sola la contea. Il matrimonio le darebbe la condizione di duchessa consorte, non trasferirebbe automaticamente la contea Belcour a proprietà privata di Alexander e non fonderebbe i patrimoni. Non viene stabilita una successione futura per forza: eventuali eredi e cumuli di cariche richiederebbero gli atti e le regole pertinenti.\n\nLa diseguaglianza pesa concretamente: Armand ha più ragioni per evitare uno scontro pubblico con il duca; Aurelie può temere che un rifiuto sia interpretato come insulto alla casa superiore; i cortigiani possono trattare una richiesta come un ordine anche quando non lo è. Una concessione fatta ai Belcour può apparire favoritismo; un’ispezione durante una crisi matrimoniale può apparire ritorsione, anche se il problema tecnico è reale.\n\nQuesto non rende il consenso matrimoniale un obbligo feudale. Né il riconoscimento del titolo comitale, né un diritto d’acqua già valido possono essere subordinati lecitamente all’assenso di Aurelie. **Il rango superiore produce potere e pressione; non sostituisce il consenso.** Il Narratore deve far esistere entrambi gli aspetti, senza rappresentare la trattativa come perfettamente paritaria e senza trasformare il rifiuto in una punizione automatica.\n\nRestano validi intesa del 800, conferma personale del 811, bozza del gennaio 812, nessuna data di nozze, nessun matrimonio celebrato e nessun contratto definitivo firmato prima del coma. La bozza patrimoniale, la tutela di Celine e i diritti commerciali già esistenti non sono riscritti da questa gerarchia.\n\n## Geografia pratica e spostamenti\n\nRovenne rimane 23 km stradali e 26 ferroviari da Lethorne. Le altre quattro città sono nodi locali, non nuove tappe obbligatorie sulla ferrovia nazionale. Coordinate di centro e itinerari sotto riportati completano la carta regionale, senza spostare alcun luogo precedente; le coordinate non sono confini catastali.\n\n| Centro | Posizione rispetto a Lethorne | Strada da Lethorne | Carrozza, movimento e soste ordinarie |\n|---|---|---:|---|\n| Belcour | Sud-ovest; circa 42 km in linea d’aria | 56 km | 8–10 ore, secondo soste e condizioni |\n| Vernay | Sud-sud-est; circa 44 km in linea d’aria | 55 km | 8–10 ore |\n| Rochebrune | Sud-est; circa 81 km in linea d’aria | 105 km | 15–18 ore, normalmente due giornate |\n| Aubrecourt | Est-nord-est; circa 81 km in linea d’aria | 102 km | 15–18 ore, normalmente due giornate |\n\nNon sono introdotti treni diretti solo perché una città esiste. Posta, diligenze, carri e collegamenti ferroviari esistenti sono mezzi distinti; un raccordo industriale non è automaticamente una linea passeggeri. I poteri del personaggio possono cambiare il viaggio, senza rendere false queste distanze ordinarie.\n\n## Memoria di Alexander e informazione attuale\n\nAlexander conosce estensione, suddivisioni, titolari, rango dei Belcour e obblighi del titolo. Riconosce i baroni attraverso rapporti pubblici o incontri precedenti; il Narratore comunica il ricordo pertinente senza missioni per apprenderlo. Non sa automaticamente quali richieste siano arrivate durante il coma, l’ultimo incasso di una contea o le intenzioni segrete di ogni famiglia.\n\nIl ducato ha uffici e deleghe: quattro giorni di coma non sospendono la vita di un milione di persone. Al risveglio si possono richiedere verbali e rendiconti aggiornati. Le scelte future di Alexander, il destino del fidanzamento e le alleanze territoriali restano aperti.\n"
+    }
+  ],
+  "neressan_islands": [
+    {
+      "name": "Neressa",
+      "outline_xy_km": [
+        [
+          -865,
+          -780
+        ],
+        [
+          -840,
+          -660
+        ],
+        [
+          -760,
+          -625
+        ],
+        [
+          -665,
+          -705
+        ],
+        [
+          -690,
+          -795
+        ],
+        [
+          -785,
+          -820
+        ]
+      ]
+    },
+    {
+      "name": "Avaris",
+      "outline_xy_km": [
+        [
+          -1030,
+          -725
+        ],
+        [
+          -1025,
+          -640
+        ],
+        [
+          -970,
+          -605
+        ],
+        [
+          -900,
+          -640
+        ],
+        [
+          -885,
+          -700
+        ],
+        [
+          -960,
+          -740
+        ]
+      ]
+    },
+    {
+      "name": "Corten",
+      "outline_xy_km": [
+        [
+          -765,
+          -1115
+        ],
+        [
+          -750,
+          -1005
+        ],
+        [
+          -690,
+          -980
+        ],
+        [
+          -640,
+          -1040
+        ],
+        [
+          -650,
+          -1125
+        ],
+        [
+          -700,
+          -1140
+        ]
+      ]
+    },
+    {
+      "name": "Nelle",
+      "outline_xy_km": [
+        [
+          -530,
+          -910
+        ],
+        [
+          -540,
+          -840
+        ],
+        [
+          -495,
+          -775
+        ],
+        [
+          -450,
+          -815
+        ],
+        [
+          -440,
+          -885
+        ],
+        [
+          -490,
+          -920
+        ]
+      ]
+    },
+    {
+      "name": "Velis",
+      "outline_xy_km": [
+        [
+          -965,
+          -1015
+        ],
+        [
+          -925,
+          -915
+        ],
+        [
+          -860,
+          -920
+        ],
+        [
+          -820,
+          -975
+        ],
+        [
+          -845,
+          -1035
+        ],
+        [
+          -920,
+          -1040
+        ]
+      ]
+    }
+  ],
+  "boundaries_semantics": {
+    "Neressa_main": "Maritime jurisdiction envelope: water, not a single landmass",
+    "Neressa_coastal": "Mainland enclave",
+    "other_boundaries": "Schematic political territories; not parcel cadastre"
+  },
+  "ocean_destination_connections": [
+    {
+      "id": "LANDING-01",
+      "from_name": "Serevan",
+      "to_name": "Darsa",
+      "straight_distance_km": 3594,
+      "length_km": 4320,
+      "mode": "road",
+      "operating_speed_kmh": 5,
+      "daily_operating_hours": 12,
+      "typical_travel_days": 72,
+      "notes": "Più distretti e soste; non una ferrovia oceanica"
+    },
+    {
+      "id": "LANDING-02",
+      "from_name": "Ashen Quay",
+      "to_name": "Anren",
+      "straight_distance_km": 1567,
+      "length_km": 1890,
+      "mode": "road",
+      "operating_speed_kmh": 5,
+      "daily_operating_hours": 12,
+      "typical_travel_days": 32,
+      "notes": "Bacini orientali e passaggi locali; la capitale è interna"
+    },
+    {
+      "id": "LANDING-03",
+      "from_name": "Dorel Outer Port",
+      "to_name": "Dorven",
+      "straight_distance_km": 686,
+      "length_km": 900,
+      "mode": "road/ferry",
+      "operating_speed_kmh": 4,
+      "daily_operating_hours": 12,
+      "typical_travel_days": 19,
+      "notes": "Fiordi: tratti terrestri e traghetti, manutenzione stagionale"
+    },
+    {
+      "id": "LANDING-04",
+      "from_name": "Norell Roads",
+      "to_name": "Noran",
+      "straight_distance_km": 570,
+      "length_km": 720,
+      "mode": "road",
+      "operating_speed_kmh": 5,
+      "daily_operating_hours": 12,
+      "typical_travel_days": 12,
+      "notes": "Strada costiera e accesso al bacino della città"
+    }
+  ],
+  "integration_revision": "MONDO-23-05",
+  "world_integration_source": "RISERVATO_178_Integrazione_notturna_milestone_5_10.md",
+  "population_revision": "POP-298",
+  "population_settlements": {
+    "Ilyr": [
+      "Kessel",
+      "Eshar",
+      "Koshen",
+      "Keran",
+      "Lethorne",
+      "Rovenne"
+    ],
+    "Kethari": [
+      "Kessel",
+      "Karrel",
+      "Darsa",
+      "Koshen",
+      "Keran",
+      "Lethorne",
+      "Namar"
+    ]
+  },
+  "settlement_semantics": "Presenze comunitarie nelle città esistenti; non confini etnici, nuove città o immunità all’ambiente.",
+  "bestiary_revision": "BIO-301",
+  "bestiary_habitats": [
+    {
+      "id": "BST-001",
+      "name": "Hollowjaw",
+      "location_id": "LOC-026",
+      "continent": "Mereth",
+      "habitat_detail": "Rupi boscose a 28 km dal sito di Arel Cut, fuori dai percorsi visitabili.",
+      "frequency": "Rara; 2 coppie nel distretto, territori separati.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-002",
+      "name": "Gloam Hart",
+      "location_id": "LOC-056",
+      "continent": "Veyra",
+      "habitat_detail": "Margini di taiga del distretto di Sivren; tre rifugi investiti circoscritti.",
+      "frequency": "Localmente stabile; 4 branchi di 8–15 capi.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-003",
+      "name": "Stonewake Burrower",
+      "location_id": "LOC-042",
+      "continent": "Caldris",
+      "habitat_detail": "Calcari del distretto di Qadra, almeno 45 km dal centro; non ogni pozzo.",
+      "frequency": "Rara; 3 camere riproduttive note agli abitanti della zona.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-004",
+      "name": "Thornback Choir",
+      "location_id": "LOC-046",
+      "continent": "Iskar",
+      "habitat_detail": "Canali di bordo bosco nel distretto di Anren.",
+      "frequency": "Diffusa in nicchie umide, colonie separate da almeno centinaia di metri asciutti.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-005",
+      "name": "Undertow Maw",
+      "location_id": "LOC-061",
+      "continent": "Iskar",
+      "habitat_detail": "Scarpata a 70 km da Ashen Quay, con risalite stagionali presso i banchi.",
+      "frequency": "Rara; 2 adulti percorrono il tratto costiero, non una colonia sotto il porto.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-006",
+      "name": "Keel Lantern",
+      "location_id": "LOC-004",
+      "continent": "Mereth",
+      "habitat_detail": "Bacino esterno di Port Auvrel e scogli a luce sufficiente.",
+      "frequency": "Comune nei rifugi idonei; sotto gli scafi solo se trasportata.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-007",
+      "name": "Brine Reliquary",
+      "location_id": "LOC-051",
+      "continent": "Nareth",
+      "habitat_detail": "Vecchi relitti presso Noran, fuori dalla rotta portuale principale.",
+      "frequency": "Sparsa; 5 ancoraggi nei relitti del distretto, non 5 anime.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-008",
+      "name": "Glasswake Hunter",
+      "location_id": "LOC-044",
+      "continent": "Caldris",
+      "habitat_detail": "Lagune chiare costiere del distretto di Mareth.",
+      "frequency": "Poco comune; coppie territoriali lungo le acque basse.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-009",
+      "name": "Bellwing",
+      "location_id": "LOC-055",
+      "continent": "Nareth",
+      "habitat_detail": "Pareti a 55 km da Keran, fuori dagli abitati.",
+      "frequency": "Rara; 3 coppie nidificanti sul percorso montano.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-010",
+      "name": "Rimeglass Weaver",
+      "location_id": "LOC-054",
+      "continent": "Nareth",
+      "habitat_detail": "Grotte gelate del distretto di Edris, 60 km dai laboratori.",
+      "frequency": "Localizzata; poche decine di adulti per cavità grande.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-011",
+      "name": "Weightfall Grazer",
+      "location_id": "LOC-013",
+      "continent": "Mereth",
+      "habitat_detail": "Cenge e saline a 80 km da Kessel.",
+      "frequency": "Poco comune; 3 branchi nel distretto.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-012",
+      "name": "Cinder Crown Drake",
+      "location_id": "LOC-045",
+      "continent": "Caldris",
+      "habitat_detail": "Caldera antica e fredda a 160 km da Saura, con una fascia di pascolo periferica.",
+      "frequency": "Molto rara; 1 coppia adulta e nessun piccolo già schiuso.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-013",
+      "name": "Latch Eater",
+      "location_id": "LOC-007",
+      "continent": "Mereth",
+      "habitat_detail": "Giunti investiti di una galleria tecnica laterale del distretto di Sarn Gate.",
+      "frequency": "Opportunista: 1 piccolo focolaio su 3 giunti, non l’intero reticolo ferroviario.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-014",
+      "name": "Pall Manta",
+      "location_id": "LOC-001",
+      "continent": "Mereth",
+      "habitat_detail": "Near Veil presso un accesso di esercitazione separato dal collaudo iniziale.",
+      "frequency": "Sporadica; 1 individuo adulto nel settore esterno.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-015",
+      "name": "Mourning Grazer",
+      "location_id": "LOC-051",
+      "continent": "Nareth",
+      "habitat_detail": "Veil presso un ossario periferico distinto dai relitti BST-007.",
+      "frequency": "Stabile; un branco di 12 presenze non personali.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-016",
+      "name": "Threshold Needle",
+      "location_id": "LOC-030",
+      "continent": "Mereth",
+      "habitat_detail": "Margine del Veil di una soglia tecnica periferica, non l’accesso centrale già decisivo nella trama.",
+      "frequency": "Rara; 4 adulti sullo stesso nodo.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-017",
+      "name": "Stair Stalker",
+      "location_id": "LOC-001",
+      "continent": "Mereth",
+      "habitat_detail": "Ambiente onirico di formazione tenuto da un fornitore esterno, distinto dalle prove di Elias.",
+      "frequency": "Un solo predatore, introdotto da un collegamento non ispezionato.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-018",
+      "name": "Velvet Pursuer",
+      "location_id": "LOC-009",
+      "continent": "Mereth",
+      "habitat_detail": "Reverie di un rifugio del distretto di Lorien; collegamento volontario tramite servizio esterno.",
+      "frequency": "Un predatore su una sola esperienza condivisa, non ogni ospite dell’asilo.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-019",
+      "name": "Dream Sieve",
+      "location_id": "LOC-058",
+      "continent": "Veyra",
+      "habitat_detail": "Un vecchio rifugio onirico di scuola nel distretto di Tevren, non la Camera dei Sigilli.",
+      "frequency": "Una colonia su 2 nodi residui.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-020",
+      "name": "Borrowed Face Nest",
+      "location_id": "LOC-004",
+      "continent": "Mereth",
+      "habitat_detail": "Supporto scenico dismesso conservato in un deposito fuori dai Tre Moli.",
+      "frequency": "Un automa composto, non una nuova specie di anime.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-021",
+      "name": "Marrow Thread",
+      "location_id": "LOC-041",
+      "continent": "Caldris",
+      "habitat_detail": "Abbeveratoi periferici e cantieri fluviali del distretto di Darsa.",
+      "frequency": "Endemica in una zona umida limitata, non in tutta Caldris.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-022",
+      "name": "Suture Bloom",
+      "location_id": "LOC-016",
+      "continent": "Mereth",
+      "habitat_detail": "Lotto isolato di supporti clinici a Namar, distinto dal Red Bloom precedente.",
+      "frequency": "Un ceppo confinato a un lotto, diffusione non automatica.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-023",
+      "name": "Ashlung Swarm",
+      "location_id": "LOC-048",
+      "continent": "Iskar",
+      "habitat_detail": "Cavità calde naturali presso Koshen e un solo vecchio condotto di essiccazione.",
+      "frequency": "Comune nelle cavità adatte, rara nei condotti manutenuti.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-024",
+      "name": "Mirror Tick",
+      "location_id": "LOC-058",
+      "continent": "Veyra",
+      "habitat_detail": "Superficie Crescent di una scuola periferica distinta dal rifugio BST-019.",
+      "frequency": "Un supporto infestato, nessuna epidemia fra specchi ordinari.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-025",
+      "name": "Graft Warden",
+      "location_id": "LOC-037",
+      "continent": "Mereth",
+      "habitat_detail": "Giardino cinto a 24 km da Aldora, quattro nuclei radicali separati.",
+      "frequency": "Linea locale riproduttiva; 4 adulti e talee non ancora mature.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-026",
+      "name": "Kiln Hound",
+      "location_id": "LOC-006",
+      "continent": "Mereth",
+      "habitat_detail": "Forno ausiliario dismesso del distretto di Deren, fuori dal pozzo già coinvolto nella trama.",
+      "frequency": "Un costrutto recuperabile, nessuna popolazione selvatica.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-027",
+      "name": "Witness Carapace",
+      "location_id": "LOC-010",
+      "continent": "Mereth",
+      "habitat_detail": "Deposito periferico di una Witness House a Teren.",
+      "frequency": "Un automa di serie; altri modelli non presunti identici o caricati.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-028",
+      "name": "Chapel Walker",
+      "location_id": "LOC-029",
+      "continent": "Mereth",
+      "habitat_detail": "Insediamento minore a 16 km da Stillwater Steps, fuori dal presidio storico decisivo.",
+      "frequency": "Linea creata: un adulto presente, nessuna discendenza attuale attestata.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-029",
+      "name": "Pale Bastion",
+      "location_id": "LOC-056",
+      "continent": "Veyra",
+      "habitat_detail": "Corridoio di pascolo a 180 km da Sivren, distinto dai rifugi BST-002.",
+      "frequency": "Linea molto rara: un adulto e nessun nato registrato nel distretto; totale planetario non censito.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-030",
+      "name": "Night Censer",
+      "location_id": "LOC-057",
+      "continent": "Veyra",
+      "habitat_detail": "BIO-SITE-030: cavità del Near Veil corrispondente a una gola disabitata a 95 km da Dorven.",
+      "frequency": "Un individuo, nessuna colonia planetaria.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-031",
+      "name": "Hollow Season",
+      "location_id": "LOC-047",
+      "continent": "Iskar",
+      "habitat_detail": "BIO-SITE-031: rete sotto una conca agricola a 72 km da Teru, estensione massima attuale 1,4 km².",
+      "frequency": "Una colonia con 3 camere fertili, non un’entità globale.",
+      "activation": "Attivo"
+    },
+    {
+      "id": "BST-032",
+      "name": "Long Vigil",
+      "location_id": "LOC-059",
+      "continent": "Veyra",
+      "habitat_detail": "BIO-SITE-032: conca asciutta a 186 km da Irela, accesso terrestre in almeno 8 giorni di pista locale.",
+      "frequency": "Un organismo chiamato Long Vigil nel catalogo; nessun altro individuo postulato.",
+      "activation": "Dormiente"
+    }
+  ],
+  "bestiary_habitat_scope": "Distretti e siti periferici; non nuovi quartieri o città. Le distanze di habitat non ridefiniscono le coordinate dell’atlante. Nessuna Root o uscita segreta nuova.",
+  "raccordo_revision": "RACCORDI-317",
+  "duchy_source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+  "territorial_revision": "347"
+}

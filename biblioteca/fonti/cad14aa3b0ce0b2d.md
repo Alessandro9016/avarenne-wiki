@@ -1,0 +1,58 @@
+# Ishven Raal — L’ospite utile che non può più uscire
+
+Espansione autoriale 367. Passato e motivazioni qui definiti appartengono al canone del Narratore; non diventano conoscenze automatiche di Alexander. Gli esiti futuri restano aperti.
+
+## Vita e carattere
+
+Ishven iniziò con una comunità interiore in cui il diritto di uscita esisteva davvero. Ne cambiò gradualmente le condizioni per trattenere persone utili. Può ricordare con sincerità l’epoca migliore e usarla per negare il presente. Ama conversazioni in cui sembra capire tutti prima che parlino.
+
+## Comportamento e decisioni
+
+Interpreta il dissenso come sintomo e la dipendenza come conferma del legame. Per contrastarlo conta poter confrontare testimonianze fuori dal canale che governa.
+
+## Conoscenze effettive e segreto della fazione
+
+Conosce le prese esercitate, non ogni memoria o scelta degli ospiti. Non ha creato retroattivamente le loro infanzie e non può trasformare una relazione simulata in una famiglia storica autentica.
+
+## Obiettivo presente
+
+Sostituire relazioni sociali e contratti di ospitalità con un sistema di consenso manipolato che protegga i capi della rete.
+
+## Punto di rottura
+
+Neris vuole cancellare soltanto i propri debiti e può vendere l’ubicazione del capo; non restituisce per questo la fiducia degli ospiti.
+
+## Verità riservata già fissata
+
+Gli ospiti hanno persone e volontà proprie: gli effetti non creano retroattivamente infanzie o parenti autentici.
+
+## Continuità con il passato adottato
+
+Condusse una comunità interiore che aveva diritto di uscita e ne cambiò gradualmente le condizioni per trattenere le persone utili.
+
+## Voce
+
+Offre sempre la stessa bevanda prima di una sessione.
+
+## Timore personale
+
+Che due ospiti confrontino testimonianze fuori dal collegamento.
+
+## Capacità e accessi effettivi
+
+Labyrinth — stadio 4
+
+## Limiti dell’inventario
+
+Una sola Effige incorporata: Labyrinth 4. Abilità cumulative fino a Oneirarch; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza.
+
+## Rapporti documentati
+
+- Neris Vaal: Collocazione autoriale nel fronte The Hollow Choir: stessa parte operativa. La relazione non attribuisce un incontro già avvenuto, la conoscenza dell’identità o dei segreti del destinatario.
+- Brina Yven: Collocazione autoriale nel fronte The Hollow Choir: interessi contrapposti o negoziabili. La relazione non attribuisce un incontro già avvenuto, la conoscenza dell’identità o dei segreti del destinatario.
+- Zara Yarel: Collocazione autoriale nel fronte The Hollow Choir: stessa parte operativa. La relazione non attribuisce un incontro già avvenuto, la conoscenza dell’identità o dei segreti del destinatario.
+- Quentin Vessan: Collocazione autoriale nel fronte The Hollow Choir: interessi contrapposti o negoziabili. La relazione non attribuisce un incontro già avvenuto, la conoscenza dell’identità o dei segreti del destinatario.
+
+## Uso in partita
+
+Il Narratore sceglie una decisione compatibile con obiettivo, informazioni e mezzi realmente presenti. Una trattativa può riuscire, fallire o produrre un accordo parziale. Non introdurre un riconoscimento di Edran, un viaggio, un tradimento o una promozione soltanto perché questa figura compare in un arco.

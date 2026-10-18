@@ -124,8 +124,8 @@
       "group": "Dati strutturati e registri",
       "url": "9f5d1e0af2de6024.html",
       "raw": "fonti/9f5d1e0af2de6024.json",
-      "sha256": "e954d73a1499f8aacf5daafdc9bcd2cb4ee47dc42321b18cfce0e62827a8563a",
-      "bytes": 3376578
+      "sha256": "ad1f68cdbf3d3f66dce501a1b7fbc32fa3be05b51acdc299d05baf478bed503b",
+      "bytes": 3517473
     },
     {
       "source": "CANONE_VIGENTE/Censimento_visuale_luoghi.json",
@@ -232,8 +232,8 @@
       "group": "Dati strutturati e registri",
       "url": "9fb942b08a3147eb.html",
       "raw": "fonti/9fb942b08a3147eb.json",
-      "sha256": "de06900d835789af38847c2ad16e8b8612889f1775e5b64051abe2748b9b2d64",
-      "bytes": 65138
+      "sha256": "4acf939038fc8d7750b5b1d6d5a8b4004a896490ea917895a2d419be8467de2b",
+      "bytes": 65006
     },
     {
       "source": "CANONE_VIGENTE/Geografia_riservata.json",
@@ -241,8 +241,8 @@
       "group": "Dati strutturati e registri",
       "url": "c5209fee2344a605.html",
       "raw": "fonti/c5209fee2344a605.json",
-      "sha256": "b852adb2489635657d76686051f8ddc8983ebc884c79cd4ed2125855ea12f485",
-      "bytes": 167676
+      "sha256": "73b72ff621c6716246904e4ce263202f9d2a3979202e3d9043e8b835c0279ea4",
+      "bytes": 235246
     },
     {
       "source": "CANONE_VIGENTE/Gruppo_284_personaggi_selezionati.json",
@@ -475,8 +475,8 @@
       "group": "Dati strutturati e registri",
       "url": "2baf9591c2774322.html",
       "raw": "fonti/2baf9591c2774322.json",
-      "sha256": "abf6ca88b919e2ae666319c88825ae3e4df20acb677f8eba0b702639d51774a2",
-      "bytes": 1013191
+      "sha256": "b5c0a05d79d7ae60bf3492696ad956b872b02c3eccb7e1bef1220e12accfd512",
+      "bytes": 1034691
     },
     {
       "source": "CANONE_VIGENTE/Piano_spostamenti_originali.json",
@@ -574,8 +574,8 @@
       "group": "Dati strutturati e registri",
       "url": "fe9fbb2c8f28317b.html",
       "raw": "fonti/fe9fbb2c8f28317b.json",
-      "sha256": "903549a4651fa9e047eee7d120443ebf007645296973ab9981e7266eecf1d7b2",
-      "bytes": 84673
+      "sha256": "f4bc1ea0f322a52d19030f05d892b7a6a51cac740eee58decc52b3b6fc14bdec",
+      "bytes": 84682
     },
     {
       "source": "CANONE_VIGENTE/Regole_comuni.json",
@@ -664,8 +664,8 @@
       "group": "Dati strutturati e registri",
       "url": "00f965548ff670d9.html",
       "raw": "fonti/00f965548ff670d9.json",
-      "sha256": "9b6e49e6620531cea24df999aeffe8eb3c020980948e0736c9e0b0124797cdd2",
-      "bytes": 45671
+      "sha256": "a21f8468a9f3c908200e3db881267152730b27c5814cb1f20558104d50a2c550",
+      "bytes": 64458
     },
     {
       "source": "CANONE_VIGENTE/Societa_riservata.json",
@@ -673,8 +673,8 @@
       "group": "Dati strutturati e registri",
       "url": "c137a327ee3556e1.html",
       "raw": "fonti/c137a327ee3556e1.json",
-      "sha256": "99c59b1743d296927cd6db76ad707a87f83886e4ed212790f0b3b97158c4f625",
-      "bytes": 82372
+      "sha256": "3c0584d5fd34be6c4f44e31e34d05677188bfe2a21581e5bc6c78b60ebf8df54",
+      "bytes": 116110
     },
     {
       "source": "CANONE_VIGENTE/Storia_condivisa.json",
@@ -700,8 +700,8 @@
       "group": "Dati strutturati e registri",
       "url": "4613e26eddb565d5.html",
       "raw": "fonti/4613e26eddb565d5.json",
-      "sha256": "7bba02ade9fcfbaaae897cf13ebdeaf275296cbc7050393b6a0b137e4b50592d",
-      "bytes": 165462
+      "sha256": "3dda26d6d8825c4c25459a624265d7ba36486710b1348385a724879db9d437df",
+      "bytes": 228831
     },
     {
       "source": "CANONE_VIGENTE/Unita_milestone11.json",
@@ -7237,8 +7237,8 @@
       "group": "Canone vigente e verifica della consegna",
       "url": "06300f093b9b4ae7.html",
       "raw": "fonti/06300f093b9b4ae7.md",
-      "sha256": "30f2ed8a83aa0e424aacdc39d87b85e853977ccf1d235b29320050998965f11c",
-      "bytes": 61328
+      "sha256": "0ddf7ba5cc78b1660b6935287139caabb77561be08006835217de6fb99801347",
+      "bytes": 63420
     },
     {
       "source": "342_Stato_vigente_per_la_consegna.md",
@@ -15863,6 +15863,1212 @@
       "raw": "fonti/28edc64dfbcd0059.txt",
       "sha256": "7cdb143acf63e5716302aff07ba4766dc23d550009c742573d319aec8b4b6615",
       "bytes": 1036
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-003_celine-valcienne.md",
+      "title": "CAST-003 celine-valcienne",
+      "group": "Figure e opposizioni — 367",
+      "url": "e8a983e0011bef38.html",
+      "raw": "fonti/e8a983e0011bef38.md",
+      "sha256": "abfcc0b94e5591cf5186b64354b4c809cc655833ecb06c1355bf1a170d9ac932",
+      "bytes": 3237
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-004_yselle-valcienne.md",
+      "title": "CAST-004 yselle-valcienne",
+      "group": "Figure e opposizioni — 367",
+      "url": "5fb434422479343e.html",
+      "raw": "fonti/5fb434422479343e.md",
+      "sha256": "34ff584c8f8c7b9081e9c11fd22544b9f7b2522824f952421f6e362f4dc451d6",
+      "bytes": 3353
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-005_mirel-osta.md",
+      "title": "CAST-005 mirel-osta",
+      "group": "Figure e opposizioni — 367",
+      "url": "b536f6674d58b960.html",
+      "raw": "fonti/b536f6674d58b960.md",
+      "sha256": "c9b9ca0502e568bce6e66920f2aeaa6743dff80fce6826ffdb528e157d79a5b2",
+      "bytes": 3112
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-006_doria-seln.md",
+      "title": "CAST-006 doria-seln",
+      "group": "Figure e opposizioni — 367",
+      "url": "162b37312848f19e.html",
+      "raw": "fonti/162b37312848f19e.md",
+      "sha256": "b26004095e9b7474219a8f20413c8b27bf2842c9d94f7c8037d14e2e2768a3a2",
+      "bytes": 3064
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-007_sairen-velis.md",
+      "title": "CAST-007 sairen-velis",
+      "group": "Figure e opposizioni — 367",
+      "url": "c5daf7238737c37c.html",
+      "raw": "fonti/c5daf7238737c37c.md",
+      "sha256": "57bb61307f0243f5669c2c31378d2da345923bca12bd1b00046eb6a9445fac4f",
+      "bytes": 3004
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-008_oriel-namar.md",
+      "title": "CAST-008 oriel-namar",
+      "group": "Figure e opposizioni — 367",
+      "url": "d73785b96f0fac5b.html",
+      "raw": "fonti/d73785b96f0fac5b.md",
+      "sha256": "d64baef42924b6a3945591c2979c9f369fb3a482ee9318578e840db5af0ef89e",
+      "bytes": 2960
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-009_ashren-tor.md",
+      "title": "CAST-009 ashren-tor",
+      "group": "Figure e opposizioni — 367",
+      "url": "dcc8a3927f14b477.html",
+      "raw": "fonti/dcc8a3927f14b477.md",
+      "sha256": "ddc4ff02c820e8b1ee72c45a0e6637efb111710d39f9b7ae6448d26bf6efb037",
+      "bytes": 2903
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-010_neral-venn.md",
+      "title": "CAST-010 neral-venn",
+      "group": "Figure e opposizioni — 367",
+      "url": "270f0e2d9d952446.html",
+      "raw": "fonti/270f0e2d9d952446.md",
+      "sha256": "d28e563ddae515ba983265cb85f8834c9a4c2d0b8fe3c969b88228d9e1ef3f24",
+      "bytes": 3065
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-011_helyr-ossen.md",
+      "title": "CAST-011 helyr-ossen",
+      "group": "Figure e opposizioni — 367",
+      "url": "fbe730677f340aa0.html",
+      "raw": "fonti/fbe730677f340aa0.md",
+      "sha256": "859b318ffdcedbb2bbd9ffdaa868073dd085c65be3594950e7a2a16a683ddc8c",
+      "bytes": 3106
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-012_althene-rhos.md",
+      "title": "CAST-012 althene-rhos",
+      "group": "Figure e opposizioni — 367",
+      "url": "ca298a80e4ed0c23.html",
+      "raw": "fonti/ca298a80e4ed0c23.md",
+      "sha256": "27a2e1d9721d8cf72b61e4ce2739158b2c1d5e0579e27235ccc03039da263896",
+      "bytes": 2945
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-013_othrem-cal.md",
+      "title": "CAST-013 othrem-cal",
+      "group": "Figure e opposizioni — 367",
+      "url": "ef65c82a6c2893b8.html",
+      "raw": "fonti/ef65c82a6c2893b8.md",
+      "sha256": "45af11fbfb7688402101d026d66a8fec7aa888dfec4f191a4af962cb39169bd2",
+      "bytes": 2950
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-014_ilyra-sen.md",
+      "title": "CAST-014 ilyra-sen",
+      "group": "Figure e opposizioni — 367",
+      "url": "6ca48a7b6dd417e8.html",
+      "raw": "fonti/6ca48a7b6dd417e8.md",
+      "sha256": "e207cb0e07b26ea9513c5c44fe26d2555c310a83390bb5cefa3124d49b5374e7",
+      "bytes": 2963
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-015_deyran-ur.md",
+      "title": "CAST-015 deyran-ur",
+      "group": "Figure e opposizioni — 367",
+      "url": "5b31071304c2e15b.html",
+      "raw": "fonti/5b31071304c2e15b.md",
+      "sha256": "752e3008a270835a538225e4c7475e506506e609571ee80d07070b72413ac31d",
+      "bytes": 2979
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-016_cerel-voss.md",
+      "title": "CAST-016 cerel-voss",
+      "group": "Figure e opposizioni — 367",
+      "url": "0f4196f213f95161.html",
+      "raw": "fonti/0f4196f213f95161.md",
+      "sha256": "e79099eaafe849fb0c21f6918ab2809001a7e8a9c8e556767a1fb4d7988ba8ac",
+      "bytes": 2862
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-017_neren-aul.md",
+      "title": "CAST-017 neren-aul",
+      "group": "Figure e opposizioni — 367",
+      "url": "57a3d41e0b8ca131.html",
+      "raw": "fonti/57a3d41e0b8ca131.md",
+      "sha256": "aee9d0f90ef5a3fec975fdc20e75757f80e8d328abd5c4aa2e2d7e5975844e3b",
+      "bytes": 2795
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-018_talren-soth.md",
+      "title": "CAST-018 talren-soth",
+      "group": "Figure e opposizioni — 367",
+      "url": "f205790e62cde446.html",
+      "raw": "fonti/f205790e62cde446.md",
+      "sha256": "ae0eef09fb48c13f497e2b932b8a6bf1fe11e39352fdfba5a97e03aa2abca364",
+      "bytes": 2862
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-019_enra-keth.md",
+      "title": "CAST-019 enra-keth",
+      "group": "Figure e opposizioni — 367",
+      "url": "8e31f73e7d379889.html",
+      "raw": "fonti/8e31f73e7d379889.md",
+      "sha256": "30458d27c0cd17721e39ce09834faa638e3806df7f3b00819ce96a4ef09919f8",
+      "bytes": 2757
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-020_soran-il.md",
+      "title": "CAST-020 soran-il",
+      "group": "Figure e opposizioni — 367",
+      "url": "0136e4a938d4579a.html",
+      "raw": "fonti/0136e4a938d4579a.md",
+      "sha256": "241b2ffd9223dff83eb3badcab684161c6c821edbab66e2d20906c14f13698ca",
+      "bytes": 2804
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-021_veyra-pell.md",
+      "title": "CAST-021 veyra-pell",
+      "group": "Figure e opposizioni — 367",
+      "url": "b9099d50db9e4f0b.html",
+      "raw": "fonti/b9099d50db9e4f0b.md",
+      "sha256": "40b0327ff3f110925b9f5adde0deadfc45cb9ba47e17dc84fb5ef1a40631c0c2",
+      "bytes": 2724
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-022_loran-esch.md",
+      "title": "CAST-022 loran-esch",
+      "group": "Figure e opposizioni — 367",
+      "url": "758f02646a155f83.html",
+      "raw": "fonti/758f02646a155f83.md",
+      "sha256": "7c9a08be3751f9e73b96867460bad9c63cff07217c3eb7ba4de7fd96247d26c0",
+      "bytes": 2689
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-023_ysra-venn.md",
+      "title": "CAST-023 ysra-venn",
+      "group": "Figure e opposizioni — 367",
+      "url": "f3e22cf6442dedad.html",
+      "raw": "fonti/f3e22cf6442dedad.md",
+      "sha256": "ca98249442010e74d636acf145ba0af4f3ad700b53ade44d86dca34ac1f47dcd",
+      "bytes": 2717
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-024_sereth-daal.md",
+      "title": "CAST-024 sereth-daal",
+      "group": "Figure e opposizioni — 367",
+      "url": "df6200917be9bea4.html",
+      "raw": "fonti/df6200917be9bea4.md",
+      "sha256": "2a16625a6777edfa526841ddcd89cd1a57ac6b63d81d9f5f7f1bb78a8431ffed",
+      "bytes": 2765
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-025_sael-mereth.md",
+      "title": "CAST-025 sael-mereth",
+      "group": "Figure e opposizioni — 367",
+      "url": "0ece55c40f9ac4bf.html",
+      "raw": "fonti/0ece55c40f9ac4bf.md",
+      "sha256": "e372bbefe8f5e54d38590d624952dde14c770863a3b7fb8e37be61425632d043",
+      "bytes": 2670
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-026_denor-rai.md",
+      "title": "CAST-026 denor-rai",
+      "group": "Figure e opposizioni — 367",
+      "url": "8ca195cb9f61f2b0.html",
+      "raw": "fonti/8ca195cb9f61f2b0.md",
+      "sha256": "0328ac19615343ff251d254a914576ed6a02df4932b8d6498c62754cd72273d5",
+      "bytes": 2778
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-027_elren-voss.md",
+      "title": "CAST-027 elren-voss",
+      "group": "Figure e opposizioni — 367",
+      "url": "2336eb1c87d5bc8c.html",
+      "raw": "fonti/2336eb1c87d5bc8c.md",
+      "sha256": "9a376527eeedef35fe839709a4735944483dfe36ad4f314b577cf9e7e899c249",
+      "bytes": 2724
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-028_dama-rinn.md",
+      "title": "CAST-028 dama-rinn",
+      "group": "Figure e opposizioni — 367",
+      "url": "0b35a559be41021d.html",
+      "raw": "fonti/0b35a559be41021d.md",
+      "sha256": "514422963219967c12afcaee4115774a05fbdc7daee51a53efd051c371aaf896",
+      "bytes": 2851
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-029_iven-namar.md",
+      "title": "CAST-029 iven-namar",
+      "group": "Figure e opposizioni — 367",
+      "url": "bbcd7496bc5b0ce8.html",
+      "raw": "fonti/bbcd7496bc5b0ce8.md",
+      "sha256": "aa03be8089654fe571e3071012008718d94a059d47d0ffd6793dfa685276092e",
+      "bytes": 2770
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-030_tavel-rinn.md",
+      "title": "CAST-030 tavel-rinn",
+      "group": "Figure e opposizioni — 367",
+      "url": "797f9ca49b387674.html",
+      "raw": "fonti/797f9ca49b387674.md",
+      "sha256": "63aaaee788eb2a2b301899f816308a06ae73e097cf9d0eeb9904d0d5f3c648e7",
+      "bytes": 2771
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-031_marcel-ruy.md",
+      "title": "CAST-031 marcel-ruy",
+      "group": "Figure e opposizioni — 367",
+      "url": "95dbfeb74d98bb04.html",
+      "raw": "fonti/95dbfeb74d98bb04.md",
+      "sha256": "eb19275bcd08f3326938da744fbaec19942da9150b99f6b290ce2a07f38690d0",
+      "bytes": 2776
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-033_corvin-dast.md",
+      "title": "CAST-033 corvin-dast",
+      "group": "Figure e opposizioni — 367",
+      "url": "1f03cbebeb001944.html",
+      "raw": "fonti/1f03cbebeb001944.md",
+      "sha256": "407e7f3be012993e0757650dcbd39279a12668f4852c6d4dc597d81c354b176c",
+      "bytes": 2999
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-034_adele-rosk.md",
+      "title": "CAST-034 adele-rosk",
+      "group": "Figure e opposizioni — 367",
+      "url": "ed532b775af32bca.html",
+      "raw": "fonti/ed532b775af32bca.md",
+      "sha256": "e55f8fdc0c24dcf637e6aadb89ee0cc570cd52e313d7917143d10a0b9dc394d4",
+      "bytes": 3122
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-474_mael-vaur.md",
+      "title": "CAST-474 mael-vaur",
+      "group": "Figure e opposizioni — 367",
+      "url": "470a0b6a94c97682.html",
+      "raw": "fonti/470a0b6a94c97682.md",
+      "sha256": "329f267e281f6feb20d5a69799d9c7f572ba5313aaf91a901e5015e7e02deb04",
+      "bytes": 3817
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-475_sybille-kest.md",
+      "title": "CAST-475 sybille-kest",
+      "group": "Figure e opposizioni — 367",
+      "url": "7f5a9f2d4a266d95.html",
+      "raw": "fonti/7f5a9f2d4a266d95.md",
+      "sha256": "7ee7704f297550267591dbb31dcc1f5518f19b73685f80c8f4e0c4e86555c917",
+      "bytes": 3524
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-476_voren-ashk.md",
+      "title": "CAST-476 voren-ashk",
+      "group": "Figure e opposizioni — 367",
+      "url": "4f6cf0acebb3f843.html",
+      "raw": "fonti/4f6cf0acebb3f843.md",
+      "sha256": "34ff68994c18b484a15e3d25b660fad4878ef538f3af2c7b22f56929922b2b26",
+      "bytes": 3613
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-477_ishra-neth.md",
+      "title": "CAST-477 ishra-neth",
+      "group": "Figure e opposizioni — 367",
+      "url": "184a2ed7f748319f.html",
+      "raw": "fonti/184a2ed7f748319f.md",
+      "sha256": "14762919beb798740e5708b288e0cfb0cffd9f8247d8c04eaf78273363ccc687",
+      "bytes": 3371
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-478_sevra-dhal.md",
+      "title": "CAST-478 sevra-dhal",
+      "group": "Figure e opposizioni — 367",
+      "url": "350f4ccd14531115.html",
+      "raw": "fonti/350f4ccd14531115.md",
+      "sha256": "81d0df4b7597bed861aa180fcc1aa54d0c3b3f262b64bb703d0ab722a8e1842a",
+      "bytes": 3504
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-479_arven-sorel.md",
+      "title": "CAST-479 arven-sorel",
+      "group": "Figure e opposizioni — 367",
+      "url": "72868efa6e9170a0.html",
+      "raw": "fonti/72868efa6e9170a0.md",
+      "sha256": "83adbad85b23bd8c4e5e0889d7e2d010de0ca0a8509b71290cb4099e7bc715ad",
+      "bytes": 3540
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-480_marwen-kael.md",
+      "title": "CAST-480 marwen-kael",
+      "group": "Figure e opposizioni — 367",
+      "url": "5669cd8bd5954a34.html",
+      "raw": "fonti/5669cd8bd5954a34.md",
+      "sha256": "3d1003ff39bfe304475232fbbae97f76b3fe3fff492544d1e7373d10d3096a38",
+      "bytes": 3513
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-481_elisa-vorn.md",
+      "title": "CAST-481 elisa-vorn",
+      "group": "Figure e opposizioni — 367",
+      "url": "66ffacd846ed93c0.html",
+      "raw": "fonti/66ffacd846ed93c0.md",
+      "sha256": "beaf70391b8378c9a9eba0b57dbcc4d568960c2c7ed8fd67475bf6d736878ce3",
+      "bytes": 3441
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-482_naor-vesk.md",
+      "title": "CAST-482 naor-vesk",
+      "group": "Figure e opposizioni — 367",
+      "url": "2fce1dffb83dfc65.html",
+      "raw": "fonti/2fce1dffb83dfc65.md",
+      "sha256": "bf7c0ec45b0f12f99422726b0ac73d6575de790d70af84209e82525854b43154",
+      "bytes": 3413
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-483_dara-ulven.md",
+      "title": "CAST-483 dara-ulven",
+      "group": "Figure e opposizioni — 367",
+      "url": "0a92247d83f439d5.html",
+      "raw": "fonti/0a92247d83f439d5.md",
+      "sha256": "b9334d171ef7fd83578a424b22542110420f586d310a4ebb8ebfafd26978539f",
+      "bytes": 3346
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-484_ishven-raal.md",
+      "title": "CAST-484 ishven-raal",
+      "group": "Figure e opposizioni — 367",
+      "url": "cad14aa3b0ce0b2d.html",
+      "raw": "fonti/cad14aa3b0ce0b2d.md",
+      "sha256": "c70c479be7974db71fa6af0d07c075b14a98530b1ebf69c92af5ed77744e1508",
+      "bytes": 3484
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-485_neris-vaal.md",
+      "title": "CAST-485 neris-vaal",
+      "group": "Figure e opposizioni — 367",
+      "url": "099df407309a0d58.html",
+      "raw": "fonti/099df407309a0d58.md",
+      "sha256": "9741ccde9e2a17c601a6d61da58e8b3c9d932e937fde2915b2563d3712f07cfd",
+      "bytes": 3447
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-486_hadrik-vos.md",
+      "title": "CAST-486 hadrik-vos",
+      "group": "Figure e opposizioni — 367",
+      "url": "f311ae5886cdb7bc.html",
+      "raw": "fonti/f311ae5886cdb7bc.md",
+      "sha256": "a63dc72311680e308175621326896a447e2973048f240d03fd59112d24b3a2cf",
+      "bytes": 3494
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-487_eline-rusk.md",
+      "title": "CAST-487 eline-rusk",
+      "group": "Figure e opposizioni — 367",
+      "url": "6220113ab7500b41.html",
+      "raw": "fonti/6220113ab7500b41.md",
+      "sha256": "6bbdf242a34ae84a01d5f2da60cad550fdd6dee9fbe39c2543cdf714885bd425",
+      "bytes": 3401
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-488_ossiel-thren.md",
+      "title": "CAST-488 ossiel-thren",
+      "group": "Figure e opposizioni — 367",
+      "url": "d46a09805812c80f.html",
+      "raw": "fonti/d46a09805812c80f.md",
+      "sha256": "e54e1654283390011566d2e66ba40c3de38a66bb17f0dd297dc0f55bced6ac17",
+      "bytes": 3491
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-489_meraine-solt.md",
+      "title": "CAST-489 meraine-solt",
+      "group": "Figure e opposizioni — 367",
+      "url": "ad37de0d3c19193f.html",
+      "raw": "fonti/ad37de0d3c19193f.md",
+      "sha256": "426f35c215258412c14670a33e6fbafa9339b52f26ed257b5c7fe190e367f57b",
+      "bytes": 3469
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-490_kaeris-ohn.md",
+      "title": "CAST-490 kaeris-ohn",
+      "group": "Figure e opposizioni — 367",
+      "url": "3c679c5bb94e20b1.html",
+      "raw": "fonti/3c679c5bb94e20b1.md",
+      "sha256": "c27fcdf982ee416540ba488fe47fc7e3a05187bc23b8fb7e6189d9f945d6e71b",
+      "bytes": 3496
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-491_thel-ordan.md",
+      "title": "CAST-491 thel-ordan",
+      "group": "Figure e opposizioni — 367",
+      "url": "3df21f0dc71d611f.html",
+      "raw": "fonti/3df21f0dc71d611f.md",
+      "sha256": "1a2dba5714761773e03c0fa430603051f41ddc4acbf3d0d4497d2fc8fa213e31",
+      "bytes": 3463
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-492_vareth-senn.md",
+      "title": "CAST-492 vareth-senn",
+      "group": "Figure e opposizioni — 367",
+      "url": "f224d4532ff6f427.html",
+      "raw": "fonti/f224d4532ff6f427.md",
+      "sha256": "d84089f5a821cbc7f9829772e649d36aa868a74c3a5ed945c66548bab9ee9f46",
+      "bytes": 3529
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-493_ilena-dorr.md",
+      "title": "CAST-493 ilena-dorr",
+      "group": "Figure e opposizioni — 367",
+      "url": "54bdedce0483f6d7.html",
+      "raw": "fonti/54bdedce0483f6d7.md",
+      "sha256": "77ab850a4401d7f95c0e1f4c2de533983a0af923e7e1707d46332cd80683701d",
+      "bytes": 3478
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-494_mireya-voss.md",
+      "title": "CAST-494 mireya-voss",
+      "group": "Figure e opposizioni — 367",
+      "url": "4c36687481706ab9.html",
+      "raw": "fonti/4c36687481706ab9.md",
+      "sha256": "2345053d596db61c71e74d8e5313b5cdbf257cc914cf9d24b502f0d5e64038e5",
+      "bytes": 3363
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-495_teren-alst.md",
+      "title": "CAST-495 teren-alst",
+      "group": "Figure e opposizioni — 367",
+      "url": "0bd2a4a4e9ab368a.html",
+      "raw": "fonti/0bd2a4a4e9ab368a.md",
+      "sha256": "88ed493edcba349b2faeaf8231f33ce588206f54e2eb932b38f0aa13f0ebd19e",
+      "bytes": 3217
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-496_seran-vaust.md",
+      "title": "CAST-496 seran-vaust",
+      "group": "Figure e opposizioni — 367",
+      "url": "a793361ef6cd8eee.html",
+      "raw": "fonti/a793361ef6cd8eee.md",
+      "sha256": "eae6e8759139070d7fb2bdda6900329c57ad431a7cabd48136a628480dbe36b7",
+      "bytes": 3404
+    },
+    {
+      "source": "DOSSIER_FIGURE_367/CAST-497_alise-reth.md",
+      "title": "CAST-497 alise-reth",
+      "group": "Figure e opposizioni — 367",
+      "url": "2035d69274fce0af.html",
+      "raw": "fonti/2035d69274fce0af.md",
+      "sha256": "60f3dcb3970aaad4ef80a825a6b4f629c4f6dd64976618dc27d62b5f43c7dc83",
+      "bytes": 3410
+    },
+    {
+      "source": "CANONE_VIGENTE/Figure_approfondite_367.json",
+      "title": "Figure approfondite 367",
+      "group": "Figure e opposizioni — 367",
+      "url": "bd13a4be97a7eaef.html",
+      "raw": "fonti/bd13a4be97a7eaef.json",
+      "sha256": "ec42db53e951177f4611c56ee9e6ab4830c4e4aa3d1cfef5b84d92310944dff1",
+      "bytes": 132775
+    },
+    {
+      "source": "CANONE_VIGENTE/Religioni_e_istituzioni_367.json",
+      "title": "Religioni e istituzioni 367",
+      "group": "Religioni e istituzioni — 367",
+      "url": "e2e14f1502a93958.html",
+      "raw": "fonti/e2e14f1502a93958.json",
+      "sha256": "c63a356b8e26736aa7bd30ae5640f7f6aca9e8af659e5c5c5aa8fa1e94c51389",
+      "bytes": 50992
+    },
+    {
+      "source": "RISERVATO_367_Religioni_e_istituzioni.md",
+      "title": "RISERVATO 367 Religioni e istituzioni",
+      "group": "Religioni e istituzioni — 367",
+      "url": "a5dd24c7a634019a.html",
+      "raw": "fonti/a5dd24c7a634019a.md",
+      "sha256": "6cb4a59418c4d6fde2a06385c49128c797fc82d4f4145aa406651aa35e81c2a8",
+      "bytes": 47866
+    },
+    {
+      "source": "CANONE_VIGENTE/Geografia_vissuta_367.json",
+      "title": "Geografia vissuta 367",
+      "group": "Geografia vissuta — 367",
+      "url": "b41402a2e38f62c2.html",
+      "raw": "fonti/b41402a2e38f62c2.json",
+      "sha256": "8eb0dd75804eee7e6f6b937f11efb408cfae81ce3368f0f42848818c5d27e75b",
+      "bytes": 67298
+    },
+    {
+      "source": "RISERVATO_367_Geografia_vissuta.md",
+      "title": "RISERVATO 367 Geografia vissuta",
+      "group": "Geografia vissuta — 367",
+      "url": "a5ea0225ee26ee20.html",
+      "raw": "fonti/a5ea0225ee26ee20.md",
+      "sha256": "ddf2ed7c4b950d29e9e0fcbfa73643db697f9c98af92731d5669184047f77f37",
+      "bytes": 45522
+    },
+    {
+      "source": "CANONE_VIGENTE/Vita_popoli_e_bestiario_367.json",
+      "title": "Vita popoli e bestiario 367",
+      "group": "Popoli e bestiario — 367",
+      "url": "b068d6fd6284bc4f.html",
+      "raw": "fonti/b068d6fd6284bc4f.json",
+      "sha256": "a04fdd2b6450e074a170d4f249117f8213aea9529e2df293b4f51bb7ce4fdaa6",
+      "bytes": 20823
+    },
+    {
+      "source": "RISERVATO_367_Popoli_e_bestiario.md",
+      "title": "RISERVATO 367 Popoli e bestiario",
+      "group": "Popoli e bestiario — 367",
+      "url": "6d80db891eb5870c.html",
+      "raw": "fonti/6d80db891eb5870c.md",
+      "sha256": "388e4ce93ceeb191bc6d59c14ccd22a86193ec12e9e5e76d635f73f9a693fb8d",
+      "bytes": 18110
+    },
+    {
+      "source": "CANONE_VIGENTE/Archi_operativi_367.json",
+      "title": "Archi operativi 367",
+      "group": "Quaranta archi — 367",
+      "url": "1be1a092250d52e2.html",
+      "raw": "fonti/1be1a092250d52e2.json",
+      "sha256": "188a542336667638d628adba27962a1e441efa45b6a508d2d22147567ae39c59",
+      "bytes": 61339
+    },
+    {
+      "source": "RISERVATO_367_Quaranta_archi_operativi.md",
+      "title": "RISERVATO 367 Quaranta archi operativi",
+      "group": "Quaranta archi — 367",
+      "url": "34c1136ce5ba5dc2.html",
+      "raw": "fonti/34c1136ce5ba5dc2.md",
+      "sha256": "98f0708b03a0d1c4e9e3912754669626ea6e064e29b409f08f5d3857c5d01705",
+      "bytes": 40725
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_367/23_Registro_unico_del_canone.md",
+      "title": "23 Registro unico del canone",
+      "group": "Storico prima di 367",
+      "url": "30cd479ab111fd42.html",
+      "raw": "fonti/30cd479ab111fd42.md",
+      "sha256": "30f2ed8a83aa0e424aacdc39d87b85e853977ccf1d235b29320050998965f11c",
+      "bytes": 61328
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-483_dara-ulven.md",
+      "title": "CAST-483 dara-ulven",
+      "group": "Completamento editoriale 367",
+      "url": "f6dcaac8a3733701.html",
+      "raw": "fonti/f6dcaac8a3733701.md",
+      "sha256": "b9334d171ef7fd83578a424b22542110420f586d310a4ebb8ebfafd26978539f",
+      "bytes": 3346
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-013_othrem-cal.md",
+      "title": "CAST-013 othrem-cal",
+      "group": "Completamento editoriale 367",
+      "url": "0469854d95081579.html",
+      "raw": "fonti/0469854d95081579.md",
+      "sha256": "45af11fbfb7688402101d026d66a8fec7aa888dfec4f191a4af962cb39169bd2",
+      "bytes": 2950
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-477_ishra-neth.md",
+      "title": "CAST-477 ishra-neth",
+      "group": "Completamento editoriale 367",
+      "url": "4dffb1ba2cc9e1ba.html",
+      "raw": "fonti/4dffb1ba2cc9e1ba.md",
+      "sha256": "14762919beb798740e5708b288e0cfb0cffd9f8247d8c04eaf78273363ccc687",
+      "bytes": 3371
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-007_sairen-velis.md",
+      "title": "CAST-007 sairen-velis",
+      "group": "Completamento editoriale 367",
+      "url": "33e914713cf4373c.html",
+      "raw": "fonti/33e914713cf4373c.md",
+      "sha256": "57bb61307f0243f5669c2c31378d2da345923bca12bd1b00046eb6a9445fac4f",
+      "bytes": 3004
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-478_sevra-dhal.md",
+      "title": "CAST-478 sevra-dhal",
+      "group": "Completamento editoriale 367",
+      "url": "f3e3075ee69f078b.html",
+      "raw": "fonti/f3e3075ee69f078b.md",
+      "sha256": "81d0df4b7597bed861aa180fcc1aa54d0c3b3f262b64bb703d0ab722a8e1842a",
+      "bytes": 3504
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-016_cerel-voss.md",
+      "title": "CAST-016 cerel-voss",
+      "group": "Completamento editoriale 367",
+      "url": "83a7be8a6cb8d1d5.html",
+      "raw": "fonti/83a7be8a6cb8d1d5.md",
+      "sha256": "e79099eaafe849fb0c21f6918ab2809001a7e8a9c8e556767a1fb4d7988ba8ac",
+      "bytes": 2862
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-030_tavel-rinn.md",
+      "title": "CAST-030 tavel-rinn",
+      "group": "Completamento editoriale 367",
+      "url": "15491836265d4aa7.html",
+      "raw": "fonti/15491836265d4aa7.md",
+      "sha256": "63aaaee788eb2a2b301899f816308a06ae73e097cf9d0eeb9904d0d5f3c648e7",
+      "bytes": 2771
+    },
+    {
+      "source": "367_Ordine_numerico_opera.md",
+      "title": "367 Ordine numerico opera",
+      "group": "Completamento editoriale 367",
+      "url": "47a0641dda71bf33.html",
+      "raw": "fonti/47a0641dda71bf33.md",
+      "sha256": "9ef678dcd241125cb2c76cde3d1f993ce987414d41f4254fb22da10f333fb9a7",
+      "bytes": 246
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-006_doria-seln.md",
+      "title": "CAST-006 doria-seln",
+      "group": "Completamento editoriale 367",
+      "url": "97e9e32c32438113.html",
+      "raw": "fonti/97e9e32c32438113.md",
+      "sha256": "b26004095e9b7474219a8f20413c8b27bf2842c9d94f7c8037d14e2e2768a3a2",
+      "bytes": 3064
+    },
+    {
+      "source": "367_Registro_del_completamento_editoriale.md",
+      "title": "367 Registro del completamento editoriale",
+      "group": "Completamento editoriale 367",
+      "url": "d133fb1636ef4b8a.html",
+      "raw": "fonti/d133fb1636ef4b8a.md",
+      "sha256": "7c00197f40cc55fcaf263745821c1a8c66f45e7694a6b31bc5f935c59502e487",
+      "bytes": 2093
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-482_naor-vesk.md",
+      "title": "CAST-482 naor-vesk",
+      "group": "Completamento editoriale 367",
+      "url": "d19fd2e3a542eb6a.html",
+      "raw": "fonti/d19fd2e3a542eb6a.md",
+      "sha256": "bf7c0ec45b0f12f99422726b0ac73d6575de790d70af84209e82525854b43154",
+      "bytes": 3413
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-480_marwen-kael.md",
+      "title": "CAST-480 marwen-kael",
+      "group": "Completamento editoriale 367",
+      "url": "c752a3849c0d849e.html",
+      "raw": "fonti/c752a3849c0d849e.md",
+      "sha256": "3d1003ff39bfe304475232fbbae97f76b3fe3fff492544d1e7373d10d3096a38",
+      "bytes": 3513
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-493_ilena-dorr.md",
+      "title": "CAST-493 ilena-dorr",
+      "group": "Completamento editoriale 367",
+      "url": "931552e8f8737c1f.html",
+      "raw": "fonti/931552e8f8737c1f.md",
+      "sha256": "77ab850a4401d7f95c0e1f4c2de533983a0af923e7e1707d46332cd80683701d",
+      "bytes": 3478
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-010_neral-venn.md",
+      "title": "CAST-010 neral-venn",
+      "group": "Completamento editoriale 367",
+      "url": "63c7d83fcb10ed38.html",
+      "raw": "fonti/63c7d83fcb10ed38.md",
+      "sha256": "d28e563ddae515ba983265cb85f8834c9a4c2d0b8fe3c969b88228d9e1ef3f24",
+      "bytes": 3065
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-012_althene-rhos.md",
+      "title": "CAST-012 althene-rhos",
+      "group": "Completamento editoriale 367",
+      "url": "6998a56cfd6553e7.html",
+      "raw": "fonti/6998a56cfd6553e7.md",
+      "sha256": "27a2e1d9721d8cf72b61e4ce2739158b2c1d5e0579e27235ccc03039da263896",
+      "bytes": 2945
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-495_teren-alst.md",
+      "title": "CAST-495 teren-alst",
+      "group": "Completamento editoriale 367",
+      "url": "1271804065c07595.html",
+      "raw": "fonti/1271804065c07595.md",
+      "sha256": "88ed493edcba349b2faeaf8231f33ce588206f54e2eb932b38f0aa13f0ebd19e",
+      "bytes": 3217
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-033_corvin-dast.md",
+      "title": "CAST-033 corvin-dast",
+      "group": "Completamento editoriale 367",
+      "url": "4804f4d64a5b5774.html",
+      "raw": "fonti/4804f4d64a5b5774.md",
+      "sha256": "407e7f3be012993e0757650dcbd39279a12668f4852c6d4dc597d81c354b176c",
+      "bytes": 2999
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_367/CANONE_VIGENTE/Societa_condivisa.json",
+      "title": "Societa condivisa",
+      "group": "Storico prima di 367",
+      "url": "9ad5dbe55be9306e.html",
+      "raw": "fonti/9ad5dbe55be9306e.json",
+      "sha256": "9b6e49e6620531cea24df999aeffe8eb3c020980948e0736c9e0b0124797cdd2",
+      "bytes": 45671
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-025_sael-mereth.md",
+      "title": "CAST-025 sael-mereth",
+      "group": "Completamento editoriale 367",
+      "url": "0ac92b2b573f2642.html",
+      "raw": "fonti/0ac92b2b573f2642.md",
+      "sha256": "e372bbefe8f5e54d38590d624952dde14c770863a3b7fb8e37be61425632d043",
+      "bytes": 2670
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-024_sereth-daal.md",
+      "title": "CAST-024 sereth-daal",
+      "group": "Completamento editoriale 367",
+      "url": "4991d9b5f40b9a05.html",
+      "raw": "fonti/4991d9b5f40b9a05.md",
+      "sha256": "2a16625a6777edfa526841ddcd89cd1a57ac6b63d81d9f5f7f1bb78a8431ffed",
+      "bytes": 2765
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-479_arven-sorel.md",
+      "title": "CAST-479 arven-sorel",
+      "group": "Completamento editoriale 367",
+      "url": "22fd593addfb95ac.html",
+      "raw": "fonti/22fd593addfb95ac.md",
+      "sha256": "83adbad85b23bd8c4e5e0889d7e2d010de0ca0a8509b71290cb4099e7bc715ad",
+      "bytes": 3540
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-496_seran-vaust.md",
+      "title": "CAST-496 seran-vaust",
+      "group": "Completamento editoriale 367",
+      "url": "9abac891ccf19462.html",
+      "raw": "fonti/9abac891ccf19462.md",
+      "sha256": "eae6e8759139070d7fb2bdda6900329c57ad431a7cabd48136a628480dbe36b7",
+      "bytes": 3404
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-019_enra-keth.md",
+      "title": "CAST-019 enra-keth",
+      "group": "Completamento editoriale 367",
+      "url": "85379104b2d661ba.html",
+      "raw": "fonti/85379104b2d661ba.md",
+      "sha256": "30458d27c0cd17721e39ce09834faa638e3806df7f3b00819ce96a4ef09919f8",
+      "bytes": 2757
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-022_loran-esch.md",
+      "title": "CAST-022 loran-esch",
+      "group": "Completamento editoriale 367",
+      "url": "517dde5ae52223be.html",
+      "raw": "fonti/517dde5ae52223be.md",
+      "sha256": "7c9a08be3751f9e73b96867460bad9c63cff07217c3eb7ba4de7fd96247d26c0",
+      "bytes": 2689
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-015_deyran-ur.md",
+      "title": "CAST-015 deyran-ur",
+      "group": "Completamento editoriale 367",
+      "url": "4d81a33a728bc3d0.html",
+      "raw": "fonti/4d81a33a728bc3d0.md",
+      "sha256": "752e3008a270835a538225e4c7475e506506e609571ee80d07070b72413ac31d",
+      "bytes": 2979
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-004_yselle-valcienne.md",
+      "title": "CAST-004 yselle-valcienne",
+      "group": "Completamento editoriale 367",
+      "url": "efedd4ac03da6757.html",
+      "raw": "fonti/efedd4ac03da6757.md",
+      "sha256": "34ff584c8f8c7b9081e9c11fd22544b9f7b2522824f952421f6e362f4dc451d6",
+      "bytes": 3353
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-011_helyr-ossen.md",
+      "title": "CAST-011 helyr-ossen",
+      "group": "Completamento editoriale 367",
+      "url": "00d8b65e091e9e65.html",
+      "raw": "fonti/00d8b65e091e9e65.md",
+      "sha256": "859b318ffdcedbb2bbd9ffdaa868073dd085c65be3594950e7a2a16a683ddc8c",
+      "bytes": 3106
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-487_eline-rusk.md",
+      "title": "CAST-487 eline-rusk",
+      "group": "Completamento editoriale 367",
+      "url": "dcc3eb26be9e4e3f.html",
+      "raw": "fonti/dcc3eb26be9e4e3f.md",
+      "sha256": "6bbdf242a34ae84a01d5f2da60cad550fdd6dee9fbe39c2543cdf714885bd425",
+      "bytes": 3401
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-486_hadrik-vos.md",
+      "title": "CAST-486 hadrik-vos",
+      "group": "Completamento editoriale 367",
+      "url": "1c26dd6168b4c88f.html",
+      "raw": "fonti/1c26dd6168b4c88f.md",
+      "sha256": "a63dc72311680e308175621326896a447e2973048f240d03fd59112d24b3a2cf",
+      "bytes": 3494
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-008_oriel-namar.md",
+      "title": "CAST-008 oriel-namar",
+      "group": "Completamento editoriale 367",
+      "url": "5dc2f82ed4172b02.html",
+      "raw": "fonti/5dc2f82ed4172b02.md",
+      "sha256": "d64baef42924b6a3945591c2979c9f369fb3a482ee9318578e840db5af0ef89e",
+      "bytes": 2960
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_367/CANONE_VIGENTE/Oggetti_creature_materiali.json",
+      "title": "Oggetti creature materiali",
+      "group": "Storico prima di 367",
+      "url": "85f07d4793443519.html",
+      "raw": "fonti/85f07d4793443519.json",
+      "sha256": "abf6ca88b919e2ae666319c88825ae3e4df20acb677f8eba0b702639d51774a2",
+      "bytes": 1013191
+    },
+    {
+      "source": "367_Piano_di_completamento_editoriale.md",
+      "title": "367 Piano di completamento editoriale",
+      "group": "Completamento editoriale 367",
+      "url": "51b2db3a7aeb6632.html",
+      "raw": "fonti/51b2db3a7aeb6632.md",
+      "sha256": "228f68fef1cfc135c9f491dc9b10534d2f1ac9cb24e40af90a007026126a0faa",
+      "bytes": 1210
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-017_neren-aul.md",
+      "title": "CAST-017 neren-aul",
+      "group": "Completamento editoriale 367",
+      "url": "c52f2b397e5227aa.html",
+      "raw": "fonti/c52f2b397e5227aa.md",
+      "sha256": "aee9d0f90ef5a3fec975fdc20e75757f80e8d328abd5c4aa2e2d7e5975844e3b",
+      "bytes": 2795
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-018_talren-soth.md",
+      "title": "CAST-018 talren-soth",
+      "group": "Completamento editoriale 367",
+      "url": "2b267331c112026b.html",
+      "raw": "fonti/2b267331c112026b.md",
+      "sha256": "ae0eef09fb48c13f497e2b932b8a6bf1fe11e39352fdfba5a97e03aa2abca364",
+      "bytes": 2862
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_367/CANONE_VIGENTE/Geografia_riservata.json",
+      "title": "Geografia riservata",
+      "group": "Storico prima di 367",
+      "url": "3fefed841eeb2d6c.html",
+      "raw": "fonti/3fefed841eeb2d6c.json",
+      "sha256": "b852adb2489635657d76686051f8ddc8983ebc884c79cd4ed2125855ea12f485",
+      "bytes": 167676
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-027_elren-voss.md",
+      "title": "CAST-027 elren-voss",
+      "group": "Completamento editoriale 367",
+      "url": "2cf45ba7d8b8c2ac.html",
+      "raw": "fonti/2cf45ba7d8b8c2ac.md",
+      "sha256": "9a376527eeedef35fe839709a4735944483dfe36ad4f314b577cf9e7e899c249",
+      "bytes": 2724
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-488_ossiel-thren.md",
+      "title": "CAST-488 ossiel-thren",
+      "group": "Completamento editoriale 367",
+      "url": "62a4f8fbc792a258.html",
+      "raw": "fonti/62a4f8fbc792a258.md",
+      "sha256": "e54e1654283390011566d2e66ba40c3de38a66bb17f0dd297dc0f55bced6ac17",
+      "bytes": 3491
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_367/CANONE_VIGENTE/Societa_riservata.json",
+      "title": "Societa riservata",
+      "group": "Storico prima di 367",
+      "url": "dd69bd11a74ed5cb.html",
+      "raw": "fonti/dd69bd11a74ed5cb.json",
+      "sha256": "99c59b1743d296927cd6db76ad707a87f83886e4ed212790f0b3b97158c4f625",
+      "bytes": 82372
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-021_veyra-pell.md",
+      "title": "CAST-021 veyra-pell",
+      "group": "Completamento editoriale 367",
+      "url": "8bbd8a91a3aa9f1a.html",
+      "raw": "fonti/8bbd8a91a3aa9f1a.md",
+      "sha256": "40b0327ff3f110925b9f5adde0deadfc45cb9ba47e17dc84fb5ef1a40631c0c2",
+      "bytes": 2724
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-492_vareth-senn.md",
+      "title": "CAST-492 vareth-senn",
+      "group": "Completamento editoriale 367",
+      "url": "8516368440f5512c.html",
+      "raw": "fonti/8516368440f5512c.md",
+      "sha256": "d84089f5a821cbc7f9829772e649d36aa868a74c3a5ed945c66548bab9ee9f46",
+      "bytes": 3529
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-031_marcel-ruy.md",
+      "title": "CAST-031 marcel-ruy",
+      "group": "Completamento editoriale 367",
+      "url": "a00534abe4567266.html",
+      "raw": "fonti/a00534abe4567266.md",
+      "sha256": "eb19275bcd08f3326938da744fbaec19942da9150b99f6b290ce2a07f38690d0",
+      "bytes": 2776
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/07_Geografia_storia_e_popoli/RISERVATO/RISERVATO_367_Geografia_vissuta.md",
+      "title": "RISERVATO 367 Geografia vissuta",
+      "group": "Completamento editoriale 367",
+      "url": "782f264f87ddef2f.html",
+      "raw": "fonti/782f264f87ddef2f.md",
+      "sha256": "ddf2ed7c4b950d29e9e0fcbfa73643db697f9c98af92731d5669184047f77f37",
+      "bytes": 45522
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-491_thel-ordan.md",
+      "title": "CAST-491 thel-ordan",
+      "group": "Completamento editoriale 367",
+      "url": "8c8aa156db125e40.html",
+      "raw": "fonti/8c8aa156db125e40.md",
+      "sha256": "1a2dba5714761773e03c0fa430603051f41ddc4acbf3d0d4497d2fc8fa213e31",
+      "bytes": 3463
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-028_dama-rinn.md",
+      "title": "CAST-028 dama-rinn",
+      "group": "Completamento editoriale 367",
+      "url": "b1bc40eb8ad09d4f.html",
+      "raw": "fonti/b1bc40eb8ad09d4f.md",
+      "sha256": "514422963219967c12afcaee4115774a05fbdc7daee51a53efd051c371aaf896",
+      "bytes": 2851
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-485_neris-vaal.md",
+      "title": "CAST-485 neris-vaal",
+      "group": "Completamento editoriale 367",
+      "url": "8bac25a25b3d7aff.html",
+      "raw": "fonti/8bac25a25b3d7aff.md",
+      "sha256": "9741ccde9e2a17c601a6d61da58e8b3c9d932e937fde2915b2563d3712f07cfd",
+      "bytes": 3447
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_367/CANONE_VIGENTE/Cast_riservato.json",
+      "title": "Cast riservato",
+      "group": "Storico prima di 367",
+      "url": "c7150d5ffcab9b42.html",
+      "raw": "fonti/c7150d5ffcab9b42.json",
+      "sha256": "e954d73a1499f8aacf5daafdc9bcd2cb4ee47dc42321b18cfce0e62827a8563a",
+      "bytes": 3376578
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-484_ishven-raal.md",
+      "title": "CAST-484 ishven-raal",
+      "group": "Completamento editoriale 367",
+      "url": "d507e1e005ff3397.html",
+      "raw": "fonti/d507e1e005ff3397.md",
+      "sha256": "c70c479be7974db71fa6af0d07c075b14a98530b1ebf69c92af5ed77744e1508",
+      "bytes": 3484
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-489_meraine-solt.md",
+      "title": "CAST-489 meraine-solt",
+      "group": "Completamento editoriale 367",
+      "url": "9ea1e857e1b01928.html",
+      "raw": "fonti/9ea1e857e1b01928.md",
+      "sha256": "426f35c215258412c14670a33e6fbafa9339b52f26ed257b5c7fe190e367f57b",
+      "bytes": 3469
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-475_sybille-kest.md",
+      "title": "CAST-475 sybille-kest",
+      "group": "Completamento editoriale 367",
+      "url": "d6a9e9a77820da64.html",
+      "raw": "fonti/d6a9e9a77820da64.md",
+      "sha256": "7ee7704f297550267591dbb31dcc1f5518f19b73685f80c8f4e0c4e86555c917",
+      "bytes": 3524
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-474_mael-vaur.md",
+      "title": "CAST-474 mael-vaur",
+      "group": "Completamento editoriale 367",
+      "url": "a879cc6705322115.html",
+      "raw": "fonti/a879cc6705322115.md",
+      "sha256": "329f267e281f6feb20d5a69799d9c7f572ba5313aaf91a901e5015e7e02deb04",
+      "bytes": 3817
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-481_elisa-vorn.md",
+      "title": "CAST-481 elisa-vorn",
+      "group": "Completamento editoriale 367",
+      "url": "e186cb74cdbcf114.html",
+      "raw": "fonti/e186cb74cdbcf114.md",
+      "sha256": "beaf70391b8378c9a9eba0b57dbcc4d568960c2c7ed8fd67475bf6d736878ce3",
+      "bytes": 3441
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_367/CANONE_VIGENTE/Trama_riservata.json",
+      "title": "Trama riservata",
+      "group": "Storico prima di 367",
+      "url": "475b6b2f172092c5.html",
+      "raw": "fonti/475b6b2f172092c5.json",
+      "sha256": "7bba02ade9fcfbaaae897cf13ebdeaf275296cbc7050393b6a0b137e4b50592d",
+      "bytes": 165462
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-023_ysra-venn.md",
+      "title": "CAST-023 ysra-venn",
+      "group": "Completamento editoriale 367",
+      "url": "3ca8b2865f52d029.html",
+      "raw": "fonti/3ca8b2865f52d029.md",
+      "sha256": "ca98249442010e74d636acf145ba0af4f3ad700b53ade44d86dca34ac1f47dcd",
+      "bytes": 2717
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-009_ashren-tor.md",
+      "title": "CAST-009 ashren-tor",
+      "group": "Completamento editoriale 367",
+      "url": "9c7e855a5500629d.html",
+      "raw": "fonti/9c7e855a5500629d.md",
+      "sha256": "ddc4ff02c820e8b1ee72c45a0e6637efb111710d39f9b7ae6448d26bf6efb037",
+      "bytes": 2903
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-026_denor-rai.md",
+      "title": "CAST-026 denor-rai",
+      "group": "Completamento editoriale 367",
+      "url": "a93901a9f57e5d36.html",
+      "raw": "fonti/a93901a9f57e5d36.md",
+      "sha256": "0328ac19615343ff251d254a914576ed6a02df4932b8d6498c62754cd72273d5",
+      "bytes": 2778
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-003_celine-valcienne.md",
+      "title": "CAST-003 celine-valcienne",
+      "group": "Completamento editoriale 367",
+      "url": "105216a217d55e77.html",
+      "raw": "fonti/105216a217d55e77.md",
+      "sha256": "abfcc0b94e5591cf5186b64354b4c809cc655833ecb06c1355bf1a170d9ac932",
+      "bytes": 3237
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-490_kaeris-ohn.md",
+      "title": "CAST-490 kaeris-ohn",
+      "group": "Completamento editoriale 367",
+      "url": "1d005a5495c63fd6.html",
+      "raw": "fonti/1d005a5495c63fd6.md",
+      "sha256": "c27fcdf982ee416540ba488fe47fc7e3a05187bc23b8fb7e6189d9f945d6e71b",
+      "bytes": 3496
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/12_Trama_volumi_e_archi/RISERVATO/RISERVATO_367_Quaranta_archi_operativi.md",
+      "title": "RISERVATO 367 Quaranta archi operativi",
+      "group": "Completamento editoriale 367",
+      "url": "b5d5ca350181325d.html",
+      "raw": "fonti/b5d5ca350181325d.md",
+      "sha256": "98f0708b03a0d1c4e9e3912754669626ea6e064e29b409f08f5d3857c5d01705",
+      "bytes": 40725
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-034_adele-rosk.md",
+      "title": "CAST-034 adele-rosk",
+      "group": "Completamento editoriale 367",
+      "url": "f12528f3c1f3eb1f.html",
+      "raw": "fonti/f12528f3c1f3eb1f.md",
+      "sha256": "e55f8fdc0c24dcf637e6aadb89ee0cc570cd52e313d7917143d10a0b9dc394d4",
+      "bytes": 3122
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/08_Religioni_istituzioni_ed_economia/RISERVATO/RISERVATO_367_Religioni_e_istituzioni.md",
+      "title": "RISERVATO 367 Religioni e istituzioni",
+      "group": "Completamento editoriale 367",
+      "url": "f9863c854f66acce.html",
+      "raw": "fonti/f9863c854f66acce.md",
+      "sha256": "6cb4a59418c4d6fde2a06385c49128c797fc82d4f4145aa406651aa35e81c2a8",
+      "bytes": 47866
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-029_iven-namar.md",
+      "title": "CAST-029 iven-namar",
+      "group": "Completamento editoriale 367",
+      "url": "630f4398f7142e82.html",
+      "raw": "fonti/630f4398f7142e82.md",
+      "sha256": "aa03be8089654fe571e3071012008718d94a059d47d0ffd6793dfa685276092e",
+      "bytes": 2770
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-497_alise-reth.md",
+      "title": "CAST-497 alise-reth",
+      "group": "Completamento editoriale 367",
+      "url": "ddcbc0b9bfe9c56d.html",
+      "raw": "fonti/ddcbc0b9bfe9c56d.md",
+      "sha256": "60f3dcb3970aaad4ef80a825a6b4f629c4f6dd64976618dc27d62b5f43c7dc83",
+      "bytes": 3410
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-014_ilyra-sen.md",
+      "title": "CAST-014 ilyra-sen",
+      "group": "Completamento editoriale 367",
+      "url": "54c3faeb5341354d.html",
+      "raw": "fonti/54c3faeb5341354d.md",
+      "sha256": "e207cb0e07b26ea9513c5c44fe26d2555c310a83390bb5cefa3124d49b5374e7",
+      "bytes": 2963
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-494_mireya-voss.md",
+      "title": "CAST-494 mireya-voss",
+      "group": "Completamento editoriale 367",
+      "url": "82c2fa092a82436e.html",
+      "raw": "fonti/82c2fa092a82436e.md",
+      "sha256": "2345053d596db61c71e74d8e5313b5cdbf257cc914cf9d24b502f0d5e64038e5",
+      "bytes": 3363
+    },
+    {
+      "source": "CANONE_VIGENTE/Audit_editoriale_367.json",
+      "title": "Audit editoriale 367",
+      "group": "Completamento editoriale 367",
+      "url": "2ac95518ff7b6d4d.html",
+      "raw": "fonti/2ac95518ff7b6d4d.json",
+      "sha256": "c5590c614162821b79a3184eca94819435dfa6f3d230d7ad45d9563f3303a355",
+      "bytes": 1327
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_367/CANONE_VIGENTE/Geografia_condivisa.json",
+      "title": "Geografia condivisa",
+      "group": "Storico prima di 367",
+      "url": "bcd001411917d2e8.html",
+      "raw": "fonti/bcd001411917d2e8.json",
+      "sha256": "de06900d835789af38847c2ad16e8b8612889f1775e5b64051abe2748b9b2d64",
+      "bytes": 65138
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-476_voren-ashk.md",
+      "title": "CAST-476 voren-ashk",
+      "group": "Completamento editoriale 367",
+      "url": "4b961f4a430229a9.html",
+      "raw": "fonti/4b961f4a430229a9.md",
+      "sha256": "34ff68994c18b484a15e3d25b660fad4878ef538f3af2c7b22f56929922b2b26",
+      "bytes": 3613
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-020_soran-il.md",
+      "title": "CAST-020 soran-il",
+      "group": "Completamento editoriale 367",
+      "url": "3a70e7eb78f643ba.html",
+      "raw": "fonti/3a70e7eb78f643ba.md",
+      "sha256": "241b2ffd9223dff83eb3badcab684161c6c821edbab66e2d20906c14f13698ca",
+      "bytes": 2804
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-005_mirel-osta.md",
+      "title": "CAST-005 mirel-osta",
+      "group": "Completamento editoriale 367",
+      "url": "f0d231e0b8ee4a0f.html",
+      "raw": "fonti/f0d231e0b8ee4a0f.md",
+      "sha256": "c9b9ca0502e568bce6e66920f2aeaa6743dff80fce6826ffdb528e157d79a5b2",
+      "bytes": 3112
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",

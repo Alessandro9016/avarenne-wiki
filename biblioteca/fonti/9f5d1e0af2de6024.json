@@ -504,7 +504,8 @@
       ],
       "sources": [
         "GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md",
-        "GIOCATORE_273_Rete_civile_di_Alexander.md"
+        "GIOCATORE_273_Rete_civile_di_Alexander.md",
+        "DOSSIER_FIGURE_367/CAST-003_celine-valcienne.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -569,7 +570,27 @@
       "biology_revision": "BIO-CAST-01",
       "civil_memory": "Fratello premuroso ma spesso assente; promessa di visita alla biblioteca rimasta sospesa.",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "Uno spazio che non sia una stanza di convalescenza",
+        "sections": {
+          "Vita e carattere": "Celine vuole poter raccontare una giornata di scuola senza che ogni adulto cerchi un sintomo del lutto. Disegna giardini con percorsi inutilmente tortuosi perché le piacciono le sorprese, non perché custodiscano un codice. Dopo il coma del fratello oscilla fra il desiderio di restargli vicino e la rabbia per il tempo passato ad aspettare notizie. Tiene ancora lettere ordinarie dei genitori e può non volerle leggere subito insieme.",
+          "Comportamento e decisioni": "Quando le si nasconde una questione per proteggerla fa domande sempre più concrete: chi viene, quanto resta, chi ha deciso. Può fingersi disinteressata per non essere trattata da bambina. Una risposta onesta e limitata le dà più fiducia di una rassicurazione assoluta.",
+          "Iniziativa autonoma": "Può chiedere di tornare a scuola o visitare l’officina della zia con accompagnamento ordinario. Il rifiuto del fratello diventa una conversazione familiare, non una fuga obbligatoria o una punizione.",
+          "Scelta che può dividerlo dagli alleati": "Un adulto cerca di usarla per conoscere gli umori del duca. Lei può parlarne, non riconoscere il tentativo o rifiutare senza diventare un’informatrice infallibile.",
+          "Obiettivo presente": "Ritrovare routine scolastica e sapere cosa può realmente chiedere agli adulti",
+          "Punto di rottura": "La protezione domestica può trasformarsi in esclusione dalle decisioni che la riguardano",
+          "Verità riservata già fissata": "Ha conservato lettere dei genitori non ancora riordinate, ordinarie e senza messaggi cosmici",
+          "Continuità con il passato adottato": "Scuola e lutto familiare hanno una vita indipendente dall’intrigo cosmico. Disegna piante e giardini e vorrebbe visitare l’officina della zia. Non ha deciso una carriera tecnica; i suoi disegni non sono profezie e la sua curiosità non impone una quest al fratello.",
+          "Voce": "Pone domande concrete quando gli adulti usano eufemismi; non è infallibile",
+          "Timore personale": "Essere esclusa da decisioni che la riguardano.",
+          "Capacità e accessi effettivi": "Persona ordinaria: autorità professionale, rapporti e mezzi civili; nessuna Effige personale.",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-003_celine-valcienne.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-004",
@@ -623,7 +644,8 @@
       "sources": [
         "GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md",
         "RISERVATO_85_Apertura_personale_e_rete_immediata.md",
-        "GIOCATORE_273_Rete_civile_di_Alexander.md"
+        "GIOCATORE_273_Rete_civile_di_Alexander.md",
+        "DOSSIER_FIGURE_367/CAST-004_yselle-valcienne.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -688,7 +710,27 @@
       "biology_revision": "BIO-CAST-01",
       "civil_memory": "Zia paterna, rapporto familiare e dissenso tecnico autonomo.",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "La macchina deve continuare quando il progettista dorme",
+        "sections": {
+          "Vita e carattere": "Yselle ama vedere un apprendista smontare correttamente un pezzo che lei aveva progettato male. Questo piacere convive con la paura di perdere controllo commerciale del lavoro. A casa con Martin può discutere di denaro e desiderare una serata senza officina; il matrimonio non è un complotto. La garanzia personale già fissata resta sua, con rischi propri, e non viene caricata di nascosto sul patrimonio del nipote.",
+          "Comportamento e decisioni": "Tratta un’interruzione del lavoro come problema da misurare, poi può accorgersi troppo tardi che l’interlocutore chiedeva ascolto. Con Alexander alterna familiarità familiare e precisione di una socia che ha diritto di dire no.",
+          "Iniziativa autonoma": "Può organizzare una dimostrazione delle pompe e chiedere un giudizio circoscritto, non un finanziamento obbligatorio. Se una soluzione di Cradle sostituisce davvero il prototipo cerca un nuovo ruolo per la competenza, senza pretendere che il miracolo fallisca.",
+          "Scelta che può dividerlo dagli alleati": "Una licenza indipendente renderebbe riparabile il dispositivo ma diminuirebbe la rendita necessaria a pagare la garanzia.",
+          "Obiettivo presente": "Costruire pompe riparabili localmente senza perdere controllo del progetto",
+          "Punto di rottura": "Garanzia personale, brevetti e accesso alle officine tirano in direzioni diverse",
+          "Verità riservata già fissata": "La garanzia già fissata in 133; non altro debito occulto assegnato ad Alexander",
+          "Continuità con il passato adottato": "Ottenne responsabilità tecniche prima della morte di Lucien. Il marito Martin Lethorne, insegnante ordinario di meccanica di trentasette anni, conosce il rischio del progetto ma non ogni dettaglio della garanzia. Il matrimonio non è segretamente concluso. Il patrimonio proprio non diventa denaro del nipote.",
+          "Voce": "Rifà un conto sul margine invece di alzare la voce; dissente anche da chi ama",
+          "Timore personale": "Perdere autonomia dietro un aiuto familiare.",
+          "Capacità e accessi effettivi": "Persona ordinaria: autorità professionale, rapporti e mezzi civili; nessuna Effige personale.",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-004_yselle-valcienne.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-005",
@@ -728,7 +770,8 @@
         }
       ],
       "sources": [
-        "RISERVATO_85_Apertura_personale_e_rete_immediata.md"
+        "RISERVATO_85_Apertura_personale_e_rete_immediata.md",
+        "DOSSIER_FIGURE_367/CAST-005_mirel-osta.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -792,7 +835,27 @@
       "biological_population": "Umano",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "Il paziente non è il caso che la renderà famosa",
+        "sections": {
+          "Vita e carattere": "Mirel ha imparato negli ambulatori rurali a distinguere un buon risultato da una buona spiegazione. Tiene i vecchi errori professionali nei registri perché cancellarli renderebbe impossibile capire le correzioni. Può essere orgogliosa della propria competenza e infastidita da una diagnosi migliore fatta in pochi secondi da un Bearer. Il risentimento non la obbliga a negare una cura realmente riuscita.",
+          "Comportamento e decisioni": "Prima di una domanda difficile si lava le mani anche se sono già pulite. Comunica ciò che osserva e dichiara ciò che non sa; sotto pressione può diventare brusca. Non è coinvolta nel veleno e il Quiet Glass non le ha rivelato il trasferimento di Edran.",
+          "Iniziativa autonoma": "Propone esami ordinari, riposo e colloqui. Può accettare che Alexander rifiuti una visita e annotarne le conseguenze reali. Per una diagnosi spirituale cerca una competenza specifica invece di fingere Heart.",
+          "Scelta che può dividerlo dagli alleati": "Pubblicare un caso straordinario potrebbe aiutarla e violare la riservatezza del paziente: il consenso non si presume dal successo della cura.",
+          "Obiettivo presente": "Documentare ciò che è osservabile e proteggere pazienti da conclusioni premature",
+          "Punto di rottura": "La ripresa è reale ma non spiega la misura interrotta",
+          "Verità riservata già fissata": "Uso del Quiet Glass fissato in 85; nessuna partecipazione al veleno",
+          "Continuità con il passato adottato": "Formata nella medicina ordinaria, lavorò in ambulatori rurali prima delle consulenze familiari. Ha visto cure investite riuscire e diagnosi ordinarie migliori di promesse spettacolari. Conserva gli errori nei referti. La responsabilità del Glass è reale ma non nasconde un piano cosmico.",
+          "Voce": "Chiama errore un proprio errore; esige che una diagnosi dica anche cosa non dimostra",
+          "Timore personale": "Rendere irreversibile una diagnosi non verificata.",
+          "Capacità e accessi effettivi": "Persona ordinaria: autorità professionale, rapporti e mezzi civili; nessuna Effige personale.",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-005_mirel-osta.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-006",
@@ -824,7 +887,8 @@
         }
       ],
       "sources": [
-        "RISERVATO_135_Fazioni_civili_industriali_e_sociali.md"
+        "RISERVATO_135_Fazioni_civili_industriali_e_sociali.md",
+        "DOSSIER_FIGURE_367/CAST-006_doria-seln.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -893,7 +957,27 @@
           "id": "ART-009",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Una decisione deve poter essere contestata da chi non piace",
+        "sections": {
+          "Vita e carattere": "Doria venne promossa dopo aver dimostrato l’incompatibilità di due regolamenti, non dopo avere scoperto una cospirazione divina. L’esperienza le diede fiducia nei rimedi e una diffidenza eccessiva verso prove che arrivano fuori dai canali abituali. Conserva la lettera del collaboratore che voleva limitare i casi imbarazzanti. Vorrebbe essere ricordata per un ufficio che funziona, ma teme che una correzione pubblica venga letta come fallimento personale.",
+          "Comportamento e decisioni": "Ascolta a lungo e poi ripete la richiesta in termini molto più stretti. Può rendersi conto di avere ristretto troppo e riaprire il colloquio. Un titolo ducale non sostituisce una prova, ma non la rende incapace di accordare una priorità motivata.",
+          "Iniziativa autonoma": "Può chiedere una copia patrimoniale circoscritta, convocare un perito e pubblicare riserve. Se la controversia viene risolta autenticamente chiude il relativo procedimento.",
+          "Scelta che può dividerlo dagli alleati": "Un caso solido presentato da un oppositore può costringerla a difendere il risultato contro i propri collaboratori.",
+          "Obiettivo presente": "Rendere contestabile una decisione amministrativa prima che divenga irreversibile",
+          "Punto di rottura": "La pubblicazione protegge utenti ma può legittimare copie incomplete",
+          "Verità riservata già fissata": "Un ex collaboratore le propose di restringere la pubblicazione ai casi meno imbarazzanti; conserva la lettera e non ha accettato",
+          "Continuità con il passato adottato": "Proviene da un ufficio provinciale. Ottenne responsabilità dopo aver documentato due regolamenti incompatibili senza accusare ogni copista di frode. Difende i ricorsi come strumento delle istituzioni, ma può diffidare di pubblicazioni indipendenti quando non controlla la catena delle copie.",
+          "Voce": "Ascolta fino alla fine, poi domanda quale originale possa essere mostrato",
+          "Timore personale": "Validare errori attraverso il sistema che dovrebbe correggerli.",
+          "Capacità e accessi effettivi": "Persona ordinaria: autorità professionale, rapporti e mezzi civili; nessuna Effige personale.",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-006_doria-seln.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-007",
@@ -935,7 +1019,8 @@
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
         "RISERVATO_94_Cronologia_integrale_ed_ere.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "DOSSIER_FIGURE_367/CAST-007_sairen-velis.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -1013,7 +1098,27 @@
           "id": "ART-099",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Essere luce senza pretendere di essere innocente",
+        "sections": {
+          "Vita e carattere": "Sairen preferisce incontri contenuti alle apparizioni che impediscono all’interlocutore di guardare altrove. Non è modestia perfetta: gli piace che i presidi funzionino con il suo nome e può tollerare troppo a lungo la venerazione utile. La distinzione fra purificazione del danno e purezza morale deriva da conflitti reali con officianti, non dall’assenza di ombre nella sua persona.",
+          "Comportamento e decisioni": "Chiede quale separazione protegga chi, e per quanto tempo. Se una minaccia raggiunge davvero un presidio usa la forza pertinente senza attendere una votazione di sacerdoti. Può però opporsi alla pubblicazione di una vulnerabilità mentre gli abitanti chiedono di conoscerla.",
+          "Iniziativa autonoma": "Può affidare a Erath una verifica, rispondere a un canale autentico o rifiutare una richiesta che lo obbligherebbe ad abbandonare un sostegno già attivo. Non ascolta ogni preghiera pronunciata sul pianeta.",
+          "Scelta che può dividerlo dagli alleati": "Un santuario efficace attribuisce una guarigione a superiorità morale del paziente: correggere la dottrina può incrinare un sostegno politico utile.",
+          "Obiettivo presente": "Conservare separazioni civili che non dipendano da una singola figura carismatica",
+          "Punto di rottura": "L'utilità dei presidi sostiene un culto che confonde illuminazione e obbedienza",
+          "Verità riservata già fissata": "Non sa del Refuge; rifiutò una proposta clericale di purificazione morale, conservandone il testo come precedente",
+          "Continuità con il passato adottato": "L’ascesa ricostruì presidi reali dopo la caduta, non fu un premio alla popolarità. Generazioni di custodi spiegano i relais regionali. Sa distinguere una separazione che protegge un paziente da una dottrina che lo dichiara moralmente superiore. Erath conserva una pratica e una posizione proprie.",
+          "Voce": "Espone con precisione, concede raramente un'affermazione più ampia delle prove",
+          "Timore personale": "Dipendenza territoriale da un unico presidio.",
+          "Capacità e accessi effettivi": "Halo — stadio 7",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-007_sairen-velis.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-008",
@@ -1059,7 +1164,8 @@
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
         "RISERVATO_94_Cronologia_integrale_ed_ere.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "DOSSIER_FIGURE_367/CAST-008_oriel-namar.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -1132,7 +1238,27 @@
       "biological_population": "Umano",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "La cura che funziona può diventare un governo",
+        "sections": {
+          "Vita e carattere": "Oriel nacque dopo la caduta di Edran. Ha costruito reputazione su servizi realmente salvati, non su un’invenzione totale delle proprie opere. Il suo piacere più sincero è vedere una rete superare un’emergenza senza improvvisazione. La stessa preferenza lo porta a considerare il dissenso un errore di coordinamento. Può amare chi cura e voler decidere troppo del suo futuro.",
+          "Comportamento e decisioni": "Ascolta una richiesta medica fino al dettaglio materiale e diventa meno paziente quando il tema è la rinuncia al suo controllo. Non nega i risultati degli altri; domanda chi garantisce il giorno successivo. La domanda può essere fondata o un modo di rendere permanente la dipendenza.",
+          "Iniziativa autonoma": "Può delegare un servizio con limiti verificabili, aumentare una riserva davvero disponibile oppure sospendere un ramo pericoloso. Iven e Ysra conservano competenze e volontà proprie.",
+          "Scelta che può dividerlo dagli alleati": "Una cura indipendente risolve il danno e toglie al suo sistema una ragione per esigere esclusiva. Può riconoscerla o tentare di inglobarla.",
+          "Obiettivo presente": "Mantenere servizi capaci di superare crisi regionali",
+          "Punto di rottura": "Cura realmente, ma considera alcune dipendenze un prezzo amministrativo necessario",
+          "Verità riservata già fissata": "Accetta di delegare singoli servizi, non il diritto di controllare la loro compatibilità; non conosce il ritorno",
+          "Continuità con il passato adottato": "Nacque dopo la caduta e non fu un apostolo personale di Edran. Servizi salvati gli conferirono reputazione legittima, poi diritti amministrativi più ampi. La sua cura funziona. Il dissenso di Ysra riguarda le dipendenze richieste, non la negazione di tutti i benefici.",
+          "Voce": "Parla di pazienti per nome quando li ha incontrati, ma di popolazioni come sistemi",
+          "Timore personale": "Separazione che privi pazienti di sostegni reali.",
+          "Capacità e accessi effettivi": "Heart — stadio 7",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-008_oriel-namar.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-009",
@@ -1173,7 +1299,8 @@
       "sources": [
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_94_Cronologia_integrale_ed_ere.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "DOSSIER_FIGURE_367/CAST-009_ashren-tor.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -1256,7 +1383,27 @@
           "id": "ART-084",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Lasciare un forno che altri possano spegnere",
+        "sections": {
+          "Vita e carattere": "Ashren trova più intima una discussione su una lega difettosa che una cerimonia in suo onore. Ha saputo perdere una dimostrazione e resta capace di irritarsi quando un tecnico ordinario gli ricorda un limite. Il vecchio esperimento nel quale non separò il legame di custodia non diventa una formula segreta onnipotente: è una responsabilità tecnica che motiva l’interdizione reale dell’area.",
+          "Comportamento e decisioni": "Prende in mano un campione soltanto dopo aver chiesto a chi appartiene, ma può presumere di avere il diritto di decidere come studiarlo. Apprezza chi gli porta un pezzo fallito e diffida dei risultati senza scarti.",
+          "Iniziativa autonoma": "Può aprire un insegnamento circoscritto, sostenere una conversione o intervenire contro un impianto raggiunto. Un accordo con Othrem o Enra non gli concede le loro Effigi.",
+          "Scelta che può dividerlo dagli alleati": "Un metodo aperto diffonde competenza e rende possibile una produzione bellica. Non esiste una risposta automatica che salvi insieme segretezza, accessibilità e controllo.",
+          "Obiettivo presente": "Separare la competenza industriale dal monopolio degli apparati",
+          "Punto di rottura": "La diffusione di metodi riduce il controllo sulla loro applicazione",
+          "Verità riservata già fissata": "Una vecchia sperimentazione separò correttamente materia e potenza ma non un legame di custodia; mantiene l'area interdetta",
+          "Continuità con il passato adottato": "La successione dei forni richiese separazioni reali. Sostiene scuole che insegnano manutenzione ordinaria accanto a conversioni investite: un impianto senza tecnici è fragile. Gli accordi con Enra e Othrem non lo rendono titolare dell’intero Worldforge.",
+          "Voce": "Stima chi sa descrivere un fallimento senza abbellirlo",
+          "Timore personale": "Produzione incapace di fermarsi in sicurezza.",
+          "Capacità e accessi effettivi": "Crucible — stadio 7",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-009_ashren-tor.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-010",
@@ -1303,7 +1450,8 @@
       "sources": [
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_94_Cronologia_integrale_ed_ere.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "DOSSIER_FIGURE_367/CAST-010_neral-venn.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -1392,7 +1540,27 @@
           "id": "ART-055",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "L’ospitalità può nascondere chi ha il potere di chiudere",
+        "sections": {
+          "Vita e carattere": "Neral ama ascoltare versioni diverse di una stessa storia e non considera ogni divergenza un errore. Può offrire a un ospite un modo di apparire che lo faccia sentire meno prigioniero del proprio corpo. Il suo difetto è ritenere questa comprensione una ragione sufficiente per chiedere accesso alla vita interiore altrui. Le comunità delle interfacce non sono tutte la stessa casa o una sola volontà.",
+          "Comportamento e decisioni": "Può cambiare il modo in cui si presenta senza cambiare argomento, mettendo alla prova l’interlocutore. In un rapporto fidato può scegliere invece una presenza stabile. Non conosce l’inosservato perché possiede Mask e Labyrinth.",
+          "Iniziativa autonoma": "Può negoziare il diritto di verifica o accettare un ospite che vuole restare opaco. Una rappresentazione utile non conferisce proprietà del rappresentato.",
+          "Scelta che può dividerlo dagli alleati": "Un ospite chiede la distruzione di una registrazione che Neral ritiene necessaria alla sicurezza collettiva: protezione e appropriazione devono essere distinte attraverso fatti concreti.",
+          "Obiettivo presente": "Proteggere pluralità di interfacce senza fare degli individui proprietà delle rappresentazioni",
+          "Punto di rottura": "L'opacità che protegge dissidenti può proteggere anche predatori",
+          "Verità riservata già fissata": "Non tutti gli ospiti delle sue reti accettano il diritto di verifica che egli rivendica",
+          "Continuità con il passato adottato": "La seconda incorporazione fu rischiosa e la pienezza richiese decenni. I predecessori non sono persone possedute come maschere. Le comunità delle interfacce hanno statuti diversi, alcuni opachi. Può proteggere un individuo e sottrarsi alla richiesta di rispondere del proprio ruolo.",
+          "Voce": "Può riconoscere la stessa obiezione in forme diverse; detesta essere adulato da una propria immagine",
+          "Timore personale": "Verifica dell’identità usata per ridurre tutte le persone a una sola forma.",
+          "Capacità e accessi effettivi": "Mask — stadio 7, Labyrinth — stadio 7",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-010_neral-venn.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-011",
@@ -1454,7 +1622,8 @@
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_94_Cronologia_integrale_ed_ere.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "DOSSIER_FIGURE_367/CAST-011_helyr-ossen.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -1542,7 +1711,27 @@
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
       "character_review_revision": 340,
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "Una strada indipendente non è un filo legato al suo autore",
+        "sections": {
+          "Vita e carattere": "Helyr conosce il prezzo di lasciare un itinerario ai suoi abitanti: può non sapere più chi lo usa. Collaborò con Edran da potenza indipendente e cercò un ricongiungimento senza raggiungere Refuge. Non è il custode consapevole del futuro di Elias. La rinuncia a un controllo totale gli è cara ma non facile; alcune separazioni sono ancora decisioni che preferisce rinviare.",
+          "Comportamento e decisioni": "Prima di promettere un passaggio chiede come si tornerà. Può sembrare freddo a chi ha un’emergenza, poi spendere una risorsa reale senza chiedere riconoscenza pubblica. Non guarda ogni cerniera derivata dal proprio lavoro.",
+          "Iniziativa autonoma": "Può consentire un accesso, chiedere la riparazione di un percorso o difendere la propria Seat. Cooperazione, rinuncia e contesa sono possibilità diverse, non tappe di un sacrificio predestinato per Elias.",
+          "Scelta che può dividerlo dagli alleati": "Riaprire un vecchio itinerario può salvare chi è isolato e rendere raggiungibile una comunità che aveva scelto distanza.",
+          "Obiettivo presente": "Mantenere percorsi abitati separati da contese cosmiche",
+          "Punto di rottura": "Ogni accesso civile stabile può diventare un punto di pressione politica",
+          "Verità riservata già fissata": "Ignora il Refuge e il ritorno; non possiede ogni segmento della propria antica rete",
+          "Continuità con il passato adottato": "Esisteva prima di Edran e collaborò come potenza indipendente. Cercò vie di ricongiungimento senza raggiungere Refuge. La successiva stabilizzazione parziale non gli diede accesso al passato non osservato o a fonti prive di relazione. Un’opera rimasta indipendente non gli invia ogni scelta del nuovo utilizzatore.",
+          "Voce": "Verifica un'uscita prima di discutere una destinazione; può chiudere una via utile se ne comprende il rischio",
+          "Timore personale": "Contesa cosmica scaricata sui viaggiatori civili.",
+          "Capacità e accessi effettivi": "Astrolabe — stadio 7, Hourglass — stadio 7, Loom — stadio 7",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-011_helyr-ossen.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-012",
@@ -1585,7 +1774,8 @@
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
         "GIOCATORE_279_Althene_relazione_antica_ricordata.md",
-        "RISERVATO_280_Althene_lutto_e_indagine.md"
+        "RISERVATO_280_Althene_lutto_e_indagine.md",
+        "DOSSIER_FIGURE_367/CAST-012_althene-rhos.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -1679,7 +1869,27 @@
           "id": "ART-096",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Il lutto non obbliga a restare la persona dell’ultimo incontro",
+        "sections": {
+          "Vita e carattere": "Althene fu amante adulta e indipendente di Edran; il rapporto era in corso all’ultima procedura e fu interrotto dalla morte, non da una separazione pattuita. Il dossier affettivo riservato resta la fonte delle ricerche moderne e dell’evoluzione del legame. Questo ampliamento non le attribuisce una reazione già scelta al ritorno. La sua vita attraverso millenni non è stata un’unica attesa immobile.",
+          "Comportamento e decisioni": "Può nominare un morto senza solennità e raccontarne una debolezza con affetto. Il suo rigore consiste nel non promettere un ritorno quando la continuità non lo permette. Non scambia una somiglianza fisica per prova dell’identità.",
+          "Iniziativa autonoma": "Può accettare una verifica, proteggere una continuità raggiunta o rifiutare una restaurazione voluta soltanto dai vivi. Il confronto con Soran riguarda persone e sorgenti concrete, non un’inimicizia automatica con ogni uso di Maw.",
+          "Scelta che può dividerlo dagli alleati": "Un’identità autentica potrebbe riaprire un affetto senza ripristinare automaticamente il rapporto antico: desiderio, fiducia e decisione vanno vissuti nel presente.",
+          "Obiettivo presente": "Distinguere custodia, restituzione e consumo",
+          "Punto di rottura": "Difendere una presenza può richiedere conservare il contenitore che la tiene prigioniera",
+          "Verità riservata già fissata": "La sua custodia include persone che rifiutano restaurazioni corporee; questo rifiuto è autentico",
+          "Continuità con il passato adottato": "La custodia distingue morto e bottino. Può sostenere una continuità senza imporle un nuovo corpo. Una richiesta di ritorno non è sempre desiderata dal soggetto; un residuo eloquente può non essere una persona. La propria continuità non richiede una corporeità biologicamente viva.",
+          "Voce": "Non chiama salvezza ciò che un morto non ha richiesto",
+          "Timore personale": "Liberazione che spenga il sostegno di una continuità.",
+          "Capacità e accessi effettivi": "Sepulchre — stadio 7",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-012_althene-rhos.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-013",
@@ -1721,7 +1931,8 @@
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "DOSSIER_FIGURE_367/CAST-013_othrem-cal.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -1809,7 +2020,27 @@
           "id": "ART-035",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "La crescita non si cura sempre tagliando il ramo diverso",
+        "sections": {
+          "Vita e carattere": "Othrem contribuì alla rimozione di vincoli ereditari. I benefici e la manomissione antica fissata nel 97 possono essere entrambi veri. Ha una pazienza che agli esseri brevi sembra generosità, ma può usarla per aspettare che il dissenso perda persone e risorse. Si interessa sinceramente alle forme viventi e rischia di trattare l’autonomia come una proprietà utile al sistema.",
+          "Comportamento e decisioni": "Parla di generazioni prima di chiedere il nome di chi ha subito il danno. Quando qualcuno lo obbliga a tornare a quel nome può reagire con irritazione oppure con una cura concreta. Non è costretto dalla propria Effige a essere paternalista.",
+          "Iniziativa autonoma": "Può offrire un sostegno indipendente, limitarne la distribuzione o difendere una riserva. Non conosce il ritorno di Edran e non controlla ogni vivaio o agente che invochi il suo patrocinio.",
+          "Scelta che può dividerlo dagli alleati": "Una comunità prospera fuori dalle forme da lui mantenute: ammetterne il successo minaccia l’idea che il proprio controllo sia sempre necessario.",
+          "Obiettivo presente": "Conservare sistemi viventi stabili e la propria autorità su di essi",
+          "Punto di rottura": "Considera controllabile un rischio che gli individui coinvolti non hanno scelto",
+          "Verità riservata già fissata": "Manomissione antica fissata in 97; nessuna conoscenza della continuità superstite",
+          "Continuità con il passato adottato": "Partecipò alla rimozione di vincoli ereditari: non fu soltanto un nemico della liberazione. La manomissione antica rimane però un atto reale con rischio accettato. Può valutare una scelta individuale soltanto come variabile di un sistema, senza che il sistema lo costringa a farlo.",
+          "Voce": "Loda l'adattamento e fatica a riconoscere un rifiuto che non migliori un sistema",
+          "Timore personale": "Separazione che comprometta generazioni di servizi.",
+          "Capacità e accessi effettivi": "Seed — stadio 7",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-013_othrem-cal.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-014",
@@ -1855,7 +2086,8 @@
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "DOSSIER_FIGURE_367/CAST-014_ilyra-sen.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -1943,7 +2175,27 @@
           "id": "ART-100",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Una legge utile non assolve chi prolunga il mandato",
+        "sections": {
+          "Vita e carattere": "Ilyra conserva una memoria delle crisi che rende credibili le sue paure. La riorganizzazione protesse diritti; l’ultima procedura mostrò la scelta di prolungare un contenimento. Il passato del 97 resta fissato senza trasformare ogni ufficio moderno in una sua emanazione. Non si giudica ingiusta e questo rende più importante distinguere le ragioni dalla responsabilità.",
+          "Comportamento e decisioni": "Domanda chi risponde dopo la riforma. Può ascoltare un ricorso ordinario senza attivare Crown, ma se una minaccia raggiunge il suo esercizio non si riduce a presiedere una commissione. La forza resta una possibilità reale.",
+          "Iniziativa autonoma": "Può ritirare un sostegno, cambiare una delega o ammettere una competenza esterna. Non conosce ogni falsificazione compiuta da Marwen.",
+          "Scelta che può dividerlo dagli alleati": "Una correzione fondata potrebbe indebolire un ufficio necessario: riconoscere il danno e mantenere i servizi richiede lavoro distinto, non negazione della prova.",
+          "Obiettivo presente": "Impedire che un collasso di competenze distrugga diritti e servizi",
+          "Punto di rottura": "Un contenimento utile può divenire dominio permanente",
+          "Verità riservata già fissata": "Responsabilità antica fissata in 97; non controlla la memoria di tutti i cittadini",
+          "Continuità con il passato adottato": "La riorganizzazione protesse diritti prima inesistenti. Il contenimento dell’ultima procedura mostrò come un’autorità potesse prolungare il proprio mandato. Le istituzioni moderne non sono tutte parti della sua persona; un ricorso civile non deve diventare una guerra contro un dio.",
+          "Voce": "Definisce con cura l'ambito di una decisione e tende a prorogarlo quando teme un vuoto",
+          "Timore personale": "Vuoto di competenza che perda diritti e contenimenti.",
+          "Capacità e accessi effettivi": "Crown — stadio 7",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-014_ilyra-sen.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-015",
@@ -1989,7 +2241,8 @@
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_94_Cronologia_integrale_ed_ere.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "DOSSIER_FIGURE_367/CAST-015_deyran-ur.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -2067,7 +2320,27 @@
           "id": "ART-094",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Sciogliere un legame senza chiamare libertà il crollo",
+        "sections": {
+          "Vita e carattere": "Deyran ricorda la liberazione come esperienza di una persona prima che come storia di un titolare divino. Ha visto vincoli intrecciati a sostegni vitali e conserva una lista di casi non risolti. Il limite lo tormenta più di un’offesa personale, ma può renderlo troppo tollerante verso una transizione lenta. Non ogni attesa è una scelta imposta da Chain.",
+          "Comportamento e decisioni": "Chiede quale uscita resti praticabile. Una promessa di protezione senza modo di lasciarla gli sembra sospetta anche quando la offre un alleato. Può riconoscere una separazione migliore prodotta da Ruin senza esigerne il merito.",
+          "Iniziativa autonoma": "Può separare un rapporto raggiunto, proporre una sostituzione o opporsi a un possesso ereditario. Il dissenso con Ilyra è politico e personale, non un tradimento automatico.",
+          "Scelta che può dividerlo dagli alleati": "Un vincolo tutela alcuni e imprigiona altri. La soluzione deve individuare chi perde cosa invece di dichiarare tutti ugualmente protetti.",
+          "Obiettivo presente": "Separare vincoli protettivi da coercizioni ereditate",
+          "Punto di rottura": "Alcune dipendenze oggi necessarie nacquero da atti ingiusti",
+          "Verità riservata già fissata": "Ha conservato una lista di vincoli che non riuscì a sciogliere senza perdere sostegni vitali; non una chiave universale",
+          "Continuità con il passato adottato": "La liberazione gli mostrò che sciogliere un obbligo non ripara automaticamente il sostegno intrecciato. L’ascesa non gli conferì ogni legge. Può accettare una riforma graduale, ma non chiama volontario un rapporto dal quale nessuno può uscire. Il dissenso da Ilyra non è un tradimento automatico.",
+          "Voce": "Chiede chi possa uscire da un accordo e a quale costo",
+          "Timore personale": "Riprodurre una dipendenza sotto un nome protettivo.",
+          "Capacità e accessi effettivi": "Chain — stadio 7",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-015_deyran-ur.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-016",
@@ -2108,7 +2381,8 @@
       "sources": [
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_94_Cronologia_integrale_ed_ere.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "DOSSIER_FIGURE_367/CAST-016_cerel-voss.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -2194,7 +2468,27 @@
           "id": "ART-077",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Il valore non coincide con ciò che si può comprare",
+        "sections": {
+          "Vita e carattere": "Cerel apprezza mercati in cui due persone non hanno bisogno di condividere la stessa cosmologia per trattare. La successione negoziata conservò scambi reali. La sua debolezza è pensare che una forma abbastanza precisa possa sempre rendere equo un incontro fra poteri diseguali. Una trattativa può essere libera sulla carta e senza alternative per uno dei due.",
+          "Comportamento e decisioni": "Chiede cosa ciascuno possa rifiutare prima di chiedere un prezzo. Può poi accorgersi troppo tardi che ha accettato una rinuncia come merce. Gli intermediari che usano il suo nome non sono tutti suoi mandatari.",
+          "Iniziativa autonoma": "Può separare un proprio patrocinio da un operatore, sostenere una garanzia o contestare una rivendicazione. Non possiede tutte le banche e non rende verificabile ogni menzogna economica.",
+          "Scelta che può dividerlo dagli alleati": "Una fonte utile viene offerta in cambio di una disponibilità personale futura: il prezzo appare misurabile, l’oggetto della vendita no.",
+          "Obiettivo presente": "Rendere praticabili scambi fra comunità con misure di valore incompatibili",
+          "Punto di rottura": "La convertibilità può dare un prezzo a ciò che non dovrebbe essere venduto",
+          "Verità riservata già fissata": "Non considera acquistabile una persona, ma alcuni intermediari usano il suo lessico per farlo",
+          "Continuità con il passato adottato": "La successione negoziata conservò scambi senza liquidare ogni credito. Non amministra ogni contratto del pianeta. Alcuni operatori usano il suo nome per rendere alienabile un diritto che non considera vendibile. Un prezzo disponibile non rende lecita la vendita.",
+          "Voce": "Prima di accettare un'offerta domanda chi ne sopporterà la perdita",
+          "Timore personale": "Prezzo comune imposto a un diritto non vendibile.",
+          "Capacità e accessi effettivi": "Coin — stadio 7",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-016_cerel-voss.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-017",
@@ -2235,7 +2529,8 @@
       "sources": [
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_94_Cronologia_integrale_ed_ere.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "DOSSIER_FIGURE_367/CAST-017_neren-aul.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -2313,7 +2608,27 @@
           "id": "ART-080",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "La vittoria non dà un diritto eterno alla voce degli altri",
+        "sections": {
+          "Vita e carattere": "Neren conosce il piacere fisico della cooperazione riuscita e il sollievo dopo una battaglia. Non ha bisogno di truppe per esistere o difendersi. Il precedente comando usato contro scioperanti resta un abuso concreto che contesta; la distanza dal fatto non assolve chi consentì che una catena di ordini sopravvivesse alla guerra.",
+          "Comportamento e decisioni": "Ricorda il nome di chi portava le barelle oltre a quello del comandante. Può tuttavia interpretare una scelta individuale come indebolimento della squadra prima di ascoltarla.",
+          "Iniziativa autonoma": "Può difendere una coalizione, sostenerne lo scioglimento o ritirare un mandato. Un vessillo civile non gli appartiene per il simbolo dipinto.",
+          "Scelta che può dividerlo dagli alleati": "Una comunità vuole tenere la cooperazione ma rifiuta il capo che l’ha resa possibile: il successo può richiedere che egli accetti di non essere necessario.",
+          "Obiettivo presente": "Tenere operanti coalizioni che possano sciogliersi dopo il bisogno comune",
+          "Punto di rottura": "Le organizzazioni efficienti tendono a perpetuare il proprio mandato",
+          "Verità riservata già fissata": "Un precedente comando vittorioso fu legittimo nel fronte, ma usato dopo per reprimere scioperi; ne contesta l'estensione",
+          "Continuità con il passato adottato": "La vittoria che precedette la successione riguardò investimenti realmente contesi, non una semplice battaglia ordinaria. Le coalizioni possono perpetuare il proprio mandato. Sa combattere autonomamente; non ha bisogno di costringere seguaci a servire perché ogni difesa esista.",
+          "Voce": "Ricorda chi non volle combattere; non è impotente senza seguaci",
+          "Timore personale": "Coalizione incapace di sciogliersi.",
+          "Capacità e accessi effettivi": "Banner — stadio 7",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-017_neren-aul.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-018",
@@ -2365,7 +2680,8 @@
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "DOSSIER_FIGURE_367/CAST-018_talren-soth.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -2458,7 +2774,27 @@
           "id": "ART-095",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Una registrazione vera non contiene tutto ciò che conta",
+        "sections": {
+          "Vita e carattere": "Talren conserva l’orgoglio di chi ha attestato qualcosa che altrimenti sarebbe stato perduto. Le matrici antiche sono vere e parziali: non certificano Refuge. Può difendere il metodo con sincerità e sfruttarne il prestigio per ritardare una domanda che lo coinvolge. La doppia incorporazione non gli ha tolto vanità, affetto o paura.",
+          "Comportamento e decisioni": "Fa distinguere assenza di prova e prova di assenza; può usare la distinzione per onestà o per prendere tempo. Con Sael la critica non cancella una lunga conoscenza dei rispettivi metodi.",
+          "Iniziativa autonoma": "Può concedere accesso a una registrazione raggiunta, produrre un confronto o rifiutare un uso lesivo. Non può inventare un evento mai attestato per completare l’archivio.",
+          "Scelta che può dividerlo dagli alleati": "Una prova nuova corregge la conclusione più celebre di una scuola patrocinata da lui. Il risultato deve poter essere accettato senza aggiungere una falsificazione universale.",
+          "Obiettivo presente": "Mantenere attestazioni verificabili senza ridursi al notaio dei potenti",
+          "Punto di rottura": "Il proprio prestigio dipende anche da ciò che non fu attestato nella caduta",
+          "Verità riservata già fissata": "Le registrazioni antiche sono autentiche ma parziali; non attestano il Refuge",
+          "Continuità con il passato adottato": "Attestò matrici concordate, non ogni segmento del disastro. Il possesso plurimo estese capacità autentiche senza trasformare l’inosservato in prova. Può pubblicare dati che incrinano una propria ricostruzione e al tempo stesso difendere la legittimità del metodo.",
+          "Voce": "Corregge una parola apparentemente innocua quando cambia ciò che una prova autorizza",
+          "Timore personale": "Una lacuna usata per negare tutte le attestazioni autentiche.",
+          "Capacità e accessi effettivi": "Archive — stadio 7, Oracle — stadio 7",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-018_talren-soth.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-019",
@@ -2499,7 +2835,8 @@
       "sources": [
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_94_Cronologia_integrale_ed_ere.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "DOSSIER_FIGURE_367/CAST-019_enra-keth.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -2572,7 +2909,27 @@
       "biological_population": "Umano",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "La tempesta spostata arriva comunque da qualcuno",
+        "sections": {
+          "Vita e carattere": "Enra conosce coste come successioni di persone, imbarcazioni e perdite, non solo gradienti da ottimizzare. Una scelta di dispersione salvò fronti realmente raggiunti; il potere non rende quel tipo di scelta moralmente neutro. Apprezza chi comunica una misura sgradevole prima della cerimonia di ringraziamento.",
+          "Comportamento e decisioni": "Parla in termini di direzione e arrivo. Può chiedere una ricognizione ordinaria perché non sta osservando ogni baia, senza perdere la potenza divina quando interviene davvero.",
+          "Iniziativa autonoma": "Può investire una protezione, disperdere un fronte o rifiutare che una regione scarichi su un’altra il rischio. Gli accordi Worldforge non sono un’integrazione personale.",
+          "Scelta che può dividerlo dagli alleati": "Un porto ricco vuole protezione completa che devierebbe il pericolo verso approdi meno difesi. Anche la scelta di non intervenire produce un costo osservabile.",
+          "Obiettivo presente": "Mantenere fronti di flusso che non scarichino su altri il rischio evitato",
+          "Punto di rottura": "Proteggere una costa può spostare danno verso una diversa",
+          "Verità riservata già fissata": "Non ha ottenuto Seed o Crucible; gli accordi Worldforge non sono un'integrazione personale",
+          "Continuità con il passato adottato": "Concluse una contesa nel fronte raggiunto e non ereditò tutte le autorità del Worldforge. Le reti costiere hanno mezzi propri. Può disperdere invece di bloccare un flusso, sapendo che spostare una pressione non equivale ad annullare ogni danno.",
+          "Voce": "Interrompe le discussioni per ascoltare un cambiamento di pressione reale",
+          "Timore personale": "Salvezza locale che scarichi danno su un’altra costa.",
+          "Capacità e accessi effettivi": "Tempest — stadio 7",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-019_enra-keth.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-020",
@@ -2613,7 +2970,8 @@
       "sources": [
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_94_Cronologia_integrale_ed_ere.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "DOSSIER_FIGURE_367/CAST-020_soran-il.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -2701,7 +3059,27 @@
           "id": "ART-086",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Avere fame non dà ragione su chi è nutrimento",
+        "sections": {
+          "Vita e carattere": "Soran non considera ogni predazione una crudeltà. Ha imparato a distinguere residui e continuità per vivere senza concessioni altrui; la riserva con un legame personale non separato mette alla prova la distinzione che usa per giustificarsi. Non è un appetito senza persona: può scegliere la rinuncia e temere la dipendenza più della perdita di potenza.",
+          "Comportamento e decisioni": "Domanda chi possiede il diritto di dichiarare qualcosa inerte. Può usare la domanda per scoprire un abuso oppure per negare una testimonianza che lo ostacola.",
+          "Iniziativa autonoma": "Può consumare sorgenti effettivamente raggiunte nei limiti di Maw, trattare con Althene o difendere un’alimentazione autonoma. Sepulchre non è il permesso generale per predare un morto.",
+          "Scelta che può dividerlo dagli alleati": "Riconoscere una persona in ciò che aveva classificato come riserva gli costa una risorsa reale: non basta cambiare il nome per risolvere il conflitto.",
+          "Obiettivo presente": "Conservare alimentazione autonoma senza dipendere dalle concessioni di Althene",
+          "Punto di rottura": "Il confine fra residuo consumabile e continuità personale è una contesa, non una preferenza",
+          "Verità riservata già fissata": "Una riserva dichiarata inerte conserva un collegamento personale non ancora separato; non è stato consumato a T0",
+          "Continuità con il passato adottato": "Terminò la precedente pienezza tramite sorgenti predatorie raggiunte. Non ottenne diritto universale sui morti. La propria alimentazione può usare residui, ma una classificazione conveniente può nascondere una continuità. Custodia e consumo vanno decisi con accessi e prove reali.",
+          "Voce": "Sa fare offerte vantaggiose e tratta il rifiuto come dato, non sempre come insulto",
+          "Timore personale": "Sostentamento subordinato al custode rivale.",
+          "Capacità e accessi effettivi": "Maw — stadio 7",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-020_soran-il.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-021",
@@ -2746,7 +3124,8 @@
       "sources": [
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "DOSSIER_FIGURE_367/CAST-021_veyra-pell.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -2834,7 +3213,27 @@
           "id": "ART-089",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Una formulazione che lasci ancora parlare",
+        "sections": {
+          "Vita e carattere": "Veyra formò interpreti capaci di separare significato, assenso e vincolo senza leggere ogni memoria. Può amare una soluzione elegante e trattenere troppo a lungo un tavolo di negoziato che consuma i più deboli. Il rapporto con Loran comprende rispetto della competenza e divergenza sul prezzo dell’incompiuto.",
+          "Comportamento e decisioni": "Riformula una frase chiedendo conferma; il suo uso di Will resta un’attivazione deliberata, non un effetto automatico della buona eloquenza. Una conversazione non è già un duello mentale.",
+          "Iniziativa autonoma": "Può offrire un esercizio circoscritto, verificare un significato raggiunto o contese reali sui propri accessi. VI e frammento parziale non equivalgono a Scroll VII.",
+          "Scelta che può dividerlo dagli alleati": "Per chiudere un abuso potrebbe dover accettare un limite che impedirà anche usi futuri buoni. La scelta non si risolve con una frase priva di costo.",
+          "Obiettivo presente": "Rendere compatibili formulazioni pubbliche e autonomia deliberativa",
+          "Punto di rottura": "Vuole ricostruire la pienezza senza accettare il metodo di Loran",
+          "Verità riservata già fissata": "Il proprio accesso parziale non sostituisce quello dell'altro; non sa del ritorno",
+          "Continuità con il passato adottato": "La ricostruzione di Scroll produsse accessi parziali reali. Formò interpreti capaci di distinguere intenzione e formulazione senza leggerne ogni memoria. Può negoziare con Loran ma non cancellare un’incompatibilità operativa chiamandola equivoco.",
+          "Voce": "Riformula un ordine quando capisce che l'assenso ottenuto non era libero",
+          "Timore personale": "Scambiare obbedienza per adesione libera.",
+          "Capacità e accessi effettivi": "Scroll — stadio 6",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-021_veyra-pell.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-022",
@@ -2879,7 +3278,8 @@
       "sources": [
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "DOSSIER_FIGURE_367/CAST-022_loran-esch.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -2967,7 +3367,27 @@
           "id": "ART-049",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "La fine del negoziato può essere un inizio o una presa",
+        "sections": {
+          "Vita e carattere": "Loran ha visto servizi sospesi mentre le parti continuavano a perfezionare gli accordi. Per questo una forma coerente gli sembra cura, non soltanto dominio. La separazione che ha predisposto gli costerebbe accesso reale. Non è già eseguita e non è un bluff da cancellare quando qualcuno lo sfida.",
+          "Comportamento e decisioni": "Interrompe una discussione quando crede di aver capito il punto; può sbagliare proprio su ciò che non lascia dire. Non diventa incapace di riconoscere una correzione valida.",
+          "Iniziativa autonoma": "Può negoziare con Veyra o scegliere una rinuncia circoscritta; non acquisisce la pienezza vacante dal solo desiderio di concludere.",
+          "Scelta che può dividerlo dagli alleati": "Una decisione rapida salva un servizio e priva qualcuno del rimedio. Deve scegliere se riaprirla, difenderla o ripararne gli effetti.",
+          "Obiettivo presente": "Concludere una forma coerente che non dipenda da negoziati perpetui",
+          "Punto di rottura": "Può scambiare coerenza operativa per diritto di decidere",
+          "Verità riservata già fissata": "Ha predisposto una separazione che gli costerebbe parte dell'accesso; non l'ha ancora eseguita",
+          "Continuità con il passato adottato": "Le formulazioni sono strumenti delimitati, non frasi onnipotenti. Preferisce una chiusura coerente dopo aver visto negoziati lasciare servizi senza sostegno. La separazione predisposta gli costerebbe davvero accesso; non è una minaccia senza prezzo.",
+          "Voce": "Non minaccia a vuoto; tende a chiedere una risposta binaria dove la realtà ne ha tre",
+          "Timore personale": "Formulazione revocata quando il servizio deve reggere.",
+          "Capacità e accessi effettivi": "Scroll — stadio 6",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-022_loran-esch.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-023",
@@ -3011,7 +3431,8 @@
       ],
       "sources": [
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "DOSSIER_FIGURE_367/CAST-023_ysra-venn.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -3092,7 +3513,27 @@
           "id": "ART-079",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Una cura che non mantenga il malato come fedele",
+        "sections": {
+          "Vita e carattere": "Ysra ha curato persone estranee al proprio culto e partecipò a verifiche di Departure senza conoscere ogni nodo. Sa amare la riuscita di una cura e disprezzare il contratto che la accompagna. Il dissenso con Oriel non nega tutti i suoi benefici. Può essere più dura con un collega brillante che con chi ammette un limite modesto.",
+          "Comportamento e decisioni": "Chiede cosa accadrà quando il paziente smetterà di ringraziare. La domanda non impedisce un intervento urgente se esistono capacità e consenso pertinenti.",
+          "Iniziativa autonoma": "Può confrontare una dipendenza, proporre una separazione e mantenere un servizio limitato. L’affetto antico non identifica Alexander a distanza.",
+          "Scelta che può dividerlo dagli alleati": "Una soluzione indipendente richiede tempo che il paziente non ha: accettare un sostegno temporaneo può essere giusto, purché non venga venduto come libertà già ottenuta.",
+          "Obiettivo presente": "Rendere una cura separabile dalla fedeltà al curatore",
+          "Punto di rottura": "Dissenso da Oriel e continuità delle cliniche non possono essere confusi con sabotaggio",
+          "Verità riservata già fissata": "Conserva audit di cure davvero riuscite accanto a contratti che reputa coercitivi",
+          "Continuità con il passato adottato": "Curò persone che non volevano aderire al suo culto. Partecipò alla verifica del Departure senza possedere ogni nodo. La rete medica è circoscritta; non deduce una diagnosi dall’appartenenza religiosa e non identifica Alexander a distanza grazie all’affetto antico.",
+          "Voce": "Lascia al paziente una copia leggibile del consenso",
+          "Timore personale": "Diagnosi usata per comprare fedeltà.",
+          "Capacità e accessi effettivi": "Heart — stadio 6",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-023_ysra-venn.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-024",
@@ -3137,7 +3578,8 @@
       "sources": [
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
         "RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "DOSSIER_FIGURE_367/CAST-024_sereth-daal.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -3221,7 +3663,27 @@
           "id": "ART-098",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Aver avuto paura non cancella la scelta",
+        "sections": {
+          "Vita e carattere": "Sereth si considera ancora capace di proteggere persone che altri avrebbero esposto. La chiusura antica resta una decisione sotto rischio reale; non tentò l’alternativa di Helyr e non vide Refuge. La propria ricostruzione gli consente di dormire e lo rende vulnerabile a una domanda precisa, più che a un’accusa grandiosa.",
+          "Comportamento e decisioni": "Risponde con molti dettagli su ciò che fece e pochi su ciò che avrebbe potuto fare. Un interlocutore può notarlo senza possedere già la prova di una colpa ulteriore.",
+          "Iniziativa autonoma": "Può conservare una chiusura, cedere una registrazione o accettare un confronto. Non viene retroattivamente telecontrollato per assolverlo.",
+          "Scelta che può dividerlo dagli alleati": "Una riapertura sicura dimostra che un’alternativa esiste adesso; non prova da sola che fosse praticabile allora. Separare le due domande evita una condanna comoda.",
+          "Obiettivo presente": "Impedire nuove esposizioni e proteggere la propria ricostruzione del passato",
+          "Punto di rottura": "Il rischio regionale era reale; la chiusura scelta non era l'unica alternativa",
+          "Verità riservata già fissata": "Atto e limiti fissati in 97–98; non conosce il Refuge",
+          "Continuità con il passato adottato": "La chiusura fu una scelta sotto rischio reale, non un incidente senza responsabilità. Non tentò l’alternativa di Helyr e non osservò Refuge. La paura dell’indagine può convivere con la convinzione di aver protetto persone; non viene trasformato retroattivamente in servo telecontrollato.",
+          "Voce": "Indica una via di fuga anche mentre nasconde perché l'altra sia chiusa",
+          "Timore personale": "Responsabilità non assolta dal rischio affrontato.",
+          "Capacità e accessi effettivi": "Astrolabe — stadio 6",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-024_sereth-daal.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-025",
@@ -3265,7 +3727,8 @@
       ],
       "sources": [
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "DOSSIER_FIGURE_367/CAST-025_sael-mereth.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -3345,7 +3808,27 @@
           "id": "ART-090",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Essere correggibile anche quando si ha ragione",
+        "sections": {
+          "Vita e carattere": "Sael conserva un modello sbagliato con la propria firma e desidera che la correzione sia letta interamente, non usata come decorazione della sua onestà. Il dissenso con il Witness è antico e non lo rende infallibile. Può difendere un collega sgradito quando il metodo è valido, poi evitare di cenare con lui.",
+          "Comportamento e decisioni": "Fa domande che rendono visibile una previsione controllabile. La sua ironia può diventare crudeltà se scambia un interlocutore inesperto per un adulatore.",
+          "Iniziativa autonoma": "Può offrire una previsione delimitata, insegnare un metodo o chiedere un campione. Oracle non gli concede una teoria completa prima dell’osservazione.",
+          "Scelta che può dividerlo dagli alleati": "Un alleato usa una sua conclusione vera per sostenerne una falsa: correggerlo può danneggiare la causa che entrambi preferiscono.",
+          "Obiettivo presente": "Conservare modelli falsificabili senza dare a un'unica persona il controllo del metodo",
+          "Punto di rottura": "Ha bisogno di matrici custodite da Talren per contestare alcune sue conclusioni",
+          "Verità riservata già fissata": "Un suo vecchio modello sbagliato resta conservato con firma; non lo attribuisce a un nemico",
+          "Continuità con il passato adottato": "Il dissenso sul metodo precede l’ascesa del Witness. Formula e corregge modelli senza un repertorio intero a disposizione. L’errore conservato con firma sostiene il metodo e non garantisce che la conclusione successiva sia corretta.",
+          "Voce": "Considera una correzione pubblica un costo normale del sapere",
+          "Timore personale": "Metodo trasformato in reputazione infalsificabile.",
+          "Capacità e accessi effettivi": "Oracle — stadio 6",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-025_sael-mereth.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-026",
@@ -3389,7 +3872,8 @@
       ],
       "sources": [
         "RISERVATO_94_Cronologia_integrale_ed_ere.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "DOSSIER_FIGURE_367/CAST-026_denor-rai.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -3470,7 +3954,27 @@
           "id": "ART-097",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Rinunciare non è sparire",
+        "sections": {
+          "Vita e carattere": "Denor lasciò realmente la Seat e vive con Loom VI in un dominio circoscritto. Può essere orgoglioso della rinuncia e irritato quando gli altri la interpretano come promessa di non intervenire mai più. Gli piace un futuro non interamente pianificato, ma la competenza gli rende difficile smettere di suggerire come dovrebbero scegliere gli altri.",
+          "Comportamento e decisioni": "Può rispondere non lo so senza perdere rango. Poi rischia di proporre tre alternative a una persona che gli aveva chiesto soltanto compagnia.",
+          "Iniziativa autonoma": "Può favorire una possibilità raggiunta o rifiutare una nuova responsabilità. Non vede tutti i futuri di Helyr, Elias o Alexander.",
+          "Scelta che può dividerlo dagli alleati": "Una comunità gli chiede di tornare titolare di una funzione che egli aveva lasciato; accettare o rifiutare deve avere ragioni presenti, non certificare santità o egoismo.",
+          "Obiettivo presente": "Difendere la possibilità di rinunciare al potere senza sparire dalla storia",
+          "Punto di rottura": "Le scuole scambiano la sua rinuncia per sconfitta o per superiorità morale",
+          "Verità riservata già fissata": "Vive senza VII; la rinuncia non gli diede visione di tutti i futuri",
+          "Continuità con il passato adottato": "La rinuncia separò la Seat: non rimase VII nascosto. Continua Loom VI in un dominio circoscritto. Lasciare il potere non prova santità e non conferisce conoscenza del futuro di Helyr o Elias. Conserva il diritto di agire con mezzi propri.",
+          "Voce": "Non dice mai che una scelta era inevitabile se resta una condizione non provata",
+          "Timore personale": "Rinuncia reinterpretata come obbligo di sparire.",
+          "Capacità e accessi effettivi": "Loom — stadio 6",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-026_denor-rai.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-027",
@@ -3514,7 +4018,8 @@
       ],
       "sources": [
         "RISERVATO_100_Storia_industriale_stati_e_conflitti_aperti.md",
-        "RISERVATO_135_Fazioni_civili_industriali_e_sociali.md"
+        "RISERVATO_135_Fazioni_civili_industriali_e_sociali.md",
+        "DOSSIER_FIGURE_367/CAST-027_elren-voss.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -3595,7 +4100,27 @@
         }
       ],
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "Il collega ordinario deve poterlo smentire",
+        "sections": {
+          "Vita e carattere": "Elren trae piacere da una spiegazione comprensibile e dalla potenza che sa esercitare senza apparati esterni indispensabili. Può però attribuire al proprio rango il merito del lavoro ripetitivo di altri. Dama conserva una cronologia delle correzioni che può ridimensionare la sua versione senza renderlo autore di ogni frode commerciale.",
+          "Comportamento e decisioni": "Quando il confronto si fa personale tende a tornare alla teoria. Se qualcuno gli mostra una misura riproducibile deve decidere se ascoltare o usare il prestigio per evitarla.",
+          "Iniziativa autonoma": "Può restringere un certificato, dimostrare un effetto o difendere il laboratorio con Oracle IV. Un problema di licenza non disattiva i suoi attacchi.",
+          "Scelta che può dividerlo dagli alleati": "Un finanziatore chiede di presentare un risultato valido come universale. Dire no costa un incarico, dire sì espone persone reali.",
+          "Obiettivo presente": "Delimitare un metodo valido prima che il commercio ne ampli la promessa",
+          "Punto di rottura": "Correzione scientifica e solvibilità dei committenti sono entrambe reali",
+          "Verità riservata già fissata": "Il problema commerciale è già fissato in FAC-04; non falsificò tutti i campioni",
+          "Continuità con il passato adottato": "Formazione scientifica e Investment sono processi distinti. La difesa IV è autonoma; il laboratorio non è fonte indispensabile di ogni attacco. Il metodo certificato funziona nel suo ambito. Dama può provare la cronologia delle correzioni senza essere Oracle.",
+          "Voce": "Riconosce quando Dama ha ragione anche senza investimento",
+          "Timore personale": "Promessa commerciale universale tratta da un metodo limitato.",
+          "Capacità e accessi effettivi": "Oracle — stadio 4",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-027_elren-voss.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-028",
@@ -3632,7 +4157,8 @@
       ],
       "sources": [
         "RISERVATO_100_Storia_industriale_stati_e_conflitti_aperti.md",
-        "RISERVATO_135_Fazioni_civili_industriali_e_sociali.md"
+        "RISERVATO_135_Fazioni_civili_industriali_e_sociali.md",
+        "DOSSIER_FIGURE_367/CAST-028_dama-rinn.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -3701,7 +4227,27 @@
           "id": "ART-008",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Il nome sulla misura",
+        "sections": {
+          "Vita e carattere": "Dama non desidera essere l’ordinaria eccezionale lodata per rendere più umano un collega potente. Vuole un contributo attribuito e un compenso che le permetta di correggere errori senza chiedere favore. Ama gli oggetti ben costruiti anche quando sono inutilmente costosi e può vergognarsi di questo gusto mentre difende accessi più equi.",
+          "Comportamento e decisioni": "Indica il punto preciso del quaderno invece di alzare il tono. Se continua a non essere ascoltata può andarsene portando il proprio lavoro: il gesto non è un tradimento del laboratorio.",
+          "Iniziativa autonoma": "Può ripetere una misura, formare un allievo o rifiutare una firma. Non acquisisce Oracle perché i conti sono corretti.",
+          "Scelta che può dividerlo dagli alleati": "Una pubblicazione attribuisce il risultato a una fonte magica e cancella anni di verifica ordinaria. Il rimedio può essere riconoscimento, denaro o un cambiamento di collaborazione.",
+          "Obiettivo presente": "Far valere la qualità della misura senza dipendere dal rango del collega",
+          "Punto di rottura": "La pubblicazione porta il nome del praticante, il lavoro di controllo resta invisibile",
+          "Verità riservata già fissata": "Conserva quaderni che provano la cronologia delle correzioni, non un potere nascosto",
+          "Continuità con il passato adottato": "La competenza ordinaria deriva da anni di controlli ripetuti. Collaborare con un Bearer la espone alla sua reputazione senza annullare il proprio contributo. Vuole firma e riconoscimento, ma non presume che ogni misura ordinaria dia accesso a un investimento pericoloso.",
+          "Voce": "Fa ripetere una prova dopo avere pulito il banco, non dopo una preghiera",
+          "Timore personale": "Contributo di verifica cancellato dal nome del praticante.",
+          "Capacità e accessi effettivi": "Persona ordinaria: autorità professionale, rapporti e mezzi civili; nessuna Effige personale.",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-028_dama-rinn.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-029",
@@ -3750,7 +4296,8 @@
       "sources": [
         "RISERVATO_115_Siti_soprannaturali_localizzati.md",
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
-        "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md"
+        "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
+        "DOSSIER_FIGURE_367/CAST-029_iven-namar.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -3842,7 +4389,27 @@
           "id": "ART-069",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Un servizio deve sopravvivere al responsabile",
+        "sections": {
+          "Vita e carattere": "Iven vive la successione tecnica come una preoccupazione quotidiana. Vuole colleghi capaci e può diventare insofferente quando fanno scelte diverse dalle sue. Il guasto di Namar resta quello fissato: non è causato dal ritorno di Edran. Una riparazione autentica può riuscire senza che egli la ostacoli per conservare importanza.",
+          "Comportamento e decisioni": "Chiede se il nuovo pezzo si possa sostituire e chi lo sappia fare. Nei momenti stanchi può rispondere come se ogni domanda fosse un’emergenza.",
+          "Iniziativa autonoma": "Può autorizzare una verifica nei limiti del mandato, curare con Heart IV o concordare un ricambio. Non appartiene alla corte o al duca per il solo fatto di aiutarli.",
+          "Scelta che può dividerlo dagli alleati": "Un sostegno superiore risolve oggi il problema ma lascia gli operatori incapaci di mantenerlo domani; la soluzione deve includere un’uscita o dichiarare la dipendenza.",
+          "Obiettivo presente": "Servizio affidabile e successione tecnica non catastrofica",
+          "Punto di rottura": "Deve ridurre carico senza trasformare la carica in proprietà della famiglia",
+          "Verità riservata già fissata": "Guasto già fissato in CULT-02; non reclama obbedienza al Creator tornato",
+          "Continuità con il passato adottato": "Il rango non deriva automaticamente dalla carica ereditata. Mantiene servizi e cure verificabili. Il guasto dipende dal componente e dal carico fissati, non dal ritorno di Edran. Può accettare una riparazione diretta se funziona; non occorre proteggergli una quest.",
+          "Voce": "Preferisce una restrizione spiegata a una rassicurazione falsa",
+          "Timore personale": "Riforma che perda competenze mentre cambia le cariche.",
+          "Capacità e accessi effettivi": "Heart — stadio 4",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-029_iven-namar.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-030",
@@ -3889,7 +4456,8 @@
         }
       ],
       "sources": [
-        "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md"
+        "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
+        "DOSSIER_FIGURE_367/CAST-030_tavel-rinn.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -3975,7 +4543,27 @@
           "id": "ART-068",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Una canzone può essere amata e corretta",
+        "sections": {
+          "Vita e carattere": "Tavel ha imparato provenienze ascoltando chi non aveva un documento da mostrare. Archive III conserva ciò che ha raggiunto, non rende autentica una strofa perché è commovente. Le versioni differenti sono persone e occasioni, non soltanto errori da ricondurre a un unico autore. Può affezionarsi alla variante che gli insegnarono e faticare a pubblicarne la correzione.",
+          "Comportamento e decisioni": "Prima di correggere chiede chi cantava quel verso e per chi. La domanda può ricostruire una provenienza senza rivelare tutta la vita di Edran.",
+          "Iniziativa autonoma": "Può confrontare due registrazioni o portare una prova presentabile al ricorso di Mara. Non deve pretendere che tutta la cosmologia entri nello stesso atto.",
+          "Scelta che può dividerlo dagli alleati": "La versione storicamente più accurata è meno utile a una comunità che difende un diritto presente; può cercare una prova diversa senza falsificare il canto.",
+          "Obiettivo presente": "Conservare memoria e diritto senza una promessa antica falsa",
+          "Punto di rottura": "La correzione del canto può essere usata per negare l'intero culto",
+          "Verità riservata già fissata": "Prova parziale della riformulazione già fissata in 99",
+          "Continuità con il passato adottato": "Archive III conserva ciò che ha realmente raggiunto. La provenienza dei canti è un lavoro, non conoscenza istantanea della vita di Edran. Può amare una strofa e correggerne una frase. Mara ha bisogno di un ricorso presentabile, non di ogni verità storica in un solo atto.",
+          "Voce": "Legge prima la data della copia e poi la strofa più amata",
+          "Timore personale": "Correzione del canto usata per confiscare diritti.",
+          "Capacità e accessi effettivi": "Archive — stadio 3",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-030_tavel-rinn.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-031",
@@ -4019,7 +4607,8 @@
       ],
       "sources": [
         "RISERVATO_153_Deuteragonista_Elias_Veyne.md",
-        "RISERVATO_154_The_Unbound_Exchange.md"
+        "RISERVATO_154_The_Unbound_Exchange.md",
+        "DOSSIER_FIGURE_367/CAST-031_marcel-ruy.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -4101,6 +4690,26 @@
         "tension": "Può sospendere i mezzi sotto la propria responsabilità, non vietare relazioni e incontri altrove.",
         "source": "RISERVATO_154_The_Unbound_Exchange.md",
         "future_membership": "OPEN"
+      },
+      "editorial_profile_367": {
+        "heading": "Un maestro che accetta di non essere il limite",
+        "sections": {
+          "Vita e carattere": "Marcel vuole un laboratorio capace di correggerlo dopo la pensione. Il desiderio include la paura di essere dimenticato appena l’apprendista lo supera. Acquisì Astrolabe II nel 783 e ha competenza reale, ma il reinvestimento della cerniera III lo oltrepassa. La scoperta di Elias può renderlo fiero e geloso nella stessa giornata.",
+          "Comportamento e decisioni": "Firma anche i pezzi scartati. Davanti a un rischio mette in pausa il banco prima di spiegarsi; può poi dover riconoscere che il modo ha fatto sembrare sfiducia ciò che era prudenza.",
+          "Iniziativa autonoma": "Può sospendere il mezzo sotto la propria responsabilità o cercare un operatore III. Non comanda l’Exchange e non vieta ai fondatori di incontrarsi altrove.",
+          "Scelta che può dividerlo dagli alleati": "Una riparazione affidata a un estraneo rende il laboratorio meno centrale: accettarla è una scelta professionale ed emotiva, non una prova magica.",
+          "Obiettivo presente": "Lasciare un laboratorio capace di correggerlo dopo la pensione",
+          "Punto di rottura": "Proteggere l'apprendista senza custodirlo come un figlio dipendente",
+          "Verità riservata già fissata": "Riconobbe un nodo investito, non la Root completa; gli diede solo un'acquisizione personale I legittima",
+          "Continuità con il passato adottato": "Scelse un laboratorio piccolo per poter seguire le tarature. Acquisì Astrolabe II nel 783 attraverso scuola e prove reali. Il pezzo acquistato per recupero supera la propria capacità di reinvestimento. Fermare una riattivazione non verificata non lo rende nemico della crescita.",
+          "Voce": "Segna la propria iniziale anche sui pezzi che deve scartare",
+          "Timore personale": "Fiducia dell’apprendista scambiata per tenuta tecnica.",
+          "Capacità e accessi effettivi": "Astrolabe — stadio 2",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-031_marcel-ruy.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
       }
     },
     {
@@ -4296,7 +4905,9 @@
           "kind": "Consulenza contrattuale e interessi industriali distinti, senza controllo universale"
         }
       ],
-      "sources": [],
+      "sources": [
+        "DOSSIER_FIGURE_367/CAST-033_corvin-dast.md"
+      ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
         "personal_effigies": [
@@ -4375,7 +4986,27 @@
           "id": "ART-070",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "La garanzia come risposta alla paura",
+        "sections": {
+          "Vita e carattere": "Corvin viene da amministratori di credito e ricorda un fallimento in cui sciogliere garanzie troppo in fretta lasciò persone senza servizi. Ha trasformato una lezione reale in una presunzione: se un vincolo è robusto, il danno diventa governabile. Chain IV gli permette di imporre prese autentiche; non è un semplice impiegato che nasconde debolezza dietro i moduli.",
+          "Comportamento e decisioni": "Offre prima una soluzione utile, poi lascia che l’interlocutore scopra le rinunce. Può rinegoziare se esiste una garanzia alternativa concreta. Una minaccia credibile può farlo ritirare senza cambiarne convinzioni.",
+          "Iniziativa autonoma": "Può sostenere apparati attraverso rapporti raggiunti o contestare una separazione. La delega già fissata non gli attribuisce proprietà sulle persone; estenderla è una sua scelta contestabile.",
+          "Scelta che può dividerlo dagli alleati": "Una cura o creazione elimina davvero la necessità della garanzia. Può accettare una liquidazione o cercare un’altra presa: non conservare il debito per destino narrativo.",
+          "Obiettivo presente": "Uniformare garanzie e impedire insolvenze che reputa contagiose",
+          "Punto di rottura": "I debitori possono aver bisogno del servizio che li vincola",
+          "Verità riservata già fissata": "Una delega autorizza mantenimento di apparati, non proprietà delle persone; la sua estensione è contestabile",
+          "Continuità con il passato adottato": "Viene da amministratori di credito, non da una profezia. Salì a Chain IV con formazione e prove reali. Un primo fallimento professionale sciolse troppo rapidamente garanzie e servizi; ne ricavò preferenza per vincoli stretti. Questa esperienza spiega il metodo ma non lo assolve dalla coercizione.",
+          "Voce": "Offre una soluzione tecnicamente valida con clausole che quasi nessuno sa leggere",
+          "Timore personale": "Rinuncia locale che comprometta una rete di servizi.",
+          "Capacità e accessi effettivi": "Chain — stadio 4",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-033_corvin-dast.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-034",
@@ -4414,7 +5045,9 @@
           "kind": "Conflitto concreto su manutenzione indipendente e licenze"
         }
       ],
-      "sources": [],
+      "sources": [
+        "DOSSIER_FIGURE_367/CAST-034_adele-rosk.md"
+      ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
         "personal_effigies": [],
@@ -4478,7 +5111,27 @@
       "biological_population": "Ossari",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "Un prodotto utile può mantenere un cliente prigioniero",
+        "sections": {
+          "Vita e carattere": "Adele costruì impresa con ricambi ordinari e servizi investiti acquistati. Non possiede Crucible per mestiere. Conosce la gratitudine dei clienti che tornano a lavorare grazie a una protesi e il potere commerciale di un ricambio che soltanto lei distribuisce. Le piace scegliere i materiali degli oggetti domestici; una qualità concreta le interessa anche quando nessuno ne vede il marchio.",
+          "Comportamento e decisioni": "Non mente sempre: presenta spesso benefici veri omettendo il prezzo dell’uscita dal servizio. Se viene confrontata su una soluzione concorrente domanda chi garantirà le riparazioni.",
+          "Iniziativa autonoma": "Può concedere una licenza, pagare una prova indipendente o fare pressione sui fornitori. Non dispone di una forza cosmica implicita né di ogni funzionario cittadino.",
+          "Scelta che può dividerlo dagli alleati": "Un’officina indipendente produce il ricambio che lei sa possibile: scegliere qualità, concorrenza o ostruzione determina il conflitto, non una malvagità automatica di ogni imprenditore.",
+          "Obiettivo presente": "Rendere conveniente la manutenzione di corpi e dispositivi",
+          "Punto di rottura": "Il servizio riesce, ma una licenza rende costoso uscirne",
+          "Verità riservata già fissata": "Sa che una parte del ricambio potrebbe essere prodotta da officine indipendenti e rinvia la concessione",
+          "Continuità con il passato adottato": "Avviò l’impresa con ricambi ordinari e acquistò servizi qualificati per matrici investite. Non incorpora Crucible per professione. Dispositivi e trattamenti possono migliorare davvero la vita. L’esclusiva protegge investimenti e può anche impedire un’uscita conveniente dal servizio.",
+          "Voce": "Chiama per nome i tecnici e quantifica il dolore in giorni di lavoro perduti",
+          "Timore personale": "Diffusione di disegni che riduca anche margini legittimi.",
+          "Capacità e accessi effettivi": "Persona ordinaria: autorità professionale, rapporti e mezzi civili; nessuna Effige personale.",
+          "Limiti dell’inventario": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-034_adele-rosk.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-035",
@@ -48137,7 +48790,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-474_mael-vaur.md"
       ],
       "limits": "Una sola Effige incorporata: Archive 4. Abilità cumulative fino a Palimpsest; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -48225,7 +48879,26 @@
           "id": "ART-073",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Il torto subito come alibi del torto scelto",
+        "sections": {
+          "Vita e carattere": "Il collegio confiscò effettivamente il lavoro della sorella. In seguito Mael firmò personalmente un accordo che la consegnava come parte di un servizio: sono due atti distinti, non due colpevoli alternativi dello stesso fatto. Racconta il primo per omettere il secondo. Questa precisazione autoriale risolve l’ambiguità fra biografia e timore già fissati; non stabilisce una sorte moderna della sorella finora ignota. Ama oggetti restaurati e prova più rispetto per chi sa stimare un pezzo che per chi sa usarlo.",
+          "Comportamento e decisioni": "Vuole poter dire di avere sempre pagato quanto concordato. La completezza del contratto lo rassicura mentre la persona venduta scompare dal suo ragionamento. Può trattare una restituzione come costo d’impresa senza pentirsi.",
+          "Conoscenze effettive e segreto della fazione": "Conosce il secondo contratto su Sybille e il proprio atto passato. Non conosce Room Six o il ritorno di Edran. Una prova autentica della vendita è un canale possibile di rottura, non una conoscenza già trasmessa a Sybille.",
+          "Obiettivo presente": "Impadronirsi delle cerniere portatili di Lethorne e rivenderne accessi e manutentori a compratori separati.",
+          "Punto di rottura": "Sybille abbandona il contratto se ottiene una prova autentica della propria vendita; non basta affermarlo.",
+          "Verità riservata già fissata": "Mael conserva un secondo contratto: vendere Sybille insieme al mezzo qualora il compratore chieda un Bearer.",
+          "Continuità con il passato adottato": "Era conservatore di sequestri giudiziari; vendette un accesso dopo che il proprio collegio confiscò il lavoro della sorella. Ora tratta persone e strumenti come lotti separati.",
+          "Voce": "Rifiuta di pronunciare un prezzo prima di aver visto il destinatario.",
+          "Timore personale": "Che un contratto autentico dimostri che è stato lui a consegnare la sorella, non il collegio.",
+          "Capacità e accessi effettivi": "Archive — stadio 4",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Archive 4. Abilità cumulative fino a Palimpsest; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-474_mael-vaur.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-475",
@@ -48278,7 +48951,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-475_sybille-kest.md"
       ],
       "limits": "Una sola Effige incorporata: Eclipse 3. Abilità cumulative fino a Veilkeeper; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -48357,7 +49031,26 @@
         "offensive_ability_id": "EFF-22-II-M02",
         "defensive_ability_id": "EFF-22-III-M02"
       },
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "Una casa che non appartenga al datore",
+        "sections": {
+          "Vita e carattere": "Sybille nascondeva partenze di contrabbandieri per risparmiare il prezzo di una casa. Vuole una porta che possa chiudere senza chiedere permesso e può ignorare quanto la sua competenza abbia reso facile rapire altri. Le piace arredare mentalmente stanze ancora non comprate; scherza sui gusti costosi per non parlare della paura di restare dipendente.",
+          "Comportamento e decisioni": "Non cambia parte per una predica. Verifica un’offerta, la possibilità di andarsene e una prova del contratto che la riguarda. Può chiedere denaro o protezione senza essere per questo incapace di una scelta morale.",
+          "Conoscenze effettive e segreto della fazione": "La frase sul contratto di Mael nel vecchio campo secret è verità del Narratore, non prova che Sybille lo abbia letto. La sua paura di essere venduta è sospetto, finché non apprende un riscontro reale.",
+          "Obiettivo presente": "Impadronirsi delle cerniere portatili di Lethorne e rivenderne accessi e manutentori a compratori separati.",
+          "Punto di rottura": "Sybille abbandona il contratto se ottiene una prova autentica della propria vendita; non basta affermarlo.",
+          "Verità riservata già fissata": "Mael conserva un secondo contratto: vendere Sybille insieme al mezzo qualora il compratore chieda un Bearer.",
+          "Continuità con il passato adottato": "Ha imparato a nascondere le partenze dei contrabbandieri per acquistare una casa propria. Conosce tre rotte cittadine e non l’intera rete commerciale.",
+          "Voce": "Conta sempre le uscite fisiche prima di sedersi.",
+          "Timore personale": "Essere venduta come manutentrice insieme al mezzo.",
+          "Capacità e accessi effettivi": "Eclipse — stadio 3",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Eclipse 3. Abilità cumulative fino a Veilkeeper; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-475_sybille-kest.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-476",
@@ -48410,7 +49103,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-476_voren-ashk.md"
       ],
       "limits": "Una sola Effige incorporata: Chain 5. Abilità cumulative fino a Castellan; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -48489,7 +49183,26 @@
         "offensive_ability_id": "EFF-13-IV-M03",
         "defensive_ability_id": "EFF-13-IV-M02"
       },
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "Il proprietario che vuole fabbricare un passato",
+        "sections": {
+          "Vita e carattere": "Voren non visse la liberazione e non ha memorie di un’epoca in cui il suo diritto fosse naturale. Ricostruisce un modello dai registri e seleziona i passaggi che trasformano il controllo in eredità. Desidera ammirazione dai finanziatori e teme il ridicolo di una macchina coercitiva che non regge alla prima fuga. Conserva miniature delle gallerie e le mostra come un architetto, lasciando fuori chi vi lavora.",
+          "Comportamento e decisioni": "Parla di rendimento quando qualcuno nomina una persona. Può perdere un convoglio e cercarne un altro, ma servono finanziamento, prigionieri e scorta: una sconfitta non si rigenera dal tema dell’arco.",
+          "Conoscenze effettive e segreto della fazione": "Conosce il carattere imitativo dei marchi recenti. Non può riattivare i vincoli aboliti su interi popoli né identificare Alexander come Edran senza apprendimento.",
+          "Obiettivo presente": "Ricostituire un possesso ereditario della forza lavoro in tre gallerie, iniziando da prigionieri acquistati come debitori.",
+          "Punto di rottura": "Ishra vuole il comando politico, non una famiglia di schiavi personale: accetta di perdere Voren pur di ereditare il sistema.",
+          "Verità riservata già fissata": "Voren usa un marchio recente imitativo: il fallimento locale non riattiva i marchi aboliti dal liberatore.",
+          "Continuità con il passato adottato": "Discende da amministratori di una galleria e ha ricostruito un modello coercitivo leggendo registri sopravvissuti. Non ha vissuto la liberazione.",
+          "Voce": "Chiama i prigionieri per mestiere, mai per nome.",
+          "Timore personale": "Che una liberazione dimostri ai propri finanziatori che i vincoli non sono un investimento sicuro.",
+          "Capacità e accessi effettivi": "Chain — stadio 5",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Chain 5. Abilità cumulative fino a Castellan; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-476_voren-ashk.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-477",
@@ -48542,7 +49255,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-477_ishra-neth.md"
       ],
       "limits": "Una sola Effige incorporata: Crown 3. Abilità cumulative fino a Legate; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -48621,7 +49335,26 @@
         "offensive_ability_id": "EFF-12-III-M02",
         "defensive_ability_id": "EFF-12-III-M01"
       },
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "Comandare per non essere sacrificata",
+        "sections": {
+          "Vita e carattere": "Ishra ottenne potere tenendo un controllo durante una carestia e ne fece un diritto permanente. Non vuole essere soltanto il braccio di Voren: vuole decidere chi transita e chi paga. Sa offrire cibo a un subordinato e ordinarne la punizione, senza vedere la contraddizione come una menzogna.",
+          "Comportamento e decisioni": "Misura un alleato dalla capacità di mantenere ciò che promette. Può abbandonare Voren per ereditare il sistema; questa possibilità non equivale a liberare i prigionieri o diventare alleata.",
+          "Conoscenze effettive e segreto della fazione": "Conosce i controlli che dirige e le limitazioni pratiche del convoglio. Non acquisisce tutta la ricerca sui marchi perché partecipa allo stesso fronte.",
+          "Obiettivo presente": "Ricostituire un possesso ereditario della forza lavoro in tre gallerie, iniziando da prigionieri acquistati come debitori.",
+          "Punto di rottura": "Ishra vuole il comando politico, non una famiglia di schiavi personale: accetta di perdere Voren pur di ereditare il sistema.",
+          "Verità riservata già fissata": "Voren usa un marchio recente imitativo: il fallimento locale non riattiva i marchi aboliti dal liberatore.",
+          "Continuità con il passato adottato": "Fu addestrata a tenere un posto di controllo durante una carestia e scambiò quel potere per un diritto permanente.",
+          "Voce": "Ripete le parole del mandato prima di ogni ordine.",
+          "Timore personale": "Restare soltanto l’esecutrice di Voren.",
+          "Capacità e accessi effettivi": "Crown — stadio 3",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Crown 3. Abilità cumulative fino a Legate; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-477_ishra-neth.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-478",
@@ -48674,7 +49407,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-478_sevra-dhal.md"
       ],
       "limits": "Una sola Effige incorporata: Seed 4. Abilità cumulative fino a Fleshweaver; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -48758,7 +49492,26 @@
           "id": "ART-063",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "La propria dipendenza usata come modello degli altri",
+        "sections": {
+          "Vita e carattere": "Sevra sopravvisse grazie a un innesto non autonomo e scelse di replicare quel rapporto. Ricorda davvero il terrore di perdere il sostegno; invece di abolirne la minaccia vuole esserne la custode indispensabile. Ama i gesti di gratitudine e può accudire con dolcezza una persona che si prepara a rendere dipendente.",
+          "Comportamento e decisioni": "Offre sollievo prima di chiedere fedeltà e parla di ingratitudine quando qualcuno cerca un ricambio indipendente. Una cura alternativa efficace la minaccia materialmente e nella sua immagine di salvatrice.",
+          "Conoscenze effettive e segreto della fazione": "Conosce il ramo nascosto già fissato; ignora la derivazione di Departure. Una confessione completa della propria operazione non contiene per questo segreti antichi.",
+          "Obiettivo presente": "Rendere indispensabili sostegni viventi controllati dalla rete, impedendo la loro sostituzione con cure indipendenti.",
+          "Punto di rottura": "Arven mantiene un registro clinico perché non vuole perdere ogni possibilità di curare i propri pazienti: può opporsi a Sevra su prove mediche.",
+          "Verità riservata già fissata": "Sevra conosce la presenza del ramo nascosto ma ignora la derivazione del Departure Project: non può confessare fatti mai appresi.",
+          "Continuità con il passato adottato": "Sopravvisse grazie a un innesto non autonomo e ha scelto di replicare la dipendenza per governare chi riceve cura.",
+          "Voce": "Controlla la terra sotto le unghie altrui durante le udienze.",
+          "Timore personale": "Un sostegno indipendente che renda inutile il suo ruolo.",
+          "Capacità e accessi effettivi": "Seed — stadio 4",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Seed 4. Abilità cumulative fino a Fleshweaver; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-478_sevra-dhal.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-479",
@@ -48811,7 +49564,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-479_arven-sorel.md"
       ],
       "limits": "Una sola Effige incorporata: Heart 3. Abilità cumulative fino a Restorer; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -48890,7 +49644,26 @@
         "offensive_ability_id": "EFF-05-II-M02",
         "defensive_ability_id": "EFF-05-III-M03"
       },
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "Il curatore che chiama prudenza il silenzio",
+        "sections": {
+          "Vita e carattere": "Arven apprese Heart curando feriti e accettò il vivaio per riserve e casi difficili. Ha taciuto lesioni riconoscibili: la sua responsabilità non nasce soltanto da un ordine incomprensibile. Si attacca alle persone che cura e può interpretare un intervento esterno come minaccia anche quando apre una soluzione migliore.",
+          "Comportamento e decisioni": "Chiede chi manterrà il sostegno durante la separazione. Se la risposta è verificabile può cooperare per un paziente senza confessare tutto o cambiare schieramento.",
+          "Conoscenze effettive e segreto della fazione": "Conosce le lesioni osservate e le procedure che esegue. Il sapere di Sevra su ogni distribuzione non è automaticamente suo; non conosce Departure per trasmissione del dossier.",
+          "Obiettivo presente": "Rendere indispensabili sostegni viventi controllati dalla rete, impedendo la loro sostituzione con cure indipendenti.",
+          "Punto di rottura": "Arven mantiene un registro clinico perché non vuole perdere ogni possibilità di curare i propri pazienti: può opporsi a Sevra su prove mediche.",
+          "Verità riservata già fissata": "Sevra conosce la presenza del ramo nascosto ma ignora la derivazione del Departure Project: non può confessare fatti mai appresi.",
+          "Continuità con il passato adottato": "Imparò Heart curando lavoratori feriti e accettò il vivaio perché offriva riserve e casi difficili. Ha poi taciuto lesioni che sapeva riconoscere.",
+          "Voce": "Corregge la postura di un paziente anche mentre mente al superiore.",
+          "Timore personale": "Che una separazione improvvisata uccida i pazienti che continua a considerare suoi.",
+          "Capacità e accessi effettivi": "Heart — stadio 3",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Heart 3. Abilità cumulative fino a Restorer; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-479_arven-sorel.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-480",
@@ -48943,7 +49716,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-480_marwen-kael.md"
       ],
       "limits": "Una sola Effige incorporata: Crown 5. Abilità cumulative fino a Lawgiver; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -49031,7 +49805,26 @@
           "id": "ART-085",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Il provvedimento che non vuole più scadere",
+        "sections": {
+          "Vita e carattere": "Marwen costruì carriera su una misura temporanea riuscita. Prolungarla gli ha permesso di evitare il giudizio su cosa restava necessario. La falsificazione della durata è un atto deliberato già fissato. Il prestigio di chi mantiene ordine gli piace più dell’ordine stesso quando un controllo esterno minaccia la firma.",
+          "Comportamento e decisioni": "Risponde a un’obiezione con un pericolo vero, ma non necessariamente quello che giustifica la proroga. Può usare forza e detenzione attraverso i mezzi effettivi del fronte, non soltanto carte.",
+          "Conoscenze effettive e segreto della fazione": "Sa quale durata ha alterato. Ilyra conosce lo scopo generale ma non questa falsificazione: non può confessarla al posto suo o annullarla da lontano perché il lettore la conosce.",
+          "Obiettivo presente": "Trasformare misure di emergenza circoscritte in una giurisdizione permanente sulle persone giudicate pericolose.",
+          "Punto di rottura": "Elisa obbedisce a una catena di comando, ma rifiuta la distruzione di una propria unità per nascondere l’alterazione.",
+          "Verità riservata già fissata": "Marwen ha falsificato la durata di un mandato: Ilyra conosce lo scopo generale ma non questa alterazione.",
+          "Continuità con il passato adottato": "Giurista militare, costruì la propria carriera su una misura temporanea riuscita. Ogni proroga successiva gli è sembrata meno costosa della perdita del comando.",
+          "Voce": "Allinea il polsino quando qualcuno chiede una data di fine.",
+          "Timore personale": "Una guardia che obbedisca all’originale invece che alla copia alterata.",
+          "Capacità e accessi effettivi": "Crown — stadio 5",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Crown 5. Abilità cumulative fino a Lawgiver; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-480_marwen-kael.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-481",
@@ -49084,7 +49877,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-481_elisa-vorn.md"
       ],
       "limits": "Una sola Effige incorporata: Banner 3. Abilità cumulative fino a Captain; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -49163,7 +49957,26 @@
         "offensive_ability_id": "EFF-15-III-M01",
         "defensive_ability_id": "EFF-15-III-M04"
       },
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "La lealtà ha persone diverse ai due estremi",
+        "sections": {
+          "Vita e carattere": "Elisa guidò un’evacuazione prima di servire il tribunale. È legata ai propri compagni e alle scelte che hanno reso possibile salvarli, ma un ordine nuovo può usare quella gratitudine per farli agire contro un testimone. Desidera una vita in cui una cena non finisca sempre a discutere un turno.",
+          "Comportamento e decisioni": "Prima di contraddire Marwen cerca di ridurre il rischio operativo. Una replica può essere prudente e insufficiente; non è ribelle pronta da reclutare con una sola frase.",
+          "Conoscenze effettive e segreto della fazione": "Sa quali uomini guida, l’ordine ricevuto e ciò che ha visto. La falsificazione nel campo secret resta informazione autoriale finché non incontra l’originale o un canale attendibile.",
+          "Obiettivo presente": "Trasformare misure di emergenza circoscritte in una giurisdizione permanente sulle persone giudicate pericolose.",
+          "Punto di rottura": "Elisa obbedisce a una catena di comando, ma rifiuta la distruzione di una propria unità per nascondere l’alterazione.",
+          "Verità riservata già fissata": "Marwen ha falsificato la durata di un mandato: Ilyra conosce lo scopo generale ma non questa alterazione.",
+          "Continuità con il passato adottato": "Guidò un’evacuazione e ottenne Banner per stabilizzare il coordinamento della squadra; ora la lealtà agli uomini confligge con il servizio al tribunale.",
+          "Voce": "Controlla personalmente i turni dei feriti.",
+          "Timore personale": "Perdere un’intera squadra per proteggere una falsificazione.",
+          "Capacità e accessi effettivi": "Banner — stadio 3",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Banner 3. Abilità cumulative fino a Captain; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-481_elisa-vorn.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-482",
@@ -49216,7 +50029,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-482_naor-vesk.md"
       ],
       "limits": "Una sola Effige incorporata: Tempest 4. Abilità cumulative fino a Stormwarden; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -49300,7 +50114,26 @@
           "id": "ART-071",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "La rotta come arma prima che come rifugio",
+        "sections": {
+          "Vita e carattere": "Naor fu abbandonato da un armatore e scelse i naufragi provocati come impresa. Il torto passato non fa di ogni assalto vendetta dei marinai. Gli piace essere ascoltato quando descrive le secche e può risparmiare un pilota competente per utilità, non misericordia universale.",
+          "Comportamento e decisioni": "Se una potenza superiore controlla il mare raggiunto non insiste per dimostrare coraggio: cerca una rotta reale o tratta. L’orgoglio non lo obbliga a restare in una battaglia persa.",
+          "Conoscenze effettive e segreto della fazione": "Conosce la propria operazione e l’ordine dato a Dara. Non controlla tutte le acque e non sa i viaggi di Eren soltanto perché Tempest esiste.",
+          "Obiettivo presente": "Controllare una rotta di naufragi provocati e vendere separatamente carico, superstiti e informazioni sui recuperi.",
+          "Punto di rottura": "Naor salva la propria nave prima del compratore; un ostaggio liberato non è una risorsa illimitata da sostituire.",
+          "Verità riservata già fissata": "Dara ha ricevuto l’ordine di eliminare l’intermediario dopo il pagamento e lo considera un prezzo accettabile.",
+          "Continuità con il passato adottato": "Ex pilota abbandonato da un armatore, ha trasformato la conoscenza delle secche in un’impresa di naufragi provocati. Non combatte per vendicare ogni marinaio.",
+          "Voce": "Indica sempre il punto di ritorno prima dell’abbordaggio.",
+          "Timore personale": "Un mare controllato da una potenza superiore e nessuna via di fuga.",
+          "Capacità e accessi effettivi": "Tempest — stadio 4",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Tempest 4. Abilità cumulative fino a Stormwarden; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-482_naor-vesk.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-483",
@@ -49353,7 +50186,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-483_dara-ulven.md"
       ],
       "limits": "Una sola Effige incorporata: Maw 3. Abilità cumulative fino a Devourer; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -49432,7 +50266,26 @@
         "offensive_ability_id": "EFF-20-III-M03",
         "defensive_ability_id": "EFF-20-III-M01"
       },
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "Prendere prima di essere parte del carico",
+        "sections": {
+          "Vita e carattere": "Dara imparò a consumare supporti raggiunti nei recuperi e accettò l’appropriazione delle vite altrui come modo di non essere più merce. Il timore di essere venduta non annulla la disponibilità a eliminare l’intermediario. Ama scegliere per prima dagli oggetti salvati, anche cose inutili.",
+          "Comportamento e decisioni": "Una via di uscita può interessarla ma richiede prezzo e credibilità; può mantenere un accordo senza diventare buona. La rottura con Naor non garantisce sicurezza ai superstiti.",
+          "Conoscenze effettive e segreto della fazione": "Conosce l’ordine di eliminazione ricevuto e ciò che ha raggiunto nei recuperi. Maw non le rivela l’intera origine di ogni residuo.",
+          "Obiettivo presente": "Controllare una rotta di naufragi provocati e vendere separatamente carico, superstiti e informazioni sui recuperi.",
+          "Punto di rottura": "Naor salva la propria nave prima del compratore; un ostaggio liberato non è una risorsa illimitata da sostituire.",
+          "Verità riservata già fissata": "Dara ha ricevuto l’ordine di eliminare l’intermediario dopo il pagamento e lo considera un prezzo accettabile.",
+          "Continuità con il passato adottato": "Ha imparato a consumare supporti raggiunti nei recuperi e ora usa Maw per impadronirsi di ciò che resta dopo gli assalti.",
+          "Voce": "Mangia solo dopo avere inventariato il bottino.",
+          "Timore personale": "Essere offerta a un compratore come parte del carico.",
+          "Capacità e accessi effettivi": "Maw — stadio 3",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Maw 3. Abilità cumulative fino a Devourer; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-483_dara-ulven.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-484",
@@ -49485,7 +50338,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-484_ishven-raal.md"
       ],
       "limits": "Una sola Effige incorporata: Labyrinth 4. Abilità cumulative fino a Oneirarch; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -49572,7 +50426,26 @@
           "id": "ART-066",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "L’ospite utile che non può più uscire",
+        "sections": {
+          "Vita e carattere": "Ishven iniziò con una comunità interiore in cui il diritto di uscita esisteva davvero. Ne cambiò gradualmente le condizioni per trattenere persone utili. Può ricordare con sincerità l’epoca migliore e usarla per negare il presente. Ama conversazioni in cui sembra capire tutti prima che parlino.",
+          "Comportamento e decisioni": "Interpreta il dissenso come sintomo e la dipendenza come conferma del legame. Per contrastarlo conta poter confrontare testimonianze fuori dal canale che governa.",
+          "Conoscenze effettive e segreto della fazione": "Conosce le prese esercitate, non ogni memoria o scelta degli ospiti. Non ha creato retroattivamente le loro infanzie e non può trasformare una relazione simulata in una famiglia storica autentica.",
+          "Obiettivo presente": "Sostituire relazioni sociali e contratti di ospitalità con un sistema di consenso manipolato che protegga i capi della rete.",
+          "Punto di rottura": "Neris vuole cancellare soltanto i propri debiti e può vendere l’ubicazione del capo; non restituisce per questo la fiducia degli ospiti.",
+          "Verità riservata già fissata": "Gli ospiti hanno persone e volontà proprie: gli effetti non creano retroattivamente infanzie o parenti autentici.",
+          "Continuità con il passato adottato": "Condusse una comunità interiore che aveva diritto di uscita e ne cambiò gradualmente le condizioni per trattenere le persone utili.",
+          "Voce": "Offre sempre la stessa bevanda prima di una sessione.",
+          "Timore personale": "Che due ospiti confrontino testimonianze fuori dal collegamento.",
+          "Capacità e accessi effettivi": "Labyrinth — stadio 4",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Labyrinth 4. Abilità cumulative fino a Oneirarch; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-484_ishven-raal.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-485",
@@ -49625,7 +50498,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-485_neris-vaal.md"
       ],
       "limits": "Una sola Effige incorporata: Mask 3. Abilità cumulative fino a Masquerader; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -49703,7 +50577,26 @@
         "offensive_ability_id": "EFF-07-III-M02",
         "defensive_ability_id": "EFF-07-III-M01"
       },
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "Un volto al quale poter tornare",
+        "sections": {
+          "Vita e carattere": "Neris usò rappresentazioni per sfuggire a creditori e vende accessi altrui mentre cerca una propria identità stabile. Può provare affetto per un ospite e offrirlo comunque come garanzia di un debito. La contraddizione è una scelta, non una necessità biologica di Mask.",
+          "Comportamento e decisioni": "Rende piacevole un colloquio e si sottrae quando arriva una domanda sul responsabile. Se una propria rappresentazione viene smascherata non perde per decreto tutti i mezzi, ma deve usare quelli rimasti con continuità reale.",
+          "Conoscenze effettive e segreto della fazione": "Conosce i contatti di cui è intermediario. Non dispone di tutte le identità interiori del dominio di Ishven e non ottiene Labyrinth per collaborazione.",
+          "Obiettivo presente": "Sostituire relazioni sociali e contratti di ospitalità con un sistema di consenso manipolato che protegga i capi della rete.",
+          "Punto di rottura": "Neris vuole cancellare soltanto i propri debiti e può vendere l’ubicazione del capo; non restituisce per questo la fiducia degli ospiti.",
+          "Verità riservata già fissata": "Gli ospiti hanno persone e volontà proprie: gli effetti non creano retroattivamente infanzie o parenti autentici.",
+          "Continuità con il passato adottato": "Ha usato rappresentazioni per sfuggire a creditori ordinari e ora vende accessi altrui pur cercando una propria identità stabile.",
+          "Voce": "Conserva un abito che non usa in nessuna rappresentazione.",
+          "Timore personale": "Non avere più un nome cui possa tornare senza pagare.",
+          "Capacità e accessi effettivi": "Mask — stadio 3",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Mask 3. Abilità cumulative fino a Masquerader; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-485_neris-vaal.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-486",
@@ -49756,7 +50649,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-486_hadrik-vos.md"
       ],
       "limits": "Una sola Effige incorporata: Crucible 4. Abilità cumulative fino a Living Crucible; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -49844,7 +50738,26 @@
           "id": "ART-036",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "La crisi come dimostrazione commerciale",
+        "sections": {
+          "Vita e carattere": "Hadrik apprese Crucible in un’officina militare e scelse di creare domanda con la violenza. Gli piace una macchina che supera il collaudo e teme più il magazzino ispezionato dei discorsi sulla moralità delle armi. Il secondo pagamento che sostiene la prima consegna rende i tempi un rischio economico concreto.",
+          "Comportamento e decisioni": "Rassicura clienti diversi con versioni compatibili solo finché non si incontrano. Può perdere il contratto per una prova ordinaria anche quando resta un combattente pericoloso.",
+          "Conoscenze effettive e segreto della fazione": "Conosce le due consegne e i relativi costi. Helia conosce la propria partecipazione e la frode d’uso, non automaticamente tutta la contabilità di Hadrik.",
+          "Obiettivo presente": "Vendere armi investite a due compratori rivali provocando una crisi che renda urgente la consegna.",
+          "Punto di rottura": "Eline rifiuta di restare nel raggio della propria carica: la sua paura crea una finestra di intervento, non una resa automatica.",
+          "Verità riservata già fissata": "Il denaro del secondo compratore paga la prima consegna: Hadrik teme più un’ispezione del magazzino che una controversia sui brevetti.",
+          "Continuità con il passato adottato": "Fu tecnico di fusione e imparò Crucible in un’officina militare; ha scelto di creare domanda con la violenza invece di competere sulla qualità.",
+          "Voce": "Prova personalmente il primo contenitore e lascia agli altri gli ultimi.",
+          "Timore personale": "Che i compratori confrontino i due contratti prima del pagamento.",
+          "Capacità e accessi effettivi": "Crucible — stadio 4",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Crucible 4. Abilità cumulative fino a Living Crucible; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-486_hadrik-vos.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-487",
@@ -49897,7 +50810,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-487_eline-rusk.md"
       ],
       "limits": "Una sola Effige incorporata: Tempest 2. Abilità cumulative fino a Windcaller; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -49976,7 +50890,26 @@
         "offensive_ability_id": "EFF-19-II-M04",
         "defensive_ability_id": "EFF-19-II-M02"
       },
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "L’esecutrice non vuole essere il contenimento",
+        "sections": {
+          "Vita e carattere": "Eline apprese Tempest sulle condotte e accetta il sabotaggio come mestiere, ma non la propria morte come componente del piano. Tiene abiti civili pronti per un futuro in cui non debba più pulire residui dalle maniche. Questa speranza non la rende innocente dei pericoli che crea.",
+          "Comportamento e decisioni": "Domanda prima dove si scarica la pressione. Se l’uscita è realmente chiusa può fermare la prestazione o rivolgere la forza contro chi la trattiene, senza diventare automaticamente amica dei soccorritori.",
+          "Conoscenze effettive e segreto della fazione": "Conosce flussi e ordini del proprio intervento. Il finanziamento fra compratori non è una sua conoscenza necessaria.",
+          "Obiettivo presente": "Vendere armi investite a due compratori rivali provocando una crisi che renda urgente la consegna.",
+          "Punto di rottura": "Eline rifiuta di restare nel raggio della propria carica: la sua paura crea una finestra di intervento, non una resa automatica.",
+          "Verità riservata già fissata": "Il denaro del secondo compratore paga la prima consegna: Hadrik teme più un’ispezione del magazzino che una controversia sui brevetti.",
+          "Continuità con il passato adottato": "Apprendista delle condotte, ha ottenuto Tempest per dirigere flussi già raggiunti; accetta il sabotaggio ma non il proprio sacrificio.",
+          "Voce": "Tiene la giacca pronta per lasciare la sala.",
+          "Timore personale": "Un contenimento che imprigioni la carica insieme a lei.",
+          "Capacità e accessi effettivi": "Tempest — stadio 2",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Tempest 2. Abilità cumulative fino a Windcaller; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-487_eline-rusk.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-488",
@@ -50029,7 +50962,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-488_ossiel-thren.md"
       ],
       "limits": "Una sola Effige incorporata: Sepulchre 5. Abilità cumulative fino a Pale Shepherd; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -50121,7 +51055,26 @@
           "id": "ART-082",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Il santuario pagato con chi custodisce",
+        "sections": {
+          "Vita e carattere": "Ossiel custodì morti per un secolo senza appropriarsene, poi vendette controllo dei contenitori per finanziare il santuario. Il beneficio passato e il ricatto presente sono entrambi veri. La longevità resta sostenuta dalla condizione già fissata nel suo dossier; non viene aggiunta una nuova razza per spiegare il secolo.",
+          "Comportamento e decisioni": "Parla delle spese dei vivi quando gli chiedono la volontà dei morti. Può offrire un ascolto reale e accompagnarlo a condizioni coercitive: il servizio autentico rende il ricatto più credibile.",
+          "Conoscenze effettive e segreto della fazione": "Sa dei patti che ha stipulato e delle custodie raggiunte. La presenza che rifiuta ritorno conserva un desiderio proprio e non è una sua rappresentazione.",
+          "Obiettivo presente": "Trasformare le testimonianze dei morti custoditi in una merce coercitiva e distruggere quelle che non accettano il patto.",
+          "Punto di rottura": "Meraine vuole salvare una specifica presenza e può sottrarre il contenitore agli stessi clienti.",
+          "Verità riservata già fissata": "Una delle tre presenze rifiuta qualsiasi ritorno corporeo e vuole soltanto essere ascoltata: il rifiuto è autentico.",
+          "Continuità con il passato adottato": "Custodì morti per un secolo senza appropriarsene; cominciò a vendere il controllo dei contenitori per finanziare un santuario e ora ne difende la rendita.",
+          "Voce": "Abbassa la voce soltanto quando parla a un contenitore vuoto.",
+          "Timore personale": "Una presenza che testimoni come fu stipulato il primo patto coercitivo.",
+          "Capacità e accessi effettivi": "Sepulchre — stadio 5",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Sepulchre 5. Abilità cumulative fino a Pale Shepherd; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-488_ossiel-thren.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-489",
@@ -50174,7 +51127,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-489_meraine-solt.md"
       ],
       "limits": "Una sola Effige incorporata: Crescent 3. Abilità cumulative fino a Witch; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -50253,7 +51207,26 @@
         "offensive_ability_id": "EFF-23-III-M04",
         "defensive_ability_id": "EFF-23-III-M02"
       },
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "Cercare una persona senza comprare tutte le altre",
+        "sections": {
+          "Vita e carattere": "Meraine studiò maledizioni attraverso supporti e collaborò al commercio per ritrovare una singola presenza. Può riconoscere l’ingiustizia del sistema e continuare finché pensa che sia l’unica via per chi cerca. Il passato non fissa ancora nome e sorte di quella presenza: una nuova identificazione richiederà sviluppo documentato, non una sorpresa utile al momento.",
+          "Comportamento e decisioni": "Un riscontro sulla ricerca la rende più disposta a negoziare ma non annulla le maledizioni già esercitate. Restituire un supporto può essere un primo atto verificabile, non una redenzione completa.",
+          "Conoscenze effettive e segreto della fazione": "Conosce i legami su cui ha lavorato. Non conosce tutte le persone custodite da Ossiel o l’intera geografia delle continuità morte.",
+          "Obiettivo presente": "Trasformare le testimonianze dei morti custoditi in una merce coercitiva e distruggere quelle che non accettano il patto.",
+          "Punto di rottura": "Meraine vuole salvare una specifica presenza e può sottrarre il contenitore agli stessi clienti.",
+          "Verità riservata già fissata": "Una delle tre presenze rifiuta qualsiasi ritorno corporeo e vuole soltanto essere ascoltata: il rifiuto è autentico.",
+          "Continuità con il passato adottato": "Ha imparato Crescent studiando maledizioni legate a supporti e ha collaborato al commercio per ritrovare una singola presenza.",
+          "Voce": "Legge due volte ogni nome prima di legarlo a un supporto.",
+          "Timore personale": "Che il capo venda proprio la presenza che cerca.",
+          "Capacità e accessi effettivi": "Crescent — stadio 3",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Crescent 3. Abilità cumulative fino a Witch; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-489_meraine-solt.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-490",
@@ -50306,7 +51279,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-490_kaeris-ohn.md"
       ],
       "limits": "Una sola Effige incorporata: Astrolabe 6. Abilità cumulative fino a Horizon Architect; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -50401,7 +51375,26 @@
           "id": "ART-081",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Aver corso il rischio non rende proprietari del viaggio",
+        "sections": {
+          "Vita e carattere": "Kaeris ha attraversato itinerari remoti con rifornimenti e tappe reali. La fatica gli sembra una ragione per esigere che gli altri paghino, poi per impedire che trovino una strada diversa. Gli piace raccontare luoghi che nessuno presente ha visto e può omettere gli aiutanti che lo resero possibile.",
+          "Comportamento e decisioni": "Accetta un costo per salvare la propria via di servizio. Se viene tagliata non compare un itinerario sostitutivo dal titolo angelico: deve raggiungerlo e sostenerlo davvero.",
+          "Conoscenze effettive e segreto della fazione": "Conosce l’avamposto e la dipendenza dei sei addetti. Nessuna Root personale o mappa universale è assegnata dal grado.",
+          "Obiettivo presente": "Monopolizzare tre itinerari interregionali e vendere passaggi sicuri dopo aver reso pericolosi gli accessi concorrenti.",
+          "Punto di rottura": "Thel giudica Kaeris un custode temporaneo e vuole negoziare un accesso proprio; nessuna lealtà metafisica lo obbliga.",
+          "Verità riservata già fissata": "L’avamposto non è autosufficiente: i sei addetti remoti dispongono di una riserva dichiarata e necessitano della rotta di servizio.",
+          "Continuità con il passato adottato": "È un angelo che ha attraversato itinerari remoti in forma personale, con rifornimenti e tappe reali; considera il rischio corso una ragione per possedere il passaggio altrui.",
+          "Voce": "Chiede il nome del porto di ritorno a chi propone una rotta.",
+          "Timore personale": "Perdere la via di servizio dell’avamposto mentre si trova lontano.",
+          "Capacità e accessi effettivi": "Astrolabe — stadio 6",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Astrolabe 6. Abilità cumulative fino a Horizon Architect; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-490_kaeris-ohn.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-491",
@@ -50454,7 +51447,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-491_thel-ordan.md"
       ],
       "limits": "Una sola Effige incorporata: Hourglass 4. Abilità cumulative fino a Chronarch; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -50545,7 +51539,26 @@
           "id": "ART-083",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Rinviare non è cancellare il conto",
+        "sections": {
+          "Vita e carattere": "Thel fu cronometrista di navigazione e costruì una disciplina Hourglass propria. Considera il servizio più importante dei passeggeri e il capo sostituibile: può difendere un itinerario contro Kaeris senza desiderare libertà per chi lo usa. Colleziona orologi ordinari difettosi, ma non ogni oggetto è un Medium.",
+          "Comportamento e decisioni": "Sa attendere quando gli altri hanno fretta. Una sconfitta già conclusa non diventa una possibilità aperta perché egli preferisce un’altra sequenza.",
+          "Conoscenze effettive e segreto della fazione": "Conosce i tempi dei processi su cui lavora e gli ordini ricevuti. Non vede ogni futuro e non controlla il Crossing per vicinanza al fronte.",
+          "Obiettivo presente": "Monopolizzare tre itinerari interregionali e vendere passaggi sicuri dopo aver reso pericolosi gli accessi concorrenti.",
+          "Punto di rottura": "Thel giudica Kaeris un custode temporaneo e vuole negoziare un accesso proprio; nessuna lealtà metafisica lo obbliga.",
+          "Verità riservata già fissata": "L’avamposto non è autosufficiente: i sei addetti remoti dispongono di una riserva dichiarata e necessitano della rotta di servizio.",
+          "Continuità con il passato adottato": "Fu cronometrista di navigazione e ha costruito una propria disciplina Hourglass; considera il capo sostituibile e il servizio più importante dei passeggeri.",
+          "Voce": "Tocca il bordo di un orologio fermo quando aspetta una risposta.",
+          "Timore personale": "Una sconfitta già compiuta che nessun rinvio possa correggere.",
+          "Capacità e accessi effettivi": "Hourglass — stadio 4",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Hourglass 4. Abilità cumulative fino a Chronarch; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-491_thel-ordan.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-492",
@@ -50598,7 +51611,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-492_vareth-senn.md"
       ],
       "limits": "Una sola Effige incorporata: Maw 6. Abilità cumulative fino a Great Maw; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -50689,7 +51703,26 @@
           "id": "ART-093",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "editorial_profile_367": {
+        "heading": "Il recipiente che non contiene il diritto",
+        "sections": {
+          "Vita e carattere": "Vareth costruì nave-laboratorio con collaboratori e riserve finite. Due contenitori falliscono e il compratore vuole funzioni stabili: la menzogna tecnica non è soltanto un problema di reputazione. Può apprezzare la robustezza di una persona proprio nel momento in cui la considera un componente migliore.",
+          "Comportamento e decisioni": "Offre separazioni come se fossero neutralità. Quando un soggetto rifiuta si rivela se riconosce la persona o soltanto l’utilità. Un laboratorio raggiunto può essere distrutto senza annullare tutti i legami rimasti altrove.",
+          "Conoscenze effettive e segreto della fazione": "Conosce i due fallimenti e ciò che ha effettivamente estratto. Non possiede un metodo universale o una Root personale.",
+          "Obiettivo presente": "Produrre ricettacoli viventi vendibili, trattando continuità e corpi come parti separabili senza consenso.",
+          "Punto di rottura": "Ilena vuole preservare i sei detenuti e può sabotare una consegna letale, ma ha già cooperato alle lesioni e non viene assolta da un ripensamento.",
+          "Verità riservata già fissata": "Il compratore accetta solo funzioni stabili; Vareth nasconde che due dei propri contenitori stanno fallendo e non possiede un metodo universale.",
+          "Continuità con il passato adottato": "È un angelo dedito all’appropriazione di funzioni raggiunte; ha costruito una nave-laboratorio con collaboratori e riserve finite, senza una Root personale.",
+          "Voce": "Descrive una persona elencando ciò che potrebbe esserne separato.",
+          "Timore personale": "Scoprire che i propri contenitori non reggono una funzione più forte.",
+          "Capacità e accessi effettivi": "Maw — stadio 6",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Maw 6. Abilità cumulative fino a Great Maw; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-492_vareth-senn.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-493",
@@ -50742,7 +51775,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-493_ilena-dorr.md"
       ],
       "limits": "Una sola Effige incorporata: Heart 4. Abilità cumulative fino a Deathless; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -50820,7 +51854,26 @@
         "offensive_ability_id": "EFF-05-II-M02",
         "defensive_ability_id": "EFF-05-IV-M01"
       },
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "Salvare alcuni non autorizza a scegliere tutti",
+        "sections": {
+          "Vita e carattere": "Ilena giustificò lesioni per salvare altri pazienti e continuò quando il fine commerciale era evidente. La sua paura di una liberazione precipitosa può essere tecnicamente fondata e moralmente interessata insieme. Ha affetto reale per persone che ha contribuito a rendere dipendenti.",
+          "Comportamento e decisioni": "Può proporre una separazione graduale o sfruttare il rischio per impedire qualsiasi intervento. La differenza si verifica offrendo condizioni concrete e osservando la risposta.",
+          "Conoscenze effettive e segreto della fazione": "Conosce le dipendenze che ha trattato e i danni osservati. Non ogni segreto commerciale di Vareth le è automaticamente noto.",
+          "Obiettivo presente": "Produrre ricettacoli viventi vendibili, trattando continuità e corpi come parti separabili senza consenso.",
+          "Punto di rottura": "Ilena vuole preservare i sei detenuti e può sabotare una consegna letale, ma ha già cooperato alle lesioni e non viene assolta da un ripensamento.",
+          "Verità riservata già fissata": "Il compratore accetta solo funzioni stabili; Vareth nasconde che due dei propri contenitori stanno fallendo e non possiede un metodo universale.",
+          "Continuità con il passato adottato": "Medica semidivina, ha giustificato lesioni per salvare altri pazienti e ha scelto di continuare anche quando il fine commerciale divenne evidente.",
+          "Voce": "Annota il consenso mancante con lo stesso inchiostro dei parametri vitali.",
+          "Timore personale": "Che una liberazione precipitosa uccida persone che lei stessa ha reso dipendenti.",
+          "Capacità e accessi effettivi": "Heart — stadio 4",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Heart 4. Abilità cumulative fino a Deathless; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-493_ilena-dorr.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-494",
@@ -50873,7 +51926,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-494_mireya-voss.md"
       ],
       "limits": "Una sola Effige incorporata: Halo 4. Abilità cumulative fino a Lightbearer; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -50952,7 +52006,26 @@
         "offensive_ability_id": "EFF-04-IV-M01",
         "defensive_ability_id": "EFF-04-IV-M04"
       },
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "La luce che aiuta senza censire la gratitudine",
+        "sections": {
+          "Vita e carattere": "Mireya lasciò un datore che pretendeva i nomi dei superstiti dopo una protezione riuscita. La Blue Lantern continua a pagare il prezzo pratico di quel rifiuto: contatti più lenti e risorse che non bastano a ogni richiesta. Vuole una rete capace di dire non possiamo senza abbandonare in silenzio.",
+          "Comportamento e decisioni": "Ascolta una richiesta di fuga prima di chiedere se l’ospite diventerà utile. Può sospettare un potente generoso e poi cambiare giudizio davanti a un aiuto che non esige presa.",
+          "Conoscenze effettive e segreto della fazione": "Conosce i propri canali e il finanziamento rifiutato; non gli interi segreti dei protetti. Halo non garantisce diagnosi totale di ogni coercizione.",
+          "Obiettivo presente": "Mantenere una via di fuga e cure indipendenti per le vittime di sequestri soprannaturali.",
+          "Punto di rottura": "Un finanziatore può minacciare di ritirare mezzi; nessun traditore obbligatorio viene estratto dal personale domestico di Alexander.",
+          "Verità riservata già fissata": "Mireya ha rifiutato un finanziamento che avrebbe imposto la consegna dei nomi degli ospiti.",
+          "Continuità con il passato adottato": "Ha protetto un convoglio da un’alterazione investita e ha lasciato il precedente datore quando questi pretendeva i nomi dei superstiti.",
+          "Voce": "Accende una lampada ordinaria anche quando la propria luce basterebbe.",
+          "Timore personale": "Confondere la protezione con il possesso degli ospiti.",
+          "Capacità e accessi effettivi": "Halo — stadio 4",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Halo 4. Abilità cumulative fino a Lightbearer; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-494_mireya-voss.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-495",
@@ -51005,7 +52078,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-495_teren-alst.md"
       ],
       "limits": "Una sola Effige incorporata: Chain 2. Abilità cumulative fino a Captor; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -51084,7 +52158,26 @@
         "offensive_ability_id": "EFF-13-II-M04",
         "defensive_ability_id": "EFF-13-II-M02"
       },
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "Separare senza promettere l’impossibile",
+        "sections": {
+          "Vita e carattere": "Teren imparò Chain dopo aver testimoniato una custodia coercitiva. La competenza gli ha dato mezzi concreti, non la certezza di poter liberare chiunque. Può accettare un soccorso parziale e temere che gli altri lo chiamino complicità.",
+          "Comportamento e decisioni": "Chiede di vedere il rapporto prima di prometterne lo scioglimento. Non usa la prudenza come pretesto per negare una soluzione che un’altra capacità ha davvero reso possibile.",
+          "Conoscenze effettive e segreto della fazione": "Conosce i legami raggiunti e i recapiti del proprio incarico, non l’intero archivio della Blue Lantern.",
+          "Obiettivo presente": "Mantenere una via di fuga e cure indipendenti per le vittime di sequestri soprannaturali.",
+          "Punto di rottura": "Un finanziatore può minacciare di ritirare mezzi; nessun traditore obbligatorio viene estratto dal personale domestico di Alexander.",
+          "Verità riservata già fissata": "Mireya ha rifiutato un finanziamento che avrebbe imposto la consegna dei nomi degli ospiti.",
+          "Continuità con il passato adottato": "Fu testimone di una custodia coercitiva e ha imparato Chain per riconoscere e separare rapporti realmente raggiunti.",
+          "Voce": "Chiede sempre quale uscita ordinaria rimanga aperta.",
+          "Timore personale": "Promettere una separazione superiore alla propria capacità.",
+          "Capacità e accessi effettivi": "Chain — stadio 2",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Chain 2. Abilità cumulative fino a Captor; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-495_teren-alst.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-496",
@@ -51137,7 +52230,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-496_seran-vaust.md"
       ],
       "limits": "Una sola Effige incorporata: Oracle 4. Abilità cumulative fino a Living Theorem; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -51216,7 +52310,26 @@
         "offensive_ability_id": "EFF-16-IV-M04",
         "defensive_ability_id": "EFF-16-III-M04"
       },
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "La correzione deve restare leggibile",
+        "sections": {
+          "Vita e carattere": "Seran perse una posizione dopo avere corretto una dimostrazione e costruì una rete che conserva gli errori dei fondatori. Può trasformare questa storia in un nuovo prestigio personale: il rischio è volere essere riconosciuto come il solo onesto. La collaborazione con l’Exchange resta fra reti autonome.",
+          "Comportamento e decisioni": "Domanda quale risultato potrebbe far cambiare idea a chi parla. Deve poter rispondere anche per sé. Una critica fondata di un avversario non diventa irrilevante per la sua provenienza.",
+          "Conoscenze effettive e segreto della fazione": "Conosce il proprio errore, il confronto concordato e la separazione delle copie. Oracle IV non apre ogni passato o memoria privata.",
+          "Obiettivo presente": "Difendere testimoni e prove contro appropriazione, intimidazione e falsificazione investita.",
+          "Punto di rottura": "Alise non consegna una fonte anonima a un alleato solo perché potente: questo dissenso non equivale a tradimento.",
+          "Verità riservata già fissata": "Seran conserva una propria precedente conclusione sbagliata, corretta pubblicamente: il gruppo ammette revisioni sostenute da prove.",
+          "Continuità con il passato adottato": "Ha perso una posizione accademica dopo avere corretto una propria dimostrazione; ha costruito una rete che conserva anche gli errori dei fondatori.",
+          "Voce": "Scrive la condizione che smentirebbe un modello prima della conclusione.",
+          "Timore personale": "Essere difeso da un potente che pretende in cambio il silenzio.",
+          "Capacità e accessi effettivi": "Oracle — stadio 4",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Oracle 4. Abilità cumulative fino a Living Theorem; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-496_seran-vaust.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-497",
@@ -51269,7 +52382,8 @@
       ],
       "sources": [
         "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
-        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md"
+        "RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+        "DOSSIER_FIGURE_367/CAST-497_alise-reth.md"
       ],
       "limits": "Una sola Effige incorporata: Archive 2. Abilità cumulative fino a Chronicler; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.",
       "inventory": {
@@ -51348,7 +52462,26 @@
         "offensive_ability_id": "EFF-17-I-M05",
         "defensive_ability_id": "EFF-17-I-M05"
       },
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "editorial_profile_367": {
+        "heading": "Proteggere una fonte anche da un alleato",
+        "sections": {
+          "Vita e carattere": "Alise si formò presso una casa Witness e usa Archive per conservare provenienze senza vendere persone. Può essere più severa con un alleato che con un estraneo perché da lui si aspetta comprensione. Non tutti i silenzi proteggono: un ritardo può lasciare qualcuno senza rimedio.",
+          "Comportamento e decisioni": "Oscura ciò che non serve prima di consegnare una copia. Se viene chiesta la versione intera domanda quale uso concreto la renda necessaria e chi se ne assuma il rischio.",
+          "Conoscenze effettive e segreto della fazione": "Conosce il proprio lavoro e ciò che Seran le ha effettivamente condiviso. Non legge il desiderio di una fonte attraverso il documento e non cede un nome a un potente per riverenza.",
+          "Obiettivo presente": "Difendere testimoni e prove contro appropriazione, intimidazione e falsificazione investita.",
+          "Punto di rottura": "Alise non consegna una fonte anonima a un alleato solo perché potente: questo dissenso non equivale a tradimento.",
+          "Verità riservata già fissata": "Seran conserva una propria precedente conclusione sbagliata, corretta pubblicamente: il gruppo ammette revisioni sostenute da prove.",
+          "Continuità con il passato adottato": "Copista formatasi presso una casa Witness, ha imparato Archive per conservare provenienze e confronti senza vendere le persone che forniscono prove.",
+          "Voce": "Firma soltanto dopo aver controllato la copia del destinatario.",
+          "Timore personale": "Che una pubblicazione renda identificabile una fonte vulnerabile.",
+          "Capacità e accessi effettivi": "Archive — stadio 2",
+          "Limiti dell’inventario": "Una sola Effige incorporata: Archive 2. Abilità cumulative fino a Chronicler; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza."
+        },
+        "source": "DOSSIER_FIGURE_367/CAST-497_alise-reth.md",
+        "knowledge_access": "NARRATOR_RESERVED",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-498",
@@ -59742,5 +60875,6 @@
   "political_revision": 354,
   "service_revision": 358,
   "artifact_revision": 362,
-  "core_exchange_source": "CANONE_VIGENTE/Exchange_dodici_366.json"
+  "core_exchange_source": "CANONE_VIGENTE/Exchange_dodici_366.json",
+  "editorial_revision_367": "55 approfondimenti individuali: figure centrali, potenze e responsabili dei dodici fronti; inventari e poteri conservati."
 }

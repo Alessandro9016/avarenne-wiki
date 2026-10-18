@@ -1,0 +1,58 @@
+# Eline Rusk — L’esecutrice non vuole essere il contenimento
+
+Espansione autoriale 367. Passato e motivazioni qui definiti appartengono al canone del Narratore; non diventano conoscenze automatiche di Alexander. Gli esiti futuri restano aperti.
+
+## Vita e carattere
+
+Eline apprese Tempest sulle condotte e accetta il sabotaggio come mestiere, ma non la propria morte come componente del piano. Tiene abiti civili pronti per un futuro in cui non debba più pulire residui dalle maniche. Questa speranza non la rende innocente dei pericoli che crea.
+
+## Comportamento e decisioni
+
+Domanda prima dove si scarica la pressione. Se l’uscita è realmente chiusa può fermare la prestazione o rivolgere la forza contro chi la trattiene, senza diventare automaticamente amica dei soccorritori.
+
+## Conoscenze effettive e segreto della fazione
+
+Conosce flussi e ordini del proprio intervento. Il finanziamento fra compratori non è una sua conoscenza necessaria.
+
+## Obiettivo presente
+
+Vendere armi investite a due compratori rivali provocando una crisi che renda urgente la consegna.
+
+## Punto di rottura
+
+Eline rifiuta di restare nel raggio della propria carica: la sua paura crea una finestra di intervento, non una resa automatica.
+
+## Verità riservata già fissata
+
+Il denaro del secondo compratore paga la prima consegna: Hadrik teme più un’ispezione del magazzino che una controversia sui brevetti.
+
+## Continuità con il passato adottato
+
+Apprendista delle condotte, ha ottenuto Tempest per dirigere flussi già raggiunti; accetta il sabotaggio ma non il proprio sacrificio.
+
+## Voce
+
+Tiene la giacca pronta per lasciare la sala.
+
+## Timore personale
+
+Un contenimento che imprigioni la carica insieme a lei.
+
+## Capacità e accessi effettivi
+
+Tempest — stadio 2
+
+## Limiti dell’inventario
+
+Una sola Effige incorporata: Tempest 2. Abilità cumulative fino a Windcaller; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno. I riferimenti alla custodia di un artefatto non assegnano il suo possesso o la possibilità di usarlo a distanza.
+
+## Rapporti documentati
+
+- Hadrik Vos: Collocazione autoriale nel fronte The Ninth Cinder: stessa parte operativa. La relazione non attribuisce un incontro già avvenuto, la conoscenza dell’identità o dei segreti del destinatario.
+- Laurent Weyl: Collocazione autoriale nel fronte The Ninth Cinder: interessi contrapposti o negoziabili. La relazione non attribuisce un incontro già avvenuto, la conoscenza dell’identità o dei segreti del destinatario.
+- Helia Welren: Collocazione autoriale nel fronte The Ninth Cinder: stessa parte operativa. La relazione non attribuisce un incontro già avvenuto, la conoscenza dell’identità o dei segreti del destinatario.
+- Amelie Torrel: Collocazione autoriale nel fronte The Ninth Cinder: interessi contrapposti o negoziabili. La relazione non attribuisce un incontro già avvenuto, la conoscenza dell’identità o dei segreti del destinatario.
+
+## Uso in partita
+
+Il Narratore sceglie una decisione compatibile con obiettivo, informazioni e mezzi realmente presenti. Una trattativa può riuscire, fallire o produrre un accordo parziale. Non introdurre un riconoscimento di Edran, un viaggio, un tradimento o una promozione soltanto perché questa figura compare in un arco.

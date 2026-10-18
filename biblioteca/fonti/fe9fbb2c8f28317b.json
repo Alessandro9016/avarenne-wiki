@@ -1,8 +1,8 @@
 {
-  "versione": "366",
+  "versione": "367",
   "data": "2026-10-17",
   "fonte_unica": "23_Registro_unico_del_canone.md",
-  "sha256_fonte": "30f2ed8a83aa0e424aacdc39d87b85e853977ccf1d235b29320050998965f11c",
+  "sha256_fonte": "0ddf7ba5cc78b1660b6935287139caabb77561be08006835217de6fb99801347",
   "decisioni": [
     {
       "id": "CAN-001",
@@ -2009,8 +2009,8 @@
       "versione": "326"
     }
   ],
-  "revision": 366,
-  "current_topic_register": "366_Registro_del_nucleo_Exchange.md",
+  "revision": 367,
+  "current_topic_register": "367_Registro_del_completamento_editoriale.md",
   "operational_profiles_source": "CANONE_VIGENTE/Profili_operativi_Effigi_350.json",
   "interaction_source": "CANONE_VIGENTE/Contese_verificate_350.json",
   "pending_work_source": null
