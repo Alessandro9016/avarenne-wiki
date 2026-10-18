@@ -1,8 +1,8 @@
 {
-  "versione": "363",
+  "versione": "364",
   "data": "2026-10-17",
   "fonte_unica": "23_Registro_unico_del_canone.md",
-  "sha256_fonte": "cd66de74c016862a0a858bdebe85f1f91f50742c78ef91bd6a583adfe1a18fce",
+  "sha256_fonte": "51e00e78b9cd31d57230f000ff96aa497073bbb8576cf59b8fe538a5bf21598a",
   "decisioni": [
     {
       "id": "CAN-001",
@@ -2009,8 +2009,8 @@
       "versione": "326"
     }
   ],
-  "revision": 363,
-  "current_topic_register": "363_Fenomeni_approfondimento_e_ampliamento.md",
+  "revision": 364,
+  "current_topic_register": "364_Materiali_e_filiere_approfondimento.md",
   "operational_profiles_source": "CANONE_VIGENTE/Profili_operativi_Effigi_350.json",
   "interaction_source": "CANONE_VIGENTE/Contese_verificate_350.json",
   "pending_work_source": null

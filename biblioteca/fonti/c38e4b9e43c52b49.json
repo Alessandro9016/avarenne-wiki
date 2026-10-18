@@ -1,0 +1,12 @@
+{
+  "id": "MAT-007",
+  "name": "Velis Optical Glass",
+  "asset": "assets/materiale364-mat-007.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-007_velis-optical-glass/01_materiale_originale.png",
+  "source_sha256": "b92a607b85599dcf7a980cf295eaa5e1cff74015c01abcb723d4a8d21903503a",
+  "generator": "builtin image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: individual material illustration for the Avarenne novel encyclopedia. Main subject: Clear optical glass lens blanks and a small polished prism on a pale instrument maker bench, a thick edge with very faint natural green tint, realistic refraction of daylight through the glass, tiny bubbles only in a rejected raw blank. No beams emitted from the glass, no gemstones or occult symbols. Style: refined semi-realistic painted novel art, exquisite tactile detail and believable natural material behaviour, late industrial craft atmosphere. Landscape 3:2. One coherent close-up scene of this ONE material, with raw or worked examples of that same material only where requested; not a composite board of different materials. Use light and background suited to this specific material so its texture, silhouette and colour are immediately legible. No people, no readable letters or numerals, no labels, logo, watermark, card frame or infographic. Do not add supernatural effects to ordinary material. No extra tools or props that could be mistaken for a different catalogue specimen.",
+  "visual_caption": "Campione illustrativo di Velis Optical Glass. Forma, colore e finitura aiutano a riconoscere il materiale; non certificano da soli purezza, provenienza o investimento.",
+  "visual_review": "APPROVATA: materia, forma, texture e distinzione dagli altri campioni verificate",
+  "revision": 364
+}

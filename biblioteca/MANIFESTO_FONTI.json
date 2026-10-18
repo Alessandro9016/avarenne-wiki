@@ -475,8 +475,8 @@
       "group": "Dati strutturati e registri",
       "url": "2baf9591c2774322.html",
       "raw": "fonti/2baf9591c2774322.json",
-      "sha256": "4ae4d21ed0b346290de57d220e66970bb0e8db7a6d30f58493d489e95eacd0b1",
-      "bytes": 904307
+      "sha256": "abf6ca88b919e2ae666319c88825ae3e4df20acb677f8eba0b702639d51774a2",
+      "bytes": 1013191
     },
     {
       "source": "CANONE_VIGENTE/Piano_spostamenti_originali.json",
@@ -502,8 +502,8 @@
       "group": "Dati strutturati e registri",
       "url": "c81333c1993f6ec9.html",
       "raw": "fonti/c81333c1993f6ec9.json",
-      "sha256": "e5546dc4bda0e627f64858c4df36517c73fa55c7788f66cdc29045488a5c058f",
-      "bytes": 357557
+      "sha256": "c2134d2dfee633599b18469fb9aae801a563bb7fbde59caaf756440117cf40c3",
+      "bytes": 357835
     },
     {
       "source": "CANONE_VIGENTE/Piano_visuale_personaggi.json",
@@ -574,8 +574,8 @@
       "group": "Dati strutturati e registri",
       "url": "fe9fbb2c8f28317b.html",
       "raw": "fonti/fe9fbb2c8f28317b.json",
-      "sha256": "754e48e5c514f9f1156993e91dfada2ea46f15d097fd75cd449d99414c318e65",
-      "bytes": 84683
+      "sha256": "e102e27233a2bccd3ca7fb9f360fe241544eb5168d584abacdd236c3a9490384",
+      "bytes": 84680
     },
     {
       "source": "CANONE_VIGENTE/Regole_comuni.json",
@@ -6586,8 +6586,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "f4557326b92efa1f.html",
       "raw": "fonti/f4557326b92efa1f.md",
-      "sha256": "f75e5d5f3a0baf36d57faad0d44287836f9198a8a6650cb48ee1aede85ea62d9",
-      "bytes": 36613
+      "sha256": "e80300d63fc64035b9124233ed1347abf00bf8fd79ced02d4815f767d8f56ee0",
+      "bytes": 100943
     },
     {
       "source": "RISERVATO_186_Bestiario_e_condizioni_non_umane.md",
@@ -7237,8 +7237,8 @@
       "group": "Canone vigente e verifica della consegna",
       "url": "06300f093b9b4ae7.html",
       "raw": "fonti/06300f093b9b4ae7.md",
-      "sha256": "cd66de74c016862a0a858bdebe85f1f91f50742c78ef91bd6a583adfe1a18fce",
-      "bytes": 60023
+      "sha256": "51e00e78b9cd31d57230f000ff96aa497073bbb8576cf59b8fe538a5bf21598a",
+      "bytes": 60436
     },
     {
       "source": "342_Stato_vigente_per_la_consegna.md",
@@ -12243,8 +12243,8 @@
       "group": "Artefatti 362",
       "url": "40bea937933ad07d.html",
       "raw": "fonti/40bea937933ad07d.json",
-      "sha256": "4ae4d21ed0b346290de57d220e66970bb0e8db7a6d30f58493d489e95eacd0b1",
-      "bytes": 904307
+      "sha256": "abf6ca88b919e2ae666319c88825ae3e4df20acb677f8eba0b702639d51774a2",
+      "bytes": 1013191
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_6/ART-096_the-grave-meridian/Prompt.txt",
@@ -12459,8 +12459,8 @@
       "group": "Artefatti 362",
       "url": "c3901650928534bc.html",
       "raw": "fonti/c3901650928534bc.json",
-      "sha256": "e5546dc4bda0e627f64858c4df36517c73fa55c7788f66cdc29045488a5c058f",
-      "bytes": 357557
+      "sha256": "c2134d2dfee633599b18469fb9aae801a563bb7fbde59caaf756440117cf40c3",
+      "bytes": 357835
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/ARTEFATTI/Quality_1/ART-029_the-rain-nail/Prompt.txt",
@@ -14279,6 +14279,429 @@
       "raw": "fonti/8085fe53adc39686.txt",
       "sha256": "3b92e4ed689801f97ed6b7d2c3b5e7456c48bd43986429aec18d1e3a0453d867",
       "bytes": 970
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-014_noran-black-felt/Prompt.txt",
+      "title": "Prompt",
+      "group": "Materiali 364",
+      "url": "aba916200bbbd6ad.html",
+      "raw": "fonti/aba916200bbbd6ad.txt",
+      "sha256": "aac7cb7bd03bfe0e2dfc82ffa777b1de86a96b7ac00db1fb7ac8ba079d02cfc9",
+      "bytes": 1063
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-002_karrel-copper/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Materiali 364",
+      "url": "fdeb0b74fd246983.html",
+      "raw": "fonti/fdeb0b74fd246983.json",
+      "sha256": "02f7d6cb1ea4e34944298808598cc3d0199386fc90c3ba450b4eb6ac076bad1f",
+      "bytes": 1801
+    },
+    {
+      "source": "CANONE_VIGENTE/Materiali_consolidati_364.json",
+      "title": "Materiali consolidati 364",
+      "group": "Materiali 364",
+      "url": "6d0c846a4dae617d.html",
+      "raw": "fonti/6d0c846a4dae617d.json",
+      "sha256": "ecd045c4485765e69be7f031063a1b42d9bbfbd791c8e39e4fb8c9b6f7ab6978",
+      "bytes": 124078
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-017_keran-signal-horn/Prompt.txt",
+      "title": "Prompt",
+      "group": "Materiali 364",
+      "url": "f7f6287ae9765710.html",
+      "raw": "fonti/f7f6287ae9765710.txt",
+      "sha256": "248304ad4916fb1c0c9a5cd861cd1e15c61dde0dc697f33f08117d10eda94427",
+      "bytes": 1128
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-003_fireclay-sleeves/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Materiali 364",
+      "url": "e77c135d027f5c8f.html",
+      "raw": "fonti/e77c135d027f5c8f.json",
+      "sha256": "ad33fc060bc581a5ab3bc2071e9137820deec9c2c1f3b88e68691148cad2a948",
+      "bytes": 1780
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-013_dream-silk/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Materiali 364",
+      "url": "68bce73f0b1f7a29.html",
+      "raw": "fonti/68bce73f0b1f7a29.json",
+      "sha256": "400afd1db105212d691db01a420b659990df58794542c2fb3a0d8baa5e66bbce",
+      "bytes": 1776
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-001_deren-coal/Prompt.txt",
+      "title": "Prompt",
+      "group": "Materiali 364",
+      "url": "5383c3c20d9eea4c.html",
+      "raw": "fonti/5383c3c20d9eea4c.txt",
+      "sha256": "f666f9cb4fefa581123580f3a9112f0d31323097e4afccda5b448267cb915f16",
+      "bytes": 1072
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-009_witness-lacquer/Prompt.txt",
+      "title": "Prompt",
+      "group": "Materiali 364",
+      "url": "45340515f2b19356.html",
+      "raw": "fonti/45340515f2b19356.txt",
+      "sha256": "dd9c94430fedb87906f818c31822261a260d83c97a037df2366325806f7add3e",
+      "bytes": 1117
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-004_ossen-seal-resin/Prompt.txt",
+      "title": "Prompt",
+      "group": "Materiali 364",
+      "url": "2711beb2e649d506.html",
+      "raw": "fonti/2711beb2e649d506.txt",
+      "sha256": "eab4ecfa5fd6ab8f272fb336bf0952f117f6fe17c1ab3d60f920c40f96c25ed8",
+      "bytes": 1080
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-015_tevren-silver-lamina/Prompt.txt",
+      "title": "Prompt",
+      "group": "Materiali 364",
+      "url": "6ed02ed506947ab2.html",
+      "raw": "fonti/6ed02ed506947ab2.txt",
+      "sha256": "9d1a78ce439358d913a5be028a999698a6c5c566f9b352591c9b81d8952cb492",
+      "bytes": 1119
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-016_saura-filter-pith/Prompt.txt",
+      "title": "Prompt",
+      "group": "Materiali 364",
+      "url": "2b4bcc111682ba0f.html",
+      "raw": "fonti/2b4bcc111682ba0f.txt",
+      "sha256": "6f28937c53f62aab84c71b32221081e8aa7a57ded3fe255241647998f2008bbf",
+      "bytes": 1088
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-006_namar-flexible-mesh/Prompt.txt",
+      "title": "Prompt",
+      "group": "Materiali 364",
+      "url": "9b6f38bcadcb0c47.html",
+      "raw": "fonti/9b6f38bcadcb0c47.txt",
+      "sha256": "7f330618c0f03ab08303066a42987976e76355058d4e949b4d21f22cea9c61b8",
+      "bytes": 1082
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-010_reth-load-cable/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Materiali 364",
+      "url": "3c6974aa963552c5.html",
+      "raw": "fonti/3c6974aa963552c5.json",
+      "sha256": "0125a1fafd09d5080fe82bf34f140f411bebdcc716b52b9c48473fd31f363e3d",
+      "bytes": 1750
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-002_karrel-copper/Prompt.txt",
+      "title": "Prompt",
+      "group": "Materiali 364",
+      "url": "8b611395f1d33fbf.html",
+      "raw": "fonti/8b611395f1d33fbf.txt",
+      "sha256": "cafac7ba470243c364e7fb39bc9b50aa61d4e455047aff11bb5e0b38bc8ff295",
+      "bytes": 1102
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-015_tevren-silver-lamina/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Materiali 364",
+      "url": "87a45b44e56d69f5.html",
+      "raw": "fonti/87a45b44e56d69f5.json",
+      "sha256": "694fd57ecbc2a427fb21f9b2c69586ea70a9c3a40489ef2366ed28f3522232a2",
+      "bytes": 1839
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-016_saura-filter-pith/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Materiali 364",
+      "url": "4f1a9693636fcfed.html",
+      "raw": "fonti/4f1a9693636fcfed.json",
+      "sha256": "3d13824fed3a4d2aa011be3029f4cb65abd34183eca5e02a728bd2587fbff5eb",
+      "bytes": 1799
+    },
+    {
+      "source": "PROMPT_MATERIALI_364.txt",
+      "title": "PROMPT MATERIALI 364",
+      "group": "Materiali 364",
+      "url": "4d45e063133003ea.html",
+      "raw": "fonti/4d45e063133003ea.txt",
+      "sha256": "da59f1192c82348bdccf871430a6647fd57d737454d34078350e7dec9438b8b7",
+      "bytes": 20185
+    },
+    {
+      "source": "364_Materiali_e_filiere_approfondimento.md",
+      "title": "364 Materiali e filiere approfondimento",
+      "group": "Materiali 364",
+      "url": "4fa2b1cf79277717.html",
+      "raw": "fonti/4fa2b1cf79277717.md",
+      "sha256": "dcb023c7014495d729c2589a729163f9f6ab662e8eeebf77d2cbc0f5f92c7c4b",
+      "bytes": 1958
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-012_qadra-salt-tolerant-seed/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Materiali 364",
+      "url": "6f4de622fdd9be83.html",
+      "raw": "fonti/6f4de622fdd9be83.json",
+      "sha256": "94e4c17ab219331f39fc6e1b055ea5ae8cd601de08a98e46a6169e26f722c974",
+      "bytes": 1834
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-005_valenne-linen/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Materiali 364",
+      "url": "9b5a5866adb04f3a.html",
+      "raw": "fonti/9b5a5866adb04f3a.json",
+      "sha256": "495d714f3e0d9b22eb796087eb49679c6335d7461e44b580dc65651dd8193df1",
+      "bytes": 1761
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-008_reference-basalt/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Materiali 364",
+      "url": "90059af609d79dae.html",
+      "raw": "fonti/90059af609d79dae.json",
+      "sha256": "195e8b7cbfaada3203f07f46b4a4266ab71e3d8eacc03bee098357a683f88c57",
+      "bytes": 1799
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-018_continuity-ceramic/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Materiali 364",
+      "url": "4d666a4cc1af9d74.html",
+      "raw": "fonti/4d666a4cc1af9d74.json",
+      "sha256": "de8347c6ca5b36891b52285b1b15014681f936af8bfd2e53e02fff9150b04893",
+      "bytes": 1797
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-004_ossen-seal-resin/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Materiali 364",
+      "url": "b0161afab49455d9.html",
+      "raw": "fonti/b0161afab49455d9.json",
+      "sha256": "38cd4f390bca049c2e1f35f116239d3be22628caa0de71e0202a8196035d514f",
+      "bytes": 1788
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-007_velis-optical-glass/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Materiali 364",
+      "url": "c38e4b9e43c52b49.html",
+      "raw": "fonti/c38e4b9e43c52b49.json",
+      "sha256": "e29d8aac9078e7a09ff02c6603c6134704057a74189cb652679a26b6ac47de97",
+      "bytes": 1833
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-008_reference-basalt/Prompt.txt",
+      "title": "Prompt",
+      "group": "Materiali 364",
+      "url": "3a73699c7b892cb1.html",
+      "raw": "fonti/3a73699c7b892cb1.txt",
+      "sha256": "89d0db0154044fde47414bdc2192fd5d7ffb4e722c38aec2e3418fcb65b9a374",
+      "bytes": 1091
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-005_valenne-linen/Prompt.txt",
+      "title": "Prompt",
+      "group": "Materiali 364",
+      "url": "2925c7d78121c6bd.html",
+      "raw": "fonti/2925c7d78121c6bd.txt",
+      "sha256": "d3a54f0ca1b43d4f456d916f87a4cf693955bbf2f5f172d2ab001a16027ab03b",
+      "bytes": 1062
+    },
+    {
+      "source": "CANONE_VIGENTE/Illustrazioni_materiali_364.json",
+      "title": "Illustrazioni materiali 364",
+      "group": "Materiali 364",
+      "url": "e761158e874a1616.html",
+      "raw": "fonti/e761158e874a1616.json",
+      "sha256": "ff1e36ae94e3edf838aad751dc999781af03aba34bda3a4d4cb27fa4c31d568c",
+      "bytes": 33338
+    },
+    {
+      "source": "CANONE_VIGENTE/Audit_materiali_364.json",
+      "title": "Audit materiali 364",
+      "group": "Materiali 364",
+      "url": "3708d77e231f2282.html",
+      "raw": "fonti/3708d77e231f2282.json",
+      "sha256": "6437e60fd5c32eb141fdb07b275ee771e8a1df3a7d5f0a804647d6b748b2c8ae",
+      "bytes": 457
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-007_velis-optical-glass/Prompt.txt",
+      "title": "Prompt",
+      "group": "Materiali 364",
+      "url": "64b181f12cc4e665.html",
+      "raw": "fonti/64b181f12cc4e665.txt",
+      "sha256": "781774acc2f182b027112e244cc2fdd20149cb2aa47c1ce46da1009306c170db",
+      "bytes": 1116
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_364/CANONE_VIGENTE/Oggetti_creature_materiali.json",
+      "title": "Oggetti creature materiali",
+      "group": "Storico prima di 364",
+      "url": "94daab215b1fa722.html",
+      "raw": "fonti/94daab215b1fa722.json",
+      "sha256": "4ae4d21ed0b346290de57d220e66970bb0e8db7a6d30f58493d489e95eacd0b1",
+      "bytes": 904307
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-001_deren-coal/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Materiali 364",
+      "url": "98d998a6077f4e75.html",
+      "raw": "fonti/98d998a6077f4e75.json",
+      "sha256": "6a76ad14ee0fcd47a825338dc8b7ba33b3d5a91abdc9abc90736ce0fe0fef2a9",
+      "bytes": 1762
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_364/23_Registro_unico_del_canone.md",
+      "title": "23 Registro unico del canone",
+      "group": "Storico prima di 364",
+      "url": "b0b9ed1e9d0beec8.html",
+      "raw": "fonti/b0b9ed1e9d0beec8.md",
+      "sha256": "cd66de74c016862a0a858bdebe85f1f91f50742c78ef91bd6a583adfe1a18fce",
+      "bytes": 60023
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-003_fireclay-sleeves/Prompt.txt",
+      "title": "Prompt",
+      "group": "Materiali 364",
+      "url": "a67ace0b9491e8f3.html",
+      "raw": "fonti/a67ace0b9491e8f3.txt",
+      "sha256": "b26c33ce569da06db0324858b52a6afb74f18f627afa0b45baa8604d74ef806e",
+      "bytes": 1072
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/11_Oggetti_creature_e_unita_di_gioco/INDICI_E_DOCUMENTI_CONDIVISI/364_Materiali_e_filiere_approfondimento.md",
+      "title": "364 Materiali e filiere approfondimento",
+      "group": "Materiali 364",
+      "url": "c863a72df37cc9bd.html",
+      "raw": "fonti/c863a72df37cc9bd.md",
+      "sha256": "dcb023c7014495d729c2589a729163f9f6ab662e8eeebf77d2cbc0f5f92c7c4b",
+      "bytes": 1958
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/11_Oggetti_creature_e_unita_di_gioco/RISERVATO/RISERVATO_185_Risorse_materiali_e_filiere.md",
+      "title": "RISERVATO 185 Risorse materiali e filiere",
+      "group": "Materiali 364",
+      "url": "4a39766cfed34ba0.html",
+      "raw": "fonti/4a39766cfed34ba0.md",
+      "sha256": "e80300d63fc64035b9124233ed1347abf00bf8fd79ced02d4815f767d8f56ee0",
+      "bytes": 100943
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_364/RISERVATO_185_Risorse_materiali_e_filiere.md",
+      "title": "RISERVATO 185 Risorse materiali e filiere",
+      "group": "Storico prima di 364",
+      "url": "10c72cbe2768ac62.html",
+      "raw": "fonti/10c72cbe2768ac62.md",
+      "sha256": "f75e5d5f3a0baf36d57faad0d44287836f9198a8a6650cb48ee1aede85ea62d9",
+      "bytes": 36613
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-013_dream-silk/Prompt.txt",
+      "title": "Prompt",
+      "group": "Materiali 364",
+      "url": "f3363ac5c6b91e12.html",
+      "raw": "fonti/f3363ac5c6b91e12.txt",
+      "sha256": "675690a12930dffceab8cc2ef60cf14b31a5982bf7b26a46c76240f5a9364a73",
+      "bytes": 1086
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/11_Oggetti_creature_e_unita_di_gioco/DATI/Materiali_consolidati_364.json",
+      "title": "Materiali consolidati 364",
+      "group": "Materiali 364",
+      "url": "018b78ab37c1c541.html",
+      "raw": "fonti/018b78ab37c1c541.json",
+      "sha256": "ecd045c4485765e69be7f031063a1b42d9bbfbd791c8e39e4fb8c9b6f7ab6978",
+      "bytes": 124078
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-018_continuity-ceramic/Prompt.txt",
+      "title": "Prompt",
+      "group": "Materiali 364",
+      "url": "dc1e0e86a5635c36.html",
+      "raw": "fonti/dc1e0e86a5635c36.txt",
+      "sha256": "28fc15cd27ffbc21b483019c7467609930d356a682a6193f7425f31e07ad7bea",
+      "bytes": 1136
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-006_namar-flexible-mesh/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Materiali 364",
+      "url": "204cfd6fcc9025e6.html",
+      "raw": "fonti/204cfd6fcc9025e6.json",
+      "sha256": "e8b34d6115295c8bfa22d55624c374d82488023171f4755981b3314a17f8aed1",
+      "bytes": 1799
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-011_invested-stone-fragments/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Materiali 364",
+      "url": "459d45135557fb2f.html",
+      "raw": "fonti/459d45135557fb2f.json",
+      "sha256": "b27e51a88b178068c4ec18f25a07c2d03d4f25b8dcd0bb2678d6650732699f5a",
+      "bytes": 1827
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-009_witness-lacquer/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Materiali 364",
+      "url": "52ea644ede23c12b.html",
+      "raw": "fonti/52ea644ede23c12b.json",
+      "sha256": "aa485fac2f0e4e8cd892454db647af768f838a18be1a2a1522c3f2c24e2fccbb",
+      "bytes": 1822
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-010_reth-load-cable/Prompt.txt",
+      "title": "Prompt",
+      "group": "Materiali 364",
+      "url": "26d8dae30d757ef0.html",
+      "raw": "fonti/26d8dae30d757ef0.txt",
+      "sha256": "685a21cbcfc8e5cde79ac1782143d656cc23de34e88aa05fd7b6371ec0383f41",
+      "bytes": 1045
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-012_qadra-salt-tolerant-seed/Prompt.txt",
+      "title": "Prompt",
+      "group": "Materiali 364",
+      "url": "16ad16c890ac1081.html",
+      "raw": "fonti/16ad16c890ac1081.txt",
+      "sha256": "b9ec929c1d3bd2bacf4e02153f65e452355f331f8505961cbff87890de4e1a73",
+      "bytes": 1102
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-014_noran-black-felt/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Materiali 364",
+      "url": "61da54bb77da0903.html",
+      "raw": "fonti/61da54bb77da0903.json",
+      "sha256": "a21e4c960bbd0d709172598cead109bcbe4f5bd275442d27631f38f9d4ad4be7",
+      "bytes": 1771
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-017_keran-signal-horn/Scheda_immagine.json",
+      "title": "Scheda immagine",
+      "group": "Materiali 364",
+      "url": "35ac9c1b395c3c30.html",
+      "raw": "fonti/35ac9c1b395c3c30.json",
+      "sha256": "de05cba68d8f8d087db95825d1c621c11f5bbba9263b603b42806bcd6cb9c252",
+      "bytes": 1811
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-011_invested-stone-fragments/Prompt.txt",
+      "title": "Prompt",
+      "group": "Materiali 364",
+      "url": "4dbf22cf5420ac46.html",
+      "raw": "fonti/4dbf22cf5420ac46.txt",
+      "sha256": "5ed56aeeefb880bc7accbb17f862aa1ef08c4fddb92a229fcb63d22812f491ae",
+      "bytes": 1130
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",

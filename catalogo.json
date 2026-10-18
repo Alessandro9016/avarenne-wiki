@@ -1372,7 +1372,7 @@
     "title": "Campioni materiali — tavola 1",
     "kind": "Tavole dei materiali",
     "url": "mat-board-01-campioni-materiali-tavola-1.html",
-    "bytes": 7479,
+    "bytes": 7850,
     "image_count": 1
   },
   {
@@ -1380,7 +1380,7 @@
     "title": "Campioni materiali — tavola 2",
     "kind": "Tavole dei materiali",
     "url": "mat-board-02-campioni-materiali-tavola-2.html",
-    "bytes": 7531,
+    "bytes": 7902,
     "image_count": 1
   },
   {
@@ -1388,7 +1388,7 @@
     "title": "Campioni materiali — tavola 3",
     "kind": "Tavole dei materiali",
     "url": "mat-board-03-campioni-materiali-tavola-3.html",
-    "bytes": 7501,
+    "bytes": 7872,
     "image_count": 1
   },
   {
@@ -1924,8 +1924,8 @@
     "title": "Continuity Ceramic",
     "kind": "Materiali",
     "url": "mat-018-continuity-ceramic.html",
-    "bytes": 9343,
-    "image_count": 2
+    "bytes": 15581,
+    "image_count": 1
   },
   {
     "id": "NET-C10-36",
@@ -2428,7 +2428,7 @@
     "title": "Deren",
     "kind": "Luoghi",
     "url": "loc-006-deren.html",
-    "bytes": 10691,
+    "bytes": 10933,
     "image_count": 3
   },
   {
@@ -2436,8 +2436,8 @@
     "title": "Deren Coal",
     "kind": "Materiali",
     "url": "mat-001-deren-coal.html",
-    "bytes": 9260,
-    "image_count": 2
+    "bytes": 14791,
+    "image_count": 1
   },
   {
     "id": "CAST-015",
@@ -2612,8 +2612,8 @@
     "title": "Dream Silk",
     "kind": "Materiali",
     "url": "mat-013-dream-silk.html",
-    "bytes": 9340,
-    "image_count": 2
+    "bytes": 14638,
+    "image_count": 1
   },
   {
     "id": "DUCATO-ROVENNE",
@@ -2772,7 +2772,7 @@
     "title": "Edris",
     "kind": "Luoghi",
     "url": "loc-054-edris.html",
-    "bytes": 9388,
+    "bytes": 9654,
     "image_count": 2
   },
   {
@@ -2924,7 +2924,7 @@
     "title": "Elven",
     "kind": "Luoghi",
     "url": "loc-015-elven.html",
-    "bytes": 10247,
+    "bytes": 10501,
     "image_count": 3
   },
   {
@@ -3308,8 +3308,8 @@
     "title": "Fireclay Sleeves",
     "kind": "Materiali",
     "url": "mat-003-fireclay-sleeves.html",
-    "bytes": 9400,
-    "image_count": 2
+    "bytes": 14808,
+    "image_count": 1
   },
   {
     "id": "CULT-02-BR-01",
@@ -3364,8 +3364,8 @@
     "title": "Galleria illustrata",
     "kind": "Indici",
     "url": "galleria-illustrata.html",
-    "bytes": 376165,
-    "image_count": 760
+    "bytes": 382137,
+    "image_count": 775
   },
   {
     "id": "CAST-107",
@@ -3556,7 +3556,7 @@
     "title": "Grey Embankment",
     "kind": "Luoghi",
     "url": "loc-032-grey-embankment.html",
-    "bytes": 9262,
+    "bytes": 9528,
     "image_count": 2
   },
   {
@@ -4020,7 +4020,7 @@
     "title": "Indice generale A–Z",
     "kind": "Indici",
     "url": "indice-generale.html",
-    "bytes": 123537,
+    "bytes": 123541,
     "image_count": 0
   },
   {
@@ -4156,8 +4156,8 @@
     "title": "Invested Stone Fragments",
     "kind": "Materiali",
     "url": "mat-011-invested-stone-fragments.html",
-    "bytes": 9312,
-    "image_count": 2
+    "bytes": 14685,
+    "image_count": 1
   },
   {
     "id": "TERM-investment",
@@ -4452,7 +4452,7 @@
     "title": "Karrel",
     "kind": "Luoghi",
     "url": "loc-011-karrel.html",
-    "bytes": 10352,
+    "bytes": 10600,
     "image_count": 3
   },
   {
@@ -4460,8 +4460,8 @@
     "title": "Karrel Copper",
     "kind": "Materiali",
     "url": "mat-002-karrel-copper.html",
-    "bytes": 9249,
-    "image_count": 2
+    "bytes": 14969,
+    "image_count": 1
   },
   {
     "id": "CAST-566",
@@ -4524,7 +4524,7 @@
     "title": "Keran",
     "kind": "Luoghi",
     "url": "loc-055-keran.html",
-    "bytes": 9525,
+    "bytes": 9784,
     "image_count": 2
   },
   {
@@ -4532,8 +4532,8 @@
     "title": "Keran Signal Horn",
     "kind": "Materiali",
     "url": "mat-017-keran-signal-horn.html",
-    "bytes": 9115,
-    "image_count": 2
+    "bytes": 14345,
+    "image_count": 1
   },
   {
     "id": "STATE-23",
@@ -4548,7 +4548,7 @@
     "title": "Kessel",
     "kind": "Luoghi",
     "url": "loc-013-kessel.html",
-    "bytes": 9872,
+    "bytes": 10225,
     "image_count": 2
   },
   {
@@ -5353,11 +5353,11 @@
   },
   {
     "id": "CAT-materiali",
-    "title": "Materiali",
-    "kind": "Indici tematici",
+    "title": "Materiali e filiere",
+    "kind": "Materiali",
     "url": "materiali.html",
-    "bytes": 13152,
-    "image_count": 21
+    "bytes": 14130,
+    "image_count": 18
   },
   {
     "id": "CAST-521",
@@ -5540,7 +5540,7 @@
     "title": "Mersa",
     "kind": "Luoghi",
     "url": "loc-049-mersa.html",
-    "bytes": 9652,
+    "bytes": 9888,
     "image_count": 2
   },
   {
@@ -5716,7 +5716,7 @@
     "title": "Namar",
     "kind": "Luoghi",
     "url": "loc-016-namar.html",
-    "bytes": 11487,
+    "bytes": 11748,
     "image_count": 3
   },
   {
@@ -5724,8 +5724,8 @@
     "title": "Namar Flexible Mesh",
     "kind": "Materiali",
     "url": "mat-006-namar-flexible-mesh.html",
-    "bytes": 9473,
-    "image_count": 2
+    "bytes": 14983,
+    "image_count": 1
   },
   {
     "id": "LOC-028",
@@ -6060,7 +6060,7 @@
     "title": "Noran",
     "kind": "Luoghi",
     "url": "loc-051-noran.html",
-    "bytes": 9780,
+    "bytes": 10027,
     "image_count": 2
   },
   {
@@ -6068,8 +6068,8 @@
     "title": "Noran Black Felt",
     "kind": "Materiali",
     "url": "mat-014-noran-black-felt.html",
-    "bytes": 9140,
-    "image_count": 2
+    "bytes": 14169,
+    "image_count": 1
   },
   {
     "id": "SITE-09",
@@ -6404,8 +6404,8 @@
     "title": "Ossen Seal Resin",
     "kind": "Materiali",
     "url": "mat-004-ossen-seal-resin.html",
-    "bytes": 9524,
-    "image_count": 2
+    "bytes": 14817,
+    "image_count": 1
   },
   {
     "id": "CAST-064",
@@ -6764,7 +6764,7 @@
     "title": "Qadra",
     "kind": "Luoghi",
     "url": "loc-042-qadra.html",
-    "bytes": 9791,
+    "bytes": 10057,
     "image_count": 3
   },
   {
@@ -6772,8 +6772,8 @@
     "title": "Qadra Salt-Tolerant Seed",
     "kind": "Materiali",
     "url": "mat-012-qadra-salt-tolerant-seed.html",
-    "bytes": 9491,
-    "image_count": 2
+    "bytes": 14774,
+    "image_count": 1
   },
   {
     "id": "CAST-266",
@@ -6868,8 +6868,8 @@
     "title": "Reference Basalt",
     "kind": "Materiali",
     "url": "mat-008-reference-basalt.html",
-    "bytes": 9470,
-    "image_count": 2
+    "bytes": 14864,
+    "image_count": 1
   },
   {
     "id": "DOC-111",
@@ -7036,8 +7036,8 @@
     "title": "Reth Load Cable",
     "kind": "Materiali",
     "url": "mat-010-reth-load-cable.html",
-    "bytes": 9182,
-    "image_count": 2
+    "bytes": 14329,
+    "image_count": 1
   },
   {
     "id": "LOC-012",
@@ -7124,7 +7124,7 @@
     "title": "Risorse, materiali e filiere",
     "kind": "Approfondimenti",
     "url": "doc-185-risorse-materiali-e-filiere.html",
-    "bytes": 51823,
+    "bytes": 113272,
     "image_count": 0
   },
   {
@@ -7420,7 +7420,7 @@
     "title": "Sarn Gate",
     "kind": "Luoghi",
     "url": "loc-007-sarn-gate.html",
-    "bytes": 10690,
+    "bytes": 10944,
     "image_count": 3
   },
   {
@@ -7436,7 +7436,7 @@
     "title": "Saura",
     "kind": "Luoghi",
     "url": "loc-045-saura.html",
-    "bytes": 9631,
+    "bytes": 9890,
     "image_count": 2
   },
   {
@@ -7444,8 +7444,8 @@
     "title": "Saura Filter Pith",
     "kind": "Materiali",
     "url": "mat-016-saura-filter-pith.html",
-    "bytes": 9129,
-    "image_count": 2
+    "bytes": 14980,
+    "image_count": 1
   },
   {
     "id": "CAST-149",
@@ -8340,7 +8340,7 @@
     "title": "Teshen",
     "kind": "Luoghi",
     "url": "loc-038-teshen.html",
-    "bytes": 9438,
+    "bytes": 9692,
     "image_count": 2
   },
   {
@@ -8380,7 +8380,7 @@
     "title": "Tevren",
     "kind": "Luoghi",
     "url": "loc-058-tevren.html",
-    "bytes": 10020,
+    "bytes": 10279,
     "image_count": 3
   },
   {
@@ -8388,8 +8388,8 @@
     "title": "Tevren Silver Lamina",
     "kind": "Materiali",
     "url": "mat-015-tevren-silver-lamina.html",
-    "bytes": 9207,
-    "image_count": 2
+    "bytes": 14485,
+    "image_count": 1
   },
   {
     "id": "SITE-10",
@@ -10380,7 +10380,7 @@
     "title": "Valenne",
     "kind": "Luoghi",
     "url": "loc-008-valenne.html",
-    "bytes": 9334,
+    "bytes": 9574,
     "image_count": 2
   },
   {
@@ -10388,8 +10388,8 @@
     "title": "Valenne Linen",
     "kind": "Materiali",
     "url": "mat-005-valenne-linen.html",
-    "bytes": 9123,
-    "image_count": 2
+    "bytes": 14733,
+    "image_count": 1
   },
   {
     "id": "CAST-350",
@@ -10540,7 +10540,7 @@
     "title": "Velis",
     "kind": "Luoghi",
     "url": "loc-024-velis.html",
-    "bytes": 10097,
+    "bytes": 10348,
     "image_count": 2
   },
   {
@@ -10548,8 +10548,8 @@
     "title": "Velis Optical Glass",
     "kind": "Materiali",
     "url": "mat-007-velis-optical-glass.html",
-    "bytes": 9210,
-    "image_count": 2
+    "bytes": 14753,
+    "image_count": 1
   },
   {
     "id": "BST-018",
@@ -10876,8 +10876,8 @@
     "title": "Witness Lacquer",
     "kind": "Materiali",
     "url": "mat-009-witness-lacquer.html",
-    "bytes": 9188,
-    "image_count": 2
+    "bytes": 14457,
+    "image_count": 1
   },
   {
     "id": "CULT-01-BR-01",

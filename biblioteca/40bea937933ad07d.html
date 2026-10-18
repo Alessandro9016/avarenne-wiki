@@ -6628,7 +6628,80 @@
       &quot;current&quot;: &quot;Fornitura rallentata dal pozzo ventilato, non esaurimento cosmico.&quot;,
       &quot;unit&quot;: &quot;U11-02&quot;,
       &quot;incorporation&quot;: false,
-      &quot;future_outcome&quot;: &quot;OPEN&quot;
+      &quot;future_outcome&quot;: &quot;OPEN&quot;,
+      &quot;category&quot;: &quot;Combustibile minerale&quot;,
+      &quot;appearance&quot;: &quot;Pezzi neri dalla frattura irregolare, con superfici alternativamente opache e lucide; la pezzatura distingue il carico da forno dal minuto destinato ad altri impieghi. Polvere e acqua aggiungono peso senza rappresentare la stessa quantità di combustibile utile.&quot;,
+      &quot;properties&quot;: &quot;Il valore del carbone dipende da quanto calore utile fornisce nella lavorazione prevista, dalla regolarità del lotto e dai residui che lascia. Il colore nero non certifica una classe costante. Una partita adatta a una caldaia può essere scomoda in una fornace con alimentazione e tiraggio differenti.&quot;,
+      &quot;processing&quot;: [
+        &quot;L’estrazione deve mantenere accessi, drenaggio e ventilazione: aumentare i carri in uscita non rimuove un limite del pozzo.&quot;,
+        &quot;La selezione separa pezzatura, materiale estraneo e lotti con diversa umidità; miscelarli rende meno rappresentativo il campione iniziale.&quot;,
+        &quot;Deposito e trasporto devono mantenere riconoscibile la partita, senza confondere materiale caduto dai carri con una nuova consegna certificata.&quot;
+      ],
+      &quot;checks&quot;: [
+        &quot;Pesare e confrontare campioni in condizioni di umidità dichiarate: una pesata di merce bagnata non equivale a una misura di combustibile utile.&quot;,
+        &quot;Eseguire una prova calorica comparabile e registrare le ceneri, senza dedurre la resa dalla sola lucentezza.&quot;,
+        &quot;Prelevare da punti diversi del carico: una superficie scelta dal venditore può nascondere una miscela interna peggiore.&quot;
+      ],
+      &quot;examples&quot;: [
+        &quot;Una fornace usa la partita per cuocere manicotti: serve mantenere un ciclo ripetibile, non dimostrare che il carbone sia occulto.&quot;,
+        &quot;Una caldaia riceve una miscela più umida e richiede più carico per lo stesso servizio; il problema riguarda resa e conduzione dell’impianto.&quot;,
+        &quot;Un deposito separa il minuto polveroso dal materiale per i carri, cambiando gestione e prezzo di quel sottolotto.&quot;
+      ],
+      &quot;storage&quot;: &quot;Gli accumuli vanno gestiti tenendo conto di umidità, polvere e ventilazione del deposito. Un sacco asciutto in superficie non prova che l’interno del carico lo sia. La riconsegna di residui richiede una nuova classificazione: il nome Deren non ripristina la qualità perduta.&quot;,
+      &quot;magic&quot;: &quot;Il carbone può fornire energia materiale a una lavorazione Crucible o a un forno che prepara supporti. Bruciarlo non conferisce Crucible e non rifornisce qualsiasi artefatto per contatto. Carbone creato da Cradle può essere combustibile reale se possiede le proprietà richieste; non diventa carbone estratto da quel pozzo come fatto storico.&quot;,
+      &quot;economy&quot;: &quot;Il fermo di ventilazione colpisce minatori, trasporto e officine con scorte diverse. Confrontare prezzo, pezzatura e peso utile evita di chiamare frode qualsiasi aumento del costo. Rischio di estrazione e rendimento del lotto restano questioni separate.&quot;,
+      &quot;visual&quot;: &quot;A close tactile specimen of irregular black coal lumps with matte and glossy fracture faces and loose coal dust, in a worn wooden mine sampling tray beside a dark canvas sack, warm distant mine lantern, the coal itself completely non-luminous. No gemstones.&quot;,
+      &quot;revision&quot;: 364,
+      &quot;continent&quot;: &quot;Mereth&quot;,
+      &quot;wiki_url&quot;: &quot;mat-001-deren-coal.html&quot;,
+      &quot;situation&quot;: {
+        &quot;id&quot;: &quot;U11-02&quot;,
+        &quot;name&quot;: &quot;Air for the Next Shift&quot;,
+        &quot;location_id&quot;: &quot;LOC-006&quot;,
+        &quot;location&quot;: &quot;Deren&quot;,
+        &quot;activation&quot;: &quot;Critico&quot;,
+        &quot;narrative_function&quot;: &quot;Pressione industriale con soluzione tecnica reale.&quot;,
+        &quot;current&quot;: &quot;La squadra usa bypass, turni ridotti e misure del gas. La resina gonfia mantiene incerto il ramo secondario; non si mandano tutti i minatori nel pozzo per attendere il PG.&quot;,
+        &quot;conflict&quot;: &quot;Garantire aria senza nascondere perdita di reddito o fermare anche rami sicuri.&quot;,
+        &quot;forces&quot;: [
+          {
+            &quot;actor&quot;: &quot;CAST-242&quot;,
+            &quot;wants&quot;: &quot;Salute del familiare e salario durante fermo.&quot;,
+            &quot;fears&quot;: &quot;Scelta fra fame e rischio.&quot;,
+            &quot;limits&quot;: &quot;Ordinario, non modifica la valvola investita.&quot;
+          },
+          {
+            &quot;actor&quot;: null,
+            &quot;role&quot;: &quot;Squadra di manutenzione del pozzo&quot;,
+            &quot;wants&quot;: &quot;Guarnizione e ventilazione provate.&quot;,
+            &quot;fears&quot;: &quot;Blocco dell’unico bypass.&quot;,
+            &quot;limits&quot;: &quot;Non può creare ossigeno con Pressure Gradient.&quot;
+          }
+        ],
+        &quot;secret&quot;: &quot;Certificazione a secco valida; fornitore omise prova umida. Non prova di avvelenamento volontario.&quot;,
+        &quot;hooks&quot;: [
+          &quot;La guardia del pozzo mostra un giunto gonfio e chiede confronto con la partita.&quot;,
+          &quot;Un familiare presenta una busta paga ridotta con l’avviso di fermo.&quot;
+        ],
+        &quot;with_intervention&quot;: &quot;Sostituzione, flusso alternativo, accordo salariale o soccorso cambiano condizioni. Un potere capace può creare o riparare realmente il componente senza dover cercare per forza il venditore.&quot;,
+        &quot;without_intervention&quot;: &quot;Direzione limita settore e chiede sostituzione; lavoratori contrattano compenso. Rischio aumenta solo se si riapre senza prova o il bypass si guasta.&quot;,
+        &quot;time_pressure&quot;: &quot;Prossimo turno del 20 maggio, condizionato all’esito delle misure; nessuna strage automatica.&quot;,
+        &quot;impact&quot;: &quot;🟠&quot;,
+        &quot;narrator_material&quot;: {
+          &quot;scene&quot;: &quot;Manometro corretto sul ramo principale, aria insufficiente al ramo basso e resina aperta sul tavolo.&quot;,
+          &quot;complication&quot;: &quot;Eliminare la magia prima del bypass può togliere aria anche al ramo sano.&quot;,
+          &quot;optional_twist&quot;: &quot;Il fornitore accetta ritiro della partita ma contesta il danno salariale.&quot;
+        },
+        &quot;future_outcome&quot;: &quot;OPEN&quot;,
+        &quot;components&quot;: [
+          &quot;ART-002&quot;,
+          &quot;MAT-001&quot;,
+          &quot;MAT-004&quot;,
+          &quot;CRE-002&quot;,
+          &quot;PHN-002&quot;
+        ]
+      },
+      &quot;visual_caption&quot;: &quot;Campione illustrativo di Deren Coal. Forma, colore e finitura aiutano a riconoscere il materiale; non certificano da soli purezza, provenienza o investimento.&quot;
     },
     {
       &quot;id&quot;: &quot;MAT-002&quot;,
@@ -6645,7 +6718,84 @@
       &quot;current&quot;: &quot;Campionatura controversa delle partite IND-02.&quot;,
       &quot;unit&quot;: &quot;U11-03&quot;,
       &quot;incorporation&quot;: false,
-      &quot;future_outcome&quot;: &quot;OPEN&quot;
+      &quot;future_outcome&quot;: &quot;OPEN&quot;,
+      &quot;category&quot;: &quot;Metallo non investito&quot;,
+      &quot;appearance&quot;: &quot;Il rame appena lavorato mostra toni rosso-arancio; superfici esposte possono avere patine più scure o verdastre. Il materiale circola come concentrato, lingotto, lamiera e filo: una forma comoda per l’officina non dimostra da sola purezza o provenienza.&quot;,
+      &quot;properties&quot;: &quot;Conduzione, lavorabilità e regolarità del pezzo interessano usi diversi. Una crosta pulita può rivestire un interno difettoso; un filo continuo può comunque provenire da una lega inadatta al servizio previsto. Ottone e rame non sono nomi intercambiabili: la lega richiede componenti e una lavorazione propri.&quot;,
+      &quot;processing&quot;: [
+        &quot;Separare il minerale utile dal materiale di cava prima di confondere peso estratto e metallo ottenuto.&quot;,
+        &quot;Fusione e separazione delle scorie producono lotti da identificare; il riuso di rottami va dichiarato invece di essere nascosto sotto una superficie nuova.&quot;,
+        &quot;Laminazione, trafilatura o lega preparano forme differenti, da provare per l’impiego effettivo e non soltanto per l’aspetto.&quot;
+      ],
+      &quot;checks&quot;: [
+        &quot;Prelevare anche un campione interno, confrontandolo con quello di superficie e con il saggio chimico.&quot;,
+        &quot;Usare ART-003 secondo capacità e limiti: il risultato non sostituisce la storia del carico o un controllo dei difetti interni.&quot;,
+        &quot;Provare il pezzo nella funzione prevista, distinguendo composizione della lega e autenticità di una marca investita.&quot;
+      ],
+      &quot;examples&quot;: [
+        &quot;Un’officina ricava una cornice che deve conservare geometria durante il montaggio, poi la investe separatamente.&quot;,
+        &quot;Un elettricista confronta due fili e respinge quello non conforme al servizio anche se il colore è convincente.&quot;,
+        &quot;Un laboratorio ricicla rame di recupero dopo aver separato parti ancora investite e identificato la composizione.&quot;
+      ],
+      &quot;storage&quot;: &quot;Separare forme e leghe riduce scambi accidentali di lotto. Patina, unto o pulitura recente non sono prove definitive di età. La custodia di rottami investiti richiede una diagnosi prima della fusione, perché distruggere la forma metallica può alterare un rapporto ancora operativo.&quot;,
+      &quot;magic&quot;: &quot;Il metallo può condurre un esercizio predisposto ma non contiene per natura una quota di Tempest, Chain o Astrolabe. Un rame creato autenticamente può essere idoneo alla lavorazione; non ricostruisce la provenienza di una cerniera antica o il suo investimento consumato.&quot;,
+      &quot;economy&quot;: &quot;Karrel è un nodo estrattivo e commerciale, non il proprietario metafisico di ogni pezzo di rame. La disputa sulle partite riguarda campioni, trasporto e responsabilità del servizio; una carenza può colpire prima fili o semilavorati, anche se esiste ancora metallo grezzo.&quot;,
+      &quot;visual&quot;: &quot;Distinct copper material still life: reddish orange copper ingot with a fresh cut face, a short coil of fine copper wire and a small piece of ore-bearing rock, restrained green oxidation only on an old edge, metal workshop daylight. Copper is the clear dominant subject, no magical glow.&quot;,
+      &quot;revision&quot;: 364,
+      &quot;continent&quot;: &quot;Mereth&quot;,
+      &quot;wiki_url&quot;: &quot;mat-002-karrel-copper.html&quot;,
+      &quot;situation&quot;: {
+        &quot;id&quot;: &quot;U11-03&quot;,
+        &quot;name&quot;: &quot;A Load That Looks Pure&quot;,
+        &quot;location_id&quot;: &quot;LOC-011&quot;,
+        &quot;location&quot;: &quot;Karrel&quot;,
+        &quot;activation&quot;: &quot;Attivo&quot;,
+        &quot;narrative_function&quot;: &quot;Filiera e responsabilità materiale.&quot;,
+        &quot;current&quot;: &quot;Il campione superficiale del rame risulta puro, quello interno no. A Kessel, in un modulo distinto, la spedizione termica resta sospesa fino a prova dei manicotti.&quot;,
+        &quot;conflict&quot;: &quot;Consegnare in tempo senza fingere che una sola certificazione copra tutti i campioni e impieghi.&quot;,
+        &quot;forces&quot;: [
+          {
+            &quot;actor&quot;: &quot;CAST-198&quot;,
+            &quot;wants&quot;: &quot;Recupero del credito di filiera senza finanziamento di frode.&quot;,
+            &quot;fears&quot;: &quot;Confondere autenticità dei documenti e qualità della merce.&quot;,
+            &quot;limits&quot;: &quot;Creditore a Lethorne, comunica per canali ordinari; non perito di rame.&quot;
+          },
+          {
+            &quot;actor&quot;: null,
+            &quot;role&quot;: &quot;Tecnici locali di Karrel e Kessel, équipe separate&quot;,
+            &quot;wants&quot;: &quot;Campioni rappresentativi e imballaggi sicuri.&quot;,
+            &quot;fears&quot;: &quot;Perdita di combustibile e lavoro.&quot;,
+            &quot;limits&quot;: &quot;Non conoscono automaticamente le prove dell’altra città.&quot;
+          }
+        ],
+        &quot;secret&quot;: &quot;Scorie nascoste da rivestimento; il calore della Mantle è un secondo difetto separato. Non un colpevole unico obbligatorio.&quot;,
+        &quot;hooks&quot;: [
+          &quot;A Karrel un magazzino mette a disposizione lingotto tagliato e campione certificato.&quot;,
+          &quot;A Kessel una cassa calda è respinta prima di essere caricata sul treno.&quot;
+        ],
+        &quot;with_intervention&quot;: &quot;Saggio, trasmutazione pertinente, separazione, sostituzione o scarica sicura rendono lotti utilizzabili; titoli civili e compensi restano questioni di prova.&quot;,
+        &quot;without_intervention&quot;: &quot;Lotti segregati, campioni nuovi, fornitore sostituito se rifiuta test. Le officine consumano scorte o rinviano ordini, senza catastrofe predefinita.&quot;,
+        &quot;time_pressure&quot;: &quot;Controllo delle partite IND-02 il 2 luglio; spedizione successiva dipende dal test, nessun viaggio immediato fra città.&quot;,
+        &quot;impact&quot;: &quot;🟡&quot;,
+        &quot;narrator_material&quot;: {
+          &quot;scene&quot;: &quot;Il lingotto aperto rivela nucleo scuro mentre il puntale dà lo stesso responso corretto sul campione lucidato.&quot;,
+          &quot;complication&quot;: &quot;Conseguenza tecnica eliminabile con potere autentico, ma parte della partita è già stata rivenduta.&quot;,
+          &quot;optional_twist&quot;: &quot;Il venditore di resina ammette il problema prima del creditore, per salvare la propria reputazione.&quot;
+        },
+        &quot;future_outcome&quot;: &quot;OPEN&quot;,
+        &quot;components&quot;: [
+          &quot;ART-003&quot;,
+          &quot;ART-004&quot;,
+          &quot;ART-014&quot;,
+          &quot;MAT-002&quot;,
+          &quot;MAT-003&quot;,
+          &quot;CRE-004&quot;,
+          &quot;CRE-007&quot;,
+          &quot;PEO-04&quot;,
+          &quot;PHN-003&quot;
+        ]
+      },
+      &quot;visual_caption&quot;: &quot;Campione illustrativo di Karrel Copper. Forma, colore e finitura aiutano a riconoscere il materiale; non certificano da soli purezza, provenienza o investimento.&quot;
     },
     {
       &quot;id&quot;: &quot;MAT-003&quot;,
@@ -6662,7 +6812,84 @@
       &quot;current&quot;: &quot;Sostituzione dei manicotti prima di spedire Mantles.&quot;,
       &quot;unit&quot;: &quot;U11-03&quot;,
       &quot;incorporation&quot;: false,
-      &quot;future_outcome&quot;: &quot;OPEN&quot;
+      &quot;future_outcome&quot;: &quot;OPEN&quot;,
+      &quot;category&quot;: &quot;Ceramica refrattaria&quot;,
+      &quot;appearance&quot;: &quot;Manicotti cotti di colore ocra chiaro, dalla superficie granulosa e dal bordo più ruvido di una porcellana tecnica. Un campione spezzato permette di vedere porosità e inclusioni. Le forme ad anello o a tubo appartengono al componente, non a un talismano.&quot;,
+      &quot;properties&quot;: &quot;Il materiale separa superfici e aiuta a gestire calore entro il servizio provato. Spessore, continuità e ciclo di cottura contano quanto la composizione. Non è indistruttibile: una fessura sottile può rendere inaffidabile un pezzo che conserva ancora una buona forma esterna.&quot;,
+      &quot;processing&quot;: [
+        &quot;La cava e l’impasto devono fornire una miscela riconoscibile, senza nascondere corpi estranei sotto uno strato liscio.&quot;,
+        &quot;La formatura prepara la geometria del manicotto e lascia il margine richiesto dalla cottura e dal montaggio.&quot;,
+        &quot;La cottura è seguita da controllo e prova caldo/freddo; lucidare un pezzo fuori ciclo non ne corregge l’interno.&quot;
+      ],
+      &quot;checks&quot;: [
+        &quot;Confrontare peso e porosità di campioni equivalenti, cercando differenze interne non spiegate dalla forma.&quot;,
+        &quot;Esaminare bordi e superficie dopo un ciclo di prova dichiarato, senza usare un solo esemplare integro per certificare ogni consegna.&quot;,
+        &quot;Verificare misura e appoggio sul componente reale: un manicotto buono della misura sbagliata può lasciare un contatto termico indesiderato.&quot;
+      ],
+      &quot;examples&quot;: [
+        &quot;Un imballo mantiene separata una matrice carica dalle merci grazie a distanze e manicotti adatti.&quot;,
+        &quot;Un addetto sostituisce un anello fessurato prima della spedizione del Mantle, preservando accesso al comando.&quot;,
+        &quot;Un ricambio troppo poroso assorbe umidità e fallisce la prova prevista, benché assomigli agli altri.&quot;
+      ],
+      &quot;storage&quot;: &quot;Urti di carico e scarico possono danneggiare il lotto prima dell’uso. I pezzi provati vanno distinti da quelli ritirati o rotti. Polvere di lavorazione e frammenti richiedono una gestione materiale propria: il termine refrattario non li rende innocui da respirare.&quot;,
+      &quot;magic&quot;: &quot;La ceramica ordinaria non nega l’autorità di Crucible né protegge da ogni esercizio termico. Se Cradle o una trasmutazione pertinente ricreano il manicotto, servono struttura e prova corrette; la copia del profilo esterno non certifica il comportamento sotto carico.&quot;,
+      &quot;economy&quot;: &quot;La dipendenza da fornaci, combustibile e controlli crea un collo di bottiglia diverso dalla disponibilità dell’argilla. Un lotto economico ma non provato può fermare la spedizione di strumenti molto più costosi.&quot;,
+      &quot;visual&quot;: &quot;Several pale ochre fireclay insulating sleeves and thick short ceramic rings on a furnace maintenance bench, one broken sample showing coarse porous cross-section, rough heat-worn texture and a few crumbs. Not porcelain, not metal, no occult sigils or glow.&quot;,
+      &quot;revision&quot;: 364,
+      &quot;continent&quot;: &quot;Mereth&quot;,
+      &quot;wiki_url&quot;: &quot;mat-003-fireclay-sleeves.html&quot;,
+      &quot;situation&quot;: {
+        &quot;id&quot;: &quot;U11-03&quot;,
+        &quot;name&quot;: &quot;A Load That Looks Pure&quot;,
+        &quot;location_id&quot;: &quot;LOC-011&quot;,
+        &quot;location&quot;: &quot;Karrel&quot;,
+        &quot;activation&quot;: &quot;Attivo&quot;,
+        &quot;narrative_function&quot;: &quot;Filiera e responsabilità materiale.&quot;,
+        &quot;current&quot;: &quot;Il campione superficiale del rame risulta puro, quello interno no. A Kessel, in un modulo distinto, la spedizione termica resta sospesa fino a prova dei manicotti.&quot;,
+        &quot;conflict&quot;: &quot;Consegnare in tempo senza fingere che una sola certificazione copra tutti i campioni e impieghi.&quot;,
+        &quot;forces&quot;: [
+          {
+            &quot;actor&quot;: &quot;CAST-198&quot;,
+            &quot;wants&quot;: &quot;Recupero del credito di filiera senza finanziamento di frode.&quot;,
+            &quot;fears&quot;: &quot;Confondere autenticità dei documenti e qualità della merce.&quot;,
+            &quot;limits&quot;: &quot;Creditore a Lethorne, comunica per canali ordinari; non perito di rame.&quot;
+          },
+          {
+            &quot;actor&quot;: null,
+            &quot;role&quot;: &quot;Tecnici locali di Karrel e Kessel, équipe separate&quot;,
+            &quot;wants&quot;: &quot;Campioni rappresentativi e imballaggi sicuri.&quot;,
+            &quot;fears&quot;: &quot;Perdita di combustibile e lavoro.&quot;,
+            &quot;limits&quot;: &quot;Non conoscono automaticamente le prove dell’altra città.&quot;
+          }
+        ],
+        &quot;secret&quot;: &quot;Scorie nascoste da rivestimento; il calore della Mantle è un secondo difetto separato. Non un colpevole unico obbligatorio.&quot;,
+        &quot;hooks&quot;: [
+          &quot;A Karrel un magazzino mette a disposizione lingotto tagliato e campione certificato.&quot;,
+          &quot;A Kessel una cassa calda è respinta prima di essere caricata sul treno.&quot;
+        ],
+        &quot;with_intervention&quot;: &quot;Saggio, trasmutazione pertinente, separazione, sostituzione o scarica sicura rendono lotti utilizzabili; titoli civili e compensi restano questioni di prova.&quot;,
+        &quot;without_intervention&quot;: &quot;Lotti segregati, campioni nuovi, fornitore sostituito se rifiuta test. Le officine consumano scorte o rinviano ordini, senza catastrofe predefinita.&quot;,
+        &quot;time_pressure&quot;: &quot;Controllo delle partite IND-02 il 2 luglio; spedizione successiva dipende dal test, nessun viaggio immediato fra città.&quot;,
+        &quot;impact&quot;: &quot;🟡&quot;,
+        &quot;narrator_material&quot;: {
+          &quot;scene&quot;: &quot;Il lingotto aperto rivela nucleo scuro mentre il puntale dà lo stesso responso corretto sul campione lucidato.&quot;,
+          &quot;complication&quot;: &quot;Conseguenza tecnica eliminabile con potere autentico, ma parte della partita è già stata rivenduta.&quot;,
+          &quot;optional_twist&quot;: &quot;Il venditore di resina ammette il problema prima del creditore, per salvare la propria reputazione.&quot;
+        },
+        &quot;future_outcome&quot;: &quot;OPEN&quot;,
+        &quot;components&quot;: [
+          &quot;ART-003&quot;,
+          &quot;ART-004&quot;,
+          &quot;ART-014&quot;,
+          &quot;MAT-002&quot;,
+          &quot;MAT-003&quot;,
+          &quot;CRE-004&quot;,
+          &quot;CRE-007&quot;,
+          &quot;PEO-04&quot;,
+          &quot;PHN-003&quot;
+        ]
+      },
+      &quot;visual_caption&quot;: &quot;Campione illustrativo di Fireclay Sleeves. Forma, colore e finitura aiutano a riconoscere il materiale; non certificano da soli purezza, provenienza o investimento.&quot;
     },
     {
       &quot;id&quot;: &quot;MAT-004&quot;,
@@ -6679,7 +6906,80 @@
       &quot;current&quot;: &quot;Partita respinta a Deren: banco asciutto corretto, rigonfiamento al pozzo.&quot;,
       &quot;unit&quot;: &quot;U11-02&quot;,
       &quot;incorporation&quot;: false,
-      &quot;future_outcome&quot;: &quot;OPEN&quot;
+      &quot;future_outcome&quot;: &quot;OPEN&quot;,
+      &quot;category&quot;: &quot;Resina da sigillatura&quot;,
+      &quot;appearance&quot;: &quot;Resina ambrata, da traslucida a più torbida secondo pulitura e preparazione; si presenta in recipienti e in componenti già formati per la sigillatura. Aspetto e consistenza cambiano con condizioni e lavorazione: non basta il colore per riconoscere una guarnizione adatta.&quot;,
+      &quot;properties&quot;: &quot;Aderenza, deformazione e risposta all’umidità rendono utile il materiale ma ne delimitano l’uso. Una tenuta provata a secco può gonfiarsi o cambiare appoggio in ambiente bagnato. L’opacità del prodotto non esercita occultamento su luce, suono o spiritualità.&quot;,
+      &quot;processing&quot;: [
+        &quot;La raccolta deve rispettare alberi e diritti d’uso, evitando di trattare ogni albero disponibile come una riserva infinita.&quot;,
+        &quot;Decantazione e preparazione separano impurità e formulazioni: componenti e trattamenti del lotto vanno mantenuti riconoscibili.&quot;,
+        &quot;Trasporto sul sistema Ossen e consegna alle officine precedono prove sul clima e sul servizio effettivi.&quot;
+      ],
+      &quot;checks&quot;: [
+        &quot;Confrontare campioni asciutti e umidi montati in condizioni comparabili: è proprio la differenza che il collaudo di Deren aveva omesso.&quot;,
+        &quot;Misurare deformazione e tenuta, invece di cercare soltanto crepe visibili nel recipiente.&quot;,
+        &quot;Se si usa ART-014, affiancare un controllo e dichiarare il processo provato: accelerare un fenomeno non rivela ogni futuro impiego.&quot;
+      ],
+      &quot;examples&quot;: [
+        &quot;Una guarnizione conforme mantiene il percorso d’aria previsto in un giunto di ventilazione.&quot;,
+        &quot;Un campione che passa la prova asciutta viene respinto per una posa umida, senza dichiararlo inutilizzabile in ogni officina.&quot;,
+        &quot;Un deposito separa una partita alterata dalle scorte adatte a impieghi meno esigenti.&quot;
+      ],
+      &quot;storage&quot;: &quot;Recipienti, temperatura e contaminazione influiscono sulla conservazione. Solventi o fermentazione possono modificare il comportamento; rimescolare e ricoprire non restituisce automaticamente la formulazione originale. I ricambi vanno identificati anche dopo essere stati rimossi dal giunto.&quot;,
+      &quot;magic&quot;: &quot;Il materiale può sigillare il supporto di un circuito, ma non crea il gradiente Tempest né sostituisce il suo investimento. Un prodotto ricreato deve superare la stessa prova umida. La sostituzione può risolvere il guasto senza certificare la filiera precedente.&quot;,
+      &quot;economy&quot;: &quot;Comunità d’uso forestale, raccoglitori, trasportatori e officine negoziano raccolta e qualità. Un vincolo stagionale può far preferire un altro tipo di guarnizione; non rende sensato abbattere la risorsa che sostiene le forniture successive.&quot;,
+      &quot;visual&quot;: &quot;Amber sealing resin in a shallow wooden collection cup, a translucent resin lump with trapped natural flecks and one finished dark amber gasket ring, bark texture nearby, soft forest workshop light. Sticky organic texture, no lacquer paint, no magical luminescence.&quot;,
+      &quot;revision&quot;: 364,
+      &quot;continent&quot;: &quot;Mereth&quot;,
+      &quot;wiki_url&quot;: &quot;mat-004-ossen-seal-resin.html&quot;,
+      &quot;situation&quot;: {
+        &quot;id&quot;: &quot;U11-02&quot;,
+        &quot;name&quot;: &quot;Air for the Next Shift&quot;,
+        &quot;location_id&quot;: &quot;LOC-006&quot;,
+        &quot;location&quot;: &quot;Deren&quot;,
+        &quot;activation&quot;: &quot;Critico&quot;,
+        &quot;narrative_function&quot;: &quot;Pressione industriale con soluzione tecnica reale.&quot;,
+        &quot;current&quot;: &quot;La squadra usa bypass, turni ridotti e misure del gas. La resina gonfia mantiene incerto il ramo secondario; non si mandano tutti i minatori nel pozzo per attendere il PG.&quot;,
+        &quot;conflict&quot;: &quot;Garantire aria senza nascondere perdita di reddito o fermare anche rami sicuri.&quot;,
+        &quot;forces&quot;: [
+          {
+            &quot;actor&quot;: &quot;CAST-242&quot;,
+            &quot;wants&quot;: &quot;Salute del familiare e salario durante fermo.&quot;,
+            &quot;fears&quot;: &quot;Scelta fra fame e rischio.&quot;,
+            &quot;limits&quot;: &quot;Ordinario, non modifica la valvola investita.&quot;
+          },
+          {
+            &quot;actor&quot;: null,
+            &quot;role&quot;: &quot;Squadra di manutenzione del pozzo&quot;,
+            &quot;wants&quot;: &quot;Guarnizione e ventilazione provate.&quot;,
+            &quot;fears&quot;: &quot;Blocco dell’unico bypass.&quot;,
+            &quot;limits&quot;: &quot;Non può creare ossigeno con Pressure Gradient.&quot;
+          }
+        ],
+        &quot;secret&quot;: &quot;Certificazione a secco valida; fornitore omise prova umida. Non prova di avvelenamento volontario.&quot;,
+        &quot;hooks&quot;: [
+          &quot;La guardia del pozzo mostra un giunto gonfio e chiede confronto con la partita.&quot;,
+          &quot;Un familiare presenta una busta paga ridotta con l’avviso di fermo.&quot;
+        ],
+        &quot;with_intervention&quot;: &quot;Sostituzione, flusso alternativo, accordo salariale o soccorso cambiano condizioni. Un potere capace può creare o riparare realmente il componente senza dover cercare per forza il venditore.&quot;,
+        &quot;without_intervention&quot;: &quot;Direzione limita settore e chiede sostituzione; lavoratori contrattano compenso. Rischio aumenta solo se si riapre senza prova o il bypass si guasta.&quot;,
+        &quot;time_pressure&quot;: &quot;Prossimo turno del 20 maggio, condizionato all’esito delle misure; nessuna strage automatica.&quot;,
+        &quot;impact&quot;: &quot;🟠&quot;,
+        &quot;narrator_material&quot;: {
+          &quot;scene&quot;: &quot;Manometro corretto sul ramo principale, aria insufficiente al ramo basso e resina aperta sul tavolo.&quot;,
+          &quot;complication&quot;: &quot;Eliminare la magia prima del bypass può togliere aria anche al ramo sano.&quot;,
+          &quot;optional_twist&quot;: &quot;Il fornitore accetta ritiro della partita ma contesta il danno salariale.&quot;
+        },
+        &quot;future_outcome&quot;: &quot;OPEN&quot;,
+        &quot;components&quot;: [
+          &quot;ART-002&quot;,
+          &quot;MAT-001&quot;,
+          &quot;MAT-004&quot;,
+          &quot;CRE-002&quot;,
+          &quot;PHN-002&quot;
+        ]
+      },
+      &quot;visual_caption&quot;: &quot;Campione illustrativo di Ossen Seal Resin. Forma, colore e finitura aiutano a riconoscere il materiale; non certificano da soli purezza, provenienza o investimento.&quot;
     },
     {
       &quot;id&quot;: &quot;MAT-005&quot;,
@@ -6696,7 +6996,92 @@
       &quot;current&quot;: &quot;Separazione fra bende e tela industriale nella consegna clinica.&quot;,
       &quot;unit&quot;: &quot;U11-04&quot;,
       &quot;incorporation&quot;: false,
-      &quot;future_outcome&quot;: &quot;OPEN&quot;
+      &quot;future_outcome&quot;: &quot;OPEN&quot;,
+      &quot;category&quot;: &quot;Fibra tessile&quot;,
+      &quot;appearance&quot;: &quot;Tela di lino dai toni avorio o naturali, con una trama leggibile e fili opachi. Pezze più fini e più grossolane hanno destini diversi: la stessa provenienza non rende ogni taglio idoneo a bende, filtri e abiti.&quot;,
+      &quot;properties&quot;: &quot;La tela fornisce superficie, assorbimento e resistenza meccanica secondo trama e trattamento. Il materiale può trattenere sporco o umidità e richiede preparazione adeguata all’impiego. Bianco, profumato o confezionato non significa automaticamente pulito per uso clinico.&quot;,
+      &quot;processing&quot;: [
+        &quot;La coltivazione in rotazione e la macerazione devono essere organizzate senza confondere i bacini di lavorazione con l’acqua potabile.&quot;,
+        &quot;Filatura e tessitura producono titoli e trame differenti; sfridi e pezze scartate non diventano bende solo perché tagliati in strisce.&quot;,
+        &quot;Pulitura, asciugatura e confezione devono mantenere separati gli usi clinici da quelli industriali.&quot;
+      ],
+      &quot;checks&quot;: [
+        &quot;Esaminare fibra e trama, cercando strappi, inserti o difetti che cambiano il comportamento del filtro.&quot;,
+        &quot;Controllare pulizia e condizioni della confezione con i criteri dell’impiego, senza affidarsi al candore della tela.&quot;,
+        &quot;Seguire la partita fino alla consegna: un sacco comune può contaminare tessuti preparati separatamente.&quot;
+      ],
+      &quot;examples&quot;: [
+        &quot;Una clinica riceve bende tenute separate dalla tela destinata a un’officina polverosa.&quot;,
+        &quot;Un filtro grossolano usa la trama corretta senza essere pubblicizzato come separatore di ogni contaminante.&quot;,
+        &quot;Un apparato viene rivestito con una nuova pezza, poi controllato perché la sostituzione ha cambiato il supporto.&quot;
+      ],
+      &quot;storage&quot;: &quot;Pezze asciutte e separate per destinazione conservano meglio la propria identità di lotto. Muffa, acqua sporca e manipolazione dopo la pulitura possono compromettere la consegna. Un investimento su una vecchia cornice non migra perché il tessuto nuovo ha lo stesso colore.&quot;,
+      &quot;magic&quot;: &quot;Il lino non possiede cura, purificazione o barriera per natura. Heart, Halo e altri esercizi dipendono dalla fonte reale e dal supporto effettivamente investito. Una fibra creata può sostituire la materia se adeguata, ma non riproduce un consenso clinico o un trattamento mai eseguito.&quot;,
+      &quot;economy&quot;: &quot;Valenne vende materiale con usi e qualità differenti. Una disputa di prezzo può riguardare pulitura e confezione più che il costo della fibra; scambiare tela industriale per bende trasferisce un rischio sul destinatario.&quot;,
+      &quot;visual&quot;: &quot;Unbleached ivory flax linen folded in broad sheets, an exposed plain weave edge and a small skein of matte flax thread on a clean cloth merchant table, daylight revealing coarse versus fine weave. Not glossy silk, not bandages on a body, no magic.&quot;,
+      &quot;revision&quot;: 364,
+      &quot;continent&quot;: &quot;Mereth&quot;,
+      &quot;wiki_url&quot;: &quot;mat-005-valenne-linen.html&quot;,
+      &quot;situation&quot;: {
+        &quot;id&quot;: &quot;U11-04&quot;,
+        &quot;name&quot;: &quot;The Shape of a Patient&quot;,
+        &quot;location_id&quot;: &quot;LOC-016&quot;,
+        &quot;location&quot;: &quot;Namar&quot;,
+        &quot;activation&quot;: &quot;Attivo&quot;,
+        &quot;narrative_function&quot;: &quot;Cura, consenso e autonomia.&quot;,
+        &quot;current&quot;: &quot;Il paziente Serekh è stabile con sostegno provvisorio; reparto prepara un modello diverso. Il piccolo Attendant richiede consenso al trasferimento, e una prenotazione dell’apparato V limita disponibilità reale.&quot;,
+        &quot;conflict&quot;: &quot;Adattare il servizio al paziente invece di adattare la persona alla standardizzazione.&quot;,
+        &quot;forces&quot;: [
+          {
+            &quot;actor&quot;: &quot;CAST-029&quot;,
+            &quot;wants&quot;: &quot;Pazienti stabili e procedure congrue.&quot;,
+            &quot;fears&quot;: &quot;Il reparto venga fermato in blocco per difetto circoscritto.&quot;,
+            &quot;limits&quot;: &quot;Heart IV non rifornisce da solo apparato V.&quot;
+          },
+          {
+            &quot;actor&quot;: &quot;CAST-075&quot;,
+            &quot;wants&quot;: &quot;Filtro tarato e contaminazione separata.&quot;,
+            &quot;fears&quot;: &quot;Il responso diventi esclusione di specie.&quot;,
+            &quot;limits&quot;: &quot;Halo III diagnostica la configurazione raggiunta.&quot;
+          },
+          {
+            &quot;actor&quot;: null,
+            &quot;role&quot;: &quot;Paziente e Attendant, due persone distinte&quot;,
+            &quot;wants&quot;: &quot;Respirare e scegliere collocazione.&quot;,
+            &quot;fears&quot;: &quot;Essere registrati come pezzi di attrezzatura.&quot;,
+            &quot;limits&quot;: &quot;Dipendenze materiali e informazioni cliniche, nessuna obbedienza al PG.&quot;
+          }
+        ],
+        &quot;secret&quot;: &quot;Errore dello stampo e filtro diagnosticato per altra contaminazione; nessuna maledizione etnica. Presunto sacrificio vivente per ART-023 non necessario.&quot;,
+        &quot;hooks&quot;: [
+          &quot;Un tecnico offre la brace e il calco precedente per una perizia.&quot;,
+          &quot;La domanda di trasferimento dell’Attendant contiene una protesta firmata da lui.&quot;
+        ],
+        &quot;with_intervention&quot;: &quot;Modello congruo, cura pertinente, supporto alternativo o rifiuto di abuso risolvono specifiche dipendenze. Guarire non obbliga paziente a gratitudine, culto o testimonianza.&quot;,
+        &quot;without_intervention&quot;: &quot;Équipe usa modelli provvisori, separa fornitore e valuta consenso; paziente resta curato mentre si decide. Non si muore per una scadenza burocratica.&quot;,
+        &quot;time_pressure&quot;: &quot;Valutazione clinica 22 maggio; urgenza segue respirazione e sostegno effettivi.&quot;,
+        &quot;impact&quot;: &quot;🟡&quot;,
+        &quot;narrator_material&quot;: {
+          &quot;scene&quot;: &quot;Due anatomie sullo stesso stampo, un bordo lascia livido pur mentre la ferita guarisce.&quot;,
+          &quot;complication&quot;: &quot;La placca del filtro è corretta per il suo bersaglio ma quel bersaglio non è il paziente.&quot;,
+          &quot;optional_twist&quot;: &quot;L’Attendant sceglie di restare dopo aver ottenuto libertà formale, non per comando del creatore.&quot;
+        },
+        &quot;future_outcome&quot;: &quot;OPEN&quot;,
+        &quot;components&quot;: [
+          &quot;ART-005&quot;,
+          &quot;ART-006&quot;,
+          &quot;ART-023&quot;,
+          &quot;MAT-005&quot;,
+          &quot;MAT-006&quot;,
+          &quot;MAT-007&quot;,
+          &quot;CRE-003&quot;,
+          &quot;CRE-006&quot;,
+          &quot;CRE-010&quot;,
+          &quot;PEO-03&quot;,
+          &quot;PHN-004&quot;
+        ]
+      },
+      &quot;visual_caption&quot;: &quot;Campione illustrativo di Valenne Linen. Forma, colore e finitura aiutano a riconoscere il materiale; non certificano da soli purezza, provenienza o investimento.&quot;
     },
     {
       &quot;id&quot;: &quot;MAT-006&quot;,
@@ -6713,7 +7098,92 @@
       &quot;current&quot;: &quot;Richiesta di nuovi stampi Serekh per ART-005.&quot;,
       &quot;unit&quot;: &quot;U11-04&quot;,
       &quot;incorporation&quot;: false,
-      &quot;future_outcome&quot;: &quot;OPEN&quot;
+      &quot;future_outcome&quot;: &quot;OPEN&quot;,
+      &quot;category&quot;: &quot;Composito conformabile&quot;,
+      &quot;appearance&quot;: &quot;Rete tecnica composta da tessuto pulito e filamenti di lega, con maglie regolari capaci di seguire una curvatura limitata. Un campione aperto mostra l’intreccio; quello sagomato chiarisce che non è una piastra rigida continua.&quot;,
+      &quot;properties&quot;: &quot;La conformabilità permette di distribuire un appoggio, non di adattarsi automaticamente a qualsiasi organismo. Maglia, bordi e punti di fissaggio determinano dove passa il carico. Una rete troppo tesa può comprimere un distretto anche se il filo non si rompe.&quot;,
+      &quot;processing&quot;: [
+        &quot;La base tessile viene preparata per il contatto previsto, separandola da lavorazioni sporche.&quot;,
+        &quot;L’intreccio con i filamenti produce un composito da controllare per continuità e bordi irregolari.&quot;,
+        &quot;Sagomatura e prova anatomica devono precedere l’uso: il modello non deriva automaticamente dall’identità umana del fabbricante.&quot;
+      ],
+      &quot;checks&quot;: [
+        &quot;Provare elasticità e ritorno della rete nella geometria prevista, senza forzarla su una persona per cercarne il limite.&quot;,
+        &quot;Confrontare misure e appoggi con l’anatomia del destinatario, compresi gli accessi respiratori effettivi.&quot;,
+        &quot;Controllare pulizia, bordi e possibilità di rilascio, distinguendo il consenso al trattamento dalla conformità della misura.&quot;
+      ],
+      &quot;examples&quot;: [
+        &quot;Un Attendant adatta il supporto a un paziente Serekh prima di affidargli il contenimento della lesione.&quot;,
+        &quot;Un tecnico sostituisce un tratto deformato e ripete il controllo dell’appoggio, invece di stringere più forte le cinghie.&quot;,
+        &quot;Una protesi usa la rete come interfaccia meccanica, senza contenere una persona o una coscienza.&quot;
+      ],
+      &quot;storage&quot;: &quot;Residui biologici e umidità favoriscono alterazioni della superficie e biofilm. Una rete lavata non è per questo tornata alla geometria iniziale. I campioni provati e quelli consegnati devono restare distinguibili, soprattutto quando vengono preparati stampi differenti.&quot;,
+      &quot;magic&quot;: &quot;La rete può sostenere un esercizio Heart o una funzione pertinente di un apparato, ma non conferisce quell’Effige al paziente. La presenza di Mask su un servizio diverso non autorizza a trasformare indiscriminatamente anatomie. Una geometria creata deve essere compatibile e verificata.&quot;,
+      &quot;economy&quot;: &quot;I costi comprendono misura, formazione e disponibilità di stampi, non soltanto metallo e lino. Tenere in magazzino un unico formato umano semplifica la filiera ma può escludere o danneggiare altri pazienti.&quot;,
+      &quot;visual&quot;: &quot;Close-up of a flexible technical mesh woven from pale clean linen and fine warm-grey metal filaments, one curved anatomical support sample and one flat open edge revealing the interlaced strands, clinical craft bench, no patient, no complete armour or enchanted glow.&quot;,
+      &quot;revision&quot;: 364,
+      &quot;continent&quot;: &quot;Mereth&quot;,
+      &quot;wiki_url&quot;: &quot;mat-006-namar-flexible-mesh.html&quot;,
+      &quot;situation&quot;: {
+        &quot;id&quot;: &quot;U11-04&quot;,
+        &quot;name&quot;: &quot;The Shape of a Patient&quot;,
+        &quot;location_id&quot;: &quot;LOC-016&quot;,
+        &quot;location&quot;: &quot;Namar&quot;,
+        &quot;activation&quot;: &quot;Attivo&quot;,
+        &quot;narrative_function&quot;: &quot;Cura, consenso e autonomia.&quot;,
+        &quot;current&quot;: &quot;Il paziente Serekh è stabile con sostegno provvisorio; reparto prepara un modello diverso. Il piccolo Attendant richiede consenso al trasferimento, e una prenotazione dell’apparato V limita disponibilità reale.&quot;,
+        &quot;conflict&quot;: &quot;Adattare il servizio al paziente invece di adattare la persona alla standardizzazione.&quot;,
+        &quot;forces&quot;: [
+          {
+            &quot;actor&quot;: &quot;CAST-029&quot;,
+            &quot;wants&quot;: &quot;Pazienti stabili e procedure congrue.&quot;,
+            &quot;fears&quot;: &quot;Il reparto venga fermato in blocco per difetto circoscritto.&quot;,
+            &quot;limits&quot;: &quot;Heart IV non rifornisce da solo apparato V.&quot;
+          },
+          {
+            &quot;actor&quot;: &quot;CAST-075&quot;,
+            &quot;wants&quot;: &quot;Filtro tarato e contaminazione separata.&quot;,
+            &quot;fears&quot;: &quot;Il responso diventi esclusione di specie.&quot;,
+            &quot;limits&quot;: &quot;Halo III diagnostica la configurazione raggiunta.&quot;
+          },
+          {
+            &quot;actor&quot;: null,
+            &quot;role&quot;: &quot;Paziente e Attendant, due persone distinte&quot;,
+            &quot;wants&quot;: &quot;Respirare e scegliere collocazione.&quot;,
+            &quot;fears&quot;: &quot;Essere registrati come pezzi di attrezzatura.&quot;,
+            &quot;limits&quot;: &quot;Dipendenze materiali e informazioni cliniche, nessuna obbedienza al PG.&quot;
+          }
+        ],
+        &quot;secret&quot;: &quot;Errore dello stampo e filtro diagnosticato per altra contaminazione; nessuna maledizione etnica. Presunto sacrificio vivente per ART-023 non necessario.&quot;,
+        &quot;hooks&quot;: [
+          &quot;Un tecnico offre la brace e il calco precedente per una perizia.&quot;,
+          &quot;La domanda di trasferimento dell’Attendant contiene una protesta firmata da lui.&quot;
+        ],
+        &quot;with_intervention&quot;: &quot;Modello congruo, cura pertinente, supporto alternativo o rifiuto di abuso risolvono specifiche dipendenze. Guarire non obbliga paziente a gratitudine, culto o testimonianza.&quot;,
+        &quot;without_intervention&quot;: &quot;Équipe usa modelli provvisori, separa fornitore e valuta consenso; paziente resta curato mentre si decide. Non si muore per una scadenza burocratica.&quot;,
+        &quot;time_pressure&quot;: &quot;Valutazione clinica 22 maggio; urgenza segue respirazione e sostegno effettivi.&quot;,
+        &quot;impact&quot;: &quot;🟡&quot;,
+        &quot;narrator_material&quot;: {
+          &quot;scene&quot;: &quot;Due anatomie sullo stesso stampo, un bordo lascia livido pur mentre la ferita guarisce.&quot;,
+          &quot;complication&quot;: &quot;La placca del filtro è corretta per il suo bersaglio ma quel bersaglio non è il paziente.&quot;,
+          &quot;optional_twist&quot;: &quot;L’Attendant sceglie di restare dopo aver ottenuto libertà formale, non per comando del creatore.&quot;
+        },
+        &quot;future_outcome&quot;: &quot;OPEN&quot;,
+        &quot;components&quot;: [
+          &quot;ART-005&quot;,
+          &quot;ART-006&quot;,
+          &quot;ART-023&quot;,
+          &quot;MAT-005&quot;,
+          &quot;MAT-006&quot;,
+          &quot;MAT-007&quot;,
+          &quot;CRE-003&quot;,
+          &quot;CRE-006&quot;,
+          &quot;CRE-010&quot;,
+          &quot;PEO-03&quot;,
+          &quot;PHN-004&quot;
+        ]
+      },
+      &quot;visual_caption&quot;: &quot;Campione illustrativo di Namar Flexible Mesh. Forma, colore e finitura aiutano a riconoscere il materiale; non certificano da soli purezza, provenienza o investimento.&quot;
     },
     {
       &quot;id&quot;: &quot;MAT-007&quot;,
@@ -6730,7 +7200,92 @@
       &quot;current&quot;: &quot;Ordine sanitario contende lavorazione a un cantiere navale.&quot;,
       &quot;unit&quot;: &quot;U11-04&quot;,
       &quot;incorporation&quot;: false,
-      &quot;future_outcome&quot;: &quot;OPEN&quot;
+      &quot;future_outcome&quot;: &quot;OPEN&quot;,
+      &quot;category&quot;: &quot;Vetro ottico&quot;,
+      &quot;appearance&quot;: &quot;Blocchi, dischi e inserti levigati con superfici chiare; i bordi più spessi possono mostrare una lieve tinta, senza che questo segnali un potere. La forma ottica è diversa da un coccio trasparente: piano, curvatura e finitura dipendono dal servizio.&quot;,
+      &quot;properties&quot;: &quot;Trasmissione della luce e geometria dell’inserto devono essere valutate insieme. Bolle, strie, deformazioni o tensioni possono disturbare una misura. Un vetro bello da osservare non è necessariamente adatto a una lente o a un apparato clinico.&quot;,
+      &quot;processing&quot;: [
+        &quot;Le componenti importate e il combustibile arrivano con tempi distinti: avere una fornace non sostituisce la materia necessaria.&quot;,
+        &quot;Fusione e formatura preparano un grezzo che deve essere stabilizzato e lavorato, non venduto come lente finita per la sola trasparenza.&quot;,
+        &quot;Levigatura e prova ottica selezionano gli inserti per il montaggio e mantengono tracciabile la partita.&quot;
+      ],
+      &quot;checks&quot;: [
+        &quot;Confrontare un riferimento attraverso l’inserto e un campione inerte, cercando deformazioni attribuibili alla geometria.&quot;,
+        &quot;Esaminare trasmissione e comportamento spettrale con mezzi disponibili, senza confonderli con capacità di rivelazione Halo.&quot;,
+        &quot;Verificare il pezzo dopo il montaggio: una buona lente può essere fuori asse o compressa dalla cornice.&quot;
+      ],
+      &quot;examples&quot;: [
+        &quot;Un inserto dirige una luce ordinaria nell’apparecchio sanitario per il quale è stato lavorato.&quot;,
+        &quot;Un cantiere navale richiede un pezzo ottico e compete con un ordine clinico per gli stessi tempi di finitura.&quot;,
+        &quot;Una cornice riceve vetro ricreato, poi una nuova prova distingue materia idonea e matrice ancora da investire.&quot;
+      ],
+      &quot;storage&quot;: &quot;Proteggere superfici e bordi evita abrasioni che possono invalidare una finitura costosa. Il cambio di temperatura e il modo di serraggio influiscono sul servizio; una scheggia non va rimessa fra inserti integri perché appare ancora trasparente.&quot;,
+      &quot;magic&quot;: &quot;Il vetro non rivela spiritualità, menzogne o nomi nascosti per trasparenza naturale. Halo può esercitare una funzione attraverso un supporto pertinente, ma luce e rivelazione non sono proprietà automatiche della silice lavorata. Una copia materiale non è una fonte di riserva.&quot;,
+      &quot;economy&quot;: &quot;Il collo di bottiglia può essere levigatura, prova o trasporto, non il semplice volume di vetro. Le priorità fra clinica e cantiere hanno conseguenze reali anche quando esiste denaro per entrambi gli ordini.&quot;,
+      &quot;visual&quot;: &quot;Clear optical glass lens blanks and a small polished prism on a pale instrument maker bench, a thick edge with very faint natural green tint, realistic refraction of daylight through the glass, tiny bubbles only in a rejected raw blank. No beams emitted from the glass, no gemstones or occult symbols.&quot;,
+      &quot;revision&quot;: 364,
+      &quot;continent&quot;: &quot;Mereth&quot;,
+      &quot;wiki_url&quot;: &quot;mat-007-velis-optical-glass.html&quot;,
+      &quot;situation&quot;: {
+        &quot;id&quot;: &quot;U11-04&quot;,
+        &quot;name&quot;: &quot;The Shape of a Patient&quot;,
+        &quot;location_id&quot;: &quot;LOC-016&quot;,
+        &quot;location&quot;: &quot;Namar&quot;,
+        &quot;activation&quot;: &quot;Attivo&quot;,
+        &quot;narrative_function&quot;: &quot;Cura, consenso e autonomia.&quot;,
+        &quot;current&quot;: &quot;Il paziente Serekh è stabile con sostegno provvisorio; reparto prepara un modello diverso. Il piccolo Attendant richiede consenso al trasferimento, e una prenotazione dell’apparato V limita disponibilità reale.&quot;,
+        &quot;conflict&quot;: &quot;Adattare il servizio al paziente invece di adattare la persona alla standardizzazione.&quot;,
+        &quot;forces&quot;: [
+          {
+            &quot;actor&quot;: &quot;CAST-029&quot;,
+            &quot;wants&quot;: &quot;Pazienti stabili e procedure congrue.&quot;,
+            &quot;fears&quot;: &quot;Il reparto venga fermato in blocco per difetto circoscritto.&quot;,
+            &quot;limits&quot;: &quot;Heart IV non rifornisce da solo apparato V.&quot;
+          },
+          {
+            &quot;actor&quot;: &quot;CAST-075&quot;,
+            &quot;wants&quot;: &quot;Filtro tarato e contaminazione separata.&quot;,
+            &quot;fears&quot;: &quot;Il responso diventi esclusione di specie.&quot;,
+            &quot;limits&quot;: &quot;Halo III diagnostica la configurazione raggiunta.&quot;
+          },
+          {
+            &quot;actor&quot;: null,
+            &quot;role&quot;: &quot;Paziente e Attendant, due persone distinte&quot;,
+            &quot;wants&quot;: &quot;Respirare e scegliere collocazione.&quot;,
+            &quot;fears&quot;: &quot;Essere registrati come pezzi di attrezzatura.&quot;,
+            &quot;limits&quot;: &quot;Dipendenze materiali e informazioni cliniche, nessuna obbedienza al PG.&quot;
+          }
+        ],
+        &quot;secret&quot;: &quot;Errore dello stampo e filtro diagnosticato per altra contaminazione; nessuna maledizione etnica. Presunto sacrificio vivente per ART-023 non necessario.&quot;,
+        &quot;hooks&quot;: [
+          &quot;Un tecnico offre la brace e il calco precedente per una perizia.&quot;,
+          &quot;La domanda di trasferimento dell’Attendant contiene una protesta firmata da lui.&quot;
+        ],
+        &quot;with_intervention&quot;: &quot;Modello congruo, cura pertinente, supporto alternativo o rifiuto di abuso risolvono specifiche dipendenze. Guarire non obbliga paziente a gratitudine, culto o testimonianza.&quot;,
+        &quot;without_intervention&quot;: &quot;Équipe usa modelli provvisori, separa fornitore e valuta consenso; paziente resta curato mentre si decide. Non si muore per una scadenza burocratica.&quot;,
+        &quot;time_pressure&quot;: &quot;Valutazione clinica 22 maggio; urgenza segue respirazione e sostegno effettivi.&quot;,
+        &quot;impact&quot;: &quot;🟡&quot;,
+        &quot;narrator_material&quot;: {
+          &quot;scene&quot;: &quot;Due anatomie sullo stesso stampo, un bordo lascia livido pur mentre la ferita guarisce.&quot;,
+          &quot;complication&quot;: &quot;La placca del filtro è corretta per il suo bersaglio ma quel bersaglio non è il paziente.&quot;,
+          &quot;optional_twist&quot;: &quot;L’Attendant sceglie di restare dopo aver ottenuto libertà formale, non per comando del creatore.&quot;
+        },
+        &quot;future_outcome&quot;: &quot;OPEN&quot;,
+        &quot;components&quot;: [
+          &quot;ART-005&quot;,
+          &quot;ART-006&quot;,
+          &quot;ART-023&quot;,
+          &quot;MAT-005&quot;,
+          &quot;MAT-006&quot;,
+          &quot;MAT-007&quot;,
+          &quot;CRE-003&quot;,
+          &quot;CRE-006&quot;,
+          &quot;CRE-010&quot;,
+          &quot;PEO-03&quot;,
+          &quot;PHN-004&quot;
+        ]
+      },
+      &quot;visual_caption&quot;: &quot;Campione illustrativo di Velis Optical Glass. Forma, colore e finitura aiutano a riconoscere il materiale; non certificano da soli purezza, provenienza o investimento.&quot;
     },
     {
       &quot;id&quot;: &quot;MAT-008&quot;,
@@ -6747,7 +7302,84 @@
       &quot;current&quot;: &quot;Laboratorio confronta basamento fisso e mobile.&quot;,
       &quot;unit&quot;: &quot;U11-01&quot;,
       &quot;incorporation&quot;: false,
-      &quot;future_outcome&quot;: &quot;OPEN&quot;
+      &quot;future_outcome&quot;: &quot;OPEN&quot;,
+      &quot;category&quot;: &quot;Pietra di riferimento&quot;,
+      &quot;appearance&quot;: &quot;Basalto scuro a grana fine, lavorato in basamenti e superfici di confronto. Il piano è diverso dalla roccia grezza estratta: spigoli, appoggi e finitura ne rendono verificabile l’uso. Una frattura mostra una trama minerale ordinaria, non un cielo stellato.&quot;,
+      &quot;properties&quot;: &quot;La scelta riguarda stabilità, geometria e risposta alle condizioni di lavoro entro le tolleranze provate. Il basalto non conserva per natura una coordinata assoluta. Un piano accurato collocato altrove rimane un buon piano, ma il suo rapporto con gli altri riferimenti è cambiato.&quot;,
+      &quot;processing&quot;: [
+        &quot;Cava e scelta del blocco precedono il periodo di assestamento previsto dall’officina.&quot;,
+        &quot;Lavorazione e appoggi creano una superficie da misurare in posizione dichiarata, non soltanto da osservare.&quot;,
+        &quot;Il montaggio registra posizione e riferimenti esterni; spostare il banco richiede di rivedere il collaudo pertinente.&quot;
+      ],
+      &quot;checks&quot;: [
+        &quot;Usare due riferimenti indipendenti e annotare dove si trova il piano durante la misura.&quot;,
+        &quot;Esaminare fessure, appoggi e condizioni termiche, distinguendo difetto materiale da scarto di posizione.&quot;,
+        &quot;Ripetere il confronto dopo un trasporto: il vecchio certificato non dimostra il nuovo raccordo con il laboratorio.&quot;
+      ],
+      &quot;examples&quot;: [
+        &quot;Un banco Oracle confronta il proprio modello con un riferimento esterno prima di accettare una misura.&quot;,
+        &quot;Un basamento Astrolabe conserva un supporto stabile, ma non apre da solo un accesso a una camera.&quot;,
+        &quot;Una copia in pietra equivalente viene montata e ritarata, invece di ereditare la marca del pezzo rimosso.&quot;
+      ],
+      &quot;storage&quot;: &quot;Urti, appoggi impropri o cambiamenti di temperatura possono rendere inaffidabile una misura. Custodire un piano smontato non significa conservarne anche la posizione operativa. La documentazione del trasporto serve a ricostruire che cosa è stato effettivamente spostato.&quot;,
+      &quot;magic&quot;: &quot;Oracle e Astrolabe possono usare il basamento come supporto, ma il materiale non esercita ragionamento o spazio. Cradle può ricreare pietra e geometria; una nuova pietra non è la traccia storica del banco precedente e non conserva un legame senza una fonte pertinente.&quot;,
+      &quot;economy&quot;: &quot;Lavorazione, trasporto e collaudo pesano sul valore più della roccia grezza. Il proprietario può risparmiare sul rimontaggio e perdere poi la validità del servizio per cui aveva acquistato il piano.&quot;,
+      &quot;visual&quot;: &quot;Precision-worked dark basalt reference slab on low sturdy supports, sharp flat surface with subtle ordinary stone grain, one small rough basalt chip beside it showing the same fine-grained interior, muted survey workshop daylight. No luminous grid, no stars, no floating rock.&quot;,
+      &quot;revision&quot;: 364,
+      &quot;continent&quot;: &quot;Mereth&quot;,
+      &quot;wiki_url&quot;: &quot;mat-008-reference-basalt.html&quot;,
+      &quot;situation&quot;: {
+        &quot;id&quot;: &quot;U11-01&quot;,
+        &quot;name&quot;: &quot;The Unmoved Certificate&quot;,
+        &quot;location_id&quot;: &quot;LOC-001&quot;,
+        &quot;location&quot;: &quot;Lethorne&quot;,
+        &quot;activation&quot;: &quot;Attivo&quot;,
+        &quot;narrative_function&quot;: &quot;Indagine tecnica, accesso a reti di laboratorio.&quot;,
+        &quot;current&quot;: &quot;Marcel conserva la cerniera e limita nuove aperture; il laboratorio confronta le due posizioni del banco. Le misure originali e il successivo spostamento appartengono al caso già fissato in 153.&quot;,
+        &quot;conflict&quot;: &quot;Riparare l’apparato e conservare prove senza esporre a nuovi rischi persone estranee.&quot;,
+        &quot;forces&quot;: [
+          {
+            &quot;actor&quot;: &quot;CAST-031&quot;,
+            &quot;wants&quot;: &quot;Laboratorio sicuro e manutenzione III qualificata.&quot;,
+            &quot;fears&quot;: &quot;Una dimostrazione consumi le due aperture residue.&quot;,
+            &quot;limits&quot;: &quot;Astrolabe II non rifornisce III.&quot;
+          },
+          {
+            &quot;actor&quot;: &quot;CAST-032&quot;,
+            &quot;wants&quot;: &quot;Seconda prova pubblicabile.&quot;,
+            &quot;fears&quot;: &quot;Confisca della copia autentica.&quot;,
+            &quot;limits&quot;: &quot;Archive I non riscrive o certifica ordini che non possiede.&quot;
+          },
+          {
+            &quot;actor&quot;: &quot;CAST-002&quot;,
+            &quot;wants&quot;: &quot;Misure riconosciute e permesso di lavoro.&quot;,
+            &quot;fears&quot;: &quot;Scambiare buon funzionamento con innocenza provata.&quot;,
+            &quot;limits&quot;: &quot;Capacità I e informazioni effettive, scelte autonome.&quot;
+          }
+        ],
+        &quot;secret&quot;: &quot;Vern autorizzò lo spostamento contando sul margine del venditore: responsabilità già fissata, nessun nuovo sabotatore cosmico.&quot;,
+        &quot;hooks&quot;: [
+          &quot;Una richiesta di confronto dei basamenti raggiunge un’officina collegata a Yselle.&quot;,
+          &quot;Un addetto al trasporto offre il proprio cartellino con orario e descrizione del carico.&quot;
+        ],
+        &quot;with_intervention&quot;: &quot;Diagnosi può ritarare, conservare marche e permettere ricerca di servizio III. Prove raggiunte possono correggere responsabilità; riparazione non implica alleanza con il gruppo.&quot;,
+        &quot;without_intervention&quot;: &quot;Elias prepara deposizione, Livia cerca seconda copia, Marcel sospende aperture non verificate. Cerniera e laboratorio non spariscono alla scadenza.&quot;,
+        &quot;time_pressure&quot;: &quot;Udienza 31 maggio 812; riserva della cerniera consumata soltanto da attivazioni effettive.&quot;,
+        &quot;impact&quot;: &quot;🟡&quot;,
+        &quot;narrator_material&quot;: {
+          &quot;scene&quot;: &quot;Sul banco, due tavole autentiche e due fori dei bulloni: entrambe le misure risultano corrette per il proprio riferimento.&quot;,
+          &quot;complication&quot;: &quot;Una prova funzionante consumerebbe una delle aperture; la porta ordinaria consente ispezione senza farlo.&quot;,
+          &quot;optional_twist&quot;: &quot;Il testimone chiede solo rimborso della giornata, non ingresso nello scambio.&quot;
+        },
+        &quot;future_outcome&quot;: &quot;OPEN&quot;,
+        &quot;components&quot;: [
+          &quot;ART-001&quot;,
+          &quot;ART-008&quot;,
+          &quot;MAT-008&quot;,
+          &quot;PHN-001&quot;
+        ]
+      },
+      &quot;visual_caption&quot;: &quot;Campione illustrativo di Reference Basalt. Forma, colore e finitura aiutano a riconoscere il materiale; non certificano da soli purezza, provenienza o investimento.&quot;
     },
     {
       &quot;id&quot;: &quot;MAT-009&quot;,
@@ -6764,7 +7396,81 @@
       &quot;current&quot;: &quot;Restauro fra leggibilità e perdita di strato inferiore.&quot;,
       &quot;unit&quot;: &quot;U11-05&quot;,
       &quot;incorporation&quot;: false,
-      &quot;future_outcome&quot;: &quot;OPEN&quot;
+      &quot;future_outcome&quot;: &quot;OPEN&quot;,
+      &quot;category&quot;: &quot;Rivestimento protettivo&quot;,
+      &quot;appearance&quot;: &quot;Lacca resinosa pigmentata, stesa come un film sottile sopra incisioni e superfici editoriali. Il tono ambrato scuro o rosso-bruno dipende dalla formulazione; una sezione di restauro distingue strati sovrapposti invece di un unico blocco di resina grezza.&quot;,
+      &quot;properties&quot;: &quot;La lacca protegge una superficie e può mantenere leggibili segni, ma rende anche più difficile raggiungere uno strato sottostante. Brillantezza, colore e apparente antichità non certificano la data dell’incisione o la verità del testo.&quot;,
+      &quot;processing&quot;: [
+        &quot;Raffinazione e pigmenti preparano una formulazione da tenere distinta dalle resine per guarnizioni.&quot;,
+        &quot;La stesura richiede una superficie compatibile e uno strato adeguato: coprire una lacuna non ricostruisce ciò che mancava.&quot;,
+        &quot;Montaggio ed eventuale investimento Archive avvengono come operazioni separate, con fonte e rapporto dichiarati.&quot;
+      ],
+      &quot;checks&quot;: [
+        &quot;Esaminare la stratigrafia per distinguere supporto, incisione, lacca e ritocchi successivi.&quot;,
+        &quot;Confrontare l’effetto di una prova di restauro su campione appropriato prima di intervenire sulla testimonianza originale.&quot;,
+        &quot;Sottoporre a diagnosi Archive l’investimento realmente presente; una vernice vecchia può essere priva di attestazione.&quot;
+      ],
+      &quot;examples&quot;: [
+        &quot;Un conservatore protegge un’incisione già documentata senza attribuire al rivestimento il potere di testimoniarne il contenuto.&quot;,
+        &quot;Un deposito sospende la pulitura perché il solvente potrebbe asportare una traccia sotto la lacca.&quot;,
+        &quot;Una copia di documento riceve un film identico, ma resta una copia e non diventa il testimone originale.&quot;
+      ],
+      &quot;storage&quot;: &quot;Solventi, abrasione e cambiamenti della superficie possono compromettere sia il rivestimento sia ciò che protegge. Un pezzo ridipinto va distinto da uno conservato: rendere più leggibile l’aspetto attuale può distruggere una prova di come fosse prima.&quot;,
+      &quot;magic&quot;: &quot;La funzione di Witness Seal o di un’attestazione Archive dipende dal rapporto investito, non dal pigmento. Un supporto equivalente può essere utilizzabile se il legame viene davvero conservato o ricostituito con competenza; ridisegnare un simbolo non equivale a farlo.&quot;,
+      &quot;economy&quot;: &quot;Editori, depositi e restauratori possono attribuire valore diverso a leggibilità e stratificazione. Una richiesta urgente di pubblicazione non rende reversibile una pulitura distruttiva né decide chi possieda l’interpretazione della prova.&quot;,
+      &quot;visual&quot;: &quot;A small pot of deep reddish-brown witness lacquer with a fine brush, a single wooden conservation sample showing a thin glossy translucent varnish film over shallow non-linguistic incisions and a lifted edge revealing layers. Rich pigment, not raw amber resin; no readable writing or magical seal glow.&quot;,
+      &quot;revision&quot;: 364,
+      &quot;continent&quot;: &quot;Mereth&quot;,
+      &quot;wiki_url&quot;: &quot;mat-009-witness-lacquer.html&quot;,
+      &quot;situation&quot;: {
+        &quot;id&quot;: &quot;U11-05&quot;,
+        &quot;name&quot;: &quot;The Words That Were Said&quot;,
+        &quot;location_id&quot;: &quot;LOC-038&quot;,
+        &quot;location&quot;: &quot;Teshen&quot;,
+        &quot;activation&quot;: &quot;Attivo&quot;,
+        &quot;narrative_function&quot;: &quot;Prove, informazione e successioni.&quot;,
+        &quot;current&quot;: &quot;La redazione prepara una testimonianza autentica priva di un contesto cartaceo. Il modulo di Veldane riguarda deposito e cablaggio, collegabile tramite documenti ma fisicamente separato.&quot;,
+        &quot;conflict&quot;: &quot;Pubblicare dati utili senza convertire attestazione in infallibilità o consegna in proprietà.&quot;,
+        &quot;forces&quot;: [
+          {
+            &quot;actor&quot;: &quot;CAST-348&quot;,
+            &quot;wants&quot;: &quot;Testo verificabile e accessibile.&quot;,
+            &quot;fears&quot;: &quot;Essere accusata di falsificazione per ricordo altrui.&quot;,
+            &quot;limits&quot;: &quot;Redazione ordinaria non riscrive Witness Seal.&quot;
+          },
+          {
+            &quot;actor&quot;: &quot;CAST-006&quot;,
+            &quot;wants&quot;: &quot;Concordanze e confini di competenza.&quot;,
+            &quot;fears&quot;: &quot;Una matrice tecnica venga usata come titolo legale universale.&quot;,
+            &quot;limits&quot;: &quot;Ufficio non conosce ogni luogo remoto.&quot;
+          }
+        ],
+        &quot;secret&quot;: &quot;Testimone sincero ma inesatto; un deposito attesta consegna e non eredità. Collegare le due vicende è opportunità editoriale, non identità della vittima.&quot;,
+        &quot;hooks&quot;: [
+          &quot;Una redazione offre confronto tra registrazione e pagina mangiata.&quot;,
+          &quot;Un depositario chiede parere su due titoli che la matrice non sa distinguere.&quot;
+        ],
+        &quot;with_intervention&quot;: &quot;Raggiungere altra traccia, intervistare o delimitare la pubblicazione cambia prova e fiducia; non serve dichiarare falso un oggetto autentico.&quot;,
+        &quot;without_intervention&quot;: &quot;Redazione pubblica con nota di lacuna se manca contesto; deposito trattiene nei limiti pattuiti e chiede giudizio civile. Nessuna memoria collettiva riscritta.&quot;,
+        &quot;time_pressure&quot;: &quot;Edizione del 26 maggio; deposizione o deposito possono essere aggiornati con nuove prove.&quot;,
+        &quot;impact&quot;: &quot;🟡&quot;,
+        &quot;narrator_material&quot;: {
+          &quot;scene&quot;: &quot;Registrazione pronuncia la frase contestata, e il testimone spiega perché gli pareva vera.&quot;,
+          &quot;complication&quot;: &quot;Una copia più leggibile è meno antica ma può conservare fedelmente il testo.&quot;,
+          &quot;optional_twist&quot;: &quot;Il presunto avversario offre spontaneamente il documento che riduce l’accusa.&quot;
+        },
+        &quot;future_outcome&quot;: &quot;OPEN&quot;,
+        &quot;components&quot;: [
+          &quot;ART-007&quot;,
+          &quot;ART-009&quot;,
+          &quot;ART-012&quot;,
+          &quot;MAT-009&quot;,
+          &quot;CRE-008&quot;,
+          &quot;PEO-01&quot;,
+          &quot;PHN-005&quot;
+        ]
+      },
+      &quot;visual_caption&quot;: &quot;Campione illustrativo di Witness Lacquer. Forma, colore e finitura aiutano a riconoscere il materiale; non certificano da soli purezza, provenienza o investimento.&quot;
     },
     {
       &quot;id&quot;: &quot;MAT-010&quot;,
@@ -6781,7 +7487,82 @@
       &quot;current&quot;: &quot;Collare di ricambio non appartiene al lotto certificato.&quot;,
       &quot;unit&quot;: &quot;U11-06&quot;,
       &quot;incorporation&quot;: false,
-      &quot;future_outcome&quot;: &quot;OPEN&quot;
+      &quot;future_outcome&quot;: &quot;OPEN&quot;,
+      &quot;category&quot;: &quot;Elemento meccanico metallico&quot;,
+      &quot;appearance&quot;: &quot;Funi di fili ferrosi ritorti, con una struttura a trefoli visibile soprattutto al taglio. Collari e terminazioni sono componenti distinti. Una superficie nuova o ingrassata può nascondere usura interna, mentre un tratto opaco non è necessariamente fuori servizio.&quot;,
+      &quot;properties&quot;: &quot;Il comportamento dipende da fili, torsione, terminazioni e percorso di carico. Una fune non è una catena e un collare dall’aspetto simile non è automaticamente equivalente. Il carico dell’argano attraversa l’insieme: valutare soltanto il cavo ignora un possibile punto debole.&quot;,
+      &quot;processing&quot;: [
+        &quot;La filiera del ferro produce il materiale da trafilare e organizzare in fili riconoscibili.&quot;,
+        &quot;La torsione costruisce i trefoli, seguita da preparazione di collari e terminazioni compatibili.&quot;,
+        &quot;Il campione di carico e la sigla riguardano la partita provata; ricambi esterni richiedono un nuovo riscontro.&quot;
+      ],
+      &quot;checks&quot;: [
+        &quot;Confrontare la terminazione montata con quella del campione certificato: il documento può essere autentico e riguardare un altro collare.&quot;,
+        &quot;Esaminare deformazioni e fili visibili senza assumere che la sola superficie descriva l’interno.&quot;,
+        &quot;Ripetere la prova del servizio dopo una sostituzione pertinente, con percorso di carico controllato.&quot;
+      ],
+      &quot;examples&quot;: [
+        &quot;Un argano solleva un carico entro il servizio provato con cavo e collare conformi.&quot;,
+        &quot;Un manutentore respinge una terminazione entrata nel magazzino corretto ma non appartenente al lotto certificato.&quot;,
+        &quot;Una posizione Banner usa il cavo come supporto materiale; la tenuta dell’investimento non elimina una giunzione difettosa.&quot;
+      ],
+      &quot;storage&quot;: &quot;Piega, sfregamento, umidità e uso ripetuto cambiano lo stato della fune. Le tratte ritirate non vanno mescolate a quelle integre soltanto perché la lunghezza è comoda. Un nodo investito ancora operativo richiede una valutazione distinta prima del recupero del metallo.&quot;,
+      &quot;magic&quot;: &quot;Chain e Banner possono esercitare rapporti attraverso un supporto raggiunto, ma il ferro non lega la volontà di chi lo tocca. Un cavo creato o trasmutato può essere idoneo dopo prova; non eredita certificazione, installazione o nodo del precedente.&quot;,
+      &quot;economy&quot;: &quot;La disponibilità di ricambi rapidi incentiva sostituzioni apparentemente equivalenti. Il costo del fermo può premere sulla squadra, ma non sposta la responsabilità materiale del carico sul certificato.&quot;,
+      &quot;visual&quot;: &quot;Heavy coiled dark steel wire rope with a clean cut cross-section exposing twisted strands, a detached ordinary metal collar and a frayed rejected short sample kept apart, cargo winch workshop, no chain links, no enchanted binding.&quot;,
+      &quot;revision&quot;: 364,
+      &quot;continent&quot;: &quot;Mereth&quot;,
+      &quot;wiki_url&quot;: &quot;mat-010-reth-load-cable.html&quot;,
+      &quot;situation&quot;: {
+        &quot;id&quot;: &quot;U11-06&quot;,
+        &quot;name&quot;: &quot;The Safe Way Around&quot;,
+        &quot;location_id&quot;: &quot;LOC-055&quot;,
+        &quot;location&quot;: &quot;Keran&quot;,
+        &quot;activation&quot;: &quot;Attivo&quot;,
+        &quot;narrative_function&quot;: &quot;Vie, evacuazione e impatto ecologico.&quot;,
+        &quot;current&quot;: &quot;Un cuneo verificato tace mentre un masso vicino si muove. Mercanti preparano deviazione, mandria cerca altro passaggio. A Sarn il modulo di soccorso mantiene ispezione 27 maggio già fissata.&quot;,
+        &quot;conflict&quot;: &quot;Accesso sicuro contro costo della deviazione e necessità di preservare il passaggio animale.&quot;,
+        &quot;forces&quot;: [
+          {
+            &quot;actor&quot;: &quot;CAST-442&quot;,
+            &quot;wants&quot;: &quot;Percorso e tempi dichiarati per merci.&quot;,
+            &quot;fears&quot;: &quot;Il test venga scambiato per garanzia assoluta.&quot;,
+            &quot;limits&quot;: &quot;Mercante ordinario non estende Loom.&quot;
+          },
+          {
+            &quot;actor&quot;: &quot;CAST-285&quot;,
+            &quot;wants&quot;: &quot;Segnali e evacuazione nei limiti dell’argano.&quot;,
+            &quot;fears&quot;: &quot;Cavo da merci montato sul soccorso.&quot;,
+            &quot;limits&quot;: &quot;A Reth Narrows, incarichi e spostamenti reali, nessuna presenza simultanea a Keran.&quot;
+          }
+        ],
+        &quot;secret&quot;: &quot;Allarme non guasto: bersaglio del trigger incompleto. Il collare del modulo Sarn è di altro lotto.&quot;,
+        &quot;hooks&quot;: [
+          &quot;A Keran un carrettiere indica la crepa oltre il cuneo.&quot;,
+          &quot;A Sarn una squadra esibisce la giunzione di ricambio e chiede perizia del carico.&quot;
+        ],
+        &quot;with_intervention&quot;: &quot;Nuovo trigger, consolidamento, viaggio soprannaturale pertinente o deviazione cambiano flussi; non annullano debiti e diritti di territorio automaticamente.&quot;,
+        &quot;without_intervention&quot;: &quot;Mercanti deviano o attendono, manutentori limitano carico; mandria cambia pista. Frana richiede cedimento reale, non il mancato coinvolgimento del PG.&quot;,
+        &quot;time_pressure&quot;: &quot;Sarn 27 maggio; a Keran le misure quotidiane del masso determinano urgenza.&quot;,
+        &quot;impact&quot;: &quot;🟠&quot;,
+        &quot;narrator_material&quot;: {
+          &quot;scene&quot;: &quot;Campana silenziosa e pietra marcata integra, crepa visibile sulla roccia contigua.&quot;,
+          &quot;complication&quot;: &quot;Un bypass commerciale sposta i carri proprio sulla via stagionale della mandria.&quot;,
+          &quot;optional_twist&quot;: &quot;Raccoglitori accettano meno corno pur di evitare abbattimenti.&quot;
+        },
+        &quot;future_outcome&quot;: &quot;OPEN&quot;,
+        &quot;components&quot;: [
+          &quot;ART-010&quot;,
+          &quot;ART-022&quot;,
+          &quot;MAT-010&quot;,
+          &quot;MAT-017&quot;,
+          &quot;CRE-011&quot;,
+          &quot;CRE-018&quot;,
+          &quot;PEO-02&quot;,
+          &quot;PHN-006&quot;
+        ]
+      },
+      &quot;visual_caption&quot;: &quot;Campione illustrativo di Reth Load Cable. Forma, colore e finitura aiutano a riconoscere il materiale; non certificano da soli purezza, provenienza o investimento.&quot;
     },
     {
       &quot;id&quot;: &quot;MAT-011&quot;,
@@ -6798,7 +7579,80 @@
       &quot;current&quot;: &quot;Due autentici, uno attivo; consolidamento 29 maggio.&quot;,
       &quot;unit&quot;: &quot;U11-07&quot;,
       &quot;incorporation&quot;: false,
-      &quot;future_outcome&quot;: &quot;OPEN&quot;
+      &quot;future_outcome&quot;: &quot;OPEN&quot;,
+      &quot;category&quot;: &quot;Residuo investito&quot;,
+      &quot;appearance&quot;: &quot;Frammenti irregolari di pietra grigia, con superfici alterate e tratti di iscrizione interrotti. Due campioni possono apparire simili e avere stati diversi: uno conserva soltanto una traccia, l’altro anche una funzione residua. Il residuo non è un minerale luminoso presente in ogni vena della roccia.&quot;,
+      &quot;properties&quot;: &quot;Valore archeologico, autenticità materiale e attività soprannaturale sono tre domande differenti. Un frammento inerte può essere una prova autentica; un frammento attivo non rivela automaticamente tutta la storia da cui proviene. Intensità della reazione e completezza della testimonianza non coincidono.&quot;,
+      &quot;processing&quot;: [
+        &quot;Il prelievo registra strato e giacitura prima di isolare il campione dal contesto dell’argine.&quot;,
+        &quot;Custodia e diagnosi separano frammenti attivi, inerti e detrito comune senza miscelarli per comodità.&quot;,
+        &quot;Uso come Medium, consolidamento o conservazione richiedono di sapere quale rapporto si tenta di mantenere, non soltanto di possedere un pezzo antico.&quot;
+      ],
+      &quot;checks&quot;: [
+        &quot;Confrontare materiale, iscrizione e investimento come prove distinte; nessuna sostituisce automaticamente le altre.&quot;,
+        &quot;Documentare accesso e collegamento della sonda, evitando di interpretare una reazione come riconoscimento del nome del ricercatore.&quot;,
+        &quot;Confrontare i due campioni autentici e la loro provenienza con EVD-02: un sasso inattivo non è per questo falso.&quot;
+      ],
+      &quot;examples&quot;: [
+        &quot;Un deposito conserva un frammento inerte come evidenza della separazione storica.&quot;,
+        &quot;Una prova sul campione ancora investito incontra una risposta lungo il collegamento della sonda e deve essere interrotta.&quot;,
+        &quot;Un venditore propone ghiaia comune come ingrediente di ascensione: il materiale non sostiene quella promessa.&quot;
+      ],
+      &quot;storage&quot;: &quot;Rottura e pulitura possono disperdere un residuo, distruggere il contesto o aprire un rapporto che la crosta teneva separato. I contenitori devono identificare il campione e il suo stato, senza assumere che ogni scheggia mantenga la stessa funzione del blocco.&quot;,
+      &quot;magic&quot;: &quot;I residui dei Grey Brands riguardano rapporti coercitivi terminati e loro tracce; non sono marchi di schiavitù creati da Edran. Possedere una scheggia non incorpora un’Effige né consegna una Seat. Ricreare la pietra produce materia, non l’identico passato del campione.&quot;,
+      &quot;economy&quot;: &quot;Restauratori, cantiere e custodi della prova devono decidere come non perdere evidenze durante un’opera utile. Rarità e mercato possono favorire falsi, senza che ogni prezzo alto corrisponda a una potenza alta.&quot;,
+      &quot;visual&quot;: &quot;Two weathered grey stone fragments on separate padded conservation supports, broken partial carved lines with no readable script, one showing only a restrained thin dark-red invested seam and the other entirely inert, archaeological sampling light. Not crystals, not a complete glowing tablet, no marks on a person.&quot;,
+      &quot;revision&quot;: 364,
+      &quot;continent&quot;: &quot;Mereth&quot;,
+      &quot;wiki_url&quot;: &quot;mat-011-invested-stone-fragments.html&quot;,
+      &quot;situation&quot;: {
+        &quot;id&quot;: &quot;U11-07&quot;,
+        &quot;name&quot;: &quot;Two Honest Stones&quot;,
+        &quot;location_id&quot;: &quot;LOC-032&quot;,
+        &quot;location&quot;: &quot;Grey Embankment&quot;,
+        &quot;activation&quot;: &quot;Attivo&quot;,
+        &quot;narrative_function&quot;: &quot;Rovine, navigazione e conservazione; moduli separati.&quot;,
+        &quot;current&quot;: &quot;Due blocchi autentici sono catalogati prima del cantiere. Al modulo South Shoals i piloti già confrontano bussole e scandagli; al porto il dragaggio minaccia colonia di filtratori.&quot;,
+        &quot;conflict&quot;: &quot;Salvare prove e servizio senza attribuire a tutto il paesaggio il potere di un frammento.&quot;,
+        &quot;forces&quot;: [
+          {
+            &quot;actor&quot;: &quot;CAST-030&quot;,
+            &quot;wants&quot;: &quot;Provenienza e campioni separati.&quot;,
+            &quot;fears&quot;: &quot;Una vendita cancelli contesto.&quot;,
+            &quot;limits&quot;: &quot;Archive III non conosce tutto da un solo frammento.&quot;
+          },
+          {
+            &quot;actor&quot;: &quot;CAST-078&quot;,
+            &quot;wants&quot;: &quot;Dragaggio sicuro e approdi utilizzabili.&quot;,
+            &quot;fears&quot;: &quot;Un canale riaperto danneggi una riva.&quot;,
+            &quot;limits&quot;: &quot;Tecnico ordinario, altri moduli richiedono viaggi o corrispondenza.&quot;
+          }
+        ],
+        &quot;secret&quot;: &quot;Un blocco attivo e uno inerte; echo non personale. Le marche South Shoals sono un caso tecnico distinto, non una pista garantita verso il tradimento.&quot;,
+        &quot;hooks&quot;: [
+          &quot;Un appaltatore mostra campioni isolati e piano di consolidamento.&quot;,
+          &quot;A Belanne un bollettino invita periti a confrontare bussole presso l’apparato.&quot;
+        ],
+        &quot;with_intervention&quot;: &quot;Campionare, stabilizzare, sostituire funzione o separare canale consente servizio e conservazione; soluzione competente non richiede distruzione di tutto il sito.&quot;,
+        &quot;without_intervention&quot;: &quot;Cantiere conserva campioni e consolida, porto devia traffico, piloti seguono bollettino. Informazioni rimaste sepolte non diventano annullate universalmente.&quot;,
+        &quot;time_pressure&quot;: &quot;29 maggio cantiere, 3 giugno dragaggio, 6 giugno revisione; tre calendari reali distinti.&quot;,
+        &quot;impact&quot;: &quot;🟠&quot;,
+        &quot;narrator_material&quot;: {
+          &quot;scene&quot;: &quot;Due pietre genuine, una reagisce e l’altra no; venditore giura che vengono dallo stesso muro.&quot;,
+          &quot;complication&quot;: &quot;Consolidare conserva sicurezza ma rende più costosa l’indagine sullo strato non campionato.&quot;,
+          &quot;optional_twist&quot;: &quot;Il pezzo costoso è inerte; quello usato come fermaporta conserva traccia attiva.&quot;
+        },
+        &quot;future_outcome&quot;: &quot;OPEN&quot;,
+        &quot;components&quot;: [
+          &quot;ART-011&quot;,
+          &quot;ART-025&quot;,
+          &quot;MAT-011&quot;,
+          &quot;CRE-001&quot;,
+          &quot;CRE-009&quot;,
+          &quot;PHN-007&quot;
+        ]
+      },
+      &quot;visual_caption&quot;: &quot;Confronto illustrativo fra frammento inerte e residuo ancora investito: il segno visualizza la distinzione, non sostituisce una diagnosi.&quot;
     },
     {
       &quot;id&quot;: &quot;MAT-012&quot;,
@@ -6815,7 +7669,81 @@
       &quot;current&quot;: &quot;Due distretti chiedono lo stesso lotto fertile.&quot;,
       &quot;unit&quot;: &quot;U11-08&quot;,
       &quot;incorporation&quot;: false,
-      &quot;future_outcome&quot;: &quot;OPEN&quot;
+      &quot;future_outcome&quot;: &quot;OPEN&quot;,
+      &quot;category&quot;: &quot;Semente coltivata&quot;,
+      &quot;appearance&quot;: &quot;Semi asciutti di una linea coltivata, conservati in piccoli lotti separati. Provenienza e confezione contano più di un colore riconoscibile a distanza: un sacco può contenere linee mescolate. Il tratto tollerante non rende i semi gemme o oggetti visibilmente magici.&quot;,
+      &quot;properties&quot;: &quot;Tollerare un certo ambiente salino non significa prosperare in qualunque concentrazione né essere sempre fertili. Vitalità, ereditarietà del tratto e condizioni del terreno vanno verificate separatamente. Una semina fallita può dipendere dal lotto, dal suolo o da entrambi.&quot;,
+      &quot;processing&quot;: [
+        &quot;Le piante genitrici e la raccolta devono restare identificabili prima di mescolare le partite.&quot;,
+        &quot;Prove di germinazione e di terreno servono a classificare il materiale, non soltanto a scegliere un marchio commerciale.&quot;,
+        &quot;Deposito e distribuzione conservano separazione e condizioni del seme fino alla semina effettiva.&quot;
+      ],
+      &quot;checks&quot;: [
+        &quot;Far germinare campioni separati delle linee dichiarate e annotare quanta parte del lotto risponde.&quot;,
+        &quot;Confrontare suoli e salinità compatibili con la prova: non attribuire al seme una prestazione mai verificata.&quot;,
+        &quot;Riscontrare registri dei genitori e contenuto reale della confezione; un timbro non certifica ogni seme.&quot;
+      ],
+      &quot;examples&quot;: [
+        &quot;Una cooperativa riserva il lotto fertile a una parcella e sceglie un’altra varietà per il secondo distretto.&quot;,
+        &quot;ART-015 favorisce il tratto realmente presente senza rendere fertile ogni seme sterile della miscela.&quot;,
+        &quot;Una nuova linea compatibile viene prodotta o introdotta, poi valutata prima di promettere la stessa resa in tutti i campi.&quot;
+      ],
+      &quot;storage&quot;: &quot;Umidità, condizioni del deposito e mescolanze possono cambiare vitalità e identità commerciale. Un seme trasferito in un nuovo sacco non acquista la genealogia scritta sull’etichetta. Le scorte vanno confrontate con il tempo utile rimasto per la semina.&quot;,
+      &quot;magic&quot;: &quot;Seed può intervenire sulla linea secondo le proprie autorità; un coltivatore ordinario non acquisisce tali capacità usando il seme. Cradle può generare un organismo congruo al proprio esercizio, ma non rende infinito suolo, nutrimento o acqua e non cancella debiti già maturati.&quot;,
+      &quot;economy&quot;: &quot;Due distretti possono contendersi un lotto effettivamente fertile. La priorità di consegna ha conseguenze politiche e alimentari; la decisione non è risolta dal fatto che il venditore abbia applicato una denominazione prestigiosa.&quot;,
+      &quot;visual&quot;: &quot;Close view of a single crop seed material: small dry buff-grey oval seeds with natural husks sorted into shallow wooden sampling trays, one tiny germination sample with two simple green shoots nearby, cloth seed pouch, realistic agricultural station light, no gemstones or glowing magic.&quot;,
+      &quot;revision&quot;: 364,
+      &quot;continent&quot;: &quot;Caldris&quot;,
+      &quot;wiki_url&quot;: &quot;mat-012-qadra-salt-tolerant-seed.html&quot;,
+      &quot;situation&quot;: {
+        &quot;id&quot;: &quot;U11-08&quot;,
+        &quot;name&quot;: &quot;A Harvest with Conditions&quot;,
+        &quot;location_id&quot;: &quot;LOC-042&quot;,
+        &quot;location&quot;: &quot;Qadra&quot;,
+        &quot;activation&quot;: &quot;Attivo&quot;,
+        &quot;narrative_function&quot;: &quot;Risorse alimentari, sviluppo e commercio.&quot;,
+        &quot;current&quot;: &quot;Cooperative confrontano semi prima di distribuire. Moduli Low Fen, Aldora, Serele e Mareth trattano raccolti, accessi e trasporto di fauna; non una spedizione unica su più continenti.&quot;,
+        &quot;conflict&quot;: &quot;Produrre senza convertire un adattamento limitato in promessa universale di resa.&quot;,
+        &quot;forces&quot;: [
+          {
+            &quot;actor&quot;: &quot;CAST-367&quot;,
+            &quot;wants&quot;: &quot;Lotto fertile e acqua concordata.&quot;,
+            &quot;fears&quot;: &quot;Perdere una semina per prova tardiva.&quot;,
+            &quot;limits&quot;: &quot;Coltivatore ordinario non incorpora Seed tramite semi.&quot;
+          },
+          {
+            &quot;actor&quot;: &quot;CAST-342&quot;,
+            &quot;wants&quot;: &quot;Silo e strada accessibili.&quot;,
+            &quot;fears&quot;: &quot;La barriera Banner sia un pretesto per monopolio.&quot;,
+            &quot;limits&quot;: &quot;Congedato ordinario, nessun comando divino del presidio.&quot;
+          }
+        ],
+        &quot;secret&quot;: &quot;Partita mescolata, non castigo del dio; fauna elettrica non batteria infinita e canne luminose non Halo.&quot;,
+        &quot;hooks&quot;: [
+          &quot;Un sacco venduto con marchio fertile contiene due tipi di semi; campione disponibile.&quot;,
+          &quot;Un presidio del silo chiede alternative per mantenere accesso senza bloccare raccolta.&quot;
+        ],
+        &quot;with_intervention&quot;: &quot;Separazione, nuove risorse congrue, distribuzione, negoziazione o infrastruttura possono risolvere; Cradle crea davvero, non deve fingere incapacità per preservare scarsità.&quot;,
+        &quot;without_intervention&quot;: &quot;Cooperative riducono superficie o usano varietà alternative, presidio corregge corsia, allevatori isolano vasche; prezzi cambiano per quantità reali.&quot;,
+        &quot;time_pressure&quot;: &quot;Finestra di semina locale verificata con clima del luogo; non medesima stagione per cinque continenti.&quot;,
+        &quot;impact&quot;: &quot;🟡&quot;,
+        &quot;narrator_material&quot;: {
+          &quot;scene&quot;: &quot;Tre vasche di germinazione: sale tollerato, semi sterili e campione di controllo.&quot;,
+          &quot;complication&quot;: &quot;Una varietà fertile può reggere il sale ma richiedere più acqua di quella disponibile.&quot;,
+          &quot;optional_twist&quot;: &quot;Una comunità propone condivisione invece di acquistare tutta la partita.&quot;
+        },
+        &quot;future_outcome&quot;: &quot;OPEN&quot;,
+        &quot;components&quot;: [
+          &quot;ART-013&quot;,
+          &quot;ART-015&quot;,
+          &quot;MAT-012&quot;,
+          &quot;CRE-005&quot;,
+          &quot;CRE-012&quot;,
+          &quot;CRE-017&quot;,
+          &quot;PHN-008&quot;
+        ]
+      },
+      &quot;visual_caption&quot;: &quot;Campione illustrativo di Qadra Salt-Tolerant Seed. Forma, colore e finitura aiutano a riconoscere il materiale; non certificano da soli purezza, provenienza o investimento.&quot;
     },
     {
       &quot;id&quot;: &quot;MAT-013&quot;,
@@ -6832,7 +7760,81 @@
       &quot;current&quot;: &quot;Clinica lo pubblicizza come cura universale del sonno.&quot;,
       &quot;unit&quot;: &quot;U11-11&quot;,
       &quot;incorporation&quot;: false,
-      &quot;future_outcome&quot;: &quot;OPEN&quot;
+      &quot;future_outcome&quot;: &quot;OPEN&quot;,
+      &quot;category&quot;: &quot;Fibra biologica&quot;,
+      &quot;appearance&quot;: &quot;Filo sottile e regolare prodotto dai bozzoli delle Loom Moths, raccolto in rocchetti o tessuto in una superficie fine. La lucentezza morbida lo distingue dal lino più opaco; il nome Dream Silk è commerciale e non descrive un bagliore soprannaturale.&quot;,
+      &quot;properties&quot;: &quot;La fibra offre finezza e continuità utili a supporti delicati, entro qualità della filatura e tensione previste. Un filo integro può arrivare in una confezione contaminata da uova; il problema biologico della spedizione non coincide con un’intrusione nei sogni.&quot;,
+      &quot;processing&quot;: [
+        &quot;L’allevamento sostiene larve e disponibilità di foglie, distinguendo produzione di fibra e riproduzione della colonia.&quot;,
+        &quot;La filiera usa bozzoli non riproduttivi, poi filatura e controllo prima dell’invio ai telai.&quot;,
+        &quot;Confezione e verifica devono evitare il trasferimento di uova vive nei reparti che useranno il tessuto.&quot;
+      ],
+      &quot;checks&quot;: [
+        &quot;Esaminare regolarità e tenuta del filo sotto le condizioni del supporto, senza promettere resistenza universale.&quot;,
+        &quot;Controllare con microscopia o mezzi appropriati le confezioni, le fibre e gli eventuali residui biologici.&quot;,
+        &quot;Provare separatamente l’investimento Labyrinth quando è stato davvero applicato: il nome del filo non lo attesta.&quot;
+      ],
+      &quot;examples&quot;: [
+        &quot;Un telaio prepara un supporto sottile per un apparato interiore, poi il suo esercizio viene investito e provato.&quot;,
+        &quot;Un lotto esteticamente buono viene isolato perché trasporta uova verso la clinica.&quot;,
+        &quot;Una fibra equivalente sostituisce la seta dopo verifica, senza ereditare una difesa mentale dal tessuto rimosso.&quot;
+      ],
+      &quot;storage&quot;: &quot;Le condizioni del filo e quelle dell’imballaggio vanno conservate insieme. Un controllo sommario sul rocchetto non esclude uova nella confezione. Fughe dall’allevamento possono danneggiare orti, pur restando animali ordinari e non creature di Loom.&quot;,
+      &quot;magic&quot;: &quot;La seta non ruba sogni, non predice il destino e non elimina il bisogno di dormire. Labyrinth può usare un supporto pertinente con la propria fonte; nessuna autorità viene incorporata indossando una sciarpa. Una replica della fibra non crea il precedente investimento.&quot;,
+      &quot;economy&quot;: &quot;Filatori, allevatori e cliniche possono avere esigenze diverse sui tempi di consegna. Una pubblicità che promette cura universale del sonno sfrutta il prestigio del tessuto e confonde materia, apparato e risultato clinico.&quot;,
+      &quot;visual&quot;: &quot;Pearly fine silk thread from pale moth cocoons on small wooden bobbins, one flowing translucent silver-ivory silk fold with soft lustre, intimate textile atelier light, cocoon texture visible. No living moth as main subject, no stars, no dream visions or glowing threads.&quot;,
+      &quot;revision&quot;: 364,
+      &quot;continent&quot;: &quot;Iskar&quot;,
+      &quot;wiki_url&quot;: &quot;mat-013-dream-silk.html&quot;,
+      &quot;situation&quot;: {
+        &quot;id&quot;: &quot;U11-11&quot;,
+        &quot;name&quot;: &quot;A Person Is Not a Device&quot;,
+        &quot;location_id&quot;: &quot;LOC-022&quot;,
+        &quot;location&quot;: &quot;Corten&quot;,
+        &quot;activation&quot;: &quot;Attivo&quot;,
+        &quot;narrative_function&quot;: &quot;Consenso, identità e istituzioni del quotidiano.&quot;,
+        &quot;current&quot;: &quot;Il caso di un morto custodito richiede consenso all’interrogatorio. Modulo Mersa tratta riposo e fibra; modulo Corten include compagnia teatrale: canali concreti, non un unico complotto.&quot;,
+        &quot;conflict&quot;: &quot;Usare una capacità senza confondere apparenza, cura o testimonianza con proprietà sulla persona.&quot;,
+        &quot;forces&quot;: [
+          {
+            &quot;actor&quot;: &quot;CAST-323&quot;,
+            &quot;wants&quot;: &quot;Contratto valido e rischio dichiarato.&quot;,
+            &quot;fears&quot;: &quot;Finanziatore si appropria di identità e immagine.&quot;,
+            &quot;limits&quot;: &quot;Legale ordinaria, non riconfigura Mask.&quot;
+          },
+          {
+            &quot;actor&quot;: &quot;CAST-410&quot;,
+            &quot;wants&quot;: &quot;Testimonianze raggiungano destinatario integre.&quot;,
+            &quot;fears&quot;: &quot;Pubblicare dialogo ottenuto senza consenso.&quot;,
+            &quot;limits&quot;: &quot;Corriere a Mersa, notizie tramite viaggio o messaggi.&quot;
+          }
+        ],
+        &quot;secret&quot;: &quot;Modello Mask consenziente, custodia del morto distinta da replay, protezione emotiva distinta da sonno sufficiente. Nessun rinnovo conferisce potere su tutto il popolo Nethri.&quot;,
+        &quot;hooks&quot;: [
+          &quot;La famiglia consegna un consenso con limiti espliciti all’uso della testimonianza.&quot;,
+          &quot;Un lavoratore porta contratto dei turni e dati del telaio di riposo.&quot;
+        ],
+        &quot;with_intervention&quot;: &quot;Delimitare uso, garantire riposo, verificare continuità e rendere separabile sostegno cambiano rapporti. Un potere può smascherare o proteggere, non rendere vera una menzogna civile.&quot;,
+        &quot;without_intervention&quot;: &quot;Famiglia negozia accesso o rifiuta, clinica corregge turni se prove convincenti, compagnia mantiene uso teatrale dichiarato. Nessuna alleanza o romance fissato.&quot;,
+        &quot;time_pressure&quot;: &quot;Revisione dei contratti 28 maggio, vincolo civile rinviabile; urgenza fisica segue condizioni del paziente.&quot;,
+        &quot;impact&quot;: &quot;🟡&quot;,
+        &quot;narrator_material&quot;: {
+          &quot;scene&quot;: &quot;Due supporti sembrano parlare: uno risponde a una domanda nuova, l’altro ripete il medesimo gesto.&quot;,
+          &quot;complication&quot;: &quot;Ripristinare una voce non ricostruisce ogni memoria mancante.&quot;,
+          &quot;optional_twist&quot;: &quot;Il morto rifiuta la domanda dei parenti ma accetta di discutere una scelta per la propria custodia.&quot;
+        },
+        &quot;future_outcome&quot;: &quot;OPEN&quot;,
+        &quot;components&quot;: [
+          &quot;ART-019&quot;,
+          &quot;ART-020&quot;,
+          &quot;MAT-013&quot;,
+          &quot;CRE-015&quot;,
+          &quot;CRE-019&quot;,
+          &quot;PEO-05&quot;,
+          &quot;PHN-011&quot;
+        ]
+      },
+      &quot;visual_caption&quot;: &quot;Campione illustrativo di Dream Silk. Forma, colore e finitura aiutano a riconoscere il materiale; non certificano da soli purezza, provenienza o investimento.&quot;
     },
     {
       &quot;id&quot;: &quot;MAT-014&quot;,
@@ -6849,7 +7851,79 @@
       &quot;current&quot;: &quot;Sostituzione prima dei test locali della Veglia.&quot;,
       &quot;unit&quot;: &quot;U11-09&quot;,
       &quot;incorporation&quot;: false,
-      &quot;future_outcome&quot;: &quot;OPEN&quot;
+      &quot;future_outcome&quot;: &quot;OPEN&quot;,
+      &quot;category&quot;: &quot;Feltro tecnico&quot;,
+      &quot;appearance&quot;: &quot;Feltro nero fitto, dall’aspetto opaco e dal taglio fibroso. La superficie non mostra l’intreccio regolare di una tela: deriva dalla lavorazione delle fibre di lana. Campioni di spessore diverso chiariscono che il colore uniforme non descrive tutta la struttura.&quot;,
+      &quot;properties&quot;: &quot;Il materiale può attenuare componenti acustiche secondo posa, spessore e condizioni, senza cancellare ogni rumore. Imbevuto, compresso o montato male cambia comportamento. Assorbire luce visibile e filtrare informazione spirituale sono funzioni distinte.&quot;,
+      &quot;processing&quot;: [
+        &quot;Greggi e lavaggio preparano una lana da tenere separata da contaminanti e scarti non dichiarati.&quot;,
+        &quot;Infeltrimento e pigmento formano il pannello, che va controllato per continuità e spessore.&quot;,
+        &quot;Cornice e posa preparano il servizio ordinario; l’eventuale filtro Eclipse richiede un investimento reale sul supporto corretto.&quot;
+      ],
+      &quot;checks&quot;: [
+        &quot;Confrontare risposta acustica del pannello montato e del solo tessuto, cercando le vie esterne alla copertura.&quot;,
+        &quot;Verificare umidità e continuità degli strati, senza considerare il nero una prova di efficacia.&quot;,
+        &quot;Eseguire una diagnosi distinta del canale spirituale investito e della sua riserva.&quot;
+      ],
+      &quot;examples&quot;: [
+        &quot;Un ricovero riduce il rumore di un vano senza impedire il passaggio dalla porta.&quot;,
+        &quot;Una tenda nuova sostituisce il materiale ma lascia il vecchio filtro sulla cornice dismessa.&quot;,
+        &quot;Una perizia distingue il peggioramento acustico dovuto all’umidità da un problema di occultamento.&quot;
+      ],
+      &quot;storage&quot;: &quot;Umidità e incendio sono rischi materiali. La sostituzione parziale può lasciare strati deteriorati che non si vedono dalla superficie. I pannelli rimossi vanno distinti da quelli nuovi quando conservano ancora una funzione investita.&quot;,
+      &quot;magic&quot;: &quot;Il nero non è un obbligo metafisico per Eclipse. Un’altra materia idonea può sostenere una configurazione dopo prova, mentre un feltro identico può esserne privo. Spegnere o rifare il filtro non pulisce automaticamente muffa o sporco.&quot;,
+      &quot;economy&quot;: &quot;Manutentori e utenti devono sapere se comprano attenuazione del rumore, riservatezza di un canale o entrambe. Il rinnovo dei materiali può essere economico e lasciare comunque incompleto il lavoro per cui il servizio è pagato.&quot;,
+      &quot;visual&quot;: &quot;Deep matte black wool felt roll with a thick cut edge exposing densely matted fibres, two layered felt swatches on a pale workshop board, side lighting makes the fuzzy non-woven texture readable. No woven silk, no black smoke, no supernatural void.&quot;,
+      &quot;revision&quot;: 364,
+      &quot;continent&quot;: &quot;Nareth&quot;,
+      &quot;wiki_url&quot;: &quot;mat-014-noran-black-felt.html&quot;,
+      &quot;situation&quot;: {
+        &quot;id&quot;: &quot;U11-09&quot;,
+        &quot;name&quot;: &quot;Privacy with Two Doors&quot;,
+        &quot;location_id&quot;: &quot;LOC-051&quot;,
+        &quot;location&quot;: &quot;Noran&quot;,
+        &quot;activation&quot;: &quot;Attivo&quot;,
+        &quot;narrative_function&quot;: &quot;Riservatezza, culto e custodia dei morti.&quot;,
+        &quot;current&quot;: &quot;Sale funerarie rinnovano tende e verificano uscite. Una cassa di quiete è richiesta da famiglia e legale; le due questioni restano distinguibili.&quot;,
+        &quot;conflict&quot;: &quot;Proteggere colloqui senza sequestrare persone o chiamare ogni silenzio quiete dei morti.&quot;,
+        &quot;forces&quot;: [
+          {
+            &quot;actor&quot;: &quot;CAST-177&quot;,
+            &quot;wants&quot;: &quot;Riservatezza con evacuazione possibile.&quot;,
+            &quot;fears&quot;: &quot;Filtro locale usato per recludere.&quot;,
+            &quot;limits&quot;: &quot;Eclipse IV, non Sepulchre e non controllo della Root.&quot;
+          },
+          {
+            &quot;actor&quot;: &quot;CAST-423&quot;,
+            &quot;wants&quot;: &quot;Consenso della famiglia verificato.&quot;,
+            &quot;fears&quot;: &quot;Una cassetta vuota venga trattata come persona.&quot;,
+            &quot;limits&quot;: &quot;Legale ordinario, non risveglia morti.&quot;
+          }
+        ],
+        &quot;secret&quot;: &quot;Muffa fisica su cornice ancora investita; la seconda cassetta è cenere inerte. Non aggiungere anima dove il residuo non c’è.&quot;,
+        &quot;hooks&quot;: [
+          &quot;Un test delle uscite ammette un osservatore indipendente.&quot;,
+          &quot;Una famiglia chiede verifica delle cassette prima del trasferimento.&quot;
+        ],
+        &quot;with_intervention&quot;: &quot;Separare matrice e sostanza, diagnosticare residuo, mantenere porte e consenso migliora servizio. Una contesa superiore non si risolve soltanto timbrando un modulo.&quot;,
+        &quot;without_intervention&quot;: &quot;Sale ritirano tenda difettosa, cassa resta custodita nei limiti legittimi, legale cerca altra prova; Varessa segue propria unità già fissata, non aspetta questa scena.&quot;,
+        &quot;time_pressure&quot;: &quot;Test locale 23 maggio; rinnovo superiore 30 giugno distinto.&quot;,
+        &quot;impact&quot;: &quot;🟡&quot;,
+        &quot;narrator_material&quot;: {
+          &quot;scene&quot;: &quot;In una stanza buia l’allarme ordinario funziona; in quella illuminata il filtro spirituale è spento.&quot;,
+          &quot;complication&quot;: &quot;La famiglia desidera silenzio ma non isolamento materiale dal medico.&quot;,
+          &quot;optional_twist&quot;: &quot;Un custode sospende spontaneamente una custodia che avrebbe aumentato il proprio prestigio.&quot;
+        },
+        &quot;future_outcome&quot;: &quot;OPEN&quot;,
+        &quot;components&quot;: [
+          &quot;ART-016&quot;,
+          &quot;ART-017&quot;,
+          &quot;MAT-014&quot;,
+          &quot;CRE-013&quot;,
+          &quot;PHN-009&quot;
+        ]
+      },
+      &quot;visual_caption&quot;: &quot;Campione illustrativo di Noran Black Felt. Forma, colore e finitura aiutano a riconoscere il materiale; non certificano da soli purezza, provenienza o investimento.&quot;
     },
     {
       &quot;id&quot;: &quot;MAT-015&quot;,
@@ -6866,7 +7940,78 @@
       &quot;current&quot;: &quot;Una lamina usata è tornata fra le integre.&quot;,
       &quot;unit&quot;: &quot;U11-10&quot;,
       &quot;incorporation&quot;: false,
-      &quot;future_outcome&quot;: &quot;OPEN&quot;
+      &quot;future_outcome&quot;: &quot;OPEN&quot;,
+      &quot;category&quot;: &quot;Lamina riflettente&quot;,
+      &quot;appearance&quot;: &quot;Argento laminato sottile, lucidato su un supporto con componenti ceramiche. Il bordo rivela lo spessore del metallo; riflessi e abrasioni cambiano con l’angolo di osservazione. Una lamina usata può ancora restituire un’immagine nitida.&quot;,
+      &quot;properties&quot;: &quot;Riflessione, integrità del montaggio e capacità investita non coincidono. Un graffio può disturbare l’uso ottico senza consumare da solo ogni funzione; una riserva difensiva può essere esaurita lasciando intatta la riflessione ordinaria. La specifica del servizio decide che cosa verificare.&quot;,
+      &quot;processing&quot;: [
+        &quot;L’argento importato entra in una filiera di laminazione e pulitura distinta dalla produzione ceramica locale.&quot;,
+        &quot;Il montaggio prepara la superficie senza assumere che ogni supporto rifletta nello stesso modo sotto sforzo.&quot;,
+        &quot;L’investimento individuale e il registro di uso seguono la preparazione materiale: un lotto non condivide automaticamente una riserva unica.&quot;
+      ],
+      &quot;checks&quot;: [
+        &quot;Usare luce radente e confronto della superficie per individuare abrasioni e microfratture.&quot;,
+        &quot;Riscontrare il registro di uso con la diagnosi dell’investimento, senza usare la nitidezza del riflesso come indicatore di carica.&quot;,
+        &quot;Preparare una prova non lesiva e controllata, invece di aggredire una persona protetta per verificare il materiale.&quot;
+      ],
+      &quot;examples&quot;: [
+        &quot;Una scuola ritira la lamina già usata anche se riflette ancora il cortile.&quot;,
+        &quot;Un supporto nuovo viene predisposto e investito per una funzione difensiva specifica, con consumo registrato.&quot;,
+        &quot;Un riflettente alternativo viene provato senza attribuirgli identità o memoria del testimone precedente.&quot;
+      ],
+      &quot;storage&quot;: &quot;Le superfici richiedono protezione da abrasione e urti; le scorte vanno separate per stato e impiego. Rimettere una lamina consumata fra quelle nuove può creare un errore di disponibilità senza modificare il metallo.&quot;,
+      &quot;magic&quot;: &quot;La lamina non è una porzione di Basin e non crea un doppio di chi vi si specchia. Crescent esercita il proprio rapporto attraverso un supporto pertinente; possedere argento non trasferisce una lesione su chiunque venga riflesso. Una copia materiale non restituisce un testimone perduto.&quot;,
+      &quot;economy&quot;: &quot;Importazione e lavorazione non sono gli unici costi: conta la disponibilità di investimento e prova. L’errore di magazzino confonde valore recuperabile del metallo e disponibilità della funzione per la scuola.&quot;,
+      &quot;visual&quot;: &quot;A thin polished silver lamina mounted partly on an ivory ceramic backing, one lifted corner reveals the actual sheet edge, clean realistic reflection of an empty window and fine surface abrasions, valley instrument workshop. No person in reflection, no magic mirror portal or ornate complete hand mirror.&quot;,
+      &quot;revision&quot;: 364,
+      &quot;continent&quot;: &quot;Veyra&quot;,
+      &quot;wiki_url&quot;: &quot;mat-015-tevren-silver-lamina.html&quot;,
+      &quot;situation&quot;: {
+        &quot;id&quot;: &quot;U11-10&quot;,
+        &quot;name&quot;: &quot;The Lamina Already Broken&quot;,
+        &quot;location_id&quot;: &quot;LOC-058&quot;,
+        &quot;location&quot;: &quot;Tevren&quot;,
+        &quot;activation&quot;: &quot;Attivo&quot;,
+        &quot;narrative_function&quot;: &quot;Pratiche rituali, apprendimento e fiducia.&quot;,
+        &quot;current&quot;: &quot;Scuola di valle separa lamine consumate e integre; allievi chiedono che la Larva didattica sia diagnosticata prima di dismetterla.&quot;,
+        &quot;conflict&quot;: &quot;Dimostrare protezione senza colpire una persona per produrre spettacolo.&quot;,
+        &quot;forces&quot;: [
+          {
+            &quot;actor&quot;: &quot;CAST-184&quot;,
+            &quot;wants&quot;: &quot;Prova sicura e corrispondenza rituale valida.&quot;,
+            &quot;fears&quot;: &quot;Scorte vecchie facciano perdere fiducia al rito.&quot;,
+            &quot;limits&quot;: &quot;Crescent IV non rende ogni specchio un Living Mirror.&quot;
+          },
+          {
+            &quot;actor&quot;: &quot;CAST-460&quot;,
+            &quot;wants&quot;: &quot;Lezioni e registri disponibili agli allievi.&quot;,
+            &quot;fears&quot;: &quot;Consumo confuso con fallimento morale.&quot;,
+            &quot;limits&quot;: &quot;Ordinario, non rifornisce la matrice.&quot;
+          }
+        ],
+        &quot;secret&quot;: &quot;Lamina consumata durante prova; automatismo non ancora dimostrato personale. Il difetto non dipende dal luogo essere valle invece di porto.&quot;,
+        &quot;hooks&quot;: [
+          &quot;Un verbale di inventario segnala microfratture prima del test.&quot;,
+          &quot;Un’allieva chiede di confrontare due attivazioni identiche della Larva.&quot;
+        ],
+        &quot;with_intervention&quot;: &quot;Sostituire, investire e provare con bersaglio non personale; se emerge coscienza autentica riconoscerne autonomia. Non si incorpora Crescent da una lezione teorica.&quot;,
+        &quot;without_intervention&quot;: &quot;Scuola elimina supporti consumati, sospende dimostrazione rischiosa e conserva campione. Ilyren gestisce il proprio accordo superiore secondo dossier463, non viene neutralizzata dal magazzino.&quot;,
+        &quot;time_pressure&quot;: &quot;23 maggio prova locale; 30 giugno rinnovo superiore, senza equivalenza fra carenza di lamina e caduta divina.&quot;,
+        &quot;impact&quot;: &quot;🟡&quot;,
+        &quot;narrator_material&quot;: {
+          &quot;scene&quot;: &quot;Specchio perfettamente lucido rivela microcrepa controluce mentre il registro lo chiama nuovo.&quot;,
+          &quot;complication&quot;: &quot;Un ricambio riflette bene ma non ha ancora investimento; trasparenza commerciale non basta.&quot;,
+          &quot;optional_twist&quot;: &quot;Il responsabile della svista è chi l’ha denunciata prima del test.&quot;
+        },
+        &quot;future_outcome&quot;: &quot;OPEN&quot;,
+        &quot;components&quot;: [
+          &quot;ART-018&quot;,
+          &quot;MAT-015&quot;,
+          &quot;CRE-014&quot;,
+          &quot;PHN-010&quot;
+        ]
+      },
+      &quot;visual_caption&quot;: &quot;Campione illustrativo di Tevren Silver Lamina. Forma, colore e finitura aiutano a riconoscere il materiale; non certificano da soli purezza, provenienza o investimento.&quot;
     },
     {
       &quot;id&quot;: &quot;MAT-016&quot;,
@@ -6883,7 +8028,88 @@
       &quot;current&quot;: &quot;Depuratore mantiene setti oltre il limite.&quot;,
       &quot;unit&quot;: &quot;U11-12&quot;,
       &quot;incorporation&quot;: false,
-      &quot;future_outcome&quot;: &quot;OPEN&quot;
+      &quot;future_outcome&quot;: &quot;OPEN&quot;,
+      &quot;category&quot;: &quot;Mezzo filtrante vegetale&quot;,
+      &quot;appearance&quot;: &quot;Midollo chiaro e spugnoso, tagliato da vegetazione palustre e compattato in setti. Il taglio mostra cavità e fibre diverse dalla tessitura di una stoffa o dalla grana di una ceramica. Un pezzo esausto può apparire ancora intero.&quot;,
+      &quot;properties&quot;: &quot;Il filtro trattiene o adsorbe componenti secondo materiale, liquido e carico raggiunto. Non seleziona ogni sostanza indesiderata per significato. La capacità può esaurirsi e una pulitura impropria può rimettere in circolo ciò che era stato trattenuto.&quot;,
+      &quot;processing&quot;: [
+        &quot;Il taglio rotativo mantiene disponibile la coltura invece di distruggere l’intera risorsa a ogni raccolta.&quot;,
+        &quot;Lavaggio e pressatura preparano i setti con spessore e continuità da controllare.&quot;,
+        &quot;Montaggio, uso e smaltimento separano materiale fresco e carico esausto, evitando scambi nel servizio.&quot;
+      ],
+      &quot;checks&quot;: [
+        &quot;Confrontare liquido in ingresso e uscita con analisi pertinenti al contaminante cercato.&quot;,
+        &quot;Valutare peso e carico residuo del setto, senza dedurre la capacità dall’aspetto esterno.&quot;,
+        &quot;Verificare che il materiale lavato non stia rilasciando ciò che aveva accumulato durante il servizio precedente.&quot;
+      ],
+      &quot;examples&quot;: [
+        &quot;Un depuratore sostituisce i setti prima che il carico raccolto venga rimesso nel liquido.&quot;,
+        &quot;Un laboratorio prova una ceramica equivalente sul contaminante pertinente invece di assumere uguale resa per ogni fluido.&quot;,
+        &quot;Un filtro fisico rimane utile accanto a un apparato Maw, ma le due funzioni vengono misurate separatamente.&quot;
+      ],
+      &quot;storage&quot;: &quot;Umidità e residui possono favorire biofilm e degradazione. I setti usati vanno identificati e gestiti come carichi raccolti, non come semplice vegetazione asciutta. Riutilizzare il contenitore può richiedere controllo anche se il materiale è stato sostituito.&quot;,
+      &quot;magic&quot;: &quot;La funzione Maw appartiene ad ART-021 quando quel mezzo la esercita; non è una fame intrinseca del midollo. Generare cellulosa idonea può sostituire la materia, ma non trasferisce soglia, riserva o investimento dell’apparato.&quot;,
+      &quot;economy&quot;: &quot;Usare i setti oltre il limite riduce una spesa immediata e può aumentare costi clinici e ambientali. Coltivatori, depuratore e utenti del liquido hanno interessi collegati ma non identici.&quot;,
+      &quot;visual&quot;: &quot;Cream-coloured spongy plant pith cut into a stem cross-section and several compressed filter discs, enlarged natural honeycomb-like pores and fibres clearly visible, clean drainage workshop sample tray. Organic texture, not fired clay, no hungry mouth or carnivorous plant.&quot;,
+      &quot;revision&quot;: 364,
+      &quot;continent&quot;: &quot;Caldris&quot;,
+      &quot;wiki_url&quot;: &quot;mat-016-saura-filter-pith.html&quot;,
+      &quot;situation&quot;: {
+        &quot;id&quot;: &quot;U11-12&quot;,
+        &quot;name&quot;: &quot;The Two Drains&quot;,
+        &quot;location_id&quot;: &quot;LOC-054&quot;,
+        &quot;location&quot;: &quot;Edris&quot;,
+        &quot;activation&quot;: &quot;Critico&quot;,
+        &quot;narrative_function&quot;: &quot;Contenimento elevato e incidente biologico locale.&quot;,
+        &quot;current&quot;: &quot;La camera VI ha un corridoio evacuato e una cella in perdita; gli altri due sigilli sono integri. Il reparto isola il campione Heart III su un altro circuito. Saura offre un modulo distinto di depurazione, non la fonte cosmica del problema.&quot;,
+        &quot;conflict&quot;: &quot;Separare gli interventi senza scambiare due cause contemporanee per contaminazione universale.&quot;,
+        &quot;forces&quot;: [
+          {
+            &quot;actor&quot;: &quot;CAST-018&quot;,
+            &quot;wants&quot;: &quot;Matrice Archive esaminata e persone protette.&quot;,
+            &quot;fears&quot;: &quot;Aprire inutilmente una cella attiva.&quot;,
+            &quot;limits&quot;: &quot;Intervento segue accessi e informazioni effettivi; non presenza personale automatica a Edris.&quot;
+          },
+          {
+            &quot;actor&quot;: null,
+            &quot;role&quot;: &quot;Custodia regionale e laboratorio locale&quot;,
+            &quot;wants&quot;: &quot;Evacuazione, drenaggi separati e diagnosi qualificata.&quot;,
+            &quot;fears&quot;: &quot;Togliere cura a pazienti per arrestare il campione.&quot;,
+            &quot;limits&quot;: &quot;Ordinari non possono rinnovare sigillo VI.&quot;
+          },
+          {
+            &quot;actor&quot;: &quot;CAST-386&quot;,
+            &quot;wants&quot;: &quot;Lotti depurati secondo prova.&quot;,
+            &quot;fears&quot;: &quot;Il setto saturo venga riutilizzato.&quot;,
+            &quot;limits&quot;: &quot;A Serevan, contatto logistico del modulo Saura; non controlla una reliquia VI.&quot;
+          }
+        ],
+        &quot;secret&quot;: &quot;Nuovo isolamento ha stretto il condotto; Red Bloom da sostegno mal separato. Nessun dio impazzito o nuovo antagonista inventato per l’incidente.&quot;,
+        &quot;hooks&quot;: [
+          &quot;Custodia invia richiesta di diagnosi con disegno del condotto prima e dopo lavori.&quot;,
+          &quot;Un infermiere presenta la pompa separata e campione sigillato ancora pulsante.&quot;
+        ],
+        &quot;with_intervention&quot;: &quot;Potere Archive VI realmente raggiunto può contenere o ricostruire il fronte; altri mezzi adeguati possono deviare, separare o distruggere fonte raggiunta. Separazione Heart pertinente arresta crescita mantenuta, tessuto nato va rimosso. Nessun oggetto immune perché importante alla trama.&quot;,
+        &quot;without_intervention&quot;: &quot;Custodi evacuano e isolano, chiedono équipe superiore, reparto mantiene cure separate. Una perdita aumenta se sigillo continua a deteriorarsi; totale rilascio richiede rottura concreta, non il calendario.&quot;,
+        &quot;time_pressure&quot;: &quot;Ispezione 21 maggio; misure ogni sei ore. Pericolo elevato al contatto con cella attiva, non obbligo di visita del protagonista.&quot;,
+        &quot;impact&quot;: &quot;🟠 attuale; 🔴 se il fronte investito supera isolamento e raggiunge il nodo di servizio&quot;,
+        &quot;narrator_material&quot;: {
+          &quot;scene&quot;: &quot;Il sigillo illumina sempre lo stesso tratto di tubo; il campione pulsa solo mentre la pompa del reparto è collegata.&quot;,
+          &quot;complication&quot;: &quot;Distruggere il contenitore senza separare il fronte può liberare quanto conservava.&quot;,
+          &quot;optional_twist&quot;: &quot;Una squadra ordinaria salva il corridoio chiudendo il giusto scarico, pur senza poter riparare il sigillo.&quot;
+        },
+        &quot;future_outcome&quot;: &quot;OPEN&quot;,
+        &quot;components&quot;: [
+          &quot;ART-021&quot;,
+          &quot;ART-024&quot;,
+          &quot;MAT-016&quot;,
+          &quot;MAT-018&quot;,
+          &quot;CRE-016&quot;,
+          &quot;CRE-020&quot;,
+          &quot;PHN-012&quot;
+        ]
+      },
+      &quot;visual_caption&quot;: &quot;Campione illustrativo di Saura Filter Pith. Forma, colore e finitura aiutano a riconoscere il materiale; non certificano da soli purezza, provenienza o investimento.&quot;
     },
     {
       &quot;id&quot;: &quot;MAT-017&quot;,
@@ -6900,7 +8126,82 @@
       &quot;current&quot;: &quot;Lotto dichiarato caduto proviene da animali uccisi.&quot;,
       &quot;unit&quot;: &quot;U11-06&quot;,
       &quot;incorporation&quot;: false,
-      &quot;future_outcome&quot;: &quot;OPEN&quot;
+      &quot;future_outcome&quot;: &quot;OPEN&quot;,
+      &quot;category&quot;: &quot;Materia animale raccolta&quot;,
+      &quot;appearance&quot;: &quot;Nel catalogo “corno” indica il palco ramificato caduto annualmente dei Ridge Grazers: una struttura dura con punte e base di distacco, non un tubo cavo da bovide. Campioni essiccati e parti lavorate rendono visibile una geometria adatta a componenti acustici e meccanici.&quot;,
+      &quot;properties&quot;: &quot;Rigidità, integrità e risonanza dipendono dal campione e dalla sua preparazione. La caduta stagionale consente raccolta senza uccidere l’animale; un materiale prelevato fresco può deformarsi durante la lavorazione. La sola tonalità non dimostra come sia stato ottenuto.&quot;,
+      &quot;processing&quot;: [
+        &quot;La raccolta segue le stagioni e le vie dei branchi, senza trasformare il distacco naturale in una giustificazione per la caccia abusiva.&quot;,
+        &quot;Essiccazione e selezione precedono la sagomatura di lamelle, percussori o altri componenti dichiarati.&quot;,
+        &quot;La prova acustica riguarda il pezzo montato; un eventuale rapporto Loom viene investito separatamente.&quot;
+      ],
+      &quot;checks&quot;: [
+        &quot;Esaminare essiccazione e integrità del campione, confrontandolo con la forma che il componente richiede.&quot;,
+        &quot;Provare tono e risposta nel montaggio effettivo: un suono soddisfacente non prova una provenienza lecita.&quot;,
+        &quot;Riscontrare raccolta e consegna con tracce e testimonianze; una base regolare non basta da sola a certificare tutta la partita.&quot;
+      ],
+      &quot;examples&quot;: [
+        &quot;Un artigiano usa una parte essiccata come elemento di un segnale a percussione.&quot;,
+        &quot;Un lotto fresco cambia forma e viene ritirato dal montaggio per il quale era stato dichiarato pronto.&quot;,
+        &quot;Un’indagine distingue l’autenticità del materiale dalla falsa dichiarazione che tutti i campioni fossero caduti naturalmente.&quot;
+      ],
+      &quot;storage&quot;: &quot;Pezzi freschi e pronti alla lavorazione richiedono identificazione distinta. Umidità e urti possono alterare un componente dopo la prova. Il materiale lavorato non permette necessariamente di ricostruire da solo l’animale o il luogo di raccolta.&quot;,
+      &quot;magic&quot;: &quot;Il palco non contiene fortuna né il potere di rilevare ogni pericolo. Loom può stabilire un rapporto con un segnale pertinente, ma la materia non estende il trigger oltre ciò che è stato davvero preso. Una sostituzione in metallo o ceramica richiede tono e legame adeguati.&quot;,
+      &quot;economy&quot;: &quot;Migrazione, passaggi commerciali e raccolta stagionale si condizionano. La falsa provenienza del lotto riguarda interessi di cacciatori, venditori e custodi del passo; non significa che ogni raccoglitore abbia ucciso un animale.&quot;,
+      &quot;visual&quot;: &quot;A naturally shed branching antler from the established Ridge Grazer, warm grey-brown ridged surface with several modest tines and a clean dry basal rosette, one small prepared resonant strip beside the intact specimen, alpine craft bench, no animal head, skull, blood, hunting trophy mount or hollow trumpet horn.&quot;,
+      &quot;revision&quot;: 364,
+      &quot;continent&quot;: &quot;Nareth&quot;,
+      &quot;wiki_url&quot;: &quot;mat-017-keran-signal-horn.html&quot;,
+      &quot;situation&quot;: {
+        &quot;id&quot;: &quot;U11-06&quot;,
+        &quot;name&quot;: &quot;The Safe Way Around&quot;,
+        &quot;location_id&quot;: &quot;LOC-055&quot;,
+        &quot;location&quot;: &quot;Keran&quot;,
+        &quot;activation&quot;: &quot;Attivo&quot;,
+        &quot;narrative_function&quot;: &quot;Vie, evacuazione e impatto ecologico.&quot;,
+        &quot;current&quot;: &quot;Un cuneo verificato tace mentre un masso vicino si muove. Mercanti preparano deviazione, mandria cerca altro passaggio. A Sarn il modulo di soccorso mantiene ispezione 27 maggio già fissata.&quot;,
+        &quot;conflict&quot;: &quot;Accesso sicuro contro costo della deviazione e necessità di preservare il passaggio animale.&quot;,
+        &quot;forces&quot;: [
+          {
+            &quot;actor&quot;: &quot;CAST-442&quot;,
+            &quot;wants&quot;: &quot;Percorso e tempi dichiarati per merci.&quot;,
+            &quot;fears&quot;: &quot;Il test venga scambiato per garanzia assoluta.&quot;,
+            &quot;limits&quot;: &quot;Mercante ordinario non estende Loom.&quot;
+          },
+          {
+            &quot;actor&quot;: &quot;CAST-285&quot;,
+            &quot;wants&quot;: &quot;Segnali e evacuazione nei limiti dell’argano.&quot;,
+            &quot;fears&quot;: &quot;Cavo da merci montato sul soccorso.&quot;,
+            &quot;limits&quot;: &quot;A Reth Narrows, incarichi e spostamenti reali, nessuna presenza simultanea a Keran.&quot;
+          }
+        ],
+        &quot;secret&quot;: &quot;Allarme non guasto: bersaglio del trigger incompleto. Il collare del modulo Sarn è di altro lotto.&quot;,
+        &quot;hooks&quot;: [
+          &quot;A Keran un carrettiere indica la crepa oltre il cuneo.&quot;,
+          &quot;A Sarn una squadra esibisce la giunzione di ricambio e chiede perizia del carico.&quot;
+        ],
+        &quot;with_intervention&quot;: &quot;Nuovo trigger, consolidamento, viaggio soprannaturale pertinente o deviazione cambiano flussi; non annullano debiti e diritti di territorio automaticamente.&quot;,
+        &quot;without_intervention&quot;: &quot;Mercanti deviano o attendono, manutentori limitano carico; mandria cambia pista. Frana richiede cedimento reale, non il mancato coinvolgimento del PG.&quot;,
+        &quot;time_pressure&quot;: &quot;Sarn 27 maggio; a Keran le misure quotidiane del masso determinano urgenza.&quot;,
+        &quot;impact&quot;: &quot;🟠&quot;,
+        &quot;narrator_material&quot;: {
+          &quot;scene&quot;: &quot;Campana silenziosa e pietra marcata integra, crepa visibile sulla roccia contigua.&quot;,
+          &quot;complication&quot;: &quot;Un bypass commerciale sposta i carri proprio sulla via stagionale della mandria.&quot;,
+          &quot;optional_twist&quot;: &quot;Raccoglitori accettano meno corno pur di evitare abbattimenti.&quot;
+        },
+        &quot;future_outcome&quot;: &quot;OPEN&quot;,
+        &quot;components&quot;: [
+          &quot;ART-010&quot;,
+          &quot;ART-022&quot;,
+          &quot;MAT-010&quot;,
+          &quot;MAT-017&quot;,
+          &quot;CRE-011&quot;,
+          &quot;CRE-018&quot;,
+          &quot;PEO-02&quot;,
+          &quot;PHN-006&quot;
+        ]
+      },
+      &quot;visual_caption&quot;: &quot;Palco caduto dei Ridge Grazers, coerente con la loro morfologia; il nome commerciale “corno” non indica una tromba naturalmente cava.&quot;
     },
     {
       &quot;id&quot;: &quot;MAT-018&quot;,
@@ -6917,7 +8218,88 @@
       &quot;current&quot;: &quot;Nuovo isolamento restringe il condotto ART-024.&quot;,
       &quot;unit&quot;: &quot;U11-12&quot;,
       &quot;incorporation&quot;: false,
-      &quot;future_outcome&quot;: &quot;OPEN&quot;
+      &quot;future_outcome&quot;: &quot;OPEN&quot;,
+      &quot;category&quot;: &quot;Supporto ceramico investibile&quot;,
+      &quot;appearance&quot;: &quot;Componenti ceramici tecnici dalle superfici compatte, con sedi, canali o appoggi lavorati per il singolo apparato. La finitura più regolare li distingue dai manicotti refrattari grossolani, senza imporre una composizione unica a ogni dispositivo.&quot;,
+      &quot;properties&quot;: &quot;La materia deve conservare la geometria e la separazione richieste dal montaggio. Il termine Continuity Ceramic identifica una famiglia di supporti specifici, non una ceramica che garantisce continuità personale in qualsiasi macchina. Compatibilità meccanica e compatibilità investita vanno dimostrate separatamente.&quot;,
+      &quot;processing&quot;: [
+        &quot;Cottura e lavorazione producono il pezzo destinato a un numero di apparato e a una funzione dichiarata.&quot;,
+        &quot;Il montaggio controlla condotti e appoggi prima dell’investimento pertinente.&quot;,
+        &quot;La prova di separabilità verifica che cosa accade quando si arresta o si sostituisce il supporto, senza assumere che ogni effetto termini in modo innocuo.&quot;
+      ],
+      &quot;checks&quot;: [
+        &quot;Identificare apparato, Effige, esercizio e Quality effettivamente presenti.&quot;,
+        &quot;Confrontare geometria e flusso prima e dopo il ricambio: una parte più isolante può restringere un condotto necessario.&quot;,
+        &quot;Far esaminare il rapporto investito alla qualifica richiesta; una prova della sola ceramica non certifica Heart V o Archive VI.&quot;
+      ],
+      &quot;examples&quot;: [
+        &quot;Un componente di ART-023 sostiene una funzione Heart V specifica, distinta da un sigillo Archive.&quot;,
+        &quot;Un nuovo isolamento su ART-024 riduce lo spazio del condotto e modifica il servizio anche se la ceramica non si rompe.&quot;,
+        &quot;Un ricambio creato corrisponde alla materia richiesta ma attende fonte e verifica prima di diventare supporto operativo.&quot;
+      ],
+      &quot;storage&quot;: &quot;I pezzi vanno custoditi per apparato e stato, distinguendo grezzi, montati, investiti e ritirati. La parola “continuità” sulla consegna non dimostra che una presenza sia ancora raggiungibile. Una frattura del contenitore può lasciare attivo ciò che il contenitore sosteneva.&quot;,
+      &quot;magic&quot;: &quot;Heart V e Archive VI indicano investimenti diversi: non sono due proprietà automaticamente fuse nello stesso materiale. La ceramica non è una Root, una Seat o un’Inscription. Ricreare materia non fornisce gratuitamente fonte, modello, riserva e competenza del mezzo sostituito.&quot;,
+      &quot;economy&quot;: &quot;Custodi regionali, laboratori e cliniche dipendono da controlli con qualifiche diverse. Un ricambio economico può costare più del vecchio se la sua geometria obbliga a rifare un servizio superiore o interrompe una cura.&quot;,
+      &quot;visual&quot;: &quot;Dense ivory technical ceramic components for a single specialised apparatus, smooth curved plate sections with precisely shaped narrow channels and mounting seats, one inert unfitted matching blank beside them, restrained laboratory daylight, no glowing runes, no merged Heart and Archive symbols, no soul trapped inside.&quot;,
+      &quot;revision&quot;: 364,
+      &quot;continent&quot;: &quot;Nareth&quot;,
+      &quot;wiki_url&quot;: &quot;mat-018-continuity-ceramic.html&quot;,
+      &quot;situation&quot;: {
+        &quot;id&quot;: &quot;U11-12&quot;,
+        &quot;name&quot;: &quot;The Two Drains&quot;,
+        &quot;location_id&quot;: &quot;LOC-054&quot;,
+        &quot;location&quot;: &quot;Edris&quot;,
+        &quot;activation&quot;: &quot;Critico&quot;,
+        &quot;narrative_function&quot;: &quot;Contenimento elevato e incidente biologico locale.&quot;,
+        &quot;current&quot;: &quot;La camera VI ha un corridoio evacuato e una cella in perdita; gli altri due sigilli sono integri. Il reparto isola il campione Heart III su un altro circuito. Saura offre un modulo distinto di depurazione, non la fonte cosmica del problema.&quot;,
+        &quot;conflict&quot;: &quot;Separare gli interventi senza scambiare due cause contemporanee per contaminazione universale.&quot;,
+        &quot;forces&quot;: [
+          {
+            &quot;actor&quot;: &quot;CAST-018&quot;,
+            &quot;wants&quot;: &quot;Matrice Archive esaminata e persone protette.&quot;,
+            &quot;fears&quot;: &quot;Aprire inutilmente una cella attiva.&quot;,
+            &quot;limits&quot;: &quot;Intervento segue accessi e informazioni effettivi; non presenza personale automatica a Edris.&quot;
+          },
+          {
+            &quot;actor&quot;: null,
+            &quot;role&quot;: &quot;Custodia regionale e laboratorio locale&quot;,
+            &quot;wants&quot;: &quot;Evacuazione, drenaggi separati e diagnosi qualificata.&quot;,
+            &quot;fears&quot;: &quot;Togliere cura a pazienti per arrestare il campione.&quot;,
+            &quot;limits&quot;: &quot;Ordinari non possono rinnovare sigillo VI.&quot;
+          },
+          {
+            &quot;actor&quot;: &quot;CAST-386&quot;,
+            &quot;wants&quot;: &quot;Lotti depurati secondo prova.&quot;,
+            &quot;fears&quot;: &quot;Il setto saturo venga riutilizzato.&quot;,
+            &quot;limits&quot;: &quot;A Serevan, contatto logistico del modulo Saura; non controlla una reliquia VI.&quot;
+          }
+        ],
+        &quot;secret&quot;: &quot;Nuovo isolamento ha stretto il condotto; Red Bloom da sostegno mal separato. Nessun dio impazzito o nuovo antagonista inventato per l’incidente.&quot;,
+        &quot;hooks&quot;: [
+          &quot;Custodia invia richiesta di diagnosi con disegno del condotto prima e dopo lavori.&quot;,
+          &quot;Un infermiere presenta la pompa separata e campione sigillato ancora pulsante.&quot;
+        ],
+        &quot;with_intervention&quot;: &quot;Potere Archive VI realmente raggiunto può contenere o ricostruire il fronte; altri mezzi adeguati possono deviare, separare o distruggere fonte raggiunta. Separazione Heart pertinente arresta crescita mantenuta, tessuto nato va rimosso. Nessun oggetto immune perché importante alla trama.&quot;,
+        &quot;without_intervention&quot;: &quot;Custodi evacuano e isolano, chiedono équipe superiore, reparto mantiene cure separate. Una perdita aumenta se sigillo continua a deteriorarsi; totale rilascio richiede rottura concreta, non il calendario.&quot;,
+        &quot;time_pressure&quot;: &quot;Ispezione 21 maggio; misure ogni sei ore. Pericolo elevato al contatto con cella attiva, non obbligo di visita del protagonista.&quot;,
+        &quot;impact&quot;: &quot;🟠 attuale; 🔴 se il fronte investito supera isolamento e raggiunge il nodo di servizio&quot;,
+        &quot;narrator_material&quot;: {
+          &quot;scene&quot;: &quot;Il sigillo illumina sempre lo stesso tratto di tubo; il campione pulsa solo mentre la pompa del reparto è collegata.&quot;,
+          &quot;complication&quot;: &quot;Distruggere il contenitore senza separare il fronte può liberare quanto conservava.&quot;,
+          &quot;optional_twist&quot;: &quot;Una squadra ordinaria salva il corridoio chiudendo il giusto scarico, pur senza poter riparare il sigillo.&quot;
+        },
+        &quot;future_outcome&quot;: &quot;OPEN&quot;,
+        &quot;components&quot;: [
+          &quot;ART-021&quot;,
+          &quot;ART-024&quot;,
+          &quot;MAT-016&quot;,
+          &quot;MAT-018&quot;,
+          &quot;CRE-016&quot;,
+          &quot;CRE-020&quot;,
+          &quot;PHN-012&quot;
+        ]
+      },
+      &quot;visual_caption&quot;: &quot;Esempi di geometria ceramica tecnica: non un materiale che contiene automaticamente insieme Heart V e Archive VI.&quot;
     }
   ],
   &quot;creatures&quot;: [
@@ -10800,5 +12182,6 @@
   &quot;bestiary_source&quot;: &quot;Bestiario_ampliato.json&quot;,
   &quot;integration_revision&quot;: &quot;RACCORDI-317&quot;,
   &quot;artifact_revision&quot;: 362,
-  &quot;phenomena_revision&quot;: 363
+  &quot;phenomena_revision&quot;: 363,
+  &quot;materials_revision&quot;: 364
 }</pre></body></html>

@@ -7123,5 +7123,149 @@
     "id": "PHN-024",
     "source_sha256": "b9c9e91f880c8d47ce80eef0b5d38962652106e41fc3d12faa5b2bca8773cc03",
     "revision": 363
+  },
+  {
+    "src": "assets/materiale364-mat-001.webp",
+    "caption": "Deren Coal",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-001_deren-coal/01_materiale_originale.png",
+    "id": "MAT-001",
+    "source_sha256": "1ddab15ac113707e85dead0a6db84349fb879d15b6a6d8478dcb9b4cfe3c89d9",
+    "revision": 364
+  },
+  {
+    "src": "assets/materiale364-mat-002.webp",
+    "caption": "Karrel Copper",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-002_karrel-copper/01_materiale_originale.png",
+    "id": "MAT-002",
+    "source_sha256": "da04db2ba4a279c814ab9a02fe7a5650c971d68cff5ada3fad208fe287251a59",
+    "revision": 364
+  },
+  {
+    "src": "assets/materiale364-mat-003.webp",
+    "caption": "Fireclay Sleeves",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-003_fireclay-sleeves/01_materiale_originale.png",
+    "id": "MAT-003",
+    "source_sha256": "5171e687a96b9ad7eeeb5cfc1ce9d2dcf2682adec29efec0da2c5a9e2b0f98fc",
+    "revision": 364
+  },
+  {
+    "src": "assets/materiale364-mat-004.webp",
+    "caption": "Ossen Seal Resin",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-004_ossen-seal-resin/01_materiale_originale.png",
+    "id": "MAT-004",
+    "source_sha256": "420a9fa4c2dd3bad85c4ed201e606b853b610129d9023fb6c79d544f7b1b7766",
+    "revision": 364
+  },
+  {
+    "src": "assets/materiale364-mat-005.webp",
+    "caption": "Valenne Linen",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-005_valenne-linen/01_materiale_originale.png",
+    "id": "MAT-005",
+    "source_sha256": "17bcdcd179535fc3a9c9a4c062ed10f3aa868d8339540cf9c8cccac65da2f79b",
+    "revision": 364
+  },
+  {
+    "src": "assets/materiale364-mat-006.webp",
+    "caption": "Namar Flexible Mesh",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-006_namar-flexible-mesh/01_materiale_originale.png",
+    "id": "MAT-006",
+    "source_sha256": "8fbe30c9740a6e2145257023ad7cc03b09d2b98c159b607b719196f312a4cf10",
+    "revision": 364
+  },
+  {
+    "src": "assets/materiale364-mat-007.webp",
+    "caption": "Velis Optical Glass",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-007_velis-optical-glass/01_materiale_originale.png",
+    "id": "MAT-007",
+    "source_sha256": "b92a607b85599dcf7a980cf295eaa5e1cff74015c01abcb723d4a8d21903503a",
+    "revision": 364
+  },
+  {
+    "src": "assets/materiale364-mat-008.webp",
+    "caption": "Reference Basalt",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-008_reference-basalt/01_materiale_originale.png",
+    "id": "MAT-008",
+    "source_sha256": "9660c6e9f2352740d59e0501f3950d41d5aebb56f4e56f6f5c932ff40a2882ac",
+    "revision": 364
+  },
+  {
+    "src": "assets/materiale364-mat-010.webp",
+    "caption": "Reth Load Cable",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-010_reth-load-cable/01_materiale_originale.png",
+    "id": "MAT-010",
+    "source_sha256": "d1ed114aabcc17a7063b24a1680e334f61273142a604990cf46c952470eda533",
+    "revision": 364
+  },
+  {
+    "src": "assets/materiale364-mat-009.webp",
+    "caption": "Witness Lacquer",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-009_witness-lacquer/01_materiale_originale.png",
+    "id": "MAT-009",
+    "source_sha256": "9efb3b6b1a4ee8898b50a8c42f290448bf85b47cb2a939a5fbcd7a5d1ea73106",
+    "revision": 364
+  },
+  {
+    "src": "assets/materiale364-mat-011.webp",
+    "caption": "Invested Stone Fragments",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-011_invested-stone-fragments/01_materiale_originale.png",
+    "id": "MAT-011",
+    "source_sha256": "fd5e6f9d29c74f2ee713ec3286f21d9f8c7f6e29bec50db191f73875b92de660",
+    "revision": 364
+  },
+  {
+    "src": "assets/materiale364-mat-012.webp",
+    "caption": "Qadra Salt-Tolerant Seed",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-012_qadra-salt-tolerant-seed/01_materiale_originale.png",
+    "id": "MAT-012",
+    "source_sha256": "7c0d144bfa48329e2fd8d6fa2de44d854955ab887c01973be97d106bba82bd34",
+    "revision": 364
+  },
+  {
+    "src": "assets/materiale364-mat-013.webp",
+    "caption": "Dream Silk",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-013_dream-silk/01_materiale_originale.png",
+    "id": "MAT-013",
+    "source_sha256": "e30a72a0365f54c90b5492fadde5ee6f2c9aef4eec8b62f5a064e6d553641312",
+    "revision": 364
+  },
+  {
+    "src": "assets/materiale364-mat-014.webp",
+    "caption": "Noran Black Felt",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-014_noran-black-felt/01_materiale_originale.png",
+    "id": "MAT-014",
+    "source_sha256": "762ca648cc784576a9cb42545aeb9bfaa021c3607279e7a6bb4caef2f226c3d7",
+    "revision": 364
+  },
+  {
+    "src": "assets/materiale364-mat-015.webp",
+    "caption": "Tevren Silver Lamina",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-015_tevren-silver-lamina/01_materiale_originale.png",
+    "id": "MAT-015",
+    "source_sha256": "326e51fb505128220fd081a13765116c0e3c0c586221e9f476c015de5ff13557",
+    "revision": 364
+  },
+  {
+    "src": "assets/materiale364-mat-016.webp",
+    "caption": "Saura Filter Pith",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-016_saura-filter-pith/01_materiale_originale.png",
+    "id": "MAT-016",
+    "source_sha256": "b1daf360f337a9cdd4a606606610824a3097251996bf5e3cdd680c2716bfe5ed",
+    "revision": 364
+  },
+  {
+    "src": "assets/materiale364-mat-017.webp",
+    "caption": "Keran Signal Horn",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-017_keran-signal-horn/01_materiale_originale.png",
+    "id": "MAT-017",
+    "source_sha256": "3acc76909e521541a5809a30202e8724a63c64cbe3b59952d612fd52dcf82328",
+    "revision": 364
+  },
+  {
+    "src": "assets/materiale364-mat-018.webp",
+    "caption": "Continuity Ceramic",
+    "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-018_continuity-ceramic/01_materiale_originale.png",
+    "id": "MAT-018",
+    "source_sha256": "a01b16e976ef8920313f8bc0ab6890478a888e0ac2d3b45843adfa37de109d2f",
+    "revision": 364
   }
 ]

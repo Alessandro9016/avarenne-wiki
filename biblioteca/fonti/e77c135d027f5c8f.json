@@ -1,0 +1,12 @@
+{
+  "id": "MAT-003",
+  "name": "Fireclay Sleeves",
+  "asset": "assets/materiale364-mat-003.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-003_fireclay-sleeves/01_materiale_originale.png",
+  "source_sha256": "5171e687a96b9ad7eeeb5cfc1ce9d2dcf2682adec29efec0da2c5a9e2b0f98fc",
+  "generator": "builtin image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: individual material illustration for the Avarenne novel encyclopedia. Main subject: Several pale ochre fireclay insulating sleeves and thick short ceramic rings on a furnace maintenance bench, one broken sample showing coarse porous cross-section, rough heat-worn texture and a few crumbs. Not porcelain, not metal, no occult sigils or glow. Style: refined semi-realistic painted novel art, exquisite tactile detail and believable natural material behaviour, late industrial craft atmosphere. Landscape 3:2. One coherent close-up scene of this ONE material, with raw or worked examples of that same material only where requested; not a composite board of different materials. Use light and background suited to this specific material so its texture, silhouette and colour are immediately legible. No people, no readable letters or numerals, no labels, logo, watermark, card frame or infographic. Do not add supernatural effects to ordinary material. No extra tools or props that could be mistaken for a different catalogue specimen.",
+  "visual_caption": "Campione illustrativo di Fireclay Sleeves. Forma, colore e finitura aiutano a riconoscere il materiale; non certificano da soli purezza, provenienza o investimento.",
+  "visual_review": "APPROVATA: materia, forma, texture e distinzione dagli altri campioni verificate",
+  "revision": 364
+}

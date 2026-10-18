@@ -1,0 +1,12 @@
+{
+  "id": "MAT-018",
+  "name": "Continuity Ceramic",
+  "asset": "assets/materiale364-mat-018.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-018_continuity-ceramic/01_materiale_originale.png",
+  "source_sha256": "a01b16e976ef8920313f8bc0ab6890478a888e0ac2d3b45843adfa37de109d2f",
+  "generator": "builtin image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: individual material illustration for the Avarenne novel encyclopedia. Main subject: Dense ivory technical ceramic components for a single specialised apparatus, smooth curved plate sections with precisely shaped narrow channels and mounting seats, one inert unfitted matching blank beside them, restrained laboratory daylight, no glowing runes, no merged Heart and Archive symbols, no soul trapped inside. Style: refined semi-realistic painted novel art, exquisite tactile detail and believable natural material behaviour, late industrial craft atmosphere. Landscape 3:2. One coherent close-up scene of this ONE material, with raw or worked examples of that same material only where requested; not a composite board of different materials. Use light and background suited to this specific material so its texture, silhouette and colour are immediately legible. No people, no readable letters or numerals, no labels, logo, watermark, card frame or infographic. Do not add supernatural effects to ordinary material. No extra tools or props that could be mistaken for a different catalogue specimen.",
+  "visual_caption": "Esempi di geometria ceramica tecnica: non un materiale che contiene automaticamente insieme Heart V e Archive VI.",
+  "visual_review": "APPROVATA: materia, forma, texture e distinzione dagli altri campioni verificate",
+  "revision": 364
+}

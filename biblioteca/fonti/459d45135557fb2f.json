@@ -1,0 +1,12 @@
+{
+  "id": "MAT-011",
+  "name": "Invested Stone Fragments",
+  "asset": "assets/materiale364-mat-011.webp",
+  "original": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/MATERIALI/MAT-011_invested-stone-fragments/01_materiale_originale.png",
+  "source_sha256": "fd5e6f9d29c74f2ee713ec3286f21d9f8c7f6e29bec50db191f73875b92de660",
+  "generator": "builtin image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: individual material illustration for the Avarenne novel encyclopedia. Main subject: Two weathered grey stone fragments on separate padded conservation supports, broken partial carved lines with no readable script, one showing only a restrained thin dark-red invested seam and the other entirely inert, archaeological sampling light. Not crystals, not a complete glowing tablet, no marks on a person. Style: refined semi-realistic painted novel art, exquisite tactile detail and believable natural material behaviour, late industrial craft atmosphere. Landscape 3:2. One coherent close-up scene of this ONE material, with raw or worked examples of that same material only where requested; not a composite board of different materials. Use light and background suited to this specific material so its texture, silhouette and colour are immediately legible. No people, no readable letters or numerals, no labels, logo, watermark, card frame or infographic. Do not add supernatural effects to ordinary material. No extra tools or props that could be mistaken for a different catalogue specimen.",
+  "visual_caption": "Confronto illustrativo fra frammento inerte e residuo ancora investito: il segno visualizza la distinzione, non sostituisce una diagnosi.",
+  "visual_review": "APPROVATA: materia, forma, texture e distinzione dagli altri campioni verificate",
+  "revision": 364
+}

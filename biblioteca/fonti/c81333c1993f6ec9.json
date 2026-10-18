@@ -6156,5 +6156,11 @@
     "new_images": 75,
     "source": "Illustrazioni_artefatti_362.json",
     "precedence": "Il piano 304 e i suoi conteggi restano il resoconto della produzione storica; per il catalogo corrente e le immagini aggiunte prevalgono le fonti 362."
+  },
+  "consolidamento_364": {
+    "materials": 18,
+    "individual_material_covers": 18,
+    "source": "Illustrazioni_materiali_364.json",
+    "precedence": "Le tre tavole collettive appartengono alla produzione storica; le copertine individuali correnti sono quelle del 364."
   }
 }
