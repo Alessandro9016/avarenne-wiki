@@ -1405,9 +1405,9 @@
     },
     {
       "id": "KNOW-18",
-      "subject": "Decisione di avvelenarsi del duca",
+      "subject": "Ultime azioni e malessere del duca prima del coma",
       "state": "Known",
-      "source": "Ricordi acquisiti della decisione e fatti fino all'incoscienza."
+      "source": "Ricordi integrali della consumazione ritenuta ordinaria e dei sintomi; nessuna decisione suicidaria. Preparazione nascosta e responsabile non osservati; dossier condiviso 369."
     },
     {
       "id": "KNOW-19",
@@ -1496,5 +1496,7 @@
   "advancement_procedures_source": "339_Prima_acquisizione_e_avanzamento.md",
   "character_review_revision": 340,
   "will_revision": 345,
-  "territorial_source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md"
+  "territorial_source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+  "civil_crisis_source_369": "GIOCATORE_369_Ultime_memorie_e_successione.md",
+  "retcon_revision": 369
 }

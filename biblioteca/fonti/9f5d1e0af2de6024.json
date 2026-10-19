@@ -855,6 +855,11 @@
         "source": "DOSSIER_FIGURE_367/CAST-005_mirel-osta.md",
         "knowledge_access": "NARRATOR_RESERVED",
         "future_outcomes": "OPEN"
+      },
+      "civil_crisis_369": {
+        "source": "RISERVATO_369_Crisi_di_Alexander_e_successione_contesa.md",
+        "involved_in_poisoning": false,
+        "knowledge_must_follow_actual_observations": true
       }
     },
     {
@@ -8683,7 +8688,12 @@
       "biological_population": "Umano",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "civil_crisis_369": {
+        "source": "RISERVATO_369_Crisi_di_Alexander_e_successione_contesa.md",
+        "involved_in_poisoning": false,
+        "knowledge_must_follow_actual_observations": true
+      }
     },
     {
       "id": "CAST-070",
@@ -8774,7 +8784,12 @@
       "biological_population": "Umano",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "civil_crisis_369": {
+        "source": "RISERVATO_369_Crisi_di_Alexander_e_successione_contesa.md",
+        "involved_in_poisoning": false,
+        "knowledge_must_follow_actual_observations": true
+      }
     },
     {
       "id": "CAST-071",
@@ -8865,7 +8880,12 @@
       "biological_population": "Umano",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "civil_crisis_369": {
+        "source": "RISERVATO_369_Crisi_di_Alexander_e_successione_contesa.md",
+        "involved_in_poisoning": false,
+        "knowledge_must_follow_actual_observations": true
+      }
     },
     {
       "id": "CAST-072",
@@ -10331,7 +10351,12 @@
       "biological_population": "Umano",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "civil_crisis_369": {
+        "source": "RISERVATO_369_Crisi_di_Alexander_e_successione_contesa.md",
+        "involved_in_poisoning": false,
+        "knowledge_must_follow_actual_observations": true
+      }
     },
     {
       "id": "CAST-087",
@@ -11872,7 +11897,12 @@
       "biological_population": "Umano",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "civil_crisis_369": {
+        "source": "RISERVATO_369_Crisi_di_Alexander_e_successione_contesa.md",
+        "involved_in_poisoning": false,
+        "knowledge_must_follow_actual_observations": true
+      }
     },
     {
       "id": "CAST-105",
@@ -48476,7 +48506,12 @@
       ],
       "integration_revision": "RACCORDI-317",
       "territorial_context_347": "Secondogenito di Marcel Ravelle, barone di La Varenne nel distretto diretto di Rovenne. Nessuna carica territoriale propria.",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "civil_crisis_369": {
+        "source": "RISERVATO_369_Crisi_di_Alexander_e_successione_contesa.md",
+        "involved_in_poisoning": false,
+        "knowledge_must_follow_actual_observations": true
+      }
     },
     {
       "id": "CAST-471",
@@ -52890,9 +52925,9 @@
       "role": "Barone di La Varenne; Tenute della casa Ravelle",
       "goal": "Vuole conservare il prestigio della casa e trovare un ruolo al secondogenito Etienne senza subordinare il primogenito a una promessa ducale.",
       "tension": "Vuole conservare il prestigio della casa e trovare un ruolo al secondogenito Etienne senza subordinare il primogenito a una promessa ducale.",
-      "secret": "Nessuna seconda identità assegnata da questo raccordo; le trattative private non sono conoscenza automatica del duca.",
+      "secret": "È il responsabile civile dell’avvelenamento di Alexander: preparò il dono alterato per aprire una successione minorile e proporsi come guida dell’amministrazione temporanea. Nessun complice fra i familiari, nessun sapere di Edran o del Glass; dettagli e prove nel riservato 369.",
       "voice": "Tratta obblighi territoriali, costi e rango distinguendo una richiesta privata da un atto pubblico.",
-      "tier": "FUNCTIONAL",
+      "tier": "IMPORTANT",
       "origin": "Raccordo territoriale 347",
       "network": "Territorio ducale di Rovenne",
       "activation": "Attivo",
@@ -52904,19 +52939,34 @@
         {
           "target": "CAST-001",
           "kind": "Riconosce la superiorità territoriale del duca; conserva competenze e diritti propri. Rapporti pubblici noti prima del coma."
+        },
+        {
+          "target": "CAST-470",
+          "kind": "Padre di Etienne; il figlio è estraneo al progetto criminale e la sua reazione futura resta aperta.",
+          "source": "RISERVATO_369"
         }
       ],
       "sources": [
-        "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md"
+        "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+        "RISERVATO_369_Crisi_di_Alexander_e_successione_contesa.md"
       ],
       "limits": "Persona ordinaria, nessuna Effige assegnata; rango non equivale a proprietà degli abitanti.",
       "inventory": [],
-      "current": "Vuole conservare il prestigio della casa e trovare un ruolo al secondogenito Etienne senza subordinare il primogenito a una promessa ducale.",
+      "current": "Attende notizie cliniche attraverso canali ordinari e conserva una bozza non depositata di amministrazione temporanea. Non è tutore, reggente o duca e non controlla Celine.",
       "document": "CAST_RISERVATO/CAST-506.md",
       "population_origin": "Umano",
       "duchy_district_id": "ROV-D02",
       "location_scope": "Centro amministrativo di riferimento; il titolare opera nella propria circoscrizione, non è obbligatoriamente nella città al T0.",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "specific_fear": "Una ricostruzione della consegna e della preparazione precedente riveli la scelta criminale nascosta dietro l’offerta di continuità.",
+      "biography_complement": "Notabile anziano e padre di un amico del duca, scelse di convertire l’accesso di cortesia in un attentato mirato. Si presenta come soluzione equilibrata fra interessi comitali, ma il progetto è contestabile e non ha nomine garantite. La razionalizzazione paternalista non è consenso di Celine o necessità storica.",
+      "retcon_369": {
+        "source": "RISERVATO_369_Crisi_di_Alexander_e_successione_contesa.md",
+        "role": "responsabile passato fissato",
+        "powers_unchanged": true,
+        "knowledge": "Nessuna conoscenza del ritorno o dei fondamenti cosmici",
+        "future_outcomes": "OPEN"
+      }
     },
     {
       "id": "CAST-507",
@@ -60850,8 +60900,8 @@
   "status": "COMPLETE",
   "counts": {
     "CENTRAL": 45,
-    "IMPORTANT": 254,
-    "FUNCTIONAL": 290
+    "IMPORTANT": 255,
+    "FUNCTIONAL": 289
   },
   "total": 589,
   "secondary_depth_complete": true,
@@ -60876,5 +60926,6 @@
   "service_revision": 358,
   "artifact_revision": 362,
   "core_exchange_source": "CANONE_VIGENTE/Exchange_dodici_366.json",
-  "editorial_revision_367": "55 approfondimenti individuali: figure centrali, potenze e responsabili dei dodici fronti; inventari e poteri conservati."
+  "editorial_revision_367": "55 approfondimenti individuali: figure centrali, potenze e responsabili dei dodici fronti; inventari e poteri conservati.",
+  "retcon_revision_369": "Causa della crisi personale sostituita su richiesta del giocatore; un solo personaggio già esistente approfondito, nessun nuovo potere."
 }

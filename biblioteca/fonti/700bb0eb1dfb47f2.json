@@ -1,0 +1,45 @@
+{
+  "revision": 369,
+  "date": "2026-10-19",
+  "basis": "Richiesta diretta del giocatore: sostituire la morte volontaria con un avvelenamento mirato per controllo successorio.",
+  "responsible_id": "CAST-506",
+  "current_player_knows_responsible": false,
+  "mechanism": "Attentato civile non magico con dono alterato prima della consegna; nessuna ricetta reale.",
+  "scope": [
+    "causa della crisi",
+    "ultime memorie",
+    "successione minorile",
+    "indagine civile"
+  ],
+  "fixed_innocence": [
+    "CAST-003",
+    "CAST-004",
+    "CAST-005",
+    "CAST-069",
+    "CAST-070",
+    "CAST-071",
+    "CAST-086",
+    "CAST-104",
+    "CAST-470"
+  ],
+  "unchanged": [
+    "naufragio accidentale dei genitori",
+    "quattro giorni di coma",
+    "morte del giovane duca prima del raccordo",
+    "Edran unica persona ritornata",
+    "frammenti consumati del Glass",
+    "cinque Effigi IV",
+    "origine del sapere",
+    "assenza di conoscenza del ritorno"
+  ],
+  "minority_protections": [
+    "nessuna tutela già nominata",
+    "nessun matrimonio minorile pianificato",
+    "nessun voto nazionale trasferibile",
+    "rendiconti e controlli reali",
+    "volontà e rapporti di Celine non predeterminati"
+  ],
+  "player_source": "GIOCATORE_369_Ultime_memorie_e_successione.md",
+  "narrator_source": "RISERVATO_369_Crisi_di_Alexander_e_successione_contesa.md",
+  "future_outcomes": "OPEN"
+}

@@ -36,7 +36,7 @@
     "title": "A Price for Recovery",
     "kind": "Archi narrativi",
     "url": "arc-04-a-price-for-recovery.html",
-    "bytes": 13120,
+    "bytes": 13687,
     "image_count": 1
   },
   {
@@ -164,7 +164,7 @@
     "title": "Albin Sere",
     "kind": "Personaggi",
     "url": "cast-069-albin-sere.html",
-    "bytes": 13728,
+    "bytes": 14158,
     "image_count": 2
   },
   {
@@ -196,7 +196,7 @@
     "title": "Alexander e la Camera delle Concessioni",
     "kind": "Approfondimenti",
     "url": "camera-concessioni-alexander.html",
-    "bytes": 18484,
+    "bytes": 19179,
     "image_count": 0
   },
   {
@@ -204,7 +204,7 @@
     "title": "Alexander Valcienne",
     "kind": "Personaggi",
     "url": "cast-001-alexander-valcienne.html",
-    "bytes": 72618,
+    "bytes": 77613,
     "image_count": 7
   },
   {
@@ -212,7 +212,7 @@
     "title": "Alexander Valcienne — memorie e vita civile",
     "kind": "Approfondimenti",
     "url": "doc-79-alexander-valcienne-memorie-e-vita-civile.html",
-    "bytes": 13065,
+    "bytes": 18162,
     "image_count": 0
   },
   {
@@ -228,7 +228,7 @@
     "title": "Alexander Valcienne: identità e condizione iniziale",
     "kind": "Approfondimenti",
     "url": "doc-76-direzione-del-protagonista-e-vincoli.html",
-    "bytes": 16364,
+    "bytes": 21456,
     "image_count": 0
   },
   {
@@ -236,7 +236,7 @@
     "title": "Alexander Valcienne: identità e memorie consolidate",
     "kind": "Approfondimenti",
     "url": "approfondimento-protagonista.html",
-    "bytes": 20012,
+    "bytes": 20028,
     "image_count": 0
   },
   {
@@ -428,7 +428,7 @@
     "title": "Apertura personale e rete immediata",
     "kind": "Approfondimenti",
     "url": "doc-85-apertura-personale-e-rete-immediata.html",
-    "bytes": 17327,
+    "bytes": 17846,
     "image_count": 0
   },
   {
@@ -1276,7 +1276,7 @@
     "title": "Caduta, continuità, ritorno e Seats",
     "kind": "Approfondimenti",
     "url": "doc-84-caduta-continuita-ritorno-e-seats.html",
-    "bytes": 26572,
+    "bytes": 27230,
     "image_count": 0
   },
   {
@@ -1884,7 +1884,7 @@
     "title": "Conoscenze personali di Alexander",
     "kind": "Approfondimenti",
     "url": "doc-83-matrice-delle-conoscenze-personali.html",
-    "bytes": 14362,
+    "bytes": 19550,
     "image_count": 0
   },
   {
@@ -2740,7 +2740,7 @@
     "title": "Edran Vael",
     "kind": "Personaggi storici",
     "url": "edran-vael.html",
-    "bytes": 85611,
+    "bytes": 86269,
     "image_count": 2
   },
   {
@@ -2772,7 +2772,7 @@
     "title": "Edran Vael: continuità e condizioni del ritorno",
     "kind": "Approfondimenti",
     "url": "approfondimento-protagonista-riservato.html",
-    "bytes": 34584,
+    "bytes": 33001,
     "image_count": 0
   },
   {
@@ -3156,7 +3156,7 @@
     "title": "Etienne Ravelle",
     "kind": "Personaggi",
     "url": "cast-470-etienne-ravelle.html",
-    "bytes": 14021,
+    "bytes": 14506,
     "image_count": 4
   },
   {
@@ -4068,7 +4068,7 @@
     "title": "Indice generale A–Z",
     "kind": "Indici",
     "url": "indice-generale.html",
-    "bytes": 125406,
+    "bytes": 125524,
     "image_count": 0
   },
   {
@@ -4696,11 +4696,19 @@
     "image_count": 2
   },
   {
+    "id": "CRISIS-369",
+    "title": "La crisi di Alexander e la successione contesa",
+    "kind": "Storia",
+    "url": "crisi-di-alexander-e-successione.html",
+    "bytes": 24030,
+    "image_count": 0
+  },
+  {
     "id": "DOC-273",
     "title": "La rete civile di Alexander",
     "kind": "Approfondimenti",
     "url": "doc-273-la-rete-civile-di-alexander.html",
-    "bytes": 20302,
+    "bytes": 20152,
     "image_count": 0
   },
   {
@@ -5116,7 +5124,7 @@
     "title": "L’opera",
     "kind": "Indici tematici",
     "url": "opera.html",
-    "bytes": 23692,
+    "bytes": 24134,
     "image_count": 48
   },
   {
@@ -5260,7 +5268,7 @@
     "title": "Marcel Ravelle",
     "kind": "Personaggi",
     "url": "cast-506-marcel-ravelle.html",
-    "bytes": 8359,
+    "bytes": 9241,
     "image_count": 0
   },
   {
@@ -5380,7 +5388,7 @@
     "title": "Marta Sorel",
     "kind": "Personaggi",
     "url": "cast-086-marta-sorel.html",
-    "bytes": 13671,
+    "bytes": 14124,
     "image_count": 2
   },
   {
@@ -5468,7 +5476,7 @@
     "title": "Maurice Verr",
     "kind": "Personaggi",
     "url": "cast-104-maurice-verr.html",
-    "bytes": 13703,
+    "bytes": 14156,
     "image_count": 2
   },
   {
@@ -5668,7 +5676,7 @@
     "title": "Mirel Osta",
     "kind": "Personaggi",
     "url": "cast-005-mirel-osta.html",
-    "bytes": 17766,
+    "bytes": 18219,
     "image_count": 4
   },
   {
@@ -5868,7 +5876,7 @@
     "title": "Nela Bress",
     "kind": "Personaggi",
     "url": "cast-071-nela-bress.html",
-    "bytes": 13112,
+    "bytes": 13565,
     "image_count": 2
   },
   {
@@ -8444,7 +8452,7 @@
     "title": "Teren Holt",
     "kind": "Personaggi",
     "url": "cast-070-teren-holt.html",
-    "bytes": 13164,
+    "bytes": 13594,
     "image_count": 2
   },
   {
@@ -10036,7 +10044,7 @@
     "title": "The Waking House",
     "kind": "Archi narrativi",
     "url": "arc-01-the-waking-house.html",
-    "bytes": 12436,
+    "bytes": 13522,
     "image_count": 1
   },
   {
@@ -10236,7 +10244,7 @@
     "title": "Those Who Pay for Peace",
     "kind": "Archi narrativi",
     "url": "arc-36-those-who-pay-for-peace.html",
-    "bytes": 13931,
+    "bytes": 14498,
     "image_count": 1
   },
   {

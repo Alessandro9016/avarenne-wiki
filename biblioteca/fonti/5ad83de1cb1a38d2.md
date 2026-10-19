@@ -1,0 +1,56 @@
+# Direzione del protagonista e vincoli — versione 1.2
+
+10 ottobre 2026. Specifica personale consolidata: dossier completo nei documenti 77–88. Le indicazioni dirette del giocatore sostituiscono le bozze recuperate dove divergono.
+
+## Scelte personali vigenti
+
+- Persona antica unica, con The Origin e The First Testament nati nella sua esistenza. Nessuna fusione col precedente proprietario del corpo.
+- Nascita antica umana senza esercizio soprannaturale: condizione ordinaria, detta informalmente stadio 0. Fonte, sapere e presupposti esclusivi di Cradle/Ruin sono presenti ma non attribuiscono Awakening. Diventa I e cresce progressivamente. Infanzia in oppressione e schiavitù, poi liberatore insieme ad altri. Prima vita e perdita dei genitori sono consolidate nei ricordi del documento 78.
+- Carattere antico orgoglioso e sarcastico, capace di benevolenza, durezza, amore per il proprio popolo, odio e risentimento verso nemici. Dualità coerente della stessa persona, non personalità alternanti o patologia imposta.
+- Apice antico: The Sovereign. Il viaggio di emancipazione e ascesa appartiene alla vita precedente; il ritorno non cancella esperienza e sapere.
+- Stato d'apertura adottato: IV nelle cinque Effigi Cradle, Ruin, Scroll, Halo, Heart. La dotazione concreta approvata è nel documento 81; crescita e recupero seguono 82 e i manuali consolidati.
+- Nome antico Edran Vael; identità civile moderna Alexander Valcienne, secondo il documento 77. Nessuna importazione automatica di Grisha o del vecchio Alexander di LotM.
+- Corpo di circa vent'anni, circa 189 cm, atletico; capelli neri corti portati leggermente indietro, occhi dorati. Non i trentun anni del duca nella bozza ritirata.
+- Primogenito legittimo, divenuto duca dopo la recente morte dei genitori. La sorella Celine e la morte dei genitori nel naufragio del 26 marzo 812 sono nelle memorie del documento 79; una conclusione pubblica non è osservazione diretta di ogni causa.
+- Avvelenamento volontario del giovane duca, coma di alcuni giorni, morte prima del ricongiungimento della persona antica. Per gli osservatori il risveglio è quello di Alexander; non è nota la sostituzione personale.
+- Memorie autobiografiche integrali del duca, accessibili come ricordi acquisiti: non seconda anima, volontà o obbligo di ereditarne affetti. Sapere quanto il duca sapeva non rivela i segreti che ignorava. Questa indicazione supera la limitazione ai soli residui procedurali della vecchia bozza.
+
+Nessuna emozione attuale, vendetta, alleanza o futuro viene assegnata al giocatore. La sovversione degli ordinamenti oppressivi non significa estinzione obbligatoria di tutte le popolazioni non umane. La composizione storica e demografica segue i documenti vigenti del mondo; nessun aggiornamento sul presente deriva automaticamente dal ricordo antico.
+
+## Incorporazione delle Effigi — ADOTTATO, precisazione vincolante
+
+La norma è una sola Effige personale. Acquisirne un'altra nella stessa famiglia è una rara integrazione eccezionale, rischiosa fin dalla prima incorporazione: compatibilità cosmologica significa possibilità, non sicurezza. Occorre riorganizzare la Weave, risolvere interferenze e sostenere un centro unitario; fallimenti possono disgregare controllo, corpo, spirito e continuità, fino alla morte. La sola disponibilità di un Medium o conoscenza di una Pattern non rende la seconda Effige un acquisto ordinario.
+
+Effigi di famiglie differenti non possono essere incorporate insieme stabilmente dalla stessa persona, a nessuna soglia. Anche I estraneo è incompatibile: il tentativo può causare perdita di controllo, Disjunction, Fracture e morte; sopravvivere al tentativo non conferisce una nuova Inscription stabile. È ritirata la precedente concessione di Effigi estranee personali I–III.
+
+Alexander non può incorporare Crown mentre possiede il gruppo Sovereign. The Origin rende coerente il suo gruppo di cinque, non gli dà immunità verso altri gruppi. The First Testament permette diagnosi, non rende possibile un'incorporazione vietata. Le altre Roots possono sostenere analogamente il proprio gruppo con un rapporto operativo reale; non tutte hanno origine personale innata.
+
+Avatar, forme separate e compartimenti della stessa persona non aggirano il vincolo. Prestiti, artefatti, deleghe e formule imitate restano esercizi delle proprie fonti e condizioni, non acquisizioni della relativa Effige. Cooperazione fra persone di gruppi diversi resta possibile. Non è previsto un passaggio di famiglia mediante sospensione momentanea o un cambio sicuro garantito: una trasformazione tentata deve risolvere realmente le precedenti Inscription e la continuità, senza mai registrare una doppia incorporazione estranea stabile.
+
+## Seats e presupposti originari — ADOTTATO
+
+Esistono ventitré Seats, una per Effigy; mai due titolari pieni indipendenti e incontrastati della medesima Seat. Molti portatori inferiori possono seguire lo stesso percorso. Una persona eccezionale può incorporare più Seats nel proprio gruppo soltanto soddisfacendone i requisiti.
+
+Nella prima vita Alexander nasce senza poteri esercitabili. Porta tuttavia dentro la propria esistenza i presupposti costitutivi esclusivi per la pienezza di Cradle e Ruin, insieme a fonte e sapere innati. Possederli non significa essere I, VII o già titolare pienamente operativo: la sua capacità cresce attraverso I–VII. Non sono semplice talento o precedenza politica.
+
+Questi due presupposti sono rimasti nella sua continuità autentica attraverso la caduta e nel ritorno. La perdita dell'antico esercizio divino non li ha resi disponibili ad altri. Nessun altro è potuto diventare piena divinità di Cradle o Ruin durante la sua assenza; non vi sono attuali titolari VII esterni di quelle due Seats. Può esistere un aspirante potentissimo, ma non la pienezza VII priva del requisito esclusivo.
+
+L'esclusività non riguarda Halo, Heart e Scroll: per le loro Seats non si deduce né vacanza né occupazione né conservazione dalla nascita. La condizione reale sarà fissata nel dossier riservato, senza anticiparla al giocatore.
+
+Il recupero di VII di Cradle/Ruin richiede comunque trasformazione, tenuta, piena competenza e integrazione: il presupposto presente evita doverlo cercare in un altro titolare, non attribuisce subito potenza divina. Un nemico può interferire con accessi e capacità o cercare i presupposti attraverso aggressioni pertinenti; non diventa VII soltanto proclamandosi successore. Non sono introdotte quantità di caratteristiche da ingerire o oggetti fisici unici da copiare da LotM.
+
+## Deuteragonista e possibile novel — mandato
+
+Il deuteragonista percorre un viaggio dal basso: accesso iniziale modesto, scoperte, crescita e conflitti propri. Non inizia con cinque Effigi IV o con sapere cosmico enciclopedico. La sua costruzione deve poter sostenere il ruolo di protagonista della futura novel, mentre Alexander agisce come figura autonoma di enorme passato e con una linea propria.
+
+Nella partita il PG resta Alexander. Nella futura versione letteraria la focalizzazione può invertirsi. La centralità letteraria non garantisce sopravvivenza, successi, alleanza o interventi salvifici di Alexander nella partita. Nessuna obbligatoria imitazione di identità, supporto o eventi di Klein.
+
+La fondazione del cast recuperata è da valutare al punto 10 rispetto a questo mandato; non vincola il nuovo percorso personale. Il documento presente non rivela l'identità del deuteragonista.
+
+## Compagni della prima vita
+
+Cast antico obbligatorio: compagni, alleati e subordinati con contributi concreti all'emancipazione, ruoli, obiettivi e relazioni proprie. Alexander non liberò il suo popolo da solo. Le loro condizioni durante e dopo la caduta restano separate dai ricordi spettanti al protagonista. Nessun numero di apostoli, rapporto di fedeltà eterna o identità moderna viene copiato automaticamente dal riferimento LotM.
+
+## Stato del punto 6
+
+Completato, edizione 1.0: identità, biografia, memorie, rete personale, cinque Effigi IV, recupero e matrice del sapere. [Indice 87](87_Indice_del_protagonista.md) e [capacità 81](GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md). Verità ignote separate nei dossier 84–85. Le scelte autoriali delegate sono rivedibili; nessuna azione futura imposta.

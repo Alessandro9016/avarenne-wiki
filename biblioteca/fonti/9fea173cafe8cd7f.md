@@ -1,0 +1,31 @@
+# Alexander — ultime memorie e successione durante la minore età — 369
+
+Revisione adottata il 19 ottobre 2026 su richiesta diretta del giocatore. Questo documento contiene soltanto ricordi del duca, limiti del sapere iniziale e norme civili note; non espone la verità riservata sulla crisi.
+
+## Ultime memorie del duca
+
+Alexander non decise di morire o di lasciare Celine. Era affaticato, in lutto e preoccupato, ma continuava a considerare la protezione della sorella e la gestione dei suoi interessi una responsabilità da esercitare. Le sue difficoltà non sono una prova di un'intenzione suicidaria.
+
+Il 14 maggio 812 ricordi una serata ordinaria nella casa di Rovenne: avevi lasciato incompleta una risposta di lavoro e intendevi riprenderla. Sul vassoio personale c'erano acqua e un piccolo flacone di cordiale ricostituente che ritenevi una bevanda ordinaria. Ne bevvi senza pensare di avvelenarti. Ricordi il malessere e il peggioramento fino alla perdita di coscienza. Non vedesti preparare il contenuto e non ricordi chi l'avesse maneggiato prima che raggiungesse il vassoio. Questo limite è mancata osservazione, non un ricordo cancellato.
+
+I ricordi restano integrali: puoi ricostruire gesti percepiti, persone effettivamente incontrate e ciò che allora credevi. Non comprendono attività nascoste, conversazioni durante il coma, analisi cliniche eseguite dopo o intenzioni altrui. Il nome di un conoscente o l'esistenza di un interesse successorio non prova una responsabilità.
+
+L'intervallo di quattro giorni e la valutazione clinica vengono appresi da chi assistette, dalle cartelle o dal calendario. Non erano esperienze coscienti del duca. La persona antica si ricongiunge al corpo dopo la morte del giovane Alexander: nessuna seconda anima e nessuna uccisione operata da Edran.
+
+## Celine e la successione nota
+
+Per il ramo Valcienne attuale Celine è la prima chiamata alla successione se Alexander muore senza discendenti. È quattordicenne; la maggiore età civile pertinente è diciotto anni. La presenza di parenti adulti non le sottrae automaticamente il titolo per il solo fatto di essere una ragazza o una minore.
+
+Accettazione e riconoscimento della successione, cura personale della minore, amministrazione del patrimonio privato e funzioni pubbliche ducali sono questioni distinte. Un atto su una di esse non assegna tutte le altre. Un tutore non diventa duca, non acquista i beni della minore e non può imporle un matrimonio. La tutela deve rendere conto e può essere contestata e sostituita nelle forme competenti.
+
+La morte richiede constatazione e atti validi; il coma da solo non trasferisce titolo o patrimonio. Durante un impedimento si eseguono deleghe esistenti e possono essere chieste misure provvisorie delimitate con controllo giudiziario. L'interessato o i familiari possono opporsi con documenti e testimonianze. Il recupero della capacità impone di riesaminare misure fondate sul suo venir meno.
+
+Per l'eventuale minore titolare, la funzione territoriale richiede un'amministrazione temporanea riconosciuta, con mandato, durata, rendiconti e controllo degli atti in conflitto d'interessi. Non si eredita la tutela da un amico del padre e non si risolve tutto con una lettera privata. Le cariche e i contratti possono tuttavia concentrare influenza materiale in chi li gestisce: è per questo che le procedure e i controlli hanno valore.
+
+Il voto nella Camera delle Concessioni resta personale e soggetto alla capacità e al riconoscimento del titolare. Durante la minore età non nasce un voto privato del tutore o di un barone; non viene creato un seggio aggiuntivo e il numero nazionale resta 120. Il rango e l'assistenza familiare non trasferiscono sessantuno voti o sovranità sulle città.
+
+## Cosa non sai all'apertura
+
+Non ricevi qui una diagnosi del contenuto, il nome di un responsabile, un movente, l'esistenza di un accordo segreto o l'esito di una domanda giudiziaria. Puoi chiedere assistenza, esaminare oggetti effettivamente conservati e usare capacità pertinenti. Una prova sufficiente comunica il risultato: non occorre fingere di non capire per preservare un arco.
+
+Questo documento sostituisce ogni vecchio riferimento al suicidio o all'avvelenamento volontario di Alexander e ogni presunta memoria di quella decisione. Non cancella il naufragio dei genitori, i ricordi civili o il rapporto con Celine. Non modifica l'origine dei poteri né il ruolo del Quiet Glass.

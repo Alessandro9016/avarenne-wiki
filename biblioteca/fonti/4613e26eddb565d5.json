@@ -152,14 +152,17 @@
         "CAST-495",
         "CAST-208",
         "CAST-211",
-        "CAST-220"
+        "CAST-220",
+        "CAST-506",
+        "CAST-470"
       ],
       "sources": "85; 133; EVD-14/15",
-      "stable_truth": "Il ritorno è autentico; i frammenti del Quiet Glass sono spenti. Nessun familiare conosce Edran.",
+      "stable_truth": "Il ritorno è autentico; i frammenti del Quiet Glass sono spenti. Alexander non si avvelenò volontariamente: un attentato civile provocò la crisi, senza conoscenza del ritorno. Il responsabile è fissato nel riservato 369. Nessun familiare conosce Edran.",
       "independent_initiative": "Mirel verifica parametri; Nela passa le note; Albin prosegue i pagamenti delegati.",
       "hooks": [
         "Scatola medica e cartella divergente",
-        "richiesta di aggiornamento patrimoniale."
+        "richiesta di aggiornamento patrimoniale.",
+        "Cartella e campione conservato consentono di distinguere causa tossica, consumazione ricordata e intenzione personale."
       ],
       "choice": "Esaminare il mezzo, parlare alla famiglia, riprendere il ducato o lasciare la casa.",
       "evolution": "Una diagnosi precoce risolve il raccordo e apre la questione della provenienza; ignorarlo conserva i frammenti in custodia ordinaria senza altri ritorni.",
@@ -174,7 +177,9 @@
       "operational_fronts": [
         "FRONT-11"
       ],
-      "antagonist_ids": [],
+      "antagonist_ids": [
+        "CAST-506"
+      ],
       "allied_bearer_ids": [
         "CAST-494"
       ],
@@ -231,6 +236,13 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
+      },
+      "civil_case_369": {
+        "source": "RISERVATO_369_Crisi_di_Alexander_e_successione_contesa.md",
+        "responsible_id": "CAST-506",
+        "protagonist_knows_culprit_at_T0": false,
+        "resolution_can_be_early": true,
+        "no_universal_plot": true
       }
     },
     {
@@ -4768,5 +4780,6 @@
       }
     ]
   },
-  "editorial_revision_367": "Quaranta approfondimenti causali; correzione esplicita di due residui superati, nessuna trama futura acquisita."
+  "editorial_revision_367": "Quaranta approfondimenti causali; correzione esplicita di due residui superati, nessuna trama futura acquisita.",
+  "retcon_revision": 369
 }

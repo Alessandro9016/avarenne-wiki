@@ -19,7 +19,14 @@
         "rapporti modificati",
         "cause risolte e rischi ancora attivi",
         "data e luoghi effettivi"
-      ]
+      ],
+      "civil_case_369": {
+        "source": "RISERVATO_369_Crisi_di_Alexander_e_successione_contesa.md",
+        "responsible_id": "CAST-506",
+        "protagonist_knows_culprit_at_T0": false,
+        "resolution_can_be_early": true,
+        "no_universal_plot": true
+      }
     },
     {
       "id": "ARC-02",

@@ -1,8 +1,8 @@
 {
-  "versione": "368",
-  "data": "2026-10-17",
+  "versione": "369",
+  "data": "2026-10-19",
   "fonte_unica": "23_Registro_unico_del_canone.md",
-  "sha256_fonte": "cada01a17dbcce08e49cbda59db50ee67a06a98ac3beabca1eb8c1b22f9f5f20",
+  "sha256_fonte": "9162ebb5b88ab885d50dd9c22d957ed26ab2ff38298f8c447e105a30eac7c976",
   "decisioni": [
     {
       "id": "CAN-001",
@@ -928,8 +928,8 @@
     {
       "id": "CAN-116",
       "stato": "ADOTTATO",
-      "decisione": "Duca giovane per successione recente, avvelenamento volontario, coma, morte e risveglio ignoto agli altri come ritorno della persona antica.",
-      "fonte_o_successore": "Scelte dirette del giocatore; documento 76, punto 6 in corso.",
+      "decisione": "Duca giovane per successione recente, avvelenamento subito senza intenzione suicidaria, coma, morte e risveglio ignoto agli altri come ritorno della persona antica. Causa riservata e ultimi ricordi sono ridefiniti nel 369.",
+      "fonte_o_successore": "Richiesta diretta del giocatore del 19 ottobre 2026; GIOCATORE_369 e RISERVATO_369 sostituiscono la precedente causa volontaria.",
       "versione": "1.18",
       "data": "2026-10-10"
     },
@@ -2009,8 +2009,8 @@
       "versione": "326"
     }
   ],
-  "revision": 368,
-  "current_topic_register": "368_Registro_chiusura_editoriale_e_citta.md",
+  "revision": 369,
+  "current_topic_register": "369_Registro_revisione_crisi_personale.md",
   "operational_profiles_source": "CANONE_VIGENTE/Profili_operativi_Effigi_350.json",
   "interaction_source": "CANONE_VIGENTE/Contese_verificate_350.json",
   "pending_work_source": null

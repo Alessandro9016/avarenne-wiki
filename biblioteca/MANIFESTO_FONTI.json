@@ -124,8 +124,8 @@
       "group": "Dati strutturati e registri",
       "url": "9f5d1e0af2de6024.html",
       "raw": "fonti/9f5d1e0af2de6024.json",
-      "sha256": "ad1f68cdbf3d3f66dce501a1b7fbc32fa3be05b51acdc299d05baf478bed503b",
-      "bytes": 3517473
+      "sha256": "5a06edefac80d4de7d106902b4b40f9dbe47914e7ba737b261614858d7768b8a",
+      "bytes": 3520434
     },
     {
       "source": "CANONE_VIGENTE/Censimento_visuale_luoghi.json",
@@ -538,8 +538,8 @@
       "group": "Dati strutturati e registri",
       "url": "1deff82c48dbf8ee.html",
       "raw": "fonti/1deff82c48dbf8ee.json",
-      "sha256": "35c19db84cb3dcc6479890ccd84f284f59dea3e7327c75d3f5f0780b3e12797c",
-      "bytes": 148140
+      "sha256": "ff4777eb5d65aa4a98ddec4d7992f5ad36713b66512f4e37103810f85f236a06",
+      "bytes": 146873
     },
     {
       "source": "CANONE_VIGENTE/Protagonista_riservato.json",
@@ -547,8 +547,8 @@
       "group": "Dati strutturati e registri",
       "url": "17b2db23ae63cc2d.html",
       "raw": "fonti/17b2db23ae63cc2d.json",
-      "sha256": "9dd90c0e06994f99b3618f95f22826e82f5e178658842395feba407968dd1693",
-      "bytes": 25913
+      "sha256": "4045c4808073eb2fc219852145823d584cc19bf66f058241b5970977134bcd70",
+      "bytes": 26142
     },
     {
       "source": "CANONE_VIGENTE/Raccordo_adulto.json",
@@ -574,8 +574,8 @@
       "group": "Dati strutturati e registri",
       "url": "fe9fbb2c8f28317b.html",
       "raw": "fonti/fe9fbb2c8f28317b.json",
-      "sha256": "60a6ebb15029438df48dc2cda252edcbd151c84cfb5e7a9a37f1b4ee21f364e1",
-      "bytes": 84681
+      "sha256": "8fab04724de5f77e966eebe9d9a86b1db58faaae7cdf90ede28da1da3c4a837f",
+      "bytes": 84828
     },
     {
       "source": "CANONE_VIGENTE/Regole_comuni.json",
@@ -700,8 +700,8 @@
       "group": "Dati strutturati e registri",
       "url": "4613e26eddb565d5.html",
       "raw": "fonti/4613e26eddb565d5.json",
-      "sha256": "3dda26d6d8825c4c25459a624265d7ba36486710b1348385a724879db9d437df",
-      "bytes": 228831
+      "sha256": "f86aff406748fe2744a094aadd68601f11309f9ab369978cce39d4aa2a77a40c",
+      "bytes": 229489
     },
     {
       "source": "CANONE_VIGENTE/Unita_milestone11.json",
@@ -1051,8 +1051,8 @@
       "group": "Cast — dossier individuali",
       "url": "4410f64ca3df3200.html",
       "raw": "fonti/4410f64ca3df3200.md",
-      "sha256": "d706ea2d27206f6a54227e9fc25c6a172e698f2013f114f929545b19eaf50abf",
-      "bytes": 7743
+      "sha256": "697253efdb51497022cb1114cdda1b0f3c44524447b4c4fa39ffa46c12015051",
+      "bytes": 7978
     },
     {
       "source": "CAST_RISERVATO/CAST-006.md",
@@ -1627,8 +1627,8 @@
       "group": "Cast — dossier individuali",
       "url": "6187228936c6b78d.html",
       "raw": "fonti/6187228936c6b78d.md",
-      "sha256": "8e37a68fcbcf5bdbd8be5f0a425b4c87ace15d7fcf04d3a55d4f288358f9ad5f",
-      "bytes": 7159
+      "sha256": "ba3c80b66f5ac79e6758da2d29a45c9dda847608235b39a13a693dd752d57279",
+      "bytes": 7371
     },
     {
       "source": "CAST_RISERVATO/CAST-070.md",
@@ -1636,8 +1636,8 @@
       "group": "Cast — dossier individuali",
       "url": "83634ea4b7e125a4.html",
       "raw": "fonti/83634ea4b7e125a4.md",
-      "sha256": "4d98527becad4f66c145aa347f53f3403dc70f7dc1dc92a0df863dba673bea5f",
-      "bytes": 6329
+      "sha256": "1971478515a1c20dce9d0c7dc92d5540163b3131c54af437395f6eb632b11f61",
+      "bytes": 6541
     },
     {
       "source": "CAST_RISERVATO/CAST-071.md",
@@ -1645,8 +1645,8 @@
       "group": "Cast — dossier individuali",
       "url": "5b39552da13f3937.html",
       "raw": "fonti/5b39552da13f3937.md",
-      "sha256": "60d67e0c1e821fbfba8386ceea0464fda74b7c8db2e1188a4be272c9773347e8",
-      "bytes": 6375
+      "sha256": "8a3ed4aa0df55b32f5a426bdf67e3899fe6aa03ef5feeab3c3b7b7f481cde649",
+      "bytes": 6610
     },
     {
       "source": "CAST_RISERVATO/CAST-072.md",
@@ -1780,8 +1780,8 @@
       "group": "Cast — dossier individuali",
       "url": "85e4914fb550a078.html",
       "raw": "fonti/85e4914fb550a078.md",
-      "sha256": "f4a53507340653eb3dcd22a1e9e85572324f4bf1028924cbfe07aa2f9832e734",
-      "bytes": 5608
+      "sha256": "40310e9325fd545812ffdbef70c0c5b81fe729dc3d336592d54001d33e2e251a",
+      "bytes": 5843
     },
     {
       "source": "CAST_RISERVATO/CAST-087.md",
@@ -1942,8 +1942,8 @@
       "group": "Cast — dossier individuali",
       "url": "9cb455f513ddd2d8.html",
       "raw": "fonti/9cb455f513ddd2d8.md",
-      "sha256": "7ab161d6a72feb0747771d56ce428c48f2d7c79785133272dd038c7ce7b1ab90",
-      "bytes": 5581
+      "sha256": "39bb3a4f6f458d4b9fb98030cef22a0352347d824c6464f9b8e6702e4a9bf05c",
+      "bytes": 5816
     },
     {
       "source": "CAST_RISERVATO/CAST-105.md",
@@ -5182,8 +5182,8 @@
       "group": "Cast — dossier individuali",
       "url": "e659613db0d667fb.html",
       "raw": "fonti/e659613db0d667fb.md",
-      "sha256": "644c247492014b593480a54aa6d0e195ab23df2ae802ef12ecc820e5a102e408",
-      "bytes": 2975
+      "sha256": "398df443d2eafe4c79e9abbaa01389b1d4d42907654807d11fec320915e13d1a",
+      "bytes": 2998
     },
     {
       "source": "CAST_RISERVATO/CAST-465.md",
@@ -5200,8 +5200,8 @@
       "group": "Cast — dossier individuali",
       "url": "099aec954777a568.html",
       "raw": "fonti/099aec954777a568.md",
-      "sha256": "64cd3fd13528ac889d820eeea2692caff67e0a7b8b87783e796a701b0ab7db97",
-      "bytes": 2548
+      "sha256": "7cedeb6baef320d707f8e60d9bc9c50d8388c2c514ada6fface809a4d563f1a6",
+      "bytes": 2607
     },
     {
       "source": "CAST_RISERVATO/CAST-467.md",
@@ -5209,8 +5209,8 @@
       "group": "Cast — dossier individuali",
       "url": "3480103b82b8e85d.html",
       "raw": "fonti/3480103b82b8e85d.md",
-      "sha256": "fd4c1bc6a3757a8d6f7bb80bbe6a190153e53bc60b6aff573e83205821105b28",
-      "bytes": 2568
+      "sha256": "50fd56527134cbb581f207244b6c8f6efb04eae2afef7e665f59234e8946ae00",
+      "bytes": 2627
     },
     {
       "source": "CAST_RISERVATO/CAST-468.md",
@@ -5218,8 +5218,8 @@
       "group": "Cast — dossier individuali",
       "url": "ffeb34bce98cbb8f.html",
       "raw": "fonti/ffeb34bce98cbb8f.md",
-      "sha256": "8638044734e87aa0e525f972b9b80e9ef8eeaaa6e2bc929d5c9836c99df89b59",
-      "bytes": 2523
+      "sha256": "12de1a0c6c7031ebb84622e38f0b59d393aaf2ccc896498a267d1d240f244303",
+      "bytes": 2582
     },
     {
       "source": "CAST_RISERVATO/CAST-469.md",
@@ -5227,8 +5227,8 @@
       "group": "Cast — dossier individuali",
       "url": "c928d2d062b16826.html",
       "raw": "fonti/c928d2d062b16826.md",
-      "sha256": "a10695bcdd93b86985a9eb1a5e8e525d796b3459cef24f8d989f78977b0f56cf",
-      "bytes": 2563
+      "sha256": "171dab0f474bd30df12265fe63776d25616e91a3745671d50c92305a5621ef27",
+      "bytes": 2622
     },
     {
       "source": "CAST_RISERVATO/CAST-470.md",
@@ -5236,8 +5236,8 @@
       "group": "Cast — dossier individuali",
       "url": "7281b639ce629f2b.html",
       "raw": "fonti/7281b639ce629f2b.md",
-      "sha256": "7a5bf6c10e9bd172e276603a5a63ec7c91b9ef3d61e82cfeb44d22dcd9fa98c9",
-      "bytes": 2769
+      "sha256": "0cfcfeac5ccb3df50f2a230234ca8a40f1e884fa27181c22847a24c820b43464",
+      "bytes": 3059
     },
     {
       "source": "CAST_RISERVATO/CAST-471.md",
@@ -5245,8 +5245,8 @@
       "group": "Cast — dossier individuali",
       "url": "c716d5d4aaac99fc.html",
       "raw": "fonti/c716d5d4aaac99fc.md",
-      "sha256": "3fc87c4eab9b62c21dea4b1c554c56ac5816b94eb4c7bb8570f81de8e191657e",
-      "bytes": 2788
+      "sha256": "09eb8e2cb0063bb17a721a7dcb997ae663ba21408a1dc33483e07699d65f5d9d",
+      "bytes": 2811
     },
     {
       "source": "CAST_RISERVATO/CAST-472.md",
@@ -5785,8 +5785,8 @@
       "group": "Documenti del giocatore",
       "url": "5f168e937d0dde45.html",
       "raw": "fonti/5f168e937d0dde45.md",
-      "sha256": "1a36acd606288e213d7786f2ef58d6ae7df4480bcce2f20dcb269fd308bcb402",
-      "bytes": 10883
+      "sha256": "cffabdb5db4b2d8d99ca6d89f9e9a107a3742fb39adbab66c964a7b5d371171a",
+      "bytes": 10922
     },
     {
       "source": "GIOCATORE_278_Affetti_antichi_e_longevita.md",
@@ -6217,8 +6217,8 @@
       "group": "Documenti del giocatore",
       "url": "4bed22480ebd84b4.html",
       "raw": "fonti/4bed22480ebd84b4.md",
-      "sha256": "73a6d5c9e476db5c0a27d7cf8dc89ab384a8649d086c9c494fa4f684d2acd0a5",
-      "bytes": 8331
+      "sha256": "e71a1760d0a7efca0314ae13e8c13663789071e182d2e60166f340a169be8f76",
+      "bytes": 8421
     },
     {
       "source": "GIOCATORE_77_Identita_di_Edran_e_Alexander.md",
@@ -6244,8 +6244,8 @@
       "group": "Documenti del giocatore",
       "url": "7c3451f8ab2db60a.html",
       "raw": "fonti/7c3451f8ab2db60a.md",
-      "sha256": "3529be3c09c9573ddb25fabdf13e30e67b8268f495a00a925a6ae1ed256e4927",
-      "bytes": 6262
+      "sha256": "e60bfdebd723f50d359e591bd3546ab3591af40be19c35722703f009a7fe656e",
+      "bytes": 6308
     },
     {
       "source": "GIOCATORE_80_Legami_antichi_che_ricordi.md",
@@ -6280,8 +6280,8 @@
       "group": "Documenti del giocatore",
       "url": "f0892959dede90b7.html",
       "raw": "fonti/f0892959dede90b7.md",
-      "sha256": "949b5bd918c214d36a27a29f979297a54dfa280141e1142642806560635d139a",
-      "bytes": 6505
+      "sha256": "ddb16e0215aa8b38f7e10c7e0ae44bfd30a8f6091c6da1f1da96ae08b8871881",
+      "bytes": 7035
     },
     {
       "source": "GIOCATORE_86_Audit_del_protagonista.md",
@@ -6775,8 +6775,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "13d1570d8d9c65a6.html",
       "raw": "fonti/13d1570d8d9c65a6.md",
-      "sha256": "4ec913407cf0de961d0fcac8e59f0f21721729417658ce8d2ac5e74ffc057aab",
-      "bytes": 1589
+      "sha256": "95e35002f0fafb408a4f2368c034278db57ec46afd023f8dd23dc6ca60f6e7f6",
+      "bytes": 1726
     },
     {
       "source": "RISERVATO_72_Presenze_esterne_e_pressioni_cosmiche.md",
@@ -6793,8 +6793,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "2a6a4dfe206672e3.html",
       "raw": "fonti/2a6a4dfe206672e3.md",
-      "sha256": "8f3ca1f76ea9c17f112b6c455d53432719517ac5b9452e7239433d3dfecae92d",
-      "bytes": 15695
+      "sha256": "27e22930d605135e6c4220e0c14854e8db8b63068ed05b215e7010300de9e858",
+      "bytes": 15753
     },
     {
       "source": "RISERVATO_85_Apertura_personale_e_rete_immediata.md",
@@ -6802,8 +6802,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "4302b077b6720053.html",
       "raw": "fonti/4302b077b6720053.md",
-      "sha256": "02588bd5d46cfef7b328aaa54cc00d4f8a980e5d75646d51225971c03c746574",
-      "bytes": 8746
+      "sha256": "e9768541ef528af68fbad8bb20461c5c6556675cee8048a100785ea18be1a5db",
+      "bytes": 9176
     },
     {
       "source": "RISERVATO_94_Cronologia_integrale_ed_ere.md",
@@ -7237,8 +7237,8 @@
       "group": "Canone vigente e verifica della consegna",
       "url": "06300f093b9b4ae7.html",
       "raw": "fonti/06300f093b9b4ae7.md",
-      "sha256": "cada01a17dbcce08e49cbda59db50ee67a06a98ac3beabca1eb8c1b22f9f5f20",
-      "bytes": 65181
+      "sha256": "9162ebb5b88ab885d50dd9c22d957ed26ab2ff38298f8c447e105a30eac7c976",
+      "bytes": 67133
     },
     {
       "source": "342_Stato_vigente_per_la_consegna.md",
@@ -7364,7 +7364,9 @@
       "url": "a510f792bbb6c15f.html",
       "raw": "fonti/a510f792bbb6c15f.txt",
       "sha256": "ae2906fb6b219e9520f452497c471f58f8045a8850bda49cdc56457eaea434c6",
-      "bytes": 227939
+      "bytes": 227939,
+      "status": "STORICO_SUPERATO_PER_CAUSA_DELLA_CRISI",
+      "current_successor": "Consegna 369"
     },
     {
       "source": "AVVIO_NARRATORE/PROTOCOLLO_NARRATORE_AVARENNE.txt",
@@ -7373,7 +7375,9 @@
       "url": "5de80396760c781e.html",
       "raw": "fonti/5de80396760c781e.txt",
       "sha256": "054825f27d0b396c624091c0d52e96bd24d93a999b3f341eb647cb8981397609",
-      "bytes": 21572
+      "bytes": 21572,
+      "status": "STORICO_SUPERATO_PER_CAUSA_DELLA_CRISI",
+      "current_successor": "Consegna 369"
     },
     {
       "source": "CANONE_VIGENTE/Esempi_abilita_345.json",
@@ -7516,8 +7520,8 @@
       "group": "Territorio di Rovenne — 347",
       "url": "9444645aed9626aa.html",
       "raw": "fonti/9444645aed9626aa.md",
-      "sha256": "f20f546640a76d8fa179b2773cc74882de8d4913b32abfd2e25138b8bfd2ecc5",
-      "bytes": 1678
+      "sha256": "ff1adf5b85c7217ad2b36d8a8f6efa51232a310b535b55f5f82d484a225f8809",
+      "bytes": 1874
     },
     {
       "source": "CAST_RISERVATO/CAST-507.md",
@@ -9489,8 +9493,8 @@
       "group": "Consolidamento354",
       "url": "6660d8dc11a8e0d2.html",
       "raw": "fonti/6660d8dc11a8e0d2.md",
-      "sha256": "efecf44149d9e0685d40b15f040723605c40e703bc4c18475d2a6fb4b5054522",
-      "bytes": 58406
+      "sha256": "9162ebb5b88ab885d50dd9c22d957ed26ab2ff38298f8c447e105a30eac7c976",
+      "bytes": 67133
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-552.md",
@@ -16428,8 +16432,8 @@
       "group": "Quaranta archi — 367",
       "url": "1be1a092250d52e2.html",
       "raw": "fonti/1be1a092250d52e2.json",
-      "sha256": "188a542336667638d628adba27962a1e441efa45b6a508d2d22147567ae39c59",
-      "bytes": 61339
+      "sha256": "f34fbdc30a3258b221bb12f8dd09f0dc01b319cb8e38176b98bc09d86643fe8f",
+      "bytes": 61616
     },
     {
       "source": "RISERVATO_367_Quaranta_archi_operativi.md",
@@ -17159,6 +17163,492 @@
       "raw": "fonti/242bd1f6736a0765.json",
       "sha256": "73b72ff621c6716246904e4ce263202f9d2a3979202e3d9043e8b835c0279ea4",
       "bytes": 235246
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CANONE_VIGENTE/Protagonista_riservato.json",
+      "title": "Protagonista riservato",
+      "group": "Storico superato dalla revisione 369",
+      "url": "9bfd01c6cb3b4509.html",
+      "raw": "fonti/9bfd01c6cb3b4509.json",
+      "sha256": "9dd90c0e06994f99b3618f95f22826e82f5e178658842395feba407968dd1693",
+      "bytes": 25913
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+      "title": "RISERVATO 328 Chiusura editoriale e verifica di consultazione",
+      "group": "Storico superato dalla revisione 369",
+      "url": "f4b6f83e80d29f17.html",
+      "raw": "fonti/f4b6f83e80d29f17.md",
+      "sha256": "4ec913407cf0de961d0fcac8e59f0f21721729417658ce8d2ac5e74ffc057aab",
+      "bytes": 1589
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/GIOCATORE_83_Matrice_delle_conoscenze_personali.md",
+      "title": "GIOCATORE 83 Matrice delle conoscenze personali",
+      "group": "Storico superato dalla revisione 369",
+      "url": "a690012594e75306.html",
+      "raw": "fonti/a690012594e75306.md",
+      "sha256": "949b5bd918c214d36a27a29f979297a54dfa280141e1142642806560635d139a",
+      "bytes": 6505
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CAST_RISERVATO/CAST-005.md",
+      "title": "CAST-005",
+      "group": "Storico superato dalla revisione 369",
+      "url": "84f8fd52da96e95a.html",
+      "raw": "fonti/84f8fd52da96e95a.md",
+      "sha256": "d706ea2d27206f6a54227e9fc25c6a172e698f2013f114f929545b19eaf50abf",
+      "bytes": 7743
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/06_Protagonista/GIOCATORE/GIOCATORE_369_Ultime_memorie_e_successione.md",
+      "title": "GIOCATORE 369 Ultime memorie e successione",
+      "group": "Revisione della crisi personale — 369",
+      "url": "68a6f9eeb3f7ea2b.html",
+      "raw": "fonti/68a6f9eeb3f7ea2b.md",
+      "sha256": "fe6d8dde6feba708c6916e5c7c4e9a83b00ce4efdd71c73fb63f1f2fd32e0d2a",
+      "bytes": 4444
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CANONE_VIGENTE/Trama_riservata.json",
+      "title": "Trama riservata",
+      "group": "Storico superato dalla revisione 369",
+      "url": "662f92c8c0e68a02.html",
+      "raw": "fonti/662f92c8c0e68a02.json",
+      "sha256": "3dda26d6d8825c4c25459a624265d7ba36486710b1348385a724879db9d437df",
+      "bytes": 228831
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/13_Manuali_e_pacchetto_Narratore/RISERVATO/RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+      "title": "RISERVATO 328 Chiusura editoriale e verifica di consultazione",
+      "group": "Revisione della crisi personale — 369",
+      "url": "06b302d3389efbcc.html",
+      "raw": "fonti/06b302d3389efbcc.md",
+      "sha256": "95e35002f0fafb408a4f2368c034278db57ec46afd023f8dd23dc6ca60f6e7f6",
+      "bytes": 1726
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CAST_RISERVATO/CAST-470.md",
+      "title": "CAST-470",
+      "group": "Storico superato dalla revisione 369",
+      "url": "fe4fa5adc99b2c6d.html",
+      "raw": "fonti/fe4fa5adc99b2c6d.md",
+      "sha256": "7a5bf6c10e9bd172e276603a5a63ec7c91b9ef3d61e82cfeb44d22dcd9fa98c9",
+      "bytes": 2769
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/06_Protagonista/RISERVATO/RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
+      "title": "RISERVATO 84 Caduta continuita ritorno e Seats",
+      "group": "Revisione della crisi personale — 369",
+      "url": "dc3cc50f0a0bd55a.html",
+      "raw": "fonti/dc3cc50f0a0bd55a.md",
+      "sha256": "27e22930d605135e6c4220e0c14854e8db8b63068ed05b215e7010300de9e858",
+      "bytes": 15753
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/06_Protagonista/GIOCATORE/GIOCATORE_83_Matrice_delle_conoscenze_personali.md",
+      "title": "GIOCATORE 83 Matrice delle conoscenze personali",
+      "group": "Revisione della crisi personale — 369",
+      "url": "c1e1ae8f9972b523.html",
+      "raw": "fonti/c1e1ae8f9972b523.md",
+      "sha256": "ddb16e0215aa8b38f7e10c7e0ae44bfd30a8f6091c6da1f1da96ae08b8871881",
+      "bytes": 7035
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CAST_RISERVATO/CAST-466.md",
+      "title": "CAST-466",
+      "group": "Storico superato dalla revisione 369",
+      "url": "3f1b790a6eab525c.html",
+      "raw": "fonti/3f1b790a6eab525c.md",
+      "sha256": "64cd3fd13528ac889d820eeea2692caff67e0a7b8b87783e796a701b0ab7db97",
+      "bytes": 2548
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CAST_RISERVATO/CAST-070.md",
+      "title": "CAST-070",
+      "group": "Storico superato dalla revisione 369",
+      "url": "26bd1ed65567d005.html",
+      "raw": "fonti/26bd1ed65567d005.md",
+      "sha256": "4d98527becad4f66c145aa347f53f3403dc70f7dc1dc92a0df863dba673bea5f",
+      "bytes": 6329
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md",
+      "title": "GIOCATORE 79 Alexander Valcienne memorie e vita civile",
+      "group": "Storico superato dalla revisione 369",
+      "url": "9c7ec9479751b958.html",
+      "raw": "fonti/9c7ec9479751b958.md",
+      "sha256": "3529be3c09c9573ddb25fabdf13e30e67b8268f495a00a925a6ae1ed256e4927",
+      "bytes": 6262
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CANONE_VIGENTE/Archi_operativi_367.json",
+      "title": "Archi operativi 367",
+      "group": "Storico superato dalla revisione 369",
+      "url": "888db3430f086574.html",
+      "raw": "fonti/888db3430f086574.json",
+      "sha256": "188a542336667638d628adba27962a1e441efa45b6a508d2d22147567ae39c59",
+      "bytes": 61339
+    },
+    {
+      "source": "GIOCATORE_369_Ultime_memorie_e_successione.md",
+      "title": "GIOCATORE 369 Ultime memorie e successione",
+      "group": "Revisione della crisi personale — 369",
+      "url": "9fea173cafe8cd7f.html",
+      "raw": "fonti/9fea173cafe8cd7f.md",
+      "sha256": "fe6d8dde6feba708c6916e5c7c4e9a83b00ce4efdd71c73fb63f1f2fd32e0d2a",
+      "bytes": 4444
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
+      "title": "RISERVATO 84 Caduta continuita ritorno e Seats",
+      "group": "Storico superato dalla revisione 369",
+      "url": "be8e54e2ab119b51.html",
+      "raw": "fonti/be8e54e2ab119b51.md",
+      "sha256": "8f3ca1f76ea9c17f112b6c455d53432719517ac5b9452e7239433d3dfecae92d",
+      "bytes": 15695
+    },
+    {
+      "source": "RISERVATO_369_Crisi_di_Alexander_e_successione_contesa.md",
+      "title": "RISERVATO 369 Crisi di Alexander e successione contesa",
+      "group": "Revisione della crisi personale — 369",
+      "url": "00a38c846cdf7efe.html",
+      "raw": "fonti/00a38c846cdf7efe.md",
+      "sha256": "67fa8bdf3e70cfc49dcb2cf36da0cf7640d30f52d4e04ed183ce9dad7df52640",
+      "bytes": 12764
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/GIOCATORE_273_Rete_civile_di_Alexander.md",
+      "title": "GIOCATORE 273 Rete civile di Alexander",
+      "group": "Storico superato dalla revisione 369",
+      "url": "225c7a0b794e5d79.html",
+      "raw": "fonti/225c7a0b794e5d79.md",
+      "sha256": "1a36acd606288e213d7786f2ef58d6ae7df4480bcce2f20dcb269fd308bcb402",
+      "bytes": 10883
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/23_Registro_unico_del_canone.md",
+      "title": "23 Registro unico del canone",
+      "group": "Storico superato dalla revisione 369",
+      "url": "eab559b14117ac10.html",
+      "raw": "fonti/eab559b14117ac10.md",
+      "sha256": "cada01a17dbcce08e49cbda59db50ee67a06a98ac3beabca1eb8c1b22f9f5f20",
+      "bytes": 65181
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CAST_RISERVATO/CAST-086.md",
+      "title": "CAST-086",
+      "group": "Storico superato dalla revisione 369",
+      "url": "141f157d2811c31d.html",
+      "raw": "fonti/141f157d2811c31d.md",
+      "sha256": "f4a53507340653eb3dcd22a1e9e85572324f4bf1028924cbfe07aa2f9832e734",
+      "bytes": 5608
+    },
+    {
+      "source": "CANONE_VIGENTE/Crisi_personale_369.json",
+      "title": "Crisi personale 369",
+      "group": "Revisione della crisi personale — 369",
+      "url": "700bb0eb1dfb47f2.html",
+      "raw": "fonti/700bb0eb1dfb47f2.json",
+      "sha256": "4189b852bd23f0f8bcf4441b3005256ab77514ddbcfac70dcfdc7854310a334f",
+      "bytes": 1384
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/GIOCATORE/GIOCATORE_273_Rete_civile_di_Alexander.md",
+      "title": "GIOCATORE 273 Rete civile di Alexander",
+      "group": "Revisione della crisi personale — 369",
+      "url": "112924629c36cf1d.html",
+      "raw": "fonti/112924629c36cf1d.md",
+      "sha256": "cffabdb5db4b2d8d99ca6d89f9e9a107a3742fb39adbab66c964a7b5d371171a",
+      "bytes": 10922
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CAST_RISERVATO/CAST-104.md",
+      "title": "CAST-104",
+      "group": "Storico superato dalla revisione 369",
+      "url": "6a243bc5f3b5f1dd.html",
+      "raw": "fonti/6a243bc5f3b5f1dd.md",
+      "sha256": "7ab161d6a72feb0747771d56ce428c48f2d7c79785133272dd038c7ce7b1ab90",
+      "bytes": 5581
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md",
+      "title": "GIOCATORE 76 Direzione del protagonista e vincoli",
+      "group": "Storico superato dalla revisione 369",
+      "url": "6bb22cf1c4e05cfd.html",
+      "raw": "fonti/6bb22cf1c4e05cfd.md",
+      "sha256": "73a6d5c9e476db5c0a27d7cf8dc89ab384a8649d086c9c494fa4f684d2acd0a5",
+      "bytes": 8331
+    },
+    {
+      "source": "369_Registro_revisione_crisi_personale.md",
+      "title": "369 Registro revisione crisi personale",
+      "group": "Revisione della crisi personale — 369",
+      "url": "370706fd164b4dd2.html",
+      "raw": "fonti/370706fd164b4dd2.md",
+      "sha256": "ddb100d393fff480bbcb5337e09e729136f3857ce3a62808ec740a04e05c0001",
+      "bytes": 1871
+    },
+    {
+      "source": "CANONE_VIGENTE/Audit_retcon_369.json",
+      "title": "Audit retcon 369",
+      "group": "Revisione della crisi personale — 369",
+      "url": "6767a86efca1479f.html",
+      "raw": "fonti/6767a86efca1479f.json",
+      "sha256": "a09c42c8651622dbe623c02fb2fc4a3f97280d7134aaa0d844157fc52302dc94",
+      "bytes": 501
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CANONE_VIGENTE/Registro_decisioni.json",
+      "title": "Registro decisioni",
+      "group": "Storico superato dalla revisione 369",
+      "url": "37d85c902317ead7.html",
+      "raw": "fonti/37d85c902317ead7.json",
+      "sha256": "60a6ebb15029438df48dc2cda252edcbd151c84cfb5e7a9a37f1b4ee21f364e1",
+      "bytes": 84681
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/06_Protagonista/GIOCATORE/GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md",
+      "title": "GIOCATORE 76 Direzione del protagonista e vincoli",
+      "group": "Revisione della crisi personale — 369",
+      "url": "6ad14a474ceed19b.html",
+      "raw": "fonti/6ad14a474ceed19b.md",
+      "sha256": "e71a1760d0a7efca0314ae13e8c13663789071e182d2e60166f340a169be8f76",
+      "bytes": 8421
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CAST_RISERVATO/CAST-471.md",
+      "title": "CAST-471",
+      "group": "Storico superato dalla revisione 369",
+      "url": "61e37ae47bf1f56b.html",
+      "raw": "fonti/61e37ae47bf1f56b.md",
+      "sha256": "3fc87c4eab9b62c21dea4b1c554c56ac5816b94eb4c7bb8570f81de8e191657e",
+      "bytes": 2788
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/RISERVATO_85_Apertura_personale_e_rete_immediata.md",
+      "title": "RISERVATO 85 Apertura personale e rete immediata",
+      "group": "Storico superato dalla revisione 369",
+      "url": "46f0e12018048ca7.html",
+      "raw": "fonti/46f0e12018048ca7.md",
+      "sha256": "02588bd5d46cfef7b328aaa54cc00d4f8a980e5d75646d51225971c03c746574",
+      "bytes": 8746
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/06_Protagonista/RISERVATO/RISERVATO_369_Crisi_di_Alexander_e_successione_contesa.md",
+      "title": "RISERVATO 369 Crisi di Alexander e successione contesa",
+      "group": "Revisione della crisi personale — 369",
+      "url": "2c2510e614c153fb.html",
+      "raw": "fonti/2c2510e614c153fb.md",
+      "sha256": "67fa8bdf3e70cfc49dcb2cf36da0cf7640d30f52d4e04ed183ce9dad7df52640",
+      "bytes": 12764
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/06_Protagonista/GIOCATORE/GIOCATORE_273_Rete_civile_di_Alexander.md",
+      "title": "GIOCATORE 273 Rete civile di Alexander",
+      "group": "Revisione della crisi personale — 369",
+      "url": "08ab961cd9a8fc79.html",
+      "raw": "fonti/08ab961cd9a8fc79.md",
+      "sha256": "cffabdb5db4b2d8d99ca6d89f9e9a107a3742fb39adbab66c964a7b5d371171a",
+      "bytes": 10922
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CAST_RISERVATO/CAST-069.md",
+      "title": "CAST-069",
+      "group": "Storico superato dalla revisione 369",
+      "url": "2f567ac8a9c11bac.html",
+      "raw": "fonti/2f567ac8a9c11bac.md",
+      "sha256": "8e37a68fcbcf5bdbd8be5f0a425b4c87ace15d7fcf04d3a55d4f288358f9ad5f",
+      "bytes": 7159
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/06_Protagonista/GIOCATORE/GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md",
+      "title": "GIOCATORE 79 Alexander Valcienne memorie e vita civile",
+      "group": "Revisione della crisi personale — 369",
+      "url": "749383c9a886b774.html",
+      "raw": "fonti/749383c9a886b774.md",
+      "sha256": "e60bfdebd723f50d359e591bd3546ab3591af40be19c35722703f009a7fe656e",
+      "bytes": 6308
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CAST_RISERVATO/CAST-071.md",
+      "title": "CAST-071",
+      "group": "Storico superato dalla revisione 369",
+      "url": "c503e3247bc06fe5.html",
+      "raw": "fonti/c503e3247bc06fe5.md",
+      "sha256": "60d67e0c1e821fbfba8386ceea0464fda74b7c8db2e1188a4be272c9773347e8",
+      "bytes": 6375
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CAST_RISERVATO/CAST-467.md",
+      "title": "CAST-467",
+      "group": "Storico superato dalla revisione 369",
+      "url": "3ffab06c0f9f9fcc.html",
+      "raw": "fonti/3ffab06c0f9f9fcc.md",
+      "sha256": "fd4c1bc6a3757a8d6f7bb80bbe6a190153e53bc60b6aff573e83205821105b28",
+      "bytes": 2568
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CAST_RISERVATO/CAST-506.md",
+      "title": "CAST-506",
+      "group": "Storico superato dalla revisione 369",
+      "url": "61f0eebf08bdb95d.html",
+      "raw": "fonti/61f0eebf08bdb95d.md",
+      "sha256": "f20f546640a76d8fa179b2773cc74882de8d4913b32abfd2e25138b8bfd2ecc5",
+      "bytes": 1678
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CANONE_VIGENTE/Cast_riservato.json",
+      "title": "Cast riservato",
+      "group": "Storico superato dalla revisione 369",
+      "url": "f99e11ca1aebc9c3.html",
+      "raw": "fonti/f99e11ca1aebc9c3.json",
+      "sha256": "ad1f68cdbf3d3f66dce501a1b7fbc32fa3be05b51acdc299d05baf478bed503b",
+      "bytes": 3517473
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CANONE_VIGENTE/Protagonista.json",
+      "title": "Protagonista",
+      "group": "Storico superato dalla revisione 369",
+      "url": "0f6c851e2e4277cb.html",
+      "raw": "fonti/0f6c851e2e4277cb.json",
+      "sha256": "35c19db84cb3dcc6479890ccd84f284f59dea3e7327c75d3f5f0780b3e12797c",
+      "bytes": 148140
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CAST_RISERVATO/CAST-469.md",
+      "title": "CAST-469",
+      "group": "Storico superato dalla revisione 369",
+      "url": "ef77bb9170c74c97.html",
+      "raw": "fonti/ef77bb9170c74c97.md",
+      "sha256": "a10695bcdd93b86985a9eb1a5e8e525d796b3459cef24f8d989f78977b0f56cf",
+      "bytes": 2563
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/06_Protagonista/RISERVATO/RISERVATO_85_Apertura_personale_e_rete_immediata.md",
+      "title": "RISERVATO 85 Apertura personale e rete immediata",
+      "group": "Revisione della crisi personale — 369",
+      "url": "95915d49947ac848.html",
+      "raw": "fonti/95915d49947ac848.md",
+      "sha256": "e9768541ef528af68fbad8bb20461c5c6556675cee8048a100785ea18be1a5db",
+      "bytes": 9176
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CAST_RISERVATO/CAST-468.md",
+      "title": "CAST-468",
+      "group": "Storico superato dalla revisione 369",
+      "url": "92f45a7ad451b8bb.html",
+      "raw": "fonti/92f45a7ad451b8bb.md",
+      "sha256": "8638044734e87aa0e525f972b9b80e9ef8eeaaa6e2bc929d5c9836c99df89b59",
+      "bytes": 2523
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CAST_RISERVATO/CAST-464.md",
+      "title": "CAST-464",
+      "group": "Storico superato dalla revisione 369",
+      "url": "fff31679de48ebc9.html",
+      "raw": "fonti/fff31679de48ebc9.md",
+      "sha256": "644c247492014b593480a54aa6d0e195ab23df2ae802ef12ecc820e5a102e408",
+      "bytes": 2975
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/369_Registro_revisione_crisi_personale.md",
+      "title": "369 Registro revisione crisi personale",
+      "group": "Storico superato dalla revisione 369",
+      "url": "6ad5ce9814e73b5f.html",
+      "raw": "fonti/6ad5ce9814e73b5f.md",
+      "sha256": "ddb100d393fff480bbcb5337e09e729136f3857ce3a62808ec740a04e05c0001",
+      "bytes": 1871
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/ORGANIZZATO_PER_MILESTONE/06_Protagonista/GIOCATORE/GIOCATORE_273_Rete_civile_di_Alexander.md",
+      "title": "GIOCATORE 273 Rete civile di Alexander",
+      "group": "Storico superato dalla revisione 369",
+      "url": "d9507312af8124c7.html",
+      "raw": "fonti/d9507312af8124c7.md",
+      "sha256": "1a36acd606288e213d7786f2ef58d6ae7df4480bcce2f20dcb269fd308bcb402",
+      "bytes": 10883
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/ORGANIZZATO_PER_MILESTONE/06_Protagonista/GIOCATORE/GIOCATORE_76_Direzione_del_protagonista_e_vincoli.md",
+      "title": "GIOCATORE 76 Direzione del protagonista e vincoli",
+      "group": "Storico superato dalla revisione 369",
+      "url": "5ad83de1cb1a38d2.html",
+      "raw": "fonti/5ad83de1cb1a38d2.md",
+      "sha256": "73a6d5c9e476db5c0a27d7cf8dc89ab384a8649d086c9c494fa4f684d2acd0a5",
+      "bytes": 8331
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/ORGANIZZATO_PER_MILESTONE/01_Consolidamento_documentale/INDICI_E_DOCUMENTI_CONDIVISI/23_Registro_unico_del_canone.md",
+      "title": "23 Registro unico del canone",
+      "group": "Storico superato dalla revisione 369",
+      "url": "af34745173f3443d.html",
+      "raw": "fonti/af34745173f3443d.md",
+      "sha256": "efecf44149d9e0685d40b15f040723605c40e703bc4c18475d2a6fb4b5054522",
+      "bytes": 58406
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/ORGANIZZATO_PER_MILESTONE/06_Protagonista/GIOCATORE/GIOCATORE_83_Matrice_delle_conoscenze_personali.md",
+      "title": "GIOCATORE 83 Matrice delle conoscenze personali",
+      "group": "Storico superato dalla revisione 369",
+      "url": "5ccf130dca2c7338.html",
+      "raw": "fonti/5ccf130dca2c7338.md",
+      "sha256": "949b5bd918c214d36a27a29f979297a54dfa280141e1142642806560635d139a",
+      "bytes": 6505
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/ORGANIZZATO_PER_MILESTONE/06_Protagonista/GIOCATORE/GIOCATORE_79_Alexander_Valcienne_memorie_e_vita_civile.md",
+      "title": "GIOCATORE 79 Alexander Valcienne memorie e vita civile",
+      "group": "Storico superato dalla revisione 369",
+      "url": "bd216ba3896392cc.html",
+      "raw": "fonti/bd216ba3896392cc.md",
+      "sha256": "3529be3c09c9573ddb25fabdf13e30e67b8268f495a00a925a6ae1ed256e4927",
+      "bytes": 6262
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/ORGANIZZATO_PER_MILESTONE/13_Manuali_e_pacchetto_Narratore/RISERVATO/RISERVATO_328_Chiusura_editoriale_e_verifica_di_consultazione.md",
+      "title": "RISERVATO 328 Chiusura editoriale e verifica di consultazione",
+      "group": "Storico superato dalla revisione 369",
+      "url": "d50f4b1921fa1d04.html",
+      "raw": "fonti/d50f4b1921fa1d04.md",
+      "sha256": "4ec913407cf0de961d0fcac8e59f0f21721729417658ce8d2ac5e74ffc057aab",
+      "bytes": 1589
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/CANONE_VIGENTE/Crisi_personale_369.json",
+      "title": "Crisi personale 369",
+      "group": "Storico superato dalla revisione 369",
+      "url": "dfcd15a031e9662e.html",
+      "raw": "fonti/dfcd15a031e9662e.json",
+      "sha256": "4189b852bd23f0f8bcf4441b3005256ab77514ddbcfac70dcfdc7854310a334f",
+      "bytes": 1384
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/ORGANIZZATO_PER_MILESTONE/06_Protagonista/RISERVATO/RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
+      "title": "RISERVATO 84 Caduta continuita ritorno e Seats",
+      "group": "Storico superato dalla revisione 369",
+      "url": "7a3af0b5dd960a2c.html",
+      "raw": "fonti/7a3af0b5dd960a2c.md",
+      "sha256": "8f3ca1f76ea9c17f112b6c455d53432719517ac5b9452e7239433d3dfecae92d",
+      "bytes": 15695
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/ORGANIZZATO_PER_MILESTONE/06_Protagonista/RISERVATO/RISERVATO_85_Apertura_personale_e_rete_immediata.md",
+      "title": "RISERVATO 85 Apertura personale e rete immediata",
+      "group": "Storico superato dalla revisione 369",
+      "url": "36aa94ccc5b95c57.html",
+      "raw": "fonti/36aa94ccc5b95c57.md",
+      "sha256": "02588bd5d46cfef7b328aaa54cc00d4f8a980e5d75646d51225971c03c746574",
+      "bytes": 8746
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_369/ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/GIOCATORE/GIOCATORE_273_Rete_civile_di_Alexander.md",
+      "title": "GIOCATORE 273 Rete civile di Alexander",
+      "group": "Storico superato dalla revisione 369",
+      "url": "30562a3f2ae71714.html",
+      "raw": "fonti/30562a3f2ae71714.md",
+      "sha256": "1a36acd606288e213d7786f2ef58d6ae7df4480bcce2f20dcb269fd308bcb402",
+      "bytes": 10883
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",
