@@ -1,8 +1,8 @@
 {
-  "versione": "370",
+  "versione": "371",
   "data": "2026-10-19",
   "fonte_unica": "23_Registro_unico_del_canone.md",
-  "sha256_fonte": "3aa83f1c735cd71c1b8922afd1c51695527e5d577dfbe6f140d15af95b5bd5e7",
+  "sha256_fonte": "bbca9168e0f01b316da3af1528388dd7b82e3e97292302ca8cf835b7b2b8a43a",
   "decisioni": [
     {
       "id": "CAN-001",
@@ -335,7 +335,7 @@
     {
       "id": "CAN-042",
       "stato": "ADOTTATO",
-      "decisione": "Archon è integrazione piena; due Axials, The Sovereign e The Continuum, esercitano un asse universale completo. Nessun grado successivo automatico o terzo Axial occulto.",
+      "decisione": "Archon è integrazione piena; quattro Axials — The Sovereign, The Continuum, The Witness e The Worldforge — esercitano i quattro assi adottati. Nessun grado successivo automatico o altra integrazione fuori catalogo.",
       "fonte_o_successore": "Documento 28.",
       "versione": "1.18",
       "data": "2026-10-10"
@@ -1748,7 +1748,7 @@
     {
       "id": "CAN-230",
       "stato": "ADOTTATO",
-      "decisione": "Eclipse e Crescent formano The Nocturne con Hidden Communion e Root fisica The Veiled Basin. Otto famiglie, otto Roots, due Axials.",
+      "decisione": "Eclipse e Crescent formano The Nocturne con Hidden Communion e Root fisica The Veiled Basin. Otto famiglie, otto Roots, quattro Axials.",
       "fonte_o_successore": "Richiesta corrente e revisione 23-EFF-01; 173.",
       "versione": "1.18",
       "data": "2026-10-10"
@@ -2009,8 +2009,8 @@
       "versione": "326"
     }
   ],
-  "revision": 370,
-  "current_topic_register": "370_Registro_consolidamento_pre_avvio.md",
+  "revision": 371,
+  "current_topic_register": "371_Registro_promozione_assiale.md",
   "operational_profiles_source": "CANONE_VIGENTE/Profili_operativi_Effigi_350.json",
   "interaction_source": "CANONE_VIGENTE/Contese_verificate_350.json",
   "pending_work_source": null

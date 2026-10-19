@@ -476,7 +476,7 @@
     "title": "Archi 31–40",
     "kind": "Approfondimenti",
     "url": "doc-199-archi-3140.html",
-    "bytes": 44451,
+    "bytes": 44485,
     "image_count": 0
   },
   {
@@ -2052,7 +2052,7 @@
     "title": "Cosmologia",
     "kind": "Indici tematici",
     "url": "cosmologia.html",
-    "bytes": 21999,
+    "bytes": 22463,
     "image_count": 48
   },
   {
@@ -3944,6 +3944,14 @@
     "image_count": 10
   },
   {
+    "id": "AXIAL-371",
+    "title": "I quattro Axials",
+    "kind": "Cosmologia",
+    "url": "quattro-axials.html",
+    "bytes": 24704,
+    "image_count": 0
+  },
+  {
     "id": "DOC-77",
     "title": "Identità di Edran e Alexander",
     "kind": "Approfondimenti",
@@ -4092,7 +4100,7 @@
     "title": "Indice generale A–Z",
     "kind": "Indici",
     "url": "indice-generale.html",
-    "bytes": 126029,
+    "bytes": 126103,
     "image_count": 0
   },
   {
@@ -4196,7 +4204,7 @@
     "title": "Integrazioni cosmiche: struttura e Roots",
     "kind": "Approfondimenti",
     "url": "integrazioni-struttura-e-roots.html",
-    "bytes": 27371,
+    "bytes": 46172,
     "image_count": 0
   },
   {
@@ -4844,7 +4852,7 @@
     "title": "Le otto integrazioni cosmiche",
     "kind": "Approfondimenti",
     "url": "doc-28-le-otto-integrazioni-cosmiche.html",
-    "bytes": 34162,
+    "bytes": 47388,
     "image_count": 0
   },
   {
@@ -5156,7 +5164,7 @@
     "title": "L’opera",
     "kind": "Indici tematici",
     "url": "opera.html",
-    "bytes": 24703,
+    "bytes": 25167,
     "image_count": 48
   },
   {
@@ -6580,7 +6588,7 @@
     "title": "Pagina principale",
     "kind": "Enciclopedia",
     "url": "index.html",
-    "bytes": 20886,
+    "bytes": 21350,
     "image_count": 33
   },
   {
@@ -6872,11 +6880,11 @@
     "image_count": 0
   },
   {
-    "id": "NARRATOR-370",
+    "id": "NARRATOR-371",
     "title": "Protocollo operativo del Narratore",
     "kind": "Consegna",
     "url": "protocollo-narratore.html",
-    "bytes": 29911,
+    "bytes": 30837,
     "image_count": 0
   },
   {
@@ -9108,7 +9116,7 @@
     "title": "The First Testament",
     "kind": "Cosmologia",
     "url": "testament-the-first-testament.html",
-    "bytes": 17581,
+    "bytes": 18049,
     "image_count": 2
   },
   {
@@ -9116,7 +9124,7 @@
     "title": "The First Testament — sapere e consultazione",
     "kind": "Approfondimenti",
     "url": "doc-68-the-first-testament-sapere-e-consultazione.html",
-    "bytes": 16897,
+    "bytes": 17365,
     "image_count": 0
   },
   {
@@ -9324,7 +9332,7 @@
     "title": "The Last Borrowed Authority",
     "kind": "Archi narrativi",
     "url": "arc-37-the-last-borrowed-authority.html",
-    "bytes": 13737,
+    "bytes": 13763,
     "image_count": 1
   },
   {
@@ -9388,7 +9396,7 @@
     "title": "The Living Furnace",
     "kind": "Roots",
     "url": "root-02-the-living-furnace.html",
-    "bytes": 49433,
+    "bytes": 54873,
     "image_count": 4
   },
   {
@@ -9980,7 +9988,7 @@
     "title": "The Unbroken Record",
     "kind": "Roots",
     "url": "root-05-the-unbroken-record.html",
-    "bytes": 49451,
+    "bytes": 54844,
     "image_count": 4
   },
   {
@@ -10140,7 +10148,7 @@
     "title": "The Witness",
     "kind": "Integrazioni cosmiche",
     "url": "int-05-the-witness.html",
-    "bytes": 12950,
+    "bytes": 18342,
     "image_count": 4
   },
   {
@@ -10180,7 +10188,7 @@
     "title": "The Worldforge",
     "kind": "Integrazioni cosmiche",
     "url": "int-02-the-worldforge.html",
-    "bytes": 12871,
+    "bytes": 18310,
     "image_count": 5
   },
   {

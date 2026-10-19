@@ -84,7 +84,7 @@
       "name": "Archon"
     },
     {
-      "requires": "Archon completo di INT-01 o INT-03",
+      "requires": "Archon completo di INT-01, INT-02, INT-03 o INT-05; esercizio emergente e Root secondo specifica 371",
       "is_extra_threshold": false,
       "name": "Axial"
     }
@@ -278,5 +278,13 @@
   "temporary_charge_is_personal_inscription": false,
   "operational_reference_revision": "350",
   "operational_reference_source": "CANONE_VIGENTE/Profili_operativi_Effigi_350.json",
-  "reference_policy": "Ready di confronto, senza nuova macro o promozione; i parametri specifici conservati prevalgono nel proprio ambito."
+  "reference_policy": "Ready di confronto, senza nuova macro o promozione; i parametri specifici conservati prevalgono nel proprio ambito.",
+  "axial_architectures": [
+    "INT-01",
+    "INT-02",
+    "INT-03",
+    "INT-05"
+  ],
+  "axial_count": 4,
+  "axial_source": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
 }

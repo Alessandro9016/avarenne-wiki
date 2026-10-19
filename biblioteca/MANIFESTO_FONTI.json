@@ -43,8 +43,8 @@
       "group": "Dati strutturati e registri",
       "url": "bbae328d43d61d53.html",
       "raw": "fonti/bbae328d43d61d53.json",
-      "sha256": "521cce4fed1e7cba3b1088878638c7ada522f70672d43d6aa6650cbd924f447d",
-      "bytes": 25606
+      "sha256": "5ecbe04df1bd2ef0f90222e42c4559de6f8da9af64d2ae79f7857f8ad4903fc7",
+      "bytes": 35398
     },
     {
       "source": "CANONE_VIGENTE/Atlante_cosmologico.json",
@@ -52,8 +52,8 @@
       "group": "Dati strutturati e registri",
       "url": "241d91237c560110.html",
       "raw": "fonti/241d91237c560110.json",
-      "sha256": "de0db60d100d82d44954a0e0b71f9fa42505c939fcb1c160a03dcd455d2335c1",
-      "bytes": 747076
+      "sha256": "eb7b57dd9190f86d24389395e4ed383f54fd5df2fa87cb739c9b9a5fc56c902d",
+      "bytes": 746594
     },
     {
       "source": "CANONE_VIGENTE/Audit_biologie_e_copertura_cast.json",
@@ -457,8 +457,8 @@
       "group": "Dati strutturati e registri",
       "url": "65039e04ef68fe9b.html",
       "raw": "fonti/65039e04ef68fe9b.json",
-      "sha256": "d4289c5ee87ec8e58b9b3bb698390b3944ac3171625e33010bac68eacefea040",
-      "bytes": 16702
+      "sha256": "a528265072343c2fa2a01e900674e3b7c604a1cb85d5997f1402b7a0359d9ebc",
+      "bytes": 16422
     },
     {
       "source": "CANONE_VIGENTE/Nomi_stadi_approvati.json",
@@ -574,8 +574,8 @@
       "group": "Dati strutturati e registri",
       "url": "fe9fbb2c8f28317b.html",
       "raw": "fonti/fe9fbb2c8f28317b.json",
-      "sha256": "30ab73dbf1d66c4a733a67d4b2fa1d3e47175c6addcede28174e9897ab61320b",
-      "bytes": 84827
+      "sha256": "4566c91200dd5f765e8e5175e0cb1b249935a94d0c88e6ffcb5d0491c2e970f5",
+      "bytes": 84874
     },
     {
       "source": "CANONE_VIGENTE/Regole_comuni.json",
@@ -583,8 +583,8 @@
       "group": "Dati strutturati e registri",
       "url": "e39de9a82cd70923.html",
       "raw": "fonti/e39de9a82cd70923.json",
-      "sha256": "cf7fba058896ab99fb85d26e4fd2304b77491dd7d07ce05113fbd4e762f72cec",
-      "bytes": 8058
+      "sha256": "8af58578d31f26fb099ded10fc8b357076b17cf98f419346e8a944511656e569",
+      "bytes": 8023
     },
     {
       "source": "CANONE_VIGENTE/Revisione_affetti_antichi.json",
@@ -655,8 +655,8 @@
       "group": "Dati strutturati e registri",
       "url": "16fa64687f0e9535.html",
       "raw": "fonti/16fa64687f0e9535.json",
-      "sha256": "16651ccec52c3a99aaf14e4881e5ae72d188464eed34c77de6642bcf5afef4b4",
-      "bytes": 15733
+      "sha256": "a5d803229c691f40df4fd933dfda8d0c528c33deeae3c5e2aef01f94d805b999",
+      "bytes": 25976
     },
     {
       "source": "CANONE_VIGENTE/Societa_condivisa.json",
@@ -700,8 +700,8 @@
       "group": "Dati strutturati e registri",
       "url": "4613e26eddb565d5.html",
       "raw": "fonti/4613e26eddb565d5.json",
-      "sha256": "f86aff406748fe2744a094aadd68601f11309f9ab369978cce39d4aa2a77a40c",
-      "bytes": 229489
+      "sha256": "ccda24f09bc1eb2c8f88a71fd54a59ef8a0efd25b8e5eff4b05ddbe155447e67",
+      "bytes": 229515
     },
     {
       "source": "CANONE_VIGENTE/Unita_milestone11.json",
@@ -5731,8 +5731,8 @@
       "group": "Documenti del giocatore",
       "url": "69610033e6a86c64.html",
       "raw": "fonti/69610033e6a86c64.md",
-      "sha256": "11fc406f53dd85b49a21e5ae4316ff6c445477abb2a9421014bfebfc5f976dab",
-      "bytes": 5602
+      "sha256": "63c317a46812aa6ce88e46fef9ae77e2db0496844fc9b35a265e6029f45d0bc8",
+      "bytes": 5558
     },
     {
       "source": "GIOCATORE_174_Culti_notturni_e_pratiche_pubbliche.md",
@@ -5821,8 +5821,8 @@
       "group": "Documenti del giocatore",
       "url": "40a704364de4bc78.html",
       "raw": "fonti/40a704364de4bc78.md",
-      "sha256": "5341dd16d01ab0a83cff19de99430476a024791139b00b05259a716f31fec659",
-      "bytes": 20479
+      "sha256": "e8358db6afbfdcab570061f23b27fd29ea090a87dd0a834dc63c1274080c690e",
+      "bytes": 37388
     },
     {
       "source": "GIOCATORE_298_Biologie_Ilyr_Kethari.md",
@@ -6172,8 +6172,8 @@
       "group": "Documenti del giocatore",
       "url": "1e2614e03cb15fc3.html",
       "raw": "fonti/1e2614e03cb15fc3.md",
-      "sha256": "686e2c49daa5e14af2004e2956ea116be9753f3b07abb7e275c65ff7f4a71826",
-      "bytes": 8986
+      "sha256": "956f856f4a69e22fae090ff64d8e6ac0fc0c7cdd535091e1c58a0012d2f4a583",
+      "bytes": 8990
     },
     {
       "source": "GIOCATORE_69_Roots_e_risorse_cosmiche.md",
@@ -6568,8 +6568,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "1053b1169f5ee68d.html",
       "raw": "fonti/1053b1169f5ee68d.md",
-      "sha256": "7df14c30ed059b9abceebd9f6306015c672dfe377d8ef7e9c8a9b400a1c2e6a5",
-      "bytes": 10388
+      "sha256": "a0f25168fec27f16d4aa9956ea98dcebbbba7ad39b788357a2591c7be2bd879b",
+      "bytes": 10399
     },
     {
       "source": "RISERVATO_184_Catalogo_artefatti_e_dispositivi.md",
@@ -6685,8 +6685,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "297606d7a34e69fe.html",
       "raw": "fonti/297606d7a34e69fe.md",
-      "sha256": "85790f53b097b3b32a53e340f462b99a3edf4f47c4432c44571683ed69a6bfa7",
-      "bytes": 50111
+      "sha256": "dbc5eb7df616c060f7c2af9caea3505f58a30761e08d4f0ed15c5f2d62eeb82c",
+      "bytes": 49531
     },
     {
       "source": "RISERVATO_200_Misteri_verita_e_canali_di_rivelazione.md",
@@ -6694,8 +6694,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "1cd8a75037d8473f.html",
       "raw": "fonti/1cd8a75037d8473f.md",
-      "sha256": "6c92cace0a1e7bc713e91028820dc8387edd453f597a3f32edabfca016876652",
-      "bytes": 20225
+      "sha256": "35d2830e29a6579bcf50c4db7a435309f147937fe7d18c429ed45612624e9e17",
+      "bytes": 19963
     },
     {
       "source": "RISERVATO_201_Calendario_fazioni_e_iniziative_fuori_campo.md",
@@ -6730,8 +6730,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "b2ddc4c73ff23f10.html",
       "raw": "fonti/b2ddc4c73ff23f10.md",
-      "sha256": "90d49c14f71015b2a8f5563ad3a35e37cf89de7042c4613c8fa9ace4840c4199",
-      "bytes": 22182
+      "sha256": "311ea4c48fefdd4d75900f24cf47b2a26e906bcbae5238824dd2a88dad3554f4",
+      "bytes": 23093
     },
     {
       "source": "RISERVATO_280_Althene_lutto_e_indagine.md",
@@ -6784,8 +6784,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "8401d186fd507392.html",
       "raw": "fonti/8401d186fd507392.md",
-      "sha256": "617d8949525fd9d96931fbaf5010e5f454b4a9b12057dc663e8a745891778938",
-      "bytes": 14994
+      "sha256": "2757c59882e98aab299316e5674b95a560abc0396c04462de00de307a12a48be",
+      "bytes": 14997
     },
     {
       "source": "RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
@@ -7237,8 +7237,8 @@
       "group": "Canone vigente e verifica della consegna",
       "url": "06300f093b9b4ae7.html",
       "raw": "fonti/06300f093b9b4ae7.md",
-      "sha256": "3aa83f1c735cd71c1b8922afd1c51695527e5d577dfbe6f140d15af95b5bd5e7",
-      "bytes": 68635
+      "sha256": "bbca9168e0f01b316da3af1528388dd7b82e3e97292302ca8cf835b7b2b8a43a",
+      "bytes": 69711
     },
     {
       "source": "342_Stato_vigente_per_la_consegna.md",
@@ -7376,8 +7376,8 @@
       "raw": "fonti/5de80396760c781e.txt",
       "sha256": "054825f27d0b396c624091c0d52e96bd24d93a999b3f341eb647cb8981397609",
       "bytes": 21572,
-      "status": "STORICO_SUPERATO",
-      "current_successor": "RISERVATO_209_Protocollo_completo_del_Narratore.md — edizione 370"
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
     },
     {
       "source": "CANONE_VIGENTE/Esempi_abilita_345.json",
@@ -7781,8 +7781,8 @@
       "group": "Fonti integrali — integrazione 348",
       "url": "8d72b239fb1c4a87.html",
       "raw": "fonti/8d72b239fb1c4a87.md",
-      "sha256": "a132dc8925b4c7033cbb885e5b9c52a63a5ea2086f97bc7cc1e0f5c39e2a733a",
-      "bytes": 4064
+      "sha256": "78cb9d2aac94f8fe2653151a8091d57c2c05707f8a6149f9c1174c78afdf3c23",
+      "bytes": 4070
     },
     {
       "source": "CANONE_VIGENTE/Room_Six_riservatezza_331.json",
@@ -8440,8 +8440,8 @@
       "group": "Consolidamento354",
       "url": "af4984ffe805e9a6.html",
       "raw": "fonti/af4984ffe805e9a6.json",
-      "sha256": "9a115622b2bdba063584294d20d52c3d782d8be53e20fbb237ce1c58ae64386a",
-      "bytes": 16792
+      "sha256": "9679f5630c28bb29b78888d23c8f4dd71b074330ec784526fed2dd0ecdb3bacb",
+      "bytes": 26985
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/GIOCATORE/IMMAGINI/PERSONAGGI/04_Corti_e_istituzioni/Ovel/namar/CAST-536_Teren_Avelin/Prompt_v1.txt",
@@ -8539,8 +8539,8 @@
       "group": "Consolidamento354",
       "url": "528ec7e1ffac2f35.html",
       "raw": "fonti/528ec7e1ffac2f35.md",
-      "sha256": "11fc406f53dd85b49a21e5ae4316ff6c445477abb2a9421014bfebfc5f976dab",
-      "bytes": 5602
+      "sha256": "63c317a46812aa6ce88e46fef9ae77e2db0496844fc9b35a265e6029f45d0bc8",
+      "bytes": 5558
     },
     {
       "source": "CAST_RISERVATO/CAST-564.md",
@@ -9268,8 +9268,8 @@
       "group": "Consolidamento354",
       "url": "3ee8e2ab84b6dc11.html",
       "raw": "fonti/3ee8e2ab84b6dc11.md",
-      "sha256": "7ff4600fc262e182dd7828fd96b179bceec6e166174ebfd126231a7ccad342ac",
-      "bytes": 19751
+      "sha256": "4e7f2ac03c820a73dd7bd10583f71770016a54dcdc07dbb6f7428622652f9b97",
+      "bytes": 37248
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-519.md",
@@ -9493,8 +9493,8 @@
       "group": "Consolidamento354",
       "url": "6660d8dc11a8e0d2.html",
       "raw": "fonti/6660d8dc11a8e0d2.md",
-      "sha256": "3aa83f1c735cd71c1b8922afd1c51695527e5d577dfbe6f140d15af95b5bd5e7",
-      "bytes": 68635
+      "sha256": "bbca9168e0f01b316da3af1528388dd7b82e3e97292302ca8cf835b7b2b8a43a",
+      "bytes": 69711
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-552.md",
@@ -9565,8 +9565,8 @@
       "group": "Consolidamento354",
       "url": "b69fbd1a9e7403f3.html",
       "raw": "fonti/b69fbd1a9e7403f3.md",
-      "sha256": "5341dd16d01ab0a83cff19de99430476a024791139b00b05259a716f31fec659",
-      "bytes": 20479
+      "sha256": "e8358db6afbfdcab570061f23b27fd29ea090a87dd0a834dc63c1274080c690e",
+      "bytes": 37388
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-532.md",
@@ -9934,8 +9934,8 @@
       "group": "Consolidamento354",
       "url": "e2fd5f649d7b9fea.html",
       "raw": "fonti/e2fd5f649d7b9fea.md",
-      "sha256": "7ff4600fc262e182dd7828fd96b179bceec6e166174ebfd126231a7ccad342ac",
-      "bytes": 19751
+      "sha256": "4e7f2ac03c820a73dd7bd10583f71770016a54dcdc07dbb6f7428622652f9b97",
+      "bytes": 37248
     },
     {
       "source": "CANONE_VIGENTE/Audit_consolidamento_354.json",
@@ -16432,8 +16432,8 @@
       "group": "Quaranta archi — 367",
       "url": "1be1a092250d52e2.html",
       "raw": "fonti/1be1a092250d52e2.json",
-      "sha256": "f34fbdc30a3258b221bb12f8dd09f0dc01b319cb8e38176b98bc09d86643fe8f",
-      "bytes": 61616
+      "sha256": "a08655d7004ef981689dbf3772d58ffc6e169805fd19925f3822c5b911bce25b",
+      "bytes": 61625
     },
     {
       "source": "RISERVATO_367_Quaranta_archi_operativi.md",
@@ -16441,8 +16441,8 @@
       "group": "Quaranta archi — 367",
       "url": "34c1136ce5ba5dc2.html",
       "raw": "fonti/34c1136ce5ba5dc2.md",
-      "sha256": "98f0708b03a0d1c4e9e3912754669626ea6e064e29b409f08f5d3857c5d01705",
-      "bytes": 40725
+      "sha256": "0b7b1d44071b41b0475cfa8c61ac780607630bca8390326fc927771b51d9f575",
+      "bytes": 40734
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_367/23_Registro_unico_del_canone.md",
@@ -16972,8 +16972,8 @@
       "group": "Completamento editoriale 367",
       "url": "b5d5ca350181325d.html",
       "raw": "fonti/b5d5ca350181325d.md",
-      "sha256": "98f0708b03a0d1c4e9e3912754669626ea6e064e29b409f08f5d3857c5d01705",
-      "bytes": 40725
+      "sha256": "0b7b1d44071b41b0475cfa8c61ac780607630bca8390326fc927771b51d9f575",
+      "bytes": 40734
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/FIGURE_367/CAST-034_adele-rosk.md",
@@ -17676,8 +17676,8 @@
       "group": "Consolidamento pre-avvio 370",
       "url": "d92ae8ed299b5834.html",
       "raw": "fonti/d92ae8ed299b5834.md",
-      "sha256": "3aa83f1c735cd71c1b8922afd1c51695527e5d577dfbe6f140d15af95b5bd5e7",
-      "bytes": 68635
+      "sha256": "bbca9168e0f01b316da3af1528388dd7b82e3e97292302ca8cf835b7b2b8a43a",
+      "bytes": 69711
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/08_Geografia/RISERVATO_370_Siti_soprannaturali_guida_completa.md",
@@ -17761,8 +17761,8 @@
       "group": "Consolidamento pre-avvio 370",
       "url": "1aa01fb21decba9d.html",
       "raw": "fonti/1aa01fb21decba9d.md",
-      "sha256": "90d49c14f71015b2a8f5563ad3a35e37cf89de7042c4613c8fa9ace4840c4199",
-      "bytes": 22182
+      "sha256": "311ea4c48fefdd4d75900f24cf47b2a26e906bcbae5238824dd2a88dad3554f4",
+      "bytes": 23093
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_370/RISERVATO_370_Calendario_unificato.md",
@@ -17830,8 +17830,8 @@
       "group": "Consolidamento pre-avvio 370",
       "url": "5c6468fd3d8ff248.html",
       "raw": "fonti/5c6468fd3d8ff248.md",
-      "sha256": "90d49c14f71015b2a8f5563ad3a35e37cf89de7042c4613c8fa9ace4840c4199",
-      "bytes": 22182
+      "sha256": "311ea4c48fefdd4d75900f24cf47b2a26e906bcbae5238824dd2a88dad3554f4",
+      "bytes": 23093
     },
     {
       "source": "RISERVATO_370_Siti_soprannaturali_guida_completa.md",
@@ -17890,6 +17890,345 @@
       "raw": "fonti/9c29f677da39853a.md",
       "sha256": "c5418dd9d70b34e75f321ce8f3c20da8648c7fd0f6996989478116c795d2c71a",
       "bytes": 21470
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/RISERVATO_200_Misteri_verita_e_canali_di_rivelazione.md",
+      "title": "RISERVATO 200 Misteri verita e canali di rivelazione",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "61b4052b75775d41.html",
+      "raw": "fonti/61b4052b75775d41.md",
+      "sha256": "6c92cace0a1e7bc713e91028820dc8387edd453f597a3f32edabfca016876652",
+      "bytes": 20225,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/23_Registro_unico_del_canone.md",
+      "title": "23 Registro unico del canone",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "3410aa69acda6284.html",
+      "raw": "fonti/3410aa69acda6284.md",
+      "sha256": "3aa83f1c735cd71c1b8922afd1c51695527e5d577dfbe6f140d15af95b5bd5e7",
+      "bytes": 68635,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/CANONE_VIGENTE/Architettura_cosmica.json",
+      "title": "Architettura cosmica",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "e3bd2443c38e48e1.html",
+      "raw": "fonti/e3bd2443c38e48e1.json",
+      "sha256": "521cce4fed1e7cba3b1088878638c7ada522f70672d43d6aa6650cbd924f447d",
+      "bytes": 25606,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/RISERVATO_72_Presenze_esterne_e_pressioni_cosmiche.md",
+      "title": "RISERVATO 72 Presenze esterne e pressioni cosmiche",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "e4cacb3c7e60ec44.html",
+      "raw": "fonti/e4cacb3c7e60ec44.md",
+      "sha256": "617d8949525fd9d96931fbaf5010e5f454b4a9b12057dc663e8a745891778938",
+      "bytes": 14994,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/05_Atlante_cosmologico/GIOCATORE/GIOCATORE_68_The_First_Testament_consultazione.md",
+      "title": "GIOCATORE 68 The First Testament consultazione",
+      "group": "Quattro Axials — edizione 371",
+      "url": "074f40c9abb11f76.html",
+      "raw": "fonti/074f40c9abb11f76.md",
+      "sha256": "956f856f4a69e22fae090ff64d8e6ac0fc0c7cdd535091e1c58a0012d2f4a583",
+      "bytes": 8990
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/CANONE_VIGENTE/Archi_operativi_367.json",
+      "title": "Archi operativi 367",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "e84afeb78a7a854c.html",
+      "raw": "fonti/e84afeb78a7a854c.json",
+      "sha256": "f34fbdc30a3258b221bb12f8dd09f0dc01b319cb8e38176b98bc09d86643fe8f",
+      "bytes": 61616,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/12_Trama_archi_e_volumi/RISERVATO/RISERVATO_200_Misteri_verita_e_canali_di_rivelazione.md",
+      "title": "RISERVATO 200 Misteri verita e canali di rivelazione",
+      "group": "Quattro Axials — edizione 371",
+      "url": "bd02548938253555.html",
+      "raw": "fonti/bd02548938253555.md",
+      "sha256": "35d2830e29a6579bcf50c4db7a435309f147937fe7d18c429ed45612624e9e17",
+      "bytes": 19963
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/CANONE_VIGENTE/Regole_comuni.json",
+      "title": "Regole comuni",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "3214005eff73eb23.html",
+      "raw": "fonti/3214005eff73eb23.json",
+      "sha256": "cf7fba058896ab99fb85d26e4fd2304b77491dd7d07ce05113fbd4e762f72cec",
+      "bytes": 8058,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/GIOCATORE_68_The_First_Testament_consultazione.md",
+      "title": "GIOCATORE 68 The First Testament consultazione",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "2dc8a1b982c88f53.html",
+      "raw": "fonti/2dc8a1b982c88f53.md",
+      "sha256": "686e2c49daa5e14af2004e2956ea116be9753f3b07abb7e275c65ff7f4a71826",
+      "bytes": 8986,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/CANONE_VIGENTE/Atlante_cosmologico.json",
+      "title": "Atlante cosmologico",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "05a489f0eb3275bf.html",
+      "raw": "fonti/05a489f0eb3275bf.json",
+      "sha256": "de0db60d100d82d44954a0e0b71f9fa42505c939fcb1c160a03dcd455d2335c1",
+      "bytes": 747076,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/02_Fondamenti_e_architettura_cosmica/RISERVATO/RISERVATO_31_Vincoli_autoriali_della_nuova_architettura.md",
+      "title": "RISERVATO 31 Vincoli autoriali della nuova architettura",
+      "group": "Quattro Axials — edizione 371",
+      "url": "789ac1933a03f852.html",
+      "raw": "fonti/789ac1933a03f852.md",
+      "sha256": "78cb9d2aac94f8fe2653151a8091d57c2c05707f8a6149f9c1174c78afdf3c23",
+      "bytes": 4070
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/05_Cosmologia_e_integrazioni/GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md",
+      "title": "GIOCATORE 371 Quattro Axials e salto qualitativo",
+      "group": "Quattro Axials — edizione 371",
+      "url": "8effee1db3e3a48e.html",
+      "raw": "fonti/8effee1db3e3a48e.md",
+      "sha256": "94cd3bd71da7e9e4f2860e05f0ab156b133b91017a51eabf588ecbf8dcd1f239",
+      "bytes": 17638
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/GIOCATORE_354_Integrazioni_cosmiche_struttura_e_Root.md",
+      "title": "GIOCATORE 354 Integrazioni cosmiche struttura e Root",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "453f28396abe89e9.html",
+      "raw": "fonti/453f28396abe89e9.md",
+      "sha256": "7ff4600fc262e182dd7828fd96b179bceec6e166174ebfd126231a7ccad342ac",
+      "bytes": 19751,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/GIOCATORE_28_Le_sette_integrazioni_cosmiche.md",
+      "title": "GIOCATORE 28 Le sette integrazioni cosmiche",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "b733a2abefdb5f6f.html",
+      "raw": "fonti/b733a2abefdb5f6f.md",
+      "sha256": "5341dd16d01ab0a83cff19de99430476a024791139b00b05259a716f31fec659",
+      "bytes": 20479,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/RISERVATO_209_Protocollo_completo_del_Narratore.md",
+      "title": "RISERVATO 209 Protocollo completo del Narratore",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "f5f393b07ec27948.html",
+      "raw": "fonti/f5f393b07ec27948.md",
+      "sha256": "90d49c14f71015b2a8f5563ad3a35e37cf89de7042c4613c8fa9ace4840c4199",
+      "bytes": 22182,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/01_Consolidamento_documentale/RISERVATO/RISERVATO_178_Integrazione_notturna_milestone_5_10.md",
+      "title": "RISERVATO 178 Integrazione notturna milestone 5 10",
+      "group": "Quattro Axials — edizione 371",
+      "url": "2e41cb3fe176386c.html",
+      "raw": "fonti/2e41cb3fe176386c.md",
+      "sha256": "a0f25168fec27f16d4aa9956ea98dcebbbba7ad39b788357a2591c7be2bd879b",
+      "bytes": 10399
+    },
+    {
+      "source": "371_Registro_promozione_assiale.md",
+      "title": "371 Registro promozione assiale",
+      "group": "Quattro Axials — edizione 371",
+      "url": "ec12ee48c8c3102b.html",
+      "raw": "fonti/ec12ee48c8c3102b.md",
+      "sha256": "fb1b57f29ed8c627c45fa78674deb00d0b6987d11ff824973fa4d2c5be33baf1",
+      "bytes": 1017
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/01_Consolidamento_documentale/371_Registro_promozione_assiale.md",
+      "title": "371 Registro promozione assiale",
+      "group": "Quattro Axials — edizione 371",
+      "url": "6c24b1a16d0b3a6b.html",
+      "raw": "fonti/6c24b1a16d0b3a6b.md",
+      "sha256": "fb1b57f29ed8c627c45fa78674deb00d0b6987d11ff824973fa4d2c5be33baf1",
+      "bytes": 1017
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/CANONE_VIGENTE/Registro_decisioni.json",
+      "title": "Registro decisioni",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "1c596a5b31cb7fa5.html",
+      "raw": "fonti/1c596a5b31cb7fa5.json",
+      "sha256": "30ab73dbf1d66c4a733a67d4b2fa1d3e47175c6addcede28174e9897ab61320b",
+      "bytes": 84827,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/CANONE_VIGENTE/Integrazioni_strutturali_354.json",
+      "title": "Integrazioni strutturali 354",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "defcabce18cf57ed.html",
+      "raw": "fonti/defcabce18cf57ed.json",
+      "sha256": "9a115622b2bdba063584294d20d52c3d782d8be53e20fbb237ce1c58ae64386a",
+      "bytes": 16792,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/05_Atlante_cosmologico/RISERVATO/RISERVATO_72_Presenze_esterne_e_pressioni_cosmiche.md",
+      "title": "RISERVATO 72 Presenze esterne e pressioni cosmiche",
+      "group": "Quattro Axials — edizione 371",
+      "url": "14b8974f578a2095.html",
+      "raw": "fonti/14b8974f578a2095.md",
+      "sha256": "2757c59882e98aab299316e5674b95a560abc0396c04462de00de307a12a48be",
+      "bytes": 14997
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/RISERVATO_31_Vincoli_autoriali_della_nuova_architettura.md",
+      "title": "RISERVATO 31 Vincoli autoriali della nuova architettura",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "184166a500b109be.html",
+      "raw": "fonti/184166a500b109be.md",
+      "sha256": "a132dc8925b4c7033cbb885e5b9c52a63a5ea2086f97bc7cc1e0f5c39e2a733a",
+      "bytes": 4064,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/RISERVATO_367_Quaranta_archi_operativi.md",
+      "title": "RISERVATO 367 Quaranta archi operativi",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "0e04df84f0c4ba68.html",
+      "raw": "fonti/0e04df84f0c4ba68.md",
+      "sha256": "98f0708b03a0d1c4e9e3912754669626ea6e064e29b409f08f5d3857c5d01705",
+      "bytes": 40725,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/RISERVATO_178_Integrazione_notturna_milestone_5_10.md",
+      "title": "RISERVATO 178 Integrazione notturna milestone 5 10",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "d52dd435097b37cd.html",
+      "raw": "fonti/d52dd435097b37cd.md",
+      "sha256": "7df14c30ed059b9abceebd9f6306015c672dfe377d8ef7e9c8a9b400a1c2e6a5",
+      "bytes": 10388,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/12_Trama_archi_e_volumi/RISERVATO/RISERVATO_199_Archi_31_40.md",
+      "title": "RISERVATO 199 Archi 31 40",
+      "group": "Quattro Axials — edizione 371",
+      "url": "e0b73e3dbeeeb953.html",
+      "raw": "fonti/e0b73e3dbeeeb953.md",
+      "sha256": "dbc5eb7df616c060f7c2af9caea3505f58a30761e08d4f0ed15c5f2d62eeb82c",
+      "bytes": 49531
+    },
+    {
+      "source": "CANONE_VIGENTE/Audit_Axials_371.json",
+      "title": "Audit Axials 371",
+      "group": "Quattro Axials — edizione 371",
+      "url": "78c2eb29e526c5d5.html",
+      "raw": "fonti/78c2eb29e526c5d5.json",
+      "sha256": "735b74f4426543b26dac4b0fe89576a71208b94b6cabca4f6489ff1805c19ff0",
+      "bytes": 557
+    },
+    {
+      "source": "CANONE_VIGENTE/Quattro_Axials_371.json",
+      "title": "Quattro Axials 371",
+      "group": "Quattro Axials — edizione 371",
+      "url": "b7a248aa7426468a.html",
+      "raw": "fonti/b7a248aa7426468a.json",
+      "sha256": "66a1fc2fbb59fdecc3688ee501c9e948fca34f25ed5dc40084fd36ce5de5ed2f",
+      "bytes": 14059
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/RISERVATO_199_Archi_31_40.md",
+      "title": "RISERVATO 199 Archi 31 40",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "da35ded61f4f9d19.html",
+      "raw": "fonti/da35ded61f4f9d19.md",
+      "sha256": "85790f53b097b3b32a53e340f462b99a3edf4f47c4432c44571683ed69a6bfa7",
+      "bytes": 50111,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/CANONE_VIGENTE/Trama_riservata.json",
+      "title": "Trama riservata",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "72dbba4ab0312c6f.html",
+      "raw": "fonti/72dbba4ab0312c6f.json",
+      "sha256": "f86aff406748fe2744a094aadd68601f11309f9ab369978cce39d4aa2a77a40c",
+      "bytes": 229489,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/CANONE_VIGENTE/Misteri_trama.json",
+      "title": "Misteri trama",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "fda0b3176f2b181f.html",
+      "raw": "fonti/fda0b3176f2b181f.json",
+      "sha256": "d4289c5ee87ec8e58b9b3bb698390b3944ac3171625e33010bac68eacefea040",
+      "bytes": 16702,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/CANONE_VIGENTE/Roots_consolidate.json",
+      "title": "Roots consolidate",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "fc92e2aa347e6368.html",
+      "raw": "fonti/fc92e2aa347e6368.json",
+      "sha256": "16651ccec52c3a99aaf14e4881e5ae72d188464eed34c77de6642bcf5afef4b4",
+      "bytes": 15733,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md",
+      "title": "GIOCATORE 371 Quattro Axials e salto qualitativo",
+      "group": "Quattro Axials — edizione 371",
+      "url": "b808e7b65e0b18e0.html",
+      "raw": "fonti/b808e7b65e0b18e0.md",
+      "sha256": "94cd3bd71da7e9e4f2860e05f0ab156b133b91017a51eabf588ecbf8dcd1f239",
+      "bytes": 17638
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_371/GIOCATORE_171_The_Nocturne_e_The_Veiled_Basin.md",
+      "title": "GIOCATORE 171 The Nocturne e The Veiled Basin",
+      "group": "Storico superato sul tema Axials 371",
+      "url": "78bba3933b4f9aea.html",
+      "raw": "fonti/78bba3933b4f9aea.md",
+      "sha256": "11fc406f53dd85b49a21e5ae4316ff6c445477abb2a9421014bfebfc5f976dab",
+      "bytes": 5602,
+      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
+      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",

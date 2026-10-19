@@ -1,282 +1,290 @@
-<!doctype html><html lang="it"><meta charset="utf-8"><title>Regole comuni</title><body><a href="index.html">Biblioteca</a> · <a href="../fonti-vigenti.html">Fonti vigenti</a><h1>Regole comuni</h1><pre style="white-space:pre-wrap">{
-  &quot;milestone&quot;: 3,
-  &quot;status&quot;: &quot;CANONE_REGOLE_COMUNI&quot;,
-  &quot;sources&quot;: [
-    &quot;GIOCATORE_33_Lessico_e_sette_soglie.md&quot;,
-    &quot;GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md&quot;,
-    &quot;GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md&quot;,
-    &quot;GIOCATORE_36_Corpo_spirito_manifestazioni_e_morte.md&quot;,
-    &quot;GIOCATORE_37_Procedura_operativa_delle_contese.md&quot;,
-    &quot;GIOCATORE_38_Poteri_e_vita_comune.md&quot;
-  ],
-  &quot;practitioner&quot;: &quot;Bearer&quot;,
-  &quot;path&quot;: &quot;Effigy&quot;,
-  &quot;progression&quot;: &quot;Threshold&quot;,
-  &quot;configuration&quot;: &quot;Weave&quot;,
-  &quot;thresholds&quot;: [
-    {
-      &quot;id&quot;: &quot;THR-01&quot;,
-      &quot;number&quot;: 1,
-      &quot;roman&quot;: &quot;I&quot;,
-      &quot;name&quot;: &quot;Awakening&quot;,
-      &quot;condition&quot;: &quot;Bearer umano trasformato&quot;,
-      &quot;change&quot;: &quot;Inscription stabile e primo esercizio proprio&quot;
-    },
-    {
-      &quot;id&quot;: &quot;THR-02&quot;,
-      &quot;number&quot;: 2,
-      &quot;roman&quot;: &quot;II&quot;,
-      &quot;name&quot;: &quot;Attunement&quot;,
-      &quot;condition&quot;: &quot;Bearer umano trasformato&quot;,
-      &quot;change&quot;: &quot;Circolazione propria, ripetibilità e separazione&quot;
-    },
-    {
-      &quot;id&quot;: &quot;THR-03&quot;,
-      &quot;number&quot;: 3,
-      &quot;roman&quot;: &quot;III&quot;,
-      &quot;name&quot;: &quot;Embodiment&quot;,
-      &quot;condition&quot;: &quot;Bearer umano profondamente investito&quot;,
-      &quot;change&quot;: &quot;Integrazione corporea e spirituale, esercizi mantenuti&quot;
-    },
-    {
-      &quot;id&quot;: &quot;THR-04&quot;,
-      &quot;number&quot;: 4,
-      &quot;roman&quot;: &quot;IV&quot;,
-      &quot;name&quot;: &quot;Transfiguration&quot;,
-      &quot;condition&quot;: &quot;Demigod&quot;,
-      &quot;change&quot;: &quot;Manifestazione parzialmente divina con offesa e difesa autonome&quot;
-    },
-    {
-      &quot;id&quot;: &quot;THR-05&quot;,
-      &quot;number&quot;: 5,
-      &quot;roman&quot;: &quot;V&quot;,
-      &quot;name&quot;: &quot;Ascendance&quot;,
-      &quot;condition&quot;: &quot;Angel&quot;,
-      &quot;change&quot;: &quot;Continuità angelica oltre la dipendenza biologica ordinaria&quot;
-    },
-    {
-      &quot;id&quot;: &quot;THR-06&quot;,
-      &quot;number&quot;: 6,
-      &quot;roman&quot;: &quot;VI&quot;,
-      &quot;name&quot;: &quot;Eminence&quot;,
-      &quot;condition&quot;: &quot;Padronanza angelica eminente delle autorità; Avatar o presenze distribuite non richiesti.&quot;,
-      &quot;change&quot;: &quot;Padronanza angelica eminente delle autorità, contesa delle condizioni della Seat; nessuna distribuzione personale obbligatoria&quot;
-    },
-    {
-      &quot;id&quot;: &quot;THR-07&quot;,
-      &quot;number&quot;: 7,
-      &quot;roman&quot;: &quot;VII&quot;,
-      &quot;name&quot;: &quot;Apotheosis&quot;,
-      &quot;condition&quot;: &quot;Deity&quot;,
-      &quot;change&quot;: &quot;Incorporazione piena della Seat&quot;
-    }
-  ],
-  &quot;special_conditions&quot;: [
-    {
-      &quot;requires&quot;: &quot;Pretesa effettiva e parziale sulla Seat&quot;,
-      &quot;is_extra_threshold&quot;: false,
-      &quot;name&quot;: &quot;Regent&quot;,
-      &quot;threshold&quot;: 6
-    },
-    {
-      &quot;requires&quot;: &quot;Integrazione completa delle Seats del gruppo e della Root&quot;,
-      &quot;is_extra_threshold&quot;: false,
-      &quot;name&quot;: &quot;Archon&quot;
-    },
-    {
-      &quot;requires&quot;: &quot;Archon completo di INT-01 o INT-03&quot;,
-      &quot;is_extra_threshold&quot;: false,
-      &quot;name&quot;: &quot;Axial&quot;
-    }
-  ],
-  &quot;acquisition_steps&quot;: [
-    {
-      &quot;name&quot;: &quot;Verifica della Pattern&quot;,
-      &quot;id&quot;: &quot;A-01&quot;
-    },
-    {
-      &quot;name&quot;: &quot;Preparazione&quot;,
-      &quot;id&quot;: &quot;A-02&quot;
-    },
-    {
-      &quot;name&quot;: &quot;Opening&quot;,
-      &quot;id&quot;: &quot;A-03&quot;
-    },
-    {
-      &quot;name&quot;: &quot;Circulation&quot;,
-      &quot;id&quot;: &quot;A-04&quot;
-    },
-    {
-      &quot;name&quot;: &quot;Separation Test&quot;,
-      &quot;id&quot;: &quot;A-05&quot;
-    },
-    {
-      &quot;name&quot;: &quot;Stabilization&quot;,
-      &quot;id&quot;: &quot;A-06&quot;
-    }
-  ],
-  &quot;advancement_requirements&quot;: [
-    &quot;Pattern ampliata&quot;,
-    &quot;Tenuta&quot;,
-    &quot;Esecuzione propria&quot;,
-    &quot;Integrazione&quot;
-  ],
-  &quot;resource_dimensions&quot;: [
-    &quot;Quality&quot;,
-    &quot;Capacity&quot;,
-    &quot;Reserve&quot;,
-    &quot;Load&quot;
-  ],
-  &quot;exercise_regimes&quot;: [
-    &quot;Routine&quot;,
-    &quot;Demanding&quot;,
-    &quot;Overreach&quot;
-  ],
-  &quot;configuration_states&quot;: [
-    &quot;Ready&quot;,
-    &quot;Strained&quot;,
-    &quot;Overdrawn&quot;,
-    &quot;Fractured&quot;
-  ],
-  &quot;effect_durations&quot;: [
-    &quot;Instant&quot;,
-    &quot;Maintained&quot;,
-    &quot;Autonomous&quot;,
-    &quot;Independent&quot;
-  ],
-  &quot;activation_modes&quot;: [
-    &quot;Deliberate&quot;,
-    &quot;Prepared&quot;,
-    &quot;Reflexive&quot;,
-    &quot;Intrinsic&quot;
-  ],
-  &quot;manifestations&quot;: [
-    &quot;Corporeal&quot;,
-    &quot;Spiritual&quot;,
-    &quot;Emanation&quot;,
-    &quot;Avatar&quot;
-  ],
-  &quot;damage_conditions&quot;: [
-    &quot;Material&quot;,
-    &quot;Spiritual&quot;,
-    &quot;Mental&quot;,
-    &quot;Relational&quot;,
-    &quot;Continuity&quot;
-  ],
-  &quot;death_states&quot;: [
-    &quot;Biological death&quot;,
-    &quot;Loss of manifestation&quot;,
-    &quot;Dormancy&quot;,
-    &quot;Personal extinction&quot;
-  ],
-  &quot;contest_steps&quot;: [
-    {
-      &quot;name&quot;: &quot;Dichiarare il risultato cercato&quot;,
-      &quot;id&quot;: &quot;R-01&quot;
-    },
-    {
-      &quot;name&quot;: &quot;Identificare fonte e bersaglio&quot;,
-      &quot;id&quot;: &quot;R-02&quot;
-    },
-    {
-      &quot;name&quot;: &quot;Verificare competenza e accesso&quot;,
-      &quot;id&quot;: &quot;R-03&quot;
-    },
-    {
-      &quot;name&quot;: &quot;Ordinare gli eventi effettivi&quot;,
-      &quot;id&quot;: &quot;R-04&quot;
-    },
-    {
-      &quot;name&quot;: &quot;Selezionare opposizione pertinente&quot;,
-      &quot;id&quot;: &quot;R-05&quot;
-    },
-    {
-      &quot;name&quot;: &quot;Confrontare Quality e condizioni&quot;,
-      &quot;id&quot;: &quot;R-06&quot;
-    },
-    {
-      &quot;name&quot;: &quot;Determinare esito&quot;,
-      &quot;id&quot;: &quot;R-07&quot;
-    },
-    {
-      &quot;name&quot;: &quot;Applicare consumi e conseguenze&quot;,
-      &quot;id&quot;: &quot;R-08&quot;
-    },
-    {
-      &quot;name&quot;: &quot;Registrare e comunicare&quot;,
-      &quot;id&quot;: &quot;R-09&quot;
-    }
-  ],
-  &quot;contest_outcomes&quot;: [
-    &quot;No access&quot;,
-    &quot;Resisted&quot;,
-    &quot;Partial&quot;,
-    &quot;Applied&quot;,
-    &quot;Unstable&quot;
-  ],
-  &quot;minimum_years_per_threshold&quot;: null,
-  &quot;mandatory_potion&quot;: false,
-  &quot;automatic_seat_transfer&quot;: false,
-  &quot;artifact_grants_user_threshold&quot;: false,
-  &quot;common_rules_complete&quot;: true,
-  &quot;effigy_progressions_complete&quot;: true,
-  &quot;export_scope&quot;: &quot;Indice strutturato delle regole; i documenti sorgente contengono condizioni e spiegazioni complete&quot;,
-  &quot;effigy_progressions_source&quot;: &quot;CANONE_VIGENTE/Progressioni_effigi.json&quot;,
-  &quot;family_rule_source&quot;: &quot;GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md&quot;,
-  &quot;version&quot;: &quot;1.4&quot;,
-  &quot;normal_personal_effigy_count&quot;: 1,
-  &quot;same_family_additions&quot;: &quot;RARE_DANGEROUS_EXCEPTION&quot;,
-  &quot;cross_family_personal_incorporation&quot;: &quot;INCOMPATIBLE_AT_ALL_THRESHOLDS&quot;,
-  &quot;protagonist_birth_condition&quot;: &quot;UNAWAKENED_NOT_A_THRESHOLD&quot;,
-  &quot;protagonist_exclusive_seat_prerequisites&quot;: [
-    &quot;Cradle&quot;,
-    &quot;Ruin&quot;
-  ],
-  &quot;prerequisites_retained_through_absence&quot;: true,
-  &quot;other_full_holders_during_absence_for_these_seats&quot;: false,
-  &quot;protagonist_initial_inventory_assigned&quot;: true,
-  &quot;protagonist_source&quot;: &quot;GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md&quot;,
-  &quot;editorial_update&quot;: &quot;Milestone 6; structural corpus unchanged&quot;,
-  &quot;avatar_policy&quot;: {
-    &quot;automatic_at_any_threshold&quot;: false,
-    &quot;personal_avatars_effigies&quot;: [
-      &quot;EFF-07&quot;
-    ],
-    &quot;remote_effects_are_avatars&quot;: false,
-    &quot;VI_requires_distribution&quot;: false
-  },
-  &quot;revision&quot;: &quot;RAMI-23-04&quot;,
-  &quot;cumulative_growth&quot;: {
-    &quot;rule&quot;: &quot;Ogni abilità incorporata cresce quantitativamente con il rango senza cambiare funzione.&quot;,
-    &quot;new_unlock&quot;: &quot;Ogni autorità introduce una operazione distinta per stadio, non un rango superiore della stessa.&quot;,
-    &quot;rank_changes&quot;: [
-      &quot;III→IV: costituzione semidivina&quot;,
-      &quot;IV→V: Core angelico unico&quot;,
-      &quot;VI→VII: Seat divina unica&quot;
-    ],
-    &quot;rank_traits_count_as_macro&quot;: false,
-    &quot;authority_source&quot;: &quot;177_Revisione_dei_rami_autonomi_23_Effigi.md&quot;
-  },
-  &quot;autonomous_branches&quot;: {
-    &quot;every_macro_is_supernatural&quot;: true,
-    &quot;ordinary_preparation_counts&quot;: false,
-    &quot;other_authority_required&quot;: false,
-    &quot;ordinary_inputs_allowed&quot;: true,
-    &quot;synergies_optional&quot;: true,
-    &quot;acquisition_unit&quot;: &quot;Effigy&quot;,
-    &quot;minimum_new_macros_per_authority_per_stage&quot;: 1,
-    &quot;source&quot;: &quot;177_Revisione_dei_rami_autonomi_23_Effigi.md&quot;
-  },
-  &quot;integration_revision&quot;: &quot;RACCORDI-317&quot;,
-  &quot;effigy_progressions_approval&quot;: &quot;APPROVED_CONSOLIDATED_316&quot;,
-  &quot;advancement_operational_revision&quot;: 339,
-  &quot;first_acquisition_guide&quot;: &quot;339_Prima_acquisizione_e_avanzamento.md&quot;,
-  &quot;specific_advancement_procedures&quot;: &quot;CANONE_VIGENTE/Procedure_avanzamento_339.json&quot;,
-  &quot;target_ability_required_before_advancement&quot;: false,
-  &quot;first_effigy_requires_root&quot;: false,
-  &quot;occupied_seat_blocks_lower_stages&quot;: false,
-  &quot;temporary_charge_is_personal_inscription&quot;: false,
-  &quot;operational_reference_revision&quot;: &quot;350&quot;,
-  &quot;operational_reference_source&quot;: &quot;CANONE_VIGENTE/Profili_operativi_Effigi_350.json&quot;,
-  &quot;reference_policy&quot;: &quot;Ready di confronto, senza nuova macro o promozione; i parametri specifici conservati prevalgono nel proprio ambito.&quot;
+<!doctype html><html lang="it"><meta charset="utf-8"><title>Regole comuni</title><body><a href="index.html">Biblioteca</a><h1>Regole comuni</h1><pre style="white-space:pre-wrap">{
+  &quot;milestone&quot;: 3,
+  &quot;status&quot;: &quot;CANONE_REGOLE_COMUNI&quot;,
+  &quot;sources&quot;: [
+    &quot;GIOCATORE_33_Lessico_e_sette_soglie.md&quot;,
+    &quot;GIOCATORE_34_Acquisizione_avanzamento_e_recupero.md&quot;,
+    &quot;GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md&quot;,
+    &quot;GIOCATORE_36_Corpo_spirito_manifestazioni_e_morte.md&quot;,
+    &quot;GIOCATORE_37_Procedura_operativa_delle_contese.md&quot;,
+    &quot;GIOCATORE_38_Poteri_e_vita_comune.md&quot;
+  ],
+  &quot;practitioner&quot;: &quot;Bearer&quot;,
+  &quot;path&quot;: &quot;Effigy&quot;,
+  &quot;progression&quot;: &quot;Threshold&quot;,
+  &quot;configuration&quot;: &quot;Weave&quot;,
+  &quot;thresholds&quot;: [
+    {
+      &quot;id&quot;: &quot;THR-01&quot;,
+      &quot;number&quot;: 1,
+      &quot;roman&quot;: &quot;I&quot;,
+      &quot;name&quot;: &quot;Awakening&quot;,
+      &quot;condition&quot;: &quot;Bearer umano trasformato&quot;,
+      &quot;change&quot;: &quot;Inscription stabile e primo esercizio proprio&quot;
+    },
+    {
+      &quot;id&quot;: &quot;THR-02&quot;,
+      &quot;number&quot;: 2,
+      &quot;roman&quot;: &quot;II&quot;,
+      &quot;name&quot;: &quot;Attunement&quot;,
+      &quot;condition&quot;: &quot;Bearer umano trasformato&quot;,
+      &quot;change&quot;: &quot;Circolazione propria, ripetibilità e separazione&quot;
+    },
+    {
+      &quot;id&quot;: &quot;THR-03&quot;,
+      &quot;number&quot;: 3,
+      &quot;roman&quot;: &quot;III&quot;,
+      &quot;name&quot;: &quot;Embodiment&quot;,
+      &quot;condition&quot;: &quot;Bearer umano profondamente investito&quot;,
+      &quot;change&quot;: &quot;Integrazione corporea e spirituale, esercizi mantenuti&quot;
+    },
+    {
+      &quot;id&quot;: &quot;THR-04&quot;,
+      &quot;number&quot;: 4,
+      &quot;roman&quot;: &quot;IV&quot;,
+      &quot;name&quot;: &quot;Transfiguration&quot;,
+      &quot;condition&quot;: &quot;Demigod&quot;,
+      &quot;change&quot;: &quot;Manifestazione parzialmente divina con offesa e difesa autonome&quot;
+    },
+    {
+      &quot;id&quot;: &quot;THR-05&quot;,
+      &quot;number&quot;: 5,
+      &quot;roman&quot;: &quot;V&quot;,
+      &quot;name&quot;: &quot;Ascendance&quot;,
+      &quot;condition&quot;: &quot;Angel&quot;,
+      &quot;change&quot;: &quot;Continuità angelica oltre la dipendenza biologica ordinaria&quot;
+    },
+    {
+      &quot;id&quot;: &quot;THR-06&quot;,
+      &quot;number&quot;: 6,
+      &quot;roman&quot;: &quot;VI&quot;,
+      &quot;name&quot;: &quot;Eminence&quot;,
+      &quot;condition&quot;: &quot;Padronanza angelica eminente delle autorità; Avatar o presenze distribuite non richiesti.&quot;,
+      &quot;change&quot;: &quot;Padronanza angelica eminente delle autorità, contesa delle condizioni della Seat; nessuna distribuzione personale obbligatoria&quot;
+    },
+    {
+      &quot;id&quot;: &quot;THR-07&quot;,
+      &quot;number&quot;: 7,
+      &quot;roman&quot;: &quot;VII&quot;,
+      &quot;name&quot;: &quot;Apotheosis&quot;,
+      &quot;condition&quot;: &quot;Deity&quot;,
+      &quot;change&quot;: &quot;Incorporazione piena della Seat&quot;
+    }
+  ],
+  &quot;special_conditions&quot;: [
+    {
+      &quot;requires&quot;: &quot;Pretesa effettiva e parziale sulla Seat&quot;,
+      &quot;is_extra_threshold&quot;: false,
+      &quot;name&quot;: &quot;Regent&quot;,
+      &quot;threshold&quot;: 6
+    },
+    {
+      &quot;requires&quot;: &quot;Integrazione completa delle Seats del gruppo e della Root&quot;,
+      &quot;is_extra_threshold&quot;: false,
+      &quot;name&quot;: &quot;Archon&quot;
+    },
+    {
+      &quot;requires&quot;: &quot;Archon completo di INT-01, INT-02, INT-03 o INT-05; esercizio emergente e Root secondo specifica 371&quot;,
+      &quot;is_extra_threshold&quot;: false,
+      &quot;name&quot;: &quot;Axial&quot;
+    }
+  ],
+  &quot;acquisition_steps&quot;: [
+    {
+      &quot;name&quot;: &quot;Verifica della Pattern&quot;,
+      &quot;id&quot;: &quot;A-01&quot;
+    },
+    {
+      &quot;name&quot;: &quot;Preparazione&quot;,
+      &quot;id&quot;: &quot;A-02&quot;
+    },
+    {
+      &quot;name&quot;: &quot;Opening&quot;,
+      &quot;id&quot;: &quot;A-03&quot;
+    },
+    {
+      &quot;name&quot;: &quot;Circulation&quot;,
+      &quot;id&quot;: &quot;A-04&quot;
+    },
+    {
+      &quot;name&quot;: &quot;Separation Test&quot;,
+      &quot;id&quot;: &quot;A-05&quot;
+    },
+    {
+      &quot;name&quot;: &quot;Stabilization&quot;,
+      &quot;id&quot;: &quot;A-06&quot;
+    }
+  ],
+  &quot;advancement_requirements&quot;: [
+    &quot;Pattern ampliata&quot;,
+    &quot;Tenuta&quot;,
+    &quot;Esecuzione propria&quot;,
+    &quot;Integrazione&quot;
+  ],
+  &quot;resource_dimensions&quot;: [
+    &quot;Quality&quot;,
+    &quot;Capacity&quot;,
+    &quot;Reserve&quot;,
+    &quot;Load&quot;
+  ],
+  &quot;exercise_regimes&quot;: [
+    &quot;Routine&quot;,
+    &quot;Demanding&quot;,
+    &quot;Overreach&quot;
+  ],
+  &quot;configuration_states&quot;: [
+    &quot;Ready&quot;,
+    &quot;Strained&quot;,
+    &quot;Overdrawn&quot;,
+    &quot;Fractured&quot;
+  ],
+  &quot;effect_durations&quot;: [
+    &quot;Instant&quot;,
+    &quot;Maintained&quot;,
+    &quot;Autonomous&quot;,
+    &quot;Independent&quot;
+  ],
+  &quot;activation_modes&quot;: [
+    &quot;Deliberate&quot;,
+    &quot;Prepared&quot;,
+    &quot;Reflexive&quot;,
+    &quot;Intrinsic&quot;
+  ],
+  &quot;manifestations&quot;: [
+    &quot;Corporeal&quot;,
+    &quot;Spiritual&quot;,
+    &quot;Emanation&quot;,
+    &quot;Avatar&quot;
+  ],
+  &quot;damage_conditions&quot;: [
+    &quot;Material&quot;,
+    &quot;Spiritual&quot;,
+    &quot;Mental&quot;,
+    &quot;Relational&quot;,
+    &quot;Continuity&quot;
+  ],
+  &quot;death_states&quot;: [
+    &quot;Biological death&quot;,
+    &quot;Loss of manifestation&quot;,
+    &quot;Dormancy&quot;,
+    &quot;Personal extinction&quot;
+  ],
+  &quot;contest_steps&quot;: [
+    {
+      &quot;name&quot;: &quot;Dichiarare il risultato cercato&quot;,
+      &quot;id&quot;: &quot;R-01&quot;
+    },
+    {
+      &quot;name&quot;: &quot;Identificare fonte e bersaglio&quot;,
+      &quot;id&quot;: &quot;R-02&quot;
+    },
+    {
+      &quot;name&quot;: &quot;Verificare competenza e accesso&quot;,
+      &quot;id&quot;: &quot;R-03&quot;
+    },
+    {
+      &quot;name&quot;: &quot;Ordinare gli eventi effettivi&quot;,
+      &quot;id&quot;: &quot;R-04&quot;
+    },
+    {
+      &quot;name&quot;: &quot;Selezionare opposizione pertinente&quot;,
+      &quot;id&quot;: &quot;R-05&quot;
+    },
+    {
+      &quot;name&quot;: &quot;Confrontare Quality e condizioni&quot;,
+      &quot;id&quot;: &quot;R-06&quot;
+    },
+    {
+      &quot;name&quot;: &quot;Determinare esito&quot;,
+      &quot;id&quot;: &quot;R-07&quot;
+    },
+    {
+      &quot;name&quot;: &quot;Applicare consumi e conseguenze&quot;,
+      &quot;id&quot;: &quot;R-08&quot;
+    },
+    {
+      &quot;name&quot;: &quot;Registrare e comunicare&quot;,
+      &quot;id&quot;: &quot;R-09&quot;
+    }
+  ],
+  &quot;contest_outcomes&quot;: [
+    &quot;No access&quot;,
+    &quot;Resisted&quot;,
+    &quot;Partial&quot;,
+    &quot;Applied&quot;,
+    &quot;Unstable&quot;
+  ],
+  &quot;minimum_years_per_threshold&quot;: null,
+  &quot;mandatory_potion&quot;: false,
+  &quot;automatic_seat_transfer&quot;: false,
+  &quot;artifact_grants_user_threshold&quot;: false,
+  &quot;common_rules_complete&quot;: true,
+  &quot;effigy_progressions_complete&quot;: true,
+  &quot;export_scope&quot;: &quot;Indice strutturato delle regole; i documenti sorgente contengono condizioni e spiegazioni complete&quot;,
+  &quot;effigy_progressions_source&quot;: &quot;CANONE_VIGENTE/Progressioni_effigi.json&quot;,
+  &quot;family_rule_source&quot;: &quot;GIOCATORE_35_Weaves_risorse_e_uso_dei_poteri.md&quot;,
+  &quot;version&quot;: &quot;1.4&quot;,
+  &quot;normal_personal_effigy_count&quot;: 1,
+  &quot;same_family_additions&quot;: &quot;RARE_DANGEROUS_EXCEPTION&quot;,
+  &quot;cross_family_personal_incorporation&quot;: &quot;INCOMPATIBLE_AT_ALL_THRESHOLDS&quot;,
+  &quot;protagonist_birth_condition&quot;: &quot;UNAWAKENED_NOT_A_THRESHOLD&quot;,
+  &quot;protagonist_exclusive_seat_prerequisites&quot;: [
+    &quot;Cradle&quot;,
+    &quot;Ruin&quot;
+  ],
+  &quot;prerequisites_retained_through_absence&quot;: true,
+  &quot;other_full_holders_during_absence_for_these_seats&quot;: false,
+  &quot;protagonist_initial_inventory_assigned&quot;: true,
+  &quot;protagonist_source&quot;: &quot;GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md&quot;,
+  &quot;editorial_update&quot;: &quot;Milestone 6; structural corpus unchanged&quot;,
+  &quot;avatar_policy&quot;: {
+    &quot;automatic_at_any_threshold&quot;: false,
+    &quot;personal_avatars_effigies&quot;: [
+      &quot;EFF-07&quot;
+    ],
+    &quot;remote_effects_are_avatars&quot;: false,
+    &quot;VI_requires_distribution&quot;: false
+  },
+  &quot;revision&quot;: &quot;RAMI-23-04&quot;,
+  &quot;cumulative_growth&quot;: {
+    &quot;rule&quot;: &quot;Ogni abilità incorporata cresce quantitativamente con il rango senza cambiare funzione.&quot;,
+    &quot;new_unlock&quot;: &quot;Ogni autorità introduce una operazione distinta per stadio, non un rango superiore della stessa.&quot;,
+    &quot;rank_changes&quot;: [
+      &quot;III→IV: costituzione semidivina&quot;,
+      &quot;IV→V: Core angelico unico&quot;,
+      &quot;VI→VII: Seat divina unica&quot;
+    ],
+    &quot;rank_traits_count_as_macro&quot;: false,
+    &quot;authority_source&quot;: &quot;177_Revisione_dei_rami_autonomi_23_Effigi.md&quot;
+  },
+  &quot;autonomous_branches&quot;: {
+    &quot;every_macro_is_supernatural&quot;: true,
+    &quot;ordinary_preparation_counts&quot;: false,
+    &quot;other_authority_required&quot;: false,
+    &quot;ordinary_inputs_allowed&quot;: true,
+    &quot;synergies_optional&quot;: true,
+    &quot;acquisition_unit&quot;: &quot;Effigy&quot;,
+    &quot;minimum_new_macros_per_authority_per_stage&quot;: 1,
+    &quot;source&quot;: &quot;177_Revisione_dei_rami_autonomi_23_Effigi.md&quot;
+  },
+  &quot;integration_revision&quot;: &quot;RACCORDI-317&quot;,
+  &quot;effigy_progressions_approval&quot;: &quot;APPROVED_CONSOLIDATED_316&quot;,
+  &quot;advancement_operational_revision&quot;: 339,
+  &quot;first_acquisition_guide&quot;: &quot;339_Prima_acquisizione_e_avanzamento.md&quot;,
+  &quot;specific_advancement_procedures&quot;: &quot;CANONE_VIGENTE/Procedure_avanzamento_339.json&quot;,
+  &quot;target_ability_required_before_advancement&quot;: false,
+  &quot;first_effigy_requires_root&quot;: false,
+  &quot;occupied_seat_blocks_lower_stages&quot;: false,
+  &quot;temporary_charge_is_personal_inscription&quot;: false,
+  &quot;operational_reference_revision&quot;: &quot;350&quot;,
+  &quot;operational_reference_source&quot;: &quot;CANONE_VIGENTE/Profili_operativi_Effigi_350.json&quot;,
+  &quot;reference_policy&quot;: &quot;Ready di confronto, senza nuova macro o promozione; i parametri specifici conservati prevalgono nel proprio ambito.&quot;,
+  &quot;axial_architectures&quot;: [
+    &quot;INT-01&quot;,
+    &quot;INT-02&quot;,
+    &quot;INT-03&quot;,
+    &quot;INT-05&quot;
+  ],
+  &quot;axial_count&quot;: 4,
+  &quot;axial_source&quot;: &quot;GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md&quot;
 }</pre></body></html>
