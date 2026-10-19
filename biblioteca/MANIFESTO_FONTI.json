@@ -106,8 +106,8 @@
       "group": "Dati strutturati e registri",
       "url": "ed3a279a7d37f425.html",
       "raw": "fonti/ed3a279a7d37f425.json",
-      "sha256": "a693fe060a9bf0e0acb6474e41919fac8a8564e651edaf670d657a057e190880",
-      "bytes": 24114
+      "sha256": "8c99303f32d1d5e31637b9ed9eeb76015dd25430876589c12d715c6010ad12a8",
+      "bytes": 25510
     },
     {
       "source": "CANONE_VIGENTE/Cast_conosciuto.json",
@@ -124,8 +124,8 @@
       "group": "Dati strutturati e registri",
       "url": "9f5d1e0af2de6024.html",
       "raw": "fonti/9f5d1e0af2de6024.json",
-      "sha256": "5a06edefac80d4de7d106902b4b40f9dbe47914e7ba737b261614858d7768b8a",
-      "bytes": 3520434
+      "sha256": "4f88b3c494510d0863b84baffd48dacef3c44db9402e8930adcb44b0a2b13c31",
+      "bytes": 3546266
     },
     {
       "source": "CANONE_VIGENTE/Censimento_visuale_luoghi.json",
@@ -241,8 +241,8 @@
       "group": "Dati strutturati e registri",
       "url": "c5209fee2344a605.html",
       "raw": "fonti/c5209fee2344a605.json",
-      "sha256": "3bf4d52f29fb6987d4890c74ee9647e47187a2ba43c0872d7c6c501608a6a796",
-      "bytes": 236445
+      "sha256": "67f97c7c04653caa2c7d6e9267a1a3f511ebec103bfa756e372028669d01fe6c",
+      "bytes": 258671
     },
     {
       "source": "CANONE_VIGENTE/Gruppo_284_personaggi_selezionati.json",
@@ -574,8 +574,8 @@
       "group": "Dati strutturati e registri",
       "url": "fe9fbb2c8f28317b.html",
       "raw": "fonti/fe9fbb2c8f28317b.json",
-      "sha256": "8fab04724de5f77e966eebe9d9a86b1db58faaae7cdf90ede28da1da3c4a837f",
-      "bytes": 84828
+      "sha256": "30ab73dbf1d66c4a733a67d4b2fa1d3e47175c6addcede28174e9897ab61320b",
+      "bytes": 84827
     },
     {
       "source": "CANONE_VIGENTE/Regole_comuni.json",
@@ -6703,8 +6703,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "f1df89d31f210289.html",
       "raw": "fonti/f1df89d31f210289.md",
-      "sha256": "00ab53f9a8e19b28a1bc185e1dffdda02968379344d2eaeee508823156a6d49c",
-      "bytes": 13431
+      "sha256": "c5418dd9d70b34e75f321ce8f3c20da8648c7fd0f6996989478116c795d2c71a",
+      "bytes": 21470
     },
     {
       "source": "RISERVATO_202_Biforcazioni_e_tenuta_del_canone.md",
@@ -6730,8 +6730,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "b2ddc4c73ff23f10.html",
       "raw": "fonti/b2ddc4c73ff23f10.md",
-      "sha256": "a8cf49cf118242653575dc32fcf8fc374a3fca79553632894698a6f6eecb127e",
-      "bytes": 9291
+      "sha256": "90d49c14f71015b2a8f5563ad3a35e37cf89de7042c4613c8fa9ace4840c4199",
+      "bytes": 22182
     },
     {
       "source": "RISERVATO_280_Althene_lutto_e_indagine.md",
@@ -7237,8 +7237,8 @@
       "group": "Canone vigente e verifica della consegna",
       "url": "06300f093b9b4ae7.html",
       "raw": "fonti/06300f093b9b4ae7.md",
-      "sha256": "9162ebb5b88ab885d50dd9c22d957ed26ab2ff38298f8c447e105a30eac7c976",
-      "bytes": 67133
+      "sha256": "3aa83f1c735cd71c1b8922afd1c51695527e5d577dfbe6f140d15af95b5bd5e7",
+      "bytes": 68635
     },
     {
       "source": "342_Stato_vigente_per_la_consegna.md",
@@ -7376,8 +7376,8 @@
       "raw": "fonti/5de80396760c781e.txt",
       "sha256": "054825f27d0b396c624091c0d52e96bd24d93a999b3f341eb647cb8981397609",
       "bytes": 21572,
-      "status": "STORICO_SUPERATO_PER_CAUSA_DELLA_CRISI",
-      "current_successor": "Consegna 369"
+      "status": "STORICO_SUPERATO",
+      "current_successor": "RISERVATO_209_Protocollo_completo_del_Narratore.md — edizione 370"
     },
     {
       "source": "CANONE_VIGENTE/Esempi_abilita_345.json",
@@ -9493,8 +9493,8 @@
       "group": "Consolidamento354",
       "url": "6660d8dc11a8e0d2.html",
       "raw": "fonti/6660d8dc11a8e0d2.md",
-      "sha256": "9162ebb5b88ab885d50dd9c22d957ed26ab2ff38298f8c447e105a30eac7c976",
-      "bytes": 67133
+      "sha256": "3aa83f1c735cd71c1b8922afd1c51695527e5d577dfbe6f140d15af95b5bd5e7",
+      "bytes": 68635
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-552.md",
@@ -17649,6 +17649,247 @@
       "raw": "fonti/30562a3f2ae71714.md",
       "sha256": "1a36acd606288e213d7786f2ef58d6ae7df4480bcce2f20dcb269fd308bcb402",
       "bytes": 10883
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/09_Societa/GIOCATORE_370_Diritto_penale_e_indagini_Orsanne.md",
+      "title": "GIOCATORE 370 Diritto penale e indagini Orsanne",
+      "group": "Consolidamento pre-avvio 370",
+      "url": "c6056b96c178cba0.html",
+      "raw": "fonti/c6056b96c178cba0.md",
+      "sha256": "68cca329612ef6bb00b450f70b189c79e384ced774e15c9b08d9df2f728e53fa",
+      "bytes": 12234
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_370/CANONE_VIGENTE/Geografia_riservata.json",
+      "title": "Geografia riservata",
+      "group": "Storico superato dal consolidamento 370",
+      "url": "54fa1ce4062ca006.html",
+      "raw": "fonti/54fa1ce4062ca006.json",
+      "sha256": "3bf4d52f29fb6987d4890c74ee9647e47187a2ba43c0872d7c6c501608a6a796",
+      "bytes": 236445,
+      "status": "STORICO_SUPERATO_NEI_TEMI_370",
+      "current_successor": "370_Registro_consolidamento_pre_avvio.md"
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/09_Societa/23_Registro_unico_del_canone.md",
+      "title": "23 Registro unico del canone",
+      "group": "Consolidamento pre-avvio 370",
+      "url": "d92ae8ed299b5834.html",
+      "raw": "fonti/d92ae8ed299b5834.md",
+      "sha256": "3aa83f1c735cd71c1b8922afd1c51695527e5d577dfbe6f140d15af95b5bd5e7",
+      "bytes": 68635
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/08_Geografia/RISERVATO_370_Siti_soprannaturali_guida_completa.md",
+      "title": "RISERVATO 370 Siti soprannaturali guida completa",
+      "group": "Consolidamento pre-avvio 370",
+      "url": "a306e49306b02c06.html",
+      "raw": "fonti/a306e49306b02c06.md",
+      "sha256": "c6dfce3f7a51eefb489241598bae5226ec3cd114160efdf38f14a071c7bfe8ce",
+      "bytes": 24961
+    },
+    {
+      "source": "CANONE_VIGENTE/Audit_pre_avvio_370.json",
+      "title": "Audit pre avvio 370",
+      "group": "Consolidamento pre-avvio 370",
+      "url": "5a93f50f24c0fb08.html",
+      "raw": "fonti/5a93f50f24c0fb08.json",
+      "sha256": "aa94af7c06e1f0519055a686de76d390101f0ca08be7e4afddc97d7313c4f06d",
+      "bytes": 762
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_370/23_Registro_unico_del_canone.md",
+      "title": "23 Registro unico del canone",
+      "group": "Storico superato dal consolidamento 370",
+      "url": "3ecd012c52325e27.html",
+      "raw": "fonti/3ecd012c52325e27.md",
+      "sha256": "9162ebb5b88ab885d50dd9c22d957ed26ab2ff38298f8c447e105a30eac7c976",
+      "bytes": 67133,
+      "status": "STORICO_SUPERATO_NEI_TEMI_370",
+      "current_successor": "370_Registro_consolidamento_pre_avvio.md"
+    },
+    {
+      "source": "RISERVATO_370_Reti_civili_del_teatro_iniziale.md",
+      "title": "RISERVATO 370 Reti civili del teatro iniziale",
+      "group": "Consolidamento pre-avvio 370",
+      "url": "9e956b2306e0b109.html",
+      "raw": "fonti/9e956b2306e0b109.md",
+      "sha256": "b96fdb5d2c9dcbe763ce829201346987f4f5370b7694a3921eb596c589221744",
+      "bytes": 28067
+    },
+    {
+      "source": "CANONE_VIGENTE/Siti_soprannaturali_370.json",
+      "title": "Siti soprannaturali 370",
+      "group": "Consolidamento pre-avvio 370",
+      "url": "0a34c4a2375f82d7.html",
+      "raw": "fonti/0a34c4a2375f82d7.json",
+      "sha256": "d12a4342c6cb6890665a33beff6fb205dac1b48569488244c54f75ac5ea31891",
+      "bytes": 33625
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_370/CANONE_VIGENTE/Cast_riservato.json",
+      "title": "Cast riservato",
+      "group": "Storico superato dal consolidamento 370",
+      "url": "8786652bc73096f5.html",
+      "raw": "fonti/8786652bc73096f5.json",
+      "sha256": "5a06edefac80d4de7d106902b4b40f9dbe47914e7ba737b261614858d7768b8a",
+      "bytes": 3520434,
+      "status": "STORICO_SUPERATO_NEI_TEMI_370",
+      "current_successor": "370_Registro_consolidamento_pre_avvio.md"
+    },
+    {
+      "source": "CANONE_VIGENTE/Reti_civili_iniziali_370.json",
+      "title": "Reti civili iniziali 370",
+      "group": "Consolidamento pre-avvio 370",
+      "url": "0ec2fdd458a4434a.html",
+      "raw": "fonti/0ec2fdd458a4434a.json",
+      "sha256": "1c268f57ae15adf67983ffd105f96d3700167964fd43999ae3465d9e44d8306f",
+      "bytes": 29343
+    },
+    {
+      "source": "370_Registro_consolidamento_pre_avvio.md",
+      "title": "370 Registro consolidamento pre avvio",
+      "group": "Consolidamento pre-avvio 370",
+      "url": "73bb89a097d9cf2b.html",
+      "raw": "fonti/73bb89a097d9cf2b.md",
+      "sha256": "ecbc672893905c54abdce644fd38b0ae61dd480ba4c2dff9d74a0c38d9e77ffa",
+      "bytes": 1500
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/13_Consegna_e_protocollo/RISERVATO_209_Protocollo_completo_del_Narratore.md",
+      "title": "RISERVATO 209 Protocollo completo del Narratore",
+      "group": "Consolidamento pre-avvio 370",
+      "url": "1aa01fb21decba9d.html",
+      "raw": "fonti/1aa01fb21decba9d.md",
+      "sha256": "90d49c14f71015b2a8f5563ad3a35e37cf89de7042c4613c8fa9ace4840c4199",
+      "bytes": 22182
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_370/RISERVATO_370_Calendario_unificato.md",
+      "title": "RISERVATO 370 Calendario unificato",
+      "group": "Storico superato dal consolidamento 370",
+      "url": "e77687eddb45a3fd.html",
+      "raw": "fonti/e77687eddb45a3fd.md",
+      "sha256": "f8591f65afc46ef52c00f157e5122e096789365a3a50ddbf3c5ae51b5db6f5b9",
+      "bytes": 21454,
+      "status": "STORICO_SUPERATO_NEI_TEMI_370",
+      "current_successor": "370_Registro_consolidamento_pre_avvio.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_370/CANONE_VIGENTE/Calendario_trama.json",
+      "title": "Calendario trama",
+      "group": "Storico superato dal consolidamento 370",
+      "url": "bc4805ae8ab32913.html",
+      "raw": "fonti/bc4805ae8ab32913.json",
+      "sha256": "a693fe060a9bf0e0acb6474e41919fac8a8564e651edaf670d657a057e190880",
+      "bytes": 24114,
+      "status": "STORICO_SUPERATO_NEI_TEMI_370",
+      "current_successor": "370_Registro_consolidamento_pre_avvio.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_370/CANONE_VIGENTE/Registro_decisioni.json",
+      "title": "Registro decisioni",
+      "group": "Storico superato dal consolidamento 370",
+      "url": "8eba28f84fca1570.html",
+      "raw": "fonti/8eba28f84fca1570.json",
+      "sha256": "8fab04724de5f77e966eebe9d9a86b1db58faaae7cdf90ede28da1da3c4a837f",
+      "bytes": 84828,
+      "status": "STORICO_SUPERATO_NEI_TEMI_370",
+      "current_successor": "370_Registro_consolidamento_pre_avvio.md"
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/13_Consegna_e_protocollo/RISERVATO_370_Calendario_unificato.md",
+      "title": "RISERVATO 370 Calendario unificato",
+      "group": "Consolidamento pre-avvio 370",
+      "url": "3b00228b04055c86.html",
+      "raw": "fonti/3b00228b04055c86.md",
+      "sha256": "c5418dd9d70b34e75f321ce8f3c20da8648c7fd0f6996989478116c795d2c71a",
+      "bytes": 21470
+    },
+    {
+      "source": "GIOCATORE_370_Diritto_penale_e_indagini_Orsanne.md",
+      "title": "GIOCATORE 370 Diritto penale e indagini Orsanne",
+      "group": "Consolidamento pre-avvio 370",
+      "url": "e0ebbb9a41fc1a26.html",
+      "raw": "fonti/e0ebbb9a41fc1a26.md",
+      "sha256": "68cca329612ef6bb00b450f70b189c79e384ced774e15c9b08d9df2f728e53fa",
+      "bytes": 12234
+    },
+    {
+      "source": "RISERVATO_370_Calendario_unificato.md",
+      "title": "RISERVATO 370 Calendario unificato",
+      "group": "Consolidamento pre-avvio 370",
+      "url": "78c68a8202dc84cf.html",
+      "raw": "fonti/78c68a8202dc84cf.md",
+      "sha256": "c5418dd9d70b34e75f321ce8f3c20da8648c7fd0f6996989478116c795d2c71a",
+      "bytes": 21470
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/13_Manuali_e_pacchetto_Narratore/RISERVATO/RISERVATO_209_Protocollo_completo_del_Narratore.md",
+      "title": "RISERVATO 209 Protocollo completo del Narratore",
+      "group": "Consolidamento pre-avvio 370",
+      "url": "5c6468fd3d8ff248.html",
+      "raw": "fonti/5c6468fd3d8ff248.md",
+      "sha256": "90d49c14f71015b2a8f5563ad3a35e37cf89de7042c4613c8fa9ace4840c4199",
+      "bytes": 22182
+    },
+    {
+      "source": "RISERVATO_370_Siti_soprannaturali_guida_completa.md",
+      "title": "RISERVATO 370 Siti soprannaturali guida completa",
+      "group": "Consolidamento pre-avvio 370",
+      "url": "cfe1b14d230787bb.html",
+      "raw": "fonti/cfe1b14d230787bb.md",
+      "sha256": "c6dfce3f7a51eefb489241598bae5226ec3cd114160efdf38f14a071c7bfe8ce",
+      "bytes": 24961
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Cast_e_reti_civili/RISERVATO_370_Reti_civili_del_teatro_iniziale.md",
+      "title": "RISERVATO 370 Reti civili del teatro iniziale",
+      "group": "Consolidamento pre-avvio 370",
+      "url": "2e2f5206e32950ea.html",
+      "raw": "fonti/2e2f5206e32950ea.md",
+      "sha256": "b96fdb5d2c9dcbe763ce829201346987f4f5370b7694a3921eb596c589221744",
+      "bytes": 28067
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/09_Societa/370_Registro_consolidamento_pre_avvio.md",
+      "title": "370 Registro consolidamento pre avvio",
+      "group": "Consolidamento pre-avvio 370",
+      "url": "25b1e6b015a795f8.html",
+      "raw": "fonti/25b1e6b015a795f8.md",
+      "sha256": "ecbc672893905c54abdce644fd38b0ae61dd480ba4c2dff9d74a0c38d9e77ffa",
+      "bytes": 1500
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_370/RISERVATO_209_Protocollo_completo_del_Narratore.md",
+      "title": "RISERVATO 209 Protocollo completo del Narratore",
+      "group": "Storico superato dal consolidamento 370",
+      "url": "b82e29f6c0b9b634.html",
+      "raw": "fonti/b82e29f6c0b9b634.md",
+      "sha256": "a8cf49cf118242653575dc32fcf8fc374a3fca79553632894698a6f6eecb127e",
+      "bytes": 9291,
+      "status": "STORICO_SUPERATO_NEI_TEMI_370",
+      "current_successor": "370_Registro_consolidamento_pre_avvio.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_370/RISERVATO_201_Calendario_fazioni_e_iniziative_fuori_campo.md",
+      "title": "RISERVATO 201 Calendario fazioni e iniziative fuori campo",
+      "group": "Storico superato dal calendario 370",
+      "url": "9aea0954c41e7657.html",
+      "raw": "fonti/9aea0954c41e7657.md",
+      "sha256": "00ab53f9a8e19b28a1bc185e1dffdda02968379344d2eaeee508823156a6d49c",
+      "bytes": 13431,
+      "status": "STORICO_SUPERATO_NEI_TEMI_370",
+      "current_successor": "370_Registro_consolidamento_pre_avvio.md"
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/12_Trama_archi_e_volumi/RISERVATO/RISERVATO_201_Calendario_fazioni_e_iniziative_fuori_campo.md",
+      "title": "RISERVATO 201 Calendario fazioni e iniziative fuori campo",
+      "group": "Calendario consolidato 370",
+      "url": "9c29f677da39853a.html",
+      "raw": "fonti/9c29f677da39853a.md",
+      "sha256": "c5418dd9d70b34e75f321ce8f3c20da8648c7fd0f6996989478116c795d2c71a",
+      "bytes": 21470
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",

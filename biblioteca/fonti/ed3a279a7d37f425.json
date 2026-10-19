@@ -1,8 +1,30 @@
 {
   "version": "1.0",
-  "revision": "FRONTI-326",
+  "revision": "CALENDARIO-370",
   "t0": "812-05-18",
   "events": [
+    {
+      "id": "OPCLK-01",
+      "date": "812-05-19",
+      "source": "FRONT-01",
+      "place": "Lethorne",
+      "event": "Identificare il vettore, sostituire la consegna con un esemplare ordinario e sequestrare chi sa ricaricare la cerniera.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Una squadra ha affittato il piano sopra un deposito di strumenti. Conosce un intermediario di Marcel, non la posizione di Room Six.",
+      "without_pc": "Senza notizie nuove tengono sotto osservazione il deposito; non scoprono magicamente il club o Alexander.",
+      "intervention": "Avvisare o mettere al sicuro il vettore, identificare il compratore, spezzare la catena di accesso. Distruggere il falso non distrugge la cerniera vera."
+    },
+    {
+      "id": "OPCLK-02",
+      "date": "812-05-20",
+      "source": "FRONT-02",
+      "place": "Sarn Gate",
+      "event": "Trasferire i prigionieri, installare vincoli individuali e addestrare una guardia di leva finanziata dal minerale.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Un convoglio di sei adulti è nascosto in una stazione dismessa. I vecchi marchi sono studiati, non già ripristinati su tutta una popolazione.",
+      "without_pc": "Il trasferimento può iniziare solo quando arriva la scorta e il tratto ferroviario è libero; i ritardi producono razionamento e possibilità di fuga.",
+      "intervention": "Liberare i prigionieri, interrompere i vincoli con mezzi pertinenti, sottrarre entrate e custodi. La liberazione autentica resta valida."
+    },
     {
       "id": "CLK-01",
       "date": "812-05-21",
@@ -14,6 +36,17 @@
       "status": "Pianificato a T0; non già avvenuto"
     },
     {
+      "id": "OPCLK-03",
+      "date": "812-05-21",
+      "source": "FRONT-03",
+      "place": "Elven",
+      "event": "Distribuire innesti sotto una falsa dichiarazione di autonomia e rapire chi possiede una tecnica concorrente di separazione.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Un vivaio sperimentale coltiva un sostegno utile e un ramo dipendente non dichiarato. Tre campioni sono già stati separati per la spedizione.",
+      "without_pc": "La spedizione parte se il trasporto è confermato; Othrem riceve solo relazioni inviate attraverso canali realmente attivi.",
+      "intervention": "Offrire sostegni realmente autonomi, isolare la dipendenza e impedire il sequestro. Non esiste una punizione cosmica per chi guarisce davvero."
+    },
+    {
       "id": "CLK-02",
       "date": "812-05-22",
       "source": "U11-04",
@@ -22,6 +55,17 @@
       "without_pc": "Personale rinvia impiego incompatibile e organizza cura alternativa.",
       "intervention": "Una guarigione autentica chiude il rischio; non si lascia morire il paziente per burocrazia.",
       "status": "Pianificato a T0; non già avvenuto"
+    },
+    {
+      "id": "OPCLK-04",
+      "date": "812-05-22",
+      "source": "FRONT-04",
+      "place": "Veldane",
+      "event": "Fermare un testimone in viaggio, isolare copie della sua dichiarazione e imporre una nuova proroga del contenimento.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Due funzionari hanno preparato mandati individuali contro testimoni e un deposito protetto per trattenerli.",
+      "without_pc": "L’arresto richiede itinerario verificato e una scorta disponibile; un bersaglio trasferito non viene ritrovato senza indagine.",
+      "intervention": "Proteggere il testimone, invalidare la presa concreta, dividere funzionari e comando. La forza può liberare il detenuto anche prima della soluzione politica."
     },
     {
       "id": "CLK-03",
@@ -44,6 +88,38 @@
       "status": "Pianificato a T0; non già avvenuto"
     },
     {
+      "id": "OPCLK-05",
+      "date": "812-05-23",
+      "source": "FRONT-05",
+      "place": "South Shoals",
+      "event": "Alterare il passaggio locale con correnti e segnali, abbordare i superstiti e incendiare il deposito dei registri di carico.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Due imbarcazioni di appoggio hanno depositato ancore e segnali falsi presso una secca. La nave bersaglio è ancora in porto.",
+      "without_pc": "L’agguato dipende dalla partenza reale e dal tempo; una partenza annullata lo rinvia, non causa comunque il naufragio.",
+      "intervention": "Scortare o deviare la nave, rimuovere i segnali, combattere gli abbordatori e mettere al sicuro i superstiti."
+    },
+    {
+      "id": "CLK-28",
+      "date": "812-05-24",
+      "source": "CULT-02; RISERVATO_137; RISERVATO_192; SITE-03",
+      "place": "Namar Upper Works",
+      "event": "Decisione tecnica sulla separazione dei circuiti e continuità dei servizi delle opere alte. Distinta dalla prova clinico-anatomica U11-04 del 22 maggio.",
+      "without_pc": "Iven Namar e tecnici valutano riduzioni e coperture alternative nei mezzi realmente disponibili; nessuna perdita umana obbligatoria.",
+      "intervention": "Diagnosi, riparazioni o supporti già riusciti possono rendere meno onerosa o superflua una separazione.",
+      "status": "Pianificato al T0, esito aperto"
+    },
+    {
+      "id": "OPCLK-06",
+      "date": "812-05-24",
+      "source": "FRONT-06",
+      "place": "Corten",
+      "event": "Imporre una sessione interiore preparata, estorcere accessi e usare Mask per ingannare un solo destinatario già studiato.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Una pensione ospita quattro adulti reclutati con promesse di impiego; gli ingressi sono ordinari e controllabili.",
+      "without_pc": "La sessione richiede presenza e preparazione; chi lascia la pensione prima non resta automaticamente collegato.",
+      "intervention": "Interrompere il collegamento preparato, raggiungere fisicamente gli ospiti, confrontare ricordi con testimonianze indipendenti."
+    },
+    {
       "id": "CLK-15",
       "date": "812-05-25",
       "source": "FAC-02",
@@ -52,6 +128,17 @@
       "without_pc": "L’istituzione svolge la revisione o cerca alternative entro risorse e mandato; leggere il dossier di fazione prima di stabilire un esito.",
       "intervention": "Prove, riparazioni, accordi e opposizioni registrati possono modificare o rendere superflua questa iniziativa.",
       "status": "Pianificato a T0; fonte società 9"
+    },
+    {
+      "id": "OPCLK-07",
+      "date": "812-05-25",
+      "source": "FRONT-07",
+      "place": "Deren",
+      "event": "Sabotare una pompa di sicurezza, attirare una squadra di soccorso e prendere ostaggi per imporre l’acquisto delle armi.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Un’officina prepara cariche di conversione e contenitori difettosi deliberatamente. La galleria di prova è stata evacuata dai tecnici informati.",
+      "without_pc": "Il sabotaggio richiede l’ingresso nella sala pompe; una guardia avvisata può negare accesso o chiedere rinforzi.",
+      "intervention": "Disinnescare o isolare le cariche, liberare gli ostaggi e sequestrare le scorte. Nessun esplosivo colpisce se l’attivazione viene davvero impedita."
     },
     {
       "id": "CLK-05",
@@ -74,6 +161,17 @@
       "status": "Pianificato a T0; non già avvenuto"
     },
     {
+      "id": "OPCLK-08",
+      "date": "812-05-26",
+      "source": "FRONT-08",
+      "place": "Noran",
+      "event": "Rubare una custodia, ricattare il destinatario e applicare una maledizione attraverso un legame realmente ottenuto.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Tre contenitori ospitano continuità distinguibili; i custodi stanno negoziando un trasferimento notturno.",
+      "without_pc": "Il trasporto richiede un veicolo schermato e manutenzione; un ritardo impone ai rapitori di investire risorse ulteriori.",
+      "intervention": "Separare custodia e ricatto, spezzare il legame della maledizione, restituire facoltà di scelta alle presenze e proteggere i supporti."
+    },
+    {
       "id": "CLK-07",
       "date": "812-05-27",
       "source": "U11-06",
@@ -82,6 +180,17 @@
       "without_pc": "Personale confronta il collare con il certificato pertinente.",
       "intervention": "Una cura fisica riuscita non autentica un diverso contratto.",
       "status": "Pianificato a T0; non già avvenuto"
+    },
+    {
+      "id": "OPCLK-09",
+      "date": "812-05-27",
+      "source": "FRONT-09",
+      "place": "Serevan",
+      "event": "Spostare un riferimento di un corridoio raggiunto, intercettare una spedizione e sequestrare il suo cartografo.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Kaeris mantiene un avamposto remoto con una sola via di rifornimento e una squadra sul pianeta.",
+      "without_pc": "Le spedizioni vengono intercettate soltanto se entrano nella rotta studiata; l’avamposto perde riserve durante ogni interruzione del servizio.",
+      "intervention": "Verificare i riferimenti, proteggere il cartografo, isolare il solo corridoio ostile o raggiungere l’avamposto con accessi propri."
     },
     {
       "id": "CLK-08",
@@ -104,6 +213,17 @@
       "status": "Pianificato a T0; fonte società 9"
     },
     {
+      "id": "OPCLK-10",
+      "date": "812-05-28",
+      "source": "FRONT-10",
+      "place": "Ashen Quay",
+      "event": "Rapire un Bearer utile, separare una funzione raggiunta e inviare il lotto a un compratore prima che arrivi l’ispezione.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Una nave-laboratorio trattiene sei adulti e trasporta tessuti investiti in supporti distinti. Non è una Root né una specie intera.",
+      "without_pc": "Il lotto parte solo con un vettore compatibile: ritardi espongono il fallimento e spaccano il gruppo, non generano nuove vittime automaticamente.",
+      "intervention": "Abbattere le difese pertinenti, liberare i detenuti e separare le funzioni senza distruggere i supporti vitali. Cure reali possono eliminare la dipendenza."
+    },
+    {
       "id": "CLK-09",
       "date": "812-05-29",
       "source": "U11-07",
@@ -112,6 +232,17 @@
       "without_pc": "Periti classificano blocchi prima di estendere i lavori.",
       "intervention": "Ilreperto Ruin non investe ogni pietra.",
       "status": "Pianificato a T0; non già avvenuto"
+    },
+    {
+      "id": "OPCLK-11",
+      "date": "812-05-29",
+      "source": "FRONT-11",
+      "place": "Rovenne",
+      "event": "Verificare una segnalazione di sequestro, preparare trasporto e intervenire contro la squadra identificata.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Un rifugio dispone di due stanze, tre letti e una rete di vettori ordinari. Nessun occupante conosce il ritorno di Edran.",
+      "without_pc": "Senza aiuto accoglie soltanto le persone che può sostenere e cerca altri rifugi; non trascura deliberatamente un soccorso possibile.",
+      "intervention": "La rete può essere aiutata con trasporti, protezione, guarigione o informazioni; non pretende adesione religiosa o obbedienza."
     },
     {
       "id": "CLK-16",
@@ -124,12 +255,23 @@
       "status": "Pianificato a T0; fonte società 9"
     },
     {
+      "id": "OPCLK-12",
+      "date": "812-05-30",
+      "source": "FRONT-12",
+      "place": "Teren",
+      "event": "Scortare un testimone e dimostrare davanti a terzi quale intervento investito ha alterato un risultato.",
+      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
+      "activation_condition": "Due ricercatori hanno concordato un metodo di confronto e una guardia di turno; le copie sono in tre sedi separate.",
+      "without_pc": "Il gruppo pubblica solo ciò che può sostenere e mette in salvo i testimoni raggiungibili, senza inventare confessioni.",
+      "intervention": "Collaborazione possibile senza giuramento: proteggere una sede, produrre un confronto ripetibile o raggiungere il responsabile."
+    },
+    {
       "id": "CLK-10",
       "date": "812-05-31",
       "source": "ELIAS",
       "place": "Lethorne",
       "event": "Udienza sul collaudo 21 aprile.",
-      "without_pc": "Etienne chiede responsabilità e salario; laboratorio porta ciò che ha.",
+      "without_pc": "Etienne Brac (CAST-129) chiede responsabilità e salario; laboratorio porta ciò che ha.",
       "intervention": "Registrare prove realmente acquisite: senzaordine l’attribuzione ha copertura minore.",
       "status": "Pianificato a T0; non già avvenuto"
     },
@@ -142,6 +284,16 @@
       "without_pc": "L’istituzione svolge la revisione o cerca alternative entro risorse e mandato; leggere il dossier di fazione prima di stabilire un esito.",
       "intervention": "Prove, riparazioni, accordi e opposizioni registrati possono modificare o rendere superflua questa iniziativa.",
       "status": "Pianificato a T0; fonte società 9"
+    },
+    {
+      "id": "CLK-29",
+      "date": "812-06-02",
+      "source": "GIOCATORE_356_Alexander_Camera_e_obblighi.md",
+      "place": "Veldane",
+      "event": "Inizio del blocco di sedute della Camera già annunciato prima del coma; concessioni fluviali in istruttoria.",
+      "without_pc": "Presidenza e commissioni procedono nei rispettivi mandati; nessun voto, delega personale o trasferimento del seggio è già deciso.",
+      "intervention": "Alexander decide partecipazione e iniziative secondo viaggio e condizione; il voto personale non passa a un gestore per lettera privata.",
+      "status": "Convocazione nota; presenza del PG ed esiti non predeterminati"
     },
     {
       "id": "CLK-11",
@@ -272,141 +424,20 @@
       "without_pc": "L’istituzione svolge la revisione o cerca alternative entro risorse e mandato; leggere il dossier di fazione prima di stabilire un esito.",
       "intervention": "Prove, riparazioni, accordi e opposizioni registrati possono modificare o rendere superflua questa iniziativa.",
       "status": "Pianificato a T0; fonte società 9"
-    },
-    {
-      "id": "OPCLK-01",
-      "date": "812-05-19",
-      "source": "FRONT-01",
-      "place": "Lethorne",
-      "event": "Identificare il vettore, sostituire la consegna con un esemplare ordinario e sequestrare chi sa ricaricare la cerniera.",
-      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
-      "activation_condition": "Una squadra ha affittato il piano sopra un deposito di strumenti. Conosce un intermediario di Marcel, non la posizione di Room Six.",
-      "without_pc": "Senza notizie nuove tengono sotto osservazione il deposito; non scoprono magicamente il club o Alexander.",
-      "intervention": "Avvisare o mettere al sicuro il vettore, identificare il compratore, spezzare la catena di accesso. Distruggere il falso non distrugge la cerniera vera."
-    },
-    {
-      "id": "OPCLK-02",
-      "date": "812-05-20",
-      "source": "FRONT-02",
-      "place": "Sarn Gate",
-      "event": "Trasferire i prigionieri, installare vincoli individuali e addestrare una guardia di leva finanziata dal minerale.",
-      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
-      "activation_condition": "Un convoglio di sei adulti è nascosto in una stazione dismessa. I vecchi marchi sono studiati, non già ripristinati su tutta una popolazione.",
-      "without_pc": "Il trasferimento può iniziare solo quando arriva la scorta e il tratto ferroviario è libero; i ritardi producono razionamento e possibilità di fuga.",
-      "intervention": "Liberare i prigionieri, interrompere i vincoli con mezzi pertinenti, sottrarre entrate e custodi. La liberazione autentica resta valida."
-    },
-    {
-      "id": "OPCLK-03",
-      "date": "812-05-21",
-      "source": "FRONT-03",
-      "place": "Elven",
-      "event": "Distribuire innesti sotto una falsa dichiarazione di autonomia e rapire chi possiede una tecnica concorrente di separazione.",
-      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
-      "activation_condition": "Un vivaio sperimentale coltiva un sostegno utile e un ramo dipendente non dichiarato. Tre campioni sono già stati separati per la spedizione.",
-      "without_pc": "La spedizione parte se il trasporto è confermato; Othrem riceve solo relazioni inviate attraverso canali realmente attivi.",
-      "intervention": "Offrire sostegni realmente autonomi, isolare la dipendenza e impedire il sequestro. Non esiste una punizione cosmica per chi guarisce davvero."
-    },
-    {
-      "id": "OPCLK-04",
-      "date": "812-05-22",
-      "source": "FRONT-04",
-      "place": "Veldane",
-      "event": "Fermare un testimone in viaggio, isolare copie della sua dichiarazione e imporre una nuova proroga del contenimento.",
-      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
-      "activation_condition": "Due funzionari hanno preparato mandati individuali contro testimoni e un deposito protetto per trattenerli.",
-      "without_pc": "L’arresto richiede itinerario verificato e una scorta disponibile; un bersaglio trasferito non viene ritrovato senza indagine.",
-      "intervention": "Proteggere il testimone, invalidare la presa concreta, dividere funzionari e comando. La forza può liberare il detenuto anche prima della soluzione politica."
-    },
-    {
-      "id": "OPCLK-05",
-      "date": "812-05-23",
-      "source": "FRONT-05",
-      "place": "South Shoals",
-      "event": "Alterare il passaggio locale con correnti e segnali, abbordare i superstiti e incendiare il deposito dei registri di carico.",
-      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
-      "activation_condition": "Due imbarcazioni di appoggio hanno depositato ancore e segnali falsi presso una secca. La nave bersaglio è ancora in porto.",
-      "without_pc": "L’agguato dipende dalla partenza reale e dal tempo; una partenza annullata lo rinvia, non causa comunque il naufragio.",
-      "intervention": "Scortare o deviare la nave, rimuovere i segnali, combattere gli abbordatori e mettere al sicuro i superstiti."
-    },
-    {
-      "id": "OPCLK-06",
-      "date": "812-05-24",
-      "source": "FRONT-06",
-      "place": "Corten",
-      "event": "Imporre una sessione interiore preparata, estorcere accessi e usare Mask per ingannare un solo destinatario già studiato.",
-      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
-      "activation_condition": "Una pensione ospita quattro adulti reclutati con promesse di impiego; gli ingressi sono ordinari e controllabili.",
-      "without_pc": "La sessione richiede presenza e preparazione; chi lascia la pensione prima non resta automaticamente collegato.",
-      "intervention": "Interrompere il collegamento preparato, raggiungere fisicamente gli ospiti, confrontare ricordi con testimonianze indipendenti."
-    },
-    {
-      "id": "OPCLK-07",
-      "date": "812-05-25",
-      "source": "FRONT-07",
-      "place": "Deren",
-      "event": "Sabotare una pompa di sicurezza, attirare una squadra di soccorso e prendere ostaggi per imporre l’acquisto delle armi.",
-      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
-      "activation_condition": "Un’officina prepara cariche di conversione e contenitori difettosi deliberatamente. La galleria di prova è stata evacuata dai tecnici informati.",
-      "without_pc": "Il sabotaggio richiede l’ingresso nella sala pompe; una guardia avvisata può negare accesso o chiedere rinforzi.",
-      "intervention": "Disinnescare o isolare le cariche, liberare gli ostaggi e sequestrare le scorte. Nessun esplosivo colpisce se l’attivazione viene davvero impedita."
-    },
-    {
-      "id": "OPCLK-08",
-      "date": "812-05-26",
-      "source": "FRONT-08",
-      "place": "Noran",
-      "event": "Rubare una custodia, ricattare il destinatario e applicare una maledizione attraverso un legame realmente ottenuto.",
-      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
-      "activation_condition": "Tre contenitori ospitano continuità distinguibili; i custodi stanno negoziando un trasferimento notturno.",
-      "without_pc": "Il trasporto richiede un veicolo schermato e manutenzione; un ritardo impone ai rapitori di investire risorse ulteriori.",
-      "intervention": "Separare custodia e ricatto, spezzare il legame della maledizione, restituire facoltà di scelta alle presenze e proteggere i supporti."
-    },
-    {
-      "id": "OPCLK-09",
-      "date": "812-05-27",
-      "source": "FRONT-09",
-      "place": "Serevan",
-      "event": "Spostare un riferimento di un corridoio raggiunto, intercettare una spedizione e sequestrare il suo cartografo.",
-      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
-      "activation_condition": "Kaeris mantiene un avamposto remoto con una sola via di rifornimento e una squadra sul pianeta.",
-      "without_pc": "Le spedizioni vengono intercettate soltanto se entrano nella rotta studiata; l’avamposto perde riserve durante ogni interruzione del servizio.",
-      "intervention": "Verificare i riferimenti, proteggere il cartografo, isolare il solo corridoio ostile o raggiungere l’avamposto con accessi propri."
-    },
-    {
-      "id": "OPCLK-10",
-      "date": "812-05-28",
-      "source": "FRONT-10",
-      "place": "Ashen Quay",
-      "event": "Rapire un Bearer utile, separare una funzione raggiunta e inviare il lotto a un compratore prima che arrivi l’ispezione.",
-      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
-      "activation_condition": "Una nave-laboratorio trattiene sei adulti e trasporta tessuti investiti in supporti distinti. Non è una Root né una specie intera.",
-      "without_pc": "Il lotto parte solo con un vettore compatibile: ritardi espongono il fallimento e spaccano il gruppo, non generano nuove vittime automaticamente.",
-      "intervention": "Abbattere le difese pertinenti, liberare i detenuti e separare le funzioni senza distruggere i supporti vitali. Cure reali possono eliminare la dipendenza."
-    },
-    {
-      "id": "OPCLK-11",
-      "date": "812-05-29",
-      "source": "FRONT-11",
-      "place": "Rovenne",
-      "event": "Verificare una segnalazione di sequestro, preparare trasporto e intervenire contro la squadra identificata.",
-      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
-      "activation_condition": "Un rifugio dispone di due stanze, tre letti e una rete di vettori ordinari. Nessun occupante conosce il ritorno di Edran.",
-      "without_pc": "Senza aiuto accoglie soltanto le persone che può sostenere e cerca altri rifugi; non trascura deliberatamente un soccorso possibile.",
-      "intervention": "La rete può essere aiutata con trasporti, protezione, guarigione o informazioni; non pretende adesione religiosa o obbedienza."
-    },
-    {
-      "id": "OPCLK-12",
-      "date": "812-05-30",
-      "source": "FRONT-12",
-      "place": "Teren",
-      "event": "Scortare un testimone e dimostrare davanti a terzi quale intervento investito ha alterato un risultato.",
-      "status": "Intenzione iniziale: richiede verifica delle condizioni e degli accessi, non evento già avvenuto",
-      "activation_condition": "Due ricercatori hanno concordato un metodo di confronto e una guardia di turno; le copie sono in tre sedi separate.",
-      "without_pc": "Il gruppo pubblica solo ciò che può sostenere e mette in salvo i testimoni raggiungibili, senza inventare confessioni.",
-      "intervention": "Collaborazione possibile senza giuramento: proteggere una sede, produrre un confronto ripetibile o raggiungere il responsabile."
     }
   ],
   "post_initial": "Processi condizionali; non futuro canonico",
-  "sources": "Societa_riservata;189;192;133;153;154",
-  "raccordo_revision": "RACCORDI-317"
+  "sources": [
+    "Societa_riservata;189;192;133;153;154",
+    "RISERVATO_370_Calendario_unificato.md",
+    "GIOCATORE_356_Alexander_Camera_e_obblighi.md",
+    "RISERVATO_137_Relazioni_e_agenda_delle_istituzioni.md"
+  ],
+  "raccordo_revision": "RACCORDI-317",
+  "calendar_revision": 370,
+  "name_disambiguation_370": {
+    "CAST-129": "Etienne Brac — lavoratore ferito della linea di Elias",
+    "CAST-470": "Etienne Ravelle — rapporto civile di Alexander",
+    "CAST-567": "Etienne Marvaux — presidente della Camera"
+  }
 }

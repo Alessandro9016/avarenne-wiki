@@ -1,8 +1,8 @@
 {
-  "versione": "369",
+  "versione": "370",
   "data": "2026-10-19",
   "fonte_unica": "23_Registro_unico_del_canone.md",
-  "sha256_fonte": "9162ebb5b88ab885d50dd9c22d957ed26ab2ff38298f8c447e105a30eac7c976",
+  "sha256_fonte": "3aa83f1c735cd71c1b8922afd1c51695527e5d577dfbe6f140d15af95b5bd5e7",
   "decisioni": [
     {
       "id": "CAN-001",
@@ -2009,8 +2009,8 @@
       "versione": "326"
     }
   ],
-  "revision": 369,
-  "current_topic_register": "369_Registro_revisione_crisi_personale.md",
+  "revision": 370,
+  "current_topic_register": "370_Registro_consolidamento_pre_avvio.md",
   "operational_profiles_source": "CANONE_VIGENTE/Profili_operativi_Effigi_350.json",
   "interaction_source": "CANONE_VIGENTE/Contese_verificate_350.json",
   "pending_work_source": null
