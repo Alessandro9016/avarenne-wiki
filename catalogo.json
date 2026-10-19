@@ -268,7 +268,7 @@
     "title": "Althene Rhos",
     "kind": "Personaggi",
     "url": "cast-012-althene-rhos.html",
-    "bytes": 21979,
+    "bytes": 22796,
     "image_count": 4
   },
   {
@@ -680,6 +680,14 @@
     "image_count": 2
   },
   {
+    "id": "CAST-606",
+    "title": "Arves Nhal",
+    "kind": "Personaggi",
+    "url": "cast-606-arves-nhal.html",
+    "bytes": 10161,
+    "image_count": 0
+  },
+  {
     "id": "RANK-V",
     "title": "Ascendance",
     "kind": "Sistema soprannaturale",
@@ -941,6 +949,14 @@
     "kind": "Personaggi",
     "url": "cast-055-aveth-raan.html",
     "bytes": 16094,
+    "image_count": 0
+  },
+  {
+    "id": "CAST-614",
+    "title": "Avral Thenn",
+    "kind": "Personaggi",
+    "url": "cast-614-avral-thenn.html",
+    "bytes": 10529,
     "image_count": 0
   },
   {
@@ -1372,7 +1388,7 @@
     "title": "Campagne, opere ed eredità del Creator",
     "kind": "Approfondimenti",
     "url": "doc-96-campagne-opere-ed-eredita-del-creator.html",
-    "bytes": 14390,
+    "bytes": 16016,
     "image_count": 0
   },
   {
@@ -1572,7 +1588,7 @@
     "title": "Ceth Aran",
     "kind": "Personaggi",
     "url": "cast-038-ceth-aran.html",
-    "bytes": 14883,
+    "bytes": 15810,
     "image_count": 0
   },
   {
@@ -1844,7 +1860,7 @@
     "title": "Completamento editoriale 367",
     "kind": "Informazioni",
     "url": "completamento-editoriale-367.html",
-    "bytes": 8617,
+    "bytes": 8722,
     "image_count": 0
   },
   {
@@ -2140,7 +2156,7 @@
     "title": "Cronologia integrale ed ere",
     "kind": "Approfondimenti",
     "url": "doc-94-cronologia-integrale-ed-ere.html",
-    "bytes": 31207,
+    "bytes": 32833,
     "image_count": 0
   },
   {
@@ -2468,7 +2484,7 @@
     "title": "Deyran Ur",
     "kind": "Personaggi",
     "url": "cast-015-deyran-ur.html",
-    "bytes": 22127,
+    "bytes": 22983,
     "image_count": 4
   },
   {
@@ -2600,12 +2616,28 @@
     "image_count": 0
   },
   {
+    "id": "CAST-598",
+    "title": "Dorrak Vel",
+    "kind": "Personaggi",
+    "url": "cast-598-dorrak-vel.html",
+    "bytes": 10321,
+    "image_count": 0
+  },
+  {
     "id": "LOC-057",
     "title": "Dorven",
     "kind": "Luoghi",
     "url": "loc-057-dorven.html",
     "bytes": 11322,
     "image_count": 2
+  },
+  {
+    "id": "CAST-613",
+    "title": "Dorven Kel",
+    "kind": "Personaggi",
+    "url": "cast-613-dorven-kel.html",
+    "bytes": 10326,
+    "image_count": 0
   },
   {
     "id": "LOC-014",
@@ -2772,7 +2804,7 @@
     "title": "Edran Vael: antichi compagni",
     "kind": "Approfondimenti",
     "url": "doc-80-legami-antichi-che-ricordi.html",
-    "bytes": 17868,
+    "bytes": 32514,
     "image_count": 0
   },
   {
@@ -3012,7 +3044,7 @@
     "title": "Erath Pell",
     "kind": "Personaggi",
     "url": "cast-039-erath-pell.html",
-    "bytes": 16787,
+    "bytes": 17625,
     "image_count": 2
   },
   {
@@ -3086,6 +3118,14 @@
     "url": "loc-040-eshar.html",
     "bytes": 10811,
     "image_count": 2
+  },
+  {
+    "id": "CAST-591",
+    "title": "Eshara Venn",
+    "kind": "Personaggi",
+    "url": "cast-591-eshara-venn.html",
+    "bytes": 12353,
+    "image_count": 1
   },
   {
     "id": "CAST-083",
@@ -3828,7 +3868,7 @@
     "title": "Helyr Ossen",
     "kind": "Personaggi",
     "url": "cast-011-helyr-ossen.html",
-    "bytes": 29186,
+    "bytes": 30059,
     "image_count": 4
   },
   {
@@ -3984,6 +4024,14 @@
     "image_count": 1
   },
   {
+    "id": "FOLLOWERS-372",
+    "title": "Il seguito di Edran e la liberazione",
+    "kind": "Storia",
+    "url": "compagni-liberazione-edran.html",
+    "bytes": 20675,
+    "image_count": 0
+  },
+  {
     "id": "CAST-154",
     "title": "Ilar Arven",
     "kind": "Personaggi",
@@ -4056,6 +4104,14 @@
     "image_count": 2
   },
   {
+    "id": "CAST-612",
+    "title": "Ilsera Vann",
+    "kind": "Personaggi",
+    "url": "cast-612-ilsera-vann.html",
+    "bytes": 10298,
+    "image_count": 0
+  },
+  {
     "id": "PEO-02",
     "title": "Ilyr",
     "kind": "Popoli",
@@ -4076,7 +4132,7 @@
     "title": "Ilyra Sen",
     "kind": "Personaggi",
     "url": "cast-014-ilyra-sen.html",
-    "bytes": 20129,
+    "bytes": 21178,
     "image_count": 4
   },
   {
@@ -4100,7 +4156,7 @@
     "title": "Indice generale A–Z",
     "kind": "Indici",
     "url": "indice-generale.html",
-    "bytes": 126103,
+    "bytes": 128607,
     "image_count": 0
   },
   {
@@ -4365,6 +4421,14 @@
     "kind": "Personaggi",
     "url": "cast-564-isolde-seravel.html",
     "bytes": 9681,
+    "image_count": 1
+  },
+  {
+    "id": "CAST-594",
+    "title": "Ithren Qor",
+    "kind": "Personaggi",
+    "url": "cast-594-ithren-qor.html",
+    "bytes": 12204,
     "image_count": 1
   },
   {
@@ -4648,6 +4712,30 @@
     "image_count": 3
   },
   {
+    "id": "CAST-615",
+    "title": "Kethra Senn",
+    "kind": "Personaggi",
+    "url": "cast-615-kethra-senn.html",
+    "bytes": 10180,
+    "image_count": 0
+  },
+  {
+    "id": "CAST-604",
+    "title": "Khadren Oss",
+    "kind": "Personaggi",
+    "url": "cast-604-khadren-oss.html",
+    "bytes": 10277,
+    "image_count": 0
+  },
+  {
+    "id": "CAST-593",
+    "title": "Kheros Daal",
+    "kind": "Personaggi",
+    "url": "cast-593-kheros-daal.html",
+    "bytes": 12085,
+    "image_count": 1
+  },
+  {
     "id": "BST-026",
     "title": "Kiln Hound",
     "kind": "Bestiario",
@@ -4854,6 +4942,14 @@
     "url": "doc-28-le-otto-integrazioni-cosmiche.html",
     "bytes": 47388,
     "image_count": 0
+  },
+  {
+    "id": "SIGNORIE-372",
+    "title": "Le Signorie: potenze, avversari e liberazione",
+    "kind": "Storia",
+    "url": "signorie-volti-e-liberazione.html",
+    "bytes": 49883,
+    "image_count": 6
   },
   {
     "id": "CAT-le-ventitre-effigi",
@@ -5204,7 +5300,7 @@
     "title": "Maerin Sol",
     "kind": "Personaggi",
     "url": "cast-036-maerin-sol.html",
-    "bytes": 13240,
+    "bytes": 14150,
     "image_count": 2
   },
   {
@@ -5440,6 +5536,14 @@
     "image_count": 2
   },
   {
+    "id": "CAST-600",
+    "title": "Maruun Sev",
+    "kind": "Personaggi",
+    "url": "cast-600-maruun-sev.html",
+    "bytes": 10363,
+    "image_count": 0
+  },
+  {
     "id": "CAST-480",
     "title": "Marwen Kael",
     "kind": "Personaggi",
@@ -5518,6 +5622,14 @@
     "url": "cast-104-maurice-verr.html",
     "bytes": 14156,
     "image_count": 2
+  },
+  {
+    "id": "CAST-611",
+    "title": "Mavren Qesh",
+    "kind": "Personaggi",
+    "url": "cast-611-mavren-qesh.html",
+    "bytes": 10331,
+    "image_count": 0
   },
   {
     "id": "EFF-20",
@@ -5900,7 +6012,7 @@
     "title": "Nava Tesh",
     "kind": "Personaggi",
     "url": "cast-041-nava-tesh.html",
-    "bytes": 17080,
+    "bytes": 17887,
     "image_count": 2
   },
   {
@@ -5926,6 +6038,14 @@
     "url": "loc-023-nelle.html",
     "bytes": 10822,
     "image_count": 2
+  },
+  {
+    "id": "CAST-608",
+    "title": "Nerak Voss",
+    "kind": "Personaggi",
+    "url": "cast-608-nerak-voss.html",
+    "bytes": 10591,
+    "image_count": 0
   },
   {
     "id": "CAST-010",
@@ -5972,7 +6092,7 @@
     "title": "Nereth Aul",
     "kind": "Personaggi",
     "url": "cast-040-nereth-aul.html",
-    "bytes": 15032,
+    "bytes": 15848,
     "image_count": 0
   },
   {
@@ -6006,6 +6126,14 @@
     "url": "cast-485-neris-vaal.html",
     "bytes": 19045,
     "image_count": 2
+  },
+  {
+    "id": "CAST-595",
+    "title": "Neris Vahl",
+    "kind": "Personaggi",
+    "url": "cast-595-neris-vahl.html",
+    "bytes": 12320,
+    "image_count": 1
   },
   {
     "id": "PEO-05",
@@ -6256,6 +6384,14 @@
     "image_count": 2
   },
   {
+    "id": "CAST-619",
+    "title": "Odran Mell",
+    "kind": "Personaggi",
+    "url": "cast-619-odran-mell.html",
+    "bytes": 10555,
+    "image_count": 0
+  },
+  {
     "id": "NET-C10-54",
     "title": "Officina dei trattamenti organici",
     "kind": "Reti locali",
@@ -6436,7 +6572,15 @@
     "title": "Origini, società e potenze antiche",
     "kind": "Approfondimenti",
     "url": "doc-95-origini-societa-e-potenze-antiche.html",
-    "bytes": 14807,
+    "bytes": 16433,
+    "image_count": 0
+  },
+  {
+    "id": "CAST-602",
+    "title": "Orrak Hesh",
+    "kind": "Personaggi",
+    "url": "cast-602-orrak-hesh.html",
+    "bytes": 10427,
     "image_count": 0
   },
   {
@@ -6552,11 +6696,19 @@
     "image_count": 2
   },
   {
+    "id": "CAST-616",
+    "title": "Ossven Taar",
+    "kind": "Personaggi",
+    "url": "cast-616-ossven-taar.html",
+    "bytes": 10395,
+    "image_count": 0
+  },
+  {
     "id": "CAST-013",
     "title": "Othrem Cal",
     "kind": "Personaggi",
     "url": "cast-013-othrem-cal.html",
-    "bytes": 20119,
+    "bytes": 21112,
     "image_count": 4
   },
   {
@@ -6588,7 +6740,7 @@
     "title": "Pagina principale",
     "kind": "Enciclopedia",
     "url": "index.html",
-    "bytes": 21350,
+    "bytes": 21823,
     "image_count": 33
   },
   {
@@ -6732,7 +6884,7 @@
     "title": "Personaggi",
     "kind": "Indici tematici",
     "url": "personaggi.html",
-    "bytes": 211901,
+    "bytes": 214382,
     "image_count": 330
   },
   {
@@ -6880,11 +7032,11 @@
     "image_count": 0
   },
   {
-    "id": "NARRATOR-371",
+    "id": "NARRATOR-372",
     "title": "Protocollo operativo del Narratore",
     "kind": "Consegna",
     "url": "protocollo-narratore.html",
-    "bytes": 30837,
+    "bytes": 32647,
     "image_count": 0
   },
   {
@@ -7184,6 +7336,14 @@
     "image_count": 2
   },
   {
+    "id": "CAST-620",
+    "title": "Rethan Ul",
+    "kind": "Personaggi",
+    "url": "cast-620-rethan-ul.html",
+    "bytes": 10486,
+    "image_count": 0
+  },
+  {
     "id": "CAST-589",
     "title": "Rethan Veyr",
     "kind": "Personaggi",
@@ -7216,6 +7376,14 @@
     "image_count": 2
   },
   {
+    "id": "CAST-610",
+    "title": "Rethis Aul",
+    "kind": "Personaggi",
+    "url": "cast-610-rethis-aul.html",
+    "bytes": 10234,
+    "image_count": 0
+  },
+  {
     "id": "DOC-110",
     "title": "Reti e tempi di viaggio",
     "kind": "Approfondimenti",
@@ -7236,7 +7404,7 @@
     "title": "Rhael Den",
     "kind": "Personaggi",
     "url": "cast-042-rhael-den.html",
-    "bytes": 15518,
+    "bytes": 16250,
     "image_count": 2
   },
   {
@@ -7540,7 +7708,7 @@
     "title": "Sael Mereth",
     "kind": "Personaggi",
     "url": "cast-025-sael-mereth.html",
-    "bytes": 21031,
+    "bytes": 21878,
     "image_count": 4
   },
   {
@@ -7548,7 +7716,7 @@
     "title": "Sairen Velis",
     "kind": "Personaggi",
     "url": "cast-007-sairen-velis.html",
-    "bytes": 22136,
+    "bytes": 23096,
     "image_count": 4
   },
   {
@@ -7582,6 +7750,14 @@
     "url": "loc-007-sarn-gate.html",
     "bytes": 12532,
     "image_count": 3
+  },
+  {
+    "id": "CAST-592",
+    "title": "Sathriel Ner",
+    "kind": "Personaggi",
+    "url": "cast-592-sathriel-ner.html",
+    "bytes": 12606,
+    "image_count": 1
   },
   {
     "id": "STATE-13",
@@ -7708,7 +7884,7 @@
     "title": "Seats, successioni e antichi compagni",
     "kind": "Approfondimenti",
     "url": "doc-98-seats-successioni-e-antichi-compagni.html",
-    "bytes": 24661,
+    "bytes": 26821,
     "image_count": 0
   },
   {
@@ -7789,6 +7965,14 @@
     "kind": "Personaggi",
     "url": "cast-460-sela-teth.html",
     "bytes": 16205,
+    "image_count": 0
+  },
+  {
+    "id": "CAST-603",
+    "title": "Selka Uren",
+    "kind": "Personaggi",
+    "url": "cast-603-selka-uren.html",
+    "bytes": 10185,
     "image_count": 0
   },
   {
@@ -7884,7 +8068,7 @@
     "title": "Sereth Daal",
     "kind": "Personaggi",
     "url": "cast-024-sereth-daal.html",
-    "bytes": 21429,
+    "bytes": 22271,
     "image_count": 4
   },
   {
@@ -7924,7 +8108,7 @@
     "title": "Sethra Il",
     "kind": "Personaggi",
     "url": "cast-044-sethra-il.html",
-    "bytes": 15054,
+    "bytes": 15882,
     "image_count": 0
   },
   {
@@ -8144,6 +8328,14 @@
     "image_count": 0
   },
   {
+    "id": "CAST-607",
+    "title": "Soreth Tal",
+    "kind": "Personaggi",
+    "url": "cast-607-soreth-tal.html",
+    "bytes": 10802,
+    "image_count": 0
+  },
+  {
     "id": "LOC-036",
     "title": "South Shoals",
     "kind": "Luoghi",
@@ -8340,7 +8532,7 @@
     "title": "Talren Soth",
     "kind": "Personaggi",
     "url": "cast-018-talren-soth.html",
-    "bytes": 27136,
+    "bytes": 28157,
     "image_count": 4
   },
   {
@@ -8461,6 +8653,14 @@
     "kind": "Approfondimenti",
     "url": "avanzamento-tempest.html",
     "bytes": 43120,
+    "image_count": 0
+  },
+  {
+    "id": "CAST-618",
+    "title": "Temra Uss",
+    "kind": "Personaggi",
+    "url": "cast-618-temra-uss.html",
+    "bytes": 10465,
     "image_count": 0
   },
   {
@@ -8588,7 +8788,15 @@
     "title": "Thalen Reth",
     "kind": "Personaggi",
     "url": "cast-043-thalen-reth.html",
-    "bytes": 14768,
+    "bytes": 15655,
+    "image_count": 0
+  },
+  {
+    "id": "CAST-596",
+    "title": "Thauren Kel",
+    "kind": "Personaggi",
+    "url": "cast-596-thauren-kel.html",
+    "bytes": 10455,
     "image_count": 0
   },
   {
@@ -10200,6 +10408,14 @@
     "image_count": 2
   },
   {
+    "id": "CAST-609",
+    "title": "Thelra Morn",
+    "kind": "Personaggi",
+    "url": "cast-609-thelra-morn.html",
+    "bytes": 10343,
+    "image_count": 0
+  },
+  {
     "id": "LOC-025",
     "title": "Thenn Pass",
     "kind": "Luoghi",
@@ -10269,6 +10485,14 @@
     "kind": "Personaggi",
     "url": "cast-394-therese-zerin.html",
     "bytes": 15608,
+    "image_count": 0
+  },
+  {
+    "id": "CAST-599",
+    "title": "Thessa Kurn",
+    "kind": "Personaggi",
+    "url": "cast-599-thessa-kurn.html",
+    "bytes": 10288,
     "image_count": 0
   },
   {
@@ -10620,7 +10844,7 @@
     "title": "Vara Oss",
     "kind": "Personaggi",
     "url": "cast-037-vara-oss.html",
-    "bytes": 15088,
+    "bytes": 15944,
     "image_count": 0
   },
   {
@@ -10712,6 +10936,14 @@
     "image_count": 2
   },
   {
+    "id": "CAST-590",
+    "title": "Vasrek Thul",
+    "kind": "Personaggi",
+    "url": "cast-590-vasrek-thul.html",
+    "bytes": 12715,
+    "image_count": 1
+  },
+  {
     "id": "LOC-003",
     "title": "Veldane",
     "kind": "Luoghi",
@@ -10734,6 +10966,14 @@
     "url": "mat-007-velis-optical-glass.html",
     "bytes": 14890,
     "image_count": 1
+  },
+  {
+    "id": "CAST-605",
+    "title": "Veltha Qir",
+    "kind": "Personaggi",
+    "url": "cast-605-veltha-qir.html",
+    "bytes": 10568,
+    "image_count": 0
   },
   {
     "id": "BST-018",
@@ -10789,6 +11029,14 @@
     "kind": "Luoghi",
     "url": "loc-065-vernay.html",
     "bytes": 8698,
+    "image_count": 0
+  },
+  {
+    "id": "CAST-597",
+    "title": "Veskar Thenn",
+    "kind": "Personaggi",
+    "url": "cast-597-veskar-thenn.html",
+    "bytes": 10537,
     "image_count": 0
   },
   {
@@ -11216,6 +11464,14 @@
     "image_count": 0
   },
   {
+    "id": "CAST-617",
+    "title": "Yrel Khor",
+    "kind": "Personaggi",
+    "url": "cast-617-yrel-khor.html",
+    "bytes": 10245,
+    "image_count": 0
+  },
+  {
     "id": "CAST-004",
     "title": "Yselle Valcienne",
     "kind": "Personaggi",
@@ -11236,8 +11492,16 @@
     "title": "Ysra Venn",
     "kind": "Personaggi",
     "url": "cast-023-ysra-venn.html",
-    "bytes": 20521,
+    "bytes": 21331,
     "image_count": 4
+  },
+  {
+    "id": "CAST-601",
+    "title": "Ysvel Dorn",
+    "kind": "Personaggi",
+    "url": "cast-601-ysvel-dorn.html",
+    "bytes": 10666,
+    "image_count": 0
   },
   {
     "id": "CAST-577",

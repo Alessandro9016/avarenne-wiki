@@ -1,8 +1,8 @@
 {
-  "versione": "371",
+  "versione": "372",
   "data": "2026-10-19",
   "fonte_unica": "23_Registro_unico_del_canone.md",
-  "sha256_fonte": "bbca9168e0f01b316da3af1528388dd7b82e3e97292302ca8cf835b7b2b8a43a",
+  "sha256_fonte": "0d022d6e1933ec228170b78a4073027e1cbf7e3b4efced692a7092f6bd912082",
   "decisioni": [
     {
       "id": "CAN-001",
@@ -2009,9 +2009,17 @@
       "versione": "326"
     }
   ],
-  "revision": 371,
-  "current_topic_register": "371_Registro_promozione_assiale.md",
+  "revision": 372,
+  "current_topic_register": "372_Registro_Signorie_e_liberazione.md",
   "operational_profiles_source": "CANONE_VIGENTE/Profili_operativi_Effigi_350.json",
   "interaction_source": "CANONE_VIGENTE/Contese_verificate_350.json",
-  "pending_work_source": null
+  "pending_work_source": null,
+  "revision_372": {
+    "seat_dates": {
+      "Ilyra Crown": "−12018",
+      "Talren Archive": "−12074"
+    },
+    "cast": 620,
+    "source": "372_Registro_Signorie_e_liberazione.md"
+  }
 }

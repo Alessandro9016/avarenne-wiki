@@ -1,0 +1,60 @@
+{
+  "revision": 372,
+  "t0": "812-05-18",
+  "fronts": [
+    {
+      "actor": "CAST-590",
+      "source": "cast-590-vasrek-thul.html",
+      "place": "Deren",
+      "current_intention": "Sta confrontando capitolati moderni con due registri di manutenzione che conserva. Vuole recuperare un diritto d’accesso tecnico e screditare la tradizione di Nereth, non sa che Edran sia tornato. Ha incaricato un intermediario di richiedere una copia, non ha già ottenuto una concessione.",
+      "resource_limit": "Teme una perizia pubblica che colleghi il suo nome moderno alle firme dei vecchi vincoli. Preferisce intimidire un venditore o comprare una copia a combattere una divinità.",
+      "recognition": "Non conosce il ritorno; nome moderno e nome antico non sono automaticamente collegati",
+      "future": "OPEN"
+    },
+    {
+      "actor": "CAST-591",
+      "source": "cast-591-eshara-venn.html",
+      "place": "Noran",
+      "current_intention": "Ha chiesto una copia pubblica dei protocolli delle uscite e sta cercando chi custodisca le note antiche di Erath. Vuole ricostruire un sistema di dipendenze più discreto. Per ora possiede soltanto il proprio alloggio e due aiutanti ordinari non nominati, liberi di andarsene.",
+      "resource_limit": "Un confronto con un testimone antico può distruggere la sua autorità morale. Evita Erath, che è più informato dei suoi metodi di qualunque medico moderno.",
+      "recognition": "Non conosce il ritorno; nome moderno e nome antico non sono automaticamente collegati",
+      "future": "OPEN"
+    },
+    {
+      "actor": "CAST-592",
+      "source": "cast-592-sathriel-ner.html",
+      "place": "Lethorne",
+      "current_intention": "Sta cercando una matrice di attribuzione appartenuta alla sua casa. Vorrebbe contestare il valore civile di una separazione storica e recuperare un deposito, non ha già fatto riconoscere schiavi i discendenti moderni.",
+      "resource_limit": "Teme che emerga la deposizione di una persona da lei trattata come supporto e che Neral consideri intollerabile la sua pretesa. Non può vincere una Seat VII tramite una causa di proprietà.",
+      "recognition": "Non conosce il ritorno; nome moderno e nome antico non sono automaticamente collegati",
+      "future": "OPEN"
+    },
+    {
+      "actor": "CAST-593",
+      "source": "cast-593-kheros-daal.html",
+      "place": "Mersa",
+      "current_intention": "Confronta vecchie misure di flusso con bollettini disponibili e tenta di localizzare un presidio di Nava attraverso richieste commerciali. Vuole sottrarle un apporto per costringerla a trattare; nessuna cattura è già avvenuta.",
+      "resource_limit": "Una contesa aperta richiamerebbe Enra o autorità locali. Non sa come tutte le alleanze moderne reagirebbero; evita attacchi che distruggano i propri accessi commerciali.",
+      "recognition": "Non conosce il ritorno; nome moderno e nome antico non sono automaticamente collegati",
+      "future": "OPEN"
+    },
+    {
+      "actor": "CAST-594",
+      "source": "cast-594-ithren-qor.html",
+      "place": "Elven",
+      "current_intention": "Ha conservato una copia incompleta delle separazioni e sta cercando un depositario indipendente. Vuole impedire il riuso di un vecchio lotto coercitivo, ma evita di esporre il proprio nome. Può diventare interlocutore o avversario secondo prove e scelte, non è redento per decreto.",
+      "resource_limit": "Teme il controllo di Othrem e l’odio fondato dei discendenti. Non conosce la ricostruzione completa della caduta; nessuna nuova complicità viene aggiunta ai fatti già fissati.",
+      "recognition": "Non conosce il ritorno; nome moderno e nome antico non sono automaticamente collegati",
+      "future": "OPEN"
+    },
+    {
+      "actor": "CAST-595",
+      "source": "cast-595-neris-vahl.html",
+      "place": "Teshen",
+      "current_intention": "Sta preparando un confronto editoriale che attribuisca alcune emancipazioni a concessioni dei signori. Possiede fonti autentiche parziali: una pubblicazione avrà successo solo se trova editori e resiste al confronto. Non può cancellare i ricordi di Edran o degli altri testimoni.",
+      "resource_limit": "Teme una copia integrale che renda evidente l’omissione degli allegati. La propria reputazione moderna è vulnerabile quanto i depositi fisici.",
+      "recognition": "Non conosce il ritorno; nome moderno e nome antico non sono automaticamente collegati",
+      "future": "OPEN"
+    }
+  ]
+}

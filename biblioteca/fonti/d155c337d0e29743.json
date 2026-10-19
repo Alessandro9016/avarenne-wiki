@@ -1,0 +1,68 @@
+{
+  "revision": 372,
+  "images": [
+    {
+      "actor": "CAST-590",
+      "source": "PROPOSTE_VISIVE/372_Signorie/Superstiti/vasrek-thul/01_ritratto.png",
+      "wiki": "assets/signorie372-cast-590.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "built_in_generation": true
+    },
+    {
+      "actor": "CAST-591",
+      "source": "PROPOSTE_VISIVE/372_Signorie/Superstiti/eshara-venn/01_ritratto.png",
+      "wiki": "assets/signorie372-cast-591.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "built_in_generation": true
+    },
+    {
+      "actor": "CAST-592",
+      "source": "PROPOSTE_VISIVE/372_Signorie/Superstiti/sathriel-ner/01_ritratto.png",
+      "wiki": "assets/signorie372-cast-592.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "built_in_generation": true
+    },
+    {
+      "actor": "CAST-593",
+      "source": "PROPOSTE_VISIVE/372_Signorie/Superstiti/kheros-daal/01_ritratto.png",
+      "wiki": "assets/signorie372-cast-593.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "built_in_generation": true
+    },
+    {
+      "actor": "CAST-594",
+      "source": "PROPOSTE_VISIVE/372_Signorie/Superstiti/ithren-qor/01_ritratto.png",
+      "wiki": "assets/signorie372-cast-594.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "built_in_generation": true
+    },
+    {
+      "actor": "CAST-595",
+      "source": "PROPOSTE_VISIVE/372_Signorie/Superstiti/neris-vahl/01_ritratto.png",
+      "wiki": "assets/signorie372-cast-595.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "built_in_generation": true
+    }
+  ],
+  "mode": "built-in image_gen",
+  "preserved_originals": true,
+  "prompt_set": "372_Prompt_ritratti_Signorie.md"
+}

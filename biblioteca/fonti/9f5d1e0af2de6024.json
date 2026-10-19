@@ -1025,7 +1025,8 @@
         "RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
         "RISERVATO_94_Cronologia_integrale_ed_ere.md",
         "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
-        "DOSSIER_FIGURE_367/CAST-007_sairen-velis.md"
+        "DOSSIER_FIGURE_367/CAST-007_sairen-velis.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -1123,6 +1124,12 @@
         "source": "DOSSIER_FIGURE_367/CAST-007_sairen-velis.md",
         "knowledge_access": "NARRATOR_RESERVED",
         "future_outcomes": "OPEN"
+      },
+      "liberation_biography_372": {
+        "entry": "Halo II, ingresso nel −12082",
+        "origin": "Sairen proveniva da un presidio dipendente dalle High Holds; la libertà degli addetti era condizionata al servizio di separazione. Una campagna del movimento rese possibile lasciare il presidio con un sostegno alternativo.",
+        "growth": "Crebbe fino a VI nella prima vita di Edran e divenne Halo VII nel −11310, dopo la caduta, come già fissato. Non era una divinità concorrente di Halo durante il Sovereign.",
+        "relationship": "Collaboratore dei presidi liberati, con un incarico tecnico. Il ruolo moderno non viene retrodatato come alleanza fra due VII."
       }
     },
     {
@@ -1628,7 +1635,8 @@
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_94_Cronologia_integrale_ed_ere.md",
         "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
-        "DOSSIER_FIGURE_367/CAST-011_helyr-ossen.md"
+        "DOSSIER_FIGURE_367/CAST-011_helyr-ossen.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -1736,6 +1744,12 @@
         "source": "DOSSIER_FIGURE_367/CAST-011_helyr-ossen.md",
         "knowledge_access": "NARRATOR_RESERVED",
         "future_outcomes": "OPEN"
+      },
+      "liberation_biography_372": {
+        "entry": "Astrolabe VII già nel −12600",
+        "origin": "Helyr era già una potenza prima della nascita di Edran. Rimane alleato esterno: non viene trasformato retroattivamente in uno schiavo che Edran avrebbe liberato prima di nascere.",
+        "growth": "Collaborò a passaggi e opere su accordi specifici, preservando accessi propri. Le altre due Seats sono successive.",
+        "relationship": "Autonomia politica reale, potenza inferiore a un Sovereign completo senza perdere la possibilità di dissentire. Non fu subordinato permanente."
       }
     },
     {
@@ -1780,7 +1794,8 @@
         "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
         "GIOCATORE_279_Althene_relazione_antica_ricordata.md",
         "RISERVATO_280_Althene_lutto_e_indagine.md",
-        "DOSSIER_FIGURE_367/CAST-012_althene-rhos.md"
+        "DOSSIER_FIGURE_367/CAST-012_althene-rhos.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -1894,6 +1909,12 @@
         "source": "DOSSIER_FIGURE_367/CAST-012_althene-rhos.md",
         "knowledge_access": "NARRATOR_RESERVED",
         "future_outcomes": "OPEN"
+      },
+      "liberation_biography_372": {
+        "entry": "Sepulchre VII già nel −12290",
+        "origin": "Althene era già una potenza prima della nascita di Edran. Le alleanze riguardarono custodia dei morti, contrasto della predazione e restituzioni possibili.",
+        "growth": "Non ricevette la Seat dal liberatore e non fu da lui creata. Il suo coinvolgimento non la rese titolare di Heart o del gruppo Sovereign.",
+        "relationship": "Alleata esterna con accordi e confini, non parità di scala cosmica con Edran completo."
       }
     },
     {
@@ -1937,7 +1958,8 @@
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
         "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
-        "DOSSIER_FIGURE_367/CAST-013_othrem-cal.md"
+        "DOSSIER_FIGURE_367/CAST-013_othrem-cal.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -2045,6 +2067,12 @@
         "source": "DOSSIER_FIGURE_367/CAST-013_othrem-cal.md",
         "knowledge_access": "NARRATOR_RESERVED",
         "future_outcomes": "OPEN"
+      },
+      "liberation_biography_372": {
+        "entry": "Seed VII già nel −12410",
+        "origin": "Othrem era una potenza delle reti anteriori a Edran e sostenne inizialmente dipendenze delle Signorie. La defezione durante le guerre fu un patto politico e tecnico, non una liberazione personale da schiavitù.",
+        "growth": "Nel −12092 accettò separazioni verificabili di alcuni lotti e collaborò alla rimozione di configurazioni ereditarie. Non tutto il suo sistema divenne libero nello stesso giorno.",
+        "relationship": "Partner esterno poi inserito nei progetti comuni con obblighi specifici. Responsabilità e atti della caduta rimangono quelli fissati, non vengono aggiunti o cancellati qui."
       }
     },
     {
@@ -2064,7 +2092,7 @@
         }
       ],
       "power_scope": "CURRENT_T0",
-      "role": "Titolare di Crown e custode di ordinamenti",
+      "role": "Crown VII, antica liberata e responsabile territoriale del movimento, oggi autonoma",
       "goal": "Impedire che un collasso di competenze distrugga diritti e servizi",
       "tension": "Un contenimento utile può divenire dominio permanente",
       "secret": "Responsabilità antica fissata in 97; non controlla la memoria di tutti i cittadini",
@@ -2092,7 +2120,8 @@
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
         "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
-        "DOSSIER_FIGURE_367/CAST-014_ilyra-sen.md"
+        "DOSSIER_FIGURE_367/CAST-014_ilyra-sen.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -2200,6 +2229,12 @@
         "source": "DOSSIER_FIGURE_367/CAST-014_ilyra-sen.md",
         "knowledge_access": "NARRATOR_RESERVED",
         "future_outcomes": "OPEN"
+      },
+      "liberation_biography_372": {
+        "entry": "Crown III, liberata nel −12130",
+        "origin": "Ilyra era un’amministratrice umana obbligata a esercitare competenze per conto delle High Holds. Non possedeva ancora Crown VII. Il movimento separò persone e funzioni dalla giurisdizione che le imponeva servizio.",
+        "growth": "Cresciuta nel movimento fino a VI, contese Thauren Kel e incorporò Crown VII nel −12018. La data precedente −12320 è ritirata. Edran rese praticabili separazioni e difesa, non le donò una Seat già sua.",
+        "relationship": "Responsabile delle competenze territoriali nella liberazione, poi potenza con autonomia crescente. Il dissenso successivo non cancella il rapporto iniziale o la superiorità assiale di Edran."
       }
     },
     {
@@ -2247,7 +2282,8 @@
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_94_Cronologia_integrale_ed_ere.md",
         "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
-        "DOSSIER_FIGURE_367/CAST-015_deyran-ur.md"
+        "DOSSIER_FIGURE_367/CAST-015_deyran-ur.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -2345,6 +2381,12 @@
         "source": "DOSSIER_FIGURE_367/CAST-015_deyran-ur.md",
         "knowledge_access": "NARRATOR_RESERVED",
         "future_outcomes": "OPEN"
+      },
+      "liberation_biography_372": {
+        "entry": "Chain III, liberato nel −12136",
+        "origin": "Deyran era un praticante obbligato a mantenere dipendenze che gravavano anche sulla propria comunità. Water Truce e sostegni alternativi permisero l’uscita dal sistema.",
+        "growth": "Divenne VI e responsabile delle separazioni di vincoli; VII soltanto molto dopo la caduta, nel −5650, come già fissato.",
+        "relationship": "Collaboratore con incarico operativo e autonomia tecnica dentro la liberazione. La gratitudine non autorizzava Edran a possederlo."
       }
     },
     {
@@ -2658,7 +2700,7 @@
         }
       ],
       "power_scope": "CURRENT_T0",
-      "role": "Divinità plurima del gruppo Witness, antico interlocutore",
+      "role": "Divinità plurima Witness incompleto, antico liberato e custode delle attestazioni del movimento",
       "goal": "Mantenere attestazioni verificabili senza ridursi al notaio dei potenti",
       "tension": "Il proprio prestigio dipende anche da ciò che non fu attestato nella caduta",
       "secret": "Le registrazioni antiche sono autentiche ma parziali; non attestano il Refuge",
@@ -2686,7 +2728,8 @@
         "RISERVATO_131_Religioni_patrocini_e_verita.md",
         "RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
         "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
-        "DOSSIER_FIGURE_367/CAST-018_talren-soth.md"
+        "DOSSIER_FIGURE_367/CAST-018_talren-soth.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -2799,6 +2842,12 @@
         "source": "DOSSIER_FIGURE_367/CAST-018_talren-soth.md",
         "knowledge_access": "NARRATOR_RESERVED",
         "future_outcomes": "OPEN"
+      },
+      "liberation_biography_372": {
+        "entry": "Archive II, liberato nel −12157",
+        "origin": "Talren era un archivista umano soggetto a un servizio di discendenza: non poteva uscire dal deposito o scegliere a chi mostrare gli atti. I primi rifugi e le produzioni autonome del movimento resero sostenibile la fuga.",
+        "growth": "Cresciuto fino a VI, contese Veskar Thenn e incorporò Archive VII nel −12074. La data precedente −12270 è ritirata. Oracle VII rimane acquisita soltanto nel −5780.",
+        "relationship": "Custode delle attestazioni del movimento e incaricato di grandi progetti, non alleato occasionale già divino. La responsabilità tecnica rimane personale anche sotto il coordinamento di Edran."
       }
     },
     {
@@ -3437,7 +3486,8 @@
       "sources": [
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
         "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
-        "DOSSIER_FIGURE_367/CAST-023_ysra-venn.md"
+        "DOSSIER_FIGURE_367/CAST-023_ysra-venn.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -3538,6 +3588,12 @@
         "source": "DOSSIER_FIGURE_367/CAST-023_ysra-venn.md",
         "knowledge_access": "NARRATOR_RESERVED",
         "future_outcomes": "OPEN"
+      },
+      "liberation_biography_372": {
+        "entry": "Heart II, liberata nel −12152",
+        "origin": "Ysra era una guaritrice Serekh vincolata a un servizio che le impediva di lasciare i pazienti. La liberazione fornì sostegni sostitutivi invece di abbandonarli.",
+        "growth": "Cresciuta fino a VI, guidò reti mediche e verifiche personali. Non ricevette la Seat Heart di Edran né una seconda anima.",
+        "relationship": "Compagna con responsabilità medica: obbedienza di incarico e dissenso clinico erano distinti."
       }
     },
     {
@@ -3584,7 +3640,8 @@
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
         "RISERVATO_84_Caduta_continuita_ritorno_e_Seats.md",
         "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
-        "DOSSIER_FIGURE_367/CAST-024_sereth-daal.md"
+        "DOSSIER_FIGURE_367/CAST-024_sereth-daal.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -3688,6 +3745,12 @@
         "source": "DOSSIER_FIGURE_367/CAST-024_sereth-daal.md",
         "knowledge_access": "NARRATOR_RESERVED",
         "future_outcomes": "OPEN"
+      },
+      "liberation_biography_372": {
+        "entry": "Astrolabe IV, incarico comune nel −12058",
+        "origin": "Sereth proveniva da una rete di custodi legata a Helyr. Non era un altro VII né un sovrano pari a Edran.",
+        "growth": "Raggiunse VI e ricevette incarichi sui corridoi. La disponibilità di un mezzo superiore non lo rese personalmente superiore al Sovereign.",
+        "relationship": "Collaboratore delegato attraverso Helyr, con responsabilità operative concrete. L’incarico non comporta conoscenza universale o innocenza automatica."
       }
     },
     {
@@ -3733,7 +3796,8 @@
       "sources": [
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
         "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
-        "DOSSIER_FIGURE_367/CAST-025_sael-mereth.md"
+        "DOSSIER_FIGURE_367/CAST-025_sael-mereth.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -3833,6 +3897,12 @@
         "source": "DOSSIER_FIGURE_367/CAST-025_sael-mereth.md",
         "knowledge_access": "NARRATOR_RESERVED",
         "future_outcomes": "OPEN"
+      },
+      "liberation_biography_372": {
+        "entry": "Oracle III, ingresso nel −12131",
+        "origin": "Sael era uno studioso umano con mobilità e accesso ai materiali subordinati a un servizio ereditario. La rete libera gli fornì un laboratorio e la possibilità di rifiutare il vecchio incarico.",
+        "growth": "Raggiunse VI e guidò verifiche teoriche; corresse anche Edran quando le prove non sostenevano un modello.",
+        "relationship": "Studioso del movimento con autorità tecnica, non divinità equivalente o fonte esterna del First Testament."
       }
     },
     {
@@ -5314,7 +5384,8 @@
       "sources": [
         "GIOCATORE_78_Prima_vita_e_ricordi_consolidati.md",
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -5369,7 +5440,13 @@
       "biological_population": "Umano",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "liberation_biography_372": {
+        "entry": "Ordinaria, incontrata nel −12088",
+        "origin": "Maerin era un’artigiana umana soggetta a trasferimenti di officina. Una rete del movimento rese possibile la sua uscita; non nacque libera protetta da un contratto fra dei.",
+        "growth": "Organizzò laboratori e rifornimenti per ulteriori fughe senza acquisire un’Effige. Il rapporto affettivo maturò fra persone adulte, non come ricompensa per il salvataggio.",
+        "relationship": "Compagna personale e organizzatrice civile. Poteva opporsi a una requisizione senza essere una potenza cosmica pari a Edran."
+      }
     },
     {
       "id": "CAST-037",
@@ -5409,7 +5486,8 @@
       ],
       "sources": [
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -5471,7 +5549,13 @@
       "biological_population": "Umano",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "liberation_biography_372": {
+        "entry": "Banner II, ingresso nel −12144",
+        "origin": "Vara proveniva da una comunità umana di frontiera sottoposta a reclutamento e razioni vincolate. Entrò nella liberazione quando il suo reparto poté uscire da quell’obbligo.",
+        "growth": "Cresciuta fino a V durante le guerre, assunse comando militare nel movimento, con mandato e obbligo di proteggere evacuazioni.",
+        "relationship": "Comandante della liberazione, non sovrana alleata esterna; i reparti conservavano diritto di scioglimento dopo il mandato."
+      }
     },
     {
       "id": "CAST-038",
@@ -5511,7 +5595,8 @@
       ],
       "sources": [
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -5572,7 +5657,13 @@
       "biological_population": "Kethari",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "liberation_biography_372": {
+        "entry": "Coin II, ingresso nel −12125",
+        "origin": "Ceth, Kethari, era soggetta a debiti di prestazione trasmessi in una rete di fornitura. La separazione delle quote d’aria e nuovi apporti resero possibile il suo riscatto senza cedere la generazione successiva.",
+        "growth": "Raggiunse IV e amministrò scambi della liberazione. La sua lunga vita restò sostenuta da corpo semidivino e cure, non da un rango angelico retroattivo.",
+        "relationship": "Responsabile di rifornimenti sottoposta a un mandato concordato; non tesoriera proprietaria di ogni raccolto né vassalla perpetua."
+      }
     },
     {
       "id": "CAST-039",
@@ -5612,7 +5703,8 @@
       ],
       "sources": [
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -5679,7 +5771,13 @@
           "id": "ART-078",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "liberation_biography_372": {
+        "entry": "Halo III, uscita nel −12119",
+        "origin": "Erath era impiegato come purificatore in un presidio che subordinava libertà personale e permanenza dei familiari al servizio. Le fughe protette dal movimento permisero di rompere il ricatto.",
+        "growth": "Raggiunse VI e divenne custode delle separazioni, con autonomia sul giudizio tecnico.",
+        "relationship": "Incaricato fidato della liberazione; non pontefice alla pari del Sovereign, pur potendo rifiutare una falsa accusa d’impurità."
+      }
     },
     {
       "id": "CAST-040",
@@ -5719,7 +5817,8 @@
       ],
       "sources": [
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -5781,7 +5880,13 @@
       "biological_population": "Ossari",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "liberation_biography_372": {
+        "entry": "Crucible II, liberato nel −12103",
+        "origin": "Nereth era un artigiano Ossari soggetto a prestazioni di cava plurisecolari. Una rete di officine libere sostenuta da Edran rese praticabile l’uscita.",
+        "growth": "Raggiunse V e progettò componenti delle opere. Il sapere tecnico non fu semplicemente copiato dalla mente di Edran.",
+        "relationship": "Artefice incaricato nel progetto di emancipazione; competenza propria dentro una marcata asimmetria di potenza."
+      }
     },
     {
       "id": "CAST-041",
@@ -5821,7 +5926,8 @@
       ],
       "sources": [
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -5888,7 +5994,13 @@
           "id": "ART-011",
           "relation": "Referente nella rete di custodia; vedere luogo, accesso e qualifiche effettive nella scheda. Non dotazione personale implicita."
         }
-      ]
+      ],
+      "liberation_biography_372": {
+        "entry": "Tempest III, ingresso nel −12136",
+        "origin": "Nava proveniva da addetti Serekh alle chiuse con obblighi ereditari. Sostegni e passaggi negoziati nella Water Truce permisero la sua uscita e quella di altri.",
+        "growth": "Divenne VI, responsabile di flussi ed evacuazioni marittime, combattendo apparati che conosceva dall’interno.",
+        "relationship": "Comandante tecnica del movimento; non una sovrana che si alleò soltanto per un interesse commerciale."
+      }
     },
     {
       "id": "CAST-042",
@@ -5928,7 +6040,8 @@
       ],
       "sources": [
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -5990,7 +6103,13 @@
       "biological_population": "Umano",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "liberation_biography_372": {
+        "entry": "Loom III, alleanza nel −12102",
+        "origin": "Rhael proveniva da comunità di rifugio già autonome, non da una Signoria proprietaria. Scelse la coalizione per difendere alternative praticabili.",
+        "growth": "Cresciuto fino a VI, sostenne pianificazione e vie alternative.",
+        "relationship": "Collaboratore volontario con mandato, non schiavo liberato per uniformare ogni biografia."
+      }
     },
     {
       "id": "CAST-043",
@@ -6030,7 +6149,8 @@
       ],
       "sources": [
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -6092,7 +6212,13 @@
       "biological_population": "Umano",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "liberation_biography_372": {
+        "entry": "Mask II, liberato nel −12106",
+        "origin": "Thalen era un umano assegnato come interprete e sostituto di rappresentanza a una casa di continuità. La fuga fu preparata da persone del movimento e resa sostenibile dai rifugi.",
+        "growth": "Raggiunse IV, svolse diplomazia e infiltrazione; non fu promosso ad angelo per allungargli la vita. La sua sopravvivenza storica seguì corpo semidivino e sostegni medici.",
+        "relationship": "Delegato della liberazione con compiti revocabili, non volto che Edran potesse indossare come proprio."
+      }
     },
     {
       "id": "CAST-044",
@@ -6132,7 +6258,8 @@
       ],
       "sources": [
         "GIOCATORE_80_Legami_antichi_che_ricordi.md",
-        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md"
+        "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
       ],
       "limits": "Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.",
       "inventory": {
@@ -6194,7 +6321,13 @@
       "biological_population": "Nethri",
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "liberation_biography_372": {
+        "entry": "Labyrinth II, liberata nel −12097",
+        "origin": "Sethra era una persona Nethri rivendicata come prodotto di una casa. Il movimento verificò la sua continuità autonoma e rese possibile la separazione dai supporti coercitivi.",
+        "growth": "Divenne IV e organizzò incontri interiori e cura esperienziale; le successive vite assistite non la resero VI.",
+        "relationship": "Collaboratrice con responsabilità e diritti propri; il liberatore non subentrò come nuovo proprietario."
+      }
     },
     {
       "id": "CAST-045",
@@ -59835,6 +59968,2405 @@
       },
       "personal_habit_366": "Ripara giocattoli meccanici per il piacere di vederli funzionare; non ogni oggetto diventa un regalo al gruppo. Cerca ambienti umidi durante i periodi di rinnovamento corporeo e deve poter sospendere il servizio per settimane senza perdere la propria dignità. Ama cibi speziati e balli lenti, dove la precisione del gesto conta meno della fiducia. Non parla sempre con voce da comandante.",
       "future_development_source": "DOSSIER_EXCHANGE_366/CAST-589_rethan-veyr.md"
+    },
+    {
+      "id": "CAST-590",
+      "name": "Vasrek Thul",
+      "age_or_condition": "Continuità angelica risalente alle Signorie; età biologica non equivalente all’apparenza",
+      "place": "Deren",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Crucible",
+          "stage": 6,
+          "stage_title": "Philosopher",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Ex signore dei crogioli e amministratore delle officine vincolate",
+      "goal": "Sta confrontando capitolati moderni con due registri di manutenzione che conserva. Vuole recuperare un diritto d’accesso tecnico e screditare la tradizione di Nereth, non sa che Edran sia tornato. Ha incaricato un intermediario di richiedere una copia, non ha già ottenuto una concessione.",
+      "tension": "Teme una perizia pubblica che colleghi il suo nome moderno alle firme dei vecchi vincoli. Preferisce intimidire un venditore o comprare una copia a combattere una divinità.",
+      "secret": "Al T0 usa il nome civile Varlen Thul, consulente privato di leghe e restauri a Deren. Alcuni periti conoscono il consulente, non il precedente signore. Un procuratore ordinario tratta i contratti; non esiste una società planetaria sotto il suo controllo. La costituzione angelica VI ha mantenuto la stessa persona attraverso riparazioni e sostituzioni corporee documentabili. Nessuna reincarnazione, anima duplicata o Seat segreta. Periodi di isolamento e perdita di laboratori spiegano un potere discontinuo, non dodicimila anni di governo immutato.",
+      "voice": "Parla come un conservatore di opere, corregge la qualità di una lega prima di rispondere a un’accusa. Considera l’autonomia concessa agli apprendisti uno spreco di continuità. Non crede di avere inventato ogni tecnica di Crucible.",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [
+        "Al T0 usa il nome civile Varlen Thul"
+      ],
+      "relations": [
+        {
+          "target": "CAST-040",
+          "kind": "Antagonista personale e professionale di Nereth Aul; la morte successiva di Nereth non fu causata da Vasrek."
+        },
+        {
+          "target": "CAST-593",
+          "kind": "Possibile interlocuzione fra superstiti tramite un recapito conservato; non incontro recente già avvenuto e non conoscenza reciproca di ogni piano."
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Una sola Effige VI, nessuna Seat o integrazione completa. Teme una perizia pubblica che colleghi il suo nome moderno alle firme dei vecchi vincoli. Preferisce intimidire un venditore o comprare una copia a combattere una divinità.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Crucible",
+            "stage": 6,
+            "stage_title": "Philosopher",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "ordinary_resources": "Al T0 usa il nome civile Varlen Thul, consulente privato di leghe e restauri a Deren. Alcuni periti conoscono il consulente, non il precedente signore. Un procuratore ordinario tratta i contratti; non esiste una società planetaria sotto il suo controllo.",
+        "power_scope": "CURRENT_T0"
+      },
+      "current": "Sta confrontando capitolati moderni con due registri di manutenzione che conserva. Vuole recuperare un diritto d’accesso tecnico e screditare la tradizione di Nereth, non sa che Edran sia tornato. Ha incaricato un intermediario di richiedere una copia, non ha già ottenuto una concessione.",
+      "document": "CAST-590.md",
+      "biography_complement": "Fu Crucible VII fino al −13420: Ashal Ven gli sottrasse la pienezza in una contesa, lasciandogli una continuità VI. Non fu un secondo VII contemporaneo ad Ashal. Durante le guerre di Edran controllava manifatture e crediti di manutenzione delle Quarry Leagues. Nel −12083 Nereth Aul separò gli apporti dei suoi forni e Edran distrusse i raccordi coercitivi raggiunti. Vasrek abbandonò gli impianti con una parte dei registri; Edran ne verificò la fuga, non la morte.",
+      "specific_fear": "Teme una perizia pubblica che colleghi il suo nome moderno alle firme dei vecchi vincoli. Preferisce intimidire un venditore o comprare una copia a combattere una divinità.",
+      "biological_population": "Ossari",
+      "historical_372": {
+        "id": 590,
+        "name": "Vasrek Thul",
+        "population": "Ossari",
+        "effigy": "Crucible",
+        "stage": 6,
+        "place": "Deren",
+        "role": "Ex signore dei crogioli e amministratore delle officine vincolate",
+        "old": "Fu Crucible VII fino al −13420: Ashal Ven gli sottrasse la pienezza in una contesa, lasciandogli una continuità VI. Non fu un secondo VII contemporaneo ad Ashal. Durante le guerre di Edran controllava manifatture e crediti di manutenzione delle Quarry Leagues.",
+        "encounter": "Nel −12083 Nereth Aul separò gli apporti dei suoi forni e Edran distrusse i raccordi coercitivi raggiunti. Vasrek abbandonò gli impianti con una parte dei registri; Edran ne verificò la fuga, non la morte.",
+        "harm": "Faceva incorporare strumenti di lavoro nei contratti di manutenzione: cessare il servizio significava perdere un apporto indispensabile. La coercizione riguardava rapporti concreti, non tutti gli Ossari.",
+        "personality": "Parla come un conservatore di opere, corregge la qualità di una lega prima di rispondere a un’accusa. Considera l’autonomia concessa agli apprendisti uno spreco di continuità. Non crede di avere inventato ogni tecnica di Crucible.",
+        "survival": "La costituzione angelica VI ha mantenuto la stessa persona attraverso riparazioni e sostituzioni corporee documentabili. Nessuna reincarnazione, anima duplicata o Seat segreta. Periodi di isolamento e perdita di laboratori spiegano un potere discontinuo, non dodicimila anni di governo immutato.",
+        "cover": "Al T0 usa il nome civile Varlen Thul, consulente privato di leghe e restauri a Deren. Alcuni periti conoscono il consulente, non il precedente signore. Un procuratore ordinario tratta i contratti; non esiste una società planetaria sotto il suo controllo.",
+        "plan": "Sta confrontando capitolati moderni con due registri di manutenzione che conserva. Vuole recuperare un diritto d’accesso tecnico e screditare la tradizione di Nereth, non sa che Edran sia tornato. Ha incaricato un intermediario di richiedere una copia, non ha già ottenuto una concessione.",
+        "fear": "Teme una perizia pubblica che colleghi il suo nome moderno alle firme dei vecchi vincoli. Preferisce intimidire un venditore o comprare una copia a combattere una divinità.",
+        "evidence": "Un marchio di cassa a tre giunti e una tavola di distribuzione conservata in copia negli archivi delle opere; i metalli possono essere riutilizzati, dunque il marchio da solo non identifica la persona.",
+        "target": "CAST-040",
+        "relation": "Antagonista personale e professionale di Nereth Aul; la morte successiva di Nereth non fu causata da Vasrek.",
+        "ally": 593
+      },
+      "hooks": [
+        "Reperto con firma antica confrontabile",
+        "Richiesta moderna specificata nell’agenda"
+      ],
+      "pressure": "Latente, nessuna scadenza inventata",
+      "impact": "Moderato locale, significativo se accessi investiti contesi",
+      "evolution_without_pc": "Sta confrontando capitolati moderni con due registri di manutenzione che conserva. Vuole recuperare un diritto d’accesso tecnico e screditare la tradizione di Nereth, non sa che Edran sia tornato. Ha incaricato un intermediario di richiedere una copia, non ha già ottenuto una concessione."
+    },
+    {
+      "id": "CAST-591",
+      "name": "Eshara Venn",
+      "age_or_condition": "Continuità angelica risalente alle Signorie; età biologica non equivalente all’apparenza",
+      "place": "Noran",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Eclipse",
+          "stage": 6,
+          "stage_title": "Night Exarch",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Custode delle stanze di rinnovo chiuse delle High Holds",
+      "goal": "Ha chiesto una copia pubblica dei protocolli delle uscite e sta cercando chi custodisca le note antiche di Erath. Vuole ricostruire un sistema di dipendenze più discreto. Per ora possiede soltanto il proprio alloggio e due aiutanti ordinari non nominati, liberi di andarsene.",
+      "tension": "Un confronto con un testimone antico può distruggere la sua autorità morale. Evita Erath, che è più informato dei suoi metodi di qualunque medico moderno.",
+      "secret": "Si presenta come Esha Vern, patrocinatrice di un piccolo ricovero di Noran. Non dirige la rete funeraria, non sostituisce CAST-177 e non è alleata automatica di Varessa. Nessun ricovero preesistente viene dichiarato suo senza una nuova contesa. Continuità angelica VI mantenuta attraverso quiescenze e rinnovi assistiti. Il riposo limita attività e acquisizione di notizie; non produce nuovi corpi-avatar. Il suo personale moderno non è una dinastia di servi identici.",
+      "voice": "Paziente, cortese, ossessionata dal sonno altrui; chiama protezione una porta che soltanto lei può aprire. Può difendere sinceramente un ricovero da un’aggressione e rifiutare comunque autonomia agli ospiti.",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [
+        "Si presenta come Esha Vern"
+      ],
+      "relations": [
+        {
+          "target": "CAST-039",
+          "kind": "Ex custode combattuta da Erath; cerca notizie su di lui senza sapere dove trascorra ogni turno."
+        },
+        {
+          "target": "CAST-595",
+          "kind": "Possibile interlocuzione fra superstiti tramite un recapito conservato; non incontro recente già avvenuto e non conoscenza reciproca di ogni piano."
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Una sola Effige VI, nessuna Seat o integrazione completa. Un confronto con un testimone antico può distruggere la sua autorità morale. Evita Erath, che è più informato dei suoi metodi di qualunque medico moderno.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Eclipse",
+            "stage": 6,
+            "stage_title": "Night Exarch",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "ordinary_resources": "Si presenta come Esha Vern, patrocinatrice di un piccolo ricovero di Noran. Non dirige la rete funeraria, non sostituisce CAST-177 e non è alleata automatica di Varessa. Nessun ricovero preesistente viene dichiarato suo senza una nuova contesa.",
+        "power_scope": "CURRENT_T0"
+      },
+      "current": "Ha chiesto una copia pubblica dei protocolli delle uscite e sta cercando chi custodisca le note antiche di Erath. Vuole ricostruire un sistema di dipendenze più discreto. Per ora possiede soltanto il proprio alloggio e due aiutanti ordinari non nominati, liberi di andarsene.",
+      "document": "CAST-591.md",
+      "biography_complement": "Eclipse VI durante le guerre; amministrava uscite, oscuramento e turni di riposo imposti. Non era la divinità di Eclipse e non possedeva una derivazione completa del Basin. Nel −12061 Erath Pell e Vara liberarono un dormitorio mentre Edran manteneva un’alternativa materiale ai sostegni revocati. Eshara cedette due accessi per ottenere una ritirata vigilata, poi lasciò il territorio. Edran ricorda l’accordo e la sua responsabilità, non una conversione sincera.",
+      "specific_fear": "Un confronto con un testimone antico può distruggere la sua autorità morale. Evita Erath, che è più informato dei suoi metodi di qualunque medico moderno.",
+      "biological_population": "Ilyr",
+      "historical_372": {
+        "id": 591,
+        "name": "Eshara Venn",
+        "population": "Ilyr",
+        "effigy": "Eclipse",
+        "stage": 6,
+        "place": "Noran",
+        "role": "Custode delle stanze di rinnovo chiuse delle High Holds",
+        "old": "Eclipse VI durante le guerre; amministrava uscite, oscuramento e turni di riposo imposti. Non era la divinità di Eclipse e non possedeva una derivazione completa del Basin.",
+        "encounter": "Nel −12061 Erath Pell e Vara liberarono un dormitorio mentre Edran manteneva un’alternativa materiale ai sostegni revocati. Eshara cedette due accessi per ottenere una ritirata vigilata, poi lasciò il territorio. Edran ricorda l’accordo e la sua responsabilità, non una conversione sincera.",
+        "harm": "Trasformava stanze necessarie al rinnovo Ilyr in luoghi di clausura, subordinando nutrimento e apertura al servizio di famiglia. Altri Ilyr vi erano prigionieri; l’oppressione non era una prerogativa biologica.",
+        "personality": "Paziente, cortese, ossessionata dal sonno altrui; chiama protezione una porta che soltanto lei può aprire. Può difendere sinceramente un ricovero da un’aggressione e rifiutare comunque autonomia agli ospiti.",
+        "survival": "Continuità angelica VI mantenuta attraverso quiescenze e rinnovi assistiti. Il riposo limita attività e acquisizione di notizie; non produce nuovi corpi-avatar. Il suo personale moderno non è una dinastia di servi identici.",
+        "cover": "Si presenta come Esha Vern, patrocinatrice di un piccolo ricovero di Noran. Non dirige la rete funeraria, non sostituisce CAST-177 e non è alleata automatica di Varessa. Nessun ricovero preesistente viene dichiarato suo senza una nuova contesa.",
+        "plan": "Ha chiesto una copia pubblica dei protocolli delle uscite e sta cercando chi custodisca le note antiche di Erath. Vuole ricostruire un sistema di dipendenze più discreto. Per ora possiede soltanto il proprio alloggio e due aiutanti ordinari non nominati, liberi di andarsene.",
+        "fear": "Un confronto con un testimone antico può distruggere la sua autorità morale. Evita Erath, che è più informato dei suoi metodi di qualunque medico moderno.",
+        "evidence": "Tavolette dei turni con due scale di apertura e una memoria personale di Erath; le tavolette provano procedure, non l’ubicazione moderna.",
+        "target": "CAST-039",
+        "relation": "Ex custode combattuta da Erath; cerca notizie su di lui senza sapere dove trascorra ogni turno.",
+        "ally": 595
+      },
+      "hooks": [
+        "Reperto con firma antica confrontabile",
+        "Richiesta moderna specificata nell’agenda"
+      ],
+      "pressure": "Latente, nessuna scadenza inventata",
+      "impact": "Moderato locale, significativo se accessi investiti contesi",
+      "evolution_without_pc": "Ha chiesto una copia pubblica dei protocolli delle uscite e sta cercando chi custodisca le note antiche di Erath. Vuole ricostruire un sistema di dipendenze più discreto. Per ora possiede soltanto il proprio alloggio e due aiutanti ordinari non nominati, liberi di andarsene."
+    },
+    {
+      "id": "CAST-592",
+      "name": "Sathriel Ner",
+      "age_or_condition": "Continuità angelica risalente alle Signorie; età biologica non equivalente all’apparenza",
+      "place": "Lethorne",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Mask",
+          "stage": 6,
+          "stage_title": "Chorus",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Proprietaria rivendicata di rappresentazioni rese persone nelle Continuity Houses",
+      "goal": "Sta cercando una matrice di attribuzione appartenuta alla sua casa. Vorrebbe contestare il valore civile di una separazione storica e recuperare un deposito, non ha già fatto riconoscere schiavi i discendenti moderni.",
+      "tension": "Teme che emerga la deposizione di una persona da lei trattata come supporto e che Neral consideri intollerabile la sua pretesa. Non può vincere una Seat VII tramite una causa di proprietà.",
+      "secret": "Usa Satra Nerin, restauratrice di costumi e consulente di scena a Lethorne. Non controlla la cooperativa di Clara né The Unbound Exchange; non conosce Elias o Alexander come identità divine. Continuità angelica attraverso rappresentazioni realmente investite di Mask e un centro superstite. La scheda non concede copie infinite: perdere supporti riduce esercizio e ricordi accessibili. Non incorporò Inner Vast o una seconda Effige.",
+      "voice": "Accogliente, capace di ricordare il nome degli artigiani e di trattare un volto come un’opera posseduta. Il suo gusto estetico è autentico; la gentilezza non cancella la coercizione.",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [
+        "Usa Satra Nerin"
+      ],
+      "relations": [
+        {
+          "target": "CAST-044",
+          "kind": "Avversaria della separazione sostenuta da Sethra e Thalen; non è responsabile delle loro morti successive."
+        },
+        {
+          "target": "CAST-591",
+          "kind": "Possibile interlocuzione fra superstiti tramite un recapito conservato; non incontro recente già avvenuto e non conoscenza reciproca di ogni piano."
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Una sola Effige VI, nessuna Seat o integrazione completa. Teme che emerga la deposizione di una persona da lei trattata come supporto e che Neral consideri intollerabile la sua pretesa. Non può vincere una Seat VII tramite una causa di proprietà.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Mask",
+            "stage": 6,
+            "stage_title": "Chorus",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "ordinary_resources": "Usa Satra Nerin, restauratrice di costumi e consulente di scena a Lethorne. Non controlla la cooperativa di Clara né The Unbound Exchange; non conosce Elias o Alexander come identità divine.",
+        "power_scope": "CURRENT_T0"
+      },
+      "current": "Sta cercando una matrice di attribuzione appartenuta alla sua casa. Vorrebbe contestare il valore civile di una separazione storica e recuperare un deposito, non ha già fatto riconoscere schiavi i discendenti moderni.",
+      "document": "CAST-592.md",
+      "biography_complement": "Mask VI; impiegava rappresentazioni operative e atti di attribuzione per presentare come beni persone corporeamente indipendenti. Non creava per ciò solo ogni Nethri né possedeva Labyrinth. Nel −12047 Sethra Il e Thalen Reth dimostrarono che alcuni dipendenti avevano continuità proprie. Edran separò supporti coercitivi e persone senza annullarle. Sathriel accettò una resa patrimoniale e conservò la propria persona VI; non fu perdonata da ogni vittima.",
+      "specific_fear": "Teme che emerga la deposizione di una persona da lei trattata come supporto e che Neral consideri intollerabile la sua pretesa. Non può vincere una Seat VII tramite una causa di proprietà.",
+      "biological_population": "Nethri",
+      "historical_372": {
+        "id": 592,
+        "name": "Sathriel Ner",
+        "population": "Nethri",
+        "effigy": "Mask",
+        "stage": 6,
+        "place": "Lethorne",
+        "role": "Proprietaria rivendicata di rappresentazioni rese persone nelle Continuity Houses",
+        "old": "Mask VI; impiegava rappresentazioni operative e atti di attribuzione per presentare come beni persone corporeamente indipendenti. Non creava per ciò solo ogni Nethri né possedeva Labyrinth.",
+        "encounter": "Nel −12047 Sethra Il e Thalen Reth dimostrarono che alcuni dipendenti avevano continuità proprie. Edran separò supporti coercitivi e persone senza annullarle. Sathriel accettò una resa patrimoniale e conservò la propria persona VI; non fu perdonata da ogni vittima.",
+        "harm": "Confondeva provenienza, somiglianza e proprietà: se una persona derivava da un supporto della casa, pretendeva servizi perpetui. La prova di una continuità autonoma rendeva questa pretesa falsa, non la persona meno reale.",
+        "personality": "Accogliente, capace di ricordare il nome degli artigiani e di trattare un volto come un’opera posseduta. Il suo gusto estetico è autentico; la gentilezza non cancella la coercizione.",
+        "survival": "Continuità angelica attraverso rappresentazioni realmente investite di Mask e un centro superstite. La scheda non concede copie infinite: perdere supporti riduce esercizio e ricordi accessibili. Non incorporò Inner Vast o una seconda Effige.",
+        "cover": "Usa Satra Nerin, restauratrice di costumi e consulente di scena a Lethorne. Non controlla la cooperativa di Clara né The Unbound Exchange; non conosce Elias o Alexander come identità divine.",
+        "plan": "Sta cercando una matrice di attribuzione appartenuta alla sua casa. Vorrebbe contestare il valore civile di una separazione storica e recuperare un deposito, non ha già fatto riconoscere schiavi i discendenti moderni.",
+        "fear": "Teme che emerga la deposizione di una persona da lei trattata come supporto e che Neral consideri intollerabile la sua pretesa. Non può vincere una Seat VII tramite una causa di proprietà.",
+        "evidence": "Una lastra con il suo volto di allora e una dichiarazione di separazione firmata da più liberati. Il volto può essere imitato: servono continuità o riscontri per identificarla oggi.",
+        "target": "CAST-044",
+        "relation": "Avversaria della separazione sostenuta da Sethra e Thalen; non è responsabile delle loro morti successive.",
+        "ally": 591
+      },
+      "hooks": [
+        "Reperto con firma antica confrontabile",
+        "Richiesta moderna specificata nell’agenda"
+      ],
+      "pressure": "Latente, nessuna scadenza inventata",
+      "impact": "Moderato locale, significativo se accessi investiti contesi",
+      "evolution_without_pc": "Sta cercando una matrice di attribuzione appartenuta alla sua casa. Vorrebbe contestare il valore civile di una separazione storica e recuperare un deposito, non ha già fatto riconoscere schiavi i discendenti moderni."
+    },
+    {
+      "id": "CAST-593",
+      "name": "Kheros Daal",
+      "age_or_condition": "Continuità angelica risalente alle Signorie; età biologica non equivalente all’apparenza",
+      "place": "Mersa",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Tempest",
+          "stage": 6,
+          "stage_title": "Maelstrom",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Ammiraglio delle paratie saline e percettore dei transiti delle Basin Courts",
+      "goal": "Confronta vecchie misure di flusso con bollettini disponibili e tenta di localizzare un presidio di Nava attraverso richieste commerciali. Vuole sottrarle un apporto per costringerla a trattare; nessuna cattura è già avvenuta.",
+      "tension": "Una contesa aperta richiamerebbe Enra o autorità locali. Non sa come tutte le alleanze moderne reagirebbero; evita attacchi che distruggano i propri accessi commerciali.",
+      "secret": "Kher Dalen è un consulente di rischi marittimi a Mersa, con un piccolo deposito affittato. Non governa il porto e non possiede l’apparato di South Shoals. Costituzione angelica VI e recuperi attraverso presidi marini reali. Ha perso navi, alleati e archivi durante i millenni; la continuità personale non conserva intatta una flotta dell’epoca.",
+      "voice": "Pragmatico, ironico, riconosce la competenza anche in un nemico. Ricorda come umiliazione soprattutto che Nava mantenne in vita equipaggi che lui aveva deciso di sacrificare.",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [
+        "Kher Dalen è un consulente di rischi marittimi a Mersa"
+      ],
+      "relations": [
+        {
+          "target": "CAST-041",
+          "kind": "Vendetta personale contro Nava per la sconfitta e la perdita dell’autorità sulle chiuse."
+        },
+        {
+          "target": "CAST-590",
+          "kind": "Possibile interlocuzione fra superstiti tramite un recapito conservato; non incontro recente già avvenuto e non conoscenza reciproca di ogni piano."
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Una sola Effige VI, nessuna Seat o integrazione completa. Una contesa aperta richiamerebbe Enra o autorità locali. Non sa come tutte le alleanze moderne reagirebbero; evita attacchi che distruggano i propri accessi commerciali.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Tempest",
+            "stage": 6,
+            "stage_title": "Maelstrom",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "ordinary_resources": "Kher Dalen è un consulente di rischi marittimi a Mersa, con un piccolo deposito affittato. Non governa il porto e non possiede l’apparato di South Shoals.",
+        "power_scope": "CURRENT_T0"
+      },
+      "current": "Confronta vecchie misure di flusso con bollettini disponibili e tenta di localizzare un presidio di Nava attraverso richieste commerciali. Vuole sottrarle un apporto per costringerla a trattare; nessuna cattura è già avvenuta.",
+      "document": "CAST-593.md",
+      "biography_complement": "Tempest VI; subordinato per le campagne navali a patti fra corti, non padrone di ogni mare. Riforniva le chiuse di Aveth e vendeva passaggi a comunità soggette a debito. Nel −12022 Nava Tesh ruppe il suo fronte di pressione mentre Edran proteggeva i convogli liberati. Kheros consegnò una flotta e ottenne il passaggio di equipaggi disarmati. Una piccola scorta uscì con lui; non sono tutti vivi oggi.",
+      "specific_fear": "Una contesa aperta richiamerebbe Enra o autorità locali. Non sa come tutte le alleanze moderne reagirebbero; evita attacchi che distruggano i propri accessi commerciali.",
+      "biological_population": "Serekh",
+      "historical_372": {
+        "id": 593,
+        "name": "Kheros Daal",
+        "population": "Serekh",
+        "effigy": "Tempest",
+        "stage": 6,
+        "place": "Mersa",
+        "role": "Ammiraglio delle paratie saline e percettore dei transiti delle Basin Courts",
+        "old": "Tempest VI; subordinato per le campagne navali a patti fra corti, non padrone di ogni mare. Riforniva le chiuse di Aveth e vendeva passaggi a comunità soggette a debito.",
+        "encounter": "Nel −12022 Nava Tesh ruppe il suo fronte di pressione mentre Edran proteggeva i convogli liberati. Kheros consegnò una flotta e ottenne il passaggio di equipaggi disarmati. Una piccola scorta uscì con lui; non sono tutti vivi oggi.",
+        "harm": "Creava condizioni di transito artificialmente pericolose e vendeva il sostegno necessario a superarle. Le correnti ordinarie restavano ordinarie; non poteva inventare una tempesta planetaria senza fonte.",
+        "personality": "Pragmatico, ironico, riconosce la competenza anche in un nemico. Ricorda come umiliazione soprattutto che Nava mantenne in vita equipaggi che lui aveva deciso di sacrificare.",
+        "survival": "Costituzione angelica VI e recuperi attraverso presidi marini reali. Ha perso navi, alleati e archivi durante i millenni; la continuità personale non conserva intatta una flotta dell’epoca.",
+        "cover": "Kher Dalen è un consulente di rischi marittimi a Mersa, con un piccolo deposito affittato. Non governa il porto e non possiede l’apparato di South Shoals.",
+        "plan": "Confronta vecchie misure di flusso con bollettini disponibili e tenta di localizzare un presidio di Nava attraverso richieste commerciali. Vuole sottrarle un apporto per costringerla a trattare; nessuna cattura è già avvenuta.",
+        "fear": "Una contesa aperta richiamerebbe Enra o autorità locali. Non sa come tutte le alleanze moderne reagirebbero; evita attacchi che distruggano i propri accessi commerciali.",
+        "evidence": "Un registro di pedaggi salini e la chiglia marcata di una nave restituita; le rotte moderne non si ricavano dalla chiglia.",
+        "target": "CAST-041",
+        "relation": "Vendetta personale contro Nava per la sconfitta e la perdita dell’autorità sulle chiuse.",
+        "ally": 590
+      },
+      "hooks": [
+        "Reperto con firma antica confrontabile",
+        "Richiesta moderna specificata nell’agenda"
+      ],
+      "pressure": "Latente, nessuna scadenza inventata",
+      "impact": "Moderato locale, significativo se accessi investiti contesi",
+      "evolution_without_pc": "Confronta vecchie misure di flusso con bollettini disponibili e tenta di localizzare un presidio di Nava attraverso richieste commerciali. Vuole sottrarle un apporto per costringerla a trattare; nessuna cattura è già avvenuta."
+    },
+    {
+      "id": "CAST-594",
+      "name": "Ithren Qor",
+      "age_or_condition": "Continuità angelica risalente alle Signorie; età biologica non equivalente all’apparenza",
+      "place": "Elven",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Seed",
+          "stage": 6,
+          "stage_title": "World Gardener",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Sovrintendente di linee vincolate passato alla liberazione",
+      "goal": "Ha conservato una copia incompleta delle separazioni e sta cercando un depositario indipendente. Vuole impedire il riuso di un vecchio lotto coercitivo, ma evita di esporre il proprio nome. Può diventare interlocutore o avversario secondo prove e scelte, non è redento per decreto.",
+      "tension": "Teme il controllo di Othrem e l’odio fondato dei discendenti. Non conosce la ricostruzione completa della caduta; nessuna nuova complicità viene aggiunta ai fatti già fissati.",
+      "secret": "Itren Cor, consulente di sementi a Elven. Un interlocutore di Othrem riconosce il vecchio sovrintendente, non tutti gli impiegati. Non è infiltrato nella casa di Alexander. Continuità angelica VI attraverso dormienze di durata finita e riparazioni documentabili. Le dormienze interrompono l’esperienza: non sa automaticamente cosa accadde fuori. Non conosce il Refuge né il ritorno.",
+      "voice": "Meticoloso, parla di piante per non parlare di colpa. È capace di ammettere un fatto concreto ma teme una confessione trasformata in assoluzione o in vendetta collettiva.",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [
+        "Itren Cor"
+      ],
+      "relations": [
+        {
+          "target": "CAST-038",
+          "kind": "Defezione verificata da Ceth e Ysra; la morte successiva di Ceth resta quella già fissata."
+        },
+        {
+          "target": "CAST-595",
+          "kind": "Possibile interlocuzione fra superstiti tramite un recapito conservato; non incontro recente già avvenuto e non conoscenza reciproca di ogni piano."
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Una sola Effige VI, nessuna Seat o integrazione completa. Teme il controllo di Othrem e l’odio fondato dei discendenti. Non conosce la ricostruzione completa della caduta; nessuna nuova complicità viene aggiunta ai fatti già fissati.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Seed",
+            "stage": 6,
+            "stage_title": "World Gardener",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "ordinary_resources": "Itren Cor, consulente di sementi a Elven. Un interlocutore di Othrem riconosce il vecchio sovrintendente, non tutti gli impiegati. Non è infiltrato nella casa di Alexander.",
+        "power_scope": "CURRENT_T0"
+      },
+      "current": "Ha conservato una copia incompleta delle separazioni e sta cercando un depositario indipendente. Vuole impedire il riuso di un vecchio lotto coercitivo, ma evita di esporre il proprio nome. Può diventare interlocutore o avversario secondo prove e scelte, non è redento per decreto.",
+      "document": "CAST-594.md",
+      "biography_complement": "Seed VI e amministratore di vivai lavorativi delle High Holds. Rispondeva a Othrem per alcuni lotti e a proprietari locali per i contratti; non conobbe ogni piano della divinità. Nel −12092 consegnò a Ceth e Ysra i registri di nutrimento e accettò la separazione delle proprie clausole. Edran garantì il disarmo durante la consegna, senza cancellare le responsabilità di Ithren. La cooperazione continuò sotto verifica fino alla caduta.",
+      "specific_fear": "Teme il controllo di Othrem e l’odio fondato dei discendenti. Non conosce la ricostruzione completa della caduta; nessuna nuova complicità viene aggiunta ai fatti già fissati.",
+      "biological_population": "Kethari",
+      "historical_372": {
+        "id": 594,
+        "name": "Ithren Qor",
+        "population": "Kethari",
+        "effigy": "Seed",
+        "stage": 6,
+        "place": "Elven",
+        "role": "Sovrintendente di linee vincolate passato alla liberazione",
+        "old": "Seed VI e amministratore di vivai lavorativi delle High Holds. Rispondeva a Othrem per alcuni lotti e a proprietari locali per i contratti; non conobbe ogni piano della divinità.",
+        "encounter": "Nel −12092 consegnò a Ceth e Ysra i registri di nutrimento e accettò la separazione delle proprie clausole. Edran garantì il disarmo durante la consegna, senza cancellare le responsabilità di Ithren. La cooperazione continuò sotto verifica fino alla caduta.",
+        "harm": "Aveva predisposto dipendenze ereditarie sostenute da alimentazione realmente necessaria. Alcune sue correzioni salvarono persone; prima della defezione aveva usato quei bisogni per negare l’uscita.",
+        "personality": "Meticoloso, parla di piante per non parlare di colpa. È capace di ammettere un fatto concreto ma teme una confessione trasformata in assoluzione o in vendetta collettiva.",
+        "survival": "Continuità angelica VI attraverso dormienze di durata finita e riparazioni documentabili. Le dormienze interrompono l’esperienza: non sa automaticamente cosa accadde fuori. Non conosce il Refuge né il ritorno.",
+        "cover": "Itren Cor, consulente di sementi a Elven. Un interlocutore di Othrem riconosce il vecchio sovrintendente, non tutti gli impiegati. Non è infiltrato nella casa di Alexander.",
+        "plan": "Ha conservato una copia incompleta delle separazioni e sta cercando un depositario indipendente. Vuole impedire il riuso di un vecchio lotto coercitivo, ma evita di esporre il proprio nome. Può diventare interlocutore o avversario secondo prove e scelte, non è redento per decreto.",
+        "fear": "Teme il controllo di Othrem e l’odio fondato dei discendenti. Non conosce la ricostruzione completa della caduta; nessuna nuova complicità viene aggiunta ai fatti già fissati.",
+        "evidence": "Un libro di razioni con correzioni controfirmate da Ceth e una lamina di separazione. La copia prova un intervento delimitato, non innocenza generale.",
+        "target": "CAST-038",
+        "relation": "Defezione verificata da Ceth e Ysra; la morte successiva di Ceth resta quella già fissata.",
+        "ally": 595
+      },
+      "hooks": [
+        "Reperto con firma antica confrontabile",
+        "Richiesta moderna specificata nell’agenda"
+      ],
+      "pressure": "Latente, nessuna scadenza inventata",
+      "impact": "Moderato locale, significativo se accessi investiti contesi",
+      "evolution_without_pc": "Ha conservato una copia incompleta delle separazioni e sta cercando un depositario indipendente. Vuole impedire il riuso di un vecchio lotto coercitivo, ma evita di esporre il proprio nome. Può diventare interlocutore o avversario secondo prove e scelte, non è redento per decreto."
+    },
+    {
+      "id": "CAST-595",
+      "name": "Neris Vahl",
+      "age_or_condition": "Continuità angelica risalente alle Signorie; età biologica non equivalente all’apparenza",
+      "place": "Teshen",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Archive",
+          "stage": 6,
+          "stage_title": "Reliquary",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "CURRENT_T0",
+      "role": "Archivista dei trasferimenti e autrice di ricostruzioni favorevoli alle Signorie",
+      "goal": "Sta preparando un confronto editoriale che attribuisca alcune emancipazioni a concessioni dei signori. Possiede fonti autentiche parziali: una pubblicazione avrà successo solo se trova editori e resiste al confronto. Non può cancellare i ricordi di Edran o degli altri testimoni.",
+      "tension": "Teme una copia integrale che renda evidente l’omissione degli allegati. La propria reputazione moderna è vulnerabile quanto i depositi fisici.",
+      "secret": "Neria Val, curatrice di un fondo privato a Teshen. La committenza locale conosce una studiosa riservata. Non controlla il collegio di Talren e non è testimone di ogni fatto antico. Continuità angelica VI sostenuta dalla propria costituzione e da periodi di custodia protetta. Registrazioni e ricordi non sono copie della persona: non rinasce da ogni libro.",
+      "voice": "Misurata, precisa con le date, irritata da chi riassume. Sa riconoscere un falso materiale e può aiutare un’indagine mentre protegge l’interpretazione che giustifica la propria carriera.",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Attivo",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "OPEN",
+      "image_priority": "HIGH",
+      "aliases": [
+        "Neria Val"
+      ],
+      "relations": [
+        {
+          "target": "CAST-018",
+          "kind": "Rivalità con Talren, che divenne Archive VII nella contesa del deposito; non è nuova responsabile della caduta."
+        },
+        {
+          "target": "CAST-594",
+          "kind": "Possibile interlocuzione fra superstiti tramite un recapito conservato; non incontro recente già avvenuto e non conoscenza reciproca di ogni piano."
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Una sola Effige VI, nessuna Seat o integrazione completa. Teme una copia integrale che renda evidente l’omissione degli allegati. La propria reputazione moderna è vulnerabile quanto i depositi fisici.",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Archive",
+            "stage": 6,
+            "stage_title": "Reliquary",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "ordinary_resources": "Neria Val, curatrice di un fondo privato a Teshen. La committenza locale conosce una studiosa riservata. Non controlla il collegio di Talren e non è testimone di ogni fatto antico.",
+        "power_scope": "CURRENT_T0"
+      },
+      "current": "Sta preparando un confronto editoriale che attribuisca alcune emancipazioni a concessioni dei signori. Possiede fonti autentiche parziali: una pubblicazione avrà successo solo se trova editori e resiste al confronto. Non può cancellare i ricordi di Edran o degli altri testimoni.",
+      "document": "CAST-595.md",
+      "biography_complement": "Archive VI; conservava atti autentici ma selezionava quali allegati circolassero. Dipendeva dalla cancelleria di Veskar Thenn, non possedeva Archive VII. Nel −12074 Talren e Sael conquistarono l’accesso al deposito che lei custodiva. Neris consegnò un inventario corretto e trattenne copie private: Edran conobbe la resa e non verificò che ogni copia fosse stata distrutta.",
+      "specific_fear": "Teme una copia integrale che renda evidente l’omissione degli allegati. La propria reputazione moderna è vulnerabile quanto i depositi fisici.",
+      "biological_population": "Umano",
+      "historical_372": {
+        "id": 595,
+        "name": "Neris Vahl",
+        "population": "Umano",
+        "effigy": "Archive",
+        "stage": 6,
+        "place": "Teshen",
+        "role": "Archivista dei trasferimenti e autrice di ricostruzioni favorevoli alle Signorie",
+        "old": "Archive VI; conservava atti autentici ma selezionava quali allegati circolassero. Dipendeva dalla cancelleria di Veskar Thenn, non possedeva Archive VII.",
+        "encounter": "Nel −12074 Talren e Sael conquistarono l’accesso al deposito che lei custodiva. Neris consegnò un inventario corretto e trattenne copie private: Edran conobbe la resa e non verificò che ogni copia fosse stata distrutta.",
+        "harm": "Un atto autentico di assegnazione veniva presentato come prova della legittimità della schiavitù. La falsificazione era soprattutto nella selezione e nell’interpretazione, non un potere capace di rendere vero un passato inventato.",
+        "personality": "Misurata, precisa con le date, irritata da chi riassume. Sa riconoscere un falso materiale e può aiutare un’indagine mentre protegge l’interpretazione che giustifica la propria carriera.",
+        "survival": "Continuità angelica VI sostenuta dalla propria costituzione e da periodi di custodia protetta. Registrazioni e ricordi non sono copie della persona: non rinasce da ogni libro.",
+        "cover": "Neria Val, curatrice di un fondo privato a Teshen. La committenza locale conosce una studiosa riservata. Non controlla il collegio di Talren e non è testimone di ogni fatto antico.",
+        "plan": "Sta preparando un confronto editoriale che attribuisca alcune emancipazioni a concessioni dei signori. Possiede fonti autentiche parziali: una pubblicazione avrà successo solo se trova editori e resiste al confronto. Non può cancellare i ricordi di Edran o degli altri testimoni.",
+        "fear": "Teme una copia integrale che renda evidente l’omissione degli allegati. La propria reputazione moderna è vulnerabile quanto i depositi fisici.",
+        "evidence": "Indici con salti di numerazione e lettere di accompagnamento: attestano una selezione, non tutto il contenuto mancante.",
+        "target": "CAST-018",
+        "relation": "Rivalità con Talren, che divenne Archive VII nella contesa del deposito; non è nuova responsabile della caduta.",
+        "ally": 594
+      },
+      "hooks": [
+        "Reperto con firma antica confrontabile",
+        "Richiesta moderna specificata nell’agenda"
+      ],
+      "pressure": "Latente, nessuna scadenza inventata",
+      "impact": "Moderato locale, significativo se accessi investiti contesi",
+      "evolution_without_pc": "Sta preparando un confronto editoriale che attribuisca alcune emancipazioni a concessioni dei signori. Possiede fonti autentiche parziali: una pubblicazione avrà successo solo se trova editori e resiste al confronto. Non può cancellare i ricordi di Edran o degli altri testimoni."
+    },
+    {
+      "id": "CAST-596",
+      "name": "Thauren Kel",
+      "age_or_condition": "Continuità estinta nella contesa del −12018; Crown passò a Ilyra attraverso integrazione verificata.",
+      "place": "High Holds",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Crown",
+          "stage": 7,
+          "stage_title": "The Paramount",
+          "general_rank": "Apotheosis"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Sovrano delle competenze chiuse e garante dei registri di appartenenza",
+      "goal": "Conservare l’apparato storico di sovrano delle competenze chiuse e garante dei registri di appartenenza",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Nel −12018 Ilyra contese e incorporò la sua Seat dopo che Edran e i liberati avevano separato presidi e persone dalle giurisdizioni imposte. Thauren combatté con potere divino reale, non fu deposto da una firma.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-014",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Crown",
+            "stage": 7,
+            "stage_title": "The Paramount",
+            "general_rank": "Apotheosis"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [
+          "Crown"
+        ],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-596.md",
+      "biography_complement": "Nel −12018 Ilyra contese e incorporò la sua Seat dopo che Edran e i liberati avevano separato presidi e persone dalle giurisdizioni imposte. Thauren combatté con potere divino reale, non fu deposto da una firma. Continuità estinta nella contesa del −12018; Crown passò a Ilyra attraverso integrazione verificata.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Umano",
+      "historical_372": {
+        "episode": "Nel −12018 Ilyra contese e incorporò la sua Seat dopo che Edran e i liberati avevano separato presidi e persone dalle giurisdizioni imposte. Thauren combatté con potere divino reale, non fu deposto da una firma.",
+        "fate": "Continuità estinta nella contesa del −12018; Crown passò a Ilyra attraverso integrazione verificata.",
+        "relic": "Un anello di ufficio spezzato e una matrice delle competenze confrontabile con le prime carte libere.",
+        "society": "High Holds"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-597",
+      "name": "Veskar Thenn",
+      "age_or_condition": "Continuità estinta nel −12074; Archive integrata da Talren nello stesso anno.",
+      "place": "Kharven Galleries",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Archive",
+          "stage": 7,
+          "stage_title": "The Remembrance",
+          "general_rank": "Apotheosis"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Sovrano degli archivi di discendenza e predecessore di Talren",
+      "goal": "Conservare l’apparato storico di sovrano degli archivi di discendenza e predecessore di talren",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Nel −12074 Talren prese i riferimenti costitutivi dopo la separazione dei depositi compiuta con Sael ed Edran. L’accesso alla Seat fu una contesa, non un dono di Edran né un trasferimento mediante lettura.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-018",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Archive",
+            "stage": 7,
+            "stage_title": "The Remembrance",
+            "general_rank": "Apotheosis"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [
+          "Archive"
+        ],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-597.md",
+      "biography_complement": "Nel −12074 Talren prese i riferimenti costitutivi dopo la separazione dei depositi compiuta con Sael ed Edran. L’accesso alla Seat fu una contesa, non un dono di Edran né un trasferimento mediante lettura. Continuità estinta nel −12074; Archive integrata da Talren nello stesso anno.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Umano",
+      "historical_372": {
+        "episode": "Nel −12074 Talren prese i riferimenti costitutivi dopo la separazione dei depositi compiuta con Sael ed Edran. L’accesso alla Seat fu una contesa, non un dono di Edran né un trasferimento mediante lettura.",
+        "fate": "Continuità estinta nel −12074; Archive integrata da Talren nello stesso anno.",
+        "relic": "Una lastra di attestazione con due allegati numerati e il rilievo del deposito aperto.",
+        "society": "Kharven Galleries"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-598",
+      "name": "Dorrak Vel",
+      "age_or_condition": "Morto ed estinto nel −12113; nessuna Seat Chain posseduta.",
+      "place": "Kharven Galleries",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Chain",
+          "stage": 6,
+          "stage_title": "Overseer",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Responsabile delle assegnazioni e dei trasferimenti forzati",
+      "goal": "Conservare l’apparato storico di responsabile delle assegnazioni e dei trasferimenti forzati",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Ordinò la repressione della fuga preparata da Tavren nel −12172; il reparto eseguì l’ordine. Edran affrontò Dorrak nel −12113, separando famiglie e canali di rifornimento dal suo circuito.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-001",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Chain",
+            "stage": 6,
+            "stage_title": "Overseer",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-598.md",
+      "biography_complement": "Ordinò la repressione della fuga preparata da Tavren nel −12172; il reparto eseguì l’ordine. Edran affrontò Dorrak nel −12113, separando famiglie e canali di rifornimento dal suo circuito. Morto ed estinto nel −12113; nessuna Seat Chain posseduta.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Umano",
+      "historical_372": {
+        "episode": "Ordinò la repressione della fuga preparata da Tavren nel −12172; il reparto eseguì l’ordine. Edran affrontò Dorrak nel −12113, separando famiglie e canali di rifornimento dal suo circuito.",
+        "fate": "Morto ed estinto nel −12113; nessuna Seat Chain posseduta.",
+        "relic": "Una distinta di trasferimento con ordine di reparto e copia del registro di ventilazione.",
+        "society": "Kharven Galleries"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-599",
+      "name": "Thessa Kurn",
+      "age_or_condition": "Estinta nel −12098 durante la contesa del presidio.",
+      "place": "Kharven Galleries",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Banner",
+          "stage": 6,
+          "stage_title": "Grand Marshal",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Comandante delle squadre di richiusura",
+      "goal": "Conservare l’apparato storico di comandante delle squadre di richiusura",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Durante Grey Brands −12098 comandò un reparto subordinato al piano di Rethan Ul. Vara tenne aperta un’uscita mentre Edran raggiungeva i marchi; Thessa ordinò di riprendere i fuggiaschi vivi per il lavoro.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-037",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Banner",
+            "stage": 6,
+            "stage_title": "Grand Marshal",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-599.md",
+      "biography_complement": "Durante Grey Brands −12098 comandò un reparto subordinato al piano di Rethan Ul. Vara tenne aperta un’uscita mentre Edran raggiungeva i marchi; Thessa ordinò di riprendere i fuggiaschi vivi per il lavoro. Estinta nel −12098 durante la contesa del presidio.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Ossari",
+      "historical_372": {
+        "episode": "Durante Grey Brands −12098 comandò un reparto subordinato al piano di Rethan Ul. Vara tenne aperta un’uscita mentre Edran raggiungeva i marchi; Thessa ordinò di riprendere i fuggiaschi vivi per il lavoro.",
+        "fate": "Estinta nel −12098 durante la contesa del presidio.",
+        "relic": "Una piastra di reparto e un ordine con campo di esecuzione circoscritto.",
+        "society": "Kharven Galleries"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-600",
+      "name": "Maruun Sev",
+      "age_or_condition": "Sconfitto e custodito dal −12125; morì nel −12081 dopo un tentativo di riattivare il circuito, con continuità estinta.",
+      "place": "Kharven Galleries",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Crown",
+          "stage": 6,
+          "stage_title": "Imperator",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Governatore delle quote d’aria e delle famiglie assegnate",
+      "goal": "Conservare l’apparato storico di governatore delle quote d’aria e delle famiglie assegnate",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Nel −12125 Ceth aprì rifornimenti alternativi e Edran spezzò gli accessi imposti alle gallerie. Maruun tentò un patto che conservasse appartenenza ereditaria sotto un altro nome.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-038",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Crown",
+            "stage": 6,
+            "stage_title": "Imperator",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-600.md",
+      "biography_complement": "Nel −12125 Ceth aprì rifornimenti alternativi e Edran spezzò gli accessi imposti alle gallerie. Maruun tentò un patto che conservasse appartenenza ereditaria sotto un altro nome. Sconfitto e custodito dal −12125; morì nel −12081 dopo un tentativo di riattivare il circuito, con continuità estinta.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Kethari",
+      "historical_372": {
+        "episode": "Nel −12125 Ceth aprì rifornimenti alternativi e Edran spezzò gli accessi imposti alle gallerie. Maruun tentò un patto che conservasse appartenenza ereditaria sotto un altro nome.",
+        "fate": "Sconfitto e custodito dal −12125; morì nel −12081 dopo un tentativo di riattivare il circuito, con continuità estinta.",
+        "relic": "Un registro di quote con tariffa diversa per famiglie libere e vincolate.",
+        "society": "Kharven Galleries"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-601",
+      "name": "Ysvel Dorn",
+      "age_or_condition": "Estinta nel −12030; non fu una seconda Heart VII.",
+      "place": "Serekh Basin Courts",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Heart",
+          "stage": 6,
+          "stage_title": "Lifebinder",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Direttrice delle cure condizionate delle chiuse",
+      "goal": "Conservare l’apparato storico di direttrice delle cure condizionate delle chiuse",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Nel −12030 difese un settore di Aveth. Ysra predispose sostegni indipendenti ed Edran separò i pazienti; Ysvel cercò di riprendere una derivazione interrompendo la propria assistenza.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-023",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Heart",
+            "stage": 6,
+            "stage_title": "Lifebinder",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-601.md",
+      "biography_complement": "Nel −12030 difese un settore di Aveth. Ysra predispose sostegni indipendenti ed Edran separò i pazienti; Ysvel cercò di riprendere una derivazione interrompendo la propria assistenza. Estinta nel −12030; non fu una seconda Heart VII.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Serekh",
+      "historical_372": {
+        "episode": "Nel −12030 difese un settore di Aveth. Ysra predispose sostegni indipendenti ed Edran separò i pazienti; Ysvel cercò di riprendere una derivazione interrompendo la propria assistenza.",
+        "fate": "Estinta nel −12030; non fu una seconda Heart VII.",
+        "relic": "Cartelle di alimentazione con nomi civili e numeri di dipendenza distinti.",
+        "society": "Serekh Basin Courts"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-602",
+      "name": "Orrak Hesh",
+      "age_or_condition": "Estinto nel −12083 nel settore di forni allora preso.",
+      "place": "Ossari Quarry Leagues",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Crucible",
+          "stage": 6,
+          "stage_title": "Philosopher",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Artefice degli involucri di lavoro obbligato",
+      "goal": "Conservare l’apparato storico di artefice degli involucri di lavoro obbligato",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Nel −12083 Nereth isolò conversioni che rendevano gli attrezzi inseparabili dal turno. Edran distrusse il raccordo coercitivo senza annullare gli operai. Orrak rifiutò la separazione.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-040",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Crucible",
+            "stage": 6,
+            "stage_title": "Philosopher",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-602.md",
+      "biography_complement": "Nel −12083 Nereth isolò conversioni che rendevano gli attrezzi inseparabili dal turno. Edran distrusse il raccordo coercitivo senza annullare gli operai. Orrak rifiutò la separazione. Estinto nel −12083 nel settore di forni allora preso.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Ossari",
+      "historical_372": {
+        "episode": "Nel −12083 Nereth isolò conversioni che rendevano gli attrezzi inseparabili dal turno. Edran distrusse il raccordo coercitivo senza annullare gli operai. Orrak rifiutò la separazione.",
+        "fate": "Estinto nel −12083 nel settore di forni allora preso.",
+        "relic": "Un involucro disattivato, da distinguere dall’organo vivente che un tempo sosteneva.",
+        "society": "Ossari Quarry Leagues"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-603",
+      "name": "Selka Uren",
+      "age_or_condition": "Estinta nel −12052.",
+      "place": "High Holds",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Tempest",
+          "stage": 6,
+          "stage_title": "Maelstrom",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Custode dei condotti di pressione",
+      "goal": "Conservare l’apparato storico di custode dei condotti di pressione",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "A Hollow Towers −12052 mantenne un flusso d’assedio; Nava divise il fronte mentre Helyr chiudeva accessi alle sorgenti. Il suo potere non era una tempesta universale.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-041",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Tempest",
+            "stage": 6,
+            "stage_title": "Maelstrom",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-603.md",
+      "biography_complement": "A Hollow Towers −12052 mantenne un flusso d’assedio; Nava divise il fronte mentre Helyr chiudeva accessi alle sorgenti. Il suo potere non era una tempesta universale. Estinta nel −12052.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Serekh",
+      "historical_372": {
+        "episode": "A Hollow Towers −12052 mantenne un flusso d’assedio; Nava divise il fronte mentre Helyr chiudeva accessi alle sorgenti. Il suo potere non era una tempesta universale.",
+        "fate": "Estinta nel −12052.",
+        "relic": "Un misuratore con intervalli di scarico e segni di sovraccarico.",
+        "society": "High Holds"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-604",
+      "name": "Khadren Oss",
+      "age_or_condition": "Estinto nel −12089 nella contesa dei vincoli.",
+      "place": "Ossari Quarry Leagues",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Chain",
+          "stage": 6,
+          "stage_title": "Overseer",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Giudice esecutore dei contratti plurisecolari",
+      "goal": "Conservare l’apparato storico di giudice esecutore dei contratti plurisecolari",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Nel −12089 Deyran dimostrò che nutrimento e prestazione potevano essere separati; Edran mantenne un apporto alternativo durante la rottura. Khadren tentò di spostare le obbligazioni sui figli.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-015",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Chain",
+            "stage": 6,
+            "stage_title": "Overseer",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-604.md",
+      "biography_complement": "Nel −12089 Deyran dimostrò che nutrimento e prestazione potevano essere separati; Edran mantenne un apporto alternativo durante la rottura. Khadren tentò di spostare le obbligazioni sui figli. Estinto nel −12089 nella contesa dei vincoli.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Ossari",
+      "historical_372": {
+        "episode": "Nel −12089 Deyran dimostrò che nutrimento e prestazione potevano essere separati; Edran mantenne un apporto alternativo durante la rottura. Khadren tentò di spostare le obbligazioni sui figli.",
+        "fate": "Estinto nel −12089 nella contesa dei vincoli.",
+        "relic": "Una catena di atti con due persone diverse trattate come il medesimo debitore.",
+        "society": "Ossari Quarry Leagues"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-605",
+      "name": "Veltha Qir",
+      "age_or_condition": "Rinunciò agli incarichi nel −12035; morì nel −11864 durante una contesa locale sulle risorse, continuità estinta.",
+      "place": "Serekh Basin Courts",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Coin",
+          "stage": 6,
+          "stage_title": "Chancellor",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Percettrice dei debiti di riscatto",
+      "goal": "Conservare l’apparato storico di percettrice dei debiti di riscatto",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Nel −12036 Ceth organizzò scambi fra comunità che Veltha teneva economicamente isolate. Un apporto reale creato da Edran tolse efficacia al ricatto, senza cancellare ogni contratto ordinario.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-038",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Coin",
+            "stage": 6,
+            "stage_title": "Chancellor",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-605.md",
+      "biography_complement": "Nel −12036 Ceth organizzò scambi fra comunità che Veltha teneva economicamente isolate. Un apporto reale creato da Edran tolse efficacia al ricatto, senza cancellare ogni contratto ordinario. Rinunciò agli incarichi nel −12035; morì nel −11864 durante una contesa locale sulle risorse, continuità estinta.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Kethari",
+      "historical_372": {
+        "episode": "Nel −12036 Ceth organizzò scambi fra comunità che Veltha teneva economicamente isolate. Un apporto reale creato da Edran tolse efficacia al ricatto, senza cancellare ogni contratto ordinario.",
+        "fate": "Rinunciò agli incarichi nel −12035; morì nel −11864 durante una contesa locale sulle risorse, continuità estinta.",
+        "relic": "Una tavola dei riscatti e ricevute di pagamento mai accreditate.",
+        "society": "Serekh Basin Courts"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-606",
+      "name": "Arves Nhal",
+      "age_or_condition": "Estinto nel −12061.",
+      "place": "High Holds",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Eclipse",
+          "stage": 6,
+          "stage_title": "Night Exarch",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Custode delle uscite mute",
+      "goal": "Conservare l’apparato storico di custode delle uscite mute",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Nel −12061 mantenne chiusa una via di fuga dalle stanze di rinnovo finché Erath ed Edran raggiunsero il suo ancoraggio. Non è parente accertato di Varessa e il nome non ne prova la continuità.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-039",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Eclipse",
+            "stage": 6,
+            "stage_title": "Night Exarch",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-606.md",
+      "biography_complement": "Nel −12061 mantenne chiusa una via di fuga dalle stanze di rinnovo finché Erath ed Edran raggiunsero il suo ancoraggio. Non è parente accertato di Varessa e il nome non ne prova la continuità. Estinto nel −12061.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Ilyr",
+      "historical_372": {
+        "episode": "Nel −12061 mantenne chiusa una via di fuga dalle stanze di rinnovo finché Erath ed Edran raggiunsero il suo ancoraggio. Non è parente accertato di Varessa e il nome non ne prova la continuità.",
+        "fate": "Estinto nel −12061.",
+        "relic": "Un allarme ordinario scollegato e una tavola di turni.",
+        "society": "High Holds"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-607",
+      "name": "Soreth Tal",
+      "age_or_condition": "Morì nel −11782 dopo servizio controllato e controversie civili; continuità estinta, non apostolo eterno.",
+      "place": "Serekh Basin Courts",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Scroll",
+          "stage": 6,
+          "stage_title": "Redactor",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Redattore degli ordini di appartenenza",
+      "goal": "Conservare l’apparato storico di redattore degli ordini di appartenenza",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Disertò nel −12040 consegnando formulazioni a Sael; aiutò a predisporre separazioni prima della rinuncia di Ysil. L’accordo non cancellò le persone prima assoggettate alla sua Will.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-025",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Scroll",
+            "stage": 6,
+            "stage_title": "Redactor",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-607.md",
+      "biography_complement": "Disertò nel −12040 consegnando formulazioni a Sael; aiutò a predisporre separazioni prima della rinuncia di Ysil. L’accordo non cancellò le persone prima assoggettate alla sua Will. Morì nel −11782 dopo servizio controllato e controversie civili; continuità estinta, non apostolo eterno.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Serekh",
+      "historical_372": {
+        "episode": "Disertò nel −12040 consegnando formulazioni a Sael; aiutò a predisporre separazioni prima della rinuncia di Ysil. L’accordo non cancellò le persone prima assoggettate alla sua Will.",
+        "fate": "Morì nel −11782 dopo servizio controllato e controversie civili; continuità estinta, non apostolo eterno.",
+        "relic": "Due versioni dello stesso ordine con condizioni di cessazione dichiarate nella seconda.",
+        "society": "Serekh Basin Courts"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-608",
+      "name": "Nerak Voss",
+      "age_or_condition": "Estinto nel −12047; nessun Avatar superstite costitutivo.",
+      "place": "Nethri Continuity Houses",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Mask",
+          "stage": 6,
+          "stage_title": "Chorus",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Cacciatore di persone reclamate come rappresentazioni",
+      "goal": "Conservare l’apparato storico di cacciatore di persone reclamate come rappresentazioni",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Nel −12047 tentò di sostituire un testimone con un riferimento-esca; Thalen separò le attribuzioni e Sethra verificò accessi interiori pertinenti. Edran rese praticabile l’uscita corporea dei liberati.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-043",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Mask",
+            "stage": 6,
+            "stage_title": "Chorus",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-608.md",
+      "biography_complement": "Nel −12047 tentò di sostituire un testimone con un riferimento-esca; Thalen separò le attribuzioni e Sethra verificò accessi interiori pertinenti. Edran rese praticabile l’uscita corporea dei liberati. Estinto nel −12047; nessun Avatar superstite costitutivo.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Nethri",
+      "historical_372": {
+        "episode": "Nel −12047 tentò di sostituire un testimone con un riferimento-esca; Thalen separò le attribuzioni e Sethra verificò accessi interiori pertinenti. Edran rese praticabile l’uscita corporea dei liberati.",
+        "fate": "Estinto nel −12047; nessun Avatar superstite costitutivo.",
+        "relic": "Una maschera ordinaria e un mandato con descrizione incompatibile con il destinatario.",
+        "society": "Nethri Continuity Houses"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-609",
+      "name": "Thelra Morn",
+      "age_or_condition": "Estinta nel −12051 durante la ritirata; nessun viaggio nel passato ne cambia la morte.",
+      "place": "High Holds",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Hourglass",
+          "stage": 6,
+          "stage_title": "Aeon",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Custode dei turni senza riposo",
+      "goal": "Conservare l’apparato storico di custode dei turni senza riposo",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "A Hollow Towers −12052 sostenne ritmi coercitivi dei reparti. Rhael individuò una concatenazione alternativa e i liberati ruppero il sostegno mentre Edran affrontava altre sorgenti.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-042",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Hourglass",
+            "stage": 6,
+            "stage_title": "Aeon",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-609.md",
+      "biography_complement": "A Hollow Towers −12052 sostenne ritmi coercitivi dei reparti. Rhael individuò una concatenazione alternativa e i liberati ruppero il sostegno mentre Edran affrontava altre sorgenti. Estinta nel −12051 durante la ritirata; nessun viaggio nel passato ne cambia la morte.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Umano",
+      "historical_372": {
+        "episode": "A Hollow Towers −12052 sostenne ritmi coercitivi dei reparti. Rhael individuò una concatenazione alternativa e i liberati ruppero il sostegno mentre Edran affrontava altre sorgenti.",
+        "fate": "Estinta nel −12051 durante la ritirata; nessun viaggio nel passato ne cambia la morte.",
+        "relic": "Una tavola dei turni con durate investite e una protesta degli addetti.",
+        "society": "High Holds"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-610",
+      "name": "Rethis Aul",
+      "age_or_condition": "Morto ed estinto nel −12108.",
+      "place": "Kharven Galleries",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Banner",
+          "stage": 5,
+          "stage_title": "Conqueror",
+          "general_rank": "Ascendance"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Capitano dei reparti umani collaborazionisti",
+      "goal": "Conservare l’apparato storico di capitano dei reparti umani collaborazionisti",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Nel −12108 difese un ordine che premiava famiglie armate con il lavoro di altre. Vara ottenne la defezione di una compagnia; Rethis mantenne un reparto e fu sconfitto sul campo.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-037",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Banner",
+            "stage": 5,
+            "stage_title": "Conqueror",
+            "general_rank": "Ascendance"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-610.md",
+      "biography_complement": "Nel −12108 difese un ordine che premiava famiglie armate con il lavoro di altre. Vara ottenne la defezione di una compagnia; Rethis mantenne un reparto e fu sconfitto sul campo. Morto ed estinto nel −12108.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Umano",
+      "historical_372": {
+        "episode": "Nel −12108 difese un ordine che premiava famiglie armate con il lavoro di altre. Vara ottenne la defezione di una compagnia; Rethis mantenne un reparto e fu sconfitto sul campo.",
+        "fate": "Morto ed estinto nel −12108.",
+        "relic": "Una paga di guarnigione con razioni ottenute da famiglie trasferite.",
+        "society": "Kharven Galleries"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-611",
+      "name": "Mavren Qesh",
+      "age_or_condition": "Morì nel −11760 in un incidente di sostegno durante una separazione; continuità estinta. Non fu vittima di un nuovo complotto aggiunto alla caduta.",
+      "place": "High Holds",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Seed",
+          "stage": 6,
+          "stage_title": "World Gardener",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Responsabile dei lotti ereditari di Othrem",
+      "goal": "Conservare l’apparato storico di responsabile dei lotti ereditari di othrem",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Nel −12092 passò ai liberati insieme a una parte dei registri verificati da Ceth. Con Ysra separò una linea dalla dipendenza nutritiva imposta. Non conobbe i successivi interventi segreti di Othrem.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-023",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Seed",
+            "stage": 6,
+            "stage_title": "World Gardener",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-611.md",
+      "biography_complement": "Nel −12092 passò ai liberati insieme a una parte dei registri verificati da Ceth. Con Ysra separò una linea dalla dipendenza nutritiva imposta. Non conobbe i successivi interventi segreti di Othrem. Morì nel −11760 in un incidente di sostegno durante una separazione; continuità estinta. Non fu vittima di un nuovo complotto aggiunto alla caduta.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Kethari",
+      "historical_372": {
+        "episode": "Nel −12092 passò ai liberati insieme a una parte dei registri verificati da Ceth. Con Ysra separò una linea dalla dipendenza nutritiva imposta. Non conobbe i successivi interventi segreti di Othrem.",
+        "fate": "Morì nel −11760 in un incidente di sostegno durante una separazione; continuità estinta. Non fu vittima di un nuovo complotto aggiunto alla caduta.",
+        "relic": "Campioni spenti di due generazioni e una distinta di apporti.",
+        "society": "High Holds"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-612",
+      "name": "Ilsera Vann",
+      "age_or_condition": "Morì nel −11980 con continuità estinta dopo una contesa su un interno che cercava di riaprire.",
+      "place": "Nethri Continuity Houses",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Labyrinth",
+          "stage": 6,
+          "stage_title": "Inner Architect",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Responsabile di interni di rieducazione",
+      "goal": "Conservare l’apparato storico di responsabile di interni di rieducazione",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Già persona soggetta a una casa, divenne custode di altri e ne mantenne la dipendenza. Nel −12045 Sethra ottenne la liberazione dei detenuti e una rinuncia verificata di Ilsera ai relativi accessi.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-044",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Labyrinth",
+            "stage": 6,
+            "stage_title": "Inner Architect",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-612.md",
+      "biography_complement": "Già persona soggetta a una casa, divenne custode di altri e ne mantenne la dipendenza. Nel −12045 Sethra ottenne la liberazione dei detenuti e una rinuncia verificata di Ilsera ai relativi accessi. Morì nel −11980 con continuità estinta dopo una contesa su un interno che cercava di riaprire.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Nethri",
+      "historical_372": {
+        "episode": "Già persona soggetta a una casa, divenne custode di altri e ne mantenne la dipendenza. Nel −12045 Sethra ottenne la liberazione dei detenuti e una rinuncia verificata di Ilsera ai relativi accessi.",
+        "fate": "Morì nel −11980 con continuità estinta dopo una contesa su un interno che cercava di riaprire.",
+        "relic": "Una planimetria di stanze materiali da distinguere dagli accessi onirici annotati.",
+        "society": "Nethri Continuity Houses"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-613",
+      "name": "Dorven Kel",
+      "age_or_condition": "Estinto nel −12052; nessuna Seat Astrolabe alternativa.",
+      "place": "High Holds",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Astrolabe",
+          "stage": 6,
+          "stage_title": "Horizon Architect",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Comandante delle soglie di accerchiamento",
+      "goal": "Conservare l’apparato storico di comandante delle soglie di accerchiamento",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Nel −12052 contrastò Helyr e Sereth agli accessi delle torri. Edran colpì sorgenti rese raggiungibili, non annullò lo spazio universale.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-011",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Astrolabe",
+            "stage": 6,
+            "stage_title": "Horizon Architect",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-613.md",
+      "biography_complement": "Nel −12052 contrastò Helyr e Sereth agli accessi delle torri. Edran colpì sorgenti rese raggiungibili, non annullò lo spazio universale. Estinto nel −12052; nessuna Seat Astrolabe alternativa.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Ilyr",
+      "historical_372": {
+        "episode": "Nel −12052 contrastò Helyr e Sereth agli accessi delle torri. Edran colpì sorgenti rese raggiungibili, non annullò lo spazio universale.",
+        "fate": "Estinto nel −12052; nessuna Seat Astrolabe alternativa.",
+        "relic": "Una chiave disattivata con tre indirizzi incompleti e il rilievo di una soglia murata.",
+        "society": "High Holds"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-614",
+      "name": "Avral Thenn",
+      "age_or_condition": "Morì nel −12084 durante una contesa di apparati, continuità estinta.",
+      "place": "Kharven Galleries",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Oracle",
+          "stage": 6,
+          "stage_title": "Grand Savant",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Teorico della necessità della discendenza fissa",
+      "goal": "Conservare l’apparato storico di teorico della necessità della discendenza fissa",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Sael confrontò le sue previsioni con separazioni riuscite. Nel −12086 Avral difese un modello occultando condizioni sfavorevoli; Edran rese disponibile una prova materiale contraria al monopolio.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-025",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Oracle",
+            "stage": 6,
+            "stage_title": "Grand Savant",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-614.md",
+      "biography_complement": "Sael confrontò le sue previsioni con separazioni riuscite. Nel −12086 Avral difese un modello occultando condizioni sfavorevoli; Edran rese disponibile una prova materiale contraria al monopolio. Morì nel −12084 durante una contesa di apparati, continuità estinta.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Umano",
+      "historical_372": {
+        "episode": "Sael confrontò le sue previsioni con separazioni riuscite. Nel −12086 Avral difese un modello occultando condizioni sfavorevoli; Edran rese disponibile una prova materiale contraria al monopolio.",
+        "fate": "Morì nel −12084 durante una contesa di apparati, continuità estinta.",
+        "relic": "Una formula autentica corretta applicata a condizioni diverse da quelle dichiarate.",
+        "society": "Kharven Galleries"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-615",
+      "name": "Kethra Senn",
+      "age_or_condition": "Estinta nel −12072.",
+      "place": "High Holds",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Seed",
+          "stage": 5,
+          "stage_title": "Evergreen",
+          "general_rank": "Ascendance"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Amministratrice dei registri germinali",
+      "goal": "Conservare l’apparato storico di amministratrice dei registri germinali",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Nel −12072 tentò di trasferire clausole fra linee lavorative. Ceth e Ysra verificarono la genealogia e i bisogni reali prima che Edran terminasse il collegamento coercitivo.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-038",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Seed",
+            "stage": 5,
+            "stage_title": "Evergreen",
+            "general_rank": "Ascendance"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-615.md",
+      "biography_complement": "Nel −12072 tentò di trasferire clausole fra linee lavorative. Ceth e Ysra verificarono la genealogia e i bisogni reali prima che Edran terminasse il collegamento coercitivo. Estinta nel −12072.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Kethari",
+      "historical_372": {
+        "episode": "Nel −12072 tentò di trasferire clausole fra linee lavorative. Ceth e Ysra verificarono la genealogia e i bisogni reali prima che Edran terminasse il collegamento coercitivo.",
+        "fate": "Estinta nel −12072.",
+        "relic": "Una tavola di discendenza che annota persone come quote di ricambio.",
+        "society": "High Holds"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-616",
+      "name": "Ossven Taar",
+      "age_or_condition": "Estinto nel −12067; i resti consumati prima non tornano automaticamente recuperabili.",
+      "place": "Ossari Quarry Leagues",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Maw",
+          "stage": 6,
+          "stage_title": "Great Maw",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Gestore degli apporti dai reparti dismessi",
+      "goal": "Conservare l’apparato storico di gestore degli apporti dai reparti dismessi",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Nel −12067 Althene contese la custodia dei morti ed Edran rese raggiungibile l’apparato predatorio. Nessuno dovette concedere Maw il permesso di consumare un residuo: la contesa riguardò la presa.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-012",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Maw",
+            "stage": 6,
+            "stage_title": "Great Maw",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-616.md",
+      "biography_complement": "Nel −12067 Althene contese la custodia dei morti ed Edran rese raggiungibile l’apparato predatorio. Nessuno dovette concedere Maw il permesso di consumare un residuo: la contesa riguardò la presa. Estinto nel −12067; i resti consumati prima non tornano automaticamente recuperabili.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Ossari",
+      "historical_372": {
+        "episode": "Nel −12067 Althene contese la custodia dei morti ed Edran rese raggiungibile l’apparato predatorio. Nessuno dovette concedere Maw il permesso di consumare un residuo: la contesa riguardò la presa.",
+        "fate": "Estinto nel −12067; i resti consumati prima non tornano automaticamente recuperabili.",
+        "relic": "Distinte di deposito e camere residue prive di presenze superstiti.",
+        "society": "Ossari Quarry Leagues"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-617",
+      "name": "Yrel Khor",
+      "age_or_condition": "Estinto nel −12028; nessuna maledizione immortale universale sopravvive per il solo nome.",
+      "place": "Serekh Basin Courts",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Crescent",
+          "stage": 6,
+          "stage_title": "Moon Hierophant",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Titolare dei riti di sollievo condizionato",
+      "goal": "Conservare l’apparato storico di titolare dei riti di sollievo condizionato",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Manteneva maledizioni locali e vendeva sospensioni temporanee. Nel −12028 Ysra separò le lesioni curabili mentre Erath ed Edran raggiungevano i supporti dei riti.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-039",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Crescent",
+            "stage": 6,
+            "stage_title": "Moon Hierophant",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-617.md",
+      "biography_complement": "Manteneva maledizioni locali e vendeva sospensioni temporanee. Nel −12028 Ysra separò le lesioni curabili mentre Erath ed Edran raggiungevano i supporti dei riti. Estinto nel −12028; nessuna maledizione immortale universale sopravvive per il solo nome.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Serekh",
+      "historical_372": {
+        "episode": "Manteneva maledizioni locali e vendeva sospensioni temporanee. Nel −12028 Ysra separò le lesioni curabili mentre Erath ed Edran raggiungevano i supporti dei riti.",
+        "fate": "Estinto nel −12028; nessuna maledizione immortale universale sopravvive per il solo nome.",
+        "relic": "Una lamina di sospensione con clausole di riattivazione.",
+        "society": "Serekh Basin Courts"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-618",
+      "name": "Temra Uss",
+      "age_or_condition": "Morì nel −11998 dopo custodia e testimonianza, continuità estinta.",
+      "place": "Kharven Galleries",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Archive",
+          "stage": 5,
+          "stage_title": "Remembrancer",
+          "general_rank": "Ascendance"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Curatrice dei fascicoli di persone irreperibili",
+      "goal": "Conservare l’apparato storico di curatrice dei fascicoli di persone irreperibili",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Nel −12074 consegnò a Talren un indice genuino che nascondeva la collocazione di allegati. Il confronto di Sael ne mostrò l’incompletezza; alcuni reperti furono recuperati, altri erano già perduti.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-018",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Archive",
+            "stage": 5,
+            "stage_title": "Remembrancer",
+            "general_rank": "Ascendance"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-618.md",
+      "biography_complement": "Nel −12074 consegnò a Talren un indice genuino che nascondeva la collocazione di allegati. Il confronto di Sael ne mostrò l’incompletezza; alcuni reperti furono recuperati, altri erano già perduti. Morì nel −11998 dopo custodia e testimonianza, continuità estinta.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Umano",
+      "historical_372": {
+        "episode": "Nel −12074 consegnò a Talren un indice genuino che nascondeva la collocazione di allegati. Il confronto di Sael ne mostrò l’incompletezza; alcuni reperti furono recuperati, altri erano già perduti.",
+        "fate": "Morì nel −11998 dopo custodia e testimonianza, continuità estinta.",
+        "relic": "Un registro di scaffale con numeri corretti ma collocazioni spostate.",
+        "society": "Kharven Galleries"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-619",
+      "name": "Odran Mell",
+      "age_or_condition": "Morì nel −11961 in una contesa civile degenerata in aggressione; continuità estinta.",
+      "place": "Serekh Basin Courts",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Coin",
+          "stage": 5,
+          "stage_title": "Treasurer",
+          "general_rank": "Ascendance"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Intermediario dei riscatti e delle famiglie ostaggio",
+      "goal": "Conservare l’apparato storico di intermediario dei riscatti e delle famiglie ostaggio",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Nel −12036 presentò a Ceth un pagamento come liberazione che conservava l’obbligo ereditario. La trattativa fu respinta; perse i depositi quando le comunità cambiarono rete di scambio.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-038",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Coin",
+            "stage": 5,
+            "stage_title": "Treasurer",
+            "general_rank": "Ascendance"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-619.md",
+      "biography_complement": "Nel −12036 presentò a Ceth un pagamento come liberazione che conservava l’obbligo ereditario. La trattativa fu respinta; perse i depositi quando le comunità cambiarono rete di scambio. Morì nel −11961 in una contesa civile degenerata in aggressione; continuità estinta.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Umano",
+      "historical_372": {
+        "episode": "Nel −12036 presentò a Ceth un pagamento come liberazione che conservava l’obbligo ereditario. La trattativa fu respinta; perse i depositi quando le comunità cambiarono rete di scambio.",
+        "fate": "Morì nel −11961 in una contesa civile degenerata in aggressione; continuità estinta.",
+        "relic": "Una ricevuta autentica che salda un prezzo ma non estingue il vincolo annotato a margine.",
+        "society": "Serekh Basin Courts"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
+    },
+    {
+      "id": "CAST-620",
+      "name": "Rethan Ul",
+      "age_or_condition": "Estinto nel −12098 nella sconfitta della guarnigione; non superstite segreto né titolare di Banner VII.",
+      "place": "Kharven Galleries",
+      "location_id": null,
+      "state": null,
+      "continent": null,
+      "powers": [
+        {
+          "effigy": "Banner",
+          "stage": 6,
+          "stage_title": "Grand Marshal",
+          "general_rank": "Eminence"
+        }
+      ],
+      "power_scope": "HISTORICAL_PHASE",
+      "role": "Comandante del dispositivo militare di Grey Brands, già nominato in CAM-01",
+      "goal": "Conservare l’apparato storico di comandante del dispositivo militare di grey brands, già nominato in cam-01",
+      "tension": "L’emancipazione sottraeva persone, risorse e legittimità al suo incarico",
+      "secret": "Nel −12098 ordinò l’apertura dei condotti prima che l’evacuazione fosse conclusa. Thessa Kurn comandava un reparto nel suo dispositivo. Vara contese la guarnigione ed Edran raggiunse i circuiti maggiori; anche il piano alleato aveva sottostimato il rischio, come già fissato.",
+      "voice": "Ricostruire voce da atti e testimonianze; nessun dialogo presente del morto",
+      "tier": "IMPORTANT",
+      "origin": "Espansione storica 372",
+      "network": null,
+      "activation": "Storico, cessato",
+      "access": "NARRATOR_RESERVED",
+      "future_outcome": "FATE_FIXED; conseguenze moderne aperte",
+      "image_priority": "NONE",
+      "aliases": [],
+      "relations": [
+        {
+          "target": "CAST-037",
+          "kind": "Avversario o interlocutore storico secondo il dossier, non relazione attuale fra viventi"
+        }
+      ],
+      "sources": [
+        "RISERVATO_372_Antagonisti_delle_Signorie.md",
+        "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md"
+      ],
+      "limits": "Estinto; repertorio solo storico, nessuna azione autonoma presente",
+      "inventory": {
+        "personal_effigies": [
+          {
+            "effigy": "Banner",
+            "stage": 6,
+            "stage_title": "Grand Marshal",
+            "general_rank": "Eminence"
+          }
+        ],
+        "personal_root": null,
+        "full_seats": [],
+        "power_scope": "HISTORICAL_PHASE"
+      },
+      "current": "Non agisce al T0; circolano tracce e attribuzioni",
+      "document": "CAST-620.md",
+      "biography_complement": "Nel −12098 ordinò l’apertura dei condotti prima che l’evacuazione fosse conclusa. Thessa Kurn comandava un reparto nel suo dispositivo. Vara contese la guarnigione ed Edran raggiunse i circuiti maggiori; anche il piano alleato aveva sottostimato il rischio, come già fissato. Estinto nel −12098 nella sconfitta della guarnigione; non superstite segreto né titolare di Banner VII.",
+      "specific_fear": "Perdere il controllo dell’apparato da cui dipendeva il proprio ruolo",
+      "biological_population": "Umano",
+      "historical_372": {
+        "episode": "Nel −12098 ordinò l’apertura dei condotti prima che l’evacuazione fosse conclusa. Thessa Kurn comandava un reparto nel suo dispositivo. Vara contese la guarnigione ed Edran raggiunse i circuiti maggiori; anche il piano alleato aveva sottostimato il rischio, come già fissato.",
+        "fate": "Estinto nel −12098 nella sconfitta della guarnigione; non superstite segreto né titolare di Banner VII.",
+        "relic": "Un ordine di guarnigione e la distinta delle aperture confrontabili con EVD-02.",
+        "society": "Kharven Galleries"
+      },
+      "hooks": [
+        "Confronto di un reperto attribuito",
+        "Uso moderno di un precedente storico"
+      ],
+      "pressure": "Nessuna agenda personale dopo la morte",
+      "impact": "Impatto storico significativo; scoperta presente valutata caso per caso",
+      "evolution_without_pc": "Gli attori moderni possono studiare le tracce, non viene resuscitato il soggetto"
     }
   ],
   "networks": [
@@ -61100,13 +63632,13 @@
   "status": "COMPLETE",
   "counts": {
     "CENTRAL": 45,
-    "IMPORTANT": 255,
+    "IMPORTANT": 286,
     "FUNCTIONAL": 289
   },
-  "total": 589,
+  "total": 620,
   "secondary_depth_complete": true,
-  "revision": 366,
-  "actor_count": 587,
+  "revision": 372,
+  "actor_count": 620,
   "network_count": 58,
   "integration_revision": "RACCORDI-317",
   "world_integration_source": "RISERVATO_178_Integrazione_notturna_milestone_5_10.md",
@@ -61127,5 +63659,6 @@
   "artifact_revision": 362,
   "core_exchange_source": "CANONE_VIGENTE/Exchange_dodici_366.json",
   "editorial_revision_367": "55 approfondimenti individuali: figure centrali, potenze e responsabili dei dodici fronti; inventari e poteri conservati.",
-  "retcon_revision_369": "Causa della crisi personale sostituita su richiesta del giocatore; un solo personaggio già esistente approfondito, nessun nuovo potere."
+  "retcon_revision_369": "Causa della crisi personale sostituita su richiesta del giocatore; un solo personaggio già esistente approfondito, nessun nuovo potere.",
+  "historical_expansion_source": "RISERVATO_372_Antagonisti_delle_Signorie.md"
 }

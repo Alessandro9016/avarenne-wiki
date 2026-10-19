@@ -92,3 +92,21 @@ Questi estratti conservano dettagli già stabiliti; eventuali riferimenti a mile
 **Provenienza della precisazione:** NUOVA_DECISIONE_AUTORIALE_ESPLICITA. Consolidamento autoriale della corporeità umana ordinaria; non una conclusione dedotta da silenzio o nome.
 
 Poteri, date, famiglia, competenze e obiettivi restano quelli delle sezioni precedenti. Nessun individuo rappresenta moralmente la propria popolazione.
+
+
+## Provenienza e rapporto storico — 372
+
+## Rhael Den — CAST-042
+
+### Prima del rapporto
+
+Loom III, alleanza nel −12102. Rhael proveniva da comunità di rifugio già autonome, non da una Signoria proprietaria. Scelse la coalizione per difendere alternative praticabili.
+
+### Crescita e responsabilità
+
+Cresciuto fino a VI, sostenne pianificazione e vie alternative.
+
+### Rapporto con Edran
+
+Collaboratore volontario con mandato, non schiavo liberato per uniformare ogni biografia.
+

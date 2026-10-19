@@ -124,8 +124,8 @@
       "group": "Dati strutturati e registri",
       "url": "9f5d1e0af2de6024.html",
       "raw": "fonti/9f5d1e0af2de6024.json",
-      "sha256": "4f88b3c494510d0863b84baffd48dacef3c44db9402e8930adcb44b0a2b13c31",
-      "bytes": 3546266
+      "sha256": "03e566f6c5c0131143c72665de3c92c18cac938d1a81bc88a988c66c8571077b",
+      "bytes": 3692444
     },
     {
       "source": "CANONE_VIGENTE/Censimento_visuale_luoghi.json",
@@ -574,8 +574,8 @@
       "group": "Dati strutturati e registri",
       "url": "fe9fbb2c8f28317b.html",
       "raw": "fonti/fe9fbb2c8f28317b.json",
-      "sha256": "4566c91200dd5f765e8e5175e0cb1b249935a94d0c88e6ffcb5d0491c2e970f5",
-      "bytes": 84874
+      "sha256": "86625e30e7b5d9327b962687c996333d8705243a1cc8bbd3cff91c62526da711",
+      "bytes": 85070
     },
     {
       "source": "CANONE_VIGENTE/Regole_comuni.json",
@@ -691,8 +691,8 @@
       "group": "Dati strutturati e registri",
       "url": "6e75acc198d49235.html",
       "raw": "fonti/6e75acc198d49235.json",
-      "sha256": "ebba9a2572478ff70e4aab64596b939198f94e09bf009e1a5a038cf9860b5678",
-      "bytes": 482507
+      "sha256": "ecebfb2a26d5dea81bda0203b06275f25ad4e04627f8d3d7a891c34bff944192",
+      "bytes": 486426
     },
     {
       "source": "CANONE_VIGENTE/Trama_riservata.json",
@@ -700,8 +700,8 @@
       "group": "Dati strutturati e registri",
       "url": "4613e26eddb565d5.html",
       "raw": "fonti/4613e26eddb565d5.json",
-      "sha256": "ccda24f09bc1eb2c8f88a71fd54a59ef8a0efd25b8e5eff4b05ddbe155447e67",
-      "bytes": 229515
+      "sha256": "4ba3db6794e5025c18cda166d9b021027f8abdd7c2ccc9c29fa52043cc15272d",
+      "bytes": 229823
     },
     {
       "source": "CANONE_VIGENTE/Unita_milestone11.json",
@@ -1069,8 +1069,8 @@
       "group": "Cast — dossier individuali",
       "url": "c10dda822c32852e.html",
       "raw": "fonti/c10dda822c32852e.md",
-      "sha256": "c5aca43f7359aaaae296a962c317edc2f18d90fe90d225aa1bf660ae65e4f00d",
-      "bytes": 18888
+      "sha256": "d2a94c798fb747e94fd671ac8ee38c7ba5a2f3ac3547775f00e58dadadbe81d3",
+      "bytes": 19604
     },
     {
       "source": "CAST_RISERVATO/CAST-008.md",
@@ -1078,7 +1078,7 @@
       "group": "Cast — dossier individuali",
       "url": "31c80887f2e1f33d.html",
       "raw": "fonti/31c80887f2e1f33d.md",
-      "sha256": "1cfd27046ab0ab517a4234791b0e994a0ade8a5032c3cc5f75753f10af02bf95",
+      "sha256": "628b8f54141e6b9ad797337a3e5ab37d61958095bfb91e5118934ec31b0a3b8b",
       "bytes": 18731
     },
     {
@@ -1087,7 +1087,7 @@
       "group": "Cast — dossier individuali",
       "url": "f96f1126d2a8f3b9.html",
       "raw": "fonti/f96f1126d2a8f3b9.md",
-      "sha256": "e967c98c4b3aaca778522347c514f6201ed928c87fc8e32d1955300026a2d9b7",
+      "sha256": "5d10ab66c13e2deec8af2551eaac7d4166af12e040cde00f67f24a6a686bc346",
       "bytes": 18115
     },
     {
@@ -1096,7 +1096,7 @@
       "group": "Cast — dossier individuali",
       "url": "2212ba1d533ef201.html",
       "raw": "fonti/2212ba1d533ef201.md",
-      "sha256": "ec33b57a34a99e44542d83baed12812d15b3e83429064f9bcf1451b5a301d95d",
+      "sha256": "3447676086969cb95f5b61d7f0ffa393ee53a3180a60a66292feee2b993a0c32",
       "bytes": 18739
     },
     {
@@ -1105,8 +1105,8 @@
       "group": "Cast — dossier individuali",
       "url": "7f2455c4913444d8.html",
       "raw": "fonti/7f2455c4913444d8.md",
-      "sha256": "549b4ebf4b9176b20c6fa2353863c7908d4605d03095d067a7ed63db375e74ab",
-      "bytes": 23004
+      "sha256": "998f1f23d233d84bf284e277167fd81aba459cbbc53683f0b25d3a77d32437ce",
+      "bytes": 23431
     },
     {
       "source": "CAST_RISERVATO/CAST-012.md",
@@ -1114,8 +1114,8 @@
       "group": "Cast — dossier individuali",
       "url": "0e56f1562937706f.html",
       "raw": "fonti/0e56f1562937706f.md",
-      "sha256": "1cfd6b4a35155d6d81b9abfcee5793afa08d73c9ca99ddbe19624778c11c0115",
-      "bytes": 17773
+      "sha256": "3896dd40513015f2c4ba0dd647acacb87b888701327da373a4ff7792863a05e1",
+      "bytes": 18346
     },
     {
       "source": "CAST_RISERVATO/CAST-013.md",
@@ -1123,8 +1123,8 @@
       "group": "Cast — dossier individuali",
       "url": "c00dfc3a9747ef57.html",
       "raw": "fonti/c00dfc3a9747ef57.md",
-      "sha256": "ecd50f2c08308b19573d77634f28de01dcda2de6f8c10c191bd3e37fc7f7cb2a",
-      "bytes": 15730
+      "sha256": "6c6b7b9e262863be557bdb9f69667194aab57d253bff846f7bd615444ac1984e",
+      "bytes": 16323
     },
     {
       "source": "CAST_RISERVATO/CAST-014.md",
@@ -1132,8 +1132,8 @@
       "group": "Cast — dossier individuali",
       "url": "e4d285287e3bdafb.html",
       "raw": "fonti/e4d285287e3bdafb.md",
-      "sha256": "f1246cfa382484f7c7cfbaaeb83da9f30c55c9a36f98a8d983c6f1e700033709",
-      "bytes": 15950
+      "sha256": "b0bbf9d4e89c8f007eb748b7c0498bc066b615df22e529688d4e5554d1cfcdac",
+      "bytes": 16590
     },
     {
       "source": "CAST_RISERVATO/CAST-015.md",
@@ -1141,8 +1141,8 @@
       "group": "Cast — dossier individuali",
       "url": "f48fde31693db0f0.html",
       "raw": "fonti/f48fde31693db0f0.md",
-      "sha256": "7cb201c5bb8b6ca780d6b09909a825ee88b7c9fbbc04e111190d170493a13663",
-      "bytes": 20076
+      "sha256": "44b84c524bcb760024c510954fc68f1419551b227929391f70af14b29a22fe7e",
+      "bytes": 20691
     },
     {
       "source": "CAST_RISERVATO/CAST-016.md",
@@ -1150,7 +1150,7 @@
       "group": "Cast — dossier individuali",
       "url": "1c38e76b70e6f200.html",
       "raw": "fonti/1c38e76b70e6f200.md",
-      "sha256": "dc347bea3b511573211957b7ca25e7575d8e6e1ee417a460feeef41c457f987c",
+      "sha256": "0f11604a603bb485c4333e92436b1b3fb7d6f4ede271591cb34504d8699b1ac6",
       "bytes": 16292
     },
     {
@@ -1159,7 +1159,7 @@
       "group": "Cast — dossier individuali",
       "url": "779b75ea3f43be82.html",
       "raw": "fonti/779b75ea3f43be82.md",
-      "sha256": "860cf8ca9986b59e7c38f9066c725fdee68a957a6f868266f757ddb247374c56",
+      "sha256": "1dd9f886290c5e305e7139f4a62da52cdc338857f467680f3345022877402bef",
       "bytes": 16303
     },
     {
@@ -1168,8 +1168,8 @@
       "group": "Cast — dossier individuali",
       "url": "1e740757e872f5f6.html",
       "raw": "fonti/1e740757e872f5f6.md",
-      "sha256": "6e960283113e9d2bc9a0c63ea010ef152cd2088d232b8c6aab0ab6f3b711b055",
-      "bytes": 16906
+      "sha256": "c896318fa54d7a432be252cd2153fc2e8dc1908d5805e1f52dad3a73d00550e3",
+      "bytes": 17684
     },
     {
       "source": "CAST_RISERVATO/CAST-019.md",
@@ -1177,7 +1177,7 @@
       "group": "Cast — dossier individuali",
       "url": "b476edf1f0d7e0c0.html",
       "raw": "fonti/b476edf1f0d7e0c0.md",
-      "sha256": "c6400bb5d47f6bca3bb85f8f8cb947cf9b9ee72c32a1072df66f706bcc5e9070",
+      "sha256": "1d0a822060c03e711bad5229a120404a26345fde47d9a2eb3a1f52ee66cf9714",
       "bytes": 17934
     },
     {
@@ -1186,8 +1186,8 @@
       "group": "Cast — dossier individuali",
       "url": "9f99ff79fe4bb38a.html",
       "raw": "fonti/9f99ff79fe4bb38a.md",
-      "sha256": "b62f0af3a1f6c65d3fcfd8ea84107790331de5e5d42be5f04d0a14058013eb76",
-      "bytes": 17648
+      "sha256": "9216bc69045c21fce233b42b929b052f4fa8d089a43100823e87b5f194cf81cc",
+      "bytes": 17476
     },
     {
       "source": "CAST_RISERVATO/CAST-021.md",
@@ -1213,8 +1213,8 @@
       "group": "Cast — dossier individuali",
       "url": "8c71057a5d394a3b.html",
       "raw": "fonti/8c71057a5d394a3b.md",
-      "sha256": "c5e3a1ddd6b8945eb96bcf4cb33e2836509acff0672de3f46cdcb1a7ae8c4d4c",
-      "bytes": 10073
+      "sha256": "1f592dec1e785019e10fff5654399261e24fcbc521ab02708db4e5d500c26f6a",
+      "bytes": 10642
     },
     {
       "source": "CAST_RISERVATO/CAST-024.md",
@@ -1222,8 +1222,8 @@
       "group": "Cast — dossier individuali",
       "url": "487c8188a2a14c1f.html",
       "raw": "fonti/487c8188a2a14c1f.md",
-      "sha256": "e027091e0215ba8e748efa275fd8651db9b33c482d58afcef49c5631572b187f",
-      "bytes": 10720
+      "sha256": "7693d359c11e810ec21a35086522b2bd820f68b88f946876eda8dd7a1a509a53",
+      "bytes": 11319
     },
     {
       "source": "CAST_RISERVATO/CAST-025.md",
@@ -1231,8 +1231,8 @@
       "group": "Cast — dossier individuali",
       "url": "56bd9260f378115b.html",
       "raw": "fonti/56bd9260f378115b.md",
-      "sha256": "46b359c9e24d943c12269fb2bb0a782086808817cb65473a4c01c53bf2d63e6c",
-      "bytes": 10377
+      "sha256": "1b51f30b35a32edcd789a410c84fe024f64df1203f5e5f560536871a4dfdd40d",
+      "bytes": 10981
     },
     {
       "source": "CAST_RISERVATO/CAST-026.md",
@@ -1330,8 +1330,8 @@
       "group": "Cast — dossier individuali",
       "url": "1254ae20e8ad377f.html",
       "raw": "fonti/1254ae20e8ad377f.md",
-      "sha256": "4fc6376131942ffdd1ca8df84839a431c4d2012733ee81bc6024f769fb7c8f3c",
-      "bytes": 8954
+      "sha256": "3a534e68ccaaf681deea0b8742257ae153ef17d4e63e26031d2c9f35b9040f85",
+      "bytes": 9622
     },
     {
       "source": "CAST_RISERVATO/CAST-037.md",
@@ -1339,8 +1339,8 @@
       "group": "Cast — dossier individuali",
       "url": "8e3bbe6b846544ed.html",
       "raw": "fonti/8e3bbe6b846544ed.md",
-      "sha256": "85a981fc9edcd48eec41e992a7e039a14c8b1d8403f4d9258c1fa2f633b41e24",
-      "bytes": 8588
+      "sha256": "ce68a8cf4e7ee688e2253b22e48c6cd678ebad784ed45bf9bfa8b905ce438d3d",
+      "bytes": 9204
     },
     {
       "source": "CAST_RISERVATO/CAST-038.md",
@@ -1348,8 +1348,8 @@
       "group": "Cast — dossier individuali",
       "url": "e74ca562df8635f9.html",
       "raw": "fonti/e74ca562df8635f9.md",
-      "sha256": "65b6243bf9320126404f81d7f0a03937a98270fec10d318d911df42b15064412",
-      "bytes": 8212
+      "sha256": "b7f81f0b577cd943427a728109ebe01954151b74e29ee9e3fdbc4328ab294e14",
+      "bytes": 8898
     },
     {
       "source": "CAST_RISERVATO/CAST-039.md",
@@ -1357,8 +1357,8 @@
       "group": "Cast — dossier individuali",
       "url": "84d03f320fbe56e3.html",
       "raw": "fonti/84d03f320fbe56e3.md",
-      "sha256": "2799f492048909c2a0facf9771e6492aa01c773f336f254d28396e7bec230cae",
-      "bytes": 8684
+      "sha256": "70af0a70f683fc8cbe934b4be8db16744ca46ca716fb29d2a1950755d75aa1dc",
+      "bytes": 9280
     },
     {
       "source": "CAST_RISERVATO/CAST-040.md",
@@ -1366,8 +1366,8 @@
       "group": "Cast — dossier individuali",
       "url": "b28586c4f1597e00.html",
       "raw": "fonti/b28586c4f1597e00.md",
-      "sha256": "b809307c2fb71f07002fa1d9bc9c22c2a3332c2ef3eb92dcf7412ca89f103ac0",
-      "bytes": 8770
+      "sha256": "d658b94cef4bd4d19cad8009d1b00ee46a7c2ca8b99b2445254c7d902904b4e1",
+      "bytes": 9344
     },
     {
       "source": "CAST_RISERVATO/CAST-041.md",
@@ -1375,8 +1375,8 @@
       "group": "Cast — dossier individuali",
       "url": "0ba003254b6fe944.html",
       "raw": "fonti/0ba003254b6fe944.md",
-      "sha256": "d418b75c91c9b229f169c6dd638ce308386dd2ddefd92750633c92b68866607e",
-      "bytes": 9056
+      "sha256": "46d8df2877fcfd0887c2fdc6cdb673af0c5346ed84e568431ccf51482a530e18",
+      "bytes": 9622
     },
     {
       "source": "CAST_RISERVATO/CAST-042.md",
@@ -1384,8 +1384,8 @@
       "group": "Cast — dossier individuali",
       "url": "5abffed6ddb722c9.html",
       "raw": "fonti/5abffed6ddb722c9.md",
-      "sha256": "f45e05599123e2549438745ceffec8addde900d181e804fbdb46cc80f275019d",
-      "bytes": 8635
+      "sha256": "669069ff3b2f6606b660e54baa5ec0c675e9cd84df63267ed3c17c937de3ad93",
+      "bytes": 9126
     },
     {
       "source": "CAST_RISERVATO/CAST-043.md",
@@ -1393,8 +1393,8 @@
       "group": "Cast — dossier individuali",
       "url": "b50b2002416ee75a.html",
       "raw": "fonti/b50b2002416ee75a.md",
-      "sha256": "ff840dbf8273441a23e2e8668408f65c66e4cd8ca6d2e1ad1cea84899cdcf7cb",
-      "bytes": 8562
+      "sha256": "b2a2185bc823a946283e9b4c8bb50b715179f355df76d0b48e59a6dae9a8124c",
+      "bytes": 9206
     },
     {
       "source": "CAST_RISERVATO/CAST-044.md",
@@ -1402,8 +1402,8 @@
       "group": "Cast — dossier individuali",
       "url": "c138c40ddee8ce76.html",
       "raw": "fonti/c138c40ddee8ce76.md",
-      "sha256": "5d46fae5729ea061da1ebd282ec994db3c5a7960ad8533c5786d8b549f673c47",
-      "bytes": 8839
+      "sha256": "859c76522843fb2e601bba828b495e9bad9e8795068b0ab9bb3467c82aa93905",
+      "bytes": 9426
     },
     {
       "source": "CAST_RISERVATO/CAST-045.md",
@@ -6253,8 +6253,8 @@
       "group": "Documenti del giocatore",
       "url": "504ddcfb8b237b69.html",
       "raw": "fonti/504ddcfb8b237b69.md",
-      "sha256": "ef41b05aed7ec037c68e6df2f8c55161b7aabb44aaae686f9a773633a002602b",
-      "bytes": 9141
+      "sha256": "e7bbc7c37d5a23eb82e3e1b7211dbb547042d1184e89474ac31544ab332db423",
+      "bytes": 9688
     },
     {
       "source": "GIOCATORE_81_Dotazione_iniziale_e_capacita_pratiche.md",
@@ -6730,8 +6730,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "b2ddc4c73ff23f10.html",
       "raw": "fonti/b2ddc4c73ff23f10.md",
-      "sha256": "311ea4c48fefdd4d75900f24cf47b2a26e906bcbae5238824dd2a88dad3554f4",
-      "bytes": 23093
+      "sha256": "7dcde21a48e34b5d77dc357073c17fe765848c391ec7b18a782df172010bd678",
+      "bytes": 24878
     },
     {
       "source": "RISERVATO_280_Althene_lutto_e_indagine.md",
@@ -6811,8 +6811,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "4436a7ade4db1b66.html",
       "raw": "fonti/4436a7ade4db1b66.md",
-      "sha256": "00c749e04cff078bbdaa88b0d084f398171f00d2c11bdc67c8c38aa27a29487c",
-      "bytes": 18762
+      "sha256": "151ce252e53e5fdffeb052d6389aa002082a64807dd30b044be8a4725e123958",
+      "bytes": 20063
     },
     {
       "source": "RISERVATO_95_Origini_societa_e_potenze_antiche.md",
@@ -6820,8 +6820,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "4159cddc6141aca6.html",
       "raw": "fonti/4159cddc6141aca6.md",
-      "sha256": "372bf83107dab5590f163ec521fe4ced30c4e27ca3b841e9f7a50d76f12b7f23",
-      "bytes": 7538
+      "sha256": "2950af67d15103bd3d4a5964d2482b8fb8c3e0ca13faceebf3237805de2085db",
+      "bytes": 8779
     },
     {
       "source": "RISERVATO_96_Campagne_opere_ed_eredita_del_Creator.md",
@@ -6829,8 +6829,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "7822eb55dc62d202.html",
       "raw": "fonti/7822eb55dc62d202.md",
-      "sha256": "89a5bfa53f3c40c28de44c08f266adb40f77573ad8061c38b3e61c3ff3e75df6",
-      "bytes": 6745
+      "sha256": "d8c31cb239f378967af5de95d4cfa7ab0cdfa61e946bb77efbec0fc37c614e05",
+      "bytes": 8046
     },
     {
       "source": "RISERVATO_97_Caduta_Nove_Sedi_e_storia_delle_attribuzioni.md",
@@ -6847,8 +6847,8 @@
       "group": "Documenti riservati e conduzione",
       "url": "61b23e186a912a17.html",
       "raw": "fonti/61b23e186a912a17.md",
-      "sha256": "23c21a3c60c50ab073c80ce6550b8b49c7138eb0dace4ad5853319fc34778722",
-      "bytes": 11313
+      "sha256": "74b0a388b2ef8cf73c66cf3d3d89a6883ad0f5041783d84b106405ac4534cfb0",
+      "bytes": 12664
     },
     {
       "source": "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md",
@@ -7237,8 +7237,8 @@
       "group": "Canone vigente e verifica della consegna",
       "url": "06300f093b9b4ae7.html",
       "raw": "fonti/06300f093b9b4ae7.md",
-      "sha256": "bbca9168e0f01b316da3af1528388dd7b82e3e97292302ca8cf835b7b2b8a43a",
-      "bytes": 69711
+      "sha256": "0d022d6e1933ec228170b78a4073027e1cbf7e3b4efced692a7092f6bd912082",
+      "bytes": 71419
     },
     {
       "source": "342_Stato_vigente_per_la_consegna.md",
@@ -7365,8 +7365,8 @@
       "raw": "fonti/a510f792bbb6c15f.txt",
       "sha256": "ae2906fb6b219e9520f452497c471f58f8045a8850bda49cdc56457eaea434c6",
       "bytes": 227939,
-      "status": "STORICO_SUPERATO_PER_CAUSA_DELLA_CRISI",
-      "current_successor": "Consegna 369"
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
     },
     {
       "source": "AVVIO_NARRATORE/PROTOCOLLO_NARRATORE_AVARENNE.txt",
@@ -7376,8 +7376,8 @@
       "raw": "fonti/5de80396760c781e.txt",
       "sha256": "054825f27d0b396c624091c0d52e96bd24d93a999b3f341eb647cb8981397609",
       "bytes": 21572,
-      "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
-      "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
     },
     {
       "source": "CANONE_VIGENTE/Esempi_abilita_345.json",
@@ -9493,8 +9493,8 @@
       "group": "Consolidamento354",
       "url": "6660d8dc11a8e0d2.html",
       "raw": "fonti/6660d8dc11a8e0d2.md",
-      "sha256": "bbca9168e0f01b316da3af1528388dd7b82e3e97292302ca8cf835b7b2b8a43a",
-      "bytes": 69711
+      "sha256": "0d022d6e1933ec228170b78a4073027e1cbf7e3b4efced692a7092f6bd912082",
+      "bytes": 71419
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/DOSSIER_POLITICI_354/CAST-552.md",
@@ -15910,8 +15910,8 @@
       "group": "Figure e opposizioni — 367",
       "url": "c5daf7238737c37c.html",
       "raw": "fonti/c5daf7238737c37c.md",
-      "sha256": "57bb61307f0243f5669c2c31378d2da345923bca12bd1b00046eb6a9445fac4f",
-      "bytes": 3004
+      "sha256": "f0bb36ae351bfec14511cbc496fbffbc5c99e12b71d17afb9b90818d85bf2696",
+      "bytes": 3711
     },
     {
       "source": "DOSSIER_FIGURE_367/CAST-008_oriel-namar.md",
@@ -15946,8 +15946,8 @@
       "group": "Figure e opposizioni — 367",
       "url": "fbe730677f340aa0.html",
       "raw": "fonti/fbe730677f340aa0.md",
-      "sha256": "859b318ffdcedbb2bbd9ffdaa868073dd085c65be3594950e7a2a16a683ddc8c",
-      "bytes": 3106
+      "sha256": "775b9ea72908dd9c4c2de8104f31bdbee93b8a83badd4ea7b9eb5f7b2735699b",
+      "bytes": 3727
     },
     {
       "source": "DOSSIER_FIGURE_367/CAST-012_althene-rhos.md",
@@ -15955,8 +15955,8 @@
       "group": "Figure e opposizioni — 367",
       "url": "ca298a80e4ed0c23.html",
       "raw": "fonti/ca298a80e4ed0c23.md",
-      "sha256": "27a2e1d9721d8cf72b61e4ce2739158b2c1d5e0579e27235ccc03039da263896",
-      "bytes": 2945
+      "sha256": "23308c067ef1a8cf6c8aa62cc41fc90e229f29bf4a48e479d8fc72c02735571b",
+      "bytes": 3509
     },
     {
       "source": "DOSSIER_FIGURE_367/CAST-013_othrem-cal.md",
@@ -15964,8 +15964,8 @@
       "group": "Figure e opposizioni — 367",
       "url": "ef65c82a6c2893b8.html",
       "raw": "fonti/ef65c82a6c2893b8.md",
-      "sha256": "45af11fbfb7688402101d026d66a8fec7aa888dfec4f191a4af962cb39169bd2",
-      "bytes": 2950
+      "sha256": "aa0a5eb57be5f8e236b19568f25fd990b75b6a29985c299de732a0c656496b1a",
+      "bytes": 3692
     },
     {
       "source": "DOSSIER_FIGURE_367/CAST-014_ilyra-sen.md",
@@ -15973,8 +15973,8 @@
       "group": "Figure e opposizioni — 367",
       "url": "6ca48a7b6dd417e8.html",
       "raw": "fonti/6ca48a7b6dd417e8.md",
-      "sha256": "e207cb0e07b26ea9513c5c44fe26d2555c310a83390bb5cefa3124d49b5374e7",
-      "bytes": 2963
+      "sha256": "2137c4fac90af7712c26230db854be655bab5bc54cba4c828c784eff0ef85e2c",
+      "bytes": 3762
     },
     {
       "source": "DOSSIER_FIGURE_367/CAST-015_deyran-ur.md",
@@ -15982,8 +15982,8 @@
       "group": "Figure e opposizioni — 367",
       "url": "5b31071304c2e15b.html",
       "raw": "fonti/5b31071304c2e15b.md",
-      "sha256": "752e3008a270835a538225e4c7475e506506e609571ee80d07070b72413ac31d",
-      "bytes": 2979
+      "sha256": "3ad25f9d984fd994e096a61f781da5594afc6f3b8e9ccb88873066107a1a6b6e",
+      "bytes": 3585
     },
     {
       "source": "DOSSIER_FIGURE_367/CAST-016_cerel-voss.md",
@@ -16009,8 +16009,8 @@
       "group": "Figure e opposizioni — 367",
       "url": "f205790e62cde446.html",
       "raw": "fonti/f205790e62cde446.md",
-      "sha256": "ae0eef09fb48c13f497e2b932b8a6bf1fe11e39352fdfba5a97e03aa2abca364",
-      "bytes": 2862
+      "sha256": "fcfebf751e748bf6ae53e9899b929159a4a4b3825d8525c1b982ee83c168bf4b",
+      "bytes": 3631
     },
     {
       "source": "DOSSIER_FIGURE_367/CAST-019_enra-keth.md",
@@ -16054,8 +16054,8 @@
       "group": "Figure e opposizioni — 367",
       "url": "f3e22cf6442dedad.html",
       "raw": "fonti/f3e22cf6442dedad.md",
-      "sha256": "ca98249442010e74d636acf145ba0af4f3ad700b53ade44d86dca34ac1f47dcd",
-      "bytes": 2717
+      "sha256": "3b5c257b04830e95aa70853960a638598e4f6b1ce606aa69825c62ddce815a9d",
+      "bytes": 3277
     },
     {
       "source": "DOSSIER_FIGURE_367/CAST-024_sereth-daal.md",
@@ -16063,8 +16063,8 @@
       "group": "Figure e opposizioni — 367",
       "url": "df6200917be9bea4.html",
       "raw": "fonti/df6200917be9bea4.md",
-      "sha256": "2a16625a6777edfa526841ddcd89cd1a57ac6b63d81d9f5f7f1bb78a8431ffed",
-      "bytes": 2765
+      "sha256": "e9efe86677ed1dc21f0b8776cfd70a734581c3d2da050b72346cbc8ee4838dd3",
+      "bytes": 3355
     },
     {
       "source": "DOSSIER_FIGURE_367/CAST-025_sael-mereth.md",
@@ -16072,8 +16072,8 @@
       "group": "Figure e opposizioni — 367",
       "url": "0ece55c40f9ac4bf.html",
       "raw": "fonti/0ece55c40f9ac4bf.md",
-      "sha256": "e372bbefe8f5e54d38590d624952dde14c770863a3b7fb8e37be61425632d043",
-      "bytes": 2670
+      "sha256": "2285d68c38a2fc173fd02f2a27145f9cfa881566a63f69259ce837e410d87497",
+      "bytes": 3265
     },
     {
       "source": "DOSSIER_FIGURE_367/CAST-026_denor-rai.md",
@@ -17676,8 +17676,8 @@
       "group": "Consolidamento pre-avvio 370",
       "url": "d92ae8ed299b5834.html",
       "raw": "fonti/d92ae8ed299b5834.md",
-      "sha256": "bbca9168e0f01b316da3af1528388dd7b82e3e97292302ca8cf835b7b2b8a43a",
-      "bytes": 69711
+      "sha256": "0d022d6e1933ec228170b78a4073027e1cbf7e3b4efced692a7092f6bd912082",
+      "bytes": 71419
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/08_Geografia/RISERVATO_370_Siti_soprannaturali_guida_completa.md",
@@ -17761,8 +17761,8 @@
       "group": "Consolidamento pre-avvio 370",
       "url": "1aa01fb21decba9d.html",
       "raw": "fonti/1aa01fb21decba9d.md",
-      "sha256": "311ea4c48fefdd4d75900f24cf47b2a26e906bcbae5238824dd2a88dad3554f4",
-      "bytes": 23093
+      "sha256": "7dcde21a48e34b5d77dc357073c17fe765848c391ec7b18a782df172010bd678",
+      "bytes": 24878
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_370/RISERVATO_370_Calendario_unificato.md",
@@ -17830,8 +17830,8 @@
       "group": "Consolidamento pre-avvio 370",
       "url": "5c6468fd3d8ff248.html",
       "raw": "fonti/5c6468fd3d8ff248.md",
-      "sha256": "311ea4c48fefdd4d75900f24cf47b2a26e906bcbae5238824dd2a88dad3554f4",
-      "bytes": 23093
+      "sha256": "7dcde21a48e34b5d77dc357073c17fe765848c391ec7b18a782df172010bd678",
+      "bytes": 24878
     },
     {
       "source": "RISERVATO_370_Siti_soprannaturali_guida_completa.md",
@@ -18229,6 +18229,1236 @@
       "bytes": 5602,
       "status": "STORICO_SUPERATO_SUL_TEMA_ASSIALE",
       "current_successor": "GIOCATORE_371_Quattro_Axials_e_salto_qualitativo.md"
+    },
+    {
+      "source": "372_Prompt_ritratti_Signorie.md",
+      "title": "372 Prompt ritratti Signorie",
+      "group": "Liberazione e Signorie — 372",
+      "url": "07f44a47ef6a0e3a.html",
+      "raw": "fonti/07f44a47ef6a0e3a.md",
+      "sha256": "4cc3ad6f574aa492576ed70bb941b789dedc2c107b63425f8c3481e6cf96580d",
+      "bytes": 1517
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-616.md",
+      "title": "CAST-616",
+      "group": "Liberazione e Signorie — 372",
+      "url": "256f398fe0f6a807.html",
+      "raw": "fonti/256f398fe0f6a807.md",
+      "sha256": "17d6b845f85aee5f7e30ff6ebc77e4ee3dc0e8608c80d2c66b68fc80777a8e43",
+      "bytes": 3687
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-044.md",
+      "title": "CAST-044",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "f0fdd746f2750da8.html",
+      "raw": "fonti/f0fdd746f2750da8.md",
+      "sha256": "5d46fae5729ea061da1ebd282ec994db3c5a7960ad8533c5786d8b549f673c47",
+      "bytes": 8839,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/RISERVATO_94_Cronologia_integrale_ed_ere.md",
+      "title": "RISERVATO 94 Cronologia integrale ed ere",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "436638abf0f9e7bd.html",
+      "raw": "fonti/436638abf0f9e7bd.md",
+      "sha256": "00c749e04cff078bbdaa88b0d084f398171f00d2c11bdc67c8c38aa27a29487c",
+      "bytes": 18762,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-009.md",
+      "title": "CAST-009",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "4b512377a9d0f79d.html",
+      "raw": "fonti/4b512377a9d0f79d.md",
+      "sha256": "e967c98c4b3aaca778522347c514f6201ed928c87fc8e32d1955300026a2d9b7",
+      "bytes": 18115,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "CANONE_VIGENTE/Audit_Signorie_372.json",
+      "title": "Audit Signorie 372",
+      "group": "Liberazione e Signorie — 372",
+      "url": "f4711ad504ec2cc1.html",
+      "raw": "fonti/f4711ad504ec2cc1.json",
+      "sha256": "5226091c4d7e32479ccb9b17a3762644eda23f604cb69c61d2ace9724bc08373",
+      "bytes": 559
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/maruun-sev/CAST-600.md",
+      "title": "CAST-600",
+      "group": "Liberazione e Signorie — 372",
+      "url": "2e1d6830302d5058.html",
+      "raw": "fonti/2e1d6830302d5058.md",
+      "sha256": "bc09f0033fecc24adbf36f9197097d96dd675a922d97712ef4e016155fa96648",
+      "bytes": 3657
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/GIOCATORE_80_Legami_antichi_che_ricordi.md",
+      "title": "GIOCATORE 80 Legami antichi che ricordi",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "683ebf7ffb6c14f1.html",
+      "raw": "fonti/683ebf7ffb6c14f1.md",
+      "sha256": "ef41b05aed7ec037c68e6df2f8c55161b7aabb44aaae686f9a773633a002602b",
+      "bytes": 9141,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-608.md",
+      "title": "CAST-608",
+      "group": "Liberazione e Signorie — 372",
+      "url": "3a936555d8397b2a.html",
+      "raw": "fonti/3a936555d8397b2a.md",
+      "sha256": "f0060bf4d2de5363704667765eac651322a5db3ad688be794fa58048267ea81b",
+      "bytes": 3885
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-610.md",
+      "title": "CAST-610",
+      "group": "Liberazione e Signorie — 372",
+      "url": "4f9edc2efc085816.html",
+      "raw": "fonti/4f9edc2efc085816.md",
+      "sha256": "e9aa9f5c1f35f19e09299e151382c2895876a211b54bbefca9fca585b5a23af5",
+      "bytes": 3528
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CANONE_VIGENTE/Cast_riservato.json",
+      "title": "Cast riservato",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "206ea1eea6fd9959.html",
+      "raw": "fonti/206ea1eea6fd9959.json",
+      "sha256": "4f88b3c494510d0863b84baffd48dacef3c44db9402e8930adcb44b0a2b13c31",
+      "bytes": 3546266,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/DOSSIER_FIGURE_367/CAST-023_ysra-venn.md",
+      "title": "CAST-023 ysra-venn",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "0b70e31c4f15c50a.html",
+      "raw": "fonti/0b70e31c4f15c50a.md",
+      "sha256": "ca98249442010e74d636acf145ba0af4f3ad700b53ade44d86dca34ac1f47dcd",
+      "bytes": 2717,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-618.md",
+      "title": "CAST-618",
+      "group": "Liberazione e Signorie — 372",
+      "url": "b8fdb8f599f00362.html",
+      "raw": "fonti/b8fdb8f599f00362.md",
+      "sha256": "8e40a137051a1ddc38578dcd532e980a0448c1c27d620b39e1105faadb197308",
+      "bytes": 3761
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/yrel-khor/CAST-617.md",
+      "title": "CAST-617",
+      "group": "Liberazione e Signorie — 372",
+      "url": "05c6e6e56cceed10.html",
+      "raw": "fonti/05c6e6e56cceed10.md",
+      "sha256": "bcd064aca999814be0130d6d0fa3e9cca5e28f19bcfb3a278250b384ea1db3f7",
+      "bytes": 3536
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-023.md",
+      "title": "CAST-023",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "71de7938fd1d4f64.html",
+      "raw": "fonti/71de7938fd1d4f64.md",
+      "sha256": "c5e3a1ddd6b8945eb96bcf4cb33e2836509acff0672de3f46cdcb1a7ae8c4d4c",
+      "bytes": 10073,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-013.md",
+      "title": "CAST-013",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "a6ff987b8ddab4dd.html",
+      "raw": "fonti/a6ff987b8ddab4dd.md",
+      "sha256": "ecd50f2c08308b19573d77634f28de01dcda2de6f8c10c191bd3e37fc7f7cb2a",
+      "bytes": 15730,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/06_Protagonista/GIOCATORE/GIOCATORE_80_Legami_antichi_che_ricordi.md",
+      "title": "GIOCATORE 80 Legami antichi che ricordi",
+      "group": "Liberazione e Signorie — 372",
+      "url": "54649eb33519d381.html",
+      "raw": "fonti/54649eb33519d381.md",
+      "sha256": "e7bbc7c37d5a23eb82e3e1b7211dbb547042d1184e89474ac31544ab332db423",
+      "bytes": 9688
+    },
+    {
+      "source": "372_Registro_Signorie_e_liberazione.md",
+      "title": "372 Registro Signorie e liberazione",
+      "group": "Liberazione e Signorie — 372",
+      "url": "35051ef3b63c7ee4.html",
+      "raw": "fonti/35051ef3b63c7ee4.md",
+      "sha256": "3005c975182281d450a1dbf35118e86f3e0f82cc38ddf74d7c1093e6a212ab61",
+      "bytes": 1706
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-040.md",
+      "title": "CAST-040",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "eab599a2e342f57b.html",
+      "raw": "fonti/eab599a2e342f57b.md",
+      "sha256": "b809307c2fb71f07002fa1d9bc9c22c2a3332c2ef3eb92dcf7412ca89f103ac0",
+      "bytes": 8770,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-598.md",
+      "title": "CAST-598",
+      "group": "Liberazione e Signorie — 372",
+      "url": "3c6db7cb989d862a.html",
+      "raw": "fonti/3c6db7cb989d862a.md",
+      "sha256": "598d4c658c33a8b0d0492a71341b639f83f7cca25c6a4add6556cfc1a5e1511a",
+      "bytes": 3615
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-602.md",
+      "title": "CAST-602",
+      "group": "Liberazione e Signorie — 372",
+      "url": "c52cf6d6640283dd.html",
+      "raw": "fonti/c52cf6d6640283dd.md",
+      "sha256": "d9c227e0222f6b333d51f86093e7839b79736bf3b0afdeddbfd1e5ff8359ac6e",
+      "bytes": 3721
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/DOSSIER_FIGURE_367/CAST-014_ilyra-sen.md",
+      "title": "CAST-014 ilyra-sen",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "7ac53dec41704f4f.html",
+      "raw": "fonti/7ac53dec41704f4f.md",
+      "sha256": "e207cb0e07b26ea9513c5c44fe26d2555c310a83390bb5cefa3124d49b5374e7",
+      "bytes": 2963,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-024.md",
+      "title": "CAST-024",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "3838b22d656ef312.html",
+      "raw": "fonti/3838b22d656ef312.md",
+      "sha256": "e027091e0215ba8e748efa275fd8651db9b33c482d58afcef49c5631572b187f",
+      "bytes": 10720,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-010.md",
+      "title": "CAST-010",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "a2cabd3b70ce83b2.html",
+      "raw": "fonti/a2cabd3b70ce83b2.md",
+      "sha256": "ec33b57a34a99e44542d83baed12812d15b3e83429064f9bcf1451b5a301d95d",
+      "bytes": 18739,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "CANONE_VIGENTE/Signorie_personaggi_372.json",
+      "title": "Signorie personaggi 372",
+      "group": "Liberazione e Signorie — 372",
+      "url": "6f3d6b9362dbddce.html",
+      "raw": "fonti/6f3d6b9362dbddce.json",
+      "sha256": "aac56ec0bc0c30ec662fa23102d34ffb589f73e059e36b104189715f1f159ef3",
+      "bytes": 41731
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Superstiti/ithren-qor/CAST-594.md",
+      "title": "CAST-594",
+      "group": "Liberazione e Signorie — 372",
+      "url": "52eca620d1b35326.html",
+      "raw": "fonti/52eca620d1b35326.md",
+      "sha256": "bb064a790302696ffea4f2bbbca5384e5116aed3b1c8d6d96e98e5a2657c6396",
+      "bytes": 4596
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-020.md",
+      "title": "CAST-020",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "3ed72eed9733c532.html",
+      "raw": "fonti/3ed72eed9733c532.md",
+      "sha256": "b62f0af3a1f6c65d3fcfd8ea84107790331de5e5d42be5f04d0a14058013eb76",
+      "bytes": 17648,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-609.md",
+      "title": "CAST-609",
+      "group": "Liberazione e Signorie — 372",
+      "url": "275117af2dc42789.html",
+      "raw": "fonti/275117af2dc42789.md",
+      "sha256": "c49fd73fe486be3f1e413d2b8ae573195413b14c185589dc2f0a7d694bd23ce8",
+      "bytes": 3635
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/dorven-kel/CAST-613.md",
+      "title": "CAST-613",
+      "group": "Liberazione e Signorie — 372",
+      "url": "abe1abfa3c1fc604.html",
+      "raw": "fonti/abe1abfa3c1fc604.md",
+      "sha256": "c0a10cb930940ecd079d041846473e538c5f3b85f8b6165045eefe7d85060cb3",
+      "bytes": 3620
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Superstiti/kheros-daal/CAST-593.md",
+      "title": "CAST-593",
+      "group": "Liberazione e Signorie — 372",
+      "url": "9d4c59c0b68d3cfd.html",
+      "raw": "fonti/9d4c59c0b68d3cfd.md",
+      "sha256": "866e3c185893324a5523383da104f2e4433867dcaff6cb6942b3c10d7b69a7a2",
+      "bytes": 4473
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-018.md",
+      "title": "CAST-018",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "52a9e6040c808625.html",
+      "raw": "fonti/52a9e6040c808625.md",
+      "sha256": "6e960283113e9d2bc9a0c63ea010ef152cd2088d232b8c6aab0ab6f3b711b055",
+      "bytes": 16906,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Superstiti/eshara-venn/CAST-591.md",
+      "title": "CAST-591",
+      "group": "Liberazione e Signorie — 372",
+      "url": "cb3a264177148204.html",
+      "raw": "fonti/cb3a264177148204.md",
+      "sha256": "116d7dbdd52972a87cba148ecbc67be6536f86e45416f62b298692bdd70b8644",
+      "bytes": 4741
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/thelra-morn/CAST-609.md",
+      "title": "CAST-609",
+      "group": "Liberazione e Signorie — 372",
+      "url": "2bec0407893422a4.html",
+      "raw": "fonti/2bec0407893422a4.md",
+      "sha256": "c49fd73fe486be3f1e413d2b8ae573195413b14c185589dc2f0a7d694bd23ce8",
+      "bytes": 3635
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/DOSSIER_FIGURE_367/CAST-013_othrem-cal.md",
+      "title": "CAST-013 othrem-cal",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "feda57db86096cfb.html",
+      "raw": "fonti/feda57db86096cfb.md",
+      "sha256": "45af11fbfb7688402101d026d66a8fec7aa888dfec4f191a4af962cb39169bd2",
+      "bytes": 2950,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-590.md",
+      "title": "CAST-590",
+      "group": "Liberazione e Signorie — 372",
+      "url": "19bbdb0f93f02335.html",
+      "raw": "fonti/19bbdb0f93f02335.md",
+      "sha256": "d5bbede1bb573855e65602ef8a98ddee417fc00c81e1bba78fe8cf4b6389b116",
+      "bytes": 5103
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/dorrak-vel/CAST-598.md",
+      "title": "CAST-598",
+      "group": "Liberazione e Signorie — 372",
+      "url": "77e87ff66a590230.html",
+      "raw": "fonti/77e87ff66a590230.md",
+      "sha256": "598d4c658c33a8b0d0492a71341b639f83f7cca25c6a4add6556cfc1a5e1511a",
+      "bytes": 3615
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-014.md",
+      "title": "CAST-014",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "9349ffab9932149b.html",
+      "raw": "fonti/9349ffab9932149b.md",
+      "sha256": "f1246cfa382484f7c7cfbaaeb83da9f30c55c9a36f98a8d983c6f1e700033709",
+      "bytes": 15950,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "CANONE_VIGENTE/Ritratti_Signorie_372.json",
+      "title": "Ritratti Signorie 372",
+      "group": "Liberazione e Signorie — 372",
+      "url": "d155c337d0e29743.html",
+      "raw": "fonti/d155c337d0e29743.json",
+      "sha256": "79d3dd310fd7054048b711d5273a1c50c474213e20cdbd441b6f5b0665b7d344",
+      "bytes": 1766
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-591.md",
+      "title": "CAST-591",
+      "group": "Liberazione e Signorie — 372",
+      "url": "f863a691b719a078.html",
+      "raw": "fonti/f863a691b719a078.md",
+      "sha256": "116d7dbdd52972a87cba148ecbc67be6536f86e45416f62b298692bdd70b8644",
+      "bytes": 4741
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/odran-mell/CAST-619.md",
+      "title": "CAST-619",
+      "group": "Liberazione e Signorie — 372",
+      "url": "3fcf58c43b15cfed.html",
+      "raw": "fonti/3fcf58c43b15cfed.md",
+      "sha256": "33ba675dc9c108e2ade827fb270a944a12a9ed39928b70279f13351cfdb336c1",
+      "bytes": 3849
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-012.md",
+      "title": "CAST-012",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "4bcf74264a15c2cb.html",
+      "raw": "fonti/4bcf74264a15c2cb.md",
+      "sha256": "1cfd6b4a35155d6d81b9abfcee5793afa08d73c9ca99ddbe19624778c11c0115",
+      "bytes": 17773,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/ysvel-dorn/CAST-601.md",
+      "title": "CAST-601",
+      "group": "Liberazione e Signorie — 372",
+      "url": "9d4411299c231e13.html",
+      "raw": "fonti/9d4411299c231e13.md",
+      "sha256": "48f4f2e6f497e2b3d79552ea4ee34d62ae3037509ba412c5eb3654538cc810a0",
+      "bytes": 3960
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-620.md",
+      "title": "CAST-620",
+      "group": "Liberazione e Signorie — 372",
+      "url": "d81fbd580676576c.html",
+      "raw": "fonti/d81fbd580676576c.md",
+      "sha256": "564fc1b0579f008a75ab50dbf4b9b1cf9566523f5d3a05d52d49b61b5dcbe690",
+      "bytes": 3782
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-607.md",
+      "title": "CAST-607",
+      "group": "Liberazione e Signorie — 372",
+      "url": "c75ea99116672206.html",
+      "raw": "fonti/c75ea99116672206.md",
+      "sha256": "bd3a3c3da4a0d1136407873d14014036b2e732c2ac82a8876d48fc51a80f45e9",
+      "bytes": 4091
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/thessa-kurn/CAST-599.md",
+      "title": "CAST-599",
+      "group": "Liberazione e Signorie — 372",
+      "url": "9e3e5f86e1a31d27.html",
+      "raw": "fonti/9e3e5f86e1a31d27.md",
+      "sha256": "eb27bcc0a3fcaf1c79b04a206b2c374577eb7f52eee113ef5d9d0ebb5eca121b",
+      "bytes": 3580
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/RISERVATO_95_Origini_societa_e_potenze_antiche.md",
+      "title": "RISERVATO 95 Origini societa e potenze antiche",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "32dff61fda3b6b3c.html",
+      "raw": "fonti/32dff61fda3b6b3c.md",
+      "sha256": "372bf83107dab5590f163ec521fe4ced30c4e27ca3b841e9f7a50d76f12b7f23",
+      "bytes": 7538,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-037.md",
+      "title": "CAST-037",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "dc3cdd9da15185f9.html",
+      "raw": "fonti/dc3cdd9da15185f9.md",
+      "sha256": "85a981fc9edcd48eec41e992a7e039a14c8b1d8403f4d9258c1fa2f633b41e24",
+      "bytes": 8588,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CANONE_VIGENTE/Trama_riservata.json",
+      "title": "Trama riservata",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "f2a0ca85211c050d.html",
+      "raw": "fonti/f2a0ca85211c050d.json",
+      "sha256": "ccda24f09bc1eb2c8f88a71fd54a59ef8a0efd25b8e5eff4b05ddbe155447e67",
+      "bytes": 229515,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/DOSSIER_FIGURE_367/CAST-007_sairen-velis.md",
+      "title": "CAST-007 sairen-velis",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "72a8e30e29267d09.html",
+      "raw": "fonti/72a8e30e29267d09.md",
+      "sha256": "57bb61307f0243f5669c2c31378d2da345923bca12bd1b00046eb6a9445fac4f",
+      "bytes": 3004,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Cast_e_reti_civili/RISERVATO_372_Antagonisti_delle_Signorie.md",
+      "title": "RISERVATO 372 Antagonisti delle Signorie",
+      "group": "Liberazione e Signorie — 372",
+      "url": "5116035cc53bc64a.html",
+      "raw": "fonti/5116035cc53bc64a.md",
+      "sha256": "9a48433c2534c07a0fcad0551a72a550bab3ef4fc96eab8206a364bb78390bf0",
+      "bytes": 121382
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-600.md",
+      "title": "CAST-600",
+      "group": "Liberazione e Signorie — 372",
+      "url": "e001b82ad107e5c7.html",
+      "raw": "fonti/e001b82ad107e5c7.md",
+      "sha256": "bc09f0033fecc24adbf36f9197097d96dd675a922d97712ef4e016155fa96648",
+      "bytes": 3657
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-606.md",
+      "title": "CAST-606",
+      "group": "Liberazione e Signorie — 372",
+      "url": "6fb99c20e863f7a5.html",
+      "raw": "fonti/6fb99c20e863f7a5.md",
+      "sha256": "5d52f4070093d9eb17ec53085e26dd760b92d83732d40cb4b98355fb557fd9d9",
+      "bytes": 3455
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-015.md",
+      "title": "CAST-015",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "657d91b8bc2b0349.html",
+      "raw": "fonti/657d91b8bc2b0349.md",
+      "sha256": "7cb201c5bb8b6ca780d6b09909a825ee88b7c9fbbc04e111190d170493a13663",
+      "bytes": 20076,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/avral-thenn/CAST-614.md",
+      "title": "CAST-614",
+      "group": "Liberazione e Signorie — 372",
+      "url": "f9f00ba40dcf3b9e.html",
+      "raw": "fonti/f9f00ba40dcf3b9e.md",
+      "sha256": "1d9933bc9cda17f7441ad938bd5c2fcf9ad9bfa9016f993d23bbaef70b5e665f",
+      "bytes": 3821
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-038.md",
+      "title": "CAST-038",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "4ea8590138a1f5bb.html",
+      "raw": "fonti/4ea8590138a1f5bb.md",
+      "sha256": "65b6243bf9320126404f81d7f0a03937a98270fec10d318d911df42b15064412",
+      "bytes": 8212,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-041.md",
+      "title": "CAST-041",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "3b072e83b3681288.html",
+      "raw": "fonti/3b072e83b3681288.md",
+      "sha256": "d418b75c91c9b229f169c6dd638ce308386dd2ddefd92750633c92b68866607e",
+      "bytes": 9056,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/orrak-hesh/CAST-602.md",
+      "title": "CAST-602",
+      "group": "Liberazione e Signorie — 372",
+      "url": "9b0517c82b63a483.html",
+      "raw": "fonti/9b0517c82b63a483.md",
+      "sha256": "d9c227e0222f6b333d51f86093e7839b79736bf3b0afdeddbfd1e5ff8359ac6e",
+      "bytes": 3721
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-605.md",
+      "title": "CAST-605",
+      "group": "Liberazione e Signorie — 372",
+      "url": "fef52ebbe89a25c1.html",
+      "raw": "fonti/fef52ebbe89a25c1.md",
+      "sha256": "513fef84e6a780f8872e4379b2b63fcd4339f7ca88d8a0930f1736de85a9bb5b",
+      "bytes": 3862
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/rethan-ul/CAST-620.md",
+      "title": "CAST-620",
+      "group": "Liberazione e Signorie — 372",
+      "url": "fc97a2070d673d3c.html",
+      "raw": "fonti/fc97a2070d673d3c.md",
+      "sha256": "564fc1b0579f008a75ab50dbf4b9b1cf9566523f5d3a05d52d49b61b5dcbe690",
+      "bytes": 3782
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/rethis-aul/CAST-610.md",
+      "title": "CAST-610",
+      "group": "Liberazione e Signorie — 372",
+      "url": "d5e8ea05539e9ab6.html",
+      "raw": "fonti/d5e8ea05539e9ab6.md",
+      "sha256": "e9aa9f5c1f35f19e09299e151382c2895876a211b54bbefca9fca585b5a23af5",
+      "bytes": 3528
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-036.md",
+      "title": "CAST-036",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "8903627e7e9db949.html",
+      "raw": "fonti/8903627e7e9db949.md",
+      "sha256": "4fc6376131942ffdd1ca8df84839a431c4d2012733ee81bc6024f769fb7c8f3c",
+      "bytes": 8954,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CANONE_VIGENTE/Registro_decisioni.json",
+      "title": "Registro decisioni",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "c79a4ed198242d27.html",
+      "raw": "fonti/c79a4ed198242d27.json",
+      "sha256": "4566c91200dd5f765e8e5175e0cb1b249935a94d0c88e6ffcb5d0491c2e970f5",
+      "bytes": 84874,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-043.md",
+      "title": "CAST-043",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "6c1737e3f73c66ed.html",
+      "raw": "fonti/6c1737e3f73c66ed.md",
+      "sha256": "ff840dbf8273441a23e2e8668408f65c66e4cd8ca6d2e1ad1cea84899cdcf7cb",
+      "bytes": 8562,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/selka-uren/CAST-603.md",
+      "title": "CAST-603",
+      "group": "Liberazione e Signorie — 372",
+      "url": "3e200b879c29a376.html",
+      "raw": "fonti/3e200b879c29a376.md",
+      "sha256": "15d0836660e5b78578839923696932ddf082b6df9cb1878ec836fccc626b6791",
+      "bytes": 3479
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-612.md",
+      "title": "CAST-612",
+      "group": "Liberazione e Signorie — 372",
+      "url": "0bd3140be15d6895.html",
+      "raw": "fonti/0bd3140be15d6895.md",
+      "sha256": "f188c29955cc759889989b2a58731dc0c6f91339c4dcc9b856420bdf4ae1d837",
+      "bytes": 3590
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/07_Storia_e_liberazione/GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md",
+      "title": "GIOCATORE 372 Liberazione compagni e avversari ricordati",
+      "group": "Liberazione e Signorie — 372",
+      "url": "adf2dce8fa58f549.html",
+      "raw": "fonti/adf2dce8fa58f549.md",
+      "sha256": "815d5e929247c6ace5aabd61b35330c74c38cf9383402067793aba81dc99436a",
+      "bytes": 36391
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-592.md",
+      "title": "CAST-592",
+      "group": "Liberazione e Signorie — 372",
+      "url": "4a71e07a3ffb6e3f.html",
+      "raw": "fonti/4a71e07a3ffb6e3f.md",
+      "sha256": "0b203b1fdbafbf33364d1490c07be53176b97f8b4bf8b7e0fe8783c54f72b729",
+      "bytes": 4990
+    },
+    {
+      "source": "RISERVATO_372_Antagonisti_delle_Signorie.md",
+      "title": "RISERVATO 372 Antagonisti delle Signorie",
+      "group": "Liberazione e Signorie — 372",
+      "url": "c073773e1a414f96.html",
+      "raw": "fonti/c073773e1a414f96.md",
+      "sha256": "9a48433c2534c07a0fcad0551a72a550bab3ef4fc96eab8206a364bb78390bf0",
+      "bytes": 121382
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-595.md",
+      "title": "CAST-595",
+      "group": "Liberazione e Signorie — 372",
+      "url": "2dfd97caa7ee694a.html",
+      "raw": "fonti/2dfd97caa7ee694a.md",
+      "sha256": "4801020a06206964e53745d5c796ba3c75a6c9454c071a16c73224d42e1917e5",
+      "bytes": 4712
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/07_Storia_antica_e_moderna/RISERVATO/RISERVATO_96_Campagne_opere_ed_eredita_del_Creator.md",
+      "title": "RISERVATO 96 Campagne opere ed eredita del Creator",
+      "group": "Liberazione e Signorie — 372",
+      "url": "bc06c9dc812b811a.html",
+      "raw": "fonti/bc06c9dc812b811a.md",
+      "sha256": "d8c31cb239f378967af5de95d4cfa7ab0cdfa61e946bb77efbec0fc37c614e05",
+      "bytes": 8046
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-619.md",
+      "title": "CAST-619",
+      "group": "Liberazione e Signorie — 372",
+      "url": "6917bd1ac0bc1427.html",
+      "raw": "fonti/6917bd1ac0bc1427.md",
+      "sha256": "33ba675dc9c108e2ade827fb270a944a12a9ed39928b70279f13351cfdb336c1",
+      "bytes": 3849
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Superstiti/sathriel-ner/CAST-592.md",
+      "title": "CAST-592",
+      "group": "Liberazione e Signorie — 372",
+      "url": "782a650b6b76b608.html",
+      "raw": "fonti/782a650b6b76b608.md",
+      "sha256": "0b203b1fdbafbf33364d1490c07be53176b97f8b4bf8b7e0fe8783c54f72b729",
+      "bytes": 4990
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-594.md",
+      "title": "CAST-594",
+      "group": "Liberazione e Signorie — 372",
+      "url": "9c3d316141d95096.html",
+      "raw": "fonti/9c3d316141d95096.md",
+      "sha256": "bb064a790302696ffea4f2bbbca5384e5116aed3b1c8d6d96e98e5a2657c6396",
+      "bytes": 4596
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-593.md",
+      "title": "CAST-593",
+      "group": "Liberazione e Signorie — 372",
+      "url": "0262aade9fc374f4.html",
+      "raw": "fonti/0262aade9fc374f4.md",
+      "sha256": "866e3c185893324a5523383da104f2e4433867dcaff6cb6942b3c10d7b69a7a2",
+      "bytes": 4473
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-039.md",
+      "title": "CAST-039",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "e0f9dc7f1e05ee01.html",
+      "raw": "fonti/e0f9dc7f1e05ee01.md",
+      "sha256": "2799f492048909c2a0facf9771e6492aa01c773f336f254d28396e7bec230cae",
+      "bytes": 8684,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-596.md",
+      "title": "CAST-596",
+      "group": "Liberazione e Signorie — 372",
+      "url": "132c7435703fece7.html",
+      "raw": "fonti/132c7435703fece7.md",
+      "sha256": "55e19e3a0b18f2379ec986a7ef47839d26e5911ee476b9d71cf4b7fe2f6347c4",
+      "bytes": 3747
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Superstiti/neris-vahl/CAST-595.md",
+      "title": "CAST-595",
+      "group": "Liberazione e Signorie — 372",
+      "url": "52dbab4bde7dc1f2.html",
+      "raw": "fonti/52dbab4bde7dc1f2.md",
+      "sha256": "4801020a06206964e53745d5c796ba3c75a6c9454c071a16c73224d42e1917e5",
+      "bytes": 4712
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-617.md",
+      "title": "CAST-617",
+      "group": "Liberazione e Signorie — 372",
+      "url": "88292486611be2b3.html",
+      "raw": "fonti/88292486611be2b3.md",
+      "sha256": "bcd064aca999814be0130d6d0fa3e9cca5e28f19bcfb3a278250b384ea1db3f7",
+      "bytes": 3536
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-011.md",
+      "title": "CAST-011",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "259a85052b668526.html",
+      "raw": "fonti/259a85052b668526.md",
+      "sha256": "549b4ebf4b9176b20c6fa2353863c7908d4605d03095d067a7ed63db375e74ab",
+      "bytes": 23004,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/23_Registro_unico_del_canone.md",
+      "title": "23 Registro unico del canone",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "931ae720fa02cc19.html",
+      "raw": "fonti/931ae720fa02cc19.md",
+      "sha256": "bbca9168e0f01b316da3af1528388dd7b82e3e97292302ca8cf835b7b2b8a43a",
+      "bytes": 69711,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/07_Storia_antica_e_moderna/RISERVATO/RISERVATO_94_Cronologia_integrale_ed_ere.md",
+      "title": "RISERVATO 94 Cronologia integrale ed ere",
+      "group": "Liberazione e Signorie — 372",
+      "url": "dd41fbc067fbe972.html",
+      "raw": "fonti/dd41fbc067fbe972.md",
+      "sha256": "151ce252e53e5fdffeb052d6389aa002082a64807dd30b044be8a4725e123958",
+      "bytes": 20063
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-008.md",
+      "title": "CAST-008",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "8619e9cb39f5b5bc.html",
+      "raw": "fonti/8619e9cb39f5b5bc.md",
+      "sha256": "1cfd27046ab0ab517a4234791b0e994a0ade8a5032c3cc5f75753f10af02bf95",
+      "bytes": 18731,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-614.md",
+      "title": "CAST-614",
+      "group": "Liberazione e Signorie — 372",
+      "url": "7e9d4aa7ca966a10.html",
+      "raw": "fonti/7e9d4aa7ca966a10.md",
+      "sha256": "1d9933bc9cda17f7441ad938bd5c2fcf9ad9bfa9016f993d23bbaef70b5e665f",
+      "bytes": 3821
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/mavren-qesh/CAST-611.md",
+      "title": "CAST-611",
+      "group": "Liberazione e Signorie — 372",
+      "url": "f7b9852c040af9cc.html",
+      "raw": "fonti/f7b9852c040af9cc.md",
+      "sha256": "1c6f5242a4eada4a9915c6b02194cd9b12cc8a27b7d1fecffc5f75a60528c0b5",
+      "bytes": 3623
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/arves-nhal/CAST-606.md",
+      "title": "CAST-606",
+      "group": "Liberazione e Signorie — 372",
+      "url": "fbac6ada3fb0d158.html",
+      "raw": "fonti/fbac6ada3fb0d158.md",
+      "sha256": "5d52f4070093d9eb17ec53085e26dd760b92d83732d40cb4b98355fb557fd9d9",
+      "bytes": 3455
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-016.md",
+      "title": "CAST-016",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "b05fe750705fc8b1.html",
+      "raw": "fonti/b05fe750705fc8b1.md",
+      "sha256": "dc347bea3b511573211957b7ca25e7575d8e6e1ee417a460feeef41c457f987c",
+      "bytes": 16292,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/DOSSIER_FIGURE_367/CAST-025_sael-mereth.md",
+      "title": "CAST-025 sael-mereth",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "be565f5f492b18dd.html",
+      "raw": "fonti/be565f5f492b18dd.md",
+      "sha256": "e372bbefe8f5e54d38590d624952dde14c770863a3b7fb8e37be61425632d043",
+      "bytes": 2670,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CANONE_VIGENTE/Storia_riservata.json",
+      "title": "Storia riservata",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "4a68591c33edf7a9.html",
+      "raw": "fonti/4a68591c33edf7a9.json",
+      "sha256": "ebba9a2572478ff70e4aab64596b939198f94e09bf009e1a5a038cf9860b5678",
+      "bytes": 482507,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/07_Storia_antica_e_moderna/RISERVATO/RISERVATO_95_Origini_societa_e_potenze_antiche.md",
+      "title": "RISERVATO 95 Origini societa e potenze antiche",
+      "group": "Liberazione e Signorie — 372",
+      "url": "5434f89cdba506e9.html",
+      "raw": "fonti/5434f89cdba506e9.md",
+      "sha256": "2950af67d15103bd3d4a5964d2482b8fb8c3e0ca13faceebf3237805de2085db",
+      "bytes": 8779
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/07_Storia_antica_e_moderna/RISERVATO/RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "title": "RISERVATO 98 Seats successioni e antichi compagni",
+      "group": "Liberazione e Signorie — 372",
+      "url": "e7a03f4b6808fb0b.html",
+      "raw": "fonti/e7a03f4b6808fb0b.md",
+      "sha256": "74b0a388b2ef8cf73c66cf3d3d89a6883ad0f5041783d84b106405ac4534cfb0",
+      "bytes": 12664
+    },
+    {
+      "source": "CANONE_VIGENTE/Fronti_antichi_372.json",
+      "title": "Fronti antichi 372",
+      "group": "Liberazione e Signorie — 372",
+      "url": "4deb99025cf32833.html",
+      "raw": "fonti/4deb99025cf32833.json",
+      "sha256": "d6320238553e532e38c40f506775dc69a72059b5f77840ed6d04fdb85c53e40f",
+      "bytes": 4462
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-604.md",
+      "title": "CAST-604",
+      "group": "Liberazione e Signorie — 372",
+      "url": "33218d374685b29a.html",
+      "raw": "fonti/33218d374685b29a.md",
+      "sha256": "f0ba90043fada911feec4ad43e06fe1b7f03c498e4c19f5a23ee94b8b558fec3",
+      "bytes": 3569
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md",
+      "title": "GIOCATORE 372 Liberazione compagni e avversari ricordati",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "7bd45bf7b5d7531b.html",
+      "raw": "fonti/7bd45bf7b5d7531b.md",
+      "sha256": "03e37ca3babe883140922128ae0c3cae4aba6ddb0561804de8447af564a217eb",
+      "bytes": 36312,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-599.md",
+      "title": "CAST-599",
+      "group": "Liberazione e Signorie — 372",
+      "url": "65c14871255d4fc9.html",
+      "raw": "fonti/65c14871255d4fc9.md",
+      "sha256": "eb27bcc0a3fcaf1c79b04a206b2c374577eb7f52eee113ef5d9d0ebb5eca121b",
+      "bytes": 3580
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/DOSSIER_FIGURE_367/CAST-012_althene-rhos.md",
+      "title": "CAST-012 althene-rhos",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "b44eeb4885f8293f.html",
+      "raw": "fonti/b44eeb4885f8293f.md",
+      "sha256": "27a2e1d9721d8cf72b61e4ce2739158b2c1d5e0579e27235ccc03039da263896",
+      "bytes": 2945,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-017.md",
+      "title": "CAST-017",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "a79960164112ccb8.html",
+      "raw": "fonti/a79960164112ccb8.md",
+      "sha256": "860cf8ca9986b59e7c38f9066c725fdee68a957a6f868266f757ddb247374c56",
+      "bytes": 16303,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/nerak-voss/CAST-608.md",
+      "title": "CAST-608",
+      "group": "Liberazione e Signorie — 372",
+      "url": "df325412bcc5c96f.html",
+      "raw": "fonti/df325412bcc5c96f.md",
+      "sha256": "f0060bf4d2de5363704667765eac651322a5db3ad688be794fa58048267ea81b",
+      "bytes": 3885
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-025.md",
+      "title": "CAST-025",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "4839e19c761d7b67.html",
+      "raw": "fonti/4839e19c761d7b67.md",
+      "sha256": "46b359c9e24d943c12269fb2bb0a782086808817cb65473a4c01c53bf2d63e6c",
+      "bytes": 10377,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/temra-uss/CAST-618.md",
+      "title": "CAST-618",
+      "group": "Liberazione e Signorie — 372",
+      "url": "386a4b34847c300f.html",
+      "raw": "fonti/386a4b34847c300f.md",
+      "sha256": "8e40a137051a1ddc38578dcd532e980a0448c1c27d620b39e1105faadb197308",
+      "bytes": 3761
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "title": "RISERVATO 98 Seats successioni e antichi compagni",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "08f913beca8934ff.html",
+      "raw": "fonti/08f913beca8934ff.md",
+      "sha256": "23c21a3c60c50ab073c80ce6550b8b49c7138eb0dace4ad5853319fc34778722",
+      "bytes": 11313,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/01_Consolidamento_documentale/372_Registro_Signorie_e_liberazione.md",
+      "title": "372 Registro Signorie e liberazione",
+      "group": "Liberazione e Signorie — 372",
+      "url": "d82d44df7612b5d6.html",
+      "raw": "fonti/d82d44df7612b5d6.md",
+      "sha256": "3005c975182281d450a1dbf35118e86f3e0f82cc38ddf74d7c1093e6a212ab61",
+      "bytes": 1706
+    },
+    {
+      "source": "GIOCATORE_372_Liberazione_compagni_e_avversari_ricordati.md",
+      "title": "GIOCATORE 372 Liberazione compagni e avversari ricordati",
+      "group": "Liberazione e Signorie — 372",
+      "url": "b00195a04045ba08.html",
+      "raw": "fonti/b00195a04045ba08.md",
+      "sha256": "815d5e929247c6ace5aabd61b35330c74c38cf9383402067793aba81dc99436a",
+      "bytes": 36391
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-597.md",
+      "title": "CAST-597",
+      "group": "Liberazione e Signorie — 372",
+      "url": "d68760e9e0455cb1.html",
+      "raw": "fonti/d68760e9e0455cb1.md",
+      "sha256": "6b9ed9af4d3702ae0b4aec2336212efba4c144a40b37000bd9deaf690b008aae",
+      "bytes": 3827
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-042.md",
+      "title": "CAST-042",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "852c99a317f566c3.html",
+      "raw": "fonti/852c99a317f566c3.md",
+      "sha256": "f45e05599123e2549438745ceffec8addde900d181e804fbdb46cc80f275019d",
+      "bytes": 8635,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-019.md",
+      "title": "CAST-019",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "aec320127604e292.html",
+      "raw": "fonti/aec320127604e292.md",
+      "sha256": "c6400bb5d47f6bca3bb85f8f8cb947cf9b9ee72c32a1072df66f706bcc5e9070",
+      "bytes": 17934,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/RISERVATO_209_Protocollo_completo_del_Narratore.md",
+      "title": "RISERVATO 209 Protocollo completo del Narratore",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "55082c472de80854.html",
+      "raw": "fonti/55082c472de80854.md",
+      "sha256": "311ea4c48fefdd4d75900f24cf47b2a26e906bcbae5238824dd2a88dad3554f4",
+      "bytes": 23093,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/soreth-tal/CAST-607.md",
+      "title": "CAST-607",
+      "group": "Liberazione e Signorie — 372",
+      "url": "5ed367ad8044c8e4.html",
+      "raw": "fonti/5ed367ad8044c8e4.md",
+      "sha256": "bd3a3c3da4a0d1136407873d14014036b2e732c2ac82a8876d48fc51a80f45e9",
+      "bytes": 4091
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/thauren-kel/CAST-596.md",
+      "title": "CAST-596",
+      "group": "Liberazione e Signorie — 372",
+      "url": "cbadc0bd5fbb148e.html",
+      "raw": "fonti/cbadc0bd5fbb148e.md",
+      "sha256": "55e19e3a0b18f2379ec986a7ef47839d26e5911ee476b9d71cf4b7fe2f6347c4",
+      "bytes": 3747
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-007.md",
+      "title": "CAST-007",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "1fde4728148cc03d.html",
+      "raw": "fonti/1fde4728148cc03d.md",
+      "sha256": "c5aca43f7359aaaae296a962c317edc2f18d90fe90d225aa1bf660ae65e4f00d",
+      "bytes": 18888,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/khadren-oss/CAST-604.md",
+      "title": "CAST-604",
+      "group": "Liberazione e Signorie — 372",
+      "url": "94c69dcc9d8eb1ab.html",
+      "raw": "fonti/94c69dcc9d8eb1ab.md",
+      "sha256": "f0ba90043fada911feec4ad43e06fe1b7f03c498e4c19f5a23ee94b8b558fec3",
+      "bytes": 3569
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/DOSSIER_FIGURE_367/CAST-015_deyran-ur.md",
+      "title": "CAST-015 deyran-ur",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "8f571af0a0451773.html",
+      "raw": "fonti/8f571af0a0451773.md",
+      "sha256": "752e3008a270835a538225e4c7475e506506e609571ee80d07070b72413ac31d",
+      "bytes": 2979,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-601.md",
+      "title": "CAST-601",
+      "group": "Liberazione e Signorie — 372",
+      "url": "ce147824c887420a.html",
+      "raw": "fonti/ce147824c887420a.md",
+      "sha256": "48f4f2e6f497e2b3d79552ea4ee34d62ae3037509ba412c5eb3654538cc810a0",
+      "bytes": 3960
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-603.md",
+      "title": "CAST-603",
+      "group": "Liberazione e Signorie — 372",
+      "url": "b9e747e48f29c672.html",
+      "raw": "fonti/b9e747e48f29c672.md",
+      "sha256": "15d0836660e5b78578839923696932ddf082b6df9cb1878ec836fccc626b6791",
+      "bytes": 3479
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/veltha-qir/CAST-605.md",
+      "title": "CAST-605",
+      "group": "Liberazione e Signorie — 372",
+      "url": "112268cd69239c6d.html",
+      "raw": "fonti/112268cd69239c6d.md",
+      "sha256": "513fef84e6a780f8872e4379b2b63fcd4339f7ca88d8a0930f1736de85a9bb5b",
+      "bytes": 3862
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/ossven-taar/CAST-616.md",
+      "title": "CAST-616",
+      "group": "Liberazione e Signorie — 372",
+      "url": "7d262be9eaa4ebb9.html",
+      "raw": "fonti/7d262be9eaa4ebb9.md",
+      "sha256": "17d6b845f85aee5f7e30ff6ebc77e4ee3dc0e8608c80d2c66b68fc80777a8e43",
+      "bytes": 3687
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/DOSSIER_FIGURE_367/CAST-024_sereth-daal.md",
+      "title": "CAST-024 sereth-daal",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "483d89140e16b593.html",
+      "raw": "fonti/483d89140e16b593.md",
+      "sha256": "2a16625a6777edfa526841ddcd89cd1a57ac6b63d81d9f5f7f1bb78a8431ffed",
+      "bytes": 2765,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Superstiti/vasrek-thul/CAST-590.md",
+      "title": "CAST-590",
+      "group": "Liberazione e Signorie — 372",
+      "url": "9ed7ab46053ec0aa.html",
+      "raw": "fonti/9ed7ab46053ec0aa.md",
+      "sha256": "d5bbede1bb573855e65602ef8a98ddee417fc00c81e1bba78fe8cf4b6389b116",
+      "bytes": 5103
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/RISERVATO_96_Campagne_opere_ed_eredita_del_Creator.md",
+      "title": "RISERVATO 96 Campagne opere ed eredita del Creator",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "bfa2614ed0a789ce.html",
+      "raw": "fonti/bfa2614ed0a789ce.md",
+      "sha256": "89a5bfa53f3c40c28de44c08f266adb40f77573ad8061c38b3e61c3ff3e75df6",
+      "bytes": 6745,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/DOSSIER_FIGURE_367/CAST-011_helyr-ossen.md",
+      "title": "CAST-011 helyr-ossen",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "8982a6b88cdd2dc2.html",
+      "raw": "fonti/8982a6b88cdd2dc2.md",
+      "sha256": "859b318ffdcedbb2bbd9ffdaa868073dd085c65be3594950e7a2a16a683ddc8c",
+      "bytes": 3106,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-615.md",
+      "title": "CAST-615",
+      "group": "Liberazione e Signorie — 372",
+      "url": "6df634d07b0c5067.html",
+      "raw": "fonti/6df634d07b0c5067.md",
+      "sha256": "647263e81467f2a0a21e935278475533582a426465cffa1276366cfd492d1951",
+      "bytes": 3472
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/veskar-thenn/CAST-597.md",
+      "title": "CAST-597",
+      "group": "Liberazione e Signorie — 372",
+      "url": "d9c0332d0192c397.html",
+      "raw": "fonti/d9c0332d0192c397.md",
+      "sha256": "6b9ed9af4d3702ae0b4aec2336212efba4c144a40b37000bd9deaf690b008aae",
+      "bytes": 3827
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/kethra-senn/CAST-615.md",
+      "title": "CAST-615",
+      "group": "Liberazione e Signorie — 372",
+      "url": "41c3ed9de868873d.html",
+      "raw": "fonti/41c3ed9de868873d.md",
+      "sha256": "647263e81467f2a0a21e935278475533582a426465cffa1276366cfd492d1951",
+      "bytes": 3472
+    },
+    {
+      "source": "DOSSIER_SIGNORIE_372/Figure_cessate/ilsera-vann/CAST-612.md",
+      "title": "CAST-612",
+      "group": "Liberazione e Signorie — 372",
+      "url": "5951ae45017337a5.html",
+      "raw": "fonti/5951ae45017337a5.md",
+      "sha256": "f188c29955cc759889989b2a58731dc0c6f91339c4dcc9b856420bdf4ae1d837",
+      "bytes": 3590
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_372/DOSSIER_FIGURE_367/CAST-018_talren-soth.md",
+      "title": "CAST-018 talren-soth",
+      "group": "Storico superato sul tema Signorie 372",
+      "url": "4d9a567e7d302e72.html",
+      "raw": "fonti/4d9a567e7d302e72.md",
+      "sha256": "ae0eef09fb48c13f497e2b932b8a6bf1fe11e39352fdfba5a97e03aa2abca364",
+      "bytes": 2862,
+      "status": "STORICO_SUPERATO_SUI_TEMI_372",
+      "current_successor": "372_Registro_Signorie_e_liberazione.md"
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-613.md",
+      "title": "CAST-613",
+      "group": "Liberazione e Signorie — 372",
+      "url": "43e8817545de7133.html",
+      "raw": "fonti/43e8817545de7133.md",
+      "sha256": "c0a10cb930940ecd079d041846473e538c5f3b85f8b6165045eefe7d85060cb3",
+      "bytes": 3620
+    },
+    {
+      "source": "CAST_RISERVATO/CAST-611.md",
+      "title": "CAST-611",
+      "group": "Liberazione e Signorie — 372",
+      "url": "d6cd3728915659eb.html",
+      "raw": "fonti/d6cd3728915659eb.md",
+      "sha256": "1c6f5242a4eada4a9915c6b02194cd9b12cc8a27b7d1fecffc5f75a60528c0b5",
+      "bytes": 3623
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",
