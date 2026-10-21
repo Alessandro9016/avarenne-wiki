@@ -2210,6 +2210,14 @@
         "recovery": "Un recupero richiede il centro autentico superstite e una funzione compatibile propria o altrui. Se rimane solo una registrazione o la continuità è davvero estinta, non si ripristina la stessa persona aggiungendo un Anchor dopo il fatto.",
         "inventory_source": "Cast_riservato.json:CAST-013",
         "scope": "Precisazione operativa; nessuna nuova risorsa, collocazione segreta o immunità."
+      },
+      "generative_horror_376": {
+        "note": "Othrem distingue individui e sviluppo di un sistema, ma può subordinare la possibilità di separarsi alla stabilità del proprio progetto. La sua dimensione divina consente un orrore territoriale, non soltanto clinico. Il programma della stagione delle molte anatomie è una possibilità di esercizio, non una calamità già iniziata o un nuovo fatto della caduta.",
+        "cases": [
+          "GEN-376-07"
+        ],
+        "future_outcomes": "OPEN",
+        "source": "RISERVATO_376_Repertorio_orrore_generativo.md"
       }
     },
     {
@@ -3375,6 +3383,14 @@
         "recovery": "Un recupero richiede il centro autentico superstite e una funzione compatibile propria o altrui. Se rimane solo una registrazione o la continuità è davvero estinta, non si ripristina la stessa persona aggiungendo un Anchor dopo il fatto.",
         "inventory_source": "Cast_riservato.json:CAST-020",
         "scope": "Precisazione operativa; nessuna nuova risorsa, collocazione segreta o immunità."
+      },
+      "generative_horror_376": {
+        "note": "Soran può offrire una reciprocità che coincide con un’alimentazione predatoria. Desiderio, consumo e assimilazione restano rami diversi: attrarre non significa avere già consumato, consumare non significa aver generato una nuova persona. La sua scala divina è un rapporto più ampio realmente sostenuto, non una licenza per ignorare ogni difesa.",
+        "cases": [
+          "GEN-376-09"
+        ],
+        "future_outcomes": "OPEN",
+        "source": "RISERVATO_376_Repertorio_orrore_generativo.md"
       }
     },
     {
@@ -10471,6 +10487,14 @@
         "recovery": "Un recupero richiede il centro autentico superstite e una funzione compatibile propria o altrui. Se rimane solo una registrazione o la continuità è davvero estinta, non si ripristina la stessa persona aggiungendo un Anchor dopo il fatto.",
         "inventory_source": "Cast_riservato.json:CAST-081",
         "scope": "Precisazione operativa; nessuna nuova risorsa, collocazione segreta o immunità."
+      },
+      "generative_horror_376": {
+        "note": "Avarra può mostrare una forma di vita inquietante senza volerla imporre a nessuno. Per lei un’anatomia complementare è un problema di continuità ecologica, non un modello sociale obbligatorio. La nuova coltura non senziente del suo habitat offre un caso attuale non criminale e non umano; non le assegna una nuova Root.",
+        "cases": [
+          "GEN-376-04"
+        ],
+        "future_outcomes": "OPEN",
+        "source": "RISERVATO_376_Repertorio_orrore_generativo.md"
       }
     },
     {
@@ -50713,6 +50737,14 @@
         "recovery": "Un recupero richiede il centro autentico superstite e una funzione compatibile propria o altrui. Se rimane solo una registrazione o la continuità è davvero estinta, non si ripristina la stessa persona aggiungendo un Anchor dopo il fatto.",
         "inventory_source": "Cast_riservato.json:CAST-463",
         "scope": "Precisazione operativa; nessuna nuova risorsa, collocazione segreta o immunità."
+      },
+      "generative_horror_376": {
+        "note": "Ilyren conosce la differenza fra essere desiderati, essere seguiti e ricevere una decisione libera. I delegati già divisi sulla fascinazione forniscono un conflitto concreto. Il registro 376 non lo dichiara un predatore sessuale né gli attribuisce metamorfosi o generazione di organi: la sensualità riguarda Enchantment e le sensibilità raggiunte.",
+        "cases": [
+          "GEN-376-06"
+        ],
+        "future_outcomes": "OPEN",
+        "source": "RISERVATO_376_Repertorio_orrore_generativo.md"
       }
     },
     {
@@ -52389,6 +52421,16 @@
         "doctrine_is_not_cosmic_truth": true,
         "rank_inventory_unchanged": true,
         "knowledge": "Ruolo e sapere individuale preesistenti; nessun trasferimento automatico di segreti fra superiori, tecnici, pazienti e sostenitori."
+      },
+      "generative_horror_376": {
+        "note": "Sevra dà al sistema biologico un linguaggio di accoglienza e complementarità. Può trovare belli i tessuti che coltiva e usarne deliberatamente la bellezza per rendere accettabile una dipendenza. La sua responsabilità non deriva dal gusto estetico, ma dall’occultamento già stabilito. Non le si aggiungono poteri sul desiderio o abusi intimi nel passato.",
+        "cases": [
+          "BIO-373-01",
+          "BIO-373-02",
+          "BIO-373-03"
+        ],
+        "future_outcomes": "OPEN",
+        "source": "RISERVATO_376_Repertorio_orrore_generativo.md"
       }
     },
     {
@@ -52548,6 +52590,15 @@
         "doctrine_is_not_cosmic_truth": true,
         "rank_inventory_unchanged": true,
         "knowledge": "Ruolo e sapere individuale preesistenti; nessun trasferimento automatico di segreti fra superiori, tecnici, pazienti e sostenitori."
+      },
+      "generative_horror_376": {
+        "note": "Arven sa osservare il corpo senza ridurlo a un insieme di pezzi. Può riconoscere che un sostegno è vivo e utile mentre il rapporto imposto è abusivo. La sua delicatezza con una persona non cancella i silenzi clinici già fissati. Heart III resta Heart III: nessuna sostituzione universale esterna.",
+        "cases": [
+          "BIO-373-01",
+          "BIO-373-02"
+        ],
+        "future_outcomes": "OPEN",
+        "source": "RISERVATO_376_Repertorio_orrore_generativo.md"
       }
     },
     {
@@ -54728,6 +54779,14 @@
         "recovery": "Un recupero richiede il centro autentico superstite e una funzione compatibile propria o altrui. Se rimane solo una registrazione o la continuità è davvero estinta, non si ripristina la stessa persona aggiungendo un Anchor dopo il fatto.",
         "inventory_source": "Cast_riservato.json:CAST-492",
         "scope": "Precisazione operativa; nessuna nuova risorsa, collocazione segreta o immunità."
+      },
+      "generative_horror_376": {
+        "note": "Vareth può ridurre un bisogno intimo a un rapporto misurabile e trasferibile. Questa prospettiva rende inquietante una possibile applicazione di Maw senza aggiungere una storia di violenza sessuale ai sei adulti già trattenuti. La nave, le risorse e il sequestro conservano lo stato precedente.",
+        "cases": [
+          "GEN-376-05"
+        ],
+        "future_outcomes": "OPEN",
+        "source": "RISERVATO_376_Repertorio_orrore_generativo.md"
       }
     },
     {
@@ -63335,6 +63394,14 @@
         "recovery": "Un recupero richiede il centro autentico superstite e una funzione compatibile propria o altrui. Se rimane solo una registrazione o la continuità è davvero estinta, non si ripristina la stessa persona aggiungendo un Anchor dopo il fatto.",
         "inventory_source": "Cast_riservato.json:CAST-594",
         "scope": "Precisazione operativa; nessuna nuova risorsa, collocazione segreta o immunità."
+      },
+      "generative_horror_376": {
+        "note": "Ithren conosce la distanza fra una linea biologica e la documentazione che la descrive. Il suo antico coinvolgimento rimane quello canonico: la revisione approfondisce che cosa potrebbe significare verificare una specializzazione latente. Non gli consegna il lotto perduto e non aggiunge vittime al passato.",
+        "cases": [
+          "GEN-376-10"
+        ],
+        "future_outcomes": "OPEN",
+        "source": "RISERVATO_376_Repertorio_orrore_generativo.md"
       }
     },
     {

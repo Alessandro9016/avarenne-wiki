@@ -155,7 +155,17 @@
       },
       "future_outcomes": "OPEN",
       "revision": 373,
-      "dossier": "DOSSIER_CULTI_373/FRONT-03_the-red-orchard.md"
+      "dossier": "DOSSIER_CULTI_373/FRONT-03_the-red-orchard.md",
+      "generative_revision_376": {
+        "cases": [
+          "BIO-373-01",
+          "BIO-373-02",
+          "BIO-373-03"
+        ],
+        "scope": "Descrizione e applicazioni; gli stati, le vittime e i tre lotti restano quelli vigenti. Le applicazioni condizionali non sono state già eseguite.",
+        "source": "RISERVATO_376_Repertorio_orrore_generativo.md",
+        "ritual_detail": "Durante l’esposizione interna, il campione è disposto fra drappi chiari e lampade basse: la cerchia lascia vedere la simmetria delle camere e tace i condotti meno presentabili. Il gesto di coprirlo prima dei visitatori ordinari rivela il doppio registro del vivaio. È la presentazione del campione già esistente, non un rito che produce obbedienza."
+      }
     },
     {
       "front_id": "FRONT-04",
@@ -460,7 +470,14 @@
       "cult": null,
       "future_outcomes": "OPEN",
       "revision": 373,
-      "dossier": "DOSSIER_CULTI_373/FRONT-10_the-last-vessel.md"
+      "dossier": "DOSSIER_CULTI_373/FRONT-10_the-last-vessel.md",
+      "generative_revision_376": {
+        "cases": [
+          "GEN-376-05"
+        ],
+        "scope": "Descrizione e applicazioni; gli stati, le vittime e i tre lotti restano quelli vigenti. Le applicazioni condizionali non sono state già eseguite.",
+        "source": "RISERVATO_376_Repertorio_orrore_generativo.md"
+      }
     },
     {
       "front_id": "FRONT-11",
@@ -609,5 +626,6 @@
   "cast_count": 620,
   "new_person_ids": 0,
   "new_powers": 0,
-  "complete_cosmic_integrations_T0": 0
+  "complete_cosmic_integrations_T0": 0,
+  "current_editorial_revision": 376
 }

@@ -1,0 +1,374 @@
+{
+  "version": "1.1",
+  "type": "AUTHORIAL_POLICY_NO_STORY_SPOILERS",
+  "policy": "148_Direzione_adulta_e_integrita_personale.md",
+  "matrix": "149_Matrice_adulta_Effigi_Roots_e_confini.md",
+  "cast_criteria": "150_Criteri_del_cast_corpo_agency_e_reti.md",
+  "effigies": [
+    {
+      "id": "EFF-01",
+      "name": "Cradle",
+      "authorities": [
+        "Creation"
+      ],
+      "source": "GIOCATORE_41_Cradle_progressione_completa.md",
+      "source_sha256": "f1a5fbee733bced657815f8a8d1d4b3ea48ac5f278b5af83246c994aed6c6e25",
+      "editorial_application": "Vita e materia create reali; responsabilità verso un nuovo individuo.",
+      "boundary": "Il senziente non è una marionetta; nessun difetto biologico obbligatorio.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-02",
+      "name": "Ruin",
+      "authorities": [
+        "Destruction"
+      ],
+      "source": "GIOCATORE_42_Ruin_progressione_completa.md",
+      "source_sha256": "95d8e489a9a4ee88cf74236f9bf925075db12db4b0c2bb8a37747d0feeb978bb",
+      "editorial_application": "Assenza, frattura e fine della continuità realmente raggiunta.",
+      "boundary": "Ruin Seed trasmette distruzione tramite contatti reali; nessuna assimilazione o corruzione morale automatica.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-03",
+      "name": "Scroll",
+      "authorities": [
+        "Information",
+        "Language",
+        "Will"
+      ],
+      "source": "GIOCATORE_43_Scroll_progressione_completa.md",
+      "source_sha256": "08cc3b4b71a1bab3b2a3e3861f0443f8a2d5e34ab71e8a096c0da9e9ac17602f",
+      "editorial_application": "Informazione e volontà possono entrare in conflitto con l’autonomia vissuta.",
+      "boundary": "Non legge tutta la mente; un assenso interiorizzato non dimostra consenso libero.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-04",
+      "name": "Halo",
+      "authorities": [
+        "Light",
+        "Revelation",
+        "Manifestation",
+        "Purification"
+      ],
+      "source": "GIOCATORE_44_Halo_progressione_completa.md",
+      "source_sha256": "b3321b0da5002e7ff4fcd718e83209507c2d1fb1c567789b489a71b22ca1c506",
+      "editorial_application": "Esposizione di un’intrusione e separazione delle componenti incompatibili.",
+      "boundary": "Purificazione riguarda contaminazioni reali, non moralità, razza o fertilità.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-05",
+      "name": "Heart",
+      "authorities": [
+        "Life",
+        "Spirit",
+        "Restoration"
+      ],
+      "source": "GIOCATORE_45_Heart_progressione_completa.md",
+      "source_sha256": "4593c52a19661642c53fddeed4b059d8dd56fce8753c16aed3fc4516d49adc94",
+      "editorial_application": "Vitalità, ricostruzione e continuità personale; il miracolo può essere impressionante.",
+      "boundary": "La cura corretta conserva efficacia; nessun obbligo di ricrescita deformata.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-06",
+      "name": "Crucible",
+      "authorities": [
+        "Composition",
+        "Energy Conversion",
+        "Transmutation"
+      ],
+      "source": "GIOCATORE_46_Crucible_progressione_completa.md",
+      "source_sha256": "fcb41f0326470b5dc1858958093fb7bc24c6729b74a86d2591750b29622c428f",
+      "editorial_application": "Conversione di sostanze anche corporee; rapporto fra persona e impiego industriale.",
+      "boundary": "Richiede materia o potenza reali; non concede manipolazione universale dell’anima.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-07",
+      "name": "Mask",
+      "authorities": [
+        "Identity",
+        "Representation",
+        "Recognition",
+        "Perception"
+      ],
+      "source": "GIOCATORE_47_Mask_progressione_completa.md",
+      "source_sha256": "b1197eaf1df0507a48ef8055254b7d07624a9157f96e317b293ce1caea804bc8",
+      "editorial_application": "Disaccordo fra identità, corpo riconosciuto e rappresentazione.",
+      "boundary": "Le copie proprie sono giustificate da Mask; non sono anime nuove o Seats duplicate.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-08",
+      "name": "Hourglass",
+      "authorities": [
+        "Time",
+        "Duration",
+        "Decay",
+        "Recurrence"
+      ],
+      "source": "GIOCATORE_48_Hourglass_progressione_completa.md",
+      "source_sha256": "ca4fb7d9deeac490d4da76bc22fdaf6f78866c45c64c8c82a6effd440f6a4e97",
+      "editorial_application": "Processi corporei possono avere durate e decadimenti differenti.",
+      "boundary": "Non cancella gratuitamente eventi propagati o ogni danno storico.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-09",
+      "name": "Astrolabe",
+      "authorities": [
+        "Space",
+        "Gravity",
+        "Orientation",
+        "Passage"
+      ],
+      "source": "GIOCATORE_49_Astrolabe_progressione_completa.md",
+      "source_sha256": "63469899354c1427ac600bb9a6d6cb6a219074a34f2f37e5700e273b885a6b5d",
+      "editorial_application": "Orientamento, posizione e gravità possono aggredire un corpo o un passaggio.",
+      "boundary": "Nessun controllo biologico autonomo; il danno deriva dalla tecnica spaziale o gravitazionale.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-10",
+      "name": "Sepulchre",
+      "authorities": [
+        "Death",
+        "Dead Spirits",
+        "Remains",
+        "Repose"
+      ],
+      "source": "GIOCATORE_50_Sepulchre_progressione_completa.md",
+      "source_sha256": "667be2317379587c79273ce7a32f04aa14cf48a1d1c8ca37425f9b17f97a126e",
+      "editorial_application": "Resti, morte e continuità del morto possono essere contesi.",
+      "boundary": "Resti animati non provano che la persona sia presente; nessun ritorno di estinti da memorie.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-11",
+      "name": "Seed",
+      "authorities": [
+        "Reproduction",
+        "Heredity",
+        "Development",
+        "Ecology"
+      ],
+      "source": "GIOCATORE_51_Seed_progressione_completa.md",
+      "source_sha256": "e86f05eee6f15bf5039d8156c0f8ef7230ee7b491f928e7532fcef471e6bf974",
+      "editorial_application": "Riproduzione, sviluppo ed ereditarietà hanno conseguenze intime ed ecologiche.",
+      "boundary": "Fertilità non è corruzione; nessun potere riproduttivo nuovo attribuito per atmosfera.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-12",
+      "name": "Crown",
+      "authorities": [
+        "Law",
+        "Hierarchy",
+        "Judgment",
+        "Delegation"
+      ],
+      "source": "GIOCATORE_52_Crown_progressione_completa.md",
+      "source_sha256": "011db78365a4e03acd8b94162b28ffaacdc91947d46ff66a2e4fa49fa5181d8f",
+      "editorial_application": "Ordinamenti e loro effetti sui corpi e sulla libertà.",
+      "boundary": "Efficacia di un ordinamento non prova consenso o giustizia morale.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-13",
+      "name": "Chain",
+      "authorities": [
+        "Binding",
+        "Captivity",
+        "Dependency",
+        "Transmission"
+      ],
+      "source": "GIOCATORE_53_Chain_progressione_completa.md",
+      "source_sha256": "899c7c1cc0ba2a0f4034324482251601f0e24d74028ca4178136a4e89ee7d63c",
+      "editorial_application": "Legami e vincoli possono prolungare dipendenze reali.",
+      "boundary": "Il vincolo operativo non rende automaticamente legittimo un possesso.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-14",
+      "name": "Coin",
+      "authorities": [
+        "Value",
+        "Exchange",
+        "Possession",
+        "Claim"
+      ],
+      "source": "GIOCATORE_54_Coin_progressione_completa.md",
+      "source_sha256": "c2418f26d6fd8a606edf692b11eb668b4bfc97a8a31e6990f0cd48eb9c4baef4",
+      "editorial_application": "Valore e scambio possono organizzare accesso a cure e trasformazioni.",
+      "boundary": "Non converte ogni corpo in una merce per decreto; serve un esercizio pertinente.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-15",
+      "name": "Banner",
+      "authorities": [
+        "Conflict",
+        "Mobilization",
+        "Strategy",
+        "Conquest"
+      ],
+      "source": "GIOCATORE_55_Banner_progressione_completa.md",
+      "source_sha256": "e4a74ecd41b92ccdd16ab514ea2001b06651a043839515848a07ace9e510c736",
+      "editorial_application": "Appartenenza e azione collettiva possono sostenere o sfruttare gli individui.",
+      "boundary": "Nessun controllo anatomico aggiunto; difese e offesa personale restano proprie.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-16",
+      "name": "Oracle",
+      "authorities": [
+        "Knowledge",
+        "Interpretation",
+        "Divination",
+        "Spellcraft"
+      ],
+      "source": "GIOCATORE_56_Oracle_progressione_completa.md",
+      "source_sha256": "23e2814fa1de9d397451692c5e17a354d43eb6c604652b5c7aa47fce7bfa5891",
+      "editorial_application": "Conoscenza e previsione possono mostrare rischi prima dei sintomi.",
+      "boundary": "Una lettura non è diagnosi universale né certezza di ogni futuro.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-17",
+      "name": "Archive",
+      "authorities": [
+        "Memory",
+        "Trace",
+        "Attestation",
+        "Preservation",
+        "Re-enactment"
+      ],
+      "source": "GIOCATORE_57_Archive_progressione_completa.md",
+      "source_sha256": "9bf08be71bdeefb52899d48b9880c63898a00f1de141bf8c45208ac1d9d19e0b",
+      "editorial_application": "Registrazioni e metodi possono documentare o nascondere lesioni e responsabilità.",
+      "boundary": "Una registrazione non è la persona e non concede ogni potere che descrive.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-18",
+      "name": "Labyrinth",
+      "authorities": [
+        "Mind",
+        "Dream",
+        "Emotion",
+        "Interior Architecture"
+      ],
+      "source": "GIOCATORE_58_Labyrinth_progressione_completa.md",
+      "source_sha256": "7585c29c0166ae47b9800e6f249aac1bc15150efb4ddc37d380de899b5ece66c",
+      "editorial_application": "Esperienza del corpo, emozioni, sogni e architettura interiore.",
+      "boundary": "Non assume automaticamente i domini di Mask o Scroll; disagio non prova intrusione.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-19",
+      "name": "Tempest",
+      "authorities": [
+        "Flow",
+        "Pressure",
+        "Turbulence",
+        "Discharge"
+      ],
+      "source": "GIOCATORE_59_Tempest_progressione_completa.md",
+      "source_sha256": "fcb6a92c5dce33c045493f6dd1017a616ba3652faebb44c4ba63654859420d13",
+      "editorial_application": "Flussi e fenomeni possono raggiungere carne, ambiente e insediamenti.",
+      "boundary": "Nessun contagio o metamorfosi autonomi aggiunti; contesa e difese conservate.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-20",
+      "name": "Maw",
+      "authorities": [
+        "Desire",
+        "Hunger",
+        "Consumption",
+        "Assimilation"
+      ],
+      "source": "GIOCATORE_60_Maw_progressione_completa.md",
+      "source_sha256": "63e4b32607197dcbeb14d7c19d80e19a6a1801aa4ca48a40168445cdf609f91b",
+      "editorial_application": "Desiderio, fame, consumo e assimilazione con effetti concreti sul bersaglio.",
+      "boundary": "Il desiderio non è malvagio per definizione; assimilazione non duplica una Seat.",
+      "abilities_changed": false
+    },
+    {
+      "id": "EFF-21",
+      "name": "Loom",
+      "authorities": [
+        "Causality",
+        "Probability",
+        "Destiny"
+      ],
+      "source": "GIOCATORE_61_Loom_progressione_completa.md",
+      "source_sha256": "3641a5a06aa61c6cc69e1d03f49752c3d75c751a4afcdc4576974488b1f0c88f",
+      "editorial_application": "Condizioni e collegamenti degli eventi possono intrecciare conseguenze corporee.",
+      "boundary": "Non impone ogni esito né concede dominio biologico perché due eventi sono connessi.",
+      "abilities_changed": false
+    }
+  ],
+  "roots": [
+    {
+      "id": "ROOT-01",
+      "name": "The Origin",
+      "editorial_application": "Forme emergenti e lacune reali della sostanza sorgente.",
+      "boundary": "Non nuova volontà nel protagonista; OP-01–05 e accesso IV invariati.",
+      "functions_changed": false
+    },
+    {
+      "id": "ROOT-02",
+      "name": "The Living Furnace",
+      "editorial_application": "Metabolismo ambientale, sostanze e sviluppo collegati in circuiti fisici.",
+      "boundary": "Incorporazione dipende dall’accesso e dalla tenuta; non ogni camera è infestata.",
+      "functions_changed": false
+    },
+    {
+      "id": "ROOT-03",
+      "name": "The Crossing",
+      "editorial_application": "Disaccordo fra percorso, durata e condizioni; trasferimento incompleto come rischio già pertinente.",
+      "boundary": "Non accesso gratuito al passato né nuovi corpi del titolare.",
+      "functions_changed": false
+    },
+    {
+      "id": "ROOT-04",
+      "name": "The Bonded Throne",
+      "editorial_application": "Investitura e pretese materiali rendono visibili i rapporti di dominio.",
+      "boundary": "Non schiavitù universale obbligatoria né conquista automatica delle Seats.",
+      "functions_changed": false
+    },
+    {
+      "id": "ROOT-05",
+      "name": "The Unbroken Record",
+      "editorial_application": "Campioni e attestazioni possono preservare una prova inquietante.",
+      "boundary": "Non archivio onnisciente o ricostruzione del soggetto dai documenti.",
+      "functions_changed": false
+    },
+    {
+      "id": "ROOT-06",
+      "name": "The Inner Vast",
+      "editorial_application": "Architettura fisica e percezione possono divergere mantenendo oggetti autentici.",
+      "boundary": "Piani e interfacce non concedono Avatar a Labyrinth o ospiti.",
+      "functions_changed": false
+    },
+    {
+      "id": "ROOT-07",
+      "name": "The Black Mouth",
+      "editorial_application": "Resti, custodia e consumo hanno materialità concreta.",
+      "boundary": "Non inferno morale universale; residuo e persona restano distinti.",
+      "functions_changed": false
+    }
+  ],
+  "plot_events_added": false,
+  "protagonist_changed": false,
+  "cast_milestone_completed": false,
+  "revision": "RAMI-23-04",
+  "raccordo_revision": "RACCORDI-317",
+  "current_matrix": "374_Matrice_editoriale_vigente.md",
+  "current_cases": "RISERVATO_374_Casi_di_cedimento_e_recupero.md",
+  "precedence_revision": 374
+}

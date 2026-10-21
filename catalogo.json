@@ -20,7 +20,7 @@
     "title": "A Patient Is Not a Model",
     "kind": "Archi narrativi",
     "url": "arc-07-a-patient-is-not-a-model.html",
-    "bytes": 15717,
+    "bytes": 16346,
     "image_count": 1
   },
   {
@@ -44,7 +44,7 @@
     "title": "A World That Can Leave",
     "kind": "Archi narrativi",
     "url": "arc-35-a-world-that-can-leave.html",
-    "bytes": 14934,
+    "bytes": 15557,
     "image_count": 1
   },
   {
@@ -676,7 +676,7 @@
     "title": "Arven Sorel",
     "kind": "Personaggi",
     "url": "cast-479-arven-sorel.html",
-    "bytes": 19507,
+    "bytes": 20111,
     "image_count": 2
   },
   {
@@ -924,7 +924,7 @@
     "title": "Avarra Neth",
     "kind": "Personaggi",
     "url": "cast-081-avarra-neth.html",
-    "bytes": 24027,
+    "bytes": 24655,
     "image_count": 2
   },
   {
@@ -2056,6 +2056,22 @@
     "image_count": 1
   },
   {
+    "id": "MATRIX-376",
+    "title": "Corpo e orrore: le 23 Effigi",
+    "kind": "Sistema",
+    "url": "matrice-editoriale-differenziata.html",
+    "bytes": 12788,
+    "image_count": 0
+  },
+  {
+    "id": "RESEARCH-376",
+    "title": "Corpo, desiderio e generazione: studio comparativo",
+    "kind": "Ricerca autoriale",
+    "url": "corpo-desiderio-e-generazione-ricerca.html",
+    "bytes": 12819,
+    "image_count": 0
+  },
+  {
     "id": "DOC-36",
     "title": "Corpo, spirito, manifestazioni e morte",
     "kind": "Approfondimenti",
@@ -2084,7 +2100,7 @@
     "title": "Cosmologia",
     "kind": "Indici tematici",
     "url": "cosmologia.html",
-    "bytes": 23087,
+    "bytes": 23502,
     "image_count": 48
   },
   {
@@ -2100,7 +2116,7 @@
     "title": "Cradle",
     "kind": "Effigi",
     "url": "cradle.html",
-    "bytes": 60936,
+    "bytes": 61805,
     "image_count": 2
   },
   {
@@ -2132,7 +2148,7 @@
     "title": "Crescent",
     "kind": "Effigi",
     "url": "crescent.html",
-    "bytes": 134682,
+    "bytes": 135557,
     "image_count": 2
   },
   {
@@ -2260,7 +2276,7 @@
     "title": "Culti, clandestinità e dottrine",
     "kind": "Società e organizzazioni",
     "url": "culti-clandestinita-e-dottrine.html",
-    "bytes": 64332,
+    "bytes": 64747,
     "image_count": 0
   },
   {
@@ -2525,6 +2541,14 @@
     "kind": "Personaggi",
     "url": "cast-511-diane-cressan.html",
     "bytes": 8310,
+    "image_count": 0
+  },
+  {
+    "id": "CASES-376",
+    "title": "Dieci casi di orrore generativo",
+    "kind": "Fenomeni e casi",
+    "url": "casi-orrore-generativo.html",
+    "bytes": 42062,
     "image_count": 0
   },
   {
@@ -3420,7 +3444,7 @@
     "title": "Fenomeni, anomalie e incidenti",
     "kind": "Fenomeni",
     "url": "fenomeni.html",
-    "bytes": 20885,
+    "bytes": 21300,
     "image_count": 24
   },
   {
@@ -3700,7 +3724,7 @@
     "title": "Guida decisionale del Narratore",
     "kind": "Consultazione",
     "url": "guida-decisionale-narratore.html",
-    "bytes": 11871,
+    "bytes": 12286,
     "image_count": 0
   },
   {
@@ -3780,7 +3804,7 @@
     "title": "Heart",
     "kind": "Effigi",
     "url": "heart.html",
-    "bytes": 99491,
+    "bytes": 100338,
     "image_count": 2
   },
   {
@@ -4196,7 +4220,7 @@
     "title": "Ilyren Sareth",
     "kind": "Personaggi",
     "url": "cast-463-ilyren-sareth.html",
-    "bytes": 25378,
+    "bytes": 26033,
     "image_count": 4
   },
   {
@@ -4212,7 +4236,7 @@
     "title": "Indice generale A–Z",
     "kind": "Indici",
     "url": "indice-generale.html",
-    "bytes": 130786,
+    "bytes": 131647,
     "image_count": 0
   },
   {
@@ -4484,7 +4508,7 @@
     "title": "Ithren Qor",
     "kind": "Personaggi",
     "url": "cast-594-ithren-qor.html",
-    "bytes": 13946,
+    "bytes": 14557,
     "image_count": 1
   },
   {
@@ -5324,7 +5348,7 @@
     "title": "L’opera",
     "kind": "Indici tematici",
     "url": "opera.html",
-    "bytes": 25791,
+    "bytes": 26206,
     "image_count": 48
   },
   {
@@ -5404,7 +5428,15 @@
     "title": "Manifestazioni ed esposizioni divine",
     "kind": "Sistema",
     "url": "manifestazioni-ed-esposizioni-divine.html",
-    "bytes": 27960,
+    "bytes": 28375,
+    "image_count": 0
+  },
+  {
+    "id": "FORMS-376",
+    "title": "Manifestazioni generative e intimità divina",
+    "kind": "Sistema",
+    "url": "manifestazioni-generative-e-intimita-divina.html",
+    "bytes": 9177,
     "image_count": 0
   },
   {
@@ -5684,7 +5716,7 @@
     "title": "Matrice di raccordo adulto — 23 Effigi e 7 Roots",
     "kind": "Approfondimenti",
     "url": "approfondimento-149-matrice-adulta-effigi-roots-e-confini.html",
-    "bytes": 17450,
+    "bytes": 17865,
     "image_count": 0
   },
   {
@@ -5708,7 +5740,7 @@
     "title": "Maw",
     "kind": "Effigi",
     "url": "maw.html",
-    "bytes": 107387,
+    "bytes": 108268,
     "image_count": 2
   },
   {
@@ -6356,7 +6388,7 @@
     "title": "No Patient by Vote",
     "kind": "Archi narrativi",
     "url": "arc-23-no-patient-by-vote.html",
-    "bytes": 14792,
+    "bytes": 15453,
     "image_count": 1
   },
   {
@@ -6668,7 +6700,31 @@
     "title": "Orrore biologico e autonomia del corpo",
     "kind": "Sistema soprannaturale e società",
     "url": "orrore-biologico-e-autonomia.html",
-    "bytes": 15402,
+    "bytes": 13091,
+    "image_count": 0
+  },
+  {
+    "id": "DIRECTION-376",
+    "title": "Orrore generativo e intimità aliena",
+    "kind": "Direzione editoriale",
+    "url": "direzione-orrore-generativo.html",
+    "bytes": 13633,
+    "image_count": 0
+  },
+  {
+    "id": "HUB-376",
+    "title": "Orrore generativo — revisione 376",
+    "kind": "Consultazione",
+    "url": "orrore-generativo-376.html",
+    "bytes": 7185,
+    "image_count": 0
+  },
+  {
+    "id": "REGIA-376",
+    "title": "Orrore generativo: guida del Narratore",
+    "kind": "Consultazione",
+    "url": "regia-orrore-generativo.html",
+    "bytes": 12168,
     "image_count": 0
   },
   {
@@ -6796,7 +6852,7 @@
     "title": "Othrem Cal",
     "kind": "Personaggi",
     "url": "cast-013-othrem-cal.html",
-    "bytes": 22893,
+    "bytes": 23562,
     "image_count": 4
   },
   {
@@ -6836,7 +6892,7 @@
     "title": "Pagina principale",
     "kind": "Enciclopedia",
     "url": "index.html",
-    "bytes": 22929,
+    "bytes": 23344,
     "image_count": 33
   },
   {
@@ -7148,7 +7204,7 @@
     "title": "Protocollo operativo del Narratore",
     "kind": "Consegna",
     "url": "protocollo-narratore.html",
-    "bytes": 33508,
+    "bytes": 33923,
     "image_count": 0
   },
   {
@@ -8036,7 +8092,7 @@
     "title": "Seed",
     "kind": "Effigi",
     "url": "seed.html",
-    "bytes": 106255,
+    "bytes": 107233,
     "image_count": 2
   },
   {
@@ -8260,7 +8316,7 @@
     "title": "Sevra Dhal",
     "kind": "Personaggi",
     "url": "cast-478-sevra-dhal.html",
-    "bytes": 20101,
+    "bytes": 20765,
     "image_count": 2
   },
   {
@@ -8404,7 +8460,7 @@
     "title": "Società e istituzioni",
     "kind": "Indici tematici",
     "url": "societa.html",
-    "bytes": 41561,
+    "bytes": 41976,
     "image_count": 39
   },
   {
@@ -8452,7 +8508,7 @@
     "title": "Soran Il",
     "kind": "Personaggi",
     "url": "cast-020-soran-il.html",
-    "bytes": 21292,
+    "bytes": 21947,
     "image_count": 4
   },
   {
@@ -8501,6 +8557,14 @@
     "kind": "Personaggi",
     "url": "cast-051-sovan-reth.html",
     "bytes": 14537,
+    "image_count": 0
+  },
+  {
+    "id": "SPACES-376",
+    "title": "Spazi generativi e scala cosmica",
+    "kind": "Cosmologia",
+    "url": "spazi-generativi-e-scala-cosmica.html",
+    "bytes": 10206,
     "image_count": 0
   },
   {
@@ -9052,7 +9116,7 @@
     "title": "The Black Mouth",
     "kind": "Roots",
     "url": "root-07-the-black-mouth.html",
-    "bytes": 12122,
+    "bytes": 12955,
     "image_count": 4
   },
   {
@@ -9468,7 +9532,7 @@
     "title": "The First and the Last",
     "kind": "Archi narrativi",
     "url": "arc-40-the-first-and-the-last.html",
-    "bytes": 13460,
+    "bytes": 14076,
     "image_count": 1
   },
   {
@@ -9660,7 +9724,7 @@
     "title": "The Inner Vast",
     "kind": "Roots",
     "url": "root-06-the-inner-vast.html",
-    "bytes": 12160,
+    "bytes": 13003,
     "image_count": 4
   },
   {
@@ -9732,7 +9796,7 @@
     "title": "The Last Vessel",
     "kind": "Istituzioni e fazioni",
     "url": "fac-24-the-last-vessel.html",
-    "bytes": 18344,
+    "bytes": 18749,
     "image_count": 1
   },
   {
@@ -9756,7 +9820,7 @@
     "title": "The Living Furnace",
     "kind": "Roots",
     "url": "root-02-the-living-furnace.html",
-    "bytes": 17386,
+    "bytes": 18369,
     "image_count": 4
   },
   {
@@ -9764,7 +9828,7 @@
     "title": "The Living Orchard",
     "kind": "Archi narrativi",
     "url": "arc-12-the-living-orchard.html",
-    "bytes": 13905,
+    "bytes": 14529,
     "image_count": 1
   },
   {
@@ -9916,7 +9980,7 @@
     "title": "The Origin",
     "kind": "Roots",
     "url": "root-01-the-origin.html",
-    "bytes": 81496,
+    "bytes": 82382,
     "image_count": 5
   },
   {
@@ -10044,7 +10108,7 @@
     "title": "The Red Orchard",
     "kind": "Istituzioni e fazioni",
     "url": "fac-17-the-red-orchard.html",
-    "bytes": 21253,
+    "bytes": 21682,
     "image_count": 1
   },
   {
@@ -10420,7 +10484,7 @@
     "title": "The Veiled Basin",
     "kind": "Roots",
     "url": "root-08-the-veiled-basin.html",
-    "bytes": 17689,
+    "bytes": 18598,
     "image_count": 4
   },
   {
@@ -11052,7 +11116,7 @@
     "title": "Vareth Senn",
     "kind": "Personaggi",
     "url": "cast-492-vareth-senn.html",
-    "bytes": 23392,
+    "bytes": 23992,
     "image_count": 2
   },
   {
