@@ -1,0 +1,73 @@
+# RISERVATO — CAST-033: Corvin Dast
+
+Milestone 10, edizione raccordata 317 — 15 ottobre 2026. Livello **CENTRAL**. Stato al 18 maggio 812, salvo fase storica indicata. Nessuna scelta futura garantita.
+
+## Identità e funzione
+
+**Condizione:** 44. **Teatro operativo:** Veldane; non una posizione istantanea obbligata. **Ruolo:** Gestore di contratti investiti e antagonista sistemico. **Origine:** Fondamenti adottati e sviluppo del cast.
+
+**Obiettivo:** Uniformare garanzie e impedire insolvenze che reputa contagiose. **Tensione:** I debitori possono aver bisogno del servizio che li vincola
+
+## Carattere in azione e basi psicologiche
+
+Offre una soluzione tecnicamente valida con clausole che quasi nessuno sa leggere. Il desiderio concreto è distinto dai mezzi disponibili. La figura teme di perdere autonomia o credibilità nel proprio ambito; può dissentire da chi la aiuta. Non applicare automaticamente Es/Io/Super-Io o una diagnosi completa: motivazioni, limiti e relazioni sono la base per l'analisi quando richiesta.
+
+**Segreto o informazione non pubblica:** Una delega autorizza mantenimento di apparati, non proprietà delle persone; la sua estensione è contestabile
+
+## Inventario e competenze
+
+- **Chain IV — Bondwarden (Transfiguration):** First Binding; Small Cage; Dependency Sense; Linked Signal; Directed Tether; Selective Confinement; Coupled Function; Transferred Force; Selective Bond; Held Chamber; Dependent Exercise; Selective Channel; Conditional Bond; Portable Custody; Dependent Feedback; Channel Junction. Repertorio cumulativo RAMI-23-04; applicazioni e costi nel manuale GIOCATORE_53_Chain_progressione_completa.md.
+
+**Ambito dell'inventario:** CURRENT_T0. Un rango storico non è dotazione odierna di un morto. **Mezzi ordinari:** mestiere, documenti e strumenti autentici entro il ruolo; non un nuovo artefatto cosmico. **Limiti:** Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.
+
+## Rete
+
+- [Adele Rosk](CAST-034.md): prestazioni e vincoli, nessun accordo totalitario già concluso.
+
+## Unità di Gioco
+
+**Concetto:** Gestore di contratti investiti e antagonista sistemico, con una scelta concreta che altri non possono fare al suo posto. **Funzione:** interlocutore, fonte, ostacolo o alleato secondo il conflitto; mai alleanza obbligatoria. **Attivazione:** Attivo. **Stato dinamico:** Sta predisponendo una decisione o verifica per uniformare garanzie e impedire insolvenze che reputa contagiose. La controparte è già coinvolta e può rifiutare.
+
+**Conflitto centrale:** I debitori possono aver bisogno del servizio che li vincola **Forze:** la figura vuole uniformare garanzie e impedire insolvenze che reputa contagiose; gli interlocutori della rete hanno mandato e risorse propri. **Paura:** perdere possibilità di scelta o attendibilità nel proprio ruolo. **Limite:** Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.
+
+**Hook 1:** Una richiesta concreta riguarda uniformare garanzie e impedire insolvenze che reputa contagiose; è possibile chiedere una prova o rifiutare. **Hook 2:** Una controparte porta un documento, campione o testimonianza sul conflitto: I debitori possono aver bisogno del servizio che li vincola
+
+**Con intervento:** nuove prove, risorse, rifiuto o contesa cambiano accessi e fiducia. Il successo competente mantiene gli effetti; non imporre gratitudine, alleanza o futura condotta del PG. **Senza intervento:** Prosegue la verifica e tratta con gli interlocutori disponibili; può ridurre, rinviare o cambiare una richiesta se dati e risorse lo impongono.
+
+**Pressione:** Le date della fonte prevalgono; una richiesta di servizio non crea da sola una scadenza letale. **Impatto attuale:** 🟠; una futura catastrofe richiede un fatto realmente prodotto. **Causa verticale:** Fondamenti adottati e sviluppo del cast. **Collegamenti orizzontali:** rete riportata sopra.
+
+**Scena possibile:** confronto su uniformare garanzie e impedire insolvenze che reputa contagiose, con strumenti o documenti visibili. **Complicazione:** una prova vera può non sostenere l'intera conclusione richiesta. **Twist opzionale:** una controparte offre una soluzione valida che protegge anche un proprio interesse; non cambiare retroattivamente il segreto fissato.
+
+## Corpo, agency e direzione visiva
+
+Aspetto ordinario coerente con epoca, lavoro e condizione; nessuna mutazione o sessualità assegnata per riempire un campo. Quando pertinente, distinguere anatomia, trasformazione controllata, lesione e percezione sociale secondo 148. Non aggiungere poteri da un'immagine. Priorità visiva **HIGH**; consultare gli asset effettivamente presenti nel piano visivo corrente.
+
+## Peso nella futura opera
+
+La figura centrale non ha un solo incontro di funzione. Obiettivo, conflitto e rete devono poter sostenere cambiamenti di alleanza, prove e costi di scala diversa. Un segreto scoperto apre una scelta e non chiude automaticamente il personaggio. Non garantire il suo ruolo nei volumi futuri, la sopravvivenza o una redenzione. Le scene e gli archi del punto 12 partiranno dai fatti qui fissati.
+
+## Biografia, paura e scheda visiva consolidata
+
+Viene da amministratori di credito, non da una profezia. Salì a Chain IV con formazione e prove reali. Un primo fallimento professionale sciolse troppo rapidamente garanzie e servizi; ne ricavò preferenza per vincoli stretti. Questa esperienza spiega il metodo ma non lo assolve dalla coercizione.
+
+**Paura specifica:** Rinuncia locale che comprometta una rete di servizi.
+
+**Aspetto di riferimento:** Due braccia e due gambe; sei dita per mano, articolazioni digitali allungate, pelle pallida grigio-violetta semitrasparente con reti di tessuto di rinnovamento, capo normalmente glabro e membrane ripiegate sul collo. Doppio anello pigmentato nell’iride: non due pupille magiche. Muscoli, organi e coscienza propri. Per lineamenti individuali e abbigliamento usare i ritratti approvati e la scheda visiva corrente, senza reintrodurre tratti biologici delle bozze superate.
+
+## Agenda e ingressi specifici
+
+**Stato attuale:** Sta proponendo una clausola di manutenzione a Rosk e confrontando la delega ricevuta. **Hook 1:** Una licenza offre una separazione tecnica, ma il debito civile resta leggibile. **Hook 2:** Un debitore chiede perizia indipendente sul vincolo prima di firmare. **Senza PG:** Istruisce l’intermediario a correggere una clausola che supera il mandato; se il cliente rifiuta, sospende quel servizio, non ogni cura della città. Le condizioni precise sostituiscono il riassunto generico dell’unità, senza esiti garantiti.
+
+**Legame nominativo:** [Adele Rosk](CAST-034.md) — Consulenza contrattuale e interessi industriali distinti, senza controllo universale. La relazione non rende automaticamente disponibili i segreti dell'altra persona.
+
+
+
+## POP-298 — Corpo vigente
+
+**Popolazione:** Ilyr. **Anatomia:** Due braccia e due gambe; sei dita per mano, articolazioni digitali allungate, pelle pallida grigio-violetta semitrasparente con reti di tessuto di rinnovamento, capo normalmente glabro e membrane ripiegate sul collo. Doppio anello pigmentato nell’iride: non due pupille magiche. Muscoli, organi e coscienza propri.
+
+**Ciclo di vita:** Maturità ordinaria 18–22 anni; vita ordinaria 100–140. Crescita e successivi periodi di rinnovamento corporeo richiedono settimane, nutrimento, umidità e riposo. Membrane superficiali vengono sostituite gradualmente; lesioni profonde restano lesioni. I periodi non cancellano memoria o personalità. Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.
+
+**Cura:** Controllare umidità, sali, nutrimento e integrità delle membrane. Non strappare tessuti in rinnovo; la vulnerabilità è concreta. Nessuna rigenerazione estrema o trasformazione arbitraria innata.
+
+Nessuna nuova Effige, rango, memoria, alleanza o azione futura. Parentela e relazioni individuali restano in vigore. I ritratti vigenti sono quelli selezionati dopo il riallineamento biologico; i precedenti restano archivio.

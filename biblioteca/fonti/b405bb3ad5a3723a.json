@@ -367,5 +367,8 @@
   "protagonist_changed": false,
   "cast_milestone_completed": false,
   "revision": "RAMI-23-04",
-  "raccordo_revision": "RACCORDI-317"
+  "raccordo_revision": "RACCORDI-317",
+  "current_matrix": "374_Matrice_editoriale_vigente.md",
+  "current_cases": "RISERVATO_374_Casi_di_cedimento_e_recupero.md",
+  "precedence_revision": 374
 }

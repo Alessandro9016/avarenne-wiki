@@ -1,0 +1,40 @@
+{
+  "revision": 374,
+  "scope": "Otto punti del controllo 373; approfondimenti selettivi dei teatri pertinenti, non riscrittura integrale di ogni personaggio o Stato.",
+  "counts": {
+    "cast_details": 24,
+    "networks": 48,
+    "countries": 4,
+    "cultures": 6,
+    "faiths": 14,
+    "cities": 3,
+    "failure_cases": 6,
+    "scene_repertoires": 10,
+    "commands": 4
+  },
+  "scene_options": 30,
+  "cast_total": 620,
+  "network_total": 58,
+  "protected_hashes": {
+    "Progressioni_effigi.json": "4aa7a711b43f5b166fdd784736a09cf9ce2b240b99a03009262d5da601365b15",
+    "Roots_consolidate.json": "a5d803229c691f40df4fd933dfda8d0c528c33deeae3c5e2aef01f94d805b999",
+    "Regole_comuni.json": "8af58578d31f26fb099ded10fc8b357076b17cf98f419346e8a944511656e569",
+    "Protagonista.json": "ff4777eb5d65aa4a98ddec4d7992f5ad36713b66512f4e37103810f85f236a06",
+    "Protagonista_riservato.json": "4045c4808073eb2fc219852145823d584cc19bf66f058241b5970977134bcd70",
+    "Crisi_personale_369.json": "4189b852bd23f0f8bcf4441b3005256ab77514ddbcfac70dcfdc7854310a334f",
+    "Storia_riservata.json": "ecebfb2a26d5dea81bda0203b06275f25ad4e04627f8d3d7a891c34bff944192",
+    "Calendario_trama.json": "8c99303f32d1d5e31637b9ed9eeb76015dd25430876589c12d715c6010ad12a8",
+    "Quattro_Axials_371.json": "66a1fc2fbb59fdecc3688ee501c9e948fca34f25ed5dc40084fd36ce5de5ed2f",
+    "Procedure_avanzamento_339.json": "0530d6b2852fd4dbb52b3d6a9cf85fdb9620d78d7c6c36da12ecf7c4cd340037"
+  },
+  "cast_original_fields_unchanged": true,
+  "network_original_fields_unchanged": true,
+  "arc_stable_facts_and_dates_unchanged": true,
+  "new_zip": false,
+  "push_performed": false,
+  "failure_cases_are_not_historical_events": true,
+  "all_eight_points_implemented": true,
+  "links_checked": 38818,
+  "link_errors": [],
+  "library_hashes_verified": true
+}

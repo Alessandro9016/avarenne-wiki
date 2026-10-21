@@ -70,3 +70,20 @@ Poteri, date, famiglia, competenze e obiettivi restano quelli delle sezioni prec
 ## REV-CIV-01 — Legame ricordato da Alexander
 
 Visite alla biblioteca e patronato. Fonte giocatore: 273. Non include agenda successiva al coma.
+
+
+## Vita personale e rapporti — 374
+
+### Gesti e voce
+
+Appoggia il volume chiesto sul banco prima di discutere il patrocinio: vuole ricordare che la biblioteca serve anche a leggere. Ha preferenze letterarie e può consigliare un libro senza usarlo come lezione morale.
+
+### Rapporti vissuti
+
+Con Celine il rapporto possibile passa dalla visita promessa e dal piacere dei disegni, non da una missione cosmica. Con Cyran negozia il nuovo fondo senza cedergli i libri già comunali. Con chi ripara legature riconosce un lavoro spesso invisibile.
+
+### Una scelta aperta
+
+Può aprire una sala ridotta e invitare un lettore a tornare quando il deposito sarà accessibile. Una scena può finire con un prestito e un appuntamento, senza rivelazioni segrete.
+
+Questi dettagli non assegnano nuove azioni attuali al giocatore o incontri pregressi non documentati.

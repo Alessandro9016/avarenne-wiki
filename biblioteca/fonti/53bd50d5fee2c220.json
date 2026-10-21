@@ -1,0 +1,1383 @@
+{
+  "revision": 374,
+  "date": "2026-10-21",
+  "reference_date": "18 maggio 812",
+  "access": "WIKI_INTEGRALE_NARRATORE",
+  "new_authorial_details": "Abitudini, rapporti, vita locale e pratiche ordinarie sono nuove specificazioni. Non nuovi incontri o ricordi assegnati automaticamente al giocatore.",
+  "future_outcomes": "OPEN",
+  "cast_details": [
+    {
+      "id": "CAST-003",
+      "name": "Celine Valcienne",
+      "habit_and_voice": "Tiene sullo stesso tavolo il quaderno scolastico e fogli di piante di giardino. Quando gli adulti parlano del suo futuro in sua presenza smette di disegnare e fa una domanda precisa; il silenzio precedente non era assenso.",
+      "relationships_in_action": "Con Yselle cerca un giudizio sul disegno, non una promessa di diventare ingegnera. Con il fratello desidera tempo ordinario e continuità, non soltanto rassicurazioni solenni: la visita alla biblioteca già promessa è un riferimento concreto. Può essere felice del ritorno a casa e risentita per una visita rimandata senza sapere nulla di Edran.",
+      "open_pressure": "Può chiedere un pomeriggio concordato o dire che una lezione non le piace. Una risposta concreta modifica fiducia e aspettative; denaro e protezione non sostituiscono automaticamente una presenza. Non trasformare il dispiacere in fuga o rapimento obbligatorio.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-004",
+      "name": "Yselle Valcienne",
+      "habit_and_voice": "Porta al tavolo un pezzo riparato e uno ancora difettoso; preferisce farli toccare prima di spiegare il costo. Fuori dal lavoro può ridere di una cattiva imitazione di un committente, poi tornare severa sulla prova.",
+      "relationships_in_action": "Ad Albin concede stime e scadenze, non il diritto di liquidare il progetto come capriccio familiare. Con Martin conserva un’intimità che non coincide con il registro tecnico: può raccontargli una giornata pessima senza consegnargli tutte le garanzie. A Celine offre strumenti adatti e il permesso di non essere brava subito.",
+      "open_pressure": "Un incontro di famiglia può coincidere con una prova importante: propone un orario diverso, non sceglie automaticamente progetto o nipoti. Se Alexander offre aiuto vuole sapere cosa offre davvero, non sentirsi già assunta.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-005",
+      "name": "Mirel Osta",
+      "habit_and_voice": "Rilegge ad alta voce una parola ambigua del referto e la corregge davanti all’infermiera. Questo la espone ma le permette di chiedere lo stesso rigore agli altri. La calma al letto non le impedisce di essere irritata quando viene interrotta per una visita mondana.",
+      "relationships_in_action": "Di Nela apprezza l’osservazione continua, che una visita breve non può sostituire. Se una nota infermieristica contraddice la propria impressione torna al letto; non vive ogni correzione come sfida al rango. Con la famiglia distingue ciò che può rassicurare da ciò che non sa ancora.",
+      "open_pressure": "Può chiedere una seconda osservazione e insieme raccomandare sonno senza altre visite. Accettare un limite o riconoscere un errore costruisce fiducia; pretendere una certezza impossibile può incrinare il rapporto senza renderla nemica.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-006",
+      "name": "Doria Seln",
+      "habit_and_voice": "Prima di una discussione pubblica ordina due sedie alla stessa distanza dal tavolo, anche se una appartiene a un notabile. Non è un rituale magico: non vuole che la disposizione risolva la disputa prima delle parole.",
+      "relationships_in_action": "Con Albin il rispetto nasce da un mandato delimitato: può aiutarlo senza accettare che tutto ciò che imbarazza la casa venga taciuto. L’ex collaboratore della lettera conservata resta un problema personale perché le offrì protezione reale in cambio di selezione dei casi.",
+      "open_pressure": "Può ottenere un confronto corretto e perdere un appoggio economico. Il Narratore mostri chi smette di rispondere e chi continua a presentarsi, senza inventare una cospirazione dietro ogni silenzio.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-027",
+      "name": "Elren Voss",
+      "habit_and_voice": "Su un campione promettente scrive prima il limite che il risultato. In una conversazione amichevole cerca tuttavia un riconoscimento personale: non è soltanto il rappresentante impersonale del metodo.",
+      "relationships_in_action": "Di Dama ammira la capacità di trovare una misura sbagliata senza bisogno di investirla; soffre quando un committente attribuisce a lui anche il suo lavoro. Il contrasto con la commercializzazione non cancella il desiderio di vedere il proprio apparato usato.",
+      "open_pressure": "Una dimostrazione può riuscire e diventare l’occasione di dividere credito, nome e denaro. Elren può scegliere di correggere il committente, ma tale decisione non è garantita dall’essere un ricercatore competente.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-028",
+      "name": "Dama Rinn",
+      "habit_and_voice": "Tiene una matita consumata legata al quaderno per non dipendere dalla scrivania di chi la riceve. Quando la invitano a una prova come assistente chiede quale parte porterà la sua firma.",
+      "relationships_in_action": "Con Elren alterna ironia e durezza: sa riconoscere un suo risultato buono e non gli lascia attribuire per distrazione il lavoro altrui. Può accettare di parlare per prima davanti a clienti che si aspettavano un Bearer.",
+      "open_pressure": "Offrire visibilità senza competenza reale non la soddisfa. Un personaggio può sostenerla, contraddirla su una misura o rinunciare al proprio merito; ciascuna scelta cambia la collaborazione senza imporre amicizia.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-031",
+      "name": "Marcel Ruy",
+      "habit_and_voice": "Lascia un pezzo incompleto sul banco quando interrompe una lezione: vuole che l’allievo sappia dove il lavoro è stato fermato, non che indovini un ordine taciuto. Ha affetto per l’officina ma non desidera morirci per dimostrarlo.",
+      "relationships_in_action": "Con Elias il rapporto è di stima e impazienza reciproca: può difenderlo da un’accusa e chiedergli comunque di ripetere una misura. Con Gaston la pensione è un trasferimento concreto di responsabilità, non una promessa che il laboratorio rimarrà immutato.",
+      "open_pressure": "Una riparazione semplice può diventare un pasto o una discussione sul futuro. Il suo aiuto conserva disponibilità e limiti propri; non è una presenza che compare ovunque Elias abbia bisogno di spiegazioni.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-032",
+      "name": "Livia Varn",
+      "habit_and_voice": "Nelle conversazioni domestiche abbrevia i nomi; negli atti li ricopia interi. Se una persona la interrompe per correggere il proprio nome riparte senza mostrare fastidio, ma ricorda chi considera quel dettaglio superfluo.",
+      "relationships_in_action": "Con Elias protegge una prova e non pretende in cambio che segua ogni suo consiglio. Con Etienne riconosce il diritto di raccontare male una giornata dolorosa senza perdere il valore della testimonianza. La cura del documento non deve prendere il posto della cura della persona.",
+      "open_pressure": "Può proporre di cenare prima di proseguire un confronto. Se il gruppo vuole pubblicare tutto, chiede quali nomi siano davvero necessari: il dissenso è personale e operativo, non un tradimento del club.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-033",
+      "name": "Corvin Dast",
+      "habit_and_voice": "Ricorda con precisione chi mancava al tavolo di un accordo; tende invece a parlare delle persone attraverso la posizione che occupano. Una battuta sul denaro lo diverte più di un elogio della sua autorità.",
+      "relationships_in_action": "Considera un debitore che paga in ritardo ma avvisa più affidabile di un cliente brillante che nasconde un rischio. Con Adele condivide il timore delle interruzioni ma non ogni interesse industriale. Quella consonanza non attesta un patto segreto fra loro.",
+      "open_pressure": "Può accettare una soluzione che riduca i propri ricavi se gli sembra più stabile. Il Narratore deve confrontare la proposta con il contratto esistente, non rendere Corvin irriducibile a qualsiasi alternativa.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-034",
+      "name": "Adele Rosk",
+      "habit_and_voice": "Quando un apparecchio ritorna guasto osserva prima come è stato riparato da altri. Una soluzione ingegnosa può piacerle anche mentre prepara una contestazione sulla licenza.",
+      "relationships_in_action": "Con chi usa una protesi vuole apparire affidabile, ma tende a confondere gratitudine e fedeltà commerciale. Il confronto con la mutua è quindi anche una ferita d’orgoglio. Non ogni concessionario o dipendente condivide il rinvio della licenza indipendente.",
+      "open_pressure": "Una visita in officina può mostrarle un ricambio concorrente che funziona. Può comprare, negoziare o tentare di ostacolarlo; la scelta segue convenienza e carattere, non una necessità di rimanere antagonista.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-069",
+      "name": "Albin Sere",
+      "habit_and_voice": "Fa arrivare le richieste in piccoli gruppi anziché rovesciare tutti i fascicoli sulla scrivania del duca. Quando è stanco diventa eccessivamente sintetico e può far sembrare già decisa una proposta che non lo è.",
+      "relationships_in_action": "Con Yselle parla di garanzie senza negarle competenza. Con Teren distingue spesa autorizzata e urgenza di sicurezza. Maurice conosce le abitudini della casa meglio di lui: Albin può affidarsi a quel giudizio senza trasferirgli l’amministrazione.",
+      "open_pressure": "Può chiedere ad Alexander quale questione desideri affrontare oggi e registrarne il rinvio. La gestione non diventa una sequenza infinita di firme né una licenza a impedire un viaggio deciso dal giocatore.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-070",
+      "name": "Teren Holt",
+      "habit_and_voice": "Preferisce un percorso di uscita sgombro a una fila di guardie ornamentali. Quando riceve un ordine insolito chiede di ripeterne lo scopo, non per umiliare il duca ma per scegliere persone e mezzi.",
+      "relationships_in_action": "Con Albin discute i turni come impegni reali, non come caselle. Se Maurice ammette un visitatore atteso Teren non gli attribuisce automaticamente la colpa di ciò che quel visitatore nasconde. La sicurezza può contestare una procedura della casa senza trattare il personale come sospetto collettivo.",
+      "open_pressure": "Può proporre un accompagnamento e accettare che venga rifiutato, annotando il cambiamento. Una protezione competente può funzionare; il Narratore non deve inventare un traditore fra le guardie per aggirarla.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-071",
+      "name": "Nela Bress",
+      "habit_and_voice": "Prima di uscire dal turno lascia acqua, panno e campanello in posizioni raggiungibili dal letto. Un cambiamento di posto può farle capire che qualcuno ha ricevuto assistenza, non chi fosse o perché.",
+      "relationships_in_action": "Con Mirel può discutere una consegna clinica e poi mangiare in silenzio: il silenzio non è ostilità. Con la casa conserva la precarietà di un incarico temporaneo; essere apprezzata non le garantisce automaticamente uno stipendio futuro.",
+      "open_pressure": "Può chiedere chi assisterà al termine del suo incarico. Una risposta rispettosa permette di parlare anche della propria vita fuori dalla residenza, senza inventare una confessione clinica in cambio di un rinnovo.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-086",
+      "name": "Marta Sorel",
+      "habit_and_voice": "Confronta peso e porzioni prima di accusare una consegna. Conosce chi torna affamato dal turno e allunga una porzione quando può, ma non vuole che la cucina venga trattata come scorta senza fondo.",
+      "relationships_in_action": "Con Maurice ha un rapporto di negoziazione quotidiana: una visita formale cambia pasti e lavoro prima di cambiare l’etichetta. La consegna sottopeso già fissata è un problema concreto; non implica che conosca il mandante di qualsiasi frode.",
+      "open_pressure": "Un pranzo improvviso può mettere in contrasto ospitalità e riposo del personale. Alexander può offrire mezzi o cambiare programma; il rapporto si gioca anche nel riconoscere il lavoro, non solo nello scoprire il peso mancante.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-104",
+      "name": "Maurice Verr",
+      "habit_and_voice": "Riconosce un visitatore abituale dal modo di aspettare, ma chiede ugualmente come debba essere annunciato. Ha piacere nel preparare bene una sala, non soltanto nel controllarne l’accesso.",
+      "relationships_in_action": "Con Albin filtra il numero delle richieste, non la volontà del duca. Con Marta deve trasformare una promessa di ospitalità in persone e pasti reali. Con Celine può essere formale senza trattarla come un piccolo titolo da custodire.",
+      "open_pressure": "Può informare che un ospite è arrivato in anticipo e proporre due soluzioni. Nessuna autorizzazione pregressa gli impone di interrompere una visita clinica o aprire ogni stanza della residenza.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-128",
+      "name": "Vern Soller",
+      "habit_and_voice": "Quando ripete il collaudo indica con il piede il punto in cui vorrebbe il banco; correggere quell’abitudine davanti agli altri lo mette a disagio. Sa lavorare e ha preso una decisione responsabile dell’errore già fissato: le due cose possono coesistere.",
+      "relationships_in_action": "Con Elias desidera recuperare un’autorità professionale che la ricostruzione dei fatti mette in discussione. Non è obbligato a odiarlo. Con Etienne non può usare la guarigione come prova di innocenza, anche se vorrebbe che il problema finisse.",
+      "open_pressure": "Può riconoscere una parte dell’errore prima di ammetterne l’intera responsabilità. Una conversazione può far avanzare o arrestare quel passo, senza sostituire il passato con una nuova causa occulta.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-129",
+      "name": "Etienne Brac",
+      "habit_and_voice": "Riprende in mano un attrezzo quando vuole verificare che una funzione sia davvero tornata; può provare gioia per la cura e rabbia per il salario perduto nello stesso incontro.",
+      "relationships_in_action": "Con Edith distingue gratitudine e facoltà di dire no. Con Livia vuole che le sue parole siano conservate senza diventare un discorso migliore ma non suo. Con Elias può condividere una battuta o un lavoro, non soltanto una prova dell’incidente.",
+      "open_pressure": "Può voler tornare a casa prima che una discussione sia conclusa. Il rifiuto di una nuova visita non è ingratitudine e non genera un obbligo narrativo di perdere di nuovo la salute.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-130",
+      "name": "Noemi Darel",
+      "habit_and_voice": "Ricorda quale adattatore fa male a un iscritto, ma chiede il permesso prima di usarne il caso davanti a un finanziatore. Le piace vedere un oggetto riparato tornare in uso.",
+      "relationships_in_action": "Con Amelie la fiducia include il diritto di fermare una prova. Con Laurent vuole mantenere il servizio senza trasformarlo nel manifesto della campagna. Di Adele contesta l’esclusiva, non nega che abbia prodotto ricambi reali.",
+      "open_pressure": "Può scegliere un accordo limitato e scontentare chi vuole una vittoria totale. Una soluzione medica riuscita può liberare risorse della mutua anziché minacciarne necessariamente l’esistenza.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-131",
+      "name": "Gaston Mery",
+      "habit_and_voice": "Quando chiude il laboratorio ripone per ultimi gli strumenti che usa Marcel: vuole controllare che siano asciutti, non cancellare il modo in cui il maestro lavorava.",
+      "relationships_in_action": "Con Marcel la successione professionale mescola riconoscenza e desiderio di cambiare abitudini. Con Elias la stima non gli impedisce di chiedere consegne chiare. Con i clienti preferisce promettere una data prudente e teme di sembrare meno capace del predecessore.",
+      "open_pressure": "Può proporre un nuovo orario o un banco diverso. Non è un tradimento del laboratorio; il confronto può nascere da una giornata ordinaria, prima che un mistero obblighi tutti a collaborare.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-132",
+      "name": "Clara Vossel",
+      "habit_and_voice": "Legge i titoli ad alta voce per sentirne l’effetto, poi guarda chi è rimasto fuori dalla frase. Le piace un foglio riuscito anche quando il pezzo non riguarda una battaglia pubblica.",
+      "relationships_in_action": "Con il compositore dell’omissione già fissata distingue la cura per una famiglia dalla responsabilità di avere cambiato una testimonianza. Non è obbligata a esporlo subito o a proteggerlo per sempre. Con i corrieri vuole sapere quale tiratura è stata realmente consegnata.",
+      "open_pressure": "Una rettifica può difendere una persona e danneggiare la reputazione della cooperativa. Si può discutere come pubblicarla, evitando che ogni differenza di stampa diventi una falsificazione magica.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-133",
+      "name": "Aline Maret",
+      "habit_and_voice": "Fa leggere un problema a due studenti con turni diversi: non vuole confondere la stanchezza con incapacità. Può essere impaziente con chi interrompe e poi tornare a spiegare da capo.",
+      "relationships_in_action": "Con chi finanzia la scuola sa riconoscere un aiuto utile senza accettare che decida chi merita imparare. Con gli allievi la fiducia passa anche dalla possibilità di una seconda prova, già ammessa dal dono originario.",
+      "open_pressure": "Può aprire una lezione breve durante un turno difficile oppure chiedere una sala più silenziosa. Un intervento materiale può risolvere la luce o il caldo e lasciare una scelta didattica, non un nuovo ostacolo artificiale.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-134",
+      "name": "Bastien Quell",
+      "habit_and_voice": "Ascolta il mulino prima di iniziare a parlare di quote. Quando una ruota torna regolare lascia qualche istante di silenzio per sentirla: è soddisfazione professionale, non una percezione soprannaturale.",
+      "relationships_in_action": "Con i turnisti difende la pausa quando un pezzo non è sicuro; con chi aspetta farina sa che fermare il lavoro costa davvero. Le visite ducale già ricordate non gli danno diritto a una conversazione privata a ogni ora.",
+      "open_pressure": "Può chiedere un fermo breve e una fornitura provvisoria. Riparare il cuscinetto circoscritto risolve il guasto: la scena successiva può essere una consegna riuscita, non sempre un’altra crisi.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-135",
+      "name": "Rosa Edril",
+      "habit_and_voice": "Prima di parlare di diritto chiede dove berranno gli animali quella sera. Non considera il terreno una carta senza persone, né ogni proprietario un nemico.",
+      "relationships_in_action": "Con Brina vuole un passaggio praticabile senza ingresso nella casa; con Quentin riconosce che l’urgenza non gli concede qualsiasi percorso. Le discussioni con Alexander sui pascoli già fissate possono riprendere senza inventare una confidenza familiare.",
+      "open_pressure": "Può negoziare un transito temporaneo e poi difendere una soluzione diversa in giudizio. Un compromesso non cancella affetti e rancori fra vicini: mostrare chi continua a salutare e chi cambia strada.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    },
+    {
+      "id": "CAST-136",
+      "name": "Jean Orrel",
+      "habit_and_voice": "Appoggia il volume chiesto sul banco prima di discutere il patrocinio: vuole ricordare che la biblioteca serve anche a leggere. Ha preferenze letterarie e può consigliare un libro senza usarlo come lezione morale.",
+      "relationships_in_action": "Con Celine il rapporto possibile passa dalla visita promessa e dal piacere dei disegni, non da una missione cosmica. Con Cyran negozia il nuovo fondo senza cedergli i libri già comunali. Con chi ripara legature riconosce un lavoro spesso invisibile.",
+      "open_pressure": "Può aprire una sala ridotta e invitare un lettore a tornare quando il deposito sarà accessibile. Una scena può finire con un prestito e un appuntamento, senza rivelazioni segrete.",
+      "scope": "Le relazioni già confermate restano storiche; un incontro proposto resta condizionale."
+    }
+  ],
+  "networks": [
+    {
+      "id": "NET-C10-11",
+      "title": "Squadra dei convogli costieri",
+      "place": "Belanne",
+      "access": "Rimessa di convoglio con banchina di carico; il tavolo dei turni è accessibile agli equipaggi, le chiavi del carburante restano in consegna.",
+      "roles": "Raoul Bellet — Responsabile: Squadra dei convogli costieri; Katia Parven — capitano di chiatta; Valerie Ceret — committente della deviazione; Goran Perven — contabile del vettore; Sela Cadrin — apprendista motorista; Esra Mouren — addetta al rifornimento",
+      "relationships": "Katia non promette una deviazione che lasci il ritorno senza combustibile. Goran può correggere il preventivo senza diventare un informatore del concorrente; Esra vuole sapere chi pagherà la riserva prima di riempire i serbatoi.",
+      "scene_options": "Valerie arriva con merci che non possono aspettare; Sela propone un orario sostenibile ma perde una coincidenza personale.",
+      "autonomous_evolution": "La squadra può dividere il carico o rifiutare una commessa in perdita. Il cliente può cambiare vettore, non impadronirsi della chiatta.",
+      "truth_unchanged": "Il preventivo concorrente esclude il ritorno a vuoto",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-12",
+      "title": "Commissione dei pozzi",
+      "place": "Deren",
+      "access": "Banco dei campioni presso l’accesso ai pozzi; contenitori di acqua potabile e acqua acida sono separati. La valvola va raggiunta sul posto, non diagnosticata da una sola bottiglia.",
+      "roles": "Irma Kehl — Responsabile: Commissione dei pozzi; Laurent Weyl — tecnico delle pompe; Wilhelm Jann — familiare di minatore; Helia Welren — perito della compagnia; Tarin Guerin — apprendista chimica; Amelie Torrel — portatore dei campioni",
+      "relationships": "Wilhelm vuole acqua sicura per la famiglia, non essere il volto di una campagna. Helia può riconoscere un difetto della compagnia senza conoscere ogni ordine minerario. Tarin chiede che si distingua il suo campione da quello trasportato da Amelie.",
+      "scene_options": "Una famiglia smette di attingere e chiede un rifornimento provvisorio; Laurent deve scegliere quale circuito fermare per primo.",
+      "autonomous_evolution": "La commissione può isolare il collegamento accidentale e distribuire acqua alternativa. Resta da attribuire il costo, non da inventare una contaminazione immortale.",
+      "truth_unchanged": "Una valvola collega accidentalmente due circuiti",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-13",
+      "title": "Squadra di drenaggio",
+      "place": "Sarn Gate",
+      "access": "Deposito di scavo vicino al ramo ferroviario; l’accesso alla galleria dipende da squadra e sicurezza, non da una tessera pubblica universale.",
+      "roles": "Oskar Veyl — Responsabile: Squadra di drenaggio; Manon Davren — caposquadra di scavo; Xenia Qeren — macchinista in attesa; Ilian Arveil — funzionaria di dogana; Una Nivrel — apprendista ferroviere; Benoit Alrun — messaggera della galleria",
+      "relationships": "Manon vuole entrare prima che il fronte si deteriori; Ilian teme che la deviazione diventi un passaggio senza dogana. Xenia aspetta un via libera reale, non la promessa che un’autorità arriverà presto.",
+      "scene_options": "Una attesa blocca viaggiatori stanchi; Una può mostrare un tracciato alternativo e chiedere chi lo abbia percorso.",
+      "autonomous_evolution": "Oskar può aprire prima un passaggio ordinario sorvegliato e rinviare la modifica definitiva. Il ramo del 511 non acquista poteri perché è antico.",
+      "truth_unchanged": "Il ramo del 511 è ordinario e ancora raggiungibile",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-14",
+      "title": "Cooperativa del lino",
+      "place": "Valenne",
+      "access": "Cortile delle vasche e sala di asciugatura, con campioni che restano distinti per lotto. I visitatori possono vedere il tessuto finito senza entrare nelle vasche.",
+      "roles": "Margot Sain — Responsabile: Cooperativa del lino; Nicolas Kelro — operatrice delle vasche; Yann Xorin — tessitrice cliente; Jora Hervel — agente del mercante; Varek Uvel — apprendista filatore; Carine Helren — magazziniera dei lotti",
+      "relationships": "Nicolas vuole conservare un gesto di mestiere che Yann sa tradurre in un altro prodotto; Jora risponde al mercante, non può comprare qualsiasi qualità. Carine non vuole perdere la provenienza mescolando gli scarti.",
+      "scene_options": "Varek porta una prova più ruvida ma resistente; un ordine urgente premia invece la morbidezza.",
+      "autonomous_evolution": "Margot può separare due linee di prodotto e offrire formazione ai lavoratori anziani. Non serve far sparire il compratore o obbligare tutti a un unico tessuto.",
+      "truth_unchanged": "Il lotto scartato è adatto a un prodotto diverso",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-15",
+      "title": "Rete delle case d'asilo",
+      "place": "Lorien",
+      "access": "Case con spazi comuni e stanze degli ospiti; il registro di alloggio non è una lista pubblica di persone da assumere.",
+      "roles": "Simon Evrard — Responsabile: Rete delle case d'asilo; Ophie Rendar — responsabile degli alloggi; Zelia Brelot — ospite in cerca di lavoro; Korin Ossel — delegata del finanziatore; Wena Boren — apprendista assistente; Denis Orvan — addetta alle donazioni",
+      "relationships": "Ophie difende il riposo; Zelia desidera un lavoro e può accettarne uno senza volere che sia condizione del letto. Korin può proporre una convenzione diversa dal turno obbligatorio richiesto dal finanziatore.",
+      "scene_options": "Un ospite riceve un’offerta utile proprio quando la casa rischia di perdere fondi; Wena chiede chi informerà gli altri delle condizioni.",
+      "autonomous_evolution": "Simon può cercare fondi limitati o ridurre posti futuri preservando chi già abita. Il rifiuto di un lavoro non diventa una colpa soprannaturale.",
+      "truth_unchanged": "La clausola nuova non appartiene al lascito",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-16",
+      "title": "Witness House dei prestiti",
+      "place": "Teren",
+      "access": "Sala di prestito e deposito di matrici; chi consulta una copia non entra automaticamente nel fondo originale.",
+      "roles": "Rina Merel — Responsabile: Witness House dei prestiti; Pascal Yarel — conservatrice di matrici; Arlen Istel — docente richiedente; Lessa Vessan — legale del committente; Yorin Irenel — apprendista copista; Eveline Varden — portatore dei prestiti",
+      "relationships": "Pascal teme che la nota completa danneggi il manufatto più della copia; Arlen vuole insegnare il contesto, Lessa deve rispondere a un committente che preferisce un estratto. Rina distingue l’abbreviazione lecita dall’uso ingannevole successivo.",
+      "scene_options": "Una lezione pubblica è già annunciata; Yorin trova il margine omesso mentre Eveline prepara la consegna.",
+      "autonomous_evolution": "Si può allegare una nota alla copia o rimandare l’uso specifico. Non occorre accusare un falsario per ogni omissione lecita.",
+      "truth_unchanged": "L'abbreviazione era lecita ma distorce l'uso attuale",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-17",
+      "title": "Sindacato dei saggi di rame",
+      "place": "Karrel",
+      "access": "Pesa del carico e banco dei saggi, con campioni etichettati per fronte e data. Il peso del carro non rivela il tenore del minerale.",
+      "roles": "Pavel Dornik — Responsabile: Sindacato dei saggi di rame; Quentin Cazen — addetta alla bilancia; Brina Parven — minatore di fronte; Marek Ceret — perito dell’acquirente; Zara Perven — apprendista saggiatore; Fabien Cadrin — corriera del minerale",
+      "relationships": "Brina difende il lavoro del proprio fronte senza poter certificare l’altro. Marek può accettare due prezzi pur contestando il metodo del sindacato; Zara vuole che la propria misura sia ripetuta davanti a entrambi.",
+      "scene_options": "Un carro deve partire prima del secondo saggio; Quentin può trattenere il campione e liberare il resto del carico.",
+      "autonomous_evolution": "Pavel può concordare un saldo provvisorio e un conguaglio. Distinguere lo scarto evita una frode senza risolvere ogni salario della miniera.",
+      "truth_unchanged": "Due campioni corretti provengono da fronti diversi",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-18",
+      "title": "Mutua dei manutentori",
+      "place": "Kessel",
+      "access": "Locale di attrezzi e banco di riparazione; gli strumenti consegnati hanno un custode anche durante il cambio di concessione.",
+      "roles": "Edda Oren — Responsabile: Mutua dei manutentori; Rosalie Jorel — caporiparatrice; Cyran Weyl — tecnico trasferito; Niva Jann — delegato della compagnia; Akira Welren — apprendista montatore; Georgette Guerin — addetta agli attrezzi",
+      "relationships": "Rosalie teme di perdere la squadra più del proprio titolo. Cyran vuole trasferirsi senza essere chiamato disertore del mestiere; Niva può riconoscere competenze senza garantire lo stesso posto a tutti.",
+      "scene_options": "Akira deve dimostrare una riparazione mentre Georgette prepara strumenti per una sede nuova.",
+      "autonomous_evolution": "Edda può far riconoscere una prova comune e negoziare il passaggio. La tutela delle competenze non equivale a un impiego personale eterno.",
+      "truth_unchanged": "La vecchia clausola tutela competenze, non persone nominate",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-19",
+      "title": "Mercato dei semi comuni",
+      "place": "Dovar",
+      "access": "Mercato con sacchi da coltura e campioni da confronto; vendita, deposito e prova di germinazione sono attività distinte.",
+      "roles": "Milan Thesk — Responsabile: Mercato dei semi comuni; Sylvain Queral — custode dei lotti; Della Davren — coltivatrice cliente; Oskar Qeren — licenziatario dei semi; Bela Arveil — apprendista agronoma; Hector Nivrel — trasportatore dei sacchi",
+      "relationships": "Della vuole conservare una parte del raccolto per la stagione successiva. Oskar difende una licenza che non copre la cultivar ordinaria; Bela può mostrargli il limite senza negare ogni lavoro di selezione.",
+      "scene_options": "Hector consegna sacchi con nomi simili; Sylvain deve separarli prima della distribuzione.",
+      "autonomous_evolution": "Milan può liberare la linea ordinaria e negoziare quella investita. Non attribuire Seed a tutte le sementi né una rendita perpetua a un nome commerciale.",
+      "truth_unchanged": "Una cultivar è ordinaria e fuori dal brevetto",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-20",
+      "title": "Servizio dei piloti fluviali",
+      "place": "Reth Narrows",
+      "access": "Casa dei piloti e approdo; i turni dipendono da persone e livello dell’acqua. La carta vecchia resta consultabile come confronto.",
+      "roles": "Sava Rel — Responsabile: Servizio dei piloti fluviali; Therese Xarel — pilota anziana; Eren Kelro — capitano di carico; Pera Xorin — perita assicurativa; Cira Hervel — apprendista timoniere; Ines Uvel — addetta ai segnali",
+      "relationships": "Therese conosce una corrente che Eren non ha ancora percorso con il carico attuale. Pera vuole un rischio assicurabile, non necessariamente mantenere un errore; Ines sa quando il segnale fu recuperato.",
+      "scene_options": "Cira chiede una prima traversata supervisionata; un capitano vuole partire prima che arrivi la correzione stampata.",
+      "autonomous_evolution": "Sava può emettere un avviso provvisorio e assegnare un pilota. La piena registrata spiega lo spostamento senza postulare sabotaggio.",
+      "truth_unchanged": "Il segnale fu mosso da una piena registrata",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-21",
+      "title": "Assemblea dei Bacini",
+      "place": "Elven",
+      "access": "Sala di assemblea e sportello di consultazione; il pubblico può assistere alle sedute ammesse, non cambiare le liste in segreteria.",
+      "roles": "Mireya Voss — Responsabile: Assemblea dei Bacini; Ursin Erel — segretaria d’assemblea; Fenna Rendar — residente escluso; Rovan Brelot — promotore della riforma; Dorin Ossel — apprendista tecnico; Jacques Boren — portatrice delle liste",
+      "relationships": "Fenna desidera una voce senza diventare sostenitore di ogni riforma. Rovan può difendere l’esenzione del proprio quartiere e una buona misura generale: Ursin deve distinguerle nel verbale.",
+      "scene_options": "Dorin è competente ma non residente; Jacques porta una lista che rende visibile l’eccezione del promotore.",
+      "autonomous_evolution": "L’assemblea può separare nomina tecnica e rappresentanza, votando due atti distinti. La città non diventa governo di tutti gli undici principati.",
+      "truth_unchanged": "La proposta esclude soltanto il quartiere del promotore",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-22",
+      "title": "Scuola dei ricambi",
+      "place": "Namar",
+      "access": "Aula con banco didattico e deposito dei ricambi; la prova si esegue prima su un supporto non collegato a un paziente.",
+      "roles": "Talia Neth — Responsabile: Scuola dei ricambi; Valerie Lennar — misuratrice dei componenti; Goran Yarel — curatore di quartiere; Sela Istel — erede della vecchia carica; Esra Vessan — apprendista manutentrice; Katia Irenel — corriere dei campioni",
+      "relationships": "Valerie vuole un secondo operatore competente; Sela teme che condividere la carica cancelli la storia familiare. Goran distingue la continuità della cura dalla fedeltà al manutentore.",
+      "scene_options": "Esra supera una taratura e sbaglia l’altra; Katia porta il manuale con entrambe le procedure.",
+      "autonomous_evolution": "Talia può organizzare affiancamento e turni di riposo. Una qualifica acquisita non dà un rango soprannaturale o la proprietà del reparto.",
+      "truth_unchanged": "Un manuale distingue chiaramente due tarature",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-23",
+      "title": "Mercato dei legnami",
+      "place": "Veyford",
+      "access": "Pesa e zona di attracco delle zattere, distinte dal letto navigabile del fiume.",
+      "roles": "Karel Morn — Responsabile: Mercato dei legnami; Wilhelm Serrel — pesatore del legname; Helia Cazen — zatteriera cliente; Tarin Parven — agente della concessione; Amelie Ceret — apprendista falegname; Laurent Perven — addetta all’attracco",
+      "relationships": "Helia accetta di pagare un servizio di banchina, non un diritto inventato sul passaggio. Tarin può offrire uno sconto sulla concessione reale ma non vendere ciò che il mandante non possiede.",
+      "scene_options": "Una zattera non può restare ferma tutta la notte; Amelie propone una lavorazione parziale mentre Laurent cerca un attracco alternativo.",
+      "autonomous_evolution": "Karel può separare tariffa di sosta e transito, evitando che ogni cliente debba vincere prima un processo.",
+      "truth_unchanged": "Un diritto riguarda la banchina, non il letto del fiume",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-24",
+      "title": "Segreteria degli approdi",
+      "place": "Ossen Reach",
+      "access": "Sportello degli approdi con tavolo per cantori e traduttori; una tradizione orale può essere ascoltata senza essere pubblicata integralmente.",
+      "roles": "Nadia Thenn — Responsabile: Segreteria degli approdi; Xenia Zerin — copista dei canti; Ilian Jorel — barcaiolo della Sponda; Una Weyl — delegata dei Last Dawn; Benoit Jann — apprendista traduttrice; Manon Welren — portatore del ricorso",
+      "relationships": "Xenia conserva una variante amata da Una, ma Benoit ne riconosce una data posteriore. Ilian vuole un approdo utilizzabile ora e può temere che il confronto religioso ritardi il ricorso.",
+      "scene_options": "Manon deve partire con la domanda; una famiglia propone di cantare la versione lunga prima della consegna.",
+      "autonomous_evolution": "Nadia può presentare la prova sufficiente del diritto e allegare in seguito il confronto liturgico. Correggere una variante non rende falso l’intero culto.",
+      "truth_unchanged": "La variante contestata è posteriore alla promessa",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-25",
+      "title": "Camera dei Noli",
+      "place": "Neressa",
+      "access": "Camera di contrattazione con tavoli dei noli e sportello dei manifesti; un premio di guerra non si applica a ogni carico per il solo nome.",
+      "roles": "Ilar Arven — Responsabile: Camera dei Noli; Yann Drel — calcolatrice dei noli; Jora Queral — capitano indipendente; Varek Davren — assicuratore di guerra; Carine Qeren — apprendista spedizioniere; Nicolas Arveil — corriera dei manifesti",
+      "relationships": "Jora può sostenere una tariffa più alta pur opponendosi all’eccezione impropria. Varek vuole conservare un margine, Yann vuole un calcolo spiegabile al capitano.",
+      "scene_options": "Carine segue il primo imbarco e scopre che il tipo di carico è stato abbreviato; Nicolas può raggiungere il manifesto completo prima della partenza.",
+      "autonomous_evolution": "Ilar può rivedere quella classe di nolo e mantenere altre coperture. Non serve sciogliere tutta l’Unione per correggere il contratto del 789.",
+      "truth_unchanged": "La clausola riguarda un tipo di carico preciso",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-26",
+      "title": "Cantiere dei gusci corti",
+      "place": "Serele",
+      "access": "Scalo di costruzione e banco dei modelli; il disegno è visitabile, il varo richiede spazio e personale.",
+      "roles": "Mera Seln — Responsabile: Cantiere dei gusci corti; Zelia Kervan — maestra d’ascia; Korin Xarel — armatrice cliente; Wena Kelro — fornitore di legname; Denis Xorin — apprendista calafato; Ophie Hervel — addetta ai cantieri",
+      "relationships": "Zelia difende una nave meno capiente che possa arrivare al porto del cliente. Korin vuole guadagnare di più ma deve confrontare le tratte possibili; Wena non può cambiare la qualità del legname dopo la firma senza un accordo.",
+      "scene_options": "Denis mostra un giunto che pesa meno; Ophie deve scegliere quando liberare lo scalo.",
+      "autonomous_evolution": "Mera può ottenere una commessa più piccola e sostenibile. Il modello non promette velocità o capacità di una nave maggiore.",
+      "truth_unchanged": "Il disegno riduce carico ma anche pescaggio",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-27",
+      "title": "Ufficio dei passaggi civili",
+      "place": "Avaris",
+      "access": "Sportello civile con zona di attesa e stanza riservata per la fotografia; nessuno perde il passaporto per una sola somiglianza.",
+      "roles": "Nerin Koss — Responsabile: Ufficio dei passaggi civili; Arlen Ressel — fotografa civile; Lessa Erel — viaggiatore straniero; Yorin Rendar — ispettore di porto; Eveline Brelot — apprendista interprete; Pascal Ossel — addetta ai permessi",
+      "relationships": "Lessa vuole proseguire il viaggio; Yorin teme una persona ricercata ma non dispone di identificazione sufficiente. Arlen può mostrare differenze che Eveline rende comprensibili nella lingua del viaggiatore.",
+      "scene_options": "Pascal trova il medesimo soprannome in due pratiche; una coincidenza imminente rende costosa l’attesa.",
+      "autonomous_evolution": "Nerin può autorizzare un controllo circoscritto e annotare un recapito. Non è necessario trattenere tutti gli stranieri o rivelare ogni dato privato alla sala.",
+      "truth_unchanged": "Due persone condividono un soprannome portuale",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-28",
+      "title": "Compagnia delle salvagioni",
+      "place": "Corten",
+      "access": "Magazzino dei recuperi e spogliatoio dei soccorritori; gli alloggi dei superstiti sono separati dal deposito merci.",
+      "roles": "Selma Arel — Responsabile: Compagnia delle salvagioni; Brina Yven — sommozzatrice; Marek Lennar — superstite di naufragio; Zara Yarel — legale del finanziatore; Fabien Istel — apprendista salvatrice; Quentin Vessan — portatore delle merci",
+      "relationships": "Marek può voler recuperare un oggetto e rifiutare un interrogatorio sul naufragio. Zara difende il finanziatore ma deve distinguere il credito dal possesso del superstite; Brina vuole ritornare in acqua con mezzi sicuri.",
+      "scene_options": "Fabien trova effetti personali dentro una cassa assicurata; Quentin chiede chi possa riceverli senza appropriarli.",
+      "autonomous_evolution": "Selma può consegnare prima i beni incontestati e proteggere le persone. L’atto sulle merci non obbliga un superstite a lavorare per il salvatore.",
+      "truth_unchanged": "L'atto assicurativo distingue merci e passeggeri",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-29",
+      "title": "Scuola dei cartografi",
+      "place": "Nelle",
+      "access": "Aula d’incisione e archivio delle tirature; matrice e stampa usata in mare si confrontano fianco a fianco.",
+      "roles": "Daren Vel — Responsabile: Scuola dei cartografi; Cyran Fennel — incisora delle tavole; Niva Serrel — pilota cliente; Akira Cazen — docente di cartografia; Georgette Parven — apprendista disegnatrice; Rosalie Ceret — addetto alle tirature",
+      "relationships": "Cyran non vuole che un proprio errore di taglio copra una decisione editoriale diversa. Niva ha bisogno di una carta utilizzabile; Akira teme di perdere autorità davanti agli allievi.",
+      "scene_options": "Rosalie prepara la ristampa mentre Georgette individua una differenza visibile solo al bordo della tavola.",
+      "autonomous_evolution": "Daren può ritirare una tiratura e lasciare valide le altre. La rettifica è un successo concreto e non prova che ogni carta sia inaffidabile.",
+      "truth_unchanged": "La matrice buona non fu usata nell'ultima stampa",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-30",
+      "title": "Casa della Clear Dawn",
+      "place": "Velis",
+      "access": "Casa di cura con sala d’attesa comune e colloquio riservato; il rito non sostituisce la diagnosi.",
+      "roles": "Vera Isen — Responsabile: Casa della Clear Dawn; Della Marnel — assistente di clinica; Oskar Zerin — familiare del paziente; Bela Jorel — predicatrice accusatrice; Hector Weyl — apprendista infermiere; Sylvain Jann — portatrice dei consensi",
+      "relationships": "Oskar vuole assistenza senza una confessione pubblica della famiglia. Bela cerca una colpa politica; Della può contestarla mostrando un sintomo osservabile anche altrove, senza umiliarla davanti al malato.",
+      "scene_options": "Hector trova una persona esterna al gruppo accusato con lo stesso bisogno; Sylvain deve custodire due consensi differenti.",
+      "autonomous_evolution": "Vera può separare cura e predicazione. Se il trattamento riesce, il paziente guarisce anche se la disputa pubblica continua.",
+      "truth_unchanged": "Il sintomo compare anche fuori dal gruppo accusato",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-31",
+      "title": "Servizio delle bussole",
+      "place": "South Shoals",
+      "access": "Postazione di bollettini e piccolo approdo tecnico; la fascia di 800 metri si delimita sul campo.",
+      "roles": "Orenna Keth — Responsabile: Servizio delle bussole; Eren Teth — scandagliatrice; Pera Drel — marinaio superstite; Cira Queral — delegato armatoriale; Ines Davren — apprendista delle bussole; Therese Qeren — corriera dei bollettini",
+      "relationships": "Pera vuole tornare a navigare, Cira difende la riapertura, Eren non firma per acque non scandagliate. Ines può imparare una prova utile senza assumersi una garanzia totale.",
+      "scene_options": "Therese riceve due bollettini con margini diversi; un equipaggio propone di passare appena fuori dal settore.",
+      "autonomous_evolution": "Orenna può pubblicare un corridoio circoscritto e mantenere chiusa la zona guasta. La contromisura non deve rendere l’intero mare ostile.",
+      "truth_unchanged": "L'interferenza è circoscritta a 800 metri",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-32",
+      "title": "Archivio dei congedi",
+      "place": "Aldora",
+      "access": "Archivio del congedo e sportello delle pensioni, con restituzione di originali contro ricevuta.",
+      "roles": "Alessia Torn — Responsabile: Archivio dei congedi; Fenna Arenot — copista militare; Rovan Kervan — soldato congedato; Dorin Xarel — funzionaria del comando; Jacques Kelro — apprendista archivista; Ursin Xorin — portatore delle pensioni",
+      "relationships": "Rovan vuole tornare a una vita civile senza rinnegare i compagni. Dorin risponde a un comando che cerca personale; Fenna riconosce la firma che conclude l’obbligo.",
+      "scene_options": "Ursin porta una pensione senza il congedo allegato; Jacques chiede perché il destinatario venga ancora convocato.",
+      "autonomous_evolution": "Alessia può far notificare l’atto già valido e correggere la convocazione. Il problema non richiede una nuova vittoria militare.",
+      "truth_unchanged": "Il congedo civile era già firmato",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-33",
+      "title": "Collegio delle lingue",
+      "place": "Teshen",
+      "access": "Sala dei traduttori e banco di lettura pubblica; l’originale resta distinto dall’edizione proposta.",
+      "roles": "Tessa Lyr — Responsabile: Collegio delle lingue; Goran Esten — traduttrice; Sela Ressel — lettore emigrato; Esra Erel — redattrice editoriale; Katia Rendar — apprendista linguista; Valerie Brelot — corriere dei manoscritti",
+      "relationships": "Goran non vuole firmare una frase più elegante ma falsa. Esra teme che una riserva renda il testo invendibile; Sela può spiegare cosa cambia nella vita di chi legge quel verbo.",
+      "scene_options": "Katia prepara due versioni da leggere a voce; Valerie deve consegnare solo quella approvata.",
+      "autonomous_evolution": "Tessa può pubblicare una nota e conservare entrambe le stesure. Un disaccordo linguistico può restare civile senza diventare Scroll.",
+      "truth_unchanged": "Il verbo antico distingue facoltà e obbligo",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-34",
+      "title": "Lega dei forni comunali",
+      "place": "Varlen",
+      "access": "Cortile di distribuzione del combustibile e tavola dei turni dei forni, distinti dai depositi privati.",
+      "roles": "Viktor Senn — Responsabile: Lega dei forni comunali; Helia Lureth — capoforno; Tarin Yven — panificatrice cliente; Amelie Lennar — contabile del deposito; Laurent Yarel — apprendista fuochista; Wilhelm Istel — addetta al combustibile",
+      "relationships": "Tarin cerca calore prima dell’alba, Helia teme una cottura interrotta, Amelie deve rendere visibile un interesse del consigliere senza accusare tutti i clienti del deposito.",
+      "scene_options": "Wilhelm consegna una quota troppo concentrata in un solo forno; Laurent propone una cottura comune per non sprecare il calore.",
+      "autonomous_evolution": "Viktor può correggere la ripartizione e rinviare una cottura non urgente. I residenti mangiano davvero se il problema è risolto.",
+      "truth_unchanged": "La dichiarazione d'interesse è disponibile ma ignorata",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-35",
+      "title": "Ufficio degli atti vincolati",
+      "place": "Eshar",
+      "access": "Sportello con copia leggibile e spazio per una perizia riservata; un visitatore può chiedere spiegazioni senza incorporare alcunché.",
+      "roles": "Elisa Rath — Responsabile: Ufficio degli atti vincolati; Ilian Saven — copista degli atti; Una Fennel — debitrice assistita; Benoit Serrel — agente dei vincoli; Manon Cazen — apprendista giurista; Xenia Parven — portatore delle perizie",
+      "relationships": "Una vuole liberarsi da un obbligo che non capisce; Benoit può separare il vincolo investito ma non cancellare da solo il debito civile. Ilian teme che una spiegazione sintetica venga venduta come liberazione totale.",
+      "scene_options": "Manon presenta due consensi diversi; Xenia porta la relazione tecnica che indica cosa è già stato sciolto.",
+      "autonomous_evolution": "Elisa può ottenere una separazione e un piano di debito distinti. La riuscita tecnica non è una frode perché non risolve il rapporto economico.",
+      "truth_unchanged": "L'obbligo economico persiste dopo una separazione tecnica",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-36",
+      "title": "Cooperativa dei ponti",
+      "place": "Darsa",
+      "access": "Cantiere sulle due sponde e punto di traghetto temporaneo; persone e materiali hanno passaggi distinti.",
+      "roles": "Darian Vos — Responsabile: Cooperativa dei ponti; Jora Zorrel — capocarpentiere; Varek Marnel — residente di sponda; Carine Zerin — agente del pedaggio; Nicolas Jorel — apprendista muratrice; Yann Weyl — traghettatore dei materiali",
+      "relationships": "Varek vuole attraversare per un bisogno quotidiano, Carine difende una concessione di sponda. Jora chiede che la disputa sul pedaggio non faccia lavorare la squadra senza protezione.",
+      "scene_options": "Nicolas trova un ancoraggio buono sull’altra sponda; Yann può trasportare una parte del materiale prima dell’accordo definitivo.",
+      "autonomous_evolution": "Darian può aprire un attraversamento provvisorio delimitato. Nessuna delle due autorità acquista il fiume intero.",
+      "truth_unchanged": "Le concessioni descrivono sponde differenti",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-37",
+      "title": "Consiglio dei pozzi",
+      "place": "Qadra",
+      "access": "Vasca comune con orario di prelievo e spazio di attesa; il consiglio tiene aperta una quota domestica mentre discute il titolo.",
+      "roles": "Samira Qel — Responsabile: Consiglio dei pozzi; Korin Gareth — custode della vasca; Wena Teth — coltivatore cliente; Denis Drel — delegata del pozzo privato; Ophie Queral — apprendista idraulica; Zelia Davren — portatore dell’acqua",
+      "relationships": "Wena teme per la coltura e può accettare meno acqua in un giorno se il ritorno è credibile. Denis vuole conservare gestione e manutenzione; Korin distingue la chiave fisica dal diritto di chi beve.",
+      "scene_options": "Zelia arriva con recipienti vuoti prima della seduta; Ophie propone un raccordo temporaneo che non decide il processo.",
+      "autonomous_evolution": "Samira può mantenere il servizio e far discutere a parte il titolo. Un atto recente non cancella da solo usi collettivi precedenti.",
+      "truth_unchanged": "L'uso collettivo è più antico del titolo privato",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-38",
+      "title": "Camera dei trasporti interni",
+      "place": "Ildan",
+      "access": "Piazzale dei cereali e banco di controllo dei silos; le merci restano separate per umidità e provenienza.",
+      "roles": "Tarek Orun — Responsabile: Camera dei trasporti interni; Lessa Norrel — misuratrice dei silos; Yorin Arenot — coltivatore itinerante; Eveline Kervan — perito dell’appaltatore; Pascal Xarel — apprendista contabile; Arlen Kelro — trasportatrice dei cereali",
+      "relationships": "Yorin teme uno scarto ingiusto del raccolto; Eveline può correggere una misura senza rinnegare tutto il contratto. Lessa sa che un cereale asciutto pesa diversamente da uno appena consegnato.",
+      "scene_options": "Arlen arriva con un carico che non deve essere chiuso nel silo sbagliato; Pascal trova l’ultima data reale dell’umidità.",
+      "autonomous_evolution": "Tarek può cambiare criterio di accettazione e indirizzare l’essiccazione. Non occorre centralizzare tutti i magazzini per risolvere quel lotto.",
+      "truth_unchanged": "Il registro usa umidità non aggiornata",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-39",
+      "title": "Clinica dei restauri",
+      "place": "Mareth",
+      "access": "Reparto clinico e ufficio della mutua con accessi distinti; ricevere una visita non equivale a firmare un contratto di lavoro.",
+      "roles": "Leona Mar — Responsabile: Clinica dei restauri; Marek Uren — assistente di cura; Zara Esten — paziente restaurato; Fabien Ressel — agente del finanziatore; Quentin Erel — apprendista clinica; Brina Rendar — addetto alle mutue",
+      "relationships": "Zara può essere grata a chi l’ha curata e rifiutare l’anno di servizio. Fabien tenta di far valere la promessa del finanziatore; Brina possiede il pagamento della mutua che ne limita la pretesa.",
+      "scene_options": "Quentin chiede se una ricevuta vada nel fascicolo clinico; Marek può sostenere il paziente senza parlare al suo posto.",
+      "autonomous_evolution": "Leona può separare cura e riscossione. Nessuna ricaduta viene aggiunta per punire la libertà del paziente.",
+      "truth_unchanged": "Il trattamento fu pagato da una mutua, non dal richiedente del debito",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-40",
+      "title": "Assemblea dei campi mobili",
+      "place": "Saura",
+      "access": "Punto di raduno stagionale con deposito di sementi e registro dei passaggi, non residenza obbligatoria di tutti i coltivatori.",
+      "roles": "Amin Sorel — Responsabile: Assemblea dei campi mobili; Niva Bessrel — organizzatrice dei turni; Akira Lureth — coltivatore stagionale; Georgette Yven — delegato del proprietario; Rosalie Lennar — apprendista agronomo; Cyran Yarel — portatrice dei permessi",
+      "relationships": "Akira vuole ritornare senza essere trattato come fuggitivo. Georgette difende il proprietario, Niva conosce i turni effettivi e può mostrare che l’assenza coincide con la fine del raccolto.",
+      "scene_options": "Cyran porta un permesso abbreviato; Rosalie vuole sapere dove potrà continuare a imparare durante la stagione successiva.",
+      "autonomous_evolution": "Amin può far riconoscere il ritorno e negoziare nuove date senza cancellare il diritto già previsto.",
+      "truth_unchanged": "Il vecchio patto include il ritorno a raccolto finito",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-41",
+      "title": "Magazzino di ricezione oceanica",
+      "place": "Serevan",
+      "access": "Magazzino con baie separabili; il personale non apre contenitori investiti senza mezzi pertinenti.",
+      "roles": "Nahla Doren — Responsabile: Magazzino di ricezione oceanica; Oskar Farel — addetta all’isolamento; Bela Saven — capitano del carico; Hector Fennel — perita del vettore; Sylvain Serrel — apprendista custode; Della Cazen — corriere dei contenitori",
+      "relationships": "Bela vuole scaricare la nave, Hector trasferire il costo, Oskar proteggere merci e persone. Della conosce il tragitto delle casse, non l’intera origine soprannaturale del contenuto.",
+      "scene_options": "Sylvain individua due raccordi distinti sullo stesso imballo; un mercante chiede il rilascio della merce sicuramente sana.",
+      "autonomous_evolution": "Nahla può isolare il circuito pericoloso e liberare il resto dopo verifica. La quarantena non si allarga per necessità drammatica.",
+      "truth_unchanged": "Un imballo mantiene due circuiti che si possono isolare",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-42",
+      "title": "Registro degli apprendistati",
+      "place": "Anren",
+      "access": "Aula di prova e sportello di trasferimento; scuola frequentata, abilità tecnica e Investment sono registrazioni diverse.",
+      "roles": "Aki Noren — Responsabile: Registro degli apprendistati; Pera Mouren — esaminatrice tecnica; Cira Zorrel — studentessa trasferita; Ines Marnel — delegato della corporazione; Therese Zerin — apprendista meccanico; Eren Jorel — portatrice dei certificati",
+      "relationships": "Cira vuole continuare gli studi, Ines teme la perdita di un tecnico formato, Pera può verificare il mestiere senza chiedere un potere che l’esame non misura.",
+      "scene_options": "Therese mostra un lavoro ben eseguito con strumenti ordinari; Eren consegna un certificato che confonde due qualifiche.",
+      "autonomous_evolution": "Aki può far riconoscere gli studi e proporre un esame integrativo limitato. Un nuovo contratto non deve cancellare anni già dimostrati.",
+      "truth_unchanged": "Il test verifica mestiere e non Investment",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-43",
+      "title": "Rete dei battelli medici",
+      "place": "Teru",
+      "access": "Approdo dei battelli e dispensa medica; l’attesa del trasporto si distingue da quella del curatore.",
+      "roles": "Hana Teral — Responsabile: Rete dei battelli medici; Rovan Torrel — pilota del battello; Dorin Gareth — paziente di villaggio; Jacques Teth — delegata municipale; Ursin Drel — apprendista infermiera; Fenna Queral — portatore dei medicinali",
+      "relationships": "Dorin vuole una visita al villaggio, Jacques trattiene un curatore in città, Rovan sa che una barca in più può portare infermieri e medicinali anche senza un secondo miracolo.",
+      "scene_options": "Fenna trova spazio su un mezzo ordinario; Ursin deve scegliere quali materiali preparare per primi.",
+      "autonomous_evolution": "Hana può dividere giro clinico e consegne, mantenendo priorità mediche. Nessun curatore è duplicato per coprire due richieste.",
+      "truth_unchanged": "Una seconda barca ordinaria risolve parte del problema",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-44",
+      "title": "Camera delle ceramiche",
+      "place": "Koshen",
+      "access": "Forno comune e tavolo delle prove, con pezzi numerati per cottura e combustibile.",
+      "roles": "Jin Sora — Responsabile: Camera delle ceramiche; Sela Alrun — maestra del forno; Esra Norrel — artigiano cliente; Katia Arenot — delegata dei maestri; Valerie Kervan — apprendista ceramista; Goran Xarel — portatrice del combustibile",
+      "relationships": "Sela difende una pratica che ha funzionato per anni; Katia teme che la rettifica sembri disprezzo dei maestri. Esra ha bisogno di vendere pezzi integri, non vincere una disputa generazionale.",
+      "scene_options": "Valerie mette vicini due pezzi uguali cotti con combustibili diversi; Goran conserva il sacco della fornitura nuova.",
+      "autonomous_evolution": "Jin può correggere la curva di cottura e pubblicare il difetto senza vietare tutta la tradizione.",
+      "truth_unchanged": "La crepa dipende dal combustibile nuovo",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-45",
+      "title": "Commissione delle memorie civili",
+      "place": "Mersa",
+      "access": "Sala di ascolto con traduzione e archivio di copie; il consenso alla registrazione non rende ogni racconto pubblico.",
+      "roles": "Ren Matsu — Responsabile: Commissione delle memorie civili; Tarin Helren — interprete di registro; Amelie Uren — residente di minoranza; Laurent Esten — funzionario della lingua; Wilhelm Ressel — apprendista copista; Helia Erel — corriere delle testimonianze",
+      "relationships": "Amelie vuole che il proprio nome sia scritto nella lingua scelta. Laurent cerca uniformità amministrativa; Tarin può mostrargli che due termini indicano lo stesso ufficio senza attribuire immortalità a un funzionario.",
+      "scene_options": "Wilhelm trova una doppia intestazione; Helia deve consegnare una copia comprensibile al destinatario.",
+      "autonomous_evolution": "Ren può conservare nomi originali e indice comune. La leggibilità non richiede cancellare la lingua minoritaria.",
+      "truth_unchanged": "Due nomi diversi indicano un medesimo ufficio, non una persona immortale",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-46",
+      "title": "Cooperativa delle vele",
+      "place": "Arula",
+      "access": "Cortile delle tele e banco di cucitura, aperto agli equipaggi con turni concordati.",
+      "roles": "Mina Aru — Responsabile: Cooperativa delle vele; Una Orvan — maestra veliera; Benoit Bessrel — capitano cliente; Manon Lureth — agente dell’importatore; Xenia Yven — apprendista cucitrice; Ilian Lennar — trasportatore della tela",
+      "relationships": "Benoit vuole partire prima del tempo cattivo; Manon offre una fornitura completa costosa, Una sa quali pannelli richiedono davvero il prodotto importato.",
+      "scene_options": "Xenia prepara una riparazione campione; Ilian porta tela standard che può servire a una parte della flotta.",
+      "autonomous_evolution": "Mina può separare i lavori urgenti dalle sostituzioni di prestigio. La buona riparazione non deve fallire per conservare il monopolista.",
+      "truth_unchanged": "Un ricambio standard è sufficiente su parte della flotta",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-47",
+      "title": "Ufficio delle merci vive",
+      "place": "Ashen Quay",
+      "access": "Area di ricezione con contenitori separati e spazio di colloquio fuori dalla vista del mercante.",
+      "roles": "Sora Kan — Responsabile: Ufficio delle merci vive; Varek Varden — tecnica dei contenitori; Carine Farel — persona ospitata; Nicolas Saven — agente del mercante; Yann Fennel — apprendista biologo; Jora Serrel — portatrice delle perizie",
+      "relationships": "Carine deve poter esprimere una richiesta senza essere venduta come dimostrazione. Nicolas vuole chiudere la consegna; Varek distingue conservazione del supporto e condizioni dell’ospite.",
+      "scene_options": "Yann osserva una risposta nuova e una ripetizione identica; Jora chiede una perizia prima del trasferimento.",
+      "autonomous_evolution": "Sora può sospendere il trasferimento contestato e consentire quello chiaramente ordinario. Una risposta intenzionale richiede rispetto, non certifica ogni origine possibile.",
+      "truth_unchanged": "Una forma risponde intenzionalmente, un'altra replica solo uno stimolo",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-48",
+      "title": "Rete delle sale funerarie",
+      "place": "Noran",
+      "access": "Sala del commiato e stanza delle disposizioni, con colloqui individuali per famiglia e persona custodita se realmente raggiungibile.",
+      "roles": "Astrid Noll — Responsabile: Rete delle sale funerarie; Wena Cadrin — assistente funeraria; Denis Mouren — erede destinatario; Ophie Zorrel — legale della famiglia; Zelia Marnel — apprendista copista; Korin Zerin — portatore delle disposizioni",
+      "relationships": "Denis desidera capire il morto ma non ha per questo diritto a tutta la cartella clinica. Ophie può difendere la famiglia riconoscendo il limite; Wena distingue la disposizione sul corpo dal desiderio dei vivi.",
+      "scene_options": "Zelia ricopia un allegato non destinato all’erede; Korin attende una consegna che può essere parzialmente eseguita.",
+      "autonomous_evolution": "Astrid può consegnare le volontà pertinenti e proteggere il resto. Il lutto non si risolve obbligando un morto a parlare.",
+      "truth_unchanged": "La disposizione riguarda il corpo, non ogni segreto del morto",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-49",
+      "title": "Lega dei taglialegna",
+      "place": "Asren",
+      "access": "Rimessa degli attrezzi e radura dei turni; prova del taglio e controllo clinico non sono lo stesso atto.",
+      "roles": "Borin Askel — Responsabile: Lega dei taglialegna; Yorin Guerin — caposquadra del bosco; Eveline Torrel — boscaiola ferita; Pascal Gareth — delegato del datore; Arlen Teth — apprendista manutentore; Lessa Drel — portatrice degli attrezzi",
+      "relationships": "Eveline vuole tornare al lavoro senza accettare un trattamento imposto. Yorin teme un nuovo incidente; Arlen può mostrargli l’usura che precede ogni supposta debolezza del corpo.",
+      "scene_options": "Lessa porta un attrezzo sostitutivo; Pascal insiste su una certificazione che non ripara la lama.",
+      "autonomous_evolution": "Borin può fermare quell’attrezzo e riorganizzare il turno. Una cura può essere proposta come aiuto, non come modo per mantenere un rischio evitabile.",
+      "truth_unchanged": "Un attrezzo usurato causa il rischio prima di ogni fragilità corporea",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-50",
+      "title": "Archivio delle adozioni",
+      "place": "Varshen",
+      "access": "Sportello di parentela civile con colloqui riservati; un albero genealogico non viene esposto come prova pubblica di valore personale.",
+      "roles": "Yelena Varn — Responsabile: Archivio delle adozioni; Zara Nivrel — copista civile; Fabien Alrun — genitore adottivo; Quentin Norrel — delegata del casato; Brina Arenot — apprendista giurista; Marek Kervan — corriere dei testimoni",
+      "relationships": "Fabien vuole essere riconosciuto come genitore, Quentin rappresenta un casato che pretende una trasformazione non richiesta dall’atto. Zara distingue nascita, adozione e obblighi assunti.",
+      "scene_options": "Marek arriva con testimoni mentre Brina trova la clausola effettiva; la famiglia teme che il controllo renda pubblico tutto il proprio passato.",
+      "autonomous_evolution": "Yelena può attestare l’adozione e limitare la divulgazione. Nessun marchio biologico viene aggiunto retroattivamente per rendere vera una parentela.",
+      "truth_unchanged": "L'adozione non richiedeva una trasformazione",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-51",
+      "title": "Scuola delle leghe fredde",
+      "place": "Edris",
+      "access": "Banco delle leghe e aula di riparazione; la parte ordinaria viene provata separatamente da quella investita.",
+      "roles": "Ivo Edel — Responsabile: Scuola delle leghe fredde; Akira Uvel — tecnica delle leghe; Georgette Helren — artigiana di provincia; Rosalie Uren — agente del monopolista; Cyran Esten — apprendista metallurgo; Niva Ressel — portatrice dei campioni",
+      "relationships": "Georgette vuole lavorare in provincia, Rosalie difende il servizio centrale, Akira riconosce quale pezzo può essere prodotto localmente senza promettere la parte critica.",
+      "scene_options": "Cyran presenta un campione meno elegante ma conforme; Niva deve trasportarlo senza mescolare due serie.",
+      "autonomous_evolution": "Ivo può autorizzare una riparazione circoscritta e lasciare la revisione superiore al centro competente.",
+      "truth_unchanged": "Un processo ordinario realizza il componente meno critico",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-52",
+      "title": "Consiglio delle piste",
+      "place": "Keran",
+      "access": "Deposito delle guide e punto di partenza; la rotta di ritorno ha scorte proprie, non è una riga cancellata dalla carta.",
+      "roles": "Kira Keren — Responsabile: Consiglio delle piste; Bela Boren — cartografa di pista; Hector Orvan — mercante itinerante; Sylvain Bessrel — agente della scorciatoia; Della Lureth — apprendista guida; Oskar Yven — portatore delle scorte",
+      "relationships": "Hector vuole guadagnare giorni, Sylvain vende una scorciatoia, Bela chiede dove si tornerà a bere. Kira può dissentire dal mercante senza negare che il tratto breve esista.",
+      "scene_options": "Della propone una ricognizione leggera; Oskar scopre che non ci sono provviste per un equipaggio intero.",
+      "autonomous_evolution": "Il consiglio può usare il tratto con deposito preparato o mantenere la pista lunga. Una rotta sicura richiede risorse, non il consenso narrativo della guida.",
+      "truth_unchanged": "La pista breve non ha deposito di ritorno",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-53",
+      "title": "Ufficio delle acque agricole",
+      "place": "Sivren",
+      "access": "Casa delle chiuse e sportello agricolo; i turni si leggono accanto a bisogni di colture diverse.",
+      "roles": "Sivana Rell — Responsabile: Ufficio delle acque agricole; Cira Irenel — custode delle chiuse; Ines Varden — coltivatrice di varietà; Therese Farel — delegato del contratto; Eren Saven — apprendista idraulico; Pera Fennel — portatrice delle misure",
+      "relationships": "Ines non coltiva la varietà favorita e teme di essere esclusa per inerzia. Therese difende una clausola d’emergenza, Cira deve distribuire acqua prima che il ricorso finisca.",
+      "scene_options": "Eren trova la stagione cui si riferiva l’eccezione; Pera porta misure di un appezzamento diverso da quello usato nel calcolo.",
+      "autonomous_evolution": "Sivana può ristabilire una ripartizione provvisoria e discutere la clausola separatamente. Non serve cancellare il raccolto favorito per aiutare gli altri.",
+      "truth_unchanged": "La clausola nacque per una stagione d'emergenza",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-54",
+      "title": "Officina dei trattamenti organici",
+      "place": "Dorven",
+      "access": "Officina con laboratorio e colloquio di consenso separati dalla trattativa commerciale.",
+      "roles": "Dorel Aven — Responsabile: Officina dei trattamenti organici; Dorin Perven — tecnica di laboratorio; Jacques Cadrin — persona adattata; Ursin Mouren — legale dell’investitore; Fenna Zorrel — apprendista biologa; Rovan Marnel — portatore dei consensi",
+      "relationships": "Jacques può desiderare l’adattamento e rifiutare diritti sui discendenti. Ursin rappresenta l’investitore, Dorin distingue il processo dalla persona su cui viene impiegato.",
+      "scene_options": "Fenna trova una richiesta aggiunta dopo la firma; Rovan conserva una copia del consenso originario.",
+      "autonomous_evolution": "Dorel può sospendere la sola clausola abusiva e mantenere cure già dovute. La proprietà intellettuale non diventa proprietà delle persone.",
+      "truth_unchanged": "La licenza descrive processo, non figli",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-55",
+      "title": "Rete delle scuole di porto",
+      "place": "Tevren",
+      "access": "Aule di vallata frequentate anche da famiglie legate ai trasporti; Tevren non è trasformata in porto marino dal nome storico della rete.",
+      "roles": "Teva Marr — Responsabile: Rete delle scuole di porto; Esra Welren — maestra itinerante; Katia Guerin — genitore marinaio; Valerie Torrel — delegata della residenza; Goran Gareth — apprendista docente; Sela Teth — portatore delle lezioni",
+      "relationships": "Katia desidera continuità per i figli durante gli spostamenti. Valerie difende una quota residenziale, Esra sa organizzare settimane mobili senza promettere lezioni simultanee ovunque.",
+      "scene_options": "Goran prepara un quaderno che può viaggiare; Sela porta lezioni in una sede temporanea raggiungibile.",
+      "autonomous_evolution": "Teva può distribuire moduli e tutoraggio secondo disponibilità. Il fondo per settimane mobili non attribuisce residenza permanente a ogni equipaggio.",
+      "truth_unchanged": "Il fondo consente settimane mobili",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-56",
+      "title": "Commissione dei ritorni",
+      "place": "Irela",
+      "access": "Sportello itinerante presso le sedi di bacino di Irela; Irena è l’unica identità numerata della rete, gli impiegati ordinari non diventano nuovi eroi segreti.",
+      "roles": "Irena Vor — Responsabile: Commissione dei ritorni",
+      "relationships": "Irena ascolta un ritorno anche quando manca una lettera recente: assenza e rinuncia richiedono prove differenti. Il consiglio teme abusi di chi rivendica diritti senza partecipare alle spese, ma il ritardo di una nave non è una scelta di abbandono.",
+      "scene_options": "Una persona arriva dopo il termine indicato nell’avviso; una famiglia ha conservato contributi ma non tutte le ricevute.",
+      "autonomous_evolution": "La commissione può verificare appartenenza con testimoni e registri pertinenti, rilasciando una misura provvisoria quando lecita. Non dichiara identica qualsiasi persona che porti lo stesso nome.",
+      "truth_unchanged": "La norma distingue assenza volontaria e mancata comunicazione",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-57",
+      "title": "Presidi della Veglia",
+      "place": "Rete interregionale di sedi autonome",
+      "access": "Rete di sedi autonome: il confronto avviene attraverso copie e delegati realmente inviati, non in una centrale onnisciente.",
+      "roles": "Clara Vossel — Responsabile: Cooperativa di stampa; Jules Baret — Responsabile: Dragaggio municipale; Sava Rel — Responsabile: Servizio dei piloti fluviali; Nerin Koss — Responsabile: Ufficio dei passaggi civili; Alessia Torn — Responsabile: Archivio dei congedi; Samira Qel — Responsabile: Consiglio dei pozzi; Astrid Noll — Responsabile: Rete delle sale funerarie; Kira Keren — Responsabile: Consiglio delle piste",
+      "relationships": "Astrid distingue riposo e commiato, Samira quote di servizio, Sava condizioni del passaggio. Clara può stampare una rettifica senza esporre i nomi dei ricoverati. I ruoli civili originari restano attivi.",
+      "scene_options": "Una sede riceve un allarme ma non il segnale di uscita; un’altra chiede di pubblicare l’elenco completo degli ospiti.",
+      "autonomous_evolution": "Si può correggere il protocollo di Qadra e mantenere controlli separati. La correzione non rende tutte le camere della Veglia un’unica presenza di Eclipse.",
+      "truth_unchanged": "Noran distingue allarme e filtro; un protocollo di Qadra li aveva trattati come un unico servizio e va corretto.",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "id": "NET-C10-58",
+      "title": "Scuole dei Sigilli",
+      "place": "Rete interregionale di sedi autonome",
+      "access": "Rete di camere e scuole, con prove locali e scambio di versioni dei patti. Un sigillo non trasporta chi lo legge alla titolare.",
+      "roles": "Madeleine Ravel — Responsabile: Mutua dei Turni; Irma Kehl — Responsabile: Commissione dei pozzi; Nadia Thenn — Responsabile: Segreteria degli approdi; Selma Arel — Responsabile: Compagnia delle salvagioni; Tessa Lyr — Responsabile: Collegio delle lingue; Nahla Doren — Responsabile: Magazzino di ricezione oceanica; Ren Matsu — Responsabile: Commissione delle memorie civili; Teva Marr — Responsabile: Rete delle scuole di porto",
+      "relationships": "Tessa valuta una formula, Irma il supporto materiale, Selma il consenso durante il soccorso. Teva conserva competenze e limiti propri; nessuna deliberazione di rete concede Crescent a ogni delegato.",
+      "scene_options": "Un committente vuole abbreviare la seconda conferma; Nadia riceve la copia periferica priva dello scarico.",
+      "autonomous_evolution": "Le scuole possono sospendere quel rinnovo, confrontare la copia completa e sostituire il supporto pertinente. Non è necessario annullare ogni patto valido della rete.",
+      "truth_unchanged": "La versione periferica del rinnovo manca della clausola di scarico presente nella copia della titolare.",
+      "activation": "Attivo",
+      "impact": "Minore locale; moderato se servizio o accordo si estende",
+      "future_outcomes": "OPEN"
+    }
+  ],
+  "countries": [
+    {
+      "id": "STATE-01",
+      "name": "Orsanne",
+      "society": "La vita pubblica contrappone città manifatturiere, campagne e patrimoni concessori senza dividerli in tre blocchi uniformi. Un artigiano può sostenere un proprietario per una commessa e una mutua per la scuola dei figli. Cittadinanza, diritto di voto censitario e accesso a una licenza sono condizioni diverse: una persona esclusa dal voto non perde per questo ogni tutela civile.",
+      "politics": "Nella Camera delle Concessioni il mandato territoriale e il patrimonio privato non coincidono. La Camera dei Deputati pesa sul bilancio; i ministri devono sostenere le misure davanti alle Camere. Un duca può promuovere un intervento e ricevere opposizione da comuni, creditori o altri titolari, senza essere perciò socialmente irrilevante. Le competenze già fissate di Alexander restano quelle del suo dossier istituzionale.",
+      "daily": "Nelle città una famiglia organizza la giornata fra orari di fabbrica, scuola, mercato e consegna postale; una visita imprevista costa tempo anche quando non costa denaro. In campagna una seduta cittadina può richiedere un pernottamento. Abiti da ufficio, lavoro e visita rendono visibili gli impegni, non identificano infallibilmente rango o Effige.",
+      "difference": "La controversia orsannica tende a chiedere quale concessione o mandato copra un atto. Reth chiede più spesso quale livello cantonale o federale sia competente; Neressa distingue repubblica, porto e patto; Ovel non riconosce a Elven un potere uniforme sugli undici principati.",
+      "scene": "Un delegato municipale arriva dopo una notte di viaggio e scopre che l’udienza è stata spostata. Il funzionario può trovare una soluzione o far valere l’orario: entrambe le scelte hanno un costo umano, senza una cospirazione necessaria."
+    },
+    {
+      "id": "STATE-02",
+      "name": "Reth",
+      "society": "Cittadinanza repubblicana e accesso alle risorse non rendono uguali abitante stabile, lavoratore mobile e proprietario di un’officina. Le assemblee cantonali hanno interlocutori vicini ma possono essere dominate da relazioni locali. Una minoranza può cercare tutela federale senza disprezzare il proprio cantone.",
+      "politics": "Le delegazioni devono distinguere risorse comuni e decisioni cantonali. Il centro di Teren coordina, non possiede ogni miniera. Un accordo nazionale può richiedere attuazione e fondi locali; chi lo sostiene a Teren può essere contestato dalla propria assemblea al ritorno. Non esiste una fazione universale di tutti i tecnici o dei Bearer.",
+      "daily": "Nelle conche metallurgiche scuole, manutenzione e combustibile scandiscono una mobilità fra valli. Ospitare un delegato è anche assumersi il costo di una stanza e di notizie portate a mano. Gli abitanti discutono politica nei luoghi di lavoro, ma conservano feste, sport e conversazioni senza deliberazioni formali.",
+      "difference": "L’abitudine a chiedere conto a un delegato può sembrare scortesia a un ospite nobile; per un residente è riconoscimento del mandato limitato. Ciò non impone a tutti lo stesso tono né elimina cerimoniale e rispetto personale.",
+      "scene": "Un delegato torna con una ripartizione favorevole alla provincia ma sfavorevole al proprio distretto. La sera incontra vicini che lo stimano e chiedono comunque una spiegazione."
+    },
+    {
+      "id": "STATE-03",
+      "name": "Neressa",
+      "society": "Le sei repubbliche condividono rotte e bisogni senza un’identità politica uniforme. Equipaggi, assicuratori, lavoratori di banchina e famiglie dei dispersi possono sostenere la stessa partenza per ragioni opposte. Essere di mare non significa conoscere ogni porto o accettare ogni rischio.",
+      "politics": "Consiglio dei Sei, assemblee locali e giudici portuali trattano questioni differenti. Una quarantena può essere disposta nel porto competente senza trasferire all’Unione tutto il diritto civile. La Corte del Patto tratta controversie fra repubbliche, non ogni lite domestica. Una lettera di un porto non sostituisce un accordo fra tutti e sei.",
+      "daily": "Le case mantengono posti per chi ritorna e decidono quanto attendere prima di accettare un nuovo lavoro. Notizie commerciali e familiari viaggiano spesso insieme; un foglio arrivato tardi non è necessariamente falso. Il porto cambia ritmo con il mare e gli approdi, mentre i quartieri interni mantengono scuole, laboratori e giorni ordinari.",
+      "difference": "Una promessa di presenza conta meno di una data e di un porto verificabili quando il viaggio dipende da vento e imbarco. Per questo gli appuntamenti ammettono finestre; ciò non rende indifferenti un’assenza volontaria e una mancata notizia.",
+      "scene": "Una nave rientra prima della lettera inviata da un altro scalo. Due versioni sincere dello stesso viaggio sembrano contraddirsi finché non si ricostruiscono le date."
+    },
+    {
+      "id": "STATE-04",
+      "name": "Ovel",
+      "society": "Gli undici principati condividono bacini e passaggi più facilmente di scuole, rette e diritti di residenza. Lavoratori stagionali e famiglie miste attraversano confini che non coincidono con la lingua o la parentela. Un servizio efficace in un principato può essere inaccessibile a un vicino per costo o riconoscimento della qualifica.",
+      "politics": "La Dieta degli Undici tratta competenze comuni; i principi e i consigli mantengono responsabilità locali. Le trattative hanno ritorni e consultazioni: un delegato non può promettere il terreno di un altro principato per sbloccare un accordo. Il Collegio dei Bacini tratta acque interterritoriali, non decide tutte le cause penali.",
+      "daily": "Passi, chiuse e soggiorni stagionali rendono importanti stanze temporanee e luoghi di sosta. Un ospite può partecipare a una festa e restare escluso dal voto locale; un residente può sostenere il diritto di transito e temere l’aumento degli affitti. Le comunità non sono divise soltanto fra chi accoglie e chi odia lo straniero.",
+      "difference": "Il residente chiede dove una decisione sia stata adottata, non soltanto chi l’abbia pronunciata. L’autonomia locale può proteggere una clinica indipendente e insieme rallentare una risposta comune a un abuso.",
+      "scene": "Una perizia valida permette di riparare un servizio ma l’operatore deve trovare chi assumerà la manutenzione oltre il confine. Il conflitto può chiudersi con una collaborazione, senza un nuovo apparato superiore."
+    }
+  ],
+  "cultures": [
+    {
+      "id": "PEO-01",
+      "name": "Ardai",
+      "communities": "Nelle famiglie di officina di Lethorne il pranzo portato a un vicino dopo un infortunio è una pratica di solidarietà, non un pegno ereditario. Comunità dei bacini mantengono invece incontri legati a lavori stagionali. Il nome Ardai può essere rivendicato come memoria o rifiutato come etichetta imposta; non rappresenta l’umanità intera.",
+      "kinship_and_life_events": "Una famiglia può presentare un figlio attraverso parenti, adozione o bottega, senza farne un apprendista obbligatorio. Nei commiati si possono leggere lettere di mestiere accanto a ricordi domestici: il defunto non coincide con la sua funzione produttiva.",
+      "celebration_and_taste": "Una festa di quartiere può celebrare una riparazione riuscita o una consegna d’inverno. La musica, il gioco e il cibo non sono indizi rituali per definizione. I più giovani possono preferire un circolo cittadino alle commemorazioni familiari senza rinnegare i parenti.",
+      "hospitality": "Un ospite viene aiutato a trovare un posto al tavolo; chi arriva come datore può essere invitato a parlare dopo il pasto. Questo uso locale non concede accesso ai segreti della casa."
+    },
+    {
+      "id": "PEO-02",
+      "name": "Ilyr",
+      "communities": "Le famiglie delle High Holds possono conservare stanze di rinnovo condivise e racconti sulle vecchie case; nei quartieri urbani mutue e affitti riducono il peso delle casate. Chi preferisce un’assistenza pubblica non rinuncia alla propria appartenenza.",
+      "kinship_and_life_events": "Il rinnovo richiede settimane e accordi pratici: visite concordate, pasti e riservatezza. Non è rinascita di una persona nuova né rito obbligatorio di maggiore età. Una parentela adottiva può assumere il sostegno senza rivendicare diritti biologici sull’ospite.",
+      "celebration_and_taste": "Al termine di un rinnovo una famiglia può organizzare una prima uscita breve, una passeggiata o un pasto. Altri evitano celebrazioni pubbliche. L’abito viene scelto per comfort e gusto personale oltre che per collo e mani, senza una livrea unica.",
+      "hospitality": "Guardare una membrana lesionata senza invito può essere indiscreto, ma non esiste una legge universale dello sguardo. Si chiede se servano riparo o acqua, invece di diagnosticare ogni Ilyr come malato."
+    },
+    {
+      "id": "PEO-03",
+      "name": "Serekh",
+      "communities": "Nei porti famiglie Serekh possono mantenere reti di appoggio fra approdi; nelle città interne scelgono abitazioni e servizi compatibili senza diventare comunità temporanee per definizione. Non tutti sono marinai, pescatori o custodi dell’acqua.",
+      "kinship_and_life_events": "La parentela può essere biologica o adottiva; la possibilità di assistere un corpo diverso va preparata, non negata. Il commiato può usare acqua e recipienti come memoria del viaggio, ma non impone il ritorno del cadavere in mare o una tecnica di Sepulchre.",
+      "celebration_and_taste": "Pasti e incontri rispettano bisogni individuali già documentati; la tavola ospita anche pietanze comuni e preferenze diverse. Bambini e adulti possono amare spettacoli o musica di terra senza essere presentati come eccezioni alla specie.",
+      "hospitality": "L’ospite chiede come rendere confortevole una stanza e non tocca gli apparati respiratori per curiosità. Un malinteso può finire con una spiegazione e una risata, senza una crisi diplomatica automatica."
+    },
+    {
+      "id": "PEO-04",
+      "name": "Ossari",
+      "communities": "Nei centri estrattivi il reticolo minerale vivente è stato spesso letto come destino professionale; famiglie urbane possono contestare questa aspettativa pur mantenendo solidarietà con i minatori. La posizione nelle Signorie appartiene a casate e istituzioni, non a una colpa congenita.",
+      "kinship_and_life_events": "Un ornamento può valorizzare una zona del reticolo senza trasformarla in armatura o marchio di rango. Nei funerali oggetti personali e racconti hanno valore; il corpo non è minerale da reclamare come risorsa della famiglia o del datore.",
+      "celebration_and_taste": "Scuole, botteghe e matrimoni misti creano appartenenze che non seguono la sola anatomia. Una persona può conoscere canti di cava e preferire il teatro cittadino. Non assegnare durezza emotiva alla durezza apparente del corpo.",
+      "hospitality": "Battere sul reticolo come su una pietra è un’invasione corporea, non un saluto tipico. Un interlocutore rispettoso domanda come aiutare una persona ferita invece di presumere che non senta dolore."
+    },
+    {
+      "id": "PEO-05",
+      "name": "Nethri",
+      "communities": "Comunità di Namar possono valorizzare la provenienza e il primo sostegno, mentre associazioni urbane difendono il diritto di non dichiararla. Entrambe comprendono persone riconoscenti verso l’artefice e persone che lo rifiutano. Non c’è una posizione morale unica.",
+      "kinship_and_life_events": "Un nome scelto può essere celebrato con amici e testimoni senza attendere un’autorizzazione del creatore. Parentela adottiva e relazioni biologiche, quando possibili per quel corpo, restano distinte dall’origine tecnica. L’amore non si deduce dalla manutenzione dovuta.",
+      "celebration_and_taste": "Un anniversario di corporeità può essere festeggiato o ignorato come qualunque ricorrenza personale. Abiti e casa seguono il corpo individuale, ma le scelte estetiche non sono soltanto adattamenti clinici. Non presumere che il primo giorno corporeo corrisponda all’infanzia umana.",
+      "hospitality": "Chiedere «chi ti possiede?» è un’offesa concreta; chiedere quale aiuto sia utile può essere cura. Il rifiuto di parlare dell’origine non è prova di falsità o intrusione."
+    },
+    {
+      "id": "PEO-06",
+      "name": "Kethari",
+      "communities": "Nelle famiglie provenienti dalle antiche corti plurime il lavoro collettivo può avere forte valore cerimoniale; nei quartieri misti giovani e artigiani reinterpretano quegli usi. Quattro braccia non assegnano un mestiere o una gerarchia innata.",
+      "kinship_and_life_events": "La casa può disporre utensili su più altezze e mantenere abiti separati per lavoro e visita. Chi usa due mani alla volta non è incompleto. Parentela, alleanze e adozioni appartengono alle comunità e alle leggi locali, non a una regola cosmica del numero di arti.",
+      "celebration_and_taste": "Una danza o un gioco di coordinazione può piacere a un gruppo e annoiare un altro. La celebrazione di un’impresa comune non richiede disciplina militare o Banner. Nei commiati si ricordano gesti della persona, non soltanto capacità fisiche.",
+      "hospitality": "Prendere un arto per spostare la persona o usare il corpo come curiosità pubblica non è un diritto dell’ospite. Un’imprecisione nell’etichetta può essere corretta senza rendere ogni incontro un conflitto fra specie."
+    }
+  ],
+  "faiths": [
+    {
+      "id": "REL-01",
+      "name": "Concordia dei Mestieri",
+      "ordinary_practice": "Un fedele porta un attrezzo da restituire o racconta perché non può farlo; può partecipare al pasto senza possedere una bottega. Il giorno scelto dal capitolo segue i turni locali, non una data sacra mondiale.",
+      "formation": "Il candidato al servizio del banco affianca chi ripara e chi tiene il fondo. La nomina di un responsabile richiede il riconoscimento del capitolo già previsto, non una Inscription. Un maestro competente può essere un pessimo tesoriere.",
+      "dissent_and_belonging": "Un apprendista può contestare l’esclusione dei mobili e continuare a venerare la Concordia. Cambiare capitolo richiede presentazione e accordi pratici, non cancellazione magica degli obblighi precedenti."
+    },
+    {
+      "id": "REL-02",
+      "name": "Clear Dawn",
+      "ordinary_practice": "La veglia della lampada schermata permette di parlare o tacere. Una visita privata a un malato può avere più significato di una testimonianza pubblica; i ministri non misurano la fede dal numero di confessioni.",
+      "formation": "Un ministro impara accompagnamento e responsabilità della parola; il responsabile clinico deve avere competenza propria. La formazione può incontrarsi nello stesso edificio senza diventare un percorso unico Halo.",
+      "dissent_and_belonging": "Una famiglia può rifiutare il predicatore e chiedere la clinica. Un fedele può sostenere la riservatezza contro un ministro senza essere per questo contaminato o abbandonato dalla divinità."
+    },
+    {
+      "id": "REL-03",
+      "name": "Living Mercy",
+      "ordinary_practice": "Il gesto del respiro e il pasto di accoglienza si adattano a corpi e persone. Una madre, un genitore adottivo o una persona sola può chiedere compagnia senza comprare un rito. La festa locale dei curatori può ricordare anche infermieri e trasportatori ordinari.",
+      "formation": "Il tirocinio distingue visita, registrazione e assistenza; i fondi e il reparto mantengono responsabili diversi. Un allievo può restare un buon professionista ordinario. Il rango non sostituisce prova di competenza clinica.",
+      "dissent_and_belonging": "Un paziente può cambiare servizio e conservare gratitudine. La comunità può discutere un finanziamento senza raccontare la diagnosi di chi ne beneficia. La critica alla patrona non conferisce automaticamente il sapere sui suoi atti riservati."
+    },
+    {
+      "id": "REL-04",
+      "name": "Vigil of Doors",
+      "ordinary_practice": "Una porta lasciata sgombra durante il commiato consente ai presenti di uscire quando desiderano. Si può celebrare un disperso senza dichiararne giuridicamente la morte. Una famiglia può scegliere un rito breve, musica o silenzio.",
+      "formation": "Il custode apprende ascolto, disposizione degli spazi e distinzione fra volontà del defunto e richieste degli eredi. L’accesso a un morto autentico richiede Sepulchre e mezzi effettivi, non il solo incarico religioso.",
+      "dissent_and_belonging": "Un erede può non condividere il rito e ricevere comunque gli atti pertinenti. Una presenza custodita conserva facoltà di rifiuto: nessuna assemblea vota via quel rifiuto per consolare i vivi."
+    },
+    {
+      "id": "REL-05",
+      "name": "Wayfarer Communion",
+      "ordinary_practice": "Il fedele ospita o accompagna un tratto di strada compatibile con le proprie forze. Il segno della sosta consiste nel lasciare acqua o indicazioni verificabili, senza promettere che ogni porta sia sicura.",
+      "formation": "Chi gestisce una casa di passaggio impara percorsi, scorte e ascolto delle lingue locali. Le responsabilità vengono consegnate a una persona effettivamente presente; l’assenza non viene coperta invocando Helyr.",
+      "dissent_and_belonging": "L’ospite può partire senza aderire alla fede. Un viandante può contestare un pedaggio e conservare rispetto per il custode. Un percorso interrotto non dimostra che il suo viaggio fosse moralmente sbagliato."
+    },
+    {
+      "id": "REL-06",
+      "name": "Witness Houses",
+      "ordinary_practice": "Una testimonianza può essere letta insieme alla sua rettifica, nominando chi ha corretto l’errore. I fedeli portano storie familiari e non soltanto prove giudiziarie; l’archivio conserva anche il diritto di una persona a non esporle.",
+      "formation": "La formazione distingue custodia, copia, diagnosi e interpretazione. Un ministro non possiede automaticamente Oracle o Archive, e una qualifica in uno dei due percorsi non conferisce l’altro.",
+      "dissent_and_belonging": "Un dissidente può accusare una House di pubblicare troppo o troppo poco e chiedere revisione. La memoria di un errore non deve cancellare ogni risultato autentico della stessa persona."
+    },
+    {
+      "id": "REL-07",
+      "name": "Common Measure",
+      "ordinary_practice": "Un incontro di Common Measure può riconciliare due misure di lavoro o un debito quotidiano, lasciando chiara la differenza fra regalo e prestito. La generosità non impone restituzione rituale al povero.",
+      "formation": "I responsabili imparano contabilità e mediazione prima di impegnare un fondo. Il riconoscimento comunitario non permette di fissare il valore di una persona o garantire ogni transazione con Coin.",
+      "dissent_and_belonging": "Un fedele può rifiutare un accordo vantaggioso che considera umiliante. La comunità discute senza dedurre dal rifiuto una mancanza di ragione o la necessità di un influsso sulla volontà."
+    },
+    {
+      "id": "REL-08",
+      "name": "Throne and Bond",
+      "ordinary_practice": "Il rito ricorda sia il mandato sia il momento in cui termina. A un giuramento civile può assistere chi non vuole prendere parte alla preghiera. La solennità non sostituisce l’esame dell’atto realmente sottoscritto.",
+      "formation": "Chi officia studia titoli, durata e facoltà di rinuncia. Rappresentanti religiosi e giudici mantengono ruoli distinti; non ogni formula pronunciata esercita Crown o Chain.",
+      "dissent_and_belonging": "Una persona può difendere il vincolo protettivo e denunciare la proroga abusiva. Il fedele non diventa ribelle cosmico per chiedere che un’autorità restituisca il mandato scaduto."
+    },
+    {
+      "id": "REL-09",
+      "name": "Ember Fellowship",
+      "ordinary_practice": "Il pasto vicino al forno spento celebra il lavoro concluso e il diritto di riposare. Può ricordare una riparazione riuscita senza trasformare il calore in purificazione morale.",
+      "formation": "Il servizio include custodia dei luoghi, distribuzione del combustibile e formazione. Un praticante Crucible lavora entro le proprie capacità; il ministro non certifica un apparato perché la fiamma del rito era bella.",
+      "dissent_and_belonging": "Un operaio può rifiutare un turno pericoloso senza rinnegare la Fellowship. Un artigiano può mantenere un modo tradizionale di lavorare se è sicuro, senza un obbligo religioso di innovare."
+    },
+    {
+      "id": "REL-10",
+      "name": "Tide Covenant",
+      "ordinary_practice": "Una tavola può mantenere il nome di chi è in viaggio senza fingere che sia già morto. Le ricorrenze locali seguono rientri e soccorsi; un naufragio non è letto come colpa necessaria dell’equipaggio.",
+      "formation": "Il servizio insegna accoglienza, comunicazione e soccorso oltre alle pratiche del mare. Un ministro non possiede ogni tecnica Tempest e una guarigione non appartiene automaticamente alla stessa Effige.",
+      "dissent_and_belonging": "Una famiglia può rifiutare di pubblicare una lettera del disperso. Un superstite può essere riconoscente al tempio e contestare il finanziatore della spedizione senza contraddirsi."
+    },
+    {
+      "id": "REL-11",
+      "name": "Tradizioni fluviali del Creator — ricordo antico",
+      "ordinary_practice": "Le tradizioni della Sponda restano comunità di memoria divergente, non un nuovo catechismo nazionale sul ritorno. Canti lunghi e brevi possono ricordare lo stesso approdo con parole differenti. Il nome antico conservato non rivela l’identità di Alexander.",
+      "formation": "Un custode impara da cantori, copie e pratiche di approdo. La successione può essere affidata a chi sa rendere il repertorio verificabile, non soltanto a un discendente biologico. Le fonti 99 e 372 mantengono le rispettive conoscenze.",
+      "dissent_and_belonging": "Un credente può correggere la variante recente e conservare la promessa ricordata. La visita di un benefattore non lo obbliga a riconoscere il Creator né assegna al visitatore un’autorità religiosa immediata."
+    },
+    {
+      "id": "REL-12",
+      "name": "Tradizioni di Namar — ricordo antico",
+      "ordinary_practice": "Namar mantiene ricordi di sostegni e lavori comuni con interpretazioni diverse della loro origine. Durante un pasto si può nominare una persona assistita che non aderì al culto: l’aiuto passato non prova una conversione.",
+      "formation": "La custodia del ricordo e la manutenzione dei bacini hanno competenze differenti. Chi racconta una fondazione non sa necessariamente riparare l’opera; chi la ripara non eredita tutti i segreti del fondatore.",
+      "dissent_and_belonging": "Una riforma del servizio può essere accettata come fedeltà allo scopo e criticata come rottura della tradizione. Nessuna delle due reazioni è imposta a ogni abitante o prova automatica di tradimento."
+    },
+    {
+      "id": "REL-13",
+      "name": "Custodia della Veglia",
+      "ordinary_practice": "La veglia può consistere nel tenere libero un luogo di riposo mentre altri lavorano. Un nome resta riservato se divulgarlo espone l’ospite; un filtro Eclipse non costituisce consenso a una clausura prolungata.",
+      "formation": "I responsabili imparano uscite, allarmi e turni separati. L’officiante deve sapere chi è davvero presente e chi può intervenire, non possedere una rete mentale di tutte le sedi.",
+      "dissent_and_belonging": "Un ospite può chiedere più luce o andarsene. Un fedele può difendere il segreto e pretendere controlli indipendenti: la privacy non è un voto all’isolamento senza termine."
+    },
+    {
+      "id": "REL-14",
+      "name": "Concordia dei Cicli",
+      "ordinary_practice": "La seconda conferma può essere una conversazione semplice quando l’influsso è cessato. Specchi e calendari non obbligano a scenografie identiche: una camera di valle ha ritmi diversi da una scuola cittadina.",
+      "formation": "La formazione separa formula, supporto, famiglio e responsabilità del patto. Il contratto del famiglio IV non è regalato a ogni allievo; la fascinazione non rende automaticamente libera una firma.",
+      "dissent_and_belonging": "Si può chiedere una sospensione del rito e mantenere appartenenza alla scuola. Il dissenso sulla seconda conferma ha conseguenze professionali e personali, non assegna una nuova autorità alla titolare."
+    }
+  ],
+  "cities": [
+    {
+      "id": "LOC-001",
+      "name": "Lethorne",
+      "routes": "Il percorso fra stazione, quartieri dei turnisti, botteghe e sponda cambia con l’ora: chi esce dal lavoro può cercare cibo quando gli uffici chiudono. Non si aggiungono quartieri amministrativi o distanze nuove alla carta.",
+      "rhythms": "Al mattino un cortile di consegna offre notizie e ingombri; nel pomeriggio scuola e bottega condividono clienti; la sera una sala aperta può offrire riposo senza un reclutatore occulto. Il Narratore scelga un luogo già pertinente e una persona che abbia motivo di esserci.",
+      "scene": "Un incontro può iniziare con un lavoro riuscito o un pranzo. Una pagina di cronaca, il rumore di una macchina riparata o un vicino che porta cibo rende visibile la città senza un’altra emergenza."
+    },
+    {
+      "id": "LOC-002",
+      "name": "Rovenne",
+      "routes": "Il borgo della residenza mantiene attività e orari propri: non è un cortile popolato solo quando il duca passa. Visite alla casa, mercato, chiesa e scuola possono incrociarsi senza che ogni incontro sia un’udienza.",
+      "rhythms": "Una richiesta di lavoro e un invito familiare arrivano attraverso persone diverse; Maurice, Albin e Teren non sono tre versioni dello stesso ostacolo. Celine può avere una giornata scolastica anche quando la casa è in attesa di notizie.",
+      "scene": "Una consegna riuscita può aprire una conversazione sul tempo libero. Non inventare una sorveglianza perfetta del borgo né nuovi ricordi del corpo per giustificare ogni saluto."
+    },
+    {
+      "id": "LOC-003",
+      "name": "Veldane",
+      "routes": "La capitale concentra uffici e residenze ma mantiene lavanderie, pensioni, scuole e quartieri dove chi lavora per lo Stato deve abitare. Il centro monumentale non descrive da solo il costo e il ritmo della città.",
+      "rhythms": "Una delegazione prepara un incontro mentre un impiegato perde una coincidenza e un ospite cerca un abito adatto. Le differenze di status incidono su accesso e attenzione, non permettono di saltare materialmente da un ufficio all’altro.",
+      "scene": "Un salotto può produrre un’amicizia, un equivoco o una proposta utile prima di una decisione politica. Un rifiuto cortese può valere più di un complotto: mostrare chi lo ricorda al prossimo incontro."
+    }
+  ],
+  "failure_cases": [
+    {
+      "id": "CF-374-01",
+      "name": "Il banco che restituisce il colpo",
+      "kind": "Backflow",
+      "status": "CASO_DI_RIFERIMENTO_NON_EVENTO_STORICO_ASSEGNATO",
+      "cause": "Un praticante Crucible II tenta una conversione attraverso un supporto che non riesce a smaltire il carico. Il difetto è un rapporto effettivo fra esercizio e apparato, non una punizione per la collera.",
+      "observable_signs": "Prima si scalda il raccordo, poi la mano perde precisione e compaiono bruciature lungo il contatto. Il dolore può far interrompere l’esercizio; non certifica una seconda presenza. Se insiste, il ritorno di carico può danneggiare più tessuti e rendere la mano inutilizzabile.",
+      "person_and_lucidity": "Può restare lucido e ricordare di aver scelto di continuare. Una bruciatura non lo rende malvagio o incapace di decidere ogni altra cosa.",
+      "intervention": "Interrompere alimentazione e contatto in modo compatibile con il supporto, raffreddare e trattare la lesione. Una barriera pertinente può proteggere un soccorritore; mani nude non sono necessarie per una prova di coraggio.",
+      "outcome_range": "L’arresto precoce può consentire recupero pieno. Una lesione grave richiede cure adeguate; la guarigione riuscita è reale. Nessuna abilità nuova viene ottenuta per essere sopravvissuti."
+    },
+    {
+      "id": "CF-374-02",
+      "name": "Due corpi progettati nello stesso spazio",
+      "kind": "Disjunction",
+      "status": "CASO_DI_RIFERIMENTO_NON_EVENTO_STORICO_ASSEGNATO",
+      "cause": "Un portatore Seed IV tenta di mantenere sul medesimo tessuto due configurazioni di sviluppo incompatibili senza separarle. Non ha due Effigi: l’incompatibilità può sorgere dentro un uso della propria Weave.",
+      "observable_signs": "I confini di crescita si accavallano; una piega nutritiva ostacola una regione che dovrebbe restare mobile. Il tessuto tira in direzioni diverse, perde irrorazione e può lesionarsi. L’anatomia è conseguenza del procedimento, non una forma universale del cedimento.",
+      "person_and_lucidity": "La persona può riconoscere il conflitto e chiedere quale configurazione salvare. La confusione dovuta a dolore o stanchezza non equivale a controllo mentale.",
+      "intervention": "Ridurre il mantenimento, scegliere la configurazione sostenibile e separare il tessuto danneggiato con competenze pertinenti. Non rimuovere ogni sostegno vitale insieme alla parte incompatibile.",
+      "outcome_range": "Può perdere una configurazione senza perdere la propria persona. Se la lesione progredisce, il recupero corporeo richiede riparazione reale; nessun marchio permanente obbligatorio."
+    },
+    {
+      "id": "CF-374-03",
+      "name": "La custodia che porta un comando estraneo",
+      "kind": "Intrusion",
+      "status": "CASO_DI_RIFERIMENTO_NON_EVENTO_STORICO_ASSEGNATO",
+      "cause": "Una persona usa un Medium con un investimento estraneo ancora attivo e apre il collegamento richiesto. Il caso non concede all’oggetto conoscenza remota o diritto di possedere chiunque lo guardi.",
+      "observable_signs": "La stessa richiesta ricompare quando il canale viene riaperto, anche dopo che il destinatario l’ha rifiutata. Il corpo può non mostrare alterazioni visibili. Un’impressione ripetuta non basta alla diagnosi: si confrontano relazione, sorgente e comportamento prima e dopo l’isolamento.",
+      "person_and_lucidity": "La persona può sentire propria una disposizione imposta, secondo il potere effettivo della sorgente; non diventa per questo una seconda anima. La sua testimonianza va ascoltata senza presumere che sia falsa o completamente libera.",
+      "intervention": "Limitare il canale con mezzi pertinenti, conservare una comunicazione indipendente e cercare una diagnosi dell’investimento reale. Un normale dibattito non disfa automaticamente un comando, ma la coercizione non è invincibile per definizione.",
+      "outcome_range": "Separato il collegamento, possono restare ricordi, conseguenze sociali o effetti già impressi da verificare. Non riscrivere tutta la biografia né imporre obbedienza residua senza una causa sostenuta."
+    },
+    {
+      "id": "CF-374-04",
+      "name": "Il filtro che non lascia passare l’allarme",
+      "kind": "Sovraccarico e disallineamento operativo",
+      "status": "CASO_DI_RIFERIMENTO_NON_EVENTO_STORICO_ASSEGNATO",
+      "cause": "Un portatore Eclipse III sostiene isolamento sensoriale oltre la configurazione che riesce a distinguere. Il procedimento impiega soltanto capacità realmente possedute; non è un nuovo stadio.",
+      "observable_signs": "All’inizio sparisce un segnale utile insieme a quelli esclusi; poi il portatore non separa bene segnale interno e percorso schermato. Può mancare una richiesta d’aiuto senza che il quartiere intero svanisca. Il grottesco è percettivo e relazionale, non richiede carne aperta.",
+      "person_and_lucidity": "Può sapere che qualcosa non torna ma non individuare quale accesso stia chiudendo. Non dedurre paranoia o aggressività obbligatorie.",
+      "intervention": "Ridurre il dominio raggiunto, interrompere il mantenimento non necessario e usare un segnale di tipo realmente ancora disponibile. Il soccorritore deve poter raggiungere la persona: non la localizza perché conosce il suo nome.",
+      "outcome_range": "Il filtro può cessare senza conseguenze permanenti. Se il carico ha danneggiato la Weave, servono stabilizzazione e riposo appropriati; nessuna nuova invisibilità gratuita."
+    },
+    {
+      "id": "CF-374-05",
+      "name": "La ricostruzione che supera la continuità sostenuta",
+      "kind": "Fracture",
+      "status": "CASO_DI_RIFERIMENTO_NON_EVENTO_STORICO_ASSEGNATO",
+      "cause": "Un corpo già lesionato viene sottoposto a una trasformazione o restaurazione che supera il rapporto di continuità effettivamente conservato. Avere una descrizione del corpo integro non basta a sostituire quel rapporto.",
+      "observable_signs": "Il tessuto può essere vitale ma non sostenere correttamente la funzione della persona; una regione risponde e un’altra resta priva di integrazione. Se il danno avanza possono spezzarsi collegamenti corporei e spirituali. La pelle dall’aspetto sano non dimostra riuscita.",
+      "person_and_lucidity": "La persona può comunicare in modo limitato finché esiste un canale autentico. Non affidare automaticamente a una registrazione la sua identità o il consenso.",
+      "intervention": "Fermare il procedimento incompatibile, preservare ciò che realmente resta e distinguere tessuto vivo, traccia e centro personale. L’eventuale restaurazione usa Heart o altro mezzo pertinente al rango e al caso.",
+      "outcome_range": "Può restare un danno, essere possibile un recupero oppure esserci cessazione personale se nessuna continuità autentica è rimasta. Non dichiarare estinzione dal solo mutismo e non promettere resurrezione da una copia dei ricordi."
+    },
+    {
+      "id": "CF-374-06",
+      "name": "La carica scambiata per un’acquisizione",
+      "kind": "Incorporazione incompleta",
+      "status": "CASO_DI_RIFERIMENTO_NON_EVENTO_STORICO_ASSEGNATO",
+      "cause": "Un adulto riceve una carica temporanea da un supporto e viene convinto che sia già una Inscription personale. Tenta quindi di esercitare la funzione senza la fonte necessaria.",
+      "observable_signs": "Il primo tentativo può semplicemente non produrre nulla. Se forza un collegamento instabile può sentire tremore, nausea o contraccolpo compatibile; non tutte le false acquisizioni generano un mostro. Il venditore può sfruttare la vergogna perché non chieda un secondo parere.",
+      "person_and_lucidity": "La paura di essere stato ingannato è una reazione umana, non una diagnosi di madness. Può restare capace di ricostruire chi gli ha venduto il supporto.",
+      "intervention": "Distinguere carica, fonte, Medium e incorporazione. Sospendere i tentativi rischiosi, verificare l’origine e stabilizzare una relazione reale se presente. Non serve una chiesa se esistono mezzi autentici alternativi.",
+      "outcome_range": "Può restare ordinario e sano, oppure richiedere cure per un danno effettivo. Recuperare denaro e fiducia è una questione diversa dall’acquisire finalmente l’Effige."
+    }
+  ],
+  "scene_repertoires": [
+    {
+      "arc_id": "ARC-01",
+      "title": "The Waking House",
+      "scenes": [
+        {
+          "title": "Una giornata che deve ricominciare",
+          "opportunity": "Celine può portare un quaderno invece di una domanda sulla salute. Vuole vedere se nella casa c’è posto anche per qualcosa di ordinario. Il giocatore decide se accoglierla, rimandare o proporre altro; il rinvio può diventare un appuntamento credibile o una delusione, non una fuga obbligatoria."
+        },
+        {
+          "title": "Il cambio di turno",
+          "opportunity": "Nela deve sapere chi prenderà il suo posto. Mirel vuole preservare riposo e osservazione, la casa vuole ricevere visitatori. Si possono concordare tempi senza negare al duca libertà di movimento."
+        },
+        {
+          "title": "La prima richiesta civile",
+          "opportunity": "Albin può presentare una sola questione urgente e lasciare il resto per dopo. Una scelta di priorità rivela a chi dedica attenzione la casa; non richiede di completare ogni fascicolo prima di uscire."
+        }
+      ],
+      "status": "REPERTORIO_CONDIZIONALE",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "arc_id": "ARC-02",
+      "title": "The Moved Bench",
+      "scenes": [
+        {
+          "title": "Il banco fuori dall’udienza",
+          "opportunity": "Etienne vuole usare un attrezzo o tornare a casa prima del confronto pubblico. Elias può aiutarlo senza chiedergli di ripetere subito la testimonianza. La cura riuscita e il bisogno di giustizia convivono."
+        },
+        {
+          "title": "Un riconoscimento difficile",
+          "opportunity": "Vern può ammettere una parte della decisione e fermarsi prima della responsabilità completa. Una risposta paziente o dura ha conseguenze, ma non cambia chi spostò il banco."
+        },
+        {
+          "title": "Dopo una prova buona",
+          "opportunity": "Marcel può proporre un pasto quando la misura è conclusa. Il gruppo può celebrare un risultato senza avere risolto salario, processo e ogni rapporto personale."
+        }
+      ],
+      "status": "REPERTORIO_CONDIZIONALE",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "arc_id": "ARC-03",
+      "title": "Room for Six",
+      "scenes": [
+        {
+          "title": "Uno scambio fuori sede",
+          "opportunity": "Un interlocutore può chiedere di parlare senza entrare in Room Six. Accettare rende il rapporto meno controllabile ma può costruire fiducia; il rifiuto non lo trasforma automaticamente in una spia."
+        },
+        {
+          "title": "Un silenzio condiviso",
+          "opportunity": "Livia può sospendere il lavoro quando un ospite è stanco. Il tempo speso insieme può valere più del prossimo documento. Nessuna adesione del giocatore viene narrata come già decisa."
+        },
+        {
+          "title": "Una proposta che non conviene a tutti",
+          "opportunity": "Un’offerta utile può esporre il nome di una terza persona. I fondatori discutono quali dati siano necessari; il disaccordo può produrre un patto migliore o un rifiuto rispettoso."
+        }
+      ],
+      "status": "REPERTORIO_CONDIZIONALE",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "arc_id": "ARC-04",
+      "title": "A Price for Recovery",
+      "scenes": [
+        {
+          "title": "Il pezzo sul tavolo",
+          "opportunity": "Yselle mostra una parte davvero riparabile e una ancora costosa. Vuole un giudizio sul lavoro prima di sentirsi garantita come parente. Una soluzione di Cradle può essere discussa per ciò che cambia davvero."
+        },
+        {
+          "title": "Il pranzo rimandato",
+          "opportunity": "Un appuntamento familiare coincide con una prova. Si può cambiare orario, inviare qualcuno o rinunciare a una parte dell’incontro: il costo è umano, non una penalità cosmica."
+        },
+        {
+          "title": "Una proposta di autonomia",
+          "opportunity": "Un tecnico può preferire un incarico più piccolo con responsabilità proprie a un posto prestigioso nella casa. L’aiuto non compra automaticamente una carriera altrui."
+        }
+      ],
+      "status": "REPERTORIO_CONDIZIONALE",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "arc_id": "ARC-05",
+      "title": "The Shore Has a Name",
+      "scenes": [
+        {
+          "title": "Un canto a metà",
+          "opportunity": "Un cantore può interrompersi per una faccenda ordinaria e riprendere solo se qualcuno resta ad ascoltare. Il ricordo non deve apparire soltanto al momento conveniente per una rivelazione."
+        },
+        {
+          "title": "Il passaggio di oggi",
+          "opportunity": "Un barcaiolo ha bisogno dell’approdo prima che finisca il ricorso. Un accordo temporaneo può nutrire una famiglia senza risolvere la questione storica."
+        },
+        {
+          "title": "La fede dopo la correzione",
+          "opportunity": "Un credente può accettare che una variante sia recente e continuare a pregare. Non è stupido né segretamente ostile: distingue la pratica dalla pretesa documentale."
+        }
+      ],
+      "status": "REPERTORIO_CONDIZIONALE",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "arc_id": "ARC-06",
+      "title": "Certified Weather",
+      "scenes": [
+        {
+          "title": "Chi ferma il lavoro",
+          "opportunity": "Una squadra sa che il collaudo richiede un arresto e teme la paga perduta. Il tecnico e il lavoratore possono volere entrambi sicurezza e dissentire sul modo di pagarla."
+        },
+        {
+          "title": "La misura che salva una consegna",
+          "opportunity": "Un lotto sano può essere separato da uno difettoso. La sua partenza produce un beneficio visibile, non soltanto un rapporto archiviato."
+        },
+        {
+          "title": "Merito diviso",
+          "opportunity": "Dama può chiedere che il committente nomini chi ha svolto la misura. Elren può sostenerla o indugiare: la collaborazione cambia anche senza una sconfitta scientifica."
+        }
+      ],
+      "status": "REPERTORIO_CONDIZIONALE",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "arc_id": "ARC-07",
+      "title": "A Patient Is Not a Model",
+      "scenes": [
+        {
+          "title": "Il desiderio del paziente",
+          "opportunity": "Una persona può desiderare una funzione modesta che il tecnico considera secondaria: dormire a casa o parlare senza aiuto. Il bisogno reale orienta una cura senza cambiare i suoi limiti."
+        },
+        {
+          "title": "Due persone al capezzale",
+          "opportunity": "Familiare e curatore possono volere il bene e proporre tempi diversi. Il paziente viene ascoltato se può comunicare; non scompare fra le opinioni degli esperti."
+        },
+        {
+          "title": "La dimissione riuscita",
+          "opportunity": "Se la separazione funziona, la scena successiva può essere un ritorno ordinario. Restano alloggio o lavoro soltanto se sono bisogni reali, non un altro ricatto imposto dal tono."
+        }
+      ],
+      "status": "REPERTORIO_CONDIZIONALE",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "arc_id": "ARC-08",
+      "title": "Copies That Cost",
+      "scenes": [
+        {
+          "title": "Una prova che espone un amico",
+          "opportunity": "Una copia può essere vera e contenere un nome che la parte non vuole divulgare. Si può cercare una pubblicazione parziale sufficiente anziché imporre esposizione totale."
+        },
+        {
+          "title": "Il lavoro della copia",
+          "opportunity": "Un copista stanco vuole consegnare e tornare da chi lo aspetta. Fare un confronto sul posto costa tempo; pagare un altro turno può risolverlo senza sospetti universali."
+        },
+        {
+          "title": "La fiducia corretta",
+          "opportunity": "Ammettere un errore può far perdere una commessa e guadagnare un interlocutore. Nessuno diventa amico del protagonista per obbligo morale."
+        }
+      ],
+      "status": "REPERTORIO_CONDIZIONALE",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "arc_id": "ARC-09",
+      "title": "Two Kinds of Night",
+      "scenes": [
+        {
+          "title": "Una stanza con più luce",
+          "opportunity": "Un ospite può chiedere di cambiare le condizioni del riposo. La scelta distingue il servizio dalla clausura, senza richiedere un grande processo sulla teologia della notte."
+        },
+        {
+          "title": "Il patto rinviato",
+          "opportunity": "Un committente accetta di tornare quando l’influsso è cessato. Il rinvio può permettere un consenso autentico e una collaborazione buona, non soltanto offrire tempo al nemico."
+        },
+        {
+          "title": "Una veglia ordinaria",
+          "opportunity": "Chi resta sveglio per altri può desiderare il cambio di turno. Una conversazione sul sonno mostra cura e fatica prima di qualsiasi anatema."
+        }
+      ],
+      "status": "REPERTORIO_CONDIZIONALE",
+      "future_outcomes": "OPEN"
+    },
+    {
+      "arc_id": "ARC-10",
+      "title": "The Copper Settlement",
+      "scenes": [
+        {
+          "title": "Un accordo davanti a chi lavora",
+          "opportunity": "Un’intesa fra compratori modifica la giornata di chi scarica il rame. La scena rende visibili orari, salario e attese senza pretendere che ogni lavoratore abbia la stessa posizione."
+        },
+        {
+          "title": "Un vantaggio rifiutato",
+          "opportunity": "Un fornitore può preferire meno denaro subito a un impegno che non sa mantenere. Il rifiuto non prova corruzione o stupidità."
+        },
+        {
+          "title": "Dopo il cambiamento materiale",
+          "opportunity": "Se una creazione abbatte un costo reale, qualcuno può finalmente ordinare, riposare o cambiare mestiere. Registrare anche il beneficio, non soltanto chi perde rendita."
+        }
+      ],
+      "status": "REPERTORIO_CONDIZIONALE",
+      "future_outcomes": "OPEN"
+    }
+  ],
+  "commands": [
+    {
+      "state": "Orsanne",
+      "civil_command": "La polizia municipale raccoglie segnalazioni e gestisce la sicurezza locale; la gendarmeria opera nei mandati territoriali pertinenti. L’autorità giudiziaria dispone gli atti coercitivi secondo il diritto già fissato. L’amministrazione territoriale può chiedere risorse e finanziare soccorso entro competenza, non acquistare con ciò un mandato penale universale.",
+      "military_command": "La forza militare risponde alla propria catena pubblica di comando. Non è una guardia privata di ogni nobile; l’impiego interno richiede una richiesta e un’autorità competente, motivati dall’emergenza. Una concessione di Alexander non comprende automaticamente il comando dell’esercito del regno.",
+      "response": "Si mette in sicurezza un perimetro realmente raggiungibile, si separano feriti e fonte del rischio, si chiede il professionista adatto attraverso un recapito disponibile. Un messaggio può viaggiare rapidamente sulla rete telegrafica, la persona deve ancora partire. Non assegnare minuti universali di risposta a tutta Orsanne."
+    },
+    {
+      "state": "Reth",
+      "civil_command": "La prima risposta segue il cantone e le sue autorità. Una richiesta fra cantoni indica persone, scopo e costi: il centro federale può coordinare ciò che rientra nel mandato comune, non requisire ogni officina in nome di Teren.",
+      "military_command": "Le risorse di difesa possono essere mobilitate secondo mandati cantonali e accordi federali. Delegati e comando operativo sono distinti; un consigliere non dirige ogni manovra sul campo. Non sono introdotti organici nazionali nuovi.",
+      "response": "Il coordinamento concorda chi riceve i feriti, chi mantiene un passaggio e chi può interrompere l’investimento. Una copia del messaggio non produce due interventi dello stesso Bearer. I cantoni possono dissentire sul costo senza ignorare una minaccia documentata."
+    },
+    {
+      "state": "Neressa",
+      "civil_command": "Un porto può soccorrere e isolare un attracco secondo le proprie competenze; reati e custodia delle persone seguono i giudici pertinenti. Il Consiglio dei Sei coordina questioni comuni di flotta, dogane e quarantene nei limiti già fissati.",
+      "military_command": "Autorità di bordo, comando navale e governo della repubblica non coincidono. Una missione di scorta non autorizza ogni comandante a decidere una guerra o vendere superstiti. Il soccorso ordinario non viene sospeso in attesa di un titolare VII.",
+      "response": "La prima valutazione distingue nave, carico, persona e supporto investito. Un compartimento separabile può essere isolato lasciando uscire passeggeri protetti. Un avviso a un altro scalo deve arrivare attraverso mare o canale disponibile, non una coscienza collettiva dei porti."
+    },
+    {
+      "state": "Ovel",
+      "civil_command": "Il principato competente avvia soccorso e indagine; corti e amministrazioni conservano ruoli diversi. Il Collegio dei Bacini coordina le questioni idriche interterritoriali, non diventa un comando penale sopra ogni principe.",
+      "military_command": "Un principato non invia forze in un altro come se fosse un distretto di Elven. Si richiedono accordo, mandato o condizione eccezionale effettivamente riconosciuta; il Narratore non inventa una licenza illimitata per superare un confine.",
+      "response": "Si concordano passaggio, presa in carico e restituzione dei mezzi. La stanza che ospita uno specialista deve sostenerne i bisogni e non lo duplica fra undici sedi. Il dissenso sull’attribuzione della spesa può continuare dopo un salvataggio riuscito."
+    }
+  ]
+}

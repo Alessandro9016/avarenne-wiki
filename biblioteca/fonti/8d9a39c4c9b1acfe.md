@@ -92,3 +92,20 @@ Poteri, date, famiglia, competenze e obiettivi restano quelli delle sezioni prec
 ## Raccordo bestiario BIO-301
 
 Ricercatore del Collegium. Collegamenti: BST-014, BST-017. Interlocuzione limitata alla funzione già posseduta; consultare il bestiario per i fatti T0. Nessuna diagnosi, capacità soprannaturale o conoscenza segreta attribuita automaticamente.
+
+
+## Vita personale e rapporti — 374
+
+### Gesti e voce
+
+Su un campione promettente scrive prima il limite che il risultato. In una conversazione amichevole cerca tuttavia un riconoscimento personale: non è soltanto il rappresentante impersonale del metodo.
+
+### Rapporti vissuti
+
+Di Dama ammira la capacità di trovare una misura sbagliata senza bisogno di investirla; soffre quando un committente attribuisce a lui anche il suo lavoro. Il contrasto con la commercializzazione non cancella il desiderio di vedere il proprio apparato usato.
+
+### Una scelta aperta
+
+Una dimostrazione può riuscire e diventare l’occasione di dividere credito, nome e denaro. Elren può scegliere di correggere il committente, ma tale decisione non è garantita dall’essere un ricercatore competente.
+
+Questi dettagli non assegnano nuove azioni attuali al giocatore o incontri pregressi non documentati.

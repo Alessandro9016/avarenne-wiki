@@ -243,6 +243,26 @@
         "protagonist_knows_culprit_at_T0": false,
         "resolution_can_be_early": true,
         "no_universal_plot": true
+      },
+      "scenes_374": {
+        "arc_id": "ARC-01",
+        "title": "The Waking House",
+        "scenes": [
+          {
+            "title": "Una giornata che deve ricominciare",
+            "opportunity": "Celine può portare un quaderno invece di una domanda sulla salute. Vuole vedere se nella casa c’è posto anche per qualcosa di ordinario. Il giocatore decide se accoglierla, rimandare o proporre altro; il rinvio può diventare un appuntamento credibile o una delusione, non una fuga obbligatoria."
+          },
+          {
+            "title": "Il cambio di turno",
+            "opportunity": "Nela deve sapere chi prenderà il suo posto. Mirel vuole preservare riposo e osservazione, la casa vuole ricevere visitatori. Si possono concordare tempi senza negare al duca libertà di movimento."
+          },
+          {
+            "title": "La prima richiesta civile",
+            "opportunity": "Albin può presentare una sola questione urgente e lasciare il resto per dopo. Una scelta di priorità rivela a chi dedica attenzione la casa; non richiede di completare ogni fascicolo prima di uscire."
+          }
+        ],
+        "status": "REPERTORIO_CONDIZIONALE",
+        "future_outcomes": "OPEN"
       }
     },
     {
@@ -354,6 +374,26 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
+      },
+      "scenes_374": {
+        "arc_id": "ARC-02",
+        "title": "The Moved Bench",
+        "scenes": [
+          {
+            "title": "Il banco fuori dall’udienza",
+            "opportunity": "Etienne vuole usare un attrezzo o tornare a casa prima del confronto pubblico. Elias può aiutarlo senza chiedergli di ripetere subito la testimonianza. La cura riuscita e il bisogno di giustizia convivono."
+          },
+          {
+            "title": "Un riconoscimento difficile",
+            "opportunity": "Vern può ammettere una parte della decisione e fermarsi prima della responsabilità completa. Una risposta paziente o dura ha conseguenze, ma non cambia chi spostò il banco."
+          },
+          {
+            "title": "Dopo una prova buona",
+            "opportunity": "Marcel può proporre un pasto quando la misura è conclusa. Il gruppo può celebrare un risultato senza avere risolto salario, processo e ogni rapporto personale."
+          }
+        ],
+        "status": "REPERTORIO_CONDIZIONALE",
+        "future_outcomes": "OPEN"
       }
     },
     {
@@ -463,6 +503,26 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
+      },
+      "scenes_374": {
+        "arc_id": "ARC-03",
+        "title": "Room for Six",
+        "scenes": [
+          {
+            "title": "Uno scambio fuori sede",
+            "opportunity": "Un interlocutore può chiedere di parlare senza entrare in Room Six. Accettare rende il rapporto meno controllabile ma può costruire fiducia; il rifiuto non lo trasforma automaticamente in una spia."
+          },
+          {
+            "title": "Un silenzio condiviso",
+            "opportunity": "Livia può sospendere il lavoro quando un ospite è stanco. Il tempo speso insieme può valere più del prossimo documento. Nessuna adesione del giocatore viene narrata come già decisa."
+          },
+          {
+            "title": "Una proposta che non conviene a tutti",
+            "opportunity": "Un’offerta utile può esporre il nome di una terza persona. I fondatori discutono quali dati siano necessari; il disaccordo può produrre un patto migliore o un rifiuto rispettoso."
+          }
+        ],
+        "status": "REPERTORIO_CONDIZIONALE",
+        "future_outcomes": "OPEN"
       }
     },
     {
@@ -573,6 +633,26 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
+      },
+      "scenes_374": {
+        "arc_id": "ARC-04",
+        "title": "A Price for Recovery",
+        "scenes": [
+          {
+            "title": "Il pezzo sul tavolo",
+            "opportunity": "Yselle mostra una parte davvero riparabile e una ancora costosa. Vuole un giudizio sul lavoro prima di sentirsi garantita come parente. Una soluzione di Cradle può essere discussa per ciò che cambia davvero."
+          },
+          {
+            "title": "Il pranzo rimandato",
+            "opportunity": "Un appuntamento familiare coincide con una prova. Si può cambiare orario, inviare qualcuno o rinunciare a una parte dell’incontro: il costo è umano, non una penalità cosmica."
+          },
+          {
+            "title": "Una proposta di autonomia",
+            "opportunity": "Un tecnico può preferire un incarico più piccolo con responsabilità proprie a un posto prestigioso nella casa. L’aiuto non compra automaticamente una carriera altrui."
+          }
+        ],
+        "status": "REPERTORIO_CONDIZIONALE",
+        "future_outcomes": "OPEN"
       }
     },
     {
@@ -682,6 +762,26 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
+      },
+      "scenes_374": {
+        "arc_id": "ARC-05",
+        "title": "The Shore Has a Name",
+        "scenes": [
+          {
+            "title": "Un canto a metà",
+            "opportunity": "Un cantore può interrompersi per una faccenda ordinaria e riprendere solo se qualcuno resta ad ascoltare. Il ricordo non deve apparire soltanto al momento conveniente per una rivelazione."
+          },
+          {
+            "title": "Il passaggio di oggi",
+            "opportunity": "Un barcaiolo ha bisogno dell’approdo prima che finisca il ricorso. Un accordo temporaneo può nutrire una famiglia senza risolvere la questione storica."
+          },
+          {
+            "title": "La fede dopo la correzione",
+            "opportunity": "Un credente può accettare che una variante sia recente e continuare a pregare. Non è stupido né segretamente ostile: distingue la pratica dalla pretesa documentale."
+          }
+        ],
+        "status": "REPERTORIO_CONDIZIONALE",
+        "future_outcomes": "OPEN"
       }
     },
     {
@@ -807,6 +907,26 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
+      },
+      "scenes_374": {
+        "arc_id": "ARC-06",
+        "title": "Certified Weather",
+        "scenes": [
+          {
+            "title": "Chi ferma il lavoro",
+            "opportunity": "Una squadra sa che il collaudo richiede un arresto e teme la paga perduta. Il tecnico e il lavoratore possono volere entrambi sicurezza e dissentire sul modo di pagarla."
+          },
+          {
+            "title": "La misura che salva una consegna",
+            "opportunity": "Un lotto sano può essere separato da uno difettoso. La sua partenza produce un beneficio visibile, non soltanto un rapporto archiviato."
+          },
+          {
+            "title": "Merito diviso",
+            "opportunity": "Dama può chiedere che il committente nomini chi ha svolto la misura. Elren può sostenerla o indugiare: la collaborazione cambia anche senza una sconfitta scientifica."
+          }
+        ],
+        "status": "REPERTORIO_CONDIZIONALE",
+        "future_outcomes": "OPEN"
       }
     },
     {
@@ -934,6 +1054,26 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
+      },
+      "scenes_374": {
+        "arc_id": "ARC-07",
+        "title": "A Patient Is Not a Model",
+        "scenes": [
+          {
+            "title": "Il desiderio del paziente",
+            "opportunity": "Una persona può desiderare una funzione modesta che il tecnico considera secondaria: dormire a casa o parlare senza aiuto. Il bisogno reale orienta una cura senza cambiare i suoi limiti."
+          },
+          {
+            "title": "Due persone al capezzale",
+            "opportunity": "Familiare e curatore possono volere il bene e proporre tempi diversi. Il paziente viene ascoltato se può comunicare; non scompare fra le opinioni degli esperti."
+          },
+          {
+            "title": "La dimissione riuscita",
+            "opportunity": "Se la separazione funziona, la scena successiva può essere un ritorno ordinario. Restano alloggio o lavoro soltanto se sono bisogni reali, non un altro ricatto imposto dal tono."
+          }
+        ],
+        "status": "REPERTORIO_CONDIZIONALE",
+        "future_outcomes": "OPEN"
       }
     },
     {
@@ -1059,6 +1199,26 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
+      },
+      "scenes_374": {
+        "arc_id": "ARC-08",
+        "title": "Copies That Cost",
+        "scenes": [
+          {
+            "title": "Una prova che espone un amico",
+            "opportunity": "Una copia può essere vera e contenere un nome che la parte non vuole divulgare. Si può cercare una pubblicazione parziale sufficiente anziché imporre esposizione totale."
+          },
+          {
+            "title": "Il lavoro della copia",
+            "opportunity": "Un copista stanco vuole consegnare e tornare da chi lo aspetta. Fare un confronto sul posto costa tempo; pagare un altro turno può risolverlo senza sospetti universali."
+          },
+          {
+            "title": "La fiducia corretta",
+            "opportunity": "Ammettere un errore può far perdere una commessa e guadagnare un interlocutore. Nessuno diventa amico del protagonista per obbligo morale."
+          }
+        ],
+        "status": "REPERTORIO_CONDIZIONALE",
+        "future_outcomes": "OPEN"
       }
     },
     {
@@ -1179,6 +1339,26 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
+      },
+      "scenes_374": {
+        "arc_id": "ARC-09",
+        "title": "Two Kinds of Night",
+        "scenes": [
+          {
+            "title": "Una stanza con più luce",
+            "opportunity": "Un ospite può chiedere di cambiare le condizioni del riposo. La scelta distingue il servizio dalla clausura, senza richiedere un grande processo sulla teologia della notte."
+          },
+          {
+            "title": "Il patto rinviato",
+            "opportunity": "Un committente accetta di tornare quando l’influsso è cessato. Il rinvio può permettere un consenso autentico e una collaborazione buona, non soltanto offrire tempo al nemico."
+          },
+          {
+            "title": "Una veglia ordinaria",
+            "opportunity": "Chi resta sveglio per altri può desiderare il cambio di turno. Una conversazione sul sonno mostra cura e fatica prima di qualsiasi anatema."
+          }
+        ],
+        "status": "REPERTORIO_CONDIZIONALE",
+        "future_outcomes": "OPEN"
       }
     },
     {
@@ -1296,6 +1476,26 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
+      },
+      "scenes_374": {
+        "arc_id": "ARC-10",
+        "title": "The Copper Settlement",
+        "scenes": [
+          {
+            "title": "Un accordo davanti a chi lavora",
+            "opportunity": "Un’intesa fra compratori modifica la giornata di chi scarica il rame. La scena rende visibili orari, salario e attese senza pretendere che ogni lavoratore abbia la stessa posizione."
+          },
+          {
+            "title": "Un vantaggio rifiutato",
+            "opportunity": "Un fornitore può preferire meno denaro subito a un impegno che non sa mantenere. Il rifiuto non prova corruzione o stupidità."
+          },
+          {
+            "title": "Dopo il cambiamento materiale",
+            "opportunity": "Se una creazione abbatte un costo reale, qualcuno può finalmente ordinare, riposare o cambiare mestiere. Registrare anche il beneficio, non soltanto chi perde rendita."
+          }
+        ],
+        "status": "REPERTORIO_CONDIZIONALE",
+        "future_outcomes": "OPEN"
       }
     },
     {
@@ -4784,5 +4984,6 @@
   "retcon_revision": 369,
   "ancient_fronts_source": "Fronti_antichi_372.json",
   "new_ancient_figures_source": "Signorie_personaggi_372.json",
-  "historical_revision_372": "Ilyra e Talren cresciuti nella liberazione, successioni Crown −12018 e Archive −12074. Nessun nuovo colpevole della caduta o evento futuro già avvenuto."
+  "historical_revision_372": "Ilyra e Talren cresciuti nella liberazione, successioni Crown −12018 e Archive −12074. Nessun nuovo colpevole della caduta o evento futuro già avvenuto.",
+  "scene_revision": 374
 }

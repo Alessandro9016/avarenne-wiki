@@ -88,3 +88,20 @@ La mansione e la geografia del dossier restano le fonti del servizio ordinario. 
 **Provenienza della precisazione:** NUOVA_DECISIONE_AUTORIALE_ESPLICITA. Consolidamento autoriale della corporeità umana ordinaria; non una conclusione dedotta da silenzio o nome.
 
 Poteri, date, famiglia, competenze e obiettivi restano quelli delle sezioni precedenti. Nessun individuo rappresenta moralmente la propria popolazione.
+
+
+## Vita personale e rapporti — 374
+
+### Gesti e voce
+
+Legge i titoli ad alta voce per sentirne l’effetto, poi guarda chi è rimasto fuori dalla frase. Le piace un foglio riuscito anche quando il pezzo non riguarda una battaglia pubblica.
+
+### Rapporti vissuti
+
+Con il compositore dell’omissione già fissata distingue la cura per una famiglia dalla responsabilità di avere cambiato una testimonianza. Non è obbligata a esporlo subito o a proteggerlo per sempre. Con i corrieri vuole sapere quale tiratura è stata realmente consegnata.
+
+### Una scelta aperta
+
+Una rettifica può difendere una persona e danneggiare la reputazione della cooperativa. Si può discutere come pubblicarla, evitando che ogni differenza di stampa diventi una falsificazione magica.
+
+Questi dettagli non assegnano nuove azioni attuali al giocatore o incontri pregressi non documentati.
