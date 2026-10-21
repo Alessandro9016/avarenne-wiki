@@ -1,0 +1,601 @@
+{
+  "revision": 373,
+  "access": "NARRATORE_AUTORE_WIKI_INTEGRALE",
+  "basis": "Nuove precisazioni autoriali adottate: status locale, dottrine e pratiche. Non fatti dedotti retroattivamente da una semplice etichetta HOSTILE.",
+  "reference_date": "18 maggio 812",
+  "no_worldwide_law": true,
+  "records": [
+    {
+      "front_id": "FRONT-01",
+      "faction_id": "FAC-15",
+      "name": "The Glass Hunt",
+      "location": "Lethorne",
+      "type": "RETE_CRIMINALE_CLANDESTINA",
+      "territory": "Orsanne / Lethorne",
+      "legal_status_T0": "Non risulta un bando nominativo contro The Glass Hunt al T0. Sequestro, vendita di persone e sottrazione di mezzi sono perseguibili a prescindere dal nome della rete.",
+      "public_cover": "Intermediazione di strumenti e recupero di componenti. Un commerciante contattato non è per questo iniziato o complice.",
+      "inner_justification": "Nessuna fede comune obbligatoria: profitto e ricatto tengono insieme incarichi compartimentati.",
+      "investigation": "Consegne, pagamenti e sparizioni vanno collegati a persone identificabili; una copia di catalogo non dimostra da sola il sequestro.",
+      "authority_response": "Polizia municipale per la segnalazione locale, gendarmeria per spostamenti e sequestri, giudice distrettuale per mandati. La forza contro un semidivino richiede mezzi adeguati.",
+      "current": "Una squadra ha affittato il piano sopra un deposito di strumenti. Conosce un intermediario di Marcel, non la posizione di Room Six.",
+      "leader": "CAST-474",
+      "officers": [
+        "CAST-474",
+        "CAST-475"
+      ],
+      "members": [
+        "CAST-474",
+        "CAST-475",
+        "CAST-193",
+        "CAST-194",
+        "CAST-200"
+      ],
+      "arcs": [
+        "ARC-02",
+        "ARC-03",
+        "ARC-06",
+        "ARC-08",
+        "ARC-30",
+        "ARC-39"
+      ],
+      "sponsor_unchanged": "nessun patrocinio divino; contratti comprati caso per caso",
+      "cult": null,
+      "future_outcomes": "OPEN",
+      "revision": 373
+    },
+    {
+      "front_id": "FRONT-02",
+      "faction_id": "FAC-16",
+      "name": "The Ashen Tithe",
+      "location": "Sarn Gate",
+      "type": "CULTO_PROSCRITTO_LOCALE",
+      "territory": "Orsanne / Sarn Gate",
+      "legal_status_T0": "La confraternita che rivendica la Decima di Cenere è proscritta nel distretto di Sarn per associazione destinata alla servitù personale coercitiva. Il bando riguarda questa rete e i suoi atti, non ogni studio delle Signorie o culto degli antenati. La sua presenza nella stazione dismessa non è nota agli investigatori al T0.",
+      "public_cover": "Mutuo soccorso dei discendenti e recupero di beni minerari. Le parole pubbliche evitano il possesso di persone.",
+      "inner_justification": "Il rango è presentato come un debito ereditato: il superiore promette ordine e mantenimento in cambio di una discendenza sottoposta.",
+      "investigation": "I sei adulti già prigionieri sono persone, non prove da trattenere; documenti di trasporto, custodia e vincoli imitativi possono collegare la cellula al bando.",
+      "authority_response": "Giudice distrettuale e gendarmeria. Un ordine locale non produce estradizione automatica in Reth o negli undici principati di Ovel.",
+      "current": "Un convoglio di sei adulti è nascosto in una stazione dismessa. I vecchi marchi sono studiati, non già ripristinati su tutta una popolazione.",
+      "leader": "CAST-476",
+      "officers": [
+        "CAST-476",
+        "CAST-477"
+      ],
+      "members": [
+        "CAST-476",
+        "CAST-477",
+        "CAST-246",
+        "CAST-248",
+        "CAST-250"
+      ],
+      "arcs": [
+        "ARC-05",
+        "ARC-11",
+        "ARC-15",
+        "ARC-17",
+        "ARC-25",
+        "ARC-35"
+      ],
+      "sponsor_unchanged": "eredi politici delle Signorie; nessun mandato di tutti gli Ossari o Kethari",
+      "cult": {
+        "title": "La Decima di Cenere",
+        "promise": "Un posto stabile, nutrimento e protezione per chi teme di essere abbandonato dal lavoro e dalla famiglia. Il primo dono può essere un pasto vero, senza vincolo soprannaturale.",
+        "belief": "L’ordine perduto viene raccontato come un organismo: chi occupa un rango inferiore dovrebbe restituire lavoro e obbedienza a chi lo mantiene. I morti dei casati sono invocati come testimoni dell’ordine, non come presenze automaticamente raggiunte. Non possiede una nuova divinità o un’integrazione cosmica.",
+        "rites": "Una ciotola di cenere fredda passa fra i presenti; ciascuno nomina un obbligo ereditato. Per i simpatizzanti è una commemorazione. Nella cerchia coercitiva si registrano invece persone e discendenze come debiti trasferibili. Cenere e parole ordinarie non producono Chain.",
+        "membership": "Tre cerchie: sostenitori di mutuo soccorso, trasportatori remunerati, custodi informati dei prigionieri. Ishra raccoglie dichiarazioni e propone ranghi; Voren decide gli investimenti raggiungibili. Non ogni donatore sa del convoglio.",
+        "initiation": "Il candidato viene dapprima incaricato di recuperare un bene; gli si propone poi una custodia descritta falsamente come restituzione di debito. Sapere che si tratta di una persona e scegliere di trattenerla distingue complicità cosciente da reclutamento ingannevole.",
+        "dissent": "Un simpatizzante può allontanarsi senza marchio automatico. Chi ha visto la stazione può subire minacce o inseguimento da parte di persone identificate. Per applicare un vincolo serve un esercizio reale e contestabile, non la sola iscrizione al culto.",
+        "daily": "I custodi mangiano con i sostenitori ma negano ai prigionieri la stessa possibilità di scegliere dove sedersi. Questo scarto quotidiano rende osservabile la dottrina senza una confessione completa.",
+        "pressure": "Il trasferimento dei sei adulti dipende da convoglio e custodi. Un intervento può impedirlo definitivamente; non ricreare altri sei prigionieri per salvare l’arco.",
+        "hooks": [
+          "Un’offerta di mantenimento contiene una clausola sui discendenti assente dalla copia consegnata al beneficiario.",
+          "La consegna di sei razioni aggiuntive non corrisponde al personale dichiarato della stazione."
+        ],
+        "scene": "Un sostenitore porta coperte per un ricovero e scopre che chi dovrebbe riceverle non può uscire.",
+        "complication": "La coperta e il soccorso sono reali: confiscare indiscriminatamente tutto il fondo può danneggiare famiglie estranee alla custodia.",
+        "optional": "Il trasportatore può fornire una copia autentica del tragitto, ma solo se il suo accesso e la sua decisione lo consentono; non è già un informatore garantito."
+      },
+      "future_outcomes": "OPEN",
+      "revision": 373
+    },
+    {
+      "front_id": "FRONT-03",
+      "faction_id": "FAC-17",
+      "name": "The Red Orchard",
+      "location": "Elven",
+      "type": "FACCIATA_CLINICA_E_CULTO_INTERNO",
+      "territory": "Ovel / principato di Elven",
+      "legal_status_T0": "Il vivaio svolge anche prestazioni lecite; Red Orchard non è formalmente proscritto per nome al T0. Occultare dipendenze, trattenere un paziente o sequestrare un concorrente costituisce materia di procedimento nelle corti del principato. La Dieta non può chiudere tutte le cliniche di Ovel con una singola decisione.",
+      "public_cover": "Sostegni viventi e assistenza per persone che altre strutture hanno respinto. Alcune cure e forniture funzionano realmente.",
+      "inner_justification": "La cerchia interna sacralizza la continuità del vivaio: ciò che mantiene in vita dovrebbe, secondo la sua dottrina, governare il futuro del beneficiario.",
+      "investigation": "Confronto fra autonomia dichiarata e flusso nascosto, registri di manutenzione e testimonianze libere. La sola presenza di un innesto non prova abuso.",
+      "authority_response": "Corte del principato e controlli clinici nei loro mandati; cooperazione separata per pazienti e merci oltre confine. Isolare una condotta senza sopprimere indiscriminatamente le cure.",
+      "current": "Un vivaio sperimentale coltiva un sostegno utile e un ramo dipendente non dichiarato. Tre campioni sono già stati separati per la spedizione.",
+      "leader": "CAST-478",
+      "officers": [
+        "CAST-478",
+        "CAST-479"
+      ],
+      "members": [
+        "CAST-478",
+        "CAST-479",
+        "CAST-286",
+        "CAST-289",
+        "CAST-290"
+      ],
+      "arcs": [
+        "ARC-07",
+        "ARC-12",
+        "ARC-13",
+        "ARC-18",
+        "ARC-23",
+        "ARC-27",
+        "ARC-35"
+      ],
+      "sponsor_unchanged": "Othrem conosce il programma di dipendenza; i capi locali non conoscono la caduta né il ritorno",
+      "cult": {
+        "title": "La Continuità del Vivaio",
+        "promise": "Cure per chi teme di perdere un organo o un sostegno. Il sollievo iniziale non è un’illusione: il ramo utile funziona entro i suoi limiti.",
+        "belief": "La cerchia di Sevra chiama il vivaio «la madre che non interrompe il nutrimento». Non identifica questa figura con una nuova dea: sacralizza il sistema vivente e la custode che lo controlla. Il salto abusivo è sostenere che ricevere vita attribuisca al vivaio il diritto di decidere dove e come il beneficiario vivrà.",
+        "rites": "Il pasto della radice viene consumato prima delle manutenzioni. Il paziente può intenderlo come ringraziamento; la cerchia annota segretamente la sua gratitudine come promessa di permanenza. Nessun alimento o rito ordinario impone Will o Chain. La dipendenza effettiva è biologica e investita, non un patto creato dalle parole.",
+        "membership": "Pazienti e donatori non sono automaticamente membri. I tecnici conoscono segmenti del ciclo; la cerchia interna comprende chi sa della dipendenza nascosta e la mantiene. Arven conserva la responsabilità dei silenzi clinici senza conoscere ogni progetto di Sevra o i segreti della caduta.",
+        "initiation": "Una nuova recluta aiuta una persona realmente sofferente. Il passaggio interno arriva quando le si chiede di tacere un collegamento indispensabile o di scoraggiare una separazione che potrebbe riuscire. Non è necessario inventare atti sessuali come requisito di ingresso.",
+        "dissent": "Una persona può rifiutare il rito e conservare il diritto alla cura. La rete può provare a ricattarla negando manutenzione, ma non nasce una punizione cosmica del rifiuto. Mezzi e soluzioni indipendenti possono interrompere il ricatto.",
+        "daily": "Sevra ricorda preferenze e dolori dei pazienti, poi decide chi potrà ricevere il ricambio. L’accudimento individuale e la deliberata sottrazione di autonomia convivono; non cancellare la sua scelta criminale chiamandola soltanto paura.",
+        "pressure": "I tre campioni già separati mantengono stato e destinazioni fissati. Il nuovo approfondimento non colloca impianti segreti nel protagonista o negli altri membri del cast.",
+        "hooks": [
+          "Una scheda dice «autonomo», ma il supporto conserva un condotto nutritivo nascosto sotto la protezione ornamentale.",
+          "Un adulto chiede una seconda valutazione e riceve offerte sempre più generose purché non porti via il supporto."
+        ],
+        "scene": "La custode sistema con delicatezza il cuscino di un paziente mentre gli spiega che la manutenzione altrove sarebbe un tradimento. Il Narratore distingue minaccia, dipendenza reale e alternative verificabili.",
+        "complication": "Interrompere brutalmente un collegamento può danneggiare il beneficiario: occorre sostenere prima la funzione, non negare che una separazione competente possa riuscire.",
+        "optional": "Un tecnico può aver conservato una misura incompatibile con l’autonomia dichiarata; il reperto va introdotto solo con provenienza e accesso reali, non come prova inevitabile."
+      },
+      "future_outcomes": "OPEN",
+      "revision": 373
+    },
+    {
+      "front_id": "FRONT-04",
+      "faction_id": "FAC-18",
+      "name": "The Still Court",
+      "location": "Veldane",
+      "type": "APPARATO_CON_ABUSI_OCCULTI",
+      "territory": "Orsanne / Veldane",
+      "legal_status_T0": "Non è un culto proscritto. Esistono funzioni e contenimenti leciti, ma la falsificazione di durata e la detenzione oltre mandato non diventano legali perché compiute da funzionari.",
+      "public_cover": "Contenimento mirato e sicurezza dei testimoni pericolosi, con documenti che possono apparire regolari.",
+      "inner_justification": "Nessuna iniziazione religiosa necessaria; la disciplina interna presenta il permanere della custodia come prova della sua necessità.",
+      "investigation": "Confrontare originale, durata, rinnovi e persona detenuta. Un patrocinio divino non sostituisce il titolo giuridico.",
+      "authority_response": "Corte competente e revisione a Veldane; gli altri funzionari non sono automaticamente informati o corrotti.",
+      "current": "Due funzionari hanno preparato mandati individuali contro testimoni e un deposito protetto per trattenerli.",
+      "leader": "CAST-480",
+      "officers": [
+        "CAST-480",
+        "CAST-481"
+      ],
+      "members": [
+        "CAST-480",
+        "CAST-481",
+        "CAST-341",
+        "CAST-343",
+        "CAST-345"
+      ],
+      "arcs": [
+        "ARC-08",
+        "ARC-16",
+        "ARC-17",
+        "ARC-19",
+        "ARC-20",
+        "ARC-29",
+        "ARC-36",
+        "ARC-38"
+      ],
+      "sponsor_unchanged": "Ilyra approva il contenimento mirato; non ha ordinato ogni rapimento locale",
+      "cult": null,
+      "future_outcomes": "OPEN",
+      "revision": 373
+    },
+    {
+      "front_id": "FRONT-05",
+      "faction_id": "FAC-19",
+      "name": "The Black Wake",
+      "location": "South Shoals",
+      "type": "RETE_PIRATESCA_CLANDESTINA",
+      "territory": "South Shoals / acque e porti effettivamente interessati",
+      "legal_status_T0": "Naufragio deliberato, abbordaggio e vendita di superstiti sono attività criminali. Non esiste una giurisdizione mondiale: porto di partenza, luogo dell’attacco e arrivo determinano chi può procedere. Al T0 la nave bersaglio è ancora in porto.",
+      "public_cover": "Recuperatori e informazioni sulle secche; un soccorso venduto può mascherare chi ha prodotto il pericolo.",
+      "inner_justification": "Nessuna liturgia condivisa richiesta; invocazioni di marinai non costituiscono patrocinio di Enra.",
+      "investigation": "Segnali collocati, ancore, rotte e contratti. Chi denuncia deve poter sbarcare senza essere riconsegnato ai recuperatori.",
+      "authority_response": "Giudici portuali e autorità navali pertinenti. Bloccare una nave non smantella da solo gli intermediari a terra.",
+      "current": "Due imbarcazioni di appoggio hanno depositato ancore e segnali falsi presso una secca. La nave bersaglio è ancora in porto.",
+      "leader": "CAST-482",
+      "officers": [
+        "CAST-482",
+        "CAST-483"
+      ],
+      "members": [
+        "CAST-482",
+        "CAST-483",
+        "CAST-336",
+        "CAST-338",
+        "CAST-340"
+      ],
+      "arcs": [
+        "ARC-05",
+        "ARC-10",
+        "ARC-15",
+        "ARC-24",
+        "ARC-26",
+        "ARC-28",
+        "ARC-30"
+      ],
+      "sponsor_unchanged": "nessuna obbedienza a Enra: predatori che ne temono la reazione",
+      "cult": null,
+      "future_outcomes": "OPEN",
+      "revision": 373
+    },
+    {
+      "front_id": "FRONT-06",
+      "faction_id": "FAC-20",
+      "name": "The Hollow Choir",
+      "location": "Corten",
+      "type": "CULTO_OCCULTO_NON_BANDITO_PER_NOME",
+      "territory": "Neressa / repubblica di Corten",
+      "legal_status_T0": "Il nome Hollow Choir non figura come associazione nominativamente bandita al T0. La pensione non è fuori legge perché ospita incontri privati. Detenzione, frode di impiego e coercizione soprannaturale sono invece perseguibili davanti ai giudici della repubblica; la Corte del Patto interviene nei conflitti fra repubbliche.",
+      "public_cover": "Alloggio, impiego e comunità per adulti isolati. Il nome occulto viene comunicato dopo il primo ingresso.",
+      "inner_justification": "Predica la rinuncia alla solitudine, poi confonde appartenenza e diritto del gruppo a decidere la versione della vita che una persona può raccontare.",
+      "investigation": "Lettere esterne, turni di uscita, testimonianze indipendenti e discrepanze fra invito e condizioni reali. Una persona serena non dimostra da sola consenso libero.",
+      "authority_response": "Giudici portuali o civili secondo gli atti; soccorso e riservatezza dei residenti. La cellula non è mandataria di Neral.",
+      "current": "Una pensione ospita quattro adulti reclutati con promesse di impiego; gli ingressi sono ordinari e controllabili.",
+      "leader": "CAST-484",
+      "officers": [
+        "CAST-484",
+        "CAST-485"
+      ],
+      "members": [
+        "CAST-484",
+        "CAST-485",
+        "CAST-321",
+        "CAST-323",
+        "CAST-325"
+      ],
+      "arcs": [
+        "ARC-09",
+        "ARC-14",
+        "ARC-21",
+        "ARC-22",
+        "ARC-25",
+        "ARC-34",
+        "ARC-39"
+      ],
+      "sponsor_unchanged": "Neral non dirige la cellula e può combatterla; il culto usa il suo titolo senza mandato",
+      "cult": {
+        "title": "Il Coro della Casa Unica",
+        "promise": "Un luogo dove un adulto isolato non debba spiegare da capo chi è, un letto e un lavoro. Sono bisogni veri, non difetti morali delle persone reclutate.",
+        "belief": "La cellula attribuisce al titolo di Neral una promessa di appartenenza senza separazioni. Neral non la dirige e può combatterla. Il credo occulto sostiene che il racconto condiviso della casa debba prevalere sulle testimonianze individuali; non rende quella pretesa una verità cosmologica.",
+        "rites": "Alla cena ogni partecipante racconta un piccolo evento; il gruppo ne ripete una versione armonizzata. Il rito è ordinario finché non interviene un Bearer con una capacità e una presa pertinenti. La ripetizione può esercitare pressione sociale senza diventare automaticamente controllo soprannaturale.",
+        "membership": "Ospiti, aiutanti e cerchia informata sono distinti. Ishven prepara la sessione interiore; Neris studia destinatari specifici per l’inganno di Mask. I quattro adulti nella pensione non sono dichiarati complici né hanno infanzie artificiali.",
+        "initiation": "Il secondo invito chiede una confidenza e promette riservatezza. La cerchia può poi usarla per rendere costosa l’uscita. La successiva sessione imposta resta un’operazione da contrastare, non già riuscita su tutti gli ospiti.",
+        "dissent": "Si può rifiutare un racconto, scrivere fuori dalla casa o andarsene se non si è trattenuti. La cellula tenta isolamento e menzogne, ma non vede ogni lettera né conosce automaticamente chi abbia aiutato un ospite.",
+        "daily": "L’ospite riceve una stanza pulita e viene lodato quando corregge da sé il proprio racconto per farlo coincidere con quello della casa. Una discrepanza non dimostra da sola magia: cercare anche intimidazione, informazioni e accessi.",
+        "pressure": "La pensione rimane un luogo fisico con ingressi controllabili. Se gli ospiti escono e il mezzo della sessione viene neutralizzato, l’operazione non continua altrove senza risorse e atti nuovi.",
+        "hooks": [
+          "Una lettera dettata come ringraziamento contiene una formula che il mittente aveva esplicitamente rifiutato di usare.",
+          "Un ospite chiede un colloquio privato senza voler accusare tutta la casa che lo ha nutrito."
+        ],
+        "scene": "Durante la cena due persone ricordano diversamente una visita; il responsabile chiede a quella isolata di ringraziare l’altra per averle restituito il ricordo giusto.",
+        "complication": "Portare un ospite fuori dalla pensione non gli fornisce automaticamente reddito o alloggio. Il soccorso può riuscire e richiedere poi sostegno ordinario.",
+        "optional": "Un aiutante conserva una prima lettera non armonizzata. Non è un registro perfetto né prova automatica di tutti gli interventi mentali."
+      },
+      "future_outcomes": "OPEN",
+      "revision": 373
+    },
+    {
+      "front_id": "FRONT-07",
+      "faction_id": "FAC-21",
+      "name": "The Ninth Cinder",
+      "location": "Deren",
+      "type": "TRAFFICO_CLANDESTINO",
+      "territory": "Orsanne / Deren",
+      "legal_status_T0": "Le attività ordinarie dell’officina non autorizzano fabbricazione clandestina, sabotaggio o ostaggi. Al T0 non esiste una pubblica dichiarazione che l’intera officina sia fuorilegge: occorre provare chi prepara deliberatamente i difetti.",
+      "public_cover": "Forniture urgenti di conversione e ricambi. L’impiego di Crucible non è da solo prova di contrabbando.",
+      "inner_justification": "Nessun culto obbligatorio: l’urgenza costruita crea il mercato delle armi.",
+      "investigation": "Distinguere lotti, ordini e cariche preparate; l’evacuazione già avvenuta conserva le persone al sicuro se il piano viene scoperto in tempo.",
+      "authority_response": "Ispettori nei propri mandati, giudice distrettuale e gendarmeria per reati e sequestri; nessuna obbedienza automatica dei tecnici alla rete.",
+      "current": "Un’officina prepara cariche di conversione e contenitori difettosi deliberatamente. La galleria di prova è stata evacuata dai tecnici informati.",
+      "leader": "CAST-486",
+      "officers": [
+        "CAST-486",
+        "CAST-487"
+      ],
+      "members": [
+        "CAST-486",
+        "CAST-487",
+        "CAST-241",
+        "CAST-243",
+        "CAST-245"
+      ],
+      "arcs": [
+        "ARC-06",
+        "ARC-10",
+        "ARC-11",
+        "ARC-26",
+        "ARC-28",
+        "ARC-36"
+      ],
+      "sponsor_unchanged": "nessun mandato di Ashren; rifornimento militare clandestino",
+      "cult": null,
+      "future_outcomes": "OPEN",
+      "revision": 373
+    },
+    {
+      "front_id": "FRONT-08",
+      "faction_id": "FAC-22",
+      "name": "The Pale Ledger",
+      "location": "Noran",
+      "type": "RETE_COERCITIVA_DI_CUSTODIA",
+      "territory": "Norell / Noran",
+      "legal_status_T0": "Non è una religione pubblicamente riconosciuta né un culto vietato soltanto per la pratica di Sepulchre. Trasferire una custodia non autorizza a ricattare o distruggere la persona custodita. La rete non è bandita per nome al T0; i suoi atti non sono per questo leciti.",
+      "public_cover": "Mediazione di testimonianze e gestione dei costi di custodia dei morti.",
+      "inner_justification": "Il linguaggio dei debiti sopravvissuti al corpo giustifica l’abuso; non è una teologia condivisa da ogni socio. Le invocazioni dei contraenti non attestano approvazione di Althene.",
+      "investigation": "Identità del supporto e continuità, clausole effettive e rifiuto della presenza. Un morto non collaborante non è un dispositivo guasto.",
+      "authority_response": "Autorità civili locali per sottrazione, minacce e contratti; perizia soprannaturale per la custodia. Non sacrificare le presenze per conservare una prova.",
+      "current": "Tre contenitori ospitano continuità distinguibili; i custodi stanno negoziando un trasferimento notturno.",
+      "leader": "CAST-488",
+      "officers": [
+        "CAST-488",
+        "CAST-489"
+      ],
+      "members": [
+        "CAST-488",
+        "CAST-489",
+        "CAST-421",
+        "CAST-423",
+        "CAST-425"
+      ],
+      "arcs": [
+        "ARC-09",
+        "ARC-14",
+        "ARC-16",
+        "ARC-19",
+        "ARC-20",
+        "ARC-23",
+        "ARC-24",
+        "ARC-38"
+      ],
+      "sponsor_unchanged": "avversari della custodia indipendente di Althene; non suoi esecutori segreti",
+      "cult": null,
+      "future_outcomes": "OPEN",
+      "revision": 373
+    },
+    {
+      "front_id": "FRONT-09",
+      "faction_id": "FAC-23",
+      "name": "The Severed Compass",
+      "location": "Serevan",
+      "type": "CARTELLO_OCCULTO_DI_ACCESSI",
+      "territory": "Darsen / Serevan e accessi realmente raggiunti",
+      "legal_status_T0": "Le licenze di transito non coprono sabotaggi di itinerari concorrenti né sequestro di cartografi. Non è al T0 un culto nominativamente bandito. La proprietà di un ingresso non attribuisce giurisdizione su ogni destinazione.",
+      "public_cover": "Passaggi affidabili e manutenzione cartografica a pagamento.",
+      "inner_justification": "Nessun culto necessario: il controllo materiale dei colli di bottiglia fonda il ricatto.",
+      "investigation": "Riferimenti alterati, viaggi compiuti, riserve e catena di rifornimento; una mappa elegante non è prova di tutti i percorsi esistenti.",
+      "authority_response": "Corti fluviali per navigazione e danni pertinenti, tribunali civili per il resto. L’avamposto remoto non è una Root né immune alla perdita di rifornimento.",
+      "current": "Kaeris mantiene un avamposto remoto con una sola via di rifornimento e una squadra sul pianeta.",
+      "leader": "CAST-490",
+      "officers": [
+        "CAST-490",
+        "CAST-491"
+      ],
+      "members": [
+        "CAST-490",
+        "CAST-491",
+        "CAST-386",
+        "CAST-388",
+        "CAST-390"
+      ],
+      "arcs": [
+        "ARC-15",
+        "ARC-26",
+        "ARC-27",
+        "ARC-28",
+        "ARC-29",
+        "ARC-31",
+        "ARC-33",
+        "ARC-37",
+        "ARC-40"
+      ],
+      "sponsor_unchanged": "rivalità concreta con la custodia di Helyr; nessuna Root posseduta",
+      "cult": null,
+      "future_outcomes": "OPEN",
+      "revision": 373
+    },
+    {
+      "front_id": "FRONT-10",
+      "faction_id": "FAC-24",
+      "name": "The Last Vessel",
+      "location": "Ashen Quay",
+      "type": "RETE_CLANDESTINA_DI_SPERIMENTAZIONE",
+      "territory": "Ansei / Ashen Quay",
+      "legal_status_T0": "La nave presenta attività di trasporto e laboratorio; non possiede per questo diritto di trattenere adulti o venderne funzioni corporee. Nessun bando internazionale rende superflua l’identificazione della nave e dei responsabili. Una compravendita di tessuti non prova consenso della persona.",
+      "public_cover": "Trasporto di campioni e supporti clinici. Merci lecite e carichi coercitivi restano distinguibili.",
+      "inner_justification": "Il discorso interno sulla persona come insieme di componenti è una giustificazione operativa, non un culto religioso imposto a ogni addetto.",
+      "investigation": "Consumi, persone dichiarate, supporti e collegamenti reali. I sei adulti già trattenuti hanno bisogni e volontà diversi; non sono sei ricettacoli intercambiabili.",
+      "authority_response": "Autorità portuali e giudice locale secondo mandato; custodia clinica indipendente per chi esce. Il contratto con Soran Il non rende ogni porto o fedele suo complice.",
+      "current": "Una nave-laboratorio trattiene sei adulti e trasporta tessuti investiti in supporti distinti. Non è una Root né una specie intera.",
+      "leader": "CAST-492",
+      "officers": [
+        "CAST-492",
+        "CAST-493"
+      ],
+      "members": [
+        "CAST-492",
+        "CAST-493",
+        "CAST-416",
+        "CAST-418",
+        "CAST-420"
+      ],
+      "arcs": [
+        "ARC-07",
+        "ARC-12",
+        "ARC-14",
+        "ARC-21",
+        "ARC-23",
+        "ARC-24",
+        "ARC-27",
+        "ARC-31",
+        "ARC-32",
+        "ARC-34",
+        "ARC-37",
+        "ARC-40"
+      ],
+      "sponsor_unchanged": "contratto limitato con Soran Il: destinatari e consegne, non accesso universale alla sua potenza",
+      "cult": null,
+      "future_outcomes": "OPEN",
+      "revision": 373
+    },
+    {
+      "front_id": "FRONT-11",
+      "faction_id": "FAC-25",
+      "name": "The Blue Lantern",
+      "location": "Rovenne",
+      "type": "RETE_PRIVATA_DI_SOCCORSO",
+      "territory": "Orsanne / Rovenne",
+      "legal_status_T0": "Rete non proscritta; proteggere vittime non concede immunità generale da norme su trasporto, armi o perquisizioni. La riservatezza protegge ospiti, non costituisce prova di attività criminale.",
+      "public_cover": "Ricovero e cure indipendenti, senza elenco pubblico degli ospiti.",
+      "inner_justification": "Nessuna conversione richiesta; aiuto e adesione religiosa rimangono distinti.",
+      "investigation": "Consenso del beneficiario, condizioni della fuga e necessità cliniche. Non consegnare nomi per rendere più facile il lavoro di un finanziatore.",
+      "authority_response": "Interlocuzione con autorità affidabili caso per caso, senza obbligo di rivelare tutti i rifugi a qualsiasi uniforme.",
+      "current": "Un rifugio dispone di due stanze, tre letti e una rete di vettori ordinari. Nessun occupante conosce il ritorno di Edran.",
+      "leader": "CAST-494",
+      "officers": [
+        "CAST-494",
+        "CAST-495"
+      ],
+      "members": [
+        "CAST-494",
+        "CAST-495",
+        "CAST-208",
+        "CAST-211",
+        "CAST-220"
+      ],
+      "arcs": [
+        "ARC-01",
+        "ARC-04",
+        "ARC-06",
+        "ARC-07",
+        "ARC-10",
+        "ARC-17",
+        "ARC-23",
+        "ARC-25",
+        "ARC-35",
+        "ARC-36"
+      ],
+      "sponsor_unchanged": "rete di soccorso indipendente; nessun sapere sul ritorno o culto automatico di Edran",
+      "cult": null,
+      "future_outcomes": "OPEN",
+      "revision": 373
+    },
+    {
+      "front_id": "FRONT-12",
+      "faction_id": "FAC-26",
+      "name": "The Broken Seal",
+      "location": "Teren",
+      "type": "RETE_CIVILE_DI_TUTELA",
+      "territory": "Reth / Teren",
+      "legal_status_T0": "Collaborazione lecita di ricerca e tutela; un incarico non attribuisce poteri di arresto. Proteggere un testimone e dimostrare un falso non coincide con sostituirsi al tribunale.",
+      "public_cover": "Confronto di prove e accompagnamento dei testimoni.",
+      "inner_justification": "Nessuna ortodossia obbligatoria: revisione pubblica degli errori sostenuta da prove.",
+      "investigation": "Provenienza, catena di custodia e facoltà di rifiuto dei testimoni; non attribuire alla rete tutto il sapere del Witness.",
+      "authority_response": "Tribunali cantonali per il caso locale e arbitrato federale solo dove competente; nessuna immunità per il lavoro ben intenzionato.",
+      "current": "Due ricercatori hanno concordato un metodo di confronto e una guardia di turno; le copie sono in tre sedi separate.",
+      "leader": "CAST-496",
+      "officers": [
+        "CAST-496",
+        "CAST-497"
+      ],
+      "members": [
+        "CAST-496",
+        "CAST-497",
+        "CAST-261",
+        "CAST-262",
+        "CAST-265"
+      ],
+      "arcs": [
+        "ARC-02",
+        "ARC-03",
+        "ARC-08",
+        "ARC-11",
+        "ARC-16",
+        "ARC-18",
+        "ARC-19",
+        "ARC-20",
+        "ARC-29",
+        "ARC-30",
+        "ARC-38",
+        "ARC-39"
+      ],
+      "sponsor_unchanged": "colleghi dissidenti del Witness; non immuni da errori o fedeli al protagonista",
+      "cult": null,
+      "future_outcomes": "OPEN",
+      "revision": 373
+    }
+  ],
+  "biological_cases": [
+    {
+      "id": "BIO-373-01",
+      "name": "Il calice nutritivo",
+      "front": "FRONT-03",
+      "state": "Campione di laboratorio attuale; non impiantato in alcun personaggio nominato. È parte del ramo dipendente già coltivato, non un quarto lotto pronto alla spedizione.",
+      "basis": [
+        "Designed Brood",
+        "Redifferentiation",
+        "Habitat Membrane"
+      ],
+      "mechanism": "Una struttura vivente cava viene coltivata da materiale germinale disponibile. Pareti muscolari, membrane ripiegate e tessuto ghiandolare fanno maturare piccole unità di ricambio non senzienti, consumando nutrimento e sostegno investito. L’involucro ha anatomia generativa, ma non è una persona, una Root o un utero umano sottratto.",
+      "appearance": "A riposo sembra un calice di tessuto pallido bordato da due pieghe simmetriche. Durante la maturazione la superficie si tende, lascia distinguere strutture interne e si apre lungo una sutura umida; il movimento ricorda un’anatomia sessuale senza una scena erotica. Le unità liberate restano organismi clinici limitati.",
+      "horror": "L’immagine suggerisce una maternità senza individuo materno. Il culto la presenta come una cura che merita obbedienza; la mostruosità morale viene dall’uso sulle persone, non dall’esistenza di organi riproduttivi.",
+      "bounds": "Il solo contatto non provoca gravidanza, trasformazione, eccitazione o incorporazione di Effigi. Nessuna propagazione universale. Al distacco la capacità investita richiede la sua alimentazione; un organismo indipendente necessita di ambiente compatibile.",
+      "response": "Separare osservazione, campione e condotti; conservare nutrimento del sostegno utile prima di interrompere la linea sospetta. Si può studiare o distruggere il campione senza colpire tutti i pazienti del vivaio.",
+      "knowledge": "I tecnici presenti possono osservare il ciclo; il narratore non attribuisce a ogni paziente la conoscenza della sua funzione."
+    },
+    {
+      "id": "BIO-373-02",
+      "name": "La seconda nutrice",
+      "front": "FRONT-03",
+      "state": "Procedimento sperimentale della cerchia, non intervento già eseguito sul cast. La dipendenza occulta dei sostegni resta il fatto attuale già fissato.",
+      "basis": [
+        "Redifferentiation",
+        "Habitat Membrane",
+        "Ecological Exchange"
+      ],
+      "mechanism": "Sevra può predisporre, sul tessuto realmente raggiunto e compatibile, un’interfaccia nutritiva con un sostegno esterno. Il tentativo invasivo su un adulto richiede accesso, tempo di lavoro e contesa delle difese pertinenti; la descrizione non garantisce successo. Il sostegno viene presentato come autosufficiente mentre continua a ricevere una parte essenziale del nutrimento dal collegamento.",
+      "appearance": "Il bordo esterno può avere pieghe carnose e minuscole aperture nutritive che si contraggono al ritmo del flusso. La zona appare curata e viva anche mentre la persona viene resa dipendente. Il grado di dettaglio resta clinico e inquietante, senza erotizzazione della violazione.",
+      "horror": "Un gesto di accudimento può diventare appropriazione: il beneficiario teme di perdere una funzione se si allontana. Il suo corpo non è proprietà di chi lo ha aiutato. La dipendenza non rende vera un’adesione al culto.",
+      "bounds": "Non concede Heart VI a un Seed IV né generalizza Functional Substitution. La manipolazione riguarda lo sviluppo di un’interfaccia biologica disponibile, non la sostituzione universale di qualsiasi organo. L’eventuale cura Heart di Arven segue il suo stadio III. Nessuna autorità su Will o desiderio sessuale.",
+      "response": "Diagnosticare la funzione, predisporre nutrimento o sostegno alternativo compatibile, separare il raccordo e trattare la lesione residua. Non imporre una cicatrice irreversibile o fallimento a una cura competente.",
+      "knowledge": "La persona conosce sensazioni, manutenzioni e promesse ricevute; non ogni meccanismo del vivaio. Il primo Testament non rivela automaticamente chi ha eseguito una procedura moderna."
+    },
+    {
+      "id": "BIO-373-03",
+      "name": "La promessa della discendenza",
+      "front": "FRONT-03",
+      "state": "Dottrina e offerta interna, non programma riuscito su famiglie del cast.",
+      "basis": [
+        "Selected Trait",
+        "Lineage Craft",
+        "Germinal Investment"
+      ],
+      "mechanism": "La cerchia propone vantaggi trasmissibili in materiale germinale raggiunto e compatibile. Le proprietà investite necessitano di sorgente e alimentazione reali: la formulazione «i figli non avranno più bisogno di noi» può essere una promessa falsa da verificare, non un miracolo già ottenuto.",
+      "appearance": "Nelle cerimonie riservate si espongono involucri maturativi, tavole di parentela e campioni pulsanti, coperti durante le visite ordinarie. Il lessico familiare rende intima una filiera di selezione e manutenzione.",
+      "horror": "L’angoscia riguarda chi pretende di decidere il futuro biologico di una famiglia. Non sono narrati atti sessuali coercitivi; ogni persona coinvolta nel procedimento descritto è adulta. Nessuna prova sessuale è richiesta per avanzare di stadio.",
+      "bounds": "Non muta retroattivamente figli già nati, non crea Seats ereditarie, non fissa gravidanze né assegna un destino ai discendenti. Il culto non è padrone di tutti i viventi.",
+      "response": "Confrontare ciò che è promesso con ciò che la linea e il sostegno realmente mantengono; il rifiuto e la scelta di cure alternative devono poter essere efficaci.",
+      "knowledge": "L’offerta può essere documentata senza rendere ogni sostenitore consapevole della dipendenza nascosta."
+    }
+  ],
+  "power_source": "Progressioni_effigi.json",
+  "future_outcomes": "OPEN",
+  "cast_count": 620,
+  "new_person_ids": 0,
+  "new_powers": 0,
+  "complete_cosmic_integrations_T0": 0
+}

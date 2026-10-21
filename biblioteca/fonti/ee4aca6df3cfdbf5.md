@@ -56,3 +56,10 @@ Una sola Effige incorporata: Crown 5. Abilità cumulative fino a Lawgiver; nessu
 ## Corpo e popolazione
 
 Anatomia umana vivente; variazioni individuali non assegnano poteri.
+
+
+## Ruolo e compartimenti — 373
+
+Contenimento mirato e sicurezza dei testimoni pericolosi, con documenti che possono apparire regolari. Nessuna iniziazione religiosa necessaria; la disciplina interna presenta il permanere della custodia come prova della sua necessità.
+
+Il ruolo individuale e le informazioni possedute restano quelli fissati. Nessun nuovo potere o sapere remoto. Per dottrina, territorio, reclutamento e facoltà di uscita consultare DOSSIER_CULTI_373/FRONT-04_the-still-court.md.

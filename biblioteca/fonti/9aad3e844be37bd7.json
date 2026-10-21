@@ -1,0 +1,624 @@
+{
+  "edition": 326,
+  "date": "812-05-18",
+  "access": "NARRATOR_RESERVED",
+  "fronts": [
+    {
+      "id": "FAC-15",
+      "name": "The Glass Hunt",
+      "location": "Lethorne",
+      "goal": "Impadronirsi delle cerniere portatili di Lethorne e rivenderne accessi e manutentori a compratori separati.",
+      "current": "Una squadra ha affittato il piano sopra un deposito di strumenti. Conosce un intermediario di Marcel, non la posizione di Room Six.",
+      "conflict": "Identificare il vettore, sostituire la consegna con un esemplare ordinario e sequestrare chi sa ricaricare la cerniera.",
+      "secret": "Mael conserva un secondo contratto: vendere Sybille insieme al mezzo qualora il compratore chieda un Bearer.",
+      "limits": "Un archivio fotografico non localizza persone mai registrate; la squadra non legge pensieri né attraversa ogni muro.",
+      "leader": "CAST-474",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-01",
+      "disposition": "HOSTILE",
+      "sponsor": "nessun patrocinio divino; contratti comprati caso per caso",
+      "officers": [
+        "CAST-474",
+        "CAST-475"
+      ],
+      "local_contacts": [
+        "CAST-193",
+        "CAST-194",
+        "CAST-200"
+      ],
+      "members": [
+        "CAST-474",
+        "CAST-475",
+        "CAST-193",
+        "CAST-194",
+        "CAST-200"
+      ],
+      "arcs": [
+        "ARC-02",
+        "ARC-03",
+        "ARC-06",
+        "ARC-08",
+        "ARC-30",
+        "ARC-39"
+      ],
+      "operation": "Identificare il vettore, sostituire la consegna con un esemplare ordinario e sequestrare chi sa ricaricare la cerniera.",
+      "target": "Marcel e la filiera delle cerniere; Elias diventa bersaglio solo se la sua partecipazione viene scoperta.",
+      "clues": [
+        "Spese di osservazione e acquisto di un falso campione ordinario.",
+        "L’intermediario ha ricevuto una richiesta che confonde la cerniera III con una Root."
+      ],
+      "counter": "Avvisare o mettere al sicuro il vettore, identificare il compratore, spezzare la catena di accesso. Distruggere il falso non distrugge la cerniera vera.",
+      "after": "Senza notizie nuove tengono sotto osservazione il deposito; non scoprono magicamente il club o Alexander.",
+      "betrayal": "Sybille abbandona il contratto se ottiene una prova autentica della propria vendita; non basta affermarlo.",
+      "limit": "Un archivio fotografico non localizza persone mai registrate; la squadra non legge pensieri né attraversa ogni muro."
+    },
+    {
+      "id": "FAC-16",
+      "name": "The Ashen Tithe",
+      "location": "Sarn Gate",
+      "goal": "Ricostituire un possesso ereditario della forza lavoro in tre gallerie, iniziando da prigionieri acquistati come debitori.",
+      "current": "Un convoglio di sei adulti è nascosto in una stazione dismessa. I vecchi marchi sono studiati, non già ripristinati su tutta una popolazione.",
+      "conflict": "Trasferire i prigionieri, installare vincoli individuali e addestrare una guardia di leva finanziata dal minerale.",
+      "secret": "Voren usa un marchio recente imitativo: il fallimento locale non riattiva i marchi aboliti dal liberatore.",
+      "limits": "Chain V non rende schiava una persona senza un rapporto effettivamente raggiunto; nessun comando di Crown su tutto il pianeta.",
+      "leader": "CAST-476",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-02",
+      "disposition": "HOSTILE",
+      "sponsor": "eredi politici delle Signorie; nessun mandato di tutti gli Ossari o Kethari",
+      "officers": [
+        "CAST-476",
+        "CAST-477"
+      ],
+      "local_contacts": [
+        "CAST-246",
+        "CAST-248",
+        "CAST-250"
+      ],
+      "members": [
+        "CAST-476",
+        "CAST-477",
+        "CAST-246",
+        "CAST-248",
+        "CAST-250"
+      ],
+      "arcs": [
+        "ARC-05",
+        "ARC-11",
+        "ARC-15",
+        "ARC-17",
+        "ARC-25",
+        "ARC-35"
+      ],
+      "operation": "Trasferire i prigionieri, installare vincoli individuali e addestrare una guardia di leva finanziata dal minerale.",
+      "target": "Comunità minerarie e oppositori della tratta; Edran è una figura storica detestata, Alexander non è identificato come lui.",
+      "clues": [
+        "Acquisti di ferri di custodia troppo numerosi per la cava dichiarata.",
+        "Una persona fuggita sa il percorso fino alla stazione, non la residenza del capo."
+      ],
+      "counter": "Liberare i prigionieri, interrompere i vincoli con mezzi pertinenti, sottrarre entrate e custodi. La liberazione autentica resta valida.",
+      "after": "Il trasferimento può iniziare solo quando arriva la scorta e il tratto ferroviario è libero; i ritardi producono razionamento e possibilità di fuga.",
+      "betrayal": "Ishra vuole il comando politico, non una famiglia di schiavi personale: accetta di perdere Voren pur di ereditare il sistema.",
+      "limit": "Chain V non rende schiava una persona senza un rapporto effettivamente raggiunto; nessun comando di Crown su tutto il pianeta."
+    },
+    {
+      "id": "FAC-17",
+      "name": "The Red Orchard",
+      "location": "Elven",
+      "goal": "Rendere indispensabili sostegni viventi controllati dalla rete, impedendo la loro sostituzione con cure indipendenti.",
+      "current": "Un vivaio sperimentale coltiva un sostegno utile e un ramo dipendente non dichiarato. Tre campioni sono già stati separati per la spedizione.",
+      "conflict": "Distribuire innesti sotto una falsa dichiarazione di autonomia e rapire chi possiede una tecnica concorrente di separazione.",
+      "secret": "Sevra conosce la presenza del ramo nascosto ma ignora la derivazione del Departure Project: non può confessare fatti mai appresi.",
+      "limits": "Seed non controlla automaticamente ogni vivente; il ramo funziona soltanto sugli innesti materialmente coinvolti.",
+      "leader": "CAST-478",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-03",
+      "disposition": "HOSTILE",
+      "sponsor": "Othrem conosce il programma di dipendenza; i capi locali non conoscono la caduta né il ritorno",
+      "officers": [
+        "CAST-478",
+        "CAST-479"
+      ],
+      "local_contacts": [
+        "CAST-286",
+        "CAST-289",
+        "CAST-290"
+      ],
+      "members": [
+        "CAST-478",
+        "CAST-479",
+        "CAST-286",
+        "CAST-289",
+        "CAST-290"
+      ],
+      "arcs": [
+        "ARC-07",
+        "ARC-12",
+        "ARC-13",
+        "ARC-18",
+        "ARC-23",
+        "ARC-27",
+        "ARC-35"
+      ],
+      "operation": "Distribuire innesti sotto una falsa dichiarazione di autonomia e rapire chi possiede una tecnica concorrente di separazione.",
+      "target": "Pazienti, ricercatori e insediamenti che rifiutano la dipendenza; Ysra è ostacolo noto per le sue competenze, non perché riconosca Alexander.",
+      "clues": [
+        "Un esemplare sopravvive con alimentazione dichiarata sufficiente, poi perde una funzione precisa.",
+        "Il trasportatore distingue i tre campioni e può indicare la destinazione."
+      ],
+      "counter": "Offrire sostegni realmente autonomi, isolare la dipendenza e impedire il sequestro. Non esiste una punizione cosmica per chi guarisce davvero.",
+      "after": "La spedizione parte se il trasporto è confermato; Othrem riceve solo relazioni inviate attraverso canali realmente attivi.",
+      "betrayal": "Arven mantiene un registro clinico perché non vuole perdere ogni possibilità di curare i propri pazienti: può opporsi a Sevra su prove mediche.",
+      "limit": "Seed non controlla automaticamente ogni vivente; il ramo funziona soltanto sugli innesti materialmente coinvolti."
+    },
+    {
+      "id": "FAC-18",
+      "name": "The Still Court",
+      "location": "Veldane",
+      "goal": "Trasformare misure di emergenza circoscritte in una giurisdizione permanente sulle persone giudicate pericolose.",
+      "current": "Due funzionari hanno preparato mandati individuali contro testimoni e un deposito protetto per trattenerli.",
+      "conflict": "Fermare un testimone in viaggio, isolare copie della sua dichiarazione e imporre una nuova proroga del contenimento.",
+      "secret": "Marwen ha falsificato la durata di un mandato: Ilyra conosce lo scopo generale ma non questa alterazione.",
+      "limits": "Crown V ha ambiti e resistenze; una firma non immobilizza un altro angelo indipendentemente da potere e accesso.",
+      "leader": "CAST-480",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-04",
+      "disposition": "HOSTILE",
+      "sponsor": "Ilyra approva il contenimento mirato; non ha ordinato ogni rapimento locale",
+      "officers": [
+        "CAST-480",
+        "CAST-481"
+      ],
+      "local_contacts": [
+        "CAST-341",
+        "CAST-343",
+        "CAST-345"
+      ],
+      "members": [
+        "CAST-480",
+        "CAST-481",
+        "CAST-341",
+        "CAST-343",
+        "CAST-345"
+      ],
+      "arcs": [
+        "ARC-08",
+        "ARC-16",
+        "ARC-17",
+        "ARC-19",
+        "ARC-20",
+        "ARC-29",
+        "ARC-36",
+        "ARC-38"
+      ],
+      "operation": "Fermare un testimone in viaggio, isolare copie della sua dichiarazione e imporre una nuova proroga del contenimento.",
+      "target": "Testimoni, dissidenti e magistrati contrari alla proroga; la famiglia Valcienne non è automaticamente complice o bersaglio.",
+      "clues": [
+        "Originale e copia esecutiva hanno la stessa autenticazione, ma termini diversi.",
+        "Una scorta ha ricevuto istruzioni orali incompatibili con il mandato."
+      ],
+      "counter": "Proteggere il testimone, invalidare la presa concreta, dividere funzionari e comando. La forza può liberare il detenuto anche prima della soluzione politica.",
+      "after": "L’arresto richiede itinerario verificato e una scorta disponibile; un bersaglio trasferito non viene ritrovato senza indagine.",
+      "betrayal": "Elisa obbedisce a una catena di comando, ma rifiuta la distruzione di una propria unità per nascondere l’alterazione.",
+      "limit": "Crown V ha ambiti e resistenze; una firma non immobilizza un altro angelo indipendentemente da potere e accesso."
+    },
+    {
+      "id": "FAC-19",
+      "name": "The Black Wake",
+      "location": "South Shoals",
+      "goal": "Controllare una rotta di naufragi provocati e vendere separatamente carico, superstiti e informazioni sui recuperi.",
+      "current": "Due imbarcazioni di appoggio hanno depositato ancore e segnali falsi presso una secca. La nave bersaglio è ancora in porto.",
+      "conflict": "Alterare il passaggio locale con correnti e segnali, abbordare i superstiti e incendiare il deposito dei registri di carico.",
+      "secret": "Dara ha ricevuto l’ordine di eliminare l’intermediario dopo il pagamento e lo considera un prezzo accettabile.",
+      "limits": "Tempest IV non governa ogni oceano; Maw III necessita di presa e contenuto realmente raggiunti.",
+      "leader": "CAST-482",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-05",
+      "disposition": "HOSTILE",
+      "sponsor": "nessuna obbedienza a Enra: predatori che ne temono la reazione",
+      "officers": [
+        "CAST-482",
+        "CAST-483"
+      ],
+      "local_contacts": [
+        "CAST-336",
+        "CAST-338",
+        "CAST-340"
+      ],
+      "members": [
+        "CAST-482",
+        "CAST-483",
+        "CAST-336",
+        "CAST-338",
+        "CAST-340"
+      ],
+      "arcs": [
+        "ARC-05",
+        "ARC-10",
+        "ARC-15",
+        "ARC-24",
+        "ARC-26",
+        "ARC-28",
+        "ARC-30"
+      ],
+      "operation": "Alterare il passaggio locale con correnti e segnali, abbordare i superstiti e incendiare il deposito dei registri di carico.",
+      "target": "Armatori indipendenti, equipaggi e reti di soccorso; nessun potere di leggere anticipatamente la rotta scelta dal giocatore.",
+      "clues": [
+        "Ancore nuove in una zona che non richiede ormeggio.",
+        "Un pilota ha ricevuto due segnali con orari incompatibili."
+      ],
+      "counter": "Scortare o deviare la nave, rimuovere i segnali, combattere gli abbordatori e mettere al sicuro i superstiti.",
+      "after": "L’agguato dipende dalla partenza reale e dal tempo; una partenza annullata lo rinvia, non causa comunque il naufragio.",
+      "betrayal": "Naor salva la propria nave prima del compratore; un ostaggio liberato non è una risorsa illimitata da sostituire.",
+      "limit": "Tempest IV non governa ogni oceano; Maw III necessita di presa e contenuto realmente raggiunti."
+    },
+    {
+      "id": "FAC-20",
+      "name": "The Hollow Choir",
+      "location": "Corten",
+      "goal": "Sostituire relazioni sociali e contratti di ospitalità con un sistema di consenso manipolato che protegga i capi della rete.",
+      "current": "Una pensione ospita quattro adulti reclutati con promesse di impiego; gli ingressi sono ordinari e controllabili.",
+      "conflict": "Imporre una sessione interiore preparata, estorcere accessi e usare Mask per ingannare un solo destinatario già studiato.",
+      "secret": "Gli ospiti hanno persone e volontà proprie: gli effetti non creano retroattivamente infanzie o parenti autentici.",
+      "limits": "Labyrinth non è riscrittura cosmica del passato; Mask non possiede naturalmente l’interiorità di ogni volto rappresentato.",
+      "leader": "CAST-484",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-06",
+      "disposition": "HOSTILE",
+      "sponsor": "Neral non dirige la cellula e può combatterla; il culto usa il suo titolo senza mandato",
+      "officers": [
+        "CAST-484",
+        "CAST-485"
+      ],
+      "local_contacts": [
+        "CAST-321",
+        "CAST-323",
+        "CAST-325"
+      ],
+      "members": [
+        "CAST-484",
+        "CAST-485",
+        "CAST-321",
+        "CAST-323",
+        "CAST-325"
+      ],
+      "arcs": [
+        "ARC-09",
+        "ARC-14",
+        "ARC-21",
+        "ARC-22",
+        "ARC-25",
+        "ARC-34",
+        "ARC-39"
+      ],
+      "operation": "Imporre una sessione interiore preparata, estorcere accessi e usare Mask per ingannare un solo destinatario già studiato.",
+      "target": "Viaggiatori isolati, ospiti e portatori di accessi; il club di Elias non è conosciuto automaticamente.",
+      "clues": [
+        "Due ospiti ricordano lo stesso dettaglio impossibile nello stesso ordine.",
+        "Il cuoco conosce gli orari in cui la stanza delle sessioni viene preparata."
+      ],
+      "counter": "Interrompere il collegamento preparato, raggiungere fisicamente gli ospiti, confrontare ricordi con testimonianze indipendenti.",
+      "after": "La sessione richiede presenza e preparazione; chi lascia la pensione prima non resta automaticamente collegato.",
+      "betrayal": "Neris vuole cancellare soltanto i propri debiti e può vendere l’ubicazione del capo; non restituisce per questo la fiducia degli ospiti.",
+      "limit": "Labyrinth non è riscrittura cosmica del passato; Mask non possiede naturalmente l’interiorità di ogni volto rappresentato."
+    },
+    {
+      "id": "FAC-21",
+      "name": "The Ninth Cinder",
+      "location": "Deren",
+      "goal": "Vendere armi investite a due compratori rivali provocando una crisi che renda urgente la consegna.",
+      "current": "Un’officina prepara cariche di conversione e contenitori difettosi deliberatamente. La galleria di prova è stata evacuata dai tecnici informati.",
+      "conflict": "Sabotare una pompa di sicurezza, attirare una squadra di soccorso e prendere ostaggi per imporre l’acquisto delle armi.",
+      "secret": "Il denaro del secondo compratore paga la prima consegna: Hadrik teme più un’ispezione del magazzino che una controversia sui brevetti.",
+      "limits": "Crucible non genera materia senza supporto né usa Ruin; scorte esaurite e condotti interrotti limitano il fuoco.",
+      "leader": "CAST-486",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-07",
+      "disposition": "HOSTILE",
+      "sponsor": "nessun mandato di Ashren; rifornimento militare clandestino",
+      "officers": [
+        "CAST-486",
+        "CAST-487"
+      ],
+      "local_contacts": [
+        "CAST-241",
+        "CAST-243",
+        "CAST-245"
+      ],
+      "members": [
+        "CAST-486",
+        "CAST-487",
+        "CAST-241",
+        "CAST-243",
+        "CAST-245"
+      ],
+      "arcs": [
+        "ARC-06",
+        "ARC-10",
+        "ARC-11",
+        "ARC-26",
+        "ARC-28",
+        "ARC-36"
+      ],
+      "operation": "Sabotare una pompa di sicurezza, attirare una squadra di soccorso e prendere ostaggi per imporre l’acquisto delle armi.",
+      "target": "Officine indipendenti e soccorritori; la difettosità di questi contenitori non cambia la causa già fissata dell’incidente di Elias.",
+      "clues": [
+        "Contenitori con la stessa conversione ma indicazioni di uso civile false.",
+        "Il turno evacuato è stato cambiato prima del guasto."
+      ],
+      "counter": "Disinnescare o isolare le cariche, liberare gli ostaggi e sequestrare le scorte. Nessun esplosivo colpisce se l’attivazione viene davvero impedita.",
+      "after": "Il sabotaggio richiede l’ingresso nella sala pompe; una guardia avvisata può negare accesso o chiedere rinforzi.",
+      "betrayal": "Eline rifiuta di restare nel raggio della propria carica: la sua paura crea una finestra di intervento, non una resa automatica.",
+      "limit": "Crucible non genera materia senza supporto né usa Ruin; scorte esaurite e condotti interrotti limitano il fuoco."
+    },
+    {
+      "id": "FAC-22",
+      "name": "The Pale Ledger",
+      "location": "Noran",
+      "goal": "Trasformare le testimonianze dei morti custoditi in una merce coercitiva e distruggere quelle che non accettano il patto.",
+      "current": "Tre contenitori ospitano continuità distinguibili; i custodi stanno negoziando un trasferimento notturno.",
+      "conflict": "Rubare una custodia, ricattare il destinatario e applicare una maledizione attraverso un legame realmente ottenuto.",
+      "secret": "Una delle tre presenze rifiuta qualsiasi ritorno corporeo e vuole soltanto essere ascoltata: il rifiuto è autentico.",
+      "limits": "Sepulchre V non richiama ogni morto; Crescent III non maledice chiunque soltanto conoscendone il nome.",
+      "leader": "CAST-488",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-08",
+      "disposition": "HOSTILE",
+      "sponsor": "avversari della custodia indipendente di Althene; non suoi esecutori segreti",
+      "officers": [
+        "CAST-488",
+        "CAST-489"
+      ],
+      "local_contacts": [
+        "CAST-421",
+        "CAST-423",
+        "CAST-425"
+      ],
+      "members": [
+        "CAST-488",
+        "CAST-489",
+        "CAST-421",
+        "CAST-423",
+        "CAST-425"
+      ],
+      "arcs": [
+        "ARC-09",
+        "ARC-14",
+        "ARC-16",
+        "ARC-19",
+        "ARC-20",
+        "ARC-23",
+        "ARC-24",
+        "ARC-38"
+      ],
+      "operation": "Rubare una custodia, ricattare il destinatario e applicare una maledizione attraverso un legame realmente ottenuto.",
+      "target": "Custodi indipendenti, famiglie e testimoni morti; l’ostilità verso Althene riguarda la sua opposizione a questo commercio.",
+      "clues": [
+        "Un contenitore registrato come vuoto consuma ancora manutenzione.",
+        "Una richiesta di riscatto cita una frase nota soltanto a un testimone custodito."
+      ],
+      "counter": "Separare custodia e ricatto, spezzare il legame della maledizione, restituire facoltà di scelta alle presenze e proteggere i supporti.",
+      "after": "Il trasporto richiede un veicolo schermato e manutenzione; un ritardo impone ai rapitori di investire risorse ulteriori.",
+      "betrayal": "Meraine vuole salvare una specifica presenza e può sottrarre il contenitore agli stessi clienti.",
+      "limit": "Sepulchre V non richiama ogni morto; Crescent III non maledice chiunque soltanto conoscendone il nome."
+    },
+    {
+      "id": "FAC-23",
+      "name": "The Severed Compass",
+      "location": "Serevan",
+      "goal": "Monopolizzare tre itinerari interregionali e vendere passaggi sicuri dopo aver reso pericolosi gli accessi concorrenti.",
+      "current": "Kaeris mantiene un avamposto remoto con una sola via di rifornimento e una squadra sul pianeta.",
+      "conflict": "Spostare un riferimento di un corridoio raggiunto, intercettare una spedizione e sequestrare il suo cartografo.",
+      "secret": "L’avamposto non è autosufficiente: i sei addetti remoti dispongono di una riserva dichiarata e necessitano della rotta di servizio.",
+      "limits": "Astrolabe VI non raggiunge ogni luogo senza corrispondenza; Hourglass IV non annulla retroattivamente una sconfitta compiuta.",
+      "leader": "CAST-490",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-09",
+      "disposition": "HOSTILE",
+      "sponsor": "rivalità concreta con la custodia di Helyr; nessuna Root posseduta",
+      "officers": [
+        "CAST-490",
+        "CAST-491"
+      ],
+      "local_contacts": [
+        "CAST-386",
+        "CAST-388",
+        "CAST-390"
+      ],
+      "members": [
+        "CAST-490",
+        "CAST-491",
+        "CAST-386",
+        "CAST-388",
+        "CAST-390"
+      ],
+      "arcs": [
+        "ARC-15",
+        "ARC-26",
+        "ARC-27",
+        "ARC-28",
+        "ARC-29",
+        "ARC-31",
+        "ARC-33",
+        "ARC-37",
+        "ARC-40"
+      ],
+      "operation": "Spostare un riferimento di un corridoio raggiunto, intercettare una spedizione e sequestrare il suo cartografo.",
+      "target": "Custodi di itinerari e viaggiatori; Helyr è un rivale di accessi, non un’integrazione completa già operativa.",
+      "clues": [
+        "Il percorso conserva un riferimento vecchio incompatibile con quello sostituito.",
+        "I rifornimenti contengono dotazioni per sei persone, non per una flotta."
+      ],
+      "counter": "Verificare i riferimenti, proteggere il cartografo, isolare il solo corridoio ostile o raggiungere l’avamposto con accessi propri.",
+      "after": "Le spedizioni vengono intercettate soltanto se entrano nella rotta studiata; l’avamposto perde riserve durante ogni interruzione del servizio.",
+      "betrayal": "Thel giudica Kaeris un custode temporaneo e vuole negoziare un accesso proprio; nessuna lealtà metafisica lo obbliga.",
+      "limit": "Astrolabe VI non raggiunge ogni luogo senza corrispondenza; Hourglass IV non annulla retroattivamente una sconfitta compiuta."
+    },
+    {
+      "id": "FAC-24",
+      "name": "The Last Vessel",
+      "location": "Ashen Quay",
+      "goal": "Produrre ricettacoli viventi vendibili, trattando continuità e corpi come parti separabili senza consenso.",
+      "current": "Una nave-laboratorio trattiene sei adulti e trasporta tessuti investiti in supporti distinti. Non è una Root né una specie intera.",
+      "conflict": "Rapire un Bearer utile, separare una funzione raggiunta e inviare il lotto a un compratore prima che arrivi l’ispezione.",
+      "secret": "Il compratore accetta solo funzioni stabili; Vareth nasconde che due dei propri contenitori stanno fallendo e non possiede un metodo universale.",
+      "limits": "Maw VI non concede tutte le Effigi delle vittime come incorporazioni personali; nessuna nuova Seat o famiglia compatibile viene creata. Il lotto commerciato consiste in tessuti e supporti realmente separati e conservati, con le funzioni che possiedono effettivamente; non è una Inscription venduta intera. Non si anticipa Assimilation Release VII per esternalizzare liberamente un tratto assimilato a VI. Le promesse del compratore vanno distinte dalla capacità reale del campione.",
+      "leader": "CAST-492",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-10",
+      "disposition": "HOSTILE",
+      "sponsor": "contratto limitato con Soran Il: destinatari e consegne, non accesso universale alla sua potenza",
+      "officers": [
+        "CAST-492",
+        "CAST-493"
+      ],
+      "local_contacts": [
+        "CAST-416",
+        "CAST-418",
+        "CAST-420"
+      ],
+      "members": [
+        "CAST-492",
+        "CAST-493",
+        "CAST-416",
+        "CAST-418",
+        "CAST-420"
+      ],
+      "arcs": [
+        "ARC-07",
+        "ARC-12",
+        "ARC-14",
+        "ARC-21",
+        "ARC-23",
+        "ARC-24",
+        "ARC-27",
+        "ARC-31",
+        "ARC-32",
+        "ARC-34",
+        "ARC-37",
+        "ARC-40"
+      ],
+      "operation": "Rapire un Bearer utile, separare una funzione raggiunta e inviare il lotto a un compratore prima che arrivi l’ispezione.",
+      "target": "Portatori vulnerabili, persone create e comunità con sostegni rari; non può individuare The Origin dentro Alexander senza accesso e prove.",
+      "clues": [
+        "La nave dichiara un equipaggio inferiore al consumo di cibo.",
+        "Una fuga restituisce una persona viva con una funzione mancante identificabile."
+      ],
+      "counter": "Abbattere le difese pertinenti, liberare i detenuti e separare le funzioni senza distruggere i supporti vitali. Cure reali possono eliminare la dipendenza.",
+      "after": "Il lotto parte solo con un vettore compatibile: ritardi espongono il fallimento e spaccano il gruppo, non generano nuove vittime automaticamente.",
+      "betrayal": "Ilena vuole preservare i sei detenuti e può sabotare una consegna letale, ma ha già cooperato alle lesioni e non viene assolta da un ripensamento.",
+      "limit": "Maw VI non concede tutte le Effigi delle vittime come incorporazioni personali; nessuna nuova Seat o famiglia compatibile viene creata. Il lotto commerciato consiste in tessuti e supporti realmente separati e conservati, con le funzioni che possiedono effettivamente; non è una Inscription venduta intera. Non si anticipa Assimilation Release VII per esternalizzare liberamente un tratto assimilato a VI. Le promesse del compratore vanno distinte dalla capacità reale del campione."
+    },
+    {
+      "id": "FAC-25",
+      "name": "The Blue Lantern",
+      "location": "Rovenne",
+      "goal": "Mantenere una via di fuga e cure indipendenti per le vittime di sequestri soprannaturali.",
+      "current": "Un rifugio dispone di due stanze, tre letti e una rete di vettori ordinari. Nessun occupante conosce il ritorno di Edran.",
+      "conflict": "Verificare una segnalazione di sequestro, preparare trasporto e intervenire contro la squadra identificata.",
+      "secret": "Mireya ha rifiutato un finanziamento che avrebbe imposto la consegna dei nomi degli ospiti.",
+      "limits": "Halo IV non garantisce immunità agli ospiti; Chain II gestisce i propri vincoli, prese e tensioni con le capacità I–II: non possiede Bond Articulation V né scioglimento universale dei vincoli estranei. Una liberazione richiede contesa pertinente, rimozione del supporto o altro mezzo davvero disponibile.",
+      "leader": "CAST-494",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-11",
+      "disposition": "ALLY_INDEPENDENT",
+      "sponsor": "rete di soccorso indipendente; nessun sapere sul ritorno o culto automatico di Edran",
+      "officers": [
+        "CAST-494",
+        "CAST-495"
+      ],
+      "local_contacts": [
+        "CAST-208",
+        "CAST-211",
+        "CAST-220"
+      ],
+      "members": [
+        "CAST-494",
+        "CAST-495",
+        "CAST-208",
+        "CAST-211",
+        "CAST-220"
+      ],
+      "arcs": [
+        "ARC-01",
+        "ARC-04",
+        "ARC-06",
+        "ARC-07",
+        "ARC-10",
+        "ARC-17",
+        "ARC-23",
+        "ARC-25",
+        "ARC-35",
+        "ARC-36"
+      ],
+      "operation": "Verificare una segnalazione di sequestro, preparare trasporto e intervenire contro la squadra identificata.",
+      "target": "Rapitori e vincoli coercitivi verificati; la rete non presume colpevolezza per specie, culto o Effige.",
+      "clues": [
+        "Richiesta di medicinali compatibili con tre letti, non con una clinica illimitata.",
+        "Due vettori conoscono percorsi distinti e nessuno l’intera rete."
+      ],
+      "counter": "La rete può essere aiutata con trasporti, protezione, guarigione o informazioni; non pretende adesione religiosa o obbedienza.",
+      "after": "Senza aiuto accoglie soltanto le persone che può sostenere e cerca altri rifugi; non trascura deliberatamente un soccorso possibile.",
+      "betrayal": "Un finanziatore può minacciare di ritirare mezzi; nessun traditore obbligatorio viene estratto dal personale domestico di Alexander.",
+      "limit": "Halo IV non garantisce immunità agli ospiti; Chain II gestisce i propri vincoli, prese e tensioni con le capacità I–II: non possiede Bond Articulation V né scioglimento universale dei vincoli estranei. Una liberazione richiede contesa pertinente, rimozione del supporto o altro mezzo davvero disponibile."
+    },
+    {
+      "id": "FAC-26",
+      "name": "The Broken Seal",
+      "location": "Teren",
+      "goal": "Difendere testimoni e prove contro appropriazione, intimidazione e falsificazione investita.",
+      "current": "Due ricercatori hanno concordato un metodo di confronto e una guardia di turno; le copie sono in tre sedi separate.",
+      "conflict": "Scortare un testimone e dimostrare davanti a terzi quale intervento investito ha alterato un risultato.",
+      "secret": "Seran conserva una propria precedente conclusione sbagliata, corretta pubblicamente: il gruppo ammette revisioni sostenute da prove.",
+      "limits": "Oracle IV e Archive II non leggono la totalità del passato né rivelano identità mai documentate.",
+      "leader": "CAST-496",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-12",
+      "disposition": "ALLY_INDEPENDENT",
+      "sponsor": "colleghi dissidenti del Witness; non immuni da errori o fedeli al protagonista",
+      "officers": [
+        "CAST-496",
+        "CAST-497"
+      ],
+      "local_contacts": [
+        "CAST-261",
+        "CAST-262",
+        "CAST-265"
+      ],
+      "members": [
+        "CAST-496",
+        "CAST-497",
+        "CAST-261",
+        "CAST-262",
+        "CAST-265"
+      ],
+      "arcs": [
+        "ARC-02",
+        "ARC-03",
+        "ARC-08",
+        "ARC-11",
+        "ARC-16",
+        "ARC-18",
+        "ARC-19",
+        "ARC-20",
+        "ARC-29",
+        "ARC-30",
+        "ARC-38",
+        "ARC-39"
+      ],
+      "operation": "Scortare un testimone e dimostrare davanti a terzi quale intervento investito ha alterato un risultato.",
+      "target": "Falsificatori e sequestratori identificati; non ogni membro delle Witness Houses è un nemico.",
+      "clues": [
+        "Tre copie con una differenza controllabile.",
+        "Il destinatario conosce il percorso del documento ma non il mandante dell’alterazione."
+      ],
+      "counter": "Collaborazione possibile senza giuramento: proteggere una sede, produrre un confronto ripetibile o raggiungere il responsabile.",
+      "after": "Il gruppo pubblica solo ciò che può sostenere e mette in salvo i testimoni raggiungibili, senza inventare confessioni.",
+      "betrayal": "Alise non consegna una fonte anonima a un alleato solo perché potente: questo dissenso non equivale a tradimento.",
+      "limit": "Oracle IV e Archive II non leggono la totalità del passato né rivelano identità mai documentate."
+    }
+  ],
+  "known_past_source": "RISERVATO_97_Caduta_Nove_Sedi_e_storia_delle_attribuzioni.md",
+  "no_new_full_integrations": true,
+  "no_automatic_player_identity_reveal": true
+}

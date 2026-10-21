@@ -1,0 +1,1971 @@
+{
+  "version": "1.1",
+  "access": "NARRATOR_RESERVED",
+  "milestone": 9,
+  "current_date": "812-05-18",
+  "factions": [
+    {
+      "id": "FAC-01",
+      "name": "Ufficio delle Concordanze",
+      "place": "Veldane e sedi regionali",
+      "concept": "Ufficio delle Concordanze è una rete istituzionale con mezzi e responsabilità circoscritti.",
+      "function": "Interlocutore e generatore di scelte; può cooperare o opporsi secondo interessi.",
+      "goal": "Unificare registri di proprietà, licenze e fotografie senza scambiare somiglianza per identità",
+      "resources": "Dodici ispettori, registri, accesso legale a copie e periti a incarico",
+      "fear": "Perdere credibilità o bloccare diritti validi",
+      "limits": "Non può leggere anime o dichiarare proprietà senza processo",
+      "current": "Confronta ventisette trasferimenti contestati; pubblicazione preliminare prevista il 5 giugno",
+      "conflict": "Unificare registri di proprietà, licenze e fotografie senza scambiare somiglianza per identità; tensione attuale: Perdere credibilità o bloccare diritti validi.",
+      "secret": "Una serie di copie cambia un dettaglio giuridico, ma l’originale superstite consente il confronto",
+      "hooks": [
+        "Copia di una particella patrimoniale Valcienne richiesta",
+        "un archivista cerca un testimone dopo un tentativo di furto"
+      ],
+      "evolution": "Con PG: prova migliore, richiesta ridotta o contestazione; senza: pubblica casi distinguendo irrisolti e verificati",
+      "deadline": "812-06-05",
+      "impact": "🟡",
+      "scene": "Registri divergenti sullo stesso tavolo",
+      "complication": "Il dettaglio errato può essere colpa del modello fotografico, non frode",
+      "optional_twist": "Un oppositore conserva la copia migliore",
+      "vertical": "Accordo delle Licenze 777",
+      "horizontal": "POL-01; FAC-05; EVD-09",
+      "activation": "ATTIVO",
+      "leader": {
+        "name": "Doria Seln",
+        "role": "director",
+        "effigy": null,
+        "goal": "Criterio riproducibile",
+        "fear": "Pubblicazione prematura che blocca diritti validi"
+      },
+      "editorial_367": {
+        "id": "FAC-01",
+        "name": "Ufficio delle Concordanze",
+        "heading": "La correzione segue il fascicolo, non il volto",
+        "organization": "Gli ispettori raccolgono copie con provenienza e data; il perito firma ciò che ha verificato, Doria decide il campo della pubblicazione. Una copia fotografica non dimostra da sola identità personale. I ventisette trasferimenti sono una lavorazione in corso, non ventisette frodi già provate.",
+        "play": "Un impiegato può restringere una richiesta e chiedere integrazioni; non può sospendere tutti i beni del duca. Un richiedente può portare l’originale, contestare il modello o chiedere che un caso resti irrisolto. Il furto di un archivio modifica le prove disponibili, non la verità del diritto."
+      }
+    },
+    {
+      "id": "FAC-02",
+      "name": "Consorzio Tre Moli",
+      "place": "Port Auvrel",
+      "concept": "Consorzio Tre Moli è una rete istituzionale con mezzi e responsabilità circoscritti.",
+      "function": "Interlocutore e generatore di scelte; può cooperare o opporsi secondo interessi.",
+      "goal": "Tenere operativi i moli con sicurezza e credito sostenibili",
+      "resources": "Concessioni limitate, squadre, due pontoni, contratti e capitale dei soci",
+      "fear": "Fermare ricavi e perdere lavoratori",
+      "limits": "Non possiede tutta Auvrel; non può requisire magazzini Valcienne",
+      "current": "Ren Istral propone chiusura selettiva di un supporto; Malrec Dorn negozia copertura del costo",
+      "conflict": "Tenere operativi i moli con sicurezza e credito sostenibili; tensione attuale: Fermare ricavi e perdere lavoratori.",
+      "secret": "Manutenzione rinviata e sedimenti causano il difetto; un acquirente sfrutta la crisi senza averla creata",
+      "hooks": [
+        "Richiesta di noleggio di un magazzino",
+        "carico inclinato segnala deformazione misurabile"
+      ],
+      "evolution": "Con PG: riparazione o finanziamento possono riuscire; senza: alleggerisce il molo difettoso e negozia deviazioni",
+      "deadline": "812-05-25",
+      "impact": "🟠",
+      "scene": "Operai misurano un appoggio fra due turni",
+      "complication": "Chiudere solo un nodo modifica i noli e non ferma l’intero porto",
+      "optional_twist": "Un piccolo concorrente offre una deviazione utile",
+      "vertical": "Concessioni portuali e manutenzione ordinaria",
+      "horizontal": "GEO-U02 dragaggio 3 giugno; FAC-03; GEO Auvrel",
+      "activation": "ATTIVO",
+      "editorial_367": {
+        "id": "FAC-02",
+        "name": "Consorzio Tre Moli",
+        "heading": "Tre moli non sono un porto intero",
+        "organization": "I soci approvano spese comuni, i capisquadra dispongono il lavoro e i tecnici misurano i supporti. I due pontoni servono un intervento delimitato: spostarli può ritardare un altro carico. Malrec tratta il finanziamento, Ren segnala il rischio; nessuno dei due acquisisce per questo tutti i magazzini di Auvrel.",
+        "play": "Il 25 maggio riguarda l’appoggio; il dragaggio del 3 giugno è un altro processo. Riparare l’appoggio elimina quel difetto, ma non fa sparire sedimenti o un contratto svantaggioso. Una deviazione concordata, un noleggio o un prestito possono risolvere parti diverse senza un disastro obbligatorio."
+      }
+    },
+    {
+      "id": "FAC-03",
+      "name": "Mutua dei Turni del Porto",
+      "place": "Auvrel e Belanne",
+      "concept": "Mutua dei Turni del Porto è una rete istituzionale con mezzi e responsabilità circoscritti.",
+      "function": "Interlocutore e generatore di scelte; può cooperare o opporsi secondo interessi.",
+      "goal": "Paghe, soccorso e prova degli infortuni senza dipendere dall’arbitrio del caposquadra",
+      "resources": "Quote, infermeria convenzionata, rappresentanti e registri di turno",
+      "fear": "Esaurire il fondo e dividere equipaggi di terra e mare",
+      "limits": "Non può obbligare tutti a scioperare né curare oltre competenze convenzionate",
+      "current": "Confronta paghe del porto e prepara una domanda di rimborso",
+      "conflict": "Paghe, soccorso e prova degli infortuni senza dipendere dall’arbitrio del caposquadra; tensione attuale: Esaurire il fondo e dividere equipaggi di terra e mare.",
+      "secret": "Una quota del fondo è impegnata in cure già approvate, non disponibile per ogni nuova vertenza",
+      "hooks": [
+        "Familiare chiede una copia del turno",
+        "tesoriere cerca un perito per un infortunio"
+      ],
+      "evolution": "Con PG: aiuto e prova cambiano il negoziato; senza: paga i casi prioritari e rinvia altri",
+      "deadline": "812-05-30",
+      "impact": "🟡",
+      "scene": "Una lista di turni non coincide con le ricevute",
+      "complication": "Riparare il molo non risarcisce automaticamente chi è già ferito",
+      "optional_twist": "Un dirigente aziendale contribuisce al fondo senza controllarlo",
+      "vertical": "Crescita del lavoro portuale",
+      "horizontal": "FAC-02; REL-10; FAC-07",
+      "activation": "ATTIVO",
+      "editorial_367": {
+        "id": "FAC-03",
+        "name": "Mutua dei Turni del Porto",
+        "heading": "Il fondo appartiene a chi lo sostiene",
+        "organization": "I rappresentanti raccolgono richieste, il tesoriere distingue somme liquide e cure impegnate, i turnisti verificano la presenza effettiva. I familiari non devono conoscere una Effige per dimostrare un salario mancante. L’infermeria convenzionata è un servizio con personale reale, non una riserva illimitata di Heart.",
+        "play": "Terra e mare possono contendersi il fondo senza che uno dei gruppi sia malvagio. Un rimborso urgente riduce denaro disponibile, una nuova donazione può allargarlo senza comprare voti. Lo sciopero richiede consenso e organizzazione; non viene imposto da un singolo Banner o dal Narratore."
+      }
+    },
+    {
+      "id": "FAC-04",
+      "name": "Collegium dei Metodi",
+      "place": "Lethorne e centri associati",
+      "concept": "Collegium dei Metodi è una rete istituzionale con mezzi e responsabilità circoscritti.",
+      "function": "Interlocutore e generatore di scelte; può cooperare o opporsi secondo interessi.",
+      "goal": "Riproducibilità e accesso qualificato a metodi ordinari e investiti",
+      "resources": "Scuole, laboratori, campioni, biblioteca e fondi misti",
+      "fear": "Certificare oltre l’ambito verificato",
+      "limits": "Non detiene tutte le fonti o tutte le licenze",
+      "current": "Elren Voss Oracle IV e Dama Rinn confrontano campioni per IND-01",
+      "conflict": "Riproducibilità e accesso qualificato a metodi ordinari e investiti; tensione attuale: Certificare oltre l’ambito verificato.",
+      "secret": "Il metodo è valido ma la formula commerciale estende indebitamente il campo certificato",
+      "hooks": [
+        "Richiesta di campione indipendente",
+        "produttore chiede confronto sul certificato"
+      ],
+      "evolution": "Con PG: analisi può delimitare e correggere; senza: emette certificato più ristretto e pubblica riserve",
+      "deadline": "812-06-08",
+      "impact": "🟠",
+      "scene": "Due prove sono corrette ma la conclusione commerciale no",
+      "complication": "Un committente teme la revoca di un prestito fondato sul marchio",
+      "optional_twist": "Un brevetto aperto protegge meglio il laboratorio",
+      "vertical": "Fondazione 637 e Accordo 777",
+      "horizontal": "IND-01; CULT-02; FAC-05",
+      "activation": "ATTIVO",
+      "editorial_367": {
+        "id": "FAC-04",
+        "name": "Collegium dei Metodi",
+        "heading": "Un certificato ha un campo",
+        "organization": "Il laboratorio separa chi prepara il campione da chi ripete la prova; Elren dirige l’analisi pertinente e Dama controlla preparazione e catena materiale. Gli studenti possono assistere senza acquisire Oracle. Il Collegium distingue scoperta, licenza d’uso e formula pubblicitaria.",
+        "play": "L’8 giugno è la prova IND-01 già fissata. Il metodo può risultare valido e l’etichetta commerciale ingannevole. Correggere l’etichetta può incidere su credito e vendite senza rendere falso l’esperimento; un produttore può accettare una certificazione ristretta invece di essere distrutto."
+      }
+    },
+    {
+      "id": "FAC-05",
+      "name": "Witness Houses di Mereth",
+      "place": "Teren, Veldane e Lethorne",
+      "concept": "Witness Houses di Mereth è una rete istituzionale con mezzi e responsabilità circoscritti.",
+      "function": "Interlocutore e generatore di scelte; può cooperare o opporsi secondo interessi.",
+      "goal": "Conservare copie verificabili e metodi leggibili",
+      "resources": "Biblioteche, Oracle e Archive di rango variabile, traduttori e prestiti fra sedi",
+      "fear": "Diventare archivio dei soli committenti ricchi",
+      "limits": "Non infallibile; non accede a ogni memoria o Root",
+      "current": "Tratta il rilascio di un metodo da brevetto a licenza di studio",
+      "conflict": "Conservare copie verificabili e metodi leggibili; tensione attuale: Diventare archivio dei soli committenti ricchi.",
+      "secret": "Una nota di provenienza fu abbreviata legalmente; la perdita di contesto oggi distorce il risultato",
+      "hooks": [
+        "Studioso chiede la versione completa",
+        "docente cerca fondi per copie a prezzo di costo"
+      ],
+      "evolution": "Con PG: pubblicazione o rifiuto alterano accesso; senza: diffonde un estratto con condizioni",
+      "deadline": "812-06-20",
+      "impact": "🟡",
+      "scene": "Tre edizioni riportano la stessa nota tagliata",
+      "complication": "Diffondere l’originale non autorizza un uso pericoloso del metodo",
+      "optional_twist": "Il proprietario del brevetto offre un’eccezione per ospedali",
+      "vertical": "REL-06 e reti scolastiche",
+      "horizontal": "FAC-04; FAC-01; REL-06",
+      "activation": "ATTIVO",
+      "editorial_367": {
+        "id": "FAC-05",
+        "name": "Witness Houses di Mereth",
+        "heading": "La copia che conserva il contesto",
+        "organization": "Prestiti, copie e consultazioni hanno referenti distinti. Il bibliotecario può consentire una lettura senza permettere la riproduzione industriale. La rete ospita ricercatori Oracle e Archive con capacità differenti, insieme a copisti ordinari; non assegna entrambe le Effigi ai propri soci.",
+        "play": "La nota abbreviata fu tagliata legalmente: cercare un falsario universale sarebbe la pista sbagliata. Una copia integrale può ristabilire il contesto e aprire un conflitto sui diritti di studio. Broken Seal non è il braccio segreto dell’intera istituzione e può contestarne le scelte."
+      }
+    },
+    {
+      "id": "FAC-06",
+      "name": "Capitoli della Concordia",
+      "place": "Orsanne e collegamenti regionali",
+      "concept": "Capitoli della Concordia è una rete istituzionale con mezzi e responsabilità circoscritti.",
+      "function": "Interlocutore e generatore di scelte; può cooperare o opporsi secondo interessi.",
+      "goal": "Mantenere scuole, assistenza e un patto sociale riconosciuto",
+      "resources": "Donazioni, edifici, maestri, archivi di mestiere",
+      "fear": "Perdere consenso e sostegno di chi finanzia",
+      "limits": "Nessun potere politico universale o autore storico conosciuto per ogni rito",
+      "current": "Rivede lo statuto di una scuola dopo richieste di accesso dei lavoratori mobili",
+      "conflict": "Mantenere scuole, assistenza e un patto sociale riconosciuto; tensione attuale: Perdere consenso e sostegno di chi finanzia.",
+      "secret": "Il fondo di un benefattore limita ammissioni pur essendo stato accettato in buona fede",
+      "hooks": [
+        "Famiglia chiede posto scolastico",
+        "capitolo domanda interpretazione del lascito"
+      ],
+      "evolution": "Con PG: nuovi fondi o norma possono ampliare; senza: apre posti temporanei e negozia il lascito",
+      "deadline": "812-06-10",
+      "impact": "🟡",
+      "scene": "Il regolamento protegge il fondo e esclude un bambino",
+      "complication": "Aiuto individuale non cambia da solo tutte le ammissioni",
+      "optional_twist": "Un membro conservatore propone una clausola più inclusiva",
+      "vertical": "REL-01",
+      "horizontal": "FAC-11; POL-01; REL-07",
+      "activation": "ATTIVO",
+      "editorial_367": {
+        "id": "FAC-06",
+        "name": "Capitoli della Concordia",
+        "heading": "La scuola e il lascito",
+        "organization": "Il capitolo amministra insegnanti ed edificio, mentre il lascito vincola un fondo preciso. L’accesso alla scuola dipende dalla disciplina locale e dalle risorse effettive, non da un riconoscimento soprannaturale della dignità. Un benefattore può aver agito in buona fede e lasciare comunque una clausola escludente.",
+        "play": "Il 10 giugno si esamina lo statuto; il posto richiesto da una famiglia non è un’iscrizione già accolta. Posti temporanei, nuovi fondi e interpretazione del lascito sono strade diverse. Il capitolo può aiutare la famiglia anche se la riforma generale resta controversa."
+      }
+    },
+    {
+      "id": "FAC-07",
+      "name": "Case della Living Mercy",
+      "place": "Ovel e Lethorne",
+      "concept": "Case della Living Mercy è una rete istituzionale con mezzi e responsabilità circoscritti.",
+      "function": "Interlocutore e generatore di scelte; può cooperare o opporsi secondo interessi.",
+      "goal": "Cura competente con consenso e turni accessibili",
+      "resources": "Cliniche, mutue, curatori di Heart e personale ordinario",
+      "fear": "Perdere il personale migliore o promettere cure impossibili",
+      "limits": "Non ricostruisce ogni persona morta; dotazioni individuali vanno inventariate",
+      "current": "Concorda turni rurali e urbani per giugno",
+      "conflict": "Cura competente con consenso e turni accessibili; tensione attuale: Perdere il personale migliore o promettere cure impossibili.",
+      "secret": "Un elenco di prestazioni nasconde carenza di trasporti, non carenza di buona volontà",
+      "hooks": [
+        "Clinica chiede vettura",
+        "paziente cerca una seconda diagnosi"
+      ],
+      "evolution": "Con PG: cura vera o logistica possono risolvere; senza: sposta turni e comunica limiti",
+      "deadline": "812-05-28",
+      "impact": "🟡",
+      "scene": "Il medico sa curare ma non raggiunge due villaggi nello stesso giorno",
+      "complication": "Una diagnosi spirituale richiede un campione conservato",
+      "optional_twist": "Un non credente finanzia il turno meno redditizio",
+      "vertical": "REL-03 e sviluppo dei servizi",
+      "horizontal": "CULT-02; FAC-03; FAC-12",
+      "activation": "ATTIVO",
+      "editorial_367": {
+        "id": "FAC-07",
+        "name": "Case della Living Mercy",
+        "heading": "Una cura deve poter arrivare",
+        "organization": "Il responsabile clinico decide l’urgenza, chi organizza i turni trova trasporti e il fondo concorda ciò che può pagare. Il curatore non sceglie unilateralmente quale comunità perdere: rende visibili tempi e alternative. Il paziente può rifiutare un intervento investito e chiedere cure ordinarie disponibili.",
+        "play": "Il problema attuale include vetture e distanze. Una guarigione vera può risolvere il caso clinico; un mezzo di trasporto può risolvere l’accesso. Non introdurre una maledizione dopo ogni cura per conservare artificiosamente il conflitto. Altri turni e bisogni possono restare aperti."
+      }
+    },
+    {
+      "id": "FAC-08",
+      "name": "Banca di Lethorne",
+      "place": "Lethorne",
+      "concept": "Banca di Lethorne è una rete istituzionale con mezzi e responsabilità circoscritti.",
+      "function": "Interlocutore e generatore di scelte; può cooperare o opporsi secondo interessi.",
+      "goal": "Prestare e recuperare senza distruggere debitori solvibili",
+      "resources": "Depositi, cassa, contratti, periti e azionisti",
+      "fear": "Corsa ai depositi o garanzie sopravvalutate",
+      "limits": "Non può inventare liquidità o confiscare senza procedura",
+      "current": "Riesamina alcune garanzie dopo Bellance e valuta il progetto di Yselle",
+      "conflict": "Prestare e recuperare senza distruggere debitori solvibili; tensione attuale: Corsa ai depositi o garanzie sopravvalutate.",
+      "secret": "Una garanzia di Yselle usa beni propri e non patrimonio ducale",
+      "hooks": [
+        "Estratto di una linea di credito",
+        "richiesta di chiarimento su beni dati in garanzia"
+      ],
+      "evolution": "Con PG: nuova copertura o rinuncia modifica il progetto; senza: offre termini più restrittivi",
+      "deadline": "812-06-08",
+      "impact": "🟠",
+      "scene": "Due bilanci solvibili non hanno le stesse scadenze",
+      "complication": "La ricchezza immobiliare non paga un fornitore oggi senza trasferimento",
+      "optional_twist": "Un creditore propone dilazione invece della vendita",
+      "vertical": "Industria e credito locale",
+      "horizontal": "FAC-10; Valcienne; IND-01",
+      "activation": "ATTIVO",
+      "editorial_367": {
+        "id": "FAC-08",
+        "name": "Banca di Lethorne",
+        "heading": "Solvibile non significa liquido",
+        "organization": "Il funzionario prepara una proposta, il comitato crediti valuta garanzie e scadenze, il cassiere paga soltanto somme autorizzate e presenti. I beni di Yselle sono suoi: la parentela non li trasforma in patrimonio disponibile del duca. Un immobile capiente può richiedere tempo per una vendita.",
+        "play": "L’esame dell’8 giugno non è una bancarotta già avvenuta. Dilazione, garanzia aggiuntiva o rinuncia al progetto hanno costi diversi. La banca può ridurre il credito senza voler rovinarla; un finanziatore ostile potrebbe invece usare un bisogno reale, ma deve agire con mezzi verificabili."
+      }
+    },
+    {
+      "id": "FAC-09",
+      "name": "Camera dei Noli Neressani",
+      "place": "Neressa, Serele e Auvrel",
+      "concept": "Camera dei Noli Neressani è una rete istituzionale con mezzi e responsabilità circoscritti.",
+      "function": "Interlocutore e generatore di scelte; può cooperare o opporsi secondo interessi.",
+      "goal": "Tariffe prevedibili e copertura dei carichi",
+      "resources": "Contratti, capitani, assicuratori e dati di porto",
+      "fear": "Rotte poco remunerative o garanzie false",
+      "limits": "Non decide da sola la politica delle sei repubbliche",
+      "current": "Confronta costi delle rotte e clausole di rame per IND-02",
+      "conflict": "Tariffe prevedibili e copertura dei carichi; tensione attuale: Rotte poco remunerative o garanzie false.",
+      "secret": "Un contratto di guerra del 789 è ancora applicato, pur essendo contestabile",
+      "hooks": [
+        "Offerta di trasporto con vincolo",
+        "domanda di verifica di una clausola"
+      ],
+      "evolution": "Con PG: alternative o prove cambiano prezzo; senza: rinnova alcuni contratti e lascia altri aperti",
+      "deadline": "812-07-02",
+      "impact": "🟠",
+      "scene": "Il prezzo più basso richiede una rinuncia giuridica",
+      "complication": "Un carico di qualità scarsa non è risolto da tariffa buona",
+      "optional_twist": "Una repubblica minore offre una rotta concorrente",
+      "vertical": "Union 206 e commercio del rame",
+      "horizontal": "IND-02; FAC-02; POL-03",
+      "activation": "ATTIVO",
+      "editorial_367": {
+        "id": "FAC-09",
+        "name": "Camera dei Noli Neressani",
+        "heading": "La tariffa contiene una politica",
+        "organization": "Capitani, assicuratori e mediatori portano dati diversi alla Camera; il prezzo concordato non sostituisce la decisione delle sei repubbliche. Il testo del 789 è un precedente applicato e contestabile, non una legge cosmica. Una rotta economica può imporre una rinuncia più costosa del nolo.",
+        "play": "Il 2 luglio riguarda IND-02. Verificare qualità del rame, copertura del carico e clausola di trasporto richiede confronti distinti. Una repubblica minore può offrire un’alternativa, ma serve capacità navale effettiva; non si crea una flotta al solo annuncio di concorrenza."
+      }
+    },
+    {
+      "id": "FAC-10",
+      "name": "Consiglio delle Officine di Lethorne",
+      "place": "Lethorne",
+      "concept": "Consiglio delle Officine di Lethorne è una rete istituzionale con mezzi e responsabilità circoscritti.",
+      "function": "Interlocutore e generatore di scelte; può cooperare o opporsi secondo interessi.",
+      "goal": "Ordini, brevetti e personale qualificato con fornitura continua",
+      "resources": "Officine aderenti, consulenti, cataloghi e accesso a gare",
+      "fear": "Perdere commesse e formare tecnici che emigrano",
+      "limits": "Non comprende ogni officina o ogni lavoratore",
+      "current": "Coordina una prova di pompe e l’acquisto di ricambi",
+      "conflict": "Ordini, brevetti e personale qualificato con fornitura continua; tensione attuale: Perdere commesse e formare tecnici che emigrano.",
+      "secret": "Due soci preferiscono un apparato vecchio perché possiedono la filiera dei ricambi",
+      "hooks": [
+        "Richiesta di confronto tecnico",
+        "apprendista segnala guasto ripetibile"
+      ],
+      "evolution": "Con PG: nuova tecnica può cambiare filiera; senza: seleziona una prova limitata",
+      "deadline": "812-06-08",
+      "impact": "🟡",
+      "scene": "Una macchina migliore costa meno ma rompe un accordo commerciale",
+      "complication": "Un brevetto non coincide con abilità di costruire in serie",
+      "optional_twist": "Un piccolo socio accetta pubblicazione dei disegni",
+      "vertical": "Pompe 594, industria elettrica 798",
+      "horizontal": "FAC-04; FAC-08; Yselle",
+      "activation": "ATTIVO",
+      "editorial_367": {
+        "id": "FAC-10",
+        "name": "Consiglio delle Officine di Lethorne",
+        "heading": "Il ricambio come potere industriale",
+        "organization": "Il Consiglio mette in comune cataloghi, gare e prove; non possiede le officine associate. Un socio può sostenere una macchina vecchia per salvare la propria filiera senza aver provocato tutti i guasti. Yselle resta progettista con proprietà e volontà proprie.",
+        "play": "La prova di pompe dell’8 giugno si coordina con Collegium e credito, non crea tre crisi separate nello stesso giorno. Un brevetto aperto, un lotto pilota o formazione condivisa cambiano chi può produrre. L’adozione in serie richiede attrezzi, ricambi e lavoratori, anche se il primo prototipo funziona."
+      }
+    },
+    {
+      "id": "FAC-11",
+      "name": "Assemblee dei Bacini Aperti",
+      "place": "Ovel",
+      "concept": "Assemblee dei Bacini Aperti è una rete istituzionale con mezzi e responsabilità circoscritti.",
+      "function": "Interlocutore e generatore di scelte; può cooperare o opporsi secondo interessi.",
+      "goal": "Residenza, acqua e servizio non dipendenti solo dall’eredità",
+      "resources": "Consigli locali, tecnici, registri e quote",
+      "fear": "Sostituire un monopolio con un ufficio senza competenze",
+      "limits": "Non governa tutti gli undici principati",
+      "current": "Organizza la raccolta di proposte dopo il test di Namar",
+      "conflict": "Residenza, acqua e servizio non dipendenti solo dall’eredità; tensione attuale: Sostituire un monopolio con un ufficio senza competenze.",
+      "secret": "Alcuni oppositori della successione ereditaria vogliono comunque mantenere un privilegio personale",
+      "hooks": [
+        "Richiesta di traduzione del registro",
+        "invito a perizia non religiosa"
+      ],
+      "evolution": "Con PG: proposta e capacità tecnica influenzano; senza: convoca una commissione mista",
+      "deadline": "812-06-04",
+      "impact": "🟠",
+      "scene": "Il tecnico migliore non vuole la carica politica",
+      "complication": "Una riforma può funzionare solo se forma sostituti",
+      "optional_twist": "Il custode uscente sostiene la separazione degli incarichi",
+      "vertical": "Riforme dei bacini e REL-12",
+      "horizontal": "CULT-02; FAC-07; POL-04",
+      "activation": "ATTIVO",
+      "editorial_367": {
+        "id": "FAC-11",
+        "name": "Assemblee dei Bacini Aperti",
+        "heading": "Il bacino non è un solo principe",
+        "organization": "Assemblee locali inviano proposte e tecnici; il nodo di Elven facilita raccordi senza governare gli undici principati. Un custode uscente può sostenere una riforma e chiedere che il successore sappia mantenere le opere. Il servizio idrico non è proprietà di chi vince un dibattito.",
+        "play": "Il 4 giugno raccoglie proposte dopo il test di Namar. Separare carica, residenza e competenza è una scelta istituzionale concreta. Un piano può iniziare in un bacino mentre un altro lo rifiuta; nessun voto locale riscrive tutta Ovel o incorona Alexander."
+      }
+    },
+    {
+      "id": "FAC-12",
+      "name": "Rete delle Vigil di Porta",
+      "place": "Lethorne, Auvrel e città di Mereth",
+      "concept": "Rete delle Vigil di Porta è una rete istituzionale con mezzi e responsabilità circoscritti.",
+      "function": "Interlocutore e generatore di scelte; può cooperare o opporsi secondo interessi.",
+      "goal": "Assistere separazioni e conservare disposizioni verificabili",
+      "resources": "Sale funerarie, assistenti, copisti e registri civili",
+      "fear": "Lutivi privati usati per forzare trasferimenti patrimoniali",
+      "limits": "Non accerta ogni anima tramite un certificato",
+      "current": "Confronta disposizioni di persone disperse in mare",
+      "conflict": "Assistere separazioni e conservare disposizioni verificabili; tensione attuale: Lutivi privati usati per forzare trasferimenti patrimoniali.",
+      "secret": "Due registri sono autentici ma una notifica non raggiunse il destinatario",
+      "hooks": [
+        "Famiglia cerca una copia",
+        "assistente chiede verifica di una data"
+      ],
+      "evolution": "Con PG: prova cambia la procedura; senza: mantiene la posizione contestata in attesa di notifica",
+      "deadline": "812-06-01",
+      "impact": "🟡",
+      "scene": "L’erede ha diritto a sapere ma un’altra persona ha diritto alla riservatezza",
+      "complication": "Il ritrovamento di un corpo non chiarisce ogni clausola",
+      "optional_twist": "Un rivale patrimoniale rinuncia a usare una formalità ingiusta",
+      "vertical": "REL-04",
+      "horizontal": "FAC-01; POL-01; FAC-07",
+      "activation": "ATTIVO",
+      "editorial_367": {
+        "id": "FAC-12",
+        "name": "Rete delle Vigil di Porta",
+        "heading": "Il commiato e la notifica",
+        "organization": "Assistenti, copisti e registri civili svolgono funzioni differenti. Una sala funeraria può ospitare un lutto senza decidere una successione. Se due registri sono autentici ma la notifica manca, la procedura attende il passaggio corretto invece di inventare una falsificazione.",
+        "play": "Il confronto del 1 giugno può cercare ricevuta, destinatario e data. Recuperare un corpo può chiarire una parte e lasciare aperta una clausola. Un morto custodito non è costretto a testimoniare per accelerare una pratica; una famiglia può chiedere silenzio senza possedere la sua volontà."
+      }
+    },
+    {
+      "id": "FAC-13",
+      "name": "Ufficio della Veglia",
+      "place": "Noran, sede locale; interlocutori nelle sedi autonome della Veglia.",
+      "concept": "Ufficio che verifica ricoveri notturni, uscite e filtri senza possedere chi vi entra.",
+      "function": "Alleato, ostacolo o fonte di verifica secondo la scelta dei PG.",
+      "goal": "Separare il raccordo sospetto conservando soccorso e diritto di uscita.",
+      "resources": "Sala di verifica SITE-09, addetti ordinari, registri di accesso e Astrid Eclipse IV; nessuna Root completa.",
+      "fear": "Confondere un filtro protettivo con segregazione coercitiva.",
+      "limits": "Non controlla tutti gli aderenti o ogni Effige della famiglia.",
+      "current": "Astrid confronta il mandato di clausura con Ophie; un tecnico prepara una prova della linea di allarme separata.",
+      "conflict": "Una protezione necessaria può diventare una clausura che l’utente non riesce a contestare.",
+      "secret": "Il canale ostile interno usa un raccordo condiviso: il filtro esterno non distingue tutte le derivazioni.",
+      "hooks": [
+        "Ophie chiede una verifica indipendente dell’uscita.",
+        "Un addetto porta la misura che distingue allarme e alimentazione del filtro."
+      ],
+      "evolution": "La verifica locale prosegue con i presenti; entro il rinnovo si può limitare il servizio, correggere il patto o rifiutare il mandato. Intervento e disinteresse non garantiscono vittoria o disastro.",
+      "deadline": "812-06-30",
+      "impact": "🟠",
+      "scene": "Familiari e tecnici devono decidere quale circuito testare per primo, senza obbligare il PG ad approvare.",
+      "complication": "Il test che isola il canale può sospendere il soccorso di una sala ancora occupata.",
+      "optional_twist": "La scala ordinaria consente l’evacuazione di una sala prima che il raccordo sia separato.",
+      "vertical": "Patto delle soglie mute e licenze 768",
+      "horizontal": "REL-13; SITE-09; CAST-177; CAST-423; NET-C10-57; ROOT-08",
+      "activation": "ATTIVO",
+      "leader": {
+        "name": "Astrid Noll",
+        "role": "Responsabile locale, non voce infallibile del dio",
+        "effigy": "Eclipse",
+        "goal": "Conservare soccorso e verificabilità",
+        "fear": "Abuso del proprio ufficio",
+        "id": "CAST-177"
+      },
+      "integration_source": "RISERVATO_178_Integrazione_notturna_milestone_5_10.md",
+      "editorial_367": {
+        "id": "FAC-13",
+        "name": "Ufficio della Veglia",
+        "heading": "Verificare l’uscita dal ricovero",
+        "organization": "Astrid coordina il presidio locale; Ophie porta la questione del mandato. Il tecnico può separare alimentazione del filtro e allarme soltanto con accessi e strumenti effettivi. Gli ospiti mantengono bisogni ordinari mentre si verifica una protezione investita.",
+        "play": "Prima si prova la linea il 23 maggio, poi si valuta il rinnovo del 30 giugno. La scala ordinaria può evacuare una sala prima del distacco. Scoprire il raccordo ostile non prova che tutti i custodi lo conoscessero; la responsabilità segue accessi, decisioni e informazioni individuali."
+      }
+    },
+    {
+      "id": "FAC-14",
+      "name": "Camera dei Sigilli",
+      "place": "Tevren, camera locale; scuole affiliate con responsabilità separate.",
+      "concept": "Camera che confronta sigilli, contratti di famigli e consenso negli incarichi rituali.",
+      "function": "Alleato, ostacolo o fonte di verifica secondo la scelta dei PG.",
+      "goal": "Rinegoziare il circuito senza imporre alla scuola periferica un carico non accettato.",
+      "resources": "Cortile SITE-10, docenti ordinari, due versioni del patto e Teva Crescent IV con un famiglio contrattuale.",
+      "fear": "Firmare un contratto tecnicamente valido che nessuna parte periferica ha davvero accettato.",
+      "limits": "Non controlla tutti gli aderenti o ogni Effige della famiglia.",
+      "current": "Teva richiede corroborazione della copia incompleta; Sela porta la versione usata dalla sede periferica.",
+      "conflict": "La protezione promessa dipende da una clausola che scarica rischi su chi non ha negoziato.",
+      "secret": "La clausola protegge Ilyren; la scuola sa solo ciò che riesce a verificare delle proprie copie.",
+      "hooks": [
+        "Sela chiede un confronto fra le due versioni.",
+        "Un docente rifiuta il rinnovo finché il consenso non viene raccolto senza influsso."
+      ],
+      "evolution": "La verifica locale prosegue con i presenti; entro il rinnovo si può limitare il servizio, correggere il patto o rifiutare il mandato. Intervento e disinteresse non garantiscono vittoria o disastro.",
+      "deadline": "812-06-30",
+      "impact": "🟠",
+      "scene": "Una lettura non investita del patto precede il test della vasca.",
+      "complication": "La sospensione del rinnovo riduce la protezione proprio durante l’esame del supporto.",
+      "optional_twist": "Una ricevuta civile prova chi ricevette la versione prima della fascinazione.",
+      "vertical": "Patto delle soglie mute e licenze 768",
+      "horizontal": "REL-14; SITE-10; CAST-184; CAST-460; NET-C10-58; ROOT-08",
+      "activation": "ATTIVO",
+      "leader": {
+        "name": "Teva Marr",
+        "role": "Responsabile locale, non voce infallibile del dio",
+        "effigy": "Crescent",
+        "goal": "Conservare soccorso e verificabilità",
+        "fear": "Abuso del proprio ufficio",
+        "id": "CAST-184"
+      },
+      "integration_source": "RISERVATO_178_Integrazione_notturna_milestone_5_10.md",
+      "editorial_367": {
+        "id": "FAC-14",
+        "name": "Camera dei Sigilli",
+        "heading": "La copia che la periferia ha firmato",
+        "organization": "Teva confronta sigilli e mandato; Sela conserva la versione periferica. Il famiglio contrattuale ha limiti propri e non sostituisce lettori, testimoni o consenso. La camera locale non dirige tutte le scuole Crescent.",
+        "play": "Una lettura ordinaria precede il test della vasca. La protezione rivolta a Ilyren non è conoscenza automatica di ogni allievo. Ricevute e seconda conferma possono dimostrare chi accettò cosa; sospendere un rinnovo comporta una protezione ridotta, non un attacco inevitabile inventato per punire il rifiuto."
+      }
+    },
+    {
+      "id": "FAC-15",
+      "name": "The Glass Hunt",
+      "location": "Lethorne",
+      "goal": "Impadronirsi delle cerniere portatili di Lethorne e rivenderne accessi e manutentori a compratori separati.",
+      "current": "Una squadra ha affittato il piano sopra un deposito di strumenti. Conosce un intermediario di Marcel, non la posizione di Room Six.",
+      "conflict": "Identificare il vettore, sostituire la consegna con un esemplare ordinario e sequestrare chi sa ricaricare la cerniera.",
+      "secret": "Mael conserva un secondo contratto: vendere Sybille insieme al mezzo qualora il compratore chieda un Bearer.",
+      "limits": "Un archivio fotografico non localizza persone mai registrate; la squadra non legge pensieri né attraversa ogni muro.",
+      "leader": "CAST-474",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-01",
+      "disposition": "HOSTILE",
+      "sponsor": "nessun patrocinio divino; contratti comprati caso per caso",
+      "officers": [
+        "CAST-474",
+        "CAST-475"
+      ],
+      "local_contacts": [
+        "CAST-193",
+        "CAST-194",
+        "CAST-200"
+      ],
+      "members": [
+        "CAST-474",
+        "CAST-475",
+        "CAST-193",
+        "CAST-194",
+        "CAST-200"
+      ],
+      "arcs": [
+        "ARC-02",
+        "ARC-03",
+        "ARC-06",
+        "ARC-08",
+        "ARC-30",
+        "ARC-39"
+      ],
+      "operation": "Identificare il vettore, sostituire la consegna con un esemplare ordinario e sequestrare chi sa ricaricare la cerniera.",
+      "target": "Marcel e la filiera delle cerniere; Elias diventa bersaglio solo se la sua partecipazione viene scoperta.",
+      "clues": [
+        "Spese di osservazione e acquisto di un falso campione ordinario.",
+        "L’intermediario ha ricevuto una richiesta che confonde la cerniera III con una Root."
+      ],
+      "counter": "Avvisare o mettere al sicuro il vettore, identificare il compratore, spezzare la catena di accesso. Distruggere il falso non distrugge la cerniera vera.",
+      "after": "Senza notizie nuove tengono sotto osservazione il deposito; non scoprono magicamente il club o Alexander.",
+      "betrayal": "Sybille abbandona il contratto se ottiene una prova autentica della propria vendita; non basta affermarlo.",
+      "limit": "Un archivio fotografico non localizza persone mai registrate; la squadra non legge pensieri né attraversa ogni muro.",
+      "editorial_367": {
+        "id": "FAC-15",
+        "name": "The Glass Hunt",
+        "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+        "members": [
+          {
+            "id": "CAST-474",
+            "knowledge": "Conosce il secondo contratto su Sybille e il proprio atto passato. Non conosce Room Six o il ritorno di Edran. Una prova autentica della vendita è un canale possibile di rottura, non una conoscenza già trasmessa a Sybille."
+          },
+          {
+            "id": "CAST-475",
+            "knowledge": "La frase sul contratto di Mael nel vecchio campo secret è verità del Narratore, non prova che Sybille lo abbia letto. La sua paura di essere venduta è sospetto, finché non apprende un riscontro reale."
+          }
+        ],
+        "operation": "Identificare il vettore, sostituire la consegna con un esemplare ordinario e sequestrare chi sa ricaricare la cerniera.",
+        "resources_and_limits": "Un archivio fotografico non localizza persone mai registrate; la squadra non legge pensieri né attraversa ogni muro.",
+        "evidence": [
+          "Spese di osservazione e acquisto di un falso campione ordinario.",
+          "L’intermediario ha ricevuto una richiesta che confonde la cerniera III con una Root."
+        ],
+        "interruption": "Avvisare o mettere al sicuro il vettore, identificare il compratore, spezzare la catena di accesso. Distruggere il falso non distrugge la cerniera vera.",
+        "continuation": "Senza notizie nuove tengono sotto osservazione il deposito; non scoprono magicamente il club o Alexander.",
+        "dissent": "Sybille abbandona il contratto se ottiene una prova autentica della propria vendita; non basta affermarlo."
+      }
+    },
+    {
+      "id": "FAC-16",
+      "name": "The Ashen Tithe",
+      "location": "Sarn Gate",
+      "goal": "Ricostituire un possesso ereditario della forza lavoro in tre gallerie, iniziando da prigionieri acquistati come debitori.",
+      "current": "Un convoglio di sei adulti è nascosto in una stazione dismessa. I vecchi marchi sono studiati, non già ripristinati su tutta una popolazione.",
+      "conflict": "Trasferire i prigionieri, installare vincoli individuali e addestrare una guardia di leva finanziata dal minerale.",
+      "secret": "Voren usa un marchio recente imitativo: il fallimento locale non riattiva i marchi aboliti dal liberatore.",
+      "limits": "Chain V non rende schiava una persona senza un rapporto effettivamente raggiunto; nessun comando di Crown su tutto il pianeta.",
+      "leader": "CAST-476",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-02",
+      "disposition": "HOSTILE",
+      "sponsor": "eredi politici delle Signorie; nessun mandato di tutti gli Ossari o Kethari",
+      "officers": [
+        "CAST-476",
+        "CAST-477"
+      ],
+      "local_contacts": [
+        "CAST-246",
+        "CAST-248",
+        "CAST-250"
+      ],
+      "members": [
+        "CAST-476",
+        "CAST-477",
+        "CAST-246",
+        "CAST-248",
+        "CAST-250"
+      ],
+      "arcs": [
+        "ARC-05",
+        "ARC-11",
+        "ARC-15",
+        "ARC-17",
+        "ARC-25",
+        "ARC-35"
+      ],
+      "operation": "Trasferire i prigionieri, installare vincoli individuali e addestrare una guardia di leva finanziata dal minerale.",
+      "target": "Comunità minerarie e oppositori della tratta; Edran è una figura storica detestata, Alexander non è identificato come lui.",
+      "clues": [
+        "Acquisti di ferri di custodia troppo numerosi per la cava dichiarata.",
+        "Una persona fuggita sa il percorso fino alla stazione, non la residenza del capo."
+      ],
+      "counter": "Liberare i prigionieri, interrompere i vincoli con mezzi pertinenti, sottrarre entrate e custodi. La liberazione autentica resta valida.",
+      "after": "Il trasferimento può iniziare solo quando arriva la scorta e il tratto ferroviario è libero; i ritardi producono razionamento e possibilità di fuga.",
+      "betrayal": "Ishra vuole il comando politico, non una famiglia di schiavi personale: accetta di perdere Voren pur di ereditare il sistema.",
+      "limit": "Chain V non rende schiava una persona senza un rapporto effettivamente raggiunto; nessun comando di Crown su tutto il pianeta.",
+      "editorial_367": {
+        "id": "FAC-16",
+        "name": "The Ashen Tithe",
+        "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+        "members": [
+          {
+            "id": "CAST-476",
+            "knowledge": "Conosce il carattere imitativo dei marchi recenti. Non può riattivare i vincoli aboliti su interi popoli né identificare Alexander come Edran senza apprendimento."
+          },
+          {
+            "id": "CAST-477",
+            "knowledge": "Conosce i controlli che dirige e le limitazioni pratiche del convoglio. Non acquisisce tutta la ricerca sui marchi perché partecipa allo stesso fronte."
+          }
+        ],
+        "operation": "Trasferire i prigionieri, installare vincoli individuali e addestrare una guardia di leva finanziata dal minerale.",
+        "resources_and_limits": "Chain V non rende schiava una persona senza un rapporto effettivamente raggiunto; nessun comando di Crown su tutto il pianeta.",
+        "evidence": [
+          "Acquisti di ferri di custodia troppo numerosi per la cava dichiarata.",
+          "Una persona fuggita sa il percorso fino alla stazione, non la residenza del capo."
+        ],
+        "interruption": "Liberare i prigionieri, interrompere i vincoli con mezzi pertinenti, sottrarre entrate e custodi. La liberazione autentica resta valida.",
+        "continuation": "Il trasferimento può iniziare solo quando arriva la scorta e il tratto ferroviario è libero; i ritardi producono razionamento e possibilità di fuga.",
+        "dissent": "Ishra vuole il comando politico, non una famiglia di schiavi personale: accetta di perdere Voren pur di ereditare il sistema."
+      }
+    },
+    {
+      "id": "FAC-17",
+      "name": "The Red Orchard",
+      "location": "Elven",
+      "goal": "Rendere indispensabili sostegni viventi controllati dalla rete, impedendo la loro sostituzione con cure indipendenti.",
+      "current": "Un vivaio sperimentale coltiva un sostegno utile e un ramo dipendente non dichiarato. Tre campioni sono già stati separati per la spedizione.",
+      "conflict": "Distribuire innesti sotto una falsa dichiarazione di autonomia e rapire chi possiede una tecnica concorrente di separazione.",
+      "secret": "Sevra conosce la presenza del ramo nascosto ma ignora la derivazione del Departure Project: non può confessare fatti mai appresi.",
+      "limits": "Seed non controlla automaticamente ogni vivente; il ramo funziona soltanto sugli innesti materialmente coinvolti.",
+      "leader": "CAST-478",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-03",
+      "disposition": "HOSTILE",
+      "sponsor": "Othrem conosce il programma di dipendenza; i capi locali non conoscono la caduta né il ritorno",
+      "officers": [
+        "CAST-478",
+        "CAST-479"
+      ],
+      "local_contacts": [
+        "CAST-286",
+        "CAST-289",
+        "CAST-290"
+      ],
+      "members": [
+        "CAST-478",
+        "CAST-479",
+        "CAST-286",
+        "CAST-289",
+        "CAST-290"
+      ],
+      "arcs": [
+        "ARC-07",
+        "ARC-12",
+        "ARC-13",
+        "ARC-18",
+        "ARC-23",
+        "ARC-27",
+        "ARC-35"
+      ],
+      "operation": "Distribuire innesti sotto una falsa dichiarazione di autonomia e rapire chi possiede una tecnica concorrente di separazione.",
+      "target": "Pazienti, ricercatori e insediamenti che rifiutano la dipendenza; Ysra è ostacolo noto per le sue competenze, non perché riconosca Alexander.",
+      "clues": [
+        "Un esemplare sopravvive con alimentazione dichiarata sufficiente, poi perde una funzione precisa.",
+        "Il trasportatore distingue i tre campioni e può indicare la destinazione."
+      ],
+      "counter": "Offrire sostegni realmente autonomi, isolare la dipendenza e impedire il sequestro. Non esiste una punizione cosmica per chi guarisce davvero.",
+      "after": "La spedizione parte se il trasporto è confermato; Othrem riceve solo relazioni inviate attraverso canali realmente attivi.",
+      "betrayal": "Arven mantiene un registro clinico perché non vuole perdere ogni possibilità di curare i propri pazienti: può opporsi a Sevra su prove mediche.",
+      "limit": "Seed non controlla automaticamente ogni vivente; il ramo funziona soltanto sugli innesti materialmente coinvolti.",
+      "editorial_367": {
+        "id": "FAC-17",
+        "name": "The Red Orchard",
+        "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+        "members": [
+          {
+            "id": "CAST-478",
+            "knowledge": "Conosce il ramo nascosto già fissato; ignora la derivazione di Departure. Una confessione completa della propria operazione non contiene per questo segreti antichi."
+          },
+          {
+            "id": "CAST-479",
+            "knowledge": "Conosce le lesioni osservate e le procedure che esegue. Il sapere di Sevra su ogni distribuzione non è automaticamente suo; non conosce Departure per trasmissione del dossier."
+          }
+        ],
+        "operation": "Distribuire innesti sotto una falsa dichiarazione di autonomia e rapire chi possiede una tecnica concorrente di separazione.",
+        "resources_and_limits": "Seed non controlla automaticamente ogni vivente; il ramo funziona soltanto sugli innesti materialmente coinvolti.",
+        "evidence": [
+          "Un esemplare sopravvive con alimentazione dichiarata sufficiente, poi perde una funzione precisa.",
+          "Il trasportatore distingue i tre campioni e può indicare la destinazione."
+        ],
+        "interruption": "Offrire sostegni realmente autonomi, isolare la dipendenza e impedire il sequestro. Non esiste una punizione cosmica per chi guarisce davvero.",
+        "continuation": "La spedizione parte se il trasporto è confermato; Othrem riceve solo relazioni inviate attraverso canali realmente attivi.",
+        "dissent": "Arven mantiene un registro clinico perché non vuole perdere ogni possibilità di curare i propri pazienti: può opporsi a Sevra su prove mediche."
+      }
+    },
+    {
+      "id": "FAC-18",
+      "name": "The Still Court",
+      "location": "Veldane",
+      "goal": "Trasformare misure di emergenza circoscritte in una giurisdizione permanente sulle persone giudicate pericolose.",
+      "current": "Due funzionari hanno preparato mandati individuali contro testimoni e un deposito protetto per trattenerli.",
+      "conflict": "Fermare un testimone in viaggio, isolare copie della sua dichiarazione e imporre una nuova proroga del contenimento.",
+      "secret": "Marwen ha falsificato la durata di un mandato: Ilyra conosce lo scopo generale ma non questa alterazione.",
+      "limits": "Crown V ha ambiti e resistenze; una firma non immobilizza un altro angelo indipendentemente da potere e accesso.",
+      "leader": "CAST-480",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-04",
+      "disposition": "HOSTILE",
+      "sponsor": "Ilyra approva il contenimento mirato; non ha ordinato ogni rapimento locale",
+      "officers": [
+        "CAST-480",
+        "CAST-481"
+      ],
+      "local_contacts": [
+        "CAST-341",
+        "CAST-343",
+        "CAST-345"
+      ],
+      "members": [
+        "CAST-480",
+        "CAST-481",
+        "CAST-341",
+        "CAST-343",
+        "CAST-345"
+      ],
+      "arcs": [
+        "ARC-08",
+        "ARC-16",
+        "ARC-17",
+        "ARC-19",
+        "ARC-20",
+        "ARC-29",
+        "ARC-36",
+        "ARC-38"
+      ],
+      "operation": "Fermare un testimone in viaggio, isolare copie della sua dichiarazione e imporre una nuova proroga del contenimento.",
+      "target": "Testimoni, dissidenti e magistrati contrari alla proroga; la famiglia Valcienne non è automaticamente complice o bersaglio.",
+      "clues": [
+        "Originale e copia esecutiva hanno la stessa autenticazione, ma termini diversi.",
+        "Una scorta ha ricevuto istruzioni orali incompatibili con il mandato."
+      ],
+      "counter": "Proteggere il testimone, invalidare la presa concreta, dividere funzionari e comando. La forza può liberare il detenuto anche prima della soluzione politica.",
+      "after": "L’arresto richiede itinerario verificato e una scorta disponibile; un bersaglio trasferito non viene ritrovato senza indagine.",
+      "betrayal": "Elisa obbedisce a una catena di comando, ma rifiuta la distruzione di una propria unità per nascondere l’alterazione.",
+      "limit": "Crown V ha ambiti e resistenze; una firma non immobilizza un altro angelo indipendentemente da potere e accesso.",
+      "editorial_367": {
+        "id": "FAC-18",
+        "name": "The Still Court",
+        "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+        "members": [
+          {
+            "id": "CAST-480",
+            "knowledge": "Sa quale durata ha alterato. Ilyra conosce lo scopo generale ma non questa falsificazione: non può confessarla al posto suo o annullarla da lontano perché il lettore la conosce."
+          },
+          {
+            "id": "CAST-481",
+            "knowledge": "Sa quali uomini guida, l’ordine ricevuto e ciò che ha visto. La falsificazione nel campo secret resta informazione autoriale finché non incontra l’originale o un canale attendibile."
+          }
+        ],
+        "operation": "Fermare un testimone in viaggio, isolare copie della sua dichiarazione e imporre una nuova proroga del contenimento.",
+        "resources_and_limits": "Crown V ha ambiti e resistenze; una firma non immobilizza un altro angelo indipendentemente da potere e accesso.",
+        "evidence": [
+          "Originale e copia esecutiva hanno la stessa autenticazione, ma termini diversi.",
+          "Una scorta ha ricevuto istruzioni orali incompatibili con il mandato."
+        ],
+        "interruption": "Proteggere il testimone, invalidare la presa concreta, dividere funzionari e comando. La forza può liberare il detenuto anche prima della soluzione politica.",
+        "continuation": "L’arresto richiede itinerario verificato e una scorta disponibile; un bersaglio trasferito non viene ritrovato senza indagine.",
+        "dissent": "Elisa obbedisce a una catena di comando, ma rifiuta la distruzione di una propria unità per nascondere l’alterazione."
+      }
+    },
+    {
+      "id": "FAC-19",
+      "name": "The Black Wake",
+      "location": "South Shoals",
+      "goal": "Controllare una rotta di naufragi provocati e vendere separatamente carico, superstiti e informazioni sui recuperi.",
+      "current": "Due imbarcazioni di appoggio hanno depositato ancore e segnali falsi presso una secca. La nave bersaglio è ancora in porto.",
+      "conflict": "Alterare il passaggio locale con correnti e segnali, abbordare i superstiti e incendiare il deposito dei registri di carico.",
+      "secret": "Dara ha ricevuto l’ordine di eliminare l’intermediario dopo il pagamento e lo considera un prezzo accettabile.",
+      "limits": "Tempest IV non governa ogni oceano; Maw III necessita di presa e contenuto realmente raggiunti.",
+      "leader": "CAST-482",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-05",
+      "disposition": "HOSTILE",
+      "sponsor": "nessuna obbedienza a Enra: predatori che ne temono la reazione",
+      "officers": [
+        "CAST-482",
+        "CAST-483"
+      ],
+      "local_contacts": [
+        "CAST-336",
+        "CAST-338",
+        "CAST-340"
+      ],
+      "members": [
+        "CAST-482",
+        "CAST-483",
+        "CAST-336",
+        "CAST-338",
+        "CAST-340"
+      ],
+      "arcs": [
+        "ARC-05",
+        "ARC-10",
+        "ARC-15",
+        "ARC-24",
+        "ARC-26",
+        "ARC-28",
+        "ARC-30"
+      ],
+      "operation": "Alterare il passaggio locale con correnti e segnali, abbordare i superstiti e incendiare il deposito dei registri di carico.",
+      "target": "Armatori indipendenti, equipaggi e reti di soccorso; nessun potere di leggere anticipatamente la rotta scelta dal giocatore.",
+      "clues": [
+        "Ancore nuove in una zona che non richiede ormeggio.",
+        "Un pilota ha ricevuto due segnali con orari incompatibili."
+      ],
+      "counter": "Scortare o deviare la nave, rimuovere i segnali, combattere gli abbordatori e mettere al sicuro i superstiti.",
+      "after": "L’agguato dipende dalla partenza reale e dal tempo; una partenza annullata lo rinvia, non causa comunque il naufragio.",
+      "betrayal": "Naor salva la propria nave prima del compratore; un ostaggio liberato non è una risorsa illimitata da sostituire.",
+      "limit": "Tempest IV non governa ogni oceano; Maw III necessita di presa e contenuto realmente raggiunti.",
+      "editorial_367": {
+        "id": "FAC-19",
+        "name": "The Black Wake",
+        "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+        "members": [
+          {
+            "id": "CAST-482",
+            "knowledge": "Conosce la propria operazione e l’ordine dato a Dara. Non controlla tutte le acque e non sa i viaggi di Eren soltanto perché Tempest esiste."
+          },
+          {
+            "id": "CAST-483",
+            "knowledge": "Conosce l’ordine di eliminazione ricevuto e ciò che ha raggiunto nei recuperi. Maw non le rivela l’intera origine di ogni residuo."
+          }
+        ],
+        "operation": "Alterare il passaggio locale con correnti e segnali, abbordare i superstiti e incendiare il deposito dei registri di carico.",
+        "resources_and_limits": "Tempest IV non governa ogni oceano; Maw III necessita di presa e contenuto realmente raggiunti.",
+        "evidence": [
+          "Ancore nuove in una zona che non richiede ormeggio.",
+          "Un pilota ha ricevuto due segnali con orari incompatibili."
+        ],
+        "interruption": "Scortare o deviare la nave, rimuovere i segnali, combattere gli abbordatori e mettere al sicuro i superstiti.",
+        "continuation": "L’agguato dipende dalla partenza reale e dal tempo; una partenza annullata lo rinvia, non causa comunque il naufragio.",
+        "dissent": "Naor salva la propria nave prima del compratore; un ostaggio liberato non è una risorsa illimitata da sostituire."
+      }
+    },
+    {
+      "id": "FAC-20",
+      "name": "The Hollow Choir",
+      "location": "Corten",
+      "goal": "Sostituire relazioni sociali e contratti di ospitalità con un sistema di consenso manipolato che protegga i capi della rete.",
+      "current": "Una pensione ospita quattro adulti reclutati con promesse di impiego; gli ingressi sono ordinari e controllabili.",
+      "conflict": "Imporre una sessione interiore preparata, estorcere accessi e usare Mask per ingannare un solo destinatario già studiato.",
+      "secret": "Gli ospiti hanno persone e volontà proprie: gli effetti non creano retroattivamente infanzie o parenti autentici.",
+      "limits": "Labyrinth non è riscrittura cosmica del passato; Mask non possiede naturalmente l’interiorità di ogni volto rappresentato.",
+      "leader": "CAST-484",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-06",
+      "disposition": "HOSTILE",
+      "sponsor": "Neral non dirige la cellula e può combatterla; il culto usa il suo titolo senza mandato",
+      "officers": [
+        "CAST-484",
+        "CAST-485"
+      ],
+      "local_contacts": [
+        "CAST-321",
+        "CAST-323",
+        "CAST-325"
+      ],
+      "members": [
+        "CAST-484",
+        "CAST-485",
+        "CAST-321",
+        "CAST-323",
+        "CAST-325"
+      ],
+      "arcs": [
+        "ARC-09",
+        "ARC-14",
+        "ARC-21",
+        "ARC-22",
+        "ARC-25",
+        "ARC-34",
+        "ARC-39"
+      ],
+      "operation": "Imporre una sessione interiore preparata, estorcere accessi e usare Mask per ingannare un solo destinatario già studiato.",
+      "target": "Viaggiatori isolati, ospiti e portatori di accessi; il club di Elias non è conosciuto automaticamente.",
+      "clues": [
+        "Due ospiti ricordano lo stesso dettaglio impossibile nello stesso ordine.",
+        "Il cuoco conosce gli orari in cui la stanza delle sessioni viene preparata."
+      ],
+      "counter": "Interrompere il collegamento preparato, raggiungere fisicamente gli ospiti, confrontare ricordi con testimonianze indipendenti.",
+      "after": "La sessione richiede presenza e preparazione; chi lascia la pensione prima non resta automaticamente collegato.",
+      "betrayal": "Neris vuole cancellare soltanto i propri debiti e può vendere l’ubicazione del capo; non restituisce per questo la fiducia degli ospiti.",
+      "limit": "Labyrinth non è riscrittura cosmica del passato; Mask non possiede naturalmente l’interiorità di ogni volto rappresentato.",
+      "editorial_367": {
+        "id": "FAC-20",
+        "name": "The Hollow Choir",
+        "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+        "members": [
+          {
+            "id": "CAST-484",
+            "knowledge": "Conosce le prese esercitate, non ogni memoria o scelta degli ospiti. Non ha creato retroattivamente le loro infanzie e non può trasformare una relazione simulata in una famiglia storica autentica."
+          },
+          {
+            "id": "CAST-485",
+            "knowledge": "Conosce i contatti di cui è intermediario. Non dispone di tutte le identità interiori del dominio di Ishven e non ottiene Labyrinth per collaborazione."
+          }
+        ],
+        "operation": "Imporre una sessione interiore preparata, estorcere accessi e usare Mask per ingannare un solo destinatario già studiato.",
+        "resources_and_limits": "Labyrinth non è riscrittura cosmica del passato; Mask non possiede naturalmente l’interiorità di ogni volto rappresentato.",
+        "evidence": [
+          "Due ospiti ricordano lo stesso dettaglio impossibile nello stesso ordine.",
+          "Il cuoco conosce gli orari in cui la stanza delle sessioni viene preparata."
+        ],
+        "interruption": "Interrompere il collegamento preparato, raggiungere fisicamente gli ospiti, confrontare ricordi con testimonianze indipendenti.",
+        "continuation": "La sessione richiede presenza e preparazione; chi lascia la pensione prima non resta automaticamente collegato.",
+        "dissent": "Neris vuole cancellare soltanto i propri debiti e può vendere l’ubicazione del capo; non restituisce per questo la fiducia degli ospiti."
+      }
+    },
+    {
+      "id": "FAC-21",
+      "name": "The Ninth Cinder",
+      "location": "Deren",
+      "goal": "Vendere armi investite a due compratori rivali provocando una crisi che renda urgente la consegna.",
+      "current": "Un’officina prepara cariche di conversione e contenitori difettosi deliberatamente. La galleria di prova è stata evacuata dai tecnici informati.",
+      "conflict": "Sabotare una pompa di sicurezza, attirare una squadra di soccorso e prendere ostaggi per imporre l’acquisto delle armi.",
+      "secret": "Il denaro del secondo compratore paga la prima consegna: Hadrik teme più un’ispezione del magazzino che una controversia sui brevetti.",
+      "limits": "Crucible non genera materia senza supporto né usa Ruin; scorte esaurite e condotti interrotti limitano il fuoco.",
+      "leader": "CAST-486",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-07",
+      "disposition": "HOSTILE",
+      "sponsor": "nessun mandato di Ashren; rifornimento militare clandestino",
+      "officers": [
+        "CAST-486",
+        "CAST-487"
+      ],
+      "local_contacts": [
+        "CAST-241",
+        "CAST-243",
+        "CAST-245"
+      ],
+      "members": [
+        "CAST-486",
+        "CAST-487",
+        "CAST-241",
+        "CAST-243",
+        "CAST-245"
+      ],
+      "arcs": [
+        "ARC-06",
+        "ARC-10",
+        "ARC-11",
+        "ARC-26",
+        "ARC-28",
+        "ARC-36"
+      ],
+      "operation": "Sabotare una pompa di sicurezza, attirare una squadra di soccorso e prendere ostaggi per imporre l’acquisto delle armi.",
+      "target": "Officine indipendenti e soccorritori; la difettosità di questi contenitori non cambia la causa già fissata dell’incidente di Elias.",
+      "clues": [
+        "Contenitori con la stessa conversione ma indicazioni di uso civile false.",
+        "Il turno evacuato è stato cambiato prima del guasto."
+      ],
+      "counter": "Disinnescare o isolare le cariche, liberare gli ostaggi e sequestrare le scorte. Nessun esplosivo colpisce se l’attivazione viene davvero impedita.",
+      "after": "Il sabotaggio richiede l’ingresso nella sala pompe; una guardia avvisata può negare accesso o chiedere rinforzi.",
+      "betrayal": "Eline rifiuta di restare nel raggio della propria carica: la sua paura crea una finestra di intervento, non una resa automatica.",
+      "limit": "Crucible non genera materia senza supporto né usa Ruin; scorte esaurite e condotti interrotti limitano il fuoco.",
+      "editorial_367": {
+        "id": "FAC-21",
+        "name": "The Ninth Cinder",
+        "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+        "members": [
+          {
+            "id": "CAST-486",
+            "knowledge": "Conosce le due consegne e i relativi costi. Helia conosce la propria partecipazione e la frode d’uso, non automaticamente tutta la contabilità di Hadrik."
+          },
+          {
+            "id": "CAST-487",
+            "knowledge": "Conosce flussi e ordini del proprio intervento. Il finanziamento fra compratori non è una sua conoscenza necessaria."
+          }
+        ],
+        "operation": "Sabotare una pompa di sicurezza, attirare una squadra di soccorso e prendere ostaggi per imporre l’acquisto delle armi.",
+        "resources_and_limits": "Crucible non genera materia senza supporto né usa Ruin; scorte esaurite e condotti interrotti limitano il fuoco.",
+        "evidence": [
+          "Contenitori con la stessa conversione ma indicazioni di uso civile false.",
+          "Il turno evacuato è stato cambiato prima del guasto."
+        ],
+        "interruption": "Disinnescare o isolare le cariche, liberare gli ostaggi e sequestrare le scorte. Nessun esplosivo colpisce se l’attivazione viene davvero impedita.",
+        "continuation": "Il sabotaggio richiede l’ingresso nella sala pompe; una guardia avvisata può negare accesso o chiedere rinforzi.",
+        "dissent": "Eline rifiuta di restare nel raggio della propria carica: la sua paura crea una finestra di intervento, non una resa automatica."
+      }
+    },
+    {
+      "id": "FAC-22",
+      "name": "The Pale Ledger",
+      "location": "Noran",
+      "goal": "Trasformare le testimonianze dei morti custoditi in una merce coercitiva e distruggere quelle che non accettano il patto.",
+      "current": "Tre contenitori ospitano continuità distinguibili; i custodi stanno negoziando un trasferimento notturno.",
+      "conflict": "Rubare una custodia, ricattare il destinatario e applicare una maledizione attraverso un legame realmente ottenuto.",
+      "secret": "Una delle tre presenze rifiuta qualsiasi ritorno corporeo e vuole soltanto essere ascoltata: il rifiuto è autentico.",
+      "limits": "Sepulchre V non richiama ogni morto; Crescent III non maledice chiunque soltanto conoscendone il nome.",
+      "leader": "CAST-488",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-08",
+      "disposition": "HOSTILE",
+      "sponsor": "avversari della custodia indipendente di Althene; non suoi esecutori segreti",
+      "officers": [
+        "CAST-488",
+        "CAST-489"
+      ],
+      "local_contacts": [
+        "CAST-421",
+        "CAST-423",
+        "CAST-425"
+      ],
+      "members": [
+        "CAST-488",
+        "CAST-489",
+        "CAST-421",
+        "CAST-423",
+        "CAST-425"
+      ],
+      "arcs": [
+        "ARC-09",
+        "ARC-14",
+        "ARC-16",
+        "ARC-19",
+        "ARC-20",
+        "ARC-23",
+        "ARC-24",
+        "ARC-38"
+      ],
+      "operation": "Rubare una custodia, ricattare il destinatario e applicare una maledizione attraverso un legame realmente ottenuto.",
+      "target": "Custodi indipendenti, famiglie e testimoni morti; l’ostilità verso Althene riguarda la sua opposizione a questo commercio.",
+      "clues": [
+        "Un contenitore registrato come vuoto consuma ancora manutenzione.",
+        "Una richiesta di riscatto cita una frase nota soltanto a un testimone custodito."
+      ],
+      "counter": "Separare custodia e ricatto, spezzare il legame della maledizione, restituire facoltà di scelta alle presenze e proteggere i supporti.",
+      "after": "Il trasporto richiede un veicolo schermato e manutenzione; un ritardo impone ai rapitori di investire risorse ulteriori.",
+      "betrayal": "Meraine vuole salvare una specifica presenza e può sottrarre il contenitore agli stessi clienti.",
+      "limit": "Sepulchre V non richiama ogni morto; Crescent III non maledice chiunque soltanto conoscendone il nome.",
+      "editorial_367": {
+        "id": "FAC-22",
+        "name": "The Pale Ledger",
+        "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+        "members": [
+          {
+            "id": "CAST-488",
+            "knowledge": "Sa dei patti che ha stipulato e delle custodie raggiunte. La presenza che rifiuta ritorno conserva un desiderio proprio e non è una sua rappresentazione."
+          },
+          {
+            "id": "CAST-489",
+            "knowledge": "Conosce i legami su cui ha lavorato. Non conosce tutte le persone custodite da Ossiel o l’intera geografia delle continuità morte."
+          }
+        ],
+        "operation": "Rubare una custodia, ricattare il destinatario e applicare una maledizione attraverso un legame realmente ottenuto.",
+        "resources_and_limits": "Sepulchre V non richiama ogni morto; Crescent III non maledice chiunque soltanto conoscendone il nome.",
+        "evidence": [
+          "Un contenitore registrato come vuoto consuma ancora manutenzione.",
+          "Una richiesta di riscatto cita una frase nota soltanto a un testimone custodito."
+        ],
+        "interruption": "Separare custodia e ricatto, spezzare il legame della maledizione, restituire facoltà di scelta alle presenze e proteggere i supporti.",
+        "continuation": "Il trasporto richiede un veicolo schermato e manutenzione; un ritardo impone ai rapitori di investire risorse ulteriori.",
+        "dissent": "Meraine vuole salvare una specifica presenza e può sottrarre il contenitore agli stessi clienti."
+      }
+    },
+    {
+      "id": "FAC-23",
+      "name": "The Severed Compass",
+      "location": "Serevan",
+      "goal": "Monopolizzare tre itinerari interregionali e vendere passaggi sicuri dopo aver reso pericolosi gli accessi concorrenti.",
+      "current": "Kaeris mantiene un avamposto remoto con una sola via di rifornimento e una squadra sul pianeta.",
+      "conflict": "Spostare un riferimento di un corridoio raggiunto, intercettare una spedizione e sequestrare il suo cartografo.",
+      "secret": "L’avamposto non è autosufficiente: i sei addetti remoti dispongono di una riserva dichiarata e necessitano della rotta di servizio.",
+      "limits": "Astrolabe VI non raggiunge ogni luogo senza corrispondenza; Hourglass IV non annulla retroattivamente una sconfitta compiuta.",
+      "leader": "CAST-490",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-09",
+      "disposition": "HOSTILE",
+      "sponsor": "rivalità concreta con la custodia di Helyr; nessuna Root posseduta",
+      "officers": [
+        "CAST-490",
+        "CAST-491"
+      ],
+      "local_contacts": [
+        "CAST-386",
+        "CAST-388",
+        "CAST-390"
+      ],
+      "members": [
+        "CAST-490",
+        "CAST-491",
+        "CAST-386",
+        "CAST-388",
+        "CAST-390"
+      ],
+      "arcs": [
+        "ARC-15",
+        "ARC-26",
+        "ARC-27",
+        "ARC-28",
+        "ARC-29",
+        "ARC-31",
+        "ARC-33",
+        "ARC-37",
+        "ARC-40"
+      ],
+      "operation": "Spostare un riferimento di un corridoio raggiunto, intercettare una spedizione e sequestrare il suo cartografo.",
+      "target": "Custodi di itinerari e viaggiatori; Helyr è un rivale di accessi, non un’integrazione completa già operativa.",
+      "clues": [
+        "Il percorso conserva un riferimento vecchio incompatibile con quello sostituito.",
+        "I rifornimenti contengono dotazioni per sei persone, non per una flotta."
+      ],
+      "counter": "Verificare i riferimenti, proteggere il cartografo, isolare il solo corridoio ostile o raggiungere l’avamposto con accessi propri.",
+      "after": "Le spedizioni vengono intercettate soltanto se entrano nella rotta studiata; l’avamposto perde riserve durante ogni interruzione del servizio.",
+      "betrayal": "Thel giudica Kaeris un custode temporaneo e vuole negoziare un accesso proprio; nessuna lealtà metafisica lo obbliga.",
+      "limit": "Astrolabe VI non raggiunge ogni luogo senza corrispondenza; Hourglass IV non annulla retroattivamente una sconfitta compiuta.",
+      "editorial_367": {
+        "id": "FAC-23",
+        "name": "The Severed Compass",
+        "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+        "members": [
+          {
+            "id": "CAST-490",
+            "knowledge": "Conosce l’avamposto e la dipendenza dei sei addetti. Nessuna Root personale o mappa universale è assegnata dal grado."
+          },
+          {
+            "id": "CAST-491",
+            "knowledge": "Conosce i tempi dei processi su cui lavora e gli ordini ricevuti. Non vede ogni futuro e non controlla il Crossing per vicinanza al fronte."
+          }
+        ],
+        "operation": "Spostare un riferimento di un corridoio raggiunto, intercettare una spedizione e sequestrare il suo cartografo.",
+        "resources_and_limits": "Astrolabe VI non raggiunge ogni luogo senza corrispondenza; Hourglass IV non annulla retroattivamente una sconfitta compiuta.",
+        "evidence": [
+          "Il percorso conserva un riferimento vecchio incompatibile con quello sostituito.",
+          "I rifornimenti contengono dotazioni per sei persone, non per una flotta."
+        ],
+        "interruption": "Verificare i riferimenti, proteggere il cartografo, isolare il solo corridoio ostile o raggiungere l’avamposto con accessi propri.",
+        "continuation": "Le spedizioni vengono intercettate soltanto se entrano nella rotta studiata; l’avamposto perde riserve durante ogni interruzione del servizio.",
+        "dissent": "Thel giudica Kaeris un custode temporaneo e vuole negoziare un accesso proprio; nessuna lealtà metafisica lo obbliga."
+      }
+    },
+    {
+      "id": "FAC-24",
+      "name": "The Last Vessel",
+      "location": "Ashen Quay",
+      "goal": "Produrre ricettacoli viventi vendibili, trattando continuità e corpi come parti separabili senza consenso.",
+      "current": "Una nave-laboratorio trattiene sei adulti e trasporta tessuti investiti in supporti distinti. Non è una Root né una specie intera.",
+      "conflict": "Rapire un Bearer utile, separare una funzione raggiunta e inviare il lotto a un compratore prima che arrivi l’ispezione.",
+      "secret": "Il compratore accetta solo funzioni stabili; Vareth nasconde che due dei propri contenitori stanno fallendo e non possiede un metodo universale.",
+      "limits": "Maw VI non concede tutte le Effigi delle vittime come incorporazioni personali; nessuna nuova Seat o famiglia compatibile viene creata. Il lotto commerciato consiste in tessuti e supporti realmente separati e conservati, con le funzioni che possiedono effettivamente; non è una Inscription venduta intera. Non si anticipa Assimilation Release VII per esternalizzare liberamente un tratto assimilato a VI. Le promesse del compratore vanno distinte dalla capacità reale del campione.",
+      "leader": "CAST-492",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-10",
+      "disposition": "HOSTILE",
+      "sponsor": "contratto limitato con Soran Il: destinatari e consegne, non accesso universale alla sua potenza",
+      "officers": [
+        "CAST-492",
+        "CAST-493"
+      ],
+      "local_contacts": [
+        "CAST-416",
+        "CAST-418",
+        "CAST-420"
+      ],
+      "members": [
+        "CAST-492",
+        "CAST-493",
+        "CAST-416",
+        "CAST-418",
+        "CAST-420"
+      ],
+      "arcs": [
+        "ARC-07",
+        "ARC-12",
+        "ARC-14",
+        "ARC-21",
+        "ARC-23",
+        "ARC-24",
+        "ARC-27",
+        "ARC-31",
+        "ARC-32",
+        "ARC-34",
+        "ARC-37",
+        "ARC-40"
+      ],
+      "operation": "Rapire un Bearer utile, separare una funzione raggiunta e inviare il lotto a un compratore prima che arrivi l’ispezione.",
+      "target": "Portatori vulnerabili, persone create e comunità con sostegni rari; non può individuare The Origin dentro Alexander senza accesso e prove.",
+      "clues": [
+        "La nave dichiara un equipaggio inferiore al consumo di cibo.",
+        "Una fuga restituisce una persona viva con una funzione mancante identificabile."
+      ],
+      "counter": "Abbattere le difese pertinenti, liberare i detenuti e separare le funzioni senza distruggere i supporti vitali. Cure reali possono eliminare la dipendenza.",
+      "after": "Il lotto parte solo con un vettore compatibile: ritardi espongono il fallimento e spaccano il gruppo, non generano nuove vittime automaticamente.",
+      "betrayal": "Ilena vuole preservare i sei detenuti e può sabotare una consegna letale, ma ha già cooperato alle lesioni e non viene assolta da un ripensamento.",
+      "limit": "Maw VI non concede tutte le Effigi delle vittime come incorporazioni personali; nessuna nuova Seat o famiglia compatibile viene creata. Il lotto commerciato consiste in tessuti e supporti realmente separati e conservati, con le funzioni che possiedono effettivamente; non è una Inscription venduta intera. Non si anticipa Assimilation Release VII per esternalizzare liberamente un tratto assimilato a VI. Le promesse del compratore vanno distinte dalla capacità reale del campione.",
+      "editorial_367": {
+        "id": "FAC-24",
+        "name": "The Last Vessel",
+        "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+        "members": [
+          {
+            "id": "CAST-492",
+            "knowledge": "Conosce i due fallimenti e ciò che ha effettivamente estratto. Non possiede un metodo universale o una Root personale."
+          },
+          {
+            "id": "CAST-493",
+            "knowledge": "Conosce le dipendenze che ha trattato e i danni osservati. Non ogni segreto commerciale di Vareth le è automaticamente noto."
+          }
+        ],
+        "operation": "Rapire un Bearer utile, separare una funzione raggiunta e inviare il lotto a un compratore prima che arrivi l’ispezione.",
+        "resources_and_limits": "Maw VI non concede tutte le Effigi delle vittime come incorporazioni personali; nessuna nuova Seat o famiglia compatibile viene creata. Il lotto commerciato consiste in tessuti e supporti realmente separati e conservati, con le funzioni che possiedono effettivamente; non è una Inscription venduta intera. Non si anticipa Assimilation Release VII per esternalizzare liberamente un tratto assimilato a VI. Le promesse del compratore vanno distinte dalla capacità reale del campione.",
+        "evidence": [
+          "La nave dichiara un equipaggio inferiore al consumo di cibo.",
+          "Una fuga restituisce una persona viva con una funzione mancante identificabile."
+        ],
+        "interruption": "Abbattere le difese pertinenti, liberare i detenuti e separare le funzioni senza distruggere i supporti vitali. Cure reali possono eliminare la dipendenza.",
+        "continuation": "Il lotto parte solo con un vettore compatibile: ritardi espongono il fallimento e spaccano il gruppo, non generano nuove vittime automaticamente.",
+        "dissent": "Ilena vuole preservare i sei detenuti e può sabotare una consegna letale, ma ha già cooperato alle lesioni e non viene assolta da un ripensamento."
+      }
+    },
+    {
+      "id": "FAC-25",
+      "name": "The Blue Lantern",
+      "location": "Rovenne",
+      "goal": "Mantenere una via di fuga e cure indipendenti per le vittime di sequestri soprannaturali.",
+      "current": "Un rifugio dispone di due stanze, tre letti e una rete di vettori ordinari. Nessun occupante conosce il ritorno di Edran.",
+      "conflict": "Verificare una segnalazione di sequestro, preparare trasporto e intervenire contro la squadra identificata.",
+      "secret": "Mireya ha rifiutato un finanziamento che avrebbe imposto la consegna dei nomi degli ospiti.",
+      "limits": "Halo IV non garantisce immunità agli ospiti; Chain II gestisce i propri vincoli, prese e tensioni con le capacità I–II: non possiede Bond Articulation V né scioglimento universale dei vincoli estranei. Una liberazione richiede contesa pertinente, rimozione del supporto o altro mezzo davvero disponibile.",
+      "leader": "CAST-494",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-11",
+      "disposition": "ALLY_INDEPENDENT",
+      "sponsor": "rete di soccorso indipendente; nessun sapere sul ritorno o culto automatico di Edran",
+      "officers": [
+        "CAST-494",
+        "CAST-495"
+      ],
+      "local_contacts": [
+        "CAST-208",
+        "CAST-211",
+        "CAST-220"
+      ],
+      "members": [
+        "CAST-494",
+        "CAST-495",
+        "CAST-208",
+        "CAST-211",
+        "CAST-220"
+      ],
+      "arcs": [
+        "ARC-01",
+        "ARC-04",
+        "ARC-06",
+        "ARC-07",
+        "ARC-10",
+        "ARC-17",
+        "ARC-23",
+        "ARC-25",
+        "ARC-35",
+        "ARC-36"
+      ],
+      "operation": "Verificare una segnalazione di sequestro, preparare trasporto e intervenire contro la squadra identificata.",
+      "target": "Rapitori e vincoli coercitivi verificati; la rete non presume colpevolezza per specie, culto o Effige.",
+      "clues": [
+        "Richiesta di medicinali compatibili con tre letti, non con una clinica illimitata.",
+        "Due vettori conoscono percorsi distinti e nessuno l’intera rete."
+      ],
+      "counter": "La rete può essere aiutata con trasporti, protezione, guarigione o informazioni; non pretende adesione religiosa o obbedienza.",
+      "after": "Senza aiuto accoglie soltanto le persone che può sostenere e cerca altri rifugi; non trascura deliberatamente un soccorso possibile.",
+      "betrayal": "Un finanziatore può minacciare di ritirare mezzi; nessun traditore obbligatorio viene estratto dal personale domestico di Alexander.",
+      "limit": "Halo IV non garantisce immunità agli ospiti; Chain II gestisce i propri vincoli, prese e tensioni con le capacità I–II: non possiede Bond Articulation V né scioglimento universale dei vincoli estranei. Una liberazione richiede contesa pertinente, rimozione del supporto o altro mezzo davvero disponibile.",
+      "editorial_367": {
+        "id": "FAC-25",
+        "name": "The Blue Lantern",
+        "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+        "members": [
+          {
+            "id": "CAST-494",
+            "knowledge": "Conosce i propri canali e il finanziamento rifiutato; non gli interi segreti dei protetti. Halo non garantisce diagnosi totale di ogni coercizione."
+          },
+          {
+            "id": "CAST-495",
+            "knowledge": "Conosce i legami raggiunti e i recapiti del proprio incarico, non l’intero archivio della Blue Lantern."
+          }
+        ],
+        "operation": "Verificare una segnalazione di sequestro, preparare trasporto e intervenire contro la squadra identificata.",
+        "resources_and_limits": "Halo IV non garantisce immunità agli ospiti; Chain II gestisce i propri vincoli, prese e tensioni con le capacità I–II: non possiede Bond Articulation V né scioglimento universale dei vincoli estranei. Una liberazione richiede contesa pertinente, rimozione del supporto o altro mezzo davvero disponibile.",
+        "evidence": [
+          "Richiesta di medicinali compatibili con tre letti, non con una clinica illimitata.",
+          "Due vettori conoscono percorsi distinti e nessuno l’intera rete."
+        ],
+        "interruption": "La rete può essere aiutata con trasporti, protezione, guarigione o informazioni; non pretende adesione religiosa o obbedienza.",
+        "continuation": "Senza aiuto accoglie soltanto le persone che può sostenere e cerca altri rifugi; non trascura deliberatamente un soccorso possibile.",
+        "dissent": "Un finanziatore può minacciare di ritirare mezzi; nessun traditore obbligatorio viene estratto dal personale domestico di Alexander."
+      }
+    },
+    {
+      "id": "FAC-26",
+      "name": "The Broken Seal",
+      "location": "Teren",
+      "goal": "Difendere testimoni e prove contro appropriazione, intimidazione e falsificazione investita.",
+      "current": "Due ricercatori hanno concordato un metodo di confronto e una guardia di turno; le copie sono in tre sedi separate.",
+      "conflict": "Scortare un testimone e dimostrare davanti a terzi quale intervento investito ha alterato un risultato.",
+      "secret": "Seran conserva una propria precedente conclusione sbagliata, corretta pubblicamente: il gruppo ammette revisioni sostenute da prove.",
+      "limits": "Oracle IV e Archive II non leggono la totalità del passato né rivelano identità mai documentate.",
+      "leader": "CAST-496",
+      "source": "RISERVATO_326_Fronti_operativi_e_opposizioni.md",
+      "front_id": "FRONT-12",
+      "disposition": "ALLY_INDEPENDENT",
+      "sponsor": "colleghi dissidenti del Witness; non immuni da errori o fedeli al protagonista",
+      "officers": [
+        "CAST-496",
+        "CAST-497"
+      ],
+      "local_contacts": [
+        "CAST-261",
+        "CAST-262",
+        "CAST-265"
+      ],
+      "members": [
+        "CAST-496",
+        "CAST-497",
+        "CAST-261",
+        "CAST-262",
+        "CAST-265"
+      ],
+      "arcs": [
+        "ARC-02",
+        "ARC-03",
+        "ARC-08",
+        "ARC-11",
+        "ARC-16",
+        "ARC-18",
+        "ARC-19",
+        "ARC-20",
+        "ARC-29",
+        "ARC-30",
+        "ARC-38",
+        "ARC-39"
+      ],
+      "operation": "Scortare un testimone e dimostrare davanti a terzi quale intervento investito ha alterato un risultato.",
+      "target": "Falsificatori e sequestratori identificati; non ogni membro delle Witness Houses è un nemico.",
+      "clues": [
+        "Tre copie con una differenza controllabile.",
+        "Il destinatario conosce il percorso del documento ma non il mandante dell’alterazione."
+      ],
+      "counter": "Collaborazione possibile senza giuramento: proteggere una sede, produrre un confronto ripetibile o raggiungere il responsabile.",
+      "after": "Il gruppo pubblica solo ciò che può sostenere e mette in salvo i testimoni raggiungibili, senza inventare confessioni.",
+      "betrayal": "Alise non consegna una fonte anonima a un alleato solo perché potente: questo dissenso non equivale a tradimento.",
+      "limit": "Oracle IV e Archive II non leggono la totalità del passato né rivelano identità mai documentate.",
+      "editorial_367": {
+        "id": "FAC-26",
+        "name": "The Broken Seal",
+        "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+        "members": [
+          {
+            "id": "CAST-496",
+            "knowledge": "Conosce il proprio errore, il confronto concordato e la separazione delle copie. Oracle IV non apre ogni passato o memoria privata."
+          },
+          {
+            "id": "CAST-497",
+            "knowledge": "Conosce il proprio lavoro e ciò che Seran le ha effettivamente condiviso. Non legge il desiderio di una fonte attraverso il documento e non cede un nome a un potente per riverenza."
+          }
+        ],
+        "operation": "Scortare un testimone e dimostrare davanti a terzi quale intervento investito ha alterato un risultato.",
+        "resources_and_limits": "Oracle IV e Archive II non leggono la totalità del passato né rivelano identità mai documentate.",
+        "evidence": [
+          "Tre copie con una differenza controllabile.",
+          "Il destinatario conosce il percorso del documento ma non il mandante dell’alterazione."
+        ],
+        "interruption": "Collaborazione possibile senza giuramento: proteggere una sede, produrre un confronto ripetibile o raggiungere il responsabile.",
+        "continuation": "Il gruppo pubblica solo ciò che può sostenere e mette in salvo i testimoni raggiungibili, senza inventare confessioni.",
+        "dissent": "Alise non consegna una fonte anonima a un alleato solo perché potente: questo dissenso non equivale a tradimento."
+      }
+    }
+  ],
+  "religious_links": [
+    {
+      "religion_id": "REL-01",
+      "real_reference": "Pluralità di patrocini, nessun titolare unico",
+      "effigies": "Nessuna",
+      "limits": "I capitoli conservano attribuzioni composite; ministri moderni in larga parte sinceri. Non conoscono automaticamente Edran o la caduta.",
+      "referenced_effigies": [],
+      "technical_limits_source": "CANONE_VIGENTE/Progressioni_effigi.json",
+      "cosmic_integration_worship_required": false,
+      "clerical_office_grants_inscription": false
+    },
+    {
+      "religion_id": "REL-02",
+      "real_reference": "Sairen Velis",
+      "effigies": "Halo",
+      "limits": "Canali verificabili di alcuni santuari rimandano a Sairen. Carità e servizi non sono una macchina universale che alimenta la Seat.",
+      "referenced_effigies": [
+        "Halo"
+      ],
+      "technical_limits_source": "CANONE_VIGENTE/Progressioni_effigi.json",
+      "cosmic_integration_worship_required": false,
+      "clerical_office_grants_inscription": false
+    },
+    {
+      "religion_id": "REL-03",
+      "real_reference": "Oriel Namar",
+      "effigies": "Heart",
+      "limits": "Patrocini moderni e tecniche di cura non fanno di Oriel il primo autore delle opere del Creator.",
+      "referenced_effigies": [
+        "Heart"
+      ],
+      "technical_limits_source": "CANONE_VIGENTE/Progressioni_effigi.json",
+      "cosmic_integration_worship_required": false,
+      "clerical_office_grants_inscription": false
+    },
+    {
+      "religion_id": "REL-04",
+      "real_reference": "Althene Rhos",
+      "effigies": "Sepulchre",
+      "limits": "Solo alcune case custodiscono relazioni autentiche. Registrare un morto non consente di reclamarne l’anima.",
+      "referenced_effigies": [
+        "Sepulchre"
+      ],
+      "technical_limits_source": "CANONE_VIGENTE/Progressioni_effigi.json",
+      "cosmic_integration_worship_required": false,
+      "clerical_office_grants_inscription": false
+    },
+    {
+      "religion_id": "REL-05",
+      "real_reference": "Helyr Ossen",
+      "effigies": "Hourglass / Astrolabe / Loom",
+      "limits": "Il culto non conosce interamente il Continuum; i tre aspetti rituali non conferiscono tre Effigi ai fedeli.",
+      "referenced_effigies": [
+        "Hourglass",
+        "Astrolabe",
+        "Loom"
+      ],
+      "technical_limits_source": "CANONE_VIGENTE/Progressioni_effigi.json",
+      "cosmic_integration_worship_required": false,
+      "clerical_office_grants_inscription": false
+    },
+    {
+      "religion_id": "REL-06",
+      "real_reference": "Talren Soth",
+      "effigies": "Oracle / Archive",
+      "limits": "Patrocini reali nei collegi maggiori; il suo errore storico resta quello di 97–98, non una falsificazione cosmica di ogni libro.",
+      "referenced_effigies": [
+        "Oracle",
+        "Archive"
+      ],
+      "technical_limits_source": "CANONE_VIGENTE/Progressioni_effigi.json",
+      "cosmic_integration_worship_required": false,
+      "clerical_office_grants_inscription": false
+    },
+    {
+      "religion_id": "REL-07",
+      "real_reference": "Nessuno come obbligo istituzionale",
+      "effigies": "Nessuna",
+      "limits": "Possono aderire credenti di culti diversi. Neutralità civile non è invulnerabilità a poteri.",
+      "referenced_effigies": [],
+      "technical_limits_source": "CANONE_VIGENTE/Progressioni_effigi.json",
+      "cosmic_integration_worship_required": false,
+      "clerical_office_grants_inscription": false
+    },
+    {
+      "religion_id": "REL-08",
+      "real_reference": "Ilyra Sen e Deyran Ur, relazioni distinte",
+      "effigies": "Crown / Chain",
+      "limits": "Un culto composito non unisce due Seats né completa Dominion. Identità e responsabilità antiche restano riservate.",
+      "referenced_effigies": [
+        "Crown",
+        "Chain"
+      ],
+      "technical_limits_source": "CANONE_VIGENTE/Progressioni_effigi.json",
+      "cosmic_integration_worship_required": false,
+      "clerical_office_grants_inscription": false
+    },
+    {
+      "religion_id": "REL-09",
+      "real_reference": "Ashren Tor; patrocini locali separati di Enra Keth e Othrem Cal",
+      "effigies": "Crucible / Tempest / Seed",
+      "limits": "Nessun Worldforge pieno attuale. Othrem ha responsabilità fissate nella caduta, ignote ai comuni officianti.",
+      "referenced_effigies": [
+        "Crucible",
+        "Seed",
+        "Tempest"
+      ],
+      "technical_limits_source": "CANONE_VIGENTE/Progressioni_effigi.json",
+      "cosmic_integration_worship_required": false,
+      "clerical_office_grants_inscription": false
+    },
+    {
+      "religion_id": "REL-10",
+      "real_reference": "Enra Keth in alcuni santuari; altri capitoli sono associazioni ordinarie",
+      "effigies": "Tempest",
+      "limits": "Il soccorso civile non richiede il consenso divino per salvare un naufrago.",
+      "referenced_effigies": [
+        "Tempest"
+      ],
+      "technical_limits_source": "CANONE_VIGENTE/Progressioni_effigi.json",
+      "cosmic_integration_worship_required": false,
+      "clerical_office_grants_inscription": false
+    },
+    {
+      "religion_id": "REL-11",
+      "real_reference": "Edran storico; nessuna relazione nuova al ritorno",
+      "effigies": "Cradle / Ruin / Scroll / Halo / Heart come passato, non dotazione collettiva",
+      "limits": "Non sanno Refuge né Alexander. Oren Daal è Halo II, non Avatar del Sovereign.",
+      "referenced_effigies": [
+        "Cradle",
+        "Ruin",
+        "Scroll",
+        "Halo",
+        "Heart"
+      ],
+      "technical_limits_source": "CANONE_VIGENTE/Progressioni_effigi.json",
+      "cosmic_integration_worship_required": false,
+      "clerical_office_grants_inscription": false
+    },
+    {
+      "religion_id": "REL-12",
+      "real_reference": "Edran storico e servizi successivi associati a Oriel",
+      "effigies": "Heart e Halo nelle competenze personali già fissate",
+      "limits": "Iven Namar è Heart IV; Lera Soth Halo III. Nessun nuovo diritto su Cradle o Ruin.",
+      "referenced_effigies": [
+        "Halo",
+        "Heart"
+      ],
+      "technical_limits_source": "CANONE_VIGENTE/Progressioni_effigi.json",
+      "cosmic_integration_worship_required": false,
+      "clerical_office_grants_inscription": false
+    },
+    {
+      "religion_id": "REL-13",
+      "real_reference": "Varessa Nhal; culto frammentato, non controllo diretto di ogni ricovero",
+      "effigies": [
+        "Eclipse"
+      ],
+      "limits": "I responsabili civili possono dissentire.",
+      "referenced_effigies": [
+        "Eclipse"
+      ],
+      "technical_limits_source": "CANONE_VIGENTE/Progressioni_effigi.json",
+      "cosmic_integration_worship_required": false,
+      "clerical_office_grants_inscription": false
+    },
+    {
+      "religion_id": "REL-14",
+      "real_reference": "Ilyren Sareth; tradizioni locali distinte",
+      "effigies": [
+        "Crescent"
+      ],
+      "limits": "Nessun consenso automaticamente valido per Enchantment.",
+      "referenced_effigies": [
+        "Crescent"
+      ],
+      "technical_limits_source": "CANONE_VIGENTE/Progressioni_effigi.json",
+      "cosmic_integration_worship_required": false,
+      "clerical_office_grants_inscription": false
+    }
+  ],
+  "existing_units": [
+    {
+      "id": "CULT-01",
+      "name": "Shore Companies",
+      "deadline": "812-06-12",
+      "source": "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md"
+    },
+    {
+      "id": "CULT-02",
+      "name": "Keepers of Namar",
+      "deadline": "812-05-24",
+      "source": "RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md"
+    },
+    {
+      "id": "IND-01",
+      "name": "Verifica dei metodi",
+      "deadline": "812-06-08",
+      "source": "RISERVATO_100_Storia_industriale_stati_e_conflitti_aperti.md"
+    },
+    {
+      "id": "IND-02",
+      "name": "Contratti di rame",
+      "deadline": "812-07-02",
+      "source": "RISERVATO_100_Storia_industriale_stati_e_conflitti_aperti.md"
+    },
+    {
+      "id": "IND-03",
+      "name": "Concessioni di approdo",
+      "deadline": "812-06-12",
+      "source": "RISERVATO_100_Storia_industriale_stati_e_conflitti_aperti.md"
+    },
+    {
+      "id": "GEO-U01",
+      "name": "Ispezione Sarn",
+      "deadline": "812-05-27",
+      "source": "RISERVATO_118_Unita_geografiche_pronte_al_Narratore.md"
+    },
+    {
+      "id": "GEO-U02",
+      "name": "Dragaggio Auvrel",
+      "deadline": "812-06-03",
+      "source": "RISERVATO_118_Unita_geografiche_pronte_al_Narratore.md"
+    },
+    {
+      "id": "GEO-U03",
+      "name": "Cantiere Grey Embankment",
+      "deadline": "812-05-29",
+      "source": "RISERVATO_118_Unita_geografiche_pronte_al_Narratore.md"
+    },
+    {
+      "id": "GEO-U04",
+      "name": "Revisione South Shoals",
+      "deadline": "812-06-06",
+      "source": "RISERVATO_118_Unita_geografiche_pronte_al_Narratore.md"
+    }
+  ],
+  "estate_current": {
+    "ledger": [
+      {
+        "date": "812-05-04",
+        "description": "Saldo iniziale del registro ricordato",
+        "amount": 73000
+      },
+      {
+        "date": "812-05-07",
+        "description": "Incasso vendita di farine",
+        "amount": 8500
+      },
+      {
+        "date": "812-05-09",
+        "description": "Forniture già comprese negli impegni del 4 maggio",
+        "amount": -4200
+      },
+      {
+        "date": "812-05-11",
+        "description": "Noli dei due magazzini",
+        "amount": 2400
+      },
+      {
+        "date": "812-05-13",
+        "description": "Forniture già comprese negli impegni del 4 maggio",
+        "amount": -3500
+      },
+      {
+        "date": "812-05-16",
+        "description": "Incasso affitti e piccoli canoni",
+        "amount": 1900
+      },
+      {
+        "date": "812-05-17",
+        "description": "Assistenza clinica straordinaria autorizzata",
+        "amount": -600
+      }
+    ],
+    "cash": 77500,
+    "obligations": [
+      {
+        "date": "812-05-26",
+        "description": "Salari maturati di residenza, mulini e agenti",
+        "amount": 9800
+      },
+      {
+        "date": "812-06-02",
+        "description": "Carbone, ricambi e trasporti già ordinati",
+        "amount": 4500
+      },
+      {
+        "date": "812-06-15",
+        "description": "Canoni e saldo manutenzioni già approvate",
+        "amount": 3000
+      }
+    ],
+    "committed": 17300,
+    "uncommitted": 60200,
+    "debt": 1100000,
+    "income": 620000,
+    "operating_expenses": 430000,
+    "annual_interest": 64000,
+    "annual_principal_repayment": 21000,
+    "annual_debt_service": 85000,
+    "annual_residual": 105000,
+    "residents": 38,
+    "external_agents": 6,
+    "temporary_medical_staff": 2
+  },
+  "future_choices": "OPEN",
+  "documents": [
+    "RISERVATO_131_Religioni_patrocini_e_verita.md",
+    "RISERVATO_132_Diritto_operativo_e_rapporti_internazionali.md",
+    "RISERVATO_133_Valcienne_conti_e_personale_al_risveglio.md",
+    "RISERVATO_134_Mercati_banche_e_crisi_locali.md",
+    "RISERVATO_135_Fazioni_civili_industriali_e_sociali.md",
+    "RISERVATO_136_Fazioni_di_cura_credito_e_servizio.md",
+    "RISERVATO_137_Relazioni_e_agenda_delle_istituzioni.md",
+    "RISERVATO_138_Societa_in_azione_e_procedure_di_uso.md",
+    "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md"
+  ],
+  "integration_revision": "RACCORDI-317",
+  "world_integration_source": "RISERVATO_178_Integrazione_notturna_milestone_5_10.md",
+  "population_revision": "POP-298",
+  "population_adaptations": {
+    "Ilyr": "Stanze di rinnovo, riposo temporaneo, acqua e alimentazione; contratti contestati da mutue e famiglie.",
+    "Kethari": "Abiti a quattro maniche, sedute con due cinture scapolari e strumenti adattati; standard industriali a due mani producono costi e controversie.",
+    "no_new_religion": "Culto e Effige individuali; nessuna chiesa obbligatoria di specie."
+  },
+  "bestiary_revision": "BIO-301",
+  "bestiary_practices": [
+    {
+      "id": "BST-001",
+      "contact_id": "CAST-119",
+      "role": "agente forestale",
+      "practice": "Foreste e pascoli: pattuglie in coppia, segnalare carcasse, nessun transito notturno obbligatorio.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-002",
+      "contact_id": "CAST-182",
+      "role": "Responsabile: Ufficio delle acque agricole",
+      "practice": "Agricoltori lasciano corridoi fra lotti; le corna cadute non garantiscono cariche integre.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-003",
+      "contact_id": "CAST-166",
+      "role": "Responsabile: Consiglio dei pozzi",
+      "practice": "Pozzi e miniere: ascolto prima dello scavo, pilastri ridondanti, trasloco delle camere possibile solo con rilievo.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-004",
+      "contact_id": "CAST-391",
+      "role": "esaminatrice tecnica",
+      "practice": "Pescatori e coltivatori mantengono fasce di pietra pulita; le colonie sane contengono insetti.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-005",
+      "contact_id": "CAST-176",
+      "role": "Responsabile: Ufficio delle merci vive",
+      "practice": "Pescatori praticano dispersione degli scarti lontano dall’approdo; gli esperti distinguono risacca e caccia.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-006",
+      "contact_id": "CAST-138",
+      "role": "Responsabile: Dragaggio municipale",
+      "practice": "Dragaggio e sommozzatori usano raschiatori lunghi e schermi opachi, senza caccia indiscriminata.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-007",
+      "contact_id": "CAST-177",
+      "role": "Responsabile: Rete delle sale funerarie",
+      "practice": "Riti di recupero identificano la continuità prima di bruciare resti; sala funeraria non certifica automaticamente ogni fenomeno.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-008",
+      "contact_id": "CAST-168",
+      "role": "Responsabile: Clinica dei restauri",
+      "practice": "Cura delle ustioni e reti opache; le placche incrinate sono un indizio, non uno scudo invincibile commerciabile.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-009",
+      "contact_id": "CAST-181",
+      "role": "Responsabile: Consiglio delle piste",
+      "practice": "Guide marcano i tratti esposti e usano ripari solidi; proteggere l’udito non annulla la pressione sul corpo.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-010",
+      "contact_id": "CAST-180",
+      "role": "Responsabile: Scuola delle leghe fredde",
+      "practice": "Le scuole delle leghe studiano i filamenti con campioni isolati; raccolta senza inserire mani nei bozzoli.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-011",
+      "contact_id": "CAST-147",
+      "role": "Responsabile: Mutua dei manutentori",
+      "practice": "Manutentori schermano le scorte e prevedono parapetti; non un animale utilizzabile da chiunque come veicolo magico.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-012",
+      "contact_id": "CAST-169",
+      "role": "Responsabile: Assemblea dei campi mobili",
+      "practice": "Comunità locali praticano pascolo distante dai nidi; uova e reagenti attirano commercio clandestino.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-013",
+      "contact_id": "CAST-142",
+      "role": "Responsabile: Squadra di drenaggio",
+      "practice": "Il drenaggio segnala il calo; interviene un operatore qualificato, non un tecnico ordinario improvvisamente dotato di Chain.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-014",
+      "contact_id": "CAST-027",
+      "role": "Ricercatore del Collegium",
+      "practice": "Il Collegium annota tempi di passaggio e riserva; nessuna nuova competenza personale acquisita dal ricercatore.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-015",
+      "contact_id": "CAST-421",
+      "role": "assistente funeraria",
+      "practice": "L’assistente funeraria riconosce la necessità di diagnosi; il contrasto verte su bonifica e conservazione, non colpa dei defunti.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-016",
+      "contact_id": "CAST-053",
+      "role": "Delegato Passages",
+      "practice": "Il delegato competente può sospendere il nodo e richiedere bonifica; il prestito dello strumento non promuove i viaggiatori.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-017",
+      "contact_id": "CAST-027",
+      "role": "Ricercatore del Collegium",
+      "practice": "Il Collegium richiede una seconda via verificata prima di riaprire; chi commissiona il servizio non controlla automaticamente Labyrinth.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-018",
+      "contact_id": "CAST-144",
+      "role": "Responsabile: Rete delle case d'asilo",
+      "practice": "L’asilo conserva il diritto di uscire dal servizio e chiede assistenza competente; nessuna paziente designata dal destino.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-019",
+      "contact_id": "CAST-184",
+      "role": "Responsabile: Rete delle scuole di porto",
+      "practice": "La rete scolastica chiede una pianta verificata e un accesso esterno; la responsabile Crescent non riceve per questo Labyrinth.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-020",
+      "contact_id": "CAST-035",
+      "role": "Perito d'identità, falsario selettivo e membro possibile del gruppo",
+      "practice": "Un perito può autenticare le rappresentazioni senza conoscere il committente segreto; rimozione del supporto e negoziazione del deposito sono alternative.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-021",
+      "contact_id": "CAST-165",
+      "role": "Responsabile: Cooperativa dei ponti",
+      "practice": "La cooperativa dei ponti gestisce l’acqua del cantiere e chiede un medico; non diventa una clinica magica.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-022",
+      "contact_id": "CAST-029",
+      "role": "Responsabile dei bacini e curatore",
+      "practice": "Il curatore può diagnosticare il bersaglio errato della restaurazione; ritiro mirato invece di chiusura indiscriminata di ogni cura.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-023",
+      "contact_id": "CAST-173",
+      "role": "Responsabile: Camera delle ceramiche",
+      "practice": "La Camera delle ceramiche sospende quel condotto, non tutti i forni; tecnici ordinari possono isolare cisti con barriere materiali.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-024",
+      "contact_id": "CAST-184",
+      "role": "Responsabile: Rete delle scuole di porto",
+      "practice": "La scuola conserva una superficie di confronto non collegata e segnala le ferite senza inventare colpevoli.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-025",
+      "contact_id": "CAST-161",
+      "role": "Responsabile: Archivio dei congedi",
+      "practice": "L’archivio dei congedi conserva un atto sui vecchi confini e può fornire una pista, senza controllare il custode.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-026",
+      "contact_id": "CAST-241",
+      "role": "tecnico delle pompe",
+      "practice": "Il tecnico può togliere alimentazione materiale, ma la ricarica investita richiede Crucible qualificato.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-027",
+      "contact_id": "CAST-145",
+      "role": "Responsabile: Witness House dei prestiti",
+      "practice": "La casa può isolare lente e interruttore con barriere, poi rivolgersi a un rievocatore; non ogni archivista è un Bearer.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-028",
+      "contact_id": "CAST-030",
+      "role": "Custode delle provenienze della Sponda",
+      "practice": "Le Shore Companies possono offrire interpreti e testimonianza; il custode parla per sé, non come bene del compratore.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-029",
+      "contact_id": "CAST-182",
+      "role": "Responsabile: Ufficio delle acque agricole",
+      "practice": "Ufficio agricolo e abitanti negoziano pascoli e piste; non nasce automaticamente una chiesa del colosso.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-030",
+      "contact_id": "CAST-183",
+      "role": "Responsabile: Officina dei trattamenti organici",
+      "practice": "Le officine possono segnalare un canale contaminato, ma occorre uno specialista spirituale; assistenza su invito, non giurisdizione religiosa universale.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-031",
+      "contact_id": "CAST-172",
+      "role": "Responsabile: Rete dei battelli medici",
+      "practice": "Battelli medici trasportano campioni e feriti; autorità agricola e clinica hanno responsabilità diverse. Nessuna fertilità umana universale controllata a distanza.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    },
+    {
+      "id": "BST-032",
+      "contact_id": "CAST-185",
+      "role": "Responsabile: Commissione dei ritorni",
+      "practice": "La Commissione dei ritorni può raccogliere rapporti di spedizione, senza conoscere per questo il passato del corpo o la verità sul ritorno di Edran.",
+      "limits": "Interlocutore per il problema nella propria funzione. Non proprietario, evocatore, onnisciente o esperto universale della creatura."
+    }
+  ],
+  "religious_bestiary_rule": "Nessuna nuova divinità o religione obbligatoria per ogni specie. Saper distinguere spirito, morto, organismo e costrutto rientra nei servizi già competenti; natura grottesca non prova colpa, impurità morale o possesso demoniaco. Operazioni investite richiedono capacità reali e consenso pertinente.",
+  "raccordo_revision": "RACCORDI-317",
+  "revision": "FRONTI-326",
+  "territorial_revision": "347",
+  "duchy_source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+  "service_revision": 358,
+  "service_source": "CANONE_VIGENTE/Presidi_corti_358.json"
+}

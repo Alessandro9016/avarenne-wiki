@@ -124,8 +124,8 @@
       "group": "Dati strutturati e registri",
       "url": "9f5d1e0af2de6024.html",
       "raw": "fonti/9f5d1e0af2de6024.json",
-      "sha256": "03e566f6c5c0131143c72665de3c92c18cac938d1a81bc88a988c66c8571077b",
-      "bytes": 3692444
+      "sha256": "2ad4bcece4f400c6632c83db3fd293fa86823e246a4e37daa50917684b8ce605",
+      "bytes": 3701133
     },
     {
       "source": "CANONE_VIGENTE/Censimento_visuale_luoghi.json",
@@ -223,8 +223,8 @@
       "group": "Dati strutturati e registri",
       "url": "117c76e9df5ab6fa.html",
       "raw": "fonti/117c76e9df5ab6fa.json",
-      "sha256": "4d66d7f5b4cf0fb030e19701db123c9df7492270f98c37be7afba48603a9c5c2",
-      "bytes": 32591
+      "sha256": "850637700c8bae3019e78806d531af2234b4819a2b750744731c2bf471b202fd",
+      "bytes": 64110
     },
     {
       "source": "CANONE_VIGENTE/Geografia_condivisa.json",
@@ -673,8 +673,8 @@
       "group": "Dati strutturati e registri",
       "url": "c137a327ee3556e1.html",
       "raw": "fonti/c137a327ee3556e1.json",
-      "sha256": "3c0584d5fd34be6c4f44e31e34d05677188bfe2a21581e5bc6c78b60ebf8df54",
-      "bytes": 116110
+      "sha256": "3c80089f3b39e76719987d6a38884b9ac026eb62fd4174bda0fd656180b3e9dd",
+      "bytes": 148252
     },
     {
       "source": "CANONE_VIGENTE/Storia_condivisa.json",
@@ -5272,8 +5272,8 @@
       "group": "Cast — dossier individuali",
       "url": "07298b127ae00839.html",
       "raw": "fonti/07298b127ae00839.md",
-      "sha256": "6dcf0d8fcfc3990b4cb706e1d8127e349e5c106ddac5a57a62c9bafe34c1e4c7",
-      "bytes": 5311
+      "sha256": "94aead1354c51d670b238db7e9f965b3ef588bf1bd4f39e6dbf4b708bf5bcf4d",
+      "bytes": 5734
     },
     {
       "source": "CAST_RISERVATO/CAST-475.md",
@@ -5281,8 +5281,8 @@
       "group": "Cast — dossier individuali",
       "url": "07f13f9a0ead4fb7.html",
       "raw": "fonti/07f13f9a0ead4fb7.md",
-      "sha256": "5e606b88f89f9bf4e92eea07b1651b27cf0603cae104b5617f63fc59a0e7c2a0",
-      "bytes": 5215
+      "sha256": "12569d06e4f7ac38c5e093e12edd6ba14468201a1793814cb0dd122a11803779",
+      "bytes": 5638
     },
     {
       "source": "CAST_RISERVATO/CAST-476.md",
@@ -5290,8 +5290,8 @@
       "group": "Cast — dossier individuali",
       "url": "c3b3a4d0193359f7.html",
       "raw": "fonti/c3b3a4d0193359f7.md",
-      "sha256": "62c880ec8b3342e6908143d63717ad3bc35c1f13b8f1000fe77cd9c6f1ba30d3",
-      "bytes": 5452
+      "sha256": "56dacd6bb1681fee4ff46726876ceb61318744c921bffd68980769d8aab10310",
+      "bytes": 5905
     },
     {
       "source": "CAST_RISERVATO/CAST-477.md",
@@ -5299,8 +5299,8 @@
       "group": "Cast — dossier individuali",
       "url": "57d54dc6951623ee.html",
       "raw": "fonti/57d54dc6951623ee.md",
-      "sha256": "c18ada1f92f43d6e136d8509c26d6e2a281c19607e961c51d6ed2059931b939c",
-      "bytes": 5108
+      "sha256": "a9073a7467dc205e3b0eaf1861ea5a99d0dce21a485a6b057f8bc0bcf38c58e3",
+      "bytes": 5561
     },
     {
       "source": "CAST_RISERVATO/CAST-478.md",
@@ -5308,8 +5308,8 @@
       "group": "Cast — dossier individuali",
       "url": "fbf93f5b68aa5040.html",
       "raw": "fonti/fbf93f5b68aa5040.md",
-      "sha256": "904cdb9bbd0b4935737e52db3e447ecc2c3c45389849d5da101ee974f887ef57",
-      "bytes": 5150
+      "sha256": "55f8e2a0c2ec2e3a564bcaa9cedbb39a9b507ce7c5fa983c2247dc23df41bf82",
+      "bytes": 5637
     },
     {
       "source": "CAST_RISERVATO/CAST-479.md",
@@ -5317,8 +5317,8 @@
       "group": "Cast — dossier individuali",
       "url": "5ae14880126d48e3.html",
       "raw": "fonti/5ae14880126d48e3.md",
-      "sha256": "8a80d234a95d7136c11bf3513ef073acd9c0c48858f03a729d02b2bdd4e5f7c6",
-      "bytes": 5309
+      "sha256": "a07afff0081d6d155e075f874792bfe0b7de762a4c44a65f7bee485d2bfebce0",
+      "bytes": 5796
     },
     {
       "source": "CAST_RISERVATO/CAST-480.md",
@@ -5326,8 +5326,8 @@
       "group": "Cast — dossier individuali",
       "url": "ee4aca6df3cfdbf5.html",
       "raw": "fonti/ee4aca6df3cfdbf5.md",
-      "sha256": "abc23280bc32feafa9b451a16ce6e81d3226aa95f49f21c17616d83dae09c993",
-      "bytes": 5378
+      "sha256": "a17f90fea82f5f56b9662cfdcc4b681b8cd426fe74b8a7cbfb525979917077cd",
+      "bytes": 5822
     },
     {
       "source": "CAST_RISERVATO/CAST-481.md",
@@ -5335,8 +5335,8 @@
       "group": "Cast — dossier individuali",
       "url": "3885668b90027d9c.html",
       "raw": "fonti/3885668b90027d9c.md",
-      "sha256": "76984cda1677eee1b80db12b4a9356c77859525a08b9fa9dde117488b54b371b",
-      "bytes": 5122
+      "sha256": "73b59b25667a0910cfdb5a2234b028cb63969da46172df63dda916e17406a61f",
+      "bytes": 5566
     },
     {
       "source": "CAST_RISERVATO/CAST-482.md",
@@ -5344,8 +5344,8 @@
       "group": "Cast — dossier individuali",
       "url": "b69882633b2906d4.html",
       "raw": "fonti/b69882633b2906d4.md",
-      "sha256": "6c538b2e872a02dbc6af1beda48cabdc7ab372e0f019cfe93152aa5ef7f5bdc9",
-      "bytes": 5357
+      "sha256": "9f851212ce2cc4d0afe9b20ffe31553c1c7f426f76e6938163149ca400177f4a",
+      "bytes": 5769
     },
     {
       "source": "CAST_RISERVATO/CAST-483.md",
@@ -5353,8 +5353,8 @@
       "group": "Cast — dossier individuali",
       "url": "1eda23f72506ada7.html",
       "raw": "fonti/1eda23f72506ada7.md",
-      "sha256": "742a96b29eb346aea31fa0c67f59976a2574623a2e1aba90e62003b59f405cc3",
-      "bytes": 5224
+      "sha256": "ddc43c89640cc3bfd6080eb76a8d45e9247b7449c59b88bdb3cabf1011ca4db4",
+      "bytes": 5636
     },
     {
       "source": "CAST_RISERVATO/CAST-484.md",
@@ -5362,8 +5362,8 @@
       "group": "Cast — dossier individuali",
       "url": "9e15219f9dda1352.html",
       "raw": "fonti/9e15219f9dda1352.md",
-      "sha256": "577aea7f14a42ace3c92b09510bdbf86ef34247f3040ba16c6eb6ef4f62ff95e",
-      "bytes": 5402
+      "sha256": "f69a0ddcae55f5f9e0b15d51a97c74ddffa19478c70e01646fea9b8eeb45ed6c",
+      "bytes": 5868
     },
     {
       "source": "CAST_RISERVATO/CAST-485.md",
@@ -5371,8 +5371,8 @@
       "group": "Cast — dossier individuali",
       "url": "2ca3a64d449d13e8.html",
       "raw": "fonti/2ca3a64d449d13e8.md",
-      "sha256": "b2312caf8f25c110a67d1cf50884f864d1349f270ebc9f9be07bbfa8b3244c9f",
-      "bytes": 5453
+      "sha256": "f2f1b7d007c308e3ed422d659a01da82d04a051fe52dd7fed9d063631bde84e4",
+      "bytes": 5919
     },
     {
       "source": "CAST_RISERVATO/CAST-486.md",
@@ -5380,8 +5380,8 @@
       "group": "Cast — dossier individuali",
       "url": "95a78a5195b11390.html",
       "raw": "fonti/95a78a5195b11390.md",
-      "sha256": "a5c67c8ad8ee43facc896c7b489994bb2fa42deeb47a381a46b34965d6a58a58",
-      "bytes": 5314
+      "sha256": "3dc1db89993275dc2df0ff3fce8716583584c07e7652a8c643452f5e2a4581f6",
+      "bytes": 5705
     },
     {
       "source": "CAST_RISERVATO/CAST-487.md",
@@ -5389,8 +5389,8 @@
       "group": "Cast — dossier individuali",
       "url": "3c3f83c05b6fedc3.html",
       "raw": "fonti/3c3f83c05b6fedc3.md",
-      "sha256": "184fed375b8de55e6e4cf3e146aa9cabe38facbcbe57377fa033e9d7593555c5",
-      "bytes": 5043
+      "sha256": "5d66e7f03e37873fafd1a414a91363dd2711867488edf3506034fc2be0cc0e5a",
+      "bytes": 5434
     },
     {
       "source": "CAST_RISERVATO/CAST-488.md",
@@ -5398,8 +5398,8 @@
       "group": "Cast — dossier individuali",
       "url": "2b93b320598b2e4c.html",
       "raw": "fonti/2b93b320598b2e4c.md",
-      "sha256": "e4fa4c306d7a8532e2d4823e2f51339a1583613fdabe1aa7963d444af23726fb",
-      "bytes": 5269
+      "sha256": "f64d7996964e6be04e570e23758dd3a52994f64750e2886dbec686fd5be03bc2",
+      "bytes": 5732
     },
     {
       "source": "CAST_RISERVATO/CAST-489.md",
@@ -5407,8 +5407,8 @@
       "group": "Cast — dossier individuali",
       "url": "d8273bdf18f98910.html",
       "raw": "fonti/d8273bdf18f98910.md",
-      "sha256": "17295b671b34ee4d4afe2e4587711f76273a595b3c48ffc70db609d728b5826f",
-      "bytes": 5010
+      "sha256": "533630f37c6c599c9289457748f9ccc7c55b06715bde025598dbf932d3f7a956",
+      "bytes": 5473
     },
     {
       "source": "CAST_RISERVATO/CAST-490.md",
@@ -5416,8 +5416,8 @@
       "group": "Cast — dossier individuali",
       "url": "823268f0c02c2eb6.html",
       "raw": "fonti/823268f0c02c2eb6.md",
-      "sha256": "a230e031a4b4e17106aad651499c27a4e407dd7dfac5ce84f3428261b1343a8e",
-      "bytes": 5693
+      "sha256": "5e4b4dd1cd045d9b0829c0593e1afddf940af88ced4c199d85968b2c8923dba8",
+      "bytes": 6054
     },
     {
       "source": "CAST_RISERVATO/CAST-491.md",
@@ -5425,8 +5425,8 @@
       "group": "Cast — dossier individuali",
       "url": "1662f9c8a1ca7c47.html",
       "raw": "fonti/1662f9c8a1ca7c47.md",
-      "sha256": "0badf400bf7a19e9feee3326f2fb702358fdeb9b54fddef2cafcdf5d1bf8cef6",
-      "bytes": 5584
+      "sha256": "7b6b8f634e060f3fcd56874fec591fb8549f9e221bad5ab3ed85a4b269e8bcc9",
+      "bytes": 5945
     },
     {
       "source": "CAST_RISERVATO/CAST-492.md",
@@ -5434,8 +5434,8 @@
       "group": "Cast — dossier individuali",
       "url": "ce4be081ec005fbf.html",
       "raw": "fonti/ce4be081ec005fbf.md",
-      "sha256": "45fcff486103fe5e4abc1ed53e6821891aa2ca90632fb108a6b10390bfae54b1",
-      "bytes": 5811
+      "sha256": "b2b978d0a11677141ee6831f33cd4fdc7913632553ca61d662ce6c482d483a89",
+      "bytes": 6259
     },
     {
       "source": "CAST_RISERVATO/CAST-493.md",
@@ -5443,8 +5443,8 @@
       "group": "Cast — dossier individuali",
       "url": "93618cc6cd36a901.html",
       "raw": "fonti/93618cc6cd36a901.md",
-      "sha256": "c2b02795c81bfd3e33002ef81649ccbefd109fb425a800cf7e09a2fcc15ca6f4",
-      "bytes": 5894
+      "sha256": "becb6dccf695d6cb3bd607d73d74a90c5f3a6483e83397f47034098b53e7f4b6",
+      "bytes": 6342
     },
     {
       "source": "CAST_RISERVATO/CAST-494.md",
@@ -5452,8 +5452,8 @@
       "group": "Cast — dossier individuali",
       "url": "f6e69b05fd5c1b31.html",
       "raw": "fonti/f6e69b05fd5c1b31.md",
-      "sha256": "c82f40ded90fcb3811f0dfd516619b758dad5d2bc3d994db6d1767cb40f353ab",
-      "bytes": 5108
+      "sha256": "7c07ca3a1737e5a51331158b760d57f93f62ae817719ca065fcd914500e510d5",
+      "bytes": 5460
     },
     {
       "source": "CAST_RISERVATO/CAST-495.md",
@@ -5461,8 +5461,8 @@
       "group": "Cast — dossier individuali",
       "url": "864bd63fd76b1c1b.html",
       "raw": "fonti/864bd63fd76b1c1b.md",
-      "sha256": "75a83ed74a5f3308c9caf6e8647c17327a61087149030bef5dc6da3f40574b05",
-      "bytes": 4896
+      "sha256": "eed1dbc96bcbe477f03fa449baf8d82369c9628c16c337c6234468505928718f",
+      "bytes": 5248
     },
     {
       "source": "CAST_RISERVATO/CAST-496.md",
@@ -5470,8 +5470,8 @@
       "group": "Cast — dossier individuali",
       "url": "377e8b0438923c19.html",
       "raw": "fonti/377e8b0438923c19.md",
-      "sha256": "096c1e95c6715d6213c7c5d3711e5ccac925737f7f6f39bbcca8ff22d5548a40",
-      "bytes": 5193
+      "sha256": "203b779e951270f60a0cf6231d346a622334a9eca70df4b459cbcd77ec0eb69b",
+      "bytes": 5537
     },
     {
       "source": "CAST_RISERVATO/CAST-497.md",
@@ -5479,8 +5479,8 @@
       "group": "Cast — dossier individuali",
       "url": "591706d02e38fa2b.html",
       "raw": "fonti/591706d02e38fa2b.md",
-      "sha256": "8dc08fc82c3571ba8a55b24782a964f6449125d39007a977cb12ce1e9e44f94c",
-      "bytes": 5144
+      "sha256": "3c53b8c69b70582d61ca4be47dc4f8ec5be991cdc62a675447f0434b6b9d3528",
+      "bytes": 5488
     },
     {
       "source": "GIOCATORE_102_Audit_storico_e_confini_del_sapere.md",
@@ -7237,8 +7237,8 @@
       "group": "Canone vigente e verifica della consegna",
       "url": "06300f093b9b4ae7.html",
       "raw": "fonti/06300f093b9b4ae7.md",
-      "sha256": "0d022d6e1933ec228170b78a4073027e1cbf7e3b4efced692a7092f6bd912082",
-      "bytes": 71419
+      "sha256": "9bc96d18b89811bb2c91e2c3b5b25fe345a563c999dbea1b5fa24513f17b9c1c",
+      "bytes": 72815
     },
     {
       "source": "342_Stato_vigente_per_la_consegna.md",
@@ -19459,6 +19459,474 @@
       "raw": "fonti/d6cd3728915659eb.md",
       "sha256": "1c6f5242a4eada4a9915c6b02194cd9b12cc8a27b7d1fecffc5f75a60528c0b5",
       "bytes": 3623
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-485.md",
+      "title": "CAST-485",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "15ba3020eaeabe58.html",
+      "raw": "fonti/15ba3020eaeabe58.md",
+      "sha256": "b2312caf8f25c110a67d1cf50884f864d1349f270ebc9f9be07bbfa8b3244c9f",
+      "bytes": 5453
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-489.md",
+      "title": "CAST-489",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "98c64013bfcde143.html",
+      "raw": "fonti/98c64013bfcde143.md",
+      "sha256": "17295b671b34ee4d4afe2e4587711f76273a595b3c48ffc70db609d728b5826f",
+      "bytes": 5010
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-486.md",
+      "title": "CAST-486",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "ac0b2292da1d09e7.html",
+      "raw": "fonti/ac0b2292da1d09e7.md",
+      "sha256": "a5c67c8ad8ee43facc896c7b489994bb2fa42deeb47a381a46b34965d6a58a58",
+      "bytes": 5314
+    },
+    {
+      "source": "DOSSIER_CULTI_373/FRONT-03_the-red-orchard.md",
+      "title": "FRONT-03 the-red-orchard",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "c80c8111af1ff795.html",
+      "raw": "fonti/c80c8111af1ff795.md",
+      "sha256": "50f2cbb53fc0f1617dd8d480aa7dca7925100e1b32409089e89daca1bb811bf5",
+      "bytes": 5427
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CANONE_VIGENTE/Societa_riservata.json",
+      "title": "Societa riservata",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "2f71252b397a28d6.html",
+      "raw": "fonti/2f71252b397a28d6.json",
+      "sha256": "3c0584d5fd34be6c4f44e31e34d05677188bfe2a21581e5bc6c78b60ebf8df54",
+      "bytes": 116110
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-474.md",
+      "title": "CAST-474",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "3524330ec22b2774.html",
+      "raw": "fonti/3524330ec22b2774.md",
+      "sha256": "6dcf0d8fcfc3990b4cb706e1d8127e349e5c106ddac5a57a62c9bafe34c1e4c7",
+      "bytes": 5311
+    },
+    {
+      "source": "00_LEGGIMI.md",
+      "title": "00 LEGGIMI",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "70f949ac97e1f1d6.html",
+      "raw": "fonti/70f949ac97e1f1d6.md",
+      "sha256": "f5b6156c696062666f7cfd6351e501a7b25fe5e4537b61e0bba4d3e417090d75",
+      "bytes": 3093
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-482.md",
+      "title": "CAST-482",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "a8c45583b25d790c.html",
+      "raw": "fonti/a8c45583b25d790c.md",
+      "sha256": "6c538b2e872a02dbc6af1beda48cabdc7ab372e0f019cfe93152aa5ef7f5bdc9",
+      "bytes": 5357
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/00_LEGGIMI.md",
+      "title": "00 LEGGIMI",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "eb6dc8b082b7dc4a.html",
+      "raw": "fonti/eb6dc8b082b7dc4a.md",
+      "sha256": "bd91780a9f86f794433d228caf1f46aa19606c1dab80f4dc729ec1fc3a38e14b",
+      "bytes": 1697
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-483.md",
+      "title": "CAST-483",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "5f66663de52fafd3.html",
+      "raw": "fonti/5f66663de52fafd3.md",
+      "sha256": "742a96b29eb346aea31fa0c67f59976a2574623a2e1aba90e62003b59f405cc3",
+      "bytes": 5224
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-481.md",
+      "title": "CAST-481",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "afe30e7c26d20274.html",
+      "raw": "fonti/afe30e7c26d20274.md",
+      "sha256": "76984cda1677eee1b80db12b4a9356c77859525a08b9fa9dde117488b54b371b",
+      "bytes": 5122
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-480.md",
+      "title": "CAST-480",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "d82b7105d990ad21.html",
+      "raw": "fonti/d82b7105d990ad21.md",
+      "sha256": "abc23280bc32feafa9b451a16ce6e81d3226aa95f49f21c17616d83dae09c993",
+      "bytes": 5378
+    },
+    {
+      "source": "DOSSIER_CULTI_373/FRONT-01_the-glass-hunt.md",
+      "title": "FRONT-01 the-glass-hunt",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "b4ecbd0a66a10758.html",
+      "raw": "fonti/b4ecbd0a66a10758.md",
+      "sha256": "23bb20d0156bb9316538fabde9318553d15f8be187edf35cba3faedfd10bbf70",
+      "bytes": 2344
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CANONE_VIGENTE/Culti_e_clandestinita_373.json",
+      "title": "Culti e clandestinita 373",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "aa9d84c6c4a8d30b.html",
+      "raw": "fonti/aa9d84c6c4a8d30b.json",
+      "sha256": "d6b4f7dfe5528c374d919537d78b49e1959258513dc247b9c8d4b4dc3f3cd9c3",
+      "bytes": 37171
+    },
+    {
+      "source": "DOSSIER_CULTI_373/FRONT-02_the-ashen-tithe.md",
+      "title": "FRONT-02 the-ashen-tithe",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "8de6cf89cc5ea16b.html",
+      "raw": "fonti/8de6cf89cc5ea16b.md",
+      "sha256": "60e7c7ff9154f3be67da6dfaf51056da06ebba86271df50eedcdfd0777241418",
+      "bytes": 4987
+    },
+    {
+      "source": "DOSSIER_CULTI_373/FRONT-09_the-severed-compass.md",
+      "title": "FRONT-09 the-severed-compass",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "d0b55f254e142253.html",
+      "raw": "fonti/d0b55f254e142253.md",
+      "sha256": "a15eea5bab696197f60e5364c6c549be199a31f79817b3e436e6f856f901c048",
+      "bytes": 2384
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/23_Registro_unico_del_canone.md",
+      "title": "23 Registro unico del canone",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "3c6a79e910e24882.html",
+      "raw": "fonti/3c6a79e910e24882.md",
+      "sha256": "0d022d6e1933ec228170b78a4073027e1cbf7e3b4efced692a7092f6bd912082",
+      "bytes": 71419
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-487.md",
+      "title": "CAST-487",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "97adee17bd541804.html",
+      "raw": "fonti/97adee17bd541804.md",
+      "sha256": "184fed375b8de55e6e4cf3e146aa9cabe38facbcbe57377fa033e9d7593555c5",
+      "bytes": 5043
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-478.md",
+      "title": "CAST-478",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "a4e7ccd1edc6527e.html",
+      "raw": "fonti/a4e7ccd1edc6527e.md",
+      "sha256": "904cdb9bbd0b4935737e52db3e447ecc2c3c45389849d5da101ee974f887ef57",
+      "bytes": 5150
+    },
+    {
+      "source": "DOSSIER_CULTI_373/FRONT-04_the-still-court.md",
+      "title": "FRONT-04 the-still-court",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "3787225971358228.html",
+      "raw": "fonti/3787225971358228.md",
+      "sha256": "f41d9e8ab5eedb2cdd7b81e8326f7cea9ec3cb26f497838ab42f8571c5e103bc",
+      "bytes": 2353
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-479.md",
+      "title": "CAST-479",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "fb1a35d7e3958c2a.html",
+      "raw": "fonti/fb1a35d7e3958c2a.md",
+      "sha256": "8a80d234a95d7136c11bf3513ef073acd9c0c48858f03a729d02b2bdd4e5f7c6",
+      "bytes": 5309
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-484.md",
+      "title": "CAST-484",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "302cc45d6e010c90.html",
+      "raw": "fonti/302cc45d6e010c90.md",
+      "sha256": "577aea7f14a42ace3c92b09510bdbf86ef34247f3040ba16c6eb6ef4f62ff95e",
+      "bytes": 5402
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CANONE_VIGENTE/Fronti_operativi_326.json",
+      "title": "Fronti operativi 326",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "9aad3e844be37bd7.html",
+      "raw": "fonti/9aad3e844be37bd7.json",
+      "sha256": "4d66d7f5b4cf0fb030e19701db123c9df7492270f98c37be7afba48603a9c5c2",
+      "bytes": 32591
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-477.md",
+      "title": "CAST-477",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "4503631d9eece67a.html",
+      "raw": "fonti/4503631d9eece67a.md",
+      "sha256": "c18ada1f92f43d6e136d8509c26d6e2a281c19607e961c51d6ed2059931b939c",
+      "bytes": 5108
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-492.md",
+      "title": "CAST-492",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "8e3234b79c9897fb.html",
+      "raw": "fonti/8e3234b79c9897fb.md",
+      "sha256": "45fcff486103fe5e4abc1ed53e6821891aa2ca90632fb108a6b10390bfae54b1",
+      "bytes": 5811
+    },
+    {
+      "source": "DOSSIER_CULTI_373/FRONT-10_the-last-vessel.md",
+      "title": "FRONT-10 the-last-vessel",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "1b70577935ce2763.html",
+      "raw": "fonti/1b70577935ce2763.md",
+      "sha256": "14f5bccc302578bd2d0eae2f34b815186ee6147374abf12200ee2e402b723fb6",
+      "bytes": 2686
+    },
+    {
+      "source": "DOSSIER_CULTI_373/FRONT-07_the-ninth-cinder.md",
+      "title": "FRONT-07 the-ninth-cinder",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "3b721cd7b811202c.html",
+      "raw": "fonti/3b721cd7b811202c.md",
+      "sha256": "98c8e5f44a1bc3b9c827c874b5db21e65549c3114c417b35ffa74d27052f6eb5",
+      "bytes": 2385
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-491.md",
+      "title": "CAST-491",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "2684b62dd344a574.html",
+      "raw": "fonti/2684b62dd344a574.md",
+      "sha256": "0badf400bf7a19e9feee3326f2fb702358fdeb9b54fddef2cafcdf5d1bf8cef6",
+      "bytes": 5584
+    },
+    {
+      "source": "DOSSIER_CULTI_373/FRONT-05_the-black-wake.md",
+      "title": "FRONT-05 the-black-wake",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "22bedda669e46743.html",
+      "raw": "fonti/22bedda669e46743.md",
+      "sha256": "f1cf0de010a1c68e65b17213c9155d490667963d154e221eb999253089c1ea61",
+      "bytes": 2331
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-495.md",
+      "title": "CAST-495",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "285bf7c65335ccd1.html",
+      "raw": "fonti/285bf7c65335ccd1.md",
+      "sha256": "75a83ed74a5f3308c9caf6e8647c17327a61087149030bef5dc6da3f40574b05",
+      "bytes": 4896
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-488.md",
+      "title": "CAST-488",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "eaf2fdca280b89fa.html",
+      "raw": "fonti/eaf2fdca280b89fa.md",
+      "sha256": "e4fa4c306d7a8532e2d4823e2f51339a1583613fdabe1aa7963d444af23726fb",
+      "bytes": 5269
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-475.md",
+      "title": "CAST-475",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "c1878c9e52796b6d.html",
+      "raw": "fonti/c1878c9e52796b6d.md",
+      "sha256": "5e606b88f89f9bf4e92eea07b1651b27cf0603cae104b5617f63fc59a0e7c2a0",
+      "bytes": 5215
+    },
+    {
+      "source": "DOSSIER_CULTI_373/FRONT-06_the-hollow-choir.md",
+      "title": "FRONT-06 the-hollow-choir",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "2cd13def4b0b050a.html",
+      "raw": "fonti/2cd13def4b0b050a.md",
+      "sha256": "7d77311d6396fd86771753f89f5d44280a0d81c451b3128524e41ce0cde99f6e",
+      "bytes": 5042
+    },
+    {
+      "source": "RISERVATO_373_Orrore_biologico_e_autonomia.md",
+      "title": "RISERVATO 373 Orrore biologico e autonomia",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "ee0b037062c5680d.html",
+      "raw": "fonti/ee0b037062c5680d.md",
+      "sha256": "6258cafcb7bfc6188fc98dcf58b7ab1f3c9a15a00f64473ff4458d616a591e0b",
+      "bytes": 8490
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-494.md",
+      "title": "CAST-494",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "58e1d144844df5b9.html",
+      "raw": "fonti/58e1d144844df5b9.md",
+      "sha256": "c82f40ded90fcb3811f0dfd516619b758dad5d2bc3d994db6d1767cb40f353ab",
+      "bytes": 5108
+    },
+    {
+      "source": "CANONE_VIGENTE/Culti_e_clandestinita_373.json",
+      "title": "Culti e clandestinita 373",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "c8a16b44bd03cce2.html",
+      "raw": "fonti/c8a16b44bd03cce2.json",
+      "sha256": "a6308a360bb16d93446cd457e3c5050122f26030b3d1d444d3842e811e84ec2a",
+      "bytes": 37968
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-493.md",
+      "title": "CAST-493",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "02e9d7e878ecf88d.html",
+      "raw": "fonti/02e9d7e878ecf88d.md",
+      "sha256": "c2b02795c81bfd3e33002ef81649ccbefd109fb425a800cf7e09a2fcc15ca6f4",
+      "bytes": 5894
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-496.md",
+      "title": "CAST-496",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "4e39825a4a2aaf3d.html",
+      "raw": "fonti/4e39825a4a2aaf3d.md",
+      "sha256": "096c1e95c6715d6213c7c5d3711e5ccac925737f7f6f39bbcca8ff22d5548a40",
+      "bytes": 5193
+    },
+    {
+      "source": "DOSSIER_CULTI_373/FRONT-08_the-pale-ledger.md",
+      "title": "FRONT-08 the-pale-ledger",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "618869c1c84adf5e.html",
+      "raw": "fonti/618869c1c84adf5e.md",
+      "sha256": "ecf05b4c428cad636ea9246edfc3a8311e93bb51b9ecf8a0aa754dfd0734a1ca",
+      "bytes": 2500
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-497.md",
+      "title": "CAST-497",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "3bc8287958468e8a.html",
+      "raw": "fonti/3bc8287958468e8a.md",
+      "sha256": "8dc08fc82c3571ba8a55b24782a964f6449125d39007a977cb12ce1e9e44f94c",
+      "bytes": 5144
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/11_Casi_e_situazioni/RISERVATO/RISERVATO_373_Orrore_biologico_e_autonomia.md",
+      "title": "RISERVATO 373 Orrore biologico e autonomia",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "da7d6b47f49ec4fe.html",
+      "raw": "fonti/da7d6b47f49ec4fe.md",
+      "sha256": "6258cafcb7bfc6188fc98dcf58b7ab1f3c9a15a00f64473ff4458d616a591e0b",
+      "bytes": 8490
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-490.md",
+      "title": "CAST-490",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "a6ae96820cc9dbc9.html",
+      "raw": "fonti/a6ae96820cc9dbc9.md",
+      "sha256": "a230e031a4b4e17106aad651499c27a4e407dd7dfac5ce84f3428261b1343a8e",
+      "bytes": 5693
+    },
+    {
+      "source": "DOSSIER_CULTI_373/FRONT-11_the-blue-lantern.md",
+      "title": "FRONT-11 the-blue-lantern",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "f801457bc8cffe92.html",
+      "raw": "fonti/f801457bc8cffe92.md",
+      "sha256": "906827076c0d3d97e0b94c11c96ab8d3da689f4d07d21299d2ba09d34cea37d0",
+      "bytes": 2301
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/08_Societa_religioni_e_istituzioni/RISERVATO/RISERVATO_373_Culti_clandestinita_e_dottrine.md",
+      "title": "RISERVATO 373 Culti clandestinita e dottrine",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "b8d6e2d0b064c94c.html",
+      "raw": "fonti/b8d6e2d0b064c94c.md",
+      "sha256": "b6e72557d984d833014e36a4bd89f529d3b3c8abfc52b37d24f6739a9b5f9c2b",
+      "bytes": 39873
+    },
+    {
+      "source": "DOSSIER_CULTI_373/FRONT-12_the-broken-seal.md",
+      "title": "FRONT-12 the-broken-seal",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "77a00c4f51444bf5.html",
+      "raw": "fonti/77a00c4f51444bf5.md",
+      "sha256": "75151e5e688a011e696a33f9ad9de0269660673514e42c58648f1919b886d62c",
+      "bytes": 2226
+    },
+    {
+      "source": "CANONE_VIGENTE/Audit_culti_373.json",
+      "title": "Audit culti 373",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "91e587a414e1b1a7.html",
+      "raw": "fonti/91e587a414e1b1a7.json",
+      "sha256": "5ea94b422171ba5677b9aee3ab184eb71e38003c44a1723386fe2bcd6b895480",
+      "bytes": 1092
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CAST_RISERVATO/CAST-476.md",
+      "title": "CAST-476",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "6f095073c1b5f17c.html",
+      "raw": "fonti/6f095073c1b5f17c.md",
+      "sha256": "62c880ec8b3342e6908143d63717ad3bc35c1f13b8f1000fe77cd9c6f1ba30d3",
+      "bytes": 5452
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/01_Consolidamento_documentale/373_Registro_culti_e_orrori_biologici.md",
+      "title": "373 Registro culti e orrori biologici",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "76c0c3c7b8274fc8.html",
+      "raw": "fonti/76c0c3c7b8274fc8.md",
+      "sha256": "1002f040a2698b36c21afb5679672962be573218459d8beab44844ed7d19db24",
+      "bytes": 1401
+    },
+    {
+      "source": "373_Registro_culti_e_orrori_biologici.md",
+      "title": "373 Registro culti e orrori biologici",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "bed7088e6224f188.html",
+      "raw": "fonti/bed7088e6224f188.md",
+      "sha256": "1002f040a2698b36c21afb5679672962be573218459d8beab44844ed7d19db24",
+      "bytes": 1401
+    },
+    {
+      "source": "RISERVATO_373_Culti_clandestinita_e_dottrine.md",
+      "title": "RISERVATO 373 Culti clandestinita e dottrine",
+      "group": "Culti e pratiche occulte — 373",
+      "url": "90269255ff760c4e.html",
+      "raw": "fonti/90269255ff760c4e.md",
+      "sha256": "b6e72557d984d833014e36a4bd89f529d3b3c8abfc52b37d24f6739a9b5f9c2b",
+      "bytes": 39873
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_373/CANONE_VIGENTE/Cast_riservato.json",
+      "title": "Cast riservato",
+      "group": "Archivio precedente alle precisazioni 373",
+      "url": "3d174e7d7e2f53c4.html",
+      "raw": "fonti/3d174e7d7e2f53c4.json",
+      "sha256": "03e566f6c5c0131143c72665de3c92c18cac938d1a81bc88a988c66c8571077b",
+      "bytes": 3692444
+    },
+    {
+      "source": "VERIFICA_CULTI_373.json",
+      "title": "VERIFICA CULTI 373",
+      "group": "Verifica tecnica — 373",
+      "url": "4f4f2a9da0bc2a71.html",
+      "raw": "fonti/4f4f2a9da0bc2a71.json",
+      "sha256": "3f82ba167161cb446394291a0e3fd3cf31aa5113cf91e56db9ff71e6115893b9",
+      "bytes": 1433
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",
@@ -19471,5 +19939,7 @@
   "pre_export_revision": "348",
   "practical_faq_revision": "349",
   "operational_revision": "350",
-  "current_topic_register": "350_Fonti_vigenti_per_argomento.md"
+  "current_topic_register": "350_Fonti_vigenti_per_argomento.md",
+  "current_revision": 373,
+  "revision_373_scope": "Culti, legalità locale e pratiche biologiche; nessuna modifica delle progressioni."
 }

@@ -1,0 +1,36 @@
+{
+  "revision": 373,
+  "date": "2026-10-21",
+  "cast": 620,
+  "fronts": 12,
+  "hostile_fronts": 10,
+  "protective_fronts": 2,
+  "deepened_cults": 3,
+  "biological_cases": 3,
+  "local_proscription_explicit": 1,
+  "original_power_hashes": {
+    "Progressioni_effigi.json": "4aa7a711b43f5b166fdd784736a09cf9ce2b240b99a03009262d5da601365b15",
+    "Roots_consolidate.json": "a5d803229c691f40df4fd933dfda8d0c528c33deeae3c5e2aef01f94d805b999",
+    "Protagonista.json": "ff4777eb5d65aa4a98ddec4d7992f5ad36713b66512f4e37103810f85f236a06",
+    "Protagonista_riservato.json": "4045c4808073eb2fc219852145823d584cc19bf66f058241b5970977134bcd70",
+    "Crisi_personale_369.json": "4189b852bd23f0f8bcf4441b3005256ab77514ddbcfac70dcfdc7854310a334f",
+    "Storia_riservata.json": "ecebfb2a26d5dea81bda0203b06275f25ad4e04627f8d3d7a891c34bff944192"
+  },
+  "ability_changes": false,
+  "new_named_characters": 0,
+  "new_images": 0,
+  "new_zip": false,
+  "push_performed": false,
+  "future_outcomes": "OPEN",
+  "scope": "Dottrine, status locale, reclutamento, vita interna e applicazioni biologiche circoscritte.",
+  "links_checked": 10988,
+  "link_errors": [],
+  "original_powers_and_roots_unchanged": true,
+  "cast_inventories_unchanged": true,
+  "fronts_previous_facts_unchanged": true,
+  "library_hashes_verified": true,
+  "technical_repairs": [
+    "Ripristinata ancora Biblioteca fenomeni363",
+    "Rimosso sommario residuo nell’indice A–Z"
+  ]
+}

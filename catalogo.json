@@ -4,7 +4,7 @@
     "title": "A Garden Between Worlds",
     "kind": "Archi narrativi",
     "url": "arc-27-a-garden-between-worlds.html",
-    "bytes": 13706,
+    "bytes": 14253,
     "image_count": 1
   },
   {
@@ -20,7 +20,7 @@
     "title": "A Patient Is Not a Model",
     "kind": "Archi narrativi",
     "url": "arc-07-a-patient-is-not-a-model.html",
-    "bytes": 13973,
+    "bytes": 14520,
     "image_count": 1
   },
   {
@@ -28,7 +28,7 @@
     "title": "A Person Made Here",
     "kind": "Archi narrativi",
     "url": "arc-14-a-person-made-here.html",
-    "bytes": 13798,
+    "bytes": 14371,
     "image_count": 1
   },
   {
@@ -44,7 +44,7 @@
     "title": "A World That Can Leave",
     "kind": "Archi narrativi",
     "url": "arc-35-a-world-that-can-leave.html",
-    "bytes": 13845,
+    "bytes": 14934,
     "image_count": 1
   },
   {
@@ -260,7 +260,7 @@
     "title": "Alise Reth",
     "kind": "Personaggi",
     "url": "cast-497-alise-reth.html",
-    "bytes": 18769,
+    "bytes": 19262,
     "image_count": 2
   },
   {
@@ -356,7 +356,7 @@
     "title": "An Exit Kept Open",
     "kind": "Archi narrativi",
     "url": "arc-15-an-exit-kept-open.html",
-    "bytes": 13672,
+    "bytes": 14214,
     "image_count": 1
   },
   {
@@ -676,7 +676,7 @@
     "title": "Arven Sorel",
     "kind": "Personaggi",
     "url": "cast-479-arven-sorel.html",
-    "bytes": 18871,
+    "bytes": 19507,
     "image_count": 2
   },
   {
@@ -716,7 +716,7 @@
     "title": "Ashen Quay",
     "kind": "Luoghi",
     "url": "loc-061-ashen-quay.html",
-    "bytes": 10804,
+    "bytes": 11395,
     "image_count": 2
   },
   {
@@ -1164,7 +1164,7 @@
     "title": "Bestiario",
     "kind": "Indici tematici",
     "url": "bestiario.html",
-    "bytes": 21031,
+    "bytes": 21555,
     "image_count": 51
   },
   {
@@ -2052,7 +2052,7 @@
     "title": "Corten",
     "kind": "Luoghi",
     "url": "loc-022-corten.html",
-    "bytes": 14173,
+    "bytes": 14797,
     "image_count": 3
   },
   {
@@ -2116,7 +2116,7 @@
     "title": "Crescent",
     "kind": "Effigi",
     "url": "crescent.html",
-    "bytes": 131398,
+    "bytes": 131922,
     "image_count": 2
   },
   {
@@ -2240,6 +2240,14 @@
     "image_count": 0
   },
   {
+    "id": "CULTS-373",
+    "title": "Culti, clandestinità e dottrine",
+    "kind": "Società e organizzazioni",
+    "url": "culti-clandestinita-e-dottrine.html",
+    "bytes": 64332,
+    "image_count": 0
+  },
+  {
     "id": "REL-13",
     "title": "Custodia della Veglia",
     "kind": "Religioni",
@@ -2324,7 +2332,7 @@
     "title": "Dara Ulven",
     "kind": "Personaggi",
     "url": "cast-483-dara-ulven.html",
-    "bytes": 18644,
+    "bytes": 19205,
     "image_count": 2
   },
   {
@@ -2468,7 +2476,7 @@
     "title": "Deren",
     "kind": "Luoghi",
     "url": "loc-006-deren.html",
-    "bytes": 15215,
+    "bytes": 15756,
     "image_count": 3
   },
   {
@@ -2900,7 +2908,7 @@
     "title": "Eline Rusk",
     "kind": "Personaggi",
     "url": "cast-487-eline-rusk.html",
-    "bytes": 18491,
+    "bytes": 19031,
     "image_count": 2
   },
   {
@@ -2916,7 +2924,7 @@
     "title": "Elisa Vorn",
     "kind": "Personaggi",
     "url": "cast-481-elisa-vorn.html",
-    "bytes": 18872,
+    "bytes": 19465,
     "image_count": 2
   },
   {
@@ -2988,7 +2996,7 @@
     "title": "Elven",
     "kind": "Luoghi",
     "url": "loc-015-elven.html",
-    "bytes": 15211,
+    "bytes": 15825,
     "image_count": 3
   },
   {
@@ -3372,7 +3380,7 @@
     "title": "Fenomeni, anomalie e incidenti",
     "kind": "Fenomeni",
     "url": "fenomeni.html",
-    "bytes": 20361,
+    "bytes": 20885,
     "image_count": 24
   },
   {
@@ -3428,7 +3436,7 @@
     "title": "Fronti del presente e opposizioni",
     "kind": "Approfondimenti",
     "url": "fronti-del-presente.html",
-    "bytes": 48841,
+    "bytes": 49323,
     "image_count": 0
   },
   {
@@ -3652,7 +3660,7 @@
     "title": "Hadrik Vos",
     "kind": "Personaggi",
     "url": "cast-486-hadrik-vos.html",
-    "bytes": 19801,
+    "bytes": 20341,
     "image_count": 2
   },
   {
@@ -3724,7 +3732,7 @@
     "title": "Heart",
     "kind": "Effigi",
     "url": "heart.html",
-    "bytes": 96197,
+    "bytes": 96721,
     "image_count": 2
   },
   {
@@ -4060,7 +4068,7 @@
     "title": "Ilena Dorr",
     "kind": "Personaggi",
     "url": "cast-493-ilena-dorr.html",
-    "bytes": 19511,
+    "bytes": 20108,
     "image_count": 2
   },
   {
@@ -4156,7 +4164,7 @@
     "title": "Indice generale A–Z",
     "kind": "Indici",
     "url": "indice-generale.html",
-    "bytes": 128607,
+    "bytes": 128925,
     "image_count": 0
   },
   {
@@ -4388,7 +4396,7 @@
     "title": "Ishra Neth",
     "kind": "Personaggi",
     "url": "cast-477-ishra-neth.html",
-    "bytes": 18560,
+    "bytes": 19162,
     "image_count": 2
   },
   {
@@ -4396,7 +4404,7 @@
     "title": "Ishven Raal",
     "kind": "Personaggi",
     "url": "cast-484-ishven-raal.html",
-    "bytes": 19943,
+    "bytes": 20558,
     "image_count": 2
   },
   {
@@ -4588,7 +4596,7 @@
     "title": "Kaeris Ohn",
     "kind": "Personaggi",
     "url": "cast-490-kaeris-ohn.html",
-    "bytes": 21048,
+    "bytes": 21558,
     "image_count": 2
   },
   {
@@ -5076,7 +5084,7 @@
     "title": "Lethorne",
     "kind": "Luoghi",
     "url": "loc-001-lethorne.html",
-    "bytes": 28233,
+    "bytes": 28692,
     "image_count": 5
   },
   {
@@ -5284,7 +5292,7 @@
     "title": "Mael Vaur",
     "kind": "Personaggi",
     "url": "cast-474-mael-vaur.html",
-    "bytes": 20563,
+    "bytes": 21135,
     "image_count": 2
   },
   {
@@ -5548,7 +5556,7 @@
     "title": "Marwen Kael",
     "kind": "Personaggi",
     "url": "cast-480-marwen-kael.html",
-    "bytes": 20118,
+    "bytes": 20711,
     "image_count": 2
   },
   {
@@ -5692,7 +5700,7 @@
     "title": "Meraine Solt",
     "kind": "Personaggi",
     "url": "cast-489-meraine-solt.html",
-    "bytes": 19033,
+    "bytes": 19645,
     "image_count": 2
   },
   {
@@ -5844,7 +5852,7 @@
     "title": "Mireya Voss",
     "kind": "Personaggi",
     "url": "cast-494-mireya-voss.html",
-    "bytes": 18969,
+    "bytes": 19470,
     "image_count": 2
   },
   {
@@ -5988,7 +5996,7 @@
     "title": "Naor Vesk",
     "kind": "Personaggi",
     "url": "cast-482-naor-vesk.html",
-    "bytes": 19695,
+    "bytes": 20256,
     "image_count": 2
   },
   {
@@ -6124,7 +6132,7 @@
     "title": "Neris Vaal",
     "kind": "Personaggi",
     "url": "cast-485-neris-vaal.html",
-    "bytes": 19045,
+    "bytes": 19660,
     "image_count": 2
   },
   {
@@ -6276,7 +6284,7 @@
     "title": "No Patient by Vote",
     "kind": "Archi narrativi",
     "url": "arc-23-no-patient-by-vote.html",
-    "bytes": 14245,
+    "bytes": 14792,
     "image_count": 1
   },
   {
@@ -6316,7 +6324,7 @@
     "title": "Noran",
     "kind": "Luoghi",
     "url": "loc-051-noran.html",
-    "bytes": 14109,
+    "bytes": 14676,
     "image_count": 2
   },
   {
@@ -6584,6 +6592,14 @@
     "image_count": 0
   },
   {
+    "id": "BIO-373",
+    "title": "Orrore biologico e autonomia del corpo",
+    "kind": "Sistema soprannaturale e società",
+    "url": "orrore-biologico-e-autonomia.html",
+    "bytes": 15402,
+    "image_count": 0
+  },
+  {
     "id": "STATE-01",
     "title": "Orsanne",
     "kind": "Stati",
@@ -6692,7 +6708,7 @@
     "title": "Ossiel Thren",
     "kind": "Personaggi",
     "url": "cast-488-ossiel-thren.html",
-    "bytes": 20263,
+    "bytes": 20875,
     "image_count": 2
   },
   {
@@ -6740,7 +6756,7 @@
     "title": "Pagina principale",
     "kind": "Enciclopedia",
     "url": "index.html",
-    "bytes": 21823,
+    "bytes": 22305,
     "image_count": 33
   },
   {
@@ -7612,7 +7628,7 @@
     "title": "Rovenne",
     "kind": "Luoghi",
     "url": "loc-002-rovenne.html",
-    "bytes": 26234,
+    "bytes": 26727,
     "image_count": 6
   },
   {
@@ -7748,7 +7764,7 @@
     "title": "Sarn Gate",
     "kind": "Luoghi",
     "url": "loc-007-sarn-gate.html",
-    "bytes": 12532,
+    "bytes": 13155,
     "image_count": 3
   },
   {
@@ -7892,7 +7908,7 @@
     "title": "Seed",
     "kind": "Effigi",
     "url": "seed.html",
-    "bytes": 103058,
+    "bytes": 103582,
     "image_count": 2
   },
   {
@@ -8044,7 +8060,7 @@
     "title": "Seran Vaust",
     "kind": "Personaggi",
     "url": "cast-496-seran-vaust.html",
-    "bytes": 19115,
+    "bytes": 19608,
     "image_count": 2
   },
   {
@@ -8076,7 +8092,7 @@
     "title": "Serevan",
     "kind": "Luoghi",
     "url": "loc-060-serevan.html",
-    "bytes": 10725,
+    "bytes": 11259,
     "image_count": 2
   },
   {
@@ -8116,7 +8132,7 @@
     "title": "Sevra Dhal",
     "kind": "Personaggi",
     "url": "cast-478-sevra-dhal.html",
-    "bytes": 19465,
+    "bytes": 20101,
     "image_count": 2
   },
   {
@@ -8260,7 +8276,7 @@
     "title": "Società e istituzioni",
     "kind": "Indici tematici",
     "url": "societa.html",
-    "bytes": 40455,
+    "bytes": 40937,
     "image_count": 39
   },
   {
@@ -8340,7 +8356,7 @@
     "title": "South Shoals",
     "kind": "Luoghi",
     "url": "loc-036-south-shoals.html",
-    "bytes": 11955,
+    "bytes": 12495,
     "image_count": 2
   },
   {
@@ -8476,7 +8492,7 @@
     "title": "Sybille Kest",
     "kind": "Personaggi",
     "url": "cast-475-sybille-kest.html",
-    "bytes": 19203,
+    "bytes": 19775,
     "image_count": 2
   },
   {
@@ -8676,7 +8692,7 @@
     "title": "Teren",
     "kind": "Luoghi",
     "url": "loc-010-teren.html",
-    "bytes": 15364,
+    "bytes": 15838,
     "image_count": 3
   },
   {
@@ -8684,7 +8700,7 @@
     "title": "Teren Alst",
     "kind": "Personaggi",
     "url": "cast-495-teren-alst.html",
-    "bytes": 18072,
+    "bytes": 18573,
     "image_count": 2
   },
   {
@@ -8868,7 +8884,7 @@
     "title": "The Ashen Tithe",
     "kind": "Istituzioni e fazioni",
     "url": "fac-16-the-ashen-tithe.html",
-    "bytes": 13606,
+    "bytes": 20746,
     "image_count": 1
   },
   {
@@ -8916,7 +8932,7 @@
     "title": "The Black Wake",
     "kind": "Istituzioni e fazioni",
     "url": "fac-19-the-black-wake.html",
-    "bytes": 12929,
+    "bytes": 16387,
     "image_count": 1
   },
   {
@@ -8940,7 +8956,7 @@
     "title": "The Blue Lantern",
     "kind": "Istituzioni e fazioni",
     "url": "fac-25-the-blue-lantern.html",
-    "bytes": 13811,
+    "bytes": 17237,
     "image_count": 1
   },
   {
@@ -8996,7 +9012,7 @@
     "title": "The Borrowed Sleeper",
     "kind": "Archi narrativi",
     "url": "arc-21-the-borrowed-sleeper.html",
-    "bytes": 13480,
+    "bytes": 14053,
     "image_count": 1
   },
   {
@@ -9028,7 +9044,7 @@
     "title": "The Broken Seal",
     "kind": "Istituzioni e fazioni",
     "url": "fac-26-the-broken-seal.html",
-    "bytes": 13666,
+    "bytes": 17018,
     "image_count": 1
   },
   {
@@ -9228,7 +9244,7 @@
     "title": "The Door Left Unlocked",
     "kind": "Archi narrativi",
     "url": "arc-39-the-door-left-unlocked.html",
-    "bytes": 14078,
+    "bytes": 14651,
     "image_count": 1
   },
   {
@@ -9340,7 +9356,7 @@
     "title": "The Friend Who Changed",
     "kind": "Archi narrativi",
     "url": "arc-13-the-friend-who-changed.html",
-    "bytes": 13140,
+    "bytes": 13687,
     "image_count": 1
   },
   {
@@ -9396,7 +9412,7 @@
     "title": "The Glass Hunt",
     "kind": "Istituzioni e fazioni",
     "url": "fac-15-the-glass-hunt.html",
-    "bytes": 13720,
+    "bytes": 17191,
     "image_count": 1
   },
   {
@@ -9420,7 +9436,7 @@
     "title": "The Guests of the Same Host",
     "kind": "Archi narrativi",
     "url": "arc-22-the-guests-of-the-same-host.html",
-    "bytes": 13030,
+    "bytes": 13603,
     "image_count": 1
   },
   {
@@ -9444,7 +9460,7 @@
     "title": "The Hollow Choir",
     "kind": "Istituzioni e fazioni",
     "url": "fac-20-the-hollow-choir.html",
-    "bytes": 13484,
+    "bytes": 20678,
     "image_count": 1
   },
   {
@@ -9580,7 +9596,7 @@
     "title": "The Last Vessel",
     "kind": "Istituzioni e fazioni",
     "url": "fac-24-the-last-vessel.html",
-    "bytes": 14532,
+    "bytes": 18344,
     "image_count": 1
   },
   {
@@ -9612,7 +9628,7 @@
     "title": "The Living Orchard",
     "kind": "Archi narrativi",
     "url": "arc-12-the-living-orchard.html",
-    "bytes": 13358,
+    "bytes": 13905,
     "image_count": 1
   },
   {
@@ -9708,7 +9724,7 @@
     "title": "The Night Does Not Belong to One",
     "kind": "Archi narrativi",
     "url": "arc-34-the-night-does-not-belong-to-one.html",
-    "bytes": 13439,
+    "bytes": 14012,
     "image_count": 1
   },
   {
@@ -9716,7 +9732,7 @@
     "title": "The Ninth Cinder",
     "kind": "Istituzioni e fazioni",
     "url": "fac-21-the-ninth-cinder.html",
-    "bytes": 13265,
+    "bytes": 16775,
     "image_count": 1
   },
   {
@@ -9788,7 +9804,7 @@
     "title": "The Pale Ledger",
     "kind": "Istituzioni e fazioni",
     "url": "fac-22-the-pale-ledger.html",
-    "bytes": 13465,
+    "bytes": 17091,
     "image_count": 1
   },
   {
@@ -9812,7 +9828,7 @@
     "title": "The People Who Stayed",
     "kind": "Archi narrativi",
     "url": "arc-25-the-people-who-stayed.html",
-    "bytes": 14005,
+    "bytes": 15120,
     "image_count": 1
   },
   {
@@ -9892,7 +9908,7 @@
     "title": "The Red Orchard",
     "kind": "Istituzioni e fazioni",
     "url": "fac-17-the-red-orchard.html",
-    "bytes": 13673,
+    "bytes": 21253,
     "image_count": 1
   },
   {
@@ -9956,7 +9972,7 @@
     "title": "The Severed Compass",
     "kind": "Istituzioni e fazioni",
     "url": "fac-23-the-severed-compass.html",
-    "bytes": 13598,
+    "bytes": 17104,
     "image_count": 1
   },
   {
@@ -9996,7 +10012,7 @@
     "title": "The Shore Has a Name",
     "kind": "Archi narrativi",
     "url": "arc-05-the-shore-has-a-name.html",
-    "bytes": 13302,
+    "bytes": 13844,
     "image_count": 1
   },
   {
@@ -10084,7 +10100,7 @@
     "title": "The Still Court",
     "kind": "Istituzioni e fazioni",
     "url": "fac-18-the-still-court.html",
-    "bytes": 13538,
+    "bytes": 17017,
     "image_count": 1
   },
   {
@@ -10212,7 +10228,7 @@
     "title": "The Undeclared Branch",
     "kind": "Archi narrativi",
     "url": "arc-18-the-undeclared-branch.html",
-    "bytes": 13383,
+    "bytes": 13930,
     "image_count": 1
   },
   {
@@ -10380,7 +10396,7 @@
     "title": "The Workshop Behind the Mark",
     "kind": "Archi narrativi",
     "url": "arc-11-the-workshop-behind-the-mark.html",
-    "bytes": 13605,
+    "bytes": 14147,
     "image_count": 1
   },
   {
@@ -10404,7 +10420,7 @@
     "title": "Thel Ordan",
     "kind": "Personaggi",
     "url": "cast-491-thel-ordan.html",
-    "bytes": 20350,
+    "bytes": 20860,
     "image_count": 2
   },
   {
@@ -10532,7 +10548,7 @@
     "title": "Three Renewals",
     "kind": "Archi narrativi",
     "url": "arc-17-three-renewals.html",
-    "bytes": 13760,
+    "bytes": 14302,
     "image_count": 1
   },
   {
@@ -10612,7 +10628,7 @@
     "title": "Two Kinds of Night",
     "kind": "Archi narrativi",
     "url": "arc-09-two-kinds-of-night.html",
-    "bytes": 13356,
+    "bytes": 13929,
     "image_count": 1
   },
   {
@@ -10900,7 +10916,7 @@
     "title": "Vareth Senn",
     "kind": "Personaggi",
     "url": "cast-492-vareth-senn.html",
-    "bytes": 21029,
+    "bytes": 21626,
     "image_count": 2
   },
   {
@@ -10948,7 +10964,7 @@
     "title": "Veldane",
     "kind": "Luoghi",
     "url": "loc-003-veldane.html",
-    "bytes": 17128,
+    "bytes": 17606,
     "image_count": 5
   },
   {
@@ -11148,7 +11164,7 @@
     "title": "Voren Ashk",
     "kind": "Personaggi",
     "url": "cast-476-voren-ashk.html",
-    "bytes": 19738,
+    "bytes": 20340,
     "image_count": 2
   },
   {
