@@ -1,0 +1,208 @@
+{
+  "revision": 375,
+  "basis": "NUOVA_DETERMINAZIONE_AUTORIALE_ESPLICITA",
+  "reference_date": "18 maggio 812",
+  "unit": "corone",
+  "annual_income": [
+    {
+      "item": "Contributo ordinario orsannico territorialmente assegnato",
+      "authorized": 1350000,
+      "received_T0": 460000
+    },
+    {
+      "item": "Contributi delle quattro contee",
+      "authorized": 900000,
+      "received_T0": 300000
+    },
+    {
+      "item": "Trasferimenti statali per opere e servizi convenzionati",
+      "authorized": 1050000,
+      "received_T0": 360000
+    },
+    {
+      "item": "Diritti e rimborsi di servizi territoriali",
+      "authorized": 300000,
+      "received_T0": 120000
+    }
+  ],
+  "annual_expense": [
+    {
+      "item": "Strade e collegamenti interdistrettuali",
+      "authorized": 840000,
+      "paid_T0": 320000
+    },
+    {
+      "item": "Argini, drenaggio e coordinamento idrico",
+      "authorized": 760000,
+      "paid_T0": 310000
+    },
+    {
+      "item": "Convenzioni sanitarie e trasporto assistito",
+      "authorized": 340000,
+      "paid_T0": 110000
+    },
+    {
+      "item": "Scuole tecniche e accesso intercomunale",
+      "authorized": 300000,
+      "paid_T0": 95000
+    },
+    {
+      "item": "Soccorso, scorte pubbliche e coordinamento delle emergenze",
+      "authorized": 240000,
+      "paid_T0": 65000
+    },
+    {
+      "item": "Uffici territoriali, perizie e rendicontazione",
+      "authorized": 300000,
+      "paid_T0": 105000
+    },
+    {
+      "item": "Interessi del debito pubblico territoriale",
+      "authorized": 120000,
+      "paid_T0": 0
+    },
+    {
+      "item": "Rimborso programmato del capitale pubblico",
+      "authorized": 80000,
+      "paid_T0": 0
+    },
+    {
+      "item": "Fondo annuale di riserva autorizzato",
+      "authorized": 200000,
+      "paid_T0": 0
+    },
+    {
+      "item": "Cofinanziamenti deliberati a comuni e distretti",
+      "authorized": 420000,
+      "paid_T0": 255000
+    }
+  ],
+  "county_contributions": [
+    {
+      "county": "Belcour",
+      "annual": 276000
+    },
+    {
+      "county": "Vernay",
+      "annual": 235000
+    },
+    {
+      "county": "Rochebrune",
+      "annual": 209000
+    },
+    {
+      "county": "Aubrecourt",
+      "annual": 180000
+    }
+  ],
+  "opening_cash": 650000,
+  "received_to_T0": 1240000,
+  "paid_to_T0": 1260000,
+  "cash_T0": 630000,
+  "cash_partitions": [
+    {
+      "item": "Vincolata a trasferimenti e destinazioni specifiche",
+      "value": 240000
+    },
+    {
+      "item": "Impegni maturati e pagamenti già autorizzati",
+      "value": 180000
+    },
+    {
+      "item": "Cassa disponibile solo entro capitoli e mandati vigenti",
+      "value": 210000
+    }
+  ],
+  "authorized_cash_available": [
+    {
+      "item": "Soccorso urgente nei limiti del fondo di riserva",
+      "value": 60000
+    },
+    {
+      "item": "Strade e opere già in capitolo",
+      "value": 70000
+    },
+    {
+      "item": "Cofinanziamenti e servizi deliberati",
+      "value": 50000
+    },
+    {
+      "item": "Funzionamento e verifiche territoriali",
+      "value": 30000
+    }
+  ],
+  "public_debt": {
+    "creditor": "Tesoreria statale di Orsanne",
+    "principal_T0": 2000000,
+    "annual_rate": 0.06,
+    "interest_due": [
+      [
+        "30 giugno 812",
+        60000
+      ],
+      [
+        "31 dicembre 812",
+        60000
+      ]
+    ],
+    "principal_due": [
+      [
+        "31 dicembre 812",
+        80000
+      ]
+    ],
+    "personal_guarantee_of_duke": false
+  },
+  "matured_commitments": [
+    {
+      "date": "23 maggio 812",
+      "item": "Drenaggio deliberato",
+      "value": 48000
+    },
+    {
+      "date": "30 maggio 812",
+      "item": "Lavori stradali deliberati",
+      "value": 72000
+    },
+    {
+      "date": "10 giugno 812",
+      "item": "Cofinanziamenti deliberati",
+      "value": 60000
+    }
+  ],
+  "private_accounts_133_unchanged": true,
+  "cases": [
+    {
+      "id": "PUB-01",
+      "name": "Riparazione urgente di un collegamento comune",
+      "reference_cost": 18000,
+      "procedure": "Ricognizione tecnica, disponibilità del capitolo strade e ordine esecutivo dell’ufficio competente per un intervento già ammesso. Il duca indirizza e richiede adempimenti; non deve attendere una nuova imposta per ogni riparazione.",
+      "accounting": "Imputare la spesa al capitolo e alla cassa strade; con i riferimenti T0 lascia 52.000 della quota di cassa qui considerata. È una prova di calcolo, non un ordine già impartito.",
+      "historical_event": false
+    },
+    {
+      "id": "PUB-02",
+      "name": "Nuova scuola oltre il programma approvato",
+      "reference_cost": 120000,
+      "procedure": "La proposta richiede programma, sede, costi ricorrenti e deliberazione della variazione. Non basta il titolo del duca per trattare la cassa disponibile come autorizzazione a una nuova opera.",
+      "accounting": "La spesa annua e quella di impianto sono distinte. Un contributo privato può coprire l’edificio, non assegna automaticamente insegnanti pubblici né proprietà della scuola al finanziatore.",
+      "historical_event": false
+    },
+    {
+      "id": "PUB-03",
+      "name": "Evacuazione e assistenza delimitata",
+      "reference_cost": 25000,
+      "procedure": "La risposta usa soccorso competente e fondo già autorizzato per un’emergenza realmente accertata, con rendiconto successivo. Non è necessario risolvere ogni responsabilità penale prima di aiutare.",
+      "accounting": "Nel caso isolato, la quota di cassa del soccorso passerebbe da 60.000 a 35.000. Non sommare questo esempio a PUB-01 come evento avvenuto; se entrambi vengono davvero attivati, registrare entrambi nei capitoli distinti.",
+      "historical_event": false
+    },
+    {
+      "id": "PUB-04",
+      "name": "Donazione o creazione di una struttura reale",
+      "reference_cost": 0,
+      "procedure": "Cradle può fornire beni e opere nei suoi limiti; occorre verificare sede, sicurezza e accettazione di chi ne assumerà l’uso. Il soprannaturale non fallisce per mancanza di un documento, ma il documento non sparisce perché il bene è stato creato.",
+      "accounting": "Il bene può ridurre davvero il costo materiale. Personale, manutenzione e competenze successive restano distinti; non inventare una nuova tassa o crisi inevitabile per annullare il beneficio.",
+      "historical_event": false
+    }
+  ]
+}

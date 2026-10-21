@@ -1,0 +1,63 @@
+# Neris Vahl — dossier completo CAST-595
+
+Accesso integrale al Narratore. Stato al 18 maggio 812. IMPORTANT; attivo, pressione latente e impatto significativo se i vecchi accessi vengono riattivati.
+
+## Origine e ruolo nelle Signorie
+
+Archive VI; conservava atti autentici ma selezionava quali allegati circolassero. Dipendeva dalla cancelleria di Veskar Thenn, non possedeva Archive VII.
+
+## Sistema di oppressione e vittime
+
+Un atto autentico di assegnazione veniva presentato come prova della legittimità della schiavitù. La falsificazione era soprattutto nella selezione e nell’interpretazione, non un potere capace di rendere vero un passato inventato.
+
+## Sconfitta, resa o defezione
+
+Nel −12074 Talren e Sael conquistarono l’accesso al deposito che lei custodiva. Neris consegnò un inventario corretto e trattenne copie private: Edran conobbe la resa e non verificò che ogni copia fosse stata distrutta.
+
+## Carattere e relazioni
+
+Misurata, precisa con le date, irritata da chi riassume. Sa riconoscere un falso materiale e può aiutare un’indagine mentre protegge l’interpretazione che giustifica la propria carriera.
+
+## Sopravvivenza e continuità personale
+
+Continuità angelica VI sostenuta dalla propria costituzione e da periodi di custodia protetta. Registrazioni e ricordi non sono copie della persona: non rinasce da ogni libro.
+
+## Identità e mezzi moderni
+
+Neria Val, curatrice di un fondo privato a Teshen. La committenza locale conosce una studiosa riservata. Non controlla il collegio di Talren e non è testimone di ogni fatto antico.
+
+## Azione autonoma al T0
+
+Sta preparando un confronto editoriale che attribuisca alcune emancipazioni a concessioni dei signori. Possiede fonti autentiche parziali: una pubblicazione avrà successo solo se trova editori e resiste al confronto. Non può cancellare i ricordi di Edran o degli altri testimoni.
+
+## Paura, limite e possibile opposizione
+
+Teme una copia integrale che renda evidente l’omissione degli allegati. La propria reputazione moderna è vulnerabile quanto i depositi fisici.
+
+## Reperti e possibilità di verifica
+
+Indici con salti di numerazione e lettere di accompagnamento: attestano una selezione, non tutto il contenuto mancante.
+
+## Poteri attuali e uso concreto
+
+Archive VI — Reliquary. Una sola Effige, nessuna Seat attuale, nessuna Root personale. - Held Moment (1): Registra in una custodia mnemonica investita un’esperienza vissuta e la richiama senza decadimento, comprese precisioni sensoriali che la memoria umana non saprebbe conservare. La registrazione resta distinta dal ricordo ordinario alterabile.
+- Recorded Reflex (4): Un’esperienza corporea o spirituale propria registrata diventa risposta assimilata che opera senza richiamo cosciente di ogni dettaglio.
+- Event Reordering (6): Una sequenza attestata viene articolata in componenti funzionali e riprodotta in un ordine presente diverso compatibile.
+
+Sono esempi del repertorio cumulativo approvato, non tre nuove abilità personali. Portata, difese, fonti e costi restano quelli della scheda dell’Effige; il rango storico di un morto non agisce oggi.
+
+## Sapere e distribuzione delle informazioni
+
+Ricorda il proprio ruolo e gli incontri realmente avuti. Non conosce il ritorno di Edran, il Refuge o l’identità di Alexander. L’alias è noto a interlocutori moderni; il nome antico richiede identificazione. Rivalità con Talren, che divenne Archive VII nella contesa del deposito; non è nuova responsabile della caduta. Nessun rapporto con l’altro superstite menzionato implica che si conoscano tutti: la relazione operativa è indicata nel registro e va appresa attraverso contatti reali.
+
+## Ingressi, scena e complicazione
+
+- Un reperto con la firma antica viene proposto per confronto: la firma prova un atto, non la presenza odierna della persona.
+- L’iniziativa moderna descritta sopra produce una richiesta, una copia o un incarico verificabile: si può seguirne il percorso con mezzi reali.
+
+Scena possibile: confronto fra il referente moderno e chi custodisce il reperto. Complicazione: una copia autentica può non provare la tesi sostenuta. Twist opzionale: una controparte ordinaria rifiuta la richiesta e conserva la copia; non è un nuovo agente segreto necessario.
+
+## Evoluzioni aperte
+
+Senza PG prosegue l’iniziativa specificata nei propri accessi, potendo ottenere un diniego o cambiare piano; non arriva automaticamente al successo. Con prove, confronto o aggressione può ritirarsi, trattare, perdere risorse o combattere secondo il dossier. La sopravvivenza non concede immunità editoriale. Impatto attuale moderato locale, significativo per reti investite; non catastrofe cosmica già avvenuta.
+

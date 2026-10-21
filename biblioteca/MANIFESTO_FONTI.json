@@ -124,8 +124,8 @@
       "group": "Dati strutturati e registri",
       "url": "9f5d1e0af2de6024.html",
       "raw": "fonti/9f5d1e0af2de6024.json",
-      "sha256": "08d826faf3e09b8a896c0447b07362e582288fa9d8d62afae15b638955fd606b",
-      "bytes": 3855601
+      "sha256": "1e2100f9a50f90c670ce4f4084303e430cd1097a76152628e48f9a2114f80611",
+      "bytes": 3926882
     },
     {
       "source": "CANONE_VIGENTE/Censimento_visuale_luoghi.json",
@@ -664,8 +664,8 @@
       "group": "Dati strutturati e registri",
       "url": "00f965548ff670d9.html",
       "raw": "fonti/00f965548ff670d9.json",
-      "sha256": "a21f8468a9f3c908200e3db881267152730b27c5814cb1f20558104d50a2c550",
-      "bytes": 64458
+      "sha256": "68d6631b58dc34c8e824355965d5c4e2ca2adf9b031b7c45845f7359815a0ac8",
+      "bytes": 64469
     },
     {
       "source": "CANONE_VIGENTE/Societa_riservata.json",
@@ -1069,8 +1069,8 @@
       "group": "Cast — dossier individuali",
       "url": "c10dda822c32852e.html",
       "raw": "fonti/c10dda822c32852e.md",
-      "sha256": "d2a94c798fb747e94fd671ac8ee38c7ba5a2f3ac3547775f00e58dadadbe81d3",
-      "bytes": 19604
+      "sha256": "eaae9a0abba9f495ef12934b5dc8ac5532a0435620a51af161f6fa2bffa76ac8",
+      "bytes": 21235
     },
     {
       "source": "CAST_RISERVATO/CAST-008.md",
@@ -1078,8 +1078,8 @@
       "group": "Cast — dossier individuali",
       "url": "31c80887f2e1f33d.html",
       "raw": "fonti/31c80887f2e1f33d.md",
-      "sha256": "628b8f54141e6b9ad797337a3e5ab37d61958095bfb91e5118934ec31b0a3b8b",
-      "bytes": 18731
+      "sha256": "614542601cb01c9c8710e53ed537a73f357ebb3dc0d55bfb489d53501b181440",
+      "bytes": 20297
     },
     {
       "source": "CAST_RISERVATO/CAST-009.md",
@@ -1087,8 +1087,8 @@
       "group": "Cast — dossier individuali",
       "url": "f96f1126d2a8f3b9.html",
       "raw": "fonti/f96f1126d2a8f3b9.md",
-      "sha256": "5d10ab66c13e2deec8af2551eaac7d4166af12e040cde00f67f24a6a686bc346",
-      "bytes": 18115
+      "sha256": "32ff8f1100785b0c75645ca0bc7a3d81f93feaf8f3d5edddbe0ed6429d2ceba0",
+      "bytes": 19726
     },
     {
       "source": "CAST_RISERVATO/CAST-010.md",
@@ -1096,8 +1096,8 @@
       "group": "Cast — dossier individuali",
       "url": "2212ba1d533ef201.html",
       "raw": "fonti/2212ba1d533ef201.md",
-      "sha256": "3447676086969cb95f5b61d7f0ffa393ee53a3180a60a66292feee2b993a0c32",
-      "bytes": 18739
+      "sha256": "32f3985c3e4b1a83afa571c595cabac4a1bf0786b119251428dc2709a11135dc",
+      "bytes": 20447
     },
     {
       "source": "CAST_RISERVATO/CAST-011.md",
@@ -1105,8 +1105,8 @@
       "group": "Cast — dossier individuali",
       "url": "7f2455c4913444d8.html",
       "raw": "fonti/7f2455c4913444d8.md",
-      "sha256": "998f1f23d233d84bf284e277167fd81aba459cbbc53683f0b25d3a77d32437ce",
-      "bytes": 23431
+      "sha256": "4a458d0739169e34f6f2195e6936f84de70dad8613ef55edee36f942887bf93e",
+      "bytes": 25022
     },
     {
       "source": "CAST_RISERVATO/CAST-012.md",
@@ -1114,8 +1114,8 @@
       "group": "Cast — dossier individuali",
       "url": "0e56f1562937706f.html",
       "raw": "fonti/0e56f1562937706f.md",
-      "sha256": "3896dd40513015f2c4ba0dd647acacb87b888701327da373a4ff7792863a05e1",
-      "bytes": 18346
+      "sha256": "04a7279a81a328852f77c6df1b4b8f4a6624cff355d71e20479464c17bf35b38",
+      "bytes": 19999
     },
     {
       "source": "CAST_RISERVATO/CAST-013.md",
@@ -1123,8 +1123,8 @@
       "group": "Cast — dossier individuali",
       "url": "c00dfc3a9747ef57.html",
       "raw": "fonti/c00dfc3a9747ef57.md",
-      "sha256": "6c6b7b9e262863be557bdb9f69667194aab57d253bff846f7bd615444ac1984e",
-      "bytes": 16323
+      "sha256": "74b6c0309a0c5bf2507b198ab80009c40653fd8fce2847af6dbbe9f1833d4575",
+      "bytes": 17914
     },
     {
       "source": "CAST_RISERVATO/CAST-014.md",
@@ -1132,8 +1132,8 @@
       "group": "Cast — dossier individuali",
       "url": "e4d285287e3bdafb.html",
       "raw": "fonti/e4d285287e3bdafb.md",
-      "sha256": "b0bbf9d4e89c8f007eb748b7c0498bc066b615df22e529688d4e5554d1cfcdac",
-      "bytes": 16590
+      "sha256": "cf7038e9e59713deeb840a384e307cb367ae9d9aa5d2197ec05e7fa82961d755",
+      "bytes": 18188
     },
     {
       "source": "CAST_RISERVATO/CAST-015.md",
@@ -1141,8 +1141,8 @@
       "group": "Cast — dossier individuali",
       "url": "f48fde31693db0f0.html",
       "raw": "fonti/f48fde31693db0f0.md",
-      "sha256": "44b84c524bcb760024c510954fc68f1419551b227929391f70af14b29a22fe7e",
-      "bytes": 20691
+      "sha256": "438cf3f5614d3874b476e79c95110d84248c2570e96d89a4a9840869814e8c64",
+      "bytes": 22234
     },
     {
       "source": "CAST_RISERVATO/CAST-016.md",
@@ -1150,8 +1150,8 @@
       "group": "Cast — dossier individuali",
       "url": "1c38e76b70e6f200.html",
       "raw": "fonti/1c38e76b70e6f200.md",
-      "sha256": "0f11604a603bb485c4333e92436b1b3fb7d6f4ede271591cb34504d8699b1ac6",
-      "bytes": 16292
+      "sha256": "ad7a098edb0ad870fc16c4c8d3bd460aaf1a76bac5a11988877cadaa01f2ac91",
+      "bytes": 17834
     },
     {
       "source": "CAST_RISERVATO/CAST-017.md",
@@ -1159,8 +1159,8 @@
       "group": "Cast — dossier individuali",
       "url": "779b75ea3f43be82.html",
       "raw": "fonti/779b75ea3f43be82.md",
-      "sha256": "1dd9f886290c5e305e7139f4a62da52cdc338857f467680f3345022877402bef",
-      "bytes": 16303
+      "sha256": "9d787df3da0140e7b9a1ed33ccd94e2f7f41fff53785183ad9e0a26485d48ea4",
+      "bytes": 17847
     },
     {
       "source": "CAST_RISERVATO/CAST-018.md",
@@ -1168,8 +1168,8 @@
       "group": "Cast — dossier individuali",
       "url": "1e740757e872f5f6.html",
       "raw": "fonti/1e740757e872f5f6.md",
-      "sha256": "c896318fa54d7a432be252cd2153fc2e8dc1908d5805e1f52dad3a73d00550e3",
-      "bytes": 17684
+      "sha256": "9dd9637e2f6895dd8f61f9d42e295a85f4b2de8918a7444e8f856c3ae83d8c3a",
+      "bytes": 19277
     },
     {
       "source": "CAST_RISERVATO/CAST-019.md",
@@ -1177,8 +1177,8 @@
       "group": "Cast — dossier individuali",
       "url": "b476edf1f0d7e0c0.html",
       "raw": "fonti/b476edf1f0d7e0c0.md",
-      "sha256": "1d0a822060c03e711bad5229a120404a26345fde47d9a2eb3a1f52ee66cf9714",
-      "bytes": 17934
+      "sha256": "8246ccd0cead6aa9cc7cb5424fa870cdee0224b0634be63c67affc0c9247111f",
+      "bytes": 19525
     },
     {
       "source": "CAST_RISERVATO/CAST-020.md",
@@ -1186,8 +1186,8 @@
       "group": "Cast — dossier individuali",
       "url": "9f99ff79fe4bb38a.html",
       "raw": "fonti/9f99ff79fe4bb38a.md",
-      "sha256": "9216bc69045c21fce233b42b929b052f4fa8d089a43100823e87b5f194cf81cc",
-      "bytes": 17476
+      "sha256": "4922c28c2eb1ef3acb8be0d62b8984af405142ce21a6c5c65b6acadd899bd6c3",
+      "bytes": 19087
     },
     {
       "source": "CAST_RISERVATO/CAST-021.md",
@@ -1195,8 +1195,8 @@
       "group": "Cast — dossier individuali",
       "url": "5095a688bed232e1.html",
       "raw": "fonti/5095a688bed232e1.md",
-      "sha256": "897f32ae92907d7b236dff209a708942c7d162a7e137ce0f674c6b02c0584f18",
-      "bytes": 10143
+      "sha256": "7084444b3392c44fa313b13a0351a87f14bf724d89b2891469587d4f7e2f1efe",
+      "bytes": 11631
     },
     {
       "source": "CAST_RISERVATO/CAST-022.md",
@@ -1204,8 +1204,8 @@
       "group": "Cast — dossier individuali",
       "url": "745f71105700cfa0.html",
       "raw": "fonti/745f71105700cfa0.md",
-      "sha256": "07f6e88fdde8b8b05e29634710376cceb9e5325d8d697ab268714347e1f7c323",
-      "bytes": 10186
+      "sha256": "feb5cc909625875e711ad282ede48e2b1ce7f361a3e10770b85ee1d302bb6e80",
+      "bytes": 11640
     },
     {
       "source": "CAST_RISERVATO/CAST-023.md",
@@ -1213,8 +1213,8 @@
       "group": "Cast — dossier individuali",
       "url": "8c71057a5d394a3b.html",
       "raw": "fonti/8c71057a5d394a3b.md",
-      "sha256": "1f592dec1e785019e10fff5654399261e24fcbc521ab02708db4e5d500c26f6a",
-      "bytes": 10642
+      "sha256": "ced8c07c7443ccf2b04da6552c00897fdf7a2af6ffff4619a5631cf254a3c032",
+      "bytes": 12239
     },
     {
       "source": "CAST_RISERVATO/CAST-024.md",
@@ -1222,8 +1222,8 @@
       "group": "Cast — dossier individuali",
       "url": "487c8188a2a14c1f.html",
       "raw": "fonti/487c8188a2a14c1f.md",
-      "sha256": "7693d359c11e810ec21a35086522b2bd820f68b88f946876eda8dd7a1a509a53",
-      "bytes": 11319
+      "sha256": "3da60c3d0cfe9eb614ebc15dfc6aaef307a2e41ea4b77c8e1bb920ccfae4a9fe",
+      "bytes": 12868
     },
     {
       "source": "CAST_RISERVATO/CAST-025.md",
@@ -1231,8 +1231,8 @@
       "group": "Cast — dossier individuali",
       "url": "56bd9260f378115b.html",
       "raw": "fonti/56bd9260f378115b.md",
-      "sha256": "1b51f30b35a32edcd789a410c84fe024f64df1203f5e5f560536871a4dfdd40d",
-      "bytes": 10981
+      "sha256": "b22022343648fba90861f1ac712f3be29d38865b940a9b3b456fb717facf61d2",
+      "bytes": 12530
     },
     {
       "source": "CAST_RISERVATO/CAST-026.md",
@@ -1240,8 +1240,8 @@
       "group": "Cast — dossier individuali",
       "url": "752ab36272556643.html",
       "raw": "fonti/752ab36272556643.md",
-      "sha256": "67b828a1084b5a14394ceb462982ec920219c71ab8939ddead2209555d94fda1",
-      "bytes": 14512
+      "sha256": "e2bc333fac4c779d3aab0f07fda1a7028c5ba344315f9b1a086f66506d958656",
+      "bytes": 16106
     },
     {
       "source": "CAST_RISERVATO/CAST-027.md",
@@ -1357,8 +1357,8 @@
       "group": "Cast — dossier individuali",
       "url": "84d03f320fbe56e3.html",
       "raw": "fonti/84d03f320fbe56e3.md",
-      "sha256": "70af0a70f683fc8cbe934b4be8db16744ca46ca716fb29d2a1950755d75aa1dc",
-      "bytes": 9280
+      "sha256": "8ebca82d300d7eba7e5f6a5f7c9ef62cce17a1c70167847af8c6404ff160f7c4",
+      "bytes": 10780
     },
     {
       "source": "CAST_RISERVATO/CAST-040.md",
@@ -1375,8 +1375,8 @@
       "group": "Cast — dossier individuali",
       "url": "0ba003254b6fe944.html",
       "raw": "fonti/0ba003254b6fe944.md",
-      "sha256": "46d8df2877fcfd0887c2fdc6cdb673af0c5346ed84e568431ccf51482a530e18",
-      "bytes": 9622
+      "sha256": "7ed5753a19bab481761e2267e3f3bf03b1e2b500caaebd25148032e25860f1c5",
+      "bytes": 11181
     },
     {
       "source": "CAST_RISERVATO/CAST-042.md",
@@ -1384,8 +1384,8 @@
       "group": "Cast — dossier individuali",
       "url": "5abffed6ddb722c9.html",
       "raw": "fonti/5abffed6ddb722c9.md",
-      "sha256": "669069ff3b2f6606b660e54baa5ec0c675e9cd84df63267ed3c17c937de3ad93",
-      "bytes": 9126
+      "sha256": "a931929a67da1499b97d52d5b54ad5f0bb3ae8d6a80bf53ee897f10f4a9fea9f",
+      "bytes": 10322
     },
     {
       "source": "CAST_RISERVATO/CAST-043.md",
@@ -1726,8 +1726,8 @@
       "group": "Cast — dossier individuali",
       "url": "16124865dbd98010.html",
       "raw": "fonti/16124865dbd98010.md",
-      "sha256": "fc276f84c5ca4aaa07c289047c8c02b09da8ac96e96714f5fc3bdb1c955402b9",
-      "bytes": 7893
+      "sha256": "671ad185f28e0df22789709a88c113338effe2b14b0ec929eaa027a065c3a399",
+      "bytes": 9439
     },
     {
       "source": "CAST_RISERVATO/CAST-081.md",
@@ -1735,8 +1735,8 @@
       "group": "Cast — dossier individuali",
       "url": "7b8ee50ace80fd22.html",
       "raw": "fonti/7b8ee50ace80fd22.md",
-      "sha256": "b887f556f4177c9f14b7c210b7f052452989fa2f60898d84d4d71168b9ee778b",
-      "bytes": 8712
+      "sha256": "c6b07727fa315e165659d3c85985a754d0fca9f2da3de04c38a57cfda86735ed",
+      "bytes": 10311
     },
     {
       "source": "CAST_RISERVATO/CAST-082.md",
@@ -1744,8 +1744,8 @@
       "group": "Cast — dossier individuali",
       "url": "6eb0a561a890ff83.html",
       "raw": "fonti/6eb0a561a890ff83.md",
-      "sha256": "0d1bbf30ee5401c0ad1fbe1d23f26a610cf32bb07010ce91a5e77dc960605d1c",
-      "bytes": 8082
+      "sha256": "18e4af40e747abd639122bc09aa0acf53c66e1d7b89cfc582a4d9d83416d7537",
+      "bytes": 9637
     },
     {
       "source": "CAST_RISERVATO/CAST-083.md",
@@ -1753,8 +1753,8 @@
       "group": "Cast — dossier individuali",
       "url": "f11fc945c6a4c339.html",
       "raw": "fonti/f11fc945c6a4c339.md",
-      "sha256": "bdeb67cf4a660e9dd496d65ba67fa10dfb4d5484e2f9ac444cdec77f426d44cb",
-      "bytes": 7920
+      "sha256": "d662bb857561ada909409698b4099703d44fbe724dddb3ad8c2a913bbad23531",
+      "bytes": 9496
     },
     {
       "source": "CAST_RISERVATO/CAST-084.md",
@@ -5164,8 +5164,8 @@
       "group": "Cast — dossier individuali",
       "url": "5e565b8a658d0905.html",
       "raw": "fonti/5e565b8a658d0905.md",
-      "sha256": "e553448d8d0710471429b78d824d01023023281854340d2f76659652fa4e9f38",
-      "bytes": 7450
+      "sha256": "95b279ff4f9d6a69ea086acfc143e2c2912f8cdd835b89781303a24d359069dc",
+      "bytes": 8996
     },
     {
       "source": "CAST_RISERVATO/CAST-463.md",
@@ -5173,8 +5173,8 @@
       "group": "Cast — dossier individuali",
       "url": "21513a4e71bd8af1.html",
       "raw": "fonti/21513a4e71bd8af1.md",
-      "sha256": "14098c94496b6c24f94f8431f8e59514caca277c8115f2300d4e06c34edea8b4",
-      "bytes": 7756
+      "sha256": "d1576a35a02cd5ebe00311dddc949e5e348d37e56165c0d1f7020d084a176791",
+      "bytes": 9360
     },
     {
       "source": "CAST_RISERVATO/CAST-464.md",
@@ -5416,8 +5416,8 @@
       "group": "Cast — dossier individuali",
       "url": "823268f0c02c2eb6.html",
       "raw": "fonti/823268f0c02c2eb6.md",
-      "sha256": "5e4b4dd1cd045d9b0829c0593e1afddf940af88ced4c199d85968b2c8923dba8",
-      "bytes": 6054
+      "sha256": "c207d472af011fbb54eb8c81b8ecb9aaa4a3bd32cbf2c24a5efb38a48acd12eb",
+      "bytes": 7593
     },
     {
       "source": "CAST_RISERVATO/CAST-491.md",
@@ -5434,8 +5434,8 @@
       "group": "Cast — dossier individuali",
       "url": "ce4be081ec005fbf.html",
       "raw": "fonti/ce4be081ec005fbf.md",
-      "sha256": "b2b978d0a11677141ee6831f33cd4fdc7913632553ca61d662ce6c482d483a89",
-      "bytes": 6259
+      "sha256": "0a6c30423da5d0ed6b60c5b5f5b7e661b1904cbf70ffda4b68e3584dc7aec028",
+      "bytes": 7835
     },
     {
       "source": "CAST_RISERVATO/CAST-493.md",
@@ -16378,8 +16378,8 @@
       "group": "Religioni e istituzioni — 367",
       "url": "e2e14f1502a93958.html",
       "raw": "fonti/e2e14f1502a93958.json",
-      "sha256": "c63a356b8e26736aa7bd30ae5640f7f6aca9e8af659e5c5c5aa8fa1e94c51389",
-      "bytes": 50992
+      "sha256": "0d8fb6668454e124f1aee3ac04a37863e1490d50190a024a9fb47e8f907c6f1d",
+      "bytes": 51003
     },
     {
       "source": "RISERVATO_367_Religioni_e_istituzioni.md",
@@ -16387,8 +16387,8 @@
       "group": "Religioni e istituzioni — 367",
       "url": "a5dd24c7a634019a.html",
       "raw": "fonti/a5dd24c7a634019a.md",
-      "sha256": "6cb4a59418c4d6fde2a06385c49128c797fc82d4f4145aa406651aa35e81c2a8",
-      "bytes": 47866
+      "sha256": "845bfc680e09bf152fc12e7bde31f03bbec589a5fda83f0de730f7c755ef87d9",
+      "bytes": 47877
     },
     {
       "source": "CANONE_VIGENTE/Geografia_vissuta_367.json",
@@ -18572,8 +18572,8 @@
       "group": "Liberazione e Signorie — 372",
       "url": "19bbdb0f93f02335.html",
       "raw": "fonti/19bbdb0f93f02335.md",
-      "sha256": "d5bbede1bb573855e65602ef8a98ddee417fc00c81e1bba78fe8cf4b6389b116",
-      "bytes": 5103
+      "sha256": "d2846c49f16143cbe76d905dc05ecc81e6017b5e734f802d1784da28f97eb4ac",
+      "bytes": 6630
     },
     {
       "source": "DOSSIER_SIGNORIE_372/Figure_cessate/dorrak-vel/CAST-598.md",
@@ -18610,8 +18610,8 @@
       "group": "Liberazione e Signorie — 372",
       "url": "f863a691b719a078.html",
       "raw": "fonti/f863a691b719a078.md",
-      "sha256": "116d7dbdd52972a87cba148ecbc67be6536f86e45416f62b298692bdd70b8644",
-      "bytes": 4741
+      "sha256": "3f528c0c987d875586ad3aa0c9c78afd4a26dc1b6ffd9212fd0c6db903e447d2",
+      "bytes": 6247
     },
     {
       "source": "DOSSIER_SIGNORIE_372/Figure_cessate/odran-mell/CAST-619.md",
@@ -18884,8 +18884,8 @@
       "group": "Liberazione e Signorie — 372",
       "url": "4a71e07a3ffb6e3f.html",
       "raw": "fonti/4a71e07a3ffb6e3f.md",
-      "sha256": "0b203b1fdbafbf33364d1490c07be53176b97f8b4bf8b7e0fe8783c54f72b729",
-      "bytes": 4990
+      "sha256": "88b11cb6db111bd40cf8dc0fe8be59989a4aed4e04e3d902460b1de3a83d2610",
+      "bytes": 6524
     },
     {
       "source": "RISERVATO_372_Antagonisti_delle_Signorie.md",
@@ -18902,8 +18902,8 @@
       "group": "Liberazione e Signorie — 372",
       "url": "2dfd97caa7ee694a.html",
       "raw": "fonti/2dfd97caa7ee694a.md",
-      "sha256": "4801020a06206964e53745d5c796ba3c75a6c9454c071a16c73224d42e1917e5",
-      "bytes": 4712
+      "sha256": "f2cc1eeaa6f08ca83ce7dfeb8803c4213a4fc35a968dd901921fffe51c8fc0dc",
+      "bytes": 6251
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/07_Storia_antica_e_moderna/RISERVATO/RISERVATO_96_Campagne_opere_ed_eredita_del_Creator.md",
@@ -18938,8 +18938,8 @@
       "group": "Liberazione e Signorie — 372",
       "url": "9c3d316141d95096.html",
       "raw": "fonti/9c3d316141d95096.md",
-      "sha256": "bb064a790302696ffea4f2bbbca5384e5116aed3b1c8d6d96e98e5a2657c6396",
-      "bytes": 4596
+      "sha256": "091390d02614fba74f42a11c80c03822c9cc8f63289efb5c9d1b28eef35496bd",
+      "bytes": 6148
     },
     {
       "source": "CAST_RISERVATO/CAST-593.md",
@@ -18947,8 +18947,8 @@
       "group": "Liberazione e Signorie — 372",
       "url": "0262aade9fc374f4.html",
       "raw": "fonti/0262aade9fc374f4.md",
-      "sha256": "866e3c185893324a5523383da104f2e4433867dcaff6cb6942b3c10d7b69a7a2",
-      "bytes": 4473
+      "sha256": "c02e4a5d29cc43ba3f42526d6ec758343ceaaa3d95813d51822295e0cd761646",
+      "bytes": 5996
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_372/CAST_RISERVATO/CAST-039.md",
@@ -20440,6 +20440,546 @@
       "raw": "fonti/b935b25112640d3c.json",
       "sha256": "ee94a22b65a6af9df674ceb52b40accce347053d74e1fbdd8c34267d8197d3ce",
       "bytes": 1814
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/RISERVATO_367_Religioni_e_istituzioni.md",
+      "title": "RISERVATO 367 Religioni e istituzioni",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "9ed58df0bf024ea3.html",
+      "raw": "fonti/9ed58df0bf024ea3.md",
+      "sha256": "6cb4a59418c4d6fde2a06385c49128c797fc82d4f4145aa406651aa35e81c2a8",
+      "bytes": 47866
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/05_Cosmologia_e_integrazioni/RISERVATO/RISERVATO_375_Seats_accesso_e_successione.md",
+      "title": "RISERVATO 375 Seats accesso e successione",
+      "group": "Consolidamento operativo 375",
+      "url": "53d11ac532bd2848.html",
+      "raw": "fonti/53d11ac532bd2848.md",
+      "sha256": "7653b0bf74c7aff339f8d11b5c48bbd12e57ef24005fe61a433bc5d563fc18e4",
+      "bytes": 33488
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-593.md",
+      "title": "CAST-593",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "6bd21c6195a5f2f7.html",
+      "raw": "fonti/6bd21c6195a5f2f7.md",
+      "sha256": "866e3c185893324a5523383da104f2e4433867dcaff6cb6942b3c10d7b69a7a2",
+      "bytes": 4473
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Cast_e_reti_civili/RISERVATO/RISERVATO_375_Registro_operativo_delle_potenze.md",
+      "title": "RISERVATO 375 Registro operativo delle potenze",
+      "group": "Consolidamento operativo 375",
+      "url": "9f8317b637641fed.html",
+      "raw": "fonti/9f8317b637641fed.md",
+      "sha256": "d3fc57576170915b635464a26d5b585a0388d66be40970de5f60f8a9315f8d6f",
+      "bytes": 59317
+    },
+    {
+      "source": "CANONE_VIGENTE/Manifestazioni_descrittive_375.json",
+      "title": "Manifestazioni descrittive 375",
+      "group": "Consolidamento operativo 375",
+      "url": "a1a25a963287c57c.html",
+      "raw": "fonti/a1a25a963287c57c.json",
+      "sha256": "bcdcd7e60a1d0407aa1da20ab45575c6d0e6f4b6f49133fa91cc4bb8d0c15772",
+      "bytes": 18926
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-019.md",
+      "title": "CAST-019",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "0ffd1e7daa67b467.html",
+      "raw": "fonti/0ffd1e7daa67b467.md",
+      "sha256": "1d0a822060c03e711bad5229a120404a26345fde47d9a2eb3a1f52ee66cf9714",
+      "bytes": 17934
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-013.md",
+      "title": "CAST-013",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "2f369cd0563daccc.html",
+      "raw": "fonti/2f369cd0563daccc.md",
+      "sha256": "6c6b7b9e262863be557bdb9f69667194aab57d253bff846f7bd615444ac1984e",
+      "bytes": 16323
+    },
+    {
+      "source": "RISERVATO_375_Guida_di_consultazione_del_Narratore.md",
+      "title": "RISERVATO 375 Guida di consultazione del Narratore",
+      "group": "Consolidamento operativo 375",
+      "url": "a694d156a18328f5.html",
+      "raw": "fonti/a694d156a18328f5.md",
+      "sha256": "9ee109b0ee1420742e69d49a2afba67d09ae8c752ed530e2120ffebb0fccab70",
+      "bytes": 3655
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-024.md",
+      "title": "CAST-024",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "fadb6417169c3a8c.html",
+      "raw": "fonti/fadb6417169c3a8c.md",
+      "sha256": "7693d359c11e810ec21a35086522b2bd820f68b88f946876eda8dd7a1a509a53",
+      "bytes": 11319
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-017.md",
+      "title": "CAST-017",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "0ce5ed530d6197e0.html",
+      "raw": "fonti/0ce5ed530d6197e0.md",
+      "sha256": "1dd9f886290c5e305e7139f4a62da52cdc338857f467680f3345022877402bef",
+      "bytes": 16303
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/06_Protagonista/GIOCATORE/GIOCATORE_375_Tesoreria_pubblica_del_ducato.md",
+      "title": "GIOCATORE 375 Tesoreria pubblica del ducato",
+      "group": "Consolidamento operativo 375",
+      "url": "02c5ab85fc822033.html",
+      "raw": "fonti/02c5ab85fc822033.md",
+      "sha256": "cd0de2f764c10e4c51eb04d11db325ef1a4dabe17e8293fa8601a40acac4c2ae",
+      "bytes": 6623
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-023.md",
+      "title": "CAST-023",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "64e4b1f60539e3de.html",
+      "raw": "fonti/64e4b1f60539e3de.md",
+      "sha256": "1f592dec1e785019e10fff5654399261e24fcbc521ab02708db4e5d500c26f6a",
+      "bytes": 10642
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-591.md",
+      "title": "CAST-591",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "f242456dc11e13c3.html",
+      "raw": "fonti/f242456dc11e13c3.md",
+      "sha256": "116d7dbdd52972a87cba148ecbc67be6536f86e45416f62b298692bdd70b8644",
+      "bytes": 4741
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-012.md",
+      "title": "CAST-012",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "88bf34313a1bcd0a.html",
+      "raw": "fonti/88bf34313a1bcd0a.md",
+      "sha256": "3896dd40513015f2c4ba0dd647acacb87b888701327da373a4ff7792863a05e1",
+      "bytes": 18346
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-039.md",
+      "title": "CAST-039",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "e5c522a49f777270.html",
+      "raw": "fonti/e5c522a49f777270.md",
+      "sha256": "70af0a70f683fc8cbe934b4be8db16744ca46ca716fb29d2a1950755d75aa1dc",
+      "bytes": 9280
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-082.md",
+      "title": "CAST-082",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "107df40a5245a3d2.html",
+      "raw": "fonti/107df40a5245a3d2.md",
+      "sha256": "0d1bbf30ee5401c0ad1fbe1d23f26a610cf32bb07010ce91a5e77dc960605d1c",
+      "bytes": 8082
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CANONE_VIGENTE/Societa_condivisa.json",
+      "title": "Societa condivisa",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "364b774980d27538.html",
+      "raw": "fonti/364b774980d27538.json",
+      "sha256": "a21f8468a9f3c908200e3db881267152730b27c5814cb1f20558104d50a2c550",
+      "bytes": 64458
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-018.md",
+      "title": "CAST-018",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "a4cee9c920be9d15.html",
+      "raw": "fonti/a4cee9c920be9d15.md",
+      "sha256": "c896318fa54d7a432be252cd2153fc2e8dc1908d5805e1f52dad3a73d00550e3",
+      "bytes": 17684
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-595.md",
+      "title": "CAST-595",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "388b2248da39bfe0.html",
+      "raw": "fonti/388b2248da39bfe0.md",
+      "sha256": "4801020a06206964e53745d5c796ba3c75a6c9454c071a16c73224d42e1917e5",
+      "bytes": 4712
+    },
+    {
+      "source": "CANONE_VIGENTE/Continuita_e_presenze_375.json",
+      "title": "Continuita e presenze 375",
+      "group": "Consolidamento operativo 375",
+      "url": "84a7ef6421608171.html",
+      "raw": "fonti/84a7ef6421608171.json",
+      "sha256": "c1ac9f043fb348ce098c72124ec6f9530c017a660051cd4db9c2c9537bfdfe52",
+      "bytes": 68929
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CANONE_VIGENTE/Cast_riservato.json",
+      "title": "Cast riservato",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "cba3c2a40e8acb50.html",
+      "raw": "fonti/cba3c2a40e8acb50.json",
+      "sha256": "08d826faf3e09b8a896c0447b07362e582288fa9d8d62afae15b638955fd606b",
+      "bytes": 3855601
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-462.md",
+      "title": "CAST-462",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "1afbd68b6d88bb54.html",
+      "raw": "fonti/1afbd68b6d88bb54.md",
+      "sha256": "e553448d8d0710471429b78d824d01023023281854340d2f76659652fa4e9f38",
+      "bytes": 7450
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-490.md",
+      "title": "CAST-490",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "02f1a2dfb85c58c4.html",
+      "raw": "fonti/02f1a2dfb85c58c4.md",
+      "sha256": "5e4b4dd1cd045d9b0829c0593e1afddf940af88ced4c199d85968b2c8923dba8",
+      "bytes": 6054
+    },
+    {
+      "source": "GIOCATORE_375_Tesoreria_pubblica_del_ducato.md",
+      "title": "GIOCATORE 375 Tesoreria pubblica del ducato",
+      "group": "Consolidamento operativo 375",
+      "url": "5777f48af88f75e4.html",
+      "raw": "fonti/5777f48af88f75e4.md",
+      "sha256": "cd0de2f764c10e4c51eb04d11db325ef1a4dabe17e8293fa8601a40acac4c2ae",
+      "bytes": 6623
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-007.md",
+      "title": "CAST-007",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "2a0c6c3265610cd9.html",
+      "raw": "fonti/2a0c6c3265610cd9.md",
+      "sha256": "d2a94c798fb747e94fd671ac8ee38c7ba5a2f3ac3547775f00e58dadadbe81d3",
+      "bytes": 19604
+    },
+    {
+      "source": "GIOCATORE_375_Fabbricazione_consegna_e_rinnovo_dei_mezzi.md",
+      "title": "GIOCATORE 375 Fabbricazione consegna e rinnovo dei mezzi",
+      "group": "Consolidamento operativo 375",
+      "url": "64f755ecc1c79ac7.html",
+      "raw": "fonti/64f755ecc1c79ac7.md",
+      "sha256": "81db962062f2f6e5516d58e79130b882066cc006381a528bba2e53f28dc09129",
+      "bytes": 10218
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-594.md",
+      "title": "CAST-594",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "ad36d0477c04697d.html",
+      "raw": "fonti/ad36d0477c04697d.md",
+      "sha256": "bb064a790302696ffea4f2bbbca5384e5116aed3b1c8d6d96e98e5a2657c6396",
+      "bytes": 4596
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-592.md",
+      "title": "CAST-592",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "a5534e1261f3301f.html",
+      "raw": "fonti/a5534e1261f3301f.md",
+      "sha256": "0b203b1fdbafbf33364d1490c07be53176b97f8b4bf8b7e0fe8783c54f72b729",
+      "bytes": 4990
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CANONE_VIGENTE/Religioni_e_istituzioni_367.json",
+      "title": "Religioni e istituzioni 367",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "bb86dd4a59120983.html",
+      "raw": "fonti/bb86dd4a59120983.json",
+      "sha256": "c63a356b8e26736aa7bd30ae5640f7f6aca9e8af659e5c5c5aa8fa1e94c51389",
+      "bytes": 50992
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-041.md",
+      "title": "CAST-041",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "9b090d3ac3ba9e60.html",
+      "raw": "fonti/9b090d3ac3ba9e60.md",
+      "sha256": "46d8df2877fcfd0887c2fdc6cdb673af0c5346ed84e568431ccf51482a530e18",
+      "bytes": 9622
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-042.md",
+      "title": "CAST-042",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "8c43a99fb255c79a.html",
+      "raw": "fonti/8c43a99fb255c79a.md",
+      "sha256": "669069ff3b2f6606b660e54baa5ec0c675e9cd84df63267ed3c17c937de3ad93",
+      "bytes": 9126
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-011.md",
+      "title": "CAST-011",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "5d56522b8683f461.html",
+      "raw": "fonti/5d56522b8683f461.md",
+      "sha256": "998f1f23d233d84bf284e277167fd81aba459cbbc53683f0b25d3a77d32437ce",
+      "bytes": 23431
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/13_Protocollo_e_consegna/RISERVATO/RISERVATO_375_Guida_di_consultazione_del_Narratore.md",
+      "title": "RISERVATO 375 Guida di consultazione del Narratore",
+      "group": "Consolidamento operativo 375",
+      "url": "f966476f5dc05866.html",
+      "raw": "fonti/f966476f5dc05866.md",
+      "sha256": "9ee109b0ee1420742e69d49a2afba67d09ae8c752ed530e2120ffebb0fccab70",
+      "bytes": 3655
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/03_Regole_comuni_del_sistema/GIOCATORE/GIOCATORE_375_Manifestazioni_ed_esposizioni_divine.md",
+      "title": "GIOCATORE 375 Manifestazioni ed esposizioni divine",
+      "group": "Consolidamento operativo 375",
+      "url": "861428d69245b439.html",
+      "raw": "fonti/861428d69245b439.md",
+      "sha256": "0fa0f97671caa4e58e681666f7a340bfdcf239652d38fa163f5e9649cbcee636",
+      "bytes": 19867
+    },
+    {
+      "source": "RISERVATO_375_Seats_accesso_e_successione.md",
+      "title": "RISERVATO 375 Seats accesso e successione",
+      "group": "Consolidamento operativo 375",
+      "url": "1327373b64a2fa57.html",
+      "raw": "fonti/1327373b64a2fa57.md",
+      "sha256": "7653b0bf74c7aff339f8d11b5c48bbd12e57ef24005fe61a433bc5d563fc18e4",
+      "bytes": 33488
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-022.md",
+      "title": "CAST-022",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "ecb5f0626667cc6e.html",
+      "raw": "fonti/ecb5f0626667cc6e.md",
+      "sha256": "07f6e88fdde8b8b05e29634710376cceb9e5325d8d697ab268714347e1f7c323",
+      "bytes": 10186
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-492.md",
+      "title": "CAST-492",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "d00668bc7fd51fa7.html",
+      "raw": "fonti/d00668bc7fd51fa7.md",
+      "sha256": "b2b978d0a11677141ee6831f33cd4fdc7913632553ca61d662ce6c482d483a89",
+      "bytes": 6259
+    },
+    {
+      "source": "RISERVATO_375_Registro_operativo_delle_potenze.md",
+      "title": "RISERVATO 375 Registro operativo delle potenze",
+      "group": "Consolidamento operativo 375",
+      "url": "a914e0b0fde3625d.html",
+      "raw": "fonti/a914e0b0fde3625d.md",
+      "sha256": "d3fc57576170915b635464a26d5b585a0388d66be40970de5f60f8a9315f8d6f",
+      "bytes": 59317
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-009.md",
+      "title": "CAST-009",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "027050b04142254d.html",
+      "raw": "fonti/027050b04142254d.md",
+      "sha256": "5d10ab66c13e2deec8af2551eaac7d4166af12e040cde00f67f24a6a686bc346",
+      "bytes": 18115
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-463.md",
+      "title": "CAST-463",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "5ace2d4ffa7823a0.html",
+      "raw": "fonti/5ace2d4ffa7823a0.md",
+      "sha256": "14098c94496b6c24f94f8431f8e59514caca277c8115f2300d4e06c34edea8b4",
+      "bytes": 7756
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-590.md",
+      "title": "CAST-590",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "32a64c4bd8c32224.html",
+      "raw": "fonti/32a64c4bd8c32224.md",
+      "sha256": "d5bbede1bb573855e65602ef8a98ddee417fc00c81e1bba78fe8cf4b6389b116",
+      "bytes": 5103
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-025.md",
+      "title": "CAST-025",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "0f182f4d5cd915dd.html",
+      "raw": "fonti/0f182f4d5cd915dd.md",
+      "sha256": "1b51f30b35a32edcd789a410c84fe024f64df1203f5e5f560536871a4dfdd40d",
+      "bytes": 10981
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-081.md",
+      "title": "CAST-081",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "45ebf3de4f94e14f.html",
+      "raw": "fonti/45ebf3de4f94e14f.md",
+      "sha256": "b887f556f4177c9f14b7c210b7f052452989fa2f60898d84d4d71168b9ee778b",
+      "bytes": 8712
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-080.md",
+      "title": "CAST-080",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "cccf34874c2fb3c2.html",
+      "raw": "fonti/cccf34874c2fb3c2.md",
+      "sha256": "fc276f84c5ca4aaa07c289047c8c02b09da8ac96e96714f5fc3bdb1c955402b9",
+      "bytes": 7893
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-026.md",
+      "title": "CAST-026",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "0e7b31356491606e.html",
+      "raw": "fonti/0e7b31356491606e.md",
+      "sha256": "67b828a1084b5a14394ceb462982ec920219c71ab8939ddead2209555d94fda1",
+      "bytes": 14512
+    },
+    {
+      "source": "CANONE_VIGENTE/Seats_condizioni_375.json",
+      "title": "Seats condizioni 375",
+      "group": "Consolidamento operativo 375",
+      "url": "58c7e0da28cf7ace.html",
+      "raw": "fonti/58c7e0da28cf7ace.json",
+      "sha256": "4b525120e69ec0fcdabb6cb44387be9e60c29ec851d04f322df5e2533ddfdd33",
+      "bytes": 34806
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-083.md",
+      "title": "CAST-083",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "d879fd49ceac9807.html",
+      "raw": "fonti/d879fd49ceac9807.md",
+      "sha256": "bdeb67cf4a660e9dd496d65ba67fa10dfb4d5484e2f9ac444cdec77f426d44cb",
+      "bytes": 7920
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/11_Oggetti_creature_e_unita_di_gioco/GIOCATORE/GIOCATORE_375_Fabbricazione_consegna_e_rinnovo_dei_mezzi.md",
+      "title": "GIOCATORE 375 Fabbricazione consegna e rinnovo dei mezzi",
+      "group": "Consolidamento operativo 375",
+      "url": "173d1dbb56a97d58.html",
+      "raw": "fonti/173d1dbb56a97d58.md",
+      "sha256": "81db962062f2f6e5516d58e79130b882066cc006381a528bba2e53f28dc09129",
+      "bytes": 10218
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-016.md",
+      "title": "CAST-016",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "687271d11cacdc8f.html",
+      "raw": "fonti/687271d11cacdc8f.md",
+      "sha256": "0f11604a603bb485c4333e92436b1b3fb7d6f4ede271591cb34504d8699b1ac6",
+      "bytes": 16292
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-010.md",
+      "title": "CAST-010",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "eb47b274494f6e50.html",
+      "raw": "fonti/eb47b274494f6e50.md",
+      "sha256": "3447676086969cb95f5b61d7f0ffa393ee53a3180a60a66292feee2b993a0c32",
+      "bytes": 18739
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-014.md",
+      "title": "CAST-014",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "165e20c1fa91705d.html",
+      "raw": "fonti/165e20c1fa91705d.md",
+      "sha256": "b0bbf9d4e89c8f007eb748b7c0498bc066b615df22e529688d4e5554d1cfcdac",
+      "bytes": 16590
+    },
+    {
+      "source": "CANONE_VIGENTE/Filiere_soprannaturali_375.json",
+      "title": "Filiere soprannaturali 375",
+      "group": "Consolidamento operativo 375",
+      "url": "b0ec115683d1de28.html",
+      "raw": "fonti/b0ec115683d1de28.json",
+      "sha256": "091d6f3b3a048a5532e0f4d900064fc329169af4bcaeb1d7106e12bca84fc86e",
+      "bytes": 9189
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-021.md",
+      "title": "CAST-021",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "993398e74128ff5a.html",
+      "raw": "fonti/993398e74128ff5a.md",
+      "sha256": "897f32ae92907d7b236dff209a708942c7d162a7e137ce0f674c6b02c0584f18",
+      "bytes": 10143
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-008.md",
+      "title": "CAST-008",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "a80a961da54b67ea.html",
+      "raw": "fonti/a80a961da54b67ea.md",
+      "sha256": "628b8f54141e6b9ad797337a3e5ab37d61958095bfb91e5118934ec31b0a3b8b",
+      "bytes": 18731
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-020.md",
+      "title": "CAST-020",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "9176d35854cf9462.html",
+      "raw": "fonti/9176d35854cf9462.md",
+      "sha256": "9216bc69045c21fce233b42b929b052f4fa8d089a43100823e87b5f194cf81cc",
+      "bytes": 17476
+    },
+    {
+      "source": "GIOCATORE_375_Manifestazioni_ed_esposizioni_divine.md",
+      "title": "GIOCATORE 375 Manifestazioni ed esposizioni divine",
+      "group": "Consolidamento operativo 375",
+      "url": "5f5f30e76165eb00.html",
+      "raw": "fonti/5f5f30e76165eb00.md",
+      "sha256": "0fa0f97671caa4e58e681666f7a340bfdcf239652d38fa163f5e9649cbcee636",
+      "bytes": 19867
+    },
+    {
+      "source": "CANONE_VIGENTE/Tesoreria_pubblica_Rovenne_375.json",
+      "title": "Tesoreria pubblica Rovenne 375",
+      "group": "Consolidamento operativo 375",
+      "url": "13fc715cbee42593.html",
+      "raw": "fonti/13fc715cbee42593.json",
+      "sha256": "3540d2594fefed14033019eaba18ab48e4122fc51cbf1663ebe449f04771e67d",
+      "bytes": 6364
+    },
+    {
+      "source": "375_Registro_di_precedenza.md",
+      "title": "375 Registro di precedenza",
+      "group": "Consolidamento operativo 375",
+      "url": "1ce51cb5e1ed9c84.html",
+      "raw": "fonti/1ce51cb5e1ed9c84.md",
+      "sha256": "abd73ddb7b8c1da6dd8feebd3710dc52fee15e21f2ef90ffec9f39891b4b0e2a",
+      "bytes": 532
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_375/CAST_RISERVATO/CAST-015.md",
+      "title": "CAST-015",
+      "group": "Archivio precedente alla revisione 375",
+      "url": "96f794e1f6c25d10.html",
+      "raw": "fonti/96f794e1f6c25d10.md",
+      "sha256": "44b84c524bcb760024c510954fc68f1419551b227929391f70af14b29a22fe7e",
+      "bytes": 20691
+    },
+    {
+      "source": "VERIFICA_APPROFONDIMENTI_375.json",
+      "title": "VERIFICA APPROFONDIMENTI 375",
+      "group": "Verifica tecnica — 375",
+      "url": "f10d94fd2af35a7f.html",
+      "raw": "fonti/f10d94fd2af35a7f.json",
+      "sha256": "4de1d760abe63631600ee1330a8ea5df4cfcd365524031a15839bf2e15e66352",
+      "bytes": 295
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",
@@ -20453,7 +20993,7 @@
   "practical_faq_revision": "349",
   "operational_revision": "350",
   "current_topic_register": "350_Fonti_vigenti_per_argomento.md",
-  "current_revision": 374,
+  "current_revision": 375,
   "revision_373_scope": "Culti, legalità locale e pratiche biologiche; nessuna modifica delle progressioni.",
   "revision_374_scope": "Consolidamento, 24 rapporti, 48 reti, culture, fede, scene e risposta alle crisi. Progressioni e fatti protetti invariati."
 }

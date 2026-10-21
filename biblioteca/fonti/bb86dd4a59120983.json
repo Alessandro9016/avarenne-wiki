@@ -1,0 +1,520 @@
+{
+  "revision": 367,
+  "basis": "Espansioni autoriali esplicite; inventari, calendari e segreti precedenti restano vigenti.",
+  "religions": [
+    {
+      "id": "REL-01",
+      "name": "Concordia dei Mestieri",
+      "heading": "Il banco aperto",
+      "practice": "Ogni capitolo conserva un banco di attrezzi di apprendistato: chi riceve uno strumento lo restituisce riparato oppure racconta pubblicamente perché non può farlo. La cerimonia non è un contratto Chain e non espone chi è indigente a una punizione magica. I pasti commemorativi ricordano mestieri e soccorsi, non un elenco infallibile di divinità liberatrici.",
+      "structure": "Maestri eletti e tesoriere rispondono al consiglio del capitolo. Il concilio regionale può sconfessare una dottrina, ma non trasferire una bottega con una sentenza religiosa. Quote di mestiere e lasciti finanziano scuole e fondi funerari; il lavoro delle allieve e degli apprendisti non è una fonte gratuita da dare per scontata.",
+      "tension_and_play": "Una corrente vuole riservare il banco ai residenti che pagano quote; un’altra ammette lavoratori mobili e rimanda la contribuzione. Il lascito che limita una scuola è il caso già aperto dei Capitoli della Concordia, non una seconda vertenza inventata. Una famiglia può chiedere un posto, un maestro contestare una donazione, un artigiano perdere clienti dopo aver difeso l’ammissione.",
+      "authority_limit": "La generosità non prova l’autore storico di un miracolo; il nome Edran non è nel catechismo ordinario"
+    },
+    {
+      "id": "REL-02",
+      "name": "Clear Dawn",
+      "heading": "La veglia della lampada schermata",
+      "practice": "Nelle veglie una lampada viene scoperta soltanto quando una persona sceglie di testimoniare; chi tace rimane parte dell’assemblea. Il gesto rituale non rivela menzogne e non obbliga confessioni. Nelle sale cliniche la luce utile a vedere una ferita è distinta dalla purificazione investita eseguita da un Bearer qualificato.",
+      "structure": "Le case distinguono ministro, amministratore e responsabile clinico. Una donazione può comprare materiali o finanziare un turno, non un certificato di purezza. Sairen è il riferimento divino; il suo patrocinio non rende ogni capitolo portavoce delle sue intenzioni. Un contrasto fra sedi può continuare anche dopo un pronunciamento dottrinale.",
+      "tension_and_play": "Il nodo più duro riguarda il segreto: una vittima può aver bisogno di cure senza rendere pubblica una violenza. I predicatori della confessione aperta e i clinici della riservatezza si affrontano in casi concreti. Un ricovero può proteggere un testimone, un benefattore pretendere nomi, un malato rifiutare un rito senza perdere il trattamento ordinario.",
+      "authority_limit": "Halo cura effetti specifici e purifica secondo rango; un sacerdote ordinario non possiede Halo"
+    },
+    {
+      "id": "REL-03",
+      "name": "Living Mercy",
+      "heading": "La misura del respiro",
+      "practice": "L’accoglienza comprende acqua, riposo e domanda sui bisogni della persona prima del rito. Il respiro condiviso durante la preghiera non trasferisce vitalità né produce una Inscription. Le levatrici registrano nascite e cure separatamente dalle offerte; un padre, una compagna o una comunità possono assistere senza diventare proprietari del corpo assistito.",
+      "structure": "Le case mantengono un responsabile clinico e uno dei fondi. I curatori Heart non sostituiscono automaticamente infermieri, ostetriche e trasportatori. Oriel è patrona della continuità della cura, ma la dottrina del consenso può essere invocata anche contro una dipendenza nata nei suoi servizi. Le strutture urbane pagano forniture e turni rurali attraverso accordi distinti.",
+      "tension_and_play": "Il conflitto non consiste nel rendere ogni guarigione pericolosa: una cura riuscita è davvero riuscita. La contesa riguarda chi può raggiungerla, come lasciare un servizio e chi paga il seguito. Una vettura può liberare un turno rurale; un paziente può chiedere un secondo parere; una clinica può rifiutare il denaro di chi pretende controllo sui ricoverati.",
+      "authority_limit": "Heart non promette ritorno universale dalla morte; una cura del corpo non certifica continuità della persona"
+    },
+    {
+      "id": "REL-04",
+      "name": "Vigil of Doors",
+      "heading": "La soglia lasciata libera",
+      "practice": "Durante un commiato una porta rimane sgombra fino all’ultima persona che vuole uscire. Il rito permette di concludere il lutto anche senza un corpo recuperato, ma non dichiara morto un disperso ai fini patrimoniali. Nomi e oggetti vengono affidati alla memoria dei vivi; contattare una continuità custodita richiede invece un supporto e competenze effettive.",
+      "structure": "Sale funerarie e custodi di disposizioni possono operare nello stesso edificio senza confondere mandato religioso e atto civile. I compensi per sepoltura, trasporto e assistenza sono separabili. Althene è riferimento divino della separazione; non ogni custodia spirituale è sotto la sua sorveglianza e non ogni morto la incontra.",
+      "tension_and_play": "La controversia più delicata nasce quando famiglia, erede e persona custodita vogliono cose diverse. Il rispetto dei morti può giustificare il silenzio oppure essere usato per nascondere un abuso. Due registri autentici e una notifica mancata restano il caso della Rete delle Vigil. Un testimone morto può rifiutare di parlare senza essere trattato come merce difettosa.",
+      "authority_limit": "Non tutti i rituali sono soprannaturali; attestazione civile e diagnosi spirituale non coincidono"
+    },
+    {
+      "id": "REL-05",
+      "name": "Wayfarer Communion",
+      "heading": "Il posto per chi arriva tardi",
+      "practice": "Negli ospizi un posto a tavola viene lasciato disponibile fino alla chiusura serale; il viandante ricevuto aiuta secondo possibilità e non acquista un passaggio soprannaturale con una moneta. Le partenze comprendono controllo di attrezzi, viveri e persone attese al ritorno. Le formule del cammino non sono coordinate di una Root.",
+      "structure": "Custodi di ospizi, compilatori di carte e manutentori di segnali hanno mandati locali. Helyr è venerata attraverso aspetti del percorso, dell’attesa e del raccordo, senza rivelare per questo l’architettura cosmica. Donazioni e pedaggi convenzionati finanziano tratti distinti; una sede può restare aperta anche se una rotta viene sospesa.",
+      "tension_and_play": "Il conflitto è fra ospitalità e sostenibilità: riservare posti a carovane ricche può finanziare l’edificio e tradirne lo scopo. Un viandante senza documenti può chiedere riparo; un segnale rotto esigere un intervento prima del disgelo; una compagnia offrire manutenzione in cambio di esclusiva. Non ogni rifiuto di transito è una trappola divina.",
+      "authority_limit": "Le carte non aprono Astrolabe per chi le legge; i ministri non controllano tutte le rotte"
+    },
+    {
+      "id": "REL-06",
+      "name": "Witness Houses",
+      "heading": "La lettura contraddetta",
+      "practice": "Una lettura pubblica comprende una conclusione e la migliore obiezione disponibile. L’officiante conserva entrambe, anche quando l’obiezione viene superata. Le scuole insegnano osservazione ordinaria insieme a magia effettiva: provare un metodo non concede Oracle, copiare un grimorio non incorpora Archive.",
+      "structure": "Le case eleggono responsabili dei fondi, dei prestiti e delle prove. Un mago può guidare una dimostrazione senza controllare l’ammissione dei lettori. Talren è patrono di una tradizione plurale, non autore di ogni libro e non garante di ogni inferenza. Donatori e brevetti finanziano le copie, ma possono limitarne la diffusione.",
+      "tension_and_play": "Oracle ricerca relazioni e metodi; Archive conserva, restituisce e usa registrazioni secondo le proprie capacità. Una scuola può primeggiare in una sola pratica senza possedere l’altra. La nota abbreviata delle case di Mereth resta un problema di provenienza reale. Broken Seal può difendere una fonte contro una casa della stessa tradizione senza trasformarsi in nemico della conoscenza.",
+      "authority_limit": "Non tutto ciò che un membro crede è vero; Archive e Oracle sono autonomamente pericolose e complete secondo 56–57"
+    },
+    {
+      "id": "REL-07",
+      "name": "Common Measure",
+      "heading": "La sedia del dissenso",
+      "practice": "Le assemblee lasciano una sedia a chi contesta il patto proposto. Il presidente deve riportare il motivo del dissenso prima della votazione; il gesto non impedisce intimidazioni fuori dall’aula e non costituisce protezione soprannaturale. Non esiste una divinità richiesta per aderire.",
+      "structure": "Associazioni autonome finanziano consulenze e difese attraverso quote e sottoscrizioni. Un arbitro viene accettato dalle parti entro un mandato; non acquisisce giurisdizione generale. Credenti e non credenti condividono una pratica civile pur conservando divergenze sulla fonte ultima dei diritti.",
+      "tension_and_play": "La competenza costa: chi sa leggere clausole può dominare una discussione formalmente aperta. Un fondo per la difesa può sostenere un avversario scomodo; un arbitro può ricusarsi; un finanziatore può chiedere di escludere una categoria di cause. Questi conflitti non trasformano Common Measure in una Effige o in una chiesa universale.",
+      "authority_limit": "Non è una Effigy e non incorpora Crown attraverso la filosofia"
+    },
+    {
+      "id": "REL-08",
+      "name": "Throne and Bond",
+      "heading": "La carica e il termine",
+      "practice": "L’investitura mostra un segno della carica e una tavoletta con il termine o la condizione di cessazione del mandato. I due oggetti sono distinti: poter ordinare non equivale a possedere per sempre il servizio altrui. Un rito ordinario non produce Crown o Chain.",
+      "structure": "I ministri del Trono e quelli del Vincolo mantengono interpretazioni separate. Ilyra e Deyran non sono una sola persona, né una integrazione completa. Le scuole notarili ricevono rette e lasciti; il finanziamento di una cerimonia non rende valido un privilegio contrario alla legge locale.",
+      "tension_and_play": "I tradizionalisti sacralizzano la continuità della carica; i riformatori insistono sulla possibilità di cessazione. La falsificazione di Marwen è un abuso concreto da provare, non dottrina conosciuta da tutti. Un servitore può rivendicare il termine del proprio obbligo, un erede rifiutare un’investitura, un ministro denunciare un atto emesso in nome del patrono.",
+      "authority_limit": "Crown e Chain restano percorsi distinti; nessun fedele ordinario li possiede entrambi per il culto comune"
+    },
+    {
+      "id": "REL-09",
+      "name": "Ember Fellowship",
+      "heading": "Il resto della fornace",
+      "practice": "Alla chiusura di una lavorazione si espongono prodotto, consumo e scarto: un oggetto bello non cancella una ferita o un terreno danneggiato. La commemorazione degli infortuni include i nomi dei lavoratori quando le famiglie lo consentono. La brace rituale resta ordinaria salvo Medium identificato.",
+      "structure": "Mutue e scuole professionali condividono edifici, ma non sempre bilanci. I patroni di trasformazione, coltivazione e forze del mondo conservano identità e poteri distinti. Una celebrazione comune non incorpora tre Effigi e non completa una Root. Le quote di officina finanziano attrezzi di prova e sostegno agli infortunati.",
+      "tension_and_play": "La divisione attraversa proprietari e lavoratori: mantenere un impianto vecchio può proteggere impieghi e moltiplicare incidenti; sostituirlo può espellere i meno qualificati. Un apprendista può chiedere una prova pubblica, una vedova contestare un monumento pagato con il fondo cure, un’officina finanziare formazione per un concorrente.",
+      "authority_limit": "Crucible, Tempest e Seed non diventano una integrazione completa per un rito con tre simboli"
+    },
+    {
+      "id": "REL-10",
+      "name": "Tide Covenant",
+      "heading": "La corda riportata a terra",
+      "practice": "Una corda di soccorso viene riavvolta dopo ogni commemorazione: non si loda chi si getta in mare senza mezzi e obbliga altri a seguirlo. Per i dispersi si può celebrare una veglia senza anticipare l’atto civile di morte. I riti non comandano il tempo atmosferico.",
+      "structure": "Capitoli portuali, mutue e squadre di soccorso hanno bilanci e responsabilità proprie. Alcuni invocano Enra, altri custodiscono una tradizione marinara senza patrono esclusivo. Assicuratori possono contribuire al soccorso, ma non scegliere chi viene salvato durante un intervento possibile.",
+      "tension_and_play": "I grandi porti vogliono accentramento; i piccoli temono di pagare flotte che non raggiungeranno mai le loro coste. Una nave può chiedere un rimorchio, un equipaggio contestare la valutazione di rischio, un capitolo rifiutare di benedire una partenza palesemente insicura. Una tempesta ordinaria resta ordinaria finché le prove indicano altro.",
+      "authority_limit": "Non ogni tempesta è opera di Tempest; Maw non è sinonimo del mare"
+    },
+    {
+      "id": "REL-11",
+      "name": "Tradizioni fluviali del Creator — ricordo antico",
+      "heading": "Il nome custodito sulle rive",
+      "practice": "Questa voce distingue il ricordo antico di Edran dalle confraternite moderne. Nell’antichità i patti di uscita e ritorno scandivano lavoro, soccorso e trasmissione delle formule; il protagonista può ricordare quanto fissato nelle sue fonti personali. La sopravvivenza moderna di un canto non dimostra che ogni cantore conosca il Creator.",
+      "structure": "Il quadro attuale deve essere ricostruito attraverso luoghi, testi e persone effettive. Le comunità della Sponda e le loro copie del Canticle non sono una chiesa mondiale rimasta intatta per millenni. I servizi civili dei moderni approdi non diventano proprietà personale del liberatore ritornato.",
+      "tension_and_play": "Una formula può conservarsi con un significato diverso; una traduzione può aver salvato la pratica e perso il nome. L’incontro giocabile consiste nel confrontare testimonianze e usi, non nel far riconoscere automaticamente Edran da un’intera popolazione. Le informazioni riservate sulle continuità concrete restano nelle fonti della Sponda e della liberazione.",
+      "authority_limit": "Non è una attestazione che un particolare gruppo moderno conservi oggi il nome o riconosca il ritorno"
+    },
+    {
+      "id": "REL-12",
+      "name": "Tradizioni di Namar — ricordo antico",
+      "heading": "L’opera e chi la mantiene",
+      "practice": "Il ricordo della First Separation comprende una fondazione e le persone che vi lavorarono; le pratiche moderne di Namar appartengono invece a comunità cresciute e cambiate. La visita alle opere, il lavoro ai bacini e l’insegnamento tecnico non provano da soli una devozione personale a Edran.",
+      "structure": "Scuole, custodi e operatori idrici devono essere letti nelle fonti attuali di Namar, di Living Mercy e dei Bacini Aperti. Non viene introdotto un sommo sacerdote universale per riempire la voce. L’origine miracolosa di un’opera non elimina salari, manutenzione, competenze o dissenso dei suoi utilizzatori.",
+      "tension_and_play": "Una comunità può venerare il fondatore e rifiutare un suo ordine presente; un tecnico può non credervi e proteggere meglio il servizio. Il conflitto già aperto riguarda continuità tecnica e successione degli incarichi. Il ritorno del protagonista non costituisce automaticamente notifica pubblica, riconoscimento o restaurazione del vecchio governo.",
+      "authority_limit": "Il ricordo di avere costruito non certifica la sopravvivenza attuale di un culto personale"
+    },
+    {
+      "id": "REL-13",
+      "name": "Custodia della Veglia",
+      "heading": "Il segnale che resta visibile",
+      "practice": "Nelle veglie un segnale ordinario di uscita deve restare raggiungibile anche quando si abbassa la luce. Il rito di riposo termina quando l’ospite lo chiede, salvo un pericolo e un mandato effettivi da valutare. Eclipse investita è distinta da buio, sonno e semplice silenzio.",
+      "structure": "Ricoveri autonomi, addetti ai segnali e Bearers rispondono di parti diverse del servizio. Astrid dirige l’ufficio locale già documentato, non tutti i fedeli; Varessa non è nota attraverso ogni formula pubblica. Quote e convenzioni finanziano turni, manutenzione e soccorso.",
+      "tension_and_play": "Le clausure volontarie e la protezione dei riposi sono pratiche lecite; la corrente tutelare tenta di decidere quando gli ospiti sono pronti a uscire. Il raccordo sospetto di Noran richiede una verifica concreta. La prima prova locale del 23 maggio e il rinnovo del 30 giugno rimangono eventi distinti del calendario vigente.",
+      "authority_limit": "La dottrina pubblica non rivela possessore della Seat o coordinate della Root."
+    },
+    {
+      "id": "REL-14",
+      "name": "Concordia dei Cicli",
+      "heading": "La seconda conferma",
+      "practice": "Una commissione rituale può chiedere di ripetere il consenso quando l’influsso è cessato. Specchi, sigilli e calendari sono strumenti con funzioni specifiche, non un’autorità generica sulla trasformazione del corpo. La cura quotidiana del supporto fa parte della pratica, anche quando il cliente non vede magia all’opera.",
+      "structure": "Scuole del riflesso e del vincolo rituale mantengono responsabili separati. Teva è referente della camera di Tevren; il suo famiglio contrattuale non appartiene a ogni allievo. Ilyren e la sua protezione riservata non sono conoscenza automatica della scuola. Rette, mutue e incarichi pagano materiali e tutoraggio.",
+      "tension_and_play": "Il contrasto verte sulla fascinazione prima della firma: un sì pronunciato sotto influsso non risolve la questione. La copia incompleta e quella periferica vanno confrontate senza decretare che ogni docente sia complice. Una ricevuta, una conferma libera o la sospensione dell’incarico possono cambiare il caso senza modificare retroattivamente le clausole.",
+      "authority_limit": "Non tutti gli aderenti sono Crescent; conoscenza moderna non automatica per Edran."
+    }
+  ],
+  "institutions": [
+    {
+      "id": "FAC-01",
+      "name": "Ufficio delle Concordanze",
+      "heading": "La correzione segue il fascicolo, non il volto",
+      "organization": "Gli ispettori raccolgono copie con provenienza e data; il perito firma ciò che ha verificato, Doria decide il campo della pubblicazione. Una copia fotografica non dimostra da sola identità personale. I ventisette trasferimenti sono una lavorazione in corso, non ventisette frodi già provate.",
+      "play": "Un impiegato può restringere una richiesta e chiedere integrazioni; non può sospendere tutti i beni del duca. Un richiedente può portare l’originale, contestare il modello o chiedere che un caso resti irrisolto. Il furto di un archivio modifica le prove disponibili, non la verità del diritto."
+    },
+    {
+      "id": "FAC-02",
+      "name": "Consorzio Tre Moli",
+      "heading": "Tre moli non sono un porto intero",
+      "organization": "I soci approvano spese comuni, i capisquadra dispongono il lavoro e i tecnici misurano i supporti. I due pontoni servono un intervento delimitato: spostarli può ritardare un altro carico. Malrec tratta il finanziamento, Ren segnala il rischio; nessuno dei due acquisisce per questo tutti i magazzini di Auvrel.",
+      "play": "Il 25 maggio riguarda l’appoggio; il dragaggio del 3 giugno è un altro processo. Riparare l’appoggio elimina quel difetto, ma non fa sparire sedimenti o un contratto svantaggioso. Una deviazione concordata, un noleggio o un prestito possono risolvere parti diverse senza un disastro obbligatorio."
+    },
+    {
+      "id": "FAC-03",
+      "name": "Mutua dei Turni del Porto",
+      "heading": "Il fondo appartiene a chi lo sostiene",
+      "organization": "I rappresentanti raccolgono richieste, il tesoriere distingue somme liquide e cure impegnate, i turnisti verificano la presenza effettiva. I familiari non devono conoscere una Effige per dimostrare un salario mancante. L’infermeria convenzionata è un servizio con personale reale, non una riserva illimitata di Heart.",
+      "play": "Terra e mare possono contendersi il fondo senza che uno dei gruppi sia malvagio. Un rimborso urgente riduce denaro disponibile, una nuova donazione può allargarlo senza comprare voti. Lo sciopero richiede consenso e organizzazione; non viene imposto da un singolo Banner o dal Narratore."
+    },
+    {
+      "id": "FAC-04",
+      "name": "Collegium dei Metodi",
+      "heading": "Un certificato ha un campo",
+      "organization": "Il laboratorio separa chi prepara il campione da chi ripete la prova; Elren dirige l’analisi pertinente e Dama controlla preparazione e catena materiale. Gli studenti possono assistere senza acquisire Oracle. Il Collegium distingue scoperta, licenza d’uso e formula pubblicitaria.",
+      "play": "L’8 giugno è la prova IND-01 già fissata. Il metodo può risultare valido e l’etichetta commerciale ingannevole. Correggere l’etichetta può incidere su credito e vendite senza rendere falso l’esperimento; un produttore può accettare una certificazione ristretta invece di essere distrutto."
+    },
+    {
+      "id": "FAC-05",
+      "name": "Witness Houses di Mereth",
+      "heading": "La copia che conserva il contesto",
+      "organization": "Prestiti, copie e consultazioni hanno referenti distinti. Il bibliotecario può consentire una lettura senza permettere la riproduzione industriale. La rete ospita ricercatori Oracle e Archive con capacità differenti, insieme a copisti ordinari; non assegna entrambe le Effigi ai propri soci.",
+      "play": "La nota abbreviata fu tagliata legalmente: cercare un falsario universale sarebbe la pista sbagliata. Una copia integrale può ristabilire il contesto e aprire un conflitto sui diritti di studio. Broken Seal non è il braccio segreto dell’intera istituzione e può contestarne le scelte."
+    },
+    {
+      "id": "FAC-06",
+      "name": "Capitoli della Concordia",
+      "heading": "La scuola e il lascito",
+      "organization": "Il capitolo amministra insegnanti ed edificio, mentre il lascito vincola un fondo preciso. L’accesso alla scuola dipende dalla disciplina locale e dalle risorse effettive, non da un riconoscimento soprannaturale della dignità. Un benefattore può aver agito in buona fede e lasciare comunque una clausola escludente.",
+      "play": "Il 10 giugno si esamina lo statuto; il posto richiesto da una famiglia non è un’iscrizione già accolta. Posti temporanei, nuovi fondi e interpretazione del lascito sono strade diverse. Il capitolo può aiutare la famiglia anche se la riforma generale resta controversa."
+    },
+    {
+      "id": "FAC-07",
+      "name": "Case della Living Mercy",
+      "heading": "Una cura deve poter arrivare",
+      "organization": "Il responsabile clinico decide l’urgenza, chi organizza i turni trova trasporti e il fondo concorda ciò che può pagare. Il curatore non sceglie unilateralmente quale comunità perdere: rende visibili tempi e alternative. Il paziente può rifiutare un intervento investito e chiedere cure ordinarie disponibili.",
+      "play": "Il problema attuale include vetture e distanze. Una guarigione vera può risolvere il caso clinico; un mezzo di trasporto può risolvere l’accesso. Non introdurre una maledizione dopo ogni cura per conservare artificiosamente il conflitto. Altri turni e bisogni possono restare aperti."
+    },
+    {
+      "id": "FAC-08",
+      "name": "Banca di Lethorne",
+      "heading": "Solvibile non significa liquido",
+      "organization": "Il funzionario prepara una proposta, il comitato crediti valuta garanzie e scadenze, il cassiere paga soltanto somme autorizzate e presenti. I beni di Yselle sono suoi: la parentela non li trasforma in patrimonio disponibile del duca. Un immobile capiente può richiedere tempo per una vendita.",
+      "play": "L’esame dell’8 giugno non è una bancarotta già avvenuta. Dilazione, garanzia aggiuntiva o rinuncia al progetto hanno costi diversi. La banca può ridurre il credito senza voler rovinarla; un finanziatore ostile potrebbe invece usare un bisogno reale, ma deve agire con mezzi verificabili."
+    },
+    {
+      "id": "FAC-09",
+      "name": "Camera dei Noli Neressani",
+      "heading": "La tariffa contiene una politica",
+      "organization": "Capitani, assicuratori e mediatori portano dati diversi alla Camera; il prezzo concordato non sostituisce la decisione delle sei repubbliche. Il testo del 789 è un precedente applicato e contestabile, non una legge cosmica. Una rotta economica può imporre una rinuncia più costosa del nolo.",
+      "play": "Il 2 luglio riguarda IND-02. Verificare qualità del rame, copertura del carico e clausola di trasporto richiede confronti distinti. Una repubblica minore può offrire un’alternativa, ma serve capacità navale effettiva; non si crea una flotta al solo annuncio di concorrenza."
+    },
+    {
+      "id": "FAC-10",
+      "name": "Consiglio delle Officine di Lethorne",
+      "heading": "Il ricambio come potere industriale",
+      "organization": "Il Consiglio mette in comune cataloghi, gare e prove; non possiede le officine associate. Un socio può sostenere una macchina vecchia per salvare la propria filiera senza aver provocato tutti i guasti. Yselle resta progettista con proprietà e volontà proprie.",
+      "play": "La prova di pompe dell’8 giugno si coordina con Collegium e credito, non crea tre crisi separate nello stesso giorno. Un brevetto aperto, un lotto pilota o formazione condivisa cambiano chi può produrre. L’adozione in serie richiede attrezzi, ricambi e lavoratori, anche se il primo prototipo funziona."
+    },
+    {
+      "id": "FAC-11",
+      "name": "Assemblee dei Bacini Aperti",
+      "heading": "Il bacino non è un solo principe",
+      "organization": "Assemblee locali inviano proposte e tecnici; il nodo di Elven facilita raccordi senza governare gli undici principati. Un custode uscente può sostenere una riforma e chiedere che il successore sappia mantenere le opere. Il servizio idrico non è proprietà di chi vince un dibattito.",
+      "play": "Il 4 giugno raccoglie proposte dopo il test di Namar. Separare carica, residenza e competenza è una scelta istituzionale concreta. Un piano può iniziare in un bacino mentre un altro lo rifiuta; nessun voto locale riscrive tutta Ovel o incorona Alexander."
+    },
+    {
+      "id": "FAC-12",
+      "name": "Rete delle Vigil di Porta",
+      "heading": "Il commiato e la notifica",
+      "organization": "Assistenti, copisti e registri civili svolgono funzioni differenti. Una sala funeraria può ospitare un lutto senza decidere una successione. Se due registri sono autentici ma la notifica manca, la procedura attende il passaggio corretto invece di inventare una falsificazione.",
+      "play": "Il confronto del 1 giugno può cercare ricevuta, destinatario e data. Recuperare un corpo può chiarire una parte e lasciare aperta una clausola. Un morto custodito non è costretto a testimoniare per accelerare una pratica; una famiglia può chiedere silenzio senza possedere la sua volontà."
+    },
+    {
+      "id": "FAC-13",
+      "name": "Ufficio della Veglia",
+      "heading": "Verificare l’uscita dal ricovero",
+      "organization": "Astrid coordina il presidio locale; Ophie porta la questione del mandato. Il tecnico può separare alimentazione del filtro e allarme soltanto con accessi e strumenti effettivi. Gli ospiti mantengono bisogni ordinari mentre si verifica una protezione investita.",
+      "play": "Prima si prova la linea il 23 maggio, poi si valuta il rinnovo del 30 giugno. La scala ordinaria può evacuare una sala prima del distacco. Scoprire il raccordo ostile non prova che tutti i custodi lo conoscessero; la responsabilità segue accessi, decisioni e informazioni individuali."
+    },
+    {
+      "id": "FAC-14",
+      "name": "Camera dei Sigilli",
+      "heading": "La copia che la periferia ha firmato",
+      "organization": "Teva confronta sigilli e mandato; Sela conserva la versione periferica. Il famiglio contrattuale ha limiti propri e non sostituisce lettori, testimoni o consenso. La camera locale non dirige tutte le scuole Crescent.",
+      "play": "Una lettura ordinaria precede il test della vasca. La protezione rivolta a Ilyren non è conoscenza automatica di ogni allievo. Ricevute e seconda conferma possono dimostrare chi accettò cosa; sospendere un rinnovo comporta una protezione ridotta, non un attacco inevitabile inventato per punire il rifiuto."
+    },
+    {
+      "id": "FAC-15",
+      "name": "The Glass Hunt",
+      "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+      "members": [
+        {
+          "id": "CAST-474",
+          "knowledge": "Conosce il secondo contratto su Sybille e il proprio atto passato. Non conosce Room Six o il ritorno di Edran. Una prova autentica della vendita è un canale possibile di rottura, non una conoscenza già trasmessa a Sybille."
+        },
+        {
+          "id": "CAST-475",
+          "knowledge": "La frase sul contratto di Mael nel vecchio campo secret è verità del Narratore, non prova che Sybille lo abbia letto. La sua paura di essere venduta è sospetto, finché non apprende un riscontro reale."
+        }
+      ],
+      "operation": "Identificare il vettore, sostituire la consegna con un esemplare ordinario e sequestrare chi sa ricaricare la cerniera.",
+      "resources_and_limits": "Un archivio fotografico non localizza persone mai registrate; la squadra non legge pensieri né attraversa ogni muro.",
+      "evidence": [
+        "Spese di osservazione e acquisto di un falso campione ordinario.",
+        "L’intermediario ha ricevuto una richiesta che confonde la cerniera III con una Root."
+      ],
+      "interruption": "Avvisare o mettere al sicuro il vettore, identificare il compratore, spezzare la catena di accesso. Distruggere il falso non distrugge la cerniera vera.",
+      "continuation": "Senza notizie nuove tengono sotto osservazione il deposito; non scoprono magicamente il club o Alexander.",
+      "dissent": "Sybille abbandona il contratto se ottiene una prova autentica della propria vendita; non basta affermarlo."
+    },
+    {
+      "id": "FAC-16",
+      "name": "The Ashen Tithe",
+      "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+      "members": [
+        {
+          "id": "CAST-476",
+          "knowledge": "Conosce il carattere imitativo dei marchi recenti. Non può riattivare i vincoli aboliti su interi popoli né identificare Alexander come Edran senza apprendimento."
+        },
+        {
+          "id": "CAST-477",
+          "knowledge": "Conosce i controlli che dirige e le limitazioni pratiche del convoglio. Non acquisisce tutta la ricerca sui marchi perché partecipa allo stesso fronte."
+        }
+      ],
+      "operation": "Trasferire i prigionieri, installare vincoli individuali e addestrare una guardia di leva finanziata dal minerale.",
+      "resources_and_limits": "Chain V non rende schiava una persona senza un rapporto effettivamente raggiunto; nessun comando di Crown su tutto il pianeta.",
+      "evidence": [
+        "Acquisti di ferri di custodia troppo numerosi per la cava dichiarata.",
+        "Una persona fuggita sa il percorso fino alla stazione, non la residenza del capo."
+      ],
+      "interruption": "Liberare i prigionieri, interrompere i vincoli con mezzi pertinenti, sottrarre entrate e custodi. La liberazione autentica resta valida.",
+      "continuation": "Il trasferimento può iniziare solo quando arriva la scorta e il tratto ferroviario è libero; i ritardi producono razionamento e possibilità di fuga.",
+      "dissent": "Ishra vuole il comando politico, non una famiglia di schiavi personale: accetta di perdere Voren pur di ereditare il sistema."
+    },
+    {
+      "id": "FAC-17",
+      "name": "The Red Orchard",
+      "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+      "members": [
+        {
+          "id": "CAST-478",
+          "knowledge": "Conosce il ramo nascosto già fissato; ignora la derivazione di Departure. Una confessione completa della propria operazione non contiene per questo segreti antichi."
+        },
+        {
+          "id": "CAST-479",
+          "knowledge": "Conosce le lesioni osservate e le procedure che esegue. Il sapere di Sevra su ogni distribuzione non è automaticamente suo; non conosce Departure per trasmissione del dossier."
+        }
+      ],
+      "operation": "Distribuire innesti sotto una falsa dichiarazione di autonomia e rapire chi possiede una tecnica concorrente di separazione.",
+      "resources_and_limits": "Seed non controlla automaticamente ogni vivente; il ramo funziona soltanto sugli innesti materialmente coinvolti.",
+      "evidence": [
+        "Un esemplare sopravvive con alimentazione dichiarata sufficiente, poi perde una funzione precisa.",
+        "Il trasportatore distingue i tre campioni e può indicare la destinazione."
+      ],
+      "interruption": "Offrire sostegni realmente autonomi, isolare la dipendenza e impedire il sequestro. Non esiste una punizione cosmica per chi guarisce davvero.",
+      "continuation": "La spedizione parte se il trasporto è confermato; Othrem riceve solo relazioni inviate attraverso canali realmente attivi.",
+      "dissent": "Arven mantiene un registro clinico perché non vuole perdere ogni possibilità di curare i propri pazienti: può opporsi a Sevra su prove mediche."
+    },
+    {
+      "id": "FAC-18",
+      "name": "The Still Court",
+      "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+      "members": [
+        {
+          "id": "CAST-480",
+          "knowledge": "Sa quale durata ha alterato. Ilyra conosce lo scopo generale ma non questa falsificazione: non può confessarla al posto suo o annullarla da lontano perché il lettore la conosce."
+        },
+        {
+          "id": "CAST-481",
+          "knowledge": "Sa quali uomini guida, l’ordine ricevuto e ciò che ha visto. La falsificazione nel campo secret resta informazione autoriale finché non incontra l’originale o un canale attendibile."
+        }
+      ],
+      "operation": "Fermare un testimone in viaggio, isolare copie della sua dichiarazione e imporre una nuova proroga del contenimento.",
+      "resources_and_limits": "Crown V ha ambiti e resistenze; una firma non immobilizza un altro angelo indipendentemente da potere e accesso.",
+      "evidence": [
+        "Originale e copia esecutiva hanno la stessa autenticazione, ma termini diversi.",
+        "Una scorta ha ricevuto istruzioni orali incompatibili con il mandato."
+      ],
+      "interruption": "Proteggere il testimone, invalidare la presa concreta, dividere funzionari e comando. La forza può liberare il detenuto anche prima della soluzione politica.",
+      "continuation": "L’arresto richiede itinerario verificato e una scorta disponibile; un bersaglio trasferito non viene ritrovato senza indagine.",
+      "dissent": "Elisa obbedisce a una catena di comando, ma rifiuta la distruzione di una propria unità per nascondere l’alterazione."
+    },
+    {
+      "id": "FAC-19",
+      "name": "The Black Wake",
+      "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+      "members": [
+        {
+          "id": "CAST-482",
+          "knowledge": "Conosce la propria operazione e l’ordine dato a Dara. Non controlla tutte le acque e non sa i viaggi di Eren soltanto perché Tempest esiste."
+        },
+        {
+          "id": "CAST-483",
+          "knowledge": "Conosce l’ordine di eliminazione ricevuto e ciò che ha raggiunto nei recuperi. Maw non le rivela l’intera origine di ogni residuo."
+        }
+      ],
+      "operation": "Alterare il passaggio locale con correnti e segnali, abbordare i superstiti e incendiare il deposito dei registri di carico.",
+      "resources_and_limits": "Tempest IV non governa ogni oceano; Maw III necessita di presa e contenuto realmente raggiunti.",
+      "evidence": [
+        "Ancore nuove in una zona che non richiede ormeggio.",
+        "Un pilota ha ricevuto due segnali con orari incompatibili."
+      ],
+      "interruption": "Scortare o deviare la nave, rimuovere i segnali, combattere gli abbordatori e mettere al sicuro i superstiti.",
+      "continuation": "L’agguato dipende dalla partenza reale e dal tempo; una partenza annullata lo rinvia, non causa comunque il naufragio.",
+      "dissent": "Naor salva la propria nave prima del compratore; un ostaggio liberato non è una risorsa illimitata da sostituire."
+    },
+    {
+      "id": "FAC-20",
+      "name": "The Hollow Choir",
+      "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+      "members": [
+        {
+          "id": "CAST-484",
+          "knowledge": "Conosce le prese esercitate, non ogni memoria o scelta degli ospiti. Non ha creato retroattivamente le loro infanzie e non può trasformare una relazione simulata in una famiglia storica autentica."
+        },
+        {
+          "id": "CAST-485",
+          "knowledge": "Conosce i contatti di cui è intermediario. Non dispone di tutte le identità interiori del dominio di Ishven e non ottiene Labyrinth per collaborazione."
+        }
+      ],
+      "operation": "Imporre una sessione interiore preparata, estorcere accessi e usare Mask per ingannare un solo destinatario già studiato.",
+      "resources_and_limits": "Labyrinth non è riscrittura cosmica del passato; Mask non possiede naturalmente l’interiorità di ogni volto rappresentato.",
+      "evidence": [
+        "Due ospiti ricordano lo stesso dettaglio impossibile nello stesso ordine.",
+        "Il cuoco conosce gli orari in cui la stanza delle sessioni viene preparata."
+      ],
+      "interruption": "Interrompere il collegamento preparato, raggiungere fisicamente gli ospiti, confrontare ricordi con testimonianze indipendenti.",
+      "continuation": "La sessione richiede presenza e preparazione; chi lascia la pensione prima non resta automaticamente collegato.",
+      "dissent": "Neris vuole cancellare soltanto i propri debiti e può vendere l’ubicazione del capo; non restituisce per questo la fiducia degli ospiti."
+    },
+    {
+      "id": "FAC-21",
+      "name": "The Ninth Cinder",
+      "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+      "members": [
+        {
+          "id": "CAST-486",
+          "knowledge": "Conosce le due consegne e i relativi costi. Helia conosce la propria partecipazione e la frode d’uso, non automaticamente tutta la contabilità di Hadrik."
+        },
+        {
+          "id": "CAST-487",
+          "knowledge": "Conosce flussi e ordini del proprio intervento. Il finanziamento fra compratori non è una sua conoscenza necessaria."
+        }
+      ],
+      "operation": "Sabotare una pompa di sicurezza, attirare una squadra di soccorso e prendere ostaggi per imporre l’acquisto delle armi.",
+      "resources_and_limits": "Crucible non genera materia senza supporto né usa Ruin; scorte esaurite e condotti interrotti limitano il fuoco.",
+      "evidence": [
+        "Contenitori con la stessa conversione ma indicazioni di uso civile false.",
+        "Il turno evacuato è stato cambiato prima del guasto."
+      ],
+      "interruption": "Disinnescare o isolare le cariche, liberare gli ostaggi e sequestrare le scorte. Nessun esplosivo colpisce se l’attivazione viene davvero impedita.",
+      "continuation": "Il sabotaggio richiede l’ingresso nella sala pompe; una guardia avvisata può negare accesso o chiedere rinforzi.",
+      "dissent": "Eline rifiuta di restare nel raggio della propria carica: la sua paura crea una finestra di intervento, non una resa automatica."
+    },
+    {
+      "id": "FAC-22",
+      "name": "The Pale Ledger",
+      "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+      "members": [
+        {
+          "id": "CAST-488",
+          "knowledge": "Sa dei patti che ha stipulato e delle custodie raggiunte. La presenza che rifiuta ritorno conserva un desiderio proprio e non è una sua rappresentazione."
+        },
+        {
+          "id": "CAST-489",
+          "knowledge": "Conosce i legami su cui ha lavorato. Non conosce tutte le persone custodite da Ossiel o l’intera geografia delle continuità morte."
+        }
+      ],
+      "operation": "Rubare una custodia, ricattare il destinatario e applicare una maledizione attraverso un legame realmente ottenuto.",
+      "resources_and_limits": "Sepulchre V non richiama ogni morto; Crescent III non maledice chiunque soltanto conoscendone il nome.",
+      "evidence": [
+        "Un contenitore registrato come vuoto consuma ancora manutenzione.",
+        "Una richiesta di riscatto cita una frase nota soltanto a un testimone custodito."
+      ],
+      "interruption": "Separare custodia e ricatto, spezzare il legame della maledizione, restituire facoltà di scelta alle presenze e proteggere i supporti.",
+      "continuation": "Il trasporto richiede un veicolo schermato e manutenzione; un ritardo impone ai rapitori di investire risorse ulteriori.",
+      "dissent": "Meraine vuole salvare una specifica presenza e può sottrarre il contenitore agli stessi clienti."
+    },
+    {
+      "id": "FAC-23",
+      "name": "The Severed Compass",
+      "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+      "members": [
+        {
+          "id": "CAST-490",
+          "knowledge": "Conosce l’avamposto e la dipendenza dei sei addetti. Nessuna Root personale o mappa universale è assegnata dal grado."
+        },
+        {
+          "id": "CAST-491",
+          "knowledge": "Conosce i tempi dei processi su cui lavora e gli ordini ricevuti. Non vede ogni futuro e non controlla il Crossing per vicinanza al fronte."
+        }
+      ],
+      "operation": "Spostare un riferimento di un corridoio raggiunto, intercettare una spedizione e sequestrare il suo cartografo.",
+      "resources_and_limits": "Astrolabe VI non raggiunge ogni luogo senza corrispondenza; Hourglass IV non annulla retroattivamente una sconfitta compiuta.",
+      "evidence": [
+        "Il percorso conserva un riferimento vecchio incompatibile con quello sostituito.",
+        "I rifornimenti contengono dotazioni per sei persone, non per una flotta."
+      ],
+      "interruption": "Verificare i riferimenti, proteggere il cartografo, isolare il solo corridoio ostile o raggiungere l’avamposto con accessi propri.",
+      "continuation": "Le spedizioni vengono intercettate soltanto se entrano nella rotta studiata; l’avamposto perde riserve durante ogni interruzione del servizio.",
+      "dissent": "Thel giudica Kaeris un custode temporaneo e vuole negoziare un accesso proprio; nessuna lealtà metafisica lo obbliga."
+    },
+    {
+      "id": "FAC-24",
+      "name": "The Last Vessel",
+      "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+      "members": [
+        {
+          "id": "CAST-492",
+          "knowledge": "Conosce i due fallimenti e ciò che ha effettivamente estratto. Non possiede un metodo universale o una Root personale."
+        },
+        {
+          "id": "CAST-493",
+          "knowledge": "Conosce le dipendenze che ha trattato e i danni osservati. Non ogni segreto commerciale di Vareth le è automaticamente noto."
+        }
+      ],
+      "operation": "Rapire un Bearer utile, separare una funzione raggiunta e inviare il lotto a un compratore prima che arrivi l’ispezione.",
+      "resources_and_limits": "Maw VI non concede tutte le Effigi delle vittime come incorporazioni personali; nessuna nuova Seat o famiglia compatibile viene creata. Il lotto commerciato consiste in tessuti e supporti realmente separati e conservati, con le funzioni che possiedono effettivamente; non è una Inscription venduta intera. Non si anticipa Assimilation Release VII per esternalizzare liberamente un tratto assimilato a VI. Le promesse del compratore vanno distinte dalla capacità reale del campione.",
+      "evidence": [
+        "La nave dichiara un equipaggio inferiore al consumo di cibo.",
+        "Una fuga restituisce una persona viva con una funzione mancante identificabile."
+      ],
+      "interruption": "Abbattere le difese pertinenti, liberare i detenuti e separare le funzioni senza distruggere i supporti vitali. Cure reali possono eliminare la dipendenza.",
+      "continuation": "Il lotto parte solo con un vettore compatibile: ritardi espongono il fallimento e spaccano il gruppo, non generano nuove vittime automaticamente.",
+      "dissent": "Ilena vuole preservare i sei detenuti e può sabotare una consegna letale, ma ha già cooperato alle lesioni e non viene assolta da un ripensamento."
+    },
+    {
+      "id": "FAC-25",
+      "name": "The Blue Lantern",
+      "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+      "members": [
+        {
+          "id": "CAST-494",
+          "knowledge": "Conosce i propri canali e il finanziamento rifiutato; non gli interi segreti dei protetti. Halo non garantisce diagnosi totale di ogni coercizione."
+        },
+        {
+          "id": "CAST-495",
+          "knowledge": "Conosce i legami raggiunti e i recapiti del proprio incarico, non l’intero archivio della Blue Lantern."
+        }
+      ],
+      "operation": "Verificare una segnalazione di sequestro, preparare trasporto e intervenire contro la squadra identificata.",
+      "resources_and_limits": "Halo IV non garantisce immunità agli ospiti; Chain II gestisce i propri vincoli, prese e tensioni con le capacità I–II: non possiede Bond Articulation V né scioglimento universale dei vincoli estranei. Una liberazione richiede contesa pertinente, rimozione del supporto o altro mezzo davvero disponibile.",
+      "evidence": [
+        "Richiesta di medicinali compatibili con tre letti, non con una clinica illimitata.",
+        "Due vettori conoscono percorsi distinti e nessuno l’intera rete."
+      ],
+      "interruption": "La rete può essere aiutata con trasporti, protezione, guarigione o informazioni; non pretende adesione religiosa o obbedienza.",
+      "continuation": "Senza aiuto accoglie soltanto le persone che può sostenere e cerca altri rifugi; non trascura deliberatamente un soccorso possibile.",
+      "dissent": "Un finanziatore può minacciare di ritirare mezzi; nessun traditore obbligatorio viene estratto dal personale domestico di Alexander."
+    },
+    {
+      "id": "FAC-26",
+      "name": "The Broken Seal",
+      "organization": "Le informazioni sono ripartite fra responsabili e contatti locali; riferire il segreto della fazione non significa attribuirlo a ogni membro. I contatti elencati conservano lavoro, ubicazione e limiti propri. Un trasferimento richiede un messaggio o un viaggio reale.",
+      "members": [
+        {
+          "id": "CAST-496",
+          "knowledge": "Conosce il proprio errore, il confronto concordato e la separazione delle copie. Oracle IV non apre ogni passato o memoria privata."
+        },
+        {
+          "id": "CAST-497",
+          "knowledge": "Conosce il proprio lavoro e ciò che Seran le ha effettivamente condiviso. Non legge il desiderio di una fonte attraverso il documento e non cede un nome a un potente per riverenza."
+        }
+      ],
+      "operation": "Scortare un testimone e dimostrare davanti a terzi quale intervento investito ha alterato un risultato.",
+      "resources_and_limits": "Oracle IV e Archive II non leggono la totalità del passato né rivelano identità mai documentate.",
+      "evidence": [
+        "Tre copie con una differenza controllabile.",
+        "Il destinatario conosce il percorso del documento ma non il mandante dell’alterazione."
+      ],
+      "interruption": "Collaborazione possibile senza giuramento: proteggere una sede, produrre un confronto ripetibile o raggiungere il responsabile.",
+      "continuation": "Il gruppo pubblica solo ciò che può sostenere e mette in salvo i testimoni raggiungibili, senza inventare confessioni.",
+      "dissent": "Alise non consegna una fonte anonima a un alleato solo perché potente: questo dissenso non equivale a tradimento."
+    }
+  ]
+}

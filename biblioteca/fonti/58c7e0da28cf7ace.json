@@ -1,0 +1,376 @@
+{
+  "revision": 375,
+  "records": [
+    {
+      "id": "SEAT-01",
+      "effigy": "Cradle",
+      "T0_unchanged": [
+        "Cradle",
+        "Presupposto esclusivo in Edran; VII non operativo",
+        "Nessun altro",
+        "—"
+      ],
+      "constitutive_condition": "Presupposto esclusivo interno alla continuità di Edran dalla nascita, non oggetto custodito da un altro titolare. VII non operativo al T0.",
+      "access": "Si lavora sull’accesso personale e sulla trasformazione dal VI effettivamente raggiunto. Origin può sostenere il raccordo pertinente; Testament ne fornisce il sapere, non produce da solo l’Apotheosis.",
+      "transfer": "Non occorre sottrarre una reliquia moderna. Nessun altro titolare pieno può avere occupato questa Seat durante l’assenza. Il lavoro di una componente non promuove automaticamente le altre quattro.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-02",
+      "effigy": "Ruin",
+      "T0_unchanged": [
+        "Ruin",
+        "Come Cradle",
+        "Nessun altro",
+        "—"
+      ],
+      "constitutive_condition": "Presupposto esclusivo interno alla continuità di Edran dalla nascita, non oggetto custodito da un altro titolare. VII non operativo al T0.",
+      "access": "Si lavora sull’accesso personale e sulla trasformazione dal VI effettivamente raggiunto. Origin può sostenere il raccordo pertinente; Testament ne fornisce il sapere, non produce da solo l’Apotheosis.",
+      "transfer": "Non occorre sottrarre una reliquia moderna. Nessun altro titolare pieno può avere occupato questa Seat durante l’assenza. Il lavoro di una componente non promuove automaticamente le altre quattro.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-03",
+      "effigy": "Scroll",
+      "T0_unchanged": [
+        "Scroll",
+        "Pienezza vacante; accessi parziali contesi",
+        "Nessuno",
+        "—"
+      ],
+      "constitutive_condition": "Pienezza vacante, con i due accessi parziali attualmente contesi da Veyra e Loran. Non esiste un terzo titolare pieno nascosto introdotto da questa revisione.",
+      "access": "Il candidato raggiunge una presa costitutiva autentica e deve risolvere le prese concorrenti che impediscono l’esclusività. Le due condizioni attuali vanno confrontate e contese o liberate, senza scambiare una formula pubblicata per la Seat.",
+      "transfer": "Rinuncia e separazione volontaria sono possibili, non soltanto omicidio. La convergenza va verificata nel centro del candidato: due alleati che conservano distinti gli accessi non costituiscono automaticamente una Deity unica.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-04",
+      "effigy": "Halo",
+      "T0_unchanged": [
+        "Halo",
+        "VII pieno",
+        "Sairen Velis",
+        "−11310"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Sairen Velis, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Halo occorre raggiungere la configurazione costitutiva di Light, Revelation, Manifestation, Purification della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-05",
+      "effigy": "Heart",
+      "T0_unchanged": [
+        "Heart",
+        "VII pieno",
+        "Oriel Namar",
+        "−9750"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Oriel Namar, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Heart occorre raggiungere la configurazione costitutiva di Life, Spirit, Restoration della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-06",
+      "effigy": "Crucible",
+      "T0_unchanged": [
+        "Crucible",
+        "VII pieno",
+        "Ashren Tor",
+        "−3160"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Ashren Tor, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Crucible occorre raggiungere la configurazione costitutiva di Composition, Energy Conversion, Transmutation della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-07",
+      "effigy": "Mask",
+      "T0_unchanged": [
+        "Mask",
+        "VII pieno; Manyfold incompleto",
+        "Neral Venn",
+        "−1908"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Neral Venn, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Mask occorre raggiungere la configurazione costitutiva di Identity, Representation, Recognition, Perception della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-08",
+      "effigy": "Hourglass",
+      "T0_unchanged": [
+        "Hourglass",
+        "VII pieno; Continuum incompleto",
+        "Helyr Ossen",
+        "−10230"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Helyr Ossen, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Hourglass occorre raggiungere la configurazione costitutiva di Time, Duration, Decay, Recurrence della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-09",
+      "effigy": "Astrolabe",
+      "T0_unchanged": [
+        "Astrolabe",
+        "VII pieno; Continuum incompleto",
+        "Helyr Ossen",
+        "−12600"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Helyr Ossen, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Astrolabe occorre raggiungere la configurazione costitutiva di Space, Gravity, Orientation, Passage della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-10",
+      "effigy": "Sepulchre",
+      "T0_unchanged": [
+        "Sepulchre",
+        "VII pieno",
+        "Althene Rhos",
+        "−12290"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Althene Rhos, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Sepulchre occorre raggiungere la configurazione costitutiva di Death, Dead Spirits, Remains, Repose della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-11",
+      "effigy": "Seed",
+      "T0_unchanged": [
+        "Seed",
+        "VII pieno",
+        "Othrem Cal",
+        "−12410"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Othrem Cal, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Seed occorre raggiungere la configurazione costitutiva di Reproduction, Heredity, Development, Ecology della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-12",
+      "effigy": "Crown",
+      "T0_unchanged": [
+        "Crown",
+        "VII pieno",
+        "Ilyra Sen",
+        "−12018"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Ilyra Sen, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Crown occorre raggiungere la configurazione costitutiva di Law, Hierarchy, Judgment, Delegation della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-13",
+      "effigy": "Chain",
+      "T0_unchanged": [
+        "Chain",
+        "VII pieno",
+        "Deyran Ur",
+        "−5650"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Deyran Ur, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Chain occorre raggiungere la configurazione costitutiva di Binding, Captivity, Dependency, Transmission della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-14",
+      "effigy": "Coin",
+      "T0_unchanged": [
+        "Coin",
+        "VII pieno",
+        "Cerel Voss",
+        "−1280"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Cerel Voss, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Coin occorre raggiungere la configurazione costitutiva di Value, Exchange, Possession, Claim della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-15",
+      "effigy": "Banner",
+      "T0_unchanged": [
+        "Banner",
+        "VII pieno",
+        "Neren Aul",
+        "−915"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Neren Aul, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Banner occorre raggiungere la configurazione costitutiva di Conflict, Mobilization, Strategy, Conquest della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-16",
+      "effigy": "Oracle",
+      "T0_unchanged": [
+        "Oracle",
+        "VII pieno; Witness incompleto",
+        "Talren Soth",
+        "−5780"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Talren Soth, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Oracle occorre raggiungere la configurazione costitutiva di Knowledge, Interpretation, Divination, Spellcraft della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-17",
+      "effigy": "Archive",
+      "T0_unchanged": [
+        "Archive",
+        "VII pieno; Witness incompleto",
+        "Talren Soth",
+        "−12074"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Talren Soth, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Archive occorre raggiungere la configurazione costitutiva di Memory, Trace, Attestation, Preservation, Re-enactment della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-18",
+      "effigy": "Labyrinth",
+      "T0_unchanged": [
+        "Labyrinth",
+        "VII pieno; Manyfold incompleto",
+        "Neral Venn",
+        "−1876"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Neral Venn, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Labyrinth occorre raggiungere la configurazione costitutiva di Mind, Dream, Emotion, Interior Architecture della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-19",
+      "effigy": "Tempest",
+      "T0_unchanged": [
+        "Tempest",
+        "VII pieno",
+        "Enra Keth",
+        "−2420"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Enra Keth, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Tempest occorre raggiungere la configurazione costitutiva di Flow, Pressure, Turbulence, Discharge della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-20",
+      "effigy": "Maw",
+      "T0_unchanged": [
+        "Maw",
+        "VII pieno",
+        "Soran Il",
+        "−620"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Soran Il, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Maw occorre raggiungere la configurazione costitutiva di Desire, Hunger, Consumption, Assimilation della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-21",
+      "effigy": "Loom",
+      "T0_unchanged": [
+        "Loom",
+        "VII pieno; Continuum incompleto",
+        "Helyr Ossen",
+        "−8290"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Helyr Ossen, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Loom occorre raggiungere la configurazione costitutiva di Causality, Probability, Destiny della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-22",
+      "effigy": "Eclipse",
+      "T0_unchanged": [
+        "Eclipse",
+        "VII piena",
+        "Varessa Nhal",
+        "−9010"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Varessa Nhal, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Eclipse occorre raggiungere la configurazione costitutiva di Darkness, Shadow, Concealment, Night, Silence della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    },
+    {
+      "id": "SEAT-23",
+      "effigy": "Crescent",
+      "T0_unchanged": [
+        "Crescent",
+        "VII piena",
+        "Ilyren Sareth",
+        "−6840"
+      ],
+      "constitutive_condition": "Pienezza incorporata dalla persona Ilyren Sareth, secondo il registro 98. Il presupposto è il rapporto costitutivo che sostiene l’Inscription divina unitaria nel suo centro; non un nuovo oggetto di inventario esterno.",
+      "access": "Per Crescent occorre raggiungere la configurazione costitutiva di Black Magic, Reflection, Enchantment, Curses, Lunar Cycles della persona titolare, con funzioni capaci di quella presa. Corpo, firma, culto o strumento periferico non danno da soli accesso al Core.",
+      "transfer": "Una rinuncia deve separare realmente questa titolarità e conservare, se possibile, la continuità della persona. Una sconfitta deve accertare che cosa cessa e che cosa rimane: il vincitore non incorpora la Seat per aver inferto l’ultimo colpo.",
+      "after_separation": "La posizione cosmica non è la persona. Un residuo autentico può conservare un accesso da diagnosticare, non un passaggio automatico. Un annullamento può distruggere il residuo raggiunto: non si fa comparire poi una gemma indistruttibile. La pienezza va nuovamente costituita attraverso un rapporto autentico, se disponibile; non basta una somiglianza. Per Cradle e Ruin resta la specificità interna già stabilita.",
+      "source": "RISERVATO_98_Seats_successioni_e_antichi_compagni.md",
+      "new_object_assigned": false
+    }
+  ],
+  "occupants_and_dates_unchanged": true,
+  "no_new_divine_objects": true,
+  "future_outcomes": "OPEN"
+}

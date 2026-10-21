@@ -1,0 +1,1117 @@
+{
+  "version": "1.1",
+  "access": "PLAYER_KNOWLEDGE_DATED",
+  "milestone": 9,
+  "reference_date": "812-05-04",
+  "politics": [
+    {
+      "id": "POL-01",
+      "state_id": "STATE-01",
+      "name": "Orsanne",
+      "centre": "Veldane",
+      "population_millions": 26,
+      "government": "Camera dei Deputati, Camera delle Concessioni e ministri responsabili; la Corona nomina il governo ma bilancio e imposizioni richiedono voto",
+      "law": "Giudici distrettuali, Corte delle Concessioni e Corte di revisione a Veldane; polizia municipale e gendarmeria separata",
+      "conflict": "Riforma delle concessioni fluviali: accesso pubblico e diritti acquisiti non coincidono",
+      "foreign_links": "Reth: rame e frontiera; Neressa: noli e debito; Ovel: legname e acque",
+      "limits": "Concessioni industriali controllate da pochi casati e società; suffragio censitario, non voto universale",
+      "dynastic_units_354": [
+        {
+          "state": "Orsanne",
+          "unit": "Orsanne",
+          "house": "Maison Orvel",
+          "holder_id": "CAST-524",
+          "heir_id": "CAST-525",
+          "consort_id": "CAST-562",
+          "sovereign_title": "Re",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        }
+      ]
+    },
+    {
+      "id": "POL-02",
+      "state_id": "STATE-02",
+      "name": "Reth",
+      "centre": "Teren",
+      "population_millions": 17,
+      "government": "Assemblea federale eletta dai distretti e Consiglio dei cantoni; esecutivo con mandato quadriennale",
+      "law": "Tribunali cantonali; arbitrato federale per contratti interni, ricorso comune per discriminazioni fra cantoni",
+      "conflict": "Ripartizione delle rendite minerarie fra cantoni produttori e città manifatturiere",
+      "foreign_links": "Orsanne acquista rame; Ovel offre passaggi settentrionali; Kosh scambia tecniche estrattive",
+      "limits": "Cittadinanza non richiede nobiltà ma residenza e contribuzione limitano ancora il voto",
+      "dynastic_units_354": []
+    },
+    {
+      "id": "POL-03",
+      "state_id": "STATE-03",
+      "name": "Neressa",
+      "centre": "Neressa",
+      "population_millions": 9,
+      "government": "Consiglio dei Sei per flotta, dogane e quarantene; ciascuna repubblica conserva assemblea e diritto civile",
+      "law": "Giudici portuali; Corte del Patto per controversie fra le sei repubbliche",
+      "conflict": "Le isole chiedono carbone garantito, Serele contesta le quote navali imposte al suo territorio continentale",
+      "foreign_links": "Reth fornisce rame; Orsanne carbone; Meren e Arul sono partner navali lontani",
+      "limits": "Il voto delle repubbliche non segue la popolazione; l’Unione non può espropriare senza ratifica locale",
+      "dynastic_units_354": []
+    },
+    {
+      "id": "POL-04",
+      "state_id": "STATE-04",
+      "name": "Ovel",
+      "centre": "Elven",
+      "population_millions": 6,
+      "government": "Dieta degli Undici per bacini, passi e misure; principi e consigli locali conservano poteri distinti",
+      "law": "Corti di principato; Collegio dei Bacini per acque interterritoriali, non tribunale universale",
+      "conflict": "Censimento dei lavoratori stagionali e diritti di residenza: entrate fiscali contro libertà di transito",
+      "foreign_links": "Orsanne compra legname; Reth propone una ferrovia settentrionale; Sivara vende utensili",
+      "limits": "Elven ospita la Dieta ma non governa gli altri dieci principati",
+      "dynastic_units_354": [
+        {
+          "state": "Ovel",
+          "unit": "Elven",
+          "house": "Casa Elvar",
+          "holder_id": "CAST-534",
+          "heir_id": "CAST-535",
+          "consort_id": null,
+          "sovereign_title": "Principessa",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Namar",
+          "house": "Casa Avelin",
+          "holder_id": "CAST-536",
+          "heir_id": "CAST-537",
+          "consort_id": null,
+          "sovereign_title": "Principe",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Veyford",
+          "house": "Casa Belven",
+          "holder_id": "CAST-538",
+          "heir_id": "CAST-539",
+          "consort_id": null,
+          "sovereign_title": "Principe",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Norven",
+          "house": "Casa Halvren",
+          "holder_id": "CAST-540",
+          "heir_id": "CAST-541",
+          "consort_id": null,
+          "sovereign_title": "Principessa",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Ossenmark",
+          "house": "Casa Tharen",
+          "holder_id": "CAST-542",
+          "heir_id": "CAST-543",
+          "consort_id": null,
+          "sovereign_title": "Principe",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Selvar",
+          "house": "Casa Rouvain",
+          "holder_id": "CAST-544",
+          "heir_id": "CAST-545",
+          "consort_id": null,
+          "sovereign_title": "Principessa",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Dalen",
+          "house": "Casa Ordell",
+          "holder_id": "CAST-546",
+          "heir_id": "CAST-547",
+          "consort_id": null,
+          "sovereign_title": "Principe",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Uren",
+          "house": "Casa Merault",
+          "holder_id": "CAST-548",
+          "heir_id": "CAST-549",
+          "consort_id": null,
+          "sovereign_title": "Principessa",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Tesh",
+          "house": "Casa Seld",
+          "holder_id": "CAST-550",
+          "heir_id": "CAST-551",
+          "consort_id": null,
+          "sovereign_title": "Principessa",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Ravaen",
+          "house": "Casa Varnet",
+          "holder_id": "CAST-552",
+          "heir_id": "CAST-553",
+          "consort_id": null,
+          "sovereign_title": "Principe",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Ovel",
+          "unit": "Ivel",
+          "house": "Casa Lethren",
+          "holder_id": "CAST-554",
+          "heir_id": "CAST-555",
+          "consort_id": null,
+          "sovereign_title": "Principe",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        }
+      ]
+    },
+    {
+      "id": "POL-05",
+      "state_id": "STATE-05",
+      "name": "Aldren",
+      "centre": "Aldora",
+      "population_millions": 34,
+      "government": "Monarca con Consiglio delle Province; assemblea dei proprietari vota tributi straordinari",
+      "law": "Corti reali con sezioni provinciali e ricorso per servitù agricole",
+      "conflict": "Debiti dei coltivatori dopo due raccolti diseguali; riforma dei depositi pubblici",
+      "foreign_links": "Varrun compra lino; Darsen compete sul grano; Orsanne vende macchine",
+      "limits": "Grandi proprietari dominano il credito rurale; le città hanno rappresentanza separata",
+      "dynastic_units_354": [
+        {
+          "state": "Aldren",
+          "unit": "Aldren",
+          "house": "Casa Vaudren",
+          "holder_id": "CAST-526",
+          "heir_id": "CAST-527",
+          "consort_id": "CAST-563",
+          "sovereign_title": "Regina",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        }
+      ]
+    },
+    {
+      "id": "POL-06",
+      "state_id": "STATE-06",
+      "name": "Tessara",
+      "centre": "Teshen",
+      "population_millions": 29,
+      "government": "Lega di diciassette città amministrative; Consiglio delle Banchine per tariffe comuni",
+      "law": "Tribunali cittadini e arbitrato commerciale federato",
+      "conflict": "Protezione delle coste contro cicloni e premio assicurativo richiesto ai porti meno ricchi",
+      "foreign_links": "Marethis lana; Neressa cantieri; Ildovar materie tropicali",
+      "limits": "Diciassette membri politici non esauriscono le città del territorio",
+      "dynastic_units_354": []
+    },
+    {
+      "id": "POL-07",
+      "state_id": "STATE-07",
+      "name": "Varrun",
+      "centre": "Varlen",
+      "population_millions": 41,
+      "government": "Assemblee provinciali e Segretariato dei Fiumi con bilancio comune",
+      "law": "Tribunali provinciali; ispettori federali possono sospendere una derivazione illegale",
+      "conflict": "Province dell’interno chiedono di non finanziare soltanto gli argini del delta",
+      "foreign_links": "Ansei commercia carta e riso; Aldren lino; Qadir tecniche idriche",
+      "limits": "Il centro coordina opere, non possiede ogni terra irrigata",
+      "dynastic_units_354": []
+    },
+    {
+      "id": "POL-08",
+      "state_id": "STATE-08",
+      "name": "Esen",
+      "centre": "Eshar",
+      "population_millions": 23,
+      "government": "Consiglio delle Valli, delegati di comuni e associazioni pastorali",
+      "law": "Giudici itineranti riconosciuti dai comuni; arbitrato stagionale dei pascoli",
+      "conflict": "Accordi di acqua fra pastori mobili e miniere di stagno permanenti",
+      "foreign_links": "Saur lana; Kosh sali; Varrun macchine e sbocco fluviale",
+      "limits": "Una frontiera amministrativa non interrompe automaticamente i passaggi tradizionali",
+      "dynastic_units_354": []
+    },
+    {
+      "id": "POL-09",
+      "state_id": "STATE-09",
+      "name": "Darsen",
+      "centre": "Darsa",
+      "population_millions": 55,
+      "government": "Camera dei Bacini proporzionale alla popolazione e Camera delle Acque con seggi di bacino",
+      "law": "Corti fluviali per danni e navigazione; tribunali civili ordinari per il resto",
+      "conflict": "Il debito degli argini cresce mentre i distretti asciutti rifiutano nuovi contributi",
+      "foreign_links": "Auvrel via Serevan; Qadir rame; Ildovar legname",
+      "limits": "Le opere federali non danno al governo diritto di deviare tutta l’acqua",
+      "dynastic_units_354": []
+    },
+    {
+      "id": "POL-10",
+      "state_id": "STATE-10",
+      "name": "Qadir",
+      "centre": "Qadra",
+      "population_millions": 38,
+      "government": "Unione di distretti con Comitato delle Ripartizioni eletto annualmente",
+      "law": "Corti distrettuali e ispettorato dei pozzi soggetto a ricorso",
+      "conflict": "Distretto minerario richiede acqua sottraendola a colture e quartieri popolari",
+      "foreign_links": "Darsen cereali; Kosh tecniche; Esen stagno e animali",
+      "limits": "I contratti di acqua includono quote domestiche minime; il rispetto effettivo è conteso",
+      "dynastic_units_354": []
+    },
+    {
+      "id": "POL-11",
+      "state_id": "STATE-11",
+      "name": "Ildovar",
+      "centre": "Ildan",
+      "population_millions": 46,
+      "government": "Repubbliche dei grandi bacini con Assemblea delle Confluenze",
+      "law": "Giudici di bacino; uffici di traduzione per contratti con comunità forestali",
+      "conflict": "Concessioni di legname attraversano usi collettivi non registrati su carta",
+      "foreign_links": "Tessara e Ansei carta; Darsen carbone; Marethis trasporto",
+      "limits": "Un registro urbano incompleto non cancella una comunità o il suo diritto",
+      "dynastic_units_354": []
+    },
+    {
+      "id": "POL-12",
+      "state_id": "STATE-12",
+      "name": "Marethis",
+      "centre": "Mareth",
+      "population_millions": 31,
+      "government": "Regno con Camera delle Province e consiglio navale sottoposto al bilancio",
+      "law": "Corti civili, navali e d’appello; sanzioni di porto distinte dalla colpa penale",
+      "conflict": "Modernizzazione dei cantieri e indebitamento dei piccoli proprietari di navi",
+      "foreign_links": "Tessara cotone; Norell carbone; Neressa ottica",
+      "limits": "La flotta pubblica tutela rotte scelte, non rende sicuro l’intero oceano",
+      "dynastic_units_354": [
+        {
+          "state": "Marethis",
+          "unit": "Marethis",
+          "house": "Casa Seravel",
+          "holder_id": "CAST-528",
+          "heir_id": "CAST-529",
+          "consort_id": "CAST-564",
+          "sovereign_title": "Re",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        }
+      ]
+    },
+    {
+      "id": "POL-13",
+      "state_id": "STATE-13",
+      "name": "Saur",
+      "centre": "Saura",
+      "population_millions": 20,
+      "government": "Lega delle Conche con delegati dei comuni e delle città metallurgiche",
+      "law": "Arbitrato fra conche; tribunali cittadini per proprietà e salari",
+      "conflict": "Miniere d’argento chiedono una strada finanziata anche da villaggi senza miniera",
+      "foreign_links": "Esen lana; Qadir sale; Marethis porti",
+      "limits": "Le conche mantengono diritto di opposizione a nuovi pedaggi, con negoziati lenti",
+      "dynastic_units_354": []
+    },
+    {
+      "id": "POL-14",
+      "state_id": "STATE-14",
+      "name": "Ansei",
+      "centre": "Anren",
+      "population_millions": 32,
+      "government": "Dieta degli Stati e amministrazioni statali con autonomia fiscale",
+      "law": "Corti statali e Sezione delle Lettere per brevetti, carta e editoria",
+      "conflict": "Diritti sugli apparati ottici contro accesso pubblico alle scuole tecniche",
+      "foreign_links": "Ashen Quay collega Neressa; Varrun riso; Arul vetro",
+      "limits": "La tipografia non richiede incorporare Archive; la censura resta una scelta politica",
+      "dynastic_units_354": []
+    },
+    {
+      "id": "POL-15",
+      "state_id": "STATE-15",
+      "name": "Teral",
+      "centre": "Teru",
+      "population_millions": 27,
+      "government": "Monarchia amministrativa con consiglio dei distretti e ispettori di servizio",
+      "law": "Tribunali locali; magistratura centrale per abusi degli ispettori",
+      "conflict": "L’arruolamento tecnico obbligatorio sottrae personale ai villaggi montani",
+      "foreign_links": "Ansei carta; Kosh minerali; Meren cantieri",
+      "limits": "Gli esami civili aprono carriere ma favoriscono chi ha tempo per studiare",
+      "dynastic_units_354": [
+        {
+          "state": "Teral",
+          "unit": "Teral",
+          "house": "Casa Renkai",
+          "holder_id": "CAST-530",
+          "heir_id": "CAST-531",
+          "consort_id": "CAST-565",
+          "sovereign_title": "Regina",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        }
+      ]
+    },
+    {
+      "id": "POL-16",
+      "state_id": "STATE-16",
+      "name": "Kosh",
+      "centre": "Koshen",
+      "population_millions": 18,
+      "government": "Consiglio dei Cantoni, votazioni locali e accordi di passo",
+      "law": "Giurie cantonali e collegio interterritoriale delle gallerie",
+      "conflict": "Rischio dei pendii contro pressione a esportare rame tutto l’anno",
+      "foreign_links": "Reth scambia tecniche; Teral compra metalli; Esen bestiame",
+      "limits": "La chiusura di un passo richiede perizia, non equivale a guerra automatica",
+      "dynastic_units_354": []
+    },
+    {
+      "id": "POL-17",
+      "state_id": "STATE-17",
+      "name": "Meren",
+      "centre": "Mersa",
+      "population_millions": 21,
+      "government": "Lega di porti con seggi dei comuni e camera dei cantieri",
+      "law": "Tribunali portuali; ricorso civile regionale per incidenti industriali",
+      "conflict": "Quartieri rialzati antisismici più cari spingono i lavoratori nelle zone esposte",
+      "foreign_links": "Neressa navigazione; Arul zolfo; Teral ferro",
+      "limits": "Assistenza portuale e proprietà privata convivono con conflitti di affitto",
+      "dynastic_units_354": []
+    },
+    {
+      "id": "POL-18",
+      "state_id": "STATE-18",
+      "name": "Arul",
+      "centre": "Arula",
+      "population_millions": 14,
+      "government": "Repubbliche insulari e Consiglio delle Traversate per segnali e soccorso",
+      "law": "Corti insulari; accordi di estradizione limitati a reati concordati",
+      "conflict": "L’isola che esporta zolfo paga il maggiore costo sanitario senza ricevere uguali entrate",
+      "foreign_links": "Meren cantieri; Ansei vetro; Tessara cotone",
+      "limits": "Le repubbliche possono rifiutare basi straniere pur condividendo segnali marini",
+      "dynastic_units_354": []
+    },
+    {
+      "id": "POL-19",
+      "state_id": "STATE-19",
+      "name": "Norell",
+      "centre": "Noran",
+      "population_millions": 21,
+      "government": "Federazione delle Coste, Camera dei Municipi e Consiglio dei Porti",
+      "law": "Corti municipali e tribunale federale del lavoro marittimo",
+      "conflict": "Scorte invernali e tariffe: i porti minori temono di diventare dipendenti",
+      "foreign_links": "Belanne via Norell Roads; Marethis lana; Varsha pesce",
+      "limits": "Nessun porto opera tutte le stagioni con la stessa capacità",
+      "dynastic_units_354": []
+    },
+    {
+      "id": "POL-20",
+      "state_id": "STATE-20",
+      "name": "Askar",
+      "centre": "Asren",
+      "population_millions": 16,
+      "government": "Regni associati con consiglio comune per strade e difesa",
+      "law": "Corti di regno; arbitrato della Lega per frontiere dei bacini",
+      "conflict": "Unificazione doganale osteggiata dai regni che vivono di pedaggi",
+      "foreign_links": "Edel lana; Keren rame; Norell macchine",
+      "limits": "L’associazione non ha un monarca unico né una cittadinanza già uniforme",
+      "dynastic_units_354": [
+        {
+          "state": "Askar",
+          "unit": "Asren",
+          "house": "Casa Valdek",
+          "holder_id": "CAST-556",
+          "heir_id": "CAST-557",
+          "consort_id": null,
+          "sovereign_title": "Re",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Askar",
+          "unit": "Helsen",
+          "house": "Casa Hest",
+          "holder_id": "CAST-558",
+          "heir_id": "CAST-559",
+          "consort_id": null,
+          "sovereign_title": "Regina",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        },
+        {
+          "state": "Askar",
+          "unit": "Varnek",
+          "house": "Casa Norr",
+          "holder_id": "CAST-560",
+          "heir_id": "CAST-561",
+          "consort_id": null,
+          "sovereign_title": "Re",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        }
+      ]
+    },
+    {
+      "id": "POL-21",
+      "state_id": "STATE-21",
+      "name": "Varsha",
+      "centre": "Varshen",
+      "population_millions": 14,
+      "government": "Lega dei Fiordi governata da consigli di porto e comuni interni",
+      "law": "Giudici dei fiordi; registro delle compensazioni per danni da ghiaccio",
+      "conflict": "Cantieri vogliono abbattere foreste che proteggono pendii abitati",
+      "foreign_links": "Norell carbone; Dorel navigazione; Askar cereali",
+      "limits": "Un bosco può avere funzione pubblica pur essendo proprietà privata",
+      "dynastic_units_354": []
+    },
+    {
+      "id": "POL-22",
+      "state_id": "STATE-22",
+      "name": "Edel",
+      "centre": "Edris",
+      "population_millions": 12,
+      "government": "Province autonome con congresso delle assemblee",
+      "law": "Tribunali provinciali e uffici mobili durante la stagione dei passi",
+      "conflict": "Insegnanti e medici non raggiungono regolarmente i villaggi durante l’inverno",
+      "foreign_links": "Askar alimenti; Norell officine; Tevar vetro",
+      "limits": "Servizi stagionali producono diseguaglianza senza dover inventare un culto malvagio",
+      "dynastic_units_354": []
+    },
+    {
+      "id": "POL-23",
+      "state_id": "STATE-23",
+      "name": "Keren",
+      "centre": "Keran",
+      "population_millions": 10,
+      "government": "Consigli di Conca e Tavola delle Serre per opere comuni",
+      "law": "Corti locali, collegio tecnico indipendente per manutenzione investita",
+      "conflict": "Città concentrate temono il monopolio dei manutentori delle serre",
+      "foreign_links": "Askar macchine; Tevar consulenze; Edel manodopera",
+      "limits": "La coltivazione protetta dipende da energia, ricambi e personale, non da una Seat locale",
+      "dynastic_units_354": []
+    },
+    {
+      "id": "POL-24",
+      "state_id": "STATE-24",
+      "name": "Sivara",
+      "centre": "Sivren",
+      "population_millions": 19,
+      "government": "Federazione delle Valli con Camera civica e Consiglio dei Fiordi",
+      "law": "Corti di valle; arbitrato federale per collegamenti fra fiordi",
+      "conflict": "Costruire collegamenti interni o espandere porti già redditizi",
+      "foreign_links": "Ovel legname e utensili; Dorel trasporti; Iren pesca",
+      "limits": "Il territorio non è una sola tundra: città e valli hanno climi e servizi diversi",
+      "dynastic_units_354": []
+    },
+    {
+      "id": "POL-25",
+      "state_id": "STATE-25",
+      "name": "Dorel",
+      "centre": "Dorven",
+      "population_millions": 13,
+      "government": "Regno con assemblea dei porti e consiglio delle terre",
+      "law": "Corti del regno e sezione marittima autonoma",
+      "conflict": "Prestiti navali garantiti su introiti futuri di porti troppo dipendenti da una rotta",
+      "foreign_links": "Auvrel via Dorel Outer Port; Varsha pesca; Sivara officine",
+      "limits": "La garanzia non trasferisce automaticamente sovranità al creditore",
+      "dynastic_units_354": [
+        {
+          "state": "Dorel",
+          "unit": "Dorel",
+          "house": "Casa Eyrdal",
+          "holder_id": "CAST-532",
+          "heir_id": "CAST-533",
+          "consort_id": "CAST-566",
+          "sovereign_title": "Regina",
+          "succession": "Riconoscimento secondo statuto locale; non eredità automatica dei poteri."
+        }
+      ]
+    },
+    {
+      "id": "POL-26",
+      "state_id": "STATE-26",
+      "name": "Tevar",
+      "centre": "Tevren",
+      "population_millions": 11,
+      "government": "Lega delle Vallate con consiglio degli impianti e assemblee locali",
+      "law": "Tribunali di valle; perizie termiche pubbliche contestabili",
+      "conflict": "Ampliare serre e vetro aumenta il rischio di estrazione termica mal distribuita",
+      "foreign_links": "Keren manutenzione; Edel vetro; Sivara legname",
+      "limits": "Calore geologico ordinario e supporti investiti sono censiti separatamente",
+      "dynastic_units_354": []
+    },
+    {
+      "id": "POL-27",
+      "state_id": "STATE-27",
+      "name": "Iren",
+      "centre": "Irela",
+      "population_millions": 7,
+      "government": "Consigli di bacino, delegati di insediamenti e accordi di pesca",
+      "law": "Giudici di circuito; archivio comune degli accordi tradotto in più lingue",
+      "conflict": "Registrazione dei percorsi stagionali contro pretese di concessioni esclusive",
+      "foreign_links": "Sivara officine; Dorel navi; Tevar serre",
+      "limits": "I sette milioni comprendono coste abitabili; non vivono tutti sul ghiaccio",
+      "dynastic_units_354": []
+    }
+  ],
+  "religions": [
+    {
+      "id": "REL-01",
+      "name": "Concordia dei Mestieri",
+      "doctrine": "I Founders liberarono il lavoro e resero possibile il patto civile; la dignità va esercitata in opere, responsabilità e reciproca assistenza",
+      "services": "Scuole di quartiere, fondi funerari, mense e archivi di mestieri; capitoli locali eleggono un consiglio, concili regionali mediano dottrina",
+      "regions": "Orsanne, Reth, Neressa, Ovel",
+      "variants": "Orsanne valorizza continuità della legge; Reth libertà dai ranghi ereditari; Neressa reciprocità fra pari",
+      "conflict": "Concessioni ereditate possono contraddire l’accesso ai mestieri che la dottrina difende",
+      "knowledge_limit": "La generosità non prova l’autore storico di un miracolo; il nome Edran non è nel catechismo ordinario",
+      "editorial_367": {
+        "id": "REL-01",
+        "name": "Concordia dei Mestieri",
+        "heading": "Il banco aperto",
+        "practice": "Ogni capitolo conserva un banco di attrezzi di apprendistato: chi riceve uno strumento lo restituisce riparato oppure racconta pubblicamente perché non può farlo. La cerimonia non è un contratto Chain e non espone chi è indigente a una punizione magica. I pasti commemorativi ricordano mestieri e soccorsi, non un elenco infallibile di divinità liberatrici.",
+        "structure": "Maestri eletti e tesoriere rispondono al consiglio del capitolo. Il concilio regionale può sconfessare una dottrina, ma non trasferire una bottega con una sentenza religiosa. Quote di mestiere e lasciti finanziano scuole e fondi funerari; il lavoro delle allieve e degli apprendisti non è una fonte gratuita da dare per scontata.",
+        "tension_and_play": "Una corrente vuole riservare il banco ai residenti che pagano quote; un’altra ammette lavoratori mobili e rimanda la contribuzione. Il lascito che limita una scuola è il caso già aperto dei Capitoli della Concordia, non una seconda vertenza inventata. Una famiglia può chiedere un posto, un maestro contestare una donazione, un artigiano perdere clienti dopo aver difeso l’ammissione.",
+        "authority_limit": "La generosità non prova l’autore storico di un miracolo; il nome Edran non è nel catechismo ordinario"
+      }
+    },
+    {
+      "id": "REL-02",
+      "name": "Clear Dawn",
+      "doctrine": "La luce rende distinguibili il danno, la menzogna e il cammino; testimoniare è più importante che apparire splendente",
+      "services": "Case di cura, laboratori di disinfezione e veglie pubbliche; ministri di culto e clinici hanno qualifiche separate",
+      "regions": "Orsanne, Tessara, città di Caldris",
+      "variants": "Alcuni capitoli chiedono dichiarazioni pubbliche; altri proteggono confessioni e segreti clinici",
+      "conflict": "Trasparenza assoluta può violare la protezione di vittime e malati",
+      "knowledge_limit": "Halo cura effetti specifici e purifica secondo rango; un sacerdote ordinario non possiede Halo",
+      "editorial_367": {
+        "id": "REL-02",
+        "name": "Clear Dawn",
+        "heading": "La veglia della lampada schermata",
+        "practice": "Nelle veglie una lampada viene scoperta soltanto quando una persona sceglie di testimoniare; chi tace rimane parte dell’assemblea. Il gesto rituale non rivela menzogne e non obbliga confessioni. Nelle sale cliniche la luce utile a vedere una ferita è distinta dalla purificazione investita eseguita da un Bearer qualificato.",
+        "structure": "Le case distinguono ministro, amministratore e responsabile clinico. Una donazione può comprare materiali o finanziare un turno, non un certificato di purezza. Sairen è il riferimento divino; il suo patrocinio non rende ogni capitolo portavoce delle sue intenzioni. Un contrasto fra sedi può continuare anche dopo un pronunciamento dottrinale.",
+        "tension_and_play": "Il nodo più duro riguarda il segreto: una vittima può aver bisogno di cure senza rendere pubblica una violenza. I predicatori della confessione aperta e i clinici della riservatezza si affrontano in casi concreti. Un ricovero può proteggere un testimone, un benefattore pretendere nomi, un malato rifiutare un rito senza perdere il trattamento ordinario.",
+        "authority_limit": "Halo cura effetti specifici e purifica secondo rango; un sacerdote ordinario non possiede Halo"
+      }
+    },
+    {
+      "id": "REL-03",
+      "name": "Living Mercy",
+      "doctrine": "La vita affidata va sostenuta, riparata e accompagnata; guarire non dà proprietà sul guarito",
+      "services": "Ospedali, levatrici, fondi di cura e scuole; registro degli interventi distinto dal libro delle offerte",
+      "regions": "Ovel, Orsanne, Sivara, Darsen",
+      "variants": "Tradizione di bacino pratica cura comunitaria; rami urbani favoriscono specialisti e consenso scritto",
+      "conflict": "Curatori rari vengono attratti da clienti ricchi mentre i quartieri poveri finanziano le scuole",
+      "knowledge_limit": "Heart non promette ritorno universale dalla morte; una cura del corpo non certifica continuità della persona",
+      "editorial_367": {
+        "id": "REL-03",
+        "name": "Living Mercy",
+        "heading": "La misura del respiro",
+        "practice": "L’accoglienza comprende acqua, riposo e domanda sui bisogni della persona prima del rito. Il respiro condiviso durante la preghiera non trasferisce vitalità né produce una Inscription. Le levatrici registrano nascite e cure separatamente dalle offerte; un padre, una compagna o una comunità possono assistere senza diventare proprietari del corpo assistito.",
+        "structure": "Le case mantengono un responsabile clinico e uno dei fondi. I curatori Heart non sostituiscono automaticamente infermieri, ostetriche e trasportatori. Oriel è patrona della continuità della cura, ma la dottrina del consenso può essere invocata anche contro una dipendenza nata nei suoi servizi. Le strutture urbane pagano forniture e turni rurali attraverso accordi distinti.",
+        "tension_and_play": "Il conflitto non consiste nel rendere ogni guarigione pericolosa: una cura riuscita è davvero riuscita. La contesa riguarda chi può raggiungerla, come lasciare un servizio e chi paga il seguito. Una vettura può liberare un turno rurale; un paziente può chiedere un secondo parere; una clinica può rifiutare il denaro di chi pretende controllo sui ricoverati.",
+        "authority_limit": "Heart non promette ritorno universale dalla morte; una cura del corpo non certifica continuità della persona"
+      }
+    },
+    {
+      "id": "REL-04",
+      "name": "Vigil of Doors",
+      "doctrine": "Ogni separazione richiede memoria, cura dei vivi e rispetto dei passaggi",
+      "services": "Sale funerarie, accompagnamento delle famiglie e custodia delle disposizioni testamentarie",
+      "regions": "Porti di Mereth, Marethis, Varsha",
+      "variants": "Riti marittimi onorano chi non torna; riti urbani difendono il diritto a un lutto senza corpo recuperato",
+      "conflict": "Registri di morti presunti e interessi degli eredi entrano in conflitto",
+      "knowledge_limit": "Non tutti i rituali sono soprannaturali; attestazione civile e diagnosi spirituale non coincidono",
+      "editorial_367": {
+        "id": "REL-04",
+        "name": "Vigil of Doors",
+        "heading": "La soglia lasciata libera",
+        "practice": "Durante un commiato una porta rimane sgombra fino all’ultima persona che vuole uscire. Il rito permette di concludere il lutto anche senza un corpo recuperato, ma non dichiara morto un disperso ai fini patrimoniali. Nomi e oggetti vengono affidati alla memoria dei vivi; contattare una continuità custodita richiede invece un supporto e competenze effettive.",
+        "structure": "Sale funerarie e custodi di disposizioni possono operare nello stesso edificio senza confondere mandato religioso e atto civile. I compensi per sepoltura, trasporto e assistenza sono separabili. Althene è riferimento divino della separazione; non ogni custodia spirituale è sotto la sua sorveglianza e non ogni morto la incontra.",
+        "tension_and_play": "La controversia più delicata nasce quando famiglia, erede e persona custodita vogliono cose diverse. Il rispetto dei morti può giustificare il silenzio oppure essere usato per nascondere un abuso. Due registri autentici e una notifica mancata restano il caso della Rete delle Vigil. Un testimone morto può rifiutare di parlare senza essere trattato come merce difettosa.",
+        "authority_limit": "Non tutti i rituali sono soprannaturali; attestazione civile e diagnosi spirituale non coincidono"
+      }
+    },
+    {
+      "id": "REL-05",
+      "name": "Wayfarer Communion",
+      "doctrine": "Il cammino e l’attesa non cancellano responsabilità verso chi resta",
+      "services": "Ospizi di strada, carte dei passi, prestito di strumenti e manutenzione di segnali",
+      "regions": "Ovel, Kosh, Norell, rotte internazionali",
+      "variants": "Rami di terra privilegiano ospitalità; rami marini disciplina delle partenze",
+      "conflict": "Finanziare un segnale con pedaggi può limitare chi non può pagare",
+      "knowledge_limit": "Le carte non aprono Astrolabe per chi le legge; i ministri non controllano tutte le rotte",
+      "editorial_367": {
+        "id": "REL-05",
+        "name": "Wayfarer Communion",
+        "heading": "Il posto per chi arriva tardi",
+        "practice": "Negli ospizi un posto a tavola viene lasciato disponibile fino alla chiusura serale; il viandante ricevuto aiuta secondo possibilità e non acquista un passaggio soprannaturale con una moneta. Le partenze comprendono controllo di attrezzi, viveri e persone attese al ritorno. Le formule del cammino non sono coordinate di una Root.",
+        "structure": "Custodi di ospizi, compilatori di carte e manutentori di segnali hanno mandati locali. Helyr è venerata attraverso aspetti del percorso, dell’attesa e del raccordo, senza rivelare per questo l’architettura cosmica. Donazioni e pedaggi convenzionati finanziano tratti distinti; una sede può restare aperta anche se una rotta viene sospesa.",
+        "tension_and_play": "Il conflitto è fra ospitalità e sostenibilità: riservare posti a carovane ricche può finanziare l’edificio e tradirne lo scopo. Un viandante senza documenti può chiedere riparo; un segnale rotto esigere un intervento prima del disgelo; una compagnia offrire manutenzione in cambio di esclusiva. Non ogni rifiuto di transito è una trappola divina.",
+        "authority_limit": "Le carte non aprono Astrolabe per chi le legge; i ministri non controllano tutte le rotte"
+      }
+    },
+    {
+      "id": "REL-06",
+      "name": "Witness Houses",
+      "doctrine": "Conoscere richiede esporre il metodo e distinguere osservazione, inferenza e fede",
+      "services": "Biblioteche, scuole di magia, conservazione di campioni e copie; collegi con revisioni reciproche",
+      "regions": "Reth, Ansei, Orsanne, centri universitari",
+      "variants": "Tradizione di Oracle accetta modelli falsificabili; Archive privilegia provenienza e replicazione",
+      "conflict": "Brevetti e patroni possono chiudere una conoscenza prodotta con fondi pubblici",
+      "knowledge_limit": "Non tutto ciò che un membro crede è vero; Archive e Oracle sono autonomamente pericolose e complete secondo 56–57",
+      "editorial_367": {
+        "id": "REL-06",
+        "name": "Witness Houses",
+        "heading": "La lettura contraddetta",
+        "practice": "Una lettura pubblica comprende una conclusione e la migliore obiezione disponibile. L’officiante conserva entrambe, anche quando l’obiezione viene superata. Le scuole insegnano osservazione ordinaria insieme a magia effettiva: provare un metodo non concede Oracle, copiare un grimorio non incorpora Archive.",
+        "structure": "Le case eleggono responsabili dei fondi, dei prestiti e delle prove. Un mago può guidare una dimostrazione senza controllare l’ammissione dei lettori. Talren è patrono di una tradizione plurale, non autore di ogni libro e non garante di ogni inferenza. Donatori e brevetti finanziano le copie, ma possono limitarne la diffusione.",
+        "tension_and_play": "Oracle ricerca relazioni e metodi; Archive conserva, restituisce e usa registrazioni secondo le proprie capacità. Una scuola può primeggiare in una sola pratica senza possedere l’altra. La nota abbreviata delle case di Mereth resta un problema di provenienza reale. Broken Seal può difendere una fonte contro una casa della stessa tradizione senza trasformarsi in nemico della conoscenza.",
+        "authority_limit": "Non tutto ciò che un membro crede è vero; Archive e Oracle sono autonomamente pericolose e complete secondo 56–57"
+      }
+    },
+    {
+      "id": "REL-07",
+      "name": "Common Measure",
+      "doctrine": "Una regola deve poter essere contestata senza distruggere ogni patto",
+      "services": "Associazioni laiche, arbitrati volontari, scuole civiche e fondi per difese giudiziarie",
+      "regions": "Reth, Neressa, Varrun",
+      "variants": "Alcuni membri hanno fede personale; altri rifiutano autorità divine nella legge",
+      "conflict": "L’arbitrato può favorire chi paga gli esperti, anche quando i giudici sono sinceri",
+      "knowledge_limit": "Non è una Effigy e non incorpora Crown attraverso la filosofia",
+      "editorial_367": {
+        "id": "REL-07",
+        "name": "Common Measure",
+        "heading": "La sedia del dissenso",
+        "practice": "Le assemblee lasciano una sedia a chi contesta il patto proposto. Il presidente deve riportare il motivo del dissenso prima della votazione; il gesto non impedisce intimidazioni fuori dall’aula e non costituisce protezione soprannaturale. Non esiste una divinità richiesta per aderire.",
+        "structure": "Associazioni autonome finanziano consulenze e difese attraverso quote e sottoscrizioni. Un arbitro viene accettato dalle parti entro un mandato; non acquisisce giurisdizione generale. Credenti e non credenti condividono una pratica civile pur conservando divergenze sulla fonte ultima dei diritti.",
+        "tension_and_play": "La competenza costa: chi sa leggere clausole può dominare una discussione formalmente aperta. Un fondo per la difesa può sostenere un avversario scomodo; un arbitro può ricusarsi; un finanziatore può chiedere di escludere una categoria di cause. Questi conflitti non trasformano Common Measure in una Effige o in una chiesa universale.",
+        "authority_limit": "Non è una Effigy e non incorpora Crown attraverso la filosofia"
+      }
+    },
+    {
+      "id": "REL-08",
+      "name": "Throne and Bond",
+      "doctrine": "Potere legittimo significa dovere verificabile; il vincolo va delimitato",
+      "services": "Riti di investitura civile, scuole notarili e fondi per obblighi di servizio",
+      "regions": "Orsanne, Aldren, Teral, Dorel",
+      "variants": "Ramo della Corona insiste sulla carica; ramo del Vincolo sul patto e sul suo termine",
+      "conflict": "Chi detiene una carica tende a dichiarare sacri privilegi contingenti",
+      "knowledge_limit": "Crown e Chain restano percorsi distinti; nessun fedele ordinario li possiede entrambi per il culto comune",
+      "editorial_367": {
+        "id": "REL-08",
+        "name": "Throne and Bond",
+        "heading": "La carica e il termine",
+        "practice": "L’investitura mostra un segno della carica e una tavoletta con il termine o la condizione di cessazione del mandato. I due oggetti sono distinti: poter ordinare non equivale a possedere per sempre il servizio altrui. Un rito ordinario non produce Crown o Chain.",
+        "structure": "I ministri del Trono e quelli del Vincolo mantengono interpretazioni separate. Ilyra e Deyran non sono una sola persona, né una integrazione completa. Le scuole notarili ricevono rette e lasciti; il finanziamento di una cerimonia non rende valido un privilegio contrario alla legge locale.",
+        "tension_and_play": "I tradizionalisti sacralizzano la continuità della carica; i riformatori insistono sulla possibilità di cessazione. La falsificazione di Marwen è un abuso concreto da provare, non dottrina conosciuta da tutti. Un servitore può rivendicare il termine del proprio obbligo, un erede rifiutare un’investitura, un ministro denunciare un atto emesso in nome del patrono.",
+        "authority_limit": "Crown e Chain restano percorsi distinti; nessun fedele ordinario li possiede entrambi per il culto comune"
+      }
+    },
+    {
+      "id": "REL-09",
+      "name": "Ember Fellowship",
+      "doctrine": "La trasformazione utile richiede responsabilità per ciò che viene consumato e scartato",
+      "services": "Mutue delle officine, scuole di materiali, prove antincendio e commemorazione degli infortuni",
+      "regions": "Lethorne, Reth, Marethis, Tevar",
+      "variants": "Rami di fonderia privilegiano precisione; rami di campo chiedono recupero e fertilità",
+      "conflict": "Aumentare produzione può distruggere salute e suoli che rendono il lavoro possibile",
+      "knowledge_limit": "Crucible, Tempest e Seed non diventano una integrazione completa per un rito con tre simboli",
+      "editorial_367": {
+        "id": "REL-09",
+        "name": "Ember Fellowship",
+        "heading": "Il resto della fornace",
+        "practice": "Alla chiusura di una lavorazione si espongono prodotto, consumo e scarto: un oggetto bello non cancella una ferita o un terreno danneggiato. La commemorazione degli infortuni include i nomi dei lavoratori quando le famiglie lo consentono. La brace rituale resta ordinaria salvo Medium identificato.",
+        "structure": "Mutue e scuole professionali condividono edifici, ma non sempre bilanci. I patroni di trasformazione, coltivazione e forze del mondo conservano identità e poteri distinti. Una celebrazione comune non incorpora tre Effigi e non completa una Root. Le quote di officina finanziano attrezzi di prova e sostegno agli infortunati.",
+        "tension_and_play": "La divisione attraversa proprietari e lavoratori: mantenere un impianto vecchio può proteggere impieghi e moltiplicare incidenti; sostituirlo può espellere i meno qualificati. Un apprendista può chiedere una prova pubblica, una vedova contestare un monumento pagato con il fondo cure, un’officina finanziare formazione per un concorrente.",
+        "authority_limit": "Crucible, Tempest e Seed non diventano una integrazione completa per un rito con tre simboli"
+      }
+    },
+    {
+      "id": "REL-10",
+      "name": "Tide Covenant",
+      "doctrine": "Condividere il pericolo richiede una quota di responsabilità proporzionata ai mezzi",
+      "services": "Soccorso navale, mutue dei marinai e registri di assicurazione",
+      "regions": "Neressa, Meren, Arul, Varsha",
+      "variants": "I capitoli dei grandi porti vogliono flotte comuni; i minori difendono autonomia",
+      "conflict": "Il rischio pagato da equipaggi non coincide con il profitto dei proprietari",
+      "knowledge_limit": "Non ogni tempesta è opera di Tempest; Maw non è sinonimo del mare",
+      "editorial_367": {
+        "id": "REL-10",
+        "name": "Tide Covenant",
+        "heading": "La corda riportata a terra",
+        "practice": "Una corda di soccorso viene riavvolta dopo ogni commemorazione: non si loda chi si getta in mare senza mezzi e obbliga altri a seguirlo. Per i dispersi si può celebrare una veglia senza anticipare l’atto civile di morte. I riti non comandano il tempo atmosferico.",
+        "structure": "Capitoli portuali, mutue e squadre di soccorso hanno bilanci e responsabilità proprie. Alcuni invocano Enra, altri custodiscono una tradizione marinara senza patrono esclusivo. Assicuratori possono contribuire al soccorso, ma non scegliere chi viene salvato durante un intervento possibile.",
+        "tension_and_play": "I grandi porti vogliono accentramento; i piccoli temono di pagare flotte che non raggiungeranno mai le loro coste. Una nave può chiedere un rimorchio, un equipaggio contestare la valutazione di rischio, un capitolo rifiutare di benedire una partenza palesemente insicura. Una tempesta ordinaria resta ordinaria finché le prove indicano altro.",
+        "authority_limit": "Non ogni tempesta è opera di Tempest; Maw non è sinonimo del mare"
+      }
+    },
+    {
+      "id": "REL-11",
+      "name": "Tradizioni fluviali del Creator — ricordo antico",
+      "doctrine": "Edran ricorda patti di uscita e ritorno e comunità che li custodivano; il duca conosce confraternite fluviali moderne, senza verificarne continuità o fede personale nel Creator",
+      "services": "Nei ricordi antichi: accoglienza, registri di transito e trasmissione di formule",
+      "regions": "Luoghi antichi dei patti; sovrapposizioni moderne da verificare",
+      "variants": "Le varianti attuali richiedono fonti contemporanee",
+      "conflict": "La tutela di un uso comune non equivale alla proprietà della sponda",
+      "knowledge_limit": "Non è una attestazione che un particolare gruppo moderno conservi oggi il nome o riconosca il ritorno",
+      "editorial_367": {
+        "id": "REL-11",
+        "name": "Tradizioni fluviali del Creator — ricordo antico",
+        "heading": "Il nome custodito sulle rive",
+        "practice": "Questa voce distingue il ricordo antico di Edran dalle confraternite moderne. Nell’antichità i patti di uscita e ritorno scandivano lavoro, soccorso e trasmissione delle formule; il protagonista può ricordare quanto fissato nelle sue fonti personali. La sopravvivenza moderna di un canto non dimostra che ogni cantore conosca il Creator.",
+        "structure": "Il quadro attuale deve essere ricostruito attraverso luoghi, testi e persone effettive. Le comunità della Sponda e le loro copie del Canticle non sono una chiesa mondiale rimasta intatta per millenni. I servizi civili dei moderni approdi non diventano proprietà personale del liberatore ritornato.",
+        "tension_and_play": "Una formula può conservarsi con un significato diverso; una traduzione può aver salvato la pratica e perso il nome. L’incontro giocabile consiste nel confrontare testimonianze e usi, non nel far riconoscere automaticamente Edran da un’intera popolazione. Le informazioni riservate sulle continuità concrete restano nelle fonti della Sponda e della liberazione.",
+        "authority_limit": "Non è una attestazione che un particolare gruppo moderno conservi oggi il nome o riconosca il ritorno"
+      }
+    },
+    {
+      "id": "REL-12",
+      "name": "Tradizioni di Namar — ricordo antico",
+      "doctrine": "Edran ricorda la First Separation e il proprio ruolo; il duca conosce i servizi idrici di Namar",
+      "services": "Scuole e opere di bacino note in termini civili; devozione e trasmissione attuali da verificare",
+      "regions": "Namar e bacini collegati",
+      "variants": "Divisioni religiose contemporanee non note automaticamente",
+      "conflict": "Competenza tecnica e accesso civico possono divergere",
+      "knowledge_limit": "Il ricordo di avere costruito non certifica la sopravvivenza attuale di un culto personale",
+      "editorial_367": {
+        "id": "REL-12",
+        "name": "Tradizioni di Namar — ricordo antico",
+        "heading": "L’opera e chi la mantiene",
+        "practice": "Il ricordo della First Separation comprende una fondazione e le persone che vi lavorarono; le pratiche moderne di Namar appartengono invece a comunità cresciute e cambiate. La visita alle opere, il lavoro ai bacini e l’insegnamento tecnico non provano da soli una devozione personale a Edran.",
+        "structure": "Scuole, custodi e operatori idrici devono essere letti nelle fonti attuali di Namar, di Living Mercy e dei Bacini Aperti. Non viene introdotto un sommo sacerdote universale per riempire la voce. L’origine miracolosa di un’opera non elimina salari, manutenzione, competenze o dissenso dei suoi utilizzatori.",
+        "tension_and_play": "Una comunità può venerare il fondatore e rifiutare un suo ordine presente; un tecnico può non credervi e proteggere meglio il servizio. Il conflitto già aperto riguarda continuità tecnica e successione degli incarichi. Il ritorno del protagonista non costituisce automaticamente notifica pubblica, riconoscimento o restaurazione del vecchio governo.",
+        "authority_limit": "Il ricordo di avere costruito non certifica la sopravvivenza attuale di un culto personale"
+      }
+    },
+    {
+      "id": "REL-13",
+      "name": "Custodia della Veglia",
+      "doctrine": "Proteggere riposo e soglie senza fare dell’occultamento un diritto a imprigionare.",
+      "services": "Ricoveri notturni, custodia di segnali, soccorso in gallerie; personale ordinario e Bearers qualificati.",
+      "regions": "Mereth e presidi di Noran; affiliazioni professionali ad Avaris, Qadra e Keran, senza proprietà religiosa su quelle città.",
+      "variants": "Veglianti civili e clausure contemplative",
+      "conflict": "Sicurezza contro verificabilità pubblica.",
+      "knowledge_limit": "La dottrina pubblica non rivela possessore della Seat o coordinate della Root.",
+      "organization": "Ricoveri e presidi amministrati localmente. Gli addetti ordinari hanno turni, chiavi e registri; i Bearers rispondono delle sole protezioni esercitate. Un collegio interregionale confronta protocolli senza nominare tutti i dirigenti.",
+      "training": "Apprendistato presso un presidio, accesso autorizzato a un Medium, prova e stabilizzazione personali; mantenere segnali di soccorso leggibili è parte della formazione. Né una licenza né una preghiera incorporano Eclipse.",
+      "funding": "Quote delle sedi, donazioni, convenzioni di soccorso e servizi professionali dichiarati; un ricovero può ammettere non aderenti. Contratti civili possono essere contestati.",
+      "dissent": "Veglianti civili difendono uscite ispezionabili; clausure contemplative sostengono periodi di isolamento volontario; una corrente tutelare vuole prorogare chiusure per conto degli ospiti. Non ogni custode aderisce alla corrente coercitiva.",
+      "daily_life": "Turni notturni, deposito delle armi all’ingresso e segnale di uscita accessibile a un addetto ordinario. Tenebra investita non elimina fame, incendio o responsabilità civile.",
+      "relations": "Collabora con soccorso civile e case funerarie; con REL-04 distingue la protezione dei vivi dalla custodia dei morti. Con gli uffici di illuminazione negozia dove mantenere visibili gli allarmi.",
+      "integration_source": "GIOCATORE_174_Culti_notturni_e_pratiche_pubbliche.md",
+      "editorial_367": {
+        "id": "REL-13",
+        "name": "Custodia della Veglia",
+        "heading": "Il segnale che resta visibile",
+        "practice": "Nelle veglie un segnale ordinario di uscita deve restare raggiungibile anche quando si abbassa la luce. Il rito di riposo termina quando l’ospite lo chiede, salvo un pericolo e un mandato effettivi da valutare. Eclipse investita è distinta da buio, sonno e semplice silenzio.",
+        "structure": "Ricoveri autonomi, addetti ai segnali e Bearers rispondono di parti diverse del servizio. Astrid dirige l’ufficio locale già documentato, non tutti i fedeli; Varessa non è nota attraverso ogni formula pubblica. Quote e convenzioni finanziano turni, manutenzione e soccorso.",
+        "tension_and_play": "Le clausure volontarie e la protezione dei riposi sono pratiche lecite; la corrente tutelare tenta di decidere quando gli ospiti sono pronti a uscire. Il raccordo sospetto di Noran richiede una verifica concreta. La prima prova locale del 23 maggio e il rinnovo del 30 giugno rimangono eventi distinti del calendario vigente.",
+        "authority_limit": "La dottrina pubblica non rivela possessore della Seat o coordinate della Root."
+      }
+    },
+    {
+      "id": "REL-14",
+      "name": "Concordia dei Cicli",
+      "doctrine": "Un influsso richiede responsabilità e un patto richiede consenso verificabile.",
+      "services": "Sigilli protettivi, supervisione di famigli, scioglimento di anatemi su incarico e osservatori rituali.",
+      "regions": "Serevan e reti di Mereth; scuole affiliate a Corten, Teshen, Mersa e Tevren. Tevren è un centro di vallata, non un porto costiero.",
+      "variants": "Scuole del riflesso e scuole del vincolo rituale",
+      "conflict": "Incantamento lecito contro persuasione abusiva e segreti professionali.",
+      "knowledge_limit": "Non tutti gli aderenti sono Crescent; conoscenza moderna non automatica per Edran.",
+      "organization": "Scuole e camere locali tengono registri separati per sigilli, incarichi, consenso e famigli. Il collegio dei Sigilli propone standard; ogni scuola conserva responsabili e possibilità di rifiuto.",
+      "training": "Tutoraggio rituale, materiali e Medium pertinente; l’allievo può lavorare su supporti altrui prima dell’Inscription, ma non imprime per questo potere personale. Avanzamenti e contratto di famiglio seguono soglie e regole vigenti.",
+      "funding": "Rette graduate, committenze rituali, fondi delle mutue e convenzioni di porto; revisione civile dei prezzi e dei mandati. Non si paga per comprare una volontà.",
+      "dissent": "Scuole del riflesso privilegiano verifica di supporti; scuole del vincolo rituale pretendono atti espliciti. Una corrente ritiene lecita la fascinazione preliminare: i dissidenti chiedono una seconda conferma senza influsso.",
+      "daily_life": "Un sigillo protettivo ha committente, scopo e manutenzione; un famiglio ha un patto delimitato. Un calendario rituale non trasforma tutti i fedeli in Bearers e non impone una sessualità o una metamorfosi.",
+      "relations": "Lavora con mutue e operatori portuali; con REL-06 distingue diagnosi magica, autenticità documentale e consenso. Può essere accusata di influenza abusiva anche quando il supporto è tecnicamente valido.",
+      "integration_source": "GIOCATORE_174_Culti_notturni_e_pratiche_pubbliche.md",
+      "editorial_367": {
+        "id": "REL-14",
+        "name": "Concordia dei Cicli",
+        "heading": "La seconda conferma",
+        "practice": "Una commissione rituale può chiedere di ripetere il consenso quando l’influsso è cessato. Specchi, sigilli e calendari sono strumenti con funzioni specifiche, non un’autorità generica sulla trasformazione del corpo. La cura quotidiana del supporto fa parte della pratica, anche quando il cliente non vede magia all’opera.",
+        "structure": "Scuole del riflesso e del vincolo rituale mantengono responsabili separati. Teva è referente della camera di Tevren; il suo famiglio contrattuale non appartiene a ogni allievo. Ilyren e la sua protezione riservata non sono conoscenza automatica della scuola. Rette, mutue e incarichi pagano materiali e tutoraggio.",
+        "tension_and_play": "Il contrasto verte sulla fascinazione prima della firma: un sì pronunciato sotto influsso non risolve la questione. La copia incompleta e quella periferica vanno confrontate senza decretare che ogni docente sia complice. Una ricevuta, una conferma libera o la sospensione dell’incarico possono cambiare il caso senza modificare retroattivamente le clausole.",
+        "authority_limit": "Non tutti gli aderenti sono Crescent; conoscenza moderna non automatica per Edran."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "item": "Pane comune",
+      "unit": "1 kg",
+      "crowns": 0.16
+    },
+    {
+      "item": "Latte",
+      "unit": "1 litro",
+      "crowns": 0.1
+    },
+    {
+      "item": "Legumi secchi",
+      "unit": "1 kg",
+      "crowns": 0.22
+    },
+    {
+      "item": "Patate",
+      "unit": "1 kg",
+      "crowns": 0.06
+    },
+    {
+      "item": "Carne ordinaria",
+      "unit": "1 kg",
+      "crowns": 0.85
+    },
+    {
+      "item": "Carbone domestico",
+      "unit": "25 kg",
+      "crowns": 0.7
+    },
+    {
+      "item": "Affitto operaio, due stanze",
+      "unit": "1 settimana",
+      "crowns": 3.2
+    },
+    {
+      "item": "Alloggio arredato modesto",
+      "unit": "1 notte",
+      "crowns": 0.8
+    },
+    {
+      "item": "Biglietto tram urbano",
+      "unit": "1 corsa",
+      "crowns": 0.03
+    },
+    {
+      "item": "Treno Rovenne–Lethorne, terza classe",
+      "unit": "1 tratta",
+      "crowns": 0.28
+    },
+    {
+      "item": "Telegramma interno breve",
+      "unit": "12 parole e indirizzo",
+      "crowns": 0.6
+    },
+    {
+      "item": "Giornale",
+      "unit": "1 copia",
+      "crowns": 0.02
+    },
+    {
+      "item": "Visita medica ordinaria",
+      "unit": "1 visita",
+      "crowns": 1.5
+    },
+    {
+      "item": "Abito da lavoro",
+      "unit": "1 completo",
+      "crowns": 6
+    },
+    {
+      "item": "Rivoltella ordinaria nuova",
+      "unit": "1 arma, documenti esclusi",
+      "crowns": 24
+    },
+    {
+      "item": "Libro tecnico rilegato",
+      "unit": "1 volume",
+      "crowns": 3.5
+    }
+  ],
+  "wages": [
+    {
+      "role": "Manovale adulto",
+      "daily": 2,
+      "paid_days": 26,
+      "monthly": 52
+    },
+    {
+      "role": "Operaio esperto",
+      "daily": 4,
+      "paid_days": 26,
+      "monthly": 104
+    },
+    {
+      "role": "Meccanico specializzato",
+      "daily": 6,
+      "paid_days": 26,
+      "monthly": 156
+    },
+    {
+      "role": "Impiegato contabile",
+      "daily": null,
+      "paid_days": null,
+      "monthly": 85
+    },
+    {
+      "role": "Domestico residente",
+      "daily": null,
+      "paid_days": null,
+      "monthly": 24
+    },
+    {
+      "role": "Guardia privata",
+      "daily": null,
+      "paid_days": null,
+      "monthly": 65
+    },
+    {
+      "role": "Insegnante municipale",
+      "daily": null,
+      "paid_days": null,
+      "monthly": 70
+    },
+    {
+      "role": "Tecnico investito di servizio I–II",
+      "daily": null,
+      "paid_days": null,
+      "monthly": 180
+    }
+  ],
+  "currencies": [
+    {
+      "territory": "Orsanne",
+      "name": "corona",
+      "subunits": 100,
+      "crowns_per_unit": 1
+    },
+    {
+      "territory": "Reth",
+      "name": "marchio",
+      "subunits": 100,
+      "crowns_per_unit": 1.25
+    },
+    {
+      "territory": "Neressa",
+      "name": "vela",
+      "subunits": 100,
+      "crowns_per_unit": 1.1
+    },
+    {
+      "territory": "Ovel",
+      "name": "tallero di bacino",
+      "subunits": 100,
+      "crowns_per_unit": 0.8
+    }
+  ],
+  "social_conditions": [
+    {
+      "group": "Quartieri operai",
+      "conditions": "Case in affitto, acqua da fontane o rete parziale, lavoro a turni; più salari familiari sostengono un nucleo",
+      "networks": "Mutue, giornali e scuole serali",
+      "pressure": "Infortunio o rincaro del combustibile può consumare subito il margine",
+      "examples": "Lethorne, Deren e porti"
+    },
+    {
+      "group": "Artigiani e officine minori",
+      "conditions": "Bottega, apprendisti, clienti a credito e strumenti di proprietà",
+      "networks": "Associazioni di mestiere e commesse cooperative",
+      "pressure": "Un brevetto o una grande fornitura può togliere lavoro o aprirne di nuovo",
+      "examples": "Lethorne, Teren, Corten"
+    },
+    {
+      "group": "Coltivatori e affittuari",
+      "conditions": "Raccolto stagionale, canone, sementi, animali e tempi dei mercati",
+      "networks": "Fondi dei semi e accordi di acqua",
+      "pressure": "Debiti non seguono sempre il calendario del raccolto",
+      "examples": "Valenne e campagne dei bacini"
+    },
+    {
+      "group": "Lavoratori mobili",
+      "conditions": "Alloggio temporaneo, contratti stagionali, lingua non sempre riconosciuta",
+      "networks": "Confraternite di transito e casse portatili",
+      "pressure": "Registrazione della residenza può impedire voto o cure convenzionate",
+      "examples": "Ovel, Reth e cantieri"
+    },
+    {
+      "group": "Personale domestico",
+      "conditions": "Vitto e stanza ma orari legati alla casa; alcuni risparmiano per diventare indipendenti",
+      "networks": "Reti di assunzione e raccomandazioni",
+      "pressure": "Licenziamento significa perdere insieme salario e alloggio",
+      "examples": "Residenze nobiliari e borghesi"
+    },
+    {
+      "group": "Impiegati e insegnanti",
+      "conditions": "Salario mensile, corrispondenza, libri e abiti appropriati all’ufficio",
+      "networks": "Scuole e associazioni civiche",
+      "pressure": "Titolo di studio non elimina patronato o costi di un trasferimento",
+      "examples": "Veldane, Elven, centri amministrativi"
+    },
+    {
+      "group": "Marinai e famiglie dei porti",
+      "conditions": "Assenze lunghe, rimesse, rischio e lavoro di terra fra imbarchi",
+      "networks": "Mutue del Tide Covenant e soccorso civile",
+      "pressure": "Una rotta sospesa riduce introiti prima che arrivi una notizia completa",
+      "examples": "Auvrel, Neressa, Meren"
+    },
+    {
+      "group": "Minoranze di lingua o stirpe",
+      "conditions": "Comunità miste con professioni diverse, registri e tradizioni propri",
+      "networks": "Traduttori, scuole comunitarie e reti familiari",
+      "pressure": "Un ufficio può negare un diritto per documenti o pregiudizio, senza legge schiavista universale",
+      "examples": "Tutti i continenti, con distribuzioni diverse"
+    },
+    {
+      "group": "Bearer di servizio",
+      "conditions": "Studio, pratica e manutenzione; lavoro spesso mediato da una istituzione",
+      "networks": "Collegium, cliniche, laboratori e clienti",
+      "pressure": "Una incorporazione autentica non garantisce lavoro stabile o buona reputazione",
+      "examples": "Città e pochi centri tecnici rurali"
+    },
+    {
+      "group": "Borghesia industriale",
+      "conditions": "Case comode, società, brevetti, viaggi e figli istruiti",
+      "networks": "Banche, consorzi e consigli municipali",
+      "pressure": "Ricchezza investita non equivale a liquidità disponibile",
+      "examples": "Città manifatturiere e porti"
+    },
+    {
+      "group": "Aristocrazia concessoria",
+      "conditions": "Titoli, proprietà, doveri documentali e reti matrimoniali",
+      "networks": "Camere, amministratori e patrimoni di famiglia",
+      "pressure": "La concessione può diventare un costo o perdere rendita; il titolo non dà Crown",
+      "examples": "Orsanne, Aldren, Dorel"
+    }
+  ],
+  "estate_remembered": {
+    "date": "812-05-04",
+    "cash": 73000,
+    "committed": 25000,
+    "uncommitted": 48000,
+    "debt": 1100000,
+    "hectares": 18400,
+    "mills": 12,
+    "residents": 38,
+    "external_agents": 6
+  },
+  "languages": {
+    "orsannico": "native reading and speaking",
+    "rethico_commerciale": "reading",
+    "neressano_di_porto": "conversation",
+    "velico_di_cancelleria": "studied reading; limited fluency"
+  },
+  "documents": [
+    "GIOCATORE_122_Governi_diritto_e_cittadinanza.md",
+    "GIOCATORE_123_Atlante_delle_istituzioni.md",
+    "GIOCATORE_124_Moneta_prezzi_e_salario.md",
+    "GIOCATORE_125_Produzione_commerci_e_credito.md",
+    "GIOCATORE_126_Religioni_dottrine_e_servizi.md",
+    "GIOCATORE_127_Scuole_medicina_e_accesso_ai_poteri.md",
+    "GIOCATORE_128_Valcienne_patrimonio_e_rete_conosciuta.md",
+    "GIOCATORE_129_Vita_quotidiana_lingue_e_estetica.md",
+    "GIOCATORE_130_Confini_del_sapere_sociale.md",
+    "GIOCATORE_139_Audit_sociale_e_livelli_di_impatto.md",
+    "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md"
+  ],
+  "power_rules": "23 Effigi e 161 denominazioni approvate; una Effige personale è la norma, aggiunte nella stessa famiglia sono eccezioni rischiose, incorporazione personale esterna alla famiglia incompatibile. Rango e addestramento individuali restano necessari.",
+  "integration_revision": "RACCORDI-317",
+  "world_integration_source": "GIOCATORE_174_Culti_notturni_e_pratiche_pubbliche.md",
+  "population_revision": "POP-298",
+  "raccordo_revision": "RACCORDI-317",
+  "territorial_revision": "347",
+  "duchy_source": "GIOCATORE_347_Ducato_di_Rovenne_territorio_e_gerarchia.md",
+  "political_revision": 354,
+  "dynasties_source": "CANONE_VIGENTE/Dinastie_regnanti_354.json",
+  "alexander_institutions_source": "CANONE_VIGENTE/Istituzioni_Alexander_354.json",
+  "service_revision": 358,
+  "service_source": "GIOCATORE_358_Bearers_societa_e_servizi_di_corte.md"
+}

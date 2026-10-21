@@ -63,3 +63,26 @@ Un capo, quattro occhi in due coppie simmetriche, un torace con due cinture scap
 Trasporto di campioni e supporti clinici. Merci lecite e carichi coercitivi restano distinguibili. Il discorso interno sulla persona come insieme di componenti è una giustificazione operativa, non un culto religioso imposto a ogni addetto.
 
 Il ruolo individuale e le informazioni possedute restano quelli fissati. Nessun nuovo potere o sapere remoto. Per dottrina, territorio, reclutamento e facoltà di uscita consultare DOSSIER_CULTI_373/FRONT-10_the-last-vessel.md.
+
+
+## Registro operativo — 375
+
+### Presenza e centro
+
+Presenza personale effettiva nel luogo o dominio assegnato: Ashen Quay. Il luogo è un riferimento operativo, non coordinate corporee pubbliche o percezione onnisciente. Un solo centro personale, spiritualmente investito, raccordato alla presenza primaria. Il danno biologico non prova da solo perdita del centro; l’estinzione richiede la cessazione della continuità autentica, non una dichiarazione dell’avversario.
+
+### Manifestazioni e sostegni
+
+La presenza non dispone di Avatar per il solo rango. Effetti remoti e strumenti non sono altri corpi personali. Nessun ulteriore deposito personale di resurrezione o Anchor esterno viene assegnato al T0 da questo registro. Supporti, culti, pazienti, discendenti e opere indipendenti non valgono come riserve personali senza un rapporto già attestato.
+
+### Contatto e informazioni
+
+La nave-laboratorio mantiene persone e contenitori separati; i sei adulti detenuti non costituiscono la sua continuità.
+
+### Interruzione e conseguenze
+
+Il cedimento di due contenitori resta il problema già fissato, non un tentativo di resurrezione personale aggiunto. Vareth non può rivendicare come sé ogni funzione assimilata o cliente; un recupero richiede centro realmente superstite e funzione pertinente.
+
+### Recupero e cessazione
+
+Un recupero richiede il centro autentico superstite e una funzione compatibile propria o altrui. Se rimane solo una registrazione o la continuità è davvero estinta, non si ripristina la stessa persona aggiungendo un Anchor dopo il fatto.
