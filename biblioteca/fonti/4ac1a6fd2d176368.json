@@ -1,0 +1,224 @@
+{
+  "revision": 378,
+  "date": "2026-10-22",
+  "novel_edition": "NOVEL-002",
+  "wiki_policy": "La wiki segue ora anche la stesura della novel. I capitoli scritti sono fonti degli eventi della continuità letteraria; le schede indicano capitolo, data e sapere effettivo. I fatti nuovi non si trasferiscono automaticamente alla campagna. I fondamenti comuni, le progressioni e il passato adottato restano vigenti. Una scaletta futura resta un progetto e non una cronaca. Il testo di un capitolo prevale sul suo riassunto per ciò che la scena effettivamente mostra; una divergenza dalle regole comuni va registrata esplicitamente prima di adottarla.",
+  "written_chapters": 5,
+  "manuscript_publication_status": "LOCAL_DRAFT_NOT_UPLOADED_TO_READING_PLATFORMS",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "La misura sbagliata",
+      "file": "02_Volume_01_Capitolo_001_PILOTA.md",
+      "date": "812-05-18",
+      "time": "mattina",
+      "place": "Lethorne, laboratorio Ruy",
+      "pov": "CAST-002",
+      "cast": [
+        "CAST-002",
+        "CAST-031",
+        "CAST-032",
+        "CAST-129"
+      ],
+      "summary": "Elias corregge la lettura soprannaturale di una nicchia dietro un armadio, poi torna alle misure del collaudo contestato. Etienne porta un’offerta di pagamento che rinvia a un resoconto non allegato. Livia rileva l’assenza del testo richiamato. La copia della prima posizione del banco è autentica ma non identifica chi ne ordinò lo spostamento. Elias decide di cercare chi abbia trasportato il banco; Etienne vuole prima ricevere l’allegato.",
+      "new": [
+        "La nicchia del laboratorio è profonda undici centimetri; non è un nuovo sito soprannaturale.",
+        "La visita di Etienne e l’arrivo di Livia avvengono nella mattina del 18 maggio.",
+        "L’offerta richiama un allegato assente: nel capitolo non se ne attribuiscono autore e intenzione.",
+        "Etienne non afferma di ricordare con precisione la posizione del banco durante l’incidente."
+      ],
+      "knowledge": "Elias non conosce ancora l’ordine di Vern. Livia non produce una nuova copia risolutiva. La responsabilità storica dell’incidente resta quella già fissata.",
+      "id": "NOVEL-V01-C001",
+      "url": "novel-volume-01-capitolo-001.html",
+      "manuscript_source": "NOVEL/02_Volume_01_Capitolo_001_PILOTA.md",
+      "status": "PRIMA_STESURA",
+      "continuity": "NOVEL",
+      "volume": 1
+    },
+    {
+      "n": 2,
+      "title": "La mano sul lenzuolo",
+      "file": "04_Volume_01_Capitolo_002.md",
+      "date": "812-05-18",
+      "time": "primo risveglio, mattina",
+      "place": "Rovenne, camera di convalescenza",
+      "pov": "CAST-001",
+      "cast": [
+        "CAST-001",
+        "CAST-071",
+        "CAST-003",
+        "CAST-005"
+      ],
+      "summary": "Edran si risveglia nel corpo restaurato di Alexander e riconosce le memorie integrali del duca senza una seconda persona interiore. Nela verifica le prime risposte e gli comunica i quattro giorni di coma. Alexander chiede della sorella. Celine lo visita, esprime la frustrazione per le spiegazioni incomplete ricevute e gli stringe la mano. Lui non le rivela la propria identità antica e promette che quel giorno non risponderà alle lettere. Mirel arriva per la visita.",
+      "new": [
+        "La prima osservatrice del risveglio in questa stesura è Nela.",
+        "Celine entra prima dell’esame esteso di Mirel e chiede informazioni senza essere trattata come una spettatrice passiva.",
+        "La promessa sulle lettere nasce nella nuova conversazione, non dalle memorie di una decisione già presa."
+      ],
+      "knowledge": "Nela e Celine riconoscono Alexander e ignorano Edran. Il lettore apprende l’identità attraverso il punto di vista del risvegliato. Nessuno ottiene memorie del coma.",
+      "id": "NOVEL-V01-C002",
+      "url": "novel-volume-01-capitolo-002.html",
+      "manuscript_source": "NOVEL/04_Volume_01_Capitolo_002.md",
+      "status": "PRIMA_STESURA",
+      "continuity": "NOVEL",
+      "volume": 1
+    },
+    {
+      "n": 3,
+      "title": "Un posto a tavola",
+      "file": "05_Volume_01_Capitolo_003.md",
+      "date": "812-05-18",
+      "time": "sera",
+      "place": "Lethorne, casa Veyne",
+      "pov": "CAST-002",
+      "cast": [
+        "CAST-002",
+        "CAST-124",
+        "CAST-126"
+      ],
+      "summary": "Elias torna a casa e aiuta Adrien intorno a una lampada ordinaria. Durante la cena scopre di aver ascoltato poco la famiglia mentre preparava la propria difesa. Lise ha ricevuto tre giorni prima una risposta alla domanda scolastica e deve confermare un colloquio della settimana successiva. Gli chiede tempo e attenzione, non un accompagnamento deciso al suo posto. Elias le chiede di mostrargli gli esercizi e rimane con lei alla tavola.",
+      "new": [
+        "La risposta scolastica a Lise è arrivata tre giorni prima della cena; il colloquio è nella settimana successiva, senza una data precisa già dichiarata.",
+        "La lampada riparata da Adrien, il cestino sulla sedia e gli esercizi sono dettagli domestici ordinari.",
+        "La scena non assegna una cifra al viaggio né registra un trasferimento di denaro."
+      ],
+      "knowledge": "Adrien conosce il rischio professionale di Elias; la cena non gli rivela la cerniera. Nessuna Effige viene assegnata a lui o a Lise.",
+      "id": "NOVEL-V01-C003",
+      "url": "novel-volume-01-capitolo-003.html",
+      "manuscript_source": "NOVEL/05_Volume_01_Capitolo_003.md",
+      "status": "PRIMA_STESURA",
+      "continuity": "NOVEL",
+      "volume": 1
+    },
+    {
+      "n": 4,
+      "title": "Quello che resta",
+      "file": "06_Volume_01_Capitolo_004.md",
+      "date": "812-05-18",
+      "time": "dopo la visita di Celine, mattina",
+      "place": "Rovenne, camera di convalescenza",
+      "pov": "CAST-001",
+      "cast": [
+        "CAST-001",
+        "CAST-005"
+      ],
+      "summary": "Mirel visita Alexander, riscontra il recupero e gli parla della crisi tossica senza attribuirle un’intenzione già provata. Gli mostra il flacone conservato, separato dai frammenti consumati del Quiet Glass. Alexander chiede di preservare le note delle consegne e di non accusare il personale per il solo contatto col vassoio. Rimasto solo crea una piccola coppa d’acqua e poi ne annulla il vetro mediante contatto. Una goccia già separata resta sul polso. Si veste e mantiene la promessa fatta a Celine.",
+      "new": [
+        "La diagnosi viene comunicata al nuovo Alexander durante questa visita.",
+        "La richiesta di conservare le consegne è ora un’iniziativa effettiva della novel.",
+        "Creazione e annullamento della coppa sono un episodio scritto, non un nuovo sblocco.",
+        "La goccia separata non scompare insieme alla coppa."
+      ],
+      "knowledge": "Alexander non conosce ancora il mittente del dono o il colpevole. Mirel non identifica Edran. Nessuna riattivazione del Quiet Glass o diagnosi magica universale è avvenuta.",
+      "id": "NOVEL-V01-C004",
+      "url": "novel-volume-01-capitolo-004.html",
+      "manuscript_source": "NOVEL/06_Volume_01_Capitolo_004.md",
+      "status": "PRIMA_STESURA",
+      "continuity": "NOVEL",
+      "volume": 1
+    },
+    {
+      "n": 5,
+      "title": "La richiesta",
+      "file": "07_Volume_01_Capitolo_005.md",
+      "date": "812-05-19",
+      "time": "mattina",
+      "place": "Lethorne, laboratorio Ruy",
+      "pov": "CAST-002",
+      "cast": [
+        "CAST-002",
+        "CAST-031",
+        "CAST-194"
+      ],
+      "summary": "Ilian Uren porta a Marcel un disegno da restituire in scala e una richiesta di confronto con un componente. Il committente propone di portare il pezzo a un deposito di strumenti. Marcel rifiuta un trasferimento non chiarito e chiede nome, competenza e procedimento dell’eventuale esaminatore. Elias, inizialmente attratto dalla possibilità di trovare manutenzione qualificata, registra soltanto le incongruenze del disegno. Ilian riparte con le condizioni. La differenza geometrica resta compatibile con un altro esemplare; nessuno ha ancora dimostrato che si tratti della vera Hinge.",
+      "new": [
+        "L’iniziativa del fronte del 19 maggio si concretizza nella richiesta trasmessa da Ilian.",
+        "Ilian non è trasformato in un commerciante o manutentore Astrolabe: è un disegnatore Nethri, Crucible I.",
+        "Il rifiuto del trasferimento avviene davvero e deve modificare i tentativi successivi.",
+        "Il laboratorio non consegna il componente e non rivela ubicazione della sala o aperture residue."
+      ],
+      "knowledge": "Ilian ignora il progetto di sequestro. L’esistenza dell’incarico non lo rende complice. Il committente non ottiene la posizione di Room Six.",
+      "id": "NOVEL-V01-C005",
+      "url": "novel-volume-01-capitolo-005.html",
+      "manuscript_source": "NOVEL/07_Volume_01_Capitolo_005.md",
+      "status": "PRIMA_STESURA",
+      "continuity": "NOVEL",
+      "volume": 1
+    }
+  ],
+  "actor_updates": {
+    "CAST-001": {
+      "chapters": [
+        2,
+        4
+      ],
+      "events": "Si risveglia, riceve Nela e Celine e apprende da Mirel la diagnosi tossica. Mantiene segreta l’identità di Edran, richiede la conservazione delle consegne, crea e annulla una coppa in privato e sceglie di non rispondere alle lettere quel giorno. Non ha ancora individuato l’attentatore."
+    },
+    "CAST-002": {
+      "chapters": [
+        1,
+        3,
+        5
+      ],
+      "events": "Avvia la ricerca di chi trasportò il banco, riconosce l’attenzione mancata alla famiglia e osserva con Marcel la richiesta portata da Ilian. Non ottiene un nuovo rango o la prova dell’ordine di Vern; separa la nuova richiesta dal caso del collaudo."
+    },
+    "CAST-003": {
+      "chapters": [
+        2
+      ],
+      "events": "Visita il fratello dopo il risveglio, chiede spiegazioni chiare, gli stringe la mano e gli dice che non deve rispondere subito alle lettere. Ignora la sostituzione della persona e non riceve comandi soprannaturali."
+    },
+    "CAST-005": {
+      "chapters": [
+        2,
+        4
+      ],
+      "events": "Arriva per l’esame dopo la prima visita di Celine. Comunica il decorso tossico, distingue il residuo dai frammenti del Glass e riceve la richiesta di preservare la documentazione delle consegne. Non conosce il mandante o Edran."
+    },
+    "CAST-071": {
+      "chapters": [
+        2
+      ],
+      "events": "È la prima persona che trova Alexander sveglio nella scena. Ne verifica risposte, riconoscimento e polso, comunica quattro giorni di coma e chiama il medico. Non sa che il giovane duca sia morto e che un’altra persona sia ritornata."
+    },
+    "CAST-031": {
+      "chapters": [
+        1,
+        5
+      ],
+      "events": "Verifica l’esercizio di Elias alla nicchia; assiste al confronto dell’offerta di Etienne. Il 19 maggio rifiuta di trasferire un componente a un deposito non chiarito e propone un confronto nel laboratorio con esaminatore identificabile."
+    },
+    "CAST-032": {
+      "chapters": [
+        1
+      ],
+      "events": "Esamina l’offerta di Etienne e rileva il rinvio a un allegato non ricevuto. Mostra la copia autentica della prima posizione senza attribuirle la prova dell’intera catena di responsabilità."
+    },
+    "CAST-124": {
+      "chapters": [
+        3
+      ],
+      "events": "Ripara una lampada ordinaria e discute col figlio di spese domestiche e attenzione alla famiglia. Non riceve una Effige e non apprende l’origine della Hinge."
+    },
+    "CAST-126": {
+      "chapters": [
+        3
+      ],
+      "events": "Ha ricevuto tre giorni prima una risposta alla propria domanda scolastica. Comunica il colloquio della settimana successiva e chiede che il fratello ascolti e rispetti la sua autonomia. Nessuna scuola o tariffa viene nominata."
+    },
+    "CAST-129": {
+      "chapters": [
+        1
+      ],
+      "events": "Porta l’offerta incompleta al laboratorio, chiede di capire che cosa firmerebbe e sceglie di ottenere il testo mancante. Non si presta a fingere un ricordo preciso della posizione del banco."
+    },
+    "CAST-194": {
+      "chapters": [
+        5
+      ],
+      "events": "Porta disegno e richiesta, mostra i propri dubbi sulle quote e riparte con le condizioni di Marcel. Trasmette un incarico senza conoscere il piano criminale. La scena non modifica origine Nethri, Crucible I o mestiere di disegnatore."
+    }
+  },
+  "author_truth_chapter5": "La richiesta nasce dal tentativo locale della Glass Hunt di far uscire un possibile mezzo verso il deposito controllato. Il disegno deriva da un esemplare differente della stessa tipologia, con un errore di quota. Ilian non conosce sequestro e vendita di persone. Non sono ancora introdotti nel testo un nome falso del committente o una firma da attribuire retroattivamente.",
+  "draft_future_is_not_history": true
+}

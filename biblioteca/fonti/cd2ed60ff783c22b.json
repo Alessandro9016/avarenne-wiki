@@ -315,7 +315,14 @@
       "biology_revision": "BIO-CAST-01",
       "integration_revision": "RACCORDI-317",
       "character_review_revision": 340,
-      "artifact_custody_references_362": []
+      "artifact_custody_references_362": [],
+      "novel_378": {
+        "chapters": [
+          2,
+          4
+        ],
+        "events": "Si risveglia, riceve Nela e Celine e apprende da Mirel la diagnosi tossica. Mantiene segreta l’identità di Edran, richiede la conservazione delle consegne, crea e annulla una coppa in privato e sceglie di non rispondere alle lettere quel giorno. Non ha ancora individuato l’attentatore."
+      }
     },
     {
       "id": "CAST-002",
@@ -468,6 +475,14 @@
         "source_basis": "Dossier definitivo 153: stato d’apertura e passato fissato; nessun nuovo incontro",
         "previous_generic_current": "Sta predisponendo una decisione o verifica per accertare perché un collaudo corretto produsse un incidente e riottenere libertà professionale. La controparte è già coinvolta e può rifiutare.",
         "new_past_event": false
+      },
+      "novel_378": {
+        "chapters": [
+          1,
+          3,
+          5
+        ],
+        "events": "Avvia la ricerca di chi trasportò il banco, riconosce l’attenzione mancata alla famiglia e osserva con Marcel la richiesta portata da Ilian. Non ottiene un nuovo rango o la prova dell’ordine di Vern; separa la nuova richiesta dal caso del collaudo."
       }
     },
     {
@@ -608,6 +623,12 @@
         "source_basis": "Dossier personale 367, integrazione 374 o profilo strategico già adottato",
         "previous_generic_current": "Sta predisponendo una decisione o verifica per ritrovare routine scolastica e sapere cosa può realmente chiedere agli adulti. La controparte è già coinvolta e può rifiutare.",
         "new_past_event": false
+      },
+      "novel_378": {
+        "chapters": [
+          2
+        ],
+        "events": "Visita il fratello dopo il risveglio, chiede spiegazioni chiare, gli stringe la mano e gli dice che non deve rispondere subito alle lettere. Ignora la sostituzione della persona e non riceve comandi soprannaturali."
       }
     },
     {
@@ -904,6 +925,13 @@
         "source_basis": "Dossier personale 367, integrazione 374 o profilo strategico già adottato",
         "previous_generic_current": "Sta predisponendo una decisione o verifica per documentare ciò che è osservabile e proteggere pazienti da conclusioni premature. La controparte è già coinvolta e può rifiutare.",
         "new_past_event": false
+      },
+      "novel_378": {
+        "chapters": [
+          2,
+          4
+        ],
+        "events": "Arriva per l’esame dopo la prima visita di Celine. Comunica il decorso tossico, distingue il residuo dai frammenti del Glass e riceve la richiesta di preservare la documentazione delle consegne. Non conosce il mandante o Edran."
       }
     },
     {
@@ -5307,6 +5335,13 @@
         "source_basis": "Dossier personale 367, integrazione 374 o profilo strategico già adottato",
         "previous_generic_current": "Sta predisponendo una decisione o verifica per lasciare un laboratorio capace di correggerlo dopo la pensione. La controparte è già coinvolta e può rifiutare.",
         "new_past_event": false
+      },
+      "novel_378": {
+        "chapters": [
+          1,
+          5
+        ],
+        "events": "Verifica l’esercizio di Elias alla nicchia; assiste al confronto dell’offerta di Etienne. Il 19 maggio rifiuta di trasferire un componente a un deposito non chiarito e propone un confronto nel laboratorio con esaminatore identificabile."
       }
     },
     {
@@ -5473,6 +5508,12 @@
         "source_basis": "Dossier personale 367, integrazione 374 o profilo strategico già adottato",
         "previous_generic_current": "Sta predisponendo una decisione o verifica per mettere una prova al sicuro senza regalarne il monopolio a una biblioteca. La controparte è già coinvolta e può rifiutare.",
         "new_past_event": false
+      },
+      "novel_378": {
+        "chapters": [
+          1
+        ],
+        "events": "Esamina l’offerta di Etienne e rileva il rinvio a un allegato non ricevuto. Mostra la copia autentica della prima posizione senza attribuirle la prova dell’intera catena di responsabilità."
       }
     },
     {
@@ -9697,6 +9738,12 @@
         "source_basis": "Dossier personale 367, integrazione 374 o profilo strategico già adottato",
         "previous_generic_current": "Sta predisponendo una decisione o verifica per conservare annotazioni affidabili e assistenza continua. La controparte è già coinvolta e può rifiutare.",
         "new_past_event": false
+      },
+      "novel_378": {
+        "chapters": [
+          2
+        ],
+        "events": "È la prima persona che trova Alexander sveglio nella scena. Ne verifica risposte, riconoscimento e polso, comunica quattro giorni di coma e chiama il medico. Non sa che il giovane duca sia morto e che un’altra persona sia ritornata."
       }
     },
     {
@@ -14914,6 +14961,12 @@
         "source_basis": "Ruolo e obiettivo vigenti, con rinvio ai dossier personali e di rete; nessun nuovo evento inventato",
         "previous_generic_current": "Sta predisponendo una decisione o verifica per tenere solvibile la casa senza imporre al figlio lo stesso mestiere. La controparte è già coinvolta e può rifiutare.",
         "new_past_event": false
+      },
+      "novel_378": {
+        "chapters": [
+          3
+        ],
+        "events": "Ripara una lampada ordinaria e discute col figlio di spese domestiche e attenzione alla famiglia. Non riceve una Effige e non apprende l’origine della Hinge."
       }
     },
     {
@@ -15101,6 +15154,12 @@
         "source_basis": "Ruolo e obiettivo vigenti, con rinvio ai dossier personali e di rete; nessun nuovo evento inventato",
         "previous_generic_current": "Sta predisponendo una decisione o verifica per concludere studi senza diventare garante dei debiti altrui. La controparte è già coinvolta e può rifiutare.",
         "new_past_event": false
+      },
+      "novel_378": {
+        "chapters": [
+          3
+        ],
+        "events": "Ha ricevuto tre giorni prima una risposta alla propria domanda scolastica. Comunica il colloquio della settimana successiva e chiede che il fratello ascolti e rispetti la sua autonomia. Nessuna scuola o tariffa viene nominata."
       }
     },
     {
@@ -15450,6 +15509,12 @@
         "source_basis": "Dossier personale 367, integrazione 374 o profilo strategico già adottato",
         "previous_generic_current": "Sta predisponendo una decisione o verifica per ottenere salario e una correzione leggibile del referto. La controparte è già coinvolta e può rifiutare.",
         "new_past_event": false
+      },
+      "novel_378": {
+        "chapters": [
+          1
+        ],
+        "events": "Porta l’offerta incompleta al laboratorio, chiede di capire che cosa firmerebbe e sceglie di ottenere il testo mancante. Non si presta a fingere un ricordo preciso della posizione del banco."
       }
     },
     {
@@ -22677,7 +22742,13 @@
         "defensive_ability_id": "EFF-06-I-M03"
       },
       "artifact_custody_references_362": [],
-      "civil_network_370": "NET-C10-02"
+      "civil_network_370": "NET-C10-02",
+      "novel_378": {
+        "chapters": [
+          5
+        ],
+        "events": "Porta disegno e richiesta, mostra i propri dubbi sulle quote e riparte con le condizioni di Marcel. Trasmette un incarico senza conoscere il piano criminale. La scena non modifica origine Nethri, Crucible I o mestiere di disegnatore."
+      }
     },
     {
       "id": "CAST-195",

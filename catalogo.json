@@ -108,7 +108,7 @@
     "title": "Adrien Veyne",
     "kind": "Personaggi",
     "url": "cast-124-adrien-veyne.html",
-    "bytes": 15355,
+    "bytes": 15812,
     "image_count": 2
   },
   {
@@ -204,7 +204,7 @@
     "title": "Alexander Valcienne",
     "kind": "Personaggi",
     "url": "cast-001-alexander-valcienne.html",
-    "bytes": 78168,
+    "bytes": 78819,
     "image_count": 7
   },
   {
@@ -796,7 +796,7 @@
     "title": "Astrolabe",
     "kind": "Effigi",
     "url": "astrolabe.html",
-    "bytes": 108554,
+    "bytes": 108930,
     "image_count": 2
   },
   {
@@ -1432,6 +1432,46 @@
     "image_count": 2
   },
   {
+    "id": "NOVEL-V01-C001",
+    "title": "Capitolo 1 — La misura sbagliata",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-001.html",
+    "bytes": 8705,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C002",
+    "title": "Capitolo 2 — La mano sul lenzuolo",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-002.html",
+    "bytes": 8783,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C003",
+    "title": "Capitolo 3 — Un posto a tavola",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-003.html",
+    "bytes": 8623,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C004",
+    "title": "Capitolo 4 — Quello che resta",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-004.html",
+    "bytes": 8702,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C005",
+    "title": "Capitolo 5 — La richiesta",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-005.html",
+    "bytes": 9208,
+    "image_count": 0
+  },
+  {
     "id": "CAST-417",
     "title": "Carine Farel",
     "kind": "Personaggi",
@@ -1572,7 +1612,7 @@
     "title": "Celine Valcienne",
     "kind": "Personaggi",
     "url": "cast-003-celine-valcienne.html",
-    "bytes": 20646,
+    "bytes": 21158,
     "image_count": 4
   },
   {
@@ -2124,7 +2164,7 @@
     "title": "Cradle",
     "kind": "Effigi",
     "url": "cradle.html",
-    "bytes": 61936,
+    "bytes": 62299,
     "image_count": 2
   },
   {
@@ -2189,6 +2229,14 @@
     "kind": "Approfondimenti",
     "url": "approfondimento-calendario-trama.html",
     "bytes": 32082,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-CHRONOLOGY",
+    "title": "Cronologia della novel — capitoli 1–5",
+    "kind": "Cronologia della novel",
+    "url": "novel-cronologia-capitoli-1-5.html",
+    "bytes": 10312,
     "image_count": 0
   },
   {
@@ -2534,6 +2582,14 @@
     "url": "mat-001-deren-coal.html",
     "bytes": 15057,
     "image_count": 1
+  },
+  {
+    "id": "NOVEL-DETAILS",
+    "title": "Dettagli introdotti nella novel — capitoli 1–5",
+    "kind": "Opera",
+    "url": "novel-dettagli-e-fonti.html",
+    "bytes": 9613,
+    "image_count": 0
   },
   {
     "id": "CAST-015",
@@ -2956,7 +3012,7 @@
     "title": "Elias Veyne",
     "kind": "Personaggi",
     "url": "elias-veyne.html",
-    "bytes": 36087,
+    "bytes": 36762,
     "image_count": 7
   },
   {
@@ -3260,7 +3316,7 @@
     "title": "Etienne Brac",
     "kind": "Personaggi",
     "url": "cast-129-etienne-brac.html",
-    "bytes": 16654,
+    "bytes": 17144,
     "image_count": 2
   },
   {
@@ -3740,7 +3796,7 @@
     "title": "Guida decisionale del Narratore",
     "kind": "Consultazione",
     "url": "guida-decisionale-narratore.html",
-    "bytes": 12735,
+    "bytes": 13060,
     "image_count": 0
   },
   {
@@ -4196,7 +4252,7 @@
     "title": "Ilian Uren",
     "kind": "Personaggi",
     "url": "cast-194-ilian-uren.html",
-    "bytes": 15379,
+    "bytes": 15910,
     "image_count": 2
   },
   {
@@ -4252,7 +4308,7 @@
     "title": "Indice generale A–Z",
     "kind": "Indici",
     "url": "indice-generale.html",
-    "bytes": 132297,
+    "bytes": 133182,
     "image_count": 0
   },
   {
@@ -4316,7 +4372,7 @@
     "title": "Informazioni sulla wiki",
     "kind": "Enciclopedia",
     "url": "informazioni.html",
-    "bytes": 8525,
+    "bytes": 8850,
     "image_count": 0
   },
   {
@@ -4920,6 +4976,14 @@
     "image_count": 0
   },
   {
+    "id": "NOVEL-INDEX",
+    "title": "La novel — capitoli e continuità",
+    "kind": "Opera",
+    "url": "novel.html",
+    "bytes": 9888,
+    "image_count": 0
+  },
+  {
     "id": "DOC-273",
     "title": "La rete civile di Alexander",
     "kind": "Approfondimenti",
@@ -5196,7 +5260,7 @@
     "title": "Lise Veyne",
     "kind": "Personaggi",
     "url": "cast-126-lise-veyne.html",
-    "bytes": 15188,
+    "bytes": 15712,
     "image_count": 2
   },
   {
@@ -5204,7 +5268,7 @@
     "title": "Livia Varn",
     "kind": "Personaggi",
     "url": "cast-032-livia-varn.html",
-    "bytes": 22351,
+    "bytes": 22842,
     "image_count": 5
   },
   {
@@ -5364,7 +5428,7 @@
     "title": "L’opera",
     "kind": "Indici tematici",
     "url": "opera.html",
-    "bytes": 26655,
+    "bytes": 26980,
     "image_count": 48
   },
   {
@@ -5532,7 +5596,7 @@
     "title": "Marcel Ruy",
     "kind": "Personaggi",
     "url": "cast-031-marcel-ruy.html",
-    "bytes": 24185,
+    "bytes": 24785,
     "image_count": 4
   },
   {
@@ -5948,7 +6012,7 @@
     "title": "Mirel Osta",
     "kind": "Personaggi",
     "url": "cast-005-mirel-osta.html",
-    "bytes": 20387,
+    "bytes": 20976,
     "image_count": 4
   },
   {
@@ -6156,7 +6220,7 @@
     "title": "Nela Bress",
     "kind": "Personaggi",
     "url": "cast-071-nela-bress.html",
-    "bytes": 15580,
+    "bytes": 16113,
     "image_count": 2
   },
   {
@@ -6908,7 +6972,7 @@
     "title": "Pagina principale",
     "kind": "Enciclopedia",
     "url": "index.html",
-    "bytes": 23794,
+    "bytes": 24119,
     "image_count": 33
   },
   {
@@ -7052,7 +7116,7 @@
     "title": "Personaggi",
     "kind": "Indici tematici",
     "url": "personaggi.html",
-    "bytes": 215705,
+    "bytes": 216030,
     "image_count": 330
   },
   {
@@ -7220,7 +7284,7 @@
     "title": "Protocollo operativo del Narratore",
     "kind": "Consegna",
     "url": "protocollo-narratore.html",
-    "bytes": 34372,
+    "bytes": 34697,
     "image_count": 0
   },
   {
@@ -7676,7 +7740,7 @@
     "title": "Room for Six",
     "kind": "Archi narrativi",
     "url": "arc-03-room-for-six.html",
-    "bytes": 14873,
+    "bytes": 15203,
     "image_count": 1
   },
   {
@@ -7852,7 +7916,7 @@
     "title": "Ruin",
     "kind": "Effigi",
     "url": "ruin.html",
-    "bytes": 66262,
+    "bytes": 66655,
     "image_count": 2
   },
   {
@@ -9924,7 +9988,7 @@
     "title": "The Moved Bench",
     "kind": "Archi narrativi",
     "url": "arc-02-the-moved-bench.html",
-    "bytes": 15125,
+    "bytes": 15455,
     "image_count": 1
   },
   {
@@ -10548,7 +10612,7 @@
     "title": "The Waking House",
     "kind": "Volumi",
     "url": "vol-01-the-waking-house.html",
-    "bytes": 12254,
+    "bytes": 12584,
     "image_count": 6
   },
   {
@@ -10556,7 +10620,7 @@
     "title": "The Waking House",
     "kind": "Archi narrativi",
     "url": "arc-01-the-waking-house.html",
-    "bytes": 15027,
+    "bytes": 15357,
     "image_count": 1
   },
   {
