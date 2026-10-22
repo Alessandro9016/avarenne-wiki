@@ -83,3 +83,13 @@ Capitolo 7: Alexander esamina con Albin i conti privati: 77.500 corone di saldo,
 
 Nessuna nuova uscita è contabilizzata; gli stipendi restano previsti il 26 maggio. Le richieste non equivalgono a visite o trasferimenti già avvenuti. Alexander conserva cinque Effigi IV; nessuna capacità viene sbloccata.
 <!-- END NOVEL379 -->
+
+<!-- NOVEL380 -->
+## Nella novel — capitoli 16–25
+
+Continuità letteraria distinta dalla campagna.
+
+Capitolo 22: Alexander informa Celine dell'accusa a Ravelle e del progetto di controllo amministrativo che avrebbe tentato di circondarla. Distingue l'attentato dal naufragio accidentale dei genitori, l'innocenza di Etienne dalla parentela e i diritti successori della sorella da un potere già ottenuto dal barone. Celine chiede chiarezza sulle visite e mantiene il proprio lavoro; Sabine concorda con lei conferme degli accessi e una futura spiegazione di Teren.
+
+Celine apprende l'accusa e il movente indicato, non Edran o i dettagli dell'interrogatorio soprannaturale. Nessun trasferimento di tutela è avvenuto. Alexander non impone scelte a lei o a Sabine. L'incontro esplicativo con Teren è proposto, non ancora narrato. La paura della ragazza non è risolta da una conversazione.
+<!-- END NOVEL380 -->

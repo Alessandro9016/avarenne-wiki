@@ -51,3 +51,17 @@ distingue un favore dalla prestazione dovuta
 una richiesta urgente può sfruttare questa distinzione per non pagare il lavoro
 
 Una sola Effige incorporata: Archive 2. Abilità cumulative fino a Chronicler; nessun grado superiore o potere trasferito dal patrocinatore. Le condizioni e le difese si valutano per ciascuna abilità del manuale. Nessuna conoscenza automatica del ritorno.
+
+<!-- NOVEL380 -->
+## Nella novel — capitoli 16–25
+
+Continuità letteraria distinta dalla campagna.
+
+Capitolo 17: Xenia Helren incontra Elias e Marcel dopo il contatto trasmesso da Ilian. Confronta la propria nota autentica con un testo che la presenta come certificazione positiva di una prestazione non ancora esaminata. Accetta due ore di riproduzione tecnica sotto la responsabilità di Marcel, con consegna il 24 maggio, in cambio del confronto e di un estratto circoscritto. Witness Seal di Archive II lega la testimonianza al suo oggetto e rende rilevabile una manomissione successiva. Helren riferisce di aver rifiutato un uso proposto per spostare persone senza risposte sufficienti.
+
+L'ispettore Ossari non identifica per magia chi modificò il testo e non ha visto un sequestro. Nessun pagamento è registrato, nessuna nuova licenza viene assegnata a Elias. Helren non apprende nome o sede di Room Six e non entra nell'Exchange. L'intero archivio commerciale non viene ceduto.
+
+Capitolo 25: Helren esamina e accetta la riproduzione eseguita da Elias nelle due ore concordate sotto il controllo di Marcel. Consegna l'estratto limitato che confronta la propria nota con il richiamo a una certificazione non autorizzata. Ilian verifica la corrispondenza del proprio incarico e corregge la frase che potrebbe attribuirgli un'approvazione non sua. Helren precisa che erano state proposte persone da spostare senza risposte sufficienti su identità e consenso. Marcel prepara il rifiuto di offrire un esemplare funzionante e la restituzione del campione attraverso il canale concordato.
+
+Lo scambio di lavoro è eseguito; nessun pagamento in contanti o saldo del cliente a Ilian è avvenuto. Il campione non è ancora restituito in scena e la risposta non è ancora recapitata. Nessuno ha visto Vaur falsificare il foglio o prova già un sequestro. La vera Hinge non viene mostrata né nominata a Helren. L'ispettore conserva il proprio archivio e non aderisce al gruppo.
+<!-- END NOVEL380 -->
