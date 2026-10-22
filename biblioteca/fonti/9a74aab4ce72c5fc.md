@@ -93,3 +93,13 @@ Capitolo 22: Alexander informa Celine dell'accusa a Ravelle e del progetto di co
 
 Celine apprende l'accusa e il movente indicato, non Edran o i dettagli dell'interrogatorio soprannaturale. Nessun trasferimento di tutela è avvenuto. Alexander non impone scelte a lei o a Sabine. L'incontro esplicativo con Teren è proposto, non ancora narrato. La paura della ragazza non è risolta da una conversazione.
 <!-- END NOVEL380 -->
+
+<!-- NOVEL381 -->
+## Nella novel — capitoli 26–38
+
+Continuità letteraria distinta dalla campagna.
+
+Capitolo 29: In privato Alexander crea con Cradle un bottone ordinario per sostituirne uno rotto. Albin conferma il pagamento di 9.800 corone di salari già impegnati. Nell'estratto dei movimenti conosciuti il saldo scende a 67.700 e gli impegni residui a 7.500, lasciando 60.200 non impegnati. Celine sceglie una passeggiata concordata con Sabine; spiega la propria intenzione di scrivere a Etienne e riconosce differenze nelle abitudini del fratello. Nela conclude un turno senza un obbligo di permanenza perpetua.
+
+Il denaro è patrimoniale privato e distinto dalle funzioni territoriali. Nessun nuovo incasso, debito o acquisto è creato per finanziare la paga dovuta. Il bottone non è un artefatto e la creazione non è osservata da altri. Celine non apprende Edran o tutto il repertorio soprannaturale; la passeggiata non impone un perdono.
+<!-- END NOVEL381 -->

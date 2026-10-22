@@ -124,8 +124,8 @@
       "group": "Dati strutturati e registri",
       "url": "9f5d1e0af2de6024.html",
       "raw": "fonti/9f5d1e0af2de6024.json",
-      "sha256": "d010dc47c07af52b9c57ae99583e20db15e202ba5892d7c4984b0ba4a2326ced",
-      "bytes": 4065921
+      "sha256": "53c2b42f7e937706c9086052c4dfe0e93b75312aab905b977007b7cc574090bf",
+      "bytes": 4100712
     },
     {
       "source": "CANONE_VIGENTE/Censimento_visuale_luoghi.json",
@@ -1015,8 +1015,8 @@
       "group": "Cast — dossier individuali",
       "url": "d459f272f5fcbc5f.html",
       "raw": "fonti/d459f272f5fcbc5f.md",
-      "sha256": "3704eb62575cc143c8456f319b4ed6227b428448304989d64caaa483bfb6b9ce",
-      "bytes": 23372
+      "sha256": "78535e78c323157d22133c6eb7c877004abfadd01f41d6fe85333acd59688881",
+      "bytes": 26863
     },
     {
       "source": "CAST_RISERVATO/CAST-002.md",
@@ -1024,8 +1024,8 @@
       "group": "Cast — dossier individuali",
       "url": "6a6d86b6ebfb5024.html",
       "raw": "fonti/6a6d86b6ebfb5024.md",
-      "sha256": "7b7a5fbb63e943a8344f9d9dd81c2acd7d7879dd66c7341b0982cb4cdeaa3378",
-      "bytes": 21688
+      "sha256": "0618dfbbf798bd75dab3beb9426e4bbdbb56c1a35d93917efb2a64d00d01f0a8",
+      "bytes": 29135
     },
     {
       "source": "CAST_RISERVATO/CAST-003.md",
@@ -1033,8 +1033,8 @@
       "group": "Cast — dossier individuali",
       "url": "05ca0cc36a110b2c.html",
       "raw": "fonti/05ca0cc36a110b2c.md",
-      "sha256": "f74d55b4581aee24a8ab8fa1065fff3a4f1dda9899f071128dd39b04eb508c6f",
-      "bytes": 11943
+      "sha256": "4b579ef631786ecdea788533db878005c34dec9d969de5f28482d9a1e29a8ebc",
+      "bytes": 13709
     },
     {
       "source": "CAST_RISERVATO/CAST-004.md",
@@ -1042,8 +1042,8 @@
       "group": "Cast — dossier individuali",
       "url": "4ced888d6342ab3c.html",
       "raw": "fonti/4ced888d6342ab3c.md",
-      "sha256": "f99961e35667d687fad3636759dd83a625fa061690229f398b092d141692c66e",
-      "bytes": 10192
+      "sha256": "31a2e8dc8b0720fca89bb7705d6ef270aa32517186af1729411a1373fe991e42",
+      "bytes": 10517
     },
     {
       "source": "CAST_RISERVATO/CAST-005.md",
@@ -1051,8 +1051,8 @@
       "group": "Cast — dossier individuali",
       "url": "4410f64ca3df3200.html",
       "raw": "fonti/4410f64ca3df3200.md",
-      "sha256": "05787c0ca3d926ed1100e4810695362d777fd0a565789f138a1db22a5457c6d3",
-      "bytes": 10922
+      "sha256": "00632d12889bbd4c6042c80eff4724edfab154ad178124a3822932df354529fc",
+      "bytes": 12756
     },
     {
       "source": "CAST_RISERVATO/CAST-006.md",
@@ -1285,8 +1285,8 @@
       "group": "Cast — dossier individuali",
       "url": "3d7ee5604208a5a7.html",
       "raw": "fonti/3d7ee5604208a5a7.md",
-      "sha256": "4c2268e37b4d08d9763c4e3266954fa11269844d8f6ecf4aaccb6bba7eed2ad1",
-      "bytes": 18482
+      "sha256": "4993afb50797fa06c1f542c0023e33fd74cd50c4bad0979fda33e4ee7dc52a5b",
+      "bytes": 23707
     },
     {
       "source": "CAST_RISERVATO/CAST-032.md",
@@ -1294,8 +1294,8 @@
       "group": "Cast — dossier individuali",
       "url": "59a9907db8c909c8.html",
       "raw": "fonti/59a9907db8c909c8.md",
-      "sha256": "fa1d8f0a5a0e1978d76d37cb0c17790a598a1d194d5197cf19eb29c46b866989",
-      "bytes": 16041
+      "sha256": "2de5751fa23efc3368328e1358b3beccb8d036e284928512f767184ba0db8934",
+      "bytes": 20394
     },
     {
       "source": "CAST_RISERVATO/CAST-033.md",
@@ -1627,8 +1627,8 @@
       "group": "Cast — dossier individuali",
       "url": "6187228936c6b78d.html",
       "raw": "fonti/6187228936c6b78d.md",
-      "sha256": "0811db1d254e3534d695bde27b3e8c558ad7eea7d41e4fb04fb56ea0001c11e5",
-      "bytes": 9466
+      "sha256": "c7b19d565d3857c29ed4be557a1770b62a1113ce8e50b42dab9fadafcdb13d38",
+      "bytes": 12149
     },
     {
       "source": "CAST_RISERVATO/CAST-070.md",
@@ -1636,8 +1636,8 @@
       "group": "Cast — dossier individuali",
       "url": "83634ea4b7e125a4.html",
       "raw": "fonti/83634ea4b7e125a4.md",
-      "sha256": "8d7e7402fb799f25d409edc59476e989827f764d89eb2d238967c500812abd7b",
-      "bytes": 10846
+      "sha256": "8591a10870117daf3b4d8938353815e289fd869b4958cdff3e0c9b6e10ddf64d",
+      "bytes": 11763
     },
     {
       "source": "CAST_RISERVATO/CAST-071.md",
@@ -1645,8 +1645,8 @@
       "group": "Cast — dossier individuali",
       "url": "5b39552da13f3937.html",
       "raw": "fonti/5b39552da13f3937.md",
-      "sha256": "f4c38cb1d7e8b88c87f1f72ed520a1b687bf31e90f7ff9e7982df7b610e811c1",
-      "bytes": 8337
+      "sha256": "2fb20260aa777433862b17fb958df9ce59465ad49b65f94c673bc95d1e7bd756",
+      "bytes": 9312
     },
     {
       "source": "CAST_RISERVATO/CAST-072.md",
@@ -1807,8 +1807,8 @@
       "group": "Cast — dossier individuali",
       "url": "9a74aab4ce72c5fc.html",
       "raw": "fonti/9a74aab4ce72c5fc.md",
-      "sha256": "2cca5172b94947358ca7bb5536797af2a2c512895625a1c1f9b7e3aa0b92716f",
-      "bytes": 7938
+      "sha256": "2a5ef03328c1b246d7bfe4e677cd71ac4237f720c98e1f51fd82b76e30578e47",
+      "bytes": 8913
     },
     {
       "source": "CAST_RISERVATO/CAST-090.md",
@@ -1942,8 +1942,8 @@
       "group": "Cast — dossier individuali",
       "url": "9cb455f513ddd2d8.html",
       "raw": "fonti/9cb455f513ddd2d8.md",
-      "sha256": "4ce9d04de52fb242dff6b7a099273b38dac3cf08156e87625423ce237eccf1d4",
-      "bytes": 10716
+      "sha256": "cd3f72552a7346ab0185c57a48e37c66eda4d6a426c04998854df0b441ce06db",
+      "bytes": 12441
     },
     {
       "source": "CAST_RISERVATO/CAST-105.md",
@@ -2122,8 +2122,8 @@
       "group": "Cast — dossier individuali",
       "url": "cb9d19865ee2df54.html",
       "raw": "fonti/cb9d19865ee2df54.md",
-      "sha256": "c079453745c11671f74b0cbfe8a7c20f77cda91909407834eec7146e30106ab0",
-      "bytes": 7552
+      "sha256": "26a44fb6f05e5a879f047d26deea951157a131fb2cb119a425003635f988e7be",
+      "bytes": 10185
     },
     {
       "source": "CAST_RISERVATO/CAST-125.md",
@@ -2140,8 +2140,8 @@
       "group": "Cast — dossier individuali",
       "url": "97fd1d77bca63107.html",
       "raw": "fonti/97fd1d77bca63107.md",
-      "sha256": "c47001dae2c284d072f3f918bdb8508e8098fc59ab4aa44ec2f0e77f3e59561b",
-      "bytes": 7539
+      "sha256": "83fa3d27d05b75f012108eac7e882955d390a44b4c2c237a1b648eeab87a3707",
+      "bytes": 10172
     },
     {
       "source": "CAST_RISERVATO/CAST-127.md",
@@ -2149,8 +2149,8 @@
       "group": "Cast — dossier individuali",
       "url": "9caa2dbfd1653365.html",
       "raw": "fonti/9caa2dbfd1653365.md",
-      "sha256": "8fb1c1de999518de83da29a5b11854f5cb7074ac15c539a2c95a0f7dcbb3e937",
-      "bytes": 10970
+      "sha256": "5f870813ed6f7db92c167c3c49c4c674673bceb63e00ac2bce33204e8b80e409",
+      "bytes": 14558
     },
     {
       "source": "CAST_RISERVATO/CAST-128.md",
@@ -2158,8 +2158,8 @@
       "group": "Cast — dossier individuali",
       "url": "574a042f9bfb3e09.html",
       "raw": "fonti/574a042f9bfb3e09.md",
-      "sha256": "768555be2c93fcd4a68b632ba9e0ab2716005f408715c22a803529c7a1ec6516",
-      "bytes": 8310
+      "sha256": "4ee5bcc4754d18849766bd4580902995c0b12308372fbc942c2cd8997fc83aa1",
+      "bytes": 11806
     },
     {
       "source": "CAST_RISERVATO/CAST-129.md",
@@ -2167,8 +2167,8 @@
       "group": "Cast — dossier individuali",
       "url": "36b6c77b0f3e3a90.html",
       "raw": "fonti/36b6c77b0f3e3a90.md",
-      "sha256": "7c3419543b7ccb3e9dc62da6b5cac67bb13de3bc87b2aa7ab153c96048f1988b",
-      "bytes": 9891
+      "sha256": "422d8142809880e10a61aaaa96fe59e90b9943bda6ae48b1a5bbdfd445a7808d",
+      "bytes": 14879
     },
     {
       "source": "CAST_RISERVATO/CAST-130.md",
@@ -2185,8 +2185,8 @@
       "group": "Cast — dossier individuali",
       "url": "0c5337f1d29e3aeb.html",
       "raw": "fonti/0c5337f1d29e3aeb.md",
-      "sha256": "a54641cb7a2b5f7dbe4af1ae52739738a82917bf6cbff4bbdc9aa0e6580fb0c6",
-      "bytes": 10063
+      "sha256": "176708b805d366dc27146e74803b3a124ace817b2e7cd3c363a805c181d40dcf",
+      "bytes": 14523
     },
     {
       "source": "CAST_RISERVATO/CAST-132.md",
@@ -2752,8 +2752,8 @@
       "group": "Cast — dossier individuali",
       "url": "403a4fe6b70756c1.html",
       "raw": "fonti/403a4fe6b70756c1.md",
-      "sha256": "74815115f3917d67ed975c11e58879096d2ed85fa763bf426a91ffa5f84d0899",
-      "bytes": 8449
+      "sha256": "2fdcf1284aa15aa1c67661b9c53f2a131a0c79ce8604c66ffe15607b39412a84",
+      "bytes": 9340
     },
     {
       "source": "CAST_RISERVATO/CAST-195.md",
@@ -5236,8 +5236,8 @@
       "group": "Cast — dossier individuali",
       "url": "7281b639ce629f2b.html",
       "raw": "fonti/7281b639ce629f2b.md",
-      "sha256": "c3084371c787ea6df6d2f2a5f85072734ec2ab0c658e8322d862b41fdfdde0a2",
-      "bytes": 4859
+      "sha256": "d6a33b30f25a5c07c46eef39677eacb99cc7554997bf676c2d604463dc8f50d1",
+      "bytes": 5793
     },
     {
       "source": "CAST_RISERVATO/CAST-471.md",
@@ -8935,8 +8935,8 @@
       "group": "Consolidamento354",
       "url": "158a6684c37f7be9.html",
       "raw": "fonti/158a6684c37f7be9.json",
-      "sha256": "d010dc47c07af52b9c57ae99583e20db15e202ba5892d7c4984b0ba4a2326ced",
-      "bytes": 4065921
+      "sha256": "53c2b42f7e937706c9086052c4dfe0e93b75312aab905b977007b7cc574090bf",
+      "bytes": 4100712
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/05_Atlante_cosmologico/DATI/Roots_consolidate.json",
@@ -14731,8 +14731,8 @@
       "group": "Exchange 365",
       "url": "3ebb428382c3cc88.html",
       "raw": "fonti/3ebb428382c3cc88.md",
-      "sha256": "7c3419543b7ccb3e9dc62da6b5cac67bb13de3bc87b2aa7ab153c96048f1988b",
-      "bytes": 9891
+      "sha256": "422d8142809880e10a61aaaa96fe59e90b9943bda6ae48b1a5bbdfd445a7808d",
+      "bytes": 14879
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-031.md",
@@ -14740,8 +14740,8 @@
       "group": "Exchange 365",
       "url": "399862b13c7d201d.html",
       "raw": "fonti/399862b13c7d201d.md",
-      "sha256": "4c2268e37b4d08d9763c4e3266954fa11269844d8f6ecf4aaccb6bba7eed2ad1",
-      "bytes": 18482
+      "sha256": "4993afb50797fa06c1f542c0023e33fd74cd50c4bad0979fda33e4ee7dc52a5b",
+      "bytes": 23707
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_365/CAST_RISERVATO/CAST-031.md",
@@ -14758,8 +14758,8 @@
       "group": "Exchange 365",
       "url": "cd2ed60ff783c22b.html",
       "raw": "fonti/cd2ed60ff783c22b.json",
-      "sha256": "d010dc47c07af52b9c57ae99583e20db15e202ba5892d7c4984b0ba4a2326ced",
-      "bytes": 4065921
+      "sha256": "53c2b42f7e937706c9086052c4dfe0e93b75312aab905b977007b7cc574090bf",
+      "bytes": 4100712
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_365/CAST_RISERVATO/CAST-035.md",
@@ -14812,8 +14812,8 @@
       "group": "Exchange 365",
       "url": "a3f9433f8f284ac8.html",
       "raw": "fonti/a3f9433f8f284ac8.md",
-      "sha256": "7b7a5fbb63e943a8344f9d9dd81c2acd7d7879dd66c7341b0982cb4cdeaa3378",
-      "bytes": 21688
+      "sha256": "0618dfbbf798bd75dab3beb9426e4bbdbb56c1a35d93917efb2a64d00d01f0a8",
+      "bytes": 29135
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_365/23_Registro_unico_del_canone.md",
@@ -14839,8 +14839,8 @@
       "group": "Exchange 365",
       "url": "8944e4be7e244127.html",
       "raw": "fonti/8944e4be7e244127.md",
-      "sha256": "8fb1c1de999518de83da29a5b11854f5cb7074ac15c539a2c95a0f7dcbb3e937",
-      "bytes": 10970
+      "sha256": "5f870813ed6f7db92c167c3c49c4c674673bceb63e00ac2bce33204e8b80e409",
+      "bytes": 14558
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-128.md",
@@ -14848,8 +14848,8 @@
       "group": "Exchange 365",
       "url": "6aef91d4ff3f5299.html",
       "raw": "fonti/6aef91d4ff3f5299.md",
-      "sha256": "768555be2c93fcd4a68b632ba9e0ab2716005f408715c22a803529c7a1ec6516",
-      "bytes": 8310
+      "sha256": "4ee5bcc4754d18849766bd4580902995c0b12308372fbc942c2cd8997fc83aa1",
+      "bytes": 11806
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_365/CAST_RISERVATO/CAST-127.md",
@@ -14902,8 +14902,8 @@
       "group": "Exchange 365",
       "url": "03e19d714f5ab10c.html",
       "raw": "fonti/03e19d714f5ab10c.md",
-      "sha256": "fa1d8f0a5a0e1978d76d37cb0c17790a598a1d194d5197cf19eb29c46b866989",
-      "bytes": 16041
+      "sha256": "2de5751fa23efc3368328e1358b3beccb8d036e284928512f767184ba0db8934",
+      "bytes": 20394
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/INDICI_E_DOCUMENTI_CONDIVISI/365_Exchange_e_Room_Six_consolidamento.md",
@@ -15388,8 +15388,8 @@
       "group": "Exchange 366",
       "url": "372dd6b119be1d9d.html",
       "raw": "fonti/372dd6b119be1d9d.md",
-      "sha256": "de4745d7474242012738dbca56916c5160fe98fbcedd595a4d51c1bdc4b0c1cb",
-      "bytes": 13839
+      "sha256": "001e71b0ad1ec07853570d161bd1ebc0e50bf56a9bf747f74cce7cbf6d5b6e8d",
+      "bytes": 14183
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-589.md",
@@ -15568,8 +15568,8 @@
       "group": "Exchange 366",
       "url": "837f5278afcc7362.html",
       "raw": "fonti/837f5278afcc7362.md",
-      "sha256": "de4745d7474242012738dbca56916c5160fe98fbcedd595a4d51c1bdc4b0c1cb",
-      "bytes": 13839
+      "sha256": "001e71b0ad1ec07853570d161bd1ebc0e50bf56a9bf747f74cce7cbf6d5b6e8d",
+      "bytes": 14183
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/14_Illustrazioni_e_direzione_grafica/RISERVATO/IMMAGINI/PERSONAGGI/EXCHANGE_DODICI/CAST-589_rethan-veyr/02_Figura_intera_Prompt.txt",
@@ -21824,8 +21824,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "e4043635c4866f00.html",
       "raw": "fonti/e4043635c4866f00.md",
-      "sha256": "0811db1d254e3534d695bde27b3e8c558ad7eea7d41e4fb04fb56ea0001c11e5",
-      "bytes": 9466
+      "sha256": "c7b19d565d3857c29ed4be557a1770b62a1113ce8e50b42dab9fadafcdb13d38",
+      "bytes": 12149
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_377/CAST_RISERVATO/CAST-070.md",
@@ -22112,8 +22112,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "e84f7122a61a5ebc.html",
       "raw": "fonti/e84f7122a61a5ebc.md",
-      "sha256": "f99961e35667d687fad3636759dd83a625fa061690229f398b092d141692c66e",
-      "bytes": 10192
+      "sha256": "31a2e8dc8b0720fca89bb7705d6ef270aa32517186af1729411a1373fe991e42",
+      "bytes": 10517
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-151.md",
@@ -22202,8 +22202,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "3d5b3ae97dadac31.html",
       "raw": "fonti/3d5b3ae97dadac31.md",
-      "sha256": "8d7e7402fb799f25d409edc59476e989827f764d89eb2d238967c500812abd7b",
-      "bytes": 10846
+      "sha256": "8591a10870117daf3b4d8938353815e289fd869b4958cdff3e0c9b6e10ddf64d",
+      "bytes": 11763
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-022.md",
@@ -23174,8 +23174,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "79b4c8d2c3caca71.html",
       "raw": "fonti/79b4c8d2c3caca71.md",
-      "sha256": "f74d55b4581aee24a8ab8fa1065fff3a4f1dda9899f071128dd39b04eb508c6f",
-      "bytes": 11943
+      "sha256": "4b579ef631786ecdea788533db878005c34dec9d969de5f28482d9a1e29a8ebc",
+      "bytes": 13709
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_377/CAST_RISERVATO/CAST-159.md",
@@ -23552,8 +23552,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "69dc070436290ecc.html",
       "raw": "fonti/69dc070436290ecc.md",
-      "sha256": "c47001dae2c284d072f3f918bdb8508e8098fc59ab4aa44ec2f0e77f3e59561b",
-      "bytes": 7539
+      "sha256": "83fa3d27d05b75f012108eac7e882955d390a44b4c2c237a1b648eeab87a3707",
+      "bytes": 10172
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_377/ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-182.md",
@@ -24083,8 +24083,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "1261ad1a0b9d88ae.html",
       "raw": "fonti/1261ad1a0b9d88ae.md",
-      "sha256": "a54641cb7a2b5f7dbe4af1ae52739738a82917bf6cbff4bbdc9aa0e6580fb0c6",
-      "bytes": 10063
+      "sha256": "176708b805d366dc27146e74803b3a124ace817b2e7cd3c363a805c181d40dcf",
+      "bytes": 14523
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_377/ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-111.md",
@@ -24110,8 +24110,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "88908d79b610d029.html",
       "raw": "fonti/88908d79b610d029.md",
-      "sha256": "4ce9d04de52fb242dff6b7a099273b38dac3cf08156e87625423ce237eccf1d4",
-      "bytes": 10716
+      "sha256": "cd3f72552a7346ab0185c57a48e37c66eda4d6a426c04998854df0b441ce06db",
+      "bytes": 12441
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_377/ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-069.md",
@@ -24434,8 +24434,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "84ae07ac45b4a6ad.html",
       "raw": "fonti/84ae07ac45b4a6ad.md",
-      "sha256": "c079453745c11671f74b0cbfe8a7c20f77cda91909407834eec7146e30106ab0",
-      "bytes": 7552
+      "sha256": "26a44fb6f05e5a879f047d26deea951157a131fb2cb119a425003635f988e7be",
+      "bytes": 10185
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_377/ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-013.md",
@@ -24578,8 +24578,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "4abb1170e9472b22.html",
       "raw": "fonti/4abb1170e9472b22.md",
-      "sha256": "2cca5172b94947358ca7bb5536797af2a2c512895625a1c1f9b7e3aa0b92716f",
-      "bytes": 7938
+      "sha256": "2a5ef03328c1b246d7bfe4e677cd71ac4237f720c98e1f51fd82b76e30578e47",
+      "bytes": 8913
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_377/ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-143.md",
@@ -24875,8 +24875,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "cc5707b10fe7d7fc.html",
       "raw": "fonti/cc5707b10fe7d7fc.md",
-      "sha256": "05787c0ca3d926ed1100e4810695362d777fd0a565789f138a1db22a5457c6d3",
-      "bytes": 10922
+      "sha256": "00632d12889bbd4c6042c80eff4724edfab154ad178124a3822932df354529fc",
+      "bytes": 12756
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_377/CAST_RISERVATO/CAST-030.md",
@@ -24920,8 +24920,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "66394bd58c8adb29.html",
       "raw": "fonti/66394bd58c8adb29.md",
-      "sha256": "f4c38cb1d7e8b88c87f1f72ed520a1b687bf31e90f7ff9e7982df7b610e811c1",
-      "bytes": 8337
+      "sha256": "2fb20260aa777433862b17fb958df9ce59465ad49b65f94c673bc95d1e7bd756",
+      "bytes": 9312
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_377/CAST_RISERVATO/CAST-094.md",
@@ -25451,8 +25451,8 @@
       "group": "Copie operative allineate alla continuità letteraria — 378",
       "url": "83a0175ab7a70943.html",
       "raw": "fonti/83a0175ab7a70943.md",
-      "sha256": "3704eb62575cc143c8456f319b4ed6227b428448304989d64caaa483bfb6b9ce",
-      "bytes": 23372
+      "sha256": "78535e78c323157d22133c6eb7c877004abfadd01f41d6fe85333acd59688881",
+      "bytes": 26863
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-194.md",
@@ -25460,8 +25460,8 @@
       "group": "Copie operative allineate alla continuità letteraria — 378",
       "url": "8af1f4014b8d9cd6.html",
       "raw": "fonti/8af1f4014b8d9cd6.md",
-      "sha256": "74815115f3917d67ed975c11e58879096d2ed85fa763bf426a91ffa5f84d0899",
-      "bytes": 8449
+      "sha256": "2fdcf1284aa15aa1c67661b9c53f2a131a0c79ce8604c66ffe15607b39412a84",
+      "bytes": 9340
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_379/CAST_RISERVATO/CAST-032.md",
@@ -25649,8 +25649,8 @@
       "group": "Copie operative allineate alla continuità letteraria — 379",
       "url": "594face1db71f480.html",
       "raw": "fonti/594face1db71f480.md",
-      "sha256": "c3084371c787ea6df6d2f2a5f85072734ec2ab0c658e8322d862b41fdfdde0a2",
-      "bytes": 4859
+      "sha256": "d6a33b30f25a5c07c46eef39677eacb99cc7554997bf676c2d604463dc8f50d1",
+      "bytes": 5793
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_380/CAST_RISERVATO/CAST-003.md",
@@ -25840,6 +25840,231 @@
       "raw": "fonti/69d5c9e3d1c8aa0b.md",
       "sha256": "2bc363325aa77f0d2daf588fb1971ba190f3507862fa37b13bc5a9398d199fd9",
       "bytes": 7184
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-032.md",
+      "title": "CAST-032",
+      "group": "Raccordo novel — 381",
+      "url": "b1fbb2377fbc12ec.html",
+      "raw": "fonti/b1fbb2377fbc12ec.md",
+      "sha256": "fa1d8f0a5a0e1978d76d37cb0c17790a598a1d194d5197cf19eb29c46b866989",
+      "bytes": 16041
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CANONE_VIGENTE/Cast_riservato.json",
+      "title": "Cast riservato",
+      "group": "Raccordo novel — 381",
+      "url": "2285fae17531c201.html",
+      "raw": "fonti/2285fae17531c201.json",
+      "sha256": "d010dc47c07af52b9c57ae99583e20db15e202ba5892d7c4984b0ba4a2326ced",
+      "bytes": 4065921
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-126.md",
+      "title": "CAST-126",
+      "group": "Raccordo novel — 381",
+      "url": "4f672a1dc6efc2c7.html",
+      "raw": "fonti/4f672a1dc6efc2c7.md",
+      "sha256": "c47001dae2c284d072f3f918bdb8508e8098fc59ab4aa44ec2f0e77f3e59561b",
+      "bytes": 7539
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-069.md",
+      "title": "CAST-069",
+      "group": "Raccordo novel — 381",
+      "url": "a400627fb4dccd46.html",
+      "raw": "fonti/a400627fb4dccd46.md",
+      "sha256": "0811db1d254e3534d695bde27b3e8c558ad7eea7d41e4fb04fb56ea0001c11e5",
+      "bytes": 9466
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-004.md",
+      "title": "CAST-004",
+      "group": "Raccordo novel — 381",
+      "url": "a646803f4c30f022.html",
+      "raw": "fonti/a646803f4c30f022.md",
+      "sha256": "f99961e35667d687fad3636759dd83a625fa061690229f398b092d141692c66e",
+      "bytes": 10192
+    },
+    {
+      "source": "381_Registro_di_precedenza.md",
+      "title": "381 Registro di precedenza",
+      "group": "Raccordo novel — 381",
+      "url": "b3abd2a5215cb04d.html",
+      "raw": "fonti/b3abd2a5215cb04d.md",
+      "sha256": "8dd786e0fa25fb86bfbcc820e680b30b75544f50b6a87365d4af7569f729a4a8",
+      "bytes": 983
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-071.md",
+      "title": "CAST-071",
+      "group": "Raccordo novel — 381",
+      "url": "d1e02339e43bd847.html",
+      "raw": "fonti/d1e02339e43bd847.md",
+      "sha256": "f4c38cb1d7e8b88c87f1f72ed520a1b687bf31e90f7ff9e7982df7b610e811c1",
+      "bytes": 8337
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/DOSSIER_EXCHANGE_366/CAST-127_edith-torrel.md",
+      "title": "CAST-127 edith-torrel",
+      "group": "Raccordo novel — 381",
+      "url": "2adfa23e35c537f7.html",
+      "raw": "fonti/2adfa23e35c537f7.md",
+      "sha256": "de4745d7474242012738dbca56916c5160fe98fbcedd595a4d51c1bdc4b0c1cb",
+      "bytes": 13839
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-127.md",
+      "title": "CAST-127",
+      "group": "Raccordo novel — 381",
+      "url": "2f32d7779d7532aa.html",
+      "raw": "fonti/2f32d7779d7532aa.md",
+      "sha256": "8fb1c1de999518de83da29a5b11854f5cb7074ac15c539a2c95a0f7dcbb3e937",
+      "bytes": 10970
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-001.md",
+      "title": "CAST-001",
+      "group": "Raccordo novel — 381",
+      "url": "165f312dd463db1a.html",
+      "raw": "fonti/165f312dd463db1a.md",
+      "sha256": "3704eb62575cc143c8456f319b4ed6227b428448304989d64caaa483bfb6b9ce",
+      "bytes": 23372
+    },
+    {
+      "source": "CANONE_VIGENTE/Continuita_letteraria_381.json",
+      "title": "Continuita letteraria 381",
+      "group": "Raccordo novel — 381",
+      "url": "498d33e27fb88361.html",
+      "raw": "fonti/498d33e27fb88361.json",
+      "sha256": "91e16b4cd2fc434a3d4ed6fd152afe067919132b8ec3e83d85992c70e8f7fe71",
+      "bytes": 93767
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-089.md",
+      "title": "CAST-089",
+      "group": "Raccordo novel — 381",
+      "url": "6615edbcedfe87ad.html",
+      "raw": "fonti/6615edbcedfe87ad.md",
+      "sha256": "2cca5172b94947358ca7bb5536797af2a2c512895625a1c1f9b7e3aa0b92716f",
+      "bytes": 7938
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-002.md",
+      "title": "CAST-002",
+      "group": "Raccordo novel — 381",
+      "url": "0b8d011a8cce898d.html",
+      "raw": "fonti/0b8d011a8cce898d.md",
+      "sha256": "7b7a5fbb63e943a8344f9d9dd81c2acd7d7879dd66c7341b0982cb4cdeaa3378",
+      "bytes": 21688
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-131.md",
+      "title": "CAST-131",
+      "group": "Raccordo novel — 381",
+      "url": "3ef636969811c4db.html",
+      "raw": "fonti/3ef636969811c4db.md",
+      "sha256": "a54641cb7a2b5f7dbe4af1ae52739738a82917bf6cbff4bbdc9aa0e6580fb0c6",
+      "bytes": 10063
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-124.md",
+      "title": "CAST-124",
+      "group": "Raccordo novel — 381",
+      "url": "9bfa04b14b7df751.html",
+      "raw": "fonti/9bfa04b14b7df751.md",
+      "sha256": "c079453745c11671f74b0cbfe8a7c20f77cda91909407834eec7146e30106ab0",
+      "bytes": 7552
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-128.md",
+      "title": "CAST-128",
+      "group": "Raccordo novel — 381",
+      "url": "9d0485d18fa4aa09.html",
+      "raw": "fonti/9d0485d18fa4aa09.md",
+      "sha256": "768555be2c93fcd4a68b632ba9e0ab2716005f408715c22a803529c7a1ec6516",
+      "bytes": 8310
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-104.md",
+      "title": "CAST-104",
+      "group": "Raccordo novel — 381",
+      "url": "2f0cf8be821bca49.html",
+      "raw": "fonti/2f0cf8be821bca49.md",
+      "sha256": "4ce9d04de52fb242dff6b7a099273b38dac3cf08156e87625423ce237eccf1d4",
+      "bytes": 10716
+    },
+    {
+      "source": "RISERVATO_381_Concordanza_novel_wiki.md",
+      "title": "RISERVATO 381 Concordanza novel wiki",
+      "group": "Raccordo novel — 381",
+      "url": "32117babe322ba24.html",
+      "raw": "fonti/32117babe322ba24.md",
+      "sha256": "cd4a54e07dea23a22d9c9800d43f55318c143fa4d536dcb42a97aeff59e5f006",
+      "bytes": 13645
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-194.md",
+      "title": "CAST-194",
+      "group": "Raccordo novel — 381",
+      "url": "685b32e07a31133e.html",
+      "raw": "fonti/685b32e07a31133e.md",
+      "sha256": "74815115f3917d67ed975c11e58879096d2ed85fa763bf426a91ffa5f84d0899",
+      "bytes": 8449
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-003.md",
+      "title": "CAST-003",
+      "group": "Raccordo novel — 381",
+      "url": "0e789500e2dbb44d.html",
+      "raw": "fonti/0e789500e2dbb44d.md",
+      "sha256": "f74d55b4581aee24a8ab8fa1065fff3a4f1dda9899f071128dd39b04eb508c6f",
+      "bytes": 11943
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-470.md",
+      "title": "CAST-470",
+      "group": "Raccordo novel — 381",
+      "url": "b96437259e17dd29.html",
+      "raw": "fonti/b96437259e17dd29.md",
+      "sha256": "c3084371c787ea6df6d2f2a5f85072734ec2ab0c658e8322d862b41fdfdde0a2",
+      "bytes": 4859
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-031.md",
+      "title": "CAST-031",
+      "group": "Raccordo novel — 381",
+      "url": "8caf844ba688edb1.html",
+      "raw": "fonti/8caf844ba688edb1.md",
+      "sha256": "4c2268e37b4d08d9763c4e3266954fa11269844d8f6ecf4aaccb6bba7eed2ad1",
+      "bytes": 18482
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-129.md",
+      "title": "CAST-129",
+      "group": "Raccordo novel — 381",
+      "url": "a698515fe92f5109.html",
+      "raw": "fonti/a698515fe92f5109.md",
+      "sha256": "7c3419543b7ccb3e9dc62da6b5cac67bb13de3bc87b2aa7ab153c96048f1988b",
+      "bytes": 9891
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-005.md",
+      "title": "CAST-005",
+      "group": "Raccordo novel — 381",
+      "url": "ca0a4ead8ee95ffc.html",
+      "raw": "fonti/ca0a4ead8ee95ffc.md",
+      "sha256": "05787c0ca3d926ed1100e4810695362d777fd0a565789f138a1db22a5457c6d3",
+      "bytes": 10922
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_381/CAST_RISERVATO/CAST-070.md",
+      "title": "CAST-070",
+      "group": "Raccordo novel — 381",
+      "url": "5e19c74835bf5e53.html",
+      "raw": "fonti/5e19c74835bf5e53.md",
+      "sha256": "8d7e7402fb799f25d409edc59476e989827f764d89eb2d238967c500812abd7b",
+      "bytes": 10846
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",
@@ -25853,12 +26078,13 @@
   "practical_faq_revision": "349",
   "operational_revision": "350",
   "current_topic_register": "350_Fonti_vigenti_per_argomento.md",
-  "current_revision": 380,
+  "current_revision": 381,
   "revision_373_scope": "Culti, legalità locale e pratiche biologiche; nessuna modifica delle progressioni.",
   "revision_374_scope": "Consolidamento, 24 rapporti, 48 reti, culture, fede, scene e risposta alle crisi. Progressioni e fatti protetti invariati.",
   "revision_376_scope": "Rappresentazione e applicazioni dell’orrore generativo, intimità aliena e scala ambientale e divina; nessuna progressione modificata.",
   "revision_377_scope": "La revisione 377 corregge la consultazione e consolida la rappresentazione delle situazioni personali secondo dossier già adottati. Sei complementi aggiungono carattere e rapporti; dodici eventi storici ricevono dettagli collettivi mantenendo date e successioni; novanta scene degli archi 11–40 restano condizionali. Nessuna variazione a progressioni, inventari, responsabilità antiche, crisi 369 o condizioni dei Seats 375. Le precedenti versioni sono archiviate e non equivalgono a descrizioni concorrenti dello stato presente.",
   "revision_378_scope": "La wiki segue ora anche la stesura della novel. I capitoli scritti sono fonti degli eventi della continuità letteraria; le schede indicano capitolo, data e sapere effettivo. I fatti nuovi non si trasferiscono automaticamente alla campagna. I fondamenti comuni, le progressioni e il passato adottato restano vigenti. Una scaletta futura resta un progetto e non una cronaca. Il testo di un capitolo prevale sul suo riassunto per ciò che la scena effettivamente mostra; una divergenza dalle regole comuni va registrata esplicitamente prima di adottarla.",
   "revision_379_scope": "Quindici capitoli IT/EN; aggiornamenti letterari distinti dalla campagna.",
-  "revision_380_scope": "Venticinque capitoli IT/EN; aggiornamenti letterari distinti dalla campagna."
+  "revision_380_scope": "Venticinque capitoli IT/EN; aggiornamenti letterari distinti dalla campagna.",
+  "revision_381_scope": "Trentotto capitoli IT/EN; aggiornamenti letterari distinti dalla campagna."
 }

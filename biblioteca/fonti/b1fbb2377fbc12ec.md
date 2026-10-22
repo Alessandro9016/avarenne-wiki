@@ -1,0 +1,163 @@
+# RISERVATO — CAST-032: Livia Varn
+
+Milestone 10, edizione raccordata 317 — 15 ottobre 2026. Livello **CENTRAL**. Stato al 18 maggio 812, salvo fase storica indicata. Nessuna scelta futura garantita.
+
+## Identità e funzione
+
+**Condizione:** 27. **Teatro operativo:** Lethorne; non una posizione istantanea obbligata. **Ruolo:** Copista giudiziaria e cofondatrice del gruppo. **Origine:** Fondamenti adottati e sviluppo del cast.
+
+**Obiettivo:** Mettere una prova al sicuro senza regalarne il monopolio a una biblioteca. **Tensione:** Accuratezza, anonimato e responsabilità pubblica non sono sempre compatibili
+
+## Carattere in azione e basi psicologiche
+
+Domanda quale affermazione si può difendere con quella specifica pagina. Il desiderio concreto è distinto dai mezzi disponibili. La figura teme di perdere autonomia o credibilità nel proprio ambito; può dissentire da chi la aiuta. Non applicare automaticamente Es/Io/Super-Io o una diagnosi completa: motivazioni, limiti e relazioni sono la base per l'analisi quando richiesta.
+
+**Segreto o informazione non pubblica:** Ha una copia autentica del collaudo di Elias, ma non dell'intera catena di firme
+
+## Inventario e competenze
+
+- **Archive I — Recorder (Awakening):** Held Moment; Residual Sense; True Mark; Held Surface; Recorded Blow. Repertorio cumulativo RAMI-23-04; applicazioni e costi nel manuale GIOCATORE_57_Archive_progressione_completa.md.
+
+**Ambito dell'inventario:** CURRENT_T0. Un rango storico non è dotazione odierna di un morto. **Mezzi ordinari:** mestiere, documenti e strumenti autentici entro il ruolo; non un nuovo artefatto cosmico. **Limiti:** Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.
+
+## Rete
+
+- [Elias Veyne](CAST-002.md): cofondatori; prova e fiducia non identiche.
+- [Etienne Brac](CAST-129.md): prova clinica e diritto di testimoniare.
+- [Silas Merrow](CAST-035.md): autenticazione possibile; ingresso nel gruppo non fissato.
+
+## Unità di Gioco
+
+**Concetto:** Copista giudiziaria e cofondatrice del gruppo, con una scelta concreta che altri non possono fare al suo posto. **Funzione:** interlocutore, fonte, ostacolo o alleato secondo il conflitto; mai alleanza obbligatoria. **Attivazione:** Attivo. **Stato dinamico:** Sta predisponendo una decisione o verifica per mettere una prova al sicuro senza regalarne il monopolio a una biblioteca. La controparte è già coinvolta e può rifiutare.
+
+**Conflitto centrale:** Accuratezza, anonimato e responsabilità pubblica non sono sempre compatibili **Forze:** la figura vuole mettere una prova al sicuro senza regalarne il monopolio a una biblioteca; gli interlocutori della rete hanno mandato e risorse propri. **Paura:** perdere possibilità di scelta o attendibilità nel proprio ruolo. **Limite:** Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.
+
+**Hook 1:** Una richiesta concreta riguarda mettere una prova al sicuro senza regalarne il monopolio a una biblioteca; è possibile chiedere una prova o rifiutare. **Hook 2:** Una controparte porta un documento, campione o testimonianza sul conflitto: Accuratezza, anonimato e responsabilità pubblica non sono sempre compatibili
+
+**Con intervento:** nuove prove, risorse, rifiuto o contesa cambiano accessi e fiducia. Il successo competente mantiene gli effetti; non imporre gratitudine, alleanza o futura condotta del PG. **Senza intervento:** Prosegue la verifica e tratta con gli interlocutori disponibili; può ridurre, rinviare o cambiare una richiesta se dati e risorse lo impongono.
+
+**Pressione:** Le date della fonte prevalgono; una richiesta di servizio non crea da sola una scadenza letale. **Impatto attuale:** 🟡; una futura catastrofe richiede un fatto realmente prodotto. **Causa verticale:** Fondamenti adottati e sviluppo del cast. **Collegamenti orizzontali:** rete riportata sopra.
+
+**Scena possibile:** confronto su mettere una prova al sicuro senza regalarne il monopolio a una biblioteca, con strumenti o documenti visibili. **Complicazione:** una prova vera può non sostenere l'intera conclusione richiesta. **Twist opzionale:** una controparte offre una soluzione valida che protegge anche un proprio interesse; non cambiare retroattivamente il segreto fissato.
+
+## Corpo, agency e direzione visiva
+
+Aspetto ordinario coerente con epoca, lavoro e condizione; nessuna mutazione o sessualità assegnata per riempire un campo. Quando pertinente, distinguere anatomia, trasformazione controllata, lesione e percezione sociale secondo 148. Non aggiungere poteri da un'immagine. Priorità visiva **HIGH**; consultare gli asset effettivamente presenti nel piano visivo corrente.
+
+## Peso nella futura opera
+
+La figura centrale non ha un solo incontro di funzione. Obiettivo, conflitto e rete devono poter sostenere cambiamenti di alleanza, prove e costi di scala diversa. Un segreto scoperto apre una scelta e non chiude automaticamente il personaggio. Non garantire il suo ruolo nei volumi futuri, la sopravvivenza o una redenzione. Le scene e gli archi del punto 12 partiranno dai fatti qui fissati.
+
+## Biografia, paura e scheda visiva consolidata
+
+Formata in un ufficio civile, acquisì Archive I nel 810 mediante una fonte scolastica controllata. Non copia un rango da una fotografia. La prova conservata è autentica e incompleta. Il gruppo risponde anche al pericolo che ogni originale diventi un monopolio privato.
+
+**Paura specifica:** Anonimato che impedisca un ricorso della persona danneggiata.
+
+**Aspetto di riferimento:** 169 cm, capelli castani raccolti, occhi nocciola, abiti civili blu e grigi, cartella stretta senza simbolo di fazione definitivo. La forma aperta è una modalità distinta: non ridisegnare ogni ritratto come perdita di controllo. Per le immagini usare gli asset approvati del piano visivo corrente.
+
+**Legame nominativo:** [Elias Veyne](CAST-002.md) — Cofondatori dello scambio; documenti e iniziativa distinti. La relazione non rende automaticamente disponibili i segreti dell'altra persona.
+
+**Legame nominativo:** [Silas Merrow](CAST-035.md) — Possibile consulenza su identità e attestazioni, nessuna adesione al gruppo già decisa. La relazione non rende automaticamente disponibili i segreti dell'altra persona.
+
+## BIO-CAST-01 — Origine e corpo
+
+**Stato:** consolidato. **Popolazione biologica:** Umano. **Origine:** origine umana; nessuna etichetta etnica Ardai assegnata automaticamente.
+
+**Corpo nella fase della scheda:** Anatomia umana vivente; variazioni individuali non assegnano poteri.
+
+**Linea individuale:** Variazioni individuali; nessun tratto universale aggiunto oltre al modello biologico.
+
+**Cultura:** Appartenenza civica e professionale personale nel teatro Lethorne; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.
+
+**Età e durata:** Vita umana ordinaria; longevità eccezionale solo quando sostenuta dal rango e dalle fonti. Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.
+
+**Adattamenti:** Cure umane e necessità ambientali ordinarie.
+
+**Vincoli visivi:** Nessun tratto razziale aggiunto. Conservare età, lineamenti e aspetto individuale già adottati.
+
+**Provenienza della precisazione:** NUOVA_DECISIONE_AUTORIALE_ESPLICITA. Consolidamento autoriale della corporeità umana ordinaria; non una conclusione dedotta da silenzio o nome.
+
+Poteri, date, famiglia, competenze e obiettivi restano quelli delle sezioni precedenti. Nessun individuo rappresenta moralmente la propria popolazione.
+
+
+## Rapporto con The Unbound Exchange — 365
+
+Cofondatrice e continuità documentale; Footnote. Pubblicabilità, responsabilità e anonimato vanno negoziati; non segretaria subordinata a Elias. Approfondimento vigente nel dossier 154; nessun nuovo potere, inventario o ingresso futuro fissato.
+
+
+## Dossier principale CORE-366
+
+Approfondimento vigente: DOSSIER_EXCHANGE_366/CAST-032_livia-varn.md. Membro effettivo dal 10 maggio 812; cofondatrice. Potenziale e rapporti futuri sono condizionati, non eventi acquisiti. Inventario ordinario e contante precisati nel 366: Dossier di lavoro, penna e inchiostro, carta da copia, cartella civile, abiti quotidiani. Nessun deposito personale di tutti gli originali del circolo. 18.60 corone personali.
+
+
+## Vita personale e rapporti — 374
+
+### Gesti e voce
+
+Nelle conversazioni domestiche abbrevia i nomi; negli atti li ricopia interi. Se una persona la interrompe per correggere il proprio nome riparte senza mostrare fastidio, ma ricorda chi considera quel dettaglio superfluo.
+
+### Rapporti vissuti
+
+Con Elias protegge una prova e non pretende in cambio che segua ogni suo consiglio. Con Etienne riconosce il diritto di raccontare male una giornata dolorosa senza perdere il valore della testimonianza. La cura del documento non deve prendere il posto della cura della persona.
+
+### Una scelta aperta
+
+Può proporre di cenare prima di proseguire un confronto. Se il gruppo vuole pubblicare tutto, chiede quali nomi siano davvero necessari: il dissenso è personale e operativo, non un tradimento del club.
+
+Questi dettagli non assegnano nuove azioni attuali al giocatore o incontri pregressi non documentati.
+
+
+## Situazione consolidata 377
+
+Obiettivo operativo al T0: Vuole che nessuno possa cancellare una persona semplicemente sequestrando la sua unica prova. Iniziativa documentata, da risolvere secondo accessi e decisioni: Può proporre di cenare prima di proseguire un confronto. Se il gruppo vuole pubblicare tutto, chiede quali nomi siano davvero necessari: il dissenso è personale e operativo, non un tradimento del club.
+
+Base: Dossier personale 367, integrazione 374 o profilo strategico già adottato.
+
+<!-- NOVEL378 -->
+## Nella novel — Volume I
+
+Continuità letteraria, distinta dagli eventi della campagna. Capitoli 1.
+
+Esamina l’offerta di Etienne e rileva il rinvio a un allegato non ricevuto. Mostra la copia autentica della prima posizione senza attribuirle la prova dell’intera catena di responsabilità.
+<!-- END NOVEL378 -->
+
+<!-- NOVEL379 -->
+## Nella novel — capitoli 6–15
+
+Continuità letteraria distinta dalla campagna.
+
+Capitolo 6: Elias, Livia ed Etienne Brac ottengono l’allegato omesso. La dichiarazione richiamata attribuisce l’incidente a una lettura errata dei riferimenti durante la preparazione: non afferma che Elias abbia spostato il banco. Etienne chiede di separare pagamento e dichiarazione. L’ufficio registra la richiesta, senza una firma di accettazione o un pagamento.
+
+Il testo ora è disponibile, ma non prova chi abbia ordinato lo spostamento. Il caso civile resta indipendente dalla Glass Hunt. Livia autorizza una copia della sola frase pertinente; il consenso non comprende ogni documento clinico.
+
+Capitolo 10: Elias, Livia, Marcel ed Edith raggiungono separatamente Room Six tramite la porta ordinaria aperta con una chiave. Edith conosce identità civili e pseudonimi Northbound e Footnote; non compare un anonimato assoluto. La conversazione riguarda consenso, tempo, compensi, custodia e limiti delle richieste di Etienne. Edith percorre la via d’uscita e accetta un aiuto delimitato, senza diventare automaticamente membro.
+
+La sala fisica misura 18×15 metri e il tavolo ha dodici posti, ma sono presenti quattro persone. Nessuna apertura della Hinge è consumata: le due cariche restano disponibili. Questa conversazione preparatoria non sostituisce la sessione prevista il 23 maggio. Farmaci e borsa clinica non diventano risorse comuni.
+
+Capitolo 14: Livia usa True Mark di Archive I sul confronto documentario presente, separando osservazioni, parole di Vern e interpretazioni di Elias. Ricorda il costo reale di una vecchia notifica spedita a un indirizzo errato, senza introdurre una nuova indagine. Gaston comunica che Ilian propone un campione per il giorno seguente. Marcel mantiene la condizione di esaminare soltanto il pezzo portato, senza preparare componenti propri per l’uscita.
+
+La marca non certifica retroattivamente chi spostò il banco e non conferisce Archive a Elias. Il resoconto di Vern e il disegno commerciale restano in cartelle distinte. Le lettere personali di Livia non sono automaticamente prove giudiziarie.
+<!-- END NOVEL379 -->
+
+<!-- NOVEL380 -->
+## Nella novel — capitoli 16–25
+
+Continuità letteraria distinta dalla campagna.
+
+Capitolo 19: Lise chiede che Elias aiuti senza Astrolabe il proprio modello di trasporto di un piccolo carico. Adrien offre un panno per stabilizzare la base. Lise risolve il punto di sospensione e ripete con successo il trasporto della tazza con tre sassolini. Elias rispetta l'autonomia della sorella e il tempo già concordato al laboratorio; incontra poi Livia senza arrivare in ritardo.
+
+Il modello è ordinario e non conferisce a Lise un'Effige. Elias considera ma non compie un Small Transfer per recuperare un sassolino. Non viene fissata una nuova data del colloquio scolastico, acquistato un bene o alterato un saldo. Nessuna sospensione del proprio lavoro è nascosta agli interlocutori.
+
+Capitolo 21: Elias dimostra Small Transfer di Astrolabe I su una piccola chiave tra due punti vicini connessi e raggiunti. Edith concorda i limiti del proprio intervento del 23 maggio: prima chiederà a Etienne il consenso per le osservazioni cliniche condivisibili. La prova della Hinge riguarderà un carico inerte, senza pazienti. Livia mostra Held Surface di Archive I su un ritaglio con inchiostro e un panno umido, senza promettere impermeabilità permanente. Edith esprime un desiderio possibile di Heart senza impegnarsi all'incorporazione.
+
+La chiave è ordinaria e torna a Marcel. Nessun corpo è trasferito con il potere personale di Elias; l'esercizio consuma risorse senza un saldo energetico inventato. Nessuna fonte Heart è acquisita. Le medicine della clinica restano indisponibili come patrimonio del gruppo. La dimostrazione del giorno successivo non viene presentata come evacuazione già verificata.
+
+Capitolo 23: Marcel ispeziona il dispositivo secondo la preparazione, allinea le marche e aziona la Surveyor's Hinge per un singolo collegamento predisposto nello stesso lotto. Elias attraversa una volta verso l'anticamera portando un carico inerte già pesato. Livia è arrivata per via ordinaria; Marcel richiude prima dei dieci minuti e arriva poi dalla porta normale. Edith raggiunge la riunione all'ora concordata. Il registro segna l'apertura del 23 maggio: una sola apertura iniziale rimane disponibile. I quattro iniziano la sessione distinguendo il transito osservato da usi non verificati.
+
+La chiusura anticipata non rimborsa la carica. Nessun ritorno attraverso il varco o seconda apertura è compiuto. Il dispositivo non concede Astrolabe III a Elias o Marcel, che non possono rifornirlo. Nessun trasferimento di feriti, semidivini o gruppo remoto è attestato. Dodici sedie non equivalgono a dodici membri. Edith comunica il consenso limitato ottenuto da Etienne per le proprie osservazioni.
+
+Capitolo 24: Edith rifiuta la consegna della cartella intera, ma accetta un estratto delle proprie osservazioni autorizzate entro il 25 maggio, da far leggere prima a Etienne. Livia propone il confronto autenticato con quanto verrà mostrato. Il gruppo concorda un insegnamento ordinario su movimentazione e appoggi; usa coperta e cassetta senza paziente e senza attivare l'alleggerimento. Edith riceve consigli per la protezione del quaderno e per la collocazione della borsa. Il nome di Mael Vaur non trova un riconoscimento fra i presenti. Edith resta consulente, senza adesione automatica.
+
+Non è una seconda sessione rispetto al capitolo 23. Nessuna capacità infermieristica completa viene trasferita da una lezione. L'estratto futuro non è già redatto o consegnato. Il rifiuto non espelle Edith; l'accordo non impone Heart. Tutti escono per via ordinaria; la carica residua resta una. Nessun appuntamento settimanale perpetuo è istituito.
+<!-- END NOVEL380 -->
