@@ -1,0 +1,3816 @@
+{
+  "version": "1.0",
+  "revision": "FRONTI-326",
+  "access": "Narratore/autore; spoiler",
+  "chapter_target": 1600,
+  "volumes": [
+    {
+      "number": 1,
+      "title": "The Waking House",
+      "chapter_budget": 190,
+      "function": "Il mondo vicino deve reggere prima delle grandi rivelazioni.",
+      "theatre": "Casa, lavoro, collaudo, primi scambi e nomi conservati.",
+      "dual_line": "Elias ottiene strumenti per correggere una responsabilità senza poter dominare il laboratorio. Alexander dispone già di miracoli e sceglie come apparire.",
+      "transition": "Il lettore comprende che prove, poteri e fiducia sono risorse diverse. La vecchia identità può emergere, ma non è una chiave obbligatoria del finale.",
+      "arcs": [
+        "ARC-01",
+        "ARC-02",
+        "ARC-03",
+        "ARC-04",
+        "ARC-05"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Price of a Miracle",
+      "chapter_budget": 200,
+      "function": "Una soluzione vera cambia la società che ne riceve il beneficio.",
+      "theatre": "Industria, assistenza, attestazioni, notte e rendite.",
+      "dual_line": "Elias affronta accessi economici e sicurezza; Alexander può eliminare scarsità materiali invece di accettare il ruolo di semplice finanziatore.",
+      "transition": "I risultati locali producono richieste nuove. Si può passare alla ricerca storica o seguire una riforma presente; nessuna crisi deve restare aperta artificialmente.",
+      "arcs": [
+        "ARC-06",
+        "ARC-07",
+        "ARC-08",
+        "ARC-09",
+        "ARC-10"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Unburied Name",
+      "chapter_budget": 190,
+      "function": "La memoria del liberatore incontra testimonianze non celebrative.",
+      "theatre": "Marchi, lotti, antichi rapporti, persone create e accessi chiusi.",
+      "dual_line": "Elias impara a leggere un accesso come rapporto e non soltanto luogo. Alexander può riconoscere persone cambiate, responsabilità proprie e opere attribuite ad altri.",
+      "transition": "Prove operative aprono il progetto Departure; un riconoscimento pubblico precoce cambia interlocutori e propaganda senza invalidare le fonti.",
+      "arcs": [
+        "ARC-11",
+        "ARC-12",
+        "ARC-13",
+        "ARC-14",
+        "ARC-15"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "The Departure That Failed",
+      "chapter_budget": 210,
+      "function": "Responsabilità distinte impediscono una vendetta fondata su un colpevole comodo.",
+      "theatre": "Progetto approvato, derivazione clandestina, rinnovi, oblio e giudizio.",
+      "dual_line": "Elias può aiutare come persona autonoma senza assolvere Edran. Alexander sceglie cosa fare della verità, anche se dispone della forza per punire.",
+      "transition": "La ricerca può concludersi presto. La seconda metà del volume segue allora servizi, accordi e rapporti modificati dal verdetto, senza aggiungere un traditore.",
+      "arcs": [
+        "ARC-16",
+        "ARC-17",
+        "ARC-18",
+        "ARC-19",
+        "ARC-20"
+      ]
+    },
+    {
+      "number": 5,
+      "title": "The Lives Not Owned",
+      "chapter_budget": 200,
+      "function": "Esistere grazie a qualcuno non implica appartenergli.",
+      "theatre": "Custodie, interfacce, cure, persone e comunità.",
+      "dual_line": "Elias mette alla prova il patto dello scambio; Alexander distingue creare vita, recuperare un amico e obbligare una gratitudine.",
+      "transition": "Le persone separate producono rapporti nuovi. Viaggi cosmici sono possibili solo se accessi e motivazioni esistono; restare sul pianeta resta una linea completa.",
+      "arcs": [
+        "ARC-21",
+        "ARC-22",
+        "ARC-23",
+        "ARC-24",
+        "ARC-25"
+      ]
+    },
+    {
+      "number": 6,
+      "title": "The World Outside the Map",
+      "chapter_budget": 210,
+      "function": "La scala cosmica resta materiale, osservabile e costosa.",
+      "theatre": "Medium remoto, habitat, Vigil, testimonianze e rete interregionale.",
+      "dual_line": "Elias prepara viaggi in rapporto al rango effettivo; Alexander può agire su scala superiore senza fornire automaticamente tutti gli accessi agli altri.",
+      "transition": "Una collaborazione cosmica può trasformare reti presenti. Nessun arrivo alieno o salto angelico obbligatorio chiude il volume.",
+      "arcs": [
+        "ARC-26",
+        "ARC-27",
+        "ARC-28",
+        "ARC-29",
+        "ARC-30"
+      ]
+    },
+    {
+      "number": 7,
+      "title": "The Right to Begin",
+      "chapter_budget": 200,
+      "function": "Una fonte disponibile e il diritto di possederla non coincidono.",
+      "theatre": "Seats attuali, recupero personale, Helyr, Nocturne e separazioni nuove.",
+      "dual_line": "Alexander recupera quando può; Elias affronta una possibile continuità di funzione che non richiede assassinare un mentore predestinato.",
+      "transition": "Il conflitto finale nasce da integrazioni e scelte realmente intraprese. Un protagonista che rinuncia a un titolo non rinuncia automaticamente al proprio ruolo narrativo.",
+      "arcs": [
+        "ARC-31",
+        "ARC-32",
+        "ARC-33",
+        "ARC-34",
+        "ARC-35"
+      ]
+    },
+    {
+      "number": 8,
+      "title": "The First and the Last",
+      "chapter_budget": 200,
+      "function": "Il mondo deve poter vivere dopo l’esito del potere.",
+      "theatre": "Patti, autorità residue, registri, futuro dello scambio e conclusione.",
+      "dual_line": "Elias e Alexander possono cooperare, divergere o assumere ruoli differenti. La futura stesura selezionerà una conclusione; la partita conserva scelta e conseguenze.",
+      "transition": "Chiusura delle domande effettivamente aperte, non checklist di morti. Un epilogo distingue leggende, fatti e persone ancora libere.",
+      "arcs": [
+        "ARC-36",
+        "ARC-37",
+        "ARC-38",
+        "ARC-39",
+        "ARC-40"
+      ]
+    }
+  ],
+  "arcs": [
+    {
+      "id": "ARC-01",
+      "volume": 1,
+      "title": "The Waking House",
+      "chapter_budget": 38,
+      "theatre": "Rovenne",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-003",
+        "CAST-004",
+        "CAST-005",
+        "CAST-069",
+        "CAST-070",
+        "CAST-071",
+        "CAST-494",
+        "CAST-495",
+        "CAST-208",
+        "CAST-211",
+        "CAST-220"
+      ],
+      "sources": "85; 133; EVD-14/15",
+      "stable_truth": "Il ritorno è autentico; i frammenti del Quiet Glass sono spenti. Nessun familiare conosce Edran.",
+      "independent_initiative": "Mirel verifica parametri; Nela passa le note; Albin prosegue i pagamenti delegati.",
+      "hooks": [
+        "Scatola medica e cartella divergente",
+        "richiesta di aggiornamento patrimoniale."
+      ],
+      "choice": "Esaminare il mezzo, parlare alla famiglia, riprendere il ducato o lasciare la casa.",
+      "evolution": "Una diagnosi precoce risolve il raccordo e apre la questione della provenienza; ignorarlo conserva i frammenti in custodia ordinaria senza altri ritorni.",
+      "scene": "Un medico confronta un tracciato interrotto con un corpo sano.",
+      "complication": "La ripresa del corpo non spiega da sola il trasferimento della persona.",
+      "mysteries": [
+        "M01"
+      ],
+      "activation": "Attivo",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟡–🟠",
+      "operational_fronts": [
+        "FRONT-11"
+      ],
+      "antagonist_ids": [],
+      "allied_bearer_ids": [
+        "CAST-494"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-01",
+        "title": "The Waking House",
+        "volume": 1,
+        "axis": "ALEXANDER",
+        "alexander_entry": "La ripresa del corpo e le responsabilità della casa sono già nella sua sfera.",
+        "elias_entry": "Prosegue la propria controversia di laboratorio; non conosce il risveglio del duca.",
+        "contact_carrier_ids": [
+          "CAST-005",
+          "CAST-069"
+        ],
+        "activation_gate": "Nessuna convergenza necessaria. Una notizia sanitaria può uscire solo per una comunicazione realmente autorizzata o avvenuta.",
+        "without_meeting": "La casa evolve secondo le decisioni del PG; la vicenda del laboratorio procede separatamente.",
+        "calendar_references": [
+          {
+            "id": "CLK-05",
+            "date": "812-05-26",
+            "event": "Paga del personale già prevista.",
+            "is_player_appointment": false
+          }
+        ],
+        "front_calendar_references": [
+          "OPCLK-11"
+        ],
+        "front_ids": [
+          "FRONT-11"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_196_Archi_01_10.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-02",
+      "volume": 1,
+      "title": "The Moved Bench",
+      "chapter_budget": 38,
+      "theatre": "Lethorne",
+      "cast_ids": [
+        "CAST-002",
+        "CAST-031",
+        "CAST-032",
+        "CAST-127",
+        "CAST-128",
+        "CAST-129",
+        "CAST-474",
+        "CAST-475",
+        "CAST-193",
+        "CAST-194",
+        "CAST-200",
+        "CAST-496",
+        "CAST-497",
+        "CAST-261",
+        "CAST-262",
+        "CAST-265"
+      ],
+      "sources": "153; U11-01",
+      "stable_truth": "Il banco fu spostato da Vern senza ricalibrazione; Elias misurò correttamente il vecchio assetto.",
+      "independent_initiative": "Etienne prepara richiesta economica; Livia conserva la copia autentica; il laboratorio prepara l’udienza del 31 maggio.",
+      "hooks": [
+        "Richiesta di confronto di copie",
+        "necessità di una perizia sul banco."
+      ],
+      "choice": "Separare cura, responsabilità e risarcimento; offrire aiuto senza comprare la testimonianza.",
+      "evolution": "Provare il fatto cambia l’udienza; una cura miracolosa non cancella il mancato salario. Senza PG la controversia continua con prove parziali.",
+      "scene": "Il ferito mostra due date di lavoro mentre il collaudatore mostra due posizioni.",
+      "complication": "La copia originale non contiene l’ordine di spostamento.",
+      "mysteries": [
+        "M02"
+      ],
+      "activation": "Attivo",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟡–🟠",
+      "operational_fronts": [
+        "FRONT-01",
+        "FRONT-12"
+      ],
+      "antagonist_ids": [
+        "CAST-474",
+        "CAST-475"
+      ],
+      "allied_bearer_ids": [
+        "CAST-194",
+        "CAST-496"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-02",
+        "title": "The Moved Bench",
+        "volume": 1,
+        "axis": "PARALLELE_CON_INTERSEZIONE",
+        "alexander_entry": "Una richiesta professionale può arrivare attraverso gli uffici tecnici frequentati dalla famiglia, oppure Alexander può interessarsi alla controversia mentre visita Lethorne.",
+        "elias_entry": "Marcel, Livia ed Elias cercano un confronto tecnico e una seconda prova per la controversia.",
+        "contact_carrier_ids": [
+          "CAST-004",
+          "CAST-031",
+          "CAST-032"
+        ],
+        "activation_gate": "Il richiedente deve avere un recapito del perito o dell’ufficio e una ragione concreta per contattarlo. Il titolo ducale non dimostra competenza tecnica, e nessuno sa ancora che Alexander possa compiere miracoli.",
+        "without_meeting": "L’udienza usa le prove effettivamente raccolte; il laboratorio può trovare altri interlocutori e Alexander può occuparsi del proprio ducato.",
+        "calendar_references": [
+          {
+            "id": "CLK-10",
+            "date": "812-05-31",
+            "event": "Udienza sul collaudo 21 aprile.",
+            "is_player_appointment": false
+          }
+        ],
+        "front_calendar_references": [
+          "OPCLK-01",
+          "OPCLK-12"
+        ],
+        "front_ids": [
+          "FRONT-01",
+          "FRONT-12"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_196_Archi_01_10.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-03",
+      "volume": 1,
+      "title": "Room for Six",
+      "chapter_budget": 38,
+      "theatre": "Lethorne",
+      "cast_ids": [
+        "CAST-002",
+        "CAST-031",
+        "CAST-032",
+        "CAST-035",
+        "CAST-127",
+        "CAST-474",
+        "CAST-475",
+        "CAST-193",
+        "CAST-194",
+        "CAST-200",
+        "CAST-496",
+        "CAST-497",
+        "CAST-261",
+        "CAST-262",
+        "CAST-265"
+      ],
+      "sources": "154; ART-001",
+      "stable_truth": "Lo scambio ha due fondatori e due aperture residue; la stanza non è una Root.",
+      "independent_initiative": "I fondatori preparano la sessione del 23 maggio, oppure incontri separati se il luogo non è sicuro.",
+      "hooks": [
+        "Offerta di manutenzione ispezionabile",
+        "confronto anonimo che contiene un riferimento riconoscibile."
+      ],
+      "choice": "Entrare, scambiare fuori dalla stanza, rifiutare o proporre condizioni.",
+      "evolution": "L’aiuto cambia fiducia e mezzi; il rifiuto non impedisce ad Elias e Livia di agire. Un’apertura usata si consuma anche se il colloquio fallisce.",
+      "scene": "Due paraventi, una copia e una richiesta di non pubblicarla.",
+      "complication": "Lo pseudonimo nasconde il nome ma non tutte le provenienze.",
+      "mysteries": [
+        "M03"
+      ],
+      "activation": "Attivo",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟡–🟠",
+      "operational_fronts": [
+        "FRONT-01",
+        "FRONT-12"
+      ],
+      "antagonist_ids": [
+        "CAST-474",
+        "CAST-475"
+      ],
+      "allied_bearer_ids": [
+        "CAST-194",
+        "CAST-496"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-03",
+        "title": "Room for Six",
+        "volume": 1,
+        "axis": "CONDIVISA_CONDIZIONALE",
+        "alexander_entry": "Un servizio effettivamente offerto, una perizia o un contatto civile può farlo conoscere ai fondatori.",
+        "elias_entry": "Elias e Livia valutano se lo scambio possa giovare a un interlocutore reale senza cedergli il controllo della rete.",
+        "contact_carrier_ids": [
+          "CAST-031",
+          "CAST-032"
+        ],
+        "activation_gate": "Invito solo dopo un contatto identificabile o una prestazione osservata; devono essere comunicati recapito e condizioni. Si può scambiare anche fuori da Room Six.",
+        "without_meeting": "Il gruppo mantiene le proprie attività con i membri effettivi. Nessun rapimento, sogno o richiamo della Root sostituisce il rifiuto del PG.",
+        "calendar_references": [
+          {
+            "id": "CLK-03",
+            "date": "812-05-23",
+            "event": "Seconda sessione seRoom Six sicura; altrimenti incontri ordinari.",
+            "is_player_appointment": false
+          }
+        ],
+        "front_calendar_references": [
+          "OPCLK-01",
+          "OPCLK-12"
+        ],
+        "front_ids": [
+          "FRONT-01",
+          "FRONT-12"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_196_Archi_01_10.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-04",
+      "volume": 1,
+      "title": "A Price for Recovery",
+      "chapter_budget": 38,
+      "theatre": "Rovenne–Lethorne",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-004",
+        "CAST-069",
+        "CAST-027",
+        "CAST-028",
+        "CAST-494",
+        "CAST-495",
+        "CAST-208",
+        "CAST-211",
+        "CAST-220"
+      ],
+      "sources": "133; FAC-08/10; IND-01",
+      "stable_truth": "Le garanzie di Yselle sono sue; le spese impegnate non sono denaro libero.",
+      "independent_initiative": "Banca e officine rivedono garanzie e fornitura prima dell’8 giugno.",
+      "hooks": [
+        "Rapporto di Albin",
+        "progetto corretto da Yselle."
+      ],
+      "choice": "Finanziare, restringere, convertire o abbandonare il progetto con conti verificabili.",
+      "evolution": "Cradle può fornire beni reali e cambiare i costi. Restano accettazione, manutenzione e diritti; non inventare una scarsità che sopravvive a ogni creazione.",
+      "scene": "Una riunione distingue costo di impianto e costo di servizio.",
+      "complication": "Un apparato più potente non è automaticamente più economico da mantenere.",
+      "mysteries": [
+        "M04"
+      ],
+      "activation": "Attivo",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟡–🟠",
+      "operational_fronts": [
+        "FRONT-11"
+      ],
+      "antagonist_ids": [],
+      "allied_bearer_ids": [
+        "CAST-494"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-04",
+        "title": "A Price for Recovery",
+        "volume": 1,
+        "axis": "ALEXANDER",
+        "alexander_entry": "Progetto, garanzie e patrimonio sono questioni già note attraverso Yselle e Albin.",
+        "elias_entry": "Può partecipare a una misurazione o a un lavoro soltanto se il laboratorio riceve un incarico pertinente.",
+        "contact_carrier_ids": [
+          "CAST-004",
+          "CAST-069",
+          "CAST-027"
+        ],
+        "activation_gate": "Una necessità tecnica reale del progetto deve essere comunicata al laboratorio; non si assume che Elias sia già il perito personale del duca.",
+        "without_meeting": "La famiglia può finanziare, modificare o abbandonare il progetto. Elias conserva la propria linea anche senza incarico.",
+        "calendar_references": [
+          {
+            "id": "CLK-05",
+            "date": "812-05-26",
+            "event": "Paga del personale già prevista.",
+            "is_player_appointment": false
+          },
+          {
+            "id": "CLK-17",
+            "date": "812-06-08",
+            "event": "Elren Voss Oracle IV e Dama Rinn confrontano campioni per IND-01",
+            "is_player_appointment": false
+          },
+          {
+            "id": "CLK-21",
+            "date": "812-06-08",
+            "event": "Riesamina alcune garanzie dopo Bellance e valuta il progetto di Yselle",
+            "is_player_appointment": false
+          }
+        ],
+        "front_calendar_references": [
+          "OPCLK-11"
+        ],
+        "front_ids": [
+          "FRONT-11"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_196_Archi_01_10.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-05",
+      "volume": 1,
+      "title": "The Shore Has a Name",
+      "chapter_budget": 38,
+      "theatre": "Ossen Reach e rete della Sponda",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-072",
+        "CAST-073",
+        "CAST-476",
+        "CAST-477",
+        "CAST-246",
+        "CAST-248",
+        "CAST-250",
+        "CAST-482",
+        "CAST-483",
+        "CAST-336",
+        "CAST-338",
+        "CAST-340"
+      ],
+      "sources": "99; IND-03; EVD-09",
+      "stable_truth": "Il culto conservò il nome; una traduzione804 alterò un diritto d’uso, non la natura del Creator.",
+      "independent_initiative": "Le compagnie presentano ricorso per il12 giugno; cercano testimoni e copie indipendenti.",
+      "hooks": [
+        "Canto con attribuzione riconoscibile",
+        "richiesta di confronto fra concessione e pratica di approdo."
+      ],
+      "choice": "Aiutare senza rivelarsi, rivendicare il nome, negoziare o non intervenire.",
+      "evolution": "Una sentenza può preservare passaggi e lasciare incerta l’identità di Alexander. Senza lui il ricorso esiste comunque.",
+      "scene": "Una mappa catastale e una mappa d’uso descrivono la stessa sponda.",
+      "complication": "L’autenticità del culto non rende corretta ogni sua interpretazione.",
+      "mysteries": [
+        "M05"
+      ],
+      "activation": "Attivo",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟡–🟠",
+      "operational_fronts": [
+        "FRONT-02",
+        "FRONT-05"
+      ],
+      "antagonist_ids": [
+        "CAST-476",
+        "CAST-477",
+        "CAST-482",
+        "CAST-483"
+      ],
+      "allied_bearer_ids": [
+        "CAST-246",
+        "CAST-336"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-05",
+        "title": "The Shore Has a Name",
+        "volume": 1,
+        "axis": "ALEXANDER",
+        "alexander_entry": "Può riconoscere un’attribuzione antica ascoltata o letta, oppure incontrare il problema civile della sponda.",
+        "elias_entry": "Può incontrare la questione attraverso mappe, testimonianze o uno scambio effettivo; non conosce per questo la persona di Edran.",
+        "contact_carrier_ids": [
+          "CAST-072",
+          "CAST-073"
+        ],
+        "activation_gate": "Un canto o una copia devono essere materialmente ricevuti o ascoltati. Chi cerca testimoni non identifica automaticamente Alexander come Creator.",
+        "without_meeting": "Il ricorso procede con i suoi testimoni; riconoscimento religioso, esito civile e identità del PG restano questioni separate.",
+        "calendar_references": [
+          {
+            "id": "CLK-13",
+            "date": "812-06-12",
+            "event": "Udienza unica su concessione e diritto d’uso.",
+            "is_player_appointment": false
+          }
+        ],
+        "front_calendar_references": [
+          "OPCLK-02",
+          "OPCLK-05"
+        ],
+        "front_ids": [
+          "FRONT-02",
+          "FRONT-05"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_196_Archi_01_10.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-06",
+      "volume": 2,
+      "title": "Certified Weather",
+      "chapter_budget": 40,
+      "theatre": "Lethorne–Deren",
+      "cast_ids": [
+        "CAST-027",
+        "CAST-028",
+        "CAST-034",
+        "CAST-474",
+        "CAST-475",
+        "CAST-193",
+        "CAST-194",
+        "CAST-200",
+        "CAST-486",
+        "CAST-487",
+        "CAST-241",
+        "CAST-243",
+        "CAST-245",
+        "CAST-494",
+        "CAST-495",
+        "CAST-208",
+        "CAST-211",
+        "CAST-220"
+      ],
+      "sources": "IND-01; U11-02/03; ART-002/003/004",
+      "stable_truth": "Certificati veri furono estesi oltre il campione e lo scopo; manutenzioni reali precedono la crisi.",
+      "independent_initiative": "Tecnici fermano lotti difettosi e cercano sostituzioni, mentre imprese contestano il fermo.",
+      "hooks": [
+        "Due misure compatibili ma riferite a domande diverse",
+        "officina che offre campioni migliori."
+      ],
+      "choice": "Riparare il circuito, restringere la licenza, produrre sostituti o lasciare la controversia ai tecnici.",
+      "evolution": "Una soluzione fisica può chiudere il rischio e spostare il conflitto su garanzie e brevetti. Senza PG il Collegium pubblica la riserva già prevista.",
+      "scene": "Un test funziona e un lotto dello stesso marchio fallisce.",
+      "complication": "Nessuna licenza assicura le condizioni di tutto un impianto.",
+      "mysteries": [
+        "M04"
+      ],
+      "activation": "Attivo",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟡–🟠",
+      "operational_fronts": [
+        "FRONT-01",
+        "FRONT-07",
+        "FRONT-11"
+      ],
+      "antagonist_ids": [
+        "CAST-474",
+        "CAST-475",
+        "CAST-486",
+        "CAST-487"
+      ],
+      "allied_bearer_ids": [
+        "CAST-194",
+        "CAST-241",
+        "CAST-494"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-06",
+        "title": "Certified Weather",
+        "volume": 2,
+        "axis": "MONDO_CON_INTERSEZIONE",
+        "alexander_entry": "È coinvolgibile se una fornitura, un servizio o una richiesta riguarda davvero il suo progetto o una sua iniziativa.",
+        "elias_entry": "Il laboratorio può essere interpellato sulle misure dei campioni e sui limiti dei certificati.",
+        "contact_carrier_ids": [
+          "CAST-027",
+          "CAST-028",
+          "CAST-034"
+        ],
+        "activation_gate": "Occorre accertare la filiera pertinente: non si dichiara retroattivamente che ogni lotto difettoso sia stato comprato dai Valcienne.",
+        "without_meeting": "Tecnici e imprese proseguono verifiche e contestazioni; una sostituzione riuscita elimina il guasto reale senza imporre una crisi residua.",
+        "calendar_references": [
+          {
+            "id": "CLK-17",
+            "date": "812-06-08",
+            "event": "Elren Voss Oracle IV e Dama Rinn confrontano campioni per IND-01",
+            "is_player_appointment": false
+          },
+          {
+            "id": "CLK-23",
+            "date": "812-06-08",
+            "event": "Coordina una prova di pompe e l’acquisto di ricambi",
+            "is_player_appointment": false
+          }
+        ],
+        "front_calendar_references": [
+          "OPCLK-01",
+          "OPCLK-07",
+          "OPCLK-11"
+        ],
+        "front_ids": [
+          "FRONT-01",
+          "FRONT-07",
+          "FRONT-11"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_196_Archi_01_10.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-07",
+      "volume": 2,
+      "title": "A Patient Is Not a Model",
+      "chapter_budget": 40,
+      "theatre": "Namar",
+      "cast_ids": [
+        "CAST-008",
+        "CAST-023",
+        "CAST-029",
+        "CAST-075",
+        "CAST-076",
+        "CAST-478",
+        "CAST-479",
+        "CAST-286",
+        "CAST-289",
+        "CAST-290",
+        "CAST-492",
+        "CAST-493",
+        "CAST-416",
+        "CAST-418",
+        "CAST-420",
+        "CAST-494",
+        "CAST-495",
+        "CAST-208",
+        "CAST-211",
+        "CAST-220"
+      ],
+      "sources": "U11-04; EVD-10/12; ART-005/006",
+      "stable_truth": "Un brace valido per un’anatomia non è universale; Oriel esercita Heart senza essere Edran.",
+      "independent_initiative": "Clinici rinviano la prova incompatibile e organizzano assistenza alternativa.",
+      "hooks": [
+        "Richiesta di diagnosi distinta dalla fede",
+        "componente789 con serie di manutenzione."
+      ],
+      "choice": "Curare, adattare, creare un supporto indipendente o restituire la decisione al paziente.",
+      "evolution": "La cura può riuscire subito. Il nuovo servizio richiede volontà e mezzi; il paziente non acquista un debito spirituale automatico.",
+      "scene": "Il paziente chiede cosa accadrà dopo la separazione dal supporto.",
+      "complication": "L’istituzione sa misurare una cura senza sapere chi sia il visitatore.",
+      "mysteries": [
+        "M06"
+      ],
+      "activation": "Attivo",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟡–🟠",
+      "operational_fronts": [
+        "FRONT-03",
+        "FRONT-10",
+        "FRONT-11"
+      ],
+      "antagonist_ids": [
+        "CAST-478",
+        "CAST-479",
+        "CAST-492",
+        "CAST-493"
+      ],
+      "allied_bearer_ids": [
+        "CAST-290",
+        "CAST-420",
+        "CAST-494"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-07",
+        "title": "A Patient Is Not a Model",
+        "volume": 2,
+        "axis": "MONDO_CON_INTERSEZIONE",
+        "alexander_entry": "Può visitare un servizio clinico, seguire una testimonianza o scegliere un intervento di Heart; non è già convocato come guaritore noto.",
+        "elias_entry": "Può contribuire mediante un incarico, una misura o un contatto clinico effettivo, entro le proprie capacità.",
+        "contact_carrier_ids": [
+          "CAST-023",
+          "CAST-029",
+          "CAST-075"
+        ],
+        "activation_gate": "Chi richiede un miracolo deve averne una prova o aver ricevuto un’offerta. Una richiesta ordinaria può invece limitarsi a risorse, trasporto o confronto di dati.",
+        "without_meeting": "I clinici rinviano la procedura incompatibile e cercano alternative; il paziente non muore per punire l’assenza del PG.",
+        "calendar_references": [
+          {
+            "id": "CLK-02",
+            "date": "812-05-22",
+            "event": "Prova clinica con anatomia da verificare.",
+            "is_player_appointment": false
+          },
+          {
+            "id": "CLK-24",
+            "date": "812-06-04",
+            "event": "Organizza la raccolta di proposte dopo il test di Namar",
+            "is_player_appointment": false
+          }
+        ],
+        "front_calendar_references": [
+          "OPCLK-03",
+          "OPCLK-10",
+          "OPCLK-11"
+        ],
+        "front_ids": [
+          "FRONT-03",
+          "FRONT-10",
+          "FRONT-11"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_196_Archi_01_10.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-08",
+      "volume": 2,
+      "title": "Copies That Cost",
+      "chapter_budget": 40,
+      "theatre": "Teshen–Veldane",
+      "cast_ids": [
+        "CAST-006",
+        "CAST-018",
+        "CAST-032",
+        "CAST-474",
+        "CAST-475",
+        "CAST-193",
+        "CAST-194",
+        "CAST-200",
+        "CAST-480",
+        "CAST-481",
+        "CAST-341",
+        "CAST-343",
+        "CAST-345",
+        "CAST-496",
+        "CAST-497",
+        "CAST-261",
+        "CAST-262",
+        "CAST-265"
+      ],
+      "sources": "FAC-01/05; U11-05; EVD-16",
+      "stable_truth": "Una registrazione autentica non contiene tutto il contesto; il suo proprietario non possiede chi vi appare.",
+      "independent_initiative": "Le Witness Houses preparano la licenza del20 giugno; le Concordanze discutono trasferimenti.",
+      "hooks": [
+        "Prova registrata con copertura limitata",
+        "copia di concessione la cui sintesi estende un diritto."
+      ],
+      "choice": "Pubblicare, compartimentare, ricostruire contesto o contestare l’uso.",
+      "evolution": "Una prova sufficiente chiude una contestazione senza obbligare a recuperare tre copie. Senza PG le licenze escono con riserve note.",
+      "scene": "Una pagina integra viene letta accanto al suo riassunto commerciale.",
+      "complication": "La copia è genuina; il titolo suggerisce una conclusione che essa non prova.",
+      "mysteries": [
+        "M07"
+      ],
+      "activation": "Attivo",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟡–🟠",
+      "operational_fronts": [
+        "FRONT-01",
+        "FRONT-04",
+        "FRONT-12"
+      ],
+      "antagonist_ids": [
+        "CAST-474",
+        "CAST-475",
+        "CAST-480",
+        "CAST-481"
+      ],
+      "allied_bearer_ids": [
+        "CAST-194",
+        "CAST-341",
+        "CAST-496"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-08",
+        "title": "Copies That Cost",
+        "volume": 2,
+        "axis": "PARALLELE_CON_INTERSEZIONE",
+        "alexander_entry": "Una registrazione può interessare il suo patrimonio, le proprie indagini o una testimonianza che abbia scelto di seguire.",
+        "elias_entry": "Livia può proporre un confronto attraverso la rete già esistente, conservando limiti di pubblicazione e proprietà della copia.",
+        "contact_carrier_ids": [
+          "CAST-032",
+          "CAST-006",
+          "CAST-018"
+        ],
+        "activation_gate": "Servono una copia autentica, un mittente e il consenso o il diritto reale alla trasmissione. Una sintesi commerciale non trasferisce tutta la registrazione.",
+        "without_meeting": "Le licenze e i dissensi procedono fra i loro titolari; non è obbligatorio far incontrare i protagonisti per rendere valida una prova.",
+        "calendar_references": [
+          {
+            "id": "CLK-06",
+            "date": "812-05-26",
+            "event": "Confronto editoriale della registrazione.",
+            "is_player_appointment": false
+          },
+          {
+            "id": "CLK-18",
+            "date": "812-06-20",
+            "event": "Tratta il rilascio di un metodo da brevetto a licenza di studio",
+            "is_player_appointment": false
+          }
+        ],
+        "front_calendar_references": [
+          "OPCLK-01",
+          "OPCLK-04",
+          "OPCLK-12"
+        ],
+        "front_ids": [
+          "FRONT-01",
+          "FRONT-04",
+          "FRONT-12"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_196_Archi_01_10.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-09",
+      "volume": 2,
+      "title": "Two Kinds of Night",
+      "chapter_budget": 40,
+      "theatre": "Noran–Tevren",
+      "cast_ids": [
+        "CAST-462",
+        "CAST-463",
+        "CAST-484",
+        "CAST-485",
+        "CAST-321",
+        "CAST-323",
+        "CAST-325",
+        "CAST-488",
+        "CAST-489",
+        "CAST-421",
+        "CAST-423",
+        "CAST-425"
+      ],
+      "sources": "172; FAC-13/14; U11-09/10",
+      "stable_truth": "Eclipse e Crescent hanno servizi, culti e titolari distinti; nessuno dei due è un Nocturne completo.",
+      "independent_initiative": "Le istituzioni preparano la revisione dei circuiti del30 giugno con copie e allarmi separati.",
+      "hooks": [
+        "Richiesta di verifica di una clausura",
+        "confronto di una lamina riflettente e del relativo contratto."
+      ],
+      "choice": "Separare soccorso e chiusura, rinegoziare il carico oppure ritirarsi.",
+      "evolution": "Interventi locali non abbattono automaticamente una divinità. Una diagnosi può proteggere persone e rendere il circuito meno dipendente.",
+      "scene": "Una porta ordinaria resta aperta mentre il canale di allarme non distingue una derivazione.",
+      "complication": "La superficie nuova riproduce l’aspetto senza conservare l’investimento.",
+      "mysteries": [
+        "M08"
+      ],
+      "activation": "Attivo",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟡–🟠",
+      "operational_fronts": [
+        "FRONT-06",
+        "FRONT-08"
+      ],
+      "antagonist_ids": [
+        "CAST-484",
+        "CAST-485",
+        "CAST-488",
+        "CAST-489"
+      ],
+      "allied_bearer_ids": [
+        "CAST-321",
+        "CAST-421"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-09",
+        "title": "Two Kinds of Night",
+        "volume": 2,
+        "axis": "MONDO_PARALLELO",
+        "alexander_entry": "Può raggiungere la questione attraverso un servizio notturno, una clausura o un’indagine scelta.",
+        "elias_entry": "Può incontrare una richiesta di verifica o di scambio solo tramite persone e recapiti effettivi.",
+        "contact_carrier_ids": [
+          "CAST-462",
+          "CAST-463"
+        ],
+        "activation_gate": "Il primo contatto può essere un ufficio o un addetto, non necessariamente la divinità in persona. Le informazioni tecniche pubbliche non rivelano gli accessi segreti della Root.",
+        "without_meeting": "Le reti revisionano i circuiti con mezzi propri. La loro crisi non viene spostata a Rovenne soltanto per coinvolgere Alexander.",
+        "calendar_references": [
+          {
+            "id": "CLK-04",
+            "date": "812-05-23",
+            "event": "Prove locali dei circuiti e delle superfici.",
+            "is_player_appointment": false
+          },
+          {
+            "id": "CLK-26",
+            "date": "812-06-30",
+            "event": "Astrid confronta il mandato di clausura con Ophie; un tecnico prepara una prova della linea di allarme separata.",
+            "is_player_appointment": false
+          },
+          {
+            "id": "CLK-27",
+            "date": "812-06-30",
+            "event": "Teva richiede corroborazione della copia incompleta; Sela porta la versione usata dalla sede periferica.",
+            "is_player_appointment": false
+          }
+        ],
+        "front_calendar_references": [
+          "OPCLK-06",
+          "OPCLK-08"
+        ],
+        "front_ids": [
+          "FRONT-06",
+          "FRONT-08"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_196_Archi_01_10.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-10",
+      "volume": 2,
+      "title": "The Copper Settlement",
+      "chapter_budget": 40,
+      "theatre": "rete Orsanne–Reth–Neressa",
+      "cast_ids": [
+        "CAST-004",
+        "CAST-016",
+        "CAST-482",
+        "CAST-483",
+        "CAST-336",
+        "CAST-338",
+        "CAST-340",
+        "CAST-486",
+        "CAST-487",
+        "CAST-241",
+        "CAST-243",
+        "CAST-245",
+        "CAST-494",
+        "CAST-495",
+        "CAST-208",
+        "CAST-211",
+        "CAST-220"
+      ],
+      "sources": "IND-02; FAC-09",
+      "stable_truth": "La clausola789 deriva da un mandato valido contestabile; non è una Chain universale.",
+      "independent_initiative": "Le parti preparano il rinnovo del2 luglio e cercano forniture alternative.",
+      "hooks": [
+        "Costo aggiuntivo del progetto",
+        "mandato con aderenti non informati."
+      ],
+      "choice": "Rinegoziare, produrre un’alternativa reale, pagare o denunciare l’estensione.",
+      "evolution": "Creazione e conversione possono abbattere una rendita materiale: registrare chi perde credito e chi guadagna accesso. Non far ricomparire il monopolio per necessità narrativa.",
+      "scene": "Una provincia e un porto hanno entrambi una ragione per temere il blocco.",
+      "complication": "Annullare una clausola toglie anche una garanzia utile a terzi.",
+      "mysteries": [
+        "M04"
+      ],
+      "activation": "Attivo",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟡–🟠",
+      "operational_fronts": [
+        "FRONT-05",
+        "FRONT-07",
+        "FRONT-11"
+      ],
+      "antagonist_ids": [
+        "CAST-482",
+        "CAST-483",
+        "CAST-486",
+        "CAST-487"
+      ],
+      "allied_bearer_ids": [
+        "CAST-336",
+        "CAST-241",
+        "CAST-494"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-10",
+        "title": "The Copper Settlement",
+        "volume": 2,
+        "axis": "PARALLELE_CON_INTERSEZIONE",
+        "alexander_entry": "Costi e garanzie possono raggiungerlo attraverso Yselle, se toccano rapporti realmente assunti o negoziati.",
+        "elias_entry": "Può incontrare le ricadute sul lavoro o sui materiali del laboratorio senza essere obbligato a rappresentare il duca.",
+        "contact_carrier_ids": [
+          "CAST-004",
+          "CAST-016"
+        ],
+        "activation_gate": "Verificare quali parti del progetto dipendano davvero dall’accordo. Un rinnovo estero non diventa automaticamente un debito personale del PG.",
+        "without_meeting": "Le parti cercano forniture e accordi alternativi; una decisione di Alexander modifica soltanto i rapporti che raggiunge realmente.",
+        "calendar_references": [
+          {
+            "id": "CLK-22",
+            "date": "812-07-02",
+            "event": "Confronta costi delle rotte e clausole di rame per IND-02",
+            "is_player_appointment": false
+          }
+        ],
+        "front_calendar_references": [
+          "OPCLK-05",
+          "OPCLK-07",
+          "OPCLK-11"
+        ],
+        "front_ids": [
+          "FRONT-05",
+          "FRONT-07",
+          "FRONT-11"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_196_Archi_01_10.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-11",
+      "volume": 3,
+      "title": "The Workshop Behind the Mark",
+      "chapter_budget": 38,
+      "theatre": "Grey Embankment–gallerie di Kharven",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-030",
+        "CAST-476",
+        "CAST-477",
+        "CAST-246",
+        "CAST-248",
+        "CAST-250",
+        "CAST-486",
+        "CAST-487",
+        "CAST-241",
+        "CAST-243",
+        "CAST-245",
+        "CAST-496",
+        "CAST-497",
+        "CAST-261",
+        "CAST-262",
+        "CAST-265"
+      ],
+      "sources": "EVD-01/02; ART-025; U11-07",
+      "stable_truth": "I marchi antichi comprendevano investimenti reali; un blocco con traccia non rende investito ogni vicino.",
+      "independent_initiative": "Custodi confrontano reperti e concessionari cercano classificazioni che consentano lavori.",
+      "hooks": [
+        "Due pietre autentiche con funzioni diverse",
+        "matrice che distingue amministrazione e costrizione."
+      ],
+      "choice": "Mettere in sicurezza, rimuovere, studiare o lasciare la custodia.",
+      "evolution": "Ruin può eliminare un rapporto raggiunto senza dover distruggere l’intera galleria; conservare prove resta una scelta. Senza PG i lavori dipendono dalle perizie.",
+      "scene": "Un operaio indica il blocco sbagliato seguendo una targhetta corretta per l’altro lotto.",
+      "complication": "Distruggere il reperto può chiudere il rischio e perdere un canale di prova.",
+      "mysteries": [
+        "M09"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-02",
+        "FRONT-07",
+        "FRONT-12"
+      ],
+      "antagonist_ids": [
+        "CAST-476",
+        "CAST-477",
+        "CAST-486",
+        "CAST-487"
+      ],
+      "allied_bearer_ids": [
+        "CAST-246",
+        "CAST-241",
+        "CAST-496"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-11",
+        "title": "The Workshop Behind the Mark",
+        "volume": 3,
+        "axis": "ALEXANDER",
+        "alexander_entry": "Ricordi di Kharven e reperti autentici possono motivare un’indagine personale.",
+        "elias_entry": "Un’eventuale richiesta di rilievo può offrire un ruolo autonomo a Elias; non è necessaria alla memoria di Edran.",
+        "contact_carrier_ids": [
+          "CAST-030"
+        ],
+        "activation_gate": "Occorrono ubicazione moderna verificata, accesso e campione autentico. Il ricordo del luogo antico non identifica ogni galleria odierna.",
+        "without_meeting": "Custodi e concessionari continuano il confronto; Alexander può risolvere o abbandonare l’indagine senza attendere Elias.",
+        "calendar_references": [
+          {
+            "id": "CLK-09",
+            "date": "812-05-29",
+            "event": "Confronto delle due pietre.",
+            "is_player_appointment": false
+          }
+        ],
+        "front_calendar_references": [
+          "OPCLK-02",
+          "OPCLK-07",
+          "OPCLK-12"
+        ],
+        "front_ids": [
+          "FRONT-02",
+          "FRONT-07",
+          "FRONT-12"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_197_Archi_11_20.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-12",
+      "volume": 3,
+      "title": "The Living Orchard",
+      "chapter_budget": 38,
+      "theatre": "Qadra–Elven",
+      "cast_ids": [
+        "CAST-013",
+        "CAST-077",
+        "CAST-478",
+        "CAST-479",
+        "CAST-286",
+        "CAST-289",
+        "CAST-290",
+        "CAST-492",
+        "CAST-493",
+        "CAST-416",
+        "CAST-418",
+        "CAST-420"
+      ],
+      "sources": "MAT-012; ART-015; EVD-05",
+      "stable_truth": "Una coltura moderna non è automaticamente il lotto antico di Othrem.",
+      "independent_initiative": "Coltivatori negoziano varietà e scorte; tecnici confrontano una derivazione effettiva se viene raggiunta.",
+      "hooks": [
+        "Scelta di tratto già presente",
+        "campione antico con rapporto non previsto dal progetto approvato."
+      ],
+      "choice": "Separare miglioramento agricolo e controllo della derivazione; offrire altri mezzi o indagare l’ordine.",
+      "evolution": "La somiglianza non prova colpa; una diagnosi esatta del lotto può aprire la responsabilità antica. Senza PG prosegue la selezione limitata, non una peste mondiale.",
+      "scene": "Due piante benefiche richiedono manutenzioni diverse.",
+      "complication": "La fonte del beneficio e il titolare del campo non coincidono.",
+      "mysteries": [
+        "M10"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-03",
+        "FRONT-10"
+      ],
+      "antagonist_ids": [
+        "CAST-478",
+        "CAST-479",
+        "CAST-492",
+        "CAST-493"
+      ],
+      "allied_bearer_ids": [
+        "CAST-290",
+        "CAST-420"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-12",
+        "title": "The Living Orchard",
+        "volume": 3,
+        "axis": "MONDO_CON_INTERSEZIONE",
+        "alexander_entry": "Una derivazione incontrata può risultare tecnicamente riconoscibile e collegarsi alle indagini già scelte.",
+        "elias_entry": "Può partecipare a una verifica dei supporti o ricevere un risultato tramite un contatto realmente stabilito.",
+        "contact_carrier_ids": [
+          "CAST-013",
+          "CAST-077"
+        ],
+        "activation_gate": "Serve accesso alla coltura o al campione pertinente; un nome letto altrove non concede diagnosi o presenza sul posto.",
+        "without_meeting": "Coltivatori e tecnici negoziano scorte e varietà anche senza i protagonisti; nessun nuovo colpevole viene aggiunto dopo una diagnosi riuscita.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-03",
+          "OPCLK-10"
+        ],
+        "front_ids": [
+          "FRONT-03",
+          "FRONT-10"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_197_Archi_11_20.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-13",
+      "volume": 3,
+      "title": "The Friend Who Changed",
+      "chapter_budget": 38,
+      "theatre": "rete Ysra–Velis",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-023",
+        "CAST-039",
+        "CAST-478",
+        "CAST-479",
+        "CAST-286",
+        "CAST-289",
+        "CAST-290"
+      ],
+      "sources": "98; EVD-17",
+      "stable_truth": "Ysra ed Erath hanno continuità e obblighi propri; non sono subordinati automaticamente riattivati dal ritorno.",
+      "independent_initiative": "Mantengono reti cliniche e separazioni già in corso; valutano nuovi contatti solo con autenticazione reale.",
+      "hooks": [
+        "Serie firmata riconoscibile",
+        "intervento richiesto su una separazione attuale."
+      ],
+      "choice": "Rivelare identità, mantenere pseudonimo, chiedere aiuto o offrire uno scambio.",
+      "evolution": "Il riconoscimento può avvenire presto, ma non decide consenso o servizio. Senza PG le persone continuano i propri compiti.",
+      "scene": "Una vecchia firma è autentica, il modo di usarla oggi è diverso.",
+      "complication": "Una derivazione ceduta non localizza il corpo del titolare.",
+      "mysteries": [
+        "M11"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-03"
+      ],
+      "antagonist_ids": [
+        "CAST-478",
+        "CAST-479"
+      ],
+      "allied_bearer_ids": [
+        "CAST-290"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-13",
+        "title": "The Friend Who Changed",
+        "volume": 3,
+        "axis": "ALEXANDER",
+        "alexander_entry": "Una firma, una pratica o un incontro verificato possono collegarsi a rapporti della prima vita.",
+        "elias_entry": "Può contribuire a un servizio o a una trasmissione se già coinvolto; non diventa interprete obbligatorio del passato di Edran.",
+        "contact_carrier_ids": [
+          "CAST-023",
+          "CAST-039"
+        ],
+        "activation_gate": "Una persona antica deve ricevere prove pertinenti prima di riconoscere Edran nel volto di Alexander. La sua presenza non viene annunciata tramite un segnale cosmico automatico.",
+        "without_meeting": "Le reti cliniche proseguono il proprio lavoro. Il rapporto antico può essere affrontato direttamente dal PG senza un incontro parallelo con Elias.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-03"
+        ],
+        "front_ids": [
+          "FRONT-03"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_197_Archi_11_20.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-14",
+      "volume": 3,
+      "title": "A Person Made Here",
+      "chapter_budget": 38,
+      "theatre": "Namar–Corten",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-008",
+        "CAST-035",
+        "CAST-484",
+        "CAST-485",
+        "CAST-321",
+        "CAST-323",
+        "CAST-325",
+        "CAST-488",
+        "CAST-489",
+        "CAST-421",
+        "CAST-423",
+        "CAST-425",
+        "CAST-492",
+        "CAST-493",
+        "CAST-416",
+        "CAST-418",
+        "CAST-420"
+      ],
+      "sources": "CRE-010/019; U11-11; 70",
+      "stable_truth": "Una persona creata indipendente non è avatar; una continuità custodita non è un dispositivo privo di volontà.",
+      "independent_initiative": "Clinici e garanti discutono disposizioni e rapporti di lavoro già attivi.",
+      "hooks": [
+        "Richiesta di dichiarare custodia e consenso",
+        "domanda di un’esistenza separata dal servizio."
+      ],
+      "choice": "Creare, separare, rifiutare una prestazione oppure riconoscere diritti senza adottare la persona.",
+      "evolution": "Un miracolo riuscito può rendere superfluo un laboratorio, ma non decide il futuro del nuovo individuo. Senza PG proseguono negoziati e custodie documentati.",
+      "scene": "Il beneficiario corregge chi lo chiama proprietà del laboratorio.",
+      "complication": "Memorie parziali non sono prova di inesistenza personale.",
+      "mysteries": [
+        "M12"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-06",
+        "FRONT-08",
+        "FRONT-10"
+      ],
+      "antagonist_ids": [
+        "CAST-484",
+        "CAST-485",
+        "CAST-488",
+        "CAST-489",
+        "CAST-492",
+        "CAST-493"
+      ],
+      "allied_bearer_ids": [
+        "CAST-321",
+        "CAST-421",
+        "CAST-420"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-14",
+        "title": "A Person Made Here",
+        "volume": 3,
+        "axis": "ALEXANDER_O_MONDO",
+        "alexander_entry": "Può essere coinvolto da una creazione propria realmente avvenuta oppure dalla condizione di una persona incontrata; i due casi restano distinti.",
+        "elias_entry": "Può interrogarsi su servizio, custodia e autonomia attraverso lo scambio o un caso effettivamente raggiunto.",
+        "contact_carrier_ids": [
+          "CAST-008",
+          "CAST-035"
+        ],
+        "activation_gate": "Non si inventa una persona creata da Alexander fuori gioco. Servono un caso già esistente o una sua creazione deliberata registrata.",
+        "without_meeting": "Le persone coinvolte difendono le proprie scelte e i garanti trattano i rapporti esistenti; l’arco può essere omesso se nessun caso è raggiunto.",
+        "calendar_references": [
+          {
+            "id": "CLK-08",
+            "date": "812-05-28",
+            "event": "Prestazioni e custodie distinguono consenso e sostegno.",
+            "is_player_appointment": false
+          }
+        ],
+        "front_calendar_references": [
+          "OPCLK-06",
+          "OPCLK-08",
+          "OPCLK-10"
+        ],
+        "front_ids": [
+          "FRONT-06",
+          "FRONT-08",
+          "FRONT-10"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_197_Archi_11_20.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-15",
+      "volume": 3,
+      "title": "An Exit Kept Open",
+      "chapter_budget": 38,
+      "theatre": "Rethar Basin–rete di Helyr",
+      "cast_ids": [
+        "CAST-002",
+        "CAST-011",
+        "CAST-024",
+        "CAST-476",
+        "CAST-477",
+        "CAST-246",
+        "CAST-248",
+        "CAST-250",
+        "CAST-482",
+        "CAST-483",
+        "CAST-336",
+        "CAST-338",
+        "CAST-340",
+        "CAST-490",
+        "CAST-491",
+        "CAST-386",
+        "CAST-388",
+        "CAST-390"
+      ],
+      "sources": "EVD-07; 98; 153",
+      "stable_truth": "Sereth chiuse un corridoio reale e non tentò la deviazione; non possiede tutti i varchi.",
+      "independent_initiative": "Manutentori custodiscono l’accesso ridotto; Elias cerca preparazioni adeguate ai propri mezzi.",
+      "hooks": [
+        "Registro di cessazione",
+        "richiesta di verifica di un itinerario con uscita alternativa."
+      ],
+      "choice": "Studiare, negoziare, percorrere un’altra via o confrontare Sereth.",
+      "evolution": "Un accesso migliore può invalidare un collo di bottiglia. Il rischio storico non dimostra che tutte le alternative fossero sicure. Senza PG l’accesso ridotto resta in manutenzione.",
+      "scene": "Una mappa mostra un varco e una chiusura, non la totalità dello spazio.",
+      "complication": "Helyr non diventa mentore obbligato perché Elias desidera progredire.",
+      "mysteries": [
+        "M13"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-02",
+        "FRONT-05",
+        "FRONT-09"
+      ],
+      "antagonist_ids": [
+        "CAST-476",
+        "CAST-477",
+        "CAST-482",
+        "CAST-483",
+        "CAST-490",
+        "CAST-491"
+      ],
+      "allied_bearer_ids": [
+        "CAST-246",
+        "CAST-336",
+        "CAST-386"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-15",
+        "title": "An Exit Kept Open",
+        "volume": 3,
+        "axis": "ELIAS_CON_INTERSEZIONE",
+        "alexander_entry": "Può cercare un itinerario o una testimonianza legata ai rapporti antichi se ha ottenuto un accesso pertinente.",
+        "elias_entry": "Il lavoro su riferimenti e passaggi può motivarlo a cercare manutenzione o preparazione adeguata.",
+        "contact_carrier_ids": [
+          "CAST-011",
+          "CAST-024"
+        ],
+        "activation_gate": "Itinerario, permessi, mezzo e capacità devono esistere. Helyr non viene informato automaticamente dall’uso della cerniera e non riconosce il ritorno a distanza.",
+        "without_meeting": "Manutentori e custodi mantengono l’accesso ridotto; nessuno dei due protagonisti è obbligato a viaggiare con l’altro.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-02",
+          "OPCLK-05",
+          "OPCLK-09"
+        ],
+        "front_ids": [
+          "FRONT-02",
+          "FRONT-05",
+          "FRONT-09"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_197_Archi_11_20.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-16",
+      "volume": 4,
+      "title": "The Approved Departure",
+      "chapter_budget": 42,
+      "theatre": "repertori Witness–Medicine House",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-018",
+        "CAST-025",
+        "CAST-480",
+        "CAST-481",
+        "CAST-341",
+        "CAST-343",
+        "CAST-345",
+        "CAST-488",
+        "CAST-489",
+        "CAST-421",
+        "CAST-423",
+        "CAST-425",
+        "CAST-496",
+        "CAST-497",
+        "CAST-261",
+        "CAST-262",
+        "CAST-265"
+      ],
+      "sources": "EVD-04/08; 97",
+      "stable_truth": "Il progetto approvato prevedeva separazione e uscita; le verifiche non coprivano tutti i lotti effettivi.",
+      "independent_initiative": "Custodi conservano copie e discutono accessi; Sael critica la sufficienza delle attestazioni.",
+      "hooks": [
+        "Versione con allegati mancanti",
+        "protesta medica datata."
+      ],
+      "choice": "Accertare copertura, confrontare memorie, divulgare o contenere la prova.",
+      "evolution": "Ottenere la matrice può risolvere il dubbio in un incontro. Il conflitto successivo riguarda responsabilità e reti presenti. Senza PG gli archivi non inventano una nuova verità.",
+      "scene": "Due esperti certificano lo stesso foglio e divergono su ciò che copre.",
+      "complication": "Talren non può osservare retroattivamente ciò che non registrò.",
+      "mysteries": [
+        "M10"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-04",
+        "FRONT-08",
+        "FRONT-12"
+      ],
+      "antagonist_ids": [
+        "CAST-480",
+        "CAST-481",
+        "CAST-488",
+        "CAST-489"
+      ],
+      "allied_bearer_ids": [
+        "CAST-341",
+        "CAST-421",
+        "CAST-496"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-16",
+        "title": "The Approved Departure",
+        "volume": 4,
+        "axis": "ALEXANDER",
+        "alexander_entry": "Le versioni del progetto finale sono un accesso pertinente alle proprie domande sul passato.",
+        "elias_entry": "Può assistere a un confronto solo se riceve documenti o incarichi reali; non ha già il sapere autobiografico di Edran.",
+        "contact_carrier_ids": [
+          "CAST-018",
+          "CAST-025"
+        ],
+        "activation_gate": "Attestazione, copia e allegati si trasmettono secondo la loro custodia effettiva. Una prova sufficiente può anticipare la scoperta senza completare altri archi.",
+        "without_meeting": "Custodi e critici conservano e discutono le versioni disponibili; Elias non sostituisce le capacità diagnostiche del PG.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-04",
+          "OPCLK-08",
+          "OPCLK-12"
+        ],
+        "front_ids": [
+          "FRONT-04",
+          "FRONT-08",
+          "FRONT-12"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_197_Archi_11_20.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-17",
+      "volume": 4,
+      "title": "Three Renewals",
+      "chapter_budget": 42,
+      "theatre": "giurisdizioni di Ilyra",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-014",
+        "CAST-015",
+        "CAST-476",
+        "CAST-477",
+        "CAST-246",
+        "CAST-248",
+        "CAST-250",
+        "CAST-480",
+        "CAST-481",
+        "CAST-341",
+        "CAST-343",
+        "CAST-345",
+        "CAST-494",
+        "CAST-495",
+        "CAST-208",
+        "CAST-211",
+        "CAST-220"
+      ],
+      "sources": "EVD-06; 97",
+      "stable_truth": "Ilyra mantenne tre cicli di contenimento dopo l’interferenza; non progettò necessariamente la morte dall’inizio.",
+      "independent_initiative": "Giurisdizioni attuali mantengono servizi propri e rispondono a contestazioni effettivamente ricevute.",
+      "hooks": [
+        "Verbale di Neva",
+        "traccia dei comandi del nodo."
+      ],
+      "choice": "Contestare, negoziare cessazioni, vendicarsi o disinteressarsi della giurisdizione.",
+      "evolution": "La responsabilità accertata resta vera anche se Ilyra è sconfitta presto; le persone servite non sono distrutte per dare drammaticità. Senza PG non nasce una confessione collettiva.",
+      "scene": "Il tempo del rinnovo coincide con una protesta già registrata.",
+      "complication": "La copia civile e il nodo superiore richiedono autenticazioni differenti.",
+      "mysteries": [
+        "M10"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-02",
+        "FRONT-04",
+        "FRONT-11"
+      ],
+      "antagonist_ids": [
+        "CAST-476",
+        "CAST-477",
+        "CAST-480",
+        "CAST-481"
+      ],
+      "allied_bearer_ids": [
+        "CAST-246",
+        "CAST-341",
+        "CAST-494"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-17",
+        "title": "Three Renewals",
+        "volume": 4,
+        "axis": "ALEXANDER",
+        "alexander_entry": "Può raggiungere una responsabilità o un contenimento tramite prove effettivamente conseguite.",
+        "elias_entry": "Può essere interessato agli accessi e alle ricadute presenti se vi è collegato da un servizio o da una scelta propria.",
+        "contact_carrier_ids": [
+          "CAST-014",
+          "CAST-015"
+        ],
+        "activation_gate": "Conoscere una colpa non concede accesso al responsabile né la ricezione di ogni messaggio. Titolo ducale e forza soprannaturale hanno competenze diverse.",
+        "without_meeting": "Le giurisdizioni mantengono i servizi e reagiscono alle contestazioni ricevute; nessun processo si apre perché è arrivato il numero dell’arco.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-02",
+          "OPCLK-04",
+          "OPCLK-11"
+        ],
+        "front_ids": [
+          "FRONT-02",
+          "FRONT-04",
+          "FRONT-11"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_197_Archi_11_20.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-18",
+      "volume": 4,
+      "title": "The Undeclared Branch",
+      "chapter_budget": 42,
+      "theatre": "derivazioni di Elven",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-013",
+        "CAST-023",
+        "CAST-478",
+        "CAST-479",
+        "CAST-286",
+        "CAST-289",
+        "CAST-290",
+        "CAST-496",
+        "CAST-497",
+        "CAST-261",
+        "CAST-262",
+        "CAST-265"
+      ],
+      "sources": "EVD-05; 97",
+      "stable_truth": "Othrem introdusse la diramazione per controllare la reinizializzazione; non rubò una Seat estranea.",
+      "independent_initiative": "Sostegni ereditati continuano a essere mantenuti dove realmente operativi; le comunità valutano alternative raggiungibili.",
+      "hooks": [
+        "Lotto incompatibile con EVD-04",
+        "registro di sostituzione attribuibile."
+      ],
+      "choice": "Tagliare, sostituire, studiare o mantenere temporaneamente il sostegno con consenso.",
+      "evolution": "Cradle e Heart possono offrire alternative reali. Se la dipendenza viene rimossa, non viene ricreata da un dio segreto; Othrem perde quella presa.",
+      "scene": "Un circuito sostiene vita reale e conserva una modifica non dichiarata.",
+      "complication": "Separazione riuscita e attribuzione penale sono due risultati diversi.",
+      "mysteries": [
+        "M10"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-03",
+        "FRONT-12"
+      ],
+      "antagonist_ids": [
+        "CAST-478",
+        "CAST-479"
+      ],
+      "allied_bearer_ids": [
+        "CAST-290",
+        "CAST-496"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-18",
+        "title": "The Undeclared Branch",
+        "volume": 4,
+        "axis": "ALEXANDER",
+        "alexander_entry": "Una traccia della diramazione può essere riconosciuta attraverso il progetto ricordato e l’esame attuale.",
+        "elias_entry": "Può contribuire a una verifica o a una via alternativa soltanto con competenza e accesso realmente ottenuti.",
+        "contact_carrier_ids": [
+          "CAST-013",
+          "CAST-023"
+        ],
+        "activation_gate": "Servono un lotto o una derivazione raggiunti e una provenienza verificabile. La scoperta non richiede presenza simultanea dei due personaggi.",
+        "without_meeting": "Le comunità mantengono sostegni e valutano alternative; la separazione valida termina la dipendenza effettivamente rimossa.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-03",
+          "OPCLK-12"
+        ],
+        "front_ids": [
+          "FRONT-03",
+          "FRONT-12"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_197_Archi_11_20.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-19",
+      "volume": 4,
+      "title": "The Names on the Foundation",
+      "chapter_budget": 42,
+      "theatre": "Sponda–Namar–Veldane",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-006",
+        "CAST-007",
+        "CAST-008",
+        "CAST-072",
+        "CAST-480",
+        "CAST-481",
+        "CAST-341",
+        "CAST-343",
+        "CAST-345",
+        "CAST-488",
+        "CAST-489",
+        "CAST-421",
+        "CAST-423",
+        "CAST-425",
+        "CAST-496",
+        "CAST-497",
+        "CAST-261",
+        "CAST-262",
+        "CAST-265"
+      ],
+      "sources": "EVD-09/10/11/12; 97/99",
+      "stable_truth": "I Fondatori moderni sono attribuzioni composite; i servizi attuali hanno fonti autentiche.",
+      "independent_initiative": "Chiese e compagnie conservano riti, assistenza e interpretazioni differenti.",
+      "hooks": [
+        "Due edizioni del canto",
+        "componente con manutenzioni di epoche diverse."
+      ],
+      "choice": "Restituire il nome, correggere un uso, distinguere fonti oppure non cercare riconoscimento.",
+      "evolution": "La rivelazione può dividere un’istituzione senza renderne false le cure. Senza PG stampa e ricerca proseguono con interpretazioni limitate.",
+      "scene": "Un fedele accetta una correzione storica ma conserva la propria pratica.",
+      "complication": "Avere liberato il passato non compra obbedienza nel presente.",
+      "mysteries": [
+        "M05"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-04",
+        "FRONT-08",
+        "FRONT-12"
+      ],
+      "antagonist_ids": [
+        "CAST-480",
+        "CAST-481",
+        "CAST-488",
+        "CAST-489"
+      ],
+      "allied_bearer_ids": [
+        "CAST-341",
+        "CAST-421",
+        "CAST-496"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-19",
+        "title": "The Names on the Foundation",
+        "volume": 4,
+        "axis": "ALEXANDER_CON_INTERSEZIONE",
+        "alexander_entry": "Attribuzioni delle proprie opere e memorie pubbliche possono essere confrontate con ciò che ricorda.",
+        "elias_entry": "Può confrontare testimonianze e conseguenze contemporanee senza ricevere automaticamente l’identità segreta del PG.",
+        "contact_carrier_ids": [
+          "CAST-006",
+          "CAST-007",
+          "CAST-008",
+          "CAST-072"
+        ],
+        "activation_gate": "Una copia o un componente deve essere consegnato oppure visitato. La connessione fra Alexander ed Edran resta da comunicare o dimostrare ai singoli interlocutori.",
+        "without_meeting": "Riti e servizi continuano anche con attribuzioni contestate; non si elimina una prova genuina per prolungare la ricerca.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-04",
+          "OPCLK-08",
+          "OPCLK-12"
+        ],
+        "front_ids": [
+          "FRONT-04",
+          "FRONT-08",
+          "FRONT-12"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_197_Archi_11_20.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-20",
+      "volume": 4,
+      "title": "A Judgment Without a Throne",
+      "chapter_budget": 42,
+      "theatre": "teatro scelto dalle prove conseguite",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-013",
+        "CAST-014",
+        "CAST-018",
+        "CAST-024",
+        "CAST-480",
+        "CAST-481",
+        "CAST-341",
+        "CAST-343",
+        "CAST-345",
+        "CAST-488",
+        "CAST-489",
+        "CAST-421",
+        "CAST-423",
+        "CAST-425",
+        "CAST-496",
+        "CAST-497",
+        "CAST-261",
+        "CAST-262",
+        "CAST-265"
+      ],
+      "sources": "84; 97; EVD-04–08",
+      "stable_truth": "Le responsabilità sono differenti e non esiste un unico assassino sostitutivo.",
+      "independent_initiative": "Chi viene effettivamente raggiunto cerca accordi, difende fonti o prepara una contesa secondo obiettivi e informazioni reali.",
+      "hooks": [
+        "Una proposta di accesso limitato",
+        "una richiesta di restituzione di una derivazione."
+      ],
+      "choice": "Punire, rivelare, perdonare, trattare o separare il giudizio dall’uso di un servizio.",
+      "evolution": "Una vittoria può chiudere una parte della linea antica. Le conseguenze riguardano rapporti reali rimasti; niente nuovo traditore retroattivo.",
+      "scene": "Due responsabili attribuiscono correttamente fatti diversi e omettono il proprio costo imposto.",
+      "complication": "Rimuovere una persona non trasferisce automaticamente tutte le sue Seats.",
+      "mysteries": [
+        "M10"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-04",
+        "FRONT-08",
+        "FRONT-12"
+      ],
+      "antagonist_ids": [
+        "CAST-480",
+        "CAST-481",
+        "CAST-488",
+        "CAST-489"
+      ],
+      "allied_bearer_ids": [
+        "CAST-341",
+        "CAST-421",
+        "CAST-496"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-20",
+        "title": "A Judgment Without a Throne",
+        "volume": 4,
+        "axis": "ALEXANDER",
+        "alexander_entry": "Può scegliere come agire sulle responsabilità che ha effettivamente accertato, anche molto prima dell’ordine editoriale.",
+        "elias_entry": "Può offrire un punto di vista o rifiutare un aiuto se esiste un rapporto reale e se conosce i fatti pertinenti.",
+        "contact_carrier_ids": [
+          "CAST-013",
+          "CAST-014",
+          "CAST-018",
+          "CAST-024"
+        ],
+        "activation_gate": "La contesa richiede attori raggiungibili e prove disponibili; nessuna assoluzione, vendetta o collaborazione viene assegnata al PG.",
+        "without_meeting": "Gli interlocutori raggiunti difendono i propri interessi; un accordo o una vittoria anticipata modifica o chiude gli archi dipendenti.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-04",
+          "OPCLK-08",
+          "OPCLK-12"
+        ],
+        "front_ids": [
+          "FRONT-04",
+          "FRONT-08",
+          "FRONT-12"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_197_Archi_11_20.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-21",
+      "volume": 5,
+      "title": "The Borrowed Sleeper",
+      "chapter_budget": 40,
+      "theatre": "Corten–presidi della Reverie",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-012",
+        "CAST-026",
+        "CAST-042",
+        "CAST-484",
+        "CAST-485",
+        "CAST-321",
+        "CAST-323",
+        "CAST-325",
+        "CAST-492",
+        "CAST-493",
+        "CAST-416",
+        "CAST-418",
+        "CAST-420"
+      ],
+      "sources": "CRE-019; EVD-17; 98",
+      "stable_truth": "Rhael è una presenza autentica dormiente custodita; Denor ha rinunciato alla VII. Non confondere i casi.",
+      "independent_initiative": "Custodi mantengono sostegni e vagliano richieste di contatto; il caso clinico locale resta distinto dal caso antico.",
+      "hooks": [
+        "Inventario della custodia di Rhael",
+        "richiesta di distinguere una memoria registrata da una risposta presente."
+      ],
+      "choice": "Contattare, sostenere, negoziare uscita o lasciare la custodia.",
+      "evolution": "Una liberazione può riuscire e produrre una persona non devota al liberatore. Senza PG la custodia continua; non è un rapimento del PG per copione.",
+      "scene": "Una domanda nuova produce una risposta che il repertorio non conteneva.",
+      "complication": "Un corpo offerto può essere rifiutato.",
+      "mysteries": [
+        "M11",
+        "M12"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-06",
+        "FRONT-10"
+      ],
+      "antagonist_ids": [
+        "CAST-484",
+        "CAST-485",
+        "CAST-492",
+        "CAST-493"
+      ],
+      "allied_bearer_ids": [
+        "CAST-321",
+        "CAST-420"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-21",
+        "title": "The Borrowed Sleeper",
+        "volume": 5,
+        "axis": "ALEXANDER",
+        "alexander_entry": "Un rapporto antico può motivare una verifica di custodia e continuità quando ne raggiunge tracce autentiche.",
+        "elias_entry": "Può incontrare un caso attuale della stessa famiglia di problemi, senza coincidere con la vicenda antica.",
+        "contact_carrier_ids": [
+          "CAST-012",
+          "CAST-026",
+          "CAST-042"
+        ],
+        "activation_gate": "Inventario custodiale e presenza autentica richiedono permessi e collegamenti reali. Il ricordo del vecchio amico non permette una convocazione a distanza.",
+        "without_meeting": "Custodi mantengono i sostegni; casi clinici presenti e continuità antiche restano distinti anche se i protagonisti non si incontrano.",
+        "calendar_references": [
+          {
+            "id": "CLK-08",
+            "date": "812-05-28",
+            "event": "Prestazioni e custodie distinguono consenso e sostegno.",
+            "is_player_appointment": false
+          }
+        ],
+        "front_calendar_references": [
+          "OPCLK-06",
+          "OPCLK-10"
+        ],
+        "front_ids": [
+          "FRONT-06",
+          "FRONT-10"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_198_Archi_21_30.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-22",
+      "volume": 5,
+      "title": "The Guests of the Same Host",
+      "chapter_budget": 40,
+      "theatre": "interfacce raggiunte nel Common Reverie",
+      "cast_ids": [
+        "CAST-010",
+        "CAST-035",
+        "CAST-083",
+        "CAST-484",
+        "CAST-485",
+        "CAST-321",
+        "CAST-323",
+        "CAST-325"
+      ],
+      "sources": "OUT-04; Mask; Labyrinth",
+      "stable_truth": "Due volti di Eshra appartengono allo stesso centro; non si assegna retroattivamente quel centro a un membro del club.",
+      "independent_initiative": "Eshra ripara un’interfaccia e cerca interlocutori tramite collegamenti reali.",
+      "hooks": [
+        "Due inviti con dettaglio investito identico",
+        "verifica dell’uscita con limite non dichiarato."
+      ],
+      "choice": "Accettare scambio, autenticare, isolare l’interfaccia o rifiutare.",
+      "evolution": "Un rifiuto riduce gli ingressi disponibili. Scoprire il centro non significa conoscere tutti i suoi ospiti. Senza PG la riparazione procede con altri contatti.",
+      "scene": "Un incontro utile contiene un’offerta vera e un’interpretazione interessata.",
+      "complication": "Avatar Mask condividono risorse; non sono persone create da Cradle.",
+      "mysteries": [
+        "M14"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-06"
+      ],
+      "antagonist_ids": [
+        "CAST-484",
+        "CAST-485"
+      ],
+      "allied_bearer_ids": [
+        "CAST-321"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-22",
+        "title": "The Guests of the Same Host",
+        "volume": 5,
+        "axis": "MONDO_CON_INTERSEZIONE",
+        "alexander_entry": "Può esaminare un invito effettivamente ricevuto o raggiungere una presenza attraverso un’interfaccia pertinente.",
+        "elias_entry": "Può accettare o verificare un contatto solo con mezzi propri o una prestazione esterna dichiarata.",
+        "contact_carrier_ids": [
+          "CAST-010",
+          "CAST-035",
+          "CAST-083"
+        ],
+        "activation_gate": "L’invito deve percorrere un collegamento reale. Nessuna partecipazione mentale remota è concessa a tutti dal solo fatto che esista una Root.",
+        "without_meeting": "L’interfaccia viene riparata o resta limitata secondo i mezzi dei custodi; l’assenza dei protagonisti non crea un invito inevitabile.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-06"
+        ],
+        "front_ids": [
+          "FRONT-06"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_198_Archi_21_30.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-23",
+      "volume": 5,
+      "title": "No Patient by Vote",
+      "chapter_budget": 40,
+      "theatre": "Noran–Tevren–reti cliniche",
+      "cast_ids": [
+        "CAST-008",
+        "CAST-023",
+        "CAST-462",
+        "CAST-463",
+        "CAST-478",
+        "CAST-479",
+        "CAST-286",
+        "CAST-289",
+        "CAST-290",
+        "CAST-488",
+        "CAST-489",
+        "CAST-421",
+        "CAST-423",
+        "CAST-425",
+        "CAST-492",
+        "CAST-493",
+        "CAST-416",
+        "CAST-418",
+        "CAST-420",
+        "CAST-494",
+        "CAST-495",
+        "CAST-208",
+        "CAST-211",
+        "CAST-220"
+      ],
+      "sources": "172; FAC-13/14; U11-09/10",
+      "stable_truth": "Separazione, maledizione, vita e occultamento hanno titolari e procedure distinti.",
+      "independent_initiative": "Clinici e scuole trattano casi reali solo con mezzi raggiunti; gli uffici cercano accordi sul circuito condiviso.",
+      "hooks": [
+        "Richiesta di togliere un raccordo ostile conservando soccorso",
+        "copia periferica con carico diverso."
+      ],
+      "choice": "Separare il rapporto, cambiare servizio, contendere fonte o accettare un patto esplicito.",
+      "evolution": "Se il raccordo viene eliminato, il rischio specifico finisce. Un nuovo problema deve avere causa nuova, non essere lo stesso maleficio mascherato.",
+      "scene": "La diagnosi distingue lesione, comando e clausola senza ridurli a una sola magia.",
+      "complication": "Un servizio divino non rende il paziente proprietà del titolare.",
+      "mysteries": [
+        "M08",
+        "M12"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-03",
+        "FRONT-08",
+        "FRONT-10",
+        "FRONT-11"
+      ],
+      "antagonist_ids": [
+        "CAST-478",
+        "CAST-479",
+        "CAST-488",
+        "CAST-489",
+        "CAST-492",
+        "CAST-493"
+      ],
+      "allied_bearer_ids": [
+        "CAST-290",
+        "CAST-421",
+        "CAST-420",
+        "CAST-494"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-23",
+        "title": "No Patient by Vote",
+        "volume": 5,
+        "axis": "MONDO_CON_INTERSEZIONE",
+        "alexander_entry": "Può offrire una cura o una separazione dopo aver raggiunto il paziente e diagnosticato il rapporto pertinente.",
+        "elias_entry": "Può interessarsi ai permessi e alla sicurezza attraverso un caso o un incarico proprio.",
+        "contact_carrier_ids": [
+          "CAST-008",
+          "CAST-023",
+          "CAST-462",
+          "CAST-463"
+        ],
+        "activation_gate": "Il paziente e i supporti vanno raggiunti; conoscere l’autorità tecnica non basta. Le informazioni cliniche non sono trasferite integralmente a chiunque faccia parte del gruppo.",
+        "without_meeting": "Clinici e scuole trattano casi reali; un soccorso riuscito non viene annullato per conservare una disputa istituzionale.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-03",
+          "OPCLK-08",
+          "OPCLK-10",
+          "OPCLK-11"
+        ],
+        "front_ids": [
+          "FRONT-03",
+          "FRONT-08",
+          "FRONT-10",
+          "FRONT-11"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_198_Archi_21_30.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-24",
+      "volume": 5,
+      "title": "What the Basin Keeps",
+      "chapter_budget": 40,
+      "theatre": "Veil e accessi a The Black Mouth",
+      "cast_ids": [
+        "CAST-012",
+        "CAST-020",
+        "CAST-082",
+        "CAST-482",
+        "CAST-483",
+        "CAST-336",
+        "CAST-338",
+        "CAST-340",
+        "CAST-488",
+        "CAST-489",
+        "CAST-421",
+        "CAST-423",
+        "CAST-425",
+        "CAST-492",
+        "CAST-493",
+        "CAST-416",
+        "CAST-418",
+        "CAST-420"
+      ],
+      "sources": "OUT-03; 70; 98",
+      "stable_truth": "Una voce del bacino è registrata e una presenza è autentica; la morte ordinaria non apre automaticamente accesso a Theral.",
+      "independent_initiative": "Theral conserva legami e cerca risorse non personali; una crisi va registrata prima di una predazione ulteriore.",
+      "hooks": [
+        "Richiamo con richiesta verificabile",
+        "Medium che conserva una deriva verso il bacino."
+      ],
+      "choice": "Liberare, negoziare, sostituire sostegno o chiudere il proprio collegamento.",
+      "evolution": "Distruggere un contenitore non è liberare tutti. Una separazione tecnicamente sicura funziona; nessuna falsa voce aggiunta per negarla.",
+      "scene": "Una seconda domanda smentisce la pretesa di una registrazione di essere una persona.",
+      "complication": "Un prigioniero reale non garantisce fiducia nel visitatore.",
+      "mysteries": [
+        "M12",
+        "M15"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-05",
+        "FRONT-08",
+        "FRONT-10"
+      ],
+      "antagonist_ids": [
+        "CAST-482",
+        "CAST-483",
+        "CAST-488",
+        "CAST-489",
+        "CAST-492",
+        "CAST-493"
+      ],
+      "allied_bearer_ids": [
+        "CAST-336",
+        "CAST-421",
+        "CAST-420"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-24",
+        "title": "What the Basin Keeps",
+        "volume": 5,
+        "axis": "MONDO_CON_INTERSEZIONE",
+        "alexander_entry": "Può scegliere di seguire un richiamo o una deriva verificata se esiste un motivo e un accesso materiale.",
+        "elias_entry": "Può contribuire a riferimenti o recuperi in base alle capacità effettive, senza possedere la Root.",
+        "contact_carrier_ids": [
+          "CAST-012",
+          "CAST-020",
+          "CAST-082"
+        ],
+        "activation_gate": "Provenienza del richiamo, riserva e accessi si verificano prima del viaggio. Il bacino non si manifesta nella camera del duca per assicurare l’incontro.",
+        "without_meeting": "Chi mantiene i legami cerca risorse secondo il proprio dossier; una nuova predazione richiede iniziativa e mezzi registrati.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-05",
+          "OPCLK-08",
+          "OPCLK-10"
+        ],
+        "front_ids": [
+          "FRONT-05",
+          "FRONT-08",
+          "FRONT-10"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_198_Archi_21_30.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-25",
+      "volume": 5,
+      "title": "The People Who Stayed",
+      "chapter_budget": 40,
+      "theatre": "territori effettivamente visitati",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-002",
+        "CAST-003",
+        "CAST-004",
+        "CAST-032",
+        "CAST-072",
+        "CAST-476",
+        "CAST-477",
+        "CAST-246",
+        "CAST-248",
+        "CAST-250",
+        "CAST-484",
+        "CAST-485",
+        "CAST-321",
+        "CAST-323",
+        "CAST-325",
+        "CAST-494",
+        "CAST-495",
+        "CAST-208",
+        "CAST-211",
+        "CAST-220"
+      ],
+      "sources": "187; 154; cast vigente",
+      "stable_truth": "I cinque popoli hanno biologie e storie, non colpe razziali obbligatorie; la famiglia moderna non conosce il ritorno per diritto di sangue.",
+      "independent_initiative": "Reti locali gestiscono residenza e servizi; lo scambio valuta recapiti e protezione delle copie.",
+      "hooks": [
+        "Domanda di diritto di uscita",
+        "disputa sull’uso di un servizio dopo il cambiamento del garante."
+      ],
+      "choice": "Fare istituzione, finanziare reti, lasciare persone autonome o sciogliere l’accordo.",
+      "evolution": "Un club può restare piccolo pur avendo avuto risultati enormi. Senza PG i fondatori possono cambiare forma o chiudere una sede senza morire narrativamente.",
+      "scene": "Un beneficiario chiede un garante diverso da chi lo ha aiutato.",
+      "complication": "Affetto e gratitudine non sono consenso perpetuo.",
+      "mysteries": [
+        "M03",
+        "M12"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-02",
+        "FRONT-06",
+        "FRONT-11"
+      ],
+      "antagonist_ids": [
+        "CAST-476",
+        "CAST-477",
+        "CAST-484",
+        "CAST-485"
+      ],
+      "allied_bearer_ids": [
+        "CAST-246",
+        "CAST-321",
+        "CAST-494"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-25",
+        "title": "The People Who Stayed",
+        "volume": 5,
+        "axis": "CONDIVISA_CONDIZIONALE",
+        "alexander_entry": "Rapporti civili e persone effettivamente coinvolte reagiscono agli interventi che ha davvero compiuto.",
+        "elias_entry": "Lo scambio valuta recapiti e sostegni costruiti durante la propria attività, anche senza il PG.",
+        "contact_carrier_ids": [
+          "CAST-003",
+          "CAST-004",
+          "CAST-032",
+          "CAST-072"
+        ],
+        "activation_gate": "Le conseguenze devono derivare da azioni registrate e raggiungere il destinatario tramite persone o notizie reali; nessuna gratitudine collettiva automatica.",
+        "without_meeting": "I due possono restare in luoghi e comunità differenti. Cambiamenti locali e rapporti familiari proseguono senza una riunione obbligatoria.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-02",
+          "OPCLK-06",
+          "OPCLK-11"
+        ],
+        "front_ids": [
+          "FRONT-02",
+          "FRONT-06",
+          "FRONT-11"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_198_Archi_21_30.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-26",
+      "volume": 6,
+      "title": "The Unanswered Vessel",
+      "chapter_budget": 42,
+      "theatre": "rotta materiale di OUT-05",
+      "cast_ids": [
+        "CAST-002",
+        "CAST-011",
+        "CAST-080",
+        "CAST-482",
+        "CAST-483",
+        "CAST-336",
+        "CAST-338",
+        "CAST-340",
+        "CAST-486",
+        "CAST-487",
+        "CAST-241",
+        "CAST-243",
+        "CAST-245",
+        "CAST-490",
+        "CAST-491",
+        "CAST-386",
+        "CAST-388",
+        "CAST-390"
+      ],
+      "sources": "72; Atlante_cosmologico; OUT-05",
+      "stable_truth": "Il Vessel conserva un tentativo, non prova di un mittente vivo; non contiene una Root.",
+      "independent_initiative": "Il Medium emette impulsi finché ha riserva; Serevan cerca testimonianza indipendente.",
+      "hooks": [
+        "Misura locale intersecata da una sequenza",
+        "recupero di un supporto che chiede un riferimento effettivo."
+      ],
+      "choice": "Isolare trasmissione, fornire energia compatibile, cercare fonte o lasciarlo diventare dormiente.",
+      "evolution": "Una risposta corretta avvia verifica senza imporre invasione. Esaurimento spegne impulsi ma conserva matrice non consumata.",
+      "scene": "Una copia riproduce il messaggio e non il suo accesso.",
+      "complication": "La traiettoria va letta nell’atlante; un nome recitato non è una coordinata.",
+      "mysteries": [
+        "M16"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-05",
+        "FRONT-07",
+        "FRONT-09"
+      ],
+      "antagonist_ids": [
+        "CAST-482",
+        "CAST-483",
+        "CAST-486",
+        "CAST-487",
+        "CAST-490",
+        "CAST-491"
+      ],
+      "allied_bearer_ids": [
+        "CAST-336",
+        "CAST-241",
+        "CAST-386"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-26",
+        "title": "The Unanswered Vessel",
+        "volume": 6,
+        "axis": "ELIAS_CON_INTERSEZIONE",
+        "alexander_entry": "Può riconoscere un fenomeno o scegliere un viaggio dopo aver ricevuto un campione o una misura autentica.",
+        "elias_entry": "Può indagare la sequenza del mezzo solo se ne raggiunge segnali e preparazione compatibile.",
+        "contact_carrier_ids": [
+          "CAST-011",
+          "CAST-080"
+        ],
+        "activation_gate": "Una rotta cosmica esige trasporto, destinazione, protezione e ritorno reali. Il segnale non dà accesso istantaneo, né promuove Elias oltre il rango effettivo.",
+        "without_meeting": "Il Medium emette finché dispone di riserva e i testimoni cercano riscontri; i protagonisti possono studiare parti diverse o non partire.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-05",
+          "OPCLK-07",
+          "OPCLK-09"
+        ],
+        "front_ids": [
+          "FRONT-05",
+          "FRONT-07",
+          "FRONT-09"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_198_Archi_21_30.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-27",
+      "volume": 6,
+      "title": "A Garden Between Worlds",
+      "chapter_budget": 42,
+      "theatre": "habitat interplanetario di Avarra",
+      "cast_ids": [
+        "CAST-002",
+        "CAST-081",
+        "CAST-478",
+        "CAST-479",
+        "CAST-286",
+        "CAST-289",
+        "CAST-290",
+        "CAST-490",
+        "CAST-491",
+        "CAST-386",
+        "CAST-388",
+        "CAST-390",
+        "CAST-492",
+        "CAST-493",
+        "CAST-416",
+        "CAST-418",
+        "CAST-420"
+      ],
+      "sources": "OUT-02; 72",
+      "stable_truth": "L’habitat ha massa, ricambio e riserva; il campione utile aumenta il Load del circuito.",
+      "independent_initiative": "Avarra riduce produzione e cerca composti, invece di distruggere il pianeta per necessità.",
+      "hooks": [
+        "Coltura che ripara un substrato",
+        "confronto dello stesso campione separato dal circuito."
+      ],
+      "choice": "Scambiare, fornire una creazione indipendente, ricercare compatibilità o rifiutare.",
+      "evolution": "Una soluzione materiale autentica elimina la scarsità specifica. Restano scelta di distribuzione e manutenzione. Senza PG il lotto viene sospeso quando necessario.",
+      "scene": "Una serra cosmica magnifica ha un registro di ricambio molto concreto.",
+      "complication": "Il composto più abbondante porta una Pattern estranea.",
+      "mysteries": [
+        "M17"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-03",
+        "FRONT-09",
+        "FRONT-10"
+      ],
+      "antagonist_ids": [
+        "CAST-478",
+        "CAST-479",
+        "CAST-490",
+        "CAST-491",
+        "CAST-492",
+        "CAST-493"
+      ],
+      "allied_bearer_ids": [
+        "CAST-290",
+        "CAST-386",
+        "CAST-420"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-27",
+        "title": "A Garden Between Worlds",
+        "volume": 6,
+        "axis": "ELIAS_O_MONDO",
+        "alexander_entry": "Può interessarsi alla sopravvivenza dell’habitat o alla produzione necessaria se lo raggiunge davvero.",
+        "elias_entry": "Può partecipare al viaggio soltanto con competenze, protezioni e trasporto effettivamente ottenuti.",
+        "contact_carrier_ids": [
+          "CAST-081"
+        ],
+        "activation_gate": "L’habitat non è una stanza di Room Six. Origin non apre un’uscita remota nuova per il solo desiderio di arrivarvi. Si può cominciare da campioni realmente inviati.",
+        "without_meeting": "La custode riduce produzione e cerca composti; nessuna distruzione planetaria viene imposta come conto alla rovescia universale.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-03",
+          "OPCLK-09",
+          "OPCLK-10"
+        ],
+        "front_ids": [
+          "FRONT-03",
+          "FRONT-09",
+          "FRONT-10"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_198_Archi_21_30.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-28",
+      "volume": 6,
+      "title": "The Light That Was Built",
+      "chapter_budget": 42,
+      "theatre": "Vigil Reach e repertori di itinerario",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-002",
+        "CAST-011",
+        "CAST-080",
+        "CAST-482",
+        "CAST-483",
+        "CAST-336",
+        "CAST-338",
+        "CAST-340",
+        "CAST-486",
+        "CAST-487",
+        "CAST-241",
+        "CAST-243",
+        "CAST-245",
+        "CAST-490",
+        "CAST-491",
+        "CAST-386",
+        "CAST-388",
+        "CAST-390"
+      ],
+      "sources": "EVD-03; 96; Atlante_cosmologico",
+      "stable_truth": "Vigil non è Aster. Edran creò un’opera cosmica con interventi spaziali di Helyr.",
+      "independent_initiative": "Custodi mantengono collettori e itinerari; le misure remote continuano indipendentemente dal riconoscimento storico.",
+      "hooks": [
+        "Matrice di stabilizzazione",
+        "divergenza fra emissione e nome di una carta."
+      ],
+      "choice": "Visitare, corroborare a distanza, riparare o limitarsi ad attribuire.",
+      "evolution": "Prova sufficiente può stabilire paternità senza viaggio obbligatorio. La luce attuale non dimostra tutte le intenzioni del passato.",
+      "scene": "Il riferimento orbitale e il formulario religioso descrivono grandezze diverse.",
+      "complication": "Una matrice non apre un Gate corporeo.",
+      "mysteries": [
+        "M18"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-05",
+        "FRONT-07",
+        "FRONT-09"
+      ],
+      "antagonist_ids": [
+        "CAST-482",
+        "CAST-483",
+        "CAST-486",
+        "CAST-487",
+        "CAST-490",
+        "CAST-491"
+      ],
+      "allied_bearer_ids": [
+        "CAST-336",
+        "CAST-241",
+        "CAST-386"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-28",
+        "title": "The Light That Was Built",
+        "volume": 6,
+        "axis": "CONDIVISA_CONDIZIONALE",
+        "alexander_entry": "L’opera stellare appartiene al passato di Edran; il suo stato moderno richiede osservazioni e accessi attuali.",
+        "elias_entry": "Può cercare riferimenti e misure secondo i propri interessi, senza conoscere già l’autore antico.",
+        "contact_carrier_ids": [
+          "CAST-011",
+          "CAST-080"
+        ],
+        "activation_gate": "Per confrontare i risultati servono trasmissione o incontro reale. Il ricordo di avere creato la stella non equivale a sorvegliarla dopo millenni.",
+        "without_meeting": "Custodi e osservatori mantengono infrastrutture e raccolgono dati; le due indagini possono convergere tramite risultati scambiati, senza viaggio congiunto.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-05",
+          "OPCLK-07",
+          "OPCLK-09"
+        ],
+        "front_ids": [
+          "FRONT-05",
+          "FRONT-07",
+          "FRONT-09"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_198_Archi_21_30.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-29",
+      "volume": 6,
+      "title": "The Cost of a True Witness",
+      "chapter_budget": 42,
+      "theatre": "nodi di Serevan–Teren",
+      "cast_ids": [
+        "CAST-018",
+        "CAST-025",
+        "CAST-080",
+        "CAST-480",
+        "CAST-481",
+        "CAST-341",
+        "CAST-343",
+        "CAST-345",
+        "CAST-490",
+        "CAST-491",
+        "CAST-386",
+        "CAST-388",
+        "CAST-390",
+        "CAST-496",
+        "CAST-497",
+        "CAST-261",
+        "CAST-262",
+        "CAST-265"
+      ],
+      "sources": "OUT-01; EVD-04/08",
+      "stable_truth": "La discrepanza è reale ma una misura descrive fonte e l’altra derivazione.",
+      "independent_initiative": "Serevan cerca seconda attestazione e protegge osservatori quando la pubblicazione li espone.",
+      "hooks": [
+        "Correzione tecnica a un dato locale",
+        "due registrazioni con copertura diversa."
+      ],
+      "choice": "Dare misura, falsificare, pubblicare con consenso o limitare accesso.",
+      "evolution": "Una smentita vera cambia il modello. Talren e Serevan non diventano onniscienti per appartenere alla stessa famiglia. Senza PG cercano altre fonti.",
+      "scene": "Due esperti rinunciano a una convergenza elegante dopo un confronto di copertura.",
+      "complication": "Il modello corretto può danneggiare un osservatore identificabile.",
+      "mysteries": [
+        "M07",
+        "M16"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-04",
+        "FRONT-09",
+        "FRONT-12"
+      ],
+      "antagonist_ids": [
+        "CAST-480",
+        "CAST-481",
+        "CAST-490",
+        "CAST-491"
+      ],
+      "allied_bearer_ids": [
+        "CAST-341",
+        "CAST-386",
+        "CAST-496"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-29",
+        "title": "The Cost of a True Witness",
+        "volume": 6,
+        "axis": "MONDO_CON_INTERSEZIONE",
+        "alexander_entry": "Può consultare una testimonianza se ne ottiene il diritto e se la fonte copre davvero il fatto cercato.",
+        "elias_entry": "Può collaborare a una misura o a un riscontro senza diventare il testimone di fatti che non ha osservato.",
+        "contact_carrier_ids": [
+          "CAST-018",
+          "CAST-025",
+          "CAST-080"
+        ],
+        "activation_gate": "Dichiarare quali dati viaggiano, tramite chi e con quale latenza o limite del mezzo. Un contatto non apre l’intero repertorio del testimone.",
+        "without_meeting": "Gli osservatori difendono fonti e cercano attestazioni indipendenti; un risultato sufficiente chiude la domanda pertinente.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-04",
+          "OPCLK-09",
+          "OPCLK-12"
+        ],
+        "front_ids": [
+          "FRONT-04",
+          "FRONT-09",
+          "FRONT-12"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_198_Archi_21_30.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-30",
+      "volume": 6,
+      "title": "An Exchange Beyond the Room",
+      "chapter_budget": 42,
+      "theatre": "rete reale di The Unbound Exchange",
+      "cast_ids": [
+        "CAST-002",
+        "CAST-031",
+        "CAST-032",
+        "CAST-035",
+        "CAST-127",
+        "CAST-474",
+        "CAST-475",
+        "CAST-193",
+        "CAST-194",
+        "CAST-200",
+        "CAST-482",
+        "CAST-483",
+        "CAST-336",
+        "CAST-338",
+        "CAST-340",
+        "CAST-496",
+        "CAST-497",
+        "CAST-261",
+        "CAST-262",
+        "CAST-265"
+      ],
+      "sources": "154; 153",
+      "stable_truth": "La sede può cambiare; nessuna Root viene assegnata al gruppo per comodità.",
+      "independent_initiative": "I membri decidono recapiti e scambi secondo fiducia accumulata, perdite e risorse effettive.",
+      "hooks": [
+        "Richiesta di incontro fuori dalla sede",
+        "proposta di un collegamento superiore con proprietario e costo dichiarati."
+      ],
+      "choice": "Investire, mantenere compartimenti, ridurre rete o uscire.",
+      "evolution": "Una rete cosmica richiede un accesso reale. Se manca, resta una rete di persone e corrispondenza; non è un fallimento autoriale.",
+      "scene": "Un membro rifiuta un varco gratuito perché non può verificare l’uscita.",
+      "complication": "Il potere di un finanziatore non sostituisce consenso dei partecipanti.",
+      "mysteries": [
+        "M03"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-01",
+        "FRONT-05",
+        "FRONT-12"
+      ],
+      "antagonist_ids": [
+        "CAST-474",
+        "CAST-475",
+        "CAST-482",
+        "CAST-483"
+      ],
+      "allied_bearer_ids": [
+        "CAST-194",
+        "CAST-336",
+        "CAST-496"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-30",
+        "title": "An Exchange Beyond the Room",
+        "volume": 6,
+        "axis": "ELIAS_CON_INTERSEZIONE",
+        "alexander_entry": "Può accettare singoli scambi o collegamenti senza assumere la direzione della rete.",
+        "elias_entry": "Decide con gli altri membri reali come ampliare o limitare il gruppo in base all’esperienza accumulata.",
+        "contact_carrier_ids": [
+          "CAST-031",
+          "CAST-032",
+          "CAST-035",
+          "CAST-127"
+        ],
+        "activation_gate": "Occorrono recapiti, fiducia e un mezzo superiore realmente ottenuto. La cerniera III iniziale non diventa un collegamento intercontinentale perché la rete è cresciuta.",
+        "without_meeting": "La rete può restare piccola o frammentarsi; Alexander può incontrare singoli membri fuori dal gruppo o non collaborare.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-01",
+          "OPCLK-05",
+          "OPCLK-12"
+        ],
+        "front_ids": [
+          "FRONT-01",
+          "FRONT-05",
+          "FRONT-12"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_198_Archi_21_30.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-31",
+      "volume": 7,
+      "title": "The Seats That Are Not Empty",
+      "chapter_budget": 40,
+      "theatre": "rete di fonti raggiunte",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-007",
+        "CAST-008",
+        "CAST-021",
+        "CAST-022",
+        "CAST-490",
+        "CAST-491",
+        "CAST-386",
+        "CAST-388",
+        "CAST-390",
+        "CAST-492",
+        "CAST-493",
+        "CAST-416",
+        "CAST-418",
+        "CAST-420"
+      ],
+      "sources": "98; EVD-11/12/13",
+      "stable_truth": "Sairen e Oriel sono titolari reali estranei alla caduta; Scroll è privo di pienezza VII con accessi parziali.",
+      "independent_initiative": "Titolari mantengono esercizi e rispondono soltanto a interlocuzioni o contese realmente avviate.",
+      "hooks": [
+        "Derivazione attuale verificabile",
+        "proposta di Veyra o Loran su accesso parziale."
+      ],
+      "choice": "Accordo, rinuncia negoziata, contesa, recupero parziale o rinuncia personale a quel traguardo.",
+      "evolution": "Una Seat non passa perché il vecchio sovrano la ricorda. La disponibilità tecnica può aprire un recupero prima del volume previsto. Senza PG restano condizioni iniziali salvo eventi registrati.",
+      "scene": "Il visitatore riconosce una funzione antica sostenuta da una persona nuova.",
+      "complication": "Sconfiggere un utilizzatore di Medium non equivale a conquistare il titolare.",
+      "mysteries": [
+        "M06",
+        "M19"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-09",
+        "FRONT-10"
+      ],
+      "antagonist_ids": [
+        "CAST-490",
+        "CAST-491",
+        "CAST-492",
+        "CAST-493"
+      ],
+      "allied_bearer_ids": [
+        "CAST-386",
+        "CAST-420"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-31",
+        "title": "The Seats That Are Not Empty",
+        "volume": 7,
+        "axis": "ALEXANDER",
+        "alexander_entry": "Il recupero delle proprie competenze può portarlo ad accertare titolarità e accessi attuali.",
+        "elias_entry": "Può incontrare questioni analoghe nella propria famiglia, senza acquisire diritti sulle Seats del Sovereign.",
+        "contact_carrier_ids": [
+          "CAST-007",
+          "CAST-008",
+          "CAST-021",
+          "CAST-022"
+        ],
+        "activation_gate": "La situazione moderna si accerta attraverso fonti o diagnosi raggiunte. Nessuno è informato della richiesta di Alexander senza riceverla davvero.",
+        "without_meeting": "I titolari mantengono i propri esercizi. La teoria conosciuta non li rende antagonisti obbligatori o destinati a cedere.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-09",
+          "OPCLK-10"
+        ],
+        "front_ids": [
+          "FRONT-09",
+          "FRONT-10"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_199_Archi_31_40.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-32",
+      "volume": 7,
+      "title": "The Beginning Reserved",
+      "chapter_budget": 40,
+      "theatre": "The Origin e fronti effettivi di Alexander",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-492",
+        "CAST-493",
+        "CAST-416",
+        "CAST-418",
+        "CAST-420"
+      ],
+      "sources": "83; 84; Roots_consolidate",
+      "stable_truth": "Cradle e Ruin non hanno titolari esterni VII: i presupposti sono rimasti nella continuità di Edran.",
+      "independent_initiative": "Il recupero richiede tenuta e risorse proprie verificabili; non esiste un avversario inventato che occupi quei Seats.",
+      "hooks": [
+        "Diagnosi personale di Reserve e Load",
+        "progetto concreto che richiede esercizio superiore."
+      ],
+      "choice": "Preparare, rischiare entro regole, rinviare o usare capacità già possedute.",
+      "evolution": "Se le condizioni sono soddisfatte il rango progredisce. Nessun vincolo a Elias o al numero di volumi. Il recupero non fornisce identità dei nemici attuali.",
+      "scene": "Una prova privata verifica separazione di esercizi senza chiamare un testimone divino.",
+      "complication": "Un costo condiviso di Origin non significa cinque riserve indipendenti.",
+      "mysteries": [
+        "M20"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-10"
+      ],
+      "antagonist_ids": [
+        "CAST-492",
+        "CAST-493"
+      ],
+      "allied_bearer_ids": [
+        "CAST-420"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-32",
+        "title": "The Beginning Reserved",
+        "volume": 7,
+        "axis": "ALEXANDER",
+        "alexander_entry": "Può lavorare sui due presupposti personali senza dipendere da Elias o dal calendario dei volumi.",
+        "elias_entry": "Può proseguire una linea separata; un eventuale aiuto è una prestazione propria delimitata, non il conferimento dei presupposti al PG.",
+        "contact_carrier_ids": [
+          "CAST-001"
+        ],
+        "activation_gate": "Le procedure 339 e i dati personali regolano la trasformazione. Nessun falso titolare moderno di Cradle o Ruin viene inventato per creare una missione.",
+        "without_meeting": "Il recupero segue le scelte e le condizioni reali di Alexander; l’assenza del deuteragonista non lo blocca.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-10"
+        ],
+        "front_ids": [
+          "FRONT-10"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_199_Archi_31_40.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-33",
+      "volume": 7,
+      "title": "The Current Keeper",
+      "chapter_budget": 40,
+      "theatre": "Crossing e itinerari di Helyr",
+      "cast_ids": [
+        "CAST-002",
+        "CAST-011",
+        "CAST-024",
+        "CAST-490",
+        "CAST-491",
+        "CAST-386",
+        "CAST-388",
+        "CAST-390"
+      ],
+      "sources": "98; EVD-18; Continuum",
+      "stable_truth": "Helyr è Continuum completo, persona e antico alleato; Elias non ha diritto narrativo alla sua morte.",
+      "independent_initiative": "Helyr mantiene accessi e valuta richieste autentiche; Elias prepara crescita soltanto con mezzi compatibili ottenuti.",
+      "hooks": [
+        "Proposta di servizio su un itinerario",
+        "confronto fra accesso ceduto e titolarità personale."
+      ],
+      "choice": "Apprendere, allearsi, contendere, rifiutare successione o seguire una strada minore.",
+      "evolution": "Una cooperazione può conservare Helyr e rendere Elias importante senza Axial. Un’eventuale transizione richiede cessazione o trasferimento reali e condizioni cosmiche.",
+      "scene": "Un garante potente pone una domanda su chi manterrà l’uscita dopo di lui.",
+      "complication": "Avere accesso alla Crossing non incorpora automaticamente tre Effigi.",
+      "mysteries": [
+        "M19"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-09"
+      ],
+      "antagonist_ids": [
+        "CAST-490",
+        "CAST-491"
+      ],
+      "allied_bearer_ids": [
+        "CAST-386"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-33",
+        "title": "The Current Keeper",
+        "volume": 7,
+        "axis": "ELIAS_CON_INTERSEZIONE",
+        "alexander_entry": "Un rapporto antico o un itinerario scelto può dargli motivo di interloquire con il custode, senza decidere il futuro di Elias.",
+        "elias_entry": "Può cercare servizio, apprendimento o accesso in base ai mezzi raggiunti.",
+        "contact_carrier_ids": [
+          "CAST-011",
+          "CAST-024"
+        ],
+        "activation_gate": "Al T0 Helyr non è Continuum completo; una diversa condizione futura richiede fatti realmente avvenuti. Nessuna morte, rinuncia o successione è garantita.",
+        "without_meeting": "Custode e aspirante possono collaborare, contendere, rinunciare o non incontrarsi; la storia di Alexander resta giocabile.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-09"
+        ],
+        "front_ids": [
+          "FRONT-09"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_199_Archi_31_40.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-34",
+      "volume": 7,
+      "title": "The Night Does Not Belong to One",
+      "chapter_budget": 40,
+      "theatre": "accessi materiali a The Veiled Basin",
+      "cast_ids": [
+        "CAST-462",
+        "CAST-463",
+        "CAST-484",
+        "CAST-485",
+        "CAST-321",
+        "CAST-323",
+        "CAST-325",
+        "CAST-492",
+        "CAST-493",
+        "CAST-416",
+        "CAST-418",
+        "CAST-420"
+      ],
+      "sources": "172; Roots_consolidate",
+      "stable_truth": "Varessa e Ilyren sono VII distinti e posteriori alla caduta; la Root è fisica e gli accessi parziali.",
+      "independent_initiative": "Le due reti difendono continuità di servizio e distinguono derivazioni condivise.",
+      "hooks": [
+        "Circuito che richiede due coperture",
+        "proposta di revisione di un carico già documentato."
+      ],
+      "choice": "Intermediare, sostenere una parte, separare servizi o evitare integrazione.",
+      "evolution": "Un’integrazione Nocturne eventuale richiede mezzi veri; il volume non la ordina. Senza intervento si prosegue la contesa circoscritta, non l’esplosione obbligatoria della luna.",
+      "scene": "Due titolari descrivono lo stesso bacino da accessi differenti.",
+      "complication": "Il nome Crescent non concede ogni autorità astronomica su Ivren.",
+      "mysteries": [
+        "M08",
+        "M19"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-06",
+        "FRONT-10"
+      ],
+      "antagonist_ids": [
+        "CAST-484",
+        "CAST-485",
+        "CAST-492",
+        "CAST-493"
+      ],
+      "allied_bearer_ids": [
+        "CAST-321",
+        "CAST-420"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-34",
+        "title": "The Night Does Not Belong to One",
+        "volume": 7,
+        "axis": "MONDO_PARALLELO",
+        "alexander_entry": "Può collaborare o contendere da esterno se raggiunge il problema, senza incorporare Effigi estranee.",
+        "elias_entry": "Può contribuire soltanto tramite una prestazione o un rapporto reale; non eredita poteri dal gruppo.",
+        "contact_carrier_ids": [
+          "CAST-462",
+          "CAST-463"
+        ],
+        "activation_gate": "Due derivazioni e una Root non equivalgono a una integrazione completa. Localizzazione e mezzi d’ingresso devono essere accertati.",
+        "without_meeting": "Le reti notturne possono trovare accordi propri; nessuna loro fusione o guerra viene imposta per richiamare i protagonisti.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-06",
+          "OPCLK-10"
+        ],
+        "front_ids": [
+          "FRONT-06",
+          "FRONT-10"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_199_Archi_31_40.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-35",
+      "volume": 7,
+      "title": "A World That Can Leave",
+      "chapter_budget": 40,
+      "theatre": "reti di sostegni e comunità coinvolte",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-002",
+        "CAST-008",
+        "CAST-013",
+        "CAST-081",
+        "CAST-476",
+        "CAST-477",
+        "CAST-246",
+        "CAST-248",
+        "CAST-250",
+        "CAST-478",
+        "CAST-479",
+        "CAST-286",
+        "CAST-289",
+        "CAST-290",
+        "CAST-494",
+        "CAST-495",
+        "CAST-208",
+        "CAST-211",
+        "CAST-220"
+      ],
+      "sources": "84; EVD-04/05; OUT-02",
+      "stable_truth": "Il fallimento antico non prova che ogni separazione sia impossibile; viventi e investimenti non personali restano distinguibili.",
+      "independent_initiative": "Comunità e custodi chiedono verifiche sui sostegni che utilizzano realmente.",
+      "hooks": [
+        "Richiesta di alternativa indipendente",
+        "traccia di una separazione già riuscita nel presente."
+      ],
+      "choice": "Realizzare un progetto limitato, coordinare più fonti, governare o non assumere il ruolo.",
+      "evolution": "Una riuscita locale è valida senza un secondo cataclisma imposto. Se si tenta scala maggiore si misurano dipendenze e contese effettive prima di estenderla.",
+      "scene": "Una persona aiutata chiede che l’alternativa sia custodita da qualcun altro.",
+      "complication": "Il vecchio progetto non viene ripetuto identico né imposto al PG come destino.",
+      "mysteries": [
+        "M20"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-02",
+        "FRONT-03",
+        "FRONT-11"
+      ],
+      "antagonist_ids": [
+        "CAST-476",
+        "CAST-477",
+        "CAST-478",
+        "CAST-479"
+      ],
+      "allied_bearer_ids": [
+        "CAST-246",
+        "CAST-290",
+        "CAST-494"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-35",
+        "title": "A World That Can Leave",
+        "volume": 7,
+        "axis": "CONDIVISA_CONDIZIONALE",
+        "alexander_entry": "Può offrire alternative realmente indipendenti a comunità che abbia raggiunto e scelto di aiutare.",
+        "elias_entry": "Può contribuire a vie, verifiche o scambi secondo capacità e accordi effettivi.",
+        "contact_carrier_ids": [
+          "CAST-008",
+          "CAST-013",
+          "CAST-081"
+        ],
+        "activation_gate": "Il bisogno deve appartenere a persone e supporti realmente presenti. Le prestazioni restano separabili: nessuna dipendenza metafisica viene inventata fra i protagonisti.",
+        "without_meeting": "Le comunità scelgono e cercano altre soluzioni; una liberazione riuscita rimane valida anche se la collaborazione dei due finisce.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-02",
+          "OPCLK-03",
+          "OPCLK-11"
+        ],
+        "front_ids": [
+          "FRONT-02",
+          "FRONT-03",
+          "FRONT-11"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_199_Archi_31_40.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-36",
+      "volume": 8,
+      "title": "Those Who Pay for Peace",
+      "chapter_budget": 40,
+      "theatre": "stati e reti coinvolti dagli esiti precedenti",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-002",
+        "CAST-006",
+        "CAST-015",
+        "CAST-016",
+        "CAST-017",
+        "CAST-480",
+        "CAST-481",
+        "CAST-341",
+        "CAST-343",
+        "CAST-345",
+        "CAST-486",
+        "CAST-487",
+        "CAST-241",
+        "CAST-243",
+        "CAST-245",
+        "CAST-494",
+        "CAST-495",
+        "CAST-208",
+        "CAST-211",
+        "CAST-220"
+      ],
+      "sources": "100; Societa_riservata",
+      "stable_truth": "Nessuna vittoria trasferisce automaticamente rappresentanza civile o debiti di terzi.",
+      "independent_initiative": "Governanti, lavoratori e creditori rivedono patti in risposta a mutamenti realmente avvenuti.",
+      "hooks": [
+        "Rinnovo di un servizio dopo cambio della fonte",
+        "protesta contro un costo ora distribuito diversamente."
+      ],
+      "choice": "Rendere trasparente, governare direttamente, delegare, finanziare uscita o rifiutare incarichi.",
+      "evolution": "Non tutti i costi devono essere tragici; una riforma riuscita può migliorare il mondo. Opposizione deriva da interessi concreti, non dal bisogno di un ultimo boss.",
+      "scene": "Un beneficiario e un creditore portano due conti entrambi veri.",
+      "complication": "La stessa riforma può aiutare una provincia e danneggiare un porto.",
+      "mysteries": [
+        "M04"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-04",
+        "FRONT-07",
+        "FRONT-11"
+      ],
+      "antagonist_ids": [
+        "CAST-480",
+        "CAST-481",
+        "CAST-486",
+        "CAST-487"
+      ],
+      "allied_bearer_ids": [
+        "CAST-341",
+        "CAST-241",
+        "CAST-494"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-36",
+        "title": "Those Who Pay for Peace",
+        "volume": 8,
+        "axis": "CONDIVISA_CONDIZIONALE",
+        "alexander_entry": "Gli effetti politici raggiungono i rapporti patrimoniali o pubblici che ha realmente modificato.",
+        "elias_entry": "Le reti di lavoro e scambio reagiscono ai propri costi e alle opportunità effettive.",
+        "contact_carrier_ids": [
+          "CAST-006",
+          "CAST-015",
+          "CAST-016",
+          "CAST-017"
+        ],
+        "activation_gate": "Per negoziare occorrono interlocutori informati e un rapporto pertinente. Non tutti i governanti conoscono l’identità antica o ogni miracolo privato.",
+        "without_meeting": "Le parti possono negoziare separatamente. Il rifiuto del PG non rende inevitabile una guerra mondiale né trasforma un civile in minaccia divina.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-04",
+          "OPCLK-07",
+          "OPCLK-11"
+        ],
+        "front_ids": [
+          "FRONT-04",
+          "FRONT-07",
+          "FRONT-11"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_199_Archi_31_40.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-37",
+      "volume": 8,
+      "title": "The Last Borrowed Authority",
+      "chapter_budget": 40,
+      "theatre": "fronti cosmici effettivamente rimasti",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-002",
+        "CAST-007",
+        "CAST-008",
+        "CAST-011",
+        "CAST-018",
+        "CAST-490",
+        "CAST-491",
+        "CAST-386",
+        "CAST-388",
+        "CAST-390",
+        "CAST-492",
+        "CAST-493",
+        "CAST-416",
+        "CAST-418",
+        "CAST-420"
+      ],
+      "sources": "98; Roots_consolidate; Regole_comuni",
+      "stable_truth": "Due Axials canonici non diventano tre per premio; ogni transizione segue compatibilità e titolarità.",
+      "independent_initiative": "Persone non sconfitte conservano fini e poteri; alleati non consegnano ogni fonte senza motivazione.",
+      "hooks": [
+        "Patto che dichiara cessazione reale",
+        "esercizio concorrente da diagnosticare."
+      ],
+      "choice": "Integrare se possibile, rinunciare, contenere contesa o stabilire pluralità durevole.",
+      "evolution": "Il finale può mantenere titolari precedenti, cambiare titolarità o lasciare un traguardo incompleto. Nessuna opzione è falsa vittoria per definizione.",
+      "scene": "Un’offerta distingue diritto d’uso e trasferimento della persona titolare.",
+      "complication": "Un accordo civile da solo non opera un’integrazione cosmica.",
+      "mysteries": [
+        "M19",
+        "M20"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-09",
+        "FRONT-10"
+      ],
+      "antagonist_ids": [
+        "CAST-490",
+        "CAST-491",
+        "CAST-492",
+        "CAST-493"
+      ],
+      "allied_bearer_ids": [
+        "CAST-386",
+        "CAST-420"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-37",
+        "title": "The Last Borrowed Authority",
+        "volume": 8,
+        "axis": "CONDIVISA_CONDIZIONALE",
+        "alexander_entry": "Può affrontare patti o contese rimasti davvero aperti, con le capacità recuperate fino a quel momento.",
+        "elias_entry": "Può perseguire il proprio accesso o offrire una prestazione senza dover essere già arrivato al vertice.",
+        "contact_carrier_ids": [
+          "CAST-007",
+          "CAST-008",
+          "CAST-011",
+          "CAST-018"
+        ],
+        "activation_gate": "La lista dei titolari e dei fronti va aggiornata dopo ogni esito reale. Un antagonista già sconfitto non riappare e una capacità non recuperata non viene regalata per il finale.",
+        "without_meeting": "Accordi e conflitti possono risolversi separatamente; nessuna alleanza dei due o ultima battaglia è necessaria per chiudere i rapporti effettivi.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-09",
+          "OPCLK-10"
+        ],
+        "front_ids": [
+          "FRONT-09",
+          "FRONT-10"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_199_Archi_31_40.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-38",
+      "volume": 8,
+      "title": "The Record After the Verdict",
+      "chapter_budget": 40,
+      "theatre": "Sponda–archivi–reti nuove",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-002",
+        "CAST-006",
+        "CAST-018",
+        "CAST-032",
+        "CAST-072",
+        "CAST-480",
+        "CAST-481",
+        "CAST-341",
+        "CAST-343",
+        "CAST-345",
+        "CAST-488",
+        "CAST-489",
+        "CAST-421",
+        "CAST-423",
+        "CAST-425",
+        "CAST-496",
+        "CAST-497",
+        "CAST-261",
+        "CAST-262",
+        "CAST-265"
+      ],
+      "sources": "EVD-09/16; 101",
+      "stable_truth": "Le prove del passato restano quelle fissate, qualunque sia il verdetto raggiunto.",
+      "independent_initiative": "Custodi e testimoni aggiornano repertori con fatti della partita, distinti da interpretazioni.",
+      "hooks": [
+        "Richiesta di attestazione di una vittoria",
+        "versione celebrativa che omette un dissenso reale."
+      ],
+      "choice": "Correggere, lasciare pluralità di racconti, pubblicare prove o mantenere segreti legittimi.",
+      "evolution": "La leggenda futura può essere controversa senza cancellare quanto è avvenuto. Non scrivere falsità canoniche per creare una continuazione.",
+      "scene": "Un membro dello scambio annota anche un costo che il finanziatore preferirebbe tacere.",
+      "complication": "Un protagonista può rifiutare il ruolo di santo e restare liberatore per alcuni.",
+      "mysteries": [
+        "M05",
+        "M07"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-04",
+        "FRONT-08",
+        "FRONT-12"
+      ],
+      "antagonist_ids": [
+        "CAST-480",
+        "CAST-481",
+        "CAST-488",
+        "CAST-489"
+      ],
+      "allied_bearer_ids": [
+        "CAST-341",
+        "CAST-421",
+        "CAST-496"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-38",
+        "title": "The Record After the Verdict",
+        "volume": 8,
+        "axis": "CONDIVISA_CONDIZIONALE",
+        "alexander_entry": "Può scegliere cosa rendere pubblico della propria storia e contestare attribuzioni che abbia davvero ricevuto.",
+        "elias_entry": "Può confrontare testimonianze degli eventi conosciuti senza scrivere come testimone di quelli ignoti.",
+        "contact_carrier_ids": [
+          "CAST-006",
+          "CAST-018",
+          "CAST-032",
+          "CAST-072"
+        ],
+        "activation_gate": "Le cronache devono avere fonti e destinatari. L’identità di Edran non diventa pubblica perché la wiki la contiene.",
+        "without_meeting": "Cronache differenti possono restare separate; la leggenda non modifica i fatti giocati o costringe i protagonisti a una versione comune.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-04",
+          "OPCLK-08",
+          "OPCLK-12"
+        ],
+        "front_ids": [
+          "FRONT-04",
+          "FRONT-08",
+          "FRONT-12"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_199_Archi_31_40.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-39",
+      "volume": 8,
+      "title": "The Door Left Unlocked",
+      "chapter_budget": 40,
+      "theatre": "The Unbound Exchange e luoghi scelti dai suoi membri",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-002",
+        "CAST-031",
+        "CAST-032",
+        "CAST-035",
+        "CAST-127",
+        "CAST-474",
+        "CAST-475",
+        "CAST-193",
+        "CAST-194",
+        "CAST-200",
+        "CAST-484",
+        "CAST-485",
+        "CAST-321",
+        "CAST-323",
+        "CAST-325",
+        "CAST-496",
+        "CAST-497",
+        "CAST-261",
+        "CAST-262",
+        "CAST-265"
+      ],
+      "sources": "154; stato della partita",
+      "stable_truth": "L’appartenenza è volontaria e non obbliga Alexander a dirigere la rete.",
+      "independent_initiative": "I membri decidono se la struttura deve proseguire, cambiare sede o finire dopo le attività effettive.",
+      "hooks": [
+        "Proposta di un ultimo scambio",
+        "persona che chiede uscita con copia delle proprie prove."
+      ],
+      "choice": "Restare, sciogliere, distribuire accessi o lasciare i fondatori alla propria strada.",
+      "evolution": "Elias può ottenere una comunità, una funzione cosmica o una vita diversa. Il romanzo chiude ciò che la stesura sceglierà; la partita non deve recitarne la conclusione.",
+      "scene": "Una stanza vuota conserva un tavolo, non il diritto su chi lo usava.",
+      "complication": "Un’eredità condivisa può sopravvivere senza il suo fondatore.",
+      "mysteries": [
+        "M03"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-01",
+        "FRONT-06",
+        "FRONT-12"
+      ],
+      "antagonist_ids": [
+        "CAST-474",
+        "CAST-475",
+        "CAST-484",
+        "CAST-485"
+      ],
+      "allied_bearer_ids": [
+        "CAST-194",
+        "CAST-321",
+        "CAST-496"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-39",
+        "title": "The Door Left Unlocked",
+        "volume": 8,
+        "axis": "ELIAS_CON_INTERSEZIONE",
+        "alexander_entry": "Può decidere del proprio rapporto al gruppo soltanto se vi è davvero entrato o ha assunto accordi con membri reali.",
+        "elias_entry": "Con gli effettivi partecipanti decide se mantenere, trasferire o chiudere lo scambio.",
+        "contact_carrier_ids": [
+          "CAST-031",
+          "CAST-032",
+          "CAST-035",
+          "CAST-127"
+        ],
+        "activation_gate": "Nessuna seduta finale è obbligatoria. Se Alexander non ha mai aderito, non viene trattato come fondatore dimissionario o convocato per chiudere l’arco.",
+        "without_meeting": "Il gruppo può proseguire o cessare indipendentemente dal PG, conservando effetti e obblighi civili realmente prodotti.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-01",
+          "OPCLK-06",
+          "OPCLK-12"
+        ],
+        "front_ids": [
+          "FRONT-01",
+          "FRONT-06",
+          "FRONT-12"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_199_Archi_31_40.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    },
+    {
+      "id": "ARC-40",
+      "volume": 8,
+      "title": "The First and the Last",
+      "chapter_budget": 40,
+      "theatre": "teatro finale prodotto dalla partita",
+      "cast_ids": [
+        "CAST-001",
+        "CAST-002",
+        "CAST-490",
+        "CAST-491",
+        "CAST-386",
+        "CAST-388",
+        "CAST-390",
+        "CAST-492",
+        "CAST-493",
+        "CAST-416",
+        "CAST-418",
+        "CAST-420"
+      ],
+      "sources": "83; 84; 194; esiti effettivi",
+      "stable_truth": "Edran è la persona ritornata; la sua natura non determina un’ultima azione obbligatoria.",
+      "independent_initiative": "Le forze rimaste operano secondo risorse e scelte registrate, senza entità finale aggiunta dopo una soluzione valida.",
+      "hooks": [
+        "Richiesta concreta di creare un nuovo inizio",
+        "necessità reale di terminare un rapporto dannoso."
+      ],
+      "choice": "Creare, distruggere, custodire, delegare o ritirarsi: la scelta appartiene al PG.",
+      "evolution": "Conclusioni possibili: riforma condivisa, sovranità contestata, liberazione parziale, separazione dei protagonisti o tragedia causata da decisioni effettive. Nessuna è già accaduta.",
+      "scene": "Se il potere necessario è realmente disponibile, il problema può diventare decidere cosa meriti di continuare; altrimenti il culmine segue le risorse e i conflitti effettivi.",
+      "complication": "L’ultima contesa non deve esistere se è stata già risolta. In quel caso il culmine è la conseguenza della soluzione.",
+      "mysteries": [
+        "M20"
+      ],
+      "activation": "Condizionale: verificare fonti, accessi e stato precedente",
+      "pressure": "Calendario 201 per scadenze iniziali; in seguito processo e risorsa effettivamente attivati",
+      "impact": "🟠; 🔴 o ⚫ solo per trasformazioni o estinzioni effettive",
+      "operational_fronts": [
+        "FRONT-09",
+        "FRONT-10"
+      ],
+      "antagonist_ids": [
+        "CAST-490",
+        "CAST-491",
+        "CAST-492",
+        "CAST-493"
+      ],
+      "allied_bearer_ids": [
+        "CAST-386",
+        "CAST-420"
+      ],
+      "causal_convergence": {
+        "arc_id": "ARC-40",
+        "title": "The First and the Last",
+        "volume": 8,
+        "axis": "ESITO_APERTO",
+        "alexander_entry": "Il culmine riguarda una decisione ancora pertinente alla propria linea, con poteri e rapporti realmente disponibili.",
+        "elias_entry": "Il suo esito dipende dalla storia effettivamente vissuta, non dal bisogno di completare la figura del protagonista letterario.",
+        "contact_carrier_ids": [
+          "CAST-001",
+          "CAST-002"
+        ],
+        "activation_gate": "Non si presume presenza comune, sopravvivenza di entrambi o raggiungimento di Sovereign/Continuum. Se la contesa è già risolta, il culmine riguarda le conseguenze.",
+        "without_meeting": "Sono possibili conclusioni separate, cooperative o conflittuali. Il Narratore non aggiunge un nemico finale o una convocazione per unire ciò che la partita ha separato.",
+        "calendar_references": [],
+        "front_calendar_references": [
+          "OPCLK-09",
+          "OPCLK-10"
+        ],
+        "front_ids": [
+          "FRONT-09",
+          "FRONT-10"
+        ],
+        "contact_state": "NOT_SENT_NOT_OCCURRED",
+        "simultaneous_presence_required": false,
+        "automatic_identity_disclosure": false,
+        "automatic_advancement": false,
+        "source_arc": "RISERVATO_199_Archi_31_40.md",
+        "actor_reference_is_current_location": false
+      },
+      "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+    }
+  ],
+  "future_outcomes": "Aperti; ordine e budget editoriali non sono eventi canonici",
+  "rules_source": "194;202",
+  "raccordo_revision": "RACCORDI-317",
+  "convergence_revision": 341,
+  "convergence_source": "RISERVATO_341_Intrecci_causali_delle_due_linee.md"
+}

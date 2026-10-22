@@ -1612,7 +1612,99 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-11-1",
+          "title": "La pausa sopra la galleria",
+          "situation": "Durante una pausa gli operai discutono quale famiglia perderà il turno se la galleria viene chiusa; una persona ha visto spostare la targhetta, ma teme un’accusa di sabotaggio.",
+          "choice": "Ascoltare in privato, chiedere una testimonianza pubblica o occuparsi prima della sicurezza cambia chi accetta di parlare.",
+          "possible_changes": "La testimonianza può chiarire il movimento del cartello, non l’origine dell’investimento. Una chiusura fondata resta possibile senza trasformare il testimone in colpevole.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Occorrono ubicazione moderna verificata, accesso e campione autentico. Il ricordo del luogo antico non identifica ogni galleria odierna.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-030",
+            "CAST-476",
+            "CAST-477",
+            "CAST-246",
+            "CAST-248",
+            "CAST-250",
+            "CAST-486",
+            "CAST-487",
+            "CAST-241",
+            "CAST-243",
+            "CAST-245",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-11-2",
+          "title": "Il carico che non passa",
+          "situation": "Un mezzo di trasporto già ammesso al cantiere non attraversa il tratto di pavimento che il blocco investito sostiene. Il problema materiale interrompe una consegna ordinaria.",
+          "choice": "Preparare un sostegno, scaricare, cambiare percorso o rimuovere il rapporto raggiunto comporta tempi e risorse diversi.",
+          "possible_changes": "Una riparazione riuscita riapre il passaggio ma può lasciare il reperto dov’è. Rimuoverlo può risolvere il rischio e cambiare la disponibilità della prova.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Occorrono ubicazione moderna verificata, accesso e campione autentico. Il ricordo del luogo antico non identifica ogni galleria odierna.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-030",
+            "CAST-476",
+            "CAST-477",
+            "CAST-246",
+            "CAST-248",
+            "CAST-250",
+            "CAST-486",
+            "CAST-487",
+            "CAST-241",
+            "CAST-243",
+            "CAST-245",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-11-3",
+          "title": "La custodia proposta",
+          "situation": "Custodi e concessionari presentano due destinazioni reali per il blocco: conservazione accessibile o deposito tecnico che consente lavori più rapidi.",
+          "choice": "Si possono negoziare accessi, scegliere una sede diversa o rifiutare entrambe senza dover distruggere il reperto.",
+          "possible_changes": "Il destinatario scelto acquisisce una responsabilità concreta; non la conoscenza di tutti i marchi antichi o un diritto su quelli ancora da trovare.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Occorrono ubicazione moderna verificata, accesso e campione autentico. Il ricordo del luogo antico non identifica ogni galleria odierna.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-030",
+            "CAST-476",
+            "CAST-477",
+            "CAST-246",
+            "CAST-248",
+            "CAST-250",
+            "CAST-486",
+            "CAST-487",
+            "CAST-241",
+            "CAST-243",
+            "CAST-245",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-12",
@@ -1713,7 +1805,84 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-12-1",
+          "title": "Il raccolto sulla tavola",
+          "situation": "Coltivatori offrono un pasto con prodotti delle varietà in discussione. Il beneficio è reale e la conversazione diventa tesa quando qualcuno chiama maledetta tutta la coltura.",
+          "choice": "Distinguere il lotto, ascoltare chi lo mantiene o rifiutare un assaggio non equivale a decidere già la colpa antica.",
+          "possible_changes": "I rapporti locali cambiano secondo ciò che viene detto e fatto. La bontà del raccolto non autentica la derivazione e non rende impossibile un abuso.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Serve accesso alla coltura o al campione pertinente; un nome letto altrove non concede diagnosi o presenza sul posto.",
+          "cast_context_ids": [
+            "CAST-013",
+            "CAST-077",
+            "CAST-478",
+            "CAST-479",
+            "CAST-286",
+            "CAST-289",
+            "CAST-290",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-12-2",
+          "title": "L’acqua interrotta",
+          "situation": "Un’interruzione di manutenzione rende visibile che due piante utili dipendono da apporti diversi. La seconda mantiene un raccordo non dichiarato nella scheda consegnata.",
+          "choice": "Ripristinare, isolare o predisporre un apporto alternativo offre una prima azione anche prima di conoscere chi abbia configurato il lotto.",
+          "possible_changes": "La funzione osservata diventa una prova del presente. La sua somiglianza con un progetto antico richiede ancora campione e provenienza.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Serve accesso alla coltura o al campione pertinente; un nome letto altrove non concede diagnosi o presenza sul posto.",
+          "cast_context_ids": [
+            "CAST-013",
+            "CAST-077",
+            "CAST-478",
+            "CAST-479",
+            "CAST-286",
+            "CAST-289",
+            "CAST-290",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-12-3",
+          "title": "Chi firma la prossima stagione",
+          "situation": "Una comunità vuole conservare la varietà e cambiare manutentore; il fornitore sostiene che il rinnovo debba riguardare tutto il raccolto.",
+          "choice": "Si può negoziare una fornitura limitata, finanziare una verifica indipendente o rinunciare alla distribuzione maggiore.",
+          "possible_changes": "La decisione cambia scorte e alleanze professionali. Non provoca una peste mondiale per dimostrare che il fornitore aveva ragione.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Serve accesso alla coltura o al campione pertinente; un nome letto altrove non concede diagnosi o presenza sul posto.",
+          "cast_context_ids": [
+            "CAST-013",
+            "CAST-077",
+            "CAST-478",
+            "CAST-479",
+            "CAST-286",
+            "CAST-289",
+            "CAST-290",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-13",
@@ -1804,7 +1973,72 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-13-1",
+          "title": "Un gesto rimasto",
+          "situation": "Se l’incontro con una figura antica è realmente ottenuto, un’abitudine di ospitalità può risultare familiare prima che venga riconosciuta un’identità.",
+          "choice": "Rispondere al gesto, restare formali o nominare un ricordo apre conversazioni diverse; nessuna reazione autentica automaticamente Edran.",
+          "possible_changes": "Può emergere fiducia personale senza alleanza politica, oppure una distanza che non cancella il valore del rapporto passato.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Una persona antica deve ricevere prove pertinenti prima di riconoscere Edran nel volto di Alexander. La sua presenza non viene annunciata tramite un segnale cosmico automatico.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-023",
+            "CAST-039",
+            "CAST-478",
+            "CAST-479",
+            "CAST-286",
+            "CAST-289",
+            "CAST-290"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-13-2",
+          "title": "La richiesta di oggi",
+          "situation": "Un incarico presente del vecchio amico entra nella conversazione: chi aspetta il suo servizio non sa nulla dell’antica relazione.",
+          "choice": "Chiedere precedenza, aiutare senza rivelarsi o tornare più tardi mette alla prova il significato concreto della familiarità.",
+          "possible_changes": "Il nuovo rapporto comprende persone e doveri moderni. Il ritorno non riattiva una subordinazione o rende trascurabili gli altri beneficiari.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Una persona antica deve ricevere prove pertinenti prima di riconoscere Edran nel volto di Alexander. La sua presenza non viene annunciata tramite un segnale cosmico automatico.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-023",
+            "CAST-039",
+            "CAST-478",
+            "CAST-479",
+            "CAST-286",
+            "CAST-289",
+            "CAST-290"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-13-3",
+          "title": "Il nome lasciato sul tavolo",
+          "situation": "Un nome o una firma possono essere offerti come primo elemento di riconoscimento. L’interlocutore può chiedere una prova che non esponga terzi.",
+          "choice": "Concedere una verifica, rivelare solo parte della storia o conservare il nome attuale sono scelte legittime.",
+          "possible_changes": "Il checkpoint registra chi conosce quale identità. Un rifiuto della prova non diventa automaticamente tradimento o confessione.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Una persona antica deve ricevere prove pertinenti prima di riconoscere Edran nel volto di Alexander. La sua presenza non viene annunciata tramite un segnale cosmico automatico.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-023",
+            "CAST-039",
+            "CAST-478",
+            "CAST-479",
+            "CAST-286",
+            "CAST-289",
+            "CAST-290"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-14",
@@ -1924,7 +2158,102 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-14-1",
+          "title": "Il nome scelto da chi è nato",
+          "situation": "Una persona indipendente collegata al caso corregge il modo in cui un laboratorio la presenta e chiede un nome o un appellativo diverso.",
+          "choice": "Riconoscere la richiesta, domandare che cosa desideri o trattarla come dettaglio amministrativo modifica immediatamente la fiducia.",
+          "possible_changes": "La sua volontà non prova o smentisce chi l’abbia generata. Non deve accettare un genitore, un proprietario o un ruolo sociale preassegnato.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Non si inventa una persona creata da Alexander fuori gioco. Servono un caso già esistente o una sua creazione deliberata registrata.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-008",
+            "CAST-035",
+            "CAST-484",
+            "CAST-485",
+            "CAST-321",
+            "CAST-323",
+            "CAST-325",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-14-2",
+          "title": "Una stanza per stanotte",
+          "situation": "Prima di un grande giudizio serve un luogo in cui la persona possa riposare senza essere trattata come campione o proprietà.",
+          "choice": "Ospitare, trovare un garante o separare assistenza e interrogatorio crea una soluzione materiale limitata.",
+          "possible_changes": "L’ospitalità non trasferisce la custodia spirituale né rende debitrice la persona. Può aprire una relazione che sopravvive alla controversia tecnica.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Non si inventa una persona creata da Alexander fuori gioco. Servono un caso già esistente o una sua creazione deliberata registrata.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-008",
+            "CAST-035",
+            "CAST-484",
+            "CAST-485",
+            "CAST-321",
+            "CAST-323",
+            "CAST-325",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-14-3",
+          "title": "Il beneficio e il vincolo",
+          "situation": "Chi ha sostenuto una funzione rivendica riconoscimento e continuità del servizio; il beneficiario desidera l’aiuto ma rifiuta il possesso.",
+          "choice": "Si può verificare il costo, riconoscere un lavoro e contestare il vincolo nello stesso accordo.",
+          "possible_changes": "Un patto può mantenere il beneficio e cambiare il rapporto. Se fallisce, la contesa segue risorse e accessi, non il principio che ogni nascita sia un abuso.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Non si inventa una persona creata da Alexander fuori gioco. Servono un caso già esistente o una sua creazione deliberata registrata.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-008",
+            "CAST-035",
+            "CAST-484",
+            "CAST-485",
+            "CAST-321",
+            "CAST-323",
+            "CAST-325",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-15",
@@ -2037,7 +2366,102 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-15-1",
+          "title": "La via che manca al racconto",
+          "situation": "Un viaggiatore mostra un itinerario più lungo di quello descritto nella memoria del corridoio. Per lui conta arrivare, non risolvere una disputa antica.",
+          "choice": "Accompagnarlo, studiare il tracciato o cercare un’altra via può rendere concreto il costo della chiusura senza imporre il confronto con Sereth.",
+          "possible_changes": "Un percorso alternativo valido resta valido. Il disagio del viaggio non prova da solo che il vecchio corridoio fosse recuperabile.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Itinerario, permessi, mezzo e capacità devono esistere. Helyr non viene informato automaticamente dall’uso della cerniera e non riconosce il ritorno a distanza.",
+          "cast_context_ids": [
+            "CAST-002",
+            "CAST-011",
+            "CAST-024",
+            "CAST-476",
+            "CAST-477",
+            "CAST-246",
+            "CAST-248",
+            "CAST-250",
+            "CAST-482",
+            "CAST-483",
+            "CAST-336",
+            "CAST-338",
+            "CAST-340",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-15-2",
+          "title": "Tenere l’uscita",
+          "situation": "Una prova di passaggio richiede che qualcuno mantenga il raccordo mentre altri verificano il ritorno. I ruoli possono essere rifiutati o scambiati.",
+          "choice": "Ridurre il carico, cambiare mezzo o rinunciare alla prova è possibile prima di esporre persone.",
+          "possible_changes": "La prova registra quale accesso funziona e con quale sostegno. Non concede controllo su tutti i varchi né annulla le distanze restanti.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Itinerario, permessi, mezzo e capacità devono esistere. Helyr non viene informato automaticamente dall’uso della cerniera e non riconosce il ritorno a distanza.",
+          "cast_context_ids": [
+            "CAST-002",
+            "CAST-011",
+            "CAST-024",
+            "CAST-476",
+            "CAST-477",
+            "CAST-246",
+            "CAST-248",
+            "CAST-250",
+            "CAST-482",
+            "CAST-483",
+            "CAST-336",
+            "CAST-338",
+            "CAST-340",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-15-3",
+          "title": "La domanda a Sereth",
+          "situation": "Se Sereth è raggiunto e accetta un confronto, la domanda riguarda la deviazione non tentata, non ogni corridoio dell’universo.",
+          "choice": "Ascoltare la motivazione, contestare la scelta, chiedere una riparazione presente o interrompere l’udienza produce esiti diversi.",
+          "possible_changes": "La responsabilità antica non cambia con l’esito del dialogo. Un nuovo accordo può essere utile senza costituire assoluzione.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Itinerario, permessi, mezzo e capacità devono esistere. Helyr non viene informato automaticamente dall’uso della cerniera e non riconosce il ritorno a distanza.",
+          "cast_context_ids": [
+            "CAST-002",
+            "CAST-011",
+            "CAST-024",
+            "CAST-476",
+            "CAST-477",
+            "CAST-246",
+            "CAST-248",
+            "CAST-250",
+            "CAST-482",
+            "CAST-483",
+            "CAST-336",
+            "CAST-338",
+            "CAST-340",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-16",
@@ -2148,7 +2572,102 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-16-1",
+          "title": "Il foglio davanti ai familiari",
+          "situation": "Una verifica tecnica viene ascoltata da qualcuno che attribuisce al foglio il valore di una promessa. La distinzione fra progetto e lotto non ha per tutti lo stesso peso emotivo.",
+          "choice": "Spiegare subito, parlare prima con gli esperti o lasciare che il testimone faccia domande cambia il modo in cui la prova viene ricevuta.",
+          "possible_changes": "La precisione può ferire senza essere un’aggressione; la delicatezza non deve trasformare una copertura limitata in garanzia universale.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Attestazione, copia e allegati si trasmettono secondo la loro custodia effettiva. Una prova sufficiente può anticipare la scoperta senza completare altri archi.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-018",
+            "CAST-025",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-16-2",
+          "title": "La copia senza il margine",
+          "situation": "Un esemplare d’uso riproduce correttamente il testo principale e omette il margine che ne limita la copertura.",
+          "choice": "Cercare la filiera di copia, confrontare l’originale o sospendere una pubblicazione sono azioni autonome, non una confessione già ottenuta.",
+          "possible_changes": "Si distingue un’omissione dalla falsificazione consapevole solo attraverso provenienza e uso effettivo. Il fatto tecnico non decide da solo l’intenzione.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Attestazione, copia e allegati si trasmettono secondo la loro custodia effettiva. Una prova sufficiente può anticipare la scoperta senza completare altri archi.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-018",
+            "CAST-025",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-16-3",
+          "title": "Una restituzione non trionfale",
+          "situation": "Una parte chiede una dichiarazione pubblica che il documento non può sostenere interamente. Un’altra teme che una formula prudente sembri una negazione.",
+          "choice": "Pubblicare per gradi, allegare limiti chiari o rifiutare un titolo più forte può costare un sostegno politico.",
+          "possible_changes": "La prova conserva lo stesso contenuto. Le reazioni e gli accessi futuri possono cambiare senza cancellare i risultati già acquisiti.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Attestazione, copia e allegati si trasmettono secondo la loro custodia effettiva. Una prova sufficiente può anticipare la scoperta senza completare altri archi.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-018",
+            "CAST-025",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-17",
@@ -2259,7 +2778,102 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-17-1",
+          "title": "La protesta fra i rinnovi",
+          "situation": "Una testimonianza raggiunta colloca una protesta durante il mantenimento del contenimento, non necessariamente alla sua origine.",
+          "choice": "Chiedere che cosa sapeva ciascuno in quel momento consente di distinguere decisione iniziale e prosecuzione consapevole.",
+          "possible_changes": "Il testimone può avere ragione sul tempo e ignorare la tecnica. La protesta non viene inventata come ordine ricevuto da Edran.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Conoscere una colpa non concede accesso al responsabile né la ricezione di ogni messaggio. Titolo ducale e forza soprannaturale hanno competenze diverse.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-014",
+            "CAST-015",
+            "CAST-476",
+            "CAST-477",
+            "CAST-246",
+            "CAST-248",
+            "CAST-250",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-494",
+            "CAST-495",
+            "CAST-208",
+            "CAST-211",
+            "CAST-220"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-17-2",
+          "title": "Gli utenti davanti all’udienza",
+          "situation": "Persone che dipendono da un servizio attuale temono che la contesa contro un’autorità interrompa la loro assistenza.",
+          "choice": "Separare il servizio dal giudizio, preparare un sostituto o ascoltare richieste di garanzia dà un costo concreto al modo di procedere.",
+          "possible_changes": "La tutela dei beneficiari può riuscire. Non è necessario prendere in ostaggio una comunità per rendere importante il confronto divino.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Conoscere una colpa non concede accesso al responsabile né la ricezione di ogni messaggio. Titolo ducale e forza soprannaturale hanno competenze diverse.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-014",
+            "CAST-015",
+            "CAST-476",
+            "CAST-477",
+            "CAST-246",
+            "CAST-248",
+            "CAST-250",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-494",
+            "CAST-495",
+            "CAST-208",
+            "CAST-211",
+            "CAST-220"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-17-3",
+          "title": "Tre decisioni, tre risposte",
+          "situation": "Se un confronto con Ilyra è realmente ottenuto, ciascun rinnovo può essere discusso separatamente, con prove del sapere disponibile.",
+          "choice": "Accettare una spiegazione parziale, chiedere cessazioni o ricercare una responsabilità personale non sono la stessa richiesta.",
+          "possible_changes": "Una concessione presente può cambiare la giurisdizione senza riscrivere i tre atti. Il giocatore non deve pronunciare un verdetto previsto dal volume.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Conoscere una colpa non concede accesso al responsabile né la ricezione di ogni messaggio. Titolo ducale e forza soprannaturale hanno competenze diverse.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-014",
+            "CAST-015",
+            "CAST-476",
+            "CAST-477",
+            "CAST-246",
+            "CAST-248",
+            "CAST-250",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-494",
+            "CAST-495",
+            "CAST-208",
+            "CAST-211",
+            "CAST-220"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-18",
@@ -2359,7 +2973,87 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-18-1",
+          "title": "Il sostegno che serve davvero",
+          "situation": "La funzione utile del circuito viene osservata mentre il beneficiario svolge un’attività ordinaria. Il problema non è negare il beneficio ma capire il rapporto nascosto.",
+          "choice": "Chiedere consenso alla verifica, ridurre il carico o rinviare un distacco evita che la persona diventi soltanto una prova.",
+          "possible_changes": "La fiducia cambia in base alla spiegazione e alle scelte. Una diagnosi riuscita non attribuisce subito l’ordine antico a chi usa oggi il sostegno.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Servono un lotto o una derivazione raggiunti e una provenienza verificabile. La scoperta non richiede presenza simultanea dei due personaggi.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-013",
+            "CAST-023",
+            "CAST-478",
+            "CAST-479",
+            "CAST-286",
+            "CAST-289",
+            "CAST-290",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-18-2",
+          "title": "La prima funzione autonoma",
+          "situation": "Un’alternativa compatibile viene provata su una funzione delimitata prima di separare l’intero rapporto.",
+          "choice": "Si può scegliere un campione non personale, un supporto disponibile o una prova assistita con condizioni dichiarate.",
+          "possible_changes": "Se l’alternativa funziona, quella capacità di uscita è reale. Non ricompare un vincolo segreto aggiuntivo per impedire la separazione.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Servono un lotto o una derivazione raggiunti e una provenienza verificabile. La scoperta non richiede presenza simultanea dei due personaggi.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-013",
+            "CAST-023",
+            "CAST-478",
+            "CAST-479",
+            "CAST-286",
+            "CAST-289",
+            "CAST-290",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-18-3",
+          "title": "Il prezzo della perdita di presa",
+          "situation": "La cessazione di una dipendenza può essere comunicata alla controparte solo se esistono canale e ragioni per farlo.",
+          "choice": "Rendere pubblico il successo, conservarlo riservato o offrirne il metodo a un’altra comunità cambia chi può reagire.",
+          "possible_changes": "Othrem può usare altre risorse note o negoziare; non ristabilisce per decreto il medesimo vincolo già eliminato.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Servono un lotto o una derivazione raggiunti e una provenienza verificabile. La scoperta non richiede presenza simultanea dei due personaggi.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-013",
+            "CAST-023",
+            "CAST-478",
+            "CAST-479",
+            "CAST-286",
+            "CAST-289",
+            "CAST-290",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-19",
@@ -2474,7 +3168,108 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-19-1",
+          "title": "Una festa dopo la correzione",
+          "situation": "Un fedele continua una pratica benefica mentre viene corretta l’attribuzione della sua origine. La festa non smette automaticamente di significare qualcosa per lui.",
+          "choice": "Partecipare, spiegare il nome antico o lasciare che la comunità decida il proprio linguaggio rende visibile una scelta diversa dalla sola denuncia.",
+          "possible_changes": "La tradizione può cambiare senza essere abolita. La sincerità del fedele non dimostra che la storia ufficiale fosse esatta.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Una copia o un componente deve essere consegnato oppure visitato. La connessione fra Alexander ed Edran resta da comunicare o dimostrare ai singoli interlocutori.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-006",
+            "CAST-007",
+            "CAST-008",
+            "CAST-072",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-19-2",
+          "title": "Il monumento e la strada",
+          "situation": "Un’iscrizione celebrativa può essere corretta mentre un servizio sottostante richiede manutenzione ordinaria.",
+          "choice": "Finanziare, distinguere i lavori o discutere prima l’iscrizione stabilisce una priorità leggibile alle persone del quartiere.",
+          "possible_changes": "Riparare il servizio non approva il falso; correggere il monumento non ripara il servizio. Entrambi gli esiti vengono registrati separatamente.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Una copia o un componente deve essere consegnato oppure visitato. La connessione fra Alexander ed Edran resta da comunicare o dimostrare ai singoli interlocutori.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-006",
+            "CAST-007",
+            "CAST-008",
+            "CAST-072",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-19-3",
+          "title": "Il nome restituito",
+          "situation": "Una comunità propone una nuova formula pubblica; altri preferiscono conservare un titolo condiviso.",
+          "choice": "Si possono offrire prove, suggerire una doppia iscrizione o rinunciare al riconoscimento personale.",
+          "possible_changes": "Il riconoscimento eventualmente ottenuto riguarda chi lo ha accolto. Non attiva un culto planetario né rivela l’identità a tutti gli assenti.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Una copia o un componente deve essere consegnato oppure visitato. La connessione fra Alexander ed Edran resta da comunicare o dimostrare ai singoli interlocutori.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-006",
+            "CAST-007",
+            "CAST-008",
+            "CAST-072",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-20",
@@ -2589,7 +3384,108 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-20-1",
+          "title": "Il posto di chi non vuole giudicare",
+          "situation": "Una persona coinvolta chiede di non diventare il volto pubblico del processo o della resa dei conti.",
+          "choice": "Garantire il suo rifiuto, cercare altre prove o cambiare sede può complicare una strategia senza renderla impossibile.",
+          "possible_changes": "Una vittima o un beneficiario non deve assumere il ruolo di testimone morale universale per permettere ai protagonisti di agire.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "La contesa richiede attori raggiungibili e prove disponibili; nessuna assoluzione, vendetta o collaborazione viene assegnata al PG.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-013",
+            "CAST-014",
+            "CAST-018",
+            "CAST-024",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-20-2",
+          "title": "Due racconti veri",
+          "situation": "Controparti raggiunte possono riconoscere fatti diversi e omettere il costo imposto dalla propria decisione.",
+          "choice": "Confrontare le versioni, separare responsabilità o interrompere il colloquio è possibile senza scegliere subito un solo colpevole.",
+          "possible_changes": "Il mosaico delle prove si arricchisce; una contraddizione apparente non autorizza il Narratore a sostituire il passato con un assassino nuovo.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "La contesa richiede attori raggiungibili e prove disponibili; nessuna assoluzione, vendetta o collaborazione viene assegnata al PG.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-013",
+            "CAST-014",
+            "CAST-018",
+            "CAST-024",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-20-3",
+          "title": "Il giorno dopo la decisione",
+          "situation": "Qualunque giudizio effettivamente raggiunto lascia servizi, persone e rapporti da mantenere o sciogliere.",
+          "choice": "Delegare un compito, tornare alla vita civile o chiedere una garanzia rende concreta la differenza fra punire e governare.",
+          "possible_changes": "La scena dipende dal verdetto giocato e può essere omessa. Non introduce una vendetta automatica se il giocatore ha scelto altrimenti.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "La contesa richiede attori raggiungibili e prove disponibili; nessuna assoluzione, vendetta o collaborazione viene assegnata al PG.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-013",
+            "CAST-014",
+            "CAST-018",
+            "CAST-024",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-21",
@@ -2701,7 +3597,90 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-21-1",
+          "title": "La voce e la stanza vuota",
+          "situation": "Un interlocutore mostra una registrazione prima di poter raggiungere la presenza dormiente. La voce può essere familiare e restare soltanto una traccia.",
+          "choice": "Ascoltare, verificare il supporto o chiedere un accesso differente evita di trattare il primo suono come un risveglio.",
+          "possible_changes": "La registrazione rimane autentica anche se non è una persona. La continuità di Rhael non viene duplicata nel supporto.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Inventario custodiale e presenza autentica richiedono permessi e collegamenti reali. Il ricordo del vecchio amico non permette una convocazione a distanza.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-012",
+            "CAST-026",
+            "CAST-042",
+            "CAST-484",
+            "CAST-485",
+            "CAST-321",
+            "CAST-323",
+            "CAST-325",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-21-2",
+          "title": "Una domanda non prevista",
+          "situation": "Solo se il contatto autentico diventa possibile, una domanda non contenuta nel repertorio può distinguere risposta personale e riproduzione.",
+          "choice": "La persona custodita può rispondere, tacere o rifiutare l’argomento secondo lo stato effettivo raggiunto.",
+          "possible_changes": "Il silenzio non prova estinzione. Una risposta nuova prova qualcosa sull’interlocuzione, non il consenso a essere trasferiti in qualsiasi corpo.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Inventario custodiale e presenza autentica richiedono permessi e collegamenti reali. Il ricordo del vecchio amico non permette una convocazione a distanza.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-012",
+            "CAST-026",
+            "CAST-042",
+            "CAST-484",
+            "CAST-485",
+            "CAST-321",
+            "CAST-323",
+            "CAST-325",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-21-3",
+          "title": "L’uscita proposta",
+          "situation": "Una possibilità di sostegno o ritorno viene descritta al soggetto raggiunto, non soltanto ai custodi.",
+          "choice": "Accettare tempi diversi, cambiare il progetto o lasciare la custodia aperta conserva una scelta personale.",
+          "possible_changes": "Un rifiuto può chiudere quella proposta e mantenere il rapporto. Denor e Rhael restano casi differenti, non due versioni della stessa procedura.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Inventario custodiale e presenza autentica richiedono permessi e collegamenti reali. Il ricordo del vecchio amico non permette una convocazione a distanza.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-012",
+            "CAST-026",
+            "CAST-042",
+            "CAST-484",
+            "CAST-485",
+            "CAST-321",
+            "CAST-323",
+            "CAST-325",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-22",
@@ -2793,7 +3772,72 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-22-1",
+          "title": "Due modi di accogliere",
+          "situation": "Due inviti realmente ricevuti conservano un dettaglio operativo comune ma presentano ospitalità diverse.",
+          "choice": "Confrontare gli inviti, accettarne uno o chiedere un incontro ordinario offre accessi non equivalenti.",
+          "possible_changes": "Il dettaglio comune è un indizio del raccordo. Non identifica automaticamente ogni volto o un membro dell’Exchange.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "L’invito deve percorrere un collegamento reale. Nessuna partecipazione mentale remota è concessa a tutti dal solo fatto che esista una Root.",
+          "cast_context_ids": [
+            "CAST-010",
+            "CAST-035",
+            "CAST-083",
+            "CAST-484",
+            "CAST-485",
+            "CAST-321",
+            "CAST-323",
+            "CAST-325"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-22-2",
+          "title": "La prova dell’uscita",
+          "situation": "Prima dello scambio, un ospite chiede di verificare il percorso di ritorno senza vedere gli altri compartimenti.",
+          "choice": "Eshra può concedere, negoziare o rifiutare la verifica; l’ospite può rinunciare.",
+          "possible_changes": "La risposta modifica fiducia e accessi. Un rifiuto non rende già prigioniero chi non ha ancora attraversato la soglia.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "L’invito deve percorrere un collegamento reale. Nessuna partecipazione mentale remota è concessa a tutti dal solo fatto che esista una Root.",
+          "cast_context_ids": [
+            "CAST-010",
+            "CAST-035",
+            "CAST-083",
+            "CAST-484",
+            "CAST-485",
+            "CAST-321",
+            "CAST-323",
+            "CAST-325"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-22-3",
+          "title": "Un’informazione offerta senza il suo peso",
+          "situation": "Lo scambio contiene un fatto autentico e una lettura che favorisce chi lo consegna.",
+          "choice": "Accettare il fatto e contestare l’interpretazione, pagare meno o cercare una seconda fonte cambia il rapporto commerciale.",
+          "possible_changes": "La verità non viene ritirata per punire il dubbio. Il prezzo e l’accesso futuro possono invece cambiare secondo una scelta reale di Eshra.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "L’invito deve percorrere un collegamento reale. Nessuna partecipazione mentale remota è concessa a tutti dal solo fatto che esista una Root.",
+          "cast_context_ids": [
+            "CAST-010",
+            "CAST-035",
+            "CAST-083",
+            "CAST-484",
+            "CAST-485",
+            "CAST-321",
+            "CAST-323",
+            "CAST-325"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-23",
@@ -2919,7 +3963,120 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-23-1",
+          "title": "Il consenso prima della riunione",
+          "situation": "Una persona assistita chiede che si discuta del proprio sostegno in sua presenza, oppure che non venga discusso pubblicamente.",
+          "choice": "Rispettare la richiesta, cercare un’altra sede o separare diagnosi e politica rende concreta la sua autonomia.",
+          "possible_changes": "Nessuna votazione della comunità sostituisce il consenso personale; il rifiuto non rende impossibile ogni soccorso.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Il paziente e i supporti vanno raggiunti; conoscere l’autorità tecnica non basta. Le informazioni cliniche non sono trasferite integralmente a chiunque faccia parte del gruppo.",
+          "cast_context_ids": [
+            "CAST-008",
+            "CAST-023",
+            "CAST-462",
+            "CAST-463",
+            "CAST-478",
+            "CAST-479",
+            "CAST-286",
+            "CAST-289",
+            "CAST-290",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420",
+            "CAST-494",
+            "CAST-495",
+            "CAST-208",
+            "CAST-211",
+            "CAST-220"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-23-2",
+          "title": "Quattro cause, una lesione",
+          "situation": "I segnali raggiunti possono dipendere da una lesione, un vincolo, una fascinazione o una schermatura. Il Narratore stabilisce prima la causa effettiva.",
+          "choice": "Provare una separazione mirata, chiedere un altro specialista o isolare un canale permette di distinguere le ipotesi.",
+          "possible_changes": "Un effetto riuscito fornisce un’informazione limitata. Non muta retroattivamente la causa per mantenere oscuro il caso.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Il paziente e i supporti vanno raggiunti; conoscere l’autorità tecnica non basta. Le informazioni cliniche non sono trasferite integralmente a chiunque faccia parte del gruppo.",
+          "cast_context_ids": [
+            "CAST-008",
+            "CAST-023",
+            "CAST-462",
+            "CAST-463",
+            "CAST-478",
+            "CAST-479",
+            "CAST-286",
+            "CAST-289",
+            "CAST-290",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420",
+            "CAST-494",
+            "CAST-495",
+            "CAST-208",
+            "CAST-211",
+            "CAST-220"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-23-3",
+          "title": "Cambiare servizio senza cambiare fede",
+          "situation": "Un accordo può conservare assistenza e consentire di scegliere un altro fornitore o una diversa pratica rituale.",
+          "choice": "Negoziare una transizione, un periodo limitato o un rifiuto esplicito evita la falsa alternativa fra obbedienza eterna e abbandono.",
+          "possible_changes": "Il nuovo accordo modifica carichi e relazioni. Una parte può perdere influenza senza perdere automaticamente la propria titolarità divina.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Il paziente e i supporti vanno raggiunti; conoscere l’autorità tecnica non basta. Le informazioni cliniche non sono trasferite integralmente a chiunque faccia parte del gruppo.",
+          "cast_context_ids": [
+            "CAST-008",
+            "CAST-023",
+            "CAST-462",
+            "CAST-463",
+            "CAST-478",
+            "CAST-479",
+            "CAST-286",
+            "CAST-289",
+            "CAST-290",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420",
+            "CAST-494",
+            "CAST-495",
+            "CAST-208",
+            "CAST-211",
+            "CAST-220"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-24",
@@ -3034,7 +4191,102 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-24-1",
+          "title": "Il nome nel richiamo",
+          "situation": "Un Medium restituisce un nome o una frase che qualcuno desidera sentire. La loro autenticità documentale non prova ancora presenza personale.",
+          "choice": "Verificare il rapporto, cercare una risposta nuova o interrompere il richiamo cambia il rischio senza negare il valore del ricordo.",
+          "possible_changes": "Il Narratore conserva la differenza già fissata fra voce registrata e persona autentica; non trasforma il lutto in accesso universale al bacino.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Provenienza del richiamo, riserva e accessi si verificano prima del viaggio. Il bacino non si manifesta nella camera del duca per assicurare l’incontro.",
+          "cast_context_ids": [
+            "CAST-012",
+            "CAST-020",
+            "CAST-082",
+            "CAST-482",
+            "CAST-483",
+            "CAST-336",
+            "CAST-338",
+            "CAST-340",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-24-2",
+          "title": "Ciò che alimenta il contenitore",
+          "situation": "Il contenitore raggiunto sostiene rapporti diversi: una quota consumabile e una continuità possono essere vicine senza coincidere.",
+          "choice": "Separare, fornire sostegno o ridurre il flusso offre una prima azione prima di distruggere tutto.",
+          "possible_changes": "La separazione può consumare risorse e preservare la persona. Un contenitore rotto non equivale automaticamente a una liberazione riuscita.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Provenienza del richiamo, riserva e accessi si verificano prima del viaggio. Il bacino non si manifesta nella camera del duca per assicurare l’incontro.",
+          "cast_context_ids": [
+            "CAST-012",
+            "CAST-020",
+            "CAST-082",
+            "CAST-482",
+            "CAST-483",
+            "CAST-336",
+            "CAST-338",
+            "CAST-340",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-24-3",
+          "title": "Una restituzione rifiutata",
+          "situation": "Una presenza contattata può chiedere condizioni diverse da quelle preparate per il suo ritorno.",
+          "choice": "Negoziare, mantenere una custodia diversa o interrompere il progetto conserva la sua individualità.",
+          "possible_changes": "La libertà non si misura con la gratitudine verso chi ha aperto il contatto. Una via chiusa resta chiusa finché non vi sono nuove condizioni reali.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Provenienza del richiamo, riserva e accessi si verificano prima del viaggio. Il bacino non si manifesta nella camera del duca per assicurare l’incontro.",
+          "cast_context_ids": [
+            "CAST-012",
+            "CAST-020",
+            "CAST-082",
+            "CAST-482",
+            "CAST-483",
+            "CAST-336",
+            "CAST-338",
+            "CAST-340",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-25",
@@ -3151,7 +4403,111 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-25-1",
+          "title": "Un pranzo senza presentazione ufficiale",
+          "situation": "Una famiglia o comunità conosciuta accoglie i protagonisti per un motivo ordinario. Qualcuno preferisce parlare di un lavoro o di una festa anziché di poteri.",
+          "choice": "Ascoltare, partecipare o mantenere distanza costruisce un rapporto non riducibile alla funzione narrativa della popolazione.",
+          "possible_changes": "L’ospitalità non rivela il ritorno né crea fedeltà. Un dettaglio culturale resta di quella comunità, non di tutta la specie.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Le conseguenze devono derivare da azioni registrate e raggiungere il destinatario tramite persone o notizie reali; nessuna gratitudine collettiva automatica.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-003",
+            "CAST-004",
+            "CAST-032",
+            "CAST-072",
+            "CAST-476",
+            "CAST-477",
+            "CAST-246",
+            "CAST-248",
+            "CAST-250",
+            "CAST-484",
+            "CAST-485",
+            "CAST-321",
+            "CAST-323",
+            "CAST-325",
+            "CAST-494",
+            "CAST-495",
+            "CAST-208",
+            "CAST-211",
+            "CAST-220"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-25-2",
+          "title": "La scelta di un garante",
+          "situation": "Un beneficiario vuole che una risorsa offerta sia custodita da un interlocutore diverso dal donatore.",
+          "choice": "Accettare, chiedere garanzie tecniche o ritirare l’offerta manifesta quale autonomia si intende davvero concedere.",
+          "possible_changes": "La scelta modifica il controllo del servizio e la fiducia. Una risorsa creata non rende proprietario chi l’ha generata.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Le conseguenze devono derivare da azioni registrate e raggiungere il destinatario tramite persone o notizie reali; nessuna gratitudine collettiva automatica.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-003",
+            "CAST-004",
+            "CAST-032",
+            "CAST-072",
+            "CAST-476",
+            "CAST-477",
+            "CAST-246",
+            "CAST-248",
+            "CAST-250",
+            "CAST-484",
+            "CAST-485",
+            "CAST-321",
+            "CAST-323",
+            "CAST-325",
+            "CAST-494",
+            "CAST-495",
+            "CAST-208",
+            "CAST-211",
+            "CAST-220"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-25-3",
+          "title": "L’impegno che occupa una giornata",
+          "situation": "Un progetto importante entra in conflitto con un impegno civile o familiare già assunto e ancora valido.",
+          "choice": "Delegare, rinviare con spiegazione o mantenere l’impegno ha un costo concreto e non richiede un’emergenza artificiale.",
+          "possible_changes": "Le persone reagiscono secondo rapporti e informazioni propri. La delusione non diventa automaticamente fuga, rapimento o ostilità definitiva.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Le conseguenze devono derivare da azioni registrate e raggiungere il destinatario tramite persone o notizie reali; nessuna gratitudine collettiva automatica.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-003",
+            "CAST-004",
+            "CAST-032",
+            "CAST-072",
+            "CAST-476",
+            "CAST-477",
+            "CAST-246",
+            "CAST-248",
+            "CAST-250",
+            "CAST-484",
+            "CAST-485",
+            "CAST-321",
+            "CAST-323",
+            "CAST-325",
+            "CAST-494",
+            "CAST-495",
+            "CAST-208",
+            "CAST-211",
+            "CAST-220"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-26",
@@ -3264,7 +4620,102 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-26-1",
+          "title": "L’impulso durante il lavoro",
+          "situation": "Un’emissione del Vessel interseca un’osservazione realmente predisposta e ne interrompe l’uso ordinario.",
+          "choice": "Isolare il segnale, registrarlo o sospendere lo strumento cambia quali dati restano disponibili.",
+          "possible_changes": "La sequenza può essere ripetibile senza essere una chiamata personale. Il supporto non viene collocato accanto ai protagonisti soltanto perché arriva l’arco.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Una rotta cosmica esige trasporto, destinazione, protezione e ritorno reali. Il segnale non dà accesso istantaneo, né promuove Elias oltre il rango effettivo.",
+          "cast_context_ids": [
+            "CAST-002",
+            "CAST-011",
+            "CAST-080",
+            "CAST-482",
+            "CAST-483",
+            "CAST-336",
+            "CAST-338",
+            "CAST-340",
+            "CAST-486",
+            "CAST-487",
+            "CAST-241",
+            "CAST-243",
+            "CAST-245",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-26-2",
+          "title": "La copia al mercato",
+          "situation": "Se una copia viene prodotta o incontrata, un venditore può attribuirle il valore dell’accesso originale.",
+          "choice": "Verificare il supporto, acquistare soltanto la registrazione o contestare la provenienza rende diversi informazione e mezzo.",
+          "possible_changes": "La copia può essere utile senza aprire il passaggio. Una frode dimostrata riguarda il venditore effettivo, non ogni commerciante di reperti.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Una rotta cosmica esige trasporto, destinazione, protezione e ritorno reali. Il segnale non dà accesso istantaneo, né promuove Elias oltre il rango effettivo.",
+          "cast_context_ids": [
+            "CAST-002",
+            "CAST-011",
+            "CAST-080",
+            "CAST-482",
+            "CAST-483",
+            "CAST-336",
+            "CAST-338",
+            "CAST-340",
+            "CAST-486",
+            "CAST-487",
+            "CAST-241",
+            "CAST-243",
+            "CAST-245",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-26-3",
+          "title": "Rispondere o lasciar dormire",
+          "situation": "La riserva del processo finito può essere sostenuta solo con un apporto compatibile e un accesso reale.",
+          "choice": "Rispondere, alimentare per poco tempo o lasciarlo diventare dormiente sono possibilità non equivalenti.",
+          "possible_changes": "Una risposta avvia una verifica, non un’invasione obbligatoria. Il messaggio non prova che il mittente sia tuttora vivo o contenga una Root.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Una rotta cosmica esige trasporto, destinazione, protezione e ritorno reali. Il segnale non dà accesso istantaneo, né promuove Elias oltre il rango effettivo.",
+          "cast_context_ids": [
+            "CAST-002",
+            "CAST-011",
+            "CAST-080",
+            "CAST-482",
+            "CAST-483",
+            "CAST-336",
+            "CAST-338",
+            "CAST-340",
+            "CAST-486",
+            "CAST-487",
+            "CAST-241",
+            "CAST-243",
+            "CAST-245",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-27",
@@ -3375,7 +4826,99 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-27-1",
+          "title": "Il giardino dopo il lavoro",
+          "situation": "Se l’habitat è davvero raggiunto, Avarra può mostrare una coltura per il suo valore estetico e poi spiegare il costo del ricambio.",
+          "choice": "Fermarsi a osservare, chiedere che cosa accada fuori dal circuito o rifiutare il campione fa emergere interessi diversi.",
+          "possible_changes": "La bellezza non è una trappola per definizione. Il giardino non senziente conserva la propria logica biologica distinta da un culto umano.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "L’habitat non è una stanza di Room Six. Origin non apre un’uscita remota nuova per il solo desiderio di arrivarvi. Si può cominciare da campioni realmente inviati.",
+          "cast_context_ids": [
+            "CAST-002",
+            "CAST-081",
+            "CAST-478",
+            "CAST-479",
+            "CAST-286",
+            "CAST-289",
+            "CAST-290",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-27-2",
+          "title": "Il materiale quasi compatibile",
+          "situation": "Un composto disponibile somiglia a quello richiesto ma porta una configurazione estranea o una diversa dipendenza.",
+          "choice": "Rifiutare il lotto, separarne una quota o cercare un altro scambio rende verificabile il limite prima della distribuzione.",
+          "possible_changes": "La prova può salvare una coltura e consumare tempo. Avarra può sospendere produzione senza trasformare il rifiuto in minaccia planetaria.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "L’habitat non è una stanza di Room Six. Origin non apre un’uscita remota nuova per il solo desiderio di arrivarvi. Si può cominciare da campioni realmente inviati.",
+          "cast_context_ids": [
+            "CAST-002",
+            "CAST-081",
+            "CAST-478",
+            "CAST-479",
+            "CAST-286",
+            "CAST-289",
+            "CAST-290",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-27-3",
+          "title": "Il dono che qualcuno non vuole",
+          "situation": "Un beneficiario possibile teme che il miglioramento agricolo cambi il rapporto con il proprio territorio o con i fornitori.",
+          "choice": "Accettare un limite locale, offrire un metodo anziché il lotto o rinunciare al dono distingue aiuto e imposizione.",
+          "possible_changes": "Un rifiuto fondato può mantenere uno scambio futuro. La comunità non deve essere punita per non avere riconosciuto il miracolo.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "L’habitat non è una stanza di Room Six. Origin non apre un’uscita remota nuova per il solo desiderio di arrivarvi. Si può cominciare da campioni realmente inviati.",
+          "cast_context_ids": [
+            "CAST-002",
+            "CAST-081",
+            "CAST-478",
+            "CAST-479",
+            "CAST-286",
+            "CAST-289",
+            "CAST-290",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-28",
@@ -3489,7 +5032,105 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-28-1",
+          "title": "Una luce nominata in due modi",
+          "situation": "Un canto o un formulario descrive Vigil con un linguaggio diverso dalla misura orbitale. Entrambi possono avere un’origine autentica.",
+          "choice": "Ascoltare l’uso del nome prima di correggerlo permette di distinguere culto, navigazione e ricordo.",
+          "possible_changes": "Una discrepanza di linguaggio non sostituisce Aster con Vigil e non attribuisce a ogni fedele conoscenza del progetto cosmico.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Per confrontare i risultati servono trasmissione o incontro reale. Il ricordo di avere creato la stella non equivale a sorvegliarla dopo millenni.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-011",
+            "CAST-080",
+            "CAST-482",
+            "CAST-483",
+            "CAST-336",
+            "CAST-338",
+            "CAST-340",
+            "CAST-486",
+            "CAST-487",
+            "CAST-241",
+            "CAST-243",
+            "CAST-245",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-28-2",
+          "title": "Il punto da cui guardare",
+          "situation": "Una verifica a distanza richiede posizione, riferimento e mezzo appropriati; la visita fisica è un altro progetto.",
+          "choice": "Preparare l’osservazione, chiedere dati a una controparte o organizzare un viaggio comporta accessi e costi diversi.",
+          "possible_changes": "Un risultato remoto può corroborare una funzione senza dimostrare lo stato di ogni componente. Non è necessario teletrasportare i personaggi sull’opera.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Per confrontare i risultati servono trasmissione o incontro reale. Il ricordo di avere creato la stella non equivale a sorvegliarla dopo millenni.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-011",
+            "CAST-080",
+            "CAST-482",
+            "CAST-483",
+            "CAST-336",
+            "CAST-338",
+            "CAST-340",
+            "CAST-486",
+            "CAST-487",
+            "CAST-241",
+            "CAST-243",
+            "CAST-245",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-28-3",
+          "title": "Riparare senza farsi riconoscere",
+          "situation": "Se un guasto pertinente è realmente individuato, l’intervento può essere proposto con o senza attribuzione personale.",
+          "choice": "Scegliere una riparazione limitata, delegare o chiedere prima una garanzia rende concreto il rapporto fra opera e nome del creatore.",
+          "possible_changes": "L’esito tecnico e il riconoscimento storico restano separati. Il contributo spaziale di Helyr non viene cancellato per celebrare Edran.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Per confrontare i risultati servono trasmissione o incontro reale. Il ricordo di avere creato la stella non equivale a sorvegliarla dopo millenni.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-011",
+            "CAST-080",
+            "CAST-482",
+            "CAST-483",
+            "CAST-336",
+            "CAST-338",
+            "CAST-340",
+            "CAST-486",
+            "CAST-487",
+            "CAST-241",
+            "CAST-243",
+            "CAST-245",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-29",
@@ -3602,7 +5243,102 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-29-1",
+          "title": "La buona notizia che non basta",
+          "situation": "Un committente desidera annunciare una concordanza prima che sia chiarito il campo delle due misure.",
+          "choice": "Fermare l’annuncio, presentarlo con limiti o cercare una verifica indipendente ha effetti personali e professionali.",
+          "possible_changes": "Una prudenza motivata può perdere consenso e conservare attendibilità. Non autorizza il Narratore a rendere falso un dato corretto.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Dichiarare quali dati viaggiano, tramite chi e con quale latenza o limite del mezzo. Un contatto non apre l’intero repertorio del testimone.",
+          "cast_context_ids": [
+            "CAST-018",
+            "CAST-025",
+            "CAST-080",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-29-2",
+          "title": "Davanti ai due testimoni",
+          "situation": "Se i canali sono raggiunti, due attestazioni vengono mostrate senza imporre ai loro autori la stessa interpretazione.",
+          "choice": "Confrontare fonte e derivazione, chiedere un terzo riferimento o proteggere una provenienza riservata offre percorsi distinti.",
+          "possible_changes": "La discrepanza reale può essere spiegata senza accusare uno dei testimoni di mentire. Proteggere una fonte può limitare ciò che è pubblicabile.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Dichiarare quali dati viaggiano, tramite chi e con quale latenza o limite del mezzo. Un contatto non apre l’intero repertorio del testimone.",
+          "cast_context_ids": [
+            "CAST-018",
+            "CAST-025",
+            "CAST-080",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-29-3",
+          "title": "Il credito della smentita",
+          "situation": "Un esperto può ammettere che il modello elegante non regge oppure attribuire l’errore a un interlocutore con meno potere.",
+          "choice": "Chiedere una correzione firmata, offrire una restituzione condivisa o rendere pubblica la catena dei dati modifica la reputazione.",
+          "possible_changes": "La responsabilità della pubblicazione non coincide con quella del fenomeno. Una smentita riuscita resta parte della storia della ricerca.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Dichiarare quali dati viaggiano, tramite chi e con quale latenza o limite del mezzo. Un contatto non apre l’intero repertorio del testimone.",
+          "cast_context_ids": [
+            "CAST-018",
+            "CAST-025",
+            "CAST-080",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-30",
@@ -3717,7 +5453,108 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-30-1",
+          "title": "Un’assenza al tavolo",
+          "situation": "Un membro già appartenente alla rete può chiedere una riunione diversa o non partecipare senza dover inventare una minaccia.",
+          "choice": "Mantenere il posto, cercare un canale concordato o accettare l’assenza mette alla prova l’appartenenza volontaria.",
+          "possible_changes": "La decisione cambia il lavoro del gruppo, non rende il membro un traditore. La sua identità non viene rivelata per giustificare l’assenza.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Occorrono recapiti, fiducia e un mezzo superiore realmente ottenuto. La cerniera III iniziale non diventa un collegamento intercontinentale perché la rete è cresciuta.",
+          "cast_context_ids": [
+            "CAST-002",
+            "CAST-031",
+            "CAST-032",
+            "CAST-035",
+            "CAST-127",
+            "CAST-474",
+            "CAST-475",
+            "CAST-193",
+            "CAST-194",
+            "CAST-200",
+            "CAST-482",
+            "CAST-483",
+            "CAST-336",
+            "CAST-338",
+            "CAST-340",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-30-2",
+          "title": "L’uscita prima del vantaggio",
+          "situation": "Un accesso proposto è utile ma non rende verificabile il ritorno con le risorse effettive del gruppo.",
+          "choice": "Ridurre l’incontro, scegliere una sede ordinaria o negoziare una verifica può costare un’opportunità reale.",
+          "possible_changes": "Rifiutare il varco non distrugge la rete. La sede non diventa una Root per risolvere l’inconveniente logistico.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Occorrono recapiti, fiducia e un mezzo superiore realmente ottenuto. La cerniera III iniziale non diventa un collegamento intercontinentale perché la rete è cresciuta.",
+          "cast_context_ids": [
+            "CAST-002",
+            "CAST-031",
+            "CAST-032",
+            "CAST-035",
+            "CAST-127",
+            "CAST-474",
+            "CAST-475",
+            "CAST-193",
+            "CAST-194",
+            "CAST-200",
+            "CAST-482",
+            "CAST-483",
+            "CAST-336",
+            "CAST-338",
+            "CAST-340",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-30-3",
+          "title": "Il prezzo della rete estesa",
+          "situation": "La crescita degli scambi richiede tempo di membri, mezzi e responsabilità; qualcuno non vuole assumere la quota proposta.",
+          "choice": "Distribuire compiti, restringere il progetto o consentire l’uscita rende visibile il modo in cui il gruppo governa se stesso.",
+          "possible_changes": "Un accordo parziale può funzionare senza unanimità. Alexander non viene nominato capo per colmare una difficoltà organizzativa.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Occorrono recapiti, fiducia e un mezzo superiore realmente ottenuto. La cerniera III iniziale non diventa un collegamento intercontinentale perché la rete è cresciuta.",
+          "cast_context_ids": [
+            "CAST-002",
+            "CAST-031",
+            "CAST-032",
+            "CAST-035",
+            "CAST-127",
+            "CAST-474",
+            "CAST-475",
+            "CAST-193",
+            "CAST-194",
+            "CAST-200",
+            "CAST-482",
+            "CAST-483",
+            "CAST-336",
+            "CAST-338",
+            "CAST-340",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-31",
@@ -3824,7 +5661,93 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-31-1",
+          "title": "Un titolare e un servizio",
+          "situation": "Prima di discutere la successione, un visitatore incontra una funzione antica sostenuta oggi da una persona diversa.",
+          "choice": "Riconoscere il lavoro presente, chiedere il suo costo o trattarlo soltanto come ostacolo cambia l’udienza.",
+          "possible_changes": "Il servizio non assolve una colpa estranea e la continuità storica non attribuisce a Edran la persona moderna come subordinato.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "La situazione moderna si accerta attraverso fonti o diagnosi raggiunte. Nessuno è informato della richiesta di Alexander senza riceverla davvero.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-007",
+            "CAST-008",
+            "CAST-021",
+            "CAST-022",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-31-2",
+          "title": "Il requisito sul tavolo",
+          "situation": "Una proposta raggiunta distingue rinuncia, accesso parziale, incorporazione e trasferimento effettivo.",
+          "choice": "Chiedere una prova limitata, negoziare o interrompere la trattativa è possibile senza iniziare uno scontro.",
+          "possible_changes": "Il requisito non passa perché viene nominato. Scroll rimane il caso di pienezza vacante finché gli esiti giocati non lo cambiano.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "La situazione moderna si accerta attraverso fonti o diagnosi raggiunte. Nessuno è informato della richiesta di Alexander senza riceverla davvero.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-007",
+            "CAST-008",
+            "CAST-021",
+            "CAST-022",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-31-3",
+          "title": "Il futuro di chi cede",
+          "situation": "Una rinuncia eventualmente discussa pone domande sulla persona, sui servizi e sui rapporti che resterebbero dopo di essa.",
+          "choice": "Preparare continuità dei servizi, accettare una rinuncia a condizioni o abbandonare quel traguardo apre finali differenti.",
+          "possible_changes": "Nessuno deve morire per liberare un posto narrativo. Una scelta di contesa resta possibile con costi e difese reali.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "La situazione moderna si accerta attraverso fonti o diagnosi raggiunte. Nessuno è informato della richiesta di Alexander senza riceverla davvero.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-007",
+            "CAST-008",
+            "CAST-021",
+            "CAST-022",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-32",
@@ -3912,7 +5835,66 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-32-1",
+          "title": "La preparazione senza pubblico",
+          "situation": "Una verifica privata dentro Origin può riguardare una sola funzione realmente posseduta, senza spettatori necessari.",
+          "choice": "Scegliere un esercizio limitato, predisporre il ritorno o rinviare permette di definire il rischio prima della prova.",
+          "possible_changes": "La familiarità con il sistema non produce un avanzamento gratuito. Le altre Effigi conservano il proprio stadio.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Le procedure 339 e i dati personali regolano la trasformazione. Nessun falso titolare moderno di Cradle o Ruin viene inventato per creare una missione.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-32-2",
+          "title": "Due operazioni, due costi",
+          "situation": "Creazione e distruzione possono essere confrontate su un supporto non personale e su effetti realmente mantenuti.",
+          "choice": "Ridurre l’investimento, verificare una componente o interrompere il processo offre risultati utili senza una scena di vittime.",
+          "possible_changes": "Ruin richiede contatto fisico. Un prodotto materiale stabile e un esercizio alimentato non devono scomparire nello stesso modo.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Le procedure 339 e i dati personali regolano la trasformazione. Nessun falso titolare moderno di Cradle o Ruin viene inventato per creare una missione.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-32-3",
+          "title": "Chi deve saperlo",
+          "situation": "Un progresso effettivo può essere comunicato a una controparte, tenuto privato o mostrato soltanto in un impiego pratico.",
+          "choice": "Scegliere destinatari e prove conserva il controllo della rivelazione senza promettere invisibilità universale.",
+          "possible_changes": "Il checkpoint registra chi sa che cosa. Cradle e Ruin non ottengono un titolare esterno VII per creare concorrenza artificiale.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Le procedure 339 e i dati personali regolano la trasformazione. Nessun falso titolare moderno di Cradle o Ruin viene inventato per creare una missione.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-33",
@@ -4003,7 +5985,72 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-33-1",
+          "title": "Un percorso che continua a servire",
+          "situation": "La rete di Helyr può essere incontrata attraverso un viaggio o un servizio realmente necessario a persone diverse dai protagonisti.",
+          "choice": "Osservare chi mantiene le uscite prima di chiedere successioni rende concreto il costo della titolarità.",
+          "possible_changes": "Il custode è una persona con rapporti propri. La rete non dimostra un Continuum completo al T0.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Al T0 Helyr non è Continuum completo; una diversa condizione futura richiede fatti realmente avvenuti. Nessuna morte, rinuncia o successione è garantita.",
+          "cast_context_ids": [
+            "CAST-002",
+            "CAST-011",
+            "CAST-024",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-33-2",
+          "title": "La domanda all’apprendista",
+          "situation": "Se Elias raggiunge il confronto, Helyr può chiedergli come manterrebbe un’uscita mentre qualcun altro attraversa.",
+          "choice": "Rispondere con un progetto, ammettere un limite o rifiutare quel ruolo non assegna un rango per merito narrativo.",
+          "possible_changes": "Una dimostrazione sostenuta può aprire apprendimento o alleanza. Non rende necessaria la morte di Helyr.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Al T0 Helyr non è Continuum completo; una diversa condizione futura richiede fatti realmente avvenuti. Nessuna morte, rinuncia o successione è garantita.",
+          "cast_context_ids": [
+            "CAST-002",
+            "CAST-011",
+            "CAST-024",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-33-3",
+          "title": "Una successione senza obbligo",
+          "situation": "Un’ipotesi di rinuncia o trasferimento deve distinguere tutte le Seats e il rapporto con la Root.",
+          "choice": "Accettare un ruolo minore, cercare un accordo o rinunciare al traguardo resta una scelta possibile.",
+          "possible_changes": "Il percorso dell’eroe conserva valore anche se cambia il vertice desiderato. Gli esiti non vengono corretti per raggiungere il titolo del volume.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Al T0 Helyr non è Continuum completo; una diversa condizione futura richiede fatti realmente avvenuti. Nessuna morte, rinuncia o successione è garantita.",
+          "cast_context_ids": [
+            "CAST-002",
+            "CAST-011",
+            "CAST-024",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-34",
@@ -4105,7 +6152,84 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-34-1",
+          "title": "La notte da due accessi",
+          "situation": "Due interlocutori descrivono lo stesso bacino da soglie e funzioni diverse. I racconti possono essere sinceri e incompleti.",
+          "choice": "Chiedere che cosa ognuno possa davvero raggiungere evita di scambiare una differenza di accesso per una menzogna totale.",
+          "possible_changes": "Varessa e Ilyren restano titolari distinti. Nessuna vasca duplica la riserva o costituisce il bacino intero.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Due derivazioni e una Root non equivalgono a una integrazione completa. Localizzazione e mezzi d’ingresso devono essere accertati.",
+          "cast_context_ids": [
+            "CAST-462",
+            "CAST-463",
+            "CAST-484",
+            "CAST-485",
+            "CAST-321",
+            "CAST-323",
+            "CAST-325",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-34-2",
+          "title": "Il segnale che la cerimonia copre",
+          "situation": "Un filtro o un circuito rituale può rendere meno percepibile un segnale necessario alla valutazione del rischio.",
+          "choice": "Aprire un confronto, modificare il filtro o interrompere l’investimento deve rispettare i rapporti realmente esercitati.",
+          "possible_changes": "La bellezza della cerimonia non prova consenso; un segnale svelato non annulla da solo tutte le maledizioni.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Due derivazioni e una Root non equivalgono a una integrazione completa. Localizzazione e mezzi d’ingresso devono essere accertati.",
+          "cast_context_ids": [
+            "CAST-462",
+            "CAST-463",
+            "CAST-484",
+            "CAST-485",
+            "CAST-321",
+            "CAST-323",
+            "CAST-325",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-34-3",
+          "title": "Il servizio fuori dalla contesa",
+          "situation": "Un gruppo di utenti chiede continuità di un servizio senza scegliere quale titolare debba prevalere.",
+          "choice": "Separare impieghi, predisporre un altro sostegno o rifiutare una mediazione politica mantiene più vie aperte.",
+          "possible_changes": "La soluzione può ridurre la presa di una parte senza creare un Nocturne completo o obbligare a unificarlo.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Due derivazioni e una Root non equivalgono a una integrazione completa. Localizzazione e mezzi d’ingresso devono essere accertati.",
+          "cast_context_ids": [
+            "CAST-462",
+            "CAST-463",
+            "CAST-484",
+            "CAST-485",
+            "CAST-321",
+            "CAST-323",
+            "CAST-325",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-35",
@@ -4219,7 +6343,108 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-35-1",
+          "title": "La prima partenza riuscita",
+          "situation": "Una persona o comunità può lasciare un sostegno solo dopo che una funzione alternativa sia stata realmente verificata.",
+          "choice": "Scegliere il primo caso, chiedere un consenso specifico o rinviare finché il mezzo regge rende personale un progetto grande.",
+          "possible_changes": "Una partenza riuscita non dimostra che ogni sistema sia separabile nello stesso modo. Rimane però un successo che non va revocato per tono tragico.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Il bisogno deve appartenere a persone e supporti realmente presenti. Le prestazioni restano separabili: nessuna dipendenza metafisica viene inventata fra i protagonisti.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-008",
+            "CAST-013",
+            "CAST-081",
+            "CAST-476",
+            "CAST-477",
+            "CAST-246",
+            "CAST-248",
+            "CAST-250",
+            "CAST-478",
+            "CAST-479",
+            "CAST-286",
+            "CAST-289",
+            "CAST-290",
+            "CAST-494",
+            "CAST-495",
+            "CAST-208",
+            "CAST-211",
+            "CAST-220"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-35-2",
+          "title": "Il custode scelto da altri",
+          "situation": "Chi riceve l’alternativa preferisce affidarne la manutenzione a una persona diversa dal creatore.",
+          "choice": "Accettare, formare un manutentore o discutere limiti concreti distingue libertà e dipendenza benevola.",
+          "possible_changes": "Il rapporto può diventare più distante e più giusto senza una gratitudine eterna. La manutenzione non trasferisce Effigi.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Il bisogno deve appartenere a persone e supporti realmente presenti. Le prestazioni restano separabili: nessuna dipendenza metafisica viene inventata fra i protagonisti.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-008",
+            "CAST-013",
+            "CAST-081",
+            "CAST-476",
+            "CAST-477",
+            "CAST-246",
+            "CAST-248",
+            "CAST-250",
+            "CAST-478",
+            "CAST-479",
+            "CAST-286",
+            "CAST-289",
+            "CAST-290",
+            "CAST-494",
+            "CAST-495",
+            "CAST-208",
+            "CAST-211",
+            "CAST-220"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-35-3",
+          "title": "Il progetto dopo il suo nome",
+          "situation": "Un’iniziativa può continuare senza la presenza quotidiana di chi l’ha avviata, se risorse e compiti lo permettono.",
+          "choice": "Delegare, trasformare o chiudere il programma offre una conclusione diversa dal controllo perpetuo.",
+          "possible_changes": "Le persone nate o liberate conservano fini propri. Una nuova istituzione non viene attribuita come proprietà privata al protagonista.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Il bisogno deve appartenere a persone e supporti realmente presenti. Le prestazioni restano separabili: nessuna dipendenza metafisica viene inventata fra i protagonisti.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-008",
+            "CAST-013",
+            "CAST-081",
+            "CAST-476",
+            "CAST-477",
+            "CAST-246",
+            "CAST-248",
+            "CAST-250",
+            "CAST-478",
+            "CAST-479",
+            "CAST-286",
+            "CAST-289",
+            "CAST-290",
+            "CAST-494",
+            "CAST-495",
+            "CAST-208",
+            "CAST-211",
+            "CAST-220"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-36",
@@ -4335,7 +6560,111 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-36-1",
+          "title": "Due conti veri",
+          "situation": "Un beneficiario descrive ciò che ha ottenuto; un creditore mostra il costo sostenuto da una parte diversa.",
+          "choice": "Chiedere entrambi i conti prima di promettere pagamento evita di inventare una sola cassa comune.",
+          "possible_changes": "Il riconoscimento del beneficio non rende nullo il debito. Una vittoria soprannaturale non trasferisce obblighi civili al vincitore.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Per negoziare occorrono interlocutori informati e un rapporto pertinente. Non tutti i governanti conoscono l’identità antica o ogni miracolo privato.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-006",
+            "CAST-015",
+            "CAST-016",
+            "CAST-017",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-486",
+            "CAST-487",
+            "CAST-241",
+            "CAST-243",
+            "CAST-245",
+            "CAST-494",
+            "CAST-495",
+            "CAST-208",
+            "CAST-211",
+            "CAST-220"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-36-2",
+          "title": "Un’opera da pagare",
+          "situation": "Una proposta pubblica incontra stanziamenti, cassa e impegni del territorio pertinente.",
+          "choice": "Usare fondi autorizzati, proporre una variazione o contribuire privatamente ha conseguenze differenti e verificabili.",
+          "possible_changes": "Il denaro pubblico resta distinto dai beni Valcienne. Una creazione può ridurre un costo materiale senza abolire personale, accettazione e manutenzione.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Per negoziare occorrono interlocutori informati e un rapporto pertinente. Non tutti i governanti conoscono l’identità antica o ogni miracolo privato.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-006",
+            "CAST-015",
+            "CAST-016",
+            "CAST-017",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-486",
+            "CAST-487",
+            "CAST-241",
+            "CAST-243",
+            "CAST-245",
+            "CAST-494",
+            "CAST-495",
+            "CAST-208",
+            "CAST-211",
+            "CAST-220"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-36-3",
+          "title": "Chi rappresenta chi",
+          "situation": "Una parte vorrebbe parlare a nome di chi è stato aiutato; altri chiedono un mandato limitato o un’altra voce.",
+          "choice": "Convocare, delegare o rifiutare il ruolo evita di trasformare il soccorso in governo automatico.",
+          "possible_changes": "Un dissenso non annulla l’aiuto ricevuto. La rappresentanza nasce da un rapporto civile reale, non dal rango di chi ha vinto.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Per negoziare occorrono interlocutori informati e un rapporto pertinente. Non tutti i governanti conoscono l’identità antica o ogni miracolo privato.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-006",
+            "CAST-015",
+            "CAST-016",
+            "CAST-017",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-486",
+            "CAST-487",
+            "CAST-241",
+            "CAST-243",
+            "CAST-245",
+            "CAST-494",
+            "CAST-495",
+            "CAST-208",
+            "CAST-211",
+            "CAST-220"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-37",
@@ -4443,7 +6772,96 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-37-1",
+          "title": "L’offerta divisa in clausole",
+          "situation": "Una proposta cosmica distingue uso, trasferimento, custodia e rinuncia, invece di promettere un generico potere completo.",
+          "choice": "Controllare ogni rapporto, accettare una parte o rifiutare l’intero accordo mette alla prova ciò che si è disposti a sostenere.",
+          "possible_changes": "Una clausola compresa non è già acquisita. Compatibilità e titolarità restano condizioni reali anche nel culmine dell’opera.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "La lista dei titolari e dei fronti va aggiornata dopo ogni esito reale. Un antagonista già sconfitto non riappare e una capacità non recuperata non viene regalata per il finale.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-007",
+            "CAST-008",
+            "CAST-011",
+            "CAST-018",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-37-2",
+          "title": "Il costo che non si può delegare",
+          "situation": "Un passaggio possibile richiede una tenuta personale o un investimento che nessun alleato può semplicemente dichiarare al posto del candidato.",
+          "choice": "Preparare, rinviare o scegliere un’altra strada conserva il valore della decisione.",
+          "possible_changes": "Il limite non è un nuovo ingrediente inserito per rallentare la partita. Si applicano le condizioni già approvate dell’integrazione pertinente.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "La lista dei titolari e dei fronti va aggiornata dopo ogni esito reale. Un antagonista già sconfitto non riappare e una capacità non recuperata non viene regalata per il finale.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-007",
+            "CAST-008",
+            "CAST-011",
+            "CAST-018",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-37-3",
+          "title": "Una pluralità che regge",
+          "situation": "Più titolari possono coordinarsi senza fondersi in una sola integrazione e senza risolvere ogni divergenza.",
+          "choice": "Rendere stabile un patto, mantenere separazioni o contendere un rapporto permette conclusioni diverse dalla promozione universale.",
+          "possible_changes": "I quattro Axials non aumentano come premio. Un accordo riuscito può essere un risultato qualitativo importante senza creare un nuovo asse.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "La lista dei titolari e dei fronti va aggiornata dopo ogni esito reale. Un antagonista già sconfitto non riappare e una capacità non recuperata non viene regalata per il finale.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-007",
+            "CAST-008",
+            "CAST-011",
+            "CAST-018",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-38",
@@ -4560,7 +6978,111 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-38-1",
+          "title": "Il costo nel resoconto",
+          "situation": "Una persona incaricata di scrivere il resoconto include un costo che il finanziatore preferirebbe omettere.",
+          "choice": "Difendere la nota, chiedere prove ulteriori o scegliere un’edizione distinta cambia la credibilità di chi pubblica.",
+          "possible_changes": "Il verdetto giocato non altera i fatti antichi. Il dissenso riguarda selezione e interpretazione, non una nuova verità retroattiva.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Le cronache devono avere fonti e destinatari. L’identità di Edran non diventa pubblica perché la wiki la contiene.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-006",
+            "CAST-018",
+            "CAST-032",
+            "CAST-072",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-38-2",
+          "title": "Il racconto conservato a casa",
+          "situation": "Una famiglia mantiene una versione personale di un evento che non coincide interamente con il resoconto pubblico.",
+          "choice": "Ascoltare, correggere un fatto o lasciare un ricordo legittimo offre un incontro meno formale di un altro processo.",
+          "possible_changes": "Non ogni differenza richiede persecuzione archivistica. Le prove disponibili possono convivere con esperienze individuali non equivalenti a falsi.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Le cronache devono avere fonti e destinatari. L’identità di Edran non diventa pubblica perché la wiki la contiene.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-006",
+            "CAST-018",
+            "CAST-032",
+            "CAST-072",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-38-3",
+          "title": "Che cosa rendere accessibile",
+          "situation": "Una prova autentica può esporre metodi, luoghi o persone ancora vulnerabili.",
+          "choice": "Pubblicare per gradi, separare metodo e responsabilità o predisporre una custodia limita rischi diversi.",
+          "possible_changes": "Un segreto mantenuto non deve diventare il pretesto per negare ogni verifica. Il checkpoint registra chi può consultare quale parte e perché.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Le cronache devono avere fonti e destinatari. L’identità di Edran non diventa pubblica perché la wiki la contiene.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-006",
+            "CAST-018",
+            "CAST-032",
+            "CAST-072",
+            "CAST-480",
+            "CAST-481",
+            "CAST-341",
+            "CAST-343",
+            "CAST-345",
+            "CAST-488",
+            "CAST-489",
+            "CAST-421",
+            "CAST-423",
+            "CAST-425",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-39",
@@ -4676,7 +7198,111 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-39-1",
+          "title": "Una riunione senza un fondatore",
+          "situation": "La rete può riunirsi con le persone che hanno scelto di restare, senza richiedere sempre il medesimo centro.",
+          "choice": "Cambiare sede, ridurre l’ordine del giorno o rinviare rispetta mezzi e partecipazione effettivi.",
+          "possible_changes": "L’assenza non prova che il gruppo sia finito. Una Root non appare per sostituire la disponibilità di un membro.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Nessuna seduta finale è obbligatoria. Se Alexander non ha mai aderito, non viene trattato come fondatore dimissionario o convocato per chiudere l’arco.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-031",
+            "CAST-032",
+            "CAST-035",
+            "CAST-127",
+            "CAST-474",
+            "CAST-475",
+            "CAST-193",
+            "CAST-194",
+            "CAST-200",
+            "CAST-484",
+            "CAST-485",
+            "CAST-321",
+            "CAST-323",
+            "CAST-325",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-39-2",
+          "title": "Il posto restituito",
+          "situation": "Un membro può chiedere di uscire, cambiare pseudonimo o ridurre il proprio accesso secondo gli accordi reali.",
+          "choice": "Rendere praticabile l’uscita, discutere responsabilità pendenti o offrire un’altra forma di rapporto conserva la scelta personale.",
+          "possible_changes": "Le informazioni già conosciute non vengono cancellate automaticamente. Nessuna punizione cosmica nasce dal semplice rifiuto di continuare.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Nessuna seduta finale è obbligatoria. Se Alexander non ha mai aderito, non viene trattato come fondatore dimissionario o convocato per chiudere l’arco.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-031",
+            "CAST-032",
+            "CAST-035",
+            "CAST-127",
+            "CAST-474",
+            "CAST-475",
+            "CAST-193",
+            "CAST-194",
+            "CAST-200",
+            "CAST-484",
+            "CAST-485",
+            "CAST-321",
+            "CAST-323",
+            "CAST-325",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-39-3",
+          "title": "La stanza dopo l’incontro",
+          "situation": "Una sede vuota conserva oggetti e lavori ancora da riporre; il significato del gruppo dipende da ciò che le persone hanno scelto.",
+          "choice": "Lasciare un messaggio, affidare un oggetto o chiudere la porta può concludere una relazione senza un discorso universale.",
+          "possible_changes": "La scena registra un gesto concreto. Non obbliga Alexander a dirigere la rete o Elias a restare per conservare il ruolo di protagonista.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Nessuna seduta finale è obbligatoria. Se Alexander non ha mai aderito, non viene trattato come fondatore dimissionario o convocato per chiudere l’arco.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-031",
+            "CAST-032",
+            "CAST-035",
+            "CAST-127",
+            "CAST-474",
+            "CAST-475",
+            "CAST-193",
+            "CAST-194",
+            "CAST-200",
+            "CAST-484",
+            "CAST-485",
+            "CAST-321",
+            "CAST-323",
+            "CAST-325",
+            "CAST-496",
+            "CAST-497",
+            "CAST-261",
+            "CAST-262",
+            "CAST-265"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     },
     {
       "id": "ARC-40",
@@ -4777,7 +7403,84 @@
           "cause risolte e rischi ancora attivi",
           "data e luoghi effettivi"
         ]
-      }
+      },
+      "scenes_377": [
+        {
+          "id": "SC377-40-1",
+          "title": "Il luogo rimasto dopo le scelte",
+          "situation": "Il teatro finale deriva da viaggi, alleanze e contese realmente avvenuti, non dal trasferimento istantaneo di tutto il cast.",
+          "choice": "Verificare chi è presente e quali mezzi rimangono permette un culmine personale, civile o cosmico secondo la partita.",
+          "possible_changes": "Le risorse effettive determinano ciò che può essere tentato. Non occorre introdurre un nemico superiore per annullare i risultati precedenti.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Non si presume presenza comune, sopravvivenza di entrambi o raggiungimento di Sovereign/Continuum. Se la contesa è già risolta, il culmine riguarda le conseguenze.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-40-2",
+          "title": "Ciò che si può interrompere",
+          "situation": "Una continuità, un esercizio o un progetto raggiunto può essere preservato, cambiato o interrotto soltanto secondo capacità e rapporti reali.",
+          "choice": "Scegliere il bersaglio, preparare una separazione o rinunciare distingue distruzione, custodia e restituzione.",
+          "possible_changes": "Il titolo dell’arco non impone un ultimo atto. Ruin resta a contatto e la creazione non rende proprie le persone nate.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Non si presume presenza comune, sopravvivenza di entrambi o raggiungimento di Sovereign/Continuum. Se la contesa è già risolta, il culmine riguarda le conseguenze.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        },
+        {
+          "id": "SC377-40-3",
+          "title": "Una domanda senza titolo",
+          "situation": "Dopo l’esito effettivo, una persona già legata ai protagonisti può chiedere qualcosa che il rango non decide: restare, partire o mantenere una promessa.",
+          "choice": "La risposta appartiene al giocatore e agli interlocutori, non a una morale obbligatoria del finale.",
+          "possible_changes": "Il Narratore può chiudere il volume lasciando il mondo vivo. I fatti vengono registrati; le possibilità non scelte non diventano eventi fuori campo.",
+          "status": "NOT_OCCURRED_CONDITIONAL",
+          "activation_gate": "Non si presume presenza comune, sopravvivenza di entrambi o raggiungimento di Sovereign/Continuum. Se la contesa è già risolta, il culmine riguarda le conseguenze.",
+          "cast_context_ids": [
+            "CAST-001",
+            "CAST-002",
+            "CAST-490",
+            "CAST-491",
+            "CAST-386",
+            "CAST-388",
+            "CAST-390",
+            "CAST-492",
+            "CAST-493",
+            "CAST-416",
+            "CAST-418",
+            "CAST-420"
+          ],
+          "requires_all_cast_present": false,
+          "new_power": false
+        }
+      ]
     }
   ],
   "future_outcomes": "Aperti; ordine e budget editoriali non sono eventi canonici",
@@ -4985,5 +7688,6 @@
   "ancient_fronts_source": "Fronti_antichi_372.json",
   "new_ancient_figures_source": "Signorie_personaggi_372.json",
   "historical_revision_372": "Ilyra e Talren cresciuti nella liberazione, successioni Crown −12018 e Archive −12074. Nessun nuovo colpevole della caduta o evento futuro già avvenuto.",
-  "scene_revision": 374
+  "scene_revision": 374,
+  "scene_revision_377": 377
 }

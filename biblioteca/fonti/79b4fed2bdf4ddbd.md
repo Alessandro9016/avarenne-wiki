@@ -87,3 +87,10 @@ Con Celine il rapporto possibile passa dalla visita promessa e dal piacere dei d
 Può aprire una sala ridotta e invitare un lettore a tornare quando il deposito sarà accessibile. Una scena può finire con un prestito e un appuntamento, senza rivelazioni segrete.
 
 Questi dettagli non assegnano nuove azioni attuali al giocatore o incontri pregressi non documentati.
+
+
+## Situazione consolidata 377
+
+Obiettivo operativo al T0: Tenere aperta la sala durante lavori. Iniziativa documentata, da risolvere secondo accessi e decisioni: Può aprire una sala ridotta e invitare un lettore a tornare quando il deposito sarà accessibile. Una scena può finire con un prestito e un appuntamento, senza rivelazioni segrete.
+
+Base: Dossier personale 367, integrazione 374 o profilo strategico già adottato.

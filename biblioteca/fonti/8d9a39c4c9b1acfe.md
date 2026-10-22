@@ -109,3 +109,10 @@ Di Dama ammira la capacità di trovare una misura sbagliata senza bisogno di inv
 Una dimostrazione può riuscire e diventare l’occasione di dividere credito, nome e denaro. Elren può scegliere di correggere il committente, ma tale decisione non è garantita dall’essere un ricercatore competente.
 
 Questi dettagli non assegnano nuove azioni attuali al giocatore o incontri pregressi non documentati.
+
+
+## Situazione consolidata 377
+
+Obiettivo operativo al T0: Delimitare un metodo valido prima che il commercio ne ampli la promessa. Iniziativa documentata, da risolvere secondo accessi e decisioni: Può restringere un certificato, dimostrare un effetto o difendere il laboratorio con Oracle IV. Un problema di licenza non disattiva i suoi attacchi.
+
+Base: Dossier personale 367, integrazione 374 o profilo strategico già adottato.

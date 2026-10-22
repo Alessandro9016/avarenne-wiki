@@ -1,0 +1,81 @@
+{
+  "revision": 377,
+  "date": "2026-10-22",
+  "scope": "Controllo completo locale dei 1482 articoli e della Biblioteca, preservazione delle fonti e test funzionali del motore di ricerca. Nessuna verifica pubblica della revisione 377 prima del push dell’utente.",
+  "indexed_articles": 1482,
+  "html_files_checked": 4277,
+  "local_references_checked": 132538,
+  "link_errors": [],
+  "missing_files": 0,
+  "missing_source_paths": 0,
+  "sources_hash_verified": 2792,
+  "search_tests": {
+    "cases": [
+      {
+        "query": "Will",
+        "first": "scroll.html",
+        "count": 53
+      },
+      {
+        "query": "volontà",
+        "first": "scroll.html",
+        "count": 154
+      },
+      {
+        "query": "volonta",
+        "first": "scroll.html",
+        "count": 154
+      },
+      {
+        "query": "Origin",
+        "first": "root-01-the-origin.html",
+        "count": 110
+      },
+      {
+        "query": "Deep Vitality",
+        "first": "heart.html",
+        "count": 20
+      },
+      {
+        "query": "Unmaking",
+        "first": "ruin.html",
+        "count": 9
+      },
+      {
+        "query": "fauce",
+        "first": "maw.html",
+        "count": 1
+      },
+      {
+        "query": "culla",
+        "first": "cradle.html",
+        "count": 3
+      },
+      {
+        "query": "FirstTestament",
+        "first": "testament-the-first-testament.html",
+        "count": 2
+      },
+      {
+        "query": "Room Six",
+        "first": "room-six.html",
+        "count": 44
+      }
+    ],
+    "partial_title": true,
+    "all_results": true,
+    "category_filter": true,
+    "full_text_tail": true,
+    "entries": 1482,
+    "max_characters": 406634
+  },
+  "protected_canon_unchanged_outside_adopted_details": true,
+  "cast_total": 620,
+  "history_events_total": 95,
+  "scene_options_added": 90,
+  "major_profiles": 6,
+  "situations_consolidated": 133,
+  "history_events_deepened": 12,
+  "no_zip": true,
+  "push_performed": false
+}

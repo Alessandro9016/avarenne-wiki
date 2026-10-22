@@ -65,3 +65,10 @@ La rete nacque da un bisogno locale di nodo regionale: repubbliche di bacino; no
 **Provenienza della precisazione:** NUOVA_DECISIONE_AUTORIALE_ESPLICITA. Consolidamento autoriale della corporeità umana ordinaria; non una conclusione dedotta da silenzio o nome.
 
 Poteri, date, famiglia, competenze e obiettivi restano quelli delle sezioni precedenti. Nessun individuo rappresenta moralmente la propria popolazione.
+
+
+## Situazione consolidata 377
+
+Ambito operativo al 18 maggio 812: Responsabile: Camera dei trasporti interni; teatro Ildan. Obiettivo attivo: Ridurre perdita di cereali senza centralizzare ogni magazzino. Azioni, conoscenze e condizioni di contatto si leggono nei dossier personali e di rete collegati; l’obiettivo non rende già avvenuta una proposta o un incontro.
+
+Base: Obiettivo vigente; l’assenza di un’iniziativa nominata non viene riempita con un evento inventato.

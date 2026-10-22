@@ -66,3 +66,10 @@ Poteri, date, famiglia, competenze e obiettivi restano quelli delle sezioni prec
 ## REV-CIV-01 — Legame ricordato da Alexander
 
 Confidenza tecnica dal 810, entro un rapporto di lavoro asimmetrico. Fonte giocatore: 273. Non include agenda successiva al coma.
+
+
+## Situazione consolidata 377
+
+Ambito operativo al 18 maggio 812: addetta agli impianti; teatro Rovenne. Obiettivo attivo: Conservare registro dei guasti. Azioni, conoscenze e condizioni di contatto si leggono nei dossier personali e di rete collegati; l’obiettivo non rende già avvenuta una proposta o un incontro.
+
+Base: Obiettivo vigente; l’assenza di un’iniziativa nominata non viene riempita con un evento inventato.

@@ -1,0 +1,112 @@
+# RISERVATO — CAST-029: Iven Namar
+
+Milestone 10, edizione raccordata 317 — 15 ottobre 2026. Livello **CENTRAL**. Stato al 18 maggio 812, salvo fase storica indicata. Nessuna scelta futura garantita.
+
+## Identità e funzione
+
+**Condizione:** 61. **Teatro operativo:** Namar; non una posizione istantanea obbligata. **Ruolo:** Responsabile dei bacini e curatore. **Origine:** Fondamenti adottati e sviluppo del cast.
+
+**Obiettivo:** Servizio affidabile e successione tecnica non catastrofica. **Tensione:** Deve ridurre carico senza trasformare la carica in proprietà della famiglia
+
+## Carattere in azione e basi psicologiche
+
+Preferisce una restrizione spiegata a una rassicurazione falsa. Il desiderio concreto è distinto dai mezzi disponibili. La figura teme di perdere autonomia o credibilità nel proprio ambito; può dissentire da chi la aiuta. Non applicare automaticamente Es/Io/Super-Io o una diagnosi completa: motivazioni, limiti e relazioni sono la base per l'analisi quando richiesta.
+
+**Segreto o informazione non pubblica:** Guasto già fissato in CULT-02; non reclama obbedienza al Creator tornato
+
+## Inventario e competenze
+
+- **Heart IV — Deathless (Transfiguration):** Deep Vitality; Vital Perception; Restoring Touch; Functional Interference; Spirit Pulse; Restorative Template; Life Transfer; Spiritual Suture; Autonomic Restoration; Living Fortress; Spirit Gating; Extreme Regeneration. Repertorio cumulativo RAMI-23-04; applicazioni e costi nel manuale GIOCATORE_45_Heart_progressione_completa.md.
+
+**Ambito dell'inventario:** CURRENT_T0. Un rango storico non è dotazione odierna di un morto. **Mezzi ordinari:** mestiere, documenti e strumenti autentici entro il ruolo; non un nuovo artefatto cosmico. **Limiti:** Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.
+
+## Rete
+
+- [Lera Soth](CAST-075.md): misure corporee e spirituali.
+- [Damren Aul](CAST-076.md): ricambi e dipendenze.
+
+## Unità di Gioco
+
+**Concetto:** Responsabile dei bacini e curatore, con una scelta concreta che altri non possono fare al suo posto. **Funzione:** interlocutore, fonte, ostacolo o alleato secondo il conflitto; mai alleanza obbligatoria. **Attivazione:** Attivo. **Stato dinamico:** Sta predisponendo una decisione o verifica per servizio affidabile e successione tecnica non catastrofica. La controparte è già coinvolta e può rifiutare.
+
+**Conflitto centrale:** Deve ridurre carico senza trasformare la carica in proprietà della famiglia **Forze:** la figura vuole servizio affidabile e successione tecnica non catastrofica; gli interlocutori della rete hanno mandato e risorse propri. **Paura:** perdere possibilità di scelta o attendibilità nel proprio ruolo. **Limite:** Competenze, accessi e autorità individuali; nessuna conoscenza automatica del ritorno o capacità oltre l’inventario.
+
+**Hook 1:** Una richiesta concreta riguarda servizio affidabile e successione tecnica non catastrofica; è possibile chiedere una prova o rifiutare. **Hook 2:** Una controparte porta un documento, campione o testimonianza sul conflitto: Deve ridurre carico senza trasformare la carica in proprietà della famiglia
+
+**Con intervento:** nuove prove, risorse, rifiuto o contesa cambiano accessi e fiducia. Il successo competente mantiene gli effetti; non imporre gratitudine, alleanza o futura condotta del PG. **Senza intervento:** Prosegue la verifica e tratta con gli interlocutori disponibili; può ridurre, rinviare o cambiare una richiesta se dati e risorse lo impongono.
+
+**Pressione:** Le date della fonte prevalgono; una richiesta di servizio non crea da sola una scadenza letale. **Impatto attuale:** 🟠; una futura catastrofe richiede un fatto realmente prodotto. **Causa verticale:** Fondamenti adottati e sviluppo del cast. **Collegamenti orizzontali:** rete riportata sopra.
+
+**Scena possibile:** confronto su servizio affidabile e successione tecnica non catastrofica, con strumenti o documenti visibili. **Complicazione:** una prova vera può non sostenere l'intera conclusione richiesta. **Twist opzionale:** una controparte offre una soluzione valida che protegge anche un proprio interesse; non cambiare retroattivamente il segreto fissato.
+
+## Corpo, agency e direzione visiva
+
+Aspetto ordinario coerente con epoca, lavoro e condizione; nessuna mutazione o sessualità assegnata per riempire un campo. Quando pertinente, distinguere anatomia, trasformazione controllata, lesione e percezione sociale secondo 148. Non aggiungere poteri da un'immagine. Priorità visiva **HIGH**; consultare gli asset effettivamente presenti nel piano visivo corrente.
+
+## Fatti ereditati dalle fonti correnti
+
+Questi estratti conservano dettagli già stabiliti; eventuali riferimenti a milestone future sono storici, non nuove lacune della figura. Le scelte del presente dossier non alterano gli atti o la dotazione della fonte.
+
+### Fonte [RISERVATO_115_Siti_soprannaturali_localizzati.md](../RISERVATO_115_Siti_soprannaturali_localizzati.md)
+
+**Effetto concreto: ** Distribuzione idrica e sostegno clinico tramite circuiti distinguibili; nessuna riserva d’anime di Edran. **Gestione: ** Iven Namar, Heart IV e tecnici; Oriel non dirige ogni valvola.
+
+### Fonte [RISERVATO_131_Religioni_patrocini_e_verita.md](../RISERVATO_131_Religioni_patrocini_e_verita.md)
+
+| Rete | Referente reale ove presente | Competenze coinvolte | Verità e limiti |
+| --- | --- | --- | --- |
+| REL-01 | Pluralità di patrocini, nessun titolare unico | Nessuna | I capitoli conservano attribuzioni composite; ministri moderni in larga parte sinceri. Non conoscono automaticamente Edran o la caduta. |
+| REL-02 | Sairen Velis | Halo | Canali verificabili di alcuni santuari rimandano a Sairen. Carità e servizi non sono una macchina universale che alimenta la Seat. |
+| REL-03 | Oriel Namar | Heart | Patrocini moderni e tecniche di cura non fanno di Oriel il primo autore delle opere del Creator. |
+| REL-04 | Althene Rhos | Sepulchre | Solo alcune case custodiscono relazioni autentiche. Registrare un morto non consente di reclamarne l’anima. |
+| REL-05 | Helyr Ossen | Hourglass / Astrolabe / Loom | Il culto non conosce interamente il Continuum; i tre aspetti rituali non conferiscono tre Effigi ai fedeli. |
+| REL-06 | Talren Soth | Oracle / Archive | Patrocini reali nei collegi maggiori; il suo errore storico resta quello di 97–98, non una falsificazione cosmica di ogni libro. |
+| REL-07 | Nessuno come obbligo istituzionale | Nessuna | Possono aderire credenti di culti diversi. Neutralità civile non è invulnerabilità a poteri. |
+| REL-08 | Ilyra Sen e Deyran Ur, relazioni distinte | Crown / Chain | Un culto composito non unisce due Seats né completa Dominion. Identità e responsabilità antiche restano riservate. |
+| REL-09 | Ashren Tor; patrocini locali separati di Enra Keth e Othrem Cal | Crucible / Tempest / Seed | Nessun Worldforge pieno attuale. Othrem ha responsabilità fissate nella caduta, ignote ai comuni officianti. |
+| REL-10 | Enra Keth in alcuni santuari; altri capitoli sono associazioni ordinarie | Tempest | Il soccorso civile non richiede il consenso divino per salvare un naufrago. |
+| REL-11 | Edran storico; nessuna relazione nuova al ritorno | Cradle / Ruin / Scroll / Halo / Heart come passato, non dotazione collettiva | Non sanno Refuge né Alexander. Oren Daal è Halo II, non Avatar del Sovereign. |
+| REL-12 | Edran storico e servizi successivi associati a Oriel | Heart e Halo nelle competenze personali già fissate | Iven Namar è Heart IV; Lera Soth Halo III. Nessun nuovo diritto su Cradle o Ruin. |
+
+### Fonte [RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md](../RISERVATO_99_Culti_superstiti_e_memorie_divergenti.md)
+
+**Forze:** **Iven Namar**, Heart IV, vuole servizio affidabile, teme collasso e non possiede una Seat; **Lera Soth**, Halo III, vuole misure della separazione, teme che vengano ignorate, nessuna parentela assunta con Talren; **Damren Aul**, tecnico ordinario, vuole componenti riparabili da più persone e teme il monopolio; **Neris Cal**, rappresentante civile ordinaria, vuole accesso non ereditario e teme che una riforma privi i bacini dei curatori.
+
+## Peso nella futura opera
+
+La figura centrale non ha un solo incontro di funzione. Obiettivo, conflitto e rete devono poter sostenere cambiamenti di alleanza, prove e costi di scala diversa. Un segreto scoperto apre una scelta e non chiude automaticamente il personaggio. Non garantire il suo ruolo nei volumi futuri, la sopravvivenza o una redenzione. Le scene e gli archi del punto 12 partiranno dai fatti qui fissati.
+
+## Biografia, paura e scheda visiva consolidata
+
+Il rango non deriva automaticamente dalla carica ereditata. Mantiene servizi e cure verificabili. Il guasto dipende dal componente e dal carico fissati, non dal ritorno di Edran. Può accettare una riparazione diretta se funziona; non occorre proteggergli una quest.
+
+**Paura specifica:** Riforma che perda competenze mentre cambia le cariche.
+
+**Aspetto di riferimento:** 177 cm, capelli grigi, occhi marroni, corporatura robusta, abiti pratici color terra e acqua; difese IV non dipendono dall'uniforme. La forma aperta è una modalità distinta: non ridisegnare ogni ritratto come perdita di controllo. Per le immagini usare gli asset approvati del piano visivo corrente.
+
+**Legame nominativo:** [Tavel Rinn](CAST-030.md) — Cura e attestazione operano con strumenti e responsabilità distinti. La relazione non rende automaticamente disponibili i segreti dell'altra persona.
+
+## BIO-CAST-01 — Origine e corpo
+
+**Stato:** consolidato. **Popolazione biologica:** Serekh. **Origine:** origine Serekh.
+
+**Corpo nella fase della scheda:** Popolazione anfibia: polmoni e membrane acquatiche, pelle con maggiore necessità di umidità; mani antropomorfe con sottile membrana interdigitale variabile.
+
+**Linea individuale:** Linea di bacino d’acqua dolce; permanenza in porto e navigazione richiedono acqua di manutenzione separata dal mare.
+
+**Cultura:** Appartenenza civica e professionale personale nel teatro Namar; non rappresenta l’intero popolo. Nessun culto, idioma unico o obbligo politico assegnato dalla biologia.
+
+**Età e durata:** Intervallo ordinario 80–110 anni; sostegni personali separati. Nessuna estensione della vita concessa dal mestiere, dalla specie nominale o da questa revisione.
+
+**Adattamenti:** Acqua e salinità pertinenti alla linea individuale; nei viaggi contenitori e tessuti umidi ordinari, non una dipendenza da una divinità.
+
+**Vincoli visivi:** Aspetto antropomorfo individuale, pieghe membranose laterocervicali e pelle più liscia se visibili; non imporre squame, code, occhi da pesce o assenza di capelli. La disposizione delle membrane va mantenuta fra varianti.
+
+**Provenienza della precisazione:** NUOVA_DECISIONE_AUTORIALE_ESPLICITA. Il corpo anfibio dà esigenze concrete ai bacini; la carica, il sapere e Heart restano acquisizioni personali.
+
+Poteri, date, famiglia, competenze e obiettivi restano quelli delle sezioni precedenti. Nessun individuo rappresenta moralmente la propria popolazione.
+
+
+## Raccordo bestiario BIO-301
+
+Responsabile dei bacini e curatore. Collegamenti: BST-022. Interlocuzione limitata alla funzione già posseduta; consultare il bestiario per i fatti T0. Nessuna diagnosi, capacità soprannaturale o conoscenza segreta attribuita automaticamente.

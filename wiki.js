@@ -14,8 +14,8 @@
     const query = normalize(input.value.trim());
     if (!query) { closeSearch(); return; }
     const tokens = query.split(/\s+/);
-    const matches = items.filter((item) => tokens.every((token) => normalize(`${item.title} ${item.keywords} ${item.kind}`).includes(token)))
-      .sort((a, b) => Number(normalize(b.title).startsWith(query)) - Number(normalize(a.title).startsWith(query))).slice(0, 8);
+    const allMatches = window.AVARENNE_SEARCH.rank(items, query);
+    const matches = allMatches.slice(0, 8);
     results.replaceChildren();
     if (!matches.length) {
       const message = document.createElement('p');
@@ -31,6 +31,13 @@
       title.textContent = item.title;
       link.append(kind, title);
       results.append(link);
+    }
+    if (allMatches.length) {
+      const allLink = document.createElement('a');
+      allLink.href = 'ricerca.html?q=' + encodeURIComponent(input.value.trim());
+      allLink.textContent = 'Vedi tutti i ' + allMatches.length + ' risultati';
+      allLink.className = 'search-all-results';
+      results.append(allLink);
     }
     results.hidden = false;
     input.setAttribute('aria-expanded', 'true');

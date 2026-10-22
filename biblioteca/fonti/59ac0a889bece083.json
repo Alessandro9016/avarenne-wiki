@@ -1,0 +1,201 @@
+{
+  "revision": 377,
+  "restored_anchors": [
+    "artefatti362",
+    "materiali364",
+    "exchange365",
+    "exchange366",
+    "completamento367",
+    "crisi369"
+  ],
+  "corrected_cast_documents": [
+    {
+      "id": "CAST-590",
+      "before": "CAST-590.md",
+      "after": "CAST_RISERVATO/CAST-590.md"
+    },
+    {
+      "id": "CAST-591",
+      "before": "CAST-591.md",
+      "after": "CAST_RISERVATO/CAST-591.md"
+    },
+    {
+      "id": "CAST-592",
+      "before": "CAST-592.md",
+      "after": "CAST_RISERVATO/CAST-592.md"
+    },
+    {
+      "id": "CAST-593",
+      "before": "CAST-593.md",
+      "after": "CAST_RISERVATO/CAST-593.md"
+    },
+    {
+      "id": "CAST-594",
+      "before": "CAST-594.md",
+      "after": "CAST_RISERVATO/CAST-594.md"
+    },
+    {
+      "id": "CAST-595",
+      "before": "CAST-595.md",
+      "after": "CAST_RISERVATO/CAST-595.md"
+    },
+    {
+      "id": "CAST-596",
+      "before": "CAST-596.md",
+      "after": "CAST_RISERVATO/CAST-596.md"
+    },
+    {
+      "id": "CAST-597",
+      "before": "CAST-597.md",
+      "after": "CAST_RISERVATO/CAST-597.md"
+    },
+    {
+      "id": "CAST-598",
+      "before": "CAST-598.md",
+      "after": "CAST_RISERVATO/CAST-598.md"
+    },
+    {
+      "id": "CAST-599",
+      "before": "CAST-599.md",
+      "after": "CAST_RISERVATO/CAST-599.md"
+    },
+    {
+      "id": "CAST-600",
+      "before": "CAST-600.md",
+      "after": "CAST_RISERVATO/CAST-600.md"
+    },
+    {
+      "id": "CAST-601",
+      "before": "CAST-601.md",
+      "after": "CAST_RISERVATO/CAST-601.md"
+    },
+    {
+      "id": "CAST-602",
+      "before": "CAST-602.md",
+      "after": "CAST_RISERVATO/CAST-602.md"
+    },
+    {
+      "id": "CAST-603",
+      "before": "CAST-603.md",
+      "after": "CAST_RISERVATO/CAST-603.md"
+    },
+    {
+      "id": "CAST-604",
+      "before": "CAST-604.md",
+      "after": "CAST_RISERVATO/CAST-604.md"
+    },
+    {
+      "id": "CAST-605",
+      "before": "CAST-605.md",
+      "after": "CAST_RISERVATO/CAST-605.md"
+    },
+    {
+      "id": "CAST-606",
+      "before": "CAST-606.md",
+      "after": "CAST_RISERVATO/CAST-606.md"
+    },
+    {
+      "id": "CAST-607",
+      "before": "CAST-607.md",
+      "after": "CAST_RISERVATO/CAST-607.md"
+    },
+    {
+      "id": "CAST-608",
+      "before": "CAST-608.md",
+      "after": "CAST_RISERVATO/CAST-608.md"
+    },
+    {
+      "id": "CAST-609",
+      "before": "CAST-609.md",
+      "after": "CAST_RISERVATO/CAST-609.md"
+    },
+    {
+      "id": "CAST-610",
+      "before": "CAST-610.md",
+      "after": "CAST_RISERVATO/CAST-610.md"
+    },
+    {
+      "id": "CAST-611",
+      "before": "CAST-611.md",
+      "after": "CAST_RISERVATO/CAST-611.md"
+    },
+    {
+      "id": "CAST-612",
+      "before": "CAST-612.md",
+      "after": "CAST_RISERVATO/CAST-612.md"
+    },
+    {
+      "id": "CAST-613",
+      "before": "CAST-613.md",
+      "after": "CAST_RISERVATO/CAST-613.md"
+    },
+    {
+      "id": "CAST-614",
+      "before": "CAST-614.md",
+      "after": "CAST_RISERVATO/CAST-614.md"
+    },
+    {
+      "id": "CAST-615",
+      "before": "CAST-615.md",
+      "after": "CAST_RISERVATO/CAST-615.md"
+    },
+    {
+      "id": "CAST-616",
+      "before": "CAST-616.md",
+      "after": "CAST_RISERVATO/CAST-616.md"
+    },
+    {
+      "id": "CAST-617",
+      "before": "CAST-617.md",
+      "after": "CAST_RISERVATO/CAST-617.md"
+    },
+    {
+      "id": "CAST-618",
+      "before": "CAST-618.md",
+      "after": "CAST_RISERVATO/CAST-618.md"
+    },
+    {
+      "id": "CAST-619",
+      "before": "CAST-619.md",
+      "after": "CAST_RISERVATO/CAST-619.md"
+    },
+    {
+      "id": "CAST-620",
+      "before": "CAST-620.md",
+      "after": "CAST_RISERVATO/CAST-620.md"
+    }
+  ],
+  "none_labels": [
+    "CAST-012",
+    "CAST-066",
+    "CAST-081",
+    "CAST-055",
+    "CAST-038",
+    "CAST-026",
+    "CAST-065",
+    "CAST-083",
+    "DOC-188",
+    "CAST-011",
+    "CAST-463",
+    "CAST-057",
+    "CAST-036",
+    "CAST-010",
+    "CAST-040",
+    "CAST-064",
+    "CAST-042",
+    "CAST-080",
+    "CAST-044",
+    "CAST-020",
+    "CAST-043",
+    "CAST-082",
+    "CAST-054",
+    "CAST-037",
+    "CAST-462",
+    "CAST-056"
+  ],
+  "hubs_repaired": [
+    375,
+    376
+  ],
+  "rule_changes": false
+}
