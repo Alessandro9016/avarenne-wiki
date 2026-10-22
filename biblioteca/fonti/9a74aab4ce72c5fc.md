@@ -73,3 +73,13 @@ Fiducia domestica e tensione sulle richieste non espresse. Fonte giocatore: 273.
 Ambito operativo al 18 maggio 812: governante; teatro Rovenne. Obiettivo attivo: Sostituire una collega assente senza turni doppi permanenti. Azioni, conoscenze e condizioni di contatto si leggono nei dossier personali e di rete collegati; l’obiettivo non rende già avvenuta una proposta o un incontro.
 
 Base: Obiettivo vigente; l’assenza di un’iniziativa nominata non viene riempita con un evento inventato.
+
+<!-- NOVEL379 -->
+## Nella novel — capitoli 6–15
+
+Continuità letteraria distinta dalla campagna.
+
+Capitolo 7: Alexander esamina con Albin i conti privati: 77.500 corone di saldo, 17.300 impegnate e 60.200 disponibili. Distingue una pratica stradale territoriale dal proprio patrimonio e non firma l’autorizzazione. Chiede spiegazioni e correzioni dirette. Celine sceglie quando tornare in biblioteca con Sabine; un messaggio a Yselle e la consultazione di Maurice restano azioni da svolgere.
+
+Nessuna nuova uscita è contabilizzata; gli stipendi restano previsti il 26 maggio. Le richieste non equivalgono a visite o trasferimenti già avvenuti. Alexander conserva cinque Effigi IV; nessuna capacità viene sbloccata.
+<!-- END NOVEL379 -->
