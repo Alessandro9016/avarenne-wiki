@@ -1,0 +1,5345 @@
+[
+  {
+    "chapter": 1,
+    "paragraphs": 162,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          145
+        ],
+        "english_paragraph_range": [
+          0,
+          145
+        ],
+        "historical_paragraph_range": [
+          0,
+          145
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          145,
+          152
+        ],
+        "english_paragraph_range": [
+          145,
+          152
+        ],
+        "historical_paragraph_range": [
+          145,
+          145
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          152,
+          162
+        ],
+        "english_paragraph_range": [
+          152,
+          162
+        ],
+        "historical_paragraph_range": [
+          145,
+          155
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "paragraphs": 146,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          36
+        ],
+        "english_paragraph_range": [
+          0,
+          36
+        ],
+        "historical_paragraph_range": [
+          0,
+          36
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          36,
+          59
+        ],
+        "english_paragraph_range": [
+          36,
+          59
+        ],
+        "historical_paragraph_range": [
+          36,
+          36
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          59,
+          146
+        ],
+        "english_paragraph_range": [
+          59,
+          146
+        ],
+        "historical_paragraph_range": [
+          36,
+          123
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "paragraphs": 163,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          80
+        ],
+        "english_paragraph_range": [
+          0,
+          80
+        ],
+        "historical_paragraph_range": [
+          0,
+          80
+        ]
+      },
+      {
+        "kind": "replace",
+        "italian_paragraph_range": [
+          80,
+          81
+        ],
+        "english_paragraph_range": [
+          80,
+          81
+        ],
+        "historical_paragraph_range": [
+          80,
+          81
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          81,
+          119
+        ],
+        "english_paragraph_range": [
+          81,
+          119
+        ],
+        "historical_paragraph_range": [
+          81,
+          119
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          119,
+          158
+        ],
+        "english_paragraph_range": [
+          119,
+          158
+        ],
+        "historical_paragraph_range": [
+          119,
+          119
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          158,
+          163
+        ],
+        "english_paragraph_range": [
+          158,
+          163
+        ],
+        "historical_paragraph_range": [
+          119,
+          124
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "paragraphs": 123,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          17
+        ],
+        "english_paragraph_range": [
+          0,
+          17
+        ],
+        "historical_paragraph_range": [
+          0,
+          17
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          17,
+          30
+        ],
+        "english_paragraph_range": [
+          17,
+          30
+        ],
+        "historical_paragraph_range": [
+          17,
+          17
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          30,
+          107
+        ],
+        "english_paragraph_range": [
+          30,
+          107
+        ],
+        "historical_paragraph_range": [
+          17,
+          94
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          107,
+          116
+        ],
+        "english_paragraph_range": [
+          107,
+          116
+        ],
+        "historical_paragraph_range": [
+          94,
+          94
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          116,
+          123
+        ],
+        "english_paragraph_range": [
+          116,
+          123
+        ],
+        "historical_paragraph_range": [
+          94,
+          101
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "paragraphs": 147,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          16
+        ],
+        "english_paragraph_range": [
+          0,
+          16
+        ],
+        "historical_paragraph_range": [
+          0,
+          16
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          16,
+          27
+        ],
+        "english_paragraph_range": [
+          16,
+          27
+        ],
+        "historical_paragraph_range": [
+          16,
+          16
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          27,
+          89
+        ],
+        "english_paragraph_range": [
+          27,
+          89
+        ],
+        "historical_paragraph_range": [
+          16,
+          78
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          89,
+          107
+        ],
+        "english_paragraph_range": [
+          89,
+          107
+        ],
+        "historical_paragraph_range": [
+          78,
+          78
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          107,
+          147
+        ],
+        "english_paragraph_range": [
+          107,
+          147
+        ],
+        "historical_paragraph_range": [
+          78,
+          118
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "paragraphs": 110,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          5
+        ],
+        "english_paragraph_range": [
+          0,
+          5
+        ],
+        "historical_paragraph_range": [
+          0,
+          5
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          5,
+          24
+        ],
+        "english_paragraph_range": [
+          5,
+          24
+        ],
+        "historical_paragraph_range": [
+          5,
+          5
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          24,
+          76
+        ],
+        "english_paragraph_range": [
+          24,
+          76
+        ],
+        "historical_paragraph_range": [
+          5,
+          57
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          76,
+          94
+        ],
+        "english_paragraph_range": [
+          76,
+          94
+        ],
+        "historical_paragraph_range": [
+          57,
+          57
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          94,
+          95
+        ],
+        "english_paragraph_range": [
+          94,
+          95
+        ],
+        "historical_paragraph_range": [
+          57,
+          58
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          95,
+          99
+        ],
+        "english_paragraph_range": [
+          95,
+          99
+        ],
+        "historical_paragraph_range": [
+          58,
+          58
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          99,
+          110
+        ],
+        "english_paragraph_range": [
+          99,
+          110
+        ],
+        "historical_paragraph_range": [
+          58,
+          69
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "paragraphs": 101,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          22
+        ],
+        "english_paragraph_range": [
+          0,
+          22
+        ],
+        "historical_paragraph_range": [
+          0,
+          22
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          22,
+          36
+        ],
+        "english_paragraph_range": [
+          22,
+          36
+        ],
+        "historical_paragraph_range": [
+          22,
+          22
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          36,
+          56
+        ],
+        "english_paragraph_range": [
+          36,
+          56
+        ],
+        "historical_paragraph_range": [
+          22,
+          42
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          56,
+          70
+        ],
+        "english_paragraph_range": [
+          56,
+          70
+        ],
+        "historical_paragraph_range": [
+          42,
+          42
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          70,
+          73
+        ],
+        "english_paragraph_range": [
+          70,
+          73
+        ],
+        "historical_paragraph_range": [
+          42,
+          45
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          73,
+          79
+        ],
+        "english_paragraph_range": [
+          73,
+          79
+        ],
+        "historical_paragraph_range": [
+          45,
+          45
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          79,
+          101
+        ],
+        "english_paragraph_range": [
+          79,
+          101
+        ],
+        "historical_paragraph_range": [
+          45,
+          67
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 8,
+    "paragraphs": 102,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          11
+        ],
+        "english_paragraph_range": [
+          0,
+          11
+        ],
+        "historical_paragraph_range": [
+          0,
+          11
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          11,
+          23
+        ],
+        "english_paragraph_range": [
+          11,
+          23
+        ],
+        "historical_paragraph_range": [
+          11,
+          11
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          23,
+          40
+        ],
+        "english_paragraph_range": [
+          23,
+          40
+        ],
+        "historical_paragraph_range": [
+          11,
+          28
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          40,
+          57
+        ],
+        "english_paragraph_range": [
+          40,
+          57
+        ],
+        "historical_paragraph_range": [
+          28,
+          28
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          57,
+          95
+        ],
+        "english_paragraph_range": [
+          57,
+          95
+        ],
+        "historical_paragraph_range": [
+          28,
+          66
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          95,
+          101
+        ],
+        "english_paragraph_range": [
+          95,
+          101
+        ],
+        "historical_paragraph_range": [
+          66,
+          66
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          101,
+          102
+        ],
+        "english_paragraph_range": [
+          101,
+          102
+        ],
+        "historical_paragraph_range": [
+          66,
+          67
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "paragraphs": 97,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          8
+        ],
+        "english_paragraph_range": [
+          0,
+          8
+        ],
+        "historical_paragraph_range": [
+          0,
+          8
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          8,
+          26
+        ],
+        "english_paragraph_range": [
+          8,
+          26
+        ],
+        "historical_paragraph_range": [
+          8,
+          8
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          26,
+          53
+        ],
+        "english_paragraph_range": [
+          26,
+          53
+        ],
+        "historical_paragraph_range": [
+          8,
+          35
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          53,
+          61
+        ],
+        "english_paragraph_range": [
+          53,
+          61
+        ],
+        "historical_paragraph_range": [
+          35,
+          35
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          61,
+          69
+        ],
+        "english_paragraph_range": [
+          61,
+          69
+        ],
+        "historical_paragraph_range": [
+          35,
+          43
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          69,
+          86
+        ],
+        "english_paragraph_range": [
+          69,
+          86
+        ],
+        "historical_paragraph_range": [
+          43,
+          43
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          86,
+          97
+        ],
+        "english_paragraph_range": [
+          86,
+          97
+        ],
+        "historical_paragraph_range": [
+          43,
+          54
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "paragraphs": 97,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          13
+        ],
+        "english_paragraph_range": [
+          0,
+          13
+        ],
+        "historical_paragraph_range": [
+          0,
+          13
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          13,
+          27
+        ],
+        "english_paragraph_range": [
+          13,
+          27
+        ],
+        "historical_paragraph_range": [
+          13,
+          13
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          27,
+          60
+        ],
+        "english_paragraph_range": [
+          27,
+          60
+        ],
+        "historical_paragraph_range": [
+          13,
+          46
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          60,
+          80
+        ],
+        "english_paragraph_range": [
+          60,
+          80
+        ],
+        "historical_paragraph_range": [
+          46,
+          46
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          80,
+          89
+        ],
+        "english_paragraph_range": [
+          80,
+          89
+        ],
+        "historical_paragraph_range": [
+          46,
+          55
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          89,
+          95
+        ],
+        "english_paragraph_range": [
+          89,
+          95
+        ],
+        "historical_paragraph_range": [
+          55,
+          55
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          95,
+          97
+        ],
+        "english_paragraph_range": [
+          95,
+          97
+        ],
+        "historical_paragraph_range": [
+          55,
+          57
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "paragraphs": 88,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          2
+        ],
+        "english_paragraph_range": [
+          0,
+          2
+        ],
+        "historical_paragraph_range": [
+          0,
+          2
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          2,
+          14
+        ],
+        "english_paragraph_range": [
+          2,
+          14
+        ],
+        "historical_paragraph_range": [
+          2,
+          2
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          14,
+          35
+        ],
+        "english_paragraph_range": [
+          14,
+          35
+        ],
+        "historical_paragraph_range": [
+          2,
+          23
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          35,
+          40
+        ],
+        "english_paragraph_range": [
+          35,
+          40
+        ],
+        "historical_paragraph_range": [
+          23,
+          23
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          40,
+          48
+        ],
+        "english_paragraph_range": [
+          40,
+          48
+        ],
+        "historical_paragraph_range": [
+          23,
+          31
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          48,
+          61
+        ],
+        "english_paragraph_range": [
+          48,
+          61
+        ],
+        "historical_paragraph_range": [
+          31,
+          31
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          61,
+          78
+        ],
+        "english_paragraph_range": [
+          61,
+          78
+        ],
+        "historical_paragraph_range": [
+          31,
+          48
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          78,
+          82
+        ],
+        "english_paragraph_range": [
+          78,
+          82
+        ],
+        "historical_paragraph_range": [
+          48,
+          48
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          82,
+          88
+        ],
+        "english_paragraph_range": [
+          82,
+          88
+        ],
+        "historical_paragraph_range": [
+          48,
+          54
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "paragraphs": 98,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          8
+        ],
+        "english_paragraph_range": [
+          0,
+          8
+        ],
+        "historical_paragraph_range": [
+          0,
+          8
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          8,
+          17
+        ],
+        "english_paragraph_range": [
+          8,
+          17
+        ],
+        "historical_paragraph_range": [
+          8,
+          8
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          17,
+          42
+        ],
+        "english_paragraph_range": [
+          17,
+          42
+        ],
+        "historical_paragraph_range": [
+          8,
+          33
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          42,
+          49
+        ],
+        "english_paragraph_range": [
+          42,
+          49
+        ],
+        "historical_paragraph_range": [
+          33,
+          33
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          49,
+          79
+        ],
+        "english_paragraph_range": [
+          49,
+          79
+        ],
+        "historical_paragraph_range": [
+          33,
+          63
+        ]
+      },
+      {
+        "kind": "replace",
+        "italian_paragraph_range": [
+          79,
+          98
+        ],
+        "english_paragraph_range": [
+          79,
+          98
+        ],
+        "historical_paragraph_range": [
+          63,
+          64
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 13,
+    "paragraphs": 99,
+    "mapping": [
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          0,
+          3
+        ],
+        "english_paragraph_range": [
+          0,
+          3
+        ],
+        "historical_paragraph_range": [
+          0,
+          0
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          3,
+          20
+        ],
+        "english_paragraph_range": [
+          3,
+          20
+        ],
+        "historical_paragraph_range": [
+          0,
+          17
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          20,
+          32
+        ],
+        "english_paragraph_range": [
+          20,
+          32
+        ],
+        "historical_paragraph_range": [
+          17,
+          17
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          32,
+          53
+        ],
+        "english_paragraph_range": [
+          32,
+          53
+        ],
+        "historical_paragraph_range": [
+          17,
+          38
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          53,
+          68
+        ],
+        "english_paragraph_range": [
+          53,
+          68
+        ],
+        "historical_paragraph_range": [
+          38,
+          38
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          68,
+          80
+        ],
+        "english_paragraph_range": [
+          68,
+          80
+        ],
+        "historical_paragraph_range": [
+          38,
+          50
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          80,
+          86
+        ],
+        "english_paragraph_range": [
+          80,
+          86
+        ],
+        "historical_paragraph_range": [
+          50,
+          50
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          86,
+          87
+        ],
+        "english_paragraph_range": [
+          86,
+          87
+        ],
+        "historical_paragraph_range": [
+          50,
+          51
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          87,
+          92
+        ],
+        "english_paragraph_range": [
+          87,
+          92
+        ],
+        "historical_paragraph_range": [
+          51,
+          51
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          92,
+          99
+        ],
+        "english_paragraph_range": [
+          92,
+          99
+        ],
+        "historical_paragraph_range": [
+          51,
+          58
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 14,
+    "paragraphs": 100,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          15
+        ],
+        "english_paragraph_range": [
+          0,
+          15
+        ],
+        "historical_paragraph_range": [
+          0,
+          15
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          15,
+          27
+        ],
+        "english_paragraph_range": [
+          15,
+          27
+        ],
+        "historical_paragraph_range": [
+          15,
+          15
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          27,
+          33
+        ],
+        "english_paragraph_range": [
+          27,
+          33
+        ],
+        "historical_paragraph_range": [
+          15,
+          21
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          33,
+          40
+        ],
+        "english_paragraph_range": [
+          33,
+          40
+        ],
+        "historical_paragraph_range": [
+          21,
+          21
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          40,
+          49
+        ],
+        "english_paragraph_range": [
+          40,
+          49
+        ],
+        "historical_paragraph_range": [
+          21,
+          30
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          49,
+          63
+        ],
+        "english_paragraph_range": [
+          49,
+          63
+        ],
+        "historical_paragraph_range": [
+          30,
+          30
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          63,
+          78
+        ],
+        "english_paragraph_range": [
+          63,
+          78
+        ],
+        "historical_paragraph_range": [
+          30,
+          45
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          78,
+          84
+        ],
+        "english_paragraph_range": [
+          78,
+          84
+        ],
+        "historical_paragraph_range": [
+          45,
+          45
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          84,
+          97
+        ],
+        "english_paragraph_range": [
+          84,
+          97
+        ],
+        "historical_paragraph_range": [
+          45,
+          58
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          97,
+          98
+        ],
+        "english_paragraph_range": [
+          97,
+          98
+        ],
+        "historical_paragraph_range": [
+          58,
+          58
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          98,
+          100
+        ],
+        "english_paragraph_range": [
+          98,
+          100
+        ],
+        "historical_paragraph_range": [
+          58,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 15,
+    "paragraphs": 95,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          5
+        ],
+        "english_paragraph_range": [
+          0,
+          5
+        ],
+        "historical_paragraph_range": [
+          0,
+          5
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          5,
+          15
+        ],
+        "english_paragraph_range": [
+          5,
+          15
+        ],
+        "historical_paragraph_range": [
+          5,
+          5
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          15,
+          43
+        ],
+        "english_paragraph_range": [
+          15,
+          43
+        ],
+        "historical_paragraph_range": [
+          5,
+          33
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          43,
+          53
+        ],
+        "english_paragraph_range": [
+          43,
+          53
+        ],
+        "historical_paragraph_range": [
+          33,
+          33
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          53,
+          61
+        ],
+        "english_paragraph_range": [
+          53,
+          61
+        ],
+        "historical_paragraph_range": [
+          33,
+          41
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          61,
+          66
+        ],
+        "english_paragraph_range": [
+          61,
+          66
+        ],
+        "historical_paragraph_range": [
+          41,
+          41
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          66,
+          79
+        ],
+        "english_paragraph_range": [
+          66,
+          79
+        ],
+        "historical_paragraph_range": [
+          41,
+          54
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          79,
+          87
+        ],
+        "english_paragraph_range": [
+          79,
+          87
+        ],
+        "historical_paragraph_range": [
+          54,
+          54
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          87,
+          95
+        ],
+        "english_paragraph_range": [
+          87,
+          95
+        ],
+        "historical_paragraph_range": [
+          54,
+          62
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 16,
+    "paragraphs": 99,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          8
+        ],
+        "english_paragraph_range": [
+          0,
+          8
+        ],
+        "historical_paragraph_range": [
+          0,
+          8
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          8,
+          20
+        ],
+        "english_paragraph_range": [
+          8,
+          20
+        ],
+        "historical_paragraph_range": [
+          8,
+          8
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          20,
+          50
+        ],
+        "english_paragraph_range": [
+          20,
+          50
+        ],
+        "historical_paragraph_range": [
+          8,
+          38
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          50,
+          58
+        ],
+        "english_paragraph_range": [
+          50,
+          58
+        ],
+        "historical_paragraph_range": [
+          38,
+          38
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          58,
+          64
+        ],
+        "english_paragraph_range": [
+          58,
+          64
+        ],
+        "historical_paragraph_range": [
+          38,
+          44
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          64,
+          70
+        ],
+        "english_paragraph_range": [
+          64,
+          70
+        ],
+        "historical_paragraph_range": [
+          44,
+          44
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          70,
+          87
+        ],
+        "english_paragraph_range": [
+          70,
+          87
+        ],
+        "historical_paragraph_range": [
+          44,
+          61
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          87,
+          90
+        ],
+        "english_paragraph_range": [
+          87,
+          90
+        ],
+        "historical_paragraph_range": [
+          61,
+          61
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          90,
+          99
+        ],
+        "english_paragraph_range": [
+          90,
+          99
+        ],
+        "historical_paragraph_range": [
+          61,
+          70
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 17,
+    "paragraphs": 98,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          7
+        ],
+        "english_paragraph_range": [
+          0,
+          7
+        ],
+        "historical_paragraph_range": [
+          0,
+          7
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          7,
+          16
+        ],
+        "english_paragraph_range": [
+          7,
+          16
+        ],
+        "historical_paragraph_range": [
+          7,
+          7
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          16,
+          25
+        ],
+        "english_paragraph_range": [
+          16,
+          25
+        ],
+        "historical_paragraph_range": [
+          7,
+          16
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          25,
+          33
+        ],
+        "english_paragraph_range": [
+          25,
+          33
+        ],
+        "historical_paragraph_range": [
+          16,
+          16
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          33,
+          39
+        ],
+        "english_paragraph_range": [
+          33,
+          39
+        ],
+        "historical_paragraph_range": [
+          16,
+          22
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          39,
+          46
+        ],
+        "english_paragraph_range": [
+          39,
+          46
+        ],
+        "historical_paragraph_range": [
+          22,
+          22
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          46,
+          78
+        ],
+        "english_paragraph_range": [
+          46,
+          78
+        ],
+        "historical_paragraph_range": [
+          22,
+          54
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          78,
+          88
+        ],
+        "english_paragraph_range": [
+          78,
+          88
+        ],
+        "historical_paragraph_range": [
+          54,
+          54
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          88,
+          98
+        ],
+        "english_paragraph_range": [
+          88,
+          98
+        ],
+        "historical_paragraph_range": [
+          54,
+          64
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 18,
+    "paragraphs": 86,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          3
+        ],
+        "english_paragraph_range": [
+          0,
+          3
+        ],
+        "historical_paragraph_range": [
+          0,
+          3
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          3,
+          10
+        ],
+        "english_paragraph_range": [
+          3,
+          10
+        ],
+        "historical_paragraph_range": [
+          3,
+          3
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          10,
+          22
+        ],
+        "english_paragraph_range": [
+          10,
+          22
+        ],
+        "historical_paragraph_range": [
+          3,
+          15
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          22,
+          32
+        ],
+        "english_paragraph_range": [
+          22,
+          32
+        ],
+        "historical_paragraph_range": [
+          15,
+          15
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          32,
+          45
+        ],
+        "english_paragraph_range": [
+          32,
+          45
+        ],
+        "historical_paragraph_range": [
+          15,
+          28
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          45,
+          53
+        ],
+        "english_paragraph_range": [
+          45,
+          53
+        ],
+        "historical_paragraph_range": [
+          28,
+          28
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          53,
+          61
+        ],
+        "english_paragraph_range": [
+          53,
+          61
+        ],
+        "historical_paragraph_range": [
+          28,
+          36
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          61,
+          68
+        ],
+        "english_paragraph_range": [
+          61,
+          68
+        ],
+        "historical_paragraph_range": [
+          36,
+          36
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          68,
+          83
+        ],
+        "english_paragraph_range": [
+          68,
+          83
+        ],
+        "historical_paragraph_range": [
+          36,
+          51
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          83,
+          84
+        ],
+        "english_paragraph_range": [
+          83,
+          84
+        ],
+        "historical_paragraph_range": [
+          51,
+          51
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          84,
+          86
+        ],
+        "english_paragraph_range": [
+          84,
+          86
+        ],
+        "historical_paragraph_range": [
+          51,
+          53
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 19,
+    "paragraphs": 100,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          22
+        ],
+        "english_paragraph_range": [
+          0,
+          22
+        ],
+        "historical_paragraph_range": [
+          0,
+          22
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          22,
+          36
+        ],
+        "english_paragraph_range": [
+          22,
+          36
+        ],
+        "historical_paragraph_range": [
+          22,
+          22
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          36,
+          45
+        ],
+        "english_paragraph_range": [
+          36,
+          45
+        ],
+        "historical_paragraph_range": [
+          22,
+          31
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          45,
+          53
+        ],
+        "english_paragraph_range": [
+          45,
+          53
+        ],
+        "historical_paragraph_range": [
+          31,
+          31
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          53,
+          55
+        ],
+        "english_paragraph_range": [
+          53,
+          55
+        ],
+        "historical_paragraph_range": [
+          31,
+          33
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          55,
+          65
+        ],
+        "english_paragraph_range": [
+          55,
+          65
+        ],
+        "historical_paragraph_range": [
+          33,
+          33
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          65,
+          72
+        ],
+        "english_paragraph_range": [
+          65,
+          72
+        ],
+        "historical_paragraph_range": [
+          33,
+          40
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          72,
+          84
+        ],
+        "english_paragraph_range": [
+          72,
+          84
+        ],
+        "historical_paragraph_range": [
+          40,
+          40
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          84,
+          100
+        ],
+        "english_paragraph_range": [
+          84,
+          100
+        ],
+        "historical_paragraph_range": [
+          40,
+          56
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 20,
+    "paragraphs": 112,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          12
+        ],
+        "english_paragraph_range": [
+          0,
+          12
+        ],
+        "historical_paragraph_range": [
+          0,
+          12
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          12,
+          22
+        ],
+        "english_paragraph_range": [
+          12,
+          22
+        ],
+        "historical_paragraph_range": [
+          12,
+          12
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          22,
+          40
+        ],
+        "english_paragraph_range": [
+          22,
+          40
+        ],
+        "historical_paragraph_range": [
+          12,
+          30
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          40,
+          55
+        ],
+        "english_paragraph_range": [
+          40,
+          55
+        ],
+        "historical_paragraph_range": [
+          30,
+          30
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          55,
+          80
+        ],
+        "english_paragraph_range": [
+          55,
+          80
+        ],
+        "historical_paragraph_range": [
+          30,
+          55
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          80,
+          88
+        ],
+        "english_paragraph_range": [
+          80,
+          88
+        ],
+        "historical_paragraph_range": [
+          55,
+          55
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          88,
+          93
+        ],
+        "english_paragraph_range": [
+          88,
+          93
+        ],
+        "historical_paragraph_range": [
+          55,
+          60
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          93,
+          106
+        ],
+        "english_paragraph_range": [
+          93,
+          106
+        ],
+        "historical_paragraph_range": [
+          60,
+          60
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          106,
+          112
+        ],
+        "english_paragraph_range": [
+          106,
+          112
+        ],
+        "historical_paragraph_range": [
+          60,
+          66
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 21,
+    "paragraphs": 90,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          17
+        ],
+        "english_paragraph_range": [
+          0,
+          17
+        ],
+        "historical_paragraph_range": [
+          0,
+          17
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          17,
+          31
+        ],
+        "english_paragraph_range": [
+          17,
+          31
+        ],
+        "historical_paragraph_range": [
+          17,
+          17
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          31,
+          47
+        ],
+        "english_paragraph_range": [
+          31,
+          47
+        ],
+        "historical_paragraph_range": [
+          17,
+          33
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          47,
+          58
+        ],
+        "english_paragraph_range": [
+          47,
+          58
+        ],
+        "historical_paragraph_range": [
+          33,
+          33
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          58,
+          68
+        ],
+        "english_paragraph_range": [
+          58,
+          68
+        ],
+        "historical_paragraph_range": [
+          33,
+          43
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          68,
+          75
+        ],
+        "english_paragraph_range": [
+          68,
+          75
+        ],
+        "historical_paragraph_range": [
+          43,
+          43
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          75,
+          83
+        ],
+        "english_paragraph_range": [
+          75,
+          83
+        ],
+        "historical_paragraph_range": [
+          43,
+          51
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          83,
+          88
+        ],
+        "english_paragraph_range": [
+          83,
+          88
+        ],
+        "historical_paragraph_range": [
+          51,
+          51
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          88,
+          90
+        ],
+        "english_paragraph_range": [
+          88,
+          90
+        ],
+        "historical_paragraph_range": [
+          51,
+          53
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 22,
+    "paragraphs": 107,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          14
+        ],
+        "english_paragraph_range": [
+          0,
+          14
+        ],
+        "historical_paragraph_range": [
+          0,
+          14
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          14,
+          23
+        ],
+        "english_paragraph_range": [
+          14,
+          23
+        ],
+        "historical_paragraph_range": [
+          14,
+          14
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          23,
+          37
+        ],
+        "english_paragraph_range": [
+          23,
+          37
+        ],
+        "historical_paragraph_range": [
+          14,
+          28
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          37,
+          51
+        ],
+        "english_paragraph_range": [
+          37,
+          51
+        ],
+        "historical_paragraph_range": [
+          28,
+          28
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          51,
+          75
+        ],
+        "english_paragraph_range": [
+          51,
+          75
+        ],
+        "historical_paragraph_range": [
+          28,
+          52
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          75,
+          84
+        ],
+        "english_paragraph_range": [
+          75,
+          84
+        ],
+        "historical_paragraph_range": [
+          52,
+          52
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          84,
+          90
+        ],
+        "english_paragraph_range": [
+          84,
+          90
+        ],
+        "historical_paragraph_range": [
+          52,
+          58
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          90,
+          100
+        ],
+        "english_paragraph_range": [
+          90,
+          100
+        ],
+        "historical_paragraph_range": [
+          58,
+          58
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          100,
+          104
+        ],
+        "english_paragraph_range": [
+          100,
+          104
+        ],
+        "historical_paragraph_range": [
+          58,
+          62
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          104,
+          105
+        ],
+        "english_paragraph_range": [
+          104,
+          105
+        ],
+        "historical_paragraph_range": [
+          62,
+          62
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          105,
+          107
+        ],
+        "english_paragraph_range": [
+          105,
+          107
+        ],
+        "historical_paragraph_range": [
+          62,
+          64
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 23,
+    "paragraphs": 71,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          3
+        ],
+        "english_paragraph_range": [
+          0,
+          3
+        ],
+        "historical_paragraph_range": [
+          0,
+          3
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          3,
+          9
+        ],
+        "english_paragraph_range": [
+          3,
+          9
+        ],
+        "historical_paragraph_range": [
+          3,
+          3
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          9,
+          16
+        ],
+        "english_paragraph_range": [
+          9,
+          16
+        ],
+        "historical_paragraph_range": [
+          3,
+          10
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          16,
+          22
+        ],
+        "english_paragraph_range": [
+          16,
+          22
+        ],
+        "historical_paragraph_range": [
+          10,
+          10
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          22,
+          35
+        ],
+        "english_paragraph_range": [
+          22,
+          35
+        ],
+        "historical_paragraph_range": [
+          10,
+          23
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          35,
+          41
+        ],
+        "english_paragraph_range": [
+          35,
+          41
+        ],
+        "historical_paragraph_range": [
+          23,
+          23
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          41,
+          42
+        ],
+        "english_paragraph_range": [
+          41,
+          42
+        ],
+        "historical_paragraph_range": [
+          23,
+          24
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          42,
+          52
+        ],
+        "english_paragraph_range": [
+          42,
+          52
+        ],
+        "historical_paragraph_range": [
+          24,
+          24
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          52,
+          71
+        ],
+        "english_paragraph_range": [
+          52,
+          71
+        ],
+        "historical_paragraph_range": [
+          24,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 24,
+    "paragraphs": 83,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          20
+        ],
+        "english_paragraph_range": [
+          0,
+          20
+        ],
+        "historical_paragraph_range": [
+          0,
+          20
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          20,
+          29
+        ],
+        "english_paragraph_range": [
+          20,
+          29
+        ],
+        "historical_paragraph_range": [
+          20,
+          20
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          29,
+          37
+        ],
+        "english_paragraph_range": [
+          29,
+          37
+        ],
+        "historical_paragraph_range": [
+          20,
+          28
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          37,
+          47
+        ],
+        "english_paragraph_range": [
+          37,
+          47
+        ],
+        "historical_paragraph_range": [
+          28,
+          28
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          47,
+          49
+        ],
+        "english_paragraph_range": [
+          47,
+          49
+        ],
+        "historical_paragraph_range": [
+          28,
+          30
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          49,
+          58
+        ],
+        "english_paragraph_range": [
+          49,
+          58
+        ],
+        "historical_paragraph_range": [
+          30,
+          30
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          58,
+          66
+        ],
+        "english_paragraph_range": [
+          58,
+          66
+        ],
+        "historical_paragraph_range": [
+          30,
+          38
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          66,
+          67
+        ],
+        "english_paragraph_range": [
+          66,
+          67
+        ],
+        "historical_paragraph_range": [
+          38,
+          38
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          67,
+          76
+        ],
+        "english_paragraph_range": [
+          67,
+          76
+        ],
+        "historical_paragraph_range": [
+          38,
+          47
+        ]
+      },
+      {
+        "kind": "replace",
+        "italian_paragraph_range": [
+          76,
+          83
+        ],
+        "english_paragraph_range": [
+          76,
+          83
+        ],
+        "historical_paragraph_range": [
+          47,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 25,
+    "paragraphs": 81,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          3
+        ],
+        "english_paragraph_range": [
+          0,
+          3
+        ],
+        "historical_paragraph_range": [
+          0,
+          3
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          3,
+          11
+        ],
+        "english_paragraph_range": [
+          3,
+          11
+        ],
+        "historical_paragraph_range": [
+          3,
+          3
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          11,
+          30
+        ],
+        "english_paragraph_range": [
+          11,
+          30
+        ],
+        "historical_paragraph_range": [
+          3,
+          22
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          30,
+          38
+        ],
+        "english_paragraph_range": [
+          30,
+          38
+        ],
+        "historical_paragraph_range": [
+          22,
+          22
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          38,
+          59
+        ],
+        "english_paragraph_range": [
+          38,
+          59
+        ],
+        "historical_paragraph_range": [
+          22,
+          43
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          59,
+          66
+        ],
+        "english_paragraph_range": [
+          59,
+          66
+        ],
+        "historical_paragraph_range": [
+          43,
+          43
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          66,
+          67
+        ],
+        "english_paragraph_range": [
+          66,
+          67
+        ],
+        "historical_paragraph_range": [
+          43,
+          44
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          67,
+          73
+        ],
+        "english_paragraph_range": [
+          67,
+          73
+        ],
+        "historical_paragraph_range": [
+          44,
+          44
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          73,
+          81
+        ],
+        "english_paragraph_range": [
+          73,
+          81
+        ],
+        "historical_paragraph_range": [
+          44,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 26,
+    "paragraphs": 88,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          5
+        ],
+        "english_paragraph_range": [
+          0,
+          5
+        ],
+        "historical_paragraph_range": [
+          0,
+          5
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          5,
+          16
+        ],
+        "english_paragraph_range": [
+          5,
+          16
+        ],
+        "historical_paragraph_range": [
+          5,
+          5
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          16,
+          36
+        ],
+        "english_paragraph_range": [
+          16,
+          36
+        ],
+        "historical_paragraph_range": [
+          5,
+          25
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          36,
+          46
+        ],
+        "english_paragraph_range": [
+          36,
+          46
+        ],
+        "historical_paragraph_range": [
+          25,
+          25
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          46,
+          47
+        ],
+        "english_paragraph_range": [
+          46,
+          47
+        ],
+        "historical_paragraph_range": [
+          25,
+          26
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          47,
+          48
+        ],
+        "english_paragraph_range": [
+          47,
+          48
+        ],
+        "historical_paragraph_range": [
+          26,
+          26
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          48,
+          50
+        ],
+        "english_paragraph_range": [
+          48,
+          50
+        ],
+        "historical_paragraph_range": [
+          26,
+          28
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          50,
+          61
+        ],
+        "english_paragraph_range": [
+          50,
+          61
+        ],
+        "historical_paragraph_range": [
+          28,
+          28
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          61,
+          72
+        ],
+        "english_paragraph_range": [
+          61,
+          72
+        ],
+        "historical_paragraph_range": [
+          28,
+          39
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          72,
+          81
+        ],
+        "english_paragraph_range": [
+          72,
+          81
+        ],
+        "historical_paragraph_range": [
+          39,
+          39
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          81,
+          88
+        ],
+        "english_paragraph_range": [
+          81,
+          88
+        ],
+        "historical_paragraph_range": [
+          39,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 27,
+    "paragraphs": 70,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          7
+        ],
+        "english_paragraph_range": [
+          0,
+          7
+        ],
+        "historical_paragraph_range": [
+          0,
+          7
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          7,
+          15
+        ],
+        "english_paragraph_range": [
+          7,
+          15
+        ],
+        "historical_paragraph_range": [
+          7,
+          7
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          15,
+          23
+        ],
+        "english_paragraph_range": [
+          15,
+          23
+        ],
+        "historical_paragraph_range": [
+          7,
+          15
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          23,
+          30
+        ],
+        "english_paragraph_range": [
+          23,
+          30
+        ],
+        "historical_paragraph_range": [
+          15,
+          15
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          30,
+          31
+        ],
+        "english_paragraph_range": [
+          30,
+          31
+        ],
+        "historical_paragraph_range": [
+          15,
+          16
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          31,
+          38
+        ],
+        "english_paragraph_range": [
+          31,
+          38
+        ],
+        "historical_paragraph_range": [
+          16,
+          16
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          38,
+          42
+        ],
+        "english_paragraph_range": [
+          38,
+          42
+        ],
+        "historical_paragraph_range": [
+          16,
+          20
+        ]
+      },
+      {
+        "kind": "replace",
+        "italian_paragraph_range": [
+          42,
+          44
+        ],
+        "english_paragraph_range": [
+          42,
+          44
+        ],
+        "historical_paragraph_range": [
+          20,
+          21
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          44,
+          63
+        ],
+        "english_paragraph_range": [
+          44,
+          63
+        ],
+        "historical_paragraph_range": [
+          21,
+          40
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          63,
+          68
+        ],
+        "english_paragraph_range": [
+          63,
+          68
+        ],
+        "historical_paragraph_range": [
+          40,
+          40
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          68,
+          70
+        ],
+        "english_paragraph_range": [
+          68,
+          70
+        ],
+        "historical_paragraph_range": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 28,
+    "paragraphs": 78,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          7
+        ],
+        "english_paragraph_range": [
+          0,
+          7
+        ],
+        "historical_paragraph_range": [
+          0,
+          7
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          7,
+          14
+        ],
+        "english_paragraph_range": [
+          7,
+          14
+        ],
+        "historical_paragraph_range": [
+          7,
+          7
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          14,
+          27
+        ],
+        "english_paragraph_range": [
+          14,
+          27
+        ],
+        "historical_paragraph_range": [
+          7,
+          20
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          27,
+          35
+        ],
+        "english_paragraph_range": [
+          27,
+          35
+        ],
+        "historical_paragraph_range": [
+          20,
+          20
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          35,
+          51
+        ],
+        "english_paragraph_range": [
+          35,
+          51
+        ],
+        "historical_paragraph_range": [
+          20,
+          36
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          51,
+          59
+        ],
+        "english_paragraph_range": [
+          51,
+          59
+        ],
+        "historical_paragraph_range": [
+          36,
+          36
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          59,
+          63
+        ],
+        "english_paragraph_range": [
+          59,
+          63
+        ],
+        "historical_paragraph_range": [
+          36,
+          40
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          63,
+          71
+        ],
+        "english_paragraph_range": [
+          63,
+          71
+        ],
+        "historical_paragraph_range": [
+          40,
+          40
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          71,
+          72
+        ],
+        "english_paragraph_range": [
+          71,
+          72
+        ],
+        "historical_paragraph_range": [
+          40,
+          41
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          72,
+          73
+        ],
+        "english_paragraph_range": [
+          72,
+          73
+        ],
+        "historical_paragraph_range": [
+          41,
+          41
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          73,
+          78
+        ],
+        "english_paragraph_range": [
+          73,
+          78
+        ],
+        "historical_paragraph_range": [
+          41,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 29,
+    "paragraphs": 86,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          4
+        ],
+        "english_paragraph_range": [
+          0,
+          4
+        ],
+        "historical_paragraph_range": [
+          0,
+          4
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          4,
+          10
+        ],
+        "english_paragraph_range": [
+          4,
+          10
+        ],
+        "historical_paragraph_range": [
+          4,
+          4
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          10,
+          19
+        ],
+        "english_paragraph_range": [
+          10,
+          19
+        ],
+        "historical_paragraph_range": [
+          4,
+          13
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          19,
+          26
+        ],
+        "english_paragraph_range": [
+          19,
+          26
+        ],
+        "historical_paragraph_range": [
+          13,
+          13
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          26,
+          59
+        ],
+        "english_paragraph_range": [
+          26,
+          59
+        ],
+        "historical_paragraph_range": [
+          13,
+          46
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          59,
+          68
+        ],
+        "english_paragraph_range": [
+          59,
+          68
+        ],
+        "historical_paragraph_range": [
+          46,
+          46
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          68,
+          71
+        ],
+        "english_paragraph_range": [
+          68,
+          71
+        ],
+        "historical_paragraph_range": [
+          46,
+          49
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          71,
+          80
+        ],
+        "english_paragraph_range": [
+          71,
+          80
+        ],
+        "historical_paragraph_range": [
+          49,
+          49
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          80,
+          84
+        ],
+        "english_paragraph_range": [
+          80,
+          84
+        ],
+        "historical_paragraph_range": [
+          49,
+          53
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          84,
+          85
+        ],
+        "english_paragraph_range": [
+          84,
+          85
+        ],
+        "historical_paragraph_range": [
+          53,
+          53
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          85,
+          86
+        ],
+        "english_paragraph_range": [
+          85,
+          86
+        ],
+        "historical_paragraph_range": [
+          53,
+          54
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 30,
+    "paragraphs": 73,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          2
+        ],
+        "english_paragraph_range": [
+          0,
+          2
+        ],
+        "historical_paragraph_range": [
+          0,
+          2
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          2,
+          8
+        ],
+        "english_paragraph_range": [
+          2,
+          8
+        ],
+        "historical_paragraph_range": [
+          2,
+          2
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          8,
+          30
+        ],
+        "english_paragraph_range": [
+          8,
+          30
+        ],
+        "historical_paragraph_range": [
+          2,
+          24
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          30,
+          37
+        ],
+        "english_paragraph_range": [
+          30,
+          37
+        ],
+        "historical_paragraph_range": [
+          24,
+          24
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          37,
+          50
+        ],
+        "english_paragraph_range": [
+          37,
+          50
+        ],
+        "historical_paragraph_range": [
+          24,
+          37
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          50,
+          61
+        ],
+        "english_paragraph_range": [
+          50,
+          61
+        ],
+        "historical_paragraph_range": [
+          37,
+          37
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          61,
+          63
+        ],
+        "english_paragraph_range": [
+          61,
+          63
+        ],
+        "historical_paragraph_range": [
+          37,
+          39
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          63,
+          70
+        ],
+        "english_paragraph_range": [
+          63,
+          70
+        ],
+        "historical_paragraph_range": [
+          39,
+          39
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          70,
+          71
+        ],
+        "english_paragraph_range": [
+          70,
+          71
+        ],
+        "historical_paragraph_range": [
+          39,
+          40
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          71,
+          72
+        ],
+        "english_paragraph_range": [
+          71,
+          72
+        ],
+        "historical_paragraph_range": [
+          40,
+          40
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          72,
+          73
+        ],
+        "english_paragraph_range": [
+          72,
+          73
+        ],
+        "historical_paragraph_range": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 31,
+    "paragraphs": 82,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          5
+        ],
+        "english_paragraph_range": [
+          0,
+          5
+        ],
+        "historical_paragraph_range": [
+          0,
+          5
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          5,
+          15
+        ],
+        "english_paragraph_range": [
+          5,
+          15
+        ],
+        "historical_paragraph_range": [
+          5,
+          5
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          15,
+          31
+        ],
+        "english_paragraph_range": [
+          15,
+          31
+        ],
+        "historical_paragraph_range": [
+          5,
+          21
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          31,
+          40
+        ],
+        "english_paragraph_range": [
+          31,
+          40
+        ],
+        "historical_paragraph_range": [
+          21,
+          21
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          40,
+          42
+        ],
+        "english_paragraph_range": [
+          40,
+          42
+        ],
+        "historical_paragraph_range": [
+          21,
+          23
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          42,
+          48
+        ],
+        "english_paragraph_range": [
+          42,
+          48
+        ],
+        "historical_paragraph_range": [
+          23,
+          23
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          48,
+          75
+        ],
+        "english_paragraph_range": [
+          48,
+          75
+        ],
+        "historical_paragraph_range": [
+          23,
+          50
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          75,
+          76
+        ],
+        "english_paragraph_range": [
+          75,
+          76
+        ],
+        "historical_paragraph_range": [
+          50,
+          50
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          76,
+          77
+        ],
+        "english_paragraph_range": [
+          76,
+          77
+        ],
+        "historical_paragraph_range": [
+          50,
+          51
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          77,
+          81
+        ],
+        "english_paragraph_range": [
+          77,
+          81
+        ],
+        "historical_paragraph_range": [
+          51,
+          51
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          81,
+          82
+        ],
+        "english_paragraph_range": [
+          81,
+          82
+        ],
+        "historical_paragraph_range": [
+          51,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 32,
+    "paragraphs": 94,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          13
+        ],
+        "english_paragraph_range": [
+          0,
+          13
+        ],
+        "historical_paragraph_range": [
+          0,
+          13
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          13,
+          20
+        ],
+        "english_paragraph_range": [
+          13,
+          20
+        ],
+        "historical_paragraph_range": [
+          13,
+          13
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          20,
+          32
+        ],
+        "english_paragraph_range": [
+          20,
+          32
+        ],
+        "historical_paragraph_range": [
+          13,
+          25
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          32,
+          45
+        ],
+        "english_paragraph_range": [
+          32,
+          45
+        ],
+        "historical_paragraph_range": [
+          25,
+          25
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          45,
+          59
+        ],
+        "english_paragraph_range": [
+          45,
+          59
+        ],
+        "historical_paragraph_range": [
+          25,
+          39
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          59,
+          69
+        ],
+        "english_paragraph_range": [
+          59,
+          69
+        ],
+        "historical_paragraph_range": [
+          39,
+          39
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          69,
+          77
+        ],
+        "english_paragraph_range": [
+          69,
+          77
+        ],
+        "historical_paragraph_range": [
+          39,
+          47
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          77,
+          78
+        ],
+        "english_paragraph_range": [
+          77,
+          78
+        ],
+        "historical_paragraph_range": [
+          47,
+          47
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          78,
+          79
+        ],
+        "english_paragraph_range": [
+          78,
+          79
+        ],
+        "historical_paragraph_range": [
+          47,
+          48
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          79,
+          90
+        ],
+        "english_paragraph_range": [
+          79,
+          90
+        ],
+        "historical_paragraph_range": [
+          48,
+          48
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          90,
+          94
+        ],
+        "english_paragraph_range": [
+          90,
+          94
+        ],
+        "historical_paragraph_range": [
+          48,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 33,
+    "paragraphs": 81,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          5
+        ],
+        "english_paragraph_range": [
+          0,
+          5
+        ],
+        "historical_paragraph_range": [
+          0,
+          5
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          5,
+          13
+        ],
+        "english_paragraph_range": [
+          5,
+          13
+        ],
+        "historical_paragraph_range": [
+          5,
+          5
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          13,
+          24
+        ],
+        "english_paragraph_range": [
+          13,
+          24
+        ],
+        "historical_paragraph_range": [
+          5,
+          16
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          24,
+          34
+        ],
+        "english_paragraph_range": [
+          24,
+          34
+        ],
+        "historical_paragraph_range": [
+          16,
+          16
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          34,
+          47
+        ],
+        "english_paragraph_range": [
+          34,
+          47
+        ],
+        "historical_paragraph_range": [
+          16,
+          29
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          47,
+          54
+        ],
+        "english_paragraph_range": [
+          47,
+          54
+        ],
+        "historical_paragraph_range": [
+          29,
+          29
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          54,
+          67
+        ],
+        "english_paragraph_range": [
+          54,
+          67
+        ],
+        "historical_paragraph_range": [
+          29,
+          42
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          67,
+          75
+        ],
+        "english_paragraph_range": [
+          67,
+          75
+        ],
+        "historical_paragraph_range": [
+          42,
+          42
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          75,
+          76
+        ],
+        "english_paragraph_range": [
+          75,
+          76
+        ],
+        "historical_paragraph_range": [
+          42,
+          43
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          76,
+          77
+        ],
+        "english_paragraph_range": [
+          76,
+          77
+        ],
+        "historical_paragraph_range": [
+          43,
+          43
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          77,
+          79
+        ],
+        "english_paragraph_range": [
+          77,
+          79
+        ],
+        "historical_paragraph_range": [
+          43,
+          45
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          79,
+          80
+        ],
+        "english_paragraph_range": [
+          79,
+          80
+        ],
+        "historical_paragraph_range": [
+          45,
+          45
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          80,
+          81
+        ],
+        "english_paragraph_range": [
+          80,
+          81
+        ],
+        "historical_paragraph_range": [
+          45,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 34,
+    "paragraphs": 85,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          11
+        ],
+        "english_paragraph_range": [
+          0,
+          11
+        ],
+        "historical_paragraph_range": [
+          0,
+          11
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          11,
+          22
+        ],
+        "english_paragraph_range": [
+          11,
+          22
+        ],
+        "historical_paragraph_range": [
+          11,
+          11
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          22,
+          35
+        ],
+        "english_paragraph_range": [
+          22,
+          35
+        ],
+        "historical_paragraph_range": [
+          11,
+          24
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          35,
+          47
+        ],
+        "english_paragraph_range": [
+          35,
+          47
+        ],
+        "historical_paragraph_range": [
+          24,
+          24
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          47,
+          50
+        ],
+        "english_paragraph_range": [
+          47,
+          50
+        ],
+        "historical_paragraph_range": [
+          24,
+          27
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          50,
+          60
+        ],
+        "english_paragraph_range": [
+          50,
+          60
+        ],
+        "historical_paragraph_range": [
+          27,
+          27
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          60,
+          72
+        ],
+        "english_paragraph_range": [
+          60,
+          72
+        ],
+        "historical_paragraph_range": [
+          27,
+          39
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          72,
+          82
+        ],
+        "english_paragraph_range": [
+          72,
+          82
+        ],
+        "historical_paragraph_range": [
+          39,
+          39
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          82,
+          83
+        ],
+        "english_paragraph_range": [
+          82,
+          83
+        ],
+        "historical_paragraph_range": [
+          39,
+          40
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          83,
+          84
+        ],
+        "english_paragraph_range": [
+          83,
+          84
+        ],
+        "historical_paragraph_range": [
+          40,
+          40
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          84,
+          85
+        ],
+        "english_paragraph_range": [
+          84,
+          85
+        ],
+        "historical_paragraph_range": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 35,
+    "paragraphs": 72,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          5
+        ],
+        "english_paragraph_range": [
+          0,
+          5
+        ],
+        "historical_paragraph_range": [
+          0,
+          5
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          5,
+          12
+        ],
+        "english_paragraph_range": [
+          5,
+          12
+        ],
+        "historical_paragraph_range": [
+          5,
+          5
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          12,
+          26
+        ],
+        "english_paragraph_range": [
+          12,
+          26
+        ],
+        "historical_paragraph_range": [
+          5,
+          19
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          26,
+          37
+        ],
+        "english_paragraph_range": [
+          26,
+          37
+        ],
+        "historical_paragraph_range": [
+          19,
+          19
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          37,
+          56
+        ],
+        "english_paragraph_range": [
+          37,
+          56
+        ],
+        "historical_paragraph_range": [
+          19,
+          38
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          56,
+          64
+        ],
+        "english_paragraph_range": [
+          56,
+          64
+        ],
+        "historical_paragraph_range": [
+          38,
+          38
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          64,
+          70
+        ],
+        "english_paragraph_range": [
+          64,
+          70
+        ],
+        "historical_paragraph_range": [
+          38,
+          44
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          70,
+          71
+        ],
+        "english_paragraph_range": [
+          70,
+          71
+        ],
+        "historical_paragraph_range": [
+          44,
+          44
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          71,
+          72
+        ],
+        "english_paragraph_range": [
+          71,
+          72
+        ],
+        "historical_paragraph_range": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 36,
+    "paragraphs": 68,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          6
+        ],
+        "english_paragraph_range": [
+          0,
+          6
+        ],
+        "historical_paragraph_range": [
+          0,
+          6
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          6,
+          13
+        ],
+        "english_paragraph_range": [
+          6,
+          13
+        ],
+        "historical_paragraph_range": [
+          6,
+          6
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          13,
+          25
+        ],
+        "english_paragraph_range": [
+          13,
+          25
+        ],
+        "historical_paragraph_range": [
+          6,
+          18
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          25,
+          33
+        ],
+        "english_paragraph_range": [
+          25,
+          33
+        ],
+        "historical_paragraph_range": [
+          18,
+          18
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          33,
+          39
+        ],
+        "english_paragraph_range": [
+          33,
+          39
+        ],
+        "historical_paragraph_range": [
+          18,
+          24
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          39,
+          47
+        ],
+        "english_paragraph_range": [
+          39,
+          47
+        ],
+        "historical_paragraph_range": [
+          24,
+          24
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          47,
+          54
+        ],
+        "english_paragraph_range": [
+          47,
+          54
+        ],
+        "historical_paragraph_range": [
+          24,
+          31
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          54,
+          63
+        ],
+        "english_paragraph_range": [
+          54,
+          63
+        ],
+        "historical_paragraph_range": [
+          31,
+          31
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          63,
+          64
+        ],
+        "english_paragraph_range": [
+          63,
+          64
+        ],
+        "historical_paragraph_range": [
+          31,
+          32
+        ]
+      },
+      {
+        "kind": "replace",
+        "italian_paragraph_range": [
+          64,
+          65
+        ],
+        "english_paragraph_range": [
+          64,
+          65
+        ],
+        "historical_paragraph_range": [
+          32,
+          33
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          65,
+          66
+        ],
+        "english_paragraph_range": [
+          65,
+          66
+        ],
+        "historical_paragraph_range": [
+          33,
+          34
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          66,
+          67
+        ],
+        "english_paragraph_range": [
+          66,
+          67
+        ],
+        "historical_paragraph_range": [
+          34,
+          34
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          67,
+          68
+        ],
+        "english_paragraph_range": [
+          67,
+          68
+        ],
+        "historical_paragraph_range": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 37,
+    "paragraphs": 75,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          13
+        ],
+        "english_paragraph_range": [
+          0,
+          13
+        ],
+        "historical_paragraph_range": [
+          0,
+          13
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          13,
+          22
+        ],
+        "english_paragraph_range": [
+          13,
+          22
+        ],
+        "historical_paragraph_range": [
+          13,
+          13
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          22,
+          30
+        ],
+        "english_paragraph_range": [
+          22,
+          30
+        ],
+        "historical_paragraph_range": [
+          13,
+          21
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          30,
+          35
+        ],
+        "english_paragraph_range": [
+          30,
+          35
+        ],
+        "historical_paragraph_range": [
+          21,
+          21
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          35,
+          41
+        ],
+        "english_paragraph_range": [
+          35,
+          41
+        ],
+        "historical_paragraph_range": [
+          21,
+          27
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          41,
+          49
+        ],
+        "english_paragraph_range": [
+          41,
+          49
+        ],
+        "historical_paragraph_range": [
+          27,
+          27
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          49,
+          60
+        ],
+        "english_paragraph_range": [
+          49,
+          60
+        ],
+        "historical_paragraph_range": [
+          27,
+          38
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          60,
+          68
+        ],
+        "english_paragraph_range": [
+          60,
+          68
+        ],
+        "historical_paragraph_range": [
+          38,
+          38
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          68,
+          70
+        ],
+        "english_paragraph_range": [
+          68,
+          70
+        ],
+        "historical_paragraph_range": [
+          38,
+          40
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          70,
+          71
+        ],
+        "english_paragraph_range": [
+          70,
+          71
+        ],
+        "historical_paragraph_range": [
+          40,
+          40
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          71,
+          72
+        ],
+        "english_paragraph_range": [
+          71,
+          72
+        ],
+        "historical_paragraph_range": [
+          40,
+          41
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          72,
+          73
+        ],
+        "english_paragraph_range": [
+          72,
+          73
+        ],
+        "historical_paragraph_range": [
+          41,
+          41
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          73,
+          75
+        ],
+        "english_paragraph_range": [
+          73,
+          75
+        ],
+        "historical_paragraph_range": [
+          41,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 38,
+    "paragraphs": 64,
+    "mapping": [
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          0,
+          2
+        ],
+        "english_paragraph_range": [
+          0,
+          2
+        ],
+        "historical_paragraph_range": [
+          0,
+          2
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          2,
+          8
+        ],
+        "english_paragraph_range": [
+          2,
+          8
+        ],
+        "historical_paragraph_range": [
+          2,
+          2
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          8,
+          22
+        ],
+        "english_paragraph_range": [
+          8,
+          22
+        ],
+        "historical_paragraph_range": [
+          2,
+          16
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          22,
+          31
+        ],
+        "english_paragraph_range": [
+          22,
+          31
+        ],
+        "historical_paragraph_range": [
+          16,
+          16
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          31,
+          42
+        ],
+        "english_paragraph_range": [
+          31,
+          42
+        ],
+        "historical_paragraph_range": [
+          16,
+          27
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          42,
+          50
+        ],
+        "english_paragraph_range": [
+          42,
+          50
+        ],
+        "historical_paragraph_range": [
+          27,
+          27
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          50,
+          58
+        ],
+        "english_paragraph_range": [
+          50,
+          58
+        ],
+        "historical_paragraph_range": [
+          27,
+          35
+        ]
+      },
+      {
+        "kind": "insert",
+        "italian_paragraph_range": [
+          58,
+          63
+        ],
+        "english_paragraph_range": [
+          58,
+          63
+        ],
+        "historical_paragraph_range": [
+          35,
+          35
+        ]
+      },
+      {
+        "kind": "equal",
+        "italian_paragraph_range": [
+          63,
+          64
+        ],
+        "english_paragraph_range": [
+          63,
+          64
+        ],
+        "historical_paragraph_range": [
+          35,
+          36
+        ]
+      }
+    ]
+  }
+]

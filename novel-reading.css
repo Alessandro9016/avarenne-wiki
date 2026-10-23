@@ -1,2 +1,5 @@
 .novel-manuscript{max-width:72ch;margin:2.5rem auto;font-size:1.08rem;line-height:1.85}.novel-manuscript p{margin:0 0 1.15em}.novel-navigation{display:flex;flex-wrap:wrap;gap:.45rem;line-height:1.8}@media(max-width:650px){.novel-manuscript{font-size:1rem;line-height:1.75;margin:1.5rem auto}}
 .novel-manuscript h3{font-size:.86em;letter-spacing:.04em;text-align:center;font-weight:normal;margin:2.5em 0 1.8em}.novel-manuscript .scene-break{width:5em;margin:3em auto;opacity:.5}
+
+/* Language links for complete novel editions. */
+.lang a{font-size:11px;padding:0 6px;line-height:24px;color:var(--muted);text-decoration:none}.lang a.selected{color:var(--gold)}.lang a:hover{text-decoration:underline}.lang a:focus-visible{outline:2px solid var(--gold);outline-offset:3px}

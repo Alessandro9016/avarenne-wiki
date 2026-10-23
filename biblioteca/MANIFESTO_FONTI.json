@@ -27802,6 +27802,384 @@
       "raw": "fonti/2f3270fefc900d86.md",
       "sha256": "33f1906f2eed82cdb8c267eaffb77e029f8adf6a7d6ee854320ad64782facaf2",
       "bytes": 2080
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/001_the-wrong-measure.md",
+      "title": "001 the-wrong-measure",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "f5ef06180473d4d5.html",
+      "raw": "fonti/f5ef06180473d4d5.md",
+      "sha256": "bf37a9ae264fd38a8eeb613d2075808b7b3bf28e1448d5101626b12cbbd7240e",
+      "bytes": 12213
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/002_the-hand-on-the-sheet.md",
+      "title": "002 the-hand-on-the-sheet",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "932c6649de4fce0e.html",
+      "raw": "fonti/932c6649de4fce0e.md",
+      "sha256": "26d51bb2784e713146c89cb3c0b5e7399454475f89d87612746a20e8db363fa8",
+      "bytes": 11671
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/003_a-place-at-the-table.md",
+      "title": "003 a-place-at-the-table",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "d0333fcd138fea98.html",
+      "raw": "fonti/d0333fcd138fea98.md",
+      "sha256": "dc8cfcc4c9e4300ab94d50c90966dc4fd1c5b3795e2982f63f4fc933923d5457",
+      "bytes": 11603
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/004_what-remains.md",
+      "title": "004 what-remains",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "8e80334f8ed25e02.html",
+      "raw": "fonti/8e80334f8ed25e02.md",
+      "sha256": "9158a630fe52c8e391c1813a42052ee6353f72f4c7dfa09a72e1b10162d25865",
+      "bytes": 11422
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/005_the-request.md",
+      "title": "005 the-request",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "176023f75d694133.html",
+      "raw": "fonti/176023f75d694133.md",
+      "sha256": "321a4ed2fde74663664b6304c98e27461df72e0a8d6ccf9eef2caf91ae52afbb",
+      "bytes": 11789
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/006_the-attachment.md",
+      "title": "006 the-attachment",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "fd031aa442bf1801.html",
+      "raw": "fonti/fd031aa442bf1801.md",
+      "sha256": "e7bd40799ae78635b53df8cbe1af07010c9c1af456cb3535410c7b7e7d2ad3e8",
+      "bytes": 11751
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/007_the-things-that-continue.md",
+      "title": "007 the-things-that-continue",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "d71a6b893b6bef02.html",
+      "raw": "fonti/d71a6b893b6bef02.md",
+      "sha256": "fa616b2d0bd5fc7a1994b03322123ca4e9cebe0c704c48a7b96eb65c55ef7e96",
+      "bytes": 11934
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/008_the-weight-of-the-toolbox.md",
+      "title": "008 the-weight-of-the-toolbox",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "8bc1471b03c4ca24.html",
+      "raw": "fonti/8bc1471b03c4ca24.md",
+      "sha256": "997cff4b475aca7ff9afbcd2aea001459d0c68c512e0225e2d1069cf092f1b43",
+      "bytes": 11387
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/009_the-note-with-the-gift.md",
+      "title": "009 the-note-with-the-gift",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "b1ffa41801793c07.html",
+      "raw": "fonti/b1ffa41801793c07.md",
+      "sha256": "005c9e023db9629d07bf32fce62c4bb66ae65f12ff31c3afbd920c074d9db03c",
+      "bytes": 11388
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/010_the-ordinary-door.md",
+      "title": "010 the-ordinary-door",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "58ec7ca1a7d91689.html",
+      "raw": "fonti/58ec7ca1a7d91689.md",
+      "sha256": "84aee148fa76c0ed8acde120c9840d44ae143541b5cf03a0a9c066d339b8c398",
+      "bytes": 11125
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/011_marks-on-the-floor.md",
+      "title": "011 marks-on-the-floor",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "70511aaa86a31832.html",
+      "raw": "fonti/70511aaa86a31832.md",
+      "sha256": "ae9ad3cb50efac704e9f7c4998fb2d2482d695d6f0345bcbd3f74fbdfd62822c",
+      "bytes": 11171
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/012_a-day-s-work.md",
+      "title": "012 a-day-s-work",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "96a4e75ac73a08f2.html",
+      "raw": "fonti/96a4e75ac73a08f2.md",
+      "sha256": "7ee50db6bacba7379a9bcb1dcad8bfa2d1c7b043d581a456a7cfb59875dbb4f3",
+      "bytes": 11141
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/013_the-duke-s-friend.md",
+      "title": "013 the-duke-s-friend",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "0b118c2595b5ef74.html",
+      "raw": "fonti/0b118c2595b5ef74.md",
+      "sha256": "777af203f94a6e76793390393fb7362a7420680d9187cbeb7197965e296e9e32",
+      "bytes": 11380
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/014_a-true-mark.md",
+      "title": "014 a-true-mark",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "ad0052d57539105d.html",
+      "raw": "fonti/ad0052d57539105d.md",
+      "sha256": "04720c9b64deedd3e460d16d13fb3defccf1168938ca745e3e546a081d175c10",
+      "bytes": 11026
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/015_an-ordinary-piece.md",
+      "title": "015 an-ordinary-piece",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "9f4580fb5ad3bd0c.html",
+      "raw": "fonti/9f4580fb5ad3bd0c.md",
+      "sha256": "ecb80f9030b36757962c7e36b4caae59bce9be353fd4a383f57f1fcd8788f3a4",
+      "bytes": 11322
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/016_the-baron-s-gift.md",
+      "title": "016 the-baron-s-gift",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "723bbe2e21e2b04d.html",
+      "raw": "fonti/723bbe2e21e2b04d.md",
+      "sha256": "602d64427c1c9cb0aa6f694c5da51145d34f0f6bb44c9be0af052b9c7ccf41ae",
+      "bytes": 11712
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/017_the-price-of-comparison.md",
+      "title": "017 the-price-of-comparison",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "50d4cbea0fc99324.html",
+      "raw": "fonti/50d4cbea0fc99324.md",
+      "sha256": "4704b0cd8b442813bc5191ad6aa88f66ef27bef04d35a1fc05db67fdfe280b71",
+      "bytes": 11355
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/018_after-the-answer.md",
+      "title": "018 after-the-answer",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "9a5f6570b7ff6b74.html",
+      "raw": "fonti/9a5f6570b7ff6b74.md",
+      "sha256": "f641d8fcf8ed27761afad505eb075618f568a04d753e1700f9f72874a2716921",
+      "bytes": 11333
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/019_the-distance-across-a-table.md",
+      "title": "019 the-distance-across-a-table",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "2af82403dd919101.html",
+      "raw": "fonti/2af82403dd919101.md",
+      "sha256": "42c6522a10d5a6f122918030ed501952ec8d1c45bde75dd90412ecd02e4fc073",
+      "bytes": 10845
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/020_the-son.md",
+      "title": "020 the-son",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "4186b52e467ddf8c.html",
+      "raw": "fonti/4186b52e467ddf8c.md",
+      "sha256": "84f11bcc44da29ee8730413fca866bdd7e10d64680d90fbd3e9f0955125b0ee0",
+      "bytes": 11305
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/021_a-small-key.md",
+      "title": "021 a-small-key",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "83d55f50303e2dbc.html",
+      "raw": "fonti/83d55f50303e2dbc.md",
+      "sha256": "e100c3db61566ab79082378a4b347fe12ab4ed3db4f8fb632c8d957972304e51",
+      "bytes": 11208
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/022_celine-s-room.md",
+      "title": "022 celine-s-room",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "586ef7e726d2db03.html",
+      "raw": "fonti/586ef7e726d2db03.md",
+      "sha256": "fc777e8d440e8f0b0037c0da678a817f086670d3a4fc8be54613bfdb67c4b2ed",
+      "bytes": 10914
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/023_an-opening.md",
+      "title": "023 an-opening",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "dba71b4ec34a48a4.html",
+      "raw": "fonti/dba71b4ec34a48a4.md",
+      "sha256": "dfe3f471cfd63e88dd8ff3b9d3e0fcd60a83c65d555a62e274efc813ce24bea7",
+      "bytes": 10771
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/024_what-cannot-be-bought.md",
+      "title": "024 what-cannot-be-bought",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "5462476c11c669b4.html",
+      "raw": "fonti/5462476c11c669b4.md",
+      "sha256": "7dd65e4a772373c2251f4d9b2eefcdfe45a1788343a89f4f558d8b1dea228a8f",
+      "bytes": 10943
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/025_the-extract.md",
+      "title": "025 the-extract",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "0eb90ba642783e1a.html",
+      "raw": "fonti/0eb90ba642783e1a.md",
+      "sha256": "524541314f4db19119664cd97c6006d3329b2dc48c146fe90d7aa3283995cc13",
+      "bytes": 10920
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/026_the-healed-arm.md",
+      "title": "026 the-healed-arm",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "65a0451352e9ca20.html",
+      "raw": "fonti/65a0451352e9ca20.md",
+      "sha256": "bde817315083093e79fbc908af76648c9a8ab5f31668fbce80c60c60fdd81d83",
+      "bytes": 10883
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/027_the-papers-outside-the-house.md",
+      "title": "027 the-papers-outside-the-house",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "27ff36c6c6f373a6.html",
+      "raw": "fonti/27ff36c6c6f373a6.md",
+      "sha256": "e8dd2e565c529993b03d92921f225d18bc5510f1f3bc090ff4f8f0cda520920f",
+      "bytes": 11093
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/028_the-second-position.md",
+      "title": "028 the-second-position",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "eab89d5c3296e814.html",
+      "raw": "fonti/eab89d5c3296e814.md",
+      "sha256": "10ed0fb903d5bb81dfc56819555e1c84e0c43bf990e95c9df9a60cb5da1260d0",
+      "bytes": 10705
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/029_payday.md",
+      "title": "029 payday",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "240753d398523942.html",
+      "raw": "fonti/240753d398523942.md",
+      "sha256": "2d013a9c25c396469b10052621dcd435e1050a4e641bfaede027789727ac094d",
+      "bytes": 10692
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/030_the-object-that-did-not-leave.md",
+      "title": "030 the-object-that-did-not-leave",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "a8bb63833fa1fa63.html",
+      "raw": "fonti/a8bb63833fa1fa63.md",
+      "sha256": "8782dc6cd3a2bbe2d1b3ab14e0c39830d48dac3b6746e9eb4c69b4faf66c7c53",
+      "bytes": 10962
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/031_on-the-other-side-of-the-door.md",
+      "title": "031 on-the-other-side-of-the-door",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "0757a6f2f560152f.html",
+      "raw": "fonti/0757a6f2f560152f.md",
+      "sha256": "c95938e960c8de0fa1478c9f6421288793374a7ce1335a95fcc289029e4a51c2",
+      "bytes": 10549
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/032_what-a-father-says.md",
+      "title": "032 what-a-father-says",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "bf8b1455d56bf461.html",
+      "raw": "fonti/bf8b1455d56bf461.md",
+      "sha256": "e24b7bb96f759de5b54a1369f4a2428968a03c598dd885287d9fbe2dda8533e9",
+      "bytes": 10739
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/033_vern-s-signature.md",
+      "title": "033 vern-s-signature",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "d935a75151aa61b6.html",
+      "raw": "fonti/d935a75151aa61b6.md",
+      "sha256": "b739044c79254f3bfbbe65900c5c7dd1c4fc9e83897a13bca1f5fd449cc6c922",
+      "bytes": 10675
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/034_the-work-of-an-arm.md",
+      "title": "034 the-work-of-an-arm",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "7f053638dee8377c.html",
+      "raw": "fonti/7f053638dee8377c.md",
+      "sha256": "1e1f0080d453c8476b98ddb26bf3276c37a363110e7cdb03aad7c504e7f18279",
+      "bytes": 10558
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/035_staying.md",
+      "title": "035 staying",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "debe7e9a57ca50a4.html",
+      "raw": "fonti/debe7e9a57ca50a4.md",
+      "sha256": "5f8f91b9075882598b1f3d2f28ecffc3aa5028d2d6d58ced1fc898ea90c4626f",
+      "bytes": 10620
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/036_the-hearing.md",
+      "title": "036 the-hearing",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "2bd927d5ed59ac3d.html",
+      "raw": "fonti/2bd927d5ed59ac3d.md",
+      "sha256": "bf465f046f0d861bed7f62cd81fec7bb1d65893dee412288bd76629978834258",
+      "bytes": 10852
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/037_a-name-returned.md",
+      "title": "037 a-name-returned",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "34342cf487df636f.html",
+      "raw": "fonti/34342cf487df636f.md",
+      "sha256": "3828782e308c44c1d582f0b33c05c96ed996799aafab51482bd969b322a3ed2f",
+      "bytes": 10850
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/EN/Volume_01/038_an-open-door.md",
+      "title": "038 an-open-door",
+      "group": "Primo arco bilingue — traduzione inglese 386",
+      "url": "a17ce62ef340add1.html",
+      "raw": "fonti/a17ce62ef340add1.md",
+      "sha256": "b2dce1c190750fa54e54b6ea77979ccef8d02475ef459920b36c10eec255f285",
+      "bytes": 10650
+    },
+    {
+      "source": "CANONE_VIGENTE/Continuita_letteraria_386.json",
+      "title": "Continuita letteraria 386",
+      "group": "Primo arco bilingue — 386",
+      "url": "9c1dcf81e260c2e8.html",
+      "raw": "fonti/9c1dcf81e260c2e8.json",
+      "sha256": "eccb90616cdab87f24b0c8a58a322249d33f4f9a51237a4001242e9d580e8089",
+      "bytes": 197327
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/MANIFEST_NOVEL_010.json",
+      "title": "MANIFEST NOVEL 010",
+      "group": "Primo arco bilingue — 386",
+      "url": "4bc9777c5f31bfd0.html",
+      "raw": "fonti/4bc9777c5f31bfd0.json",
+      "sha256": "7b673a6f72f12b812b11bc5178a13c51ae92fe1044b084de9e415c85b5ec08df",
+      "bytes": 39216
+    },
+    {
+      "source": "NOVEL/EDIZIONE_010/ALLINEAMENTO_IT_EN.json",
+      "title": "ALLINEAMENTO IT EN",
+      "group": "Primo arco bilingue — 386",
+      "url": "58e51a9e88c05a10.html",
+      "raw": "fonti/58e51a9e88c05a10.json",
+      "sha256": "46a5f8c4ea2549e662c4043811ae14ad907c3845f55193fc1e7b54bf0f8a57ed",
+      "bytes": 94421
+    },
+    {
+      "source": "386_Registro_di_precedenza.md",
+      "title": "386 Registro di precedenza",
+      "group": "Primo arco bilingue — 386",
+      "url": "2f69dc34d19ece2c.html",
+      "raw": "fonti/2f69dc34d19ece2c.md",
+      "sha256": "7a11272e1565ac46f24b9f4a4610c3fac08f0d04d211b2d4fd24c2ed489bd121",
+      "bytes": 375
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",
@@ -27815,7 +28193,7 @@
   "practical_faq_revision": "349",
   "operational_revision": "350",
   "current_topic_register": "350_Fonti_vigenti_per_argomento.md",
-  "current_revision": 385,
+  "current_revision": 386,
   "revision_373_scope": "Culti, legalità locale e pratiche biologiche; nessuna modifica delle progressioni.",
   "revision_374_scope": "Consolidamento, 24 rapporti, 48 reti, culture, fede, scene e risposta alle crisi. Progressioni e fatti protetti invariati.",
   "revision_376_scope": "Rappresentazione e applicazioni dell’orrore generativo, intimità aliena e scala ambientale e divina; nessuna progressione modificata.",
@@ -27826,10 +28204,11 @@
   "revision_381_scope": "Trentotto capitoli IT/EN; aggiornamenti letterari distinti dalla campagna.",
   "revision_382_scope": "58 capitoli, testo integrale italiano nella wiki e Biblioteca; secondo arco concluso, continuità della campagna distinta.",
   "revision_383_scope": "78 testi italiani integrali; terzo arco concluso, campagna distinta.",
-  "current_novel_source": "CANONE_VIGENTE/Continuita_letteraria_385.json",
-  "current_novel_edition": "NOVEL-009-IT-ARCO-01",
-  "current_novel_precedence_source": "385_Registro_di_precedenza.md",
+  "current_novel_source": "CANONE_VIGENTE/Continuita_letteraria_386.json",
+  "current_novel_edition": "NOVEL-010-BILINGUE-ARCO-01",
+  "current_novel_precedence_source": "386_Registro_di_precedenza.md",
   "revision_384_scope": "Ricomposizione in 25 capitoli, superata e conservata solo come archivio.",
   "revision_385_scope": "Primo arco italiano ampliato e revisionato, 38 capitoli separati. Inglese da riallineare; archi 2 e 3 non revisionati. Nessun accorpamento.",
-  "english_novel_revision_385": false
+  "english_novel_revision_385": false,
+  "english_novel_revision_386": true
 }
