@@ -27154,6 +27154,276 @@
       "raw": "fonti/b287fb1ccdf63775.md",
       "sha256": "001e71b0ad1ec07853570d161bd1ebc0e50bf56a9bf747f74cce7cbf6d5b6e8d",
       "bytes": 14183
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/CORRISPONDENZA.md",
+      "title": "CORRISPONDENZA",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "008f0529d3bfdc0d.html",
+      "raw": "fonti/008f0529d3bfdc0d.md",
+      "sha256": "41a60ab06c24bc6eb4c456298985019afdc1076cef26bcba0b822cb6b11f5d5d",
+      "bytes": 1827
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/MANIFEST_NOVEL_008.json",
+      "title": "MANIFEST NOVEL 008",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "ad2d70d6aba01a5f.html",
+      "raw": "fonti/ad2d70d6aba01a5f.json",
+      "sha256": "b5adb4856e52901ac6c0bd0efb85772a5a449176898ffea3e1169493fb4ed79c",
+      "bytes": 36909
+    },
+    {
+      "source": "CANONE_VIGENTE/Continuita_letteraria_384.json",
+      "title": "Continuita letteraria 384",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "f71ef15aa751ad62.html",
+      "raw": "fonti/f71ef15aa751ad62.json",
+      "sha256": "ff6f9850020e4c3d645a4d4084904a5b6ebf7fe395d93d2cc33cef15673c1ef7",
+      "bytes": 259440
+    },
+    {
+      "source": "384_Registro_di_precedenza.md",
+      "title": "384 Registro di precedenza",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "0e128b15fe217838.html",
+      "raw": "fonti/0e128b15fe217838.md",
+      "sha256": "a5535b7bc9b553ba4b6d2debb961f1c7b76a681c566f075db07015a21bba9858",
+      "bytes": 1950
+    },
+    {
+      "source": "RISERVATO_384_Revisione_editoriale_novel.md",
+      "title": "RISERVATO 384 Revisione editoriale novel",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "a3a37df5b6374202.html",
+      "raw": "fonti/a3a37df5b6374202.md",
+      "sha256": "52ba139011bea6be86f51a585f6eac758b8193de55358c2ab07aba331a26a218",
+      "bytes": 3779
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/001_la-misura-sbagliata.md",
+      "title": "001 la-misura-sbagliata",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "80653df4da3c1ed9.html",
+      "raw": "fonti/80653df4da3c1ed9.md",
+      "sha256": "b5152a9fce338732103d5c21136f98a4209938bc0b02c461a8f8d15fa255e583",
+      "bytes": 12244
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/002_un-posto-fra-i-vivi.md",
+      "title": "002 un-posto-fra-i-vivi",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "684bf4d58d9ff2a3.html",
+      "raw": "fonti/684bf4d58d9ff2a3.md",
+      "sha256": "40e218f9760f3fff36086007f9e0ca35d9e5e93201c18f4fdb056252c65289e9",
+      "bytes": 16727
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/003_quello-che-resta.md",
+      "title": "003 quello-che-resta",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "592a7abd4cd7a47a.html",
+      "raw": "fonti/592a7abd4cd7a47a.md",
+      "sha256": "daf248d2143ba46469a5ff5149eb1ea00ab6114c132cb7eda05a41fe36eaabca",
+      "bytes": 16295
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/004_le-cose-che-continuano.md",
+      "title": "004 le-cose-che-continuano",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "7c2a209d6bb85190.html",
+      "raw": "fonti/7c2a209d6bb85190.md",
+      "sha256": "2b94b6acbf65413d325e5b3cefdbc03d4f6cad50f75c19a4334f7221f4897dcf",
+      "bytes": 12441
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/005_il-peso-della-fiducia.md",
+      "title": "005 il-peso-della-fiducia",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "a797f34e85fc77b3.html",
+      "raw": "fonti/a797f34e85fc77b3.md",
+      "sha256": "504259a175ba3cc53bcdbe4a32514f71c6ff91e94f226786ea65bb210973d3f4",
+      "bytes": 12499
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/006_i-segni-sul-pavimento.md",
+      "title": "006 i-segni-sul-pavimento",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "207dcbbcfbcf6c23.html",
+      "raw": "fonti/207dcbbcfbcf6c23.md",
+      "sha256": "992fac8c68a0d5661e7d9e9cb8de29cc27163edcc39ed3af723945942bb79fcd",
+      "bytes": 12289
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/007_una-giornata-di-lavoro.md",
+      "title": "007 una-giornata-di-lavoro",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "d34087dfe2fb6af7.html",
+      "raw": "fonti/d34087dfe2fb6af7.md",
+      "sha256": "279a4709e734865c87c6932d91ebf69fb7868f367992a16a9bd008b850860c1c",
+      "bytes": 12137
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/008_cio-che-un-nome-promette.md",
+      "title": "008 cio-che-un-nome-promette",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "784aab45a818767a.html",
+      "raw": "fonti/784aab45a818767a.md",
+      "sha256": "d53f707c0a80d244f946ccb0ff29f697c56c9c13337f3635b42a1a8ab72e2d3c",
+      "bytes": 12414
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/009_il-dono-del-barone.md",
+      "title": "009 il-dono-del-barone",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "691e269205a9cfaf.html",
+      "raw": "fonti/691e269205a9cfaf.md",
+      "sha256": "644886f5da537e4f18ef4718b6bfdbc9793b86108c2c7cba41e9d3251c01b7bc",
+      "bytes": 12888
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/010_la-distanza-di-un-tavolo.md",
+      "title": "010 la-distanza-di-un-tavolo",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "1c7f1f42970498b1.html",
+      "raw": "fonti/1c7f1f42970498b1.md",
+      "sha256": "37ab1cfc3061c98ca21c5011b6fa6e51a70369e3eb7f3033f8199dfceda3a963",
+      "bytes": 15711
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/011_unapertura.md",
+      "title": "011 unapertura",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "5de065f5b7ba4833.html",
+      "raw": "fonti/5de065f5b7ba4833.md",
+      "sha256": "666beeef533aea62f477c9de5b089af2ad4a278a884257dae101aa3bd79737ef",
+      "bytes": 15830
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/012_il-braccio-guarito.md",
+      "title": "012 il-braccio-guarito",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "3ab9509ae81d40c6.html",
+      "raw": "fonti/3ab9509ae81d40c6.md",
+      "sha256": "3e89a9750911afe1fe8440d0e042ac418acf6924b5208e9f6d0d2828da97a817",
+      "bytes": 15055
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/013_la-seconda-posizione.md",
+      "title": "013 la-seconda-posizione",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "861ab6f751906ab0.html",
+      "raw": "fonti/861ab6f751906ab0.md",
+      "sha256": "e5c18d097bf09915cbc15ef92197b8f1498f76e690cb84a1a193f1e900ba5f29",
+      "bytes": 14437
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/014_quello-che-un-padre-dice.md",
+      "title": "014 quello-che-un-padre-dice",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "8c88cd7401d2ef6f.html",
+      "raw": "fonti/8c88cd7401d2ef6f.md",
+      "sha256": "d768c88db155c0d2f284f4ad07c56eafd3b518e5b39b2e52d871aea813c3fd94",
+      "bytes": 13685
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/015_restare.md",
+      "title": "015 restare",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "cac68e139e601dc5.html",
+      "raw": "fonti/cac68e139e601dc5.md",
+      "sha256": "af3f5b08c92ec641a95cef70b4f24756cef4e055e41cdf0132c8d2601e9c1897",
+      "bytes": 13351
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/016_il-nome-restituito.md",
+      "title": "016 il-nome-restituito",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "14818e182a5f5676.html",
+      "raw": "fonti/14818e182a5f5676.md",
+      "sha256": "45a2ef12cb1fad01af35c297c1b27ff0ad4655f2c349756d10c5216b9a0e7c09",
+      "bytes": 14206
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/017_laltezza-dellacqua.md",
+      "title": "017 laltezza-dellacqua",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "386f9c1e9f1e3bb0.html",
+      "raw": "fonti/386f9c1e9f1e3bb0.md",
+      "sha256": "09e658c212db02812a3e415e9d03c7e1377a6876b7218bbd62814852277a9417",
+      "bytes": 14063
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/018_un-miracolo-intero.md",
+      "title": "018 un-miracolo-intero",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "59cfac6ce84ac7ab.html",
+      "raw": "fonti/59cfac6ce84ac7ab.md",
+      "sha256": "90b8e34db040abd048ab9786a4c4efd957f6db1f64ca06d1c35fa79f85479894",
+      "bytes": 14092
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/019_dentro-lacqua.md",
+      "title": "019 dentro-lacqua",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "b40d52edd2f5413d.html",
+      "raw": "fonti/b40d52edd2f5413d.md",
+      "sha256": "fe226cffa83f4507214aadd262ac415a71d220efba9aea65c62c2f598403fcd9",
+      "bytes": 14408
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/020_il-dono-e-il-lavoro.md",
+      "title": "020 il-dono-e-il-lavoro",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "bb057c9467cf3c91.html",
+      "raw": "fonti/bb057c9467cf3c91.md",
+      "sha256": "88c4dcb9f7ba9208a395dfafa35f6866c683d2a2a99be5c9a3afc839a16ededc",
+      "bytes": 14065
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/021_il-prezzo-di-un-miracolo.md",
+      "title": "021 il-prezzo-di-un-miracolo",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "724159c1093ea5f8.html",
+      "raw": "fonti/724159c1093ea5f8.md",
+      "sha256": "2331d612023591bc85441500a8cd61d0d4c6f37b84011c4ce444921ca4b49618",
+      "bytes": 12905
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/022_il-posto-dellospite.md",
+      "title": "022 il-posto-dellospite",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "a9ef1d952b8c6d55.html",
+      "raw": "fonti/a9ef1d952b8c6d55.md",
+      "sha256": "f80c8577118840c3cec298dfa2604cce1fec3c65cbe172838079a5c4b407fc22",
+      "bytes": 13940
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/023_un-urto-nel-buio.md",
+      "title": "023 un-urto-nel-buio",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "55c27ab75e7b169a.html",
+      "raw": "fonti/55c27ab75e7b169a.md",
+      "sha256": "f90d89295b7d9d12d0d199c002af6cbb70b5eef0c420f845d3fd43e8089b7d0b",
+      "bytes": 13747
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/024_la-mano-riaperta.md",
+      "title": "024 la-mano-riaperta",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "6265aaeadef56147.html",
+      "raw": "fonti/6265aaeadef56147.md",
+      "sha256": "3aae275c58434beb6f6ab4cb6643a6b715bb48293abc33b83dfc9eb68ae769cd",
+      "bytes": 14304
+    },
+    {
+      "source": "NOVEL/EDIZIONE_008/IT/Volume_01/025_quattro-sedie.md",
+      "title": "025 quattro-sedie",
+      "group": "Novel — edizione vigente 008, revisione 384",
+      "url": "b0eab5b59fbd61d7.html",
+      "raw": "fonti/b0eab5b59fbd61d7.md",
+      "sha256": "c8cbc851deb91a24fa6907757c94fc31ef26589a7b31ae856c7ffe3516962e38",
+      "bytes": 14405
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",

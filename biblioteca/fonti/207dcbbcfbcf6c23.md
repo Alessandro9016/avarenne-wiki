@@ -1,0 +1,239 @@
+# AVARENNE
+## Volume I — The Waking House
+### Capitolo 6 — I segni sul pavimento
+
+#### Lethorne · 19 maggio 812
+
+Edith Torrel guardò la chiave nella mano di Marcel.
+
+«Mi avevate parlato di una stanza speciale.»
+
+«Non della serratura», disse Elias.
+
+Livia gli diede un'occhiata e lui rinunciò alla seconda battuta.
+
+Erano arrivati separatamente. Nel magazzino c'era ancora odore di imballaggi, corda e pioggia portata dalle scarpe. Marcel aveva verificato il passaggio; nessuno li aveva convocati attraverso una città o strappati a un altro luogo. Edith era venuta perché Livia le aveva proposto un confronto limitato sulla documentazione di Etienne.
+
+Marcel aprì.
+
+L'anticamera tratteneva un fresco diverso da quello del magazzino. Al di là, il noce scuro delle pareti sembrò assorbire le prime parole. Il tavolo ovale occupava il centro della sala, lungo abbastanza da far sembrare lontana una sedia sull'altro lato. Gli antichi raccordi d'ottone riflettevano una luce contenuta.
+
+Edith si fermò.
+
+«Avete davvero intenzione di discutere dei miei turni in questo posto?»
+
+«Possiamo farlo anche fuori.»
+
+«Era una domanda sul gusto dei mobili.»
+
+Elias sorrise. Si accorse di essersi preparato a difendere il luogo da un insulto che non c'era stato.
+
+Marcel mostrò la porta ordinaria e il percorso per tornare al magazzino. Il collegamento predisposto rimase chiuso. Non consumarono una delle due aperture residue per risparmiare pochi passi.
+
+Edith passò una mano sullo schienale di una sedia, poi ne scelse una vicino al lato dal quale era entrata. Aveva lasciato la borsa infermieristica appoggiata ai piedi, con il manico rivolto verso di sé.
+
+Elias si sedette a distanza di conversazione. Dodici sedie non significavano dodici persone nascoste dietro un progetto; in quel momento erano soltanto quattro, e una di loro non aveva ancora deciso se volesse tornare.
+
+Edith notò il foglio sul quale Livia aveva scritto Footnote per una prova precedente.
+
+«Devo chiamarti così?»
+
+«Soltanto se decidiamo di usare i nomi di sala.»
+
+«E il tuo?» chiese a Elias.
+
+«Northbound.»
+
+L'infermiera lo guardò, poi guardò la porta.
+
+«Sai che da fuori potresti essere seguito anche se cambi nome?»
+
+«Sì.»
+
+Era una risposta che aveva dovuto imparare a dare senza aggiungere subito una soluzione immaginaria. Nessuna maschera cambiava da sola la strada percorsa per arrivare. Quella sera si erano presentati col proprio volto, fra persone già conosciute, e non potevano rivendere quel rapporto come anonimato perfetto.
+
+«Prima una cosa», disse. «Che cosa vi ha autorizzati a chiedere Etienne?»
+
+Livia posò una copia dell'offerta e della richiesta dell'allegato.
+
+«Il confronto su questi. Non la sua intera cartella clinica.»
+
+Elias aveva già aperto il proprio quaderno alla pagina dove aveva scritto visita. La richiuse.
+
+Edith lo vide.
+
+«Potete domandare. Posso anche dire di no.»
+
+«Vorrei sapere se può affrontare l'attesa di domani.»
+
+«Questo posso discuterlo con lui. La mano guarita non gli toglie il diritto di essere stanco.»
+
+Marcel si sedette senza scegliere il capotavola. Per qualche istante i quattro ascoltarono un rumore lontano provenire dal magazzino. L'ampiezza della sala non li isolava dal mondo.
+
+Livia spiegò cosa volessero costruire. Elias intervenne sulle prestazioni che mancavano: una verifica, un contatto competente, qualcuno che sapesse dire quando il problema fosse stato formulato male. Edith li lasciò finire.
+
+«E chi paga?»
+
+«Chi chiede il lavoro, quando concordiamo un compenso», disse Elias.
+
+«E quando non può?»
+
+Edith aprì la borsa per controllare l'ora sul proprio piccolo orologio, poi la richiuse senza offrirne il contenuto al tavolo. Elias seguì quel gesto e si rese conto di quanto fosse stato facile immaginare una competenza senza immaginare una giornata: visite, ritorni, un pasto da trovare fra un turno e l'altro.
+
+«Non ti chiederemo di portare qui i medicinali della clinica», disse.
+
+Lei lo fissò.
+
+«Bene. Perché non sono miei.»
+
+La frase tolse alla discussione una facilità alla quale non avrebbe saputo dare un nome. Se il gruppo voleva aiutare qualcuno, doveva prima capire quali cose i suoi invitati avessero il diritto di offrire.
+
+Lui guardò Livia. Non avevano una risposta da vendere come una regola già collaudata.
+
+«Allora qualcuno deve scegliere di assumersi il costo», disse lei. «Non possiamo promettere il tempo degli altri.»
+
+Edith annuì lentamente.
+
+«Questa frase mi piace più del tavolo.»
+
+Chiese poi chi possedesse le chiavi, chi potesse entrare e che cosa impedisse a un partecipante di riferire tutto altrove. Nessuna delle risposte fu un giuramento indistruttibile. Elias sentì il fascino della sala diminuire a ogni limite elencato, e insieme vide Edith rilassare le spalle.
+
+Quando gli chiese di poter vedere l'uscita una seconda volta, lui si alzò con lei. Attraversarono l'anticamera, raggiunsero il magazzino, tornarono. La porta si aprì in entrambi i sensi con una maniglia vera.
+
+«Non stai perdendo un'occasione», disse Edith mentre rientravano.
+
+«In che senso?»
+
+«Hai l'espressione di chi vorrebbe mostrarmi qualcosa di più spettacolare.»
+
+Elias guardò le marche che non aveva attivato.
+
+«Un poco.»
+
+«Per stasera basta sapere come andarmene.»
+
+Edith rimase un momento a guardare il tavolo prima di avvicinarsi. Elias seguì il suo sguardo sulle sedie vuote. Nell’immaginare quella visita aveva occupato ogni posto con una persona interessata a ciò che lui avrebbe potuto offrire. Adesso c’era una donna che voleva sapere quanto sarebbe durata una conversazione.
+
+Le spostò una sedia. Edith la prese e la avvicinò di più alla luce, costringendolo a ritrarre la mano.
+
+«Qui va bene.»
+
+Elias si sedette dall’altro lato senza scegliere il posto davanti a lei. La distanza gli parve eccessiva, poi si accorse che poteva semplicemente parlare con una voce normale. Non serviva far assomigliare la sala alla promessa che aveva preparato. Occorreva riuscire a starci dentro con la persona che era venuta.
+
+Al tavolo Edith accettò di aiutare Etienne a distinguere un controllo utile da una visita richiesta soltanto per la controversia. Non aderì al circolo. Non promise tutte le proprie serate.
+
+Marcel chiuse la porta quando uscirono. Elias aspettò il rumore della serratura, poi aiutò a rimettere una cassa che impediva il passaggio.
+
+La sala era rimasta alle sue spalle, enorme e silenziosa. Per la prima volta gli sembrò abbastanza grande da contenere anche un rifiuto.
+
+* * *
+
+#### Lethorne · 20 maggio 812
+
+Il magazzino sembrava più piccolo senza l'incidente.
+
+Elias se ne accorse appena entrato. Le casse erano state disposte in file nuove, e nel punto dove ricordava una folla passava un uomo con una scopa. La luce arrivava dalle stesse finestre. Non aveva nessuna ragione di essere così ordinaria.
+
+Marcel gli chiese di indicare dove si trovasse all'inizio del lavoro.
+
+Elias raggiunse una pietra chiara del pavimento.
+
+«Qui.»
+
+Non attivò Astrolabe. Quel giorno era il testimone di una misura precedente; l'esame era di Marcel. La distinzione gli pesava, ma non gli impediva di ricordare.
+
+Etienne rimase vicino a un pilastro. Gaston aprì la cartella su una cassa pulita. Il responsabile dell'accesso li accompagnò fino al banco e poi si mise abbastanza lontano da lasciarli lavorare, non abbastanza da smettere di ascoltare.
+
+Un operaio chiese se dovesse rimanere. Marcel rispose che gli avrebbero domandato soltanto ciò che ricordava personalmente, se fosse stato pertinente; non gli ordinò di lasciare il lavoro per assistere alla dimostrazione. L'uomo tornò alle proprie casse.
+
+Elias lo seguì con lo sguardo e capì che stava cercando un volto capace di confermare il proprio. Era un desiderio poco diverso dal cercare un numero favorevole senza guardare il resto della tabella.
+
+«Ti ricordi la luce?» gli chiese Etienne.
+
+Lui guardò le finestre.
+
+«Sì.»
+
+«Anch'io. Del resto alcune parti tornano meglio di altre.»
+
+Elias annuì. Il ricordo dell'incidente non era una registrazione condivisa dalla quale ciascuno potesse prendere la stessa immagine.
+
+Il banco portatile era ancora lì.
+
+Elias provò la stessa rabbia assurda che aveva sentito davanti alla propria camicia pulita: le cose si lasciavano sistemare troppo facilmente. Il metallo non conservava sulla superficie il momento nel quale qualcuno aveva gridato.
+
+Marcel posò due dita sul bordo e chiuse gli occhi. Quando li riaprì, indicò a Gaston un punto da segnare.
+
+Non aveva letto il passato. Aveva preso lo spazio presente con una precisione che il metro avrebbe verificato più lentamente.
+
+Gaston tracciò la prima quota. Poi la seconda.
+
+Marcel gli fece controllare anche il metro, appoggiandolo agli stessi riferimenti. Il responsabile dell'accesso si avvicinò abbastanza da seguire la lettura.
+
+«Con il vostro potere potreste mostrarci qualsiasi cosa?» domandò.
+
+«Potrei sbagliare io», disse Marcel. «Questo è uno dei motivi per ripetere il confronto.»
+
+L'uomo parve considerare la risposta meno impressionante di quanto sperasse. Elias la trovò improvvisamente importante. La facoltà del maestro gli dava accesso a una geometria; non imponeva agli altri di credergli perché aveva chiuso gli occhi.
+
+Quando la lettura ordinaria coincise, il responsabile si spostò per fare ombra al foglio sul quale Gaston stava scrivendo. Era il primo gesto con cui li aiutava senza averne ricevuto richiesta.
+
+«Questa non è la posizione della mia tavola», disse Elias.
+
+«Lo vediamo.»
+
+Le parole di Marcel gli tolsero l'urgenza di ripeterlo. Elias fece un passo indietro.
+
+Il problema non era stabilire che adesso il banco fosse diverso. Era sapere quando quella differenza fosse entrata nel lavoro.
+
+Etienne indicò il passaggio fra due file di casse.
+
+«Io arrivavo da quella parte. Con il braccio non passavo dietro.»
+
+Il responsabile fece per spiegare che le casse non erano più le stesse. Marcel gli chiese di conservare l'osservazione senza farle dire di più. Etienne non aveva fornito una coordinata, ma una relazione fra il proprio lavoro e il banco.
+
+Gaston si inginocchiò davanti a due segni di fissaggio. Accanto c'erano altre tracce, più vecchie, una delle quali riempita di polvere.
+
+«Non possiamo dare una data a ogni foro», disse.
+
+Elias si chinò. Sarebbe stato così comodo trovare una ferita recente nella pietra e chiamarla ventuno aprile.
+
+Si limitò a disegnare i segni.
+
+Le due serie di letture conservate da Gaston avevano intestazioni e riferimenti differenti. La prima coincideva con l'assetto descritto dalla copia di Livia; la seconda prendeva il banco già spostato. Nessuna trasformazione magica della carta era necessaria per vederlo, adesso che avevano deciso di confrontare il punto giusto.
+
+«Questo valore non è sbagliato», disse Marcel, toccando la prima serie.
+
+Elias sentì la gola stringersi.
+
+«Lo so.»
+
+«E non diventa sbagliato perché il secondo è diverso.»
+
+Il responsabile dell'accesso si avvicinò.
+
+«La certificazione è una sola.»
+
+«È proprio quello che dobbiamo chiarire», rispose Gaston.
+
+Per alcuni minuti nessuno alzò la voce. Il lavoro sembrava troppo piccolo per il dolore che aveva prodotto: fogli distesi, una riga, Marcel che ripeteva un confronto perché anche chi non possedeva Astrolabe potesse seguirlo.
+
+Etienne aspettò finché ebbero finito, poi chiese se poteva sedersi. Elias gli portò uno sgabello senza farne una dimostrazione di generosità.
+
+«Mi ricordavo che il passaggio fosse stretto», disse l'operaio. «Non quanto.»
+
+«Questo basta per ciò che stai dicendo.»
+
+Etienne lo guardò con un sollievo che Elias non aveva meritato fino a quel momento.
+
+Quando raccolsero le tavole, il banco rimase nella posizione attuale. Non lo riportarono indietro per costruire la fotografia di una verità più comoda.
+
+Fuori, Marcel si fermò a rileggere le note. Il sole aveva asciugato metà del selciato; nell'altra metà restavano impronte.
+
+«Adesso dobbiamo parlare con Vern», disse Elias.
+
+Gaston chiuse la cartella.
+
+«Sì. E lasciarlo rispondere a ciò che gli chiediamo.»
+
+Elias guardò la porta del magazzino. Per la prima volta non aveva bisogno che quel luogo sembrasse ostile per credere a quello che vi era accaduto.

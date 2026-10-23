@@ -1,0 +1,378 @@
+{
+  "revision": 384,
+  "edition": "NOVEL-008 / EN-007",
+  "chapters": 25,
+  "preserved_scenes": 78,
+  "target_words": [
+    1800,
+    2800
+  ],
+  "stats": {
+    "it": {
+      "min": 1833,
+      "mean": 2103.4,
+      "max": 2575,
+      "total": 52585
+    },
+    "en": {
+      "min": 1964,
+      "mean": 2232.28,
+      "max": 2784,
+      "total": 55807
+    }
+  },
+  "chapter_checks": [
+    {
+      "chapter": 1,
+      "it_words": 1845,
+      "en_words": 2070,
+      "legacy_scenes": [
+        1
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 2,
+      "it_words": 2575,
+      "en_words": 2784,
+      "legacy_scenes": [
+        2,
+        3
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 3,
+      "it_words": 2489,
+      "en_words": 2735,
+      "legacy_scenes": [
+        4,
+        5
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 4,
+      "it_words": 1833,
+      "en_words": 2009,
+      "legacy_scenes": [
+        6,
+        7
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 5,
+      "it_words": 1850,
+      "en_words": 1985,
+      "legacy_scenes": [
+        8,
+        9
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 6,
+      "it_words": 1847,
+      "en_words": 1964,
+      "legacy_scenes": [
+        10,
+        11
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 7,
+      "it_words": 1842,
+      "en_words": 1978,
+      "legacy_scenes": [
+        12,
+        13
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 8,
+      "it_words": 1862,
+      "en_words": 1967,
+      "legacy_scenes": [
+        14,
+        15
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 9,
+      "it_words": 1889,
+      "en_words": 2003,
+      "legacy_scenes": [
+        16,
+        17
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 10,
+      "it_words": 2395,
+      "en_words": 2546,
+      "legacy_scenes": [
+        18,
+        19,
+        20
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 11,
+      "it_words": 2392,
+      "en_words": 2541,
+      "legacy_scenes": [
+        21,
+        22,
+        23
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 12,
+      "it_words": 2252,
+      "en_words": 2388,
+      "legacy_scenes": [
+        24,
+        25,
+        26
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 13,
+      "it_words": 2168,
+      "en_words": 2303,
+      "legacy_scenes": [
+        27,
+        28,
+        29
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 14,
+      "it_words": 2069,
+      "en_words": 2187,
+      "legacy_scenes": [
+        30,
+        31,
+        32
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 15,
+      "it_words": 2049,
+      "en_words": 2141,
+      "legacy_scenes": [
+        33,
+        34,
+        35
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 16,
+      "it_words": 2160,
+      "en_words": 2208,
+      "legacy_scenes": [
+        36,
+        37,
+        38
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 17,
+      "it_words": 2121,
+      "en_words": 2303,
+      "legacy_scenes": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 18,
+      "it_words": 2135,
+      "en_words": 2270,
+      "legacy_scenes": [
+        43,
+        44,
+        45,
+        46
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 19,
+      "it_words": 2222,
+      "en_words": 2306,
+      "legacy_scenes": [
+        47,
+        48,
+        49,
+        50
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 20,
+      "it_words": 2124,
+      "en_words": 2247,
+      "legacy_scenes": [
+        51,
+        52,
+        53,
+        54
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 21,
+      "it_words": 1926,
+      "en_words": 2049,
+      "legacy_scenes": [
+        55,
+        56,
+        57,
+        58
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 22,
+      "it_words": 2098,
+      "en_words": 2171,
+      "legacy_scenes": [
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 23,
+      "it_words": 2128,
+      "en_words": 2201,
+      "legacy_scenes": [
+        64,
+        65,
+        66,
+        67,
+        68
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 24,
+      "it_words": 2150,
+      "en_words": 2220,
+      "legacy_scenes": [
+        69,
+        70,
+        71,
+        72,
+        73
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    },
+    {
+      "chapter": 25,
+      "it_words": 2164,
+      "en_words": 2231,
+      "legacy_scenes": [
+        74,
+        75,
+        76,
+        77,
+        78
+      ],
+      "verbatim_unmodified_parts_preserved": true,
+      "paragraph_alignment": true,
+      "wiki_matches_current_master": true
+    }
+  ],
+  "original_manuscript_files_unchanged": 156,
+  "common_canon_files_unchanged": true,
+  "campaign_t0_unchanged": true,
+  "continuity_end": "812-06-18",
+  "source_hash_signals": [],
+  "english_review": "Confronto del contenuto a paragrafi allineati; traduzione delle aggiunte e quattro condensazioni dichiarate. Non è attestata una revisione umana esterna.",
+  "scope": "Revisione di articolazione con accorpamenti e sviluppo mirato: non 78 riscritture individuali di 1800 parole. Nessuna pretesa che un conteggio automatico dimostri da solo qualità letteraria.",
+  "lotm_reference": {
+    "sample": "primi dieci capitoli inglesi, Webnovel ufficiale",
+    "mean_words": 2222.5,
+    "range": [
+      1507,
+      2674
+    ],
+    "whole_book_average": false,
+    "url": "https://www.webnovel.com/book/11022733006234505/catalog"
+  },
+  "wiki_articles": 1602,
+  "local_links_checked": 143560,
+  "local_link_errors": 0,
+  "manifest_sources": 3027,
+  "wiki_publication_pending_push": true,
+  "zip_created": false,
+  "push_performed": false
+}

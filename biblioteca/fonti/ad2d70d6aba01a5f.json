@@ -1,0 +1,1161 @@
+{
+  "edition": "NOVEL-008 / EN-007",
+  "revision": 384,
+  "chapters": [
+    {
+      "chapter": 1,
+      "it_title": "La misura sbagliata",
+      "en_title": "The Wrong Measure",
+      "old_scenes": [
+        1
+      ],
+      "arc": 1,
+      "it_words": 1845,
+      "it_master": "EDIZIONE_008/IT/Volume_01/001_la-misura-sbagliata.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/001.txt",
+      "it_sha256": "b5152a9fce338732103d5c21136f98a4209938bc0b02c461a8f8d15fa255e583",
+      "it_paragraphs": 162,
+      "en_words": 2070,
+      "en_master": "EDIZIONE_008/EN/Volume_01/001_the-wrong-measure.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/001.txt",
+      "en_sha256": "41f05c0be1b82857ff3993530056855ea078147f1761f42f0ded9f055da33abe",
+      "en_paragraphs": 162
+    },
+    {
+      "chapter": 2,
+      "it_title": "Un posto fra i vivi",
+      "en_title": "A Place among the Living",
+      "old_scenes": [
+        2,
+        3
+      ],
+      "arc": 1,
+      "it_words": 2575,
+      "it_master": "EDIZIONE_008/IT/Volume_01/002_un-posto-fra-i-vivi.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/002.txt",
+      "it_sha256": "40e218f9760f3fff36086007f9e0ca35d9e5e93201c18f4fdb056252c65289e9",
+      "it_paragraphs": 247,
+      "en_words": 2784,
+      "en_master": "EDIZIONE_008/EN/Volume_01/002_a-place-among-the-living.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/002.txt",
+      "en_sha256": "5e5dbd3c6e99aaeb97db83c2d2c8381682fb6267ab942fd5cfdff93b371c1e4c",
+      "en_paragraphs": 247
+    },
+    {
+      "chapter": 3,
+      "it_title": "Quello che resta",
+      "en_title": "What Remains",
+      "old_scenes": [
+        4,
+        5
+      ],
+      "arc": 1,
+      "it_words": 2489,
+      "it_master": "EDIZIONE_008/IT/Volume_01/003_quello-che-resta.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/003.txt",
+      "it_sha256": "daf248d2143ba46469a5ff5149eb1ea00ab6114c132cb7eda05a41fe36eaabca",
+      "it_paragraphs": 219,
+      "en_words": 2735,
+      "en_master": "EDIZIONE_008/EN/Volume_01/003_what-remains.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/003.txt",
+      "en_sha256": "89a49f2804d2e5c30e0248d0839046098ba993eaa6cd6cbb21fed1aa4d8465ec",
+      "en_paragraphs": 219
+    },
+    {
+      "chapter": 4,
+      "it_title": "Le cose che continuano",
+      "en_title": "The Things That Continue",
+      "old_scenes": [
+        6,
+        7
+      ],
+      "arc": 1,
+      "it_words": 1833,
+      "it_master": "EDIZIONE_008/IT/Volume_01/004_le-cose-che-continuano.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/004.txt",
+      "it_sha256": "2b94b6acbf65413d325e5b3cefdbc03d4f6cad50f75c19a4334f7221f4897dcf",
+      "it_paragraphs": 136,
+      "en_words": 2009,
+      "en_master": "EDIZIONE_008/EN/Volume_01/004_the-things-that-continue.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/004.txt",
+      "en_sha256": "e61c486ddf6b28361f478409b67d731ef705fe960ee888bba4bd8ad7d03872b7",
+      "en_paragraphs": 136
+    },
+    {
+      "chapter": 5,
+      "it_title": "Il peso della fiducia",
+      "en_title": "The Weight of Trust",
+      "old_scenes": [
+        8,
+        9
+      ],
+      "arc": 1,
+      "it_words": 1850,
+      "it_master": "EDIZIONE_008/IT/Volume_01/005_il-peso-della-fiducia.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/005.txt",
+      "it_sha256": "504259a175ba3cc53bcdbe4a32514f71c6ff91e94f226786ea65bb210973d3f4",
+      "it_paragraphs": 125,
+      "en_words": 1985,
+      "en_master": "EDIZIONE_008/EN/Volume_01/005_the-weight-of-trust.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/005.txt",
+      "en_sha256": "89efac76c3151ee6d28680c348f90e35d736c1dc5ab4ac2239e3a55d0411dba2",
+      "en_paragraphs": 125
+    },
+    {
+      "chapter": 6,
+      "it_title": "I segni sul pavimento",
+      "en_title": "Marks on the Floor",
+      "old_scenes": [
+        10,
+        11
+      ],
+      "arc": 1,
+      "it_words": 1847,
+      "it_master": "EDIZIONE_008/IT/Volume_01/006_i-segni-sul-pavimento.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/006.txt",
+      "it_sha256": "992fac8c68a0d5661e7d9e9cb8de29cc27163edcc39ed3af723945942bb79fcd",
+      "it_paragraphs": 115,
+      "en_words": 1964,
+      "en_master": "EDIZIONE_008/EN/Volume_01/006_marks-on-the-floor.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/006.txt",
+      "en_sha256": "3ed0eeb6757a44bafac8635624f88906daa179b494334c4b6329f6b35a8fedc7",
+      "en_paragraphs": 115
+    },
+    {
+      "chapter": 7,
+      "it_title": "Una giornata di lavoro",
+      "en_title": "A Day’s Work",
+      "old_scenes": [
+        12,
+        13
+      ],
+      "arc": 1,
+      "it_words": 1842,
+      "it_master": "EDIZIONE_008/IT/Volume_01/007_una-giornata-di-lavoro.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/007.txt",
+      "it_sha256": "279a4709e734865c87c6932d91ebf69fb7868f367992a16a9bd008b850860c1c",
+      "it_paragraphs": 126,
+      "en_words": 1978,
+      "en_master": "EDIZIONE_008/EN/Volume_01/007_a-days-work.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/007.txt",
+      "en_sha256": "f7cd670eed0adb3dbd64eb03da8985426c70a16dd2b4fd0fee46908f4571b7bc",
+      "en_paragraphs": 126
+    },
+    {
+      "chapter": 8,
+      "it_title": "Ciò che un nome promette",
+      "en_title": "What a Name Promises",
+      "old_scenes": [
+        14,
+        15
+      ],
+      "arc": 1,
+      "it_words": 1862,
+      "it_master": "EDIZIONE_008/IT/Volume_01/008_cio-che-un-nome-promette.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/008.txt",
+      "it_sha256": "d53f707c0a80d244f946ccb0ff29f697c56c9c13337f3635b42a1a8ab72e2d3c",
+      "it_paragraphs": 128,
+      "en_words": 1967,
+      "en_master": "EDIZIONE_008/EN/Volume_01/008_what-a-name-promises.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/008.txt",
+      "en_sha256": "370fb948ef0f6939d490cef9344b2b0915183cc90475daaf97acbf952f77d8d4",
+      "en_paragraphs": 128
+    },
+    {
+      "chapter": 9,
+      "it_title": "Il dono del barone",
+      "en_title": "The Baron’s Gift",
+      "old_scenes": [
+        16,
+        17
+      ],
+      "arc": 1,
+      "it_words": 1889,
+      "it_master": "EDIZIONE_008/IT/Volume_01/009_il-dono-del-barone.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/009.txt",
+      "it_sha256": "644886f5da537e4f18ef4718b6bfdbc9793b86108c2c7cba41e9d3251c01b7bc",
+      "it_paragraphs": 136,
+      "en_words": 2003,
+      "en_master": "EDIZIONE_008/EN/Volume_01/009_the-barons-gift.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/009.txt",
+      "en_sha256": "a41d80c38dba6134c3d9810009d34e11e0b2709900b8a0a8effa345f84261cbd",
+      "en_paragraphs": 136
+    },
+    {
+      "chapter": 10,
+      "it_title": "La distanza di un tavolo",
+      "en_title": "The Width of a Table",
+      "old_scenes": [
+        18,
+        19,
+        20
+      ],
+      "arc": 1,
+      "it_words": 2395,
+      "it_master": "EDIZIONE_008/IT/Volume_01/010_la-distanza-di-un-tavolo.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/010.txt",
+      "it_sha256": "37ab1cfc3061c98ca21c5011b6fa6e51a70369e3eb7f3033f8199dfceda3a963",
+      "it_paragraphs": 175,
+      "en_words": 2546,
+      "en_master": "EDIZIONE_008/EN/Volume_01/010_the-width-of-a-table.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/010.txt",
+      "en_sha256": "5abe8d8737edce6331ddbca776c001b897e6b467730e125ff41c3058feb5ed2c",
+      "en_paragraphs": 175
+    },
+    {
+      "chapter": 11,
+      "it_title": "Un’apertura",
+      "en_title": "An Opening",
+      "old_scenes": [
+        21,
+        22,
+        23
+      ],
+      "arc": 1,
+      "it_words": 2392,
+      "it_master": "EDIZIONE_008/IT/Volume_01/011_unapertura.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/011.txt",
+      "it_sha256": "666beeef533aea62f477c9de5b089af2ad4a278a884257dae101aa3bd79737ef",
+      "it_paragraphs": 160,
+      "en_words": 2541,
+      "en_master": "EDIZIONE_008/EN/Volume_01/011_an-opening.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/011.txt",
+      "en_sha256": "f50008baa288a9d30e795181dab970c10d063e178818d6284cc6976256609084",
+      "en_paragraphs": 160
+    },
+    {
+      "chapter": 12,
+      "it_title": "Il braccio guarito",
+      "en_title": "The Healed Arm",
+      "old_scenes": [
+        24,
+        25,
+        26
+      ],
+      "arc": 1,
+      "it_words": 2252,
+      "it_master": "EDIZIONE_008/IT/Volume_01/012_il-braccio-guarito.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/012.txt",
+      "it_sha256": "3e89a9750911afe1fe8440d0e042ac418acf6924b5208e9f6d0d2828da97a817",
+      "it_paragraphs": 146,
+      "en_words": 2388,
+      "en_master": "EDIZIONE_008/EN/Volume_01/012_the-healed-arm.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/012.txt",
+      "en_sha256": "1d8882ba70ab74378214c5f93dba53bb114b3bf8312579e93e7ab788bf15ee33",
+      "en_paragraphs": 146
+    },
+    {
+      "chapter": 13,
+      "it_title": "La seconda posizione",
+      "en_title": "The Second Position",
+      "old_scenes": [
+        27,
+        28,
+        29
+      ],
+      "arc": 1,
+      "it_words": 2168,
+      "it_master": "EDIZIONE_008/IT/Volume_01/013_la-seconda-posizione.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/013.txt",
+      "it_sha256": "e5c18d097bf09915cbc15ef92197b8f1498f76e690cb84a1a193f1e900ba5f29",
+      "it_paragraphs": 142,
+      "en_words": 2303,
+      "en_master": "EDIZIONE_008/EN/Volume_01/013_the-second-position.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/013.txt",
+      "en_sha256": "1be56ea58a5770c00fbf634c72558eb8a9006f6e1bcfc7459fac3846d3705298",
+      "en_paragraphs": 142
+    },
+    {
+      "chapter": 14,
+      "it_title": "Quello che un padre dice",
+      "en_title": "What a Father Says",
+      "old_scenes": [
+        30,
+        31,
+        32
+      ],
+      "arc": 1,
+      "it_words": 2069,
+      "it_master": "EDIZIONE_008/IT/Volume_01/014_quello-che-un-padre-dice.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/014.txt",
+      "it_sha256": "d768c88db155c0d2f284f4ad07c56eafd3b518e5b39b2e52d871aea813c3fd94",
+      "it_paragraphs": 145,
+      "en_words": 2187,
+      "en_master": "EDIZIONE_008/EN/Volume_01/014_what-a-father-says.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/014.txt",
+      "en_sha256": "8284ce008d13195c4ecc5933268d5f945048fb44d6c7c82f6d1de01307f71529",
+      "en_paragraphs": 145
+    },
+    {
+      "chapter": 15,
+      "it_title": "Restare",
+      "en_title": "Staying",
+      "old_scenes": [
+        33,
+        34,
+        35
+      ],
+      "arc": 1,
+      "it_words": 2049,
+      "it_master": "EDIZIONE_008/IT/Volume_01/015_restare.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/015.txt",
+      "it_sha256": "af3f5b08c92ec641a95cef70b4f24756cef4e055e41cdf0132c8d2601e9c1897",
+      "it_paragraphs": 132,
+      "en_words": 2141,
+      "en_master": "EDIZIONE_008/EN/Volume_01/015_staying.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/015.txt",
+      "en_sha256": "85826af2f9cde378dd912a4ab29cbc624ef988bc14647cb723e552c02df0cc11",
+      "en_paragraphs": 132
+    },
+    {
+      "chapter": 16,
+      "it_title": "Il nome restituito",
+      "en_title": "A Name Restored",
+      "old_scenes": [
+        36,
+        37,
+        38
+      ],
+      "arc": 1,
+      "it_words": 2160,
+      "it_master": "EDIZIONE_008/IT/Volume_01/016_il-nome-restituito.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/016.txt",
+      "it_sha256": "45a2ef12cb1fad01af35c297c1b27ff0ad4655f2c349756d10c5216b9a0e7c09",
+      "it_paragraphs": 114,
+      "en_words": 2208,
+      "en_master": "EDIZIONE_008/EN/Volume_01/016_a-name-restored.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/016.txt",
+      "en_sha256": "b07d4ec952bb8fe918cfada8093e15c7848978971d59bc26ebb56b151338fcf7",
+      "en_paragraphs": 114
+    },
+    {
+      "chapter": 17,
+      "it_title": "L’altezza dell’acqua",
+      "en_title": "The Height of the Water",
+      "old_scenes": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "arc": 2,
+      "it_words": 2121,
+      "it_master": "EDIZIONE_008/IT/Volume_01/017_laltezza-dellacqua.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/017.txt",
+      "it_sha256": "09e658c212db02812a3e415e9d03c7e1377a6876b7218bbd62814852277a9417",
+      "it_paragraphs": 115,
+      "en_words": 2303,
+      "en_master": "EDIZIONE_008/EN/Volume_01/017_the-height-of-the-water.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/017.txt",
+      "en_sha256": "97cfbc65c34adfa1db06d0ccbac9ff8129dd6a0596e8f6d686e3f692941bfb85",
+      "en_paragraphs": 115
+    },
+    {
+      "chapter": 18,
+      "it_title": "Un miracolo intero",
+      "en_title": "A Whole Miracle",
+      "old_scenes": [
+        43,
+        44,
+        45,
+        46
+      ],
+      "arc": 2,
+      "it_words": 2135,
+      "it_master": "EDIZIONE_008/IT/Volume_01/018_un-miracolo-intero.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/018.txt",
+      "it_sha256": "90b8e34db040abd048ab9786a4c4efd957f6db1f64ca06d1c35fa79f85479894",
+      "it_paragraphs": 130,
+      "en_words": 2270,
+      "en_master": "EDIZIONE_008/EN/Volume_01/018_a-whole-miracle.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/018.txt",
+      "en_sha256": "2e44f908ac71b1ae30cc1412a47fb23488f1c953e5a882e0e6dd58380329c80f",
+      "en_paragraphs": 130
+    },
+    {
+      "chapter": 19,
+      "it_title": "Dentro l’acqua",
+      "en_title": "Into the Water",
+      "old_scenes": [
+        47,
+        48,
+        49,
+        50
+      ],
+      "arc": 2,
+      "it_words": 2222,
+      "it_master": "EDIZIONE_008/IT/Volume_01/019_dentro-lacqua.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/019.txt",
+      "it_sha256": "fe226cffa83f4507214aadd262ac415a71d220efba9aea65c62c2f598403fcd9",
+      "it_paragraphs": 123,
+      "en_words": 2306,
+      "en_master": "EDIZIONE_008/EN/Volume_01/019_into-the-water.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/019.txt",
+      "en_sha256": "4109f694959651ee05724c3383406617a69e9e36f2876a324437ba185b1974ed",
+      "en_paragraphs": 123
+    },
+    {
+      "chapter": 20,
+      "it_title": "Il dono e il lavoro",
+      "en_title": "The Gift and the Work",
+      "old_scenes": [
+        51,
+        52,
+        53,
+        54
+      ],
+      "arc": 2,
+      "it_words": 2124,
+      "it_master": "EDIZIONE_008/IT/Volume_01/020_il-dono-e-il-lavoro.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/020.txt",
+      "it_sha256": "88c4dcb9f7ba9208a395dfafa35f6866c683d2a2a99be5c9a3afc839a16ededc",
+      "it_paragraphs": 111,
+      "en_words": 2247,
+      "en_master": "EDIZIONE_008/EN/Volume_01/020_the-gift-and-the-work.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/020.txt",
+      "en_sha256": "f6056b4c8232a127c0b9462afe1bcab1b6b822f8af43f1b3e6e42b69f673b5d5",
+      "en_paragraphs": 111
+    },
+    {
+      "chapter": 21,
+      "it_title": "Il prezzo di un miracolo",
+      "en_title": "The Price of a Miracle",
+      "old_scenes": [
+        55,
+        56,
+        57,
+        58
+      ],
+      "arc": 2,
+      "it_words": 1926,
+      "it_master": "EDIZIONE_008/IT/Volume_01/021_il-prezzo-di-un-miracolo.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/021.txt",
+      "it_sha256": "2331d612023591bc85441500a8cd61d0d4c6f37b84011c4ce444921ca4b49618",
+      "it_paragraphs": 97,
+      "en_words": 2049,
+      "en_master": "EDIZIONE_008/EN/Volume_01/021_the-price-of-a-miracle.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/021.txt",
+      "en_sha256": "1df1e7e98420630d4bd7c1c69fcd7a3ab5a092614f7b412e1885b2b623e55041",
+      "en_paragraphs": 97
+    },
+    {
+      "chapter": 22,
+      "it_title": "Il posto dell’ospite",
+      "en_title": "The Guest’s Place",
+      "old_scenes": [
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "arc": 3,
+      "it_words": 2098,
+      "it_master": "EDIZIONE_008/IT/Volume_01/022_il-posto-dellospite.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/022.txt",
+      "it_sha256": "f80c8577118840c3cec298dfa2604cce1fec3c65cbe172838079a5c4b407fc22",
+      "it_paragraphs": 108,
+      "en_words": 2171,
+      "en_master": "EDIZIONE_008/EN/Volume_01/022_the-guests-place.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/022.txt",
+      "en_sha256": "5c7b4366c790f4a46b3ebd0797c69b151421c612784dba373648d2f704335efa",
+      "en_paragraphs": 108
+    },
+    {
+      "chapter": 23,
+      "it_title": "Un urto nel buio",
+      "en_title": "A Blow in the Dark",
+      "old_scenes": [
+        64,
+        65,
+        66,
+        67,
+        68
+      ],
+      "arc": 3,
+      "it_words": 2128,
+      "it_master": "EDIZIONE_008/IT/Volume_01/023_un-urto-nel-buio.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/023.txt",
+      "it_sha256": "f90d89295b7d9d12d0d199c002af6cbb70b5eef0c420f845d3fd43e8089b7d0b",
+      "it_paragraphs": 104,
+      "en_words": 2201,
+      "en_master": "EDIZIONE_008/EN/Volume_01/023_a-blow-in-the-dark.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/023.txt",
+      "en_sha256": "e223b98115543efdceaa0e5cccdb06deb82b248eb3e7d34ab9e408a17ca89200",
+      "en_paragraphs": 104
+    },
+    {
+      "chapter": 24,
+      "it_title": "La mano riaperta",
+      "en_title": "The Hand Reopened",
+      "old_scenes": [
+        69,
+        70,
+        71,
+        72,
+        73
+      ],
+      "arc": 3,
+      "it_words": 2150,
+      "it_master": "EDIZIONE_008/IT/Volume_01/024_la-mano-riaperta.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/024.txt",
+      "it_sha256": "3aae275c58434beb6f6ab4cb6643a6b715bb48293abc33b83dfc9eb68ae769cd",
+      "it_paragraphs": 105,
+      "en_words": 2220,
+      "en_master": "EDIZIONE_008/EN/Volume_01/024_the-hand-reopened.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/024.txt",
+      "en_sha256": "a54faf15faf91b95121cec141d76183052bb70236fe55416ee1674ef3fc62691",
+      "en_paragraphs": 105
+    },
+    {
+      "chapter": 25,
+      "it_title": "Quattro sedie",
+      "en_title": "Four Chairs",
+      "old_scenes": [
+        74,
+        75,
+        76,
+        77,
+        78
+      ],
+      "arc": 3,
+      "it_words": 2164,
+      "it_master": "EDIZIONE_008/IT/Volume_01/025_quattro-sedie.md",
+      "it_body": "EDIZIONE_008/PUBBLICAZIONE/IT/025.txt",
+      "it_sha256": "c8cbc851deb91a24fa6907757c94fc31ef26589a7b31ae856c7ffe3516962e38",
+      "it_paragraphs": 107,
+      "en_words": 2231,
+      "en_master": "EDIZIONE_008/EN/Volume_01/025_four-chairs.md",
+      "en_body": "EDIZIONE_008/PUBBLICAZIONE/EN/025.txt",
+      "en_sha256": "7b84e00b126fc5e3a5de2526ac4ee4fd03d47064b4a065f05aaef83c2458b715",
+      "en_paragraphs": 107
+    }
+  ],
+  "legacy_scene_count": 78,
+  "target_words": [
+    1800,
+    2800
+  ],
+  "counting": "Regex Unicode; esclusi titoli, date e separatori, incluse tutte le parole narrative. Apostrofi interni contano come parte della parola.",
+  "mapping": [
+    {
+      "old_scene": 1,
+      "new_chapter": 1,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-001.html#scena-1",
+      "old_url": "novel-volume-01-capitolo-001.html"
+    },
+    {
+      "old_scene": 2,
+      "new_chapter": 2,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-002.html#scena-2",
+      "old_url": "novel-volume-01-capitolo-002.html"
+    },
+    {
+      "old_scene": 3,
+      "new_chapter": 2,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-002.html#scena-3",
+      "old_url": "novel-volume-01-capitolo-003.html"
+    },
+    {
+      "old_scene": 4,
+      "new_chapter": 3,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-003.html#scena-4",
+      "old_url": "novel-volume-01-capitolo-004.html"
+    },
+    {
+      "old_scene": 5,
+      "new_chapter": 3,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-003.html#scena-5",
+      "old_url": "novel-volume-01-capitolo-005.html"
+    },
+    {
+      "old_scene": 6,
+      "new_chapter": 4,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-004.html#scena-6",
+      "old_url": "novel-volume-01-capitolo-006.html"
+    },
+    {
+      "old_scene": 7,
+      "new_chapter": 4,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-004.html#scena-7",
+      "old_url": "novel-volume-01-capitolo-007.html"
+    },
+    {
+      "old_scene": 8,
+      "new_chapter": 5,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-005.html#scena-8",
+      "old_url": "novel-volume-01-capitolo-008.html"
+    },
+    {
+      "old_scene": 9,
+      "new_chapter": 5,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-005.html#scena-9",
+      "old_url": "novel-volume-01-capitolo-009.html"
+    },
+    {
+      "old_scene": 10,
+      "new_chapter": 6,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-006.html#scena-10",
+      "old_url": "novel-volume-01-capitolo-010.html"
+    },
+    {
+      "old_scene": 11,
+      "new_chapter": 6,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-006.html#scena-11",
+      "old_url": "novel-volume-01-capitolo-011.html"
+    },
+    {
+      "old_scene": 12,
+      "new_chapter": 7,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-007.html#scena-12",
+      "old_url": "novel-volume-01-capitolo-012.html"
+    },
+    {
+      "old_scene": 13,
+      "new_chapter": 7,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-007.html#scena-13",
+      "old_url": "novel-volume-01-capitolo-013.html"
+    },
+    {
+      "old_scene": 14,
+      "new_chapter": 8,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-008.html#scena-14",
+      "old_url": "novel-volume-01-capitolo-014.html"
+    },
+    {
+      "old_scene": 15,
+      "new_chapter": 8,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-008.html#scena-15",
+      "old_url": "novel-volume-01-capitolo-015.html"
+    },
+    {
+      "old_scene": 16,
+      "new_chapter": 9,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-009.html#scena-16",
+      "old_url": "novel-volume-01-capitolo-016.html"
+    },
+    {
+      "old_scene": 17,
+      "new_chapter": 9,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-009.html#scena-17",
+      "old_url": "novel-volume-01-capitolo-017.html"
+    },
+    {
+      "old_scene": 18,
+      "new_chapter": 10,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-010.html#scena-18",
+      "old_url": "novel-volume-01-capitolo-018.html"
+    },
+    {
+      "old_scene": 19,
+      "new_chapter": 10,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-010.html#scena-19",
+      "old_url": "novel-volume-01-capitolo-019.html"
+    },
+    {
+      "old_scene": 20,
+      "new_chapter": 10,
+      "new_scene": 3,
+      "new_url": "novel-ed008-capitolo-010.html#scena-20",
+      "old_url": "novel-volume-01-capitolo-020.html"
+    },
+    {
+      "old_scene": 21,
+      "new_chapter": 11,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-011.html#scena-21",
+      "old_url": "novel-volume-01-capitolo-021.html"
+    },
+    {
+      "old_scene": 22,
+      "new_chapter": 11,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-011.html#scena-22",
+      "old_url": "novel-volume-01-capitolo-022.html"
+    },
+    {
+      "old_scene": 23,
+      "new_chapter": 11,
+      "new_scene": 3,
+      "new_url": "novel-ed008-capitolo-011.html#scena-23",
+      "old_url": "novel-volume-01-capitolo-023.html"
+    },
+    {
+      "old_scene": 24,
+      "new_chapter": 12,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-012.html#scena-24",
+      "old_url": "novel-volume-01-capitolo-024.html"
+    },
+    {
+      "old_scene": 25,
+      "new_chapter": 12,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-012.html#scena-25",
+      "old_url": "novel-volume-01-capitolo-025.html"
+    },
+    {
+      "old_scene": 26,
+      "new_chapter": 12,
+      "new_scene": 3,
+      "new_url": "novel-ed008-capitolo-012.html#scena-26",
+      "old_url": "novel-volume-01-capitolo-026.html"
+    },
+    {
+      "old_scene": 27,
+      "new_chapter": 13,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-013.html#scena-27",
+      "old_url": "novel-volume-01-capitolo-027.html"
+    },
+    {
+      "old_scene": 28,
+      "new_chapter": 13,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-013.html#scena-28",
+      "old_url": "novel-volume-01-capitolo-028.html"
+    },
+    {
+      "old_scene": 29,
+      "new_chapter": 13,
+      "new_scene": 3,
+      "new_url": "novel-ed008-capitolo-013.html#scena-29",
+      "old_url": "novel-volume-01-capitolo-029.html"
+    },
+    {
+      "old_scene": 30,
+      "new_chapter": 14,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-014.html#scena-30",
+      "old_url": "novel-volume-01-capitolo-030.html"
+    },
+    {
+      "old_scene": 31,
+      "new_chapter": 14,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-014.html#scena-31",
+      "old_url": "novel-volume-01-capitolo-031.html"
+    },
+    {
+      "old_scene": 32,
+      "new_chapter": 14,
+      "new_scene": 3,
+      "new_url": "novel-ed008-capitolo-014.html#scena-32",
+      "old_url": "novel-volume-01-capitolo-032.html"
+    },
+    {
+      "old_scene": 33,
+      "new_chapter": 15,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-015.html#scena-33",
+      "old_url": "novel-volume-01-capitolo-033.html"
+    },
+    {
+      "old_scene": 34,
+      "new_chapter": 15,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-015.html#scena-34",
+      "old_url": "novel-volume-01-capitolo-034.html"
+    },
+    {
+      "old_scene": 35,
+      "new_chapter": 15,
+      "new_scene": 3,
+      "new_url": "novel-ed008-capitolo-015.html#scena-35",
+      "old_url": "novel-volume-01-capitolo-035.html"
+    },
+    {
+      "old_scene": 36,
+      "new_chapter": 16,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-016.html#scena-36",
+      "old_url": "novel-volume-01-capitolo-036.html"
+    },
+    {
+      "old_scene": 37,
+      "new_chapter": 16,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-016.html#scena-37",
+      "old_url": "novel-volume-01-capitolo-037.html"
+    },
+    {
+      "old_scene": 38,
+      "new_chapter": 16,
+      "new_scene": 3,
+      "new_url": "novel-ed008-capitolo-016.html#scena-38",
+      "old_url": "novel-volume-01-capitolo-038.html"
+    },
+    {
+      "old_scene": 39,
+      "new_chapter": 17,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-017.html#scena-39",
+      "old_url": "novel-volume-01-capitolo-039.html"
+    },
+    {
+      "old_scene": 40,
+      "new_chapter": 17,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-017.html#scena-40",
+      "old_url": "novel-volume-01-capitolo-040.html"
+    },
+    {
+      "old_scene": 41,
+      "new_chapter": 17,
+      "new_scene": 3,
+      "new_url": "novel-ed008-capitolo-017.html#scena-41",
+      "old_url": "novel-volume-01-capitolo-041.html"
+    },
+    {
+      "old_scene": 42,
+      "new_chapter": 17,
+      "new_scene": 4,
+      "new_url": "novel-ed008-capitolo-017.html#scena-42",
+      "old_url": "novel-volume-01-capitolo-042.html"
+    },
+    {
+      "old_scene": 43,
+      "new_chapter": 18,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-018.html#scena-43",
+      "old_url": "novel-volume-01-capitolo-043.html"
+    },
+    {
+      "old_scene": 44,
+      "new_chapter": 18,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-018.html#scena-44",
+      "old_url": "novel-volume-01-capitolo-044.html"
+    },
+    {
+      "old_scene": 45,
+      "new_chapter": 18,
+      "new_scene": 3,
+      "new_url": "novel-ed008-capitolo-018.html#scena-45",
+      "old_url": "novel-volume-01-capitolo-045.html"
+    },
+    {
+      "old_scene": 46,
+      "new_chapter": 18,
+      "new_scene": 4,
+      "new_url": "novel-ed008-capitolo-018.html#scena-46",
+      "old_url": "novel-volume-01-capitolo-046.html"
+    },
+    {
+      "old_scene": 47,
+      "new_chapter": 19,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-019.html#scena-47",
+      "old_url": "novel-volume-01-capitolo-047.html"
+    },
+    {
+      "old_scene": 48,
+      "new_chapter": 19,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-019.html#scena-48",
+      "old_url": "novel-volume-01-capitolo-048.html"
+    },
+    {
+      "old_scene": 49,
+      "new_chapter": 19,
+      "new_scene": 3,
+      "new_url": "novel-ed008-capitolo-019.html#scena-49",
+      "old_url": "novel-volume-01-capitolo-049.html"
+    },
+    {
+      "old_scene": 50,
+      "new_chapter": 19,
+      "new_scene": 4,
+      "new_url": "novel-ed008-capitolo-019.html#scena-50",
+      "old_url": "novel-volume-01-capitolo-050.html"
+    },
+    {
+      "old_scene": 51,
+      "new_chapter": 20,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-020.html#scena-51",
+      "old_url": "novel-volume-01-capitolo-051.html"
+    },
+    {
+      "old_scene": 52,
+      "new_chapter": 20,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-020.html#scena-52",
+      "old_url": "novel-volume-01-capitolo-052.html"
+    },
+    {
+      "old_scene": 53,
+      "new_chapter": 20,
+      "new_scene": 3,
+      "new_url": "novel-ed008-capitolo-020.html#scena-53",
+      "old_url": "novel-volume-01-capitolo-053.html"
+    },
+    {
+      "old_scene": 54,
+      "new_chapter": 20,
+      "new_scene": 4,
+      "new_url": "novel-ed008-capitolo-020.html#scena-54",
+      "old_url": "novel-volume-01-capitolo-054.html"
+    },
+    {
+      "old_scene": 55,
+      "new_chapter": 21,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-021.html#scena-55",
+      "old_url": "novel-volume-01-capitolo-055.html"
+    },
+    {
+      "old_scene": 56,
+      "new_chapter": 21,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-021.html#scena-56",
+      "old_url": "novel-volume-01-capitolo-056.html"
+    },
+    {
+      "old_scene": 57,
+      "new_chapter": 21,
+      "new_scene": 3,
+      "new_url": "novel-ed008-capitolo-021.html#scena-57",
+      "old_url": "novel-volume-01-capitolo-057.html"
+    },
+    {
+      "old_scene": 58,
+      "new_chapter": 21,
+      "new_scene": 4,
+      "new_url": "novel-ed008-capitolo-021.html#scena-58",
+      "old_url": "novel-volume-01-capitolo-058.html"
+    },
+    {
+      "old_scene": 59,
+      "new_chapter": 22,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-022.html#scena-59",
+      "old_url": "novel-volume-01-capitolo-059.html"
+    },
+    {
+      "old_scene": 60,
+      "new_chapter": 22,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-022.html#scena-60",
+      "old_url": "novel-volume-01-capitolo-060.html"
+    },
+    {
+      "old_scene": 61,
+      "new_chapter": 22,
+      "new_scene": 3,
+      "new_url": "novel-ed008-capitolo-022.html#scena-61",
+      "old_url": "novel-volume-01-capitolo-061.html"
+    },
+    {
+      "old_scene": 62,
+      "new_chapter": 22,
+      "new_scene": 4,
+      "new_url": "novel-ed008-capitolo-022.html#scena-62",
+      "old_url": "novel-volume-01-capitolo-062.html"
+    },
+    {
+      "old_scene": 63,
+      "new_chapter": 22,
+      "new_scene": 5,
+      "new_url": "novel-ed008-capitolo-022.html#scena-63",
+      "old_url": "novel-volume-01-capitolo-063.html"
+    },
+    {
+      "old_scene": 64,
+      "new_chapter": 23,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-023.html#scena-64",
+      "old_url": "novel-volume-01-capitolo-064.html"
+    },
+    {
+      "old_scene": 65,
+      "new_chapter": 23,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-023.html#scena-65",
+      "old_url": "novel-volume-01-capitolo-065.html"
+    },
+    {
+      "old_scene": 66,
+      "new_chapter": 23,
+      "new_scene": 3,
+      "new_url": "novel-ed008-capitolo-023.html#scena-66",
+      "old_url": "novel-volume-01-capitolo-066.html"
+    },
+    {
+      "old_scene": 67,
+      "new_chapter": 23,
+      "new_scene": 4,
+      "new_url": "novel-ed008-capitolo-023.html#scena-67",
+      "old_url": "novel-volume-01-capitolo-067.html"
+    },
+    {
+      "old_scene": 68,
+      "new_chapter": 23,
+      "new_scene": 5,
+      "new_url": "novel-ed008-capitolo-023.html#scena-68",
+      "old_url": "novel-volume-01-capitolo-068.html"
+    },
+    {
+      "old_scene": 69,
+      "new_chapter": 24,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-024.html#scena-69",
+      "old_url": "novel-volume-01-capitolo-069.html"
+    },
+    {
+      "old_scene": 70,
+      "new_chapter": 24,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-024.html#scena-70",
+      "old_url": "novel-volume-01-capitolo-070.html"
+    },
+    {
+      "old_scene": 71,
+      "new_chapter": 24,
+      "new_scene": 3,
+      "new_url": "novel-ed008-capitolo-024.html#scena-71",
+      "old_url": "novel-volume-01-capitolo-071.html"
+    },
+    {
+      "old_scene": 72,
+      "new_chapter": 24,
+      "new_scene": 4,
+      "new_url": "novel-ed008-capitolo-024.html#scena-72",
+      "old_url": "novel-volume-01-capitolo-072.html"
+    },
+    {
+      "old_scene": 73,
+      "new_chapter": 24,
+      "new_scene": 5,
+      "new_url": "novel-ed008-capitolo-024.html#scena-73",
+      "old_url": "novel-volume-01-capitolo-073.html"
+    },
+    {
+      "old_scene": 74,
+      "new_chapter": 25,
+      "new_scene": 1,
+      "new_url": "novel-ed008-capitolo-025.html#scena-74",
+      "old_url": "novel-volume-01-capitolo-074.html"
+    },
+    {
+      "old_scene": 75,
+      "new_chapter": 25,
+      "new_scene": 2,
+      "new_url": "novel-ed008-capitolo-025.html#scena-75",
+      "old_url": "novel-volume-01-capitolo-075.html"
+    },
+    {
+      "old_scene": 76,
+      "new_chapter": 25,
+      "new_scene": 3,
+      "new_url": "novel-ed008-capitolo-025.html#scena-76",
+      "old_url": "novel-volume-01-capitolo-076.html"
+    },
+    {
+      "old_scene": 77,
+      "new_chapter": 25,
+      "new_scene": 4,
+      "new_url": "novel-ed008-capitolo-025.html#scena-77",
+      "old_url": "novel-volume-01-capitolo-077.html"
+    },
+    {
+      "old_scene": 78,
+      "new_chapter": 25,
+      "new_scene": 5,
+      "new_url": "novel-ed008-capitolo-025.html#scena-78",
+      "old_url": "novel-volume-01-capitolo-078.html"
+    }
+  ],
+  "editorial_changes": [
+    {
+      "scene": 1,
+      "insertion_before_it": "Per un po' lavorarono senza parlare.",
+      "actual_en_anchor": "For a while they worked without speaking.",
+      "it_words_added": 170,
+      "en_words_added": 181,
+      "purpose": "Sviluppo di gesto, percezione o relazione già presenti, senza nuovi fatti risolutivi."
+    },
+    {
+      "scene": 2,
+      "english_tightening": true,
+      "words_removed": 15
+    },
+    {
+      "scene": 2,
+      "english_tightening": true,
+      "words_removed": 7
+    },
+    {
+      "scene": 2,
+      "english_tightening": true,
+      "words_removed": 6
+    },
+    {
+      "scene": 2,
+      "english_tightening": true,
+      "words_removed": 11
+    },
+    {
+      "scene": 8,
+      "insertion_before_it": "Gaston tornò a guardare il disegno.",
+      "actual_en_anchor": "Gaston looked back at the drawing.",
+      "it_words_added": 121,
+      "en_words_added": 137,
+      "purpose": "Sviluppo di gesto, percezione o relazione già presenti, senza nuovi fatti risolutivi."
+    },
+    {
+      "scene": 10,
+      "insertion_before_it": "Al tavolo Edith accettò di aiutare Etienne a distinguere un controllo utile da una visita richiesta soltanto per la controversia. Non aderì al circolo. Non promise tutte le proprie serate.",
+      "actual_en_anchor": "At the table, Edith agreed to help Etienne distinguish a useful check from a visit requested only for the dispute. She did not join the circle. She did not promise every evening she had.",
+      "it_words_added": 121,
+      "en_words_added": 129,
+      "purpose": "Sviluppo di gesto, percezione o relazione già presenti, senza nuovi fatti risolutivi."
+    },
+    {
+      "scene": 13,
+      "insertion_before_it": "Etienne Ravelle entrò con una frase allegra che gli morì sul volto.",
+      "actual_en_anchor": "Etienne Ravelle entered with a cheerful remark that died on his face.",
+      "it_words_added": 151,
+      "en_words_added": 162,
+      "purpose": "Sviluppo di gesto, percezione o relazione già presenti, senza nuovi fatti risolutivi."
+    },
+    {
+      "scene": 15,
+      "insertion_before_it": "Ilian ritirò la mano. Il campione rimase un oggetto sul banco, senza aprire nulla.",
+      "actual_en_anchor": "Ilian withdrew his hand. The sample remained an object on the bench, opening nothing.",
+      "it_words_added": 154,
+      "en_words_added": 154,
+      "purpose": "Sviluppo di gesto, percezione o relazione già presenti, senza nuovi fatti risolutivi."
+    },
+    {
+      "scene": 17,
+      "insertion_before_it": "Helren appoggiò una cartella accanto alla propria sedia, non sul banco.",
+      "actual_en_anchor": "Helren set a folder beside the chair, not on the bench.",
+      "it_words_added": 91,
+      "en_words_added": 98,
+      "purpose": "Sviluppo di gesto, percezione o relazione già presenti, senza nuovi fatti risolutivi."
+    }
+  ],
+  "online_platform_upload": false,
+  "events_end": "812-06-18",
+  "campaign_changed": false
+}
