@@ -1,0 +1,417 @@
+{
+  "revision": 385,
+  "edition": "NOVEL-009-IT-ARCO-01",
+  "scope": "Solo primo arco, capitoli 1–38, revisione italiana",
+  "stats": {
+    "chapters": 38,
+    "words": 69466,
+    "min_words": 1801,
+    "max_words": 1892,
+    "mean_words": 1828.0526315789473,
+    "previous_words": 32709
+  },
+  "chapter_checks": [
+    {
+      "chapter": 1,
+      "words": 1845,
+      "whitespace_words": 1845,
+      "characters_with_spaces": 11837,
+      "original_words": 1675,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 2,
+      "words": 1853,
+      "whitespace_words": 1853,
+      "characters_with_spaces": 11640,
+      "original_words": 1369,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 3,
+      "words": 1810,
+      "whitespace_words": 1810,
+      "characters_with_spaces": 11277,
+      "original_words": 1206,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 4,
+      "words": 1859,
+      "whitespace_words": 1859,
+      "characters_with_spaces": 11588,
+      "original_words": 1229,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 5,
+      "words": 1829,
+      "whitespace_words": 1829,
+      "characters_with_spaces": 11717,
+      "original_words": 1260,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 6,
+      "words": 1892,
+      "whitespace_words": 1892,
+      "characters_with_spaces": 11922,
+      "original_words": 937,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 7,
+      "words": 1853,
+      "whitespace_words": 1853,
+      "characters_with_spaces": 12085,
+      "original_words": 896,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 8,
+      "words": 1862,
+      "whitespace_words": 1862,
+      "characters_with_spaces": 11727,
+      "original_words": 873,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 9,
+      "words": 1810,
+      "whitespace_words": 1810,
+      "characters_with_spaces": 11759,
+      "original_words": 856,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 10,
+      "words": 1844,
+      "whitespace_words": 1844,
+      "characters_with_spaces": 11746,
+      "original_words": 858,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 11,
+      "words": 1831,
+      "whitespace_words": 1831,
+      "characters_with_spaces": 11658,
+      "original_words": 868,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 12,
+      "words": 1826,
+      "whitespace_words": 1826,
+      "characters_with_spaces": 11522,
+      "original_words": 858,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 13,
+      "words": 1833,
+      "whitespace_words": 1833,
+      "characters_with_spaces": 11696,
+      "original_words": 833,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 14,
+      "words": 1818,
+      "whitespace_words": 1818,
+      "characters_with_spaces": 11413,
+      "original_words": 843,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 15,
+      "words": 1821,
+      "whitespace_words": 1821,
+      "characters_with_spaces": 11728,
+      "original_words": 865,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 16,
+      "words": 1885,
+      "whitespace_words": 1885,
+      "characters_with_spaces": 12324,
+      "original_words": 927,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 17,
+      "words": 1815,
+      "whitespace_words": 1815,
+      "characters_with_spaces": 11870,
+      "original_words": 871,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 18,
+      "words": 1819,
+      "whitespace_words": 1819,
+      "characters_with_spaces": 11771,
+      "original_words": 853,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 19,
+      "words": 1810,
+      "whitespace_words": 1810,
+      "characters_with_spaces": 11132,
+      "original_words": 764,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 20,
+      "words": 1818,
+      "whitespace_words": 1818,
+      "characters_with_spaces": 11440,
+      "original_words": 778,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 21,
+      "words": 1827,
+      "whitespace_words": 1827,
+      "characters_with_spaces": 11681,
+      "original_words": 829,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 22,
+      "words": 1813,
+      "whitespace_words": 1813,
+      "characters_with_spaces": 11308,
+      "original_words": 804,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 23,
+      "words": 1802,
+      "whitespace_words": 1802,
+      "characters_with_spaces": 11642,
+      "original_words": 759,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 24,
+      "words": 1828,
+      "whitespace_words": 1828,
+      "characters_with_spaces": 11662,
+      "original_words": 762,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 25,
+      "words": 1813,
+      "whitespace_words": 1813,
+      "characters_with_spaces": 11760,
+      "original_words": 825,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 26,
+      "words": 1826,
+      "whitespace_words": 1826,
+      "characters_with_spaces": 11563,
+      "original_words": 665,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 27,
+      "words": 1805,
+      "whitespace_words": 1805,
+      "characters_with_spaces": 11932,
+      "original_words": 733,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 28,
+      "words": 1815,
+      "whitespace_words": 1815,
+      "characters_with_spaces": 11645,
+      "original_words": 710,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 29,
+      "words": 1806,
+      "whitespace_words": 1806,
+      "characters_with_spaces": 11392,
+      "original_words": 725,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 30,
+      "words": 1822,
+      "whitespace_words": 1822,
+      "characters_with_spaces": 11905,
+      "original_words": 674,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 31,
+      "words": 1809,
+      "whitespace_words": 1809,
+      "characters_with_spaces": 11359,
+      "original_words": 676,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 32,
+      "words": 1818,
+      "whitespace_words": 1818,
+      "characters_with_spaces": 11441,
+      "original_words": 719,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 33,
+      "words": 1832,
+      "whitespace_words": 1832,
+      "characters_with_spaces": 11571,
+      "original_words": 656,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 34,
+      "words": 1842,
+      "whitespace_words": 1842,
+      "characters_with_spaces": 11456,
+      "original_words": 667,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 35,
+      "words": 1808,
+      "whitespace_words": 1808,
+      "characters_with_spaces": 11386,
+      "original_words": 726,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 36,
+      "words": 1801,
+      "whitespace_words": 1801,
+      "characters_with_spaces": 11525,
+      "original_words": 698,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 37,
+      "words": 1849,
+      "whitespace_words": 1849,
+      "characters_with_spaces": 11874,
+      "original_words": 688,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    },
+    {
+      "chapter": 38,
+      "words": 1817,
+      "whitespace_words": 1817,
+      "characters_with_spaces": 11618,
+      "original_words": 774,
+      "html_matches": true,
+      "continuous_matches": true,
+      "txt_matches": true
+    }
+  ],
+  "chapter_count_unchanged": true,
+  "english_revised": false,
+  "english_status": "NON_ALLINEATO: usare i file inglesi precedenti come storici, non come traduzione corrente.",
+  "other_arcs_revised": false,
+  "original_manuscript_files_preserved": 156,
+  "campaign_t0_unchanged": true,
+  "resources_at_arc_end_unchanged": true,
+  "new_detail_scope": [
+    "Light di Halo in privato al 35, cumulativo al IV già posseduto",
+    "Near Coordinates su geometria locale in laboratorio al 30, Astrolabe I già posseduto"
+  ],
+  "duplicate_long_paragraphs": [],
+  "source_hash_errors": [],
+  "sources_verified": 3069,
+  "quality_limit": "Il conteggio e il confronto automatico verificano dimensione, conservazione e corrispondenza. Non equivalgono a una certificazione di perfezione letteraria o a una revisione umana esterna.",
+  "zip_created": false,
+  "push_performed": false,
+  "wiki_articles": 1643,
+  "local_links_checked": 146634,
+  "local_link_errors": 0,
+  "manifest_sources": 3069,
+  "wiki_publication_pending_push": true
+}
