@@ -154,3 +154,9 @@ Con intervento: prestazioni, prove, fiducia e risorse cambiano secondo ciò che 
 Scena possibile: Una richiesta di copiare una lettera privata si rivela inutile alla controversia, ma importante per chi la conserva. Complicazione: Accettare fondi in cambio di un deposito esclusivo che prometta sicurezza ma impedisca alle persone di accedere ai propri ricordi. Sviluppo opzionale: la persona ottiene una soluzione parziale fuori dal circolo e deve scegliere se desidera ancora aderire; non una punizione per l’assenza dei protagonisti.
 
 Causa verticale: biografia e acquisizione personale documentate. Collegamenti orizzontali: reti e rapporti nominati sopra. Il dossier psicologico completo Es/Io/Super Io non è applicato automaticamente; desiderio, paura, difesa abituale e linea morale forniscono le basi per prepararlo quando richiesto.
+
+## Continuità letteraria 383 — 11–18 giugno 812
+
+Archive I e Footnote. Nel terzo arco vive l’aggressione, oppone una singola parata e fugge con una lieve abrasione; non vince contro Eclipse II. Il 17 giugno contribuisce alla regola di ammissione con assenso di tutti e approva l’ingresso di Alexander. Dal 18 il gruppo ha quattro membri. La protezione delle copie non diventa proprietà su persone o ricordi.
+
+Distinta dal T0 della campagna; nessuna progressione futura garantita.

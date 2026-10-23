@@ -142,3 +142,11 @@ Organizza itinerario, scorta effettiva, ritorno e recapito della lettera. Due gu
 
 Capitoli: 40, 44, 54, 57. Continuità letteraria distinta dalla campagna.
 <!-- END NOVEL382 -->
+
+<!-- NOVEL383 -->
+## Nella novel — terzo arco
+
+Organizza viaggi ordinari e due guardie reali: prima visita con ritorno il 13, seconda dal 16 e permanenza per il corso. Non riceve automaticamente sede, maschere o contenuti delle riunioni. Nessuna nuova capacità di viaggio o scorta moltiplicata.
+
+Capitoli: 60, 71.
+<!-- END NOVEL383 -->

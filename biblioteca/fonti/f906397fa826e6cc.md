@@ -1,0 +1,156 @@
+# Livia Varn — dossier principale dell’Exchange
+
+CORE-366. Verità autoriale al 18 maggio 812. Il passato aggiuntivo è fissato da questa edizione; ingressi, avanzamenti, relazioni future ed esiti sono possibilità condizionate. Nessuna conoscenza automatica del ritorno di Edran.
+
+## Identità e posizione iniziale
+
+Livia Varn, 27 anni; Umano. Luogo: Lethorne. Membro effettivo dal 10 maggio 812; cofondatrice.
+
+## Nucleo personale
+
+Vuole che nessuno possa cancellare una persona semplicemente sequestrando la sua unica prova.
+
+## Biografia e passato fissato
+
+Nacque nel 785 in una famiglia di impiegati senza biblioteca privata. La madre teneva conti domestici con margini per le spese dimenticate; il padre copiava lettere commerciali, poi perdeva il lavoro quando il cliente poteva dettare a un parente. Livia imparò presto che una scrittura leggibile e una scrittura creduta sono due cose diverse. Entrò nell’ufficio civile prima di acquisire Archive I nel 810, mediante la fonte scolastica già fissata. Una rettifica di indirizzo, inizialmente da lei trattata come dettaglio trascurabile, lasciò un richiedente senza notifica utile: ottenne la correzione, ma perse la sua fiducia. Questo episodio aggiunto al passato non cambia la controversia del collaudo. Nel caso di Elias conserva la copia vera della prima posizione, non l’ordine di spostamento. Fondare lo scambio è il primo tentativo di trasformare una competenza individuale in un rapporto che possa sopravvivere alla perdita del suo custode.
+
+## Vita privata e desideri
+
+Vive con un tavolo troppo piccolo per i lavori serali e rifiuta di comprare un mobile a credito da un committente. Conserva lettere senza valore probatorio, che non cataloga per principio. Le piacciono commedie di equivoci e marmellate amare; detesta che qualcuno pulisca il margine di una sua copia credendo di aiutarla. Ha amicizie fuori dallo scambio e una vita affettiva non assegnata ai protagonisti. Il desiderio di una casa più quieta può entrare in conflitto con la crescita della rete.
+
+## Contraddizione e paura
+
+Quando teme di perdere il controllo della circolazione trattiene una prova più a lungo del necessario. Può trasformare la precisione in un modo di rimandare una decisione dolorosa. Non è incapace di fidarsi: pretende di sapere quale rischio sta accettando.
+
+## Responsabilità e segreti
+
+La rettifica tardiva del vecchio indirizzo resta una colpa ordinaria che può raccontare; non è un tradimento segreto del gruppo. Non possiede una copia nascosta risolutiva dell’ordine di Vern.
+
+## Linea rossa
+
+Non autentica ciò che non ha verificato, non consegna cartelle private per compiacere il gruppo e non concede a un finanziatore la revisione retroattiva dei verbali.
+
+## Voce, gesti e umorismo
+
+Chiede agli altri di scegliere quale frase vogliono davvero lasciare agli atti. Può poi piegare un foglio scartato e farne una scatola per i biscotti. Il contrasto fra rigore e umorismo emerge quando si sente al sicuro.
+
+## Aspetto e corporeità
+
+Donna umana di ventisette anni, alta 169 cm, pelle chiara, occhi nocciola e capelli castani raccolti in una crocchia pratica. Viso ovale sottile, abiti civili blu ardesia dal collo alto. Conservare lineamenti e corporeità dei ritratti approvati. Anatomia umana vivente; variazioni individuali non assegnano poteri.
+
+## Capacità attuali e limiti
+
+Conservazione e impiego delle registrazioni seguono le abilità Archive già vigenti. Può contribuire offensivamente tramite gli esercizi del proprio rango; non si riduce a prendere appunti. Non legge la mente e non annulla formule come Scroll.
+
+## Inventario e contante al T0
+
+Dossier di lavoro, penna e inchiostro, carta da copia, cartella civile, abiti quotidiani. Nessun deposito personale di tutti gli originali del circolo. Contante personale: 18,60 corone. Questi dettagli ordinari sono fissati nel 366; non descrivono acquisti già avvenuti per il circolo.
+
+## Sapere e ignoranza
+
+Conosce il proprio mestiere, il proprio passato e le informazioni già stabilite nel dossier di origine. Membro effettivo dal 10 maggio 812; cofondatrice. Le fonti del Narratore non sono i suoi ricordi. Non conosce Origin, First Testament, identità di Edran o responsabilità antiche attraverso l’appartenenza editoriale. Gli eventuali segreti di altri membri richiedono un canale di apprendimento registrato.
+
+## Motivo per avvicinarsi e motivo per rifiutare
+
+La fondazione è già avvenuta; la domanda futura è quanto potere attribuire al nome comune e come tutelare un nuovo membro che non conosce civilmente.
+
+## Trasformazione personale e alternative
+
+Può imparare a distribuire custodia e autorità senza esigere il controllo personale di ogni copia. La deviazione opposta è costruire un archivio talmente protetto da diventare un monopolio. Il successo personale può essere una rete di successori competenti anche se non supera IV.
+
+## Tentazione specifica
+
+Accettare fondi in cambio di un deposito esclusivo che prometta sicurezza ma impedisca alle persone di accedere ai propri ricordi.
+
+## Potenziale preparato
+
+Può diventare custode interregionale e poi figura angelica della memoria accessibile. La traiettoria VI resta un progetto possibile, non un titolo concesso. La Seat Archive è occupata: non esiste una promozione VII di riserva.
+
+## Rapporti da vivere, non amicizie già imposte
+
+- CAST-002 — Elias: fiducia e iniziativa contro prudenza sulla copia. Stato: esiste un rapporto attestato nel dossier corrente; questa linea ne offre sviluppi, senza aggiungere incontri.
+- CAST-035 — Silas: competenza utile, dissenso sulla falsificazione. Stato: esiste un rapporto attestato nel dossier corrente; questa linea ne offre sviluppi, senza aggiungere incontri.
+- CAST-127 — Edith: diritti del paziente e pubblicabilità. Stato: rapporto potenziale; nessun incontro o sentimento già attribuito.
+- CAST-588 — Tavian: modelli contro tracce documentali. Stato: rapporto potenziale; nessun incontro o sentimento già attribuito.
+
+Il rapporto con Alexander non è valutabile prima di incontri effettivi. Opinione iniziale possibile sul titolo: cautela verso il potere del committente; non conoscenza di Edran e non attrazione o fedeltà assegnata. Con Elias la fiducia si costruisce attraverso richieste e risposte, non perché è il protagonista della novel.
+
+## Progressione tecnica condizionata
+
+Stabilizzare l’uso di Archive nel lavoro reale, ottenere una fonte legittima del grado richiesto e dimostrare che la restituzione di una memoria non imponga la versione del custode.
+
+### Stadio 1 — già acquisito, repertorio cumulativo corrente
+
+Repertorio da consultare: Held Moment [Memory]; Residual Sense [Trace]; True Mark [Attestation]; Held Surface [Preservation]; Recorded Blow [Re-enactment]. Fonte, prove, stabilizzazione e limiti del manuale restano obbligatori. 
+
+### Stadio 2 — possibile, non acquisito
+
+Repertorio da consultare: Memory Inscription [Memory]; Relic Trigger [Trace]; Witness Seal [Attestation]; Preservation Audit [Preservation]; Relic Activation [Re-enactment]. Fonte, prove, stabilizzazione e limiti del manuale restano obbligatori. 
+
+### Stadio 3 — possibile, non acquisito
+
+Repertorio da consultare: Memory Vault [Memory]; Resonant Pursuit [Trace]; Precedent Test [Attestation]; Echo Bastion [Preservation]; Event Weaving [Re-enactment]. Fonte, prove, stabilizzazione e limiti del manuale restano obbligatori. 
+
+### Stadio 4 — possibile, non acquisito
+
+Repertorio da consultare: Recorded Reflex [Memory]; Residual Disjunction [Trace]; Attested Separation [Attestation]; Preservation Transfer [Preservation]; Event Separation [Re-enactment]. Il passaggio semidivino richiede fonte e trasformazione reali; non un semplice aumento numerico delle abilità precedenti. 
+
+### Stadio 5 — possibile, non acquisito
+
+Repertorio da consultare: Memory Partition [Memory]; Trace Convergence [Trace]; Contradiction Strike [Attestation]; Selective Sanctuary [Preservation]; Event Overlay [Re-enactment]. Il salto angelico cambia qualitativamente la condizione; sopravvivenza e idoneità non sono garantite dal ruolo nel gruppo. 
+
+### Stadio 6 — possibile, non acquisito
+
+Repertorio da consultare: Mnemonic Relay [Memory]; Residual Transfer [Trace]; Attestation Relay [Attestation]; Catastrophe Reliquary [Preservation]; Event Reordering [Re-enactment]. Il grado VI richiede una condizione superiore effettiva e non costituisce un riconoscimento onorifico. 
+
+### Stadio 7 — oltre l’orizzonte preparato; non proibito per natura, da progettare solo se emergono condizioni reali
+
+Repertorio da consultare: Memory Reconciliation [Memory]; Trace Separation [Trace]; Attestation Partition [Attestation]; Conservation Release [Preservation]; Event Transposition [Re-enactment]. La Seat è occupata secondo il registro vigente: occorrono effettiva disponibilità della pienezza e condizioni divine, non una vittoria editoriale. 
+
+## Percorso personale negli otto volumi
+
+Ogni traccia resta utilizzabile anche come linea esterna. Una finestra editoriale può essere anticipata, rinviata o chiusa dalle scelte reali. Non è un calendario di promozioni.
+
+### Volume 1 — Una stanza che si può lasciare
+
+Concordare un estratto che non consegni il testimone. Domanda aperta: quale costo è disposto a sostenere personalmente, e quale non ha diritto di imporre a un altro? Registrare risposta e conseguenze soltanto quando avvengono; se il contatto con l’Exchange manca, il problema continua nella rete locale del personaggio.
+
+### Volume 2 — Il prezzo dell’indipendenza
+
+Accettare fondi senza cedere l’intero deposito. Domanda aperta: quale costo è disposto a sostenere personalmente, e quale non ha diritto di imporre a un altro? Registrare risposta e conseguenze soltanto quando avvengono; se il contatto con l’Exchange manca, il problema continua nella rete locale del personaggio.
+
+### Volume 3 — Appartenere senza possedere
+
+Conservare una memoria che contraddice un amico. Domanda aperta: quale costo è disposto a sostenere personalmente, e quale non ha diritto di imporre a un altro? Registrare risposta e conseguenze soltanto quando avvengono; se il contatto con l’Exchange manca, il problema continua nella rete locale del personaggio.
+
+### Volume 4 — La responsabilità degli amici
+
+Pubblicare una prova anche se coinvolge il gruppo. Domanda aperta: quale costo è disposto a sostenere personalmente, e quale non ha diritto di imporre a un altro? Registrare risposta e conseguenze soltanto quando avvengono; se il contatto con l’Exchange manca, il problema continua nella rete locale del personaggio.
+
+### Volume 5 — La rete non è una persona
+
+Restituire a chi esce le proprie copie. Domanda aperta: quale costo è disposto a sostenere personalmente, e quale non ha diritto di imporre a un altro? Registrare risposta e conseguenze soltanto quando avvengono; se il contatto con l’Exchange manca, il problema continua nella rete locale del personaggio.
+
+### Volume 6 — Oltre la stanza
+
+Delegare una custodia lontana senza fingere controllo immediato. Domanda aperta: quale costo è disposto a sostenere personalmente, e quale non ha diritto di imporre a un altro? Registrare risposta e conseguenze soltanto quando avvengono; se il contatto con l’Exchange manca, il problema continua nella rete locale del personaggio.
+
+### Volume 7 — Essere amici di una potenza
+
+Rifiutare che il rango sia una prova di verità. Domanda aperta: quale costo è disposto a sostenere personalmente, e quale non ha diritto di imporre a un altro? Registrare risposta e conseguenze soltanto quando avvengono; se il contatto con l’Exchange manca, il problema continua nella rete locale del personaggio.
+
+### Volume 8 — La porta lasciata aperta
+
+Decidere cosa lasciare leggibile e chi potrà correggerlo. Domanda aperta: quale costo è disposto a sostenere personalmente, e quale non ha diritto di imporre a un altro? Registrare risposta e conseguenze soltanto quando avvengono; se il contatto con l’Exchange manca, il problema continua nella rete locale del personaggio.
+
+## Unità di Gioco
+
+Concetto: Vuole che nessuno possa cancellare una persona semplicemente sequestrando la sua unica prova. Funzione: membro principale progettato, interlocutore autonomo e fonte di scelte. Stato: Attivo nel luogo iniziale, non convocato dal ruolo editoriale. Conflitto: Quando teme di perdere il controllo della circolazione trattiene una prova più a lungo del necessario. Può trasformare la precisione in un modo di rimandare una decisione dolorosa. Non è incapace di fidarsi: pretende di sapere quale rischio sta accettando.
+
+Forze: desiderio personale (Vuole che nessuno possa cancellare una persona semplicemente sequestrando la sua unica prova.), obblighi del mestiere e controparti già nominate nel cast. Segreto: La rettifica tardiva del vecchio indirizzo resta una colpa ordinaria che può raccontare; non è un tradimento segreto del gruppo. Non possiede una copia nascosta risolutiva dell’ordine di Vern. Hook immediato: Una richiesta di copiare una lettera privata si rivela inutile alla controversia, ma importante per chi la conserva. Secondo ingresso: La fondazione è già avvenuta; la domanda futura è quanto potere attribuire al nome comune e come tutelare un nuovo membro che non conosce civilmente.
+
+Con intervento: prestazioni, prove, fiducia e risorse cambiano secondo ciò che viene fatto; nessuna adesione garantita. Senza intervento: prosegue il problema locale già fissato e cerca altri interlocutori. Pressione: scadenze della fonte corrente, nessuna morte o avanzamento a calendario. Impatto iniziale moderato, maggiore solo quando azioni reali lo producono.
+
+Scena possibile: Una richiesta di copiare una lettera privata si rivela inutile alla controversia, ma importante per chi la conserva. Complicazione: Accettare fondi in cambio di un deposito esclusivo che prometta sicurezza ma impedisca alle persone di accedere ai propri ricordi. Sviluppo opzionale: la persona ottiene una soluzione parziale fuori dal circolo e deve scegliere se desidera ancora aderire; non una punizione per l’assenza dei protagonisti.
+
+Causa verticale: biografia e acquisizione personale documentate. Collegamenti orizzontali: reti e rapporti nominati sopra. Il dossier psicologico completo Es/Io/Super Io non è applicato automaticamente; desiderio, paura, difesa abituale e linea morale forniscono le basi per prepararlo quando richiesto.

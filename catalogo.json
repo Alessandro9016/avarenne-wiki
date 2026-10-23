@@ -204,7 +204,7 @@
     "title": "Alexander Valcienne",
     "kind": "Personaggi",
     "url": "cast-001-alexander-valcienne.html",
-    "bytes": 91344,
+    "bytes": 92679,
     "image_count": 7
   },
   {
@@ -484,7 +484,7 @@
     "title": "Archive",
     "kind": "Effigi",
     "url": "archive.html",
-    "bytes": 130639,
+    "bytes": 131095,
     "image_count": 2
   },
   {
@@ -564,7 +564,15 @@
     "title": "Arco 2 della novel — The Price of a Miracle",
     "kind": "Archi della novel",
     "url": "novel-arco-02-the-price-of-a-miracle.html",
-    "bytes": 8280,
+    "bytes": 8569,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-ARC-03",
+    "title": "Arco 3 della novel — The Fourth Chair",
+    "kind": "Archi della novel",
+    "url": "novel-arco-03-the-fourth-chair.html",
+    "bytes": 8397,
     "image_count": 0
   },
   {
@@ -812,7 +820,7 @@
     "title": "Astrolabe",
     "kind": "Effigi",
     "url": "astrolabe.html",
-    "bytes": 110740,
+    "bytes": 111186,
     "image_count": 2
   },
   {
@@ -924,7 +932,15 @@
     "title": "AVARENNE — lettura integrale italiana, capitoli 1–58",
     "kind": "Testo integrale della novel",
     "url": "novel-lettura-integrale-001-058.html",
-    "bytes": 330375,
+    "bytes": 330632,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-READING-78",
+    "title": "AVARENNE — lettura integrale italiana, capitoli 1–78",
+    "kind": "Testo integrale della novel",
+    "url": "novel-lettura-integrale-001-078.html",
+    "bytes": 395021,
     "image_count": 0
   },
   {
@@ -1884,7 +1900,15 @@
     "title": "Capitolo 58 — Il prezzo di un miracolo",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-058.html",
-    "bytes": 12583,
+    "bytes": 12739,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C059",
+    "title": "Capitolo 59 — Tre risposte",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-059.html",
+    "bytes": 11607,
     "image_count": 0
   },
   {
@@ -1896,11 +1920,163 @@
     "image_count": 0
   },
   {
+    "id": "NOVEL-V01-C060",
+    "title": "Capitolo 60 — Una misura per il volto",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-060.html",
+    "bytes": 11674,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C061",
+    "title": "Capitolo 61 — Il lavoro che restava",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-061.html",
+    "bytes": 11977,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C062",
+    "title": "Capitolo 62 — Mani ferme",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-062.html",
+    "bytes": 11646,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C063",
+    "title": "Capitolo 63 — Il posto dell'ospite",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-063.html",
+    "bytes": 11835,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C064",
+    "title": "Capitolo 64 — Quello che non si compra",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-064.html",
+    "bytes": 12074,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C065",
+    "title": "Capitolo 65 — La sera senza ricevute",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-065.html",
+    "bytes": 11590,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C066",
+    "title": "Capitolo 66 — Il primo pezzo",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-066.html",
+    "bytes": 11623,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C067",
+    "title": "Capitolo 67 — Il peso del falso",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-067.html",
+    "bytes": 11848,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C068",
+    "title": "Capitolo 68 — Un urto nel buio",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-068.html",
+    "bytes": 11796,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C069",
+    "title": "Capitolo 69 — Il sangue sul polsino",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-069.html",
+    "bytes": 11987,
+    "image_count": 0
+  },
+  {
     "id": "NOVEL-V01-C007",
     "title": "Capitolo 7 — Le cose che continuano",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-007.html",
     "bytes": 16220,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C070",
+    "title": "Capitolo 70 — Una richiesta d'aiuto",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-070.html",
+    "bytes": 11933,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C071",
+    "title": "Capitolo 71 — La strada per tornare",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-071.html",
+    "bytes": 11608,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C072",
+    "title": "Capitolo 72 — La mano riaperta",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-072.html",
+    "bytes": 11957,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C073",
+    "title": "Capitolo 73 — Un foglio, non una persona",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-073.html",
+    "bytes": 12223,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C074",
+    "title": "Capitolo 74 — Le condizioni della paura",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-074.html",
+    "bytes": 11870,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C075",
+    "title": "Capitolo 75 — Due ore di lavoro",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-075.html",
+    "bytes": 11960,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C076",
+    "title": "Capitolo 76 — La porta ordinaria",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-076.html",
+    "bytes": 11817,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C077",
+    "title": "Capitolo 77 — Hearth",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-077.html",
+    "bytes": 12025,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C078",
+    "title": "Capitolo 78 — Quattro sedie",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-078.html",
+    "bytes": 11963,
     "image_count": 0
   },
   {
@@ -2060,7 +2236,7 @@
     "title": "Celine Valcienne",
     "kind": "Personaggi",
     "url": "cast-003-celine-valcienne.html",
-    "bytes": 26340,
+    "bytes": 27065,
     "image_count": 4
   },
   {
@@ -2076,7 +2252,7 @@
     "title": "Certified Weather",
     "kind": "Archi narrativi",
     "url": "arc-06-certified-weather.html",
-    "bytes": 15039,
+    "bytes": 15436,
     "image_count": 1
   },
   {
@@ -2612,7 +2788,7 @@
     "title": "Cradle",
     "kind": "Effigi",
     "url": "cradle.html",
-    "bytes": 63252,
+    "bytes": 63657,
     "image_count": 2
   },
   {
@@ -2684,7 +2860,7 @@
     "title": "Cronologia della novel — capitoli 1–15",
     "kind": "Cronologia della novel",
     "url": "novel-cronologia-capitoli-1-15.html",
-    "bytes": 16930,
+    "bytes": 17214,
     "image_count": 0
   },
   {
@@ -2692,7 +2868,7 @@
     "title": "Cronologia della novel — capitoli 1–25",
     "kind": "Cronologia della novel",
     "url": "novel-cronologia-capitoli-1-25.html",
-    "bytes": 24999,
+    "bytes": 25283,
     "image_count": 0
   },
   {
@@ -2700,7 +2876,7 @@
     "title": "Cronologia della novel — capitoli 1–38",
     "kind": "Cronologia della novel",
     "url": "novel-cronologia-capitoli-1-38.html",
-    "bytes": 34133,
+    "bytes": 34417,
     "image_count": 0
   },
   {
@@ -2708,7 +2884,7 @@
     "title": "Cronologia della novel — capitoli 1–5",
     "kind": "Cronologia della novel",
     "url": "novel-cronologia-capitoli-1-5.html",
-    "bytes": 10597,
+    "bytes": 10878,
     "image_count": 0
   },
   {
@@ -2716,7 +2892,15 @@
     "title": "Cronologia della novel — capitoli 1–58",
     "kind": "Cronologia della novel",
     "url": "novel-cronologia-capitoli-1-58.html",
-    "bytes": 44251,
+    "bytes": 44535,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-CHRONOLOGY-78",
+    "title": "Cronologia della novel — capitoli 1–78",
+    "kind": "Cronologia della novel",
+    "url": "novel-cronologia-capitoli-1-78.html",
+    "bytes": 55061,
     "image_count": 0
   },
   {
@@ -2764,7 +2948,7 @@
     "title": "Crucible",
     "kind": "Effigi",
     "url": "crucible.html",
-    "bytes": 94364,
+    "bytes": 94785,
     "image_count": 2
   },
   {
@@ -3065,10 +3249,10 @@
   },
   {
     "id": "NOVEL-DETAILS",
-    "title": "Dettagli introdotti nella novel — capitoli 1–58",
+    "title": "Dettagli introdotti nella novel — capitoli 1–78",
     "kind": "Opera",
     "url": "novel-dettagli-e-fonti.html",
-    "bytes": 60561,
+    "bytes": 75397,
     "image_count": 0
   },
   {
@@ -3308,7 +3492,7 @@
     "title": "Eclipse",
     "kind": "Effigi",
     "url": "eclipse.html",
-    "bytes": 108278,
+    "bytes": 108773,
     "image_count": 2
   },
   {
@@ -3372,7 +3556,7 @@
     "title": "Edith Torrel",
     "kind": "Personaggi",
     "url": "cast-127-edith-torrel.html",
-    "bytes": 26071,
+    "bytes": 27315,
     "image_count": 4
   },
   {
@@ -3380,7 +3564,7 @@
     "title": "Edith Torrel — dossier principale",
     "kind": "Dossier principali",
     "url": "exchange-dossier-cast-127-edith-torrel.html",
-    "bytes": 24022,
+    "bytes": 24841,
     "image_count": 3
   },
   {
@@ -3492,7 +3676,7 @@
     "title": "Elias Veyne",
     "kind": "Personaggi",
     "url": "elias-veyne.html",
-    "bytes": 59114,
+    "bytes": 60752,
     "image_count": 7
   },
   {
@@ -4276,7 +4460,7 @@
     "title": "Guida decisionale del Narratore",
     "kind": "Consultazione",
     "url": "guida-decisionale-narratore.html",
-    "bytes": 13210,
+    "bytes": 13141,
     "image_count": 0
   },
   {
@@ -4356,7 +4540,7 @@
     "title": "Heart",
     "kind": "Effigi",
     "url": "heart.html",
-    "bytes": 100943,
+    "bytes": 101391,
     "image_count": 2
   },
   {
@@ -4732,7 +4916,7 @@
     "title": "Ilian Uren",
     "kind": "Personaggi",
     "url": "cast-194-ilian-uren.html",
-    "bytes": 21358,
+    "bytes": 22542,
     "image_count": 2
   },
   {
@@ -4788,7 +4972,7 @@
     "title": "Indice generale A–Z",
     "kind": "Indici",
     "url": "indice-generale.html",
-    "bytes": 140369,
+    "bytes": 143098,
     "image_count": 0
   },
   {
@@ -4852,7 +5036,7 @@
     "title": "Informazioni sulla wiki",
     "kind": "Enciclopedia",
     "url": "informazioni.html",
-    "bytes": 9000,
+    "bytes": 8931,
     "image_count": 0
   },
   {
@@ -5460,7 +5644,7 @@
     "title": "La novel — testo integrale, capitoli e continuità",
     "kind": "Opera",
     "url": "novel.html",
-    "bytes": 18194,
+    "bytes": 21321,
     "image_count": 0
   },
   {
@@ -5724,7 +5908,7 @@
     "title": "Lethorne",
     "kind": "Luoghi",
     "url": "loc-001-lethorne.html",
-    "bytes": 30284,
+    "bytes": 30746,
     "image_count": 5
   },
   {
@@ -5748,7 +5932,7 @@
     "title": "Livia Varn",
     "kind": "Personaggi",
     "url": "cast-032-livia-varn.html",
-    "bytes": 35622,
+    "bytes": 37120,
     "image_count": 5
   },
   {
@@ -5756,7 +5940,7 @@
     "title": "Livia Varn — dossier principale",
     "kind": "Dossier principali",
     "url": "exchange-dossier-cast-032-livia-varn.html",
-    "bytes": 24848,
+    "bytes": 25590,
     "image_count": 4
   },
   {
@@ -5908,7 +6092,7 @@
     "title": "L’opera",
     "kind": "Indici tematici",
     "url": "opera.html",
-    "bytes": 27590,
+    "bytes": 27521,
     "image_count": 48
   },
   {
@@ -5932,7 +6116,7 @@
     "title": "Mael Vaur",
     "kind": "Personaggi",
     "url": "cast-474-mael-vaur.html",
-    "bytes": 21266,
+    "bytes": 22169,
     "image_count": 2
   },
   {
@@ -6076,7 +6260,7 @@
     "title": "Marcel Ruy",
     "kind": "Personaggi",
     "url": "cast-031-marcel-ruy.html",
-    "bytes": 42813,
+    "bytes": 43935,
     "image_count": 4
   },
   {
@@ -6284,7 +6468,7 @@
     "title": "Maurice Verr",
     "kind": "Personaggi",
     "url": "cast-104-maurice-verr.html",
-    "bytes": 23238,
+    "bytes": 23782,
     "image_count": 2
   },
   {
@@ -6492,7 +6676,7 @@
     "title": "Mirel Osta",
     "kind": "Personaggi",
     "url": "cast-005-mirel-osta.html",
-    "bytes": 25230,
+    "bytes": 25823,
     "image_count": 4
   },
   {
@@ -6964,7 +7148,7 @@
     "title": "Noemi Darel",
     "kind": "Personaggi",
     "url": "cast-130-noemi-darel.html",
-    "bytes": 18634,
+    "bytes": 19181,
     "image_count": 2
   },
   {
@@ -7452,7 +7636,7 @@
     "title": "Pagina principale",
     "kind": "Enciclopedia",
     "url": "index.html",
-    "bytes": 24269,
+    "bytes": 24200,
     "image_count": 33
   },
   {
@@ -7596,7 +7780,7 @@
     "title": "Personaggi",
     "kind": "Indici tematici",
     "url": "personaggi.html",
-    "bytes": 216180,
+    "bytes": 216111,
     "image_count": 330
   },
   {
@@ -7764,7 +7948,7 @@
     "title": "Protocollo operativo del Narratore",
     "kind": "Consegna",
     "url": "protocollo-narratore.html",
-    "bytes": 34847,
+    "bytes": 34778,
     "image_count": 0
   },
   {
@@ -8220,7 +8404,7 @@
     "title": "Room for Six",
     "kind": "Archi narrativi",
     "url": "arc-03-room-for-six.html",
-    "bytes": 16624,
+    "bytes": 17021,
     "image_count": 1
   },
   {
@@ -8228,7 +8412,7 @@
     "title": "Room Six",
     "kind": "Luoghi soprannaturali",
     "url": "room-six.html",
-    "bytes": 17888,
+    "bytes": 18436,
     "image_count": 3
   },
   {
@@ -8364,7 +8548,7 @@
     "title": "Rovenne",
     "kind": "Luoghi",
     "url": "loc-002-rovenne.html",
-    "bytes": 28171,
+    "bytes": 28596,
     "image_count": 6
   },
   {
@@ -9492,7 +9676,7 @@
     "title": "Teren Holt",
     "kind": "Personaggi",
     "url": "cast-070-teren-holt.html",
-    "bytes": 21267,
+    "bytes": 21907,
     "image_count": 2
   },
   {
@@ -10892,7 +11076,7 @@
     "title": "The Surveyor’s Hinge",
     "kind": "Artefatti",
     "url": "art-001-the-surveyors-hinge.html",
-    "bytes": 13908,
+    "bytes": 14342,
     "image_count": 1
   },
   {
@@ -10964,7 +11148,7 @@
     "title": "The Unbound Exchange",
     "kind": "Organizzazioni",
     "url": "group-unbound-the-unbound-exchange.html",
-    "bytes": 45584,
+    "bytes": 46132,
     "image_count": 3
   },
   {
@@ -10972,7 +11156,7 @@
     "title": "The Unbound Exchange — dossier completo",
     "kind": "Approfondimenti",
     "url": "doc-154-the-unbound-exchange.html",
-    "bytes": 45585,
+    "bytes": 46133,
     "image_count": 3
   },
   {
@@ -11092,7 +11276,7 @@
     "title": "The Waking House",
     "kind": "Volumi",
     "url": "vol-01-the-waking-house.html",
-    "bytes": 14221,
+    "bytes": 14618,
     "image_count": 6
   },
   {
@@ -11660,7 +11844,7 @@
     "title": "Varek Lureth",
     "kind": "Personaggi",
     "url": "cast-200-varek-lureth.html",
-    "bytes": 15466,
+    "bytes": 16401,
     "image_count": 0
   },
   {
@@ -12148,7 +12332,7 @@
     "title": "Xenia Helren",
     "kind": "Personaggi",
     "url": "cast-193-xenia-helren.html",
-    "bytes": 18298,
+    "bytes": 18944,
     "image_count": 2
   },
   {

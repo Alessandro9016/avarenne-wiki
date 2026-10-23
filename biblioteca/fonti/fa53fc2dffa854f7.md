@@ -65,3 +65,11 @@ Capitolo 25: Helren esamina e accetta la riproduzione eseguita da Elias nelle du
 
 Lo scambio di lavoro è eseguito; nessun pagamento in contanti o saldo del cliente a Ilian è avvenuto. Il campione non è ancora restituito in scena e la risposta non è ancora recapitata. Nessuno ha visto Vaur falsificare il foglio o prova già un sequestro. La vera Hinge non viene mostrata né nominata a Helren. L'ispettore conserva il proprio archivio e non aderisce al gruppo.
 <!-- END NOVEL380 -->
+
+<!-- NOVEL383 -->
+## Nella novel — terzo arco
+
+Archive II, esterno al circolo. Accetta confronto pertinente dopo l’aggressione, separa fatti osservati, recupero ordinario e dichiarazioni. Non identifica per magia il falsario o ogni ordine di Mael. Non riceve sede dell’Exchange né diventa membro.
+
+Capitoli: 70, 73.
+<!-- END NOVEL383 -->
