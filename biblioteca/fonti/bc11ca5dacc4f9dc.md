@@ -1,0 +1,143 @@
+# AVARENNE
+## Volume I — The Waking House
+### Capitolo 16 — Il dono del barone
+
+Il barone Marcel Ravelle arrivò con un bastone che non gli serviva per camminare.
+
+Alexander ricordava quel bastone. Durante una visita, anni prima, Etienne lo aveva usato per imitare il padre finché una domestica non era scoppiata a ridere. Adesso il pomo d'argento rimaneva fermo fra due mani perfettamente capaci di stringerlo.
+
+«Vostra Grazia. È una gioia vedervi ristabilito.»
+
+«Accomodatevi.»
+
+Edran aveva fatto aprire le tende. Il barone lo osservò nella piena luce dello studio, e la soddisfazione sul suo volto ebbe il tempo di arrivare un poco in ritardo.
+
+Non era una prova. Alexander si impose di ricordarlo prima di trovare piacevole la propria attenzione.
+
+Maurice servì acqua e si ritirò. La porta rimase chiusa, non a chiave. Teren aspettava nel corridoio secondo la richiesta ricevuta quella mattina; nessuna guardia era andata a occupare la casa dei Ravelle.
+
+Il barone domandò del riposo, poi di Celine. Alexander rispose senza consegnargli dettagli clinici. Il colloquio avrebbe potuto finire lì, con un'educazione sufficiente a far sembrare maleducata ogni domanda successiva.
+
+«Ho ritrovato il biglietto che accompagnava il vostro dono.»
+
+Ravelle abbassò gli occhi verso il tavolo.
+
+«Una piccola attenzione. Mi auguro sia stata gradita.»
+
+«Ricordate che cosa conteneva?»
+
+«Un cordiale. Vi trovavo affaticato.»
+
+«Lo avete scelto personalmente?»
+
+«Certamente.»
+
+Alexander posò la copia del biglietto fra loro. L'originale era altrove, insieme alla ricevuta, e il flacone restava sotto la custodia di Mirel. Non desiderava apprendere quanto fosse rapido un uomo anziano a rovesciare un bicchiere su qualcosa che gli faceva paura.
+
+Il barone non toccò il foglio.
+
+«C'è un problema con la preparazione?»
+
+«La sera del quattordici l'ho bevuta. Poi sono rimasto incosciente per quattro giorni.»
+
+Il bastone si inclinò. Ravelle lo rimise diritto.
+
+«È terribile. Non potevo immaginare—»
+
+«Non vi ho ancora detto che cosa avete immaginato.»
+
+Il silenzio cambiò consistenza.
+
+Edran vide il giovane duca nei ricordi di una cena: attento a non interrompere un uomo che suo padre aveva ricevuto con cortesia. Il ragazzo aveva cercato di diventare abbastanza serio da essere ascoltato. Gli avevano versato la morte in una piccola attenzione.
+
+Per qualche istante desiderò afferrare il polso del barone. La distruzione avrebbe avuto una semplicità perfetta; le domande sarebbero rimaste a chi puliva la stanza.
+
+Lasciò le mani sui braccioli.
+
+«Raccontatemi ciò che avete fatto alla preparazione destinata a me. Scegliete di rispondere con esattezza, senza nascondere le vostre azioni dietro quelle degli altri.»
+
+Non alzò la voce.
+
+Il significato raggiunse l'uomo seduto davanti a lui e vi entrò con l'autorità che Edran aveva deciso di esercitare. Non cercava un ricordo da strappare attraverso gli occhi. Imponeva il proposito di raccontarlo a chi quel ricordo possedeva.
+
+La volontà del barone cedette.
+
+Ravelle inspirò, come prima di una spiegazione che riteneva finalmente opportuno dare.
+
+«L'ho alterata prima che uscisse da casa mia.»
+
+Alexander non si mosse.
+
+«Volevate farmi ammalare?»
+
+«Volevo che moriste.»
+
+Il ramo contro la finestra non si sentiva più. Maurice lo aveva fatto legare la sera prima.
+
+Il barone proseguì. Disse di aver preparato il dono e di averlo affidato alla consegna ordinaria. Nessuno nella cucina ducale gli aveva promesso aiuto. Etienne non sapeva. Nessuno gli aveva chiesto di farlo.
+
+Edran lo fece tornare su ogni distinzione. La propria imposizione non rendeva vere le parole per decreto: quell'uomo doveva usare ciò che sapeva. Non avrebbe imparato una risposta mancante per compiacerlo.
+
+«E dopo?»
+
+«Vostra sorella avrebbe avuto bisogno di continuità.»
+
+Alexander sentì le dita premere contro il legno.
+
+«Di chi?»
+
+Ravelle spiegò il collegio temporaneo. Quattro conti che avrebbero esitato a concedere il primato a uno degli altri; un barone abbastanza modesto da sembrare una soluzione. Contratti da rivedere. Incarichi. Una richiesta ancora non firmata nel proprio studio.
+
+Non aveva consensi sufficienti. Aveva ucciso prima di ottenerli.
+
+«Celine avrebbe conservato la dignità», disse.
+
+Per la prima volta Alexander sorrise.
+
+Il barone tacque davanti a quel sorriso, ma non seppe più scegliere di usarlo come occasione per mentire.
+
+«Il suo nome sopra le vostre decisioni.»
+
+«Avrebbe avuto consiglieri esperti.»
+
+«Aveva un fratello.»
+
+La frase rimase nella stanza con una precisione che Edran non aveva previsto. Fu il ricordo di Celine al capezzale a impedirgli di compiere qualcosa di definitivo.
+
+Chiese della morte di Lucien ed Eliane. Il barone non ne aveva avuto parte. Chiese chi fosse stato informato del dono alterato. Non emerse una rete segreta, soltanto un uomo che aveva contato sulla fiducia di una casa in lutto.
+
+Edran interruppe l'investimento.
+
+Ravelle rimase seduto. Guardò il biglietto, poi Alexander, e la propria spiegazione parve raggiungerlo da un'altra direzione. Aveva pronunciato davvero quelle parole. Nessun vuoto nella memoria gliele sottraeva.
+
+«Io...»
+
+Si fermò. Alexander non ripeté il comando.
+
+«Adesso potete scegliere di tacere.»
+
+Il barone strinse il bastone. Le nocche erano diventate pallide.
+
+«Che cosa mi avete fatto?»
+
+«Vi ho tolto, per qualche minuto, la scelta di mentirmi sulle vostre azioni.»
+
+Non si offrì il conforto di chiamarla una conversazione normale.
+
+Suonò il campanello. Teren entrò e vide un uomo anziano seduto davanti a un duca perfettamente immobile.
+
+«Il barone resta con noi mentre chiediamo l'intervento dell'autorità competente», disse Alexander. «Nessuno entra nella sua casa per ordine mio soltanto. Conservate ciò che avete già ricevuto.»
+
+Teren guardò prima lui, poi Ravelle.
+
+«Volete che chiami Mirel?»
+
+Alexander si accorse di avere il respiro troppo regolare.
+
+«Sì.»
+
+Avrebbe potuto raccontare quella mattina come una vittoria facile. Aveva trovato il responsabile in meno tempo di quello necessario a servire una seconda caraffa.
+
+Quando il barone si alzò, Edran ricordò il gesto con cui Etienne aveva abbracciato il suo amico il giorno prima.
+
+La parte facile era finita.

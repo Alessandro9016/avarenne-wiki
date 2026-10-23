@@ -134,3 +134,11 @@ Capitolo 35: Alexander riprende concretamente il ricevimento delle pratiche, con
 
 La linea iniziale del ritorno ottiene una decisione concreta di abitare la casa, non la confessione di Edran a Celine. Nessun Avatar, nuova guardia, resurrezione di riserva o esito giudiziario definitivo viene creato. Il procedimento ordinario di Ravelle prosegue fuori dalla guardia privata del duca.
 <!-- END NOVEL381 -->
+
+<!-- NOVEL382 -->
+## Nella novel — secondo arco
+
+Organizza itinerario, scorta effettiva, ritorno e recapito della lettera. Due guardie impiegate senza moltiplicare la dotazione. Una proposta di conversazione non è già una visita prenotata né un incarico di scoprire una sede segreta.
+
+Capitoli: 40, 44, 54, 57. Continuità letteraria distinta dalla campagna.
+<!-- END NOVEL382 -->

@@ -1,0 +1,57 @@
+# AVARENNE
+## Volume I — The Waking House
+### Capitolo 56 — Una conversazione da proporre
+
+Ilian non arrivò con una minaccia. Arrivò con una domanda su un lavoro che Elias non aveva ancora finito di valutare.
+
+Lo aspettò dopo l'orario del laboratorio. Elias si accorse che quella scelta lo metteva già meno sulla difensiva di una visita sul posto di lavoro.
+
+«Mi serve sapere se devo cercare un altro tecnico», disse Ilian.
+
+Elias gli chiese quali accessi fossero disponibili per controllare le misure e chi fosse autorizzato a farlo entrare. Non accettò un indirizzo come se bastasse a rendere lecito qualunque sopralluogo.
+
+Ilian promise di ottenere una risposta. Non gli consegnò denaro e non gli chiese di chiamare il duca.
+
+La conversazione durò poco. Il fatto che Elias avesse visto creare tre macchine non cancellava tutti i lavori che richiedevano ancora una misura, una chiave e un nome sulla porta.
+
+Livia lo raggiunse più tardi vicino alla bottega. Edith non era presente; stava svolgendo il proprio turno e non aveva accettato di essere disponibile a ogni ora soltanto perché era entrata nell'Exchange.
+
+Elias parlò della prova di manutenzione e dell'idea che aveva rimandato per due giorni.
+
+«Vorrei proporre al duca una conversazione.»
+
+Livia lasciò riposare il pacco che aveva sotto il braccio sul davanzale asciutto.
+
+«Con chi?»
+
+«Con noi. Prima fuori dalla stanza. Senza comunicargli dove ci incontriamo.»
+
+«Allora non è un invito a entrare.»
+
+«No.»
+
+Livia gli chiese che cosa volesse ottenere. Elias partì da una risposta troppo grande, qualcosa sui Bearer e sulle persone che avevano bisogno di aiuto. Si fermò prima di finirla.
+
+«Sapere se può esserci uno scambio nel quale non siamo soltanto quelli che chiedono.»
+
+«Lui potrebbe credere che cercate un protettore.»
+
+«Lo so.»
+
+«E voi potreste cominciare a comportarvi così prima che ve lo chieda.»
+
+La frase gli fece male perché non assomigliava a un'accusa. Elias aveva già pensato a quante difficoltà sarebbero diventate piccole con Alexander presente. Non aveva contato quanto presto avrebbe smesso di formulare domande senza guardarlo.
+
+Scrissero una proposta breve. Un incontro futuro in un luogo concordato, nessuna promessa di appartenenza, nessuna richiesta di denaro. L'argomento era il modo di scambiare conoscenze e prestazioni tra persone che non volevano consegnare a un unico interlocutore tutta la propria identità.
+
+Non scrissero che possedevano una protezione assoluta. Non nominarono il passaggio rimasto disponibile né una capienza che non avrebbe spiegato nulla del loro intento.
+
+Elias portò il foglio a Yselle chiedendole se volesse trasmetterlo, senza attribuirle il contenuto come raccomandazione personale.
+
+Lei lo lesse prima di rispondere.
+
+«Posso farlo partire con la corrispondenza per Rovenne. Non posso promettervi la risposta.»
+
+«È quello che vi chiedo.»
+
+Yselle tenne il foglio. Per la prima volta da quando aveva visto apparire le pompe, Elias aveva domandato ad Alexander qualcosa che non pesava metallo e non spostava acqua.

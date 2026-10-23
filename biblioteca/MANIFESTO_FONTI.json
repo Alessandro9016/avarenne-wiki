@@ -124,8 +124,8 @@
       "group": "Dati strutturati e registri",
       "url": "9f5d1e0af2de6024.html",
       "raw": "fonti/9f5d1e0af2de6024.json",
-      "sha256": "53c2b42f7e937706c9086052c4dfe0e93b75312aab905b977007b7cc574090bf",
-      "bytes": 4100712
+      "sha256": "2c5210c584460fa7f6f1514d319265be890db0149d8d8d4c260c6a0bd83a4bfd",
+      "bytes": 4108942
     },
     {
       "source": "CANONE_VIGENTE/Censimento_visuale_luoghi.json",
@@ -1015,8 +1015,8 @@
       "group": "Cast — dossier individuali",
       "url": "d459f272f5fcbc5f.html",
       "raw": "fonti/d459f272f5fcbc5f.md",
-      "sha256": "78535e78c323157d22133c6eb7c877004abfadd01f41d6fe85333acd59688881",
-      "bytes": 26863
+      "sha256": "f38036615c6df7e83eb0c6761eb85c8e4a289d38ee088564375a124830800153",
+      "bytes": 27466
     },
     {
       "source": "CAST_RISERVATO/CAST-002.md",
@@ -1024,8 +1024,8 @@
       "group": "Cast — dossier individuali",
       "url": "6a6d86b6ebfb5024.html",
       "raw": "fonti/6a6d86b6ebfb5024.md",
-      "sha256": "0618dfbbf798bd75dab3beb9426e4bbdbb56c1a35d93917efb2a64d00d01f0a8",
-      "bytes": 29135
+      "sha256": "4d637dd846184ba04b65403cd43702d3d43f59e821c5a275ab7063e3818b54fc",
+      "bytes": 29676
     },
     {
       "source": "CAST_RISERVATO/CAST-003.md",
@@ -1033,8 +1033,8 @@
       "group": "Cast — dossier individuali",
       "url": "05ca0cc36a110b2c.html",
       "raw": "fonti/05ca0cc36a110b2c.md",
-      "sha256": "4b579ef631786ecdea788533db878005c34dec9d969de5f28482d9a1e29a8ebc",
-      "bytes": 13709
+      "sha256": "eefa0ae41e64acd12ecc2fe7f40fb965d33d01304bd2e73a51d694ba9a43e46a",
+      "bytes": 14121
     },
     {
       "source": "CAST_RISERVATO/CAST-004.md",
@@ -1042,8 +1042,8 @@
       "group": "Cast — dossier individuali",
       "url": "4ced888d6342ab3c.html",
       "raw": "fonti/4ced888d6342ab3c.md",
-      "sha256": "31a2e8dc8b0720fca89bb7705d6ef270aa32517186af1729411a1373fe991e42",
-      "bytes": 10517
+      "sha256": "3e61ab796f6654ca96ec8d88d9d7a210fe445431dc2e767f88e7a5b94b4b67dc",
+      "bytes": 11089
     },
     {
       "source": "CAST_RISERVATO/CAST-005.md",
@@ -1051,8 +1051,8 @@
       "group": "Cast — dossier individuali",
       "url": "4410f64ca3df3200.html",
       "raw": "fonti/4410f64ca3df3200.md",
-      "sha256": "00632d12889bbd4c6042c80eff4724edfab154ad178124a3822932df354529fc",
-      "bytes": 12756
+      "sha256": "6f67eb640f72d93db4915de81c5cdb58a440aba40d69e38f3cc5497bbb575a2a",
+      "bytes": 13145
     },
     {
       "source": "CAST_RISERVATO/CAST-006.md",
@@ -1285,8 +1285,8 @@
       "group": "Cast — dossier individuali",
       "url": "3d7ee5604208a5a7.html",
       "raw": "fonti/3d7ee5604208a5a7.md",
-      "sha256": "4993afb50797fa06c1f542c0023e33fd74cd50c4bad0979fda33e4ee7dc52a5b",
-      "bytes": 23707
+      "sha256": "18bbc236a95676370f244a23aeb30959dfab798ac299905677e812152e5168e5",
+      "bytes": 24174
     },
     {
       "source": "CAST_RISERVATO/CAST-032.md",
@@ -1294,8 +1294,8 @@
       "group": "Cast — dossier individuali",
       "url": "59a9907db8c909c8.html",
       "raw": "fonti/59a9907db8c909c8.md",
-      "sha256": "2de5751fa23efc3368328e1358b3beccb8d036e284928512f767184ba0db8934",
-      "bytes": 20394
+      "sha256": "7da220bd9b06ca0a612b2c4e313d51363a5ac36a9c238454d82ed6ace13e3a9a",
+      "bytes": 20771
     },
     {
       "source": "CAST_RISERVATO/CAST-033.md",
@@ -1627,8 +1627,8 @@
       "group": "Cast — dossier individuali",
       "url": "6187228936c6b78d.html",
       "raw": "fonti/6187228936c6b78d.md",
-      "sha256": "c7b19d565d3857c29ed4be557a1770b62a1113ce8e50b42dab9fadafcdb13d38",
-      "bytes": 12149
+      "sha256": "1606c3cad6e2e17a6d835a83b9d2c78ed4798276803fad6ad0ed0213974000c2",
+      "bytes": 12550
     },
     {
       "source": "CAST_RISERVATO/CAST-070.md",
@@ -1636,8 +1636,8 @@
       "group": "Cast — dossier individuali",
       "url": "83634ea4b7e125a4.html",
       "raw": "fonti/83634ea4b7e125a4.md",
-      "sha256": "8591a10870117daf3b4d8938353815e289fd869b4958cdff3e0c9b6e10ddf64d",
-      "bytes": 11763
+      "sha256": "9238a6fce3fb0edc630dd94bb03163de39fa9956ad82d240da2fad47edd565b6",
+      "bytes": 12150
     },
     {
       "source": "CAST_RISERVATO/CAST-071.md",
@@ -1942,8 +1942,8 @@
       "group": "Cast — dossier individuali",
       "url": "9cb455f513ddd2d8.html",
       "raw": "fonti/9cb455f513ddd2d8.md",
-      "sha256": "cd3f72552a7346ab0185c57a48e37c66eda4d6a426c04998854df0b441ce06db",
-      "bytes": 12441
+      "sha256": "f03fa63abd04e9372031d1b159bc89e630f47d8cb0352cc06dfffe2e232df2aa",
+      "bytes": 12801
     },
     {
       "source": "CAST_RISERVATO/CAST-105.md",
@@ -2122,8 +2122,8 @@
       "group": "Cast — dossier individuali",
       "url": "cb9d19865ee2df54.html",
       "raw": "fonti/cb9d19865ee2df54.md",
-      "sha256": "26a44fb6f05e5a879f047d26deea951157a131fb2cb119a425003635f988e7be",
-      "bytes": 10185
+      "sha256": "efc452beb4117b5450a9cc730d4c5ca5f0a0f03d5cdb52d8c9c7b48fbc88dfc1",
+      "bytes": 10519
     },
     {
       "source": "CAST_RISERVATO/CAST-125.md",
@@ -2140,8 +2140,8 @@
       "group": "Cast — dossier individuali",
       "url": "97fd1d77bca63107.html",
       "raw": "fonti/97fd1d77bca63107.md",
-      "sha256": "83fa3d27d05b75f012108eac7e882955d390a44b4c2c237a1b648eeab87a3707",
-      "bytes": 10172
+      "sha256": "a746bb4e117f0f06fce30b0b280d2c3d24ea85aaf3ebcb129246f1808d979599",
+      "bytes": 10547
     },
     {
       "source": "CAST_RISERVATO/CAST-127.md",
@@ -2176,8 +2176,8 @@
       "group": "Cast — dossier individuali",
       "url": "9eb0b671260dbcef.html",
       "raw": "fonti/9eb0b671260dbcef.md",
-      "sha256": "6501d90bf934061b9e952938e2451979e0618db93e9f6c4cf8710763ae9db636",
-      "bytes": 7187
+      "sha256": "67e80d0dff4216ef7fa44e87442bb7fccd7d569119509a30a5b30b2a6c65e37c",
+      "bytes": 7704
     },
     {
       "source": "CAST_RISERVATO/CAST-131.md",
@@ -2185,8 +2185,8 @@
       "group": "Cast — dossier individuali",
       "url": "0c5337f1d29e3aeb.html",
       "raw": "fonti/0c5337f1d29e3aeb.md",
-      "sha256": "176708b805d366dc27146e74803b3a124ace817b2e7cd3c363a805c181d40dcf",
-      "bytes": 14523
+      "sha256": "33b3faf6d3230bab118c712abc47d5cefe082d9003d26d216568a4936fe51d66",
+      "bytes": 14972
     },
     {
       "source": "CAST_RISERVATO/CAST-132.md",
@@ -2752,8 +2752,8 @@
       "group": "Cast — dossier individuali",
       "url": "403a4fe6b70756c1.html",
       "raw": "fonti/403a4fe6b70756c1.md",
-      "sha256": "2fdcf1284aa15aa1c67661b9c53f2a131a0c79ce8604c66ffe15607b39412a84",
-      "bytes": 9340
+      "sha256": "6a8cc0bfadaa94f3c1154cbd9a5d1b2e195c77c74f30cdcf2b173ee994f2559a",
+      "bytes": 9744
     },
     {
       "source": "CAST_RISERVATO/CAST-195.md",
@@ -5155,8 +5155,8 @@
       "group": "Cast — dossier individuali",
       "url": "bb8263bdc9e788c3.html",
       "raw": "fonti/bb8263bdc9e788c3.md",
-      "sha256": "d2d3c599e6687693e336e66ab3928810f89cec5aa9d84915d128e7bcfec95e0c",
-      "bytes": 3485
+      "sha256": "f06ed992f5401f25428a3ad1f54460173ef142b831095f4dffa7792c4919fee8",
+      "bytes": 3969
     },
     {
       "source": "CAST_RISERVATO/CAST-462.md",
@@ -8935,8 +8935,8 @@
       "group": "Consolidamento354",
       "url": "158a6684c37f7be9.html",
       "raw": "fonti/158a6684c37f7be9.json",
-      "sha256": "53c2b42f7e937706c9086052c4dfe0e93b75312aab905b977007b7cc574090bf",
-      "bytes": 4100712
+      "sha256": "2c5210c584460fa7f6f1514d319265be890db0149d8d8d4c260c6a0bd83a4bfd",
+      "bytes": 4108942
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/05_Atlante_cosmologico/DATI/Roots_consolidate.json",
@@ -14740,8 +14740,8 @@
       "group": "Exchange 365",
       "url": "399862b13c7d201d.html",
       "raw": "fonti/399862b13c7d201d.md",
-      "sha256": "4993afb50797fa06c1f542c0023e33fd74cd50c4bad0979fda33e4ee7dc52a5b",
-      "bytes": 23707
+      "sha256": "18bbc236a95676370f244a23aeb30959dfab798ac299905677e812152e5168e5",
+      "bytes": 24174
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_365/CAST_RISERVATO/CAST-031.md",
@@ -14758,8 +14758,8 @@
       "group": "Exchange 365",
       "url": "cd2ed60ff783c22b.html",
       "raw": "fonti/cd2ed60ff783c22b.json",
-      "sha256": "53c2b42f7e937706c9086052c4dfe0e93b75312aab905b977007b7cc574090bf",
-      "bytes": 4100712
+      "sha256": "2c5210c584460fa7f6f1514d319265be890db0149d8d8d4c260c6a0bd83a4bfd",
+      "bytes": 4108942
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_365/CAST_RISERVATO/CAST-035.md",
@@ -14812,8 +14812,8 @@
       "group": "Exchange 365",
       "url": "a3f9433f8f284ac8.html",
       "raw": "fonti/a3f9433f8f284ac8.md",
-      "sha256": "0618dfbbf798bd75dab3beb9426e4bbdbb56c1a35d93917efb2a64d00d01f0a8",
-      "bytes": 29135
+      "sha256": "4d637dd846184ba04b65403cd43702d3d43f59e821c5a275ab7063e3818b54fc",
+      "bytes": 29676
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_365/23_Registro_unico_del_canone.md",
@@ -14902,8 +14902,8 @@
       "group": "Exchange 365",
       "url": "03e19d714f5ab10c.html",
       "raw": "fonti/03e19d714f5ab10c.md",
-      "sha256": "2de5751fa23efc3368328e1358b3beccb8d036e284928512f767184ba0db8934",
-      "bytes": 20394
+      "sha256": "7da220bd9b06ca0a612b2c4e313d51363a5ac36a9c238454d82ed6ace13e3a9a",
+      "bytes": 20771
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/INDICI_E_DOCUMENTI_CONDIVISI/365_Exchange_e_Room_Six_consolidamento.md",
@@ -21824,8 +21824,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "e4043635c4866f00.html",
       "raw": "fonti/e4043635c4866f00.md",
-      "sha256": "c7b19d565d3857c29ed4be557a1770b62a1113ce8e50b42dab9fadafcdb13d38",
-      "bytes": 12149
+      "sha256": "1606c3cad6e2e17a6d835a83b9d2c78ed4798276803fad6ad0ed0213974000c2",
+      "bytes": 12550
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_377/CAST_RISERVATO/CAST-070.md",
@@ -22112,8 +22112,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "e84f7122a61a5ebc.html",
       "raw": "fonti/e84f7122a61a5ebc.md",
-      "sha256": "31a2e8dc8b0720fca89bb7705d6ef270aa32517186af1729411a1373fe991e42",
-      "bytes": 10517
+      "sha256": "3e61ab796f6654ca96ec8d88d9d7a210fe445431dc2e767f88e7a5b94b4b67dc",
+      "bytes": 11089
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-151.md",
@@ -22175,8 +22175,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "b826398eed68ba94.html",
       "raw": "fonti/b826398eed68ba94.md",
-      "sha256": "6501d90bf934061b9e952938e2451979e0618db93e9f6c4cf8710763ae9db636",
-      "bytes": 7187
+      "sha256": "67e80d0dff4216ef7fa44e87442bb7fccd7d569119509a30a5b30b2a6c65e37c",
+      "bytes": 7704
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_377/CAST_RISERVATO/CAST-111.md",
@@ -22202,8 +22202,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "3d5b3ae97dadac31.html",
       "raw": "fonti/3d5b3ae97dadac31.md",
-      "sha256": "8591a10870117daf3b4d8938353815e289fd869b4958cdff3e0c9b6e10ddf64d",
-      "bytes": 11763
+      "sha256": "9238a6fce3fb0edc630dd94bb03163de39fa9956ad82d240da2fad47edd565b6",
+      "bytes": 12150
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-022.md",
@@ -23174,8 +23174,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "79b4c8d2c3caca71.html",
       "raw": "fonti/79b4c8d2c3caca71.md",
-      "sha256": "4b579ef631786ecdea788533db878005c34dec9d969de5f28482d9a1e29a8ebc",
-      "bytes": 13709
+      "sha256": "eefa0ae41e64acd12ecc2fe7f40fb965d33d01304bd2e73a51d694ba9a43e46a",
+      "bytes": 14121
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_377/CAST_RISERVATO/CAST-159.md",
@@ -23552,8 +23552,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "69dc070436290ecc.html",
       "raw": "fonti/69dc070436290ecc.md",
-      "sha256": "83fa3d27d05b75f012108eac7e882955d390a44b4c2c237a1b648eeab87a3707",
-      "bytes": 10172
+      "sha256": "a746bb4e117f0f06fce30b0b280d2c3d24ea85aaf3ebcb129246f1808d979599",
+      "bytes": 10547
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_377/ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-182.md",
@@ -24083,8 +24083,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "1261ad1a0b9d88ae.html",
       "raw": "fonti/1261ad1a0b9d88ae.md",
-      "sha256": "176708b805d366dc27146e74803b3a124ace817b2e7cd3c363a805c181d40dcf",
-      "bytes": 14523
+      "sha256": "33b3faf6d3230bab118c712abc47d5cefe082d9003d26d216568a4936fe51d66",
+      "bytes": 14972
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_377/ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-111.md",
@@ -24110,8 +24110,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "88908d79b610d029.html",
       "raw": "fonti/88908d79b610d029.md",
-      "sha256": "cd3f72552a7346ab0185c57a48e37c66eda4d6a426c04998854df0b441ce06db",
-      "bytes": 12441
+      "sha256": "f03fa63abd04e9372031d1b159bc89e630f47d8cb0352cc06dfffe2e232df2aa",
+      "bytes": 12801
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_377/ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-069.md",
@@ -24434,8 +24434,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "84ae07ac45b4a6ad.html",
       "raw": "fonti/84ae07ac45b4a6ad.md",
-      "sha256": "26a44fb6f05e5a879f047d26deea951157a131fb2cb119a425003635f988e7be",
-      "bytes": 10185
+      "sha256": "efc452beb4117b5450a9cc730d4c5ca5f0a0f03d5cdb52d8c9c7b48fbc88dfc1",
+      "bytes": 10519
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_377/ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-013.md",
@@ -24875,8 +24875,8 @@
       "group": "Consolidamento operativo e narrativo — 377",
       "url": "cc5707b10fe7d7fc.html",
       "raw": "fonti/cc5707b10fe7d7fc.md",
-      "sha256": "00632d12889bbd4c6042c80eff4724edfab154ad178124a3822932df354529fc",
-      "bytes": 12756
+      "sha256": "6f67eb640f72d93db4915de81c5cdb58a440aba40d69e38f3cc5497bbb575a2a",
+      "bytes": 13145
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_377/CAST_RISERVATO/CAST-030.md",
@@ -25451,8 +25451,8 @@
       "group": "Copie operative allineate alla continuità letteraria — 378",
       "url": "83a0175ab7a70943.html",
       "raw": "fonti/83a0175ab7a70943.md",
-      "sha256": "78535e78c323157d22133c6eb7c877004abfadd01f41d6fe85333acd59688881",
-      "bytes": 26863
+      "sha256": "f38036615c6df7e83eb0c6761eb85c8e4a289d38ee088564375a124830800153",
+      "bytes": 27466
     },
     {
       "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-194.md",
@@ -25460,8 +25460,8 @@
       "group": "Copie operative allineate alla continuità letteraria — 378",
       "url": "8af1f4014b8d9cd6.html",
       "raw": "fonti/8af1f4014b8d9cd6.md",
-      "sha256": "2fdcf1284aa15aa1c67661b9c53f2a131a0c79ce8604c66ffe15607b39412a84",
-      "bytes": 9340
+      "sha256": "6a8cc0bfadaa94f3c1154cbd9a5d1b2e195c77c74f30cdcf2b173ee994f2559a",
+      "bytes": 9744
     },
     {
       "source": "ARCHIVIO_DOCUMENTALE_379/CAST_RISERVATO/CAST-032.md",
@@ -26065,6 +26065,717 @@
       "raw": "fonti/5e19c74835bf5e53.md",
       "sha256": "8d7e7402fb799f25d409edc59476e989827f764d89eb2d238967c500812abd7b",
       "bytes": 10846
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_382/CAST_RISERVATO/CAST-124.md",
+      "title": "CAST-124",
+      "group": "Raccordo novel — 382",
+      "url": "9457a8e54610917a.html",
+      "raw": "fonti/9457a8e54610917a.md",
+      "sha256": "26a44fb6f05e5a879f047d26deea951157a131fb2cb119a425003635f988e7be",
+      "bytes": 10185
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_382/CAST_RISERVATO/CAST-001.md",
+      "title": "CAST-001",
+      "group": "Raccordo novel — 382",
+      "url": "e7bc27980fa1b0f9.html",
+      "raw": "fonti/e7bc27980fa1b0f9.md",
+      "sha256": "78535e78c323157d22133c6eb7c877004abfadd01f41d6fe85333acd59688881",
+      "bytes": 26863
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_382/CAST_RISERVATO/CAST-131.md",
+      "title": "CAST-131",
+      "group": "Raccordo novel — 382",
+      "url": "a2f957330480f3dc.html",
+      "raw": "fonti/a2f957330480f3dc.md",
+      "sha256": "176708b805d366dc27146e74803b3a124ace817b2e7cd3c363a805c181d40dcf",
+      "bytes": 14523
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_382/CAST_RISERVATO/CAST-005.md",
+      "title": "CAST-005",
+      "group": "Raccordo novel — 382",
+      "url": "fd634e1e97e42baf.html",
+      "raw": "fonti/fd634e1e97e42baf.md",
+      "sha256": "00632d12889bbd4c6042c80eff4724edfab154ad178124a3822932df354529fc",
+      "bytes": 12756
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_382/CAST_RISERVATO/CAST-031.md",
+      "title": "CAST-031",
+      "group": "Raccordo novel — 382",
+      "url": "34434649c67ecd06.html",
+      "raw": "fonti/34434649c67ecd06.md",
+      "sha256": "4993afb50797fa06c1f542c0023e33fd74cd50c4bad0979fda33e4ee7dc52a5b",
+      "bytes": 23707
+    },
+    {
+      "source": "RISERVATO_382_Concordanza_novel_wiki.md",
+      "title": "RISERVATO 382 Concordanza novel wiki",
+      "group": "Raccordo novel — 382",
+      "url": "b22973866b77cf3c.html",
+      "raw": "fonti/b22973866b77cf3c.md",
+      "sha256": "5f92261fc96824c720263c13195641519ff9aeece63451097b0e9095a52fc635",
+      "bytes": 14638
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_382/CAST_RISERVATO/CAST-070.md",
+      "title": "CAST-070",
+      "group": "Raccordo novel — 382",
+      "url": "1b5ec8a7527b9476.html",
+      "raw": "fonti/1b5ec8a7527b9476.md",
+      "sha256": "8591a10870117daf3b4d8938353815e289fd869b4958cdff3e0c9b6e10ddf64d",
+      "bytes": 11763
+    },
+    {
+      "source": "382_Registro_di_precedenza.md",
+      "title": "382 Registro di precedenza",
+      "group": "Raccordo novel — 382",
+      "url": "9fa870060a9170a9.html",
+      "raw": "fonti/9fa870060a9170a9.md",
+      "sha256": "8b351d6235f8c5d6ccade186b385884683d03d973e445acc8fcea1fdd24f25c5",
+      "bytes": 1622
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_382/CAST_RISERVATO/CAST-004.md",
+      "title": "CAST-004",
+      "group": "Raccordo novel — 382",
+      "url": "9886589bd751980f.html",
+      "raw": "fonti/9886589bd751980f.md",
+      "sha256": "31a2e8dc8b0720fca89bb7705d6ef270aa32517186af1729411a1373fe991e42",
+      "bytes": 10517
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_382/CAST_RISERVATO/CAST-002.md",
+      "title": "CAST-002",
+      "group": "Raccordo novel — 382",
+      "url": "b58b2d6cad8ec5c1.html",
+      "raw": "fonti/b58b2d6cad8ec5c1.md",
+      "sha256": "0618dfbbf798bd75dab3beb9426e4bbdbb56c1a35d93917efb2a64d00d01f0a8",
+      "bytes": 29135
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_382/CAST_RISERVATO/CAST-126.md",
+      "title": "CAST-126",
+      "group": "Raccordo novel — 382",
+      "url": "df068ce1bc54fa23.html",
+      "raw": "fonti/df068ce1bc54fa23.md",
+      "sha256": "83fa3d27d05b75f012108eac7e882955d390a44b4c2c237a1b648eeab87a3707",
+      "bytes": 10172
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_382/CAST_RISERVATO/CAST-003.md",
+      "title": "CAST-003",
+      "group": "Raccordo novel — 382",
+      "url": "fb928e4aa4494079.html",
+      "raw": "fonti/fb928e4aa4494079.md",
+      "sha256": "4b579ef631786ecdea788533db878005c34dec9d969de5f28482d9a1e29a8ebc",
+      "bytes": 13709
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_382/CAST_RISERVATO/CAST-032.md",
+      "title": "CAST-032",
+      "group": "Raccordo novel — 382",
+      "url": "f99b642040e33ab0.html",
+      "raw": "fonti/f99b642040e33ab0.md",
+      "sha256": "2de5751fa23efc3368328e1358b3beccb8d036e284928512f767184ba0db8934",
+      "bytes": 20394
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_382/CAST_RISERVATO/CAST-130.md",
+      "title": "CAST-130",
+      "group": "Raccordo novel — 382",
+      "url": "7ff2bb094ea714a1.html",
+      "raw": "fonti/7ff2bb094ea714a1.md",
+      "sha256": "6501d90bf934061b9e952938e2451979e0618db93e9f6c4cf8710763ae9db636",
+      "bytes": 7187
+    },
+    {
+      "source": "CANONE_VIGENTE/Continuita_letteraria_382.json",
+      "title": "Continuita letteraria 382",
+      "group": "Raccordo novel — 382",
+      "url": "7c5bb3987278b378.html",
+      "raw": "fonti/7c5bb3987278b378.json",
+      "sha256": "cd32643e56c624c1a37307164bbf9b5fdfe52db15d3bce8832437321aadc80f0",
+      "bytes": 132425
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_382/CAST_RISERVATO/CAST-461.md",
+      "title": "CAST-461",
+      "group": "Raccordo novel — 382",
+      "url": "7a75f33bc9c3302a.html",
+      "raw": "fonti/7a75f33bc9c3302a.md",
+      "sha256": "d2d3c599e6687693e336e66ab3928810f89cec5aa9d84915d128e7bcfec95e0c",
+      "bytes": 3485
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_382/CAST_RISERVATO/CAST-104.md",
+      "title": "CAST-104",
+      "group": "Raccordo novel — 382",
+      "url": "51ffb8c05246b720.html",
+      "raw": "fonti/51ffb8c05246b720.md",
+      "sha256": "cd3f72552a7346ab0185c57a48e37c66eda4d6a426c04998854df0b441ce06db",
+      "bytes": 12441
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_382/CAST_RISERVATO/CAST-194.md",
+      "title": "CAST-194",
+      "group": "Raccordo novel — 382",
+      "url": "8240b90294abcf94.html",
+      "raw": "fonti/8240b90294abcf94.md",
+      "sha256": "2fdcf1284aa15aa1c67661b9c53f2a131a0c79ce8604c66ffe15607b39412a84",
+      "bytes": 9340
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_382/CANONE_VIGENTE/Cast_riservato.json",
+      "title": "Cast riservato",
+      "group": "Raccordo novel — 382",
+      "url": "63a1afabbe49c1d3.html",
+      "raw": "fonti/63a1afabbe49c1d3.json",
+      "sha256": "53c2b42f7e937706c9086052c4dfe0e93b75312aab905b977007b7cc574090bf",
+      "bytes": 4100712
+    },
+    {
+      "source": "ARCHIVIO_DOCUMENTALE_382/CAST_RISERVATO/CAST-069.md",
+      "title": "CAST-069",
+      "group": "Raccordo novel — 382",
+      "url": "9413de42abab1c62.html",
+      "raw": "fonti/9413de42abab1c62.md",
+      "sha256": "c7b19d565d3857c29ed4be557a1770b62a1113ce8e50b42dab9fadafcdb13d38",
+      "bytes": 12149
+    },
+    {
+      "source": "NOVEL/02_Volume_01_Capitolo_001_PILOTA.md",
+      "title": "02 Volume 01 Capitolo 001 PILOTA",
+      "group": "Novel — testo integrale italiano",
+      "url": "128809a8571d5e4e.html",
+      "raw": "fonti/128809a8571d5e4e.md",
+      "sha256": "8697a3113b559b62a499b8ac628200182379b40e9b802e5ca4a9bf4712863b2d",
+      "bytes": 11122
+    },
+    {
+      "source": "NOVEL/04_Volume_01_Capitolo_002.md",
+      "title": "04 Volume 01 Capitolo 002",
+      "group": "Novel — testo integrale italiano",
+      "url": "7a7398b9a78f4f7e.html",
+      "raw": "fonti/7a7398b9a78f4f7e.md",
+      "sha256": "4e34c86997d2b6c6af7e291958894cc8150a53aa3d46e2d36719709a2b9cb126",
+      "bytes": 8890
+    },
+    {
+      "source": "NOVEL/05_Volume_01_Capitolo_003.md",
+      "title": "05 Volume 01 Capitolo 003",
+      "group": "Novel — testo integrale italiano",
+      "url": "76417dcf9633ea96.html",
+      "raw": "fonti/76417dcf9633ea96.md",
+      "sha256": "d058278f94ab176ad3b277f48f7b1d6a0429f0aa66616e2d29b69a9d3b29d83c",
+      "bytes": 7849
+    },
+    {
+      "source": "NOVEL/06_Volume_01_Capitolo_004.md",
+      "title": "06 Volume 01 Capitolo 004",
+      "group": "Novel — testo integrale italiano",
+      "url": "b10acfe195e4a2d4.html",
+      "raw": "fonti/b10acfe195e4a2d4.md",
+      "sha256": "b1d81a00a7b99360b98951547639324ab07cae40ab5b9c9feaa8604c1001eb5d",
+      "bytes": 7959
+    },
+    {
+      "source": "NOVEL/07_Volume_01_Capitolo_005.md",
+      "title": "07 Volume 01 Capitolo 005",
+      "group": "Novel — testo integrale italiano",
+      "url": "a0efef0572899afb.html",
+      "raw": "fonti/a0efef0572899afb.md",
+      "sha256": "57f6a34e5616a3c9a5995b20b8f3abcfc68d7605966b59a14c8b4aa32413460c",
+      "bytes": 8342
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/006_L_allegato.md",
+      "title": "006 L allegato",
+      "group": "Novel — testo integrale italiano",
+      "url": "66a34faebe433d98.html",
+      "raw": "fonti/66a34faebe433d98.md",
+      "sha256": "c715d62218cf1257fee5d527a18b3e18a23f1f7859d491a0d6c3af18b32eca86",
+      "bytes": 6203
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/007_Le_cose_che_continuano.md",
+      "title": "007 Le cose che continuano",
+      "group": "Novel — testo integrale italiano",
+      "url": "03be301009a2eaa5.html",
+      "raw": "fonti/03be301009a2eaa5.md",
+      "sha256": "1e15591adb00d82b18beacabce6f5321266a12d0521ae9d1b263e411bdf4f7b9",
+      "bytes": 6379
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/008_Il_peso_della_cassetta.md",
+      "title": "008 Il peso della cassetta",
+      "group": "Novel — testo integrale italiano",
+      "url": "8cb690c7b7953c1f.html",
+      "raw": "fonti/8cb690c7b7953c1f.md",
+      "sha256": "01906587ba26072781190c9cc5f53c2aa1e440c1c72fd71a295dff2b7fcdbc16",
+      "bytes": 5879
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/009_Il_biglietto_del_dono.md",
+      "title": "009 Il biglietto del dono",
+      "group": "Novel — testo integrale italiano",
+      "url": "8bc7974e5501a547.html",
+      "raw": "fonti/8bc7974e5501a547.md",
+      "sha256": "30b8a64458a6b0746f021d5c3ca3b9e09d03108013673b82a061beae3b93062c",
+      "bytes": 5856
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/010_La_porta_ordinaria.md",
+      "title": "010 La porta ordinaria",
+      "group": "Novel — testo integrale italiano",
+      "url": "6ef6e49b4978fdca.html",
+      "raw": "fonti/6ef6e49b4978fdca.md",
+      "sha256": "aa9640e2e401a2ca160609c73591835a28375373963d0e1690ad7750543ff777",
+      "bytes": 5742
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/011_I_segni_sul_pavimento.md",
+      "title": "011 I segni sul pavimento",
+      "group": "Novel — testo integrale italiano",
+      "url": "813deec54ea62542.html",
+      "raw": "fonti/813deec54ea62542.md",
+      "sha256": "0dca8ca8c8d283436356abc3838ff4c86fc2e31515ef7f6154a24cc10ce01d8f",
+      "bytes": 5794
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/012_Una_giornata_di_lavoro.md",
+      "title": "012 Una giornata di lavoro",
+      "group": "Novel — testo integrale italiano",
+      "url": "5102c60134f02aa6.html",
+      "raw": "fonti/5102c60134f02aa6.md",
+      "sha256": "4f996d1c2a590fda139b4846beee65771d2a15b50e08ae8589ae0538605aa31b",
+      "bytes": 5564
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/013_L_amico_del_duca.md",
+      "title": "013 L amico del duca",
+      "group": "Novel — testo integrale italiano",
+      "url": "231af407f7dfec23.html",
+      "raw": "fonti/231af407f7dfec23.md",
+      "sha256": "10fd588608ea4d04d2a76f12b18fadc582dcb43ee0747b88318fc68bab7a4037",
+      "bytes": 5600
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/014_Una_marca_vera.md",
+      "title": "014 Una marca vera",
+      "group": "Novel — testo integrale italiano",
+      "url": "56d8dcd0f4a5ce5d.html",
+      "raw": "fonti/56d8dcd0f4a5ce5d.md",
+      "sha256": "16b641ac68d8a20a7f7aae56a1b7fad4af8c70e0ff76c3fcfca46dbfe126c01b",
+      "bytes": 5571
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/015_Un_pezzo_ordinario.md",
+      "title": "015 Un pezzo ordinario",
+      "group": "Novel — testo integrale italiano",
+      "url": "88843da8cf41a0e2.html",
+      "raw": "fonti/88843da8cf41a0e2.md",
+      "sha256": "ff7a3bb204b845a25757b1646b46f6109eb2db41488a7e7c4fb52085d996a3dd",
+      "bytes": 5872
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/016_Il_dono_del_barone.md",
+      "title": "016 Il dono del barone",
+      "group": "Novel — testo integrale italiano",
+      "url": "bc11ca5dacc4f9dc.html",
+      "raw": "fonti/bc11ca5dacc4f9dc.md",
+      "sha256": "05a7150724487f53aecb173202b69e34e23f94f5ae5473a7569d1a233aef7bee",
+      "bytes": 6287
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/017_Il_prezzo_del_confronto.md",
+      "title": "017 Il prezzo del confronto",
+      "group": "Novel — testo integrale italiano",
+      "url": "5c6e9b369cedd4fd.html",
+      "raw": "fonti/5c6e9b369cedd4fd.md",
+      "sha256": "c7d74d6286e85f185e71696e887f67cc44afaec97421611b6ba86df50f7454cd",
+      "bytes": 6058
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/018_Dopo_la_risposta.md",
+      "title": "018 Dopo la risposta",
+      "group": "Novel — testo integrale italiano",
+      "url": "9c39da5453fea615.html",
+      "raw": "fonti/9c39da5453fea615.md",
+      "sha256": "be5d441e8b98f42465384789cf62918746a07699a6240706aca2b79bab56a6d4",
+      "bytes": 5726
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/019_La_distanza_di_un_tavolo.md",
+      "title": "019 La distanza di un tavolo",
+      "group": "Novel — testo integrale italiano",
+      "url": "0d6b20a115259e1f.html",
+      "raw": "fonti/0d6b20a115259e1f.md",
+      "sha256": "42830c8931934a81d1318c8f2710e4d17515c76bf384f43fd9a70d9d128ecd7d",
+      "bytes": 4922
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/020_Il_figlio.md",
+      "title": "020 Il figlio",
+      "group": "Novel — testo integrale italiano",
+      "url": "abc635aa81883347.html",
+      "raw": "fonti/abc635aa81883347.md",
+      "sha256": "6fde8ef8c94b54532eaf90d23786523fd59e6e0890d70781b0c01f3ba91ca515",
+      "bytes": 5110
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/021_Una_chiave_piccola.md",
+      "title": "021 Una chiave piccola",
+      "group": "Novel — testo integrale italiano",
+      "url": "c5c30f44d1cfe9b6.html",
+      "raw": "fonti/c5c30f44d1cfe9b6.md",
+      "sha256": "c9085dae781ef3e3c7b9c3fe3b93c93e1a60f31afb25e8ecb180ea6d7a34afe3",
+      "bytes": 5461
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/022_La_stanza_di_Celine.md",
+      "title": "022 La stanza di Celine",
+      "group": "Novel — testo integrale italiano",
+      "url": "48acc11347d45a74.html",
+      "raw": "fonti/48acc11347d45a74.md",
+      "sha256": "e2f4a0aca106a434dbf191d96de222a9d6ad4bf56b45d9008ea77f0eac6593e3",
+      "bytes": 5215
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/023_Un_apertura.md",
+      "title": "023 Un apertura",
+      "group": "Novel — testo integrale italiano",
+      "url": "b73962848db8f6a5.html",
+      "raw": "fonti/b73962848db8f6a5.md",
+      "sha256": "1fea009e804b65d1ba03eda5f16e1171f46674d8ec97d5b3a2f26ba1f0a9bc29",
+      "bytes": 5210
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/024_Quello_che_non_si_compra.md",
+      "title": "024 Quello che non si compra",
+      "group": "Novel — testo integrale italiano",
+      "url": "b62fa78ec5124e42.html",
+      "raw": "fonti/b62fa78ec5124e42.md",
+      "sha256": "1c9635026d0270af57a94687b40307c32d2d31b7091e322f209f4be9ee112733",
+      "bytes": 5100
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/025_L_estratto.md",
+      "title": "025 L estratto",
+      "group": "Novel — testo integrale italiano",
+      "url": "0a4c88f09a255ab3.html",
+      "raw": "fonti/0a4c88f09a255ab3.md",
+      "sha256": "41f1b13aa1488b24a2dae9b243a6ff5556273b7c0d90c14cc0dbeac60ddf84b1",
+      "bytes": 5604
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/026_Il_braccio_guarito.md",
+      "title": "026 Il braccio guarito",
+      "group": "Novel — testo integrale italiano",
+      "url": "07aa7500552f8a8f.html",
+      "raw": "fonti/07aa7500552f8a8f.md",
+      "sha256": "afbef6473a9c2d67b7c4f2693bd87a198eb2a1b46fcafe8e310153337f71f174",
+      "bytes": 4405
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/027_Le_carte_fuori_dalla_casa.md",
+      "title": "027 Le carte fuori dalla casa",
+      "group": "Novel — testo integrale italiano",
+      "url": "52ad3ce67eeef267.html",
+      "raw": "fonti/52ad3ce67eeef267.md",
+      "sha256": "c31fa517e4753ca87c8d60408877b121b6d8afb733e7a9e9bfabb1479a82d0f1",
+      "bytes": 5016
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/028_La_seconda_posizione.md",
+      "title": "028 La seconda posizione",
+      "group": "Novel — testo integrale italiano",
+      "url": "600ca44cb686abed.html",
+      "raw": "fonti/600ca44cb686abed.md",
+      "sha256": "9de683f0927c605787b299911eaf10503b20ceab51b8369076a2f4999c8c0312",
+      "bytes": 4699
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/029_Il_giorno_delle_paghe.md",
+      "title": "029 Il giorno delle paghe",
+      "group": "Novel — testo integrale italiano",
+      "url": "3ac785dd04c639e1.html",
+      "raw": "fonti/3ac785dd04c639e1.md",
+      "sha256": "1c8e07841cfc74abc7d2cb497e9fbf0674097138aff732a53fd3ea48306c9a6d",
+      "bytes": 4790
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/030_L_oggetto_che_non_parti.md",
+      "title": "030 L oggetto che non parti",
+      "group": "Novel — testo integrale italiano",
+      "url": "9941ad10db6c4307.html",
+      "raw": "fonti/9941ad10db6c4307.md",
+      "sha256": "955ec8aa4fdf469242cd39a83f46a1c24d91c052ad9ba74932a016890a41d7fd",
+      "bytes": 4606
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/031_Dall_altra_parte_della_porta.md",
+      "title": "031 Dall altra parte della porta",
+      "group": "Novel — testo integrale italiano",
+      "url": "50c48d941bcdbf63.html",
+      "raw": "fonti/50c48d941bcdbf63.md",
+      "sha256": "217d361d7678596ccec233d7f20f0d264e33e86cd471a70c8446c5bd3ef2e898",
+      "bytes": 4489
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/032_Quello_che_un_padre_dice.md",
+      "title": "032 Quello che un padre dice",
+      "group": "Novel — testo integrale italiano",
+      "url": "e32365d0177d7aed.html",
+      "raw": "fonti/e32365d0177d7aed.md",
+      "sha256": "af58d9d8bdff97800044bd1c5f29f559f342a40065d57f2e80d06187f88f4dd1",
+      "bytes": 4663
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/033_La_firma_di_Vern.md",
+      "title": "033 La firma di Vern",
+      "group": "Novel — testo integrale italiano",
+      "url": "0dcf210da5204f72.html",
+      "raw": "fonti/0dcf210da5204f72.md",
+      "sha256": "0a2d569fdae534ebd2ae1ec00ffbc8ea9492a8b259c7f2adc16ea7cf96fb0ed2",
+      "bytes": 4286
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/034_Il_lavoro_del_braccio.md",
+      "title": "034 Il lavoro del braccio",
+      "group": "Novel — testo integrale italiano",
+      "url": "e4c292809cb9d9ea.html",
+      "raw": "fonti/e4c292809cb9d9ea.md",
+      "sha256": "31ab6cd47ee3e6e6a79de4571ec5311593bec6f340e656d390775fe918a07f13",
+      "bytes": 4339
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/035_Restare.md",
+      "title": "035 Restare",
+      "group": "Novel — testo integrale italiano",
+      "url": "fcb05c1c3fee511b.html",
+      "raw": "fonti/fcb05c1c3fee511b.md",
+      "sha256": "7570ff08ea37b2f1e74c4eadb395a3d8398306a65eaa3ddb62d4cf8130b289b9",
+      "bytes": 4784
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/036_L_udienza.md",
+      "title": "036 L udienza",
+      "group": "Novel — testo integrale italiano",
+      "url": "266eee0743f64b1c.html",
+      "raw": "fonti/266eee0743f64b1c.md",
+      "sha256": "a49b74c471914ceb3ee5561b8f86383390cf07a331b79cd549529b0c6ed68622",
+      "bytes": 4610
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/037_Il_nome_restituito.md",
+      "title": "037 Il nome restituito",
+      "group": "Novel — testo integrale italiano",
+      "url": "d18365ae6b9270ae.html",
+      "raw": "fonti/d18365ae6b9270ae.md",
+      "sha256": "d073e6c5ad872a2a1ef466924c86680a45c5c9629cde9e5611d80a1e0403b9c5",
+      "bytes": 4615
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/038_Una_porta_aperta.md",
+      "title": "038 Una porta aperta",
+      "group": "Novel — testo integrale italiano",
+      "url": "7124dae0772daa6b.html",
+      "raw": "fonti/7124dae0772daa6b.md",
+      "sha256": "9c1eea9407677356b80073cb49b9d531dfa7f6bbcb331be608b616a0bc988ba6",
+      "bytes": 5027
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/039_Il_pezzo_che_si_poteva_cambiare.md",
+      "title": "039 Il pezzo che si poteva cambiare",
+      "group": "Novel — testo integrale italiano",
+      "url": "6f0588b6425c9fcb.html",
+      "raw": "fonti/6f0588b6425c9fcb.md",
+      "sha256": "df1d499462298e867f4d40753726251eb35f0c056a62ad64f212f49fb602c6ec",
+      "bytes": 3728
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/040_Un_invito_senza_conto.md",
+      "title": "040 Un invito senza conto",
+      "group": "Novel — testo integrale italiano",
+      "url": "bec62f5a82ad8071.html",
+      "raw": "fonti/bec62f5a82ad8071.md",
+      "sha256": "c28b05a04d691ab4ac1edc8a5a1752ac5a174622af829daa2c93ee9f8db6c7dd",
+      "bytes": 3544
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/041_L_altezza_dell_acqua.md",
+      "title": "041 L altezza dell acqua",
+      "group": "Novel — testo integrale italiano",
+      "url": "9b4b039c4a3b1ac1.html",
+      "raw": "fonti/9b4b039c4a3b1ac1.md",
+      "sha256": "8dc1b36bbcadf0a5e3765a3a660ae21bc2bc6e7170fa526d41fa92f716749af3",
+      "bytes": 3441
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/042_Un_disegno_da_aprire.md",
+      "title": "042 Un disegno da aprire",
+      "group": "Novel — testo integrale italiano",
+      "url": "24d199f4349aed34.html",
+      "raw": "fonti/24d199f4349aed34.md",
+      "sha256": "3a14398bf92f18c1e6b340a845fcb4c256c9f27d99e7b3bbe148a9811c167fd3",
+      "bytes": 3469
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/043_Il_lavoro_pagato.md",
+      "title": "043 Il lavoro pagato",
+      "group": "Novel — testo integrale italiano",
+      "url": "9dc0cf3eaa06670f.html",
+      "raw": "fonti/9dc0cf3eaa06670f.md",
+      "sha256": "8c156b27417cab67be38b4edce0af48d620778973d6dd2768bd12c6a949a15f6",
+      "bytes": 3361
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/044_Ventitre_chilometri.md",
+      "title": "044 Ventitre chilometri",
+      "group": "Novel — testo integrale italiano",
+      "url": "e54aa81416715466.html",
+      "raw": "fonti/e54aa81416715466.md",
+      "sha256": "c74639a7e9361a9dc0ffa4cdc873f3d6fdd4bc546f903a99859126c454b3df87",
+      "bytes": 3416
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/045_Il_primo_incontro.md",
+      "title": "045 Il primo incontro",
+      "group": "Novel — testo integrale italiano",
+      "url": "eafb501817673c7f.html",
+      "raw": "fonti/eafb501817673c7f.md",
+      "sha256": "dac66bb67ce4b86b762fd5e40c41cc33c8528930208c42fff8c2b3f2829f5f1e",
+      "bytes": 3573
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/046_Un_miracolo_intero.md",
+      "title": "046 Un miracolo intero",
+      "group": "Novel — testo integrale italiano",
+      "url": "e27a7bb705e6fe4a.html",
+      "raw": "fonti/e27a7bb705e6fe4a.md",
+      "sha256": "79a913604f9123237e28759004b1e9a24e660607ffb503acec04a98597645c9e",
+      "bytes": 3807
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/047_Il_peso_del_metallo.md",
+      "title": "047 Il peso del metallo",
+      "group": "Novel — testo integrale italiano",
+      "url": "b125140c70eda7f1.html",
+      "raw": "fonti/b125140c70eda7f1.md",
+      "sha256": "d29451e9d0b813d42534b7f0b9a89cab1e104608bf266809da44203f885d41cd",
+      "bytes": 3617
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/048_Prima_del_getto.md",
+      "title": "048 Prima del getto",
+      "group": "Novel — testo integrale italiano",
+      "url": "76228f8011a05576.html",
+      "raw": "fonti/76228f8011a05576.md",
+      "sha256": "b2a14db475942c8f48fe453ec642b5cc17cf9942b4f06c67d8cee830172ee28f",
+      "bytes": 2981
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/049_Dentro_l_acqua.md",
+      "title": "049 Dentro l acqua",
+      "group": "Novel — testo integrale italiano",
+      "url": "fe2d9c7825dcb8e1.html",
+      "raw": "fonti/fe2d9c7825dcb8e1.md",
+      "sha256": "824af97772b26fc168b263bccea16f77530a4b2045fdc3f40d4778b7e8802c1d",
+      "bytes": 3675
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/050_Quello_che_si_puo_restituire.md",
+      "title": "050 Quello che si puo restituire",
+      "group": "Novel — testo integrale italiano",
+      "url": "23ff48b770110959.html",
+      "raw": "fonti/23ff48b770110959.md",
+      "sha256": "88502d42a80e7ea43a8e52e2b88d4a6141fef87152498ec06458ee762d554b87",
+      "bytes": 4246
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/051_Il_serbatoio_pieno.md",
+      "title": "051 Il serbatoio pieno",
+      "group": "Novel — testo integrale italiano",
+      "url": "5a71be742bff12ed.html",
+      "raw": "fonti/5a71be742bff12ed.md",
+      "sha256": "f899848a25e76e4a61a110c1d7502383168115303d2b168bf910074a7ab8270c",
+      "bytes": 3721
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/052_Il_dono_e_il_lavoro.md",
+      "title": "052 Il dono e il lavoro",
+      "group": "Novel — testo integrale italiano",
+      "url": "4dfeeba759464d49.html",
+      "raw": "fonti/4dfeeba759464d49.md",
+      "sha256": "cb2216bc933fbb26a2405fd79260a14ef86bf95fed6e05f33810aa7dfbfe523c",
+      "bytes": 3630
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/053_L_otto_giugno.md",
+      "title": "053 L otto giugno",
+      "group": "Novel — testo integrale italiano",
+      "url": "4522c56fda1326b8.html",
+      "raw": "fonti/4522c56fda1326b8.md",
+      "sha256": "702c1af034e9bfdd114095fe842f707ba68fd6bc852777cfaf7904b9e7fa08ec",
+      "bytes": 3393
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/054_Il_viaggio_di_ritorno.md",
+      "title": "054 Il viaggio di ritorno",
+      "group": "Novel — testo integrale italiano",
+      "url": "1c80b48ffe384579.html",
+      "raw": "fonti/1c80b48ffe384579.md",
+      "sha256": "773aa6c744dac39fca032a562fc32a9a31749103445327765c1222129dedd742",
+      "bytes": 3423
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/055_La_parte_che_si_consuma.md",
+      "title": "055 La parte che si consuma",
+      "group": "Novel — testo integrale italiano",
+      "url": "493289ff30198935.html",
+      "raw": "fonti/493289ff30198935.md",
+      "sha256": "570856eb3fe5345de7acccefd0884693e3ef399481af676a87769d1f429882b2",
+      "bytes": 3231
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/056_Una_conversazione_da_proporre.md",
+      "title": "056 Una conversazione da proporre",
+      "group": "Novel — testo integrale italiano",
+      "url": "966fa0cd7f8ecdcc.html",
+      "raw": "fonti/966fa0cd7f8ecdcc.md",
+      "sha256": "516837cf24c1b0b07b7c796bf19a431a492f95b509a8b9ec495b79dd9480ca8b",
+      "bytes": 3082
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/057_Un_posto_non_assegnato.md",
+      "title": "057 Un posto non assegnato",
+      "group": "Novel — testo integrale italiano",
+      "url": "88aa1db1854a5ef9.html",
+      "raw": "fonti/88aa1db1854a5ef9.md",
+      "sha256": "f2efd6df4100b42cde397844ada8fef4af41c74e88e7476bd29e01037d02cab1",
+      "bytes": 3187
+    },
+    {
+      "source": "NOVEL/IT/Volume_01/058_Il_prezzo_di_un_miracolo.md",
+      "title": "058 Il prezzo di un miracolo",
+      "group": "Novel — testo integrale italiano",
+      "url": "65bc3d081cb0ef42.html",
+      "raw": "fonti/65bc3d081cb0ef42.md",
+      "sha256": "2614c14479d11ebc419dd4387d5cc4d7ae69e9a767b6a8ed3a0d1e02e26cc50d",
+      "bytes": 3529
+    },
+    {
+      "source": "ORGANIZZATO_PER_MILESTONE/10_Deuteragonista_e_cast/RISERVATO/CAST/CAST-461.md",
+      "title": "CAST-461",
+      "group": "Copie operative allineate alla continuità letteraria — 382",
+      "url": "a215757451d131f6.html",
+      "raw": "fonti/a215757451d131f6.md",
+      "sha256": "f06ed992f5401f25428a3ad1f54460173ef142b831095f4dffa7792c4919fee8",
+      "bytes": 3969
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",
@@ -26078,7 +26789,7 @@
   "practical_faq_revision": "349",
   "operational_revision": "350",
   "current_topic_register": "350_Fonti_vigenti_per_argomento.md",
-  "current_revision": 381,
+  "current_revision": 382,
   "revision_373_scope": "Culti, legalità locale e pratiche biologiche; nessuna modifica delle progressioni.",
   "revision_374_scope": "Consolidamento, 24 rapporti, 48 reti, culture, fede, scene e risposta alle crisi. Progressioni e fatti protetti invariati.",
   "revision_376_scope": "Rappresentazione e applicazioni dell’orrore generativo, intimità aliena e scala ambientale e divina; nessuna progressione modificata.",
@@ -26086,5 +26797,6 @@
   "revision_378_scope": "La wiki segue ora anche la stesura della novel. I capitoli scritti sono fonti degli eventi della continuità letteraria; le schede indicano capitolo, data e sapere effettivo. I fatti nuovi non si trasferiscono automaticamente alla campagna. I fondamenti comuni, le progressioni e il passato adottato restano vigenti. Una scaletta futura resta un progetto e non una cronaca. Il testo di un capitolo prevale sul suo riassunto per ciò che la scena effettivamente mostra; una divergenza dalle regole comuni va registrata esplicitamente prima di adottarla.",
   "revision_379_scope": "Quindici capitoli IT/EN; aggiornamenti letterari distinti dalla campagna.",
   "revision_380_scope": "Venticinque capitoli IT/EN; aggiornamenti letterari distinti dalla campagna.",
-  "revision_381_scope": "Trentotto capitoli IT/EN; aggiornamenti letterari distinti dalla campagna."
+  "revision_381_scope": "Trentotto capitoli IT/EN; aggiornamenti letterari distinti dalla campagna.",
+  "revision_382_scope": "58 capitoli, testo integrale italiano nella wiki e Biblioteca; secondo arco concluso, continuità della campagna distinta."
 }

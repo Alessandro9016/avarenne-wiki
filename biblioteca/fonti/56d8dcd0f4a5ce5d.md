@@ -1,0 +1,123 @@
+# AVARENNE
+## Volume I — The Waking House
+### Capitolo 14 — Una marca vera
+
+Livia non scrisse subito.
+
+Aveva letto le due serie, ascoltato Marcel e Gaston descrivere il sopralluogo e chiesto a Elias di distinguere ciò che aveva visto da ciò che aveva concluso dopo. Adesso teneva il foglio immobile sul banco, mentre una fetta di pane con marmellata amara aspettava di essere finita.
+
+«Ti si secca», disse Elias.
+
+«La conclusione?»
+
+«Il pane.»
+
+Livia ne staccò un pezzo senza sollevare gli occhi.
+
+Il pane aveva lasciato briciole vicino alla carta. Lei le raccolse nel palmo e le buttò dalla finestra prima di tornare al lavoro. Elias si accorse di averle attribuito un ordine assoluto che non possedeva neppure quando mangiava: una copista poteva avere fame, dimenticare un panno, trovare fastidioso il rumore di una lima proprio come chiunque altro.
+
+«Ti disturba se spostiamo la lampada?» chiese.
+
+Livia gliela lasciò spostare, poi riportò il foglio dove riusciva a leggerlo meglio.
+
+«Quello è il punto in cui lavori bene tu.»
+
+Lui tolse subito la mano. La piccola correzione gli sembrò tanto simile al loro problema più grande da risultare comica.
+
+«Una preoccupazione alla volta.»
+
+Gaston aveva lasciato loro le copie da confrontare, non l'intera cartella professionale. Marcel rimase finché ebbero distinto la posizione originaria da quella esaminata quella mattina. Poi tornò al proprio lavoro, a pochi passi di distanza.
+
+«Posso attestare il confronto che facciamo qui», disse Livia. «Non il momento in cui qualcuno spostò il banco.»
+
+Elias annuì. La parola attestare aveva un peso diverso quando era lei a pronunciarla.
+
+Livia preparò il supporto e vi posò due dita. Non tracciò soltanto un segno da copiare. Elias sentì il proprio sguardo tornare sul punto dove la carta sembrava non essere cambiata abbastanza da giustificare l'impressione.
+
+«Che cosa stai conservando?»
+
+«Il rapporto fra ciò che ho osservato e la mia attestazione.»
+
+Gli fece confrontare il segno con una copia ordinaria. La somiglianza visibile non bastava a riprodurre il legame investito. Elias non possedeva Archive; non pretendeva di leggerne ogni parte. Capiva però la differenza fra una figura e l'atto soprannaturale che l'aveva resa autentica.
+
+«Quindi se qualcuno ricopia tutto—»
+
+«Avrà ricopiato tutto. Non avrà osservato quello che ho osservato io.»
+
+«E se sbagli la conclusione?»
+
+Livia tolse le dita dal foglio.
+
+«Avrai un'attestazione autentica di ciò che posso attestare. Non una mente incapace di sbagliare.»
+
+Elias rimase a guardare la pagina. C'era qualcosa di rassicurante nel limite, e qualcosa che gli faceva desiderare una magia meno onesta.
+
+Le parlò di Vern. Cercò di ricordare le parole senza sistemarle meglio. Livia gli fece ripetere la frase sui margini dichiarati; quando lui aggiunse perciò sapeva, lei separò le due cose con una riga.
+
+«Lo pensi tu.»
+
+«Lo pensi anche tu.»
+
+«Può darsi.»
+
+La risposta lo fece ridere. Si accorse di aver cercato, ancora una volta, qualcuno che gli risparmiasse il compito di restare preciso quando aveva ragione di essere arrabbiato.
+
+«Hai mai autenticato una cosa inutile?»
+
+Livia finì il pane.
+
+«Per un tribunale, molte.»
+
+«E per te?»
+
+Lei chiuse la custodia del lavoro, lasciando fuori il quaderno personale.
+
+«Le lettere che voglio conservare non devono per forza diventare prove.»
+
+Si prese il tempo di richiudere l'inchiostro. Elias capì che poteva lasciare finire lì la conversazione.
+
+«Una volta ho pensato che un indirizzo sbagliato fosse una cosa da sistemare dopo», disse invece Livia.
+
+Lui rimase fermo.
+
+«L'ho corretto. Non ho restituito a quella persona il tempo in cui non aveva ricevuto la notifica.»
+
+Non aggiunse un nome o una morale. Elias non glieli chiese. Nel proprio lavoro aveva cominciato a distinguere un dato corretto da ciò che era accaduto mentre era rimasto sbagliato. Prima del collaudo gli sarebbe sembrata una distinzione quasi elegante.
+
+«Per questo ti arrabbi quando aggiungo una conclusione?»
+
+«Mi arrabbio anche perché qualche volta sei irritante.»
+
+Elias rise. Livia prese finalmente un altro pezzo di pane, e la conversazione tornò ad assomigliare a qualcosa che potessero permettersi fra amici.
+
+Elias ricordò i fogli di Lise schiacciati sotto i propri. Lasciò passare un momento prima di riprendere il lavoro.
+
+Dal vicolo arrivò il rumore di una ruota che si fermava. Gaston tornò sulla soglia, questa volta senza la cassetta.
+
+«Ilian ha una risposta. Vorrebbe portarci un campione domani.»
+
+Marcel posò il pezzo che stava limando.
+
+«Chi lo ha chiesto?»
+
+«La richiesta passa per lui. Ho detto che dovevo verificare con te.»
+
+Il maestro chiese che nessun componente del laboratorio venisse preparato per l'uscita. Il confronto, se ci fosse stato, avrebbe riguardato l'oggetto portato e i documenti dichiarati.
+
+Livia guardò Elias.
+
+«È la questione del disegno?»
+
+«Sì.»
+
+«La conosce Etienne?»
+
+«Non c'entra con il collaudo.»
+
+Lei annuì, soddisfatta della distinzione.
+
+Elias ripose le copie del magazzino in una cartella e il disegno nell'altra. Le due cose non erano diventate indipendenti soltanto perché le aveva separate con del cartone; però smetteva, almeno, di comportarsi come se un nemico sconosciuto dovesse spiegare ogni difficoltà.
+
+Prima di andarsene, Livia gli chiese una copia del resoconto delle frasi di Vern. Elias gliela diede.
+
+La sua mano non tremava più. Il desiderio di aggiungere una parola più forte di quella realmente pronunciata era ancora lì.

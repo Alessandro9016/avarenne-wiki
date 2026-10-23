@@ -1,0 +1,93 @@
+# AVARENNE
+## Volume I — The Waking House
+### Capitolo 35 — Restare
+
+Alexander aveva lasciato la porta aperta.
+
+Non quella della residenza, non gli archivi e neppure la stanza di Celine. La porta del proprio studio, per un'ora nella mattina del trenta maggio, mentre Maurice concordava gli accessi e Albin portava una sola pratica alla volta.
+
+Era una decisione troppo piccola per entrare in un canto. Abbastanza grande da rendere difficile fingere che abitare la casa fosse ancora una convalescenza provvisoria.
+
+Il primo problema riguardava un lavoro ordinario già autorizzato. Il secondo una richiesta nuova. Alexander non li risolse entrambi con il denaro libero del patrimonio, e non trattò l'esistenza di procedure distinte come la prova che i propri poteri fossero inutili.
+
+Chiese, comprese, decise ciò che gli spettava. Lasciò agli altri le parti per cui avevano davvero un incarico.
+
+Quando l'ora terminò, Maurice gli domandò se volesse prolungarla.
+
+«Domani riceverò ancora. Per oggi basta.»
+
+Non aveva finito il ducato. Aveva iniziato una giornata senza chiamarla un'attesa.
+
+Mirel arrivò per il confronto che le aveva chiesto. Portò le osservazioni cliniche aggiornate e gli atti che poteva mostrargli, senza trasformare la visita in una prova del suo diritto a vivere.
+
+La ripresa fisica era reale. Nessun nuovo trattamento era necessario per dimostrare ogni mattina che il corpo avrebbe continuato a funzionare.
+
+«Questo non mi spiega tutto quello che è successo», disse il medico.
+
+«Lo so.»
+
+«E non intendo inventare una spiegazione per potervi lasciare andare.»
+
+Alexander annuì. Non le consegnò un'identità antica per ricompensarla della precisione, e non le chiese di cancellare ciò che aveva visto durante la crisi.
+
+I due frammenti spenti del Quiet Glass rimasero in custodia separata dal residuo tossico. Non furono presentati come una seconda possibilità di ripetere il ritorno.
+
+Quando Mirel uscì, Teren entrò con un aggiornamento sugli accessi. Il barone non era tornato un ospite della casa; il procedimento continuava fuori dalle guardie personali del duca. Il capo della sicurezza non gli portò una sentenza che non esisteva.
+
+«Le restrizioni ai suoi contatti qui restano», disse Alexander. «Non voglio che suo figlio debba chiedere il perdono per attraversare un ingresso.»
+
+Teren annotò la distinzione e gli chiese chi potesse confermare una visita se lui non fosse stato disponibile. La sicurezza aveva bisogno di risposte noiose anche dopo un miracolo.
+
+Concordarono il riferimento. Nessuna nuova guardia venne inventata per coprire ogni turno che il timore avrebbe desiderato.
+
+Più tardi Celine lo trovò mentre riordinava il tavolo. Aveva ricevuto la risposta di Etienne e non venne a consegnargliela.
+
+«Mi ha scritto», disse soltanto.
+
+«Bene.»
+
+La ragazza si fermò davanti alla sedia del padre che il giovane duca aveva continuato a usare.
+
+«Ti fa ancora male stare qui?»
+
+Edran guardò lo schienale. Le memorie di Alexander contenevano il gesto di Lucien che vi appoggiava una mano, una spiegazione interrotta da una visita, il desiderio di essere finalmente considerato abbastanza grande.
+
+Il dolore era disponibile con una precisione che non gli concedeva il diritto di chiamarlo interamente proprio.
+
+«Qualche volta.»
+
+Non era la verità completa. Non era una recita inventata perché lei potesse riconoscere la risposta giusta.
+
+«Puoi spostarla», disse Celine.
+
+«Non voglio cancellare tuo padre dalla stanza.»
+
+«Neppure io. Ma una sedia non è lui.»
+
+Alexander la guardò. Aveva passato vite a vedere uomini confondere il segno di un potere con la persona che vi si sedeva. La ragazza non stava costruendo una filosofia per aiutarlo: voleva che la casa smettesse di costringerli a chiedere permesso ai morti per ogni cambiamento.
+
+Spostò la sedia vicino alla libreria e ne prese una più adatta al tavolo. Nessun oggetto fu annullato.
+
+Celine provò la distanza fra la propria seduta e i fogli che aveva portato.
+
+«Così ti vedo meglio», disse.
+
+Lui si sedette. Per qualche minuto lavorarono senza parlare.
+
+Edran pensò al bambino che aveva imparato a desiderare la fine di ogni mano posata sulla sua vita. Alla forza ottenuta dopo, ai nomi che il tempo aveva consumato, al diritto che avrebbe potuto arrogarsi di considerare quella casa soltanto un riparo.
+
+Non era stato il lutto del ragazzo a ucciderlo. Un altro uomo aveva fatto una scelta. Ora ciò che restava non aveva bisogno di essere custodito come un errore commesso dalla vittima.
+
+«Domani fai colazione qui?» domandò Celine.
+
+Alexander sollevò gli occhi dai fogli.
+
+«Se vuoi.»
+
+«Te lo sto chiedendo.»
+
+Lui sorrise.
+
+«Allora sì.»
+
+Era una promessa che avrebbe potuto mantenere senza comandare a nessuno di crederci.
