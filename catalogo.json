@@ -108,7 +108,7 @@
     "title": "Adrien Veyne",
     "kind": "Personaggi",
     "url": "cast-124-adrien-veyne.html",
-    "bytes": 23023,
+    "bytes": 24726,
     "image_count": 2
   },
   {
@@ -164,7 +164,7 @@
     "title": "Albin Sere",
     "kind": "Personaggi",
     "url": "cast-069-albin-sere.html",
-    "bytes": 22276,
+    "bytes": 22998,
     "image_count": 2
   },
   {
@@ -204,7 +204,7 @@
     "title": "Alexander Valcienne",
     "kind": "Personaggi",
     "url": "cast-001-alexander-valcienne.html",
-    "bytes": 101181,
+    "bytes": 108486,
     "image_count": 7
   },
   {
@@ -876,7 +876,7 @@
     "title": "Arco 2 — The Price of a Miracle",
     "kind": "Archi della novel",
     "url": "novel-arco-02-the-price-of-a-miracle.html",
-    "bytes": 14382,
+    "bytes": 14481,
     "image_count": 0
   },
   {
@@ -1228,7 +1228,15 @@
     "title": "AVARENNE — Arco 2 integrale in italiano",
     "kind": "Testo integrale della novel",
     "url": "novel-ed013-arco02-lettura.html",
-    "bytes": 510089,
+    "bytes": 510263,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-READING-ED014-IT",
+    "title": "AVARENNE — Arco 2 integrale in italiano",
+    "kind": "Testo integrale della novel",
+    "url": "novel-ed014-arco02-lettura.html",
+    "bytes": 511924,
     "image_count": 0
   },
   {
@@ -1276,7 +1284,7 @@
     "title": "AVARENNE — Complete novel chapters in English",
     "kind": "Opera",
     "url": "novel-en.html",
-    "bytes": 22475,
+    "bytes": 22466,
     "image_count": 0
   },
   {
@@ -1284,7 +1292,7 @@
     "title": "AVARENNE — La novel integrale, italiano e inglese",
     "kind": "Opera",
     "url": "novel.html",
-    "bytes": 22575,
+    "bytes": 22674,
     "image_count": 0
   },
   {
@@ -1332,7 +1340,15 @@
     "title": "AVARENNE — Second arc in English",
     "kind": "Testo integrale della novel",
     "url": "novel-ed013-arco02-reading-en.html",
-    "bytes": 489520,
+    "bytes": 489694,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-READING-ED014-EN",
+    "title": "AVARENNE — Second arc in English",
+    "kind": "Testo integrale della novel",
+    "url": "novel-ed014-arco02-reading-en.html",
+    "bytes": 490563,
     "image_count": 0
   },
   {
@@ -1672,11 +1688,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-arco-02-the-price-of-a-miracle-html",
+    "title": "Bozza storica — novel-arco-02-the-price-of-a-miracle.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-arco-02-the-price-of-a-miracle.html",
+    "bytes": 15798,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-arco-03-the-fourth-chair-html",
     "title": "Bozza storica — novel-arco-03-the-fourth-chair.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-arco-03-the-fourth-chair.html",
     "bytes": 8874,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-arco-03-the-fourth-chair-html",
+    "title": "Bozza storica — novel-arco-03-the-fourth-chair.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-arco-03-the-fourth-chair.html",
+    "bytes": 6778,
     "image_count": 0
   },
   {
@@ -1688,11 +1720,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-dettagli-e-fonti-html",
+    "title": "Bozza storica — novel-dettagli-e-fonti.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-dettagli-e-fonti.html",
+    "bytes": 7262,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-039-html",
     "title": "Bozza storica — novel-volume-01-capitolo-039.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-039.html",
     "bytes": 13701,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-039-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-039.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-039.html",
+    "bytes": 20284,
     "image_count": 0
   },
   {
@@ -1704,11 +1752,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-040-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-040.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-040.html",
+    "bytes": 19999,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-041-html",
     "title": "Bozza storica — novel-volume-01-capitolo-041.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-041.html",
     "bytes": 13390,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-041-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-041.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-041.html",
+    "bytes": 19855,
     "image_count": 0
   },
   {
@@ -1720,11 +1784,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-042-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-042.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-042.html",
+    "bytes": 19977,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-043-html",
     "title": "Bozza storica — novel-volume-01-capitolo-043.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-043.html",
     "bytes": 13359,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-043-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-043.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-043.html",
+    "bytes": 20426,
     "image_count": 0
   },
   {
@@ -1736,11 +1816,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-044-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-044.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-044.html",
+    "bytes": 19684,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-045-html",
     "title": "Bozza storica — novel-volume-01-capitolo-045.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-045.html",
     "bytes": 13647,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-045-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-045.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-045.html",
+    "bytes": 19987,
     "image_count": 0
   },
   {
@@ -1752,11 +1848,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-046-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-046.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-046.html",
+    "bytes": 20112,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-047-html",
     "title": "Bozza storica — novel-volume-01-capitolo-047.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-047.html",
     "bytes": 13789,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-047-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-047.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-047.html",
+    "bytes": 19958,
     "image_count": 0
   },
   {
@@ -1768,11 +1880,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-048-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-048.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-048.html",
+    "bytes": 20183,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-049-html",
     "title": "Bozza storica — novel-volume-01-capitolo-049.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-049.html",
     "bytes": 13989,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-049-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-049.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-049.html",
+    "bytes": 19851,
     "image_count": 0
   },
   {
@@ -1784,11 +1912,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-050-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-050.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-050.html",
+    "bytes": 19714,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-051-html",
     "title": "Bozza storica — novel-volume-01-capitolo-051.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-051.html",
     "bytes": 14017,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-051-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-051.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-051.html",
+    "bytes": 19947,
     "image_count": 0
   },
   {
@@ -1800,11 +1944,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-052-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-052.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-052.html",
+    "bytes": 19770,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-053-html",
     "title": "Bozza storica — novel-volume-01-capitolo-053.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-053.html",
     "bytes": 13395,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-053-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-053.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-053.html",
+    "bytes": 20149,
     "image_count": 0
   },
   {
@@ -1816,11 +1976,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-054-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-054.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-054.html",
+    "bytes": 19200,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-055-html",
     "title": "Bozza storica — novel-volume-01-capitolo-055.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-055.html",
     "bytes": 13382,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-055-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-055.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-055.html",
+    "bytes": 19969,
     "image_count": 0
   },
   {
@@ -1832,11 +2008,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-056-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-056.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-056.html",
+    "bytes": 19548,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-057-html",
     "title": "Bozza storica — novel-volume-01-capitolo-057.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-057.html",
     "bytes": 13149,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-057-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-057.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-057.html",
+    "bytes": 19538,
     "image_count": 0
   },
   {
@@ -1848,11 +2040,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-058-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-058.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-058.html",
+    "bytes": 19849,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-059-html",
     "title": "Bozza storica — novel-volume-01-capitolo-059.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-059.html",
     "bytes": 12512,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-059-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-059.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-059.html",
+    "bytes": 19390,
     "image_count": 0
   },
   {
@@ -1864,11 +2072,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-060-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-060.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-060.html",
+    "bytes": 19653,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-061-html",
     "title": "Bozza storica — novel-volume-01-capitolo-061.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-061.html",
     "bytes": 12882,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-061-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-061.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-061.html",
+    "bytes": 19547,
     "image_count": 0
   },
   {
@@ -1880,11 +2104,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-062-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-062.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-062.html",
+    "bytes": 19391,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-063-html",
     "title": "Bozza storica — novel-volume-01-capitolo-063.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-063.html",
     "bytes": 12740,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-063-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-063.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-063.html",
+    "bytes": 19807,
     "image_count": 0
   },
   {
@@ -1896,11 +2136,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-064-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-064.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-064.html",
+    "bytes": 20005,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-065-html",
     "title": "Bozza storica — novel-volume-01-capitolo-065.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-065.html",
     "bytes": 12495,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-065-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-065.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-065.html",
+    "bytes": 19488,
     "image_count": 0
   },
   {
@@ -1912,11 +2168,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-066-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-066.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-066.html",
+    "bytes": 19668,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-067-html",
     "title": "Bozza storica — novel-volume-01-capitolo-067.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-067.html",
     "bytes": 12753,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-067-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-067.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-067.html",
+    "bytes": 20071,
     "image_count": 0
   },
   {
@@ -1928,11 +2200,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-068-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-068.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-068.html",
+    "bytes": 20183,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-069-html",
     "title": "Bozza storica — novel-volume-01-capitolo-069.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-069.html",
     "bytes": 12892,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-069-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-069.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-069.html",
+    "bytes": 19982,
     "image_count": 0
   },
   {
@@ -1944,11 +2232,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-070-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-070.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-070.html",
+    "bytes": 20097,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-071-html",
     "title": "Bozza storica — novel-volume-01-capitolo-071.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-071.html",
     "bytes": 12513,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-071-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-071.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-071.html",
+    "bytes": 19804,
     "image_count": 0
   },
   {
@@ -1960,11 +2264,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-072-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-072.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-072.html",
+    "bytes": 19933,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-073-html",
     "title": "Bozza storica — novel-volume-01-capitolo-073.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-073.html",
     "bytes": 13128,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-073-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-073.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-073.html",
+    "bytes": 19605,
     "image_count": 0
   },
   {
@@ -1976,11 +2296,27 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-074-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-074.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-074.html",
+    "bytes": 19867,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-075-html",
     "title": "Bozza storica — novel-volume-01-capitolo-075.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-075.html",
     "bytes": 12865,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-075-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-075.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-075.html",
+    "bytes": 19564,
     "image_count": 0
   },
   {
@@ -1992,6 +2328,14 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-076-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-076.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-076.html",
+    "bytes": 19902,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-077-html",
     "title": "Bozza storica — novel-volume-01-capitolo-077.html",
     "kind": "Archivio letterario",
@@ -2000,11 +2344,347 @@
     "image_count": 0
   },
   {
+    "id": "HIST-390-novel-volume-01-capitolo-077-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-077.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-077.html",
+    "bytes": 19852,
+    "image_count": 0
+  },
+  {
     "id": "HIST-389-novel-volume-01-capitolo-078-html",
     "title": "Bozza storica — novel-volume-01-capitolo-078.html",
     "kind": "Archivio letterario",
     "url": "storico-pre389-novel-volume-01-capitolo-078.html",
     "bytes": 12838,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-capitolo-078-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-078.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-capitolo-078.html",
+    "bytes": 20016,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-039-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-039-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-039-en.html",
+    "bytes": 19811,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-040-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-040-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-040-en.html",
+    "bytes": 19173,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-041-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-041-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-041-en.html",
+    "bytes": 19149,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-042-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-042-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-042-en.html",
+    "bytes": 19422,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-043-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-043-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-043-en.html",
+    "bytes": 19869,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-044-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-044-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-044-en.html",
+    "bytes": 19496,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-045-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-045-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-045-en.html",
+    "bytes": 19559,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-046-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-046-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-046-en.html",
+    "bytes": 19432,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-047-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-047-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-047-en.html",
+    "bytes": 18997,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-048-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-048-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-048-en.html",
+    "bytes": 19657,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-049-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-049-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-049-en.html",
+    "bytes": 19422,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-050-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-050-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-050-en.html",
+    "bytes": 19068,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-051-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-051-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-051-en.html",
+    "bytes": 19621,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-052-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-052-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-052-en.html",
+    "bytes": 18942,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-053-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-053-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-053-en.html",
+    "bytes": 19215,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-054-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-054-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-054-en.html",
+    "bytes": 18229,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-055-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-055-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-055-en.html",
+    "bytes": 19724,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-056-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-056-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-056-en.html",
+    "bytes": 19204,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-057-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-057-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-057-en.html",
+    "bytes": 19258,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-058-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-058-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-058-en.html",
+    "bytes": 19305,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-059-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-059-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-059-en.html",
+    "bytes": 18837,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-060-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-060-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-060-en.html",
+    "bytes": 19481,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-061-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-061-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-061-en.html",
+    "bytes": 18816,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-062-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-062-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-062-en.html",
+    "bytes": 18934,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-063-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-063-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-063-en.html",
+    "bytes": 19133,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-064-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-064-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-064-en.html",
+    "bytes": 19384,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-065-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-065-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-065-en.html",
+    "bytes": 18748,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-066-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-066-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-066-en.html",
+    "bytes": 18725,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-067-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-067-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-067-en.html",
+    "bytes": 20037,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-068-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-068-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-068-en.html",
+    "bytes": 19878,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-069-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-069-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-069-en.html",
+    "bytes": 19401,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-070-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-070-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-070-en.html",
+    "bytes": 19767,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-071-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-071-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-071-en.html",
+    "bytes": 19714,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-072-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-072-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-072-en.html",
+    "bytes": 19696,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-073-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-073-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-073-en.html",
+    "bytes": 19274,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-074-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-074-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-074-en.html",
+    "bytes": 19278,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-075-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-075-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-075-en.html",
+    "bytes": 19322,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-076-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-076-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-076-en.html",
+    "bytes": 19377,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-077-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-077-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-077-en.html",
+    "bytes": 19239,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-390-novel-volume-01-chapter-078-en-html",
+    "title": "Bozza storica — novel-volume-01-chapter-078-en.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre390-novel-volume-01-chapter-078-en.html",
+    "bytes": 19316,
     "image_count": 0
   },
   {
@@ -2572,7 +3252,7 @@
     "title": "Capitolo 50 — Il peso del metallo",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-050.html",
-    "bytes": 19378,
+    "bytes": 19397,
     "image_count": 0
   },
   {
@@ -2745,26 +3425,26 @@
   },
   {
     "id": "NOVEL-V01-C070",
-    "title": "Capitolo 70 — L'errore di un maestro",
+    "title": "Capitolo 70 — La persona da misurare",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-070.html",
-    "bytes": 19761,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C071",
-    "title": "Capitolo 71 — La persona da misurare",
-    "kind": "Capitoli della novel",
-    "url": "novel-volume-01-capitolo-071.html",
     "bytes": 19468,
     "image_count": 0
   },
   {
+    "id": "NOVEL-V01-C071",
+    "title": "Capitolo 71 — Una conversazione da proporre",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-071.html",
+    "bytes": 19597,
+    "image_count": 0
+  },
+  {
     "id": "NOVEL-V01-C072",
-    "title": "Capitolo 72 — Una conversazione da proporre",
+    "title": "Capitolo 72 — La cartella aperta",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-072.html",
-    "bytes": 19597,
+    "bytes": 19392,
     "image_count": 0
   },
   {
@@ -2777,18 +3457,18 @@
   },
   {
     "id": "NOVEL-V01-C074",
-    "title": "Capitolo 74 — L'acqua di servizio",
+    "title": "Capitolo 74 — Il numero nove",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-074.html",
-    "bytes": 19531,
+    "bytes": 19580,
     "image_count": 0
   },
   {
     "id": "NOVEL-V01-C075",
-    "title": "Capitolo 75 — Il terzo nome",
+    "title": "Capitolo 75 — La testimonianza rubata",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-075.html",
-    "bytes": 19228,
+    "bytes": 19590,
     "image_count": 0
   },
   {
@@ -2796,7 +3476,7 @@
     "title": "Capitolo 76 — Le notizie del mattino",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-076.html",
-    "bytes": 19566,
+    "bytes": 20852,
     "image_count": 0
   },
   {
@@ -2804,7 +3484,7 @@
     "title": "Capitolo 77 — Il lavoro pagato",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-077.html",
-    "bytes": 19516,
+    "bytes": 20047,
     "image_count": 0
   },
   {
@@ -2812,7 +3492,7 @@
     "title": "Capitolo 78 — Il prezzo di un miracolo",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-078.html",
-    "bytes": 19710,
+    "bytes": 19532,
     "image_count": 0
   },
   {
@@ -2972,7 +3652,7 @@
     "title": "Celine Valcienne",
     "kind": "Personaggi",
     "url": "cast-003-celine-valcienne.html",
-    "bytes": 30103,
+    "bytes": 32511,
     "image_count": 4
   },
   {
@@ -3404,7 +4084,7 @@
     "title": "Chapter 50 — The Weight of Metal",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-050-en.html",
-    "bytes": 18732,
+    "bytes": 18755,
     "image_count": 0
   },
   {
@@ -3577,26 +4257,26 @@
   },
   {
     "id": "NOVEL-V01-C070-EN",
-    "title": "Chapter 70 — A Teacher's Mistake",
+    "title": "Chapter 70 — The Person to Be Measured",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-070-en.html",
-    "bytes": 19431,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C071-EN",
-    "title": "Chapter 71 — The Person to Be Measured",
-    "kind": "Capitoli della novel",
-    "url": "novel-volume-01-chapter-071-en.html",
     "bytes": 19378,
     "image_count": 0
   },
   {
+    "id": "NOVEL-V01-C071-EN",
+    "title": "Chapter 71 — A Conversation to Propose",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-071-en.html",
+    "bytes": 19360,
+    "image_count": 0
+  },
+  {
     "id": "NOVEL-V01-C072-EN",
-    "title": "Chapter 72 — A Conversation to Propose",
+    "title": "Chapter 72 — The Open Folder",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-072-en.html",
-    "bytes": 19360,
+    "bytes": 18771,
     "image_count": 0
   },
   {
@@ -3609,18 +4289,18 @@
   },
   {
     "id": "NOVEL-V01-C074-EN",
-    "title": "Chapter 74 — Service Water",
+    "title": "Chapter 74 — Number Nine",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-074-en.html",
-    "bytes": 18942,
+    "bytes": 19268,
     "image_count": 0
   },
   {
     "id": "NOVEL-V01-C075-EN",
-    "title": "Chapter 75 — The Third Name",
+    "title": "Chapter 75 — The Stolen Testimony",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-075-en.html",
-    "bytes": 18986,
+    "bytes": 18907,
     "image_count": 0
   },
   {
@@ -3628,7 +4308,7 @@
     "title": "Chapter 76 — The Morning News",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-076-en.html",
-    "bytes": 19041,
+    "bytes": 20251,
     "image_count": 0
   },
   {
@@ -3636,7 +4316,7 @@
     "title": "Chapter 77 — Work Paid For",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-077-en.html",
-    "bytes": 18903,
+    "bytes": 19369,
     "image_count": 0
   },
   {
@@ -3644,7 +4324,7 @@
     "title": "Chapter 78 — The Price of a Miracle",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-078-en.html",
-    "bytes": 19010,
+    "bytes": 18752,
     "image_count": 0
   },
   {
@@ -4244,7 +4924,15 @@
     "title": "Cronologia del secondo arco — 389",
     "kind": "Cronologia della novel",
     "url": "novel-cronologia-389.html",
-    "bytes": 38168,
+    "bytes": 38342,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-CHRONOLOGY-390",
+    "title": "Cronologia del secondo arco — 390",
+    "kind": "Cronologia della novel",
+    "url": "novel-cronologia-390.html",
+    "bytes": 36856,
     "image_count": 0
   },
   {
@@ -4284,7 +4972,7 @@
     "title": "Cronologia della novel — capitoli 1–58",
     "kind": "Cronologia della novel",
     "url": "novel-cronologia-capitoli-1-58.html",
-    "bytes": 45592,
+    "bytes": 45956,
     "image_count": 0
   },
   {
@@ -4292,7 +4980,7 @@
     "title": "Cronologia della novel — capitoli 1–78",
     "kind": "Cronologia della novel",
     "url": "novel-cronologia-capitoli-1-78.html",
-    "bytes": 56118,
+    "bytes": 56482,
     "image_count": 0
   },
   {
@@ -4948,7 +5636,7 @@
     "title": "Edith Torrel",
     "kind": "Personaggi",
     "url": "cast-127-edith-torrel.html",
-    "bytes": 30084,
+    "bytes": 32150,
     "image_count": 4
   },
   {
@@ -5276,7 +5964,7 @@
     "title": "Elias Veyne",
     "kind": "Personaggi",
     "url": "elias-veyne.html",
-    "bytes": 70424,
+    "bytes": 78141,
     "image_count": 7
   },
   {
@@ -5876,7 +6564,7 @@
     "title": "Gaston Mery",
     "kind": "Personaggi",
     "url": "cast-131-gaston-mery.html",
-    "bytes": 29089,
+    "bytes": 30754,
     "image_count": 2
   },
   {
@@ -6516,7 +7204,7 @@
     "title": "Ilian Uren",
     "kind": "Personaggi",
     "url": "cast-194-ilian-uren.html",
-    "bytes": 24901,
+    "bytes": 27089,
     "image_count": 2
   },
   {
@@ -6572,7 +7260,7 @@
     "title": "Indice generale A–Z",
     "kind": "Indici",
     "url": "indice-generale.html",
-    "bytes": 170562,
+    "bytes": 183368,
     "image_count": 0
   },
   {
@@ -7524,7 +8212,7 @@
     "title": "Lise Veyne",
     "kind": "Personaggi",
     "url": "cast-126-lise-veyne.html",
-    "bytes": 23014,
+    "bytes": 24717,
     "image_count": 2
   },
   {
@@ -7532,7 +8220,7 @@
     "title": "Livia Varn",
     "kind": "Personaggi",
     "url": "cast-032-livia-varn.html",
-    "bytes": 40689,
+    "bytes": 43440,
     "image_count": 5
   },
   {
@@ -7716,7 +8404,7 @@
     "title": "Mael Vaur",
     "kind": "Personaggi",
     "url": "cast-474-mael-vaur.html",
-    "bytes": 25754,
+    "bytes": 27952,
     "image_count": 2
   },
   {
@@ -7860,7 +8548,7 @@
     "title": "Marcel Ruy",
     "kind": "Personaggi",
     "url": "cast-031-marcel-ruy.html",
-    "bytes": 48956,
+    "bytes": 53213,
     "image_count": 4
   },
   {
@@ -7980,7 +8668,7 @@
     "title": "Martin Lethorne",
     "kind": "Personaggi",
     "url": "cast-461-martin-lethorne.html",
-    "bytes": 23236,
+    "bytes": 29715,
     "image_count": 2
   },
   {
@@ -8068,7 +8756,7 @@
     "title": "Maurice Verr",
     "kind": "Personaggi",
     "url": "cast-104-maurice-verr.html",
-    "bytes": 25488,
+    "bytes": 26561,
     "image_count": 2
   },
   {
@@ -8276,7 +8964,7 @@
     "title": "Mirel Osta",
     "kind": "Personaggi",
     "url": "cast-005-mirel-osta.html",
-    "bytes": 27407,
+    "bytes": 28358,
     "image_count": 4
   },
   {
@@ -8748,7 +9436,7 @@
     "title": "Noemi Darel",
     "kind": "Personaggi",
     "url": "cast-130-noemi-darel.html",
-    "bytes": 24066,
+    "bytes": 28077,
     "image_count": 2
   },
   {
@@ -10492,7 +11180,15 @@
     "title": "Secondo arco — revisione 389",
     "kind": "Opera",
     "url": "novel-revisione-389.html",
-    "bytes": 11373,
+    "bytes": 11547,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-REVISION-390",
+    "title": "Secondo arco — revisione 390",
+    "kind": "Opera",
+    "url": "novel-revisione-390.html",
+    "bytes": 11601,
     "image_count": 0
   },
   {
@@ -11100,7 +11796,7 @@
     "title": "Sybille Kest",
     "kind": "Personaggi",
     "url": "cast-475-sybille-kest.html",
-    "bytes": 22037,
+    "bytes": 24359,
     "image_count": 2
   },
   {
@@ -11324,7 +12020,7 @@
     "title": "Teren Holt",
     "kind": "Personaggi",
     "url": "cast-070-teren-holt.html",
-    "bytes": 28152,
+    "bytes": 33601,
     "image_count": 2
   },
   {
@@ -13492,7 +14188,7 @@
     "title": "Varek Lureth",
     "kind": "Personaggi",
     "url": "cast-200-varek-lureth.html",
-    "bytes": 17642,
+    "bytes": 18441,
     "image_count": 0
   },
   {
@@ -14116,7 +14812,7 @@
     "title": "Yselle Valcienne",
     "kind": "Personaggi",
     "url": "cast-004-yselle-valcienne.html",
-    "bytes": 33155,
+    "bytes": 41698,
     "image_count": 4
   },
   {

@@ -1,0 +1,108 @@
+{
+  "revision": 390,
+  "chapter_pairs": 40,
+  "continuous_readings_match": true,
+  "first_arc_wiki_texts_unchanged": true,
+  "it_words": 74487,
+  "en_words": 78761,
+  "it_min": 1809,
+  "it_max": 2057,
+  "en_min": 1855,
+  "en_max": 2141,
+  "protected_files_checked": 558,
+  "source_hashes_checked": 3451,
+  "errors": [],
+  "editorial": {
+    "structural_scope": "Intero arco 39–78: funzione delle scene, ripetizioni, alternanza, minaccia e stato finale.",
+    "new_scenes_read_in_full_it_en": [
+      72,
+      74,
+      75,
+      78
+    ],
+    "reordered": [
+      70,
+      71,
+      72
+    ],
+    "targeted_revisions": [
+      50,
+      76,
+      77
+    ],
+    "unchanged_chapters": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      73
+    ],
+    "preserved_strengths": [
+      "Miracolo49",
+      "Incidente53–55",
+      "Famiglia e vita civile",
+      "Conseguenze economiche effettive"
+    ],
+    "continuity_checked": [
+      "Invito inviato prima del furto alla scuola",
+      "Copia autentica e falsificazione non confondono TrueMark con una legge di verità",
+      "Denuncia e copie precedono il tentativo di recupero",
+      "Sybille conosce l’ordine ma non il contratto segreto che la riguarda",
+      "Elias osserva il silenzio e non identifica il suo autore",
+      "Alexander non ha ancora ricevuto la notizia dell’aggressione",
+      "Un solo uso residuo della Hinge",
+      "Exchange3, Alexander esterno",
+      "Nessuno stadio aumentato",
+      "Trasporti e guarigioni restano ai limiti vigenti"
+    ],
+    "limits": "Rilettura centrale delle scene riscritte e raccordi; capitoli conservati non riscritti. Nessun revisore umano indipendente; controlli formali non certificano valore letterario."
+  },
+  "style_signals": {
+    "IT": {
+      "quote_signals": [],
+      "repeated_long_paragraphs": []
+    },
+    "EN": {
+      "quote_signals": [],
+      "repeated_long_paragraphs": []
+    }
+  },
+  "wiki_articles": 1866,
+  "html_files_checked": 5320,
+  "local_links_checked": 163121,
+  "local_link_errors": 0,
+  "current_edition": "EDIZIONE_014",
+  "previous_edition_preserved": "EDIZIONE_013",
+  "current_novel_chapters": 78,
+  "novel_campaign_independent": true,
+  "new_arc3_written": false,
+  "zip_created": false,
+  "push_performed": false,
+  "publication_pending_user_push": true
+}
