@@ -1,0 +1,331 @@
+# AVARENNE
+## Volume I — The Waking House
+### Capitolo 1 — La misura sbagliata
+
+Il muro dietro l'armadio era più lontano di undici centimetri.
+
+Elias tenne gli occhi chiusi.
+
+Sotto le dita sentiva il bordo scheggiato del banco. Oltre il legno, oltre il pavimento e le gambe dell'armadio, la stanza continuava a offrirgli le proprie distanze. Non erano immagini. Non vedeva le viti cadute nella polvere né il colore della carta da parati. Sapeva dove finivano le cose.
+
+E qualcosa, lì dietro, finiva troppo tardi.
+
+Aprì gli occhi. Il fondo dell'armadio era scuro, piano, normalissimo. Una ragnatela univa la cornice al muro.
+
+«Undici centimetri», disse.
+
+Marcel Ruy smise di limare.
+
+«Ne avevi segnati nove.»
+
+«Lo so.»
+
+«Allora scrivi undici.»
+
+Elias guardò il quaderno. Aveva tracciato il nove con una sicurezza che adesso trovava irritante.
+
+«Potrebbe esserci una controparete.»
+
+«Potrebbe.»
+
+«O un vano chiuso.»
+
+«Anche.»
+
+«Oppure l'armadio ha un fondo doppio.»
+
+Marcel posò la lima.
+
+«Puoi anche spostarlo.»
+
+Spostarono l'armadio.
+
+Dietro c'era una nicchia bassa, inutilizzata, con un pezzo di tubo murato e abbastanza polvere da far rimpiangere a Elias la propria curiosità. Marcel gli passò il metro senza commenti. La profondità era undici centimetri.
+
+Sul quaderno Elias cancellò il nove con un tratto solo, in modo che rimanesse leggibile. Scrisse il valore corretto accanto.
+
+Il maestro tornò alla morsa. Aveva i capelli grigi schiacciati da un lato e un ricciolo coperto di limatura. Elias pensò di avvertirlo, poi decise che un uomo capace di impartire una lezione senza muoversi dallo sgabello poteva portarsi un po' d'ottone fra i capelli.
+
+Dal vicolo entrò il rumore di un carro. La finestra tremò, e sul ripiano due vetri di ricambio tintinnarono contro una scatola. Il laboratorio odorava d'olio, legno umido e metallo appena lavorato. Dal cortile qualcuno chiamò un nome; nessuno rispose.
+
+Era il diciotto maggio. Mancavano tredici giorni all'udienza.
+
+Elias girò pagina prima di rifare il conto.
+
+Sul foglio successivo aveva disegnato il magazzino del collaudo. Le linee erano più ordinate della stanza vera: niente casse, niente persone, nessuna manica impigliata nel punto sbagliato. Il banco portatile occupava un rettangolo al centro. Aveva copiato due volte le distanze, una a inchiostro e una a matita.
+
+«Non devi lavorarci adesso», disse Marcel.
+
+«Sto facendo una pausa.»
+
+«Dal lavoro?»
+
+«Dall'armadio.»
+
+Il maestro riprese a limare. La lima fece tre corse, poi si fermò di nuovo.
+
+«È arrivata una lettera?»
+
+Elias scosse la testa.
+
+«Sei andato all'ufficio?»
+
+«Ieri.»
+
+«E?»
+
+«Il mio permesso è ancora limitato alle attività del laboratorio.»
+
+«Quello lo sapevi già.»
+
+«Anche loro. È stata una conversazione molto equilibrata.»
+
+Marcel soffiò via un truciolo. Non sorrise, ma gli angoli degli occhi si strinsero.
+
+Il disegno del magazzino non cambiava da quattro giorni. Elias aveva controllato le sottrazioni finché aveva cominciato a dubitare di saper sottrarre. Le misure registrate prima del collaudo erano corrette. Su quello avrebbe potuto giurare, e non perché fosse particolarmente affezionato alla propria reputazione: aveva ripetuto la verifica.
+
+Il problema era ciò che era accaduto dopo.
+
+Il rumore tornava sempre prima dell'immagine. Un colpo secco; poi il braccio di Etienne nel punto dove non avrebbe dovuto esserci. Elias aveva allungato la mano e si era fermato a un dito dalla pelle. Non sapeva se tirare avrebbe liberato l'uomo o finito ciò che il campo aveva cominciato. Ricordava la manica tirata di traverso, il grido che non arrivava a diventare una parola. Tutto il resto si disponeva male intorno a quel dito rimasto sospeso.
+
+Etienne adesso stringeva un bicchiere. Il banco, invece, era ancora lì. Due serie di misure corrette e un uomo ferito fra l'una e l'altra. Elias aveva ricontrollato le cifre fino a consumare il foglio: da nessuna parte riusciva a trovare il momento nel quale il mondo aveva smesso di obbedirgli.
+
+«Elias.»
+
+La voce di Marcel lo riportò alla morsa. Teneva la lima ferma sopra il metallo, senza ricordare di averla sollevata.
+
+Qualcuno bussò alla porta aperta.
+
+Etienne Brac era sulla soglia, col berretto in mano. Indossava una giacca troppo calda per la mattina e teneva una busta piegata sotto il pollice.
+
+Elias si alzò così in fretta che lo sgabello urtò il banco.
+
+«Come va il braccio?»
+
+Etienne lo piegò.
+
+«Si piega.»
+
+«Intendevo—»
+
+«Lo so.»
+
+Marcel indicò la sedia vicino alla finestra. Etienne si sedette. Prima di appoggiare il berretto controllò il piano con il palmo, per non sporcarlo d'olio.
+
+Elias prese un panno e pulì dove aveva già pulito lui.
+
+«Edith dice che devo ricominciare a usarlo normalmente», disse Etienne. «Quindi potete smettere di guardarlo.»
+
+Entrambi guardarono la busta.
+
+Etienne la porse a Marcel.
+
+«Mi hanno dato questo.»
+
+Il maestro aprì il foglio. Lesse senza spostare le labbra. Poi lo passò a Elias.
+
+L'offerta occupava mezza pagina. Una somma, una data, uno spazio per la firma. Il resto era scritto in periodi che sembravano fatti apposta per costringere un uomo a leggerli due volte e vergognarsi della prima.
+
+Elias arrivò alla rinuncia a ulteriori pretese. Tornò indietro. Rilesse la frase sul collaudo.
+
+«Qui sembra che tu accetti la ricostruzione dell'incidente.»
+
+«Sembra o c'è scritto?» chiese Etienne.
+
+Elias stava già cercando un'altra formulazione quando si accorse che era esattamente la domanda giusta.
+
+«Non lo so.»
+
+L'operaio annuì, senza piacere.
+
+«È quello che ho detto anch'io.»
+
+Marcel si pulì le dita nel grembiule.
+
+«Livia deve vederlo.»
+
+«Per questo sono passato. Mi avevi detto che conosceva quelle frasi.» Etienne guardò Elias. «Non voglio chiederti se devo firmare. Voglio sapere che cosa sto firmando.»
+
+Elias aveva già pronta una risposta più grande di lui: non firmare, aspetta, troveremo il documento, dimostreremo tutto.
+
+Gli rimase sulla lingua.
+
+«Posso portarglielo», disse invece.
+
+Etienne si riprese il foglio.
+
+«Vengo anch'io.»
+
+Ripiegò la lettera seguendo le pieghe precedenti, con una cura che Elias trovò difficile guardare.
+
+«Mia moglie dice che se aspetto ancora, saranno le botteghe a decidere che cosa è successo. Quella del pane per prima.»
+
+Elias abbassò gli occhi sul proprio quaderno.
+
+Il salario sospeso non lo ricordava. Undici centimetri dietro l’armadio, quelli sì. Elias chiuse il quaderno.
+
+«Quando è arrivata?» chiese Marcel.
+
+«Ieri sera.»
+
+«La busta.»
+
+Etienne gliela diede. Marcel la guardò contro la luce, poi restituì anche quella.
+
+Non aveva trovato una confessione nascosta fra le fibre. Elias gli fu grato di non fingere il contrario.
+
+Stavano decidendo dove incontrare Livia quando lei comparve nel vicolo.
+
+Elias la riconobbe dal passo prima che raggiungesse la porta: rapido, ma senza quell'accelerazione finale con cui quasi tutti fingevano di non essere in ritardo. Portava una cartella sotto il braccio. Si fermò sulla soglia vedendo Etienne.
+
+«Buongiorno. Vi cercavo.»
+
+«Me o lui?» chiese Elias.
+
+«Oggi mi va bene avervi trovati entrambi.»
+
+Livia entrò e appoggiò la cartella su una parte libera del banco. Marcel vi stese un altro panno. Lei aspettò che avesse finito.
+
+Etienne le mostrò la lettera.
+
+Livia la lesse una volta fino in fondo e una seconda con l'indice fermo sotto un periodo. Non disse subito niente. Elias si accorse di trattenere il fiato e lo lasciò andare prima che qualcuno lo notasse.
+
+«Questa frase lega il pagamento alla vostra accettazione del resoconto allegato», disse infine.
+
+Etienne guardò la busta vuota.
+
+«Non c'era altro.»
+
+«Allora manca qualcosa.»
+
+«Lo possono mettere dopo?»
+
+«Non dovreste firmare un rinvio a un testo che non avete ricevuto.»
+
+«Non dovrei.» Etienne si strofinò il pollice. «E se non firmo?»
+
+Livia gli restituì il foglio.
+
+«Posso aiutarvi a chiedere l'allegato. Non posso promettervi quando vi pagheranno.»
+
+Elias avrebbe voluto che almeno uno di loro avesse una risposta migliore. Per un momento se la prese con lei, irragionevolmente, perché aveva parlato con tanta precisione da non lasciare spazio a una buona illusione.
+
+Livia aprì la cartella.
+
+«Ho portato anche la copia della prima posizione.»
+
+Sul banco comparve una tavola che Elias conosceva quasi quanto il proprio quaderno. La prima volta che l'aveva vista aveva provato un sollievo così forte da sentirsi sciocco. Era autentica. Era incompleta. Le due cose non avevano smesso di sembrargli incompatibili.
+
+Livia la trattenne per un angolo mentre lui spostava la lampada.
+
+«Che cosa dovrebbe mostrarci?» chiese Etienne.
+
+«Dove si trovava il banco quando ho preso le misure», disse Elias.
+
+«Prima che mi facessi male.»
+
+«Sì.»
+
+Etienne guardò le linee. Indicò un rettangolo lungo la parete.
+
+«Queste sono le casse?»
+
+«Quelle che c'erano allora.»
+
+«E il banco è questo.»
+
+Elias annuì.
+
+L'operaio rimase in silenzio abbastanza a lungo da fargli venire voglia di spiegare tutto: il riferimento, gli scarti, i valori che nessuno aveva contestato finché non c'era stato un ferito. Si morse l'interno della guancia.
+
+Etienne sollevò la testa.
+
+«Io ricordo dove lavoravo. Non so dirvi se erano due passi più a destra.»
+
+«Non devi», disse Elias.
+
+Lo aveva detto troppo in fretta.
+
+Livia gli lanciò un'occhiata. Nessun rimprovero evidente. Gli bastò.
+
+Etienne tornò al disegno.
+
+«Chi ha portato dentro il banco?»
+
+«Non lo so», ammise Elias. «Io sono arrivato dopo.»
+
+«Allora forse vi serve qualcuno che l'abbia portato.»
+
+Marcel si appoggiò alla morsa. Il ricciolo con la limatura gli ricadde sulla fronte.
+
+«Direi di sì.»
+
+Elias guardò il quaderno aperto accanto alla tavola. Aveva passato quattro giorni a chiedere alle stesse cifre una risposta che non contenevano.
+
+Prese la matita.
+
+«Il magazzino avrà registrato il trasporto.»
+
+«Forse», disse Livia.
+
+«O qualcuno avrà pagato gli uomini.»
+
+«Forse.»
+
+Questa volta Elias sorrise, suo malgrado.
+
+«Sei sempre così incoraggiante?»
+
+«Quando vuoi scrivere una certezza prima di trovarla.»
+
+Non scrisse chi aveva spostato il banco. Scrisse chi poteva aver visto il trasporto, lasciando il resto della riga vuoto.
+
+Etienne riprese il berretto.
+
+«Posso chiedere agli altri. Ma prima voglio l'allegato.»
+
+«Prima l'allegato», concordò Elias.
+
+L'operaio si alzò, ringraziò Marcel e uscì con Livia, che gli stava spiegando come formulare la richiesta. Elias li seguì con lo sguardo finché svoltarono nel vicolo. Non si era offerto di accompagnarli. Il suo permesso non gli avrebbe impedito una passeggiata; gli impediva di presentarsi al magazzino per fare un'altra perizia. La distinzione gli pesava più del previsto.
+
+Marcel riprese la lima.
+
+«Puoi finire il regolatore», disse.
+
+Elias tornò a sedersi. Sulla morsa c'era il piccolo pezzo d'ottone con un'iniziale incisa sul bordo. Ruy segnava anche quelli che avrebbe scartato.
+
+Rimise il pezzo nella morsa con il lato inciso rivolto verso di sé. La ganascia lasciava un segno sul metallo se la stringeva troppo; se non la stringeva abbastanza, il pezzo si muoveva alla prima corsa. Prima dell’incidente quel compromesso gli era sembrato una cosa imparata una volta per tutte.
+
+Adesso esitava anche lì. Aprì la morsa e ricominciò.
+
+Marcel girò la lampada. La linea riapparve fuori dall'ombra e la lima di Elias trovò finalmente il bordo. Nessuno dei due parlò dell'esitazione. Nel silenzio arrivavano il raschiare del metallo e la ruota di un carro che passava troppo vicina alla finestra.
+
+«Così vedi meglio?»
+
+Elias inclinò la testa. L’ottone gli restituì una striscia chiara.
+
+«Sì.»
+
+La prima corsa della lima fu corta. Non stava misurando il magazzino, non stava preparando una risposta per un uomo che ancora non lo aveva interrogato. Il truciolo gli rimase fra i denti dell’attrezzo. Lo tolse con la spazzola e cercò lo stesso angolo una seconda volta.
+
+Per un po' lavorarono senza parlare.
+
+Poi Elias alzò gli occhi verso l'armadio rimasto fuori posto. Dietro, la nicchia era ancora aperta, brutta e piena di polvere.
+
+«Lo rimettiamo?» chiese.
+
+«Dopo che hai pulito.»
+
+Elias guardò il maestro.
+
+«L'avevi già trovata, vero?»
+
+Marcel continuò a limare.
+
+«È il mio laboratorio.»
+
+Elias rise. Gli fece bene, e per un istante si sentì in colpa anche di quello.
+
+Riprese il regolatore, ma nel quaderno lasciò la matita fra due pagine. Da una parte c'erano gli undici centimetri della nicchia; dall'altra il banco che ricordava di aver misurato bene. Il primo errore lo aveva trovato spostando un armadio.
+
+Per il secondo avrebbe dovuto trovare chi aveva spostato qualcosa dopo di lui.

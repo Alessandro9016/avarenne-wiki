@@ -865,10 +865,10 @@
   },
   {
     "id": "NOVEL-ARC-01",
-    "title": "Arco 1 — The Waking House, revisione narrativa",
+    "title": "Arco 1 — The Waking House",
     "kind": "Archi della novel",
     "url": "novel-arco-01-the-waking-house.html",
-    "bytes": 15790,
+    "bytes": 13797,
     "image_count": 0
   },
   {
@@ -1240,6 +1240,14 @@
     "image_count": 1
   },
   {
+    "id": "NOVEL-INDEX",
+    "title": "AVARENNE — Capitoli integrali della novel",
+    "kind": "Opera",
+    "url": "novel.html",
+    "bytes": 14385,
+    "image_count": 0
+  },
+  {
     "id": "NOVEL-READING-ED010-EN",
     "title": "AVARENNE — Complete first arc, Chapters 1–38",
     "kind": "Testo integrale della novel",
@@ -1248,19 +1256,27 @@
     "image_count": 0
   },
   {
+    "id": "NOVEL-READING-ED012-EN",
+    "title": "AVARENNE — Complete first arc, editorial edition",
+    "kind": "Testo integrale della novel",
+    "url": "novel-ed012-arco01-reading-en.html",
+    "bytes": 477419,
+    "image_count": 0
+  },
+  {
     "id": "NOVEL-READING-ED011-EN",
     "title": "AVARENNE — Complete first arc, narrative revision",
     "kind": "Testo integrale della novel",
     "url": "novel-ed011-arco01-reading-en.html",
-    "bytes": 473800,
+    "bytes": 474095,
     "image_count": 0
   },
   {
     "id": "NOVEL-INDEX-EN",
-    "title": "AVARENNE — First arc in English, narrative revision",
+    "title": "AVARENNE — First arc in English",
     "kind": "Opera",
     "url": "novel-en.html",
-    "bytes": 15672,
+    "bytes": 13633,
     "image_count": 0
   },
   {
@@ -1288,11 +1304,19 @@
     "image_count": 0
   },
   {
+    "id": "NOVEL-READING-ED012-IT",
+    "title": "AVARENNE — Primo arco integrale, edizione editoriale",
+    "kind": "Testo integrale della novel",
+    "url": "novel-ed012-arco01-lettura.html",
+    "bytes": 505545,
+    "image_count": 0
+  },
+  {
     "id": "NOVEL-READING-ED011-IT",
     "title": "AVARENNE — Primo arco integrale, revisione narrativa",
     "kind": "Testo integrale della novel",
     "url": "novel-ed011-arco01-lettura.html",
-    "bytes": 502777,
+    "bytes": 503072,
     "image_count": 0
   },
   {
@@ -1828,7 +1852,7 @@
     "title": "Capitolo 1 — La misura sbagliata",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-001.html",
-    "bytes": 21755,
+    "bytes": 20795,
     "image_count": 0
   },
   {
@@ -1836,7 +1860,7 @@
     "title": "Capitolo 10 — La porta ordinaria",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-010.html",
-    "bytes": 21215,
+    "bytes": 20169,
     "image_count": 0
   },
   {
@@ -1844,7 +1868,7 @@
     "title": "Capitolo 11 — I segni sul pavimento",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-011.html",
-    "bytes": 21269,
+    "bytes": 19948,
     "image_count": 0
   },
   {
@@ -1852,7 +1876,7 @@
     "title": "Capitolo 12 — Una giornata di lavoro",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-012.html",
-    "bytes": 20910,
+    "bytes": 19886,
     "image_count": 0
   },
   {
@@ -1860,7 +1884,7 @@
     "title": "Capitolo 13 — L'amico del duca",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-013.html",
-    "bytes": 20794,
+    "bytes": 19798,
     "image_count": 0
   },
   {
@@ -1868,7 +1892,7 @@
     "title": "Capitolo 14 — Una marca vera",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-014.html",
-    "bytes": 20403,
+    "bytes": 19646,
     "image_count": 0
   },
   {
@@ -1876,7 +1900,7 @@
     "title": "Capitolo 15 — Un pezzo ordinario",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-015.html",
-    "bytes": 21202,
+    "bytes": 20118,
     "image_count": 0
   },
   {
@@ -1884,7 +1908,7 @@
     "title": "Capitolo 16 — Il dono del barone",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-016.html",
-    "bytes": 21992,
+    "bytes": 20764,
     "image_count": 0
   },
   {
@@ -1892,7 +1916,7 @@
     "title": "Capitolo 17 — Il prezzo del confronto",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-017.html",
-    "bytes": 21342,
+    "bytes": 20198,
     "image_count": 0
   },
   {
@@ -1900,7 +1924,7 @@
     "title": "Capitolo 18 — Dopo la risposta",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-018.html",
-    "bytes": 20876,
+    "bytes": 19796,
     "image_count": 0
   },
   {
@@ -1908,7 +1932,7 @@
     "title": "Capitolo 19 — La distanza di un tavolo",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-019.html",
-    "bytes": 20342,
+    "bytes": 19462,
     "image_count": 0
   },
   {
@@ -1916,7 +1940,7 @@
     "title": "Capitolo 2 — La mano sul lenzuolo",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-002.html",
-    "bytes": 21490,
+    "bytes": 20431,
     "image_count": 0
   },
   {
@@ -1924,7 +1948,7 @@
     "title": "Capitolo 20 — Il figlio",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-020.html",
-    "bytes": 21033,
+    "bytes": 19791,
     "image_count": 0
   },
   {
@@ -1932,7 +1956,7 @@
     "title": "Capitolo 21 — Una chiave piccola",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-021.html",
-    "bytes": 21098,
+    "bytes": 19642,
     "image_count": 0
   },
   {
@@ -1940,7 +1964,7 @@
     "title": "Capitolo 22 — La stanza di Celine",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-022.html",
-    "bytes": 20505,
+    "bytes": 19341,
     "image_count": 0
   },
   {
@@ -1948,7 +1972,7 @@
     "title": "Capitolo 23 — Un'apertura",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-023.html",
-    "bytes": 20948,
+    "bytes": 20168,
     "image_count": 0
   },
   {
@@ -1956,7 +1980,7 @@
     "title": "Capitolo 24 — Quello che non si compra",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-024.html",
-    "bytes": 20761,
+    "bytes": 19584,
     "image_count": 0
   },
   {
@@ -1964,7 +1988,7 @@
     "title": "Capitolo 25 — L'estratto",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-025.html",
-    "bytes": 21515,
+    "bytes": 20176,
     "image_count": 0
   },
   {
@@ -1972,7 +1996,7 @@
     "title": "Capitolo 26 — Il braccio guarito",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-026.html",
-    "bytes": 21060,
+    "bytes": 20042,
     "image_count": 0
   },
   {
@@ -1980,7 +2004,7 @@
     "title": "Capitolo 27 — Le carte fuori dalla casa",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-027.html",
-    "bytes": 21090,
+    "bytes": 19909,
     "image_count": 0
   },
   {
@@ -1988,7 +2012,7 @@
     "title": "Capitolo 28 — La seconda posizione",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-028.html",
-    "bytes": 20775,
+    "bytes": 20009,
     "image_count": 0
   },
   {
@@ -1996,7 +2020,7 @@
     "title": "Capitolo 29 — Il giorno delle paghe",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-029.html",
-    "bytes": 20765,
+    "bytes": 19557,
     "image_count": 0
   },
   {
@@ -2004,7 +2028,7 @@
     "title": "Capitolo 3 — Un posto a tavola",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-003.html",
-    "bytes": 20873,
+    "bytes": 20138,
     "image_count": 0
   },
   {
@@ -2012,7 +2036,7 @@
     "title": "Capitolo 30 — L'oggetto che non partì",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-030.html",
-    "bytes": 23399,
+    "bytes": 22209,
     "image_count": 0
   },
   {
@@ -2020,7 +2044,7 @@
     "title": "Capitolo 31 — Dall'altra parte della porta",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-031.html",
-    "bytes": 20560,
+    "bytes": 19675,
     "image_count": 0
   },
   {
@@ -2028,7 +2052,7 @@
     "title": "Capitolo 32 — Quello che un padre dice",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-032.html",
-    "bytes": 20870,
+    "bytes": 19747,
     "image_count": 0
   },
   {
@@ -2036,7 +2060,7 @@
     "title": "Capitolo 33 — La firma di Vern",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-033.html",
-    "bytes": 20758,
+    "bytes": 19559,
     "image_count": 0
   },
   {
@@ -2044,7 +2068,7 @@
     "title": "Capitolo 34 — Il lavoro del braccio",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-034.html",
-    "bytes": 20689,
+    "bytes": 19671,
     "image_count": 0
   },
   {
@@ -2052,7 +2076,7 @@
     "title": "Capitolo 35 — Restare",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-035.html",
-    "bytes": 20457,
+    "bytes": 19447,
     "image_count": 0
   },
   {
@@ -2060,7 +2084,7 @@
     "title": "Capitolo 36 — L'udienza",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-036.html",
-    "bytes": 20716,
+    "bytes": 19728,
     "image_count": 0
   },
   {
@@ -2068,7 +2092,7 @@
     "title": "Capitolo 37 — Il nome restituito",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-037.html",
-    "bytes": 21136,
+    "bytes": 19956,
     "image_count": 0
   },
   {
@@ -2076,7 +2100,7 @@
     "title": "Capitolo 38 — Una porta aperta",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-038.html",
-    "bytes": 20604,
+    "bytes": 19381,
     "image_count": 0
   },
   {
@@ -2084,7 +2108,7 @@
     "title": "Capitolo 4 — Quello che resta",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-004.html",
-    "bytes": 21296,
+    "bytes": 20095,
     "image_count": 0
   },
   {
@@ -2092,7 +2116,7 @@
     "title": "Capitolo 5 — La richiesta",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-005.html",
-    "bytes": 21278,
+    "bytes": 20386,
     "image_count": 0
   },
   {
@@ -2100,7 +2124,7 @@
     "title": "Capitolo 6 — L'allegato",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-006.html",
-    "bytes": 21242,
+    "bytes": 20779,
     "image_count": 0
   },
   {
@@ -2108,7 +2132,7 @@
     "title": "Capitolo 7 — Le cose che continuano",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-007.html",
-    "bytes": 21299,
+    "bytes": 20386,
     "image_count": 0
   },
   {
@@ -2116,7 +2140,7 @@
     "title": "Capitolo 8 — Il peso della cassetta",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-008.html",
-    "bytes": 21188,
+    "bytes": 20186,
     "image_count": 0
   },
   {
@@ -2124,7 +2148,7 @@
     "title": "Capitolo 9 — Il biglietto del dono",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-009.html",
-    "bytes": 20844,
+    "bytes": 19767,
     "image_count": 0
   },
   {
@@ -2336,307 +2360,307 @@
     "image_count": 2
   },
   {
-    "id": "NOVEL-EN-C001",
+    "id": "NOVEL-V01-C001-EN",
     "title": "Chapter 1 — The Wrong Measure",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-001-en.html",
-    "bytes": 20746,
+    "bytes": 20681,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C010",
+    "id": "NOVEL-V01-C010-EN",
     "title": "Chapter 10 — The Ordinary Door",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-010-en.html",
-    "bytes": 19388,
+    "bytes": 19349,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C011",
+    "id": "NOVEL-V01-C011-EN",
     "title": "Chapter 11 — Marks on the Floor",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-011-en.html",
-    "bytes": 19573,
+    "bytes": 19262,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C012",
+    "id": "NOVEL-V01-C012-EN",
     "title": "Chapter 12 — A Day's Work",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-012-en.html",
-    "bytes": 19270,
+    "bytes": 19285,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C013",
+    "id": "NOVEL-V01-C013-EN",
     "title": "Chapter 13 — The Duke's Friend",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-013-en.html",
-    "bytes": 19332,
+    "bytes": 19247,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C014",
+    "id": "NOVEL-V01-C014-EN",
     "title": "Chapter 14 — A True Mark",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-014-en.html",
-    "bytes": 18814,
+    "bytes": 18988,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C015",
+    "id": "NOVEL-V01-C015-EN",
     "title": "Chapter 15 — An Ordinary Piece",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-015-en.html",
-    "bytes": 19498,
+    "bytes": 19398,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C016",
+    "id": "NOVEL-V01-C016-EN",
     "title": "Chapter 16 — The Baron's Gift",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-016-en.html",
-    "bytes": 19878,
+    "bytes": 19873,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C017",
+    "id": "NOVEL-V01-C017-EN",
     "title": "Chapter 17 — The Price of Comparison",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-017-en.html",
-    "bytes": 19405,
+    "bytes": 19378,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C018",
+    "id": "NOVEL-V01-C018-EN",
     "title": "Chapter 18 — After the Answer",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-018-en.html",
-    "bytes": 19026,
+    "bytes": 19159,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C019",
+    "id": "NOVEL-V01-C019-EN",
     "title": "Chapter 19 — The Distance Across a Table",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-019-en.html",
-    "bytes": 18867,
+    "bytes": 18948,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C002",
+    "id": "NOVEL-V01-C002-EN",
     "title": "Chapter 2 — The Hand on the Sheet",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-002-en.html",
-    "bytes": 20280,
+    "bytes": 20107,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C020",
+    "id": "NOVEL-V01-C020-EN",
     "title": "Chapter 20 — The Son",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-020-en.html",
-    "bytes": 19517,
+    "bytes": 19367,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C021",
+    "id": "NOVEL-V01-C021-EN",
     "title": "Chapter 21 — A Small Key",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-021-en.html",
-    "bytes": 19222,
+    "bytes": 18969,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C022",
+    "id": "NOVEL-V01-C022-EN",
     "title": "Chapter 22 — Celine's Room",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-022-en.html",
-    "bytes": 18826,
+    "bytes": 18747,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C023",
+    "id": "NOVEL-V01-C023-EN",
     "title": "Chapter 23 — An Opening",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-023-en.html",
-    "bytes": 18487,
+    "bytes": 19192,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C024",
+    "id": "NOVEL-V01-C024-EN",
     "title": "Chapter 24 — What Cannot Be Bought",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-024-en.html",
-    "bytes": 18589,
+    "bytes": 18675,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C025",
+    "id": "NOVEL-V01-C025-EN",
     "title": "Chapter 25 — The Extract",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-025-en.html",
-    "bytes": 19155,
+    "bytes": 19142,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C026",
+    "id": "NOVEL-V01-C026-EN",
     "title": "Chapter 26 — The Healed Arm",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-026-en.html",
-    "bytes": 19071,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-EN-C027",
-    "title": "Chapter 27 — The Papers Outside the House",
-    "kind": "Capitoli della novel",
-    "url": "novel-volume-01-chapter-027-en.html",
-    "bytes": 18846,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-EN-C028",
-    "title": "Chapter 28 — The Second Position",
-    "kind": "Capitoli della novel",
-    "url": "novel-volume-01-chapter-028-en.html",
-    "bytes": 18508,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-EN-C029",
-    "title": "Chapter 29 — Payday",
-    "kind": "Capitoli della novel",
-    "url": "novel-volume-01-chapter-029-en.html",
-    "bytes": 18740,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-EN-C003",
-    "title": "Chapter 3 — A Place at the Table",
-    "kind": "Capitoli della novel",
-    "url": "novel-volume-01-chapter-003-en.html",
-    "bytes": 20097,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-EN-C030",
-    "title": "Chapter 30 — The Object That Did Not Leave",
-    "kind": "Capitoli della novel",
-    "url": "novel-volume-01-chapter-030-en.html",
-    "bytes": 20879,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-EN-C031",
-    "title": "Chapter 31 — On the Other Side of the Door",
-    "kind": "Capitoli della novel",
-    "url": "novel-volume-01-chapter-031-en.html",
-    "bytes": 18422,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-EN-C032",
-    "title": "Chapter 32 — What a Father Says",
-    "kind": "Capitoli della novel",
-    "url": "novel-volume-01-chapter-032-en.html",
     "bytes": 18999,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C033",
+    "id": "NOVEL-V01-C027-EN",
+    "title": "Chapter 27 — The Papers Outside the House",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-027-en.html",
+    "bytes": 18849,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C028-EN",
+    "title": "Chapter 28 — The Second Position",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-028-en.html",
+    "bytes": 18945,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C029-EN",
+    "title": "Chapter 29 — Payday",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-029-en.html",
+    "bytes": 18644,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C003-EN",
+    "title": "Chapter 3 — A Place at the Table",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-003-en.html",
+    "bytes": 20207,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C030-EN",
+    "title": "Chapter 30 — The Object That Did Not Leave",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-030-en.html",
+    "bytes": 21000,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C031-EN",
+    "title": "Chapter 31 — On the Other Side of the Door",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-031-en.html",
+    "bytes": 18579,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C032-EN",
+    "title": "Chapter 32 — What a Father Says",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-032-en.html",
+    "bytes": 18931,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C033-EN",
     "title": "Chapter 33 — Vern's Signature",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-033-en.html",
-    "bytes": 18672,
+    "bytes": 18469,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C034",
+    "id": "NOVEL-V01-C034-EN",
     "title": "Chapter 34 — The Work of an Arm",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-034-en.html",
-    "bytes": 18649,
+    "bytes": 18703,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C035",
+    "id": "NOVEL-V01-C035-EN",
     "title": "Chapter 35 — Staying",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-035-en.html",
-    "bytes": 18513,
+    "bytes": 18556,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C036",
+    "id": "NOVEL-V01-C036-EN",
     "title": "Chapter 36 — The Hearing",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-036-en.html",
-    "bytes": 18729,
+    "bytes": 18948,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C037",
+    "id": "NOVEL-V01-C037-EN",
     "title": "Chapter 37 — A Name Returned",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-037-en.html",
-    "bytes": 18590,
+    "bytes": 18721,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C038",
+    "id": "NOVEL-V01-C038-EN",
     "title": "Chapter 38 — An Open Door",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-038-en.html",
-    "bytes": 18050,
+    "bytes": 18169,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C004",
+    "id": "NOVEL-V01-C004-EN",
     "title": "Chapter 4 — What Remains",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-004-en.html",
-    "bytes": 19812,
+    "bytes": 19621,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C005",
+    "id": "NOVEL-V01-C005-EN",
     "title": "Chapter 5 — The Request",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-005-en.html",
-    "bytes": 20070,
+    "bytes": 20184,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C006",
+    "id": "NOVEL-V01-C006-EN",
     "title": "Chapter 6 — The Attachment",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-006-en.html",
-    "bytes": 19892,
+    "bytes": 20168,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C007",
+    "id": "NOVEL-V01-C007-EN",
     "title": "Chapter 7 — The Things That Continue",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-007-en.html",
-    "bytes": 19988,
+    "bytes": 19951,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C008",
+    "id": "NOVEL-V01-C008-EN",
     "title": "Chapter 8 — The Weight of the Toolbox",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-008-en.html",
-    "bytes": 19606,
+    "bytes": 19565,
     "image_count": 0
   },
   {
-    "id": "NOVEL-EN-C009",
+    "id": "NOVEL-V01-C009-EN",
     "title": "Chapter 9 — The Note with the Gift",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-009-en.html",
-    "bytes": 19191,
+    "bytes": 19091,
     "image_count": 0
   },
   {
@@ -3197,6 +3221,14 @@
     "kind": "Cronologia della novel",
     "url": "novel-cronologia-385.html",
     "bytes": 35010,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-CHRONOLOGY-388",
+    "title": "Cronologia del primo arco — revisione 388",
+    "kind": "Cronologia della novel",
+    "url": "novel-cronologia-388.html",
+    "bytes": 34363,
     "image_count": 0
   },
   {
@@ -5028,7 +5060,7 @@
     "title": "Guida decisionale del Narratore",
     "kind": "Consultazione",
     "url": "guida-decisionale-narratore.html",
-    "bytes": 13137,
+    "bytes": 13115,
     "image_count": 0
   },
   {
@@ -5540,7 +5572,7 @@
     "title": "Indice generale A–Z",
     "kind": "Indici",
     "url": "indice-generale.html",
-    "bytes": 158811,
+    "bytes": 159258,
     "image_count": 0
   },
   {
@@ -5604,7 +5636,7 @@
     "title": "Informazioni sulla wiki",
     "kind": "Enciclopedia",
     "url": "informazioni.html",
-    "bytes": 8927,
+    "bytes": 8905,
     "image_count": 0
   },
   {
@@ -6208,14 +6240,6 @@
     "image_count": 0
   },
   {
-    "id": "NOVEL-INDEX",
-    "title": "La novel — primo arco IT / EN, revisione narrativa",
-    "kind": "Opera",
-    "url": "novel.html",
-    "bytes": 16825,
-    "image_count": 0
-  },
-  {
     "id": "DOC-273",
     "title": "La rete civile di Alexander",
     "kind": "Approfondimenti",
@@ -6660,7 +6684,7 @@
     "title": "L’opera",
     "kind": "Indici tematici",
     "url": "opera.html",
-    "bytes": 27517,
+    "bytes": 27495,
     "image_count": 48
   },
   {
@@ -8204,7 +8228,7 @@
     "title": "Pagina principale",
     "kind": "Enciclopedia",
     "url": "index.html",
-    "bytes": 24196,
+    "bytes": 24174,
     "image_count": 33
   },
   {
@@ -8348,7 +8372,7 @@
     "title": "Personaggi",
     "kind": "Indici tematici",
     "url": "personaggi.html",
-    "bytes": 216107,
+    "bytes": 216085,
     "image_count": 330
   },
   {
@@ -8472,6 +8496,14 @@
     "image_count": 0
   },
   {
+    "id": "NOVEL-REVISION-388",
+    "title": "Primo arco — revisione editoriale 388",
+    "kind": "Opera",
+    "url": "novel-revisione-388.html",
+    "bytes": 11558,
+    "image_count": 0
+  },
+  {
     "id": "REG-05",
     "title": "Private Reveries",
     "kind": "Cosmologia",
@@ -8524,7 +8556,7 @@
     "title": "Protocollo operativo del Narratore",
     "kind": "Consegna",
     "url": "protocollo-narratore.html",
-    "bytes": 34774,
+    "bytes": 34752,
     "image_count": 0
   },
   {
@@ -8924,7 +8956,7 @@
     "title": "Revisione narrativa del primo arco — 387",
     "kind": "Opera",
     "url": "novel-revisione-387.html",
-    "bytes": 11374,
+    "bytes": 11666,
     "image_count": 0
   },
   {

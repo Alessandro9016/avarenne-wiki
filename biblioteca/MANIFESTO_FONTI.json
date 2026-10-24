@@ -28900,6 +28900,726 @@
       "raw": "fonti/c1ebbdf6b2f48a31.md",
       "sha256": "123c3019298749fd015ef1e5f05a6c192d894e862b83b2b45b4fe54b1718248e",
       "bytes": 10760
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/001_la-misura-sbagliata.md",
+      "title": "001 la-misura-sbagliata",
+      "group": "Novel — edizione editoriale 388",
+      "url": "3fdbc5f5e985f0cf.html",
+      "raw": "fonti/3fdbc5f5e985f0cf.md",
+      "sha256": "d084c5e6942e97b03c6a303ca4d781629708b57b818f5df8d7ce8ecfe87ac6d7",
+      "bytes": 12761
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/002_la-mano-sul-lenzuolo.md",
+      "title": "002 la-mano-sul-lenzuolo",
+      "group": "Novel — edizione editoriale 388",
+      "url": "d66940b205c57026.html",
+      "raw": "fonti/d66940b205c57026.md",
+      "sha256": "7672fb4674b312d441a9f4479f05250a1a8f5cfa5393b96bf6f51e62f40681c5",
+      "bytes": 12444
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/003_un-posto-a-tavola.md",
+      "title": "003 un-posto-a-tavola",
+      "group": "Novel — edizione editoriale 388",
+      "url": "1ef17a0be4a3d9a9.html",
+      "raw": "fonti/1ef17a0be4a3d9a9.md",
+      "sha256": "e5c3ada1f4e3e669c9bd380f975dca78c37e7713239a833a05ecc0fc044d8f21",
+      "bytes": 12056
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/004_quello-che-resta.md",
+      "title": "004 quello-che-resta",
+      "group": "Novel — edizione editoriale 388",
+      "url": "ef24bc7c8b31aa27.html",
+      "raw": "fonti/ef24bc7c8b31aa27.md",
+      "sha256": "c68accca057af858d23133a769c4e3ee7248010908794ae2c13e2c39d12b4042",
+      "bytes": 12208
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/005_la-richiesta.md",
+      "title": "005 la-richiesta",
+      "group": "Novel — edizione editoriale 388",
+      "url": "d4b741009ab2e86f.html",
+      "raw": "fonti/d4b741009ab2e86f.md",
+      "sha256": "e2ba8118f20c8a8f755137c8990c439ec5a4e90bed114056db0a10ad5e714312",
+      "bytes": 12404
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/006_l-allegato.md",
+      "title": "006 l-allegato",
+      "group": "Novel — edizione editoriale 388",
+      "url": "20cf38c905ccfc6d.html",
+      "raw": "fonti/20cf38c905ccfc6d.md",
+      "sha256": "5118006cc2c9fe6cfd02be220113e1949e3cc5b9f41a1d9070f35339be41da81",
+      "bytes": 12952
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/007_le-cose-che-continuano.md",
+      "title": "007 le-cose-che-continuano",
+      "group": "Novel — edizione editoriale 388",
+      "url": "44392f1d30505fba.html",
+      "raw": "fonti/44392f1d30505fba.md",
+      "sha256": "16900b0f60cd51edf933cc700368680fc9d02639e5a09004284a161cf2fa31a0",
+      "bytes": 12639
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/008_il-peso-della-cassetta.md",
+      "title": "008 il-peso-della-cassetta",
+      "group": "Novel — edizione editoriale 388",
+      "url": "0bacf5c377095951.html",
+      "raw": "fonti/0bacf5c377095951.md",
+      "sha256": "b8ac47f410ade1bf2aed9e905caa46035000d9ede15d444dba9297499ca5c9ff",
+      "bytes": 12444
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/009_il-biglietto-del-dono.md",
+      "title": "009 il-biglietto-del-dono",
+      "group": "Novel — edizione editoriale 388",
+      "url": "fb66ceb3f64ace07.html",
+      "raw": "fonti/fb66ceb3f64ace07.md",
+      "sha256": "6e33321c0735ded77b7fe3d37ea27b3fef794a0d33089fcfa6ab624eb5b2ea63",
+      "bytes": 12050
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/010_la-porta-ordinaria.md",
+      "title": "010 la-porta-ordinaria",
+      "group": "Novel — edizione editoriale 388",
+      "url": "252a3ac421681e65.html",
+      "raw": "fonti/252a3ac421681e65.md",
+      "sha256": "a30e093a9b0aa62d983e418bb1e20205e6c7b66dc79f91d2eb47611ae57b4fd0",
+      "bytes": 12400
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/011_i-segni-sul-pavimento.md",
+      "title": "011 i-segni-sul-pavimento",
+      "group": "Novel — edizione editoriale 388",
+      "url": "ec13a75fbd153769.html",
+      "raw": "fonti/ec13a75fbd153769.md",
+      "sha256": "63f72efbbd9bca824ffe77128fc5a163b2127087a7fe8f5afbe8a26d04ddc672",
+      "bytes": 12232
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/012_una-giornata-di-lavoro.md",
+      "title": "012 una-giornata-di-lavoro",
+      "group": "Novel — edizione editoriale 388",
+      "url": "1df5f88cc686f193.html",
+      "raw": "fonti/1df5f88cc686f193.md",
+      "sha256": "68bce0ec724781428138f4026bbfa82d3f516d433046b52181c4341f724c9160",
+      "bytes": 12120
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/013_l-amico-del-duca.md",
+      "title": "013 l-amico-del-duca",
+      "group": "Novel — edizione editoriale 388",
+      "url": "6b9723f1c6d5f671.html",
+      "raw": "fonti/6b9723f1c6d5f671.md",
+      "sha256": "27a094d87aef235b522c1627c868c1aa9ba54a768388a6077fa69bb1c162aa2d",
+      "bytes": 12052
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/014_una-marca-vera.md",
+      "title": "014 una-marca-vera",
+      "group": "Novel — edizione editoriale 388",
+      "url": "e88e7fd70ebd8fb2.html",
+      "raw": "fonti/e88e7fd70ebd8fb2.md",
+      "sha256": "e0211c2b96aebb1f8f12d499385274c491910588eaeaf8e3871a1e621a7b5107",
+      "bytes": 11935
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/015_un-pezzo-ordinario.md",
+      "title": "015 un-pezzo-ordinario",
+      "group": "Novel — edizione editoriale 388",
+      "url": "b6ddbb11e3b5de50.html",
+      "raw": "fonti/b6ddbb11e3b5de50.md",
+      "sha256": "fa14108d7682fc894434657b80e03c03397f2cb6baded3617a21b7cac49e3823",
+      "bytes": 12354
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/016_il-dono-del-barone.md",
+      "title": "016 il-dono-del-barone",
+      "group": "Novel — edizione editoriale 388",
+      "url": "49efb9b326453357.html",
+      "raw": "fonti/49efb9b326453357.md",
+      "sha256": "9cb47f75fe81a983260b2be78afe4ad676efb3c457b8223ae8fd9a5e797bffda",
+      "bytes": 13063
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/017_il-prezzo-del-confronto.md",
+      "title": "017 il-prezzo-del-confronto",
+      "group": "Novel — edizione editoriale 388",
+      "url": "4d8b252cd0ce0a78.html",
+      "raw": "fonti/4d8b252cd0ce0a78.md",
+      "sha256": "85980178db1ecd6e9f469635e199b82284329633397a3e93e7ae58e10302f0d0",
+      "bytes": 12437
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/018_dopo-la-risposta.md",
+      "title": "018 dopo-la-risposta",
+      "group": "Novel — edizione editoriale 388",
+      "url": "e1b49a305b2438dd.html",
+      "raw": "fonti/e1b49a305b2438dd.md",
+      "sha256": "4d560da8a8ad00dad5f9f4db09c271587e1928759a6e7e706edcaf7196dd1818",
+      "bytes": 12165
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/019_la-distanza-di-un-tavolo.md",
+      "title": "019 la-distanza-di-un-tavolo",
+      "group": "Novel — edizione editoriale 388",
+      "url": "6086eab12eba4b8c.html",
+      "raw": "fonti/6086eab12eba4b8c.md",
+      "sha256": "225cdc81bbe5c53963e89cf87f8fe55904fffef1a7aa196777d4718ea76d6751",
+      "bytes": 11731
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/020_il-figlio.md",
+      "title": "020 il-figlio",
+      "group": "Novel — edizione editoriale 388",
+      "url": "c68d926bc5e57735.html",
+      "raw": "fonti/c68d926bc5e57735.md",
+      "sha256": "8c40ed3d7b357c8025eca6bc179af4f9d0ac16f19bf5e292df793a2e2fd543b1",
+      "bytes": 12060
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/021_una-chiave-piccola.md",
+      "title": "021 una-chiave-piccola",
+      "group": "Novel — edizione editoriale 388",
+      "url": "86b6768402cd89cc.html",
+      "raw": "fonti/86b6768402cd89cc.md",
+      "sha256": "6c3458786b0ff5cded5b4d4c1d226e0562a38b975b88980c0a37564cb8e8a0e6",
+      "bytes": 11961
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/022_la-stanza-di-celine.md",
+      "title": "022 la-stanza-di-celine",
+      "group": "Novel — edizione editoriale 388",
+      "url": "96b57c13457602af.html",
+      "raw": "fonti/96b57c13457602af.md",
+      "sha256": "f9b0a281eafe886caf939e184de811c66d7d8b2ddf4035548aaa0c7bd67eed71",
+      "bytes": 11610
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/023_un-apertura.md",
+      "title": "023 un-apertura",
+      "group": "Novel — edizione editoriale 388",
+      "url": "c5949a16a0c64e50.html",
+      "raw": "fonti/c5949a16a0c64e50.md",
+      "sha256": "c5f4e8c3a522377b019bf62a457292c63a881d419d09663fb333c9e25388189b",
+      "bytes": 12592
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/024_quello-che-non-si-compra.md",
+      "title": "024 quello-che-non-si-compra",
+      "group": "Novel — edizione editoriale 388",
+      "url": "d04560ff389a3e5c.html",
+      "raw": "fonti/d04560ff389a3e5c.md",
+      "sha256": "2917729eadad7ecc90db5f9ef8c403a586ee777cb324e3f2f5296a9dfe48e22a",
+      "bytes": 11918
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/025_l-estratto.md",
+      "title": "025 l-estratto",
+      "group": "Novel — edizione editoriale 388",
+      "url": "b4099a2cdfea2fb1.html",
+      "raw": "fonti/b4099a2cdfea2fb1.md",
+      "sha256": "f7fe8bb8a505bcffc462630d7811082b5a9ee6eee09145963db5fc26eb440b01",
+      "bytes": 12510
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/026_il-braccio-guarito.md",
+      "title": "026 il-braccio-guarito",
+      "group": "Novel — edizione editoriale 388",
+      "url": "421e94228fef0854.html",
+      "raw": "fonti/421e94228fef0854.md",
+      "sha256": "f18f4b03701ad9b7881a0f75242fa0210036d1b2f213c37f41ce45edb1efa803",
+      "bytes": 12336
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/027_le-carte-fuori-dalla-casa.md",
+      "title": "027 le-carte-fuori-dalla-casa",
+      "group": "Novel — edizione editoriale 388",
+      "url": "c213f45d678621f6.html",
+      "raw": "fonti/c213f45d678621f6.md",
+      "sha256": "b99c94f40881e47f6a8d81b26cc43899a79af4e7c676bb5b34fca2eac1a93086",
+      "bytes": 12303
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/028_la-seconda-posizione.md",
+      "title": "028 la-seconda-posizione",
+      "group": "Novel — edizione editoriale 388",
+      "url": "7d83459b30ca4b76.html",
+      "raw": "fonti/7d83459b30ca4b76.md",
+      "sha256": "1286691a9104830e8aa62f51eeec794caf1fb4ec844bdb97da02f1631b8ecdc2",
+      "bytes": 12368
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/029_il-giorno-delle-paghe.md",
+      "title": "029 il-giorno-delle-paghe",
+      "group": "Novel — edizione editoriale 388",
+      "url": "b56cb1fddb69b2ab.html",
+      "raw": "fonti/b56cb1fddb69b2ab.md",
+      "sha256": "7ff5fcb78c1736f717d1f03307e2d1a3805fb28ebce2498f40e0e89533f84c05",
+      "bytes": 11901
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/030_l-oggetto-che-non-parti.md",
+      "title": "030 l-oggetto-che-non-parti",
+      "group": "Novel — edizione editoriale 388",
+      "url": "9c926edb2c304232.html",
+      "raw": "fonti/9c926edb2c304232.md",
+      "sha256": "6b23aae225ae3138e754dec5cf9f2372e83b46801bcb814deb700f42bceb1619",
+      "bytes": 14414
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/031_dall-altra-parte-della-porta.md",
+      "title": "031 dall-altra-parte-della-porta",
+      "group": "Novel — edizione editoriale 388",
+      "url": "9b846cfa576c25e3.html",
+      "raw": "fonti/9b846cfa576c25e3.md",
+      "sha256": "5e7907225af6e65bcc09b134e47b63c3282ae86ce5ff40110904c772ca2d8620",
+      "bytes": 11984
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/032_quello-che-un-padre-dice.md",
+      "title": "032 quello-che-un-padre-dice",
+      "group": "Novel — edizione editoriale 388",
+      "url": "b7af91f57a199761.html",
+      "raw": "fonti/b7af91f57a199761.md",
+      "sha256": "690daf2e89a642fef42261982e20f65d9edbdf85821c050f068b570342f630ce",
+      "bytes": 12051
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/033_la-firma-di-vern.md",
+      "title": "033 la-firma-di-vern",
+      "group": "Novel — edizione editoriale 388",
+      "url": "a9f2a0a724dd53cd.html",
+      "raw": "fonti/a9f2a0a724dd53cd.md",
+      "sha256": "35b2286a06775e85a74c309b4c00926740c61d0880b91bb239d64f9b3df41010",
+      "bytes": 11933
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/034_il-lavoro-del-braccio.md",
+      "title": "034 il-lavoro-del-braccio",
+      "group": "Novel — edizione editoriale 388",
+      "url": "f64244abfae15533.html",
+      "raw": "fonti/f64244abfae15533.md",
+      "sha256": "8223097c17906b3424c945664a6d0e77d0cdd2859292307ca37c07e9477d6091",
+      "bytes": 12005
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/035_restare.md",
+      "title": "035 restare",
+      "group": "Novel — edizione editoriale 388",
+      "url": "8c3558516c293896.html",
+      "raw": "fonti/8c3558516c293896.md",
+      "sha256": "b1e2a51d8181061c2b33fa9064ba925631ed11d88bc8adddd87ceca52685b16b",
+      "bytes": 11926
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/036_l-udienza.md",
+      "title": "036 l-udienza",
+      "group": "Novel — edizione editoriale 388",
+      "url": "c6d055ed466977db.html",
+      "raw": "fonti/c6d055ed466977db.md",
+      "sha256": "e4e7a17ec9f413edb349e38842a5fa7c758f2591bdf77f1dc98499d5edbc951e",
+      "bytes": 12132
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/037_il-nome-restituito.md",
+      "title": "037 il-nome-restituito",
+      "group": "Novel — edizione editoriale 388",
+      "url": "33dd7ea55ac94be6.html",
+      "raw": "fonti/33dd7ea55ac94be6.md",
+      "sha256": "403de284634a542043c067111475b389a1d48f542036beab401778d1efae06b4",
+      "bytes": 12365
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/IT/Volume_01/038_una-porta-aperta.md",
+      "title": "038 una-porta-aperta",
+      "group": "Novel — edizione editoriale 388",
+      "url": "922d7d9091510644.html",
+      "raw": "fonti/922d7d9091510644.md",
+      "sha256": "124c50adff1e163611c3ee68e92a29d5f88029076d244f3ae2f92acaee5662f1",
+      "bytes": 11965
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/001_the-wrong-measure.md",
+      "title": "001 the-wrong-measure",
+      "group": "Novel — edizione editoriale 388",
+      "url": "a69e95c319bb3140.html",
+      "raw": "fonti/a69e95c319bb3140.md",
+      "sha256": "d732d852037e75972d9f1a7d0211c4738bc7e65528683a03126b8cfa9b2bae00",
+      "bytes": 12721
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/002_the-hand-on-the-sheet.md",
+      "title": "002 the-hand-on-the-sheet",
+      "group": "Novel — edizione editoriale 388",
+      "url": "4ec3250fa336aa64.html",
+      "raw": "fonti/4ec3250fa336aa64.md",
+      "sha256": "00ea8f4a8262502912367a8e4db13202eb14f8a7d70f55a49bdd8a847978718e",
+      "bytes": 12070
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/003_a-place-at-the-table.md",
+      "title": "003 a-place-at-the-table",
+      "group": "Novel — edizione editoriale 388",
+      "url": "734fcd1828664c74.html",
+      "raw": "fonti/734fcd1828664c74.md",
+      "sha256": "c3052bc153e30efdafae2970571adb094cda8308ed0ee698581b27f8ab7c8a8f",
+      "bytes": 12000
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/004_what-remains.md",
+      "title": "004 what-remains",
+      "group": "Novel — edizione editoriale 388",
+      "url": "bfeaa1d13a3c207b.html",
+      "raw": "fonti/bfeaa1d13a3c207b.md",
+      "sha256": "35ed753722e051955f798e58c70701fd89018661d9ae1afd2f4e396be342692e",
+      "bytes": 11769
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/005_the-request.md",
+      "title": "005 the-request",
+      "group": "Novel — edizione editoriale 388",
+      "url": "9b462fb77e076961.html",
+      "raw": "fonti/9b462fb77e076961.md",
+      "sha256": "e5d299d69f317ce4448470722e3ed99f7ee49c77c1c4257a554efb9f7b07e591",
+      "bytes": 12152
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/006_the-attachment.md",
+      "title": "006 the-attachment",
+      "group": "Novel — edizione editoriale 388",
+      "url": "c80f3354d7cab140.html",
+      "raw": "fonti/c80f3354d7cab140.md",
+      "sha256": "ce011b0a1a652f1e96485e33d739dbf5bf41f80dd202df913f05fe4932607be6",
+      "bytes": 12336
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/007_the-things-that-continue.md",
+      "title": "007 the-things-that-continue",
+      "group": "Novel — edizione editoriale 388",
+      "url": "0c67e7495635b9eb.html",
+      "raw": "fonti/0c67e7495635b9eb.md",
+      "sha256": "e928f5907cca6ac2d8bb712c0fc82cccf7371bbd60f0caac035e0bf8ac6e8e89",
+      "bytes": 12154
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/008_the-weight-of-the-toolbox.md",
+      "title": "008 the-weight-of-the-toolbox",
+      "group": "Novel — edizione editoriale 388",
+      "url": "1c88c4b274f6f866.html",
+      "raw": "fonti/1c88c4b274f6f866.md",
+      "sha256": "005667e6e45fe10fa2020b9c5136d7da9310cccd3e5ea43e5e24e6a0dc365ebd",
+      "bytes": 11773
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/009_the-note-with-the-gift.md",
+      "title": "009 the-note-with-the-gift",
+      "group": "Novel — edizione editoriale 388",
+      "url": "2a64a9c5ef40e7ff.html",
+      "raw": "fonti/2a64a9c5ef40e7ff.md",
+      "sha256": "efa6fd12531efe6a0bbd44b038f875f7da5ddb05adcbe0e399893aa3e72fa422",
+      "bytes": 11327
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/010_the-ordinary-door.md",
+      "title": "010 the-ordinary-door",
+      "group": "Novel — edizione editoriale 388",
+      "url": "b3a9a60c16a7221e.html",
+      "raw": "fonti/b3a9a60c16a7221e.md",
+      "sha256": "6b86b45f121d254c78dc0c97eb185b73f38e4fe354ebbac48fb250eb4a970582",
+      "bytes": 11525
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/011_marks-on-the-floor.md",
+      "title": "011 marks-on-the-floor",
+      "group": "Novel — edizione editoriale 388",
+      "url": "da39036a975bfdc6.html",
+      "raw": "fonti/da39036a975bfdc6.md",
+      "sha256": "7adcd4eba4c0e6d169ce591450886b646f5fdd895ec47d5cbd0a2d75a8d1bd40",
+      "bytes": 11541
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/012_a-day-s-work.md",
+      "title": "012 a-day-s-work",
+      "group": "Novel — edizione editoriale 388",
+      "url": "23672a81c901acd8.html",
+      "raw": "fonti/23672a81c901acd8.md",
+      "sha256": "dd0925786f78911e0e3eef5a94c5caed4cfa1c75ff2133a50ca53b8d49676334",
+      "bytes": 11479
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/013_the-duke-s-friend.md",
+      "title": "013 the-duke-s-friend",
+      "group": "Novel — edizione editoriale 388",
+      "url": "ebe5287f4a1b490c.html",
+      "raw": "fonti/ebe5287f4a1b490c.md",
+      "sha256": "be63c5fbcc2d258ae3da75cb458a13029d6080dd8f5e45ac45adfa214cce2a5f",
+      "bytes": 11406
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/014_a-true-mark.md",
+      "title": "014 a-true-mark",
+      "group": "Novel — edizione editoriale 388",
+      "url": "c537c741c3d057b3.html",
+      "raw": "fonti/c537c741c3d057b3.md",
+      "sha256": "9522f0bb9fd714e22290651391bec85575fd74d3ef03899506ee6c221f749de2",
+      "bytes": 11217
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/015_an-ordinary-piece.md",
+      "title": "015 an-ordinary-piece",
+      "group": "Novel — edizione editoriale 388",
+      "url": "91bf0527b0eb3776.html",
+      "raw": "fonti/91bf0527b0eb3776.md",
+      "sha256": "61088903eb92708c7ca90d517847326a1a5b7e90b77ef8cea88a6a5de1ea5154",
+      "bytes": 11602
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/016_the-baron-s-gift.md",
+      "title": "016 the-baron-s-gift",
+      "group": "Novel — edizione editoriale 388",
+      "url": "8bfdcef7c0264a42.html",
+      "raw": "fonti/8bfdcef7c0264a42.md",
+      "sha256": "ac333bb008c388ba168433b9c904cfc4a8ca0ef4211f51282337f8cc734ce40e",
+      "bytes": 12127
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/017_the-price-of-comparison.md",
+      "title": "017 the-price-of-comparison",
+      "group": "Novel — edizione editoriale 388",
+      "url": "59c3c4cb52498b0e.html",
+      "raw": "fonti/59c3c4cb52498b0e.md",
+      "sha256": "bf773a8ed5be7e1e7227fb1dec54de8ae534e9cd26f9f3761654d6612ffa8f1a",
+      "bytes": 11602
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/018_after-the-answer.md",
+      "title": "018 after-the-answer",
+      "group": "Novel — edizione editoriale 388",
+      "url": "9acc45531be0060d.html",
+      "raw": "fonti/9acc45531be0060d.md",
+      "sha256": "5b8894680823fb25fb50ab908faf07943dcd02310e40dfb21e5c698b409d0b1e",
+      "bytes": 11443
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/019_the-distance-across-a-table.md",
+      "title": "019 the-distance-across-a-table",
+      "group": "Novel — edizione editoriale 388",
+      "url": "6d6224300ec27d51.html",
+      "raw": "fonti/6d6224300ec27d51.md",
+      "sha256": "3ba64b30a81d1700d175c0418ea287e4c5873af24364137e5b860f8ea28399b4",
+      "bytes": 11117
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/020_the-son.md",
+      "title": "020 the-son",
+      "group": "Novel — edizione editoriale 388",
+      "url": "d277919057e33c07.html",
+      "raw": "fonti/d277919057e33c07.md",
+      "sha256": "53d3b068ba55e1368d80a808f30c9b44e7a0831ebef117cb155f403b1f8d1c72",
+      "bytes": 11561
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/021_a-small-key.md",
+      "title": "021 a-small-key",
+      "group": "Novel — edizione editoriale 388",
+      "url": "b5bc4da21f7af1bf.html",
+      "raw": "fonti/b5bc4da21f7af1bf.md",
+      "sha256": "5e7d4a71d7f6db3e461b76f0d494620dca4e944d1126eb41c527103074ad1d6a",
+      "bytes": 11208
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/022_celine-s-room.md",
+      "title": "022 celine-s-room",
+      "group": "Novel — edizione editoriale 388",
+      "url": "42ae04b0c220360f.html",
+      "raw": "fonti/42ae04b0c220360f.md",
+      "sha256": "4087471d51f3a31c1c0fe3a122e32a09b0ac83b57c9102bdbe6eb7dd1b826840",
+      "bytes": 10881
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/023_an-opening.md",
+      "title": "023 an-opening",
+      "group": "Novel — edizione editoriale 388",
+      "url": "3a42796aec3a0029.html",
+      "raw": "fonti/3a42796aec3a0029.md",
+      "sha256": "4632c2b173f6c954d949ec6f4ecce41580c5dcac084953d364b38726d2e53e8e",
+      "bytes": 11666
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/024_what-cannot-be-bought.md",
+      "title": "024 what-cannot-be-bought",
+      "group": "Novel — edizione editoriale 388",
+      "url": "28f8ac210c495b3f.html",
+      "raw": "fonti/28f8ac210c495b3f.md",
+      "sha256": "9aea9cb7994ed8113b4381530534ed32b631cb5567c94e0016ce4a554a13ab7e",
+      "bytes": 10919
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/025_the-extract.md",
+      "title": "025 the-extract",
+      "group": "Novel — edizione editoriale 388",
+      "url": "c3020213082fc7af.html",
+      "raw": "fonti/c3020213082fc7af.md",
+      "sha256": "3f8df2090ba1f2ebf930806d62c5eda88b2b4574df477850810678c16c89087d",
+      "bytes": 11451
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/026_the-healed-arm.md",
+      "title": "026 the-healed-arm",
+      "group": "Novel — edizione editoriale 388",
+      "url": "7c8f1a59ddfcff24.html",
+      "raw": "fonti/7c8f1a59ddfcff24.md",
+      "sha256": "ed9316dc062b86b2b5ed0ab2d494aaec4c3743b1b81a2920a73518f12da9db0f",
+      "bytes": 11303
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/027_the-papers-outside-the-house.md",
+      "title": "027 the-papers-outside-the-house",
+      "group": "Novel — edizione editoriale 388",
+      "url": "22eab9ea917a8436.html",
+      "raw": "fonti/22eab9ea917a8436.md",
+      "sha256": "2efcf71063cdfda15977a4c05977f43eeb2d01fd55bcfa5577418488e7ebbffd",
+      "bytes": 11188
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/028_the-second-position.md",
+      "title": "028 the-second-position",
+      "group": "Novel — edizione editoriale 388",
+      "url": "7501d90747985e69.html",
+      "raw": "fonti/7501d90747985e69.md",
+      "sha256": "8d8f47ece4fe73557b5b37c2045b295705c07558b5bdba3943ccbff3c284989c",
+      "bytes": 11294
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/029_payday.md",
+      "title": "029 payday",
+      "group": "Novel — edizione editoriale 388",
+      "url": "cfba9e9bedd150b9.html",
+      "raw": "fonti/cfba9e9bedd150b9.md",
+      "sha256": "bef0b5613b019adba5fabf22176256545a467470ffc2dcf5d072d16cc1659133",
+      "bytes": 10958
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/030_the-object-that-did-not-leave.md",
+      "title": "030 the-object-that-did-not-leave",
+      "group": "Novel — edizione editoriale 388",
+      "url": "13e2ab9c07352a61.html",
+      "raw": "fonti/13e2ab9c07352a61.md",
+      "sha256": "2eea93c95516dab4283143a3d37f9e9311ef755f5b968c2b9591a62eb98f1cf1",
+      "bytes": 13140
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/031_on-the-other-side-of-the-door.md",
+      "title": "031 on-the-other-side-of-the-door",
+      "group": "Novel — edizione editoriale 388",
+      "url": "941ce8ce43054131.html",
+      "raw": "fonti/941ce8ce43054131.md",
+      "sha256": "81e75bb35d4e59df3f3dc0c98197bb3829afaa8d8fba8a75965056f7a8fed629",
+      "bytes": 10918
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/032_what-a-father-says.md",
+      "title": "032 what-a-father-says",
+      "group": "Novel — edizione editoriale 388",
+      "url": "25db7ed2b20c7dc4.html",
+      "raw": "fonti/25db7ed2b20c7dc4.md",
+      "sha256": "2768168bf1a6de1446b7c05efa9d253877e86323f759a71da045a401e313b39c",
+      "bytes": 11085
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/033_vern-s-signature.md",
+      "title": "033 vern-s-signature",
+      "group": "Novel — edizione editoriale 388",
+      "url": "266f3a56edf0a12e.html",
+      "raw": "fonti/266f3a56edf0a12e.md",
+      "sha256": "c96fa9c4fd3dbc458d0fd39547c3425e6826990ae1d050e17280ab5a7324ae51",
+      "bytes": 10773
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/034_the-work-of-an-arm.md",
+      "title": "034 the-work-of-an-arm",
+      "group": "Novel — edizione editoriale 388",
+      "url": "5d1392c6ce7ebd06.html",
+      "raw": "fonti/5d1392c6ce7ebd06.md",
+      "sha256": "1893f9e8ec86de9bb02ff1acf30f467bcdbc884d75245b95c4356ec1a770e576",
+      "bytes": 10902
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/035_staying.md",
+      "title": "035 staying",
+      "group": "Novel — edizione editoriale 388",
+      "url": "b04e553f773ab807.html",
+      "raw": "fonti/b04e553f773ab807.md",
+      "sha256": "4b40d673742c2f37a8bace4d239a4997e8890605993284b8690c23d63a8dcd94",
+      "bytes": 10955
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/036_the-hearing.md",
+      "title": "036 the-hearing",
+      "group": "Novel — edizione editoriale 388",
+      "url": "f2f806e872d83c6b.html",
+      "raw": "fonti/f2f806e872d83c6b.md",
+      "sha256": "c6285a68fb9178eff78f7e6efb1216070454543ea24b6aa92ec40a41f25e6121",
+      "bytes": 11362
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/037_a-name-returned.md",
+      "title": "037 a-name-returned",
+      "group": "Novel — edizione editoriale 388",
+      "url": "bbb6b17233143b03.html",
+      "raw": "fonti/bbb6b17233143b03.md",
+      "sha256": "cfd52ee5e08da7a73fb04a1c08d35d5e8b8bffcdfdfff77c576587806bb813cb",
+      "bytes": 11125
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/EN/Volume_01/038_an-open-door.md",
+      "title": "038 an-open-door",
+      "group": "Novel — edizione editoriale 388",
+      "url": "2257e981eecf2cee.html",
+      "raw": "fonti/2257e981eecf2cee.md",
+      "sha256": "4f8f875da465f8d5858d5e9b63522e67078bbd1dcbcfb130ae9325aaf19a5c2d",
+      "bytes": 10787
+    },
+    {
+      "source": "CANONE_VIGENTE/Continuita_letteraria_388.json",
+      "title": "Continuita letteraria 388",
+      "group": "Novel — edizione editoriale 388",
+      "url": "ed365898618f88df.html",
+      "raw": "fonti/ed365898618f88df.json",
+      "sha256": "d9894a821b62e42a60da317e21b22c13804255d15264bfe6b0238f9f07fe4c3b",
+      "bytes": 226857
+    },
+    {
+      "source": "NOVEL/EDIZIONE_012/MANIFEST_NOVEL_012.json",
+      "title": "MANIFEST NOVEL 012",
+      "group": "Novel — edizione editoriale 388",
+      "url": "ff8385b3115b3170.html",
+      "raw": "fonti/ff8385b3115b3170.json",
+      "sha256": "74f81e4677c86d41b7ea21b1a0223cb043b1a53c43cd49af5bd83c1214a5f111",
+      "bytes": 42856
+    },
+    {
+      "source": "388_Registro_di_precedenza.md",
+      "title": "388 Registro di precedenza",
+      "group": "Novel — edizione editoriale 388",
+      "url": "ecd653518eed9fcc.html",
+      "raw": "fonti/ecd653518eed9fcc.md",
+      "sha256": "ab79c3f7a6fd6f1ef70f95c6cea5735bd33d0ab815a855a5638acac9d4df25d2",
+      "bytes": 363
+    },
+    {
+      "source": "RISERVATO_388_Lettura_editoriale_primo_arco.md",
+      "title": "RISERVATO 388 Lettura editoriale primo arco",
+      "group": "Novel — edizione editoriale 388",
+      "url": "fc8a8c4c0e55ee55.html",
+      "raw": "fonti/fc8a8c4c0e55ee55.md",
+      "sha256": "ed72bf8ff6264271b3a68d31a6e24bdfb50798f1eb9885b8f560d503dabf4ed7",
+      "bytes": 8981
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",
@@ -28913,7 +29633,7 @@
   "practical_faq_revision": "349",
   "operational_revision": "350",
   "current_topic_register": "350_Fonti_vigenti_per_argomento.md",
-  "current_revision": 387,
+  "current_revision": 388,
   "revision_373_scope": "Culti, legalità locale e pratiche biologiche; nessuna modifica delle progressioni.",
   "revision_374_scope": "Consolidamento, 24 rapporti, 48 reti, culture, fede, scene e risposta alle crisi. Progressioni e fatti protetti invariati.",
   "revision_376_scope": "Rappresentazione e applicazioni dell’orrore generativo, intimità aliena e scala ambientale e divina; nessuna progressione modificata.",
@@ -28924,12 +29644,13 @@
   "revision_381_scope": "Trentotto capitoli IT/EN; aggiornamenti letterari distinti dalla campagna.",
   "revision_382_scope": "58 capitoli, testo integrale italiano nella wiki e Biblioteca; secondo arco concluso, continuità della campagna distinta.",
   "revision_383_scope": "78 testi italiani integrali; terzo arco concluso, campagna distinta.",
-  "current_novel_source": "CANONE_VIGENTE/Continuita_letteraria_387.json",
-  "current_novel_edition": "NOVEL-011-REVISIONE-NARRATIVA-ARCO-01",
-  "current_novel_precedence_source": "387_Registro_di_precedenza.md",
+  "current_novel_source": "CANONE_VIGENTE/Continuita_letteraria_388.json",
+  "current_novel_edition": "NOVEL-012-REVISIONE-EDITORIALE-ARCO-01",
+  "current_novel_precedence_source": "388_Registro_di_precedenza.md",
   "revision_384_scope": "Ricomposizione in 25 capitoli, superata e conservata solo come archivio.",
   "revision_385_scope": "Primo arco italiano ampliato e revisionato, 38 capitoli separati. Inglese da riallineare; archi 2 e 3 non revisionati. Nessun accorpamento.",
   "english_novel_revision_385": false,
   "english_novel_revision_386": true,
-  "english_novel_revision_387": true
+  "english_novel_revision_387": true,
+  "english_novel_revision_388": true
 }
