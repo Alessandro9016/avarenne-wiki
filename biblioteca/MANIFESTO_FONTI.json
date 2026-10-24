@@ -28180,6 +28180,726 @@
       "raw": "fonti/2f69dc34d19ece2c.md",
       "sha256": "7a11272e1565ac46f24b9f4a4610c3fac08f0d04d211b2d4fd24c2ed489bd121",
       "bytes": 375
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/001_la-misura-sbagliata.md",
+      "title": "001 la-misura-sbagliata",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "2672acd8ad5962e9.html",
+      "raw": "fonti/2672acd8ad5962e9.md",
+      "sha256": "22acb3f58cff23481c133462b3a716f9e96b9bbd5a40d0c786e57d1677cd8258",
+      "bytes": 12790
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/002_la-mano-sul-lenzuolo.md",
+      "title": "002 la-mano-sul-lenzuolo",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "2df3f981fd78dafd.html",
+      "raw": "fonti/2df3f981fd78dafd.md",
+      "sha256": "79ca2429e82335fc5ce43b30636fd6c5c0baeeb78a6740a77408ef071145c974",
+      "bytes": 12521
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/003_un-posto-a-tavola.md",
+      "title": "003 un-posto-a-tavola",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "9c5b4c0ada0faaad.html",
+      "raw": "fonti/9c5b4c0ada0faaad.md",
+      "sha256": "9fa985cef7c48e98329fa28f44aacb6795074d2ecc4eb74ffb8af0dd5cc04680",
+      "bytes": 11914
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/004_quello-che-resta.md",
+      "title": "004 quello-che-resta",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "13c7ad0f0722487e.html",
+      "raw": "fonti/13c7ad0f0722487e.md",
+      "sha256": "2cf2b4b39e1ae276afb28f10cd2284c41ae3b7c9d1f925b401d35b1f91a50e36",
+      "bytes": 12389
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/005_la-richiesta.md",
+      "title": "005 la-richiesta",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "c52b396aaef2fafd.html",
+      "raw": "fonti/c52b396aaef2fafd.md",
+      "sha256": "87a0699a1fb79eeb0ac9a5c5065a82f277bb8724be96adf7a8714692e3bfb699",
+      "bytes": 12245
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/006_l-allegato.md",
+      "title": "006 l-allegato",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "79c608c15e15b9b3.html",
+      "raw": "fonti/79c608c15e15b9b3.md",
+      "sha256": "30d5a809220b68f93789be05af8f088130f9ad2d8d93c7a1ff21868ea76a044e",
+      "bytes": 12516
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/007_le-cose-che-continuano.md",
+      "title": "007 le-cose-che-continuano",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "bf335e37bce46c2f.html",
+      "raw": "fonti/bf335e37bce46c2f.md",
+      "sha256": "afcd8b57a3b5bebfd415d6e6787a9dcfe5ac0b2de040c1cfb1b46440d83e5c3d",
+      "bytes": 12626
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/008_il-peso-della-cassetta.md",
+      "title": "008 il-peso-della-cassetta",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "3a871b13e78d5f96.html",
+      "raw": "fonti/3a871b13e78d5f96.md",
+      "sha256": "bc868bc738ef5681e53efc49934ab8fe97270baf12f29ac170a3d7633a725a52",
+      "bytes": 12416
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/009_il-biglietto-del-dono.md",
+      "title": "009 il-biglietto-del-dono",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "2363577a6c5e1b17.html",
+      "raw": "fonti/2363577a6c5e1b17.md",
+      "sha256": "cfeba9d2fb0fe6988ae55a80eb0828df4708c9e20ba03134016733000e4292c6",
+      "bytes": 12047
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/010_la-porta-ordinaria.md",
+      "title": "010 la-porta-ordinaria",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "2dfe7ec00e120a35.html",
+      "raw": "fonti/2dfe7ec00e120a35.md",
+      "sha256": "3d8b1d7e11dd18f02f9235b10f7dfc10df001d5306eccf51259b9c8d9038e790",
+      "bytes": 12412
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/011_i-segni-sul-pavimento.md",
+      "title": "011 i-segni-sul-pavimento",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "6ec21ee38d129f31.html",
+      "raw": "fonti/6ec21ee38d129f31.md",
+      "sha256": "99eee32c32389acefa65fed437f5ede87250e778ba44336ae0187f2581171d4c",
+      "bytes": 12609
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/012_una-giornata-di-lavoro.md",
+      "title": "012 una-giornata-di-lavoro",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "7a519b2be1db148b.html",
+      "raw": "fonti/7a519b2be1db148b.md",
+      "sha256": "f68df1772f55cac710aef90cfdc3baba828ccc13d89919ca31b988f26c2aa1d9",
+      "bytes": 12144
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/013_l-amico-del-duca.md",
+      "title": "013 l-amico-del-duca",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "edf5f516b2811eb1.html",
+      "raw": "fonti/edf5f516b2811eb1.md",
+      "sha256": "616ea97fc17d44bd856dff53d394f0652a1138112a0e84c521cd7e55675bab38",
+      "bytes": 12029
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/014_una-marca-vera.md",
+      "title": "014 una-marca-vera",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "1eb6ec0937c6eb6f.html",
+      "raw": "fonti/1eb6ec0937c6eb6f.md",
+      "sha256": "a64a2426a62ce392b3b1b04278c8f188ebe8a4f5d5d0f857ee10606784f4cf43",
+      "bytes": 11694
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/015_un-pezzo-ordinario.md",
+      "title": "015 un-pezzo-ordinario",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "3794e27d463ac5dd.html",
+      "raw": "fonti/3794e27d463ac5dd.md",
+      "sha256": "cd49b068922ecb5b4ec1e98e89cbaed0849d38bee12b13b681116b7758e63e1d",
+      "bytes": 12355
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/016_il-dono-del-barone.md",
+      "title": "016 il-dono-del-barone",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "db6991d1103482ca.html",
+      "raw": "fonti/db6991d1103482ca.md",
+      "sha256": "251ac4ecbe9fc2a357ef9d0cddead450e8cc3838f0dc422510f811dd0b082099",
+      "bytes": 12992
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/017_il-prezzo-del-confronto.md",
+      "title": "017 il-prezzo-del-confronto",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "9db20e680f7d3930.html",
+      "raw": "fonti/9db20e680f7d3930.md",
+      "sha256": "e15efe90ada5420f420d77a10a8964cc09ccaec525d355cc13c88c58de6c32d3",
+      "bytes": 12367
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/018_dopo-la-risposta.md",
+      "title": "018 dopo-la-risposta",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "e07014c82c016929.html",
+      "raw": "fonti/e07014c82c016929.md",
+      "sha256": "ddde84de0c3aaca564f08659d1af9d4c74ba5429b2356176b025034a31bade1d",
+      "bytes": 11934
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/019_la-distanza-di-un-tavolo.md",
+      "title": "019 la-distanza-di-un-tavolo",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "9c8ebffa4c4f669b.html",
+      "raw": "fonti/9c8ebffa4c4f669b.md",
+      "sha256": "51a61ae95daf9e980dc07e929352b616c2ac158e2f69abc72c54d27d8b17a403",
+      "bytes": 11585
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/020_il-figlio.md",
+      "title": "020 il-figlio",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "a337bc7a6d23b4c7.html",
+      "raw": "fonti/a337bc7a6d23b4c7.md",
+      "sha256": "d20b4e08808aee5a38162d66c6c017bd3d74183e1acaee275bd6e9f2e0ab27fb",
+      "bytes": 12093
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/021_una-chiave-piccola.md",
+      "title": "021 una-chiave-piccola",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "9cffa1ec2151cc9f.html",
+      "raw": "fonti/9cffa1ec2151cc9f.md",
+      "sha256": "385eab6be3d792f0aa7313b6ff5a0166b779a9cd71889e277142d74d1dc3d750",
+      "bytes": 12159
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/022_la-stanza-di-celine.md",
+      "title": "022 la-stanza-di-celine",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "4c9b62b308ad0c4c.html",
+      "raw": "fonti/4c9b62b308ad0c4c.md",
+      "sha256": "78ce9478e70f296cade33d11e9ea1ec81dc1cd0044541e057436d24ace7bcf6d",
+      "bytes": 11610
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/023_un-apertura.md",
+      "title": "023 un-apertura",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "cd0c549431df0da6.html",
+      "raw": "fonti/cd0c549431df0da6.md",
+      "sha256": "2c9fa1a4a46ddeaa22c12beb9c54b6f89ab0d45e7162379c1e3792ce90fa1c88",
+      "bytes": 11958
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/024_quello-che-non-si-compra.md",
+      "title": "024 quello-che-non-si-compra",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "66d3e2afe1c127d0.html",
+      "raw": "fonti/66d3e2afe1c127d0.md",
+      "sha256": "0227c0af24e22c038b2403ed2ff5f3419b8089927992276fdd014239cd43085a",
+      "bytes": 11789
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/025_l-estratto.md",
+      "title": "025 l-estratto",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "d9e1db48c756e59b.html",
+      "raw": "fonti/d9e1db48c756e59b.md",
+      "sha256": "a9e2774ae7da255c9911b8a60b0c28b8ef71940107bde5d2340f6b81c4f27c49",
+      "bytes": 12552
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/026_il-braccio-guarito.md",
+      "title": "026 il-braccio-guarito",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "85eaebb26512a317.html",
+      "raw": "fonti/85eaebb26512a317.md",
+      "sha256": "766dc687d074c472221395d6ec8600f81555ceee9c6d8526cb984ce34088665a",
+      "bytes": 12299
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/027_le-carte-fuori-dalla-casa.md",
+      "title": "027 le-carte-fuori-dalla-casa",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "96a859f64586af3c.html",
+      "raw": "fonti/96a859f64586af3c.md",
+      "sha256": "8c640efac664ad90f2cb4bc295c6f3682d42d7181d289f6292bac96045bd9936",
+      "bytes": 12222
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/028_la-seconda-posizione.md",
+      "title": "028 la-seconda-posizione",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "b7993dab90345237.html",
+      "raw": "fonti/b7993dab90345237.md",
+      "sha256": "ca08d636eb5a4b0c7206a5049d860ae5dbe976e118d94335cd0bc3be38123893",
+      "bytes": 11942
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/029_il-giorno-delle-paghe.md",
+      "title": "029 il-giorno-delle-paghe",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "9ccc072af8d93e29.html",
+      "raw": "fonti/9ccc072af8d93e29.md",
+      "sha256": "8f1b8baba64bb817c0520758b4e647d740a1383baf0fb6437f0541f1f7a96201",
+      "bytes": 11928
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/030_l-oggetto-che-non-parti.md",
+      "title": "030 l-oggetto-che-non-parti",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "f9444386247c4760.html",
+      "raw": "fonti/f9444386247c4760.md",
+      "sha256": "da39f45bc134e341c9bfb56cb231bffa7938e1ee7cdf66e4447e86bfc660a82d",
+      "bytes": 14259
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/031_dall-altra-parte-della-porta.md",
+      "title": "031 dall-altra-parte-della-porta",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "bba0f5edd55da7a8.html",
+      "raw": "fonti/bba0f5edd55da7a8.md",
+      "sha256": "8f0defa5a5d51e91c378d825ea10e7c20d44678a1d28a2441e8176ea197dae2a",
+      "bytes": 11762
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/032_quello-che-un-padre-dice.md",
+      "title": "032 quello-che-un-padre-dice",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "2213eb2afbe6047e.html",
+      "raw": "fonti/2213eb2afbe6047e.md",
+      "sha256": "5cf5404bd0acc7e8dc6fc8093b8460c3a83555b60ca2896d74ad606fddf3298f",
+      "bytes": 12041
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/033_la-firma-di-vern.md",
+      "title": "033 la-firma-di-vern",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "de5030a695c91a1c.html",
+      "raw": "fonti/de5030a695c91a1c.md",
+      "sha256": "a644128f7a549dad453c70319c067732c393fdc374e45cb88b909c81e3cd86d6",
+      "bytes": 12089
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/034_il-lavoro-del-braccio.md",
+      "title": "034 il-lavoro-del-braccio",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "e860776242b50062.html",
+      "raw": "fonti/e860776242b50062.md",
+      "sha256": "03f6eda66986edb6aea2ced0e9db2aa6df64d78362246d30131bcd4c33ac1934",
+      "bytes": 11920
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/035_restare.md",
+      "title": "035 restare",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "46526938e191f237.html",
+      "raw": "fonti/46526938e191f237.md",
+      "sha256": "80481ff8d52715fc81bfd03d82178d788260bf23185241b9dab4bc18f2ce3acc",
+      "bytes": 11848
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/036_l-udienza.md",
+      "title": "036 l-udienza",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "ce0238d4ffc18de7.html",
+      "raw": "fonti/ce0238d4ffc18de7.md",
+      "sha256": "f28c6dc4c9343dea731f2a690a5e5a6dfbb0549f00f45827caca8c009270a6ab",
+      "bytes": 12044
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/037_il-nome-restituito.md",
+      "title": "037 il-nome-restituito",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "535ba4bc9bd4b0eb.html",
+      "raw": "fonti/535ba4bc9bd4b0eb.md",
+      "sha256": "f4eb6140c1e207decac50a55be5664b7097cb4b2dea7683d0c1910cf5847311d",
+      "bytes": 12193
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/IT/Volume_01/038_una-porta-aperta.md",
+      "title": "038 una-porta-aperta",
+      "group": "Primo arco — revisione narrativa italiana 387",
+      "url": "8b310ce0a22f5d53.html",
+      "raw": "fonti/8b310ce0a22f5d53.md",
+      "sha256": "41ca40ffa812414cf12af8f6e04005068a8d8deb60f301f7099ba51396da3e06",
+      "bytes": 11788
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/001_the-wrong-measure.md",
+      "title": "001 the-wrong-measure",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "4a63dd539bea7b5b.html",
+      "raw": "fonti/4a63dd539bea7b5b.md",
+      "sha256": "c2fe676a3792c548a47a3a3335a091b0ddbdbe6b54d1c9204292d6c8348b536f",
+      "bytes": 12713
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/002_the-hand-on-the-sheet.md",
+      "title": "002 the-hand-on-the-sheet",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "fefa0de2dfdcef8d.html",
+      "raw": "fonti/fefa0de2dfdcef8d.md",
+      "sha256": "13214e07f7f1fa871d3dff9551ee76db8a7c1436d08ac5d4a48bb694a85f35e3",
+      "bytes": 12145
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/003_a-place-at-the-table.md",
+      "title": "003 a-place-at-the-table",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "1d4142e1ef55b016.html",
+      "raw": "fonti/1d4142e1ef55b016.md",
+      "sha256": "f99ec4460a5b5f81110e8dfb097eee47daad94ec614791215f14bf8fc4401ea6",
+      "bytes": 11832
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/004_what-remains.md",
+      "title": "004 what-remains",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "ce38f84f51d800c7.html",
+      "raw": "fonti/ce38f84f51d800c7.md",
+      "sha256": "14cb5f3a06b68ad315b8a711283360feac3ff44df433f564b990b5b7aeb5a4cc",
+      "bytes": 11897
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/005_the-request.md",
+      "title": "005 the-request",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "6cc72ac83f291122.html",
+      "raw": "fonti/6cc72ac83f291122.md",
+      "sha256": "9a844669e9b87c0dc8f4553913765b712a81e8fb88592676e2c1c684cb65c8ca",
+      "bytes": 11965
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/006_the-attachment.md",
+      "title": "006 the-attachment",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "2cc98edc81e075e6.html",
+      "raw": "fonti/2cc98edc81e075e6.md",
+      "sha256": "d360b231fda8cc5635be43c918d701cda67c00389e7020f139b0a73bc00d174d",
+      "bytes": 12007
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/007_the-things-that-continue.md",
+      "title": "007 the-things-that-continue",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "6c69ecb0d55ef2fd.html",
+      "raw": "fonti/6c69ecb0d55ef2fd.md",
+      "sha256": "d053bca51dbd59e473d7b8d131701d57ce6e934a75af47927cfdf64f9d82485e",
+      "bytes": 12108
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/008_the-weight-of-the-toolbox.md",
+      "title": "008 the-weight-of-the-toolbox",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "42f841dff8ef14fc.html",
+      "raw": "fonti/42f841dff8ef14fc.md",
+      "sha256": "75846bb8c4f097b93243177195604aebb833e3ad8dfe911de722a732e0dcb217",
+      "bytes": 11736
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/009_the-note-with-the-gift.md",
+      "title": "009 the-note-with-the-gift",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "65cc9210fcb19e46.html",
+      "raw": "fonti/65cc9210fcb19e46.md",
+      "sha256": "c95545dcbfc6d248d7ddd015f95d2738f941892315b3f016fdce778ebfe13a0e",
+      "bytes": 11349
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/010_the-ordinary-door.md",
+      "title": "010 the-ordinary-door",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "6ecfa3d8eb0f9ace.html",
+      "raw": "fonti/6ecfa3d8eb0f9ace.md",
+      "sha256": "9f22af92a8101acc92b05af8946aa12bbbfdad621f7c287a22c2802218f2bec2",
+      "bytes": 11496
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/011_marks-on-the-floor.md",
+      "title": "011 marks-on-the-floor",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "2348ee8b4b8445c8.html",
+      "raw": "fonti/2348ee8b4b8445c8.md",
+      "sha256": "18b9be8ffd9fd24d1d3417b92094b338a9f8a0dde00f30ce93d7b3b9f6470cf8",
+      "bytes": 11784
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/012_a-day-s-work.md",
+      "title": "012 a-day-s-work",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "0d7efe929d7d81dc.html",
+      "raw": "fonti/0d7efe929d7d81dc.md",
+      "sha256": "b9317a3811169f5a8318d3f83d1ded62a6cd3cec5d1421daedb98b86726299af",
+      "bytes": 11386
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/013_the-duke-s-friend.md",
+      "title": "013 the-duke-s-friend",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "5518bf02f9e5f2ef.html",
+      "raw": "fonti/5518bf02f9e5f2ef.md",
+      "sha256": "fe72be1c48ad5434266991c8236b59ef2a8db652cfa8efc0a30fbc9db074040c",
+      "bytes": 11408
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/014_a-true-mark.md",
+      "title": "014 a-true-mark",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "9009b83fe5f12f67.html",
+      "raw": "fonti/9009b83fe5f12f67.md",
+      "sha256": "1ded2e963ddabfbe2c8eeb67a9854106abd39be5194e697dab469e0f384343c8",
+      "bytes": 10980
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/015_an-ordinary-piece.md",
+      "title": "015 an-ordinary-piece",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "e2a477a8fe9fa54f.html",
+      "raw": "fonti/e2a477a8fe9fa54f.md",
+      "sha256": "0e9e832a9371153f8b03c38a8a7a754b02127d13881274d7e7c95daf7fdedb58",
+      "bytes": 11629
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/016_the-baron-s-gift.md",
+      "title": "016 the-baron-s-gift",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "c58afbb423aec581.html",
+      "raw": "fonti/c58afbb423aec581.md",
+      "sha256": "2de1410ab848730135cc520e02cae8fe1355442c28e8e7414c2ff621a413a37e",
+      "bytes": 12059
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/017_the-price-of-comparison.md",
+      "title": "017 the-price-of-comparison",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "d1a6ede4c90c31c6.html",
+      "raw": "fonti/d1a6ede4c90c31c6.md",
+      "sha256": "944d33b297b362e047872758fa69e8238ffd84c653541e10883e0240cef25478",
+      "bytes": 11551
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/018_after-the-answer.md",
+      "title": "018 after-the-answer",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "474f512412a23a63.html",
+      "raw": "fonti/474f512412a23a63.md",
+      "sha256": "3537a780a39d0a0ece5873b24d75d877398cd986dc62a1a137ff151495127c37",
+      "bytes": 11237
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/019_the-distance-across-a-table.md",
+      "title": "019 the-distance-across-a-table",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "44ef9003631334b4.html",
+      "raw": "fonti/44ef9003631334b4.md",
+      "sha256": "6912776be11493942c3df50fc881d228fd2a0ed8c241bd0176f1f2f5900ba6a7",
+      "bytes": 10963
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/020_the-son.md",
+      "title": "020 the-son",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "71a190fafe2bf465.html",
+      "raw": "fonti/71a190fafe2bf465.md",
+      "sha256": "e16660aa6888a84b9f3e2f3f1c461f303882858d667885c7e602b6a0759d0c9f",
+      "bytes": 11608
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/021_a-small-key.md",
+      "title": "021 a-small-key",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "0a1400cb1e080003.html",
+      "raw": "fonti/0a1400cb1e080003.md",
+      "sha256": "791c0b7e016529f40777e46eae4a97e5d6950e7d348098b3f150a07d43de1b70",
+      "bytes": 11383
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/022_celine-s-room.md",
+      "title": "022 celine-s-room",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "f16d855c0ce808c1.html",
+      "raw": "fonti/f16d855c0ce808c1.md",
+      "sha256": "d731f52b9a2b87018a7e7b521e2b75d63a6a7205b039c443201bea2f0e559c9b",
+      "bytes": 10882
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/023_an-opening.md",
+      "title": "023 an-opening",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "f762219892bb3eee.html",
+      "raw": "fonti/f762219892bb3eee.md",
+      "sha256": "8ef89c243dbf99fd1c87b96e2dad1ffc2ed6efe86a08eb35a4ad43529dcb4784",
+      "bytes": 10883
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/024_what-cannot-be-bought.md",
+      "title": "024 what-cannot-be-bought",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "6257539230525f94.html",
+      "raw": "fonti/6257539230525f94.md",
+      "sha256": "4cdb9b8fed4358be340119c647b22d591a3d78c757e9e0a1a488b6830c33fcef",
+      "bytes": 10775
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/025_the-extract.md",
+      "title": "025 the-extract",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "92440bd3a07ab0b2.html",
+      "raw": "fonti/92440bd3a07ab0b2.md",
+      "sha256": "ca7e96aa8b4938549ec491c97562d3f26db1d18f0540a95e5ddd833cf146d848",
+      "bytes": 11401
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/026_the-healed-arm.md",
+      "title": "026 the-healed-arm",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "b47ad5f93644499e.html",
+      "raw": "fonti/b47ad5f93644499e.md",
+      "sha256": "1b356b80edfd8040d8ad2bd1ea114dc1985156370ad98a251190f712c0246644",
+      "bytes": 11302
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/027_the-papers-outside-the-house.md",
+      "title": "027 the-papers-outside-the-house",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "8ec9911f89ed82ca.html",
+      "raw": "fonti/8ec9911f89ed82ca.md",
+      "sha256": "4ddea763d209ecee32b2a2d143220d94b2fea8174e04582ef208f66b97e2db6d",
+      "bytes": 11112
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/028_the-second-position.md",
+      "title": "028 the-second-position",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "2aa31929b88b26a5.html",
+      "raw": "fonti/2aa31929b88b26a5.md",
+      "sha256": "d9145afd3f52e9414ac59c8680489802b5456abda03601666d2b0581c6daeca4",
+      "bytes": 10804
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/029_payday.md",
+      "title": "029 payday",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "bce9dfb59f9429ee.html",
+      "raw": "fonti/bce9dfb59f9429ee.md",
+      "sha256": "d6cffe59b1e4bde508a8fe26bb0ef8d38cbb4aaa712582d61e959796ede38c32",
+      "bytes": 10981
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/030_the-object-that-did-not-leave.md",
+      "title": "030 the-object-that-did-not-leave",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "ae4cb3f6ce34ed81.html",
+      "raw": "fonti/ae4cb3f6ce34ed81.md",
+      "sha256": "5cb08fd23652329f3c4c6dca59ab0b616150485e1bb5ad60955f9560d7444830",
+      "bytes": 12958
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/031_on-the-other-side-of-the-door.md",
+      "title": "031 on-the-other-side-of-the-door",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "e6544e96e2981a24.html",
+      "raw": "fonti/e6544e96e2981a24.md",
+      "sha256": "8a2251e37efd3ea324c47e99a133cec2351ac1b321938d8dd62e59a05b079af3",
+      "bytes": 10688
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/032_what-a-father-says.md",
+      "title": "032 what-a-father-says",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "ee808ac8fb4eac41.html",
+      "raw": "fonti/ee808ac8fb4eac41.md",
+      "sha256": "6e71b0838500250c88944772f0bf2d74892393674c5b5eba88affcb60bd63ff5",
+      "bytes": 11080
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/033_vern-s-signature.md",
+      "title": "033 vern-s-signature",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "e3b93c80bed83c34.html",
+      "raw": "fonti/e3b93c80bed83c34.md",
+      "sha256": "66d2ded68528bfba0a86e6ce995d41aa431b9b8feae55834c4a75a239f173a3a",
+      "bytes": 10903
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/034_the-work-of-an-arm.md",
+      "title": "034 the-work-of-an-arm",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "5d5f084a3390afc5.html",
+      "raw": "fonti/5d5f084a3390afc5.md",
+      "sha256": "b64234db9036455e07b7835b454675dbbe17caec2ef4c6dcfbdccd50511253e6",
+      "bytes": 10775
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/035_staying.md",
+      "title": "035 staying",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "fc434d6fd4ae0c59.html",
+      "raw": "fonti/fc434d6fd4ae0c59.md",
+      "sha256": "425fa6eb8bb9c5411eb02748ec0c323c0ce156da9f38a77dcfd8ba92164e11e5",
+      "bytes": 10859
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/036_the-hearing.md",
+      "title": "036 the-hearing",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "33f9c05e338c214d.html",
+      "raw": "fonti/33f9c05e338c214d.md",
+      "sha256": "255e2e52754401a3348bc18ce3e210fe726424279362a16f1a1f650040da93c3",
+      "bytes": 11110
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/037_a-name-returned.md",
+      "title": "037 a-name-returned",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "0c704cdc9ef0bd6f.html",
+      "raw": "fonti/0c704cdc9ef0bd6f.md",
+      "sha256": "fe77e805705f119acf015c45a0b1e01ac8e9652394a8494214fddb145e8d1a09",
+      "bytes": 10926
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/EN/Volume_01/038_an-open-door.md",
+      "title": "038 an-open-door",
+      "group": "Primo arco — revisione narrativa inglese 387",
+      "url": "b490cc60ef7d90bb.html",
+      "raw": "fonti/b490cc60ef7d90bb.md",
+      "sha256": "07e8c6773627016b9c7f9fe7455ab1f6401abb5f6f2db51f80124ed286db25ac",
+      "bytes": 10615
+    },
+    {
+      "source": "CANONE_VIGENTE/Continuita_letteraria_387.json",
+      "title": "Continuita letteraria 387",
+      "group": "Primo arco — revisione narrativa 387",
+      "url": "dc541b029d1c9963.html",
+      "raw": "fonti/dc541b029d1c9963.json",
+      "sha256": "19dd38162c81126ad2e429cba86868eca46c271511a69e09ab50cb7623d895ac",
+      "bytes": 214197
+    },
+    {
+      "source": "NOVEL/EDIZIONE_011/MANIFEST_NOVEL_011.json",
+      "title": "MANIFEST NOVEL 011",
+      "group": "Primo arco — revisione narrativa 387",
+      "url": "765017d4d18d25d7.html",
+      "raw": "fonti/765017d4d18d25d7.json",
+      "sha256": "f611e2274bdc65596c774fc023b68f8bb04392e79437ae9903c75d5e00f35be8",
+      "bytes": 42444
+    },
+    {
+      "source": "387_Registro_di_precedenza.md",
+      "title": "387 Registro di precedenza",
+      "group": "Primo arco — revisione narrativa 387",
+      "url": "7fde68bdd1c3c56b.html",
+      "raw": "fonti/7fde68bdd1c3c56b.md",
+      "sha256": "67bad68ea14b57293255440540994a8f1dd2f2eaa466915547675ba93f4615e0",
+      "bytes": 390
+    },
+    {
+      "source": "RISERVATO_387_Revisione_narrativa_primo_arco.md",
+      "title": "RISERVATO 387 Revisione narrativa primo arco",
+      "group": "Primo arco — revisione narrativa 387",
+      "url": "c1ebbdf6b2f48a31.html",
+      "raw": "fonti/c1ebbdf6b2f48a31.md",
+      "sha256": "123c3019298749fd015ef1e5f05a6c192d894e862b83b2b45b4fe54b1718248e",
+      "bytes": 10760
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",
@@ -28193,7 +28913,7 @@
   "practical_faq_revision": "349",
   "operational_revision": "350",
   "current_topic_register": "350_Fonti_vigenti_per_argomento.md",
-  "current_revision": 386,
+  "current_revision": 387,
   "revision_373_scope": "Culti, legalità locale e pratiche biologiche; nessuna modifica delle progressioni.",
   "revision_374_scope": "Consolidamento, 24 rapporti, 48 reti, culture, fede, scene e risposta alle crisi. Progressioni e fatti protetti invariati.",
   "revision_376_scope": "Rappresentazione e applicazioni dell’orrore generativo, intimità aliena e scala ambientale e divina; nessuna progressione modificata.",
@@ -28204,11 +28924,12 @@
   "revision_381_scope": "Trentotto capitoli IT/EN; aggiornamenti letterari distinti dalla campagna.",
   "revision_382_scope": "58 capitoli, testo integrale italiano nella wiki e Biblioteca; secondo arco concluso, continuità della campagna distinta.",
   "revision_383_scope": "78 testi italiani integrali; terzo arco concluso, campagna distinta.",
-  "current_novel_source": "CANONE_VIGENTE/Continuita_letteraria_386.json",
-  "current_novel_edition": "NOVEL-010-BILINGUE-ARCO-01",
-  "current_novel_precedence_source": "386_Registro_di_precedenza.md",
+  "current_novel_source": "CANONE_VIGENTE/Continuita_letteraria_387.json",
+  "current_novel_edition": "NOVEL-011-REVISIONE-NARRATIVA-ARCO-01",
+  "current_novel_precedence_source": "387_Registro_di_precedenza.md",
   "revision_384_scope": "Ricomposizione in 25 capitoli, superata e conservata solo come archivio.",
   "revision_385_scope": "Primo arco italiano ampliato e revisionato, 38 capitoli separati. Inglese da riallineare; archi 2 e 3 non revisionati. Nessun accorpamento.",
   "english_novel_revision_385": false,
-  "english_novel_revision_386": true
+  "english_novel_revision_386": true,
+  "english_novel_revision_387": true
 }

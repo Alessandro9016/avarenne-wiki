@@ -1,0 +1,303 @@
+# AVARENNE
+## Volume I — The Waking House
+### Capitolo 5 — La richiesta
+
+L'uomo portava un disegno arrotolato in una custodia troppo corta.
+
+Elias lo vide dal banco e provò immediatamente una lieve irritazione professionale. Il bordo della carta sporgeva, sfregando contro la cucitura della borsa. Bastava un po' di pioggia per rovinarlo.
+
+Fu il primo giudizio sbagliato della mattina: quando l'uomo srotolò il foglio, scoprì che la parte esposta era un'aggiunta bianca, incollata proprio per proteggere il disegno.
+
+«Ruy?» chiese il visitatore.
+
+Marcel alzò il capo dalla morsa.
+
+«Sono io.»
+
+«Ilian Uren. Mi hanno chiesto di riportare questo in scala. Prima di finire ho preferito farvelo vedere.»
+
+Appoggiò la carta sul banco e tenne fermi gli angoli con due dita. Il foglio mostrava due piastre, un'articolazione centrale e alcuni segni che Elias riconobbe troppo in fretta.
+
+Non la cerniera. La famiglia di forme cui apparteneva.
+
+Si chinò per guardare meglio.
+
+Ilian ruotò il foglio verso Marcel, senza allontanarlo da Elias. Non aveva l'aria di una persona che si divertisse a costringere gli altri a chiedere.
+
+«Mi è arrivato come parte di una perizia. Il committente sostiene che un pezzo simile sia passato da voi.»
+
+«Simile quanto?» chiese Marcel.
+
+Ilian indicò una proporzione.
+
+«Questo è uno dei problemi.»
+
+Il disegno era stato copiato almeno una volta. Alcune linee avevano spessori incongrui; un tratto si interrompeva dove il copista aveva probabilmente scambiato un graffio per il bordo di un incastro. Sotto, una nota riportava una dimensione che non poteva stare insieme alle altre.
+
+Ilian tolse dalla borsa due piccoli pesi per fermare gli angoli. Non usò nessuno degli attrezzi sparsi sul banco. Elias se ne accorse perché aveva già cercato con gli occhi qualcosa di abbastanza pulito da prestargli.
+
+«La carta tende a tornare in tondo», disse il disegnatore.
+
+«La lasciate arrotolata troppo a lungo.»
+
+«La porto arrotolata. Quando lavoro la distendo.»
+
+Elias abbassò gli occhi sul disegno. La quota sbagliata era scritta con un tratto netto, mentre attorno all'articolazione le linee si sovrapponevano. Chi aveva preparato quella copia aveva voluto che almeno il numero si leggesse bene.
+
+«La richiesta parla di riparazione?»
+
+«Di confronto», rispose Ilian.
+
+Elias tenne ferma la riga senza correggere il valore. La parola non gli piaceva più come un momento prima.
+
+Elias ritirò le mani dal foglio.
+
+«Posso guardare da questo lato?»
+
+Il disegnatore spostò un poco il taccuino. Aveva una mano larga, immobile vicino alla carta, e sul polsino una macchia di grafite che il lavaggio aveva soltanto allargato. Quando indicò la quota incongrua non fece il gesto di chi denuncia l’incapacità altrui. La scoprì alla luce, offrendo a Marcel la possibilità di seguirne il percorso.
+
+Elias conosceva quel ritegno. Ogni volta che doveva dire a un cliente che il disegno consegnato non bastava, il cliente sembrava sentirgli chiedere più denaro. Era più semplice cambiare la linea di nascosto e sperare che il risultato fosse quello voluto. Ilian aveva preferito portare l’errore ancora visibile.
+
+La mattina cominciò a interessargli per una ragione che non aveva niente a che fare con il componente custodito altrove.
+
+Elias prese una riga.
+
+«Chi vi ha dato le quote?»
+
+«Erano già lì.»
+
+«Questa è sbagliata.»
+
+«Lo so.»
+
+Ilian aprì il proprio taccuino. Aveva copiato il passaggio due volte, cancellando in pubblico la conversione precedente.
+
+«Per questo sono qui.»
+
+Marcel si pulì le mani e lasciò il panno sul banco.
+
+«Che cosa vi hanno chiesto di fare?»
+
+«Una tavola leggibile e una conferma delle parti. Se possibile, il confronto con un esemplare.»
+
+Elias immaginò subito un laboratorio nel quale qualcuno sapesse rifornire la cerniera. Un Bearer capace di riconoscere ciò che Marcel non poteva ripristinare. Vide la stanza disponibile per più di due aperture, gli incontri che non avrebbero dovuto finire insieme alla riserva.
+
+Si accorse di aver già spostato la riga sul punto che voleva correggere.
+
+Marcel gli posò una mano sul quaderno aperto.
+
+«Avete una richiesta scritta?»
+
+Ilian tirò fuori una busta.
+
+Il maestro la lesse tenendola piatta, in modo che Elias potesse vedere. L'esame era proposto presso un deposito di strumenti, il giorno successivo. Si chiedeva di portare il componente per evitare il trasferimento del banco di prova. Il proprietario sarebbe stato rimborsato per il tempo.
+
+«Il vostro cliente possiede un banco?» domandò Marcel.
+
+«È quello che mi è stato detto.»
+
+«Avete lavorato lì?»
+
+«No.»
+
+La punta della riga si fermò sotto le dita di Elias.
+
+Marcel lesse una seconda volta.
+
+«Non porto un oggetto da un cliente che non ha ancora chiarito che cosa intende esaminare.»
+
+Ilian non protestò. Sembrò quasi sollevato.
+
+«Posso riferirlo.»
+
+«Potete chiedere che venga chi deve fare l'esame. Con il nome, la competenza e il procedimento proposto.»
+
+«Anche per dire che non avete il pezzo?»
+
+Marcel alzò gli occhi.
+
+«Per dire che non lavoro in questo modo.»
+
+Dal cortile arrivò un colpo secco. Qualcuno aveva lasciato cadere una cassa. Elias girò il capo, poi tornò al disegno. Ilian stava aspettando che avesse finito, senza cercare di riempire il silenzio.
+
+«Vi hanno detto quale parte sarebbe investita?» chiese Elias.
+
+Ilian sfogliò il taccuino.
+
+«Il complesso. Con questo termine.»
+
+Gli mostrò la riga.
+
+Non c'erano diagnosi né una descrizione dell'esercizio. Soltanto una parola abbastanza ampia da dare a chiunque l'impressione di essere stato preciso.
+
+«E che cosa dovrebbe fare?»
+
+«Conservare un passaggio.»
+
+Elias sentì tornare l'entusiasmo, insieme a un fastidio più prudente.
+
+«Dove?»
+
+«Non c'è scritto.»
+
+«Per quanto?»
+
+Ilian girò il taccuino. La pagina era vuota.
+
+Marcel si spostò verso lo scaffale e prese una cerniera ordinaria. Una piccola, con un perno ben visibile. La posò accanto al disegno.
+
+«Questa conserva un passaggio», disse. «Se la porta è montata bene.»
+
+Ilian sorrise per la prima volta.
+
+Elias avrebbe voluto ridere con loro. Invece guardava la nota sul rimborso. Non era un'offerta di manutenzione; era lui ad averla trasformata in quella possibilità.
+
+«Posso copiare le incongruenze?» chiese.
+
+Ilian guardò Marcel. Il maestro non rispose al posto suo.
+
+«Quelle che trovate su questo foglio, sì. Non vi sto chiedendo una perizia.»
+
+Elias annuì. Prese una pagina nuova. Trascrisse la quota incompatibile e segnò l'interruzione nel tratto. Non aggiunse come fosse fatta la parte che conosceva.
+
+Fu più difficile di quanto avrebbe voluto ammettere. Sapeva una cosa utile, e il desiderio di mostrarla gli faceva quasi prudere le mani.
+
+Ilian seguiva il lavoro.
+
+«Avete già visto qualcosa di simile?»
+
+«Sì», disse Marcel.
+
+Elias sollevò gli occhi.
+
+«Gli oggetti di recupero si assomigliano spesso», proseguì il maestro. «Non certifico una provenienza da una copia incompleta.»
+
+Ilian scrisse anche quello. Non cercò di trasformare il sì in una dichiarazione più grande.
+
+Quando ebbero finito, si riprese il foglio. Prima di arrotolarlo notò il segno che Elias aveva tracciato a matita accanto a una delle quote.
+
+«Potete lasciarlo. Lo riferisco come vostro dubbio, non come correzione approvata.»
+
+«Non ho firmato.»
+
+«Per questo ve lo sto chiedendo.»
+
+Elias lasciò il segno.
+
+Ilian lesse ad alta voce il passaggio annotato. Elias sentì quanto la propria incertezza cambiasse su un’altra voce. Gli era sembrata evidente mentre aveva il foglio sotto gli occhi; lontano dalla linea poteva suonare come una correzione già stabilita.
+
+«Aggiungete che l’ho ricavato da questa copia.»
+
+Il disegnatore sollevò la matita.
+
+«Non avete visto il pezzo?»
+
+«Non quello rappresentato qui.»
+
+Ilian inserì le parole, poi tornò alla frase precedente senza un sospiro. Elias si domandò quanto spesso fosse costretto a rifare una tavola perché qualcuno aveva dato per comune un’informazione che non gli aveva consegnato.
+
+«Quando vi hanno dato il lavoro?»
+
+Marcel non intervenne, ma il suo silenzio gli fece sentire subito la domanda. Elias si corresse prima che l’altro dovesse scegliere quanto rispondere.
+
+«Volevo capire se avete una scadenza. Noi oggi dobbiamo uscire.»
+
+«Devo riportare una risposta. Il disegno può aspettare più della risposta.»
+
+«E se il cliente non gradisce?»
+
+Ilian rimise il cappuccio alla matita.
+
+«Preferisco che non gradisca una cosa che ho detto davvero.»
+
+Marcel liberò un margine del banco. Sulla superficie rimase il segno di un vecchio taglio, riempito d’olio e polvere scura. Elias vi fece passare il dito senza pensarci. Fino al giorno prima avrebbe raccontato quell’incontro come la possibilità di conoscere qualcuno più competente. Adesso il visitatore stava semplicemente cercando di finire il proprio lavoro senza attribuirsi competenze altrui.
+
+«Vi ho fatto molte domande», disse.
+
+«Alcune mi servivano.»
+
+Ilian sorrise. Non lo rassicurò sulle altre.
+
+Elias raccolse il proprio foglio delle incongruenze e lo girò in modo che il visitatore potesse controllarlo. Questa volta non aveva fretta di arrivare alla parte segreta della conversazione. Prima voleva riuscire a restituire correttamente quella che avevano fatto davanti a tutti.
+
+Marcel restituì la richiesta scritta e dettò le condizioni per un eventuale esame nel laboratorio. Ilian le annotò, poi rilesse l'indirizzo e l'ora entro cui avrebbe portato la risposta. Il maestro corresse soltanto l'ora: il pomeriggio era già impegnato.
+
+Il visitatore rimise tutto nella borsa. Sulla soglia si voltò.
+
+«Per il confronto posso dire che vorreste parlare direttamente con chi ha preparato la richiesta?»
+
+«Sì.»
+
+«E che non consegnate componenti?»
+
+«Finché non so a chi e perché.»
+
+Ilian annuì e uscì.
+
+Elias aspettò che i passi si perdessero nel vicolo.
+
+«Potrebbero conoscere qualcuno.»
+
+Marcel riprese la cerniera ordinaria.
+
+«Molte persone conoscono qualcuno.»
+
+«Intendo qualcuno in grado di rifornirla.»
+
+La parola rimase fra loro. Elias si voltò verso la porta aperta. Non c'era nessuno sulla soglia.
+
+Marcel non lo rimproverò. Lo lasciò accorgere da solo di aver abbassato la voce dopo, invece che prima.
+
+«Può darsi», disse. «Se è così, sapranno presentarsi.»
+
+Elias guardò la pagina delle incongruenze.
+
+«Ho quasi corretto il disegno.»
+
+«L'ho visto.»
+
+«Avresti potuto fermarmi.»
+
+«Ti ho fermato.»
+
+Non c'era durezza nella voce. Elias la sentì lo stesso.
+
+Per lui la stanza era diventata, in pochi giorni, qualcosa che poteva perdere. Per Marcel restava anche un oggetto che non comprendeva abbastanza da lasciarlo nelle mani di chiunque, compreso il proprio apprendista.
+
+«Non voglio portarla via», disse Elias.
+
+«Non me l'hai chiesto.»
+
+Il maestro rimise la cerniera sullo scaffale. Il perno batté contro il legno con un rumore piccolo, definitivo.
+
+Elias raccolse la riga. Avrebbe dovuto tornare al regolatore, ma una parte del disegno continuava a disturbarlo.
+
+La copiò più in grande, senza completarla. Due linee, un bordo, l'angolo nel quale il primo copista aveva sollevato la penna.
+
+«Che c'è?» chiese Marcel.
+
+«La quota è sbagliata. Però la pianta e la vista laterale sono sbagliate nello stesso modo.»
+
+Marcel tornò vicino al banco.
+
+Elias indicò il punto.
+
+«Non sono due errori di conversione. Hanno copiato una forma che era già diversa.»
+
+Il maestro prese il foglio e lo girò verso la finestra. Non usò alcun potere. Seguì il tratto con un'unghia, poi rilesse la nota di Elias.
+
+«Potrebbe essere un altro pezzo.»
+
+«Sì.»
+
+Quella risposta lo deluse. Avrebbe voluto una discrepanza che significasse una sola cosa.
+
+Marcel gli restituì la pagina.
+
+«Tienila.»
+
+Elias infilò la pagina nel quaderno. In alto scrisse una domanda: perché far portare un esemplare funzionante, se non sapevano descrivere nemmeno quello che desideravano confrontare?
+
+Sotto lasciò la quota incompatibile. Se fosse arrivato un pezzo vero, avrebbero potuto controllarla.
+
+Marcel aveva già ripreso a lavorare. La piccola cerniera ordinaria era rimasta accanto al disegno, aperta sul banco come una bocca senza denti.

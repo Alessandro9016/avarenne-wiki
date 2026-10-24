@@ -1,0 +1,302 @@
+{
+  "revision": 387,
+  "edition": "NOVEL-011-REVISIONE-NARRATIVA-ARCO-01",
+  "chapters_per_language": 38,
+  "languages": [
+    "it",
+    "en"
+  ],
+  "it_words": 71130,
+  "en_words": 73671,
+  "aligned_paragraphs": 3795,
+  "it_min": 1803,
+  "it_max": 2139,
+  "en_min": 1813,
+  "en_max": 2162,
+  "chapter_checks": [
+    {
+      "chapter": 1,
+      "it_words": 1953,
+      "it_paragraphs": 164,
+      "en_words": 2162,
+      "en_paragraphs": 164
+    },
+    {
+      "chapter": 2,
+      "it_words": 1933,
+      "it_paragraphs": 148,
+      "en_words": 2108,
+      "en_paragraphs": 148
+    },
+    {
+      "chapter": 3,
+      "it_words": 1848,
+      "it_paragraphs": 167,
+      "en_words": 2039,
+      "en_paragraphs": 167
+    },
+    {
+      "chapter": 4,
+      "it_words": 1940,
+      "it_paragraphs": 126,
+      "en_words": 2092,
+      "en_paragraphs": 126
+    },
+    {
+      "chapter": 5,
+      "it_words": 1845,
+      "it_paragraphs": 150,
+      "en_words": 2031,
+      "en_paragraphs": 150
+    },
+    {
+      "chapter": 6,
+      "it_words": 1931,
+      "it_paragraphs": 113,
+      "en_words": 2091,
+      "en_paragraphs": 113
+    },
+    {
+      "chapter": 7,
+      "it_words": 1892,
+      "it_paragraphs": 102,
+      "en_words": 2024,
+      "en_paragraphs": 102
+    },
+    {
+      "chapter": 8,
+      "it_words": 1926,
+      "it_paragraphs": 104,
+      "en_words": 2014,
+      "en_paragraphs": 104
+    },
+    {
+      "chapter": 9,
+      "it_words": 1807,
+      "it_paragraphs": 98,
+      "en_words": 1887,
+      "en_paragraphs": 98
+    },
+    {
+      "chapter": 10,
+      "it_words": 1907,
+      "it_paragraphs": 104,
+      "en_words": 1975,
+      "en_paragraphs": 104
+    },
+    {
+      "chapter": 11,
+      "it_words": 1929,
+      "it_paragraphs": 93,
+      "en_words": 2023,
+      "en_paragraphs": 93
+    },
+    {
+      "chapter": 12,
+      "it_words": 1887,
+      "it_paragraphs": 102,
+      "en_words": 1950,
+      "en_paragraphs": 102
+    },
+    {
+      "chapter": 13,
+      "it_words": 1839,
+      "it_paragraphs": 106,
+      "en_words": 1960,
+      "en_paragraphs": 106
+    },
+    {
+      "chapter": 14,
+      "it_words": 1820,
+      "it_paragraphs": 102,
+      "en_words": 1877,
+      "en_paragraphs": 102
+    },
+    {
+      "chapter": 15,
+      "it_words": 1868,
+      "it_paragraphs": 102,
+      "en_words": 1966,
+      "en_paragraphs": 102
+    },
+    {
+      "chapter": 16,
+      "it_words": 1955,
+      "it_paragraphs": 100,
+      "en_words": 2010,
+      "en_paragraphs": 100
+    },
+    {
+      "chapter": 17,
+      "it_words": 1842,
+      "it_paragraphs": 99,
+      "en_words": 1931,
+      "en_paragraphs": 99
+    },
+    {
+      "chapter": 18,
+      "it_words": 1803,
+      "it_paragraphs": 88,
+      "en_words": 1885,
+      "en_paragraphs": 88
+    },
+    {
+      "chapter": 19,
+      "it_words": 1833,
+      "it_paragraphs": 102,
+      "en_words": 1897,
+      "en_paragraphs": 102
+    },
+    {
+      "chapter": 20,
+      "it_words": 1869,
+      "it_paragraphs": 116,
+      "en_words": 1964,
+      "en_paragraphs": 116
+    },
+    {
+      "chapter": 21,
+      "it_words": 1866,
+      "it_paragraphs": 93,
+      "en_words": 1928,
+      "en_paragraphs": 93
+    },
+    {
+      "chapter": 22,
+      "it_words": 1807,
+      "it_paragraphs": 108,
+      "en_words": 1868,
+      "en_paragraphs": 108
+    },
+    {
+      "chapter": 23,
+      "it_words": 1814,
+      "it_paragraphs": 75,
+      "en_words": 1845,
+      "en_paragraphs": 75
+    },
+    {
+      "chapter": 24,
+      "it_words": 1807,
+      "it_paragraphs": 85,
+      "en_words": 1832,
+      "en_paragraphs": 85
+    },
+    {
+      "chapter": 25,
+      "it_words": 1896,
+      "it_paragraphs": 85,
+      "en_words": 1893,
+      "en_paragraphs": 85
+    },
+    {
+      "chapter": 26,
+      "it_words": 1895,
+      "it_paragraphs": 91,
+      "en_words": 1921,
+      "en_paragraphs": 91
+    },
+    {
+      "chapter": 27,
+      "it_words": 1811,
+      "it_paragraphs": 70,
+      "en_words": 1820,
+      "en_paragraphs": 70
+    },
+    {
+      "chapter": 28,
+      "it_words": 1812,
+      "it_paragraphs": 80,
+      "en_words": 1820,
+      "en_paragraphs": 80
+    },
+    {
+      "chapter": 29,
+      "it_words": 1846,
+      "it_paragraphs": 88,
+      "en_words": 1851,
+      "en_paragraphs": 88
+    },
+    {
+      "chapter": 30,
+      "it_words": 2139,
+      "it_paragraphs": 88,
+      "en_words": 2158,
+      "en_paragraphs": 88
+    },
+    {
+      "chapter": 31,
+      "it_words": 1834,
+      "it_paragraphs": 85,
+      "en_words": 1873,
+      "en_paragraphs": 85
+    },
+    {
+      "chapter": 32,
+      "it_words": 1861,
+      "it_paragraphs": 97,
+      "en_words": 1901,
+      "en_paragraphs": 97
+    },
+    {
+      "chapter": 33,
+      "it_words": 1874,
+      "it_paragraphs": 83,
+      "en_words": 1859,
+      "en_paragraphs": 83
+    },
+    {
+      "chapter": 34,
+      "it_words": 1873,
+      "it_paragraphs": 90,
+      "en_words": 1850,
+      "en_paragraphs": 90
+    },
+    {
+      "chapter": 35,
+      "it_words": 1840,
+      "it_paragraphs": 72,
+      "en_words": 1863,
+      "en_paragraphs": 72
+    },
+    {
+      "chapter": 36,
+      "it_words": 1848,
+      "it_paragraphs": 69,
+      "en_words": 1852,
+      "en_paragraphs": 69
+    },
+    {
+      "chapter": 37,
+      "it_words": 1862,
+      "it_paragraphs": 78,
+      "en_words": 1838,
+      "en_paragraphs": 78
+    },
+    {
+      "chapter": 38,
+      "it_words": 1818,
+      "it_paragraphs": 72,
+      "en_words": 1813,
+      "en_paragraphs": 72
+    }
+  ],
+  "all_manuscripts_txt_wiki_and_continuous_equal": true,
+  "bidirectional_language_links": true,
+  "sequential_navigation_verified": true,
+  "previous_manuscripts_unchanged": true,
+  "common_canon_and_final_resources_unchanged": true,
+  "source_hash_errors": [],
+  "sources_verified": 3191,
+  "other_arcs_revised": false,
+  "zip_created": false,
+  "push_performed": false,
+  "quality_limit": "Controlli di integrità, dimensioni, copertura strutturale e navigazione. La revisione narrativa comprende 78 interventi; i controlli automatici non certificano il valore letterario né una revisione umana esterna.",
+  "wiki_articles": 1688,
+  "local_links_checked": 150276,
+  "local_link_errors": 0,
+  "wiki_publication_pending_push": true,
+  "narrative_interventions": 78,
+  "initial_dates_and_main_povs_preserved": true,
+  "additional_mael_scene_separated": true
+}
