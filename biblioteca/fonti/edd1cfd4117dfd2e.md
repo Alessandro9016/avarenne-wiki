@@ -1,0 +1,129 @@
+# AVARENNE
+## Volume I — The Waking House
+### Capitolo 74 — L'acqua di servizio
+
+Il primo uomo che Elias incontrò alla Mutua non voleva vedere una pompa. Voleva passare con una cesta di panni e trovava che il rilevatore, fermo nel punto peggiore della porta, avesse scelto un mestiere poco utile.
+
+«Scusate.»
+
+Elias si scostò. L'uomo passò senza riconoscerlo e domandò a qualcuno se il ripiano vicino all'acqua fosse finalmente libero. Dal fondo gli risposero che poteva lasciare la cesta, ma non lì. Era una discussione sul posto delle cose, identica a cento altre. La pompa lavorava dietro la parete e nessuno aveva interrotto la propria frase per ascoltarla.
+
+Elias aveva pensato di arrivare con le istruzioni finite e trovare una piccola attesa. Non una cerimonia; abbastanza, però, da far capire che quella mattina chiudeva un lavoro. Dovette aspettare che passasse anche una seconda cesta prima di poter entrare.
+
+Gaston lo salutò sollevando una mano dal registro. «Hai portato la pagina nuova?»
+
+«E il riferimento del ricambio.»
+
+«Allora vieni di qua. Quello vecchio non lo togliamo finché non abbiamo messo l'altro.»
+
+La tavoletta delle prime indicazioni stava ancora accanto all'ingresso. La carta aveva un angolo piegato, una macchia lasciata da un dito e una correzione che non apparteneva alla grafia di Elias. Seguì il segno. Qualcuno aveva scritto il punto in cui si trovava un recipiente di scarico, invece di quello nel quale avevano pensato di tenerlo.
+
+Non era una correzione elegante. Era esatta.
+
+La pagina nuova riprendeva le indicazioni che avevano già usato dal sette giugno e aggiungeva i risultati della prova sul ricambio locale. Il pezzo non era stato sperimentato smontando la macchina in servizio. Elias mostrò a Gaston il numero due annotato sul foglio; l'uomo controllò il numero uno sulla carcassa, come se volesse impedire alle due prove di confondersi anche nella carta.
+
+«Il pezzo entra qui nello stesso modo?»
+
+«La sede è la stessa. Questo è il disegno della sede e questo il riferimento del materiale. La prova è stata fatta sul banco dell'officina.»
+
+Gaston seguì la riga con un dito, poi gli chiese la chiave indicata nella dotazione. Era arrivata in una custodia ordinaria insieme ai fogli. La prese, la confrontò con il profilo e la rimise nella custodia, accanto agli attrezzi della macchina. Nessuno aveva bisogno di aprire il coperchio per dimostrare che sapevano farlo.
+
+L'acqua saliva nel tratto di servizio. Alla vasca un addetto riempiva il recipiente successivo e lo faceva scorrere verso una donna, che lo sollevava da un'altezza comoda. Non aveva fatto le scale con quel peso. Elias guardò il pavimento, aspettandosi di trovare una traccia dove il getto gli tornava ancora alla memoria. Il pavimento era sporco di lavoro, non allagato.
+
+Noemi arrivò con una cartella e un fazzoletto infilato nel polsino. «Hai già trovato qualcosa da riaprire?»
+
+«Non ancora.»
+
+«Aspetta almeno che finisca la consegna.»
+
+Si fermò vicino a Gaston e lesse il titolo della pagina. Aveva tagliato via il bordo vuoto della vecchia tavoletta perché ci si impigliava una manica passando. Elias lo notò soltanto quando appoggiò accanto il foglio più grande.
+
+«Il nuovo è troppo largo», disse lei.
+
+«Posso piegarlo.»
+
+«Non sopra il nome del ricambio.»
+
+Gaston trovò un supporto più largo fra due assi conservate per un altro lavoro. Lo posò contro il muro e fece vedere dove sarebbe stato necessario accorciarlo. L'addetto alla vasca, finito il riempimento, venne a prenderlo. Non guardò Elias in cerca di conferma. Aveva una sega, un banco e abbastanza fastidio per la vecchia tavoletta da voler sistemare il problema subito.
+
+Nel frattempo Elias confrontò con Gaston l'ultima verifica prevista. Non cercavano un incidente. Il livello era quello richiesto per il servizio, il ritorno seguiva il percorso riparato, gli appoggi restavano stabili. Il punto dove la condotta vecchia aveva ceduto era visibile. La riparazione non aveva cancellato le altre giunzioni, ma neppure ogni rumore della stanza era diventato un avvertimento.
+
+Un uomo spinse una cassa nel corridoio e la lasciò contro il riparo dell'accesso. Prima che Elias aprisse bocca, l'addetto della vasca la richiamò indietro.
+
+«Lì non posso arrivare agli attrezzi.»
+
+«È solo per un momento.»
+
+«Il momento sta anche dall'altra parte.»
+
+Indicò un posto libero. L'uomo spostò la cassa con un brontolio, senza chiedere chi gli avesse dato quell'autorità. Elias seguì il movimento e si sentì sottrarre un intervento che era già pronto a compiere. Poi Gaston gli mise davanti il registro e gli chiese di controllare una riga. Non dovette inventarsi altro da fare.
+
+La riga riportava due letture del livello, prese prima e dopo il riempimento dei recipienti il giorno precedente. Le ore erano segnate, la firma dell'addetto leggibile. Elias chiese se avessero notato differenze nel rumore e ricevette una descrizione concreta dei due momenti. Non c'era stato il miracolo di una macchina che impediva ogni dubbio: qualcuno l'aveva ascoltata mentre lavorava e aveva scritto ciò che vedeva, senza dover interrompere il servizio.
+
+Noemi gli indicò poi due colonne del foglio di consegna. «Questa è per ciò che riceviamo oggi. Questa riguarda il servizio successivo?»
+
+«Il recapito e il lavoro da concordare. Non vuol dire che ogni intervento futuro sia già compreso.»
+
+«Lo chiedo per non far scrivere riparazione al posto di richiesta. Abbiamo perso una settimana su un ordine di protesi per una parola così.»
+
+Corresse il titolo con una grafia più grande della sua. Non gli chiese una promessa che avrebbe impegnato Yselle senza averla lì. Voleva sapere a quale porta bussare se il lavoro tornava a esserci.
+
+La tavoletta nuova arrivò con l'odore del taglio fresco. L'addetto ne aveva smussato l'angolo che sporgeva nel passaggio. Gaston la tenne ferma, Noemi scelse l'altezza e Elias vi fissò la pagina. Il ritaglio del materiale restò protetto in una bustina separata, col riferimento leggibile, non appeso sopra la vasca a bagnarsi.
+
+Rimasero un momento davanti al lavoro. Elias cercò una frase che somigliasse alla conclusione giusta e non ne trovò una che Noemi non avrebbe potuto prendergli in giro. Fu lei a salvarlo, chiedendogli di spostarsi perché la donna con il recipiente stava tornando.
+
+La donna appoggiò il recipiente, guardò l'acqua e disse che avevano cominciato a lavare prima del solito. Non sapeva niente di quote o garanzie. Era arrabbiata perché il tavolo dei panni non era ancora pronto, e contenta di potersene arrabbiare con il secchio già pieno.
+
+Elias le chiese quanto tempo impiegassero prima. Lei gli disse di provare a fare due giri con un recipiente vuoto, poi immaginarlo pieno. Non c'era bisogno di trasformare la risposta in un numero per crederle.
+
+La donna sollevò un lembo dalla cesta. Si era impigliato nella maniglia sotto il resto della biancheria; se avesse tirato, avrebbe rovesciato il recipiente appena riempito. Chiese a Elias di tenerlo fermo. Lui infilò due dita sotto il legno e le lasciò entrambe le mani libere. Il nodo di stoffa uscì piano, bagnandogli il polsino.
+
+«Questo non era nella consegna», disse lei.
+
+«Posso aggiungerlo al foglio.»
+
+«Non farlo. Poi domani penseranno che vieni tu.»
+
+Gli mostrò il punto sotto il banco dove avrebbero messo le ceste, una volta liberato dai recipienti che prima servivano a portare su l'acqua. Ne aveva già spostati due. Sul pavimento erano rimasti due rettangoli più chiari e un bottone che nessuno si era chinato a raccogliere. La donna lo prese e lo infilò nella tasca del grembiule.
+
+Elias lasciò la maniglia quando lei ebbe sistemato il tessuto. Aveva creduto che il lavoro finito si riconoscesse dalla macchina immobile e da un foglio senza correzioni. Quella mattina non c'era niente di immobile: panni, ceste, persone e persino gli oggetti che avevano perduto la propria utilità si stavano cercando un posto. La donna gli domandò di non lasciare la cartella sul ripiano che aveva appena liberato. Lui la riprese senza spiegare che non l'avrebbe tenuta lì a lungo.
+
+In un angolo asciutto, sopra una mensola diversa, restava la brocca per bere. Nessuno la riempiva dalla vasca di servizio. La distinzione faceva parte delle abitudini della stanza; la nuova macchina non aveva cambiato l'acqua in qualcosa che non era.
+
+Noemi lo condusse al tavolo dell'ufficio per la firma. La stanza aveva una finestra aperta sul cortile, e una corrente tentò subito di portare via il primo foglio. Elias appoggiò il peso troppo lontano dall'angolo; Noemi lo spostò prima di porgergli la penna.
+
+«Sai che adesso ti dovranno trovare un altro lavoro?»
+
+«Marcel probabilmente ci sta già pensando.»
+
+«Io parlavo della pompa. Non possiamo continuare a farti controllare la stessa vite per tenerti qui.»
+
+Lui rise, poi guardò il modulo. Aveva trovato il servizio già in corso. Il bisogno per il quale avevano misurato, discusso e trasportato macchine era stato soddisfatto davvero. Poteva sembrare poco davanti a ciò che il duca aveva fatto apparire. Sul foglio, però, quel poco era abbastanza da poter essere consegnato.
+
+Firmò per il controllo eseguito. Noemi firmò per la ricezione dei fogli e della dotazione, Gaston aggiunse il proprio riscontro. Nessuno trasformò quelle firme in una certificazione dell'acqua da bere o dell'intera città. La stanza, il servizio e la macchina avevano contorni che Elias conosceva.
+
+Mentre l'inchiostro asciugava, un uomo comparve sulla soglia. Non entrò. Chiese a Noemi se avesse novità sulle visite delle quali avevano parlato.
+
+«Non ancora una data», rispose lei. «Se vuoi, quando ce l'ho ti faccio chiamare da solo. Non devi venire con gli altri.»
+
+L'uomo annuì, guardò Elias e sembrò voler aggiungere una domanda. Noemi aspettò. Alla fine disse soltanto di lasciargli il messaggio al recapito che conosceva, poi se ne andò.
+
+«Non voleva chiedere davanti a me», disse Elias.
+
+«O non voleva chiedere oggi.»
+
+Noemi riprese il foglio e gli indicò dove mettere la propria copia provvisoria. Sull'avambraccio destro, dove il vecchio fissaggio l'aveva tagliata, non c'era il segno che Elias si aspettava ancora di vedere. La guarigione era rimasta vera anche quando nessuno ne parlava.
+
+«Avete già scritto al duca?»
+
+«Gli ho dato le domande prima che partisse. Adesso aspetto che mi dica come procedere. Nel frattempo posso chiedere alle persone se vogliono esserci.»
+
+Non lo disse come chi attendeva un permesso per tornare a vivere. Aveva ancora una cassetta di corrispondenza da aprire, due persone da ricevere e una tavoletta nuova da impedire che qualcuno coprisse con un grembiule. Elias la lasciò tornare a quelle cose senza offrirsi di portare una risposta che non aveva.
+
+Ripassando vicino alla macchina, sentì l'addetto spiegare al collega dove trovare la chiave a collo piegato. L'uomo aprì la custodia e gliela mostrò. La voce continuò sopra il rumore della pompa: una discussione breve su chi l'avesse rimessa al contrario. Era diventata abbastanza loro da poter essere disordinata da mani che non erano quelle del progettista.
+
+In officina Yselle ricevette l'originale della consegna e lesse le firme prima di chiedergli del livello. Elias le raccontò della cassa spostata, della tavoletta e del servizio che aveva trovato già in corso. Lei controllò le aggiunte di Noemi e mise il foglio nella cartella del progetto.
+
+«La copia definitiva te la tengo qui», disse. «Passa a ritirarla quando torna dal confronto.»
+
+Elias annuì. Quella copia gli sarebbe appartenuta senza dover restare attaccato alla macchina per meritarla. Posò sul banco la cartella ormai più leggera e si accorse che non aveva portato via niente da riparare. Per una volta, era esattamente ciò che doveva consegnare.

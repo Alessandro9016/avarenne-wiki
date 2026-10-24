@@ -108,7 +108,7 @@
     "title": "Adrien Veyne",
     "kind": "Personaggi",
     "url": "cast-124-adrien-veyne.html",
-    "bytes": 21186,
+    "bytes": 23023,
     "image_count": 2
   },
   {
@@ -164,7 +164,7 @@
     "title": "Albin Sere",
     "kind": "Personaggi",
     "url": "cast-069-albin-sere.html",
-    "bytes": 21554,
+    "bytes": 22276,
     "image_count": 2
   },
   {
@@ -204,7 +204,7 @@
     "title": "Alexander Valcienne",
     "kind": "Personaggi",
     "url": "cast-001-alexander-valcienne.html",
-    "bytes": 94131,
+    "bytes": 101181,
     "image_count": 7
   },
   {
@@ -873,18 +873,18 @@
   },
   {
     "id": "NOVEL-ARC-02",
-    "title": "Arco 2 della novel — The Price of a Miracle",
+    "title": "Arco 2 — The Price of a Miracle",
     "kind": "Archi della novel",
     "url": "novel-arco-02-the-price-of-a-miracle.html",
-    "bytes": 8806,
+    "bytes": 14382,
     "image_count": 0
   },
   {
     "id": "NOVEL-ARC-03",
-    "title": "Arco 3 della novel — The Fourth Chair",
+    "title": "Arco 3 — The Fourth Chair: da scrivere",
     "kind": "Archi della novel",
     "url": "novel-arco-03-the-fourth-chair.html",
-    "bytes": 8634,
+    "bytes": 6547,
     "image_count": 0
   },
   {
@@ -1224,6 +1224,14 @@
     "image_count": 7
   },
   {
+    "id": "NOVEL-READING-ED013-IT",
+    "title": "AVARENNE — Arco 2 integrale in italiano",
+    "kind": "Testo integrale della novel",
+    "url": "novel-ed013-arco02-lettura.html",
+    "bytes": 510089,
+    "image_count": 0
+  },
+  {
     "id": "MAP-WORLD",
     "title": "Avarenne — atlante dei continenti",
     "kind": "Cartografia",
@@ -1238,14 +1246,6 @@
     "url": "atlante-mondo.html",
     "bytes": 9486,
     "image_count": 1
-  },
-  {
-    "id": "NOVEL-INDEX",
-    "title": "AVARENNE — Capitoli integrali della novel",
-    "kind": "Opera",
-    "url": "novel.html",
-    "bytes": 14385,
-    "image_count": 0
   },
   {
     "id": "NOVEL-READING-ED010-EN",
@@ -1273,10 +1273,18 @@
   },
   {
     "id": "NOVEL-INDEX-EN",
-    "title": "AVARENNE — First arc in English",
+    "title": "AVARENNE — Complete novel chapters in English",
     "kind": "Opera",
     "url": "novel-en.html",
-    "bytes": 13633,
+    "bytes": 22475,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-INDEX",
+    "title": "AVARENNE — La novel integrale, italiano e inglese",
+    "kind": "Opera",
+    "url": "novel.html",
+    "bytes": 22575,
     "image_count": 0
   },
   {
@@ -1317,6 +1325,14 @@
     "kind": "Testo integrale della novel",
     "url": "novel-ed011-arco01-lettura.html",
     "bytes": 503072,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-READING-ED013-EN",
+    "title": "AVARENNE — Second arc in English",
+    "kind": "Testo integrale della novel",
+    "url": "novel-ed013-arco02-reading-en.html",
+    "bytes": 489520,
     "image_count": 0
   },
   {
@@ -1646,6 +1662,350 @@
     "url": "bst-020-borrowed-face-nest.html",
     "bytes": 12669,
     "image_count": 2
+  },
+  {
+    "id": "HIST-389-novel-arco-02-the-price-of-a-miracle-html",
+    "title": "Bozza storica — novel-arco-02-the-price-of-a-miracle.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-arco-02-the-price-of-a-miracle.html",
+    "bytes": 9061,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-arco-03-the-fourth-chair-html",
+    "title": "Bozza storica — novel-arco-03-the-fourth-chair.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-arco-03-the-fourth-chair.html",
+    "bytes": 8874,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-dettagli-e-fonti-html",
+    "title": "Bozza storica — novel-dettagli-e-fonti.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-dettagli-e-fonti.html",
+    "bytes": 76900,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-039-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-039.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-039.html",
+    "bytes": 13701,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-040-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-040.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-040.html",
+    "bytes": 13689,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-041-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-041.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-041.html",
+    "bytes": 13390,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-042-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-042.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-042.html",
+    "bytes": 13400,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-043-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-043.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-043.html",
+    "bytes": 13359,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-044-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-044.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-044.html",
+    "bytes": 13525,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-045-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-045.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-045.html",
+    "bytes": 13647,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-046-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-046.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-046.html",
+    "bytes": 13903,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-047-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-047.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-047.html",
+    "bytes": 13789,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-048-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-048.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-048.html",
+    "bytes": 13151,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-049-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-049.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-049.html",
+    "bytes": 13989,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-050-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-050.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-050.html",
+    "bytes": 14600,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-051-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-051.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-051.html",
+    "bytes": 14017,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-052-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-052.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-052.html",
+    "bytes": 13622,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-053-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-053.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-053.html",
+    "bytes": 13395,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-054-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-054.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-054.html",
+    "bytes": 13471,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-055-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-055.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-055.html",
+    "bytes": 13382,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-056-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-056.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-056.html",
+    "bytes": 13082,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-057-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-057.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-057.html",
+    "bytes": 13149,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-058-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-058.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-058.html",
+    "bytes": 13644,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-059-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-059.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-059.html",
+    "bytes": 12512,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-060-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-060.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-060.html",
+    "bytes": 12579,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-061-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-061.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-061.html",
+    "bytes": 12882,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-062-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-062.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-062.html",
+    "bytes": 12551,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-063-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-063.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-063.html",
+    "bytes": 12740,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-064-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-064.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-064.html",
+    "bytes": 12979,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-065-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-065.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-065.html",
+    "bytes": 12495,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-066-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-066.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-066.html",
+    "bytes": 12528,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-067-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-067.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-067.html",
+    "bytes": 12753,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-068-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-068.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-068.html",
+    "bytes": 12701,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-069-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-069.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-069.html",
+    "bytes": 12892,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-070-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-070.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-070.html",
+    "bytes": 12838,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-071-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-071.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-071.html",
+    "bytes": 12513,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-072-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-072.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-072.html",
+    "bytes": 12862,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-073-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-073.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-073.html",
+    "bytes": 13128,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-074-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-074.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-074.html",
+    "bytes": 12775,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-075-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-075.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-075.html",
+    "bytes": 12865,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-076-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-076.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-076.html",
+    "bytes": 12722,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-077-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-077.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-077.html",
+    "bytes": 12930,
+    "image_count": 0
+  },
+  {
+    "id": "HIST-389-novel-volume-01-capitolo-078-html",
+    "title": "Bozza storica — novel-volume-01-capitolo-078.html",
+    "kind": "Archivio letterario",
+    "url": "storico-pre389-novel-volume-01-capitolo-078.html",
+    "bytes": 12838,
+    "image_count": 0
   },
   {
     "id": "CAST-434",
@@ -2100,7 +2460,15 @@
     "title": "Capitolo 38 — Una porta aperta",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-038.html",
-    "bytes": 19381,
+    "bytes": 19636,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C039",
+    "title": "Capitolo 39 — Il pezzo che si poteva cambiare",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-039.html",
+    "bytes": 19978,
     "image_count": 0
   },
   {
@@ -2112,11 +2480,171 @@
     "image_count": 0
   },
   {
+    "id": "NOVEL-V01-C040",
+    "title": "Capitolo 40 — L’altezza dell’acqua",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-040.html",
+    "bytes": 19663,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C041",
+    "title": "Capitolo 41 — Tre uscite",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-041.html",
+    "bytes": 19519,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C042",
+    "title": "Capitolo 42 — Un invito senza conto",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-042.html",
+    "bytes": 19641,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C043",
+    "title": "Capitolo 43 — Il disegno aperto",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-043.html",
+    "bytes": 20090,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C044",
+    "title": "Capitolo 44 — La garanzia",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-044.html",
+    "bytes": 19348,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C045",
+    "title": "Capitolo 45 — Sei corone da guadagnare",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-045.html",
+    "bytes": 19651,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C046",
+    "title": "Capitolo 46 — L’inchiostro prestato",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-046.html",
+    "bytes": 19776,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C047",
+    "title": "Capitolo 47 — Ventitré chilometri",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-047.html",
+    "bytes": 19622,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C048",
+    "title": "Capitolo 48 — Il primo incontro",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-048.html",
+    "bytes": 19847,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C049",
+    "title": "Capitolo 49 — Una forma che funziona",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-049.html",
+    "bytes": 19515,
+    "image_count": 0
+  },
+  {
     "id": "NOVEL-V01-C005",
     "title": "Capitolo 5 — La richiesta",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-005.html",
     "bytes": 20386,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C050",
+    "title": "Capitolo 50 — Il peso del metallo",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-050.html",
+    "bytes": 19378,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C051",
+    "title": "Capitolo 51 — La mano sul disegno",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-051.html",
+    "bytes": 19611,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C052",
+    "title": "Capitolo 52 — Un prezzo dopo il volto",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-052.html",
+    "bytes": 19434,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C053",
+    "title": "Capitolo 53 — Prima del getto",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-053.html",
+    "bytes": 19813,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C054",
+    "title": "Capitolo 54 — Dentro l’acqua",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-054.html",
+    "bytes": 18864,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C055",
+    "title": "Capitolo 55 — Il tratto raggiunto",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-055.html",
+    "bytes": 19633,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C056",
+    "title": "Capitolo 56 — Le persone che mancano",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-056.html",
+    "bytes": 19212,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C057",
+    "title": "Capitolo 57 — La colla sul polsino",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-057.html",
+    "bytes": 19202,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C058",
+    "title": "Capitolo 58 — Quello che rimane acceso",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-058.html",
+    "bytes": 19513,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C059",
+    "title": "Capitolo 59 — Il serbatoio pieno",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-059.html",
+    "bytes": 19054,
     "image_count": 0
   },
   {
@@ -2128,11 +2656,163 @@
     "image_count": 0
   },
   {
+    "id": "NOVEL-V01-C060",
+    "title": "Capitolo 60 — Il dono e il lavoro",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-060.html",
+    "bytes": 19317,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C061",
+    "title": "Capitolo 61 — Il lato dell'ombra",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-061.html",
+    "bytes": 19211,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C062",
+    "title": "Capitolo 62 — La domanda di Footnote",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-062.html",
+    "bytes": 19055,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C063",
+    "title": "Capitolo 63 — Un nome sulla busta",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-063.html",
+    "bytes": 19471,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C064",
+    "title": "Capitolo 64 — L'otto giugno",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-064.html",
+    "bytes": 19669,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C065",
+    "title": "Capitolo 65 — La firma di Yselle",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-065.html",
+    "bytes": 19152,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C066",
+    "title": "Capitolo 66 — La strada per Rovenne",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-066.html",
+    "bytes": 19332,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C067",
+    "title": "Capitolo 67 — La lettera della zia",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-067.html",
+    "bytes": 19735,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C068",
+    "title": "Capitolo 68 — Il conto aperto",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-068.html",
+    "bytes": 19847,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C069",
+    "title": "Capitolo 69 — La parte che si consuma",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-069.html",
+    "bytes": 19646,
+    "image_count": 0
+  },
+  {
     "id": "NOVEL-V01-C007",
     "title": "Capitolo 7 — Le cose che continuano",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-capitolo-007.html",
     "bytes": 20386,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C070",
+    "title": "Capitolo 70 — L'errore di un maestro",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-070.html",
+    "bytes": 19761,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C071",
+    "title": "Capitolo 71 — La persona da misurare",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-071.html",
+    "bytes": 19468,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C072",
+    "title": "Capitolo 72 — Una conversazione da proporre",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-072.html",
+    "bytes": 19597,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C073",
+    "title": "Capitolo 73 — Un posto non assegnato",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-073.html",
+    "bytes": 19269,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C074",
+    "title": "Capitolo 74 — L'acqua di servizio",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-074.html",
+    "bytes": 19531,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C075",
+    "title": "Capitolo 75 — Il terzo nome",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-075.html",
+    "bytes": 19228,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C076",
+    "title": "Capitolo 76 — Le notizie del mattino",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-076.html",
+    "bytes": 19566,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C077",
+    "title": "Capitolo 77 — Il lavoro pagato",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-077.html",
+    "bytes": 19516,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C078",
+    "title": "Capitolo 78 — Il prezzo di un miracolo",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-capitolo-078.html",
+    "bytes": 19710,
     "image_count": 0
   },
   {
@@ -2292,7 +2972,7 @@
     "title": "Celine Valcienne",
     "kind": "Personaggi",
     "url": "cast-003-celine-valcienne.html",
-    "bytes": 27580,
+    "bytes": 30103,
     "image_count": 4
   },
   {
@@ -2612,7 +3292,15 @@
     "title": "Chapter 38 — An Open Door",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-038-en.html",
-    "bytes": 18169,
+    "bytes": 18422,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C039-EN",
+    "title": "Chapter 39 — The Part They Could Replace",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-039-en.html",
+    "bytes": 19505,
     "image_count": 0
   },
   {
@@ -2624,11 +3312,171 @@
     "image_count": 0
   },
   {
+    "id": "NOVEL-V01-C040-EN",
+    "title": "Chapter 40 — The Height of the Water",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-040-en.html",
+    "bytes": 18837,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C041-EN",
+    "title": "Chapter 41 — Three Exits",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-041-en.html",
+    "bytes": 18813,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C042-EN",
+    "title": "Chapter 42 — An Invitation Without a Bill",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-042-en.html",
+    "bytes": 19086,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C043-EN",
+    "title": "Chapter 43 — The Open Drawing",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-043-en.html",
+    "bytes": 19533,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C044-EN",
+    "title": "Chapter 44 — The Security",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-044-en.html",
+    "bytes": 19160,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C045-EN",
+    "title": "Chapter 45 — Six Crowns to Earn",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-045-en.html",
+    "bytes": 19223,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C046-EN",
+    "title": "Chapter 46 — Borrowed Ink",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-046-en.html",
+    "bytes": 19096,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C047-EN",
+    "title": "Chapter 47 — Twenty-Three Kilometers",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-047-en.html",
+    "bytes": 18661,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C048-EN",
+    "title": "Chapter 48 — The First Meeting",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-048-en.html",
+    "bytes": 19321,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C049-EN",
+    "title": "Chapter 49 — A Form That Works",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-049-en.html",
+    "bytes": 19086,
+    "image_count": 0
+  },
+  {
     "id": "NOVEL-V01-C005-EN",
     "title": "Chapter 5 — The Request",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-005-en.html",
     "bytes": 20184,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C050-EN",
+    "title": "Chapter 50 — The Weight of Metal",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-050-en.html",
+    "bytes": 18732,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C051-EN",
+    "title": "Chapter 51 — The Hand on the Drawing",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-051-en.html",
+    "bytes": 19285,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C052-EN",
+    "title": "Chapter 52 — A Price After a Face",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-052-en.html",
+    "bytes": 18606,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C053-EN",
+    "title": "Chapter 53 — Before the Jet",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-053-en.html",
+    "bytes": 18879,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C054-EN",
+    "title": "Chapter 54 — Inside the Water",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-054-en.html",
+    "bytes": 17893,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C055-EN",
+    "title": "Chapter 55 — The Reachable Section",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-055-en.html",
+    "bytes": 19388,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C056-EN",
+    "title": "Chapter 56 — The People Who Are Missing",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-056-en.html",
+    "bytes": 18868,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C057-EN",
+    "title": "Chapter 57 — Glue on the Cuff",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-057-en.html",
+    "bytes": 18922,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C058-EN",
+    "title": "Chapter 58 — What Stays Lit",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-058-en.html",
+    "bytes": 18969,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C059-EN",
+    "title": "Chapter 59 — The Full Tank",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-059-en.html",
+    "bytes": 18501,
     "image_count": 0
   },
   {
@@ -2640,11 +3488,163 @@
     "image_count": 0
   },
   {
+    "id": "NOVEL-V01-C060-EN",
+    "title": "Chapter 60 — The Gift and the Work",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-060-en.html",
+    "bytes": 19145,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C061-EN",
+    "title": "Chapter 61 — The Shadow Side",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-061-en.html",
+    "bytes": 18480,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C062-EN",
+    "title": "Chapter 62 — Footnote's Question",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-062-en.html",
+    "bytes": 18598,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C063-EN",
+    "title": "Chapter 63 — A Name on the Envelope",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-063-en.html",
+    "bytes": 18797,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C064-EN",
+    "title": "Chapter 64 — June Eighth",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-064-en.html",
+    "bytes": 19048,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C065-EN",
+    "title": "Chapter 65 — Yselle's Signature",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-065-en.html",
+    "bytes": 18412,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C066-EN",
+    "title": "Chapter 66 — The Road to Rovenne",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-066-en.html",
+    "bytes": 18389,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C067-EN",
+    "title": "Chapter 67 — Her Aunt's Letter",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-067-en.html",
+    "bytes": 19701,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C068-EN",
+    "title": "Chapter 68 — The Open Account",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-068-en.html",
+    "bytes": 19542,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C069-EN",
+    "title": "Chapter 69 — The Part That Wears Out",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-069-en.html",
+    "bytes": 19065,
+    "image_count": 0
+  },
+  {
     "id": "NOVEL-V01-C007-EN",
     "title": "Chapter 7 — The Things That Continue",
     "kind": "Capitoli della novel",
     "url": "novel-volume-01-chapter-007-en.html",
     "bytes": 19951,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C070-EN",
+    "title": "Chapter 70 — A Teacher's Mistake",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-070-en.html",
+    "bytes": 19431,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C071-EN",
+    "title": "Chapter 71 — The Person to Be Measured",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-071-en.html",
+    "bytes": 19378,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C072-EN",
+    "title": "Chapter 72 — A Conversation to Propose",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-072-en.html",
+    "bytes": 19360,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C073-EN",
+    "title": "Chapter 73 — An Unassigned Place",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-073-en.html",
+    "bytes": 18938,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C074-EN",
+    "title": "Chapter 74 — Service Water",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-074-en.html",
+    "bytes": 18942,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C075-EN",
+    "title": "Chapter 75 — The Third Name",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-075-en.html",
+    "bytes": 18986,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C076-EN",
+    "title": "Chapter 76 — The Morning News",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-076-en.html",
+    "bytes": 19041,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C077-EN",
+    "title": "Chapter 77 — Work Paid For",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-077-en.html",
+    "bytes": 18903,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-V01-C078-EN",
+    "title": "Chapter 78 — The Price of a Miracle",
+    "kind": "Capitoli della novel",
+    "url": "novel-volume-01-chapter-078-en.html",
+    "bytes": 19010,
     "image_count": 0
   },
   {
@@ -3240,6 +4240,14 @@
     "image_count": 0
   },
   {
+    "id": "NOVEL-CHRONOLOGY-389",
+    "title": "Cronologia del secondo arco — 389",
+    "kind": "Cronologia della novel",
+    "url": "novel-cronologia-389.html",
+    "bytes": 38168,
+    "image_count": 0
+  },
+  {
     "id": "NOVEL-CHRONOLOGY-15",
     "title": "Cronologia della novel — capitoli 1–15",
     "kind": "Cronologia della novel",
@@ -3276,7 +4284,7 @@
     "title": "Cronologia della novel — capitoli 1–58",
     "kind": "Cronologia della novel",
     "url": "novel-cronologia-capitoli-1-58.html",
-    "bytes": 45228,
+    "bytes": 45592,
     "image_count": 0
   },
   {
@@ -3284,7 +4292,7 @@
     "title": "Cronologia della novel — capitoli 1–78",
     "kind": "Cronologia della novel",
     "url": "novel-cronologia-capitoli-1-78.html",
-    "bytes": 55754,
+    "bytes": 56118,
     "image_count": 0
   },
   {
@@ -3640,14 +4648,6 @@
     "image_count": 1
   },
   {
-    "id": "NOVEL-DETAILS",
-    "title": "Dettagli introdotti nella novel — capitoli 1–78",
-    "kind": "Opera",
-    "url": "novel-dettagli-e-fonti.html",
-    "bytes": 76090,
-    "image_count": 0
-  },
-  {
     "id": "CAST-015",
     "title": "Deyran Ur",
     "kind": "Personaggi",
@@ -3948,7 +4948,7 @@
     "title": "Edith Torrel",
     "kind": "Personaggi",
     "url": "cast-127-edith-torrel.html",
-    "bytes": 27830,
+    "bytes": 30084,
     "image_count": 4
   },
   {
@@ -4276,7 +5276,7 @@
     "title": "Elias Veyne",
     "kind": "Personaggi",
     "url": "elias-veyne.html",
-    "bytes": 61267,
+    "bytes": 70424,
     "image_count": 7
   },
   {
@@ -4876,7 +5876,7 @@
     "title": "Gaston Mery",
     "kind": "Personaggi",
     "url": "cast-131-gaston-mery.html",
-    "bytes": 27183,
+    "bytes": 29089,
     "image_count": 2
   },
   {
@@ -5060,7 +6060,7 @@
     "title": "Guida decisionale del Narratore",
     "kind": "Consultazione",
     "url": "guida-decisionale-narratore.html",
-    "bytes": 13115,
+    "bytes": 13161,
     "image_count": 0
   },
   {
@@ -5516,7 +6516,7 @@
     "title": "Ilian Uren",
     "kind": "Personaggi",
     "url": "cast-194-ilian-uren.html",
-    "bytes": 23057,
+    "bytes": 24901,
     "image_count": 2
   },
   {
@@ -5572,7 +6572,7 @@
     "title": "Indice generale A–Z",
     "kind": "Indici",
     "url": "indice-generale.html",
-    "bytes": 159258,
+    "bytes": 170562,
     "image_count": 0
   },
   {
@@ -5636,7 +6636,7 @@
     "title": "Informazioni sulla wiki",
     "kind": "Enciclopedia",
     "url": "informazioni.html",
-    "bytes": 8905,
+    "bytes": 8951,
     "image_count": 0
   },
   {
@@ -6240,6 +7240,14 @@
     "image_count": 0
   },
   {
+    "id": "NOVEL-SOURCES",
+    "title": "La novel — dettagli, fonti e precedenza",
+    "kind": "Opera",
+    "url": "novel-dettagli-e-fonti.html",
+    "bytes": 7046,
+    "image_count": 0
+  },
+  {
     "id": "DOC-273",
     "title": "La rete civile di Alexander",
     "kind": "Approfondimenti",
@@ -6516,7 +7524,7 @@
     "title": "Lise Veyne",
     "kind": "Personaggi",
     "url": "cast-126-lise-veyne.html",
-    "bytes": 21177,
+    "bytes": 23014,
     "image_count": 2
   },
   {
@@ -6524,7 +7532,7 @@
     "title": "Livia Varn",
     "kind": "Personaggi",
     "url": "cast-032-livia-varn.html",
-    "bytes": 37635,
+    "bytes": 40689,
     "image_count": 5
   },
   {
@@ -6684,7 +7692,7 @@
     "title": "L’opera",
     "kind": "Indici tematici",
     "url": "opera.html",
-    "bytes": 27495,
+    "bytes": 27541,
     "image_count": 48
   },
   {
@@ -6708,7 +7716,7 @@
     "title": "Mael Vaur",
     "kind": "Personaggi",
     "url": "cast-474-mael-vaur.html",
-    "bytes": 23332,
+    "bytes": 25754,
     "image_count": 2
   },
   {
@@ -6852,7 +7860,7 @@
     "title": "Marcel Ruy",
     "kind": "Personaggi",
     "url": "cast-031-marcel-ruy.html",
-    "bytes": 44450,
+    "bytes": 48956,
     "image_count": 4
   },
   {
@@ -6972,7 +7980,7 @@
     "title": "Martin Lethorne",
     "kind": "Personaggi",
     "url": "cast-461-martin-lethorne.html",
-    "bytes": 16882,
+    "bytes": 23236,
     "image_count": 2
   },
   {
@@ -7060,7 +8068,7 @@
     "title": "Maurice Verr",
     "kind": "Personaggi",
     "url": "cast-104-maurice-verr.html",
-    "bytes": 24297,
+    "bytes": 25488,
     "image_count": 2
   },
   {
@@ -7268,7 +8276,7 @@
     "title": "Mirel Osta",
     "kind": "Personaggi",
     "url": "cast-005-mirel-osta.html",
-    "bytes": 26338,
+    "bytes": 27407,
     "image_count": 4
   },
   {
@@ -7740,7 +8748,7 @@
     "title": "Noemi Darel",
     "kind": "Personaggi",
     "url": "cast-130-noemi-darel.html",
-    "bytes": 19696,
+    "bytes": 24066,
     "image_count": 2
   },
   {
@@ -8228,7 +9236,7 @@
     "title": "Pagina principale",
     "kind": "Enciclopedia",
     "url": "index.html",
-    "bytes": 24174,
+    "bytes": 24220,
     "image_count": 33
   },
   {
@@ -8372,7 +9380,7 @@
     "title": "Personaggi",
     "kind": "Indici tematici",
     "url": "personaggi.html",
-    "bytes": 216085,
+    "bytes": 216131,
     "image_count": 330
   },
   {
@@ -8556,7 +9564,7 @@
     "title": "Protocollo operativo del Narratore",
     "kind": "Consegna",
     "url": "protocollo-narratore.html",
-    "bytes": 34752,
+    "bytes": 34798,
     "image_count": 0
   },
   {
@@ -9360,326 +10368,6 @@
     "image_count": 2
   },
   {
-    "id": "NOVEL-V01-C039",
-    "title": "Scena storica 39 — Il pezzo che si poteva cambiare",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-039.html",
-    "bytes": 13461,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C040",
-    "title": "Scena storica 40 — Un invito senza conto",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-040.html",
-    "bytes": 13419,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C041",
-    "title": "Scena storica 41 — L'altezza dell'acqua",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-041.html",
-    "bytes": 13120,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C042",
-    "title": "Scena storica 42 — Un disegno da aprire",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-042.html",
-    "bytes": 13130,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C043",
-    "title": "Scena storica 43 — Il lavoro pagato",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-043.html",
-    "bytes": 13089,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C044",
-    "title": "Scena storica 44 — Ventitré chilometri",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-044.html",
-    "bytes": 13255,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C045",
-    "title": "Scena storica 45 — Il primo incontro",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-045.html",
-    "bytes": 13377,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C046",
-    "title": "Scena storica 46 — Un miracolo intero",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-046.html",
-    "bytes": 13633,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C047",
-    "title": "Scena storica 47 — Il peso del metallo",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-047.html",
-    "bytes": 13519,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C048",
-    "title": "Scena storica 48 — Prima del getto",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-048.html",
-    "bytes": 12881,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C049",
-    "title": "Scena storica 49 — Dentro l'acqua",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-049.html",
-    "bytes": 13719,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C050",
-    "title": "Scena storica 50 — Quello che si può restituire",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-050.html",
-    "bytes": 14330,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C051",
-    "title": "Scena storica 51 — Il serbatoio pieno",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-051.html",
-    "bytes": 13747,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C052",
-    "title": "Scena storica 52 — Il dono e il lavoro",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-052.html",
-    "bytes": 13352,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C053",
-    "title": "Scena storica 53 — L'otto giugno",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-053.html",
-    "bytes": 13125,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C054",
-    "title": "Scena storica 54 — Il viaggio di ritorno",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-054.html",
-    "bytes": 13201,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C055",
-    "title": "Scena storica 55 — La parte che si consuma",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-055.html",
-    "bytes": 13112,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C056",
-    "title": "Scena storica 56 — Una conversazione da proporre",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-056.html",
-    "bytes": 12812,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C057",
-    "title": "Scena storica 57 — Un posto non assegnato",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-057.html",
-    "bytes": 12879,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C058",
-    "title": "Scena storica 58 — Il prezzo di un miracolo",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-058.html",
-    "bytes": 13374,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C059",
-    "title": "Scena storica 59 — Tre risposte",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-059.html",
-    "bytes": 12242,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C060",
-    "title": "Scena storica 60 — Una misura per il volto",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-060.html",
-    "bytes": 12309,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C061",
-    "title": "Scena storica 61 — Il lavoro che restava",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-061.html",
-    "bytes": 12612,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C062",
-    "title": "Scena storica 62 — Mani ferme",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-062.html",
-    "bytes": 12281,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C063",
-    "title": "Scena storica 63 — Il posto dell'ospite",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-063.html",
-    "bytes": 12470,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C064",
-    "title": "Scena storica 64 — Quello che non si compra",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-064.html",
-    "bytes": 12709,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C065",
-    "title": "Scena storica 65 — La sera senza ricevute",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-065.html",
-    "bytes": 12225,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C066",
-    "title": "Scena storica 66 — Il primo pezzo",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-066.html",
-    "bytes": 12258,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C067",
-    "title": "Scena storica 67 — Il peso del falso",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-067.html",
-    "bytes": 12483,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C068",
-    "title": "Scena storica 68 — Un urto nel buio",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-068.html",
-    "bytes": 12431,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C069",
-    "title": "Scena storica 69 — Il sangue sul polsino",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-069.html",
-    "bytes": 12622,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C070",
-    "title": "Scena storica 70 — Una richiesta d'aiuto",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-070.html",
-    "bytes": 12568,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C071",
-    "title": "Scena storica 71 — La strada per tornare",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-071.html",
-    "bytes": 12243,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C072",
-    "title": "Scena storica 72 — La mano riaperta",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-072.html",
-    "bytes": 12592,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C073",
-    "title": "Scena storica 73 — Un foglio, non una persona",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-073.html",
-    "bytes": 12858,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C074",
-    "title": "Scena storica 74 — Le condizioni della paura",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-074.html",
-    "bytes": 12505,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C075",
-    "title": "Scena storica 75 — Due ore di lavoro",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-075.html",
-    "bytes": 12595,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C076",
-    "title": "Scena storica 76 — La porta ordinaria",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-076.html",
-    "bytes": 12452,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C077",
-    "title": "Scena storica 77 — Hearth",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-077.html",
-    "bytes": 12660,
-    "image_count": 0
-  },
-  {
-    "id": "NOVEL-V01-C078",
-    "title": "Scena storica 78 — Quattro sedie",
-    "kind": "Archivio della novel",
-    "url": "novel-volume-01-capitolo-078.html",
-    "bytes": 12598,
-    "image_count": 0
-  },
-  {
     "id": "SCENES-374",
     "title": "Scene dei primi dieci archi",
     "kind": "Struttura narrativa",
@@ -9797,6 +10485,14 @@
     "kind": "Sistema",
     "url": "seats-accesso-e-successione.html",
     "bytes": 42146,
+    "image_count": 0
+  },
+  {
+    "id": "NOVEL-REVISION-389",
+    "title": "Secondo arco — revisione 389",
+    "kind": "Opera",
+    "url": "novel-revisione-389.html",
+    "bytes": 11373,
     "image_count": 0
   },
   {
@@ -10404,7 +11100,7 @@
     "title": "Sybille Kest",
     "kind": "Personaggi",
     "url": "cast-475-sybille-kest.html",
-    "bytes": 19906,
+    "bytes": 22037,
     "image_count": 2
   },
   {
@@ -10628,7 +11324,7 @@
     "title": "Teren Holt",
     "kind": "Personaggi",
     "url": "cast-070-teren-holt.html",
-    "bytes": 22422,
+    "bytes": 28152,
     "image_count": 2
   },
   {
@@ -12796,7 +13492,7 @@
     "title": "Varek Lureth",
     "kind": "Personaggi",
     "url": "cast-200-varek-lureth.html",
-    "bytes": 16916,
+    "bytes": 17642,
     "image_count": 0
   },
   {
@@ -13284,7 +13980,7 @@
     "title": "Xenia Helren",
     "kind": "Personaggi",
     "url": "cast-193-xenia-helren.html",
-    "bytes": 19459,
+    "bytes": 19577,
     "image_count": 2
   },
   {
@@ -13420,7 +14116,7 @@
     "title": "Yselle Valcienne",
     "kind": "Personaggi",
     "url": "cast-004-yselle-valcienne.html",
-    "bytes": 24002,
+    "bytes": 33155,
     "image_count": 4
   },
   {

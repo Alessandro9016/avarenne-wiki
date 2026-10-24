@@ -29620,6 +29620,825 @@
       "raw": "fonti/fc8a8c4c0e55ee55.md",
       "sha256": "ed72bf8ff6264271b3a68d31a6e24bdfb50798f1eb9885b8f560d503dabf4ed7",
       "bytes": 8981
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/039_il-pezzo-che-si-poteva-cambiare.md",
+      "title": "039 il-pezzo-che-si-poteva-cambiare",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "46eae88484279de8.html",
+      "raw": "fonti/46eae88484279de8.md",
+      "sha256": "4f3f8552fa6c7fe239833d2d1154e8a9c7d46ee4ee29bb82e31dffb47ee0aa02",
+      "bytes": 11998
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/039_the-part-they-could-replace.md",
+      "title": "039 the-part-they-could-replace",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "75a8176abbba11ca.html",
+      "raw": "fonti/75a8176abbba11ca.md",
+      "sha256": "787128d122f8339a8fc30626b68db903157bdca93655ac854d889c3ff7ce46ce",
+      "bytes": 11790
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/040_laltezza-dellacqua.md",
+      "title": "040 laltezza-dellacqua",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "1a67beaf05a4cea6.html",
+      "raw": "fonti/1a67beaf05a4cea6.md",
+      "sha256": "6b6bade1c35174de2b5d7e0f8b2a50ef8116595dc8cb08b0419473d6fac45bad",
+      "bytes": 11853
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/040_the-height-of-the-water.md",
+      "title": "040 the-height-of-the-water",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "eb35ac6d655ee2c6.html",
+      "raw": "fonti/eb35ac6d655ee2c6.md",
+      "sha256": "f8effa9595f8dcbca6c363c899c5b53e73233481fea2bbea59a4cc888d08c082",
+      "bytes": 11207
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/041_tre-uscite.md",
+      "title": "041 tre-uscite",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "7118c4200df23d41.html",
+      "raw": "fonti/7118c4200df23d41.md",
+      "sha256": "da69f97d599fbe587ec112fa98f024349d4e7be8380cd08bcbf87fa5f2638f9a",
+      "bytes": 11814
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/041_three-exits.md",
+      "title": "041 three-exits",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "cfe56631ed231109.html",
+      "raw": "fonti/cfe56631ed231109.md",
+      "sha256": "930ff2e8828e463fb77c2f32cdf6ae5732b635e52f8763f5cf87e99e6cc03090",
+      "bytes": 11228
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/042_un-invito-senza-conto.md",
+      "title": "042 un-invito-senza-conto",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "2a98b9f9b7194e76.html",
+      "raw": "fonti/2a98b9f9b7194e76.md",
+      "sha256": "a692184bf1cabb8c96a37ca66cadb7e69ec9fa7993b5d87286678ebd5c998773",
+      "bytes": 11826
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/042_an-invitation-without-a-bill.md",
+      "title": "042 an-invitation-without-a-bill",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "e9b3e3380081d7b6.html",
+      "raw": "fonti/e9b3e3380081d7b6.md",
+      "sha256": "7185320b68a72d7e6a73df5ebd42ec3791f45158dbca51299c389f40353b3b30",
+      "bytes": 11401
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/043_il-disegno-aperto.md",
+      "title": "043 il-disegno-aperto",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "405b31e4ae5010cd.html",
+      "raw": "fonti/405b31e4ae5010cd.md",
+      "sha256": "d3149b1833c4dc4103ab9ae0787ad07e326bdc63c7bcaf8042510288fdbc3462",
+      "bytes": 12320
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/043_the-open-drawing.md",
+      "title": "043 the-open-drawing",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "e37816a1790e3f12.html",
+      "raw": "fonti/e37816a1790e3f12.md",
+      "sha256": "5b45adb8a4b73b7684e509deeeb569f150433bf6c0860c4d58ea7aaff5469e77",
+      "bytes": 11833
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/044_la-garanzia.md",
+      "title": "044 la-garanzia",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "a9445bdda5806e01.html",
+      "raw": "fonti/a9445bdda5806e01.md",
+      "sha256": "42ccba0065282993e142d7cd2cbc1f97ef3a839999878ac65f603f9627fc8f98",
+      "bytes": 11694
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/044_the-security.md",
+      "title": "044 the-security",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "8db8ed16e074f1ed.html",
+      "raw": "fonti/8db8ed16e074f1ed.md",
+      "sha256": "de1049a442c3c8550b115c6467358338933e06b1579523d81ece8e0cda8fd4ac",
+      "bytes": 11491
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/045_sei-corone-da-guadagnare.md",
+      "title": "045 sei-corone-da-guadagnare",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "4ebd1e3f5ace2d65.html",
+      "raw": "fonti/4ebd1e3f5ace2d65.md",
+      "sha256": "45a5686f7b801171ffee98e94e4d851017227337e04a347c40487d8517cd0a47",
+      "bytes": 11831
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/045_six-crowns-to-earn.md",
+      "title": "045 six-crowns-to-earn",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "8573976149855ce7.html",
+      "raw": "fonti/8573976149855ce7.md",
+      "sha256": "a72a115fa06ee760e7571a3d3b9c39c0b3c6cb43c388e2412d57f03a6dafb0bf",
+      "bytes": 11503
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/046_linchiostro-prestato.md",
+      "title": "046 linchiostro-prestato",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "3369a99cde0057ad.html",
+      "raw": "fonti/3369a99cde0057ad.md",
+      "sha256": "bb239856dfb25891e72fbe167ac3e5202acef237e75ac92f9f51deb73038b21e",
+      "bytes": 12036
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/046_borrowed-ink.md",
+      "title": "046 borrowed-ink",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "f5bf8bd03d204b11.html",
+      "raw": "fonti/f5bf8bd03d204b11.md",
+      "sha256": "757dfde5f69020208e23531471974ef9e07bd5b02fad1ea7d806bae90498cd4d",
+      "bytes": 11456
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/047_ventitre-chilometri.md",
+      "title": "047 ventitre-chilometri",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "15d93c0a279bbf7f.html",
+      "raw": "fonti/15d93c0a279bbf7f.md",
+      "sha256": "27e43b61cbecf9b21d0e2d97610894a05be9cf8f3b4d6aa14c299a4c9eea1c55",
+      "bytes": 11992
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/047_twenty-three-kilometers.md",
+      "title": "047 twenty-three-kilometers",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "30853de4450f53e0.html",
+      "raw": "fonti/30853de4450f53e0.md",
+      "sha256": "aeae6550075b47823a6da1ae24cc81ab1e7048dcf53727bc3d7f06ea12abd567",
+      "bytes": 11086
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/048_il-primo-incontro.md",
+      "title": "048 il-primo-incontro",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "000409147b0104c5.html",
+      "raw": "fonti/000409147b0104c5.md",
+      "sha256": "faa49687bbba89e5930e497d1c290bb5e94e7e28ab4e15aa41db32d5a8855ed6",
+      "bytes": 12212
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/048_the-first-meeting.md",
+      "title": "048 the-first-meeting",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "b667cd15c443e5d1.html",
+      "raw": "fonti/b667cd15c443e5d1.md",
+      "sha256": "f5be0c5a161e2f488ae37d813ce1499efffac462877d978ad1c2ea94b4b83483",
+      "bytes": 11746
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/049_una-forma-che-funziona.md",
+      "title": "049 una-forma-che-funziona",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "b68d7a4bd9e0f6c7.html",
+      "raw": "fonti/b68d7a4bd9e0f6c7.md",
+      "sha256": "460c1d8b38d187863d8f68ce15576f23b5b1141dcf67a31cb26cde866dc8dded",
+      "bytes": 11870
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/049_a-form-that-works.md",
+      "title": "049 a-form-that-works",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "7657ff6c3fef0381.html",
+      "raw": "fonti/7657ff6c3fef0381.md",
+      "sha256": "e3d07149997eabb754f87b9cee7310579ea6c0886d93a05989c7baa5af2b51f7",
+      "bytes": 11501
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/050_il-peso-del-metallo.md",
+      "title": "050 il-peso-del-metallo",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "78f88b420afe3f25.html",
+      "raw": "fonti/78f88b420afe3f25.md",
+      "sha256": "431fa2aa42f709548fe578ed2c26eb07972cfe8e615ce3df6979673916ea2b09",
+      "bytes": 11723
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/050_the-weight-of-metal.md",
+      "title": "050 the-weight-of-metal",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "b800b2db7adafff4.html",
+      "raw": "fonti/b800b2db7adafff4.md",
+      "sha256": "07dc09d46b6abf178ea41dcffc39f61333191732d441c13ae4fb0f90ab4d5c64",
+      "bytes": 11172
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/051_la-mano-sul-disegno.md",
+      "title": "051 la-mano-sul-disegno",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "c6aab7661ce090d4.html",
+      "raw": "fonti/c6aab7661ce090d4.md",
+      "sha256": "ef1081838ebc4df3c1a02bb7c63b278caa6291d480e5afeadcb006f2365be170",
+      "bytes": 11976
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/051_the-hand-on-the-drawing.md",
+      "title": "051 the-hand-on-the-drawing",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "4d451311221655bf.html",
+      "raw": "fonti/4d451311221655bf.md",
+      "sha256": "877b45abcd242bb0166bf198d3d81ff4a34b32442b16cc7a2b49453aa3fabe4b",
+      "bytes": 11625
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/052_un-prezzo-dopo-il-volto.md",
+      "title": "052 un-prezzo-dopo-il-volto",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "47dc49e0bf92b0dd.html",
+      "raw": "fonti/47dc49e0bf92b0dd.md",
+      "sha256": "2933677611b5ecccfaa6af3e013d643bcd10aca32420fffade8673d10a8903f7",
+      "bytes": 11719
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/052_a-price-after-a-face.md",
+      "title": "052 a-price-after-a-face",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "3c576ce12f9d8ab8.html",
+      "raw": "fonti/3c576ce12f9d8ab8.md",
+      "sha256": "2bfaa6677d5dc77d6dd177c527ef54684ec322c9fca5ce97132efc512e4eafca",
+      "bytes": 10891
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/053_prima-del-getto.md",
+      "title": "053 prima-del-getto",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "f6789ebabb0ad7af.html",
+      "raw": "fonti/f6789ebabb0ad7af.md",
+      "sha256": "30d965a83675a2b18a3e53cd07bfb3d5ac9a801bf9d87906c98df52eed7dedbd",
+      "bytes": 12163
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/053_before-the-jet.md",
+      "title": "053 before-the-jet",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "e3ec85bbaf5aabdb.html",
+      "raw": "fonti/e3ec85bbaf5aabdb.md",
+      "sha256": "d143e9ecdda1984ab985d0be3ca867bdaedbe61e6efe775fd879b2804bed0284",
+      "bytes": 11349
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/054_dentro-lacqua.md",
+      "title": "054 dentro-lacqua",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "dcc94a498139e290.html",
+      "raw": "fonti/dcc94a498139e290.md",
+      "sha256": "9fc7a62ce53c53137c356e018540f3f6c7f26b883e1d1000193e9b7eb9e3842b",
+      "bytes": 11249
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/054_inside-the-water.md",
+      "title": "054 inside-the-water",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "88f030ff90d8a953.html",
+      "raw": "fonti/88f030ff90d8a953.md",
+      "sha256": "db854ca20d17097d6ac25c07f0a430cea9cf8d1d77f746408e3d4ca3c8aed939",
+      "bytes": 10418
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/055_il-tratto-raggiunto.md",
+      "title": "055 il-tratto-raggiunto",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "e5fbe6cf20c4a2a8.html",
+      "raw": "fonti/e5fbe6cf20c4a2a8.md",
+      "sha256": "2c18fc907d5278338f6ac74c9560a382aaf4bc4d9d88120c2f2fd5b3c8b3b82e",
+      "bytes": 11958
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/055_the-reachable-section.md",
+      "title": "055 the-reachable-section",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "b47d4a934f673b72.html",
+      "raw": "fonti/b47d4a934f673b72.md",
+      "sha256": "9f6f02926b410ea6586f29717466911e3f0c9eafa7041f1c57a3330a2804dfb9",
+      "bytes": 11748
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/056_le-persone-che-mancano.md",
+      "title": "056 le-persone-che-mancano",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "d7dce37d33b6d919.html",
+      "raw": "fonti/d7dce37d33b6d919.md",
+      "sha256": "d173f85bb319b5043f300335dc12422ee9d8a6397ed722e1e95070544c948068",
+      "bytes": 11417
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/056_the-people-who-are-missing.md",
+      "title": "056 the-people-who-are-missing",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "6634e8b496c0ab34.html",
+      "raw": "fonti/6634e8b496c0ab34.md",
+      "sha256": "c51d48134aeef932c0d65386d47fc518ac8116c50e67c605b68b1829e8f25095",
+      "bytes": 11153
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/057_la-colla-sul-polsino.md",
+      "title": "057 la-colla-sul-polsino",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "53018a02dd1c669c.html",
+      "raw": "fonti/53018a02dd1c669c.md",
+      "sha256": "2750fb20eb59c66f330e042d45d0662dbfb1ef76d120d46f9c4018ea6ec744f7",
+      "bytes": 11387
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/057_glue-on-the-cuff.md",
+      "title": "057 glue-on-the-cuff",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "c355ac9889ce061d.html",
+      "raw": "fonti/c355ac9889ce061d.md",
+      "sha256": "00dfe21a7aabfa9f601f6812e40dae119aa6014debe5eb30e8f26b366be0a296",
+      "bytes": 11142
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/058_quello-che-rimane-acceso.md",
+      "title": "058 quello-che-rimane-acceso",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "e197f4458737db96.html",
+      "raw": "fonti/e197f4458737db96.md",
+      "sha256": "8b13812ae69140e075d4a98991b7d9cd49a6f4934d61ec46238358a4657c58a0",
+      "bytes": 11748
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/058_what-stays-lit.md",
+      "title": "058 what-stays-lit",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "8747f5acc9dabb67.html",
+      "raw": "fonti/8747f5acc9dabb67.md",
+      "sha256": "d9fbec8c64eed525b9d9deeff262c4ff84ad65d69a849d2c371be7f255421257",
+      "bytes": 11259
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/059_il-serbatoio-pieno.md",
+      "title": "059 il-serbatoio-pieno",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "d32c9624ac330b6e.html",
+      "raw": "fonti/d32c9624ac330b6e.md",
+      "sha256": "5ef0d9693befbec481edd9c75e9866b73d317c98975ce90402722bc0e03e1992",
+      "bytes": 11409
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/059_the-full-tank.md",
+      "title": "059 the-full-tank",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "dec03f9326258172.html",
+      "raw": "fonti/dec03f9326258172.md",
+      "sha256": "94cfb4bd45d90bed54b4eb57b4fe0e522317479eafed0287a89eef76968f7b01",
+      "bytes": 10991
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/060_il-dono-e-il-lavoro.md",
+      "title": "060 il-dono-e-il-lavoro",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "b3073d304ad9c8fb.html",
+      "raw": "fonti/b3073d304ad9c8fb.md",
+      "sha256": "6d141bc654f50216ed6d534ecff43ed91da9c160d35699e79db872d248b8b93b",
+      "bytes": 11642
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/060_the-gift-and-the-work.md",
+      "title": "060 the-gift-and-the-work",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "a173eec02a0e86ef.html",
+      "raw": "fonti/a173eec02a0e86ef.md",
+      "sha256": "39c3faa610ceffdcf4bf6f5dd4761836b0be41696bbaf5f87e8a2ea69bf6db85",
+      "bytes": 11470
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/061_il-lato-dell-ombra.md",
+      "title": "061 il-lato-dell-ombra",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "106a848625580d64.html",
+      "raw": "fonti/106a848625580d64.md",
+      "sha256": "39e3cdc39d6877bead8e3226c37367a53c33ee1d4bae113e33032e7ed686d6b6",
+      "bytes": 11501
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/061_the-shadow-side.md",
+      "title": "061 the-shadow-side",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "92dd23d3f9a673cb.html",
+      "raw": "fonti/92dd23d3f9a673cb.md",
+      "sha256": "66afcaddec4cee4fd1a67ab9f2e39defcdb0b1d144a857d8bcf1bfc945fbad18",
+      "bytes": 10915
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/062_la-domanda-di-footnote.md",
+      "title": "062 la-domanda-di-footnote",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "1c6bf7bed1802ad2.html",
+      "raw": "fonti/1c6bf7bed1802ad2.md",
+      "sha256": "5e54dc6dd3eb252e88edce0cce6e2d7e167baa8a7a4db989ebcc3a7dc43808a4",
+      "bytes": 11390
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/062_footnote-s-question.md",
+      "title": "062 footnote-s-question",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "81adca2f0f85db09.html",
+      "raw": "fonti/81adca2f0f85db09.md",
+      "sha256": "4023199eb93e8bdd24d21ab6dbd7131dc89769ec4a76c3cc7a943e8105120399",
+      "bytes": 10923
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/063_un-nome-sulla-busta.md",
+      "title": "063 un-nome-sulla-busta",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "f40eab06fd287089.html",
+      "raw": "fonti/f40eab06fd287089.md",
+      "sha256": "b469795d5c1395696e2236fb96c465a638822dcedea85fc1f1934a8ee712e808",
+      "bytes": 11886
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/063_a-name-on-the-envelope.md",
+      "title": "063 a-name-on-the-envelope",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "99e608f88f5ec838.html",
+      "raw": "fonti/99e608f88f5ec838.md",
+      "sha256": "51d6bd98111332dc9304499f6884b88fd8edfd8bea96a1c7e67285a10054ee3f",
+      "bytes": 11257
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/064_l-otto-giugno.md",
+      "title": "064 l-otto-giugno",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "63aa86a75f179885.html",
+      "raw": "fonti/63aa86a75f179885.md",
+      "sha256": "0858e9d34085c4b904e71ad8531680bb54b6331ef9915345069775cdffdbbecc",
+      "bytes": 12009
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/064_june-eighth.md",
+      "title": "064 june-eighth",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "4e0eb151f4fbe807.html",
+      "raw": "fonti/4e0eb151f4fbe807.md",
+      "sha256": "2422ef7fa66f0b1bb63473dbf29ed1218f9c3e73b86ace080ddae194bbdcbd07",
+      "bytes": 11478
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/065_la-firma-di-yselle.md",
+      "title": "065 la-firma-di-yselle",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "3a2f6dd525cdc823.html",
+      "raw": "fonti/3a2f6dd525cdc823.md",
+      "sha256": "82331b09360f382025492539f74ff552dc7157f2fe77d214dee69824a02e72b4",
+      "bytes": 11562
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/065_yselle-s-signature.md",
+      "title": "065 yselle-s-signature",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "e4d9bd0c31e99cb5.html",
+      "raw": "fonti/e4d9bd0c31e99cb5.md",
+      "sha256": "969d857941958ce88e225b3009796bc96dd83e95030bf722ad6a0346cf38533a",
+      "bytes": 10862
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/066_la-strada-per-rovenne.md",
+      "title": "066 la-strada-per-rovenne",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "bcccba8823ec4fe5.html",
+      "raw": "fonti/bcccba8823ec4fe5.md",
+      "sha256": "335d31aec718379e437935a407a4827678755f998257857ae533e264cdc0af77",
+      "bytes": 11727
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/066_the-road-to-rovenne.md",
+      "title": "066 the-road-to-rovenne",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "1fff68d28f53f6b1.html",
+      "raw": "fonti/1fff68d28f53f6b1.md",
+      "sha256": "e23dec3f1b7abd01b9ab7ecd9d26d3562e59e0ba75484fd7c31b4a8e90596139",
+      "bytes": 10809
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/067_la-lettera-della-zia.md",
+      "title": "067 la-lettera-della-zia",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "7fd4db29c8375135.html",
+      "raw": "fonti/7fd4db29c8375135.md",
+      "sha256": "3b5edb485d75459827b474494215bf9137a548f91d1289895e296e4d4518a5bb",
+      "bytes": 12000
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/067_her-aunt-s-letter.md",
+      "title": "067 her-aunt-s-letter",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "78d130ab6d3b722e.html",
+      "raw": "fonti/78d130ab6d3b722e.md",
+      "sha256": "023db7c40b0cfebc73c8019d2eac9373b8455ffd9ee40d051d8e0dd53f46d073",
+      "bytes": 11921
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/068_il-conto-aperto.md",
+      "title": "068 il-conto-aperto",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "04360cc2e7b142c7.html",
+      "raw": "fonti/04360cc2e7b142c7.md",
+      "sha256": "0c4610ca98453d5960d75686e8d5aa1a207e7baf4ac5d94f3b859d4bda4ccc34",
+      "bytes": 12152
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/068_the-open-account.md",
+      "title": "068 the-open-account",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "3cfaa61d01f88f19.html",
+      "raw": "fonti/3cfaa61d01f88f19.md",
+      "sha256": "e4def08376461110c2200904c89eb02f1018095749bfecb9bd82019c2d2df54b",
+      "bytes": 11842
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/069_la-parte-che-si-consuma.md",
+      "title": "069 la-parte-che-si-consuma",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "6cbccfe7ac798582.html",
+      "raw": "fonti/6cbccfe7ac798582.md",
+      "sha256": "809e6b5cda3560abc3ce232f1bd5cc5854fe0b4d18518c6ed804e074d748c8b8",
+      "bytes": 11936
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/069_the-part-that-wears-out.md",
+      "title": "069 the-part-that-wears-out",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "5d8dc418ad2b4462.html",
+      "raw": "fonti/5d8dc418ad2b4462.md",
+      "sha256": "9520812b7061328392ae6620f6db9a2c0fdabd0c9eefbf8be9d2838147ea6128",
+      "bytes": 11575
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/070_l-errore-di-un-maestro.md",
+      "title": "070 l-errore-di-un-maestro",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "ea1cbc4bfff4bc2c.html",
+      "raw": "fonti/ea1cbc4bfff4bc2c.md",
+      "sha256": "bde76da669938273f1aadf3383bfb1367046b0838d4ad5d7d8bb2dcd561b4f0e",
+      "bytes": 11921
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/070_a-teacher-s-mistake.md",
+      "title": "070 a-teacher-s-mistake",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "8837738e8eb55eb5.html",
+      "raw": "fonti/8837738e8eb55eb5.md",
+      "sha256": "9432014daa24a51e632254c6392d0f511e7b2cf96562e64d54fd014bc6fb3ee1",
+      "bytes": 11806
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/071_la-persona-da-misurare.md",
+      "title": "071 la-persona-da-misurare",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "2b0f6fb65f7789ad.html",
+      "raw": "fonti/2b0f6fb65f7789ad.md",
+      "sha256": "89bf0af9ab8e0f4f49b42c30726123f9a5e60861b669fbd918b9d8681bda04f7",
+      "bytes": 11803
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/071_the-person-to-be-measured.md",
+      "title": "071 the-person-to-be-measured",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "b8bed609c7d179a5.html",
+      "raw": "fonti/b8bed609c7d179a5.md",
+      "sha256": "3f6dada07aa699b308c03c915f931239c798c7eb6d7c3fb3b3c22a8b2aadf49e",
+      "bytes": 11598
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/072_una-conversazione-da-proporre.md",
+      "title": "072 una-conversazione-da-proporre",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "4d29439531365c24.html",
+      "raw": "fonti/4d29439531365c24.md",
+      "sha256": "154171e9c97c00a5f131ff9e35ce6df18c9d153d2b48e5d303655ba214b945da",
+      "bytes": 11812
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/072_a-conversation-to-propose.md",
+      "title": "072 a-conversation-to-propose",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "270abdfe1fc5e6c6.html",
+      "raw": "fonti/270abdfe1fc5e6c6.md",
+      "sha256": "ab6b9f3fe234bd91d359fb03239ab84c56938c6c4e8f8f3a1934666e15de6ec1",
+      "bytes": 11565
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/073_un-posto-non-assegnato.md",
+      "title": "073 un-posto-non-assegnato",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "a4707b8ade20270e.html",
+      "raw": "fonti/a4707b8ade20270e.md",
+      "sha256": "636ec318fda7f721bd1c16d458a59d151514ea85d217f5e01bcbb8149af6c696",
+      "bytes": 11684
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/073_an-unassigned-place.md",
+      "title": "073 an-unassigned-place",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "73b08515933c9de8.html",
+      "raw": "fonti/73b08515933c9de8.md",
+      "sha256": "1540076bf035ac1fb24843d4dd295871b81db048ddadb10f13ad465832eb4ef3",
+      "bytes": 11368
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/074_l-acqua-di-servizio.md",
+      "title": "074 l-acqua-di-servizio",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "edd1cfd4117dfd2e.html",
+      "raw": "fonti/edd1cfd4117dfd2e.md",
+      "sha256": "6f4442e1763f1ae3f157df208e819a89f7cfeb6482854940657e4ef49ea61f81",
+      "bytes": 11861
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/074_service-water.md",
+      "title": "074 service-water",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "b80fcee8c441c03a.html",
+      "raw": "fonti/b80fcee8c441c03a.md",
+      "sha256": "8f9c5100b894b3204c12ef011c1867ddaced147fe49804f5873b0b970a8e7ad7",
+      "bytes": 11417
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/075_il-terzo-nome.md",
+      "title": "075 il-terzo-nome",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "ce4efbccc17abded.html",
+      "raw": "fonti/ce4efbccc17abded.md",
+      "sha256": "d7446b4fdb4bbc1cdb2de62e99823895081df281fa6578151fc09f5c3464be46",
+      "bytes": 11623
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/075_the-third-name.md",
+      "title": "075 the-third-name",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "cdf7f6b12f711560.html",
+      "raw": "fonti/cdf7f6b12f711560.md",
+      "sha256": "02f07b37767f569b5923c8a67ae96e2f6b60ee16cf28b937cddca41ec80aafe0",
+      "bytes": 11326
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/076_le-notizie-del-mattino.md",
+      "title": "076 le-notizie-del-mattino",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "28bfc0616acde062.html",
+      "raw": "fonti/28bfc0616acde062.md",
+      "sha256": "d4c9ef93d78ed4aa7e894e98b5f87d17ae6e3797aa8c88fa60f50474520596f1",
+      "bytes": 11796
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/076_the-morning-news.md",
+      "title": "076 the-morning-news",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "025cb4b6ad74866f.html",
+      "raw": "fonti/025cb4b6ad74866f.md",
+      "sha256": "4a4a0c5691f0f827dab539f922a015cbdea648e063fe56d6e6dcd6cb7cddd9ef",
+      "bytes": 11451
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/077_il-lavoro-pagato.md",
+      "title": "077 il-lavoro-pagato",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "d10efdd294002a07.html",
+      "raw": "fonti/d10efdd294002a07.md",
+      "sha256": "7556d9bc50e3fa8325426c1a347f92aaccd465d5723e8fa6aad0ed59fb04767d",
+      "bytes": 11736
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/077_work-paid-for.md",
+      "title": "077 work-paid-for",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "c18b6d61e2ac89a4.html",
+      "raw": "fonti/c18b6d61e2ac89a4.md",
+      "sha256": "c23d04f89d1d8495225b4afe7ed112b8939a5e5e672e8bdd2f26a4ab47cd3494",
+      "bytes": 11338
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/IT/Volume_01/078_il-prezzo-di-un-miracolo.md",
+      "title": "078 il-prezzo-di-un-miracolo",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "2e7ae1cc28e50ef4.html",
+      "raw": "fonti/2e7ae1cc28e50ef4.md",
+      "sha256": "964b69940828563a290dcf1caa74e6d3bbf304582f5c3cf536eb1bf50ea0d9a2",
+      "bytes": 12090
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/EN/Volume_01/078_the-price-of-a-miracle.md",
+      "title": "078 the-price-of-a-miracle",
+      "group": "Novel — arco 2 integrale 389",
+      "url": "5e3c4ab0222d5bbe.html",
+      "raw": "fonti/5e3c4ab0222d5bbe.md",
+      "sha256": "84a836b7051a4398cdeb664d3a48b208902bc63e8ad6b352d162e118619148e7",
+      "bytes": 11584
+    },
+    {
+      "source": "CANONE_VIGENTE/Continuita_letteraria_389.json",
+      "title": "Continuita letteraria 389",
+      "group": "Novel — secondo arco 389",
+      "url": "d4b1dda75466e3f8.html",
+      "raw": "fonti/d4b1dda75466e3f8.json",
+      "sha256": "53ce82a61f9b954db93772cca3dc57a2234fa67dcf4ce63b28dd7aac5d2f894d",
+      "bytes": 248551
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/MANIFEST_NOVEL_013.json",
+      "title": "MANIFEST NOVEL 013",
+      "group": "Novel — secondo arco 389",
+      "url": "04e23a96cf2a9012.html",
+      "raw": "fonti/04e23a96cf2a9012.json",
+      "sha256": "7ef9e73bf961a287f428e76e30ee175dd9b370b90df181e99ddc1ea5ec0f3dd2",
+      "bytes": 34484
+    },
+    {
+      "source": "389_Registro_di_precedenza.md",
+      "title": "389 Registro di precedenza",
+      "group": "Novel — secondo arco 389",
+      "url": "47b547a0bf56a71b.html",
+      "raw": "fonti/47b547a0bf56a71b.md",
+      "sha256": "ef8871b9e480d9be191adcc0313279c8fe0b3f1d708ff3afa01467e1bb41f1ad",
+      "bytes": 552
+    },
+    {
+      "source": "RISERVATO_389_Revisione_secondo_arco.md",
+      "title": "RISERVATO 389 Revisione secondo arco",
+      "group": "Novel — secondo arco 389",
+      "url": "c5334dbc2e33801a.html",
+      "raw": "fonti/c5334dbc2e33801a.md",
+      "sha256": "0ebda7f3b1112374a62d89abcbb7049271131f68a74fda7887fb613e3f1d4244",
+      "bytes": 32460
+    },
+    {
+      "source": "NOVEL/00_LEGGIMI.md",
+      "title": "00 LEGGIMI",
+      "group": "Novel — secondo arco 389",
+      "url": "66658b0b3496be11.html",
+      "raw": "fonti/66658b0b3496be11.md",
+      "sha256": "10415a9c9666cfea8715a4821b5538e82d6490d47ee44f5429d88fbaab7d77b9",
+      "bytes": 11149
+    },
+    {
+      "source": "NOVEL/01_Bibbia_narrativa.md",
+      "title": "01 Bibbia narrativa",
+      "group": "Novel — secondo arco 389",
+      "url": "e810145c9e3d046d.html",
+      "raw": "fonti/e810145c9e3d046d.md",
+      "sha256": "16658558dc7db363ccb6614f17a3cb7d765107c2e34c3aba632a1c65389d4a82",
+      "bytes": 11030
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/LEGGIMI.md",
+      "title": "LEGGIMI",
+      "group": "Novel — secondo arco 389",
+      "url": "b615ce425f3fd3c8.html",
+      "raw": "fonti/b615ce425f3fd3c8.md",
+      "sha256": "7e08c999b7687e59266251bed0a4b386d0f2849f013bb0062c3754107c1adeb7",
+      "bytes": 401
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/LETTURA_Arco_02_IT.md",
+      "title": "LETTURA Arco 02 IT",
+      "group": "Novel — secondo arco 389",
+      "url": "ab031c8e42f422c8.html",
+      "raw": "fonti/ab031c8e42f422c8.md",
+      "sha256": "a7c2330c3dada7c40edfe84f082ad9a8cd2f2696d8944bd27f05de11fd820791",
+      "bytes": 470686
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/LETTURA_Arco_02_EN.md",
+      "title": "LETTURA Arco 02 EN",
+      "group": "Novel — secondo arco 389",
+      "url": "2a8c350e52b898c3.html",
+      "raw": "fonti/2a8c350e52b898c3.md",
+      "sha256": "0fdb4ee9a4dd2e25ee9d24ffa910d686d00718f69dbcfb6c3e240b736b529f55",
+      "bytes": 452855
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/PUBBLICAZIONE/IT/INDICE.csv",
+      "title": "INDICE",
+      "group": "Novel — secondo arco 389",
+      "url": "03c2942a4a4a714c.html",
+      "raw": "fonti/03c2942a4a4a714c.csv",
+      "sha256": "f49fa55396e435ea662f02993c1311e0e689e6d8146908e96abf42e25e15c1ea",
+      "bytes": 1538
+    },
+    {
+      "source": "NOVEL/EDIZIONE_013/PUBBLICAZIONE/EN/INDICE.csv",
+      "title": "INDICE",
+      "group": "Novel — secondo arco 389",
+      "url": "008016307fcb7302.html",
+      "raw": "fonti/008016307fcb7302.csv",
+      "sha256": "c19c02206e8b871730337c2785a539e9af77704c030d4d9edc53dc68011afe60",
+      "bytes": 1479
     }
   ],
   "precedence": "REGISTRO_PRECEDENZA_328.txt",
@@ -29633,7 +30452,7 @@
   "practical_faq_revision": "349",
   "operational_revision": "350",
   "current_topic_register": "350_Fonti_vigenti_per_argomento.md",
-  "current_revision": 388,
+  "current_revision": 389,
   "revision_373_scope": "Culti, legalità locale e pratiche biologiche; nessuna modifica delle progressioni.",
   "revision_374_scope": "Consolidamento, 24 rapporti, 48 reti, culture, fede, scene e risposta alle crisi. Progressioni e fatti protetti invariati.",
   "revision_376_scope": "Rappresentazione e applicazioni dell’orrore generativo, intimità aliena e scala ambientale e divina; nessuna progressione modificata.",
@@ -29644,9 +30463,9 @@
   "revision_381_scope": "Trentotto capitoli IT/EN; aggiornamenti letterari distinti dalla campagna.",
   "revision_382_scope": "58 capitoli, testo integrale italiano nella wiki e Biblioteca; secondo arco concluso, continuità della campagna distinta.",
   "revision_383_scope": "78 testi italiani integrali; terzo arco concluso, campagna distinta.",
-  "current_novel_source": "CANONE_VIGENTE/Continuita_letteraria_388.json",
-  "current_novel_edition": "NOVEL-012-REVISIONE-EDITORIALE-ARCO-01",
-  "current_novel_precedence_source": "388_Registro_di_precedenza.md",
+  "current_novel_source": "CANONE_VIGENTE/Continuita_letteraria_389.json",
+  "current_novel_edition": "ARCO01_ED012_ARCO02_ED013",
+  "current_novel_precedence_source": "389_Registro_di_precedenza.md",
   "revision_384_scope": "Ricomposizione in 25 capitoli, superata e conservata solo come archivio.",
   "revision_385_scope": "Primo arco italiano ampliato e revisionato, 38 capitoli separati. Inglese da riallineare; archi 2 e 3 non revisionati. Nessun accorpamento.",
   "english_novel_revision_385": false,

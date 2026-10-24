@@ -1,0 +1,149 @@
+# AVARENNE
+## Volume I — The Waking House
+### Chapter 50 — The Weight of Metal
+
+Elias's palm had left a print on the first pump.
+
+He noticed it when he returned with his notebook. A duller patch, with three broken lines where his fingers had lifted away. He was dirty from the prototype and had dirtied this machine too. His hand sought the cloth before he decided to do it.
+
+“Leave it,” Yselle said. “For the moment we at least know which one you touched.”
+
+The prototype stayed on its own bench, unnumbered. Gaston found the chalk. She had him mark one on the first machine body, two on the second, and three on the third. The white figures were uneven: the three too broad, the two with a long tail. None of the pumps seemed less impossible for entering the world of bad handwriting.
+
+Elias put the number one at the top of his page. Beneath it he wrote the date, June fifth, and left space for the test conditions. His heart still beat so hard that he angled his hand to avoid mistaking his pulse for a tremor.
+
+Marcel handed him the caliper. It was the one he had cleaned that morning; the metal jaws bore small signs of use that the pump's body did not yet possess. As the two surfaces met, Elias expected a different sound. He heard only the instrument's delicate contact.
+
+The external dimension matched the drawing.
+
+He checked twice without hiding it. Then with Near Coordinates he reached into the volume they had opened, followed the relationship between axis and seat, and indicated the internal stretch to Marcel. The master inserted the instrument where it could enter. Both readings found the same geometry.
+
+“Write where, too,” Marcel said.
+
+Elias did. The figure alone would not say what they had touched. He turned the page far enough into the light and for a moment stopped feeling the duke behind him.
+
+Martin had opened the head. He lifted the component from its seat while Yselle kept the cloth away from the new gasket. The interior was dry, complete, arranged exactly to perform the stroke demonstrated by the prototype. They found no gap left to the imagination of whoever would make it work.
+
+“The catch,” the engineer said.
+
+Martin released it. The notch appeared at the indicated point, and the liner came out without the stop that had interrupted the test on June third. Elias supported its other side. His fingers recognized the weight before his thoughts could make the object ordinary. They rested the cylinder on the strips; its surface made a clean sound, identical to a well delivered component.
+
+Marcel took the gasket between two fingers and let it spring back. Yselle compared its edge with the correct sample. They did more than observe that it had the right shape: they checked how it yielded, how it sat in its housing, and the contact it left when pressed. Gaston brought a little water for the separate seal test.
+
+The duke remained near the bench without reaching to adjust what the others examined. Elias looked at him only once. Alexander was listening to Yselle's question about a surface, with the attention of someone who had delivered something and wanted to know what they would do with it.
+
+Ruy compared the accessible metal with the samples and tools available. He was interested in the surface's response, the worked edges, the seats that would endure movement. Elias could measure the internal space; the metal’s response to those checks was less familiar to him. He followed his master's work, passing what he requested and noting the limits of the checks performed.
+
+At the second pump he changed his grip on the pencil. His thumb remained cramped from the first inspection. Martin had already opened the head and checked the notch; Gaston kept the second machine's sheet separate from the first. Elias began at the axis. No dimension made him stop the others.
+
+At the third he realized he had been expecting a smaller fault he could understand. A misplaced edge, a measurement to correct, something to restore the birth of these machines to the rhythm of work he knew. Instead he found the intended passage and the distances he had delivered. The chalk three remained the only irregular thing in sight.
+
+“Do you need me to do it again?” Gaston asked, following his gaze.
+
+Elias laughed. “The number is readable.”
+
+The man looked at his chalk. “It comes out better on paper.”
+
+“The machine intimidates you.”
+
+Gaston considered the row. “The machine hasn't asked me anything yet.”
+
+The young man had to turn away to avoid laughing over his notebook. Marcel continued checking the seat with a seriousness that did not entirely hide the corners of his mouth.
+
+They replaced the opened parts after inspection, using the supports and the drawing Martin had tested. They had intervened to examine, not to complete the machines. When the first head was closed again, Yselle made sure the container was ready and asked for water.
+
+Elias took his place beside pump one. Two and three remained on their bases, marked, inspected dry, and separate from the pages of the next test. The spares lay in a row on the table, not installed to make up for something missing.
+
+Martin began moving the lever.
+
+The first stream struck the container wall closer to its edge than Elias expected. A splash reached his cuff. He lowered his arm, looked at the water, and laughed before he could say they needed to move it.
+
+“The container,” Yselle said. “Not the pump.”
+
+Gaston centered it better. The flow acquired its full sound and remained steady through the following strokes. Elias watched the head's edge, then the volume reference. He wrote the figure when Marcel called the time. The point made a small ink blot because he had forgotten to ease his grip.
+
+Yselle crouched near the support. Martin slowed, stopped, and resumed at her signal. The machine answered the actual movement of hands. Water had not learned a different way to fall because the metal had come into being before them.
+
+Alexander left the bench to speak with Teren beyond the door. Elias saw him leave his field of vision while checking the second interval. The first pump continued filling the container. Part of his attention followed the duke, expecting something the young man could not have named; the volume reference forced him back to the water.
+
+Nothing changed.
+
+The machine weighed on its base. The lever offered the intended resistance, the container filled, and the edge remained dry. When Alexander returned, the world did not need to begin believing him again.
+
+Yselle looked at him in the doorway and raised a hand slightly. Then she called for a stop. Martin completed the stroke, stopped, and waited with the others for the last water to fall into the container.
+
+Gaston wanted to repeat a gasket check after the cycle. Elias held the sheet still while he marked the point. Nobody was eager to declare perfect something they could finally examine for long enough.
+
+The door opened before they had finished putting things in order. The man who had come about transport looked at the three machines and asked which was to leave. Gaston indicated the first. The man checked the passage, the threshold, and the place where he could bring the cart alongside.
+
+“One at a time,” he said.
+
+“Only one tomorrow,” Yselle replied.
+
+Elias took the site drawing and showed it without setting it on the wet edge. The man was not looking for the pipe's route. He wanted the door's width, the step, and the point where the wheels could stop. Elias turned the sheet and indicated the access he had surveyed with Gaston. The same page offered a different route to a different task.
+
+The transporter asked whether the weight included everything. Martin looked at the machine and gave an incredulous laugh.
+
+“This time, yes.”
+
+Yselle repeated the answer without laughing, then they agreed where to bring the supports and which side to keep accessible. Elias noted the threshold to protect. The pump already had enough weight to need a cart, men, and space; the fact that nobody had brought it in did not grant it a different way out.
+
+The afternoon filled with ordinary workshop sounds: the toolbox closing, a container emptied, wood scraping as Martin moved a support closer. The wonder did not diminish. It found room among those sounds instead of suspending them.
+
+Elias went into the courtyard for a moment to send word that he would be home late. The outside light made him close his eyes. A man passed with a sack on his shoulder and asked him to move; he moved without finding a way to explain that beyond the wall something worth seeing had just begun.
+
+When he returned, the row was still there.
+
+He found himself beside Alexander while Yselle and Marcel compared notes.
+
+“I thought they'd be hot,” he said.
+
+The duke looked at the first pump's body. “When you touched them?”
+
+“Yes.”
+
+“The metal needed to be in this condition.”
+
+Elias stared at his own handprint. “I've seen objects created.”
+
+Alexander waited, leaving him the rest of the sentence.
+
+“Not something like this. Not three.”
+
+“My aunt looked at me as though I’d put a fourth machine on her table,” the duke said.
+
+Elias laughed, remembering her expression. Alexander leaned against the bench, clear of the water patch, and asked what else he would like to check.
+
+The young man had questions that no longer concerned the pump. He chose the one he could use. “How it behaves after longer work. These are the first tests.”
+
+The duke nodded. “I'd like to see that too.”
+
+At the end they covered two and three with clean sheets and left the first accessible for the next day's transport. Yselle put the notes beside the site drawing. The three replacement liners found supports of their own; Gaston marked the list of things to load. The prototype remained in its place, distinct from the new row.
+
+Elias returned home with his cuff still damp.
+
+Lise saw it before asking about the duke. “Did it rain in the workshop?”
+
+“We tested the first pump.”
+
+His sister waited. Adrien, seated near the lamp, looked up as Elias began his account. He tried beginning with the dimensions and realized he was hiding the largest fact behind the part he knew how to describe well.
+
+“He created them. Whole. In front of us.”
+
+Lise lowered her sheet. She did not ask the question he had prepared about how it was possible. She asked how large they were. Elias showed her with his arms; he had to move a chair to keep the gesture from becoming a false description. Then he described the lever, the liners, and the weight on the bases.
+
+“I'd like to see them,” she said.
+
+“I have to ask Yselle.”
+
+“Can you ask?”
+
+“Yes.”
+
+Adrien wanted to know whether they already moved. Elias told him about the water on his cuff. His father's expression passed from wonder to recognition of his wet son without needing to choose between them.
+
+Lise picked up her sheet but did not start reading. “And you touched the first?”
+
+Elias looked at his hand. The lines of his fingers were clean. The mark now remained far from him on the metal.
+
+“Yes,” he said. “Before I knew what number it had.”

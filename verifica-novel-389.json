@@ -1,0 +1,111 @@
+{
+  "revision": 389,
+  "chapter_pairs": 40,
+  "continuous_readings_match": true,
+  "first_arc_wiki_texts_unchanged": true,
+  "it_words": 74218,
+  "en_words": 78596,
+  "it_min": 1809,
+  "it_max": 1925,
+  "en_min": 1855,
+  "en_max": 2073,
+  "protected_files_checked": 392,
+  "source_hashes_checked": 3362,
+  "errors": [],
+  "continuity": {
+    "revision": 389,
+    "first_arc_records_identical": true,
+    "chapter_count": 78,
+    "second_arc_chapters": 40,
+    "cast_ids_valid": true,
+    "dates_in_order": true,
+    "errors": []
+  },
+  "style": {
+    "IT": {
+      "quote_signals": [],
+      "repeated_long_paragraphs": []
+    },
+    "EN": {
+      "quote_signals": [],
+      "repeated_long_paragraphs": []
+    }
+  },
+  "editorial": {
+    "revision": 389,
+    "date": "2026-10-24",
+    "all_blocks_reviewed": true,
+    "cross_block_continuity_checked": true,
+    "blocks": {
+      "39–42": "Rilettura centrale integrale IT/EN, interventi editoriali e allineamento.",
+      "43–54": "Rilettura consecutiva dell’autore del blocco; controllo centrale delle scene decisive e raccordi42/55.",
+      "55–66": "Rilettura consecutiva dell’autore del blocco; controllo centrale del guasto, guarigione, finanze e ritorno.",
+      "67–75": "Rilettura consecutiva dell’autore del blocco; controlli incrociati66/76/78, conoscenze e corrispondenza.",
+      "76–78": "Rilettura centrale IT/EN e revisione indipendente completa; osservazioni minori risolte."
+    },
+    "central_full_it_read": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      45,
+      46,
+      48,
+      49,
+      54,
+      55,
+      56,
+      57,
+      58,
+      60,
+      65,
+      66,
+      67,
+      68,
+      69,
+      73,
+      75,
+      76,
+      77,
+      78
+    ],
+    "central_full_en_read": [
+      39,
+      40,
+      41,
+      42,
+      76,
+      77,
+      78
+    ],
+    "cross_checks": [
+      "58→67: lettera del6spedita7, già ricevuta daCelineprima delritorno8; raccordo esplicito IT/EN",
+      "45→46: incontroLiviadurantepausa e ritornoallavoro, nessuna EffigeArchive superiore",
+      "48: presentazioneAstrolabe daYselle prima della domanda delduca",
+      "53→54→55: pompa nuova ferma e intatta, guasto vecchia condotta, chiave in Noemi, ferita ancora aperta al termine54 e guarita55",
+      "49→50→60→65: tre pompe nuove numerate più prototipo originale distinto; dono determinato, riduzione capitale reale, debiti già assunti preservati",
+      "73→78: risposta partita10mattina e inoltrata da Yselle, accetta conversazione e chiede priorità;13giugno è proposta futura non confermata",
+      "77: sei corone pagate, non spese; Opened Threshold personale di Ruy II non consuma la Hinge e non avanza Elias",
+      "74→75→77→78: consegna mattutina, preparazione incontro ordinario serale, compenso al77, ritiro copia/risposta daYselle e lettura dei tre al78",
+      "66→67: unico passaggio fisico busta/libro, cambio POV, libro di meccanica coerente in entrambe le lingue",
+      "76–78: revisione indipendente completa IT/EN; corretti possesso attrezzi e velatura segnale, senza nuove capacità"
+    ],
+    "independent_report": "work/arc02_389/REVIEW_INDIPENDENTE_76_78.json",
+    "fixed_independent_findings": [
+      "Varek vela un segnale con ombra, lasciando accesa la lampada.",
+      "EN76 non attribuisce al duca gli attrezzi dei lavoratori.",
+      "Conteggi dei registri riallineati ai testi finali."
+    ],
+    "limits": "Revisione effettuata con agenti e regia centrale, non revisione umana indipendente né garanzia di perfezione letteraria."
+  },
+  "wiki_articles": 1779,
+  "local_links_checked": 157174,
+  "local_link_errors": 0,
+  "wiki_publication_pending_push": true,
+  "first_arc_edition_012_unchanged": true,
+  "current_novel_chapters": 78,
+  "new_arc3_not_written": true,
+  "zip_created": false,
+  "push_performed": false
+}

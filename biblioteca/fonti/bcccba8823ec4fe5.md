@@ -1,0 +1,131 @@
+# AVARENNE
+## Volume I — The Waking House
+### Capitolo 66 — La strada per Rovenne
+
+La lettera di Yselle arrivò per ultima, quando Teren aveva già controllato che nessuno avesse lasciato una sacca dentro l'officina.
+
+Alexander la prese dal tavolo. Sul lembo c'era una ditata grigia e sul davanti il nome di Celine, scritto con una cura che finiva in fretta all'ultima lettera. La mise nella tasca interna, separata dalle carte che non avrebbe avuto bisogno di aprire durante il viaggio.
+
+L'accordo della zia era firmato. Lei gliene aveva mostrato il risultato: il capitale ridotto, la garanzia delle azioni liberata, il lavoro già dovuto ancora riconosciuto. Alexander non portava con sé un titolo sulle macchine né una quota dell'impresa. Dietro di lui, sul pavimento dell'officina, le pompe due e tre rimanevano intere.
+
+Yselle gli porse anche il libro che aveva lasciato nella stanza degli ospiti.
+
+«Questo è tuo?»
+
+«Di Celine.»
+
+«Allora riportaglielo. Se lo dimentichi qui mi scriverà che l'ho sequestrato per impedire che legga cose interessanti.»
+
+Lui lo prese. Il segno era rimasto vicino all'inizio; non aveva letto quanto pensava. Celine avrebbe potuto chiedergli che cosa ne avesse fatto in tre giorni, e il fatto di aver cambiato un'officina non gli avrebbe fornito una buona risposta su quel capitolo.
+
+Noemi arrivò mentre Martin gli diceva dove aveva sistemato l'ultima sacca. Non corse. Si fermò al portone per lasciar passare una guardia che portava fuori una cassetta, poi si avvicinò con una busta tenuta piatta contro il fianco.
+
+«Prima che ve ne andiate.»
+
+Alexander riconobbe il foglio che aveva cominciato a scrivere dopo il guasto, adesso nascosto nella busta. «Le domande?»
+
+«Quelle che sono riuscita a mettere in ordine. Il resto, se vorrete, ve lo domando a voce.»
+
+Gliela consegnò. Il bordo della carta era stato piegato più volte e poi appiattito. Alexander non vi cercò una lista di persone già in attesa di una guarigione promessa. Noemi gli aveva portato il modo di cominciare a parlarne.
+
+«Le leggerò in viaggio», disse.
+
+«Non vi ho scritto che cosa dovete fare entro domani.»
+
+«L'ho capito.»
+
+La donna si guardò il polso, quasi infastidita da un'abitudine che non aveva ancora perso. La pelle era integra. Non aveva dovuto tenere il braccio fermo per conservare il risultato.
+
+«C'è una domanda mia», disse.
+
+Alexander annuì senza chiederle di pronunciarla davanti a Yselle e agli uomini in partenza. Noemi abbassò la voce ugualmente, ma non fino al segreto.
+
+«Vorrei parlarne senza venire a rappresentare tutti gli altri.»
+
+«Allora parleremo di voi.»
+
+Il sollievo non le cancellò la paura. Le permise di sorridere. «Per l'acqua, invece, posso parlare per tutta la casa. Stamattina ho dovuto cercare una persona che prima trovavo sempre sulle scale con due secchi.»
+
+Yselle le domandò dove fosse andata. Noemi spiegò un compito diverso, rimasto a lungo in attesa di qualcuno che avesse le mani libere. Martin rise della puntualità con cui il lavoro trovava il tempo liberato. Il risultato non diventava più piccolo per questo: non c'era più quel peso da portare su.
+
+Alexander mise la busta delle domande accanto alla lettera per Celine. Avrebbe dovuto parlarne con Mirel quando avesse avuto modo di organizzare incontri futuri. Non aveva già visitato le persone che Noemi conosceva, né i loro nomi gli avrebbero dato accesso ai corpi. Aveva invece una capacità reale da mettere a disposizione e il desiderio, altrettanto reale, di non lasciarla confinata a un taglio visto per caso.
+
+Teren si avvicinò. «Siamo pronti.»
+
+Le due guardie aspettavano con i cavalli. Il cocchiere era al proprio posto; la carrozza aveva ripreso l'odore del cuoio scaldato e della strada. Alexander salutò Martin, poi abbracciò la zia. Yselle gli tenne una mano sul braccio un istante più a lungo della stretta necessaria.
+
+«Scrivi quando sei arrivato.»
+
+«Celine lo farà prima di me.»
+
+«Non era una concessione a rispondere attraverso tua sorella.»
+
+Lui promise una notizia propria. Martin gli disse di non giudicare la cucina dell'intera casa dalla fetta di pane bruciata; Noemi domandò se quel pane fosse già entrato nella lettera. Yselle rispose che ormai era un fatto documentato.
+
+Alexander salì portando il libro con sé. Teren si sedette di fronte. Una guardia mosse davanti alla carrozza, l'altra rimase indietro; il cocchiere guidò i cavalli fuori dal cortile e imboccò la strada per Rovenne.
+
+La città non si allontanò tutta insieme. Prima passarono davanti a portoni che Alexander aveva imparato a riconoscere, poi le botteghe si fecero meno fitte e comparvero spazi fra gli edifici. Un carro carico di botti costrinse tutti ad aspettare a un restringimento. Teren aprì lo sportello quanto bastava a parlare al cocchiere; la guardia davanti tornò a indicare il punto in cui si sarebbe potuto passare.
+
+Alexander guardò il bordo delle ruote dell'altro carro. Sarebbero bastati pochi movimenti perché l'uomo riuscisse a liberare la strada, ma una botte mal fissata gli impediva di arretrare come voleva. Scese un secondo uomo, spinse la cinghia nella posizione giusta e gli fece segno. Il carro si mosse. Passarono senza che nessuno avesse dovuto riconoscere chi si trovava dietro i vetri.
+
+Il ritardo aggiunse qualche minuto a un viaggio che ne avrebbe richiesti molti altri. Ventitré chilometri avevano lo spazio per contenere una sosta, una curva troppo stretta, il rumore dei cavalli che cambiava quando il fondo diventava più duro. Alexander appoggiò il libro sul ginocchio e aprì la busta di Noemi.
+
+La prima domanda riguardava il luogo delle visite. La seconda chiedeva se si potesse parlare senza dover cominciare subito. La terza era stata scritta con una pressione diversa della penna: che cosa avrebbe dovuto raccontare di sé una persona che portava una protesi da anni?
+
+Alexander rilesse l'ultima frase. Non gli chiedeva di nascondere la propria potenza o di fingere che una lesione vecchia fosse per forza irrecuperabile. Gli chiedeva come entrare nella possibilità di qualcosa che lei aveva smesso di aspettarsi. Il foglio continuava oltre, con altre osservazioni e il desiderio di un incontro senza una stanza allagata intorno.
+
+Lo ripiegò senza aggiungere risposte sul margine. Avrebbe scritto a Noemi dopo aver scelto come organizzare il colloquio, con un recapito e una disponibilità veri. La guarigione del braccio restava un fatto; il futuro dell'altra richiesta non era ancora una visita compiuta.
+
+Teren lo osservò riporre la busta. «Dovrò prevedere un altro viaggio?»
+
+«Forse. Non è fissato.»
+
+«Avvisatemi quando lo sarà.»
+
+«Lo farò.»
+
+Il responsabile della sicurezza tornò a guardare la strada. Non gli domandò di riferire le domande della donna. Alexander aprì il libro di Celine e trovò, dopo poche righe, un passaggio che non ricordava pur avendolo già letto. Ripartì dal capoverso precedente e questa volta lo seguì fino in fondo.
+
+Un sobbalzo gli fece perdere la riga. Teren guardò il libro e gli domandò se fosse un documento da finire prima dell'arrivo.
+
+«Peggio. Mia sorella vorrà sapere che cosa ne penso.»
+
+Il responsabile della sicurezza sorrise senza distogliere a lungo gli occhi dal finestrino. Alexander gli mostrò una figura: una leva sollevava un carico appoggiandosi al fulcro indicato da un triangolo. Teren gli domandò se il terreno sotto quell'appoggio fosse duro.
+
+«Nel disegno è dato per fermo.»
+
+«Allora ha scelto una strada migliore della nostra.»
+
+Alexander rise e cercò la riga perduta. Conosceva il rapporto fra le distanze dal fulcro; tornò invece alla legenda, seguendo il modo in cui il manuale lo rendeva leggibile a chi lo incontrava per la prima volta. Le frecce distinguevano peso e forza applicata. Indicò il punto a Teren, che tornò alla strada senza pretendere di discutere il calcolo. La carrozza prese una curva e i cavalli rallentarono sul fondo più sconnesso. Alexander tenne la pagina con una mano finché il movimento si fece regolare. Pensò alle domande che Celine avrebbe fatto guardando quella figura, e continuò a leggere anche le spiegazioni che avrebbe saputo riassumere da solo.
+
+Per un tratto il viaggio ebbe soltanto quello: parole di qualcun altro, ruote, il rumore di una briglia fuori dal finestrino. Nessuno attendeva che lui facesse apparire una risposta. Arrivato alla fine della pagina, si accorse di non aver guardato la strada per diversi minuti.
+
+La campagna offriva campi, recinzioni, fumo lontano. I ricordi del duca sapevano dare un'abitudine a quel paesaggio; Edran vedeva anche quello che non aveva ancora imparato a conoscere. Non ogni casa era una storia che possedeva perché ne riconosceva il tetto. Dietro alcune finestre qualcuno stava forse discutendo di una consegna; in altre nessuno sapeva che un duca fosse passato.
+
+Pensò ad Aurelie e alla lettera affidata la sera precedente. Poteva trovarsi già a destinazione o essere ancora nel percorso ordinario delle consegne. La strada non gli offriva notizie di lei. Non le cercò nelle facce dei passanti, come se il mondo dovesse aver organizzato un segnale per ogni domanda che si era deciso a fare.
+
+A metà del tragitto si fermarono brevemente per i cavalli. Teren scese e parlò con una guardia; l'altra restò dove poteva vedere la strada. Alexander mise il segno nel libro, controllò le due buste nella tasca e bevve l'acqua che gli era stata preparata. Quando la carrozza ripartì, la luce aveva cambiato lato sui sedili.
+
+Non aveva bisogno che la forza del proprio corpo diminuisse per sentire il peso di una giornata. Aveva detto addio a persone che voleva rivedere, ricevuto una fiducia che chiedeva tempo, spedito una domanda di cui non conosceva la risposta. Poteva reggere il metallo senza fatica e desiderare comunque una sedia quieta, senza che qualcuno leggesse quell'istante come una misura dei suoi poteri.
+
+Rovenne comparve dopo poco più di tre ore e mezza, quando le ombre si erano allungate abbastanza da cambiare il disegno dei muri. La guardia davanti rallentò all'ingresso, il cocchiere riconobbe il percorso verso casa. Alexander chiuse il libro e guardò la finestra dalla quale Celine aveva seguito la partenza.
+
+Maurice lo aspettava quando la carrozza si fermò. Non si precipitò al predellino; si fece dare la sacca che Alexander non avrebbe avuto bisogno di portare dentro e gli domandò se avessero avuto inconvenienti.
+
+«Soltanto un carro che non voleva spostarsi.»
+
+Teren confermò che il viaggio si era svolto regolarmente, poi si occupò degli uomini e dei cavalli. Le due guardie non scomparvero appena il duca fu al sicuro oltre la porta. Alexander le vide scambiarsi poche parole prima che una si allontanasse col cocchiere.
+
+L'aria della casa aveva un odore che le memorie riconobbero prima di lui. Maurice gli indicò il posto dove lasciare la giacca e gli suggerì di sedersi mentre facevano portare qualcosa da bere. Alexander accettò. Sul polsino scuro c'era una riga chiara di polvere; la guardò e pensò che Celine avrebbe saputo trovare la strada intera anche in quella macchia.
+
+«Dov'è?» chiese.
+
+Maurice non ebbe bisogno del nome. «Vicino alla biblioteca. Ha sentito arrivare la carrozza.»
+
+Alexander si alzò dopo aver bevuto. Prese il libro e la lettera con la ditata grigia; lasciò nella propria cartella la busta di Noemi, perché le domande non si mescolassero alle notizie di famiglia.
+
+Celine lo incontrò nel passaggio, prima che raggiungesse la biblioteca. Guardò il libro, poi la tasca dalla quale lui stava estraendo la lettera.
+
+«La zia ha risposto?»
+
+Alexander le porse la busta insieme al volume che gli aveva prestato. Lei prese soltanto la lettera.
